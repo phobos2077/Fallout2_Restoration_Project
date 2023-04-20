@@ -1,0 +1,80 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+
+/******************************************************************************************
+        Item: Box For Outfitter
+        Location : Broken Hills
+        Description: This box is for the Outfitter's Goods
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: August 21, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "hioutbox"
+#include "../headers/define.h"
+#include "../headers/broken1.h"
+
+#define NAME                    SCRIPT_HIOUTBOX
+
+#include "../headers/command.h"
+/* Defines and Macros */
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1)  //added by killap
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable broken_hills_outfitter_box;
+
+procedure start begin
+   broken_hills_outfitter_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   broken_hills_outfitter_box := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_BOTTLE_CAPS, 100, 500, 100)
+         check_restock_item(PID_223_FMJ, 0, 3, 25)
+         check_restock_item(PID_45_CALIBER_AMMO, 0, 2, 25)
+         check_restock_item(PID_10MM_AP, 1, 3, 30)
+         check_restock_item(PID_10MM_JHP, 2, 5, 40)
+         check_restock_item(PID_10MM_PISTOL, 1, 5, 65)
+         check_restock_item(PID_10MM_SMG, 0, 3, 45)
+         check_restock_item(PID_SHOTGUN_SHELLS, 2, 4, 50)
+         check_restock_item(PID_5MM_JHP, 0, 3, 35)
+         check_restock_item(PID_7_62MM_AMMO, 2, 4, 40)
+         check_restock_item(PID_FLARE, 1, 5, 85)
+         check_restock_item(PID_HUNTING_RIFLE, 0, 2, 25)
+         check_restock_item(PID_ROPE, 1, 3, 70)
+         check_restock_item(PID_SHOTGUN, 1, 2, 50)
+         check_restock_item(PID_SHOVEL, 1, 3, 70)
+         check_restock_item(PID_SMALL_ENERGY_CELL, 0, 1, 25)
+         check_restock_item(PID_MULTI_TOOL, 0, 1, 35)
+         set_local_var(LVAR_Restock_Time, (3 * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   broken_hills_outfitter_box := self_obj;
+end

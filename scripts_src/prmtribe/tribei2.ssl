@@ -1,0 +1,107 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "tribei2"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_TRIBEI2
+
+#include "../headers/command.h"
+#include "../headers/merchant.h"
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drop_p_proc;
+
+procedure start begin
+end
+
+procedure Node999;
+procedure Node900;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+
+procedure pickup_p_proc begin
+   if (not(combat_is_initialized)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+   script_overrides;
+end
+
+procedure destroy_p_proc begin
+
+end
+
+procedure drop_p_proc begin
+
+end
+
+procedure use_p_proc begin
+   if (not(combat_is_initialized)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101 + map_var(MVAR_Goods_Fake)));
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node900,004);
+   NOption(202,Node999,004);
+end
+
+procedure Node900 begin
+   if (dude_perception > 6) then
+      call Node003;
+   else
+      call Node002;
+end
+
+procedure Node002 begin
+   Reply(203);
+   NOption(204,Node999,004);
+end
+
+procedure Node003 begin
+   set_map_var(MVAR_Goods_Fake,1);
+   Reply(205);
+   NOption(206,Node999,004);
+end

@@ -1,0 +1,67 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai15"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI15          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure damage_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+
+
+import variable cell3_obj;
+
+procedure start begin
+   cell3_obj := self_obj;
+end
+
+procedure enter_p_proc begin
+   cell3_obj := self_obj;
+end
+
+procedure update_p_proc begin
+   cell3_obj := self_obj;
+end
+
+procedure damage_p_proc
+begin
+  variable LVar1 := 0;
+
+  if (weapon_dmg_type(target_obj) == 6) then
+  begin
+    LVar1 := random(10, 20);
+    explosion(self_tile, self_elevation, LVar1);
+    set_global_var(GVAR_FREE_EPASLAVES, 1);
+    destroy_object(self_obj);
+  end
+end
+
+procedure use_p_proc
+begin
+end
+
+
+procedure destroy_p_proc
+begin
+end
+
+procedure timed_event_p_proc begin
+  if (fixed_param == 1) then begin
+      cell3_obj := 0;
+      destroy_object(self_obj);
+  end
+end

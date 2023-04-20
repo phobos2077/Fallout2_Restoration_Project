@@ -1,0 +1,456 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Map Script for Sierra Army Base, Outside area
+*/
+
+#define SCRIPT_REALNAME "depolva"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_DEPOLV1
+
+#include "../headers/command.h"
+#include "../headers/depolvz.h"
+#include "../headers/newreno.h"
+
+
+// Timer in Seconds
+#define TIMER_LEVEL_4           (600)                                   // In ticks
+#define TIMER_LEVEL_3           (600+TIMER_LEVEL_4)                     // In Ticks
+#define TIMER_LEVEL_2           (600+TIMER_LEVEL_3)                     // In Ticks
+#define TIMER_LEVEL_1           (600+TIMER_LEVEL_2)                     // In Ticks
+
+#define Show_Time(x,y)          if (x == 1) then                                \
+                                    if (y == 1) then                            \
+                                        display_msg(x+mstr(114)+y+mstr(115));   \
+                                    else                                        \
+                                        display_msg(x+mstr(114)+y+mstr(113));   \
+                                else if (y == 1) then                           \
+                                    display_msg(x+mstr(112)+y+mstr(115));       \
+                                else                                            \
+                                    display_msg(x+mstr(112)+y+mstr(113))
+
+#define Total_Missile_Bots      (map_var(MVAR_Level1_Tough_Bots)+map_var(MVAR_Level2_Tough_Bots)+map_var(MVAR_Level3_Tough_Bots))
+#define Total_Robobrains        (map_var(MVAR_Level1_Robobrain)+map_var(MVAR_Level2_Robobrain)+map_var(MVAR_Level3_Robobrain))
+#define Total_Eyeballs          (map_var(MVAR_Level1_Eyeball)+map_var(MVAR_Level2_Eyeball)+map_var(MVAR_Level3_Eyeball))
+
+#define Twelve_Hours            12*ONE_GAME_HOUR
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure CountDown;
+procedure Check_Countdown;
+procedure Rebuild_Missile_Bots;
+procedure Rebuild_Robobrains;
+procedure Rebuild_Eyeballs;
+
+export variable Field1a_Ptr;
+export variable Field1b_Ptr;
+export variable Field1c_Ptr;
+export variable Field1d_Ptr;
+export variable Field1e_Ptr;
+
+export variable Field2a_Ptr;
+export variable Field2b_Ptr;
+export variable Field2c_Ptr;
+export variable Field2d_Ptr;
+
+export variable Field3a_Ptr;
+export variable Field3b_Ptr;
+
+export variable repair_bot1;
+export variable repair_bot2;
+export variable repair_bot3;
+
+variable bot_rebuild_count :=0;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable Time_Restocked;
+   set_sad_done;
+
+   bot_rebuild_count :=0;
+
+   //added by killap - expansion
+   if (gvar_bit(GVAR_LOAD_MAP_INDEX, REPAIR_BOT1_DEAD)) then begin
+      repair_bot1 := -1;
+   end
+   if (gvar_bit(GVAR_LOAD_MAP_INDEX, REPAIR_BOT2_DEAD)) then begin
+      repair_bot2 := -2;
+   end
+   if (gvar_bit(GVAR_LOAD_MAP_INDEX, REPAIR_BOT3_DEAD)) then begin
+      repair_bot3 := -3;
+   end
+   //end added
+
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then begin              // Power Off
+       set_light_level(40);
+   end
+   else begin
+       set_light_level(70);
+   end
+
+   call Check_Countdown;
+
+
+   Time_Restocked:=game_time-map_var(MVAR_Last_Restock);
+
+   if ((map_var(MVAR_Repair_Request1) != -1) and (Time_Restocked > Twelve_Hours) /*and (not(is_loading_game))*/) then begin //added MVAR_Repair_Request1 check
+       set_map_var(MVAR_Last_Restock,game_time); //added by killap
+       ndebug("Total_Missile_Bots: "+Total_Missile_Bots);
+       if (Total_Missile_Bots > 0) then begin
+           call Rebuild_Missile_Bots;
+       end
+       ndebug("Total_Robobrains: "+Total_Robobrains);
+       if (Total_Robobrains > 0) then begin
+           call Rebuild_Robobrains;
+       end
+       ndebug("Total_Eyeballs: "+Total_Eyeballs);
+       if (Total_Eyeballs > 0) then begin
+           call Rebuild_Eyeballs;
+       end
+   end
+
+   sierra_update_klaxons;
+end
+
+procedure map_update_p_proc begin
+   //added by killap - expansion
+   if ( (dude_elevation == 1) and sierra_security_on and (map_var(MVAR_Free_Bots) != 0) and (map_var(MVAR_Robot_Activation) == 0) ) then begin
+      set_map_var(MVAR_Robot_Activation,1);
+   end
+   //end added
+
+   if (global_var(GVAR_SIERRA_BASE_POWER) == 1) then begin              // Power Off
+       set_light_level(40);
+   end
+   else begin
+       set_light_level(70);
+   end
+
+   call Check_Countdown;
+end
+
+procedure Check_Countdown begin
+   if (global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER) != 0) then begin
+       call CountDown;
+   end
+
+   if (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) != BREACH_NONE) then begin
+       if ((dude_elevation == 2) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_3)) then begin
+           critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
+       end
+
+       if ((dude_elevation == 1) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_2)) then begin
+           critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
+       end
+
+       if ((dude_elevation == 0) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_1)) then begin
+           critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
+       end
+   end
+end
+
+procedure CountDown begin
+   variable minute;
+   variable second;
+   variable total_time;
+   variable level_one;
+   variable level_two;
+   variable level_three;
+   variable level_four;
+
+   total_time:=game_time-global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER);
+
+/*   level_four:=total_time-TIMER_LEVEL_4;
+   level_three:=total_time-TIMER_LEVEL_3;
+   level_two:=total_time-TIMER_LEVEL_2;
+   level_one:=total_time-TIMER_LEVEL_1;
+*/
+
+/* --COMMENT OUT BY KILLAP
+   level_four:=TIMER_LEVEL_1-total_time;
+   level_three:=TIMER_LEVEL_2-total_time;
+   level_two:=TIMER_LEVEL_3-total_time;
+   level_one:=TIMER_LEVEL_4-total_time;*/
+
+   //edit by killap
+   level_four:=TIMER_LEVEL_1-total_time;
+   level_three:=TIMER_LEVEL_1-total_time;
+   level_two:=TIMER_LEVEL_1-total_time;
+   level_one:=TIMER_LEVEL_1-total_time;
+   //end edit
+
+   //if (global_var(global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER)) != 0) then begin
+   if (global_var(GVAR_SIERRA_BASE_CONTAMINATION_TIMER) != 0) then begin //edit by killap
+       display_msg(mstr(100));
+   end
+
+   if (total_time < TIMER_LEVEL_4) then begin
+       minute:=level_four/ONE_GAME_MINUTE;
+       second:=(level_four % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(101));
+       Show_Time(minute,second);
+   end
+
+   else if ((total_time >= TIMER_LEVEL_4) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_NONE)) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_4);
+       display_msg(mstr(102));
+       display_msg(mstr(103));
+   end
+
+   else if (total_time < TIMER_LEVEL_3) then begin
+       minute:=level_three/ONE_GAME_MINUTE;
+       second:=(level_three % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(104));
+       Show_Time(minute,second);
+   end
+
+   else if ((total_time >= TIMER_LEVEL_3) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_LEVEL_4)) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_3);
+       display_msg(mstr(105));
+       display_msg(mstr(106));
+   end
+
+   else if (total_time < TIMER_LEVEL_2) then begin
+       minute:=level_two/ONE_GAME_MINUTE;
+       second:=(level_two % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(107));
+       Show_Time(minute,second);
+   end
+
+   else if ((total_time >= TIMER_LEVEL_2) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_LEVEL_3)) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_2);
+       display_msg(mstr(108));
+       display_msg(mstr(109));
+   end
+
+   else if (total_time < TIMER_LEVEL_1) then begin
+       minute:=level_one/ONE_GAME_MINUTE;
+       second:=(level_one % ONE_GAME_MINUTE)/ONE_GAME_SECOND;
+       display_msg(mstr(110));
+       Show_Time(minute,second);
+   end
+
+   else if (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) == BREACH_LEVEL_2) then begin
+       set_global_var(GVAR_SIERRA_BASE_LEVEL_BREACH,BREACH_LEVEL_1);
+       display_msg(mstr(111)); //edit by killap - was 113
+   end
+end
+
+procedure Rebuild_Missile_Bots begin
+   //variable Critter_Hex:=0;
+   variable Bot;
+
+   ndebug("Restock Missile Bots: Level 1 == "+map_var(MVAR_Level1_Tough_Bots)+". Level 2 == "+map_var(MVAR_Level2_Tough_Bots)+". Level 3 == "+map_var(MVAR_Level3_Tough_Bots)+".");
+
+   while (map_var(MVAR_Level1_Tough_Bots) > 0) do begin
+       //Critter_Hex:=0;
+       Next_Hex_0;
+       Bot:=create_object_sid(PID_TOUGH_MISSILE_BOT,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_0),random(0,5),random(0,1));
+       //end
+       dec_map_var(MVAR_Level1_Tough_Bots);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_0),0);
+       bot_rebuild_count+=1;
+   end
+
+   if (map_var(MVAR_Level1_Tough_Bots) > 0) then begin
+       ndebug("Error in While Loop Counter 1");
+   end
+
+   //Critter_Hex:=0;
+
+   while (map_var(MVAR_Level2_Tough_Bots) > 0) do begin
+       //Critter_Hex:=0;
+       Next_Hex_1;
+       Bot:=create_object_sid(PID_TOUGH_MISSILE_BOT,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_1),random(0,5),random(0,1));
+       //end
+       dec_map_var(MVAR_Level2_Tough_Bots);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_1),1);
+       bot_rebuild_count+=1;
+   end
+
+   if (map_var(MVAR_Level2_Tough_Bots) > 0) then begin
+       ndebug("Error in While Loop Counter 2");
+   end
+
+   //Critter_Hex:=0;
+
+   while (map_var(MVAR_Level3_Tough_Bots) > 0) do begin
+       //Critter_Hex:=0;
+       Next_Hex_2;
+       Bot:=create_object_sid(PID_TOUGH_MISSILE_BOT,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_2),random(0,5),random(0,1));
+       //end
+       dec_map_var(MVAR_Level3_Tough_Bots);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_2),2);
+       bot_rebuild_count+=1;
+       ndebug("missle: " + map_var(MVAR_Last_Spot_2));
+   end
+
+   if (map_var(MVAR_Level3_Tough_Bots) > 0) then begin
+       ndebug("Error in While Loop Counter 3");
+   end
+
+end
+
+procedure Rebuild_Robobrains begin
+//PID_ROBOBRAIN
+   //variable Critter_Hex:=0;
+   variable Bot;
+   variable item;
+
+   ndebug("Restock Robobrains: Level 1 == "+map_var(MVAR_Level1_Robobrain)+". Level 2 == "+map_var(MVAR_Level2_Robobrain)+". Level 3 == "+map_var(MVAR_Level3_Robobrain)+".");
+
+   while (map_var(MVAR_Level1_Robobrain) > 0) do begin
+       //Critter_Hex:=0;
+       Next_Hex_0;
+       Bot:=create_object_sid(PID_ROBOBRAIN,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    ndebug("rebuild: " + map_var(MVAR_Last_Spot_0));
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_0),random(0,5),random(0,1));
+       //end
+       dec_map_var(MVAR_Level1_Robobrain);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_0),0);
+       bot_rebuild_count+=1;
+       item:=create_object(PID_MOTOR,0,0);
+       add_obj_to_inven(Bot,item);
+   end
+
+   if (map_var(MVAR_Level1_Robobrain) > 0) then begin
+       ndebug("Error in While Loop Counter 1");
+   end
+
+   //Critter_Hex:=0;
+
+   while (map_var(MVAR_Level2_Robobrain) > 0) do begin //edit by killap - was MVAR_Level1_Robobrain
+       //Critter_Hex:=0;
+       while (bot_rebuild_count < 17) do begin
+         Next_Hex_1;
+         bot_rebuild_count+=1;
+       end
+       Next_Hex_1;
+       Bot:=create_object_sid(PID_ROBOBRAIN,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_1),random(0,5),random(0,1));
+       //end
+       dec_map_var(MVAR_Level2_Robobrain);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_1),1);
+       bot_rebuild_count+=1;
+       item:=create_object(PID_MOTOR,0,0);
+       add_obj_to_inven(Bot,item);
+   end
+
+   if (map_var(MVAR_Level2_Robobrain) > 0) then begin
+       ndebug("Error in While Loop Counter 2");
+   end
+
+   //Critter_Hex:=0;
+
+   while (map_var(MVAR_Level3_Robobrain) > 0) do begin
+       //Critter_Hex:=0;
+       while (bot_rebuild_count < 8) do begin
+         Next_Hex_2;
+         bot_rebuild_count+=1;
+       end
+       Next_Hex_2;
+       Bot:=create_object_sid(PID_ROBOBRAIN,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_2),random(0,5),random(0,1));
+       //end
+       dec_map_var(MVAR_Level3_Robobrain);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_2),2);
+       bot_rebuild_count+=1;
+       ndebug("robo: " + map_var(MVAR_Last_Spot_2));
+   end
+
+   if (map_var(MVAR_Level3_Robobrain) > 0) then begin
+       ndebug("Error in While Loop Counter 3");
+   end
+
+end
+
+procedure Rebuild_Eyeballs begin
+//PID_EYEBALL
+   //variable Critter_Hex:=0;
+   variable Bot;
+
+   ndebug("Restock Eyeballs: Level 1 == "+map_var(MVAR_Level1_Eyeball)+". Level 2 == "+map_var(MVAR_Level2_Eyeball)+". Level 3 == "+map_var(MVAR_Level3_Eyeball)+".");
+
+   while (map_var(MVAR_Level1_Eyeball) > 0) do begin
+       //Critter_Hex:=0;
+       while (bot_rebuild_count < 4) do begin
+         Next_Hex_0;
+         bot_rebuild_count+=1;
+       end
+       Next_Hex_0;
+       Bot:=create_object_sid(PID_EYEBALL,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_0),0,random(0,1));
+       //end
+       dec_map_var(MVAR_Level1_Eyeball);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_0),0);
+       bot_rebuild_count+=1;
+   end
+
+   if (map_var(MVAR_Level1_Eyeball) > 0) then begin
+       ndebug("Error in While Loop Counter 1");
+   end
+
+   //Critter_Hex:=0;
+
+   while (map_var(MVAR_Level2_Eyeball) > 0) do begin
+       //Critter_Hex:=0;
+       while (bot_rebuild_count < 21) do begin
+         Next_Hex_1;
+         bot_rebuild_count+=1;
+       end
+       Next_Hex_1;
+       Bot:=create_object_sid(PID_EYEBALL,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_1),0,random(0,1));
+       //end
+       dec_map_var(MVAR_Level2_Eyeball);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_1),1);
+       bot_rebuild_count+=1;
+   end
+
+   if (map_var(MVAR_Level2_Eyeball) > 0) then begin
+       ndebug("Error in While Loop Counter 2");
+   end
+
+   //Critter_Hex:=0;
+
+   while (map_var(MVAR_Level3_Eyeball) > 0) do begin
+       //Critter_Hex:=0;
+       while (bot_rebuild_count < 10) do begin
+         Next_Hex_2;
+         bot_rebuild_count+=1;
+       end
+       Next_Hex_2;
+       Bot:=create_object_sid(PID_EYEBALL,0,0,SCRIPT_WCSECBOT);
+       //while (Critter_Hex <= 0) do begin
+       //    Critter_Hex:=tile_num_in_direction(map_var(MVAR_Last_Spot_2),0,random(0,1));
+       //end
+       dec_map_var(MVAR_Level3_Eyeball);
+       critter_attempt_placement(Bot,map_var(MVAR_Last_Spot_2),2);
+       bot_rebuild_count+=1;
+       ndebug("eye: " + map_var(MVAR_Last_Spot_2));
+   end
+
+   if (map_var(MVAR_Level3_Tough_Bots) > 0) then begin
+       ndebug("Error in While Loop Counter 3");
+   end
+
+end

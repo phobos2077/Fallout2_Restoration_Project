@@ -1,0 +1,505 @@
+;
+; Fallout 2 team quotes
+;
+; Begun 10/22/97
+;
+; The fonts used to display this file are the reverse of the
+; credits.txt file.  In other words, the font used to display
+; titles in credits.txt (the lines with the '@') is the font
+; used to display these quotes.  Putting an '@' at the start of
+; a line in this file will use the font used to display the
+; names in the credits.txt file (currently 104).
+;
+; Max line length with the current font (103) is about 63.
+; Anything longer than that won't be displayed, as it won't fit
+; on the screen.
+;
+; All lines are automatically centered on the display.
+;
+; See top of credits.txt for additional info.
+;
+@Wypowiedzi ekipy Fallout 2:
+(Naciśnij ESC, jeżeli nie chcesz czytać ostrych momentami wypowiedzi)
+
+
+
+Chcesz zobaczyć mój sprzęt?
+- Nick
+
+Widziałem, gdzie go wsadziłeś.
+- Scotty
+
+Nigdy nie miałem czegoś tak wielkiego.
+- T. Ray
+
+Chcesz dotknąć i poczuć coś naprawdę mocnego?
+- Courtney
+
+Większość ludzi nie ma dziury o średnicy 22 cali.
+- Tim
+
+Dzisiaj nie pójdę do prostytutki.
+- Tim
+
+Nic na to nie poradzę! Są tutaj dwie dziury
+i to się na pewno do jednej z nich nie zmieści!
+- Scotty
+
+Potrafisz policzyć, ile razy w grze uprawiasz seks?
+- Chris A.
+
+Z Barneyem jest wszystko w porządku...Nie wierzę, że właśnie to powiedziałem!
+- Chris T.
+
+Jeżeli chcesz, pójdę wybatożyć mojego 19-calowego.
+- Jesse
+
+Wkładam sobie do buzi wiele rzeczy, których prawdopodobnie nie powinienem tam wkładać.
+- Scotty
+
+Zaczynam uważać, że ludzie od marketingu są przekleństwem wszechświata. Kiedyś myślałem, że są nim prawnicy.
+- Anonymous
+
+Nie zdziwiło mnie to, że wydawałeś z siebie odgłosy kaczki. Zdziwiło
+mnie to, że *nie* zdziwiło mnie to, że wydawałeś z siebie odgłosy kaczki.
+- Fred H.
+
+
+Nie dotknąłem tego przez cały ranek!
+- Tom F.
+No to teraz dostaniesz klapsa!
+- Fred H.
+
+
+Niech zgadnę, znowu potrzebujesz chusteczki?
+- Rob H.
+
+Ta rzecz ma w sobie coś nieprzyjemnego, coś, czego w chwili obecnej nie da się dostrzec.
+Wprowadzić pozostałych...chcę również zasmakować w *ich* bezsmakowości.
+- Matt N.
+
+Tak, jestem ciotą.
+- Scotty
+
+Przepraszam, mój komputer będzie miauczał przez następne
+pięć minut.
+- Jesse
+
+Jak ja to zrobilem? Sprawiłem, że stało sie większe!
+- Nick
+
+Jestem w pewnym sensie analny na ten temat...  Jestem analny na każdy temat...
+JESTEM CZŁOWIEK-ANAL!!
+- Scotty
+
+Jest wielka różnica między Świętem Dziękczynienia a Burger Kingiem.
+- Mark H.
+
+Nie robienie niczego źle jest całkiem dobrym pomysłem.
+- Scotty
+
+
+Mam owcę. Co można zrobić z owcą?
+- Scotty
+
+Myślę, że Chris A. sprzęt…do…tego…seksu.
+- Rob H.
+
+Jesse codziennie oślepia ludzi...
+- Rob H.
+
+Scotty, jesteś lepszy niż losowy fraktal.
+- Anonymous
+
+KOCHAM owce!
+- Greg B.
+
+Inne rzeczy też wsadzam sobie do buzi...
+- Feargus
+
+
+Właściwie to nie bardzo chce mi się iść...chyba, że będzie
+dużo penetracji.
+- Dave
+Taa, powineneś zobaczyć taśmę...
+- Fred
+
+
+Spanie jest o *wiele* lepsze od poruszania się.
+- Nick
+
+Wstukujesz SUCK i po chwili widzisz moje imię, adres i odbyte
+kary.
+- John D.
+
+*JA* uważam, że warto wydać dolara za 3 dni snu na jawie.
+- Fred
+
+Musimy tam umieścić dziwki, tak żeby gracz miał koło kogo się obudzić,
+jeżeli nie śpi z Jenny.
+- Matt
+
+Czy są jakieś skrypty, z którymi można uprawiać seks?
+- Tom
+
+Celowałem w jego krocze i wciąż chybiałem!
+- Jesse
+
+Nigdy nie odczepię się ani od tego, ani od majteczek.
+- Nick
+
+Nie potrafię sprawić, żeby Jenny ze mną rozmawiała po seksie...
+- Nick
+
+No cóż, zawsze mogę po prostu odciąć mu nos i patrzeć...
+- Jesse
+
+Ja...ja...ja nie mam nikogo, żeby być wobec niego zgorzkniałym!
+- Nick
+
+Niniejszym ogłaszam środę Dniem Koguta.
+- Feargus
+
+Stary, aleś *ty* biały.
+- T-Ray
+
+Dostałem dwa całusy i parę innych rzeczy.
+- Fred H.
+
+Wolę zobaczyć coś takiego niż konwent Staników(tm).
+- Tom
+
+Rozmiar nie ma dla mnie znaczenia.
+- Rob H.
+
+Proszę, twórzcie pode mnie.
+- Matt N.
+
+Miałem dziś w nocy Darrena i chciałem się upewnić, czy jeżeli coś poszło nie tak, to będę mógł to później oddać.
+- Scotty
+
+Jeżeli chcesz zobaczyć penisa Godzilli, idź do biura Toma F.
+- John D.
+
+Za każdym raziem, gdy dotykasz mojej klawiatury, jest tak, jakbyś
+dotykał mnie.
+- Chris A.
+
+Gary? Jest, ale nie ma go w okolicy.
+- Scotty
+
+Cóż, on po prostu tak powiedział. Nie wiem, czy tak
+rzeczywiście jest, w końcu jest Anglikiem, a im nie wolno ufać.
+Oczywiście, *ja* też jestem Anglikiem.
+- Feargus
+
+Chodziło mi o “capnąć” w sensie “zwinąć”."
+- Chris A.
+
+Jesse jest większym ekspertem od sposobu działania narkotyków.
+- Nick
+
+Nie mam pojęcia, gdzie je upchnę.
+- Feargus
+
+Nie jestem głodny, ale muszę jeść, bo w domu niczego do jedzenia nie mam.
+- Nick
+
+Na czym polega twoja obsesja na punkcie Dilberta i nagości?
+- Evan C.
+
+Bład użytkownika! Błąd użytkownika! Mam dowód na to, że nie umiesz używać dziurkacza! Trzymaj się z dala od mojego dozownika taśm!
+- Scotty
+
+Au! Tylko nie moje włochate ramię!
+- Scotty
+
+Wsadź “b” do słowa “subtelny”.
+- Colin
+
+Bo to mój tyłek! *Wszyscy* się nim dzielicie!
+- Feargus
+
+Jestem tak spalony słońcem, że to już nawet nie jest śmieszne, a ja się przecież ledwo dotknąłem!
+- John D.
+
+Widzieliście Toma z owcą wczoraj wieczorem? Był BOGIEM! Nigdy nie widziałem nikogo, kto by się tak dobrze obchodził z owcami...
+- Jesse
+
+Nick jest twardy i pokręcony...tak jak przeciętny kabel.
+- Chris A.
+
+Co takiego w cyklach produkcyjnych zmusza mnie do płaczu?
+- Chris A.
+
+Chcesz go “zmarionetkować”?
+- Rob H.
+
+To wygląda prawie tak samo jak moje adzia-badzia świstu-chlastu.
+- Jeremey B.
+
+Nie mam czasu na twoją dykcję.
+- Chris A.
+
+Śpiewaj dalej, Nick…Jess…*kim* jesteś?
+- Gary
+
+Raku, trzymaj się z dala od mojego penisa!
+- Tom F.
+
+Obwiniam nawet twoich dziadków za to, że spłodzili twoich rodziców.
+- Tom F.
+
+Mam o wiele lepsze przeczucia dotyczące projektu, gdy się sprzeciwiam.
+- Scotty
+
+Jak ja wyciągnę stamtąd swoją głowę?
+- Scotty
+
+Właz: zaawansowana formuła bólu.
+- Scotty
+
+Ja zawsze całkiem nieźle radziłem sobie z owcami.
+- Dave
+
+Nie mogłem dziś rano znaleźć swojej łasicy i dlatego się spóźniłem.
+- Gary
+
+Scotty - On jest naszym odźwiernym.
+- Chris A.
+
+Czemu twój jest dużo większy od mojego? Aaa, bo to powiększenie.
+- Jesse
+
+Bez ubrań ja obyć się mogę!
+- Zeb
+
+O co chodzi z tym samonaprowadzającym się, eksplodującym braminem?
+- Greg B.
+
+Oto twoje nożyczki. Weź je, zanim zadźgam nimi Collina.
+- Tom F.
+
+Patrzcie, nawet potrafię cenzurować sam siebie!
+-Feargus
+
+Jak już mówiłem poprzedniej nocy, to nie ma nic wspólnego z byciem giętkim.
+- Fred H.
+
+Nie muszę oglądać zmasakrowanych, nagich kobiet.
+To znaczy…nieważne.
+- Greg B.
+
+Dziś ja robię za prezydenta.
+- Fred H.
+
+Jestem powolny…bo nie wiem, co robię!
+- Gary P.
+Mogę przyjść i wklepać to dla ciebie...
+- Eric Pribish
+
+Na znak kłopotów będę uciekać w poszukiwaniu schronienia niczym małe dziewczę.
+- Fred H.
+
+Jeżeli ma właściwe dane, zadziała automatycznie!
+- Jesse R.
+
+Pokażę ci, co to znaczy zostać dźgniętym w oko i umrzeć.
+- Nick K.
+
+Uwielbiam sposób, w jaki się ściskasz, kiedy się śmiejesz.
+- Matt N.
+
+Wystarczy napompować, żeby wystrzeliło?
+- Dave H.
+
+Mój mózg został usunięty, będąc kompletnie wyłączonym.
+- Dave H.
+
+Dan ma marsjanina, który jest znacznie czystszy.
+- Nick K.
+
+Wyjaśnij mi proszę, w jaki sposób zjedzenie kilku galonów boogersów jest zagadnieniem filozoficznym.
+- John D.
+
+Czy to możliwe, żeby sprawić, aby  narkotyki miały *poważne* efekty uboczne?
+- Nick K.
+
+
+Nie widzę problemu. Szczury nie robią "squee".
+- Matt N.
+Krowy robią "muuu", psy robią "hau, hau".
+- Chris J. (ten PRAWDZIWY)
+
+
+Byłem zdumiony, że mogę zrobić z nich coś tak małego.
+- Scotty
+To wciąż największe, jakie mamy. Może sobie z nimi poradzimy.
+- Fred
+
+Nick ma rację, spanie *jest* o wiele lepsze od poruszania się.
+- Jesse R.
+
+Ooooo, mogę podusić trochę smoka?
+- Dave H.
+
+Chciałbym ją przebić pociskiem słonecznym.
+- Dave H.
+
+Udało ci się zmusić twoje maleństwo do działania?
+- Feargus
+
+
+Chcesz pół szklanki, Demo?
+- Scotty
+Mówią o napojeniu sokiem kota Marka.
+To nie może być nic dobrego.
+- Jesse R.
+
+
+Chyba radzę sobie lepiej jako kobieta.
+- Chad A.
+
+Tak, sprawię, że to będzie boleć.
+- Scotty
+
+Nie dawaj Sulikowi flar, bo będzie próbował je połknąć, tak, jak prezydenckie nasiona.
+- Dany M.
+
+Właśnie grzmociłem “Dużego” Jesusa i chciałbym wam coś pokazać.
+- Chris A.
+
+Pogadam z Chadem, on już tyle razy wychodził za Sulika...
+- Nick K.
+
+Nie mamy tutaj do czynienia z naukowcami rakietowymi. Mamy do czynienia z graczami komputerowymi.
+- Chris A.
+
+A może po prostu skasujmy to wszystko i zacznijmy od nowa.
+- Chris H.
+
+Nie umiem naśladować głosu Nicka. Jestem zbyt męski.
+- Rodney S.
+
+To chyba trochę wykracza poza normalny pociąg, odczuwany przez mężczyzn w stosunku do kartek samoprzylepnych.
+- Greg B.
+
+Idę zerżnąć Roba. Właśnie teraz. Zasłużył sobie na to.
+Nie, nie rozumiesz - on mi bardzo pomógł. Załatwił tą sprawę z pniem
+- Dan S.
+
+Najpierw ich oślepię, a potem użyję różdżki.
+- Dave H.
+
+
+Uch. Oni znowu naśladują dźwięki wiewiórek.
+- Feargus
+
+Jaki dźwięk wydają z siebie nagie wiewiórki?
+- Dan S.
+
+
+Nie dałbyś mi żadnej szczęśliwej twarzy do Gecko, więc sam sobie jedną dałem.
+- Nick K.
+
+Nie znoszę kiedy dźgacie mnie widelcem w oko.
+- Fred H.
+
+Uwielbiam patrzeć. To takie fascynujące.
+- Dave H.
+
+Chcę być królową.
+- Doug A.
+
+Tak, i to dlatego właśnie łowcy nagród zamienili się w owocowe tabliczki.
+- Jesse R.
+
+Twój tata na pewno ma słodki tyłeczek.
+- Tom F.
+
+Wyjdź na zewnątrz, na ulicy jest szczur.
+To oszukiwany szczur.
+- Tom F.
+
+Wybaczcie, trochę sobie poskrzeczę pod nosem, zanim rozgrzejemy się na dobre.
+- Dan S.
+
+Idź teraz albo na zawsze będziesz musiał trzymać penisa Eda.
+- Tom F.
+
+Za pierwszym razem, kiedy spróbowałem, spędziłem na leżąco cały następny dzień.
+- Chris H.
+
+Będziemy na widoku jak jakieś bydło.
+- Dave H.
+
+Nie tylko znam się na sztuce, jestem również profesjonalnym stiptizerem.
+- Scotty
+
+Jestem głodny, bo jestem świnią.
+- Fred H.
+
+Jestem trochę wkurzony - nie dali mnie do pliku z cytatami.
+- Captain Victory
+
+Widzieliście moje pęknięcie? Jest zaraz tutaj. Jest olbrzymie.
+- Dave H.
+
+Nawet jeżeli ten kod działał prawidłowo, to i tak można było go złamać.
+- Chris H.
+
+Nie będę już nigdy wspominał o funkcjach fizjologicznych organizmu.
+- Matt N.
+
+Ciągle brak dwóch kuleczek?
+- Dave H.
+
+Właśnie widziałem, jak bramin robi kupkę!
+- Ed H.
+
+Nocą jestem torbaczem.
+- Tom F.
+Muszę przebadać twoją torbę.
+- Matt N.
+
+Szczurza piłka nożna; w takie gry grają ludzie z Kontroli Jakości.
+- Jesse R.
+
+Taa, no więc, nie wierzcie wszystkiemu, co możecie przeczytać w dokumentacji.
+- Chris A.
+
+Chodził sobie spokojnie i nagle był nagi.
+- Jesse R.
+
+Mogę nasikać do twojego śmietnika?
+- Greg B.
+
+Teraz jesteś już absolutnie pewien, że tu nie dochodzi do absolutnie żadnego stosunku seksualnego, tak?
+- Chris A.
+
+Zabieraj swoje łapy z mojego pudełka!
+- Jeremy B.
+
+Pozwól mi to wsadzić, to potem ci pokażę.
+- Scotty
+
+Uups, orgia została przerwana.
+- Tom F.
+
+Im bliżej terminu nadania przesyłki, tym bardziej zaczynamy przypominać Jima Morrisona.
+- Gary P.
+
+Tak, owszem, zgadzam się, żaba *rzeczywiście* wygląda bardziej wyrafinowanie z tylko *jednym* ananasem.
+- Jesse R.
+
+Mógłbyś rzucić okiem na ten pakiet tchórzliwej SI braminów? One oddają ciosy.
+- Tom F.
+
+Bawiłeś się już dzisiaj środkami wybuchowymi, Greg?
+- Dennis P.
+
+Czuję się jak jedna z tych ryb, co to są w całości pokryte łuskami.
+-Scotty
+
+Czemu twój jest w takim dobrym stanie? Czy to dlatego, że go nigdy nie używasz?
+- Jesse R.

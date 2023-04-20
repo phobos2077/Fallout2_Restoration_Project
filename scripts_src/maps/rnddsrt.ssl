@@ -1,0 +1,243 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: modMain
+        Location: Modoc
+        Description: Modoc main area
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "rnddsrt"
+#include "../headers/define.h"
+//#include "../headers/modmain.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_RNDDSRT
+
+#include "../headers/command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+procedure Initial_Inven;
+
+procedure start begin
+end
+
+procedure map_exit_p_proc begin
+   if (not car_out_of_fuel) then begin
+      if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
+          tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
+         ndebug("car_give_to_party");
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         car_give_to_party;
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   variable Critter;
+   variable Critter_Tile;
+   variable the_hex;
+   variable the_elev;
+
+   ndebug("RNDDSRT map_enter_p_proc == " + cur_map_index);
+   set_map_exit_tiles(0,0);
+   Lighting;
+
+   /*if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
+      if ( (global_var(GVAR_RND_KAGA_STATE) == 0) or (global_var(GVAR_RND_KAGA_STATE) == 1) ) then begin
+         Critter:=create_object_sid(PID_KAGA,0,0,SCRIPT_ECKAGA1);
+      end else if (global_var(GVAR_RND_KAGA_STATE) == 2) then begin
+         Critter:=create_object_sid(PID_KAGA2,0,0,SCRIPT_ECKAGA2);
+      end else if (global_var(GVAR_RND_KAGA_STATE) == 3) then begin
+         Critter:=create_object_sid(PID_KAGA3,0,0,SCRIPT_ECKAGA3);
+      end else if (global_var(GVAR_RND_KAGA_STATE) == 4) then begin
+         Critter:=create_object_sid(PID_KAGA4,0,0,SCRIPT_ECKAGA4);
+      end else if (global_var(GVAR_RND_KAGA_STATE) == 5) then begin
+         Critter:=create_object_sid(PID_KAGA5,0,0,SCRIPT_ECKAGA5);
+      end
+   end*/
+
+   if (cur_map_index == MAP_RND_DESERT_1) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT1_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT1_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_2) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT2_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT2_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_3) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT3_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT3_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT4) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT4_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT4_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT5) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT5_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT5_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT6) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT6_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT6_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT7) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT7_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT7_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_8) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT8_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT8_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_9) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT9_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT9_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_10) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT10_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT10_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_11) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT11_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT11_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_DESERT_12) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT12_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT12_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   //added by killap - expansion pack
+   else if (cur_map_index == MAP_RND_DESERT_13) then begin
+      ndebug("set_car_loc(" + CAR_RND_DESERT13_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_DESERT13_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   //end added
+   else if (cur_map_index == MAP_RND_CITY1) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY1_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY1_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_2) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY2_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY2_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_3) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY3_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY3_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_4) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY4_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY4_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_5) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY5_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY5_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_6) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY6_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY6_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_7) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY7_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY7_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else if (cur_map_index == MAP_RND_CITY_8) then begin
+      ndebug("set_car_loc(" + CAR_RND_CITY8_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := CAR_RND_CITY8_HEX;
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   else begin
+      ndebug("set_car_loc(" + tile_num_in_direction(dude_tile, random(0, 5), random(5, 7)) + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      the_hex := tile_num_in_direction(dude_tile, random(0, 5), random(5, 7));
+      the_elev := CAR_RANDOM_DESERT_ELEV;
+   end
+   if (the_hex != 0) then begin
+      ndebug("if no car,  Check_Create_Car's fucking up: dude_elevation == " + dude_elevation + " / car_elevation == " + the_elev);
+      Check_Create_Car(the_hex, dude_elevation)
+   end else
+      ndebug("DIDN'T HAVE MAP HEX FOR CAR, WE NEED TO CREATE ONE");
+
+   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((dude_perk(PERK_mysterious_stranger)))) then begin
+       if (not(get_stranger_flag(STRANGER_GENDER))) then begin
+           set_stranger_flag(STRANGER_GENDER);
+           ndebug("Set the Stranger Gender");
+           if (random(0,99) < 50) then
+               set_stranger_flag(STRANGER_FEMALE);
+       end
+       if (get_stranger_flag(STRANGER_FEMALE)) then begin
+           if (dude_level > 26) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_21,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 22) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_16_20,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 18) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_11_15,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 14) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_FEMALE_5_10,0,0,SCRIPT_ECMSTSTR);
+           else
+               Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_FEMALE,0,0,SCRIPT_ECMSTSTR);
+       end
+       else begin
+           if (dude_level > 26) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_21,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 22) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_16_20,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 18) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_11_15,0,0,SCRIPT_ECMSTSTR);
+           else if (dude_level > 14) then
+               Critter:=create_object_sid(PID_MYST_STRANGER_MALE_5_10,0,0,SCRIPT_ECMSTSTR);
+           else
+               Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_MALE,0,0,SCRIPT_ECMSTSTR);
+       end
+       Critter_Tile:=tile_num_in_direction(dude_tile,random(0,5),random(5,10));
+       critter_attempt_placement(Critter,Critter_Tile,dude_elevation);
+   end
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+procedure Initial_Inven begin
+end

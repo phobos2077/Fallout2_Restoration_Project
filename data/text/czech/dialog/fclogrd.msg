@@ -1,0 +1,18 @@
+{100}{}{Vidíš stráž ve volnějším oblečení. Vypadá ostražitě, ale zároveň znuděně.}
+{101}{}{Vidíš stráž Paláce.}
+{102}{}{Vidíš stráž Paláce.}
+{103}{}{Jdi dál a nic se ti nestane.}
+{104}{}{Máš tu něco na práci?}
+{105}{}{Dáme si na tebe pozor.}
+{106}{}{Nic na nás nezkoušej.}
+{107}{}{Chovej se k našim lidem s úctou.}
+{108}{}{Nedotýkej se toho. To je poslední varování.}
+{109}{}{Ať už tě tady nevidím.}
+{110}{}{Ustup, lao wai, nebo do tebe nastřílím tolik železa, že budeš při chůzi cinkat.}
+{111}{}{Pomalu odtamtud ustup. Sáhni na svoje zbraně a zemřeš.}
+{112}{}{Ať tě to ani nenapadne.}
+{113}{}{Nech toho. HNED!}
+{114}{}{Chcípni, nepříteli lidu!}
+{115}{}{Posílám tě do pekla hořícího kovu!}
+{116}{}{Nechť se Buddha slituje nad tvou duší!}
+{117}{}{Usmaž se v pekle, nepříteli!}

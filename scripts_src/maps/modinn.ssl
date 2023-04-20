@@ -1,0 +1,152 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: ModInn
+        Location: Modoc
+        Description: Modoc inn area
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "modinn"
+#include "../headers/define.h"
+#include "../headers/modinn.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_MODINN
+
+#include "../headers/command.h"
+#include "../headers/modoc.h"
+
+export variable cage_door_obj;
+export variable coup_door_obj;
+export variable modoc_farrel_obj;
+export variable modoc_rose_obj;
+export variable modoc_cornelius_obj;
+export variable modoc_death_claw_obj;
+export variable dog_that_can_see_dude;
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+#define check_obj_fall(x)     if ((x == dude_obj) or (x != 0)) then begin                    \
+                                 the_roll := do_check(x, STAT_ag, -8);                       \
+                                 if (is_success(the_roll) == false) then begin               \
+                                       the_roll := do_check(x, STAT_ag, -2);                 \
+                                    if (is_success(the_roll) == false) then begin            \
+                                       the_roll := random(1,4);                              \
+                                       if (the_roll == 1) then begin                         \
+                                          critter_injure(x, DAM_CRIP_LEG_LEFT);              \
+                                       end else if (the_roll == 2) then begin                \
+                                          critter_injure(x, DAM_CRIP_LEG_RIGHT);             \
+                                       end else if (the_roll == 3) then begin                \
+                                          critter_injure(x, DAM_CRIP_ARM_LEFT);              \
+                                       end else begin                                        \
+                                          critter_injure(x, DAM_CRIP_ARM_RIGHT);             \
+                                       end                                                   \
+                                    end else begin                                           \
+                                       critter_injure(x, DAM_KNOCKED_DOWN);                  \
+                                    end                                                      \
+                                 end else begin                                              \
+                                    ndebug("" + obj_name(x) + " PASSED AGILITY CHECK");   \
+                                 end                                                         \
+                                 if (x == dude_obj) then begin                               \
+                                    reg_anim_clear(x);                                       \
+                                    reg_anim_begin();                                        \
+                                       reg_anim_animate(x,ANIM_fall_front_sf,-1);            \
+                                    reg_anim_end();                                          \
+                                    critter_injure(x,DAM_KNOCKED_DOWN);                      \
+                                    reg_anim_begin();                                        \
+                                       reg_anim_animate(x,ANIM_back_to_standing,-1);         \
+                                    reg_anim_end();                                          \
+                                 end else begin                                              \
+                                    anim(x, ANIMATE_SET_FRAME, ANIM_fall_front_sf);          \
+                                 end                                                         \
+                              end
+
+procedure start begin
+end
+
+#define place_on_inn(the_tile, the_elev, the_rot)                                \
+         override_map_start_hex(the_tile, the_elev, the_rot);                    \
+         set_map_start((the_tile % 200), (the_tile / 200), the_elev, the_rot)
+
+procedure map_enter_p_proc begin
+variable the_roll;
+variable the_roll2;
+   if (came_from_shitter) then begin
+      if (shitter_has_blown) then begin
+         place_on_inn(22081, shitter_has_blown, 4);
+      end else begin
+         place_on_inn(19477, shitter_has_blown, 5);
+      end
+   end else begin
+      place_on_inn(25321, shitter_has_blown, 5);
+   end
+
+   if (is_loading_game == false) then begin
+      if (attacking_slags) then begin
+         set_townspeople_kill_all_slags;
+      end
+      if (shitter_has_blown) then begin
+         if (flew_out_of_shitter == false) then begin
+            set_flew_out_of_shitter;
+            check_obj_fall(dude_obj)
+            check_obj_fall(Vic_Ptr)
+            check_obj_fall(Myron_Ptr)
+            check_obj_fall(Marcus_Ptr)
+            check_obj_fall(MacRae_Ptr)
+            check_obj_fall(Sulik_Ptr)
+            check_obj_fall(Lenny_Ptr)
+            check_obj_fall(Cyberdog_Ptr)
+            //check_obj_fall(Doc_Ptr) // commented out by killap
+            check_obj_fall(Goris_Ptr)
+            check_obj_fall(Davin_Ptr)
+            check_obj_fall(Miria_Ptr)
+            check_obj_fall(Robobrain_Ptr)
+            check_obj_fall(Laddie_Ptr)
+            check_obj_fall(Kitsune_Ptr) // added by killap - RP
+            check_obj_fall(Cat_Jules_Ptr) // added by killap - RP
+            check_obj_fall(Dex_Ptr) // added by killap - RP
+            //check_obj_fall(Bess_Ptr) // commented out by killap
+            //check_obj_fall(Jonny_Ptr) // commented out by killap
+            off_did_fade_out;
+            display_msg(modoc_mstr(1200));
+            explosion(19477, dude_elevation, 25);
+            gfade_in(5);
+         end else begin
+         end
+      end
+   end
+   off_came_from_shitter;
+   off_leaving_shitter;
+   Lighting;
+   set_map_exit_tiles(29737,0);
+end
+
+procedure map_exit_p_proc begin
+   check_set_clear_props
+end
+
+procedure map_update_p_proc begin
+   Lighting;
+end

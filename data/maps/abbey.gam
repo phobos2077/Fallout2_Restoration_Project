@@ -1,0 +1,13 @@
+ // Map vars for Abbey Entrance map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Caravan_Info                         :=0;     //      (0)
+MVAR_Crops_Stolen                         :=0;     //      (1)
+MVAR_Matt_Speeches                        :=0;     //      (2)
+MVAR_Made_Car                             :=0;     //      (3)
+MVAR_Petersons_angry                      :=0;     //      (4)

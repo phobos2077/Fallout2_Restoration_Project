@@ -1,0 +1,66 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "ricshbox"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
+
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable CashBox_Ptr;
+
+#define LVAR_Restock_Time       (0)
+#define LVAR_Restock_Time_Fix   (1) //added by killap
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   CashBox_Ptr:=self_obj;
+
+   restock_fix
+   if (local_var(LVAR_Restock_Time) < game_time) then begin
+       set_local_var(LVAR_Restock_Time, (game_time + (2*ONE_GAME_WEEK)));
+       check_restock_item(PID_BOTTLE_CAPS,1000,5000,100)
+   end
+end
+
+procedure map_update_p_proc begin
+   CashBox_Ptr:=self_obj;
+end

@@ -1,0 +1,80 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Mall Door in Klamath
+        Locked: Yes
+        Trapped: No
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ksmalldr"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_WOOD
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+#define RAT_KEY                         PID_TRAPPER_TOWN_KEY
+
+procedure key_unlock_door;
+procedure key_lock_door;
+
+#define custom_use_obj_on_p_proc
+#include "../headers/doors.h"
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
+       if (Tool == RAT_KEY) then begin
+          script_overrides; //added by killap
+          if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+             call key_unlock_door;
+          end
+          else begin
+             call key_lock_door;
+          end
+       end
+       else std_lockpick_inner_block
+   end
+   pry_trap_block
+   elec_lockpick_outer_block
+end
+
+procedure key_unlock_door begin
+   set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
+   obj_unlock(self_obj);                                    // engine unlock door
+   script_overrides;
+   display_msg(mstr(300));
+end
+
+procedure key_lock_door begin
+   script_overrides;
+   if (obj_is_open(self_obj)) then
+       display_msg(mstr(302));
+   else begin
+      set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
+      obj_lock(self_obj);                                      // engine unlock door
+      display_msg(mstr(301));
+   end
+end

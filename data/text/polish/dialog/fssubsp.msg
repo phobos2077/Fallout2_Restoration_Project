@@ -1,0 +1,2 @@
+{100}{}{Schodzisz po zardzewiałej drabinie do wnętrza okrętu podwodnego. W środku panuje mrok, rozświetlany jedynie przez słabe światło nielicznych działających monitorów. Powietrze jest ciężkie od smrodu rdzy i rozkładu. Czujesz się klaustrofobicznie i niepewnie.}
+{101}{}{Schodzisz po zardzewiałej drabinie do wnętrza okrętu podwodnego. W środku panuje mrok, rozświetlany jedynie przez słabe światło nielicznych działających monitorów. Powietrze jest ciężkie od smrodu rdzy i rozkładu. Czujesz się prawie jak w domu.}

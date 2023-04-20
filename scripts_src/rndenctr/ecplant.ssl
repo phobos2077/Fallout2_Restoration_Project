@@ -1,0 +1,61 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+procedure map_enter_p_proc;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+
+#define SCRIPT_REALNAME "ecplant"
+#include "../headers/define.h"
+#include "../headers/bhrnddst.h"
+
+#define NAME                    SCRIPT_ECPLANT
+
+#include "../headers/command.h"
+
+procedure start begin
+   set_self_team(TEAM_RND_SPORE_PLANT);
+   set_self_ai(AI_SPORE_PLANT);
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+//   inc_evil_critter
+
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+       dec_map_var(MVAR_Hostile_Total);
+   end
+
+/* Set global_variable for Enemy status*/
+end
+
+
+procedure map_enter_p_proc begin
+   variable item;
+
+   if (map_first_run) then begin
+       item:=create_object(PID_PLANT_SPIKE,0,0);
+       add_mult_objs_to_inven(self_obj,item,10);
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then
+       attack(dude_obj);
+end
+
+//added by killap - expansion pack
+procedure use_obj_on_p_proc begin
+   if ((obj_pid(obj_being_used_with) == PID_PLANT_SPRAY)) then begin
+
+      kill_critter(self_obj, ANIM_melted_to_nothing_sf);
+   end
+end
+//end added - expansion pack

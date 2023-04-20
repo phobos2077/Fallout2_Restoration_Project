@@ -1,0 +1,52 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai28"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI28          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+
+procedure start
+begin
+end
+
+procedure use_p_proc
+begin
+  script_overrides;
+  if (dude_item(PID_PAPER)) then
+  begin
+    play_sfx(0);
+    self_stand;
+  end
+  else
+    display_msg(mstr(100));
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end

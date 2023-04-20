@@ -1,0 +1,106 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai25"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI25          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+procedure explode_p_proc;
+procedure check_p_proc;
+
+procedure start
+begin
+  add_timer_event(self_obj, 1, 1);
+end
+
+procedure timed_event_p_proc
+begin
+  variable item2;
+  if (fixed_param == 1) then
+  begin
+    if (global_var(GVAR_DYNAMITE_SETTING) == 0) then begin
+      item2:=dude_item(PID_ACTIVE_RADIO_DYNAMITE);
+      rm_obj_from_inven(dude_obj, item2);
+    end else if (global_var(GVAR_DYNAMITE_SETTING) == 1) then begin
+      item2:=dude_item(PID_RADIO_DYNAMITE);
+      rm_obj_from_inven(dude_obj, item2);
+    end
+
+    add_timer_event(self_obj, 1, 1);
+    call check_p_proc;
+  end
+end
+
+procedure use_p_proc begin
+   variable item;
+   script_overrides;
+   if (global_var(GVAR_DYNAMITE_SETTING) == 0) then begin
+      script_overrides;
+      //script_overrides;
+      set_global_var(GVAR_DYNAMITE_SETTING,1);
+      display_msg(mstr(100));
+      item:=create_object(PID_ACTIVE_RADIO_DYNAMITE,0,NAME);
+      add_obj_to_inven( dude_obj, item );
+      item:=dude_item(PID_RADIO_DYNAMITE);
+      rm_obj_from_inven(dude_obj, item);
+      //destroy_object(self_obj);
+   end else begin
+      script_overrides;
+      //script_overrides;
+      set_global_var(GVAR_DYNAMITE_SETTING,0);
+      display_msg(mstr(101));
+      item:=create_object(PID_RADIO_DYNAMITE,0,NAME);
+      add_obj_to_inven( dude_obj, item );
+      item:=dude_item(PID_ACTIVE_RADIO_DYNAMITE);
+      rm_obj_from_inven(dude_obj, item);
+      //destroy_object(self_obj);
+      //art_change_fid_num(self_obj,117440558);
+   end
+
+
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end
+
+procedure explode_p_proc begin
+  explosion(self_tile, self_elevation, 100);
+  destroy_object(self_obj);
+end
+
+procedure check_p_proc
+begin
+  if (global_var(GVAR_DYNAMITE_SETTING) == 1) then begin
+      if (global_var(GVAR_DYNAMITE_TRIGGER) == 1) then begin
+         rm_fixed_timer_event(self_obj, 1);
+         call explode_p_proc;
+      end
+  end
+end

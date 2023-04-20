@@ -1,0 +1,548 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "dcrebecc"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_DCREBECC
+#define TOWN_REPUTATION		GVAR_TOWN_REP_THE_DEN
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/den.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Becky_Repair_Still_Time      (5)
+#define LVAR_BECKY_FRIENDS_DEAD           (6)
+#define LVAR_BECKY_DRINKS                 (7)
+#define LVAR_Home_Tile                    (8)
+#define LVAR_Home_Rotation                (9)
+
+#define did_buffy_bit                     bit_10
+#define node_4_bit                        bit_11
+#define node_5_bit                        bit_12
+#define said_metzger_dead_bit             bit_13
+#define node_27_bit                       bit_14
+#define told_collect_bit                  bit_15
+#define told_book_bit                     bit_16
+
+#define did_buffy                         lvar_bit(LVAR_Flags, did_buffy_bit)
+#define set_did_buffy                     set_lvar_bit_on(LVAR_Flags, did_buffy_bit)
+#define off_did_buffy                     set_lvar_bit_off(LVAR_Flags, did_buffy_bit)
+
+#define node_4                            lvar_bit(LVAR_Flags, node_4_bit)
+#define set_node_4                        set_lvar_bit_on(LVAR_Flags, node_4_bit)
+
+#define node_5                            lvar_bit(LVAR_Flags, node_5_bit)
+#define set_node_5                        set_lvar_bit_on(LVAR_Flags, node_5_bit)
+
+#define said_metzger_dead                 lvar_bit(LVAR_Flags, said_metzger_dead_bit)
+#define set_said_metzger_dead             set_lvar_bit_on(LVAR_Flags, said_metzger_dead_bit)
+
+#define node_27                           lvar_bit(LVAR_Flags, node_27_bit)
+#define set_node_27                       set_lvar_bit_on(LVAR_Flags, node_27_bit)
+
+#define told_collect                      lvar_bit(LVAR_Flags, told_collect_bit)
+#define set_told_collect                  set_lvar_bit_on(LVAR_Flags, told_collect_bit)
+
+#define told_book                         lvar_bit(LVAR_Flags, told_book_bit)
+#define set_told_book                     set_lvar_bit_on(LVAR_Flags, told_book_bit)
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+variable prev_node;
+import variable becky_guard_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (combat_is_initialized == false) then begin
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_THE_DEN);
+         set_self_ai(AI_TOUGH_CITIZEN);
+         set_local_var(LVAR_Home_Tile,self_tile);
+         set_local_var(LVAR_Home_Rotation, self_cur_rot);
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if self_can_see_dude and hostile then begin
+      self_attack_dude;
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      self_rotate(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      check_catch_thief
+      if (caught_thief == false) then begin
+         call Node998;
+      end
+   end
+end
+
+procedure talk_p_proc begin
+   prev_node := 0;
+   script_overrides;
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_INTOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION8;
+   CheckKarma;
+   GetReaction;
+   ReactToLevel;
+   if ((hostile) or (has_rep_childkiller)) then begin
+      call Node015;
+   end else if (player_has_destroyed_still) then begin
+      if (node_27) then begin
+         call Node026;
+      end else begin
+         start_dialog_at_node(Node027);
+      end
+   end else if ((dude_is_female) and (dude_name == "Buffy") and (dude_wearing_leather_armor) and (did_buffy == false)) then begin
+      set_did_buffy;
+      start_dialog_at_node(Node016);
+   end else if ((metzger_dead) and (said_metzger_dead == false)) then begin
+      set_said_metzger_dead;
+      start_dialog_at_node(Node022);
+   end else begin
+      start_dialog_at_node(Node001);
+   end
+   set_becky_known;
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   self_caps_adjust(200 + random(3, 11));
+   give_pid_qty(self_obj, PID_BOOZE, random(2, 5))
+   inc_good_critter
+   set_rebecca_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + herebefore);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   inc_becky_drinks;
+   dude_caps_adjust(-5);
+   call create_and_use_itempid_on(dude_obj, PID_BOOZE);
+   call Node007;
+end
+procedure Node989 begin
+   set_becky_work;
+   set_becky_job(state_becky_job_collect);
+end
+procedure Node988 begin
+   set_becky_work;
+   set_becky_job(state_becky_job_book);
+end
+procedure Node987 begin
+   inc_becky_friends_dead;
+   off_becky_work; //added by killap
+   set_becky_job(state_becky_job_book);   //added by killap
+//   call Node989;
+   call Node012;
+end
+procedure Node986 begin
+   inc_becky_friends_dead;
+   off_becky_work;   //added by killap
+   set_becky_job(state_becky_job_no_jobs); //added by killap
+//   call Node988;
+   call Node012;
+end
+procedure Node985 begin
+   dude_caps_adjust(1000);
+end
+
+procedure Node001 begin
+   // OPTION FREE NODE
+   if (herebefore == false) then begin
+      Reply(200);
+      set_herebefore;
+   end else if (good_critter_reaction) then begin
+      Reply_Rand(201, 210);
+   end else if (bad_critter_reaction) then begin
+      Reply_Rand(219, 226);
+   end else begin
+      Reply_Rand(211, 218);
+   end
+   call Node003;
+end
+procedure Node002 begin
+   if (bad_critter_reaction) then begin
+      Reply_Rand(251, 258);
+   end else begin
+      Reply_Rand(241 - ((dude_is_male) and (dude_charisma >= 8)), 250);
+   end
+   call Node003;
+end
+procedure Node003 begin
+   // REPLY FREE NODE
+   NOption(270, Node004, 004);
+   if ((vic_known(state_vic_known_no) == false) and (vic_free == false)) then begin
+      NOption(271 + vic_known(state_vic_known_name), Node013, 004);
+   end
+   if (becky_job(state_becky_job_no_jobs) == false) then begin
+      if (becky_job(state_becky_job_none)) then begin
+         NOption(273, Node008, 004);
+      end else if (becky_work == false) then begin
+         NOption(275, Node008, 004);
+      end else begin
+         NOption(274, Node010, 004);
+      end
+   end
+   NOption(276, Node999, 004);
+   NOption(277, Node004, -003);
+   NOption(random(278, 281), Node999, -003);
+   prev_node := 3;
+end
+procedure Node004 begin
+   if (dude_is_stupid) then begin
+      Reply(302);
+   end else begin
+      Reply(300 + node_4);
+   end
+   set_becky_cost;
+   set_node_4;
+   if (dude_caps >= 5) then begin
+      NOption(303, Node990, 004);
+      NOption(308, Node990, -003);
+   end
+   if (still_quest(state_still_quest_serching)) then begin
+      NOption(304, Node006, 004);
+   end
+   NOption(305, Node005, 004);
+   NOption(306, Node002, 004);
+   NOption(307, Node999, 004);
+   NOption(309, Node999, -003);
+   prev_node := 4;
+end
+procedure Node005 begin
+   Reply(320 + node_5);
+   set_node_5;
+   if (dude_caps >= 5) then begin
+      NOption(322, Node990, 004);
+   end
+   NOption(323, Node002, 004);
+   NOption(324, Node999, 004);
+   prev_node := 5;
+end
+procedure Node006 begin
+   if (becky_drink >= 4) then begin
+      set_still_known;
+      Reply(330);
+   end else begin
+      Reply(331);
+   end
+   if (dude_caps >= 5) then begin
+      NOption(332, Node990, 004);
+   end
+   NOption(333, Node002, 004);
+   NOption(334, Node999, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   Reply(340);
+   NOption(341, Node002, 004);
+   NOption(342, Node999, 004);
+   NOption(344, Node002, -003);
+   NOption(343, Node999, -003); //was 343 - killap
+   prev_node := 7;
+end
+procedure Node008 begin
+   if self_rep_negative then begin
+      Reply(350);
+   end else if (becky_job(state_becky_job_none)) then begin
+      Reply(351 + told_collect);
+      set_told_collect;
+      NOption(355, Node009, 004);
+   end else begin
+      Reply(353 + told_book);
+      set_told_book;
+      NOption(356, Node009, 004);
+   end
+   NOption(357, Node002, 004);
+   NOption(358, Node999, 004);
+   prev_node := 8;
+end
+procedure Node009 begin
+   if (becky_job(state_becky_job_none)) then begin
+      Reply(370);
+      NOption(372, Node989, 004);
+   end else begin
+      Reply(371);
+      NOption(373, Node988, 004);
+      if (dude_has_becky_book) then begin
+         GOption(374, Node011, 004);
+      end
+   end
+   NOption(375, Node999, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   if (becky_job(state_becky_job_collect)) then begin
+      Reply(385);
+      if ((dude_caps >= 200) and (fred_talk)) then begin
+         NOption(387, Node011, 004);
+      end
+      if (fred_dead) then begin
+         BOption(388, Node987, 004);
+      end
+   end else begin
+      Reply(386);
+      if (derek_dead) then begin
+         BOption(389 + (becky_friends_dead == 0), Node986, 004);
+      end
+      if (dude_has_becky_book) then begin
+         NOption(391, Node011, 004);
+      end
+   end
+   NOption(392, Node999, 004);
+   prev_node := 10;
+end
+procedure Node011 begin
+   off_becky_work;
+   if (becky_job(state_becky_job_collect)) then begin
+      dude_caps_adjust(-100);
+      den_display_mstr(800);
+      give_xp(EXP_REBECCA_COLLECT);
+      inc_general_rep(REP_BONUS_RETURN_REBECCA_MONEY);
+      //set_becky_job(state_becky_job_book);
+      set_becky_job(state_becky_job_collect_done); //added by killap
+      Reply(400);
+   end else begin
+      dude_caps_adjust(80);
+      den_display_mstr(900);
+      give_xp(EXP_REBECCA_BOOK);
+      set_becky_job(state_becky_job_no_jobs);
+      remove_pid_qty(dude_obj, PID_BECKY_BOOK, 1)
+      Reply(401);
+   end
+   NOption(402, Node999, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   Reply(410 + (becky_friends_dead == 1));
+   if ( (becky_friends_dead) >= 2 ) then //added check by killap
+      NOption(412, Node999, 004);
+   else
+      NOption(413, Node999, 004); //added by killap
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(420 + vic_known(state_vic_known_name));
+   set_vic_known(state_vic_known_name);
+   if (metzger_known == false) then begin
+      NOption(422, Node014, 004);
+   end
+   NOption(423, Node002, 004);
+   NOption(424, Node999, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   set_metzger_known;
+   Reply(430);
+   NOption(431, Node002, 004);
+   NOption(432, Node999, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   floater_rand(443 - (3 * has_rep_childkiller), 443 + hostile);
+   //self_attack_dude;
+   set_hostile; //edit by killap
+end
+procedure Node016 begin
+   Reply(450);
+   GOption(451, Node017, 004);
+   NOption(452, Node999, -003);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(460);
+   GOption(461, Node018, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(470);
+   GOption(471, Node019, 004);
+   prev_node := 18;
+end
+procedure Node019 begin
+   Reply(480);
+   GOption(481, Node020, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(490);
+   dude_caps_adjust(1000);
+   give_pid_qty(dude_obj, PID_10MM_SMG, 1)
+   give_pid_qty(dude_obj, PID_10MM_JHP, 5)
+   give_pid_qty(dude_obj, PID_STIMPAK, 5)
+   give_pid_qty(dude_obj, PID_METAL_ARMOR, 1)
+   give_pid_qty(dude_obj, PID_PLASMA_GRENADE, 1)
+   give_pid_qty(dude_obj, PID_FLOWER, 1)
+   NOption(491, Node021, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(500);
+   NOption(501, Node999, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   set_metzger_known;
+   Reply(510);
+   GOption(511, Node023, 004);
+   NOption(512, Node002, 004);
+   GOption(513, Node999, 004);
+   GOption(dude_name + mstr(514), Node023, -003);
+   prev_node := 22;
+end
+procedure Node023 begin
+   Reply(520);
+   GOption(521, Node024, 004);
+   GOption(522, Node024, -003);
+   prev_node := 23;
+end
+procedure Node024 begin
+   Reply(530);
+   GOption(531, Node025, 004);
+   GOption(532, Node985, 004);
+   GOption(533 + dude_is_male, Node985, -003);
+   prev_node := 24;
+end
+procedure Node025 begin
+   inc_general_rep(REP_BONUS_REBECCA_KILL_METZGER_REWARD);
+   Reply(540 + dude_is_female);
+   GOption(542, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   floater_rand(550, 551);
+end
+procedure Node027 begin
+   set_node_27;
+   Reply(560);
+   if ((still_quest(state_still_quest_destroyed)) or (still_quest(state_still_quest_finished))) then begin
+      NOption(561, Node028, 004);
+   end
+   BOption(562, Node029, 004);
+   BOption(563, Node029, 004);
+   BOption(564, Node999, 004);
+   BOption(565, Node999, -003);
+   prev_node := 27;
+end
+procedure Node028 begin
+   Reply(570);
+   BOption(571, Node999, 004);
+   BOption(572, Node999, 004);
+   NOption(573, Node999, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(580);
+   NOption(581, Node999, 004);
+   prev_node := 29;
+end

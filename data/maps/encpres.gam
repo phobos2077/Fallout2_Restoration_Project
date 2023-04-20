@@ -1,0 +1,10 @@
+ // Map vars for Enclave Pres
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Pres_Ordered                 :=0;          // (0)
+MVAR_Met_Vice_Pres                :=0;          // (1)

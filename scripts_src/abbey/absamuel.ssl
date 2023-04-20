@@ -1,0 +1,543 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "absamuel"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ABSAMUEL
+#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY
+
+#define GRAVE_HEX       ((self_tile == 18467) or (self_tile == 18262) or (self_tile == 18660) or (self_tile == 18058) or (self_tile == 19265) or (self_tile == 19064) or (self_tile == 19661) or (self_tile == 19258) or (self_tile == 20265) or (self_tile == 20264) or (20259) or (self_tile == 19858) )
+
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure talk_p_proc;
+
+
+procedure Node998; //combat
+procedure Node999; //end
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node980;
+
+variable grave := 19265; //default tile to go to.
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Flags                      (0)
+#define LVAR_Herebefore                 (5)
+#define LVAR_Hostile                    (6)
+#define LVAR_Personal_Enemy             (7)
+#define LVAR_Tully_Friend               (8)
+#define LVAR_Finished_Graves            (9)
+#define LVAR_Pissed                     (10)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (not((game_time_hour >= 1900) or  (game_time_hour < 600))) then begin
+      if (fixed_param == 1) then begin
+         self_walk_to_tile(18467);
+         //anim_move_to_point_rate(18467, 2)
+         rm_fixed_timer_event(self_obj, 1);
+         add_timer_event(self_obj,game_ticks(1),13);
+      end else if (fixed_param == 2) then begin
+         self_walk_to_tile(18262);
+         //anim_move_to_point_rate(18262, 2)
+         rm_fixed_timer_event(self_obj, 2);
+         add_timer_event(self_obj,game_ticks(1),14);
+      end else if (fixed_param == 3) then begin
+         self_walk_to_tile(18660);
+         //anim_move_to_point_rate(18660, 2)
+         rm_fixed_timer_event(self_obj, 3);
+         add_timer_event(self_obj,game_ticks(1),15);
+      end else if (fixed_param == 4) then begin
+         self_walk_to_tile(18058);
+         //anim_move_to_point_rate(18058, 2)
+         rm_fixed_timer_event(self_obj, 4);
+         add_timer_event(self_obj,game_ticks(1),16);
+      end else if (fixed_param == 5) then begin
+         self_walk_to_tile(19265);
+         //anim_move_to_point_rate(19265, 2)
+         rm_fixed_timer_event(self_obj, 5);
+         add_timer_event(self_obj,game_ticks(1),17);
+      end else if (fixed_param == 6) then begin
+         self_walk_to_tile(19064);
+         //anim_move_to_point_rate(19064, 2)
+         rm_fixed_timer_event(self_obj, 6);
+         add_timer_event(self_obj,game_ticks(1),18);
+      end else if (fixed_param == 7) then begin
+         self_walk_to_tile(19661);
+         //anim_move_to_point_rate(19661, 2)
+         rm_fixed_timer_event(self_obj, 7);
+         add_timer_event(self_obj,game_ticks(1),19);
+      end else if (fixed_param == 8) then begin
+         self_walk_to_tile(19258);
+         //anim_move_to_point_rate(19258, 2)
+         rm_fixed_timer_event(self_obj, 8);
+         add_timer_event(self_obj,game_ticks(1),20);
+      end else if (fixed_param == 9) then begin
+         self_walk_to_tile(20265);
+         //anim_move_to_point_rate(20265, 2)
+         rm_fixed_timer_event(self_obj, 9);
+         add_timer_event(self_obj,game_ticks(1),21);
+      end else if (fixed_param == 10) then begin
+         self_walk_to_tile(20264);
+         //anim_move_to_point_rate(20264, 2)
+         rm_fixed_timer_event(self_obj, 10);
+         add_timer_event(self_obj,game_ticks(1),22);
+      end else if (fixed_param == 11) then begin
+         self_walk_to_tile(20259);
+         //anim_move_to_point_rate(20259, 2)
+         rm_fixed_timer_event(self_obj, 11);
+         add_timer_event(self_obj,game_ticks(1),23);
+      end else if (fixed_param == 12) then begin
+         self_walk_to_tile(19858);
+         //anim_move_to_point_rate(19858, 2)
+         rm_fixed_timer_event(self_obj, 12);
+         add_timer_event(self_obj,game_ticks(1),24);
+      end else if (fixed_param == 13) then begin
+         rm_fixed_timer_event(self_obj, 13);
+         if (self_tile == 18467) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(0);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),13);
+      end else if (fixed_param == 14) then begin
+         rm_fixed_timer_event(self_obj, 14);
+         if (self_tile == 18262) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(3);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),14);
+      end else if (fixed_param == 15) then begin
+         rm_fixed_timer_event(self_obj, 15);
+         if (self_tile == 18660) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(5);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),15);
+      end else if (fixed_param == 16) then begin
+         rm_fixed_timer_event(self_obj, 16);
+         if (self_tile == 18058) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(0);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),16);
+      end else if (fixed_param == 17) then begin
+         rm_fixed_timer_event(self_obj, 17);
+         if (self_tile == 19265) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(3);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),17);
+      end else if (fixed_param == 18) then begin
+         rm_fixed_timer_event(self_obj, 18);
+         if (self_tile == 19064) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(1);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),18);
+      end else if (fixed_param == 19) then begin
+         rm_fixed_timer_event(self_obj, 19);
+         if (self_tile == 19661) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(0);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),19);
+      end else if (fixed_param == 20) then begin
+         rm_fixed_timer_event(self_obj, 20);
+         if (self_tile == 19258) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(0);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),20);
+      end else if (fixed_param == 21) then begin
+         rm_fixed_timer_event(self_obj, 21);
+         if (self_tile == 20265) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(4);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),21);
+      end else if (fixed_param == 22) then begin
+         rm_fixed_timer_event(self_obj, 22);
+         if (self_tile == 20264) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(1);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),22);
+      end else if (fixed_param == 23) then begin
+         rm_fixed_timer_event(self_obj, 23);
+         if (self_tile == 20259) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(3);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),23);
+      end else if (fixed_param == 24) then begin
+         rm_fixed_timer_event(self_obj, 24);
+         if (self_tile == 19858) then begin
+            reg_anim_clear( self_obj );
+            self_rotate(1);
+            add_timer_event(self_obj,game_ticks(1),25);
+         end else
+            add_timer_event(self_obj,game_ticks(1),24);
+      end else if (fixed_param == 25) then begin
+         rm_fixed_timer_event(self_obj, 25);
+         if (GRAVE_HEX) then begin
+            if ( (random(1,3)) == 1) then begin
+            //if (anim_busy(self_obj) == false) then begin
+                  reg_anim_clear( self_obj );
+                  reg_anim_begin();
+                     reg_anim_animate(self_obj, ANIM_stand, -1);
+	               reg_anim_end();
+	         //end
+               grave := random(1,12);
+               add_timer_event(self_obj,game_ticks(random(5,10)),grave);
+            end else begin
+               reg_anim_clear( self_obj );
+               reg_anim_begin();
+                  reg_anim_animate(self_obj, ANIM_magic_hands_ground, -1);
+	            reg_anim_end();
+	            if ( (random(1,2)) == 1) then
+                  floater(random(1000,1005));
+               add_timer_event(self_obj,game_ticks(1),26);
+            end
+         end else begin
+            grave := random(1,12);
+            add_timer_event(self_obj,game_ticks(1),grave);
+         end
+      end else if (fixed_param == 26) then begin
+         reg_anim_clear( self_obj );
+         reg_anim_begin();
+           reg_anim_animate(self_obj, ANIM_stand, -1);
+	      reg_anim_end();
+	      rm_fixed_timer_event(self_obj, 26);
+         add_timer_event(self_obj,game_ticks(5),25);
+      end else begin
+         rm_fixed_timer_event(self_obj, fixed_param);
+         //reg_anim_clear( self_obj );
+         add_timer_event(self_obj,game_ticks(1),25);
+      end
+   end else begin
+      ndebug("tis late");
+      if (self_tile != 20687) then begin
+          self_walk_to_tile(20687);
+      end else begin
+
+         reg_anim_clear( self_obj );
+         reg_anim_begin();
+           reg_anim_animate(self_obj, ANIM_stand, -1);
+	      reg_anim_end();
+
+      end
+      rm_fixed_timer_event(self_obj, fixed_param);
+      add_timer_event(self_obj,game_ticks(1),25);
+   end
+end
+
+
+procedure critter_p_proc begin
+   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (self_can_see_dude)) then begin
+      attack(dude_obj);
+   end
+end
+
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      if (global_var(GVAR_TOWN_REP_ABBEY) != -30) then
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if ( ((game_time_hour >= 1900) or (game_time_hour < 600)) /*and (self_tile != 20687)*/) then begin
+      move_to(self_obj, 20687, self_elevation);
+   end else if  (self_tile != 19067) then begin
+      move_to(self_obj, 19067, self_elevation);
+   end
+   grave := random(1,12);
+   add_timer_event(self_obj,game_ticks(random(5,10)),grave);
+   set_self_team(TEAM_ABBEY);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure destroy_p_proc
+begin
+ inc_good_critter
+ set_global_var(GVAR_ABBEY_TULLY,5);
+end
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Pissed) == 1) then begin
+      floater(430);
+   end else if ( ((game_time_hour >= 1900) or (game_time_hour < 600)) ) then begin
+      floater(2000);
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node980 begin
+   set_global_var(GVAR_ABBEY_GRAVES,1);
+   call Node999;
+end
+
+
+procedure Node998 begin
+   set_hostile;
+   set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+end
+
+procedure Node999 begin
+   grave := random(1,12);
+   rm_fixed_timer_event(self_obj, fixed_param);
+   reg_anim_clear( self_obj );
+   add_timer_event(self_obj,game_ticks(1),grave);
+end
+
+procedure Node001 begin
+   if (local_var(LVAR_Herebefore) == 1) then begin
+      Reply(201);
+      NOption(301,Node004,4);
+      NOption(302,Node006,4);
+      if ( (global_var(GVAR_ABBEY_GRAVES) > 1) and (local_var(LVAR_Finished_Graves) == 0) ) then
+         NOption(700,Node012,4);
+      if ( (global_var(GVAR_ABBEY_GRAVES) < 1) ) then
+         NOption(303,Node008,4);
+      if ( (local_var(LVAR_Tully_Friend) != 1) and (know_tully) ) then
+         NOption(203,Node002,4);
+   end else begin
+      set_global_var(GVAR_ABBEY_TULLY,1);
+      Reply(200);
+      NOption(202,Node004,4);
+      if ( (local_var(LVAR_Tully_Friend) != 1) and (know_tully) ) then
+            NOption(203,Node002,4);
+   end
+
+   NOption(209,Node999,4);
+   set_local_var(LVAR_Herebefore,1);
+end
+
+procedure Node002 begin
+   Reply(204);
+   NOption(205,Node003,4);
+end
+
+procedure Node003 begin
+   Reply(206);
+   if (global_var(GVAR_ABBEY_TULLY) == 1) then begin
+      NOption(207,Node005,4);
+      NOption(208,Node999,4);
+   end else begin
+      NOption(210,Node005,4);
+      NOption(211,Node999,4);
+   end
+
+   set_global_var(GVAR_ABBEY_TULLY,3);
+   set_local_var(LVAR_Tully_Friend,1);
+end
+
+procedure Node004 begin
+   Reply(400);
+   NOption(401,Node999,4);
+   NOption(402,Node005,4);
+   NOption(403,Node013,4);
+   BOption(404,Node014,4);
+end
+
+procedure Node005 begin
+   Reply(300);
+   NOption(301,Node004,4);
+   NOption(302,Node006,4);
+   if ( (global_var(GVAR_ABBEY_GRAVES) < 1) ) then
+     NOption(303,Node008,4);
+   NOption(209,Node999,4);
+end
+
+procedure Node006 begin
+   Reply(500);
+   NOption(501,Node007,4);
+   NOption(505,Node999,4);
+end
+
+procedure Node007 begin
+   Reply(502);
+   NOption(503,Node005,4);
+   NOption(504,Node999,4);
+end
+
+procedure Node008 begin
+   Reply(600);
+   NOption(602,Node009,4);
+   NOption(601,Node999,4);
+end
+
+procedure Node009 begin
+   Reply(603);
+   NOption(604,Node010,4);
+   NOption(601,Node999,4);
+end
+
+procedure Node010 begin
+   Reply(605);
+   NOption(606,Node011,4);
+   NOption(609,Node999,4);
+end
+
+procedure Node011 begin
+   Reply(607);
+   NOption(608,Node980,4);
+end
+
+procedure Node012 begin
+   set_local_var(LVAR_Finished_Graves,1);
+   Reply(701);
+   NOption(702,Node001,4);
+   NOption(703,Node999,4);
+   NOption(704,Node999,4);
+end
+
+procedure Node013 begin
+   Reply(410);
+   NOption(411,Node005,4);
+end
+
+procedure Node014 begin
+   Reply(420);
+   BOption(421,Node999,4);
+   set_local_var(LVAR_Pissed,1);
+end

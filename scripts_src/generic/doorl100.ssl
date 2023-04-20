@@ -1,0 +1,17 @@
+#define SCRIPT_REALNAME "doorl100"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_WOOD
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#define Lock_Bonus                      (100)
+#define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+
+#define custom_look_at_p_proc
+#include "../headers/doors.h"
+
+procedure look_at_p_proc begin
+end

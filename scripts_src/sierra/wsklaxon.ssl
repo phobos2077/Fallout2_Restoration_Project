@@ -1,0 +1,14 @@
+#define SCRIPT_REALNAME "wsklaxon"
+#include "../headers/define.h"
+#include "../headers/command.h"
+
+procedure start;
+procedure map_update_p_proc;
+
+#define LVAR_Once                       (0)
+
+procedure start begin
+end
+
+procedure map_update_p_proc begin
+end

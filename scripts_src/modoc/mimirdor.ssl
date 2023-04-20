@@ -1,0 +1,358 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item: Modoc Door
+        Locked: NO
+        Trapped: NO
+        Closing: YES
+        Description: These doors are magic. They lock, close, trigger warnings, all kinds of fun stuff...
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "mimirdor"
+#include "../headers/modoc.h"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_INACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_WOOD
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_CLOSE
+
+procedure map_exit_p_proc;
+procedure Destroy_P_Proc;
+
+/*
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*/
+
+#define custom_start
+#define custom_use_obj_on_p_proc
+#define custom_Lock_Door
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
+#define custom_use_skill_on_p_proc
+#define custom_use_p_proc
+#define custom_timed_event_p_proc
+#include "../headers/doors.h"
+
+/*
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*/
+
+/*
+   Local variables which do not need to be saved between map changes.
+*/
+
+import variable cage_door_obj;
+import variable coup_door_obj;
+import variable modoc_death_claw_obj;
+import variable slag_guard_obj;
+
+/*
+                         PROCEDURES
+*/
+/*
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*/
+
+procedure start begin
+   if (cage_door) then begin
+      cage_door_obj := self_obj;
+   end else if (coup_door) then begin
+      coup_door_obj := self_obj;
+   end
+end
+
+procedure timed_event_p_proc begin
+   if ((cage_door == false) and (coup_door == false)) then begin
+      if (obj_is_open(self_obj)) then begin
+         if not combat_is_initialized then begin
+            if ((tile_distance_objs(dude_obj, self_obj) > DOOR_CLOSE_DIST) and
+               (checkPartyMembersNearDoor == false) and
+               ((tile_distance_objs(self_obj, last_source_obj) > DOOR_CLOSE_DIST) or
+               (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
+               obj_close(self_obj);
+               ndebug("door is closed");
+            end else begin
+               add_timer_event(self_obj, 10, TIMER_CLOSE);
+            end
+         end else begin
+            add_timer_event(self_obj, 10, TIMER_CLOSE);
+         end
+      end
+   end
+end
+
+/**
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+**/
+
+procedure use_p_proc begin
+variable tamper := false;
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+   ndebug("\nSELF TILE == "+self_tile);
+
+   if (slag_enterance_door) then begin
+      ndebug("slag_enterance_door");
+      if (spoke_to_vegeir == false) then begin
+         ndebug("spoke_to_vegeir == false");
+         if (slag_guard_obj != 0) then begin
+            ndebug("slag_guard_obj != 0");
+            if (obj_can_see_obj(slag_guard_obj, dude_obj)) then begin
+               ndebug("obj_can_see_obj(slag_guard_obj, dude_obj)");
+               script_overrides;
+               mod_add_timer_event(slag_guard_obj, 0, 1);
+               tamper := true;
+            end
+         end
+      end
+   end
+
+   if (tamper == false) then begin
+      Traps_Roll:=roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Bonus);
+
+      if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+         if (is_success(Traps_Roll)) then begin
+            script_overrides;
+            set_local_var(LVAR_Found_Trap,1);
+            reg_anim_clear(source_obj);
+
+            if (source_obj == dude_obj) then begin
+               display_msg(mstr(204));
+            end else begin
+               display_msg(mstr(205));
+            end
+         end else begin
+            if (obj_is_locked(self_obj)) then begin
+               script_overrides;
+               display_msg(mstr(203));
+               call Damage_Critter;
+            end else begin
+               call Damage_Critter;
+            end
+         end
+      end else if (obj_is_locked(self_obj)) then begin
+         script_overrides;
+         display_msg(mstr(203));
+      end
+
+      if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin
+         if (source_obj != dude_obj) then begin
+            last_source_obj := source_obj;
+         end else begin
+            last_source_obj := 0;
+         end
+         add_timer_event(self_obj, 10, TIMER_CLOSE);
+      end
+
+      if (coup_door) then begin
+         if (chicken_set_1st_visible == false) then begin
+            check_set_obj_visiblility(modoc_death_claw_obj, false);
+            set_chicken_1st_visible;
+         end
+      end
+   end
+end
+
+/*
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+*/
+
+procedure use_skill_on_p_proc begin
+variable Skill_Used;
+variable tamper := false;
+   if (slag_enterance_door) then begin
+      if (spoke_to_vegeir == false) then begin
+         if (slag_guard_obj != 0) then begin
+            if (obj_can_see_obj(slag_guard_obj, dude_obj)) then begin
+               script_overrides;
+               mod_add_timer_event(slag_guard_obj, 0, 1);
+               tamper := true;
+            end
+         end
+      end
+   end
+
+   if (tamper == false) then begin
+      Skill_Used:=action_being_used;
+
+      if (Skill_Used == SKILL_LOCKPICK) then begin
+         script_overrides; //added by killap
+         display_msg(g_mstr(20100));
+      end                                                          // End of Skill_Lockpick
+
+      else if (Skill_Used == SKILL_TRAPS) then begin
+         script_overrides; //added by killap
+         if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+            call Skill_Disarm_Traps;
+         end
+         else begin
+            if (source_obj == dude_obj) then begin
+                  display_msg(mstr(195));
+            end
+
+            else begin
+                  display_msg(obj_name(source_obj)+mstr(200));
+            end
+         end
+      end                                                          // End of Skill_Traps
+   end
+
+end
+
+/*
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+*/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   if (slag_enterance_door) then begin
+      if (spoke_to_vegeir == false) then begin
+         if (slag_guard_obj != 0) then begin
+            if (obj_can_see_obj(slag_guard_obj, dude_obj)) then begin
+               script_overrides;
+               mod_add_timer_event(slag_guard_obj, 0, 1);
+               Tool := -1;
+            end
+         end
+      end
+   end
+   if (Tool != -1) then begin
+      Tool:=obj_pid(obj_being_used_with);
+      pry_trap_block
+      if (Tool == PID_LOCKPICKS)
+         or (Tool == PID_EXP_LOCKPICK_SET)
+         or (Tool == PID_ELECTRONIC_LOCKPICKS)
+         or (Tool == PID_ELEC_LOCKPICK_MKII)
+      then begin
+         script_overrides;
+         display_msg(g_mstr(20100));
+      end
+   end
+end
+
+/*
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+*/
+
+procedure map_enter_p_proc begin
+   variable in_door_critter;
+
+   obj_close(self_obj);
+   match_dude_elevation;
+
+   if (cage_door) then begin
+      cage_door_obj := self_obj;
+   end else if (coup_door) then begin
+      coup_door_obj := self_obj;
+   end
+
+   if (is_loading_game == false) then begin
+      /* Set up the door state when the player first enters the map */
+      if (local_var(LVAR_Set_Door_Status) == 0) then begin
+         set_local_var(LVAR_Set_Door_Status,1);
+         set_local_var(LVAR_Locked,LOCKED_STATUS);
+         set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+      end
+      if ((cage_door == false) and (coup_door == false)) then begin
+      end
+      if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+         obj_close(self_obj);
+         set_local_var(LVAR_Locked, STATE_ACTIVE);
+         obj_lock(self_obj);
+      end else begin
+         obj_unlock(self_obj);
+      end
+   end
+end
+
+procedure map_exit_p_proc begin
+   if (obj_is_open(self_obj)) then begin
+      obj_close(self_obj);
+   end
+end
+
+/*
+   This procedure gets called roughly every 30 seconds of real time. It is used to make
+   sure that the door does not lock on it's own and that the player will be able to get
+   through once he has unlocked the door. Once more, this is so that locking and
+   unlocking do not need to be done in Mapper.
+*/
+
+procedure map_update_p_proc begin
+   if (cage_door) then begin
+      cage_door_obj := self_obj;
+   end else if (coup_door) then begin
+      coup_door_obj := self_obj;
+   end
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_lock(self_obj);
+   end else begin
+       obj_unlock(self_obj);
+   end
+end
+
+/*
+   This procedure will actively set the lock on the door and set all of
+   the coresponding varaibles for it.
+*********/
+
+procedure Lock_Door begin
+   if ((davin_door) or (miria_door)) then begin
+      display_mstr(320);
+   end else if (is_success(Locks_Roll)) then begin
+      set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
+      obj_lock(self_obj);                                      // engine unlock door
+
+      if (source_obj == dude_obj) then begin
+         display_msg(mstr(189));
+      end else begin
+         display_msg(obj_name(source_obj)+mstr(191));
+      end
+
+      if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
+         set_local_var(LVAR_Gave_Locks_XP,1);
+         give_xp(Lockpick_Exp);
+      end
+   end else begin
+      if (source_obj == dude_obj) then begin
+         display_msg(mstr(190));
+      end else begin
+         display_msg(obj_name(source_obj)+mstr(192));
+      end
+   end
+end
+
+procedure destroy_p_proc begin
+   if (cage_door) then begin
+      cage_door_obj := 0;
+   end else if (coup_door) then begin
+      coup_door_obj := 0;
+   end
+end

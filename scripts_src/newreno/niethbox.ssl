@@ -1,0 +1,65 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Eldridge Store Box
+        Location : New Reno
+        Description: This box is for Eldridge's Goods
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "niethbox"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_NIETHBOX
+
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+/* Defines and Macros */
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable new_reno_ethyl_wright_box;
+
+procedure start begin
+   new_reno_ethyl_wright_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   new_reno_ethyl_wright_box := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         self_caps_adjust(random(1,12) - self_caps);
+         check_restock_item(PID_NUKA_COLA, 1, 1, 100)
+         check_restock_item(PID_FLOWER, 1, 1, 100)
+         set_local_var(LVAR_Restock_Time, (random(13,15) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   new_reno_ethyl_wright_box := self_obj;
+end

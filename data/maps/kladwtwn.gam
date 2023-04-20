@@ -1,0 +1,28 @@
+ // Map vars for Klamath Downtown Map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Town_Rep                          :=0;     //      (0)
+MVAR_Big_Nose_Sent_Me                  :=0;     //      (1)
+MVAR_Rat_Key_Given                     :=0;     //      (2)
+MVAR_Duntons_Off_Map                   :=0;     //      (3)
+MVAR_Torr_On_Map                       :=0;     //      (4)
+MVAR_Scorps_Killed                     :=0;     //      (5)
+MVAR_Round_Of_Drinks                   :=0;     //      (6)
+MVAR_Arm_Wrestle_Success               :=0;     //      (7)
+MVAR_Arm_Wrestle_Fail                  :=0;     //      (8)
+MVAR_11_before                         :=0;     //      (9)
+MVAR_21_before                         :=0;     //      (10)
+MVAR_23_before                         :=0;     //      (11)
+MVAR_Bug_Parts                         :=0;     //      (12)
+MVAR_Still_Betray                      :=0;     //      (13)
+MVAR_Still_Accept                      :=0;     //      (14)
+MVAR_Made_Car                          :=0;     //      (15)
+MVAR_Just_Had_Sex                      :=0;     //      (16)
+MVAR_Stealing                          :=0;     //      (17)
+MVAR_Dude_Bad                          :=0;     //      (18)
+MVAR_Different_Brands                  :=0;     //      (19)

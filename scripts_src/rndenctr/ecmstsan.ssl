@@ -1,0 +1,30 @@
+#define SCRIPT_REALNAME "ecmstsan"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
+
+#include "../headers/random_merchant.h"
+#define CITY_START              (CITY_SAN_FRAN)
+#define CITY_END                (CITY_REDDING)
+
+#define restock \
+   item:=create_object(PID_ROT_GUT,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   item:=create_object(PID_PSYCHO,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   item:=create_object(PID_MUTATED_FRUIT,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   item:=create_object(PID_ROCKET_AP,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   item:=create_object(PID_223_FMJ,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   if (random(0,99) < 10) then begin \
+      item:=create_object(PID_INDEPENDENT,0,0); \
+      add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   end \
+   if (random(0,99) < 10) then begin \
+      item:=create_object(PID_COMBAT_ARMOR,0,0); \
+      add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   end \
+   ndebug("dummy")
+   // dummy is because restock need semicolon at the end
+
+#include "../template/random_merchant.ssl"

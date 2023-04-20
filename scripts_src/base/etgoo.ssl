@@ -1,0 +1,135 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Mynoc (The Bridge Guard)
+        Location: Arroyo
+        Description:
+
+        Log: The defines for VAULT_KNOWN, VISITED_OTHER_TOWN, & VISITED_TOWN_MULTIPLE_TIMES need to be changed
+             when the functionality is available to fit the designer's script.
+
+
+           Created: December 01, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "etgoo"
+#include "../headers/define.h"
+#include "../headers/base.h"
+//#include "../headers/<TownName.h>"
+
+#define NAME                     SCRIPT_KTGOO            // msg file for Klamath goo.
+
+#include "../headers/command.h"
+
+#define MIN_DMG_SPATIAL          (8)
+#define MAX_DMG_SPATIAL          (16)
+#define DAMAGE_TYPE              DMG_plasma
+
+#define LVAR_Goo_Message         (0)
+
+procedure start;
+procedure spatial_p_proc;
+procedure meltem;
+procedure pain;
+
+variable my_boots;
+variable worn;
+variable k;
+variable mutate:=0;
+
+procedure start begin
+end
+
+//edits by killap - expansion
+procedure spatial_p_proc
+begin
+     if (tile_has_rad_goo(source_tile, self_elevation)) then begin
+        my_boots:=0;
+        worn:=0;
+        //dont need to be carrying boots in hand
+        if (get_item(source_obj, PID_RUBBER_BOOTS)) then begin
+           //if carrying boots ..do boot damage
+          //ndebug("NPC Code");
+           k := random(1,100);
+           if (k < 2) then begin //1% chance to melt
+              my_boots := get_item(source_obj, PID_RUBBER_BOOTS);
+              rm_obj_from_inven(source_obj, my_boots);
+              destroy_object(my_boots);
+              if (source_obj == dude_obj) then
+                 display_msg(mstr(130));
+           end
+        end
+        else begin //check if target should be affected
+           if (obj_no_goo_effect(source_obj)) then begin
+             //do nothing
+             end
+             else
+                call pain;
+        end
+   end
+ end
+
+procedure meltem begin
+   //ndebug("My Boots Protect Me!");
+   k := random(1,100);
+   if (k < 2) then begin //1% chance to melt
+      //ndebug("Melting");
+      rm_obj_from_inven(dude_obj, my_boots);
+      destroy_object(my_boots);
+      display_msg(mstr(130));
+      //remove boots from players inventory
+   end
+end
+
+procedure pain begin
+   if (get_armor(source_obj) != 0) then
+      worn := obj_pid(get_armor(source_obj));
+   if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and  (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
+        //if not wearing powered armor then do damage
+        //ndebug("It hurts!");
+        if ( (source_obj == dude_obj) and (global_var(GVAR_MUTATE_STAGE) < 1) ) then begin
+           mutate:=global_var(GVAR_MUTATE);
+           mutate:=mutate+2;
+           set_global_var(GVAR_MUTATE,mutate);
+           if (mutate > 29) then begin
+              //set_global_var(GVAR_MUTATE, 1); //set state of character to mutate
+              set_global_var(GVAR_MUTATE_WHEN, GAME_TIME_IN_DAYS); //store the time
+              set_global_var(GVAR_MUTATE_STAGE,1);
+              display_msg(mstr(150));
+           end
+           else if (mutate > 14) then
+              display_msg(mstr(140));
+           else
+              display_msg(mstr(110));
+        end
+        critter_dmg(source_obj, random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL), DAMAGE_TYPE);
+     end
+end
+
+
+/*procedure spatial_p_proc begin
+   if (obj_no_goo_effect(source_obj) == false) then begin
+
+      if (tile_has_rad_goo(source_tile, self_elevation)) then begin
+         //added by killap - expansion
+         if (get_armor(source_obj) != 0) then
+            worn := obj_pid(get_armor(source_obj));
+         if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and  (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
+         //end added
+            if (source_obj == dude_obj) then begin
+               if (local_var(LVAR_Goo_Message) == false) then begin
+                  set_local_var(LVAR_Goo_Message, true);
+                  display_mstr(110);
+               end
+            end
+            critter_dmg(source_obj, random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL), DAMAGE_TYPE);
+         end
+
+      end
+   end
+end*/

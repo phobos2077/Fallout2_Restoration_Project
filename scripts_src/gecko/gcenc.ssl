@@ -1,0 +1,113 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "gcenc"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_GCENC
+
+#include "../headers/command.h"
+#include "../headers/gcenclen.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure timed_event_p_proc;
+procedure talk_p_proc;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+
+variable Only_Once := 0;
+
+procedure start begin
+
+end
+
+procedure timed_event_p_proc begin
+   if (not combat_is_initialized) then begin
+      if (fixed_param == 1) then begin
+         if (not anim_busy(self_obj) and obj_on_screen(self_obj)) then begin
+            if (self_can_see_dude) then begin
+               reg_anim_begin();
+               self_look_at_dude;
+               reg_anim_end();
+            end
+         end
+         add_timer_event(self_obj, 10, 1);
+      end
+
+      if (fixed_param == 2) then begin
+         self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(4,8)));
+         add_timer_event(self_obj, game_ticks(random(20,30)), 2);
+      end
+   end
+
+end
+
+procedure talk_p_proc begin
+   display_msg(mstr(100));
+end
+
+procedure critter_p_proc begin
+   if (map_var(MVAR_Attack) == 1) then begin
+    attack(dude_obj);
+   end else if (map_var(MVAR_Patrol) == 1) then begin
+      set_map_var(MVAR_Patrol, 2);
+      add_timer_event(self_obj, game_ticks(5), 2);
+   end
+end
+
+procedure pickup_p_proc begin
+  attack(source_obj);
+  set_map_var(MVAR_Attack,1);
+end
+
+procedure destroy_p_proc begin
+  inc_evil_critter
+end
+
+procedure damage_p_proc begin
+  attack(source_obj);
+  set_map_var(MVAR_Attack,1);
+end
+
+procedure map_enter_p_proc begin
+  variable LVar1 := 0;
+  Only_Once := 0;
+
+  if (dude_level <= 7) then begin
+    LVar1 := create_object(PID_SHOTGUN, 0, 0);
+    add_obj_to_inven(self_obj, LVar1);
+  end else if ((dude_level <= 12) and (dude_level > 7)) then begin
+    LVar1 := create_object(PID_PANCOR_JACKHAMMER, 0, 0);
+    add_obj_to_inven(self_obj, LVar1);
+  end else if ((dude_level <= 18) and (dude_level > 12)) then begin
+    LVar1 := create_object(PID_HK_G11E, 0, 0);
+    add_obj_to_inven(self_obj, LVar1);
+  end else if (dude_level >= 18) then begin
+    LVar1 := create_object(PID_PK12_GAUSS_PISTOL, 0, 0);
+    add_obj_to_inven(self_obj, LVar1);
+  end
+  wield_obj_critter(self_obj, LVar1);
+
+  set_self_team(TEAM_ENCLAVE_PATROL);
+  set_self_ai(AI_ENCLAVE_PATROL);
+  add_timer_event(self_obj, 10, 1);
+
+  self_look_at_dude;
+
+end
+
+procedure description_p_proc begin
+end
+
+procedure look_at_p_proc begin
+end

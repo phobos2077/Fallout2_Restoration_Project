@@ -1,0 +1,26 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#define SCRIPT_REALNAME "ctplans"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_CTPLANS
+#include "../headers/command.h"
+
+procedure spatial_p_proc;
+procedure start;
+
+#define LVAR_Gave_Reward         (0)
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if( ( local_var( LVAR_Gave_Reward ) == 0 ) and
+       ( dude_item_count( PID_VERTIBIRD_PLANS) > 0) ) then begin
+      set_local_var( LVAR_Gave_Reward, 1 );
+      display_msg(mstr(100));
+      give_xp(EXP_RETRIEVE_PLANS);
+   end
+end

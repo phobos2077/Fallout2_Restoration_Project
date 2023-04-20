@@ -1,0 +1,161 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "slvcc3"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_SLVCC3
+
+#include "../headers/den.h"
+#include "../headers/slvcamp.h"
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Flags                      (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+import variable GUARD_obj;
+import variable DOG_obj;
+
+procedure start begin
+   DOG_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_map_var(MVAR_Attack_Slavers,1);
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   DOG_obj := 0;
+end
+
+
+procedure critter_p_proc begin
+   if ( ( (metzger_dead) or (hostile) or (map_var(MVAR_Attack_Slavers) == 1) or ( (global_var(GVAR_NCR_PLAYER_RANGER)) ) ) and (self_can_see_dude) ) then begin
+         self_attack_dude;
+   end else begin
+      if ((is_visible(GUARD_obj))) then begin
+         if (tile_distance(self_tile,tile_num(GUARD_obj)) > 3) then begin
+            self_walk_to_tile(tile_num(GUARD_obj));
+         end
+      end
+   end
+
+   //if (tile_distance_objs(self_obj,GUARD_obj) > 6) then begin
+   //   anim_move_to_point_rate(tile_num(GUARD_obj), 2)
+   //end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   DOG_obj := self_obj;
+   set_self_team(TEAM_SLAVER_CAMP_SLAVERS);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   DOG_obj := self_obj;
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   floater_rand(102,104);
+end

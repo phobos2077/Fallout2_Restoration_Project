@@ -1,0 +1,331 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item:
+        Location: Raiders
+        Description:
+
+        Log:
+
+           Created: July 28, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "iisafe"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_IISAFE
+#include "../headers/command.h"
+#include "../headers/raiders.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure damage_p_proc;
+procedure timed_event_p_proc;
+procedure map_exit_p_proc;
+procedure use_skill_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+
+procedure spin_dial;
+procedure check_trap;
+procedure disarm_trap;
+procedure combo_known;
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+
+#define LVAR_BoomRA                       (0)
+#define LVAR_Unlocked                     (1)
+#define LVAR_Correct_Combination          (2)
+#define LVAR_Reward_Given                 (3)
+
+#define boom_ra_none                      (0)
+#define boom_ra_boom                      (1)
+#define boom_ra_disarm                    (2)
+
+#define get_boom                          (local_var(LVAR_BoomRA))
+#define set_boom(x)                       if (x == boom_ra_boom) then begin                        \
+                                             if (get_boom == boom_ra_none) then begin              \
+                                                set_local_var(LVAR_BoomRA, boom_ra_boom);          \
+                                                explosion(self_tile, self_elevation, 40);          \
+                                                set_raiders_alarm;                                 \
+                                                raider_add_timer_event(self_obj, 2, float_param);  \
+                                                set_know_raiders_trap;                             \
+                                             end                                                   \
+                                          end else set_local_var(LVAR_BoomRA, x)
+
+variable prev_node;
+variable Dialog_Node := 0;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Dialog_Node := 0;
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure damage_p_proc begin
+   set_boom(boom_ra_boom);
+end
+
+procedure timed_event_p_proc begin
+   off_raiders_alarm;
+   if( fixed_param == 1 ) then begin
+      if( Dialog_Node == 2 ) then
+         start_dialog_at_node(Node002);
+      else if( Dialog_Node == 4 ) then
+         start_dialog_at_node(Node004);
+      else if( Dialog_Node == 5 ) then
+         start_dialog_at_node(Node005);
+      else if( Dialog_Node == 6 ) then
+         start_dialog_at_node(Node006);
+      else if( Dialog_Node == 7 ) then
+         start_dialog_at_node(Node007);
+      else if( Dialog_Node == 8 ) then
+         start_dialog_at_node(Node008);
+      else if( Dialog_Node == 10 ) then
+         start_dialog_at_node(Node010);
+   end
+end
+
+procedure map_exit_p_proc begin
+   if ( (raiders_dead == false) and (raiders_scout_left == false) ) then begin //edit by killap - expansion
+      if (obj_is_open(self_obj)) then begin
+         obj_close(self_obj);
+      end
+      if( local_var( LVAR_Unlocked ) == 1 ) then begin
+         set_local_var( LVAR_Unlocked, 0 );
+      end
+      set_boom(boom_ra_none);
+      off_know_raiders_trap;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if( combat_is_initialized ) then begin
+      script_overrides;
+      display_msg( mstr(343) );
+   end
+   else if ( ( local_var( LVAR_Unlocked ) == 0 ) and ( obj_is_open(self_obj) == false ) ) then begin
+      if (action_being_used == SKILL_LOCKPICK) then begin
+         if (obj_is_open(self_obj) == false) then begin
+            script_overrides;
+            call spin_dial;
+         end
+      end else if (action_being_used == SKILL_TRAPS) then begin
+         if (get_boom == boom_ra_none) then begin
+            script_overrides;
+            call check_trap;
+         end
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + dude_is_stupid);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100 + dude_is_stupid);
+end
+
+procedure use_p_proc begin
+   if( combat_is_initialized ) then begin
+      script_overrides;
+      display_msg( mstr(343) );
+   end
+   else if( ( ( get_boom == boom_ra_boom ) or
+              ( get_boom == boom_ra_disarm ) or
+              ( local_var( LVAR_Correct_Combination ) == 1 ) ) and
+            ( local_var( LVAR_Unlocked ) == 1 ) ) then begin
+      // Don't do anything
+   end
+   //if (obj_is_open(self_obj) == false) then begin
+   else begin
+      script_overrides;
+      Dialog_Node := 2;
+      add_timer_event( self_obj, 1, 1 );
+   end
+end
+
+procedure combo_known begin
+   set_local_var( LVAR_Correct_Combination, 1 );
+   call Node003;
+end
+
+procedure spin_dial begin
+variable luck_chance;
+   if (get_boom == boom_ra_none) then begin
+      set_boom(boom_ra_boom);
+   end else begin
+      game_time_advance(ONE_GAME_MINUTE * 15);
+      if ((dude_is_stupid) or (has_skill(dude_obj, SKILL_LOCKPICK) < 50)) then begin
+         luck_chance := (5 * (dude_luck >= 9)) + (5 * (dude_luck == 10));
+      end else begin
+         luck_chance := (10 * (dude_luck >= 9)) + (15 * (dude_luck == 10));
+      end
+      if (random(1,100) <= luck_chance) then begin
+//         Dialog_Node := 7;
+//         add_timer_event( self_obj, 1, 1 );
+         start_dialog_at_node(Node007);
+      end else if ((dude_iq < 7) and (has_skill(dude_obj, SKILL_LOCKPICK) < 50)) then begin
+//         Dialog_Node := 8;
+//         add_timer_event( self_obj, 1, 1 );
+         start_dialog_at_node(Node008);
+      end else begin
+//         Dialog_Node := 5;
+//         add_timer_event( self_obj, 1, 1 );
+         start_dialog_at_node(Node005);
+      end
+   end
+end
+procedure check_trap begin
+variable the_roll;
+   the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,0);
+   if ((is_success(the_roll)) or (know_raiders_trap) or (get_boom == boom_ra_disarm)) then begin
+//      Dialog_Node := 4;
+//      add_timer_event( self_obj, 1, 1 );
+      start_dialog_at_node(Node004);
+   end else if (is_critical(the_roll)) then begin
+      set_boom(boom_ra_boom);
+   end else begin
+//      Dialog_Node := 6;
+//      add_timer_event( self_obj, 1, 1 );
+      start_dialog_at_node(Node006);
+   end
+end
+procedure disarm_trap begin
+variable the_roll;
+   the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,0);
+   if (is_success(the_roll)) then begin
+      give_xp(EXP_DISARM_RAIDERS_SAFE);
+      give_pid_qty(dude_obj, PID_DYNAMITE, 1)
+      set_boom(boom_ra_disarm);
+//      Dialog_Node := 10;
+//      add_timer_event( self_obj, 1, 1 );
+      start_dialog_at_node(Node010);
+   end else begin
+      set_boom(boom_ra_boom);
+   end
+end
+
+procedure Node999 begin
+end
+
+procedure Node002 begin
+   Reply(200 + (dude_is_stupid == false));
+   NOption(mstr(202) + dude_name + mstr(203), Node009, -003);
+   NOption(204, spin_dial, -003);
+   NOption(205, Node999, -003);
+   if (dude_has_all_three_dog_tags) then begin
+      NOption(206, combo_known, 004);
+   end
+   NOption(207 + ((dude_iq < 7) and (has_skill(dude_obj, SKILL_LOCKPICK) < 50)), spin_dial, 004);
+   if (get_boom == boom_ra_none) then begin
+      NOption(209, check_trap, 004);
+   end
+   NOption(210, Node999, 004);
+   prev_node := 2;
+end
+procedure Node003 begin
+   set_local_var( LVAR_Unlocked, 1 );
+//if (obj_is_open(self_obj) == false) then begin
+//      obj_open(self_obj);
+//   end
+
+   if( local_var( LVAR_Reward_Given ) == 0 ) then begin
+      set_local_var( LVAR_Reward_Given, 1 );
+      display_msg( mstr(344) );
+      give_xp( EXP_CRACKED_SAFE );
+   end
+
+   if (dude_is_stupid) then begin
+      Reply(222 + (prev_node == 7));
+   end else begin
+      Reply(220 + (prev_node == 7));
+   end
+   NOption(g_mstr(350), Node999, 001);
+   prev_node := 3;
+end
+procedure Node004 begin
+   set_know_raiders_trap;
+   Reply(235);
+   if (dude_has_all_three_dog_tags) then begin
+      NOption(236, combo_known, 004);
+   end
+   NOption(237, disarm_trap, 004);
+   NOption(238, Node999, 004);
+   prev_node := 4;
+end
+procedure Node005 begin
+   Reply(250);
+   if (dude_has_all_three_dog_tags) then begin
+      NOption(251, combo_known, 004);
+   end
+   NOption(252 + ((dude_iq < 7) and (has_skill(dude_obj, SKILL_LOCKPICK) < 50)), spin_dial, 004);
+   NOption(254, Node999, 004);
+   prev_node := 5;
+end
+procedure Node006 begin
+   Reply(275);
+   if (dude_has_all_three_dog_tags) then begin
+      NOption(276, combo_known, 004);
+   end
+   NOption(277 + ((dude_iq < 7) and (has_skill(dude_obj, SKILL_LOCKPICK) < 50)), spin_dial, 004);
+   if (get_boom == boom_ra_none) then begin
+      NOption(279, check_trap, 004);
+   end
+   NOption(280, Node999, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   Reply(290 + (dude_is_stupid == false));
+   NOption(292, Node003, -003);
+   NOption(293 + dude_is_female, Node003, 004);
+   prev_node := 7;
+end
+procedure Node008 begin
+   Reply(305 + (dude_is_stupid == false));
+   NOption(307, Node009, -003);
+   NOption(308, spin_dial, -003);
+   NOption(309, Node999, -003);
+   if (dude_has_all_three_dog_tags) then begin
+      NOption(310, combo_known, 004);
+   end
+   NOption(311 + ((dude_iq < 7) and (has_skill(dude_obj, SKILL_LOCKPICK) < 50)), spin_dial, 004);
+   NOption(313, Node999, 004);
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(random(320, 322));
+   NOption(mstr(323) + dude_name + mstr(324), Node009, -003);
+   NOption(325, spin_dial, -003);
+   NOption(326, Node999, -003);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(340);
+   NOption(341, Node002, 004);
+   NOption(342, Node999, 004);
+   prev_node := 10;
+end

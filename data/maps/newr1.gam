@@ -1,0 +1,11 @@
+ // Map vars for New Reno Virgin Street
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Made_Car                   :=0;     //      (0)
+MVAR_Monte_Attacked             :=0;     //      (1)
+MVAR_Kitty_Drug                 :=0;     //      (2)

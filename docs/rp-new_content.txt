@@ -1,0 +1,175 @@
+Here is a non-comprehensive list of the new content found in the expansion. I consider this a spoiler, so if you like to make discoveries on your own, don't read too much of this.
+
+
+New Locations:
+--------------
+
+• EPA
+• Umbra Tribe (previously Primitive Tribe)
+• Abbey
+• Vault Village
+• Slaver's Camp
+• Hubologist Stash
+• Den Residential Area
+• Enclave Vertibird Landing Pad
+• Ranger Safe Houses
+• Shi Submarine
+• Dr. Sheng's hideout
+
+
+Unimplemented Karma Titles:
+---------------------------
+• Virgin title restored.
+• Restored original child killer image.
+• Each karma level (Defender, etc) now displays it's own unique icon, as originally intended.
+
+
+Unimplemented/Unutilized Perks:
+-------------------------------
+• Cult of Personality and Karma Beacon perks are now fully implemented.
+
+
+Unimplemented Addictions:
+-------------------------
+• It is now possible to get addicted to the game of Tragic.
+• It is now possible to get addicted to alcohol.
+
+
+Changes To Old Locations:
+-------------------------
+
+Arroyo:
+-------
+• Stealing from the Elder's chest, Hakunin chest, or Aunt Morlis' vase will result in a karma drop.
+• Ability to plant new seeds obtained from the EPA.
+• Learn about Kaga's origins.
+
+
+The Den:
+--------
+• New Area: Den Residential
+• New Character: Petey - A druggie who lives in the alley
+• New Quest: Orphanage - get the children of The Den off the streets
+• New Item: Anna's diary
+• Learn more about the whereabouts of Sulik's sister
+• An extended gang war quest. Now involves going to the party Tyler is at.
+• BOS base there is now fully explorable after joining them.
+
+
+Klamath:
+--------
+• There is now another way of killing Keeng Ra'at. Be observant of the scenery.
+• Extended Cattle Rustling Quest.
+• Extended dialogue for Maida Buckner - before neither she nor her mother would give you info about the town (would send you on a wild goose chase - ask Mom, ask daughter, ask mom, etc)
+• Unlocked voice dialogue for Sulik regarding his sister (won't notice until Umbra Tribe area)
+
+
+Redding:
+--------
+• It is now possible to cure Fannie of her jet addiction.
+• It is now possible to make Fannie OD on jet.
+• Support beams in the mines are now destructible.
+• Killing all the miners prevents there from being a good ending for Redding.
+
+
+Modoc:
+------
+• It is now possible when falling down in the Ghost Caves or being expelled from the Modoc toilet to break a limb. (Party members are affected too)
+
+
+New Reno:
+---------
+• New Character: Three Card Monte and his bodyguard
+• The ability to tell jokes as a male or dance as a female at one of the casinos
+• A more involved find Lloyd quest
+  -New Character: Nikki
+• New Character: The Barking Man
+  -Connected to the EPA
+• An extended way of getting into the Stables as a woman
+  -before if you went to the Stables (as a hooker) you would just be dropped off at the main gate and nothing really new happened.
+• Unlocked voice dialogue for Myron regarding the location of the EPA
+• Eldridge now goes back to check on his dogs if they bark too much.
+• New player model (installer option) when boxing.
+
+
+Sierra Army Depot:
+------------------
+• Trip Wire now works as intended.
+• Robot repair bay works: repairs hurt bots or replaces destroyed ones with new ones.
+
+
+Vault City:
+-----------
+• New Location: Village Outside Vault City
+  -New characters involved as well as several others modified to fit the quest.
+• Learn some info about the Vault Experiments from Vault City's Vault.
+
+
+Gecko:
+------
+• Mess with the Enclave on the Gecko computer and feel the wrath of the verti assault encounter.
+• Lenny now glows in the dark when you use a radioactive drink on him.
+• Lenny now carries a Zip gun when you first encounter him.
+• New Lenny model (installer option).
+
+
+Broken Hills:
+-------------
+• New Quest: Money Skimming Quest
+  -New characters involved as well as several others modified to fit the quest.
+  -Unlocked voice dialogue from Marcus
+
+
+Raiders:
+--------
+• Nonviolent end to Raiders. (Shadow Who Walks)
+
+
+NCR:
+----
+• Ability to attack Ranger safe houses as a slaver.
+• Ability to attack Slaver Camp as a Ranger.
+• BOS base there is now fully explorable after joining them.
+• Alternate way to assassinate Westin, which involves his heart pills.
+
+
+Vault 13:
+---------
+• It's now possible to get the good ending.
+• Find out the real truth behind the Vault Experiments.
+
+
+Vault 15:
+---------
+• Expanded Doctor Jones' dialogue to bring better closure to him after wiping out the raiders.
+
+
+San Francisco:
+--------------
+• Return the missing Shi biology corpse
+• New location: Hubologist stash
+• Shi submarine - Disable the sub before sailing to the Enclave
+• Dr. Wong questline that implements Dr. Sheng and explains the sentient plant ending.
+• New player model (installer option) when fighting in the ring.
+• Combine torn pieces of paper to form a password list to access the various computer terminals in the Shi Temple.
+
+
+New Reno Salvatore Transaction:
+-------------------------------
+• Ability to fly to Navarro in a vertibird.
+
+
+Enclave:
+--------
+• Ability to set off the nuke found on the Presidential level.
+
+
+Random Encounters:
+------------------
+• Ability to get location of EPA from Random Traveler
+• 5 Kaga encounters (He wanted to be the Chosen One and is now trying to kill you)
+• Shaman and Chieftain now found in Nomad encounters.
+• Ability to save Homesteaders and then receive a reward for your service.
+• Homesteader encounters now contain children.
+• Space shuttle special encounter now has the Phazer.
+• Hubologists in random encounters are now hostile if you killed the Hubologists in San Fran.

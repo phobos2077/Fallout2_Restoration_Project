@@ -1,0 +1,13 @@
+#define SCRIPT_REALNAME "gl_k_modini"
+#include "../headers/define.h"
+#include "../sfall/sfall.h"
+
+procedure start begin
+   if is_loading_game then return;
+	if game_loaded then set_global_script_repeat(30000);
+	else begin
+      if get_ini_setting("ddraw.ini|Misc|WorldMapSlots") < 21 then begin
+         float_msg(dude_obj, "You have overwritten the RP ddraw.ini file! Revert back immediately before it's too late!", FLOAT_MSG_WARNING);
+      end
+   end
+end

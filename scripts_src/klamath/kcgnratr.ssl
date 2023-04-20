@@ -1,0 +1,191 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Klamath Generator
+        Location: Klamath
+        Description: This is the generator that the player must fix
+                     before they can open the elevator door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: April 9, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "kcgnratr"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_KCGNRATR
+
+#include "../headers/command.h"
+#include "../headers/klamath.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure repair_it;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+
+//#define LVAR_Center                     (13) //is Torr at center of map
+//#define LVAR_Edge                       (14) //is Torr at edge
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Tool;
+variable repair_check;
+variable skill_used;
+variable item;
+
+procedure Node999 begin
+end
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+/*
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+end
+
+procedure map_update_p_proc begin
+end
+
+procedure critter_p_proc begin
+end
+
+procedure damage_p_proc begin
+end
+
+procedure pickup_p_proc begin
+end
+*/
+
+//added by killap - expansion
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_KLAMATH_GENERATOR) == 1) then begin
+      reg_anim_begin();
+      reg_anim_animate_forever(self_obj, ANIM_stand);
+      reg_anim_end();
+
+      add_timer_event(self_obj, 1, 1);
+   end
+end
+
+procedure map_update_p_proc begin
+   if (global_var(GVAR_KLAMATH_GENERATOR) == 1) then begin
+      if (combat_is_initialized == 0) then
+      begin
+         reg_anim_begin();
+         reg_anim_animate_forever(self_obj, ANIM_stand);
+         reg_anim_end();
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+  if (fixed_param == 1) then begin
+      if ( (anim_busy(self_obj) == false) and (combat_is_initialized == 0) ) then begin
+         reg_anim_begin();
+         reg_anim_animate_forever(self_obj, ANIM_stand);
+         reg_anim_end();
+      end
+      add_timer_event(self_obj, 1, 1);
+  end
+end
+//end added by killap
+
+procedure use_p_proc begin
+   //make a strength roll 3 times
+   if (global_var(GVAR_KLAMATH_GENERATOR) == 0) then begin
+      display_msg(mstr(200));
+   end
+   else begin
+      display_msg(mstr(201));
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+
+   Tool:=obj_pid(obj_being_used_with);
+   if ( (Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT) ) then begin //added super_tool_kit - killap
+   //make a repair roll
+      call repair_it;
+   end
+
+end
+
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   script_overrides;
+
+   skill_used:=action_being_used;
+   if (skill_used == SKILL_REPAIR) then begin
+         call repair_it;
+   end
+   else begin
+      display_msg(mstr(300));
+   end
+end
+
+procedure repair_it begin
+   repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,-40);
+   if (is_success(repair_check)) then begin
+      set_global_var(GVAR_KLAMATH_GENERATOR, 1); //generator is repaired!
+      display_msg(mstr(400));
+      add_timer_event(self_obj, 1, 1); //added by killap - expansion
+      //give_xp(EXP_REPAIR_REACTOR);
+   end
+   else begin
+      display_msg(mstr(401));
+   end
+end
+//xxxxxxxxxxxxxxxxxxxx

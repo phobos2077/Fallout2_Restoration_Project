@@ -1,0 +1,968 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Bishop
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ncbishop"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCBISHOP
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+procedure Node059;
+procedure Node060;
+procedure Node061;
+procedure Node062;
+procedure Node063;
+procedure Node976a; //added by killap
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Node039                   (4)
+#define LVAR_Node042                   (5)
+#define LVAR_Node048                   (6)
+#define LVAR_Flags                     (7)
+#define LVAR_Node014                   (8)
+#define LVAR_Node022                   (9)
+#define LVAR_Node031                   (10)
+
+#define forced_dialog_bit              bit_10
+
+#define forced_dialog                  lvar_bit(LVAR_Flags, forced_dialog_bit)
+#define set_forced_dialog              set_lvar_bit_on(LVAR_Flags, forced_dialog_bit)
+#define off_forced_dialog              set_lvar_bit_off(LVAR_Flags, forced_dialog_bit)
+
+#define self_family                     (family_bishop)
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+variable payment;
+variable previous_node;
+import variable mr_bishop_obj;
+
+procedure start begin
+   mr_bishop_obj := self_obj;
+end
+
+procedure timed_event_p_proc begin
+end
+
+procedure map_enter_p_proc begin
+   mr_bishop_obj := self_obj;
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_NEW_RENO_BISHOP);
+         set_self_ai(AI_TOUGH_GUARD);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   if (forced_dialog) then begin
+      if (self_elevation != dude_elevation) then begin
+         off_forced_dialog;
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end if (forced_dialog == false) then begin
+         set_forced_dialog;
+         dialogue_system_enter;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(self_family)
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   set_forced_dialog;
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      if ((dude_is_made_man) or (warned_attack)) then begin //killap's code: added (warned_attack)
+         if (self_family == dude_family) then begin
+            call Node056;
+         end else begin
+            call Node001;
+         end
+      end else if ((bishop_permission) and (briefcase_delivery_assigned)) then begin
+         call Node003;
+      end else if (get_snuff_westin(snuff_westin_assigned)) then begin
+         if (get_westin_flag(WESTIN_FAIL)) then begin
+            call Node032;
+         end else begin
+            call Node031;
+         end
+      end else if (get_snuff_carlson(snuff_carlson_assigned)) then begin
+         call Node048;
+      end else if (briefcase_delivery_happy) then begin
+         if ((carlson_nothing or westin_nothing)) then begin
+            call Node033;
+         end /*else begin
+            call Node032;
+         end - comment out by killap*/
+      end else begin
+         call Node002;
+      end
+   gSay_End;
+   end_dialogue;
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   mr_bishop_obj := 0;
+   set_bishop_dead
+   inc_evil_critter
+   set_family_crushed(self_family)
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (examined));
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+      attack_family(self_family)
+   end
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   payment := true;
+   call Node005;
+end
+procedure Node989 begin
+   if (westin_dead == false) then begin
+      call Node011;
+   end else if (carlson_dead == false) then begin
+      call Node036;
+   end else begin
+      call Node009;
+   end
+end
+procedure Node988 begin
+   if ((westin_dead == false) or (carlson_dead == false)) then begin //edit by killap - expansion
+      call Node010;
+   end else if ( (raiders_dead) or (raiders_scout_left) ) then begin
+      call Node060;
+   end else if ((angela_banged) or (mrs_bishop_banged)) then begin
+      call Node057;
+   end else begin
+      call Node999;
+   end
+end
+procedure Node987 begin
+   if ( (raiders_dead) or (raiders_scout_left) ) then begin //edit by killap - expansion
+      call Node060;
+   end else if ((angela_banged) or (mrs_bishop_banged)) then begin
+      call Node057;
+   end else begin
+      call Node030;
+   end
+end
+procedure Node986 begin
+   if (bishop_warning) then begin
+      call Node001;
+   end else if ( (raiders_dead) or (raiders_scout_left) ) then begin //edit by killap - expansion
+      call Node060;
+   end else if ((angela_banged) or (mrs_bishop_banged)) then begin
+      call Node057;
+   end else begin
+      call Node030;
+   end
+end
+procedure Node985 begin
+   if (westin_price_nothing) then begin
+      set_westin_price(500)
+   end
+   call Node015;
+end
+procedure Node984 begin
+   if (((dude_iq>=8) and (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,30))))) then begin //killap's fix: made this a bit harder to get now - 'and' instead of 'or' and now '30' instead of '50'
+      set_westin_price(1000)  //added by killap
+      call Node018;
+   end else begin
+      call Node017;
+   end
+end
+procedure Node983 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,25))) then begin
+      set_westin_price(750)
+      call Node018;
+   end else begin
+      call Node017;
+   end
+end
+procedure Node982 begin
+   set_westin_price(500)
+   call Node014;
+end
+procedure Node981 begin
+   set_snuff_westin(snuff_westin_succeed);
+   call Node034;
+end
+procedure Node980 begin
+   if (carlson_dead == false) then begin
+      call Node036;
+   end else begin
+      call Node009;
+   end
+end
+procedure Node979 begin
+   if (carlson_dead == false) then begin
+      call Node035;
+   end else begin
+      call Node051;
+   end
+end
+procedure Node978 begin
+   if (carlson_price_nothing) then begin
+      set_carlson_price(500) //added by killap
+   end
+   call Node038;
+end
+procedure Node977 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,000))) then begin
+      call Node041;
+   end else begin
+      call Node001;
+   end
+end
+procedure Node976 begin
+   set_carlson_price(1000)
+   call Node039;
+end
+//killap's code
+procedure Node976a begin
+   set_carlson_price(500)
+   call Node039;
+end
+//killap's code
+procedure Node975 begin
+   set_snuff_carlson(snuff_carlson_succeed);
+   call Node049;
+end
+procedure Node974 begin
+   if ((get_snuff_westin(snuff_westin_succeed)) and (get_snuff_carlson(snuff_carlson_succeed))) then begin
+      call Node050;
+   end else begin
+      call Node009;
+   end
+end
+procedure Node973 begin
+   if ( (raiders_dead) or (raiders_scout_left) ) then begin //edit by killap - expansion
+      call Node060;
+   end else if ((angela_banged) or (mrs_bishop_banged)) then begin
+      call Node057;
+   end else begin
+      call Node999;
+   end
+end
+procedure Node972 begin
+   if ((westin_dead) and (carlson_dead)) then begin
+      call Node001;
+   end else begin
+      call Node058;
+   end
+end
+procedure Node971 begin
+   dec_general_rep(1);
+   call Node972;
+end
+procedure Node970 begin
+   dec_general_rep(1);
+   call Node059;
+end
+procedure Node969 begin
+   if (westin_dead == false) then begin
+      set_westin_price(-1)
+      call Node011;
+   end else if (carlson_dead == false) then begin
+      set_carlson_price(-1)
+      call Node036;
+   end else begin
+      call Node001;
+   end
+end
+procedure Node968 begin
+   if ((westin_dead) and (carlson_dead)) then begin
+      call Node001;
+   end else begin
+      call Node063;
+   end
+end
+
+procedure Node001 begin
+variable temp := "";
+   temp := mstr(202);
+   if (dude_is_made_man) then begin
+      if (self_family != dude_family) then begin
+         temp := mstr(200) + temp + mstr(203) + dude_family_name + mstr(204);
+      end
+   end else begin
+      temp := mstr(201) + temp + mstr(205 + dude_is_female);
+   end
+   Reply(temp);
+   BOption(207, Node998, -003);
+   BOption(208, Node998, -003);
+   BOption(209, Node998, 004);
+   BOption(210, Node998, 004);
+   BOption(211, Node998, 004);
+end
+procedure Node002 begin
+   set_bishop_known
+   set_bishop_known_personally
+   Reply(220);
+   BOption(mstr(221) + dude_name + mstr(222), Node001, -003);
+   BOption(223, Node001, -003);
+   BOption(224, Node001, -003);
+   if (looking_for_geck) then begin
+      if (dude_iq < 6) then begin
+         BOption(225, Node001, 004);
+      end else begin
+         BOption(226, Node001, 006);
+      end
+   end
+   BOption(227, Node001, 004);
+   if (briefcase_delivery_happy) then begin
+      BOption(228, Node001, 004);
+   end
+   BOption(229, Node001, 004);
+end
+procedure Node003 begin
+   set_bishop_known
+   set_bishop_known_personally
+   Reply(240);
+   if ((dude_has_happy_briefcase) or (dude_has_death_briefcase)) then begin
+      NOption(241, Node004, 004);
+   end
+   BOption(242, Node001, 004);
+   BOption(243, Node001, 004);
+end
+
+procedure Node004 begin
+   if (dude_has_death_briefcase) then begin
+      remove_death_briefcase;
+      Reply(250);
+      NOption(252, Node001, 004);
+   end else if (dude_has_happy_briefcase) then begin
+      payment := false;
+      remove_happy_briefcase;
+      Reply(251);
+      BOption(253, Node990, 004);
+      BOption(254, Node005, 004);
+      if (dude_charisma < 6) then begin
+         NOption(255, Node005, 004);
+      end
+   end
+end
+procedure Node005 begin
+   Reply(mstr(265 + (payment == false)) + mstr(267));
+   payment := false;
+   NOption(268, Node006, 004);
+   NOption(269, Node006, 004);
+end
+procedure Node006 begin
+   Reply(275);
+   NOption(276, Node007, 004);
+   NOption(277, Node007, 004);
+   NOption(278, Node007, 004);
+end
+procedure Node007 begin
+   Reply(285);
+   NOption(286, Node008, 004);
+   NOption(287, Node008, 004);
+end
+procedure Node008 begin
+   previous_node := 8;
+   check_restock_item_min_limit(PID_SUPER_STIMPAK, 2, 2, 100)
+   display_mstr(900);
+   inc_reno_rep(REP_NEW_RENO_MOORE_BRIEFCASE);
+   give_xp(EXP_DELIVER_BRIEFCASE);
+   dude_caps_adjust(250);
+   Reply(295);
+   BOption(296, Node989, 004);
+   NOption(297, Node988, 004);
+end
+procedure Node009 begin
+   Reply(mstr(305 + (previous_node == 8)) + mstr(307));
+   BOption(308, Node001, 004);
+   BOption(309, Node001, 004);
+   NOption(310, Node999, 004);
+end
+procedure Node010 begin
+   previous_node := 10;
+   Reply(315);
+   GOption(316, Node989, 004);
+   NOption(317, Node987, 004);
+end
+procedure Node011 begin
+   if (previous_node == 8) then begin
+      Reply(mstr(325) + mstr(326));
+   end else begin
+      Reply(326);
+   end
+   mark_new_CA_republic_on_map
+   GOption(327, Node012, 004);
+   BOption(328, Node986, 004);
+end
+procedure Node012 begin
+   Reply(335);
+   NOption(336, Node013, 004);
+   BOption(337, Node013, 005);
+   NOption(338, Node013, 006);
+end
+procedure Node013 begin
+   Reply(345);
+   NOption(346, Node014, 004);
+   BOption(347, Node986, 004);
+end
+procedure Node014 begin
+   Reply(355 + (local_var(LVAR_Node014)));
+   NOption(357 + (local_var(LVAR_Node014)), Node985, 004);
+   if (westin_price_nothing) then begin
+      BOption(359, Node016, 005);
+   end
+   NOption(360, Node022, 006);
+   BOption(361, Node986, 004);
+   set_local_var(LVAR_Node014, true);
+end
+procedure Node015 begin
+   set_snuff_westin(snuff_westin_assigned);
+   Reply(370);
+   BOption(371, Node999, 004);
+   NOption(372, Node999, 004);
+end
+procedure Node016 begin
+   Reply(380);
+   BOption(381 + (dude_iq < 8), Node984, 001);
+   BOption(383, Node983, 005);
+   NOption(384, Node982, 004);
+   BOption(385, Node986, 004);
+end
+procedure Node017 begin
+   Reply(390);
+   BOption(391, Node001, 004);
+   NOption(384, Node014, 004);
+   BOption(393, Node986, 004);
+end
+procedure Node018 begin
+//   set_westin_price(1000)   //killap's fix
+   Reply(400);
+   NOption(401, Node014, 004);
+   BOption(402, Node986, 004);
+end
+procedure Node022 begin
+   Reply(410 + (local_var(LVAR_Node022)));
+   NOption(412, Node023, 004);
+   NOption(413, Node024, 006);
+   if ((dude_iq>=7) and ((has_skill(dude_obj, SKILL_DOCTOR)>50) or (has_skill(dude_obj,SKILL_FIRST_AID )>100))) then begin
+      NOption(414, Node026, 004);
+   end
+   NOption(416, Node028, 008);
+   NOption(417, Node986, 004);
+   set_local_var(LVAR_Node022, true);
+end
+procedure Node023 begin
+   Reply(425);
+   NOption(426, Node022, 004);
+   NOption(438, Node014, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node024 begin
+   Reply(435);
+   NOption(426, Node022, 004);
+   NOption(437, Node025, 007);
+   NOption(438, Node014, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node025 begin
+   Reply(445);
+   NOption(446, Node022, 004);
+   NOption(447, Node014, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node026 begin
+   Reply(455);
+   NOption(456, Node022, 004);
+   NOption(457, Node027, 006);
+   NOption(447, Node014, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node027 begin
+   set_westin_flag(WESTIN_DRUGS_KNOWN);
+   Reply(465);
+   NOption(456, Node022, 004);
+   NOption(447, Node014, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node028 begin
+   Reply(475);
+   NOption(476, Node022, 004);
+   BOption(477, Node029, 009);
+   NOption(447, Node014, 004);
+   BOption(428, Node986, 004);
+end
+procedure Node029 begin
+   Reply(485);
+   NOption(476, Node022, 004);
+   NOption(447, Node014, 004);
+   NOption(488, Node986, 004);
+end
+procedure Node030 begin
+   Reply(495);
+   NOption(496, Node999, 004);
+end
+procedure Node031 begin
+   Reply(500 + local_var(LVAR_Node031));
+   if (bishop_snuff) then begin
+      BOption(503, Node998, 004); //edit by killap - was NOption
+   end
+   if (westin_dead) then begin
+      NOption(504, Node981, 004);
+   end
+   if (local_var(LVAR_Node031) < 2) then begin
+      NOption(505, Node999, 004);
+      inc_local_var(LVAR_Node031);
+   end else begin
+      NOption(505, Node001, 004);
+   end
+   NOption(507, Node986, 004);
+end
+procedure Node032 begin
+   Reply(mstr(515 + dude_is_female) + mstr(517));
+   BOption(209, Node998, 004);
+   BOption(519, Node998, 004);   //edit by killap - was NOption
+   BOption(211, Node998, 004);
+end
+procedure Node033 begin
+   Reply(525);
+   NOption(316, Node989, 004);
+   NOption(317, Node986, 004);
+end
+procedure Node034 begin
+variable temp;
+   // added by killap
+   variable xp_amount;
+   xp_amount := EXP_NEW_RENO_ASSASSINATE_WESTIN + (get_westin_flag(WESTIN_HEART_PILLS_DEATH)*2000);
+   // end added
+   previous_node := 34;
+   display_mstr(925);
+   inc_reno_rep(REP_NEW_RENO_ASSASINATE_WESTIN);
+   give_xp(xp_amount); // edit by killap - RP
+   set_snuff_westin(snuff_westin_succeed);
+   temp := mstr(695);
+   if (westin_price >= 500) then begin
+      temp += mstr(536);
+      dude_caps_adjust(westin_price);
+   end
+   Reply(temp);
+   if (westin_price >= 500) then begin
+      NOption(537, Node980, 004);
+   end
+   if (bishop_warning) then begin
+      NOption(538, Node979, 004);
+   end
+   if ((westin_price >= 500) or (bishop_warning == false)) then begin
+      NOption(539, Node986, 004);
+   end
+end
+procedure Node035 begin
+   previous_node := 35;
+   Reply(545);
+   GOption(316, Node036, 004);
+   NOption(547, Node986, 004);
+end
+procedure Node036 begin
+variable temp := "";
+   mark_new_CA_republic_on_map
+   if (previous_node == 8) then begin
+      temp += mstr(550) + mstr(551);
+   end if (previous_node == 34) then begin
+      temp += mstr(551);
+   end
+   temp += mstr(552 + westin_nothing);
+   if (carlson_price_nothing) then begin
+      temp += mstr(554);
+   end
+
+   Reply(temp);
+   GOption(555, Node039, 004);
+   if (get_snuff_westin(snuff_westin_succeed)) then begin
+      BOption(556, Node037, 004);
+   end
+   BOption(328, Node986, 004);
+end
+procedure Node037 begin
+   Reply(565);
+   NOption(555, Node039, 004);
+   BOption(328, Node986, 004);
+end
+procedure Node038 begin
+   set_snuff_carlson(snuff_westin_assigned);
+   Reply(370);
+   BOption(371, Node999, 004);
+   NOption(372, Node999, 004);
+end
+procedure Node039 begin
+   if (local_var(LVAR_Node039) == false) then begin
+      Reply(575 + westin_nothing);
+      NOption(578, Node978, 004);
+   end else begin
+      Reply(577);
+      NOption(579, Node978, 004);
+   end
+   if (carlson_price_nothing) then begin
+      NOption(580, Node040, 004);
+   end
+   NOption(581, Node042, 006);
+   if (get_snuff_westin(snuff_westin_succeed)) then begin
+      BOption(582, Node986, 004);
+   end
+   BOption(583, Node986, 004);
+   set_local_var(LVAR_Node039, true);
+end
+procedure Node040 begin
+   Reply(590);
+   if (get_snuff_westin(snuff_westin_succeed)) then begin
+      BOption(591, Node041, 008);
+   end
+   if ((dude_iq < 8) and (westin_nothing)) then begin
+      NOption(592, Node977, 004);
+   end
+   NOption(593, Node976a, 004);   //killap's fix: changed from 039 to 976a - now you can get the $500.
+   NOption(594, Node986, 004);
+end
+procedure Node041 begin
+   Reply(600);
+   GOption(601, Node976, 004);
+   BOption(602, Node976, 004);   //killap's fix: this should be a bad option, and not a neutral one.
+   BOption(603, Node001, 004);
+   BOption(604 + (check_general_rep >= 0), Node001, 004);
+end
+procedure Node042 begin
+   Reply(615 + ((local_var(LVAR_Node042)) or (get_snuff_westin(snuff_westin_succeed))));
+   NOption(412, Node043, 004);
+   NOption(413, Node044, 006);
+   if ((dude_iq>=7) and (has_skill(dude_obj, SKILL_DOCTOR)>50) or (has_skill(dude_obj,SKILL_FIRST_AID )>100)) then begin
+      NOption(414, Node046, 004);
+   end
+   //NOption(414, Node046, 007); - duplicate - killap
+   NOption(622, Node047, 008);
+   NOption(417, Node986, 004);
+   set_local_var(LVAR_Node042, true);
+end
+procedure Node043 begin
+   Reply(630);
+   NOption(631, Node042, 004);
+   NOption(632, Node039, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node044 begin
+   Reply(640);
+   NOption(631, Node042, 004);
+   NOption(642, Node045, 006);
+   NOption(632, Node039, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node045 begin
+   Reply(650);
+   NOption(651, Node042, 004);
+   NOption(652, Node039, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node046 begin
+   Reply(660);
+   NOption(631, Node042, 004); //was 456 - killap
+   NOption(652, Node039, 004);
+   NOption(428, Node986, 004);
+end
+procedure Node047 begin
+   Reply(670);
+   NOption(671, Node042, 004);
+   NOption(652, Node039, 004);
+   NOption(673, Node986, 004);
+end
+procedure Node048 begin
+   if (local_var(LVAR_Node048) < 2) then begin
+      Reply(680 + local_var(LVAR_Node048));
+      NOption(505, Node999, 004);
+      inc_local_var(LVAR_Node048);
+   end else begin
+      Reply(682);
+      NOption(505, Node001, 004);
+   end
+   if (carlson_dead) then begin
+      NOption(683, Node975, 004);
+   end
+   NOption(507, Node986, 004);
+end
+procedure Node049 begin
+variable temp;
+   previous_node := 49;
+   temp := mstr(695);
+   display_mstr(950);
+   inc_reno_rep(REP_NEW_RENO_ASSASSINATE_CARLSON);
+   give_xp(EXP_NEW_RENO_WHACK_CARLSON);
+   set_snuff_carlson(snuff_carlson_succeed);
+   if (carlson_price >= 500) then begin
+      temp += mstr(536);
+      dude_caps_adjust(carlson_price);
+   end
+   Reply(temp);
+   if (bishop_warning == false) then begin
+      NOption(537, Node974, 004);
+      NOption(539, Node986, 004);   //killap's fix: was Node050
+   end else begin
+      NOption(538, Node051, 004);
+   end
+end
+procedure Node050 begin
+   Reply(705);
+   NOption(706, Node052, 004);
+   NOption(707, Node051, 004);
+end
+procedure Node051 begin
+   Reply(715 + bishop_warning);
+   BOption(717, Node001, 004);
+   BOption(718, Node998, 004);
+   BOption(719, Node998, 004);
+end
+procedure Node052 begin
+   Reply(mstr(725) + mstr(726 + dude_is_female));
+   NOption(728, Node053, 004);
+   BOption(707, Node051, 004);
+end
+procedure Node053 begin
+   Reply(735);
+   NOption(736, Node054, 004);
+   BOption(707, Node051, 004);
+end
+procedure Node054 begin
+   setup_set_made_man_name(740, @Node055, family_bishop)
+end
+procedure Node055 begin
+   display_mstr(975);
+   give_xp(EXP_NEW_RENO_BISHOP_MADE_MAN);
+   Reply(made_man_name + mstr(745));
+   NOption(746, Node999, 004);
+end
+procedure Node056 begin
+   Reply(mstr(750) + made_man_name + mstr(751));
+   NOption(752, Node973, 004);
+   if ((angela_banged) or (mrs_bishop_banged)) then begin
+      NOption(753, Node057, 004);
+   end
+end
+procedure Node057 begin
+   set_bishop_warning
+   Reply(mstr(755+ (mrs_bishop_banged == false)) + mstr(757));
+   if (mrs_bishop_banged) then begin
+      BOption(758, Node972, 004);
+      BOption(762, Node998, 004);
+   end else if (angela_banged) then begin
+      BOption(761, Node972, 004);
+   end
+   BOption(759, Node971, 004);
+   BOption(760, Node972, 004);
+   BOption(763, Node998, 004);
+end
+procedure Node058 begin
+   Reply(770 + (mrs_bishop_banged == false));
+   if ((westin_dead == false) or (carlson_dead == false)) then begin
+      BOption(772, Node970, 004);
+      BOption(773 + (dude_iq>=7), Node059, 004);
+   end
+   BOption(775, Node998, 004);
+end
+procedure Node059 begin
+   if (mrs_bishop_banged) then begin
+      Reply(785 + dude_is_male);
+   end else begin
+      Reply(787);
+   end
+   BOption(788, Node001, 004);
+   NOption(789, Node969, 004);
+   BOption(790 + (mrs_bishop_banged == false), Node001, 004);
+   BOption(763, Node998, 004);
+end
+procedure Node060 begin
+   Reply(800);
+   NOption(801, Node061, 001);
+end
+procedure Node061 begin
+variable temp;
+   previous_node := 61;
+   set_bishop_warning
+   if (raiders_scout_left) then
+      temp := mstr(1805);
+   else
+      temp := mstr(805);
+   if (raiders_marcus) then begin
+      temp += mstr(806);
+   end else if (raiders_bonenose) then begin
+      temp += mstr(808); //killap's fix: changed from 807
+   end else if (raiders_robobrain) then begin
+      temp += mstr(807);   //killap's fix: changed from 808
+   end
+   temp += mstr(809);
+   Reply(temp);
+   BOption(810, Node001, -003);
+   BOption(811, Node001, -003);
+   BOption(812, Node062, 004);
+   NOption(813, Node063, 004);
+   BOption(814, Node063, 004);
+   BOption(815, Node063, 004);
+end
+procedure Node062 begin
+   previous_node := 62; // added by killap
+   if (raiders_scout_left) then begin
+      Reply(1820);
+   end
+   else if ((raiders_marcus) or (raiders_robobrain) or (raiders_bonenose)) then begin
+      Reply(822);
+   end else begin
+      Reply(mstr(820 + dude_is_female) + mstr(822));
+   end
+   BOption(823, Node968, 004);
+   BOption(824, Node968, 004);
+   NOption(825, Node968, 004);
+end
+procedure Node063 begin
+variable temp := "";
+   if (previous_node == 61) then begin
+      temp := mstr(835);
+   end
+   if (raiders_scout_left) then
+      temp += mstr(1836);
+   else
+      temp += mstr(836);
+   if ((westin_dead == false) or (carlson_dead == false)) then begin
+      temp += mstr(837);
+   end
+   Reply(temp);
+   BOption(838, Node001, 004);
+   if ((westin_dead == false) or (carlson_dead == false)) then begin
+      NOption(789, Node969, 004);
+   end
+   if (raiders_scout_left) then
+      BOption(1840, Node001, 004);
+   else
+      BOption(840, Node001, 004);
+   BOption(763, Node998, 004);
+end

@@ -1,0 +1,1 @@
+{100}{}{Vedi una targa alla base. Dice "Allo Straniero e al Vault 13: che non esiste. Talvolta noi tutti abbiamo bisogno di sognare e di lasciare che i nostri sogni ci ispirino per imprese piu' grandi. Cosi' fu per lo Straniero e per la sua fede nella leggenda del Vault 13.}

@@ -1,0 +1,45 @@
+/*     Script from map templete       */
+/*
+        Name: Nazwa
+        Location: Polozenie
+        Description: Opis
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "abbasem"
+#include "../headers/define.h"
+//#include "../headers/nazwamapy.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_ABBASEM
+
+#include "../headers/command.h"
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start
+begin
+end
+
+procedure map_enter_p_proc begin
+   Basement_Lighting;
+end
+
+procedure map_update_p_proc begin
+   Basement_Lighting;
+end
+
+procedure map_exit_p_proc begin
+
+end

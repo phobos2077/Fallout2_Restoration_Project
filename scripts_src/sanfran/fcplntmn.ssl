@@ -1,0 +1,333 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "fcplntmn"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_FCPLNTMN
+
+#include "../headers/command.h"
+
+#include "../headers/sfsheng.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Home_Tile                  (7)
+#define LVAR_Failed_Experiment          (8)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable creature_1;
+import variable creature_2;
+import variable creature_3;
+import variable creature_4;
+import variable creature_5;
+import variable creature_6;
+import variable door_guard;
+import variable lab_door;
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+
+procedure Node990;
+procedure Node998;
+procedure Node999;
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+   if (self_elevation == 0) then begin
+      if (local_var(LVAR_Home_Tile) == 16922) then begin
+         creature_1 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 16920) then begin
+         creature_2 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 17322) then begin
+         creature_3 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 17520) then begin
+         creature_4 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 17318) then begin
+         creature_5 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 16918) then begin
+         creature_6 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 10098) then begin
+         door_guard := self_obj;
+      end
+   end else begin
+      //if (tile_in_tile_rect(15105, 15092, 17110, 18301, self_tile)) then begin
+      if (self_elevation == 1) then begin
+         set_local_var(LVAR_Failed_Experiment,1);
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      if (local_var(LVAR_Failed_Experiment) == 1) then begin
+         floater(random(400,403));
+         self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),3));
+         add_timer_event(self_obj, game_ticks(random(10,15)), 1);
+      end
+   end else if (fixed_param == 2) then begin
+      if (global_var(GVAR_CLEAR_OUT_DR_SHENG_LAB) > 0) then begin
+         floater(420);
+         if (lab_door > 0 and (map_var(MVAR_Open_Lab_Door) == 0) ) then begin
+            obj_unlock(lab_door);
+            set_map_var(MVAR_Open_Lab_Door,1);
+         end
+      end else begin
+         floater(410);
+      end
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Failed_Experiment) == 1) then
+      display_msg(mstr(102));
+   else
+      display_msg(mstr(101));
+end
+
+procedure use_obj_on_p_proc begin
+   if ((obj_pid(obj_being_used_with) == PID_PLANT_SPRAY)) then begin
+      script_overrides;
+      if (self_cur_hits <= 1) then begin
+         display_msg(mstr(501));
+         kill_critter(self_obj, ANIM_melted_to_nothing_sf);
+      end else begin
+         display_msg(mstr(500));
+         critter_heal(self_obj,(self_cur_hits/2)*-1);
+      end
+      if (self_elevation == 0) then
+         set_map_var(MVAR_Attack_Player,1);
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if (self_can_see_dude) then begin
+      if (local_var(LVAR_Failed_Experiment) == 1 /*and lab_cage_door != -1 and obj_is_open(lab_cage_door)*/) then begin
+        self_attack_dude;
+      end else if (map_var(MVAR_Attack_Player) == 1) then begin
+        self_attack_dude;
+      end
+   end
+end
+
+procedure combat_p_proc begin
+  if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
+    if (random(1,4) == 1) then begin
+      poison(target_obj,random(6,12));
+    end
+  end
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then begin
+      script_overrides;
+   end
+end
+
+procedure pickup_p_proc begin
+   script_overrides;
+end
+
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+   if (self_obj == door_guard) then
+      door_guard := 0;
+
+   if (self_elevation == 1) then
+      set_map_var(MVAR_Failed_Creature_Count,map_var(MVAR_Failed_Creature_Count)-1);
+
+   destroy_obj_inven(self_obj);
+end
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj and self_elevation == 0) then begin
+     set_map_var(MVAR_Attack_Player,1);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) == PLANT_QUEST_KILLED_DRSHENG) then begin
+      destroy_object(self_obj);
+   end
+
+   if (map_first_run) then begin
+      set_local_var(LVAR_Home_Tile,self_tile);
+   end
+
+   if (self_elevation == 1) then begin
+      add_timer_event(self_obj, game_ticks(random(10,15)), 1);
+   end
+
+   if (self_tile == 16922 and map_first_run) then begin
+      set_map_var(MVAR_Met_Sheng,1);
+      force_dialog_start(@Node001);
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   if (self_elevation == 0) then begin
+      if (local_var(LVAR_Home_Tile) == 16922) then begin
+         creature_1 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 16920) then begin
+         creature_2 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 17322) then begin
+         creature_3 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 17520) then begin
+         creature_4 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 17318) then begin
+         creature_5 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 16918) then begin
+         creature_6 := self_obj;
+      end else if (local_var(LVAR_Home_Tile) == 10098) then begin
+         door_guard := self_obj;
+      end
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   check_forced_dialog
+   else if (local_var(LVAR_Failed_Experiment) == 1) then begin
+      //do nothing
+   end else if (local_var(LVAR_Home_Tile) == 10098) then begin
+      add_timer_event(self_obj, 1, 2);
+   end else begin
+      floater(random(200,202));
+   end
+end
+
+procedure Node001 begin
+   Reply(300);
+   NOption(301, Node990, 4);
+   NOption(302, Node002, 4);
+   BOption(303, Node998, 4);
+   NOption(304, Node003, 4);
+end
+
+procedure Node002 begin
+   Reply(310);
+   BOption(311, Node998, 4);
+   NOption(312, Node990, 4);
+end
+
+procedure Node003 begin
+   Reply(320);
+   BOption(321, Node998, 4);
+   NOption(322, Node990, 4);
+end
+
+procedure Node990 begin
+   set_map_var(MVAR_Met_Sheng,1);
+
+   obj_rotate(creature_4, 2);
+   obj_rotate(creature_5, 2);
+   obj_rotate(creature_6, 2);
+   dude_rotate(5);
+
+   move_to(creature_4,19495,0);
+   move_to(creature_5,19094,0);
+   move_to(creature_6,19093,0);
+
+   // To get all followers to the same hex
+   // as the player, we need to move the player
+   // first to another level of the map.
+   // If not, then the followers will run
+   // to where the player is rather than "teleport"
+
+   move_to(dude_obj,19693,2);
+   move_to(dude_obj,19693,0);
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node998 begin
+   set_map_var(MVAR_Attack_Player,1);
+end

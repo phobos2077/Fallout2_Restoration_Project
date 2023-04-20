@@ -1,0 +1,16 @@
+ // Map vars for NCR area Entrance Map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+MVAR_NCR_ENT_SLAVES_FREED                 :=0;  // (0)
+MVAR_Made_Car                             :=0;  // (1)
+MVAR_Lenny_Dead                           :=0;  // (2)
+MVAR_Slavers_Attack                       :=0;  // (3)
+MVAR_Field_1a                             :=0;  // (4)
+MVAR_Security_Level_1                     :=0;  // (5)
+MVAR_Emitter_Control                      :=0;  // (6)
+MVAR_Pens_Destroyed                       :=0;  // (7)
+MVAR_Do_Lenny_Fight                       :=0;  // (8)

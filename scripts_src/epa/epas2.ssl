@@ -1,0 +1,59 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epas2"
+#include "../headers/define.h"
+#include "../headers/epamain.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAS2          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure spatial_p_proc;
+procedure doPain;
+
+variable my_boots;
+variable worn;
+variable k;
+
+procedure start begin
+end
+
+procedure spatial_p_proc begin
+   if obj_pid(source_obj) != PID_FRUIT_FLY then call doPain;
+end
+
+procedure doPain begin
+   if ((cur_map_index == MAP_EPA_SUBLEVELS_2) or (map_var(MVAR_Cleaned_Fan) == 0)) then begin
+      if can_be_gas_poisoned(source_obj) then poison(source_obj, 100);
+   end else if (map_var(MVAR_Cleaned_Fan) == 1) then begin
+      if can_be_gas_poisoned(source_obj) then poison(source_obj, 50);
+   end else begin
+      if (Current_Distance_From_Obj(source_obj) <= 1) then begin
+         if (get_item(source_obj, PID_RUBBER_BOOTS)) then begin
+            //if carrying boots ..do boot damage
+            //ndebug("NPC Code");
+            k := random(1,100);
+            if (k < 2) then begin //1% chance to melt
+               my_boots := get_item(source_obj, PID_RUBBER_BOOTS);
+               rm_obj_from_inven(source_obj, my_boots);
+               destroy_object(my_boots);
+               if (source_obj == dude_obj) then
+                  display_msg(mstr(130));
+            end
+         end else begin
+            critter_dmg(source_obj, 2, DMG_plasma);
+         end
+      end
+   end
+end

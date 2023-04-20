@@ -1,0 +1,14 @@
+ // Map vars for Redding Downtown
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Fannie_Mae                 :=0;            // (0)
+MVAR_Widow_Rooney               :=0;            // (1)
+MVAR_Made_Car                   :=0;            // (2)
+MVAR_Attecked_Cashier           :=0;            // (3)
+MVAR_Using_Locked_Door          :=0;            // (4)
+MVAR_Rehab_Time                 :=0;            // (5) // Seraph's Code

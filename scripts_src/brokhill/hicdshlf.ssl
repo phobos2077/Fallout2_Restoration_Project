@@ -1,0 +1,131 @@
+/*        Script from item templete*          /
+
+/*
+        Name: Chad's shelf
+        Location: Broken Hills Map 2
+        Description: Holds the documents that can put him away for skimming money from BH caravans
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "hicdshlf"
+#include "../headers/define.h"
+#include "../headers/broken2.h" //mapvars
+
+#define NAME                    SCRIPT_HICDSHLF
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drop_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node991;
+procedure Node992;
+procedure Node993;
+procedure Node999;
+
+#define LVAR_Do_Once           (1)
+
+procedure start begin
+end
+
+procedure pickup_p_proc begin
+   if (local_var(LVAR_Do_Once) == 0 ) then begin
+      if ( (global_var(GVAR_CHAD_DEAD) == 1) or (map_var(MVAR_House_Encounter) == 2) ) then begin
+         script_overrides;
+         call Node992;
+      end else begin
+         script_overrides;
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end
+   end
+
+end
+
+procedure Node001 begin
+   Reply(100);
+   NOption(101,Node993,004);
+   NOption(102,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(103);
+   NOption(104,Node992,004);
+   NOption(105,Node004,004);
+end
+
+procedure Node003 begin
+   Reply(106);
+   game_time_advance(ONE_GAME_MINUTE*30);
+   NOption(g_mstr(350),Node991,004);
+end
+
+procedure Node004 begin
+   game_time_advance(ONE_GAME_MINUTE*30);
+   Reply(110);
+   NOption(107,Node992,004);
+   NOption(102,Node999,004);
+end
+
+procedure Node991 begin
+   variable chad;
+   chad := create_object_sid(PID_AGILE_THUG_MALE, 0, 0, SCRIPT_HCCHAD);
+   set_self_ai(AI_TOUGH_CITIZEN);
+   move_to(chad,22052,0);
+   set_map_var(MVAR_House_Encounter,1);
+   ndebug("map var:" + map_var(MVAR_House_Encounter));
+end
+
+procedure Node992 begin
+   variable item;
+   display_msg(mstr(108));
+   item:=create_object(PID_BRIEFCASE,0,0);
+   add_obj_to_inven(dude_obj,item);
+   dude_floater(109);
+   set_local_var(LVAR_Do_Once,1);
+   set_global_var( GVAR_BH_CHAD, CHAD_CONFIRMED_BROKENHILLS );
+end
+
+procedure Node993 begin
+   if ( (dude_perception > 6) and (dude_iq >= 5) ) then
+      call Node002;
+   else
+      call Node003;
+end
+
+procedure Node999 begin
+
+end
+
+procedure destroy_p_proc
+begin
+
+end
+
+procedure drop_p_proc
+begin
+
+end
+
+procedure use_p_proc
+begin
+
+end

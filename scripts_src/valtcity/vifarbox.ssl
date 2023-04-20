@@ -1,0 +1,79 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Box For Officer Farrell
+        Location : Vault City
+        Description: This box is for Sub Amenities Officer Farrell's Goods
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: August 22, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "vifarbox"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_VIFARBOX
+
+#include "../headers/command.h"
+#include "../headers/vctydwtn.h"
+/* Defines and Macros */
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure pickup_p_proc;
+
+import variable vault_city_farrell_box;
+
+procedure start begin
+   vault_city_farrell_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+      //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   vault_city_farrell_box := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_BOTTLE_CAPS, 100, 500, 100)
+         check_restock_item(PID_STIMPAK, 2, 8, 100)
+         check_restock_item(PID_ANTIDOTE, 1, 3, 100)
+         check_restock_item(PID_RAD_X, 2, 3, 100)
+         check_restock_item(PID_RADAWAY, 1, 2, 100)
+         check_restock_item(PID_FIRST_AID_KIT, 1, 1, 25)
+         check_restock_item(PID_FIRST_AID_BOOK, 1, 1, 25)
+         set_local_var(LVAR_Restock_Time, (random(2,3) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   vault_city_farrell_box := self_obj;
+end
+
+procedure pickup_p_proc begin
+   if(source_obj == dude_obj) then begin
+      if( is_success( roll_vs_skill( dude_obj, SKILL_STEAL, -20 ) ) == FALSE ) then begin
+         script_overrides;
+         set_map_var(MVAR_Stealing_From_Farrell, 1 );
+      end
+   end
+end

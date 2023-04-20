@@ -1,0 +1,131 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: DenBus2
+        Location: Den
+        Description: Business area 2
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "denbus2"
+#include "../headers/define.h"
+#include "../headers/denbus2.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_DENBUS2
+
+#include "../headers/command.h"
+#include "../headers/den.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+
+export variable generic_temp_box;
+export variable den_flick_box_obj;
+export variable den_smitty_box_obj;
+export variable den_mom_box_obj;
+export variable den_tubby_box_obj;
+export variable den_metzger_box_obj;
+export variable pen_door_guard_obj;
+export variable metzger_room_door_guard_obj;
+export variable vic_door_guard_obj;
+export variable vic_door_obj;
+export variable frankie_obj;
+export variable church_door_obj;
+export variable gang_1_member_1;
+export variable gang_1_member_2;
+export variable gang_1_member_3;
+export variable gang_1_member_4;
+export variable gang_1_member_5;
+export variable gang_2_member_1;
+export variable gang_2_member_2;
+export variable gang_2_member_3;
+export variable gang_2_member_4;
+export variable gang_2_member_5;
+
+export variable becky_guard_obj; //added by killap
+
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+variable the_rand;
+
+   // added by killap - expansion
+   if (at_party_fight and gangwar(state_gangwar_2won)) then begin
+      clear_at_party_fight;
+      set_returned_to_church;
+   end
+   // end added
+
+   if (is_loading_game == false) then begin
+      set_know_church;
+      if (gangwar(state_gangwar_in_fight)) then begin
+         override_map_start_hex(21945,0,2);
+      end else begin
+         override_map_start_hex(18932,0,1);
+      end
+      if (map_first_run) then begin
+         the_rand := random(1,4);
+         if (the_rand == 1) then begin
+            move_to(create_object(PID_BECKY_BOOK,0,0), 14250, 0);
+         end else if (the_rand == 2) then begin
+            move_to(create_object(PID_BECKY_BOOK,0,0), 27526, 0);
+         end else if (the_rand == 3) then begin
+            move_to(create_object(PID_BECKY_BOOK,0,0), 22923, 0);
+         end else begin
+            move_to(create_object(PID_BECKY_BOOK,0,0), 9707, 0);
+         end
+      end
+      set_map_exit_tiles(16149,32304);
+
+
+      //added by killap
+      if not(gangwar(state_gangwar_in_fight)) then
+         override_map_start_hex(28098,0,5);
+      set_global_var(GVAR_LOAD_MAP_INDEX,0);
+      //end added
+
+      Check_Create_Car(CAR_DENBUS2_HEX, CAR_DEN_ELEV)
+   end
+
+   Lighting;
+end
+
+procedure map_exit_p_proc begin
+   if (gangwar(state_gangwar_in_fight)) then begin
+      if (gang_trap(state_gang_trap_set)) then begin
+         set_gangwar(state_gangwar_1won);
+      end else begin
+         if (church_cleared_speech == false) then begin //edit by killap - expansion
+            set_gangwar(state_gangwar_2won);
+         end
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   check_gang_d_day_timer
+   Lighting;
+end

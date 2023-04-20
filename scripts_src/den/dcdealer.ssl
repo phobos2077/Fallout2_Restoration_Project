@@ -1,0 +1,214 @@
+/* Include Files */
+#define SCRIPT_REALNAME "dcdealer"
+#include "../headers/define.h"
+#include "../headers/den.h"
+#include "../headers/denres1.h"
+
+#define NAME                    SCRIPT_DCDEALER
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+
+procedure Node999;
+procedure Node998;
+procedure Node001;
+procedure NodeBarter;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Flags                      (4)
+#define LVAR_Herebefore                 (5)
+#define LVAR_Hostile                    (6)
+#define LVAR_Personal_Enemy             (7)
+#define LVAR_Restock_Time               (8)
+#define LVAR_Restock_Time_Fix           (9)
+
+variable dealer := 0;
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if dealer then display_msg(mstr(100));
+   else display_msg(mstr(200));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   if dealer then display_msg(mstr(101));
+   else display_msg(mstr(201));
+end
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ( (hostile) or (map_var(MVAR_Dealer_Attacked) == 1) ) then begin
+         set_map_var(MVAR_Dealer_Attacked,2);
+         self_attack_dude;
+      end
+   end
+end
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_map_var(MVAR_Dealer_Attacked,1);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   CHECK_LEVEL
+
+   if (self_tile == 14462) then
+      dealer := 1;
+
+   if (dealer and is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_JET, 2, 5, 100)
+         check_restock_item(PID_BUFFOUT, 0, 1, 100)
+         check_restock_item(PID_STIMPAK, 2, 3, 100)
+         check_restock_item(PID_BEER, 2, 3, 100)
+         check_restock_item(PID_NUKA_COLA, 1, 2, 100)
+         check_restock_item(PID_BOTTLE_CAPS, 15, 30, 100)
+         set_local_var(LVAR_Restock_Time, (random(1, 2) * ONE_GAME_DAY) + game_time);
+      end
+   end
+
+   if (not is_loading_game and dealer and not self_item_count(PID_DESERT_EAGLE)) then begin
+      tmp := create_object(PID_DESERT_EAGLE,5,0);
+      add_obj_to_inven(self_obj, tmp);
+      wield_obj(tmp);
+   end
+
+   set_self_team(TEAM_DEN_RES_DEALER);
+   set_self_ai(AI_THUG);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (dealer) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end else
+      floater(202);
+
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node001 begin
+   Reply(102);
+   NOption(103,NodeBarter,004);
+   NOption(104,Node999,004);
+end
+
+procedure NodeBarter begin
+   gdialog_barter;
+   Reply(105);
+   NOption(106,Node999,004);
+end

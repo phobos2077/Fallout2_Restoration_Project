@@ -1,0 +1,14 @@
+#define SCRIPT_REALNAME "ecmstncr"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
+
+#include "../headers/random_merchant.h"
+#define CITY_START              (CITY_REDDING)
+#define CITY_END                (CITY_VAULT_CITY)
+
+#define restock \
+   item:=create_object(PID_GOLD_NUGGET,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(3,7)); \
+   item:=create_object(PID_JET,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4))
+
+#include "../template/random_merchant.ssl"

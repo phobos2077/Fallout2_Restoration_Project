@@ -1,0 +1,143 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epas5"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAS5          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure spatial_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node999;
+
+procedure start
+begin
+end
+
+
+procedure spatial_p_proc
+begin
+  if (source_obj == dude_obj) then
+  begin
+    if (combat_is_initialized) then begin
+      terminate_combat;
+      add_timer_event(self_obj,5,1);
+    end else begin
+      start_gdialog(NAME, self_obj, 4, -1, -1);
+      gsay_start;
+         call Node001;
+      gsay_end;
+      end_dialogue;
+    end
+  end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+     if (combat_is_initialized) then begin
+       terminate_combat;
+       add_timer_event(self_obj,5,1);
+     end else begin
+       start_gdialog(NAME, self_obj, 4, -1, -1);
+       gsay_start;
+         call Node001;
+       gsay_end;
+       end_dialogue;
+     end
+   end
+end
+
+procedure map_enter_p_proc
+begin
+end
+
+procedure map_update_p_proc
+begin
+end
+
+procedure Node001
+begin
+  gsay_reply(SCRIPT_EPAS1, 100);
+  giq_option(4, SCRIPT_EPAS1, 101, Node002, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 102, Node003, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 103, Node004, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 104, Node005, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 105, Node999, NEUTRAL_REACTION);
+end
+
+procedure Node002
+begin
+  gsay_reply(SCRIPT_EPAS1, 106);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
+  if (cur_map_index == MAP_EPA) then
+    move_to(dude_obj, 18758, 2);
+  else
+  begin
+    //set_global_var(GVAR_LOAD_MAP_INDEX, 5);
+    load_map(MAP_EPA, 5);
+  end
+end
+
+procedure Node003
+begin
+  gsay_reply(SCRIPT_EPAS1, 109);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
+  if (cur_map_index == MAP_EPA_SUBLEVELS) then
+    move_to(dude_obj, 21908, 0);
+  else
+  begin
+    //set_global_var(GVAR_LOAD_MAP_INDEX, 6);
+    load_map(MAP_EPA_SUBLEVELS, 6);
+  end
+end
+
+procedure Node004
+begin
+  gsay_reply(SCRIPT_EPAS1, 110);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
+  if (cur_map_index == MAP_EPA_SUBLEVELS) then
+    move_to(dude_obj, 21908, 1);
+  else
+  begin
+    //set_global_var(GVAR_LOAD_MAP_INDEX, 7);
+    load_map(MAP_EPA_SUBLEVELS, 7);
+  end
+end
+
+procedure Node005
+begin
+  gsay_reply(SCRIPT_EPAS1, 111);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
+  if (cur_map_index == MAP_EPA_SUBLEVELS) then
+    move_to(dude_obj, 21908, 2);
+  else
+  begin
+    //set_global_var(GVAR_LOAD_MAP_INDEX, 8);
+    load_map(MAP_EPA_SUBLEVELS, 8);
+  end
+end
+
+procedure Node999
+begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end

@@ -1,0 +1,100 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "tribesp2"
+#include "../headers/define.h"
+#include "../headers/tribe02.h"
+#define NAME                    SCRIPT_TRIBESP2
+#include "../headers/command.h"
+
+
+#define LVAR_Do_Once               (4)
+
+/* Standard Script Procedures */
+procedure start;
+procedure spatial_p_proc;
+procedure map_update_p_proc;
+
+procedure Node004;
+procedure Node005;
+procedure Node006;
+
+import variable WARRIOR_obj;
+import variable GECKO_obj;
+
+procedure start begin
+end
+procedure spatial_p_proc begin
+   if not(REP_ENEMY_PRIMITIVE_TRIBE) then begin
+      if (source_obj == dude_obj) then begin
+         if (local_var(LVAR_Do_Once) == 0) then begin
+            set_local_var(LVAR_Do_Once,1);
+            start_dialog_at_node(Node004);
+         end
+      end
+   end
+end
+procedure map_update_p_proc begin
+
+end
+
+procedure Node999 begin
+end
+
+procedure timed_event_p_proc begin
+   variable sound1;
+
+   if (fixed_param==1) then begin
+      ndebug("ECKAGA1: tile_set_center(19903): " + tile_set_center(13897)); //screen will recenter on kaga
+      add_timer_event(self_obj,(game_ticks(0)),2);
+   end else if (fixed_param==2) then begin
+      game_ui_disable;
+      add_timer_event(self_obj,(game_ticks(1)),3);
+   end else if (fixed_param==3) then begin
+      float_msg(WARRIOR_obj, mstr(200), FLOAT_MSG_YELLOW);
+      add_timer_event(self_obj,(game_ticks(5)),4);
+   end else if (fixed_param==4) then begin
+      float_msg(WARRIOR_obj, mstr(201), FLOAT_MSG_YELLOW);
+      add_timer_event(self_obj,(game_ticks(1)),5);
+   end else if (fixed_param==5) then begin
+      attack_setup(GECKO_obj,WARRIOR_obj);
+
+      /*reg_anim_clear(GECKO_obj);
+      reg_anim_begin();
+        reg_anim_animate(GECKO_obj, ANIM_swing_anim, -1);
+      reg_anim_end();
+      critter_damage(WARRIOR_obj, 99999);*/
+      //game_ui_enable;
+   end
+end
+
+procedure Node004 begin
+   Reply(100);
+   NOption(101,Node006,004);
+   NOption(102,Node005,004);
+end
+
+procedure Node005 begin
+   //game_ui_disable;
+   //ndebug("ECKAGA1: tile_set_center(13695): " + tile_set_center(13695));
+   add_timer_event(self_obj,(game_ticks(0)),1);
+   dec_general_rep(10);
+end
+
+procedure Node006 begin
+   attack_setup(GECKO_obj,dude_obj);
+end

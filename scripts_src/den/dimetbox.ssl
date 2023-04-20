@@ -1,0 +1,76 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "dimetbox"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_DIMETBOX
+
+#include "../headers/command.h"
+#include "../headers/den.h"
+
+#define LVAR_Restock_Time                       (0)
+#define LVAR_Restock_Time_Fix                   (1)  //added by killap
+
+import variable den_metzger_box_obj;
+
+procedure start;
+procedure map_update_p_proc;
+procedure map_enter_p_proc;
+
+procedure start begin
+   den_metzger_box_obj := self_obj;
+end
+
+procedure map_update_p_proc begin
+   den_metzger_box_obj := self_obj;
+end
+
+procedure map_enter_p_proc begin
+variable the_box_to_kill;
+//added by killap
+variable tmp;
+variable special_item;
+//end added
+
+/* Set up the door state when the player first enters the map */
+   den_metzger_box_obj := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         if (gave_metzger_party_stuff) then begin
+            off_gave_metzger_party_stuff;
+            the_box_to_kill := create_object(PID_FOOTLOCKER_CLEAN_RIGHT, 0, 0);
+            move_obj_inven_to_obj(self_obj, the_box_to_kill);
+            destroy_object(the_box_to_kill);
+         end
+
+         self_caps_adjust(random(5, 250) - self_caps);
+         check_restock_item(PID_SPEAR, 0, 7, 100)
+         check_restock_item(PID_KNIFE, 0, 11, 100)
+         check_restock_item(PID_10MM_PISTOL, 0, 2, 100)
+         check_restock_item(PID_BOOZE, 0, 6, 100)
+         check_restock_item(PID_10MM_JHP, 0, 2, 100)
+         check_restock_item(PID_GECKO_PELT, 0, 5, 100)
+         check_restock_item(PID_HEALING_POWDER, 0, 4, 100)
+         check_restock_item(PID_XANDER_ROOT, 0, 13, 100)
+         check_restock_item(PID_FLOWER, 0, 7, 100)
+         set_local_var(LVAR_Restock_Time, (random(1,5) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end

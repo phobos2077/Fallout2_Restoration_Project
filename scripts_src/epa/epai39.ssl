@@ -1,0 +1,110 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epai39"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAI39
+
+#include "../headers/command.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure use_obj_on_p_proc;
+
+#define MIDDLE_FAN   (12691)
+
+procedure start begin
+end
+
+procedure look_at_p_proc
+begin
+   if (self_tile == MIDDLE_FAN) then begin
+      script_overrides;
+      display_msg(mstr(100));
+   end
+end
+
+procedure description_p_proc
+begin
+   variable fan := 0;
+   fan := tile_contains_pid_obj(self_tile,self_elevation,33556632);
+   if (self_tile == MIDDLE_FAN) then begin
+      script_overrides;
+      if (is_visible(fan)) then
+         display_msg(mstr(102));
+      else
+         display_msg(mstr(101));
+   end
+end
+
+
+procedure map_enter_p_proc begin
+   variable fan := 0;
+
+   reg_anim_begin();
+   reg_anim_animate_forever(self_obj, ANIM_stand);
+   reg_anim_end();
+
+   add_timer_event(self_obj, 1, 1);
+
+   if (map_first_run) then begin
+      fan := tile_contains_pid_obj(self_tile,self_elevation,33556632);
+      set_obj_visibility( fan, true ); //invis
+   end
+
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == 0) then
+   begin
+      reg_anim_begin();
+      reg_anim_animate_forever(self_obj, ANIM_stand);
+      reg_anim_end();
+   end
+end
+
+procedure timed_event_p_proc begin
+  if (fixed_param == 1) then begin
+      if ( (anim_busy(self_obj) == false) and (combat_is_initialized == 0) ) then begin
+         reg_anim_begin();
+         reg_anim_animate_forever(self_obj, ANIM_stand);
+         reg_anim_end();
+      end
+      add_timer_event(self_obj, 1, 1);
+  end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   variable fan := 0;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if ( (self_tile == MIDDLE_FAN) and (Tool == PID_PLANK) ) then begin
+      gfade_out(ONE_GAME_SECOND);
+      display_msg(mstr(200));
+      remove_pid_qty(dude_obj, PID_PLANK, 1)
+      fan := tile_contains_pid_obj(self_tile,self_elevation,33556632);
+      set_obj_visibility( fan, false ); //vis
+      gfade_in(ONE_GAME_SECOND);
+      destroy_object(self_obj);
+   end
+
+end

@@ -1,0 +1,730 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ncethwri"
+#include "../headers/define.h"
+#define NAME                     SCRIPT_NCETHWRI
+#define TOWN_REP_VAR             GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/newreno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node005;
+procedure Node006;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+
+#define LVAR_Flags                        (4)
+#define LVAR_Home_Tile                    (5)
+
+#define belongs_here_bit                  bit_10
+#define discription_a_bit                 bit_11
+#define discription_b_bit                 bit_12
+#define snide_comment_bit                 bit_13
+#define node_6_bit                        bit_14
+
+#define belongs_here                      lvar_bit(LVAR_Flags, belongs_here_bit)
+#define set_belongs_here                  set_lvar_bit_on(LVAR_Flags, belongs_here_bit)
+#define off_belongs_here                  set_lvar_bit_off(LVAR_Flags, belongs_here_bit)
+
+#define discription_a                     lvar_bit(LVAR_Flags, discription_a_bit)
+#define set_discription_a                 set_lvar_bit_on(LVAR_Flags, discription_a_bit)
+
+#define discription_b                     lvar_bit(LVAR_Flags, discription_b_bit)
+#define set_discription_b                 set_lvar_bit_on(LVAR_Flags, discription_b_bit)
+
+#define snide_comment                     lvar_bit(LVAR_Flags, snide_comment_bit)
+#define set_snide_comment                 if (snide_comment == false) then begin                      \
+                                             inc_general_rep(REP_BONUS_MRS_WRIGHT_SNIDE_COMMENT);     \
+                                          end                                                         \
+                                          set_lvar_bit_on(LVAR_Flags, snide_comment_bit)
+
+#define node_6                            lvar_bit(LVAR_Flags, node_6_bit)
+#define set_node_6                        set_lvar_bit_on(LVAR_Flags, node_6_bit)
+
+#define mrs_wright_at_church              ((get_still_mission(still_mission_reward) == false) and (mrs_wright_destroyed_still == false) and (ethyl_discovered_still))
+#define check_belongs_here                if (cur_map_index == MAP_NEW_RENO_4) then begin             \
+                                             if (mrs_wright_at_church) then begin                     \
+                                                off_belongs_here;                                     \
+                                             end else begin                                           \
+                                                set_belongs_here;                                     \
+                                             end                                                      \
+                                          end else if (cur_map_index == MAP_NEW_RENO_3) then begin    \
+                                             if (mrs_wright_at_church) then begin                     \
+                                                if (ethyl_visible_on_map_three_time) then begin       \
+                                                   set_belongs_here;                                  \
+                                                end                                                   \
+                                             end else begin                                           \
+                                                off_belongs_here;                                     \
+                                             end                                                      \
+                                          end                                                         \
+                                          ndebug("ETHYL BELONGS HERE == "+belongs_here);
+
+#define self_family                       family_wright
+
+import variable new_reno_temp_box;
+import variable new_reno_ethyl_wright_box;
+variable do_assign_mission;
+variable prev_node;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (self_visible) then begin // was self_visible == false
+         if (combat_is_initialized == false) then begin
+            if (mrs_wright_at_church) then begin
+               call Node002;
+            end else begin
+               call Node003;
+            end
+         end
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_TOUGH_CITIZEN);
+      end
+      check_belongs_here
+      //added by killap
+      if (belongs_here == false) then begin
+         if (self_tile != map_exit_tile) then begin //added check by killap
+            if (cur_map_index == MAP_NEW_RENO_3) then begin
+               move_to(self_obj,map_exit_tile,self_elevation);
+            end else begin
+               move_to(self_obj,map_exit_tile,self_elevation);
+            end
+         end
+      end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+         move_to(self_obj,local_var(LVAR_Home_Tile),self_elevation);
+      end
+      //end added
+      if (belongs_here) then begin
+         check_set_obj_visiblility(self_obj, false);
+      end else begin
+         check_set_obj_visiblility(self_obj, true);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure map_update_p_proc begin
+   if (cur_map_index == MAP_NEW_RENO_3) then begin
+      if (self_visible == false) then begin
+         check_belongs_here
+         if (belongs_here) then begin
+            check_set_obj_visiblility(self_obj, false);
+            reg_anim_clear(self_obj); //added by killap
+            move_to(self_obj, map_exit_tile, self_elevation);
+         end
+      end
+   end
+end
+
+procedure combat_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if ((self_can_see_dude) and ((hostile) or (warned_attack))) then begin
+      self_attack_dude;
+   end else if (belongs_here == false) then begin
+      if (self_tile != map_exit_tile) then begin //added check by killap
+         if (cur_map_index == MAP_NEW_RENO_3) then begin
+            anim_move_to_point_rate(map_exit_tile, 5)
+         end else begin
+            anim_move_to_point_rate(map_exit_tile, 5)
+         end
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      anim_move_to_point_rate(local_var(LVAR_Home_Tile), 5)
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      attack_family(family_wright)
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   prev_node := 0;
+   do_assign_mission := false;
+   if (new_reno_ethyl_wright_box != 0) then begin
+      move_obj_inven_to_obj(self_obj, new_reno_temp_box);
+      move_obj_inven_to_obj(new_reno_ethyl_wright_box, self_obj);
+   end
+      if ((get_still_mission(still_mission_reward)) or (mrs_wright_destroyed_still)) then begin
+         call Node049;
+      end else if (belongs_here == false) then begin
+         call Node002;
+      end else if (get_still_mission(still_mission_assigned)) then begin
+         start_dialog_at_node(Node044);
+      end else if (ethyl_discovered_still) then begin
+         start_dialog_at_node(Node039);
+      end else if (dude_has_porn_star_rep) then begin
+         start_dialog_at_node(Node035);
+      end else if has_rep_slaver or has_rep_childkiller or has_rep_berserker or mrs_wright_pissed then begin
+         start_dialog_at_node(Node037);
+      end else if ((know_mrs_wright) and (herebefore)) then begin
+         start_dialog_at_node(Node024);
+      end else begin
+         start_dialog_at_node(Node005);
+      end
+   if (new_reno_ethyl_wright_box != 0) then begin
+      move_obj_inven_to_obj(self_obj, new_reno_ethyl_wright_box);
+      move_obj_inven_to_obj(new_reno_temp_box, self_obj);
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   if (do_assign_mission) then begin
+      set_still_mission(still_mission_assigned);
+   end
+   check_belongs_here
+   set_herebefore; //moved here by killap: Mrs. Wright would always greet you as if you already met.
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (mrs_wright_at_church) then begin
+      display_mstr(175 + discription_b);
+      set_discription_b;
+   end else begin
+      display_mstr(150 + discription_a);
+      set_discription_a;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+   attack_family(self_family) //added by killap
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   set_snide_comment;
+   call Node040;
+end
+procedure Node989 begin
+   set_still_mission(still_mission_reward);
+   inc_general_rep(REP_BONUS_MRS_WRIGHT_DECLINE_REWARD);
+end
+procedure Node988 begin
+   set_still_mission(still_mission_reward);
+   call Node048;
+end
+procedure Node987 begin
+   set_mrs_wright_pissed;
+end
+procedure Node986 begin
+   do_assign_mission := false;
+end
+
+procedure Node002 begin
+   floater_rand(200, 201);
+end
+procedure Node003 begin
+   floater_rand(206 - day, 208 + night);
+end
+procedure Node005 begin
+   Reply(210 + herebefore);
+   NOption(212 + herebefore, Node006, -003);
+   NOption(214, Node999, -003);
+   if (know_mrs_wright == false) then begin
+      NOption(215, Node009, 004);
+   end
+   if (dude_charisma > 5) then begin
+      GOption(216, Node008, 005);
+   end
+   NOption(217, Node999, 004);
+   prev_node := 5;
+end
+procedure Node006 begin
+   if (inven_count(self_obj) > 0) then begin
+      Reply(mstr(220) + mstr(230 + node_6) + mstr(222));
+      move_obj_inven_to_obj(self_obj, dude_obj);
+   end else begin
+      Reply(mstr(220) + mstr(230 + node_6) + mstr(232));
+   end
+   set_node_6;
+   GOption(223, Node999, -003);
+   NOption(224, Node999, -003);
+   prev_node := 6;
+end
+procedure Node008 begin
+   set_know_mrs_wright;
+   Reply(240);
+   if (global_var(GVAR_ARROYO_RETURN_GECK) != 0) then begin
+      NOption(241, Node013, 004);
+   end
+   if (f2_state_v13_looking) then begin
+      NOption(242, Node014, 004);
+   end
+   NOption(243, Node015, 004);
+   if ((wright_known) and (wright_dead == false)) then begin
+      if (get_still_status(still_status_wrecked) == false) then begin
+         NOption(244, Node023, 004);
+      end
+   end
+   if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+      NOption(245, Node029, 004);
+   end
+   NOption(246, Node999, 004);
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(250);
+   set_know_mrs_wright;
+   NOption(mstr(251) + dude_name + mstr(1251), Node010, 004);
+   NOption(252, Node010, 004);
+   NOption(243, Node010, 004);
+   NOption(254, Node999, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   Reply(260);
+   NOption(261, Node011, 004);
+   BOption(262, Node012, 005);
+   NOption(263, Node011, 004);
+   NOption(264, Node999, 004);
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(270);
+   BOption(262, Node012, 005);
+   if (dude_is_armed) then begin
+      NOption(272, Node012, 004);
+   end
+   NOption(274, Node999, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   Reply(280);
+   NOption(281, Node024, 004);
+   NOption(282, Node999, 004);
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(290);
+   NOption(291, Node024, 004);
+   NOption(292, Node999, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   mark_vault_city_on_map
+   Reply(300);
+   NOption(301 + (vault_city_wrong_place == false), Node024, 004);
+   NOption(303, Node999, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   Reply(310);
+   NOption(311, Node016, 004);
+   NOption(312, Node016, 004);
+   NOption(313, Node999, 004);
+   prev_node := 15;
+end
+procedure Node016 begin
+   if (prev_node == 15) then begin
+      Reply(mstr(315) + mstr(316));
+   end else begin
+      Reply(316);
+   end
+   NOption(317, Node050, 004);
+   NOption(318, Node050, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(320);
+   BOption(mstr(324) + mstr(321 + dude_is_female), Node018, 004);
+   NOption(323, Node999, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(325);
+   BOption(326, Node022, 004);
+   NOption(327, Node019, 004);
+   NOption(328, Node016, 004);
+   NOption(329, Node999, 004);
+   prev_node := 18;
+end
+procedure Node019 begin
+   if (tully_dead == false) then begin
+      Reply(330);
+      if (know_tully) then begin
+         BOption(332, Node020, 004);
+      end else begin
+         NOption(333, Node021, 004);
+      end
+   end else begin
+      Reply(331);
+   end
+   NOption(328, Node016, 004);
+   NOption(335, Node999, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(340);
+   if (tully_drinks) then begin
+      BOption(341, Node022, 004);
+      BOption(342, Node022, 004);
+   end
+   NOption(343, Node016, 004);
+   NOption(344, Node022, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(345);
+   NOption(346, Node016, 004);
+   NOption(347, Node999, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   set_mrs_wright_pissed;
+   Reply(350);
+   BOption(351, Node999, 004);
+   NOption(352, Node999, 004);
+   prev_node := 22;
+end
+procedure Node023 begin
+   Reply(355);
+   if (know_mr_wright) then begin
+      BOption(356, Node025, 004);
+   end else if (wright_known) then begin
+      BOption(357, Node025, 004);
+   end
+   NOption(358, Node024, 004);
+   NOption(359, Node999, 004);
+   prev_node := 23;
+end
+procedure Node024 begin
+   if (prev_node == 0) then begin
+      Reply(362);
+   end else if (prev_node == 24) then begin
+      Reply(360);
+   end else begin
+      Reply(361);
+   end
+   NOption(363, Node015, 004);
+   if (global_var(GVAR_ARROYO_RETURN_GECK) != 0) then begin
+      NOption(364, Node013, 004);
+   end
+   if (f2_state_v13_looking) then begin
+      NOption(365, Node014, 004);
+   end
+   if ((wright_known) and (wright_dead == false)) then begin
+      if (get_still_status(still_status_wrecked) == false) then begin
+         NOption(366, Node023, 004);
+      end
+   end
+   if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+      NOption(245, Node029, 004);
+   end
+   NOption(368 + (prev_node == 0), Node999, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   Reply(375);
+   BOption(376, Node026, 004);
+   BOption(377, Node026, 006);
+   NOption(378, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(mstr(380) + mstr(381 + dude_is_female));
+   BOption(383, Node051, 004);
+   BOption(384, Node051, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   Reply(385);
+   BOption(386, Node052, 004);
+   BOption(387, Node052, 004);
+   prev_node := 27;
+end
+procedure Node028 begin
+   set_ethyl_discovered_still;
+   Reply(390);
+   NOption(392, Node999, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(395);
+   if (get_mystery_flag(MYSTERY_STATE_ASSIGNED)) then begin
+      BOption(396, Node030, 004);
+   end
+   NOption(397, Node024, 004);
+   NOption(398, Node999, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   Reply(400);
+   NOption(401, Node031, 004);
+   NOption(397, Node024, 004);
+   NOption(398, Node999, 004);
+   prev_node := 30;
+end
+procedure Node031 begin
+   Reply(405);
+   NOption(406, Node032, 004);
+   NOption(407, Node024, 004);
+   NOption(398, Node999, 004);
+   prev_node := 31;
+end
+procedure Node032 begin
+   Reply(410);
+   NOption(411, Node024, 004);
+   NOption(398, Node999, 004);
+   prev_node := 32;
+end
+procedure Node035 begin
+   Reply(mstr(1415) + mstr(415 + mrs_wright_pissed));
+   set_mrs_wright_pissed;
+   BOption(417, Node036, -003);
+   NOption(418, Node999, -003);
+   BOption(419, Node036, 004);
+   NOption(420, Node036, 004);
+   NOption(421, Node999, 004);
+   prev_node := 35;
+end
+procedure Node036 begin
+   Reply(425);
+   NOption(426, Node999, -003);
+   NOption(427, Node999, -005);
+   NOption(428, Node999, 006);
+   prev_node := 36;
+end
+procedure Node037 begin
+   if (has_rep_slaver) then begin
+      Reply(mstr(1430) + mstr(430) + mstr(431));
+   end else begin
+      Reply(mstr(1430) + mstr(1431) + mstr(431 + know_mrs_wright));
+   end
+   BOption(433, Node038, -003);
+   NOption(434, Node999, -003);
+   BOption(435, Node038, 004);
+   NOption(436, Node999, 004);
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(440 + night);
+   NOption(442, Node999, -003);
+   NOption(443 + night, Node999, 004);
+   prev_node := 38;
+end
+procedure Node039 begin
+   Reply(450);
+   GOption(451, Node040, 004);
+   NOption(452, Node040, 004);
+   BOption(453, Node990, 004);
+   NOption(454, Node999, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   Reply(460);
+   NOption(461, Node041, 004);
+   NOption(462, Node041, 006);
+   NOption(463, Node999, 004);
+   prev_node := 40;
+end
+procedure Node041 begin
+   Reply(470);
+   if (get_still_status(still_status_wrecked)) then begin
+      NOption(471, Node046, 004);
+   end else begin
+      NOption(472 + went_to_still_map, Node042, 004);
+   end
+   NOption(474, Node043, 004);
+   NOption(475, Node999, 004);
+   prev_node := 41;
+end
+procedure Node042 begin
+   do_assign_mission := true;
+   if (went_to_still_map) then begin
+      Reply(mstr(1480) + mstr(481));
+   end else begin
+      Reply(mstr(1480) + mstr(480) + mstr(481));
+   end
+   NOption(482, Node053, 004);
+   prev_node := 42;
+end
+procedure Node043 begin
+   set_mrs_wright_destroyed_still;
+   set_still_status(still_status_wrecked);
+   Reply(490);
+   NOption(491, Node999, 004);
+   prev_node := 43;
+end
+procedure Node044 begin
+   Reply(500);
+   if (get_still_status(still_status_wrecked)) then begin
+      NOption(501, Node046, 004);
+   end
+   NOption(502, Node045, 004);
+   NOption(503, Node999, 004);
+   prev_node := 44;
+end
+procedure Node045 begin
+   Reply(510);
+   NOption(512, Node999, 004);
+   prev_node := 45;
+end
+procedure Node046 begin
+   Reply(515);
+   GOption(516, Node989, 004);
+   NOption(517, Node047, 004);
+   prev_node := 46;
+end
+procedure Node047 begin
+   Reply(520);
+   NOption(521, Node988, 004);
+   GOption(522, Node989, 004);
+   prev_node := 47;
+end
+procedure Node048 begin
+   dude_caps_adjust(237);
+   give_pid_qty(dude_obj, PID_LOUISVILLE_SLUGGER, 1)
+   Reply(525);
+   NOption(526, Node999, 004);
+   prev_node := 48;
+end
+procedure Node049 begin
+   float_msg(self_obj, mstr(530) + dude_name + mstr(1530), FLOAT_COLOR_NORMAL);
+end
+procedure Node050 begin
+   Reply(535);
+   BOption(536, Node017, 004);
+   NOption(327, Node019, 004);
+   NOption(328, Node016, 004);
+   NOption(539, Node999, 004);
+   prev_node := 50;
+end
+procedure Node051 begin
+   Reply(540);
+   BOption(541, Node027, 004);
+   BOption(542, Node999, 006);
+   NOption(543, Node999, 004);
+   prev_node := 51;
+end
+procedure Node052 begin
+   Reply(545);
+   NOption(546, Node028, 007);
+   if ((went_to_still_map) or (know_still)) then begin
+      NOption(547, Node028, 004);
+   end
+   NOption(548, Node987, 004);
+   prev_node := 52;
+end
+procedure Node053 begin
+   do_assign_mission := true;
+   Reply(550);
+   NOption(551, Node999, 004);
+   NOption(552, Node999, 004);
+   NOption(553, Node986, 004);
+   prev_node := 53;
+end

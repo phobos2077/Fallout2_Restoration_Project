@@ -1,0 +1,248 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Modoc Child
+        Location: Modoc
+        Description: Generic Slag Child in Modoc Ghost Farm
+
+        Log:
+
+           Created: January 13, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "mcchild"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_MCCHILD
+#define TOWN_REP_VAR            GVAR_TOWN_REP_GHOST_FARM
+
+#include "../headers/command.h"
+#include "../headers/modoc.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node999;                                      // This Node is Always Ending
+procedure Node901;                                      // Random dialogue 1
+procedure Node902;                                      // Random dialogue 2
+procedure Node903;                                      // Random dialogue 3
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                      (4)
+
+/* Local variables which do not need to be saved between map changes. */
+variable pick;
+variable In_Timed_Event:=0;
+variable scarydude;
+variable here;
+variable cooldude;
+variable playing:=1;
+variable run_from_dude;
+variable newtile;
+variable pester_dude:=0;
+variable dont_pester:=0;
+variable spoke:=0;
+variable prevhex:=0;
+variable fix:=0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      check_destroy_slag
+   end
+   set_self_team(TEAM_SLAG);
+   set_self_ai(AI_CHILD);
+end
+procedure map_exit_p_proc begin
+   if (slag_in_cave) then begin
+      if ((attacking_slags) or (all_slags_dead)) then begin
+         destroy_object(self_obj);
+      end
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (self_visible) then begin
+      if (fixed_param == 1) then begin
+         if (dont_pester > 0) then dont_pester:=dont_pester-1; //eventually child will pester hero again
+         if (playing) then self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
+         In_Timed_Event:=0;
+      end else if (fixed_param == 2) then begin
+         pester_dude:=1; //force end to pestering...it has gone on too long
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_visible) then begin
+      if (self_can_see_dude) then begin
+         if ((hostile) or (enemy_slags)) then begin
+            Flee_From_Dude
+         end if (sleezy_stranger_flag) then begin
+            Flee_From_Dude
+         end
+      end
+
+      if ((random(0,100) == 1) and (In_Timed_Event == 0)) then begin
+         In_Timed_Event:=1;
+         add_timer_event(self_obj,game_ticks(random(6,21)),1);
+      end
+
+      if town_rep_worse_than(6) or sleezy_stranger_flag then begin
+         scarydude:=dude_tile;
+         here:=self_tile;
+         if (run_from_dude == 0) then begin
+            if (prevhex != scarydude) then begin //The dude has moved
+               if ((tile_distance(here,scarydude) < 2) and (self_can_see_dude)) then begin
+                  playing:=0; //not playing ...gotta run from the dude
+                  run_from_dude:=1;
+                  prevhex:=scarydude; //save dudes last location so child
+                  //doesn't scream again if dude is not moving
+               end
+            end
+            if (here == newtile) then begin //make child scream only at end of run
+               newtile:=0;                  //if they don't run then they dont scream
+               call Node901;
+            end
+         end else begin
+            newtile:=tile_num_in_direction(here,random(0,5),random(3,7));
+            if ( (tile_distance(newtile,scarydude)) > (tile_distance(here,scarydude)) ) then begin
+               run_from_dude:=0; //child has run from the dude...dont need to run again
+               //call Node901;
+               playing:=1;
+               self_run_to_tile(newtile);
+            end
+         end
+      end else if (dont_pester < 1) then begin
+         //ndebug("dont_pester is FALSE");
+         cooldude:=dude_tile;
+         here:=self_tile;
+         if (tile_distance(here,cooldude) < 5) then begin
+            playing:=0; //not playing ...gonna pester dude for a while
+            if (pester_dude < 1) then
+               pester_dude:=random(3,6);
+         end
+         if (pester_dude > 1) then begin
+            if ( (tile_distance(here,cooldude) < 6) and (spoke == 0) ) then begin
+               spoke:=1;
+               pester_dude:=pester_dude - 1;
+               //next 4 lines added to prevent child cornering dude
+               //can be taken out if push manuver is added
+               if (fix == 0) then begin
+                  fix:=1;
+                  add_timer_event(self_obj,game_ticks(30),2); //don't pester dude for more than 30 seconds
+               end
+               call Node903;
+            end else if (tile_distance(here,cooldude) > 5) then begin
+               spoke:=0;
+               newtile:=tile_num_in_direction(cooldude,random(0,5),1);
+               self_run_to_tile(newtile);
+            end
+         end else if (pester_dude == 1) then begin //once pester becomes 1 we stop the pestering
+            fix:=0;
+            pester_dude:=0;
+            dont_pester:=3; //don't pester the dude for a while (maybe make this random)
+            playing:=1;
+         end
+      end //good rep and dont pester is false
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_enemy_slags;
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   if town_rep_worse_than(6) or sleezy_stranger_flag then begin
+      call Node901;
+      Flee_From_Dude
+   end else call Node902;
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   //inc_childkiller - redundant and makes it seem you killed two children when only was was killed  - killap
+   dec_slag_cnt;
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + self_is_female);
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(120 + self_is_female);
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure Node901 begin
+   if (sleezy_stranger_flag == false) then begin
+      floater_rand(150, 168);
+   end else begin
+      floater(300);
+   end
+end
+procedure Node902 begin
+   floater_rand(170, 189);
+end
+procedure Node903 begin
+   floater_rand(190, 223);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

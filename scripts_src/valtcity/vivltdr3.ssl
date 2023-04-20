@@ -1,0 +1,167 @@
+/*
+  Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: NO
+        Trapped: NO
+        Closing: YES
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+        Please note any changes that have been made to the file in Updated. Then comment
+        the code which you have changed/altered/commented out. Please, do not delete any
+        code which was written.
+
+        Created: September 26, 1997
+
+        Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "vivltdr3"
+#include "../headers/vctyvlt.h"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_ELECTRIC_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_CLOSE
+
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#define Lock_Bonus                      (-50)
+
+#define custom_use_obj_on_p_proc
+#define custom_use_skill_on_p_proc
+#define custom_use_p_proc
+#include "../headers/doors.h"
+
+import variable vault_city_martin_obj; // Seraph's Code
+
+// Detect if the player is caught by Martin. Martin is not on
+// the map at night, so make sure to check his Map Var.
+#define martin_sees_lockpick_block \
+  if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and \
+    ( obj_can_see_obj( vault_city_martin_obj, source_obj ) ) and \
+    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) and \
+    ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin \
+      script_overrides; \
+      set_map_var( MVAR_Martin_Sees_Lockpick, 1 ); \
+      return; \
+  end
+
+/********************************************************************
+Any time that a critter tries to use this door will call this
+procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure use_p_proc begin
+  /* Trap_Roll is a global variable to this script, defined at the beginning
+  of the script. */
+  
+  Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+  
+  martin_sees_lockpick_block
+  else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+    if (is_success(Traps_Roll)) then begin
+      script_overrides;
+      set_local_var(LVAR_Found_Trap,1);
+      reg_anim_clear(source_obj);
+      
+      if (source_obj == dude_obj) then begin
+        display_msg(mstr(204));
+      end
+      else begin
+        display_msg(mstr(205));
+      end
+    end
+    
+    else begin
+      if (obj_is_locked(self_obj)) then begin
+        script_overrides;
+        display_msg(mstr(203));
+        call Damage_Critter;
+      end
+      else begin
+        call Damage_Critter;
+      end
+    end
+  end
+  
+  else if (obj_is_locked(self_obj)) then begin
+    script_overrides;
+    display_msg(mstr(203));
+  end
+  
+  if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin
+    last_source_obj := source_obj;
+    add_timer_event(self_obj, 10, TIMER_CLOSE);
+  end
+end
+
+/**********************************************************************************
+Should the player try using a skill on the door, here are where the skill rolls
+will be made. The ones which need to be in here are: Lockpick and Traps. Science
+and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+  variable Skill_Used;
+  
+  Skill_Used:=action_being_used;
+  
+  if (Skill_Used == SKILL_LOCKPICK) then begin
+    
+    martin_sees_lockpick_block
+    else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+      script_overrides; // DJS
+      call Unlock_Lock;
+    end
+    else begin
+      script_overrides; // DJS
+      call Set_Lock;
+    end
+  end                                                          // End of Skill_Lockpick
+  
+  else if (Skill_Used == SKILL_TRAPS) then begin
+    
+    martin_sees_lockpick_block
+    else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+      script_overrides; // DJS
+      call Skill_Disarm_Traps;
+    end
+    else begin
+      script_overrides; //added by killap
+      if (source_obj == dude_obj) then begin
+        display_msg(mstr(195));
+      end
+      
+      else begin
+        display_msg(obj_name(source_obj)+mstr(200));
+      end
+    end
+  end                                                          // End of Skill_Traps
+  
+end
+
+/**********************************************************************************
+This is called when the player is using an object on the door. When the check is
+made to find out what is being used, obj_pid(obj_being_used_with) will need to
+be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+  variable Tool;
+  
+  Tool:=obj_pid(obj_being_used_with);
+  if ( (LOCK_STATUS == STATE_STANDARD_LOCK) and (Tool == PID_LOCKPICKS or Tool == PID_EXP_LOCKPICK_SET) )
+  or ( (LOCK_STATUS == STATE_ELECTRIC_LOCK) and (Tool == PID_ELECTRONIC_LOCKPICKS or Tool == PID_ELEC_LOCKPICK_MKII) )
+  or ( Tool == PID_CROWBAR or Tool == PID_DYNAMITE or Tool == PID_PLASTIC_EXPLOSIVES)
+  then begin
+    martin_sees_lockpick_block
+  end
+  pry_trap_block
+  full_lockpick_block
+end

@@ -1,0 +1,191 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "wsterm2c"
+#include "../headers/define.h"
+#include "../headers/depolvz.h"
+
+#define NAME                    SCRIPT_WSTERM2C
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+
+procedure Node001;
+procedure Node001a;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+
+procedure Turn_Off_Robots;
+
+procedure Node999;
+
+#define LVAR_Keyboard                   (0)
+#define LVAR_Auto                       (1)
+#define LVAR_Hack_Once                  (2)
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_p_proc begin
+   script_overrides;
+   if (get_iq(source_obj) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj)+mstr(200));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Keyboard) == 1) then begin
+       display_msg(mstr(121));
+   end
+   else if (local_var(LVAR_Auto) == 1) then begin
+       display_msg(mstr(120));
+   end
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(mstr(103)+mstr(104)+mstr(105));
+
+   if (local_var(LVAR_Hack_Once) == 0) then
+       NOption(106,Node001a,004);
+   if (dude_luck > 7) then
+       NOption(107,Node012,004);
+   if (dude_perception > 6) then
+       NOption(108,Node013,004);
+   NOption(109,Node999,004);
+end
+
+procedure Node001a begin
+   variable test;
+
+   set_local_var(LVAR_Hack_Once,1);
+
+   test:=roll_vs_skill(dude_obj,SKILL_SCIENCE,-20);
+
+   if (is_success(test)) then
+       call Node011;
+   else if (is_critical(test)) then
+       call Node014;
+   else
+       call Node010;
+end
+
+procedure Node010 begin
+   Reply(110);
+
+   NOption(111,Node999,004);
+end
+
+procedure Node011 begin
+   set_local_var(LVAR_Auto,1);
+   call Turn_Off_Robots;
+
+   display_msg(g_mstr(1021)); //added by killap
+   give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
+
+   Reply(112);
+
+   NOption(113,Node999,004);
+end
+
+procedure Node012 begin
+   set_local_var(LVAR_Auto,1);
+   call Turn_Off_Robots;
+
+   display_msg(g_mstr(1021)); //added by killap
+   give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
+
+   Reply(114);
+
+   NOption(115,Node999,004);
+end
+
+procedure Node013 begin
+   set_local_var(LVAR_Auto,1);
+   call Turn_Off_Robots;
+
+   display_msg(g_mstr(1021)); //added by killap
+   give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
+
+   Reply(116);
+
+   NOption(117,Node999,004);
+end
+
+procedure Node014 begin
+   set_local_var(LVAR_Keyboard,1);
+
+   Reply(118);
+
+   NOption(119,Node999,004);
+end
+
+procedure Node999 begin
+end
+
+procedure Turn_Off_Robots begin
+   set_map_var(MVAR_Free_Bots,0);
+   set_map_var(MVAR_Repair_Request1,-1);
+   set_map_var(MVAR_Repair_Request2,-1);
+   set_map_var(MVAR_Repair_Request3,-1);
+   set_map_var(MVAR_Repair_Request4,-1);
+   set_map_var(MVAR_Repair_Request5,-1);
+   set_map_var(MVAR_Repair_Request6,-1);
+   set_gvar_bit_on(GVAR_LOAD_MAP_INDEX, REPAIR_BAY_DISABLED); //added by killap (expansion)
+end

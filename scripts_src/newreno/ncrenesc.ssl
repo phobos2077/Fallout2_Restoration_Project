@@ -1,0 +1,1276 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Renesco the Rocketman
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ncrenesc"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCRENESC
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/newreno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+procedure Node059;
+procedure Node060;
+procedure Node061;
+procedure Node062;
+procedure Node063;
+procedure Node064;
+procedure Node065;
+procedure Node066;
+procedure Node067;
+procedure Node068;
+procedure Node069;
+procedure Node070;
+procedure Node071;
+procedure Node072;
+procedure Node073;
+procedure Node074;
+procedure Node075;
+
+procedure Node076;
+procedure Node077;
+procedure Node078;
+procedure Node079;
+procedure Node080;
+procedure Node081;
+procedure Node082;
+procedure Node083;
+procedure Node084;
+procedure Node085;
+procedure Node086;
+procedure Node087;
+procedure Node088;
+procedure Node089;
+procedure Node090;
+procedure Node091;
+procedure Node092;
+procedure Node093;
+procedure Node094;
+
+procedure Node900;
+procedure Node901;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                        (4)
+#define LVAR_Glasses                      (5)
+#define LVAR_Barter_Penalty               (6)
+#define LVAR_Node66_Visits                (7)
+#define LVAR_Heart_Health_Talk            (8) //added by killap - expansion
+#define LVAR_Pills_Discussion             (9) //added by killap - expansion
+#define LVAR_Gave_Pills                   (10) //added by killap - expansion
+
+#define glasses_none                      (0)
+#define glasses_freebie                   (1)
+#define glasses_discount                  (2)
+#define glasses_done                      (3)
+#define set_glasses(x)                    set_local_var(LVAR_Glasses, x)
+#define get_glasses                       (local_var(LVAR_Glasses))
+
+#define gave_nullifier_bit                bit_10
+#define pissed_bit                        bit_11
+#define identified_bit                    bit_12
+#define purifier_bit                      bit_13
+#define first_saw_bit                     bit_14
+#define gave_mine_tool_bit                bit_15
+#define tweedle_bit                       bit_16
+
+
+#define tweedle                           (lvar_bit(LVAR_Flags, tweedle_bit))
+#define set_tweedle                       set_lvar_bit_on(LVAR_Flags, tweedle_bit)
+
+#define renesco_penalty                   local_var(LVAR_Barter_Penalty)
+#define set_renesco_barter(x)             set_local_var(LVAR_Barter_Penalty, renesco_penalty + x);    \
+                                          gdialog_set_barter_mod(renesco_penalty)
+#define renesco_pissed                    ((lvar_bit(LVAR_Flags, pissed_bit)) or (hostile))
+#define set_renesco_pissed                if (renesco_pissed == false) then begin      \
+                                             set_renesco_barter(50);                   \
+                                          end                                          \
+                                          set_lvar_bit_on(LVAR_Flags, pissed_bit)
+
+#define gave_mine_tool                    (lvar_bit(LVAR_Flags, gave_mine_tool_bit))
+#define check_mine_tool                   if (gave_mine_tool == false) then begin               \
+                                             set_lvar_bit_on(LVAR_Flags, gave_mine_tool_bit);   \
+                                             give_pid_qty(self_obj, PID_MINE_PART, 1)           \
+                                          end
+#define give_player_mine_tool             if (gave_mine_tool == false) then begin               \
+                                             set_lvar_bit_on(LVAR_Flags, gave_mine_tool_bit);   \
+                                             give_pid_qty(dude_obj, PID_MINE_PART, 1)           \
+                                             set_mine_has_tools;                                \
+                                          end
+#define give_psychic_nullifier            if (lvar_bit(LVAR_Flags, gave_nullifier_bit) == false) then begin    \
+                                             set_lvar_bit_on(LVAR_Flags, gave_nullifier_bit);                  \
+                                             give_pid_qty(dude_obj, PID_PIP_BOY_MEDICAL_ENHANCER, 1)           \
+                                             inc_general_rep(REP_BONUS_NEW_RENO_GLASSES_DONE);                 \
+                                          end
+#define identified                        (lvar_bit(LVAR_Flags, identified_bit))
+#define set_identified                    set_lvar_bit_on(LVAR_Flags, identified_bit)
+
+#define purifier                          (lvar_bit(LVAR_Flags, purifier_bit))
+#define set_purifier                      set_lvar_bit_on(LVAR_Flags, purifier_bit)
+
+#define first_saw                         lvar_bit(LVAR_Flags, first_saw_bit)
+#define set_first_saw                     set_lvar_bit_on(LVAR_Flags, first_saw_bit)
+
+#define give_renesco_caps(x)              self_caps_adjust(x);      \
+                                          ndebug("GIVE_RENESCO_CAPS "+(x)); /*changed from debug_msg - killap*/ \
+                                          dude_caps_adjust(-x)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable new_reno_renesco_box;
+import variable new_reno_temp_box;
+variable temp_msg;
+variable previous_node;
+variable node41_visits;
+variable return_node;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (combat_is_initialized == false) then begin
+         if (self_can_see_dude) then begin
+            if (renesco_pissed == false) then begin
+               call Node001;
+            end else begin
+               call Node002;
+            end
+         end else if (random(1,25) == 1) then begin
+            ndebug("RENESCO USING STIMPAK");
+            give_pid_qty(self_obj, PID_STIMPAK, 1)
+            use_obj_on_obj(restock_obj,self_obj);
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_NEW_RENO_RENESCO);
+         set_self_ai(AI_COWARD);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+
+procedure map_update_p_proc begin
+   if (renesco_dead) then begin
+      call destroy_p_proc;
+      destroy_object(self_obj);
+   end
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end else if (first_saw == false) then begin
+         set_first_saw;
+         nr_add_timer_event(self_obj, 0, float_param);
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   //added by killap
+   if (get_tribute(tribute_collected)) then
+      gdialog_set_barter_mod(-50);
+   else if (renesco_pissed) then
+      gdialog_set_barter_mod(renesco_penalty);
+   //end added
+
+   if (renesco_pissed) then begin
+      call Node002;
+   end else begin
+      move_obj_inven_to_obj(self_obj, new_reno_temp_box);
+      move_obj_inven_to_obj(new_reno_renesco_box, self_obj);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (know_renesco) then begin
+            call Node042;
+         end else begin
+            call Node003;
+         end
+      gSay_End;
+      end_dialogue;
+      move_obj_inven_to_obj(self_obj, new_reno_renesco_box);
+      move_obj_inven_to_obj(new_reno_temp_box, self_obj);
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   check_mine_tool
+   move_obj_inven_to_obj(new_reno_renesco_box, self_obj);
+   set_renesco_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (get_glasses != glasses_none) then begin
+      display_mstr(150);
+   end else begin
+      display_mstr(200 + (examined));
+      set_examined;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+procedure Node996 begin
+   // barter
+
+   if (get_tribute(tribute_collected)) then begin
+      gdialog_mod_barter(-50);
+   //added by killap
+   end else if (node41_visits > 3) then begin
+      gdialog_mod_barter(-15);
+   //end added
+   end else begin
+      gdialog_barter;
+   end
+
+   call return_node;
+end
+procedure Node995 begin
+   set_renesco_barter(20);
+   call Node006;
+end
+procedure Node994 begin
+   if (Myron_In_Party) then begin
+      call Node019;
+   end else begin
+      call Node020;
+   end
+end
+procedure Node993 begin
+   if (get_glasses == glasses_none) then begin
+      inc_general_rep(REP_BONUS_NEW_RENO_GLASSES_FREEBIE);
+      set_glasses(glasses_freebie);
+   end
+   call Node042;
+end
+procedure Node992 begin
+   if (get_glasses == glasses_none) then begin
+      inc_general_rep(REP_BONUS_NEW_RENO_GLASSES_FREEBIE);
+      set_glasses(glasses_freebie);
+   end
+end
+procedure Node991 begin
+   if (identified) then begin
+      call Node062;
+   end else begin
+      call Node058;
+   end
+end
+procedure Node990 begin
+   if (purifier) then begin
+      call Node045;
+   end else begin
+      call Node043;
+   end
+end
+procedure Node989 begin
+   global_temp := 100 + (100 * purifier);
+   give_renesco_caps(global_temp);
+   call Node049;
+end
+procedure Node988 begin
+   set_tribute(tribute_refused);
+end
+procedure Node987 begin
+   set_tribute(tribute_failed);
+   call Node998;
+end
+procedure Node986 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
+      call Node062;
+   end else begin
+      call Node061;
+   end
+end
+
+procedure Node001 begin
+   floater_rand(210, 217);
+end
+procedure Node002 begin
+   floater_bad_rand(225, 228);
+end
+procedure Node003 begin
+   return_node := @Node003;
+   previous_node := 3;
+   Reply(mstr(235) + mstr(236 + dude_is_female));
+   BOption(238 + dude_is_female,Node004,-003);
+   NOption(240,Node996,-003);
+   NOption(241,Node999,-003);
+   NOption(242,Node005,004);
+   NOption(245,Node006,009);
+   BOption(246,Node999,004);
+end
+procedure Node004 begin
+   temp_msg := mstr(256);
+   if (previous_node == 3) then begin
+      temp_msg := mstr(255) + temp_msg;
+   end
+   Reply(temp_msg);
+   if (dude_is_male) then begin
+      NOption(mstr(257) + dude_name + mstr(5257),Node999,-003);
+   end else begin
+      NOption(258,Node999,-003);
+   end
+   if (has_rep_berserker) then begin
+      BOption(mstr(259) + dude_name + mstr(5259) + dude_name + mstr(6259),Node998,-003);
+   end
+   NOption(dude_name + mstr(260) + dude_name + mstr(5260),Node999,-003);
+   NOption(261,Node999,004);
+end
+procedure Node005 begin
+   previous_node := 5;
+   if (dude_is_made_man) then begin
+      Reply(271);
+   end else if (dude_has_porn_star_rep) then begin
+      if (dude_is_male) then begin
+         Reply(272);
+      end else begin
+         Reply(273);
+      end
+   end else begin
+      Reply(270);
+   end
+   if ((dude_is_made_man) or (dude_has_porn_star_rep)) then begin
+      BOption(274,Node006,004);
+   end
+   if (dude_iq < 8) then begin
+      BOption(275,Node004,004);
+   end
+   set_global_var(GVAR_SAINT_NICK_LINE,1); //added by killap - expansion pack
+   BOption(276,Node995,004);
+   BOption(277,Node006,004);
+   GOption(278,Node036,008); //was Node006 - killap
+   NOption(279,Node999,004);
+end
+procedure Node006 begin
+   previous_node := 6;
+   set_know_renesco;
+   Reply(290);
+   BOption(291,Node025,004);
+   NOption(292,Node007,004);
+   if ((get_tribute(tribute_assigned)) or (get_tribute(tribute_refused))) then begin
+      NOption(707, Node991, 004);
+   end
+   if (get_glasses == glasses_none) then begin
+      if (dude_has_renesco_spectacles) then begin
+         NOption(243,Node037,004);
+      end
+   end else if (get_glasses == glasses_freebie) then begin
+      NOption(244, Node066, 004);
+   end
+   if ((know_renesco) and ((mine_reward_cash) or (mine_reward_free)) and (gave_mine_tool == false)) then begin
+      NOption(710, Node990, 004);
+   end
+   GOption(294,Node036,008);
+   NOption(295,Node999,004);
+end
+procedure Node007 begin
+   return_node := @Node007;
+   Reply(305);
+
+   //added by killap - expansion
+   if (local_var(LVAR_Gave_Pills) == 0 and not(get_westin_flag(WESTIN_RENESCO_PISSED)) and not(get_westin_flag(WESTIN_DEAD))) then begin
+      if (get_westin_flag(WESTIN_PILLS_KNOW) and (get_westin_flag(WESTIN_DOC_JUB_TALKED) or (get_westin_flag(WESTIN_LENNY_TALKED))) and local_var(LVAR_Pills_Discussion) == 0) then
+         NOption(6030,Node078,005);
+      else if (get_westin_flag(WESTIN_DRUGS_KNOWN) and local_var(LVAR_Heart_Health_Talk) == 0) then
+         NOption(6000,Node076,005);
+      if (local_var(LVAR_Pills_Discussion) == 1) then
+         NOption(6031,Node083,005);
+      else if (local_var(LVAR_Pills_Discussion) == 2) then
+         NOption(6031,Node085,005);
+   end
+   //end added
+
+   BOption(306,Node008,009);
+   NOption(307,Node996,005);
+   BOption(308,Node009,004);
+   if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false)) then begin
+      BOption(309,Node050,004);
+   end
+   NOption(310,Node999,004);
+end
+procedure Node008 begin
+   Reply(320);
+   NOption(321,Node042,004);
+   NOption(322,Node999,004);
+end
+procedure Node009 begin
+   Reply(330);
+   NOption(331,Node010,004);
+   NOption(332,Node010,006);
+   NOption(333,Node010,004);
+end
+procedure Node010 begin
+   return_node := @Node010;
+   Reply(350);
+   if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false)) then begin
+      BOption(351,Node050,004);
+   end
+   NOption(352,Node996,004);
+   NOption(353,Node042,004);
+   BOption(354,Node011,006);
+   NOption(355,Node999,004);
+end
+procedure Node011 begin
+   return_node := @Node011;
+   Reply(365);
+   NOption(366,Node996,004);
+   NOption(367,Node042,004);
+   BOption(368,Node012,006);
+   NOption(369,Node999,004);
+end
+procedure Node012 begin
+   return_node := @Node012;
+   Reply(375);
+   NOption(366,Node996,004);
+   BOption(377,Node013,006);
+   NOption(378,Node999,004);
+end
+procedure Node013 begin
+   Reply(385);
+   NOption(386,Node014,004);
+   NOption(387,Node014,004);
+   NOption(388,Node014,004);
+end
+procedure Node014 begin
+   return_node := @Node014;
+   Reply(395);
+   NOption(396, Node996, 004);
+   NOption(397 + (redding_visible_on_map), Node015, 006);
+   NOption(367, Node042, 004);
+   NOption(400, Node999, 004);
+end
+procedure Node015 begin
+   return_node := @Node015;
+   mark_redding_on_map
+   set_redding_problem_know_jet;
+   Reply(410);
+   NOption(411, Node996, 004);
+   NOption(412, Node016, 006);
+   NOption(413, Node042, 004);
+   NOption(414, Node999, 004);
+end
+procedure Node016 begin
+   Reply(420);
+   NOption(421, Node018, 004);
+   BOption(422, Node017, 006);
+   NOption(423, Node999, 004);
+end
+procedure Node017 begin
+   Reply(430);
+   BOption(431, Node998, 004);
+   NOption(432, Node018, 004);
+   BOption(433, Node999, 004);
+end
+procedure Node018 begin
+   Reply(440);
+   NOption(441, Node019, 004);
+   NOption(442, Node994, 004);
+   NOption(443, Node042, 004);
+   NOption(444, Node999, 004);
+end
+procedure Node019 begin
+   if (Myron_In_Party) then begin
+      Reply(450);
+   end else begin
+      set_myron_flag(MYRON_KNOWN_BIT);
+      Reply(451);
+      NOption(452, Node021, 004);
+   end
+   NOption(453, Node023, 004);
+   NOption(454, Node042, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node020 begin
+   Reply(460);
+   NOption(461, Node019, 004);
+   NOption(453, Node023, 004);
+   NOption(463, Node042, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node021 begin
+   Reply(470);
+   NOption(471, Node022, 004);
+   NOption(472, Node042, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node022 begin
+   return_node := @Node022;
+   Reply(480);
+   NOption(481, Node996, 004);
+   NOption(472, Node042, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node023 begin
+   return_node := @Node023;
+   Reply(490);
+   NOption(481, Node996, 004);
+   if (has_skill(dude_obj,SKILL_SCIENCE) > 75) then begin
+      NOption(492, Node024, 004);
+   end else if (has_skill(dude_obj,SKILL_SCIENCE) > 25) then begin
+      NOption(492, Node024, 008);
+   end
+   NOption(472, Node042, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node024 begin
+   return_node := @Node024;
+   Reply(505 + (Myron_In_Party == false));
+   NOption(481, Node996, 004);
+   NOption(452, Node021, 005);
+   NOption(472, Node042, 004);
+   NOption(423, Node999, 004);
+end
+procedure Node025 begin
+   Reply(515 + (previous_node == 6));
+   BOption(517, Node026, 004);
+   if ((vault_13_visit == false) or (dude_found_geck == false)) then begin
+      NOption(518, Node029, 005);
+   end
+   NOption(519, Node999, 004);
+   previous_node := 25;
+end
+procedure Node026 begin
+   previous_node := 26;
+   Reply(525);
+   BOption(526 + (1000 * dude_is_female), Node027, 004);
+   if ((vault_13_visit == false) or (dude_found_geck == false)) then begin
+      NOption(518, Node029, 005);
+   end
+   NOption(519, Node999, 004);
+end
+procedure Node027 begin
+   previous_node := 27;
+   Reply(535);
+   BOption(536 + (1000 * dude_is_female), Node028, 004);
+   if ((vault_13_visit == false) or (dude_found_geck == false)) then begin
+      NOption(518, Node029, 005);
+   end
+   NOption(519, Node999, 004);
+end
+procedure Node028 begin
+   previous_node := 28;
+   Reply(545);
+   BOption(546, Node029, 004);
+   NOption(547, Node999, 004);
+end
+procedure Node029 begin
+   temp_msg := mstr(556);
+   if (previous_node == 3) then begin
+      temp_msg := mstr(555) + temp_msg;
+   end
+   Reply(temp_msg);
+   if (previous_node == 28) then begin
+      BOption(557, Node030, 004);
+   end
+   if (dude_found_geck == false) then begin
+      NOption(558, Node031, 004);
+   end
+   if ((Fallout2_vault13_looking) or (Fallout2_vault13_location_known)) then begin
+      NOption(559, Node033, 005);
+   end
+   NOption(560 + (previous_node != 28), Node999, 004);
+end
+procedure Node030 begin
+   Reply(570);
+   NOption(571, Node031, 004);
+   NOption(572, Node033, 005);
+   NOption(573, Node999, 004);
+end
+procedure Node031 begin
+   mark_new_CA_republic_on_map
+   mark_vault_city_on_map
+   Reply(580);
+   NOption(581, Node032, 004);
+end
+procedure Node032 begin
+   mark_new_CA_republic_on_map
+   mark_vault_city_on_map
+   Reply(590);
+   NOption(591, Node034, 004);
+   NOption(592, Node008, 005);
+   NOption(593, Node042, 004);
+   NOption(594, Node034, 004);
+end
+procedure Node033 begin
+   Reply(600);
+   NOption(601, Node034, 004);
+   NOption(602, Node035, 006);
+   NOption(603, Node042, 004);
+   NOption(594, Node034, 004);
+end
+procedure Node034 begin
+   Reply(610);
+   NOption(611, Node999, 004);
+   NOption(612, Node999, 004);
+end
+procedure Node035 begin
+   Reply(620);
+   NOption(601, Node034, 004);
+   NOption(611, Node034, 004);
+   NOption(623, Node034, 004);
+end
+procedure Node036 begin
+   return_node := @Node036;
+   previous_node := 36;
+   Reply(630);
+   NOption(292, Node007, 004);
+   if ((vault_13_visit == false) or (dude_found_geck == false)) then begin
+      NOption(632, Node029, 006);
+   end
+   NOption(293, Node008, 006);
+   NOption(634, Node999, 004);
+end
+procedure Node037 begin
+   remove_spectacles_from_dude
+   inc_general_rep(REP_BONUS_NEW_RENO_RENESCO_GLASSES);
+   Reply(640);
+   NOption(641, Node038, 004);
+   NOption(642, Node039, 004);
+end
+procedure Node038 begin
+   set_know_renesco;
+   Reply(650);
+   NOption(651, Node040, 004);
+   NOption(652, Node040, 004);
+end
+procedure Node039 begin
+   Reply(660);
+   NOption(661, Node040, 004);
+   NOption(652, Node040, 004);
+end
+procedure Node040 begin
+   Reply(670);
+   BOption(671, Node041, 004);
+   NOption(672, Node993, 004);
+   NOption(673, Node992, 004);
+end
+procedure Node041 begin
+   return_node := @Node041;
+   Reply(680 + node41_visits);
+   node41_visits += 1;
+   if (node41_visits <= 3) then begin
+      BOption(684, Node041, 004);
+      NOption(672, Node993, 004);
+      NOption(673, Node992, 004);
+   end else begin
+
+      NOption(687, Node996, 004);
+      NOption(688, Node042, 004);
+      NOption(689, Node999, 004);
+   end
+end
+procedure Node042 begin
+   previous_node := 42;
+   Reply(random(700, 703));
+   BOption(704, Node025, 004);
+   NOption(292, Node007, 004);
+
+   //added by killap - expansion
+   if (local_var(LVAR_Gave_Pills) == 0 and not(get_westin_flag(WESTIN_RENESCO_PISSED)) and not(get_westin_flag(WESTIN_DEAD))) then begin
+      if (get_westin_flag(WESTIN_PILLS_KNOW) and (get_westin_flag(WESTIN_DOC_JUB_TALKED) or (get_westin_flag(WESTIN_LENNY_TALKED))) and local_var(LVAR_Pills_Discussion) == 0) then
+         NOption(6030,Node078,005);
+      else if (get_westin_flag(WESTIN_DRUGS_KNOWN) and local_var(LVAR_Heart_Health_Talk) == 0) then
+         NOption(6000,Node076,005);
+      if (local_var(LVAR_Pills_Discussion) == 1) then
+         NOption(6031,Node083,005);
+      else if (local_var(LVAR_Pills_Discussion) == 2) then
+         NOption(6031,Node085,005);
+   end
+   //end added
+
+   if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false)) then begin
+      BOption(706,Node050,004);
+   end
+   if ((get_tribute(tribute_assigned)) or (get_tribute(tribute_refused))) then begin
+      NOption(707, Node991, 004);
+   end
+   if (get_glasses == glasses_none) then begin
+      if (dude_has_renesco_spectacles) then begin
+         NOption(243,Node037,004);
+      end
+   end else if (get_glasses == glasses_freebie) then begin
+      NOption(244, Node066, 004);
+   end
+   // There is no point to check for knowing him since his mouse over says his name.
+   // Plus, depending upon what dialogue tree you go through when first meeting him, you might not ever set this variable
+   // Could be fixed by tweaking the dialogue so that he always ends up introducing himself, but it is not worth it. -killap
+   if (/*(know_renesco) and  */  ((mine_reward_cash) or (mine_reward_free)) and (gave_mine_tool == false)) then begin
+      NOption(710, Node990, 004);
+   end
+   NOption(711, Node036, 008);
+   NOption(712, Node999, 004);
+end
+procedure Node043 begin
+   Reply(725);
+   if (mine_reward_cash) then begin
+      NOption(726, Node044, 004);
+   end else if (mine_reward_free) then begin
+      if (dude_iq < 7) then begin
+         NOption(727, Node046, 004);
+      end else begin
+         NOption(728, Node047, 004);
+      end
+   end
+end
+procedure Node044 begin
+   previous_node := 44;
+   Reply(735);
+   if (dude_caps >= 100) then begin
+      NOption(736, Node989, 004);
+   end else begin
+      NOption(738, Node999, 004);
+   end
+   if (dude_caps >= 50) then begin
+      BOption(737, Node045, 004);
+   end
+   NOption(712, Node999, 004);
+end
+procedure Node045 begin
+   set_purifier;
+   Reply(745 + (previous_node != 45));
+   if (previous_node == 44) then begin
+      NOption(747, Node045, 004);
+   end
+   if (dude_caps >= 200) then begin
+      NOption(748, Node989, 004);
+   end else begin
+      NOption(749, Node999, 004);
+   end
+   NOption(712, Node999, 004);
+   previous_node := 45;
+end
+procedure Node046 begin
+   Reply(755);
+   NOption(756, Node047, 004);
+end
+procedure Node047 begin
+   Reply(760);
+   NOption(761, Node048, 004);
+end
+procedure Node048 begin
+   previous_node := 48;
+   Reply(765);
+   NOption(766, Node049, 004);
+end
+procedure Node049 begin
+   give_player_mine_tool
+   temp_msg := mstr(770);
+   if (previous_node == 48) then begin
+      temp_msg := mstr(769) + temp_msg;
+   end
+   Reply(temp_msg);
+   NOption(771, Node042, 004);
+   NOption(772, Node999, 004);
+end
+procedure Node050 begin
+   Reply(780);
+   if (tweedle == false) then begin
+      NOption(781, Node051, 004);
+   end else begin
+      if (jules_slander) then begin
+         if (jjj_slander) then begin
+            BOption(784, Node052, 004);
+         end else begin
+            BOption(782, Node052, 004);
+         end
+      end else if (jjj_slander) then begin
+         BOption(783, Node052, 004);
+      end
+   end
+   if (know_scott == false) then begin
+      if (examined_body) then begin
+         NOption(785, Node067, 004);
+      end
+      if (dude_has_empty_jet_canister) then begin
+         NOption(786, Node073, 004);
+      end
+   end
+   NOption(463, Node042, 004);
+   NOption(788, Node999, 004);
+end
+procedure Node051 begin
+   set_renesco_slander;
+   set_tweedle;
+   suspect_jagged_jimmy_j
+   suspect_jules
+   Reply(795);
+   if (jules_slander) then begin
+      if (jjj_slander) then begin
+         BOption(798, Node052, 004);
+      end else begin
+         BOption(782, Node052, 004);
+      end
+   end else if (jjj_slander) then begin
+      BOption(783, Node052, 004);
+   end
+   NOption(463, Node042, 004);
+   NOption(800, Node999, 004);
+end
+procedure Node052 begin
+   Reply(805);
+   BOption(806, Node053, 004);
+   BOption(807, Node053, 004);
+   BOption(808, Node053, 004);
+   BOption(809, Node053, 004);
+end
+procedure Node053 begin
+   Reply(815);
+   BOption(816, Node054, 004);
+   BOption(817, Node054, 004);
+   BOption(809, Node054, 004);
+end
+procedure Node054 begin
+   Reply(825);
+   if ((jules_slander) and (jjj_slander)) then begin
+      NOption(826 + (dude_iq >= 7), Node055, 004);
+   end
+   BOption(828, Node056, 004);
+   NOption(829, Node042, 004);
+   NOption(830, Node999, 004);
+end
+procedure Node055 begin
+   Reply(835);
+   BOption(836, Node057, 004);
+   BOption(837, Node056, 004);
+   NOption(838, Node042, 004);
+   NOption(839, Node999, 004);
+end
+procedure Node056 begin
+   Reply(mstr(845 + dude_is_female) + mstr(847));
+   BOption(848, Node999, 004);
+   NOption(849, Node999, 004);
+end
+procedure Node057 begin
+   set_golgotha_known
+   Reply(855);
+   NOption(856, Node075, 004);
+   NOption(454, Node042, 004);
+   NOption(858, Node999, 004);
+end
+procedure Node058 begin
+   Reply(865);
+   BOption(866, Node059, 004);
+   BOption(867, Node059, 004);
+   NOption(868, Node988, 004);
+end
+procedure Node059 begin
+   Reply(mstr(875 + dude_is_female) + mstr(877));
+   BOption(878, Node061, 004);
+   BOption(879, Node060, 004);
+   BOption(880, Node987, 004);
+   NOption(881, Node988, 004);
+end
+procedure Node060 begin
+   Reply(890);
+   NOption(891, Node062, 004);
+   if ((dude_item_count(PID_LASER_PISTOL)) and (know_lasers)) then begin
+      NOption(892, Node062, 004);
+   end
+   BOption(893, Node986, 004);
+   NOption(881, Node988, 004);
+end
+procedure Node061 begin
+   Reply(900);
+   NOption(901, Node987, 004);
+   NOption(881, Node988, 004);
+end
+procedure Node062 begin
+   set_identified;
+   Reply(910);
+   BOption(911, Node063, 004);
+   BOption(901, Node987, 004);
+   NOption(881, Node988, 004);
+end
+procedure Node063 begin
+   Reply(920);
+   BOption(921, Node064, 007);
+   BOption(901, Node987, 004);
+   NOption(881, Node988, 004);
+   NOption(924, Node988, 004);
+end
+procedure Node064 begin
+   Reply(930);
+   BOption(931, Node065, 004);
+   BOption(901, Node998, 004);
+end
+procedure Node065 begin
+   return_node := @Node065;
+
+   set_tribute(tribute_collected);
+
+   Reply(940);
+   NOption(941, Node996, 004);
+   NOption(454, Node042, 004);
+   NOption(943, Node999, 004);
+
+end
+procedure Node066 begin
+   return_node := @Node066;
+   inc_local_var(LVAR_Node66_Visits);
+   if (local_var(LVAR_Node66_Visits) < 20) then begin
+      Reply(950);
+      NOption(952, Node996, 004);
+      NOption(953, Node042, 004);
+      NOption(943, Node999, 004);
+   end else begin
+      set_glasses(glasses_done);
+      give_psychic_nullifier
+      Reply(951);
+      NOption(955, Node999, 004);
+   end
+end
+procedure Node067 begin
+   Reply(960);
+   if (examined_body) then begin
+      NOption(961, Node068, 004);
+   end
+   if (jet_canister_poison) then begin
+      NOption(962, Node068, 004);
+   end
+   NOption(963, Node042, 004);
+   NOption(964, Node999, 004);
+end
+procedure Node068 begin
+   Reply(970);
+   BOption(971, Node069, 004);
+   NOption(972, Node069, 004);
+   NOption(963, Node042, 004);
+   NOption(964, Node999, 004);
+end
+procedure Node069 begin
+   Reply(980);
+   BOption(981, Node070, 004);
+   BOption(982, Node070, 004);
+end
+procedure Node070 begin
+   Reply(990);
+   BOption(991, Node071, 004);
+   BOption(992, Node071, 004);
+end
+procedure Node071 begin
+   return_node := @Node071;
+   if (know_scott == false) then begin
+      display_mstr(2000);
+      give_xp(EXP_NEW_RENO_EXPOSE_RENESCO);
+      set_know_scott;
+   end
+   Reply(995);
+   BOption(996, Node072, 004);
+   NOption(997, Node072, 004);
+   NOption(998, Node042, 004);
+   BOption(999, Node042, 004);
+   NOption(1000, Node999, 004);
+end
+procedure Node072 begin
+   Reply(1005);
+   NOption(998, Node042, 004);
+   BOption(1007, Node042, 004);
+   BOption(1008, Node999, 004);
+   NOption(1009, Node999, 004);
+end
+procedure Node073 begin
+   Reply(1020);
+   NOption(1021, Node074, 004);
+   if (jet_canister_poison) then begin
+      NOption(1022, Node068, 004);
+   end
+   BOption(1023, Node042, 004);
+   BOption(712, Node999, 004);
+end
+procedure Node074 begin
+   Reply(1030);
+   if (jet_canister_poison) then begin
+      NOption(1022, Node068, 004);
+   end
+   NOption(1023, Node042, 004);
+   NOption(1033, Node999, 004);
+end
+procedure Node075 begin
+   set_golgotha_known
+   Reply(1040);
+   NOption(1041, Node042, 004);
+   BOption(1042, Node999, 004);
+   NOption(1043, Node999, 004);
+end
+
+// RP content - killap
+procedure Node076 begin
+   set_local_var(LVAR_Heart_Health_Talk,1);
+   Reply(6010);
+   NOption(6011, Node042, 004);
+   NOption(6012, Node077, 004);
+end
+
+procedure Node077 begin
+   Reply(6020);
+   NOption(6021, Node025, 004);
+   NOption(6022, Node042, 004);
+   NOption(6023, Node042, 004);
+   NOption(6024, Node999, 004);
+end
+
+procedure Node078 begin
+   //set_local_var(LVAR_Pills_Discussion,1);
+   Reply(6040);
+   NOption(6041 + dude_is_female, Node079, 004);
+   NOption(6043, Node079, 004);
+   NOption(6044 + dude_is_female, Node079, 004);
+   if ((has_skill(dude_obj,SKILL_SCIENCE) >= 80) or get_westin_flag(WESTIN_LENNY_TALKED)) then
+      NOption(6046, Node082, 004);
+end
+
+procedure Node079 begin
+   Reply(6050);
+   NOption(6051, Node080, 004);
+   NOption(6052, Node080, 004);
+   NOption(6053, Node080, 004);
+   BOption(6054, Node080, 004);
+end
+
+procedure Node080 begin
+   Reply(6060);
+   NOption(g_mstr(352), Node081, 004);
+end
+
+procedure Node081 begin
+   Reply(6061);
+   NOption(6062, Node082, 004);
+   NOption(6063, Node082, 004);
+end
+
+procedure Node082 begin
+   Reply(6070);
+   if ((dude_item_count(PID_HEART_PILLS))) then
+      NOption(6072, Node083, 004);
+   else if (dude_iq >= 7 or (has_skill(dude_obj,SKILL_SCIENCE) >= 80)) then
+      NOption(6073, Node083, 004);
+   else
+      NOption(6071, Node083, 004);
+end
+
+procedure Node083 begin
+   if (local_var(LVAR_Pills_Discussion) == 2) then
+      Reply(6141);
+   else
+      Reply(6080);
+   NOption(6081, Node084, 004);
+   if (dude_iq >= 6 or ((has_skill(dude_obj,SKILL_SCIENCE) >= 40) or (has_skill(dude_obj,SKILL_DOCTOR) >= 40) or (has_skill(dude_obj,SKILL_BARTER) >= 40))) then
+      NOption(6082, Node084, 004);
+   if (dude_caps >= 200) then
+      NOption(6083, Node086, 004);
+   else
+      NOption(6084, Node900, 004);
+end
+
+procedure Node084 begin
+   Reply(6090);
+   NOption(g_mstr(352), Node085, 004);
+end
+
+procedure Node085 begin
+   if (local_var(LVAR_Pills_Discussion) == 3) then
+      Reply(6142);
+   else
+      Reply(6091);
+   if (know_scott) then
+      NOption(6092, Node088, 004);
+   if (get_tribute(tribute_collected)) then
+      NOption(6093, Node088, 004);
+   NOption(6094, Node091, 004);
+   NOption(6095, Node094, 004);
+   NOption(6096, Node901, 004);
+end
+
+procedure Node086 begin
+   dude_caps_adjust(-200);
+   Reply(6100);
+   NOption((g_mstr(353)), Node087, 004);
+end
+
+procedure Node087 begin
+   variable item;
+   item:=create_object(PID_FAKE_HEART_PILLS,0,0);
+   add_obj_to_inven(dude_obj,item);
+   game_time_advance(ONE_GAME_MINUTE*5);
+   set_local_var(LVAR_Gave_Pills,1);
+   Reply(6101);
+   NOption(6102, Node042, 004);
+   NOption(6103, Node999, 004);
+end
+
+procedure Node088 begin
+   Reply(6110);
+   NOption(g_mstr(352), Node089, 004);
+end
+
+procedure Node089 begin
+   Reply(6111);
+   NOption(g_mstr(352), Node090, 004);
+end
+
+procedure Node090 begin
+   Reply(6112);
+   NOption(g_mstr(353), Node087, 004);
+end
+
+procedure Node091 begin
+   Reply(6120);
+   NOption(g_mstr(352), Node092, 004);
+end
+
+procedure Node092 begin
+   Reply(6121);
+   NOption(g_mstr(352), Node093, 004);
+end
+
+procedure Node093 begin
+   set_westin_flag(WESTIN_RENESCO_PISSED);
+   Reply(6122);
+   NOption(g_mstr(350), Node999, 004);
+end
+
+procedure Node094 begin
+   dude_caps_adjust(-300);
+   Reply(6130);
+   NOption(g_mstr(353), Node087, 004);
+end
+
+procedure Node900 begin
+   set_local_var(LVAR_Pills_Discussion,1);
+end
+
+procedure Node901 begin
+   set_local_var(LVAR_Pills_Discussion,2);
+end
+//end RP

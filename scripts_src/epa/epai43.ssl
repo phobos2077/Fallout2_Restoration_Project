@@ -1,0 +1,67 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epai43"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAI43
+
+#include "../headers/command.h"
+
+#define LVAR_First_Open          (0)
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drop_p_proc;
+
+procedure start begin
+
+end
+
+procedure map_enter_p_proc begin
+   variable gun;
+   if (map_first_run) then begin
+      if not(self_item(PID_SOLAR_SCORCHER)) then begin
+         gun:=create_object(PID_SOLAR_SCORCHER,0,0);
+         add_obj_to_inven(self_obj,gun);
+      end
+   end
+end
+
+procedure pickup_p_proc begin
+
+end
+
+procedure destroy_p_proc begin
+
+end
+
+procedure drop_p_proc begin
+
+end
+
+procedure use_p_proc begin
+   if (global_var(GVAR_TEST_SOLAR_SCORCHER) == 0) then begin
+      script_overrides;
+      display_msg(mstr(200));
+   end else if (local_var(LVAR_First_Open) == 0) then begin
+      display_msg(mstr(201));
+      set_local_var(LVAR_First_Open,1);
+   end
+end

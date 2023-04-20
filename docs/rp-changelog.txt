@@ -1,0 +1,874 @@
+======================================
+Release 2.3.3: - Released JULY/05/2014
+======================================
+New Content:
+
+• Restored bell sounds before each round when boxing in New Reno. This was prevented before by a vanilla bug.
+• Cult of Personality now also applies to town reputations and not just global reputations. This was accidently omitted when I restored the Cult of Personality perk to the game. 23 scripts were modified for this latest change, mostly in Klamath and Vault City. In total, only 58 out of over 1,000 scripts make use of this perk, which just goes to show that the reaction system was never truly fleshed out in this game. But hey, at least the perk isn't useless anymore.
+
+
+Bug Fixes:
+
+Abbey:
+------
+• Entering the Abbey after solving the grave digger questline will no longer cause Tom to move to his initial offscreen starting position only to proceed back to the Peterson's house.
+
+Den:
+----
+• Fixed regression where using an item from your inventory (right-click with inventory open) while carrying Anna's diary would result in a message about the diary being displayed, even if you weren't looking at the diary.
+• Fixed issue for the situation where Lara could disappear after the attack at Tyler's party.
+• It is now possible to double cross Lara and then double crosses Tyler, thus ending with helping Lara. Before a situation like this would result in a broken gang war quest.
+• Fixed a few more misc issues with the Den gang war.
+• Removed knife near the West end entrance that was not stacking with other knives.
+• Fixed instance where the squatters getting killed after establishing the orphanage and then talking to Mom could result in the quest getting completed twice.
+• Fixed issue where squatters were being created and added to the map multiple times.
+
+EPA:
+----
+• If you don't kill the plants on the surface before talking with the Director of Ground Maintenance and taking the quest, he'll keep asking whether you completed the task despite having done so and receiving the reward from him.
+• The Brave Little toaster would still complain about not feeling well even after fixing him. This has been corrected.
+• Zoo creatures no longer use tribal combat taunts.
+• Improved fail message when attempting to repair the data storage and maintenance computer with an insufficient repair skill.
+
+Military Base:
+--------------
+• Reverted change which prevented Melchior from spawning molerats.
+
+NCR:
+----
+• Fixed instance where instigating Elise would not result in combat when it should.
+• Fixed issue where Slavers would not follow you past the first attack on the Rangers' safe houses.
+
+Sierra Army Depot:
+------------------
+• Cat Jules, Kitsune, and Dex were not being counted in the situation where Skynet flips out and kills your entire party.
+
+Vault City:
+-----------
+• Fixed issue with Cassidy' base stats being reset when saving/reloading the game.
+
+Misc:
+-----
+• High resolution patch updated to V4.1.8.
+• Sfall updated to v3.3.
+• Fixed instances in some NPcs (Sulik, Cassidy, Marcus, Dogmeat) where when you recruit them there is a "phantom" dialogue window that pops up and then immediately closes.
+• Fixed issue with Dogmeat where giving him gecko-on-a-stick would always bring up his initial dialogue for joining, even if he was already in your party.
+• Killing some traders was not affecting the Chosen One's karma.
+• Nomad shaman no longer combine broc and xander for free.
+• Changed the name of two unused animations in critters.lst to the proper syntax so that the Mapper correctly displays all available critters. Useful for modders.
+• Misc Russian translation fixes.
+• Fixes to typos and other minor text fixes.
+• Fixes to other issues that never got properly documented since the last release.
+
+
+======================================
+Release 2.3.2: - Released JAN/01/2014
+======================================
+Bug Fixes:
+----------
+
+Klamath:
+--------
+• Some female children were still incorrectly using the male child model instead of the new female one.
+
+New Reno:
+---------
+• Fixed nasty bug accidently introduced with the extended dance sequence in the last release. Sorry about that!
+• Restored missing script that triggers when entering Lloyd's room.
+• Reverted change about casinos becoming abandoned after wiping out a gang family. While logical, it became controversial and other areas of the game don't get affected in this way. So, it's all or nothing and we're going with back to the vanilla state (nothing).
+
+
+======================================
+Release 2.3.1: - Released DEC/31/2013
+======================================
+Bug Fixes:
+
+Den:
+----
+• You can no longer gamble at Becky's gambling tables after she is dead.
+
+Vault City:
+-----------
+• Unlocked dialogue for Cassidy where he talks about his dislike of Myron. This is all vanilla and I swear it was unlocked long ago, but seems to have been lost. Anyway, it's back!
+
+New Reno:
+---------
+• Extended the dance sequence that you can do as a female player at the Shark Club.
+• Wiping out a gang family causes the casino to become abandoned (i.e. you can't gamble anymore, the patrons leave, etc).
+
+EPA:
+----
+• Killing the spore plants on the Green Level no longer counts towards wiping out the plants on the surface.
+
+Vault 13:
+---------
+• Unlocked conversation with Goris asking him about his true identity. This was prevented before by bad vanilla scripting.
+
+Random Encounters:
+------------------
+• Fixed crashes with Kaga. Most cropped up due to saving/loading during his encounter, but this should also make his encounter more stable in general as well. Also potentially fixes the issue where you would encounter Kaga but the map would be empty.
+
+Misc:
+-----
+• Added high-res patch v3.06 as a legacy option in the installer for Mac OS users and those that need to use an older version of the high-res mod because of graphic/UI problems.
+• Installer fix for Russian translation: Deselecting Cassidy's new voice will correctly NOT copy over the Russian voiced files. Before, the Russian voice files were always copied over when you chose the Russian language, no matter what Cassidy options you set.
+• Several vanilla fixes that I won't list here (unofficial patch docs has that info), but I want to at least mention it so you don't think this release of the RP isn't worth the update. ;)
+
+
+======================================
+Release 2.3: - Released DEC/23/2013
+======================================
+New Content:
+• You can now play as a female red head.
+• The toaster at the EPA would give you a new ability but it never showed up in your perk list. It now does.
+• Russian translation (1C) now included in the installer.
+
+
+Bug Fixes:
+
+Abbey:
+------
+• Fixed several scripting errors with the pump questline.
+• All NPCs at the Abbey will now properly attack you if you are caught stealing from them.
+• Fixed dialogue scripting errors with the Wooz and Brother Jason questline.
+• Corrected an instance where the Brother Samuel and Father Tully questline wouldn't get crossed off.
+• Companions now correctly show the church background for the first level of the Abbey.
+• Your car now goes with you when you escort Brother Jason to Gecko.
+• Correct logic error when talking with Brother Jason about formatting the harddrives.
+
+Broken Hills:
+-------------
+• Corrected a few remaining instances where you could still go on a caravan despite Chad being in jail or dead.
+
+Den:
+----
+• Fixed dialogue scripting error with Flick and the orphanage questline.
+• Anna's diary now once again gives you 100xp for reading it. 
+• Fixed a nasty issue with the gang church attack that would cause Lara's gang to not initiate combat when reaching the church.
+
+EPA:
+----
+• Agility increasing syringe gets properly removed when used. For real this time.
+• Force fields on green level can no longer be shot through.
+• Cleaning the right-most fan no longer gives double xp when cleaned.
+• Time now passes (2 hours) when you improve your skills by learning from the NPCs you can recruit at the EPA.
+• Doctors bag only requires one hypodermic needle to be created (rather than 2), as was intended.
+• You can no longer repair the voice computer on the yellow level infinite times.
+
+Gecko:
+------
+• Using Gamma Gulp on Lenny (when he's using his new, optional appearance) no longer gives a float of "Error".
+
+Navarro:
+--------
+• Commander now correctly uses the male proto file rather than a female one.
+
+New Reno:
+---------
+• You can no longer ask Renesco about heart health pointers until actually first learning about this Bishop
+• Fixed crash when boxing or fighting in San Fran when wearing the new player appearance option
+• Fixed instance where the pit boss claims you won McGee's fortune despite you not having done so.
+• Some female Wright children were missing scripts
+• Bill at Salvatore's bar is no longer partially stuck inside the bar counter.
+• Eldridge no longer gets stuck when he goes back to get check on his dogs/
+• Guards at Carlson's place will now recognize that he is dead (you'll have to leave the map first). Same at Westin's ranch.
+
+NCR:
+----
+• Fixed issues with stealing from Dr. Jubilee's shelf in regards to the pills questline.
+• Fixed dialogue scripting errors with Elise in regards to the slaver camp.
+• Adding missing script to one of the peasants near the entrance.
+• Rangers at the safe houses now properly react to you stealing from them.
+
+Redding:
+--------
+• Little girl in Madame Madjeska's house was missing her script.
+• Correct out of place dialogue line with Lou about giving Fannie the jet antidote.
+
+San Francisco:
+--------------
+• You can no longer steal from the plant men at Sheng's hideout.
+• NPCs at the Hubologist stash now react to you stealing from them.
+• Companions now use the proper background (church background) when at the Hubologist stash.
+
+Misc:
+-----
+• Installer fixes/tweaks:
+    -Properly handles Steam installation path if it's in the Program Files directory.
+    -Installer checks fallout2.cfg to make sure the music path is correct and will correct it if it isn't. This is especially important for GoG users.
+    -Armors for non-human characters would not get copied over unless the human armor option for companions was also chosen. This has been corrected.
+    -DirectX 9 is properly enabled for Vista+ setups so that messed up colors don't happen. Basically, things should work even better out of the box now.
+• High resolution patch updated to V4.1.7.
+• Sfall updated to v3.2.
+• Kitsune's default combat setting is now unarmed, per her main abilities. Remember you can always change her (or any NPC) combat settings.
+• Added a few minor lines for dumb characters where the game would incorrectly display normal INT lines.
+• Fix crashes when using the new optional boxing animations.
+• Fixed several instances where an NPC should attack you but instead would still initiate dialogue normally/do nothing if you were out of their sight range (blocked by a scenery piece, etc)
+• Numerous typos, grammar, whitespace, and dialogue fixes.
+• Several map issues fixed (missing blockers, standing inside scenery, holes in maps, etc)
+• Many other issues that never got properly documented over the last 5 months.
+
+
+======================================
+Release 2.2: - Released JULY/20/2013
+======================================
+New Content:
+
+• New minor character at the Abbey.
+• Very minor quest addition to Primitive Tribe.
+• Eldridge now goes back to check on his dogs if they bark too much.
+• New Dr. Wong questline to explain the Shi ending with the sentient plant. New location and new characters!
+• BOS bases in NCR and Den now have underground areas that can be explored after giving the BOS a copy of the vertibird plans. They said you had full access to their facilities but locations other than San Francisco just had sad, inactive elevators. This is no longer the case!
+• New Lenny model (installer option). 
+• New player model when boxing in New Reno and fighting in San Francisco (installer option).
+• The player reload animation is now played everytime you reload your weapon. (sfall option)
+• Repair bay at Sierra Army depot now repairs hurt bots or replaces destroyed ones. This will occur on any level of the Sierra Army Depot. A previous version of the RP mentioned this feature, but it was in fact not properly restored.
+• Alternate way to assassinate Westin, which involves his heart pills.
+• Combine torn pieces of paper to form a password list to access the various computer terminals in the Shi Temple.
+
+
+Modified Content:
+
+• Primitive Tribe changes:
+  -Based on community feedback, the Primitive Tribe was renamed to Umbra Tribe. The Primitive Tribe was a placeholder name by the original devs, so it was time a real name was chosen.
+  -New entrance map picture.
+  -Overhaul of the spirit questline.
+  -Dialogue changes made to make the location more consistent with what is expected from tribals in the Fallout world.
+• New entrance map picture for the Abbey.
+• If you happened to make Lenny glow from a radioactive drink, you can now remove this effect by applying some RadAway.
+• The large metal globe on the EPA entrance map no longer continuously rotates. This was changed because a) how could it keep moving after so many years and b) there are too many animated scenery objects on the map, which causes slowdowns for some people.
+• Carrying more than one lighter would prevent you from smoking. This has been fixed.
+
+
+Bug Fixes:
+
+Abbey:
+------
+• Time correctly passes when escorting Brother Jason to Gecko.
+• You can no longer get double experience by first examining the water pump, talking with the merchant, and then examining it again.
+• Decreased size of inventory picture for the wine bottle.
+• The grave digger now correctly appears after midnight, rather than a few hours before.
+• Marcus armor fully implemented (optional addon from the installer).
+• Fixed inconsistent dialogue with the Abbot if you killed the deathclaw before speaking to him.
+
+Arroyo:
+-------
+• You were unable to steal from Hakunin's chest if you were out of his sight. This has been corrected.
+• Lucas now gives you a text float when he has no more to teach you, rather than running through the same dialogue again only to learn that he has nothing more to offer. This is now consistent with the other warriors who teach you at your tribe.
+• Fixed spawn locations of broc flower and xander roots on the hunting grounds that were often out of range of the player.
+• Hakunin's talking head was broken at night.
+
+Broken Hills:
+-------------
+• Killing Jacob would result in a conversation window popping up with Chad in regards to skimming money.
+
+Den:
+----
+• Fixed more issues with the church/house party fight.
+• You could ask Vic about Ed again even though you never initially asked him.
+• Fixed issue with saving in combat while fighting the squatters in the Residential area.
+
+EPA:
+----
+• Skynet and the mechanical dogs no longer disappear after going down into the EPA. They'll be waiting back up at the surface with any other party member that can't climb.
+• Appearance modification auto-doc (optional addon from the installer) had missing dialogue lines for the bald dude.
+• You now just need to hit a critter with the solar scorcher to register using it. Of course this needs to happen outside, and during the day.
+• Corrected spore plant line of sight.
+• Time correctly passes after using the agility increasing syringe.
+• All instances of crashing when using a terminal at the EPA in combat should be addressed.
+• Fruit flies didn't have a picture in the aiming screen.
+• It's no longer possible to extract the new NPCs multiple times.
+• Fixed the various goo types found around the location. Green goo burns and does damage just like other green goo. The red goo (which was added in the RP) causes poison damage and burns the throat.
+• One of the wanamingos was incorrectly using a script assigned to the Redding wanamingos. This caused the wanamingo clearing quest at Redding to end prematurely.
+• Fixed logic bug with the robot control computer.
+
+Gecko:
+------
+• Wooz no longer stocks normal beer and booze; only radioactive stuff now.
+• More fixes to the Brain.
+
+Klamath:
+--------
+• Minor tweaks to the Dunton rustling quest.
+• Fixed XP exploit with Keeng Ra'at cave-in.
+• The Duntons are now on their own team and the whole town (except those in the Golden Gecko) won't go hostile if you attack them.
+• Added a bit of dialogue for dumb characters when talking with Aldo.
+• Sally Dunton would tell lady players who don't want female bath attendants to go to her brothers, even if they were dead. This is no longer the case.
+
+Modoc:
+------
+• Fixed issue with having Bess in your party and taking Grisham's job of defending his brahmen.
+• There are several spots in the northwest section of Farrell's garden—which is also the densest—where you can't attack critters even if you're standing right next to them. This has been addressed.
+• Fixed an issue with Grisham, where he would keep getting shotgun shells in his inventory after exiting dialogue.
+
+New Reno:
+---------
+• Fixed crash after reading the hint book when having Dermal/Phoenix upgrades.
+• Issues with Father Tulley and the Abbey wine quest were corrected.
+• Pit boss would talk about McGee even though you had never spoken to him.
+• If Enclave soldiers are killed, you can no longer hitch a ride on the Vertibird during the secret transaction.
+• Mrs. Bishop and her daughter no longer stand up in the middle of their beds if combat is initialized while they are asleep.
+• Fixed issue where Mrs. Wright could potentially get stuck on the Commercial Row map.
+• Fixed animation issue with Wright's sons.
+• You no longer can get the info from Nikki for free.
+
+Primitive Tribe:
+----------------
+• Watching the hunter get killed in the cave and then talking to the shaman would result in him thanking you for saving the hunter.
+• Shaman wouldn't give you healing powders depending upon what dialogue option you chose.
+• Corrected issues with dumb player dialogue and Krom.
+• Sulik will now correctly go hostile if you attack his tribe.
+
+Redding:
+--------
+• Giving money to Fannie before talking with Lou would result in Lou not mentioning San Francisco anymore. This has been addressed.
+• The player now gets moved to a room when he/she asks for one to rest in.
+• Doc Johnson now restocks (only normal stims, antidote and some money).
+• You can only mention McClure to Doc Johnson if you actually had met him.
+
+San Francisco:
+--------------
+• Fixed Brotherhood's medical computer and its stat increases if you had taken all the assault enhancements.
+• Destroyed forcefields at Hubologist's base now behave the same way as other destroyed forcefields.
+• The Shi no longer give floats about going after the Hubologists, if you already killed them.
+
+Sierra Army Depot:
+------------------
+• Robots in their holding bay on level 3 can now exit and attack the player.
+• Robots are now visible while in their holding bays.
+
+Vault 13:
+---------
+• Dialogue nodes were reversed for hacking into the overseer logs. This has been fixed.
+
+Vault 15:
+---------
+• Improved fix for player location spawning when entering the Squat after helping to annex it.
+
+Vault Village:
+--------------
+• Issues with this questline should all be resolved.
+
+Random Encounters:
+------------------
+• Several fixes to Kaga.
+• A few fixes to errors in the random encounter table.
+• Some of Kaga's companions in a few of his encounters used weapons that they did not have animations before. This has been fixed.
+
+Misc:
+-----
+• Various installer tweaks.
+• Now using sfall 3.1 and High Res patch 4.0.2. Hopefully this will fix any odd crashes/issues that were unexplained before (extraneous periods in the message window is one such issue). The latest sfall also fixes crashes when killing critters with explosives. Another nasty vanilla bug squashed!
+• Fixed graphical glitch with Sulik wearing leather armor.
+• You can no longer steal from locked containers, thus bypassing the lock.
+• Companions sometimes had incorrect talking head backgrounds when at night or when at various locations.
+• All quotes (double or single) are now consistent and use straight quotes in all the text files.
+• Several vanilla game fixes were also addressed. See the unofficial patch notes for details. But two fixes worth mentioning are 1.) fixing the shopkeeper restocking bug that occurs after several game years and 2.) vast improvements to caravan runs.
+• Many typos fixed.
+• Several map fixes (missing blockers, misaligned scenery object, inaccessible containers, shooting through solid objects, lighting problems, critters getting stuck, etc).
+• Several dialogue tree issues with scripts were fixed.
+• Many other issues that never got properly documented over these last 3 years because of on and off again modding.
+
+
+======================================
+Release 2.1.2b: - Released SEP/17/2010
+======================================
+New Content:
+
+• New playable character type - Bald Dude!
+
+Bug Fixes:
+
+Primitive Tribe:
+----------------
+• Fixed potential crash bug when doing the merchant quest. Yes, it's really fixed this time! 
+
+Modoc:
+------
+• Debug message would display in the message window on the main Modoc map or at the Ghost Farm. This has been corrected.
+
+Broken Hills:
+-------------
+• Successfully lockpicking a cell door that isn't connected to the mutant haters could complete the jailbreak quest. This is no longer the case.
+
+Misc:
+-----
+• Freezing when ending combat/turns on several maps (Klamath Downtown, random encounters, etc) should no longer happen.
+• Vic now correctly has repair as his highest skill for his last 3 level ups.
+
+
+======================================
+Release 2.1.2: - Released SEP/04/2010
+======================================
+Bug Fixes:
+
+In addition to several undocumented bug fixes, the following specific issues were addressed: 
+
+The Abbey:
+----------
+• Crop thief quest: Tom now correctly says he gives you a lighter rather than Rad-X.
+
+Broken Hills:
+-------------
+• All issues involving Marcus and the missing people down in the tunnels should be fixed.
+
+EPA:
+----
+• Dialogue with the Hologram 10001 no longer starts with three "error" options, after repairing the robot-controlling terminal.
+• Fixed possible party limit exploit with 4 legged critters and entering the lower levels of the base.
+
+Klamath:
+--------
+• If you take the quest to rustle the Brahmin but then tell the Duntons you're ashamed and decline the reward, the quest remains active and you cannot pursue any other dialogue options with them until you accept your reward, making it impossible to talk them into leaving Torr alone and complete the "Find out who is rustling brahmin" quest until you say, "I'm here for my cut, partners". This has been modified so that telling them you're ashamed also ends the quest.
+
+Modoc:
+-----
+• There are no longer two Karls on the Main Street map.
+
+New Reno:
+---------
+• It's no longer as tedious to access the stairs leading to the basements in the various casinos. Before the "shadow" graphic was blocking much of the accessible area.
+• Corrected various dialogue bugs with Three Card Monte.
+• The Shark Club pit boss no longer says you pissed off Old Man McGee even though you haven't spoken to McGee yet.
+• Using the Vertibird during combat at the Salvatore-Enclave transaction would lock you the dialogue screen. This is no longer the case.
+
+Primitive Tribe:
+---------------
+• Gecko skins lying on the ground have been removed to ensure that the odd inventory bug (carry weight suddenly goes to a ridiculous number) no longer happens.
+
+Raiders:
+--------
+• You would always end up at the "secret" entrance no matter how good your outdoorsman is. This is no longer the case.
+
+Redding:
+--------
+• Local variables were being overwritten for Fannie, which caused her quest state to change sporadically. This no longer happens.
+
+San Francisco:
+--------------
+• Entering the Hubologist stash for the first time with IN<4 would get you stuck in an endless conversation loop with the guard. This is no longer the case.
+• Corrected dialogue bug with the sub motor boat guard.
+
+Vault 13:
+---------
+• It was impossible to learn the true purpose of the vaults from "voice interface terminal". This is no longer the case.
+• Hacking into overseer logs always succeeded, as there is no roll against skill there. It now correctly does a science check.
+
+Vault City Village:
+-------------------
+• Corrected dialogue bug when asking Connar about Old Joe.
+• Corrected dialogue bugs with Connar when taking the diplomatic route to save the village.
+
+Misc:
+-----
+• Hopefully truly corrected all instances where little boy appearances were used rather than the new little girl appearances for female children.
+• Additional Karma Images are changing not only on "Karma" tab, but they also replace image corresponding to the first position item on "PERKS" and "KILLS" tabs ("TRAITS" and usually "Alien kills" respectively). Fixed in sfall 2.11
+• Fixed an sfall bug that broke critical hits when starting a new game, up until a game was first reloaded. Fixed in sfall 2.12
+
+
+======================================
+Release 2.1.1: - Released JUL/24/2010
+======================================
+Bug Fixes:
+
+In addition to several undocumented bug fixes, the following specific issues were addressed: 
+
+Arroyo:
+-------
+• Klint no longer thinks you already finished the Temple of Trials when you first talk with him.
+
+Primitive Tribe:
+----------------
+• Replaced bugged gecko skins at primitive tribe which could potentially crash the game.
+
+Broken Hills:
+-------------
+• You can no longer get another key from the prison guard (through persuasion) after already having stolen it from him.
+
+EPA:
+----
+• Corrected some errors with the NPC hibernation computer.
+• Corrected error with forcefield control computer at EPA blue level.
+• Fixed exploit that could allow you to get more NPCs in your party than you should be allowed to.
+
+Random Encounters:
+------------------
+• Fixed map issue that caused some encounters to appear empty.
+
+San Fran:
+---------
+• Map scroll blockers no longer visible on Shi/BOS map.
+
+Misc:
+-----
+• Fixed more unstackable/bugged items on several maps.
+• Fixed some minor map issues introduced in the enhanced maps.
+• Dogmeat is no longer silent when he attacks with his new armor.
+• New critters (red dog and blue security bots) are no longer silent when they attack
+• Fixed several issues with the RP installer
+• Win 2k support is back
+
+
+======================================
+Release 2.1: - Released JUL/12/2010
+======================================
+New Critters:
+
+• Random wild dog encounters may now contain red colored dogs.
+• Red colored spore plants added to the surface map of the EPA.
+• Blue colored security bots now found at the Enclave.
+• Old Joe now has a custom look.
+
+Other Changes:
+
+• Each karma level now displays it's own unique icon.
+
+Bug Fixes:
+
+In addition to numerous undocumented bug fixes, the following specific issues were addressed: 
+
+Abbey
+-----
+• Fixed issue where Brother Jason would not appear at Gecko when you escort him there.
+• Corrected swapped dialogue options when buying mutant armor for Marcus.
+• Added dialogue when returning the book to the Abbot, having not been given the quest yet.
+• Party members use correct talking head background when in the caves.
+• Dialogue screen no longer comes up when using an item from the inventory on the water pump - would cause overlapping windows.
+• Monks in the basement no longer wander to a corner and stay there forever.
+
+Arroyo
+------
+• Removed added Broc flowers and Xander roots from the hunting grounds. These were accidentally included in the enhanced maps and were bugged.
+• Rugs have been tweaked for better appearance (look more worn, older, etc) and no longer interfere with NPC interaction. This change also takes affect in any other location that uses these rugs.
+
+Broken Hills
+------------
+• Fixed crash when showing Francis the letter.
+• Fixed problem where you were only able to tell Marcus about finding the tunnels, despite having discovered the bodies of the missing people.
+• Marcus no longer joins your party without completing any quests for him (debug script was accidentally left in place in 2.0 release).
+• Chad's door now correctly displays a message when you try to blow it up, etc.
+
+Den
+---
+• Fixed severe lag issue in the Den. (Was the result of a scripting bug with Petey).
+• Corrected issue where you were unable to teleport to the different levels of the Den Residential area and could only get there when entering from the World Map.
+• Tweaked scrolling on the Residential map so that the westernmost corner of the squatter house is not off the map.
+• Walking away from the second part of the gang fight now marks it as failed. However, like it was in the vanilla version of the game, walking away from the first part successfully completes the quest. You will be unable to do the second part though.
+• Little Johnny is now known as Little Bobby (to reduce confusion with the little boy named Jonny in Modoc)
+• Fixed a bug that prevented some dialogue with Little Bobby to not be shown.
+• Vic no longer joins your party without completing any quests for him (debug script was accidentally left in place).
+• Corrected problem where the slavers would not run off the map and instead huddle up in one area. Was the result of changes made with the enhanced maps.
+
+Enclave Oil Rig
+---------------
+• Restored Presidential keycard that was accidentally removed with the enhanced map changes.
+
+EPA
+---
+• The new NPCs lockers correctly open when the NPCs are released from their hibernation and the contents are correctly added to their inventories.
+• You can no longer get infinite amounts of ERSI from Mr. Chemmie
+• The name of the location in the save files now correctly says EPA and the specific level you are on.
+• Corrected issues with using the metal pipe on the fan and the other incorrect fans.
+• Altered the appearance of the broken fan to make it more obvious as the correct choice.
+• Spawn location after using the vent corrected.
+• Removed giant "boss" spore plant and wanamingo. 3 spore plants and the white queen wanamingo are now in their place.
+• Corrected issue with the robot control terminal, where if your skill was less than 76 but over 50, you wouldn't get a a message when trying to repair it.
+• It was possible that roof tiles would "surround" the player on the green level of the EPA. This will no longer happen.
+• Restored the agility serum. It was accidentally removed with the enhanced maps.
+• Corrected some issues with the light generator and made things clearer when you don't have the quest to repair it.
+• You can now lockpick the doors to the storage shed. It is quite hard though.
+• Removed some of the slime from the clogged fans so that you aren't pixel hunting as much.
+• Removed the extra period from the description of the electric chair.
+• Fixed issue preventing the Director of Maintenance from giving floats after you do the quest for him.
+• Fixed inconsistency in messages when attempting to repair the Director of Science after already having repaired him.
+• You can now run the diagnostic on the Robot control terminal more than once, in case you forget what needs to be done.
+• You can now fix the robot control terminal with tools.
+• The description of the ERSI canister was incomplete for some reason. This has been addressed.
+• Changed the location finder computer from saying "Earth Protection Agency" to the correct description: "Environmental Protection Agency"
+
+Gecko
+-----
+• Fixed various dialogue issues with the Brain to allow for more logical/clearer dialogue flow.
+• Removed lag experienced at the Gecko-Enclave encounter.
+• Corrected typo in Gecko-Enclave encounter conversation
+• Added dialogue to Wooz in regards to the VC-Village situation.
+
+Modoc
+-----
+• Fixed dialogue bug with Balthas when talking about Johnny that caused him to mimic the dialogue of whatever previous character you spoke with.
+• Fixed various enhanced map issues that prevented initiating dialogue with certain characters or objects.
+
+Navarro
+-------
+• Fixed issue where entering Navarro would always treat the player as having stowed away on the vertibird from the New Reno-Enclave encounter.
+• Navarro is now correctly marked on your map when you go there via the New Reno-Enclave encounter.
+
+New Reno
+--------
+• T-Ray now correctly stocks batteries.
+• Renesco now gives you a one time discount (like he said he would) after "bullying" your way through the second quest.
+• Generic drug dealers now have end of trade dialogue.
+• Fixed crash when sleeping at Cat's Paw.
+
+New California Republic
+-----------------------
+• Corrected issue with the gate guard at Carlson's house, which prevented you from entering despite having permission.
+• Reading the Ranger map no longer causes it to disappear from your inventory.
+• Killing the slaver overseer no longer results in karma loss.
+• Having already completed the quest to kill Bishop, it was possible to reinitiate the quest again. This is no longer the case.
+
+Primitive Tribe
+---------------
+• Corrected issue with the amount of time it takes to travel from the tribe to the trader negotiation.
+• Fixed various enhanced map issues that prevented initiating dialogue with certain characters or objects.
+• Removed items on the ground that were added in the enhanced maps. They were unstackable and should not have been added anyway.
+• Corrected crash bug when teleporting back from the trader transaction.
+• It is now possible to fix the well before rescuing Sulik's sister.
+• Corrected duplicate dialogue option when speaking with Krom about the village.
+• Corrected typo with stimpack crate at the trader transaction.
+• Corrected more issues involving fixing the well.
+• Corrected issue where you could get stuck in dialogue when taking with Serin inside the cave.
+
+Raiders
+-------
+• It's no longer possible to initiate dialogue with Shadow Who Walks when he's been angered.
+• Added scripts to the doors at the secret entrance of the map
+
+Redding
+-------
+• It's no longer possible to get stuck when watching the mole rat fights.
+• Fixed the spawn locations for Frog Morton's goons for the enhanced maps.
+
+San Francisco
+-------------
+• One of the tables at the Tanker General store is no longer unreachable.
+• It's no longer possible to speak with Lao Chu about your missing tribe if this hasn't happened yet.
+• Fixed dialogue loop when talking with Lao Chu, as a female, about the tanker and sub.
+• It was possible for Sulik to display error when asking him to consult the spirits about San Francisco.
+• Corrected wall blocker issue in the Hubologist base.
+• Dr. Troy now has to have made the cure before you can buy it from San Fran.
+
+Sierra Army Depot
+-----------------
+• Corrected issue with traps in front of the building with the howitzer being "invisible" with the new enhanced maps.
+
+Slave Camp
+----------
+• Slavers now go hostile on site if Metzger is dead.
+• Corrected wall blocker issues.
+• Kurisu should no longer be found both at the slaver camp and at the tribe.
+
+Vault 15
+--------
+• Removed added Vault door (from the enhanced maps) that prevented access to the inside vault.
+• After convincing the doctor to leave, he should no longer be found in both the vault and the squat.
+
+Vault City
+---------
+• Greatly reduced the amount of money Connor gives the player for purchasing the weapons. It was too much money before for such a poor village.
+• Car trunk was inaccessible at the Village due to the new enhanced maps.
+• Repositioned Dr. Troy so that you can now initiate dialogue when you are directly behind him.
+• Cleaned up the dialogue tree for Old Joe so that it is no longer possible to get options that were only intended for specific paths when you in fact did not select them.
+• Corrected typos when speaking with Connor about making a deal with Vault City.
+
+Encounters
+----------
+• When encountering Kaga as a "dumb" character, you no longer get stuck in dialogue.
+• Removed Alien Blaster that was added to the crashed shuttle special encounter in the enhanced maps. It is still found at its original location.
+• Corrected who gives which type of the special weapon found in the RP end of game encounter.
+
+Misc
+----
+• Cassidy now has his unique helmetless pistol animations when using the NPC armor mod.
+• Corrected instances where little boy appearances were used rather than the new little girl appearances for female children.
+• Using newest version of appearance mod
+  -Fixed possible crash when using a new appearance
+  -Fixed issue where saving your characters setup would not save to the directory the game expects it to be.
+
+
+======================================
+Release 2.0: - Released MAR/31/2010
+======================================
+New Content/Vanilla Game Changes:
+
+Major Changes:
+
+• Complete dialogue overhaul for every RP location and character
+
+The dialogue in the RP often left much to be desired and it never quite fit with the rest of the vanilla dialogue. Well, this should no longer be the case and nearly all the dialogue at RP locations has been rewritten and should seamlessly fit into the rest of the game. A big thanks to community member Dravean for his help in this area. 
+
+• Kaga Redone
+
+Kaga has been completely overhauled to be more true to his original intent. His encounters are no longer scripted sequences and nor are they forced. Kaga's encounters are just like normal encounters, but deadly ones at that. You'll get some dialogue to go along with it too, but it has completely been rewritten. 
+
+• Complete overhaul of the EPA
+
+This location has been completely redesigned to be bigger and better than ever - new map, new dialogue, new quests, new secrets, etc. A big thanks to Pixote for his awesome mapping and graphic skills. 
+
+• 3 new recruitable npcs available
+
+To go along with the EPA overhaul, there are now 3 npcs that can join you which are found there. The one you get depends upon the skills you have chosen to develop. 
+
+• Improvements to every RP location
+
+Not only has the dialogue improved at every RP location, but the quests have also been altered. The quests at these locations have been improved and new ones have even been added. 
+
+• Shi Submarine
+
+Sailing to the Enclave no longer requires just fixing up the Tanker. The undead guardian of San Francisco is preventing anything from entering or leaving the harbor and something has to be done about it. This content has finally been realized thanks to the beautiful graphic work of community member Continuum. 
+
+• Improved maps
+
+Both vanilla and RP locations look better than ever thanks to help of community member Pixote. 
+
+• Vertibird is no longer flyable to the Enclave, but... 
+
+You no longer can fly a vertibird to the Enclave, as there really wasn't enough evidence supporting the intent of this. It didn't even make sense logically - how could everyone from your tribe, etc fit on board? However, evidence instead points to the intent for the player to stowaway on a vertibird during the Salvatore-Enclave transaction. Thus, in much the same way as the player could get to the Military Base in F1 at an earlier time than usual, the same concept is now possible in F2. The chance of survival is slim, but it's not impossible. 
+
+
+Other Changes:
+
+• Updated Sfall to the latest version currently out (2.6a).
+• Source of the "too many items bug" seems to have been found and fixed. Hoarders rejoice!
+• All party members will now give text floats when crippled, radiated, poisoned, etc.
+• Elevators at the EPA now act like elevators in the rest of the game (no dialogue window).
+• New graphics for the cryogenic chambers as well as a new electric chair.
+• Expanded Doctor Jones' (Vault 15) dialogue to bring better closure to him.
+• Unlocked dialogue where The Corsican Brothers give special comments for selected Pornstar names.
+• It is now possible to smell the cologne on Cody's dead body and deduce that Jules is the killer.
+• You can now gain citizenship at Vault City from Lynette by blowing up Gecko's reactor. She said she would give you it, but never did. It's good to be evil.
+• New and improved town map for the Abbey.
+• Added "special surprise" found only after beating the game. Just travel the Wastes after beating the game and you will find this nice treat!
+• Unlocked dialogue with the Enlightened One in NCR.
+• Unlocked dialogue with the President discussing the Vice Presidents role in the Project.
+• Added night version of the wasteland background used for NPC talking heads.
+• New Child Killer karma title.
+
+
+New/Modified Installer Extras:
+
+• New AP Ammo mod included which fixes the problem of hitting for 0 damage (Horrigan, etc).
+• Added option in the installer for new animations for the Sniper, Hunting Rifle, FN Fal and Wakizashi courtesy of Josan12.
+• Added option in the installer for animations when smoking cigarettes and drugs found at EPA. Smoking too much gives you the "Smoker" karma title. Courtesy of Josan12.
+• NPC Armor mod now has animations for Cassidy wearing leather armor. Courtesy of x'il.
+• NPC Armor mod now has animations for Myron when he is wearing Combat armor and Power armor. Courtesy of Josan12.
+• Mash's High Resolution mod. Play Fallout 2 at resolutions greater than 640x480!
+
+
+Bug Fixes:
+
+• Bug with Aunt Morlis and the Flint has been corrected.
+• Having sex with Slim Picket now correctly removes the Virgin of the Waste rep.
+• Fixed obscure bug with Torr and unexpectedly failing his quest.
+• Conditions for encountering the Gecko Verti Assault have been corrected. It was possible to not encounter them even though you were supposed to.
+• Corrected numerous bugs with the Vault Village questline. This quest should now work as intended no matter the path chosen.
+• It is no longer possible to go on a Broken Hills cattle drive after putting Chad in jail.
+• Corrected a dialogue scripting error in the listing of vaults from the Vault 13 computer.
+• Corrected a dialogue scripting error when returning the stolen body to the Shi.
+• Corrected several bugs with taking the Vertibird to the Enclave (unable to continue playing the game after beating it, ending slides coming up too early, etc) --this is no longer relevant for RP 2.0, but it was left in for reference since it did happen for an internal release.
+• If you kill everyone at the Primitive Tribe, you can now enter the cave on the shoreside.
+• Inhabitants of the Primitive Tribe no longer display "error" as text floats when you are a Slaver.
+• It is no longer possible to speak with the Primitive Tribe leader from outside the tent without first having had permission to enter.
+• Fixed Windows 9x crash bug when entering the Primitive Tribe.
+• Fixed issue with car disappearing from the Primitive Tribe.
+• Corrected map holes at the Abbey which allowed critters to go outside the visible part of the map.
+• Giving Brother Paul at the Abbey the botany disk no longer displays a dialogue option of "error".
+• Corrected bug which allowed for infinite xp when repairing the broken water pump at the Abbey.
+• Fixed various scripting issues with McGee in New Reno.
+• It is no longer possible to have the initial conversation with the leader of the Slaver Camp more than once.
+• Changed the weapons the Slavers at the Slaver camp have for game balance.
+• The Slavers at the Slaver camp will no longer run off the map thus preventing the Sulik Sister quest from becoming unfinishable.
+• The Slavers at the Slaver camp will now correctly react when stolen from.
+• Time now correctly passes when you travel to and fro the Primitive Tribe and Slaver camp (not via the world map)
+• Fixed bugged stats with the drugs found at the EPA.
+• Removed remote dynamite from the EPA as game limitations prevented it from working as it should.
+• Fixed bug with Skynet (and hopefully others) which would randomly prevent them from leveling.
+• Abbey map tweaked for improved playability.
+• Corrected even more typos/grammar mistakes.
+• If Marcus or Myron die after the fight with Horrigan but before viewing the ending slides the game would say they died years later. This has been fixed.
+• The ending slides for the Hubologists is no longer randomly chosen but dependent upon what you do for them.
+• Numerous other bug fixes/code optimizations I forgot to keep track of (or are not worth mentioning in detail). More bug free than ever!
+
+
+======================================
+Release 1.2: - Released JUNE/9/2008
+======================================
+New Content/Vanilla Game Changes:
+
+• There is now a diplomatic way to end the Kaga encounters.
+• New dialogue for Flick after setting up the orphanage in the Den.
+• Contaminating the SAD is now reflected in the New Reno ending.
+• Harold's desk now has the yellow pass key which opens the doors in the Gecko Power Plant.
+• The Cult of Personality and Karma Beacon perks have now been fully implemented.
+• Robots that are destroyed at the SAD are now replaced - only on the Repair Level.
+ -It is possible to prevent the robots from being replaced.
+• Solar Scorcher is no longer obtainable from the Guardian Portal encounter. Instead, it is found at the EPA.
+• Changed weapon placement at the EPA to improve overall game balance.
+• Hubologists in random encounters are now hostile if you killed the Hubologists in San Fran.
+
+
+Bug Fixes:
+
+• Corrected numerous typos
+• Fixed issue with Hakunin's locked chest.
+• Planting normal seeds in Arroyo no longer crashes the game.
+• It is no longer possible to get the "Figure out who's rustling the brahmin" quest after the Dunton's are dead.
+• Cleaned up code involved in the Den gang war questline.
+• Fixed bug with Harry not going to jail after you turn him in for giving guns to the Vault Village.
+• Heavy clean up to the Vault Village questline.
+• Fixed typo in the description of the Collect Food quest for the Vault Village.
+• Removed debug code from the Brain's script which caused everyone to think the reactor was fixed after looking at his description.
+• It is no longer possible to administer the jet antidote to Fannie in Redding yourself. It is only possible to cure Fannie through Lou.
+• Fixed bug where leaving the map right after giving Fannie money would make it impossible for Fannie to OD on jet.
+• Fixed dialogue scripting bug in Nikki's dialogue.
+• Cleaned up Ranger code and how they react to the Slaver's camp quest.
+• It's finally possible to fly the Vertibird from Navarro to the Enclave - was accidentally not included in 1.1
+• Gas mask now works inside the Broken Hills mine.
+• Using the elevators at the EPA should no longer crash the game.
+• Doors that use the ABRE password are no longer bugged.
+• Killing the plants outside the EPA with the plant spray should no longer cause the quest to kill them to become unresolved.
+• Fixed day/night lighting problems at the EPA. Only the botanical (green) level has a day/night cycle.
+• Fixed some bugs with the Doctor at the EPA.
+• The warrior at the Primitive Tribe will accept either regular or sharpened spears.
+ -Fixed all bugs associated with this quest.
+• Fixed the bug with fixing the well at the Primitive Tribe.
+• Serin should no longer be found stuck inside walls or not show up in places he should.
+• Removed the explodable rocks near the water at the Abbey.
+• The quest "Inform brother Thomas and father Tully about the whereabouts of each other" is miss-named. It should be Samuel and not Thomas. This has been corrected.
+• Failing to steal from the Slavers at the Slaver camp should cause them to become hostile.
+• Your car will no longer be left at the Slaver camp when you bring Sulik's sister back to the Primitive Tribe.
+• The guards at the Hubologist stash are no longer unarmed.
+• Restored the missing graphic to the watch at the Hubologist stash.
+• Numerous other bug fixes/code optimizations not worth mentioning in detail.
+
+
+======================================
+Release 1.1: - Released JAN/13/2008
+======================================
+• Fixed/added AI code for all the new locations. NPCs in these locations will now be on the correct teams.
+• Fixed tons of holes, walking through solid objects, using items through walls, etc, in all the new locations.
+• Cleaned up gang war code in the Den. Should work correctly now.
+• Fixed issue of Sulik's Sister existing at both the Slaver Camp and her village when you bring her home.
+• Fixed issue of Horrigan's encounter no longer occurring.
+• Hopefully fixed issue of random forced empty encounters occurring.
+• Fixed issues with the money skimming quest in Broken Hills.
+• Fixed crash when delivering guns to the Vault Village.
+• Fixed various crashes and issues associated with the EPA. Should be a better experience now.
+• Tweaked how the cattle rustle quest in Klamath is done.
+• Fixed issue of Sulik wandering off the Primitive Tribe map.
+• Kaga's encounters should be less buggy.
+• Fixed issue of there being no background environment when speaking with Goris.
+• Giving Dogmeat the dog food found at the EPA now does something.
+• Corrected various instances of "ERROR" being displayed in the message window or being said by NPCs.
+• The Abbey computer is no longer accessible at any moment of use. It now correctly requires a passkey.
+• Nikki, who was accidentally forgotten in the first release, can now be found in New Reno.
+• The car no longer appears inside one of the Ranger safe houses.
+• Fixed dialogue error when speaking with the NCR rangers in NCR after having already wiped out the slaver camp.
+• Redid the new alternate method of killing Keeng Ra'at.
+• Tons of general bug fixes. Should be much more stable and bug free.
+
+
+======================================
+Release 1.0: - Released JAN/05/2008
+======================================
+First official public release.

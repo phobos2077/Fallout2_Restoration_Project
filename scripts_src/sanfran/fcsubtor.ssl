@@ -1,0 +1,139 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "fcsubtor"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_FCSUBTOR
+
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
+#include "../headers/sfsub.h"
+
+#define REPAIR_BONUS                            (-50)
+#define TOOL_BONUS                              (REPAIR_BONUS+20)
+#define TRAP_BONUS                              (-10+(10*dude_is_sneaking))
+
+#define EXPLOSION_TILE_1   (29301)
+#define EXPLOSION_TILE_2   (27500)
+#define EXPLOSION_TILE_3   (29494)
+#define EXPLOSION_TILE_4   (28694)
+
+import variable subTech3_ptr;
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure timed_event_p_proc;
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (map_var(MVAR_Torpedo_Permission) == 0) then begin
+      script_overrides;
+      add_timer_event(subTech3_ptr,5,2);
+   end else if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      script_overrides;
+      display_msg(mstr(200));
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if (map_var(MVAR_Torpedo_Permission) == 0) then begin
+      script_overrides;
+      add_timer_event(subTech3_ptr,5,2);
+   end else if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      if ( (action_being_used == SKILL_REPAIR) ) then begin
+         if (is_success(roll_vs_skill(source_obj,SKILL_REPAIR,REPAIR_BONUS))) then begin
+            script_overrides;
+            display_msg(mstr(210));
+            set_sub_flag(SHI_SUB_DISABLED);
+         end else begin
+            script_overrides;
+            display_msg(mstr(211));
+         end
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   variable Traps_Roll;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (map_var(MVAR_Torpedo_Permission) == 0) then begin
+      script_overrides;
+      add_timer_event(subTech3_ptr,5,2);
+   end else if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+      if ( (Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT) ) then begin
+         if (skill_success(source_obj,SKILL_REPAIR,TOOL_BONUS)) then begin
+            script_overrides;
+            display_msg(mstr(210));
+            set_sub_flag(SHI_SUB_DISABLED);
+         end else begin
+            script_overrides;
+            display_msg(mstr(211));
+         end
+      end else if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
+         script_overrides;
+         Traps_Roll:=roll_vs_skill(dude_obj,SKILL_TRAPS,TRAP_BONUS);
+         if (is_success(Traps_Roll)) then begin
+            remove_pid_qty(dude_obj, Tool, 1)
+            set_map_var(MVAR_Explosive_Timer,1);
+            display_msg(mstr(220));
+            add_timer_event(self_obj,game_ticks(120),1);
+         end else begin
+            add_timer_event(subTech3_ptr,5,3);
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   /*if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+      script_overrides;
+      explosion(EXPLOSION_TILE_1, self_elevation, 1000);
+      explosion(EXPLOSION_TILE_2, self_elevation, 1000);
+      explosion(EXPLOSION_TILE_3, self_elevation, 1000);
+      explosion(EXPLOSION_TILE_4, self_elevation, 1000);
+      critter_dmg(dude_obj,99999,DMG_explosion);
+   end*/
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      explosion(EXPLOSION_TILE_1, self_elevation, 1000);
+      explosion(EXPLOSION_TILE_2, self_elevation, 1000);
+      explosion(EXPLOSION_TILE_3, self_elevation, 1000);
+      explosion(EXPLOSION_TILE_4, self_elevation, 1000);
+      critter_dmg(dude_obj,99999,DMG_explosion);
+   end
+end

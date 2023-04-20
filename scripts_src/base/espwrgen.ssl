@@ -1,0 +1,151 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: Yes
+        Trapped: Yes
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "espwrgen"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ESPWRGEN
+
+#include "../headers/updatmap.h"
+#include "../headers/command.h"
+#include "../headers/base.h"
+
+/* Defines and Macros */
+
+#define REPAIR_BONUS                            (-30)
+#define TOOL_BONUS                              (REPAIR_BONUS+20)
+#define REPAIR_MIN                              (50)
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+
+#define LVAR_Gave_Xp                            (0)
+#define LVAR_Failed_Attempts                    (1)
+
+procedure start begin
+end
+
+//added by killap - expansion
+procedure map_enter_p_proc begin
+   if (Generator_Fixed) then begin
+      reg_anim_begin();
+      reg_anim_animate_forever(self_obj, ANIM_stand);
+      reg_anim_end();
+   end
+   add_timer_event(self_obj, 1, 1);
+end
+
+procedure map_update_p_proc begin
+   if ((combat_is_initialized == 0) and Generator_Fixed) then
+   begin
+      reg_anim_begin();
+      reg_anim_animate_forever(self_obj, ANIM_stand);
+      reg_anim_end();
+   end
+end
+
+procedure timed_event_p_proc
+begin
+  if (fixed_param == 1) then begin
+      if ( Generator_Fixed and (anim_busy(self_obj) == false) and (combat_is_initialized == 0) ) then begin
+         reg_anim_begin();
+         reg_anim_animate_forever(self_obj, ANIM_stand);
+         reg_anim_end();
+      end
+      add_timer_event(self_obj, 1, 1);
+  end
+
+end
+//end added
+
+procedure use_skill_on_p_proc begin
+   if (not(Generator_Fixed) and (action_being_used == SKILL_REPAIR)) then begin //added (action_being_used == SKILL_REPAIR) by killap
+      script_overrides;
+      if (has_skill(source_obj,SKILL_REPAIR) < 50) then begin
+         display_msg(mstr(104));
+      end else if (skill_success(source_obj,SKILL_REPAIR,REPAIR_BONUS)) then begin
+         set_base_power;
+         display_msg(mstr(108));
+         base_lighting;
+         if (local_var(LVAR_Gave_Xp) == 0) then begin
+            display_mstr(200);
+            give_xp(EXP_MILITARY_BASE_FIX_GENERATOR);
+            set_local_var(LVAR_Gave_Xp,1);
+         end
+      end else begin
+         inc_local_var(LVAR_Failed_Attempts);
+         if (local_var(LVAR_Failed_Attempts) == 1) then
+            display_msg(mstr(105));
+         else if (local_var(LVAR_Failed_Attempts) == 2) then
+            display_msg(mstr(106));
+         else
+            display_msg(mstr(107));
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   if ( (not(Generator_Fixed)) and ((obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT)) ) then begin //added super_tool_kit - killap
+      script_overrides;
+      if (has_skill(source_obj,SKILL_REPAIR) < 50) then begin
+         display_msg(mstr(104));
+      end else if (skill_success(source_obj,SKILL_REPAIR,TOOL_BONUS)) then begin
+         set_base_power;
+         display_msg(mstr(108));
+         base_lighting;
+         if (local_var(LVAR_Gave_Xp) == 0) then begin
+            display_mstr(200);
+            give_xp(EXP_MILITARY_BASE_FIX_GENERATOR);
+            set_local_var(LVAR_Gave_Xp,1);
+         end
+      end else begin
+         inc_local_var(LVAR_Failed_Attempts);
+         if (local_var(LVAR_Failed_Attempts) == 1) then
+            display_msg(mstr(105));
+         else if (local_var(LVAR_Failed_Attempts) == 2) then
+            display_msg(mstr(106));
+         else
+            display_msg(mstr(107));
+      end
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (Generator_Fixed) then begin
+       display_msg(mstr(102));
+   end else begin
+       display_msg(mstr(100));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (Generator_Fixed) then begin
+       display_msg(mstr(103));
+   end else begin
+       display_msg(mstr(101));
+   end
+end

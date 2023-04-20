@@ -1,0 +1,390 @@
+
+;
+; Party Member valid option data
+;
+
+;
+; Warning: Adding a party member here means you must also add it to party.h!
+;
+
+;
+; Note: Party Member level-up float messages are found in game\misc.msg!
+;
+
+
+[Party Member 0]   ; Player -- Not actually used!
+party_member_pid=16777216
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed, unarmed_over_thrown, random
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 1]   ; pMMyron_PID
+party_member_pid=16777376
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts
+disposition=none, custom, coward, defensive, aggressive
+level_minimum=6
+level_up_every=4
+level_pids=16777541,16777542,16777543,16777544
+
+[Party Member 2]   ; pMMarcus_PID
+party_member_pid=16777377
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_lots, sometimes
+distance=charge, on_your_own
+run_away_mode=tourniquet, never
+disposition=none, custom, aggressive, berserk
+level_minimum=12
+level_up_every=3
+level_pids=16777545,16777546,16777547,16777548,16777549
+
+[Party Member 3]   ; pMMacRae_PID
+party_member_pid=16777305
+area_attack_mode=sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, not_feeling_good, tourniquet, never
+disposition=none, custom, defensive, aggressive, berserk
+level_minimum=10
+level_up_every=4
+level_pids=16777554,16777555,16777556,16777557
+
+[Party Member 4]   ; pMSulik_PID
+party_member_pid=16777313
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, tourniquet, never
+disposition=none, custom, defensive, aggressive, berserk
+level_minimum=6
+level_up_every=3
+level_pids=16777526,16777527,16777528,16777529,16777530,16777531
+
+[Party Member 5]   ; pMLenny_PID
+party_member_pid=16777323
+area_attack_mode=always, sometimes
+attack_who=whomever_attacking_me, weakest
+best_weapon=no_pref, ranged_over_melee
+chem_use=clean, stims_when_hurt_little, sometimes, anytime, always
+distance=stay_close, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good
+disposition=none, custom, coward, defensive
+level_minimum=10
+level_up_every=5
+level_pids=16777532,16777533,16777534
+
+[Party Member 6]   ; pMCyberdog_PID
+party_member_pid=16777352
+area_attack_mode=
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=unarmed
+chem_use=clean
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=9
+level_up_every=4
+level_pids=16777550,16777551,16777552,16777553
+
+[Party Member 7]   ; pMDoc_PID
+party_member_pid=16777378
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 8]   ; pMGoris_PID
+party_member_pid=16777368
+area_attack_mode=
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots
+distance=charge
+run_away_mode=tourniquet, never
+disposition=none, custom, aggressive, berserk
+level_minimum=10
+level_up_every=4
+level_pids=16777535,16777536,16777537,16777538,16777539,16777540
+
+[Party Member 9]   ; pMDavin_PID
+party_member_pid=16777379
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 10]   ; pMMaria_PID
+party_member_pid=16777380
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 11]   ; pMLaddie_PID
+party_member_pid=16777381
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 12]   ; pMRoboBrain_PID  -- Cyberbrain
+party_member_pid=16777295
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=10
+level_up_every=4
+level_pids=16777565,16777566,16777567,16777568,16777569
+
+[Party Member 13]   ; pMVic_PID
+party_member_pid=16777278
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, weakest, whomever, closest
+best_weapon=no_pref, ranged_over_melee, ranged, unarmed
+chem_use=stims_when_hurt_little, stims_when_hurt_lots
+distance=stay_close, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good
+disposition=none, custom, defensive, aggressive
+level_minimum=5
+level_up_every=4
+level_pids=16777589,16777590,16777591,16777592,16777593,16777594
+
+[Party Member 14]   ; pMBess_PID
+party_member_pid=16777407
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 15]   ; pMChicken_PID
+party_member_pid=16777411
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 16]   ; pMKarl_PID
+party_member_pid=16777412
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 17]   ; pMJonny_PID
+party_member_pid=16777413
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 18]   ; pMLloyd_PID
+party_member_pid=16777481
+area_attack_mode=always, sometimes, be_sure, be_careful, be_absolutely_sure
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_little, stims_when_hurt_lots, sometimes, anytime, always
+distance=stay_close, charge, snipe, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 19]   ; pMDogMeat_PID
+party_member_pid=16777558
+area_attack_mode=
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=unarmed
+chem_use=clean
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=none, not_feeling_good, tourniquet, never
+disposition=none, custom, aggressive
+level_minimum=6
+level_up_every=3
+level_pids=16777559,16777560,16777561,16777562,16777563,16777564
+
+[Party Member 20]   ; pMRoboBrain_PID  -- Human
+party_member_pid=16777597
+area_attack_mode=always, sometimes
+attack_who=weakest, whomever, closest
+best_weapon=no_pref,ranged_over_melee, ranged, unarmed
+chem_use=clean
+distance=charge,on_your_own, stay
+run_away_mode=none, coward, tourniquet, never
+disposition=none, custom, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 21]   ; pMRoboBrain_PID  -- Abnormal
+party_member_pid=16777596
+area_attack_mode=always
+attack_who=weakest
+best_weapon=unarmed
+chem_use=clean
+distance=stay
+run_away_mode=none, coward
+disposition=none, custom, coward
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 22]   ; pMRoboBrain_PID  -- Chimp
+party_member_pid=16777595
+area_attack_mode=always
+attack_who=weakest
+best_weapon=unarmed
+chem_use=clean
+distance=stay
+run_away_mode=none, coward
+disposition=none, custom, coward
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 23]   ; pMPariahDog_PID
+party_member_pid=16777600
+area_attack_mode=
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=unarmed
+chem_use=clean
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=0
+level_up_every=0
+level_pids=-1
+
+[Party Member 24]   ; pMK9_PID
+party_member_pid=16777687
+area_attack_mode=
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=unarmed
+chem_use=clean
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=none, coward, finger_hurts, bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, coward, defensive, aggressive, berserk
+level_minimum=12
+level_up_every=4
+level_pids=16777688,16777689,16777690,16777691
+
+[Party Member 25]   ; pMCarTrunk_PID
+party_member_pid=455
+;area_attack_mode=
+;attack_who=
+;best_weapon=
+;chem_use=
+;distance=
+;run_away_mode=
+;disposition=
+;level_minimum=0
+;level_up_every=0
+;level_pids=-1
+
+[Party Member 26]   ; pMKITSUNE_PID
+party_member_pid=16777718
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, ranged_over_melee, ranged, melee, unarmed
+chem_use=clean, stims_when_hurt_lots, sometimes
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, aggressive, berserk
+level_minimum=12
+level_up_every=3
+level_pids=16777724,16777725,16777726,16777727,16777728
+
+[Party Member 27]   ; pMDEX_PID
+party_member_pid=16777719
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, melee, melee_over_ranged, ranged_over_melee, ranged, unarmed
+chem_use=clean, stims_when_hurt_lots, sometimes
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=tourniquet, never
+disposition=none, custom, aggressive, berserk
+level_minimum=12
+level_up_every=3
+level_pids=16777729,16777730,16777731,16777732,16777733
+
+[Party Member 28]   ; pMCATJULES_PID
+party_member_pid=16777720
+area_attack_mode=always, sometimes, be_careful
+attack_who=whomever_attacking_me, strongest, weakest, whomever, closest
+best_weapon=no_pref, ranged_over_melee, ranged, melee, unarmed
+chem_use=clean, stims_when_hurt_lots, sometimes
+distance=stay_close, charge, on_your_own, stay
+run_away_mode=bleeding, not_feeling_good, tourniquet, never
+disposition=none, custom, aggressive, berserk
+level_minimum=12
+level_up_every=3
+level_pids=16777734,16777735,16777736,16777737,16777738

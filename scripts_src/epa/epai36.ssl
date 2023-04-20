@@ -1,0 +1,170 @@
+/*        Script from item templete*          /
+
+/*
+        Name: epai36
+        Location: EPA
+        Description: Zoo computer - describes the petting zoo, Wanamingos, and spore plant pens
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epai36"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAI36
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+
+procedure Node999;
+
+procedure Node990;
+procedure Node991;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+
+#define PETTING_ZOO_TILE 27473
+#define WANAMINGO_TILE 28469
+#define SPORE_PLANT_TILE 28461
+
+#define PETTING_ZOO_FIELD_PTR (tile_contains_pid_obj(27076,dude_elevation,PID_NS_FORCE_FIELD))
+#define PETTING_ZOO_FIELD_PTR2 (tile_contains_pid_obj(27064,dude_elevation,PID_NS_FORCE_FIELD))
+#define WANAMINGO_FIELD_PTR (tile_contains_pid_obj(28676,dude_elevation,PID_NS_FORCE_FIELD))
+#define SPORE_PLANT_FIELD_PTR (tile_contains_pid_obj(28662,dude_elevation,PID_NS_FORCE_FIELD))
+
+procedure start begin
+end
+
+
+procedure description_p_proc
+begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure use_p_proc begin
+   if (combat_is_initialized == 0) then begin
+      start_gdialog(NAME, self_obj, 4, -1, -1);
+      gsay_start;
+         call Node001;
+      gsay_end;
+      end_dialogue;
+   end
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node001 begin
+   Reply(150);
+   NOption(151, Node990, 004);
+   NOption(152, Node002, 004);
+end
+
+procedure Node002 begin
+   Reply(160);
+   NOption(161, Node003, 004);
+   NOption(162, Node001, 004);
+end
+
+procedure Node003 begin
+   Reply(170);
+   NOption(171, Node991, 004);
+   NOption(172, Node002, 004);
+end
+
+procedure Node004 begin
+   Reply(200);
+   NOption(201, Node005, 004);
+end
+
+procedure Node005 begin
+   Reply(210);
+   NOption(211, Node006, 004);
+end
+
+procedure Node006 begin
+   Reply(220);
+   NOption(221, Node999, 004);
+end
+
+procedure Node007 begin
+   Reply(300);
+   NOption(301, Node008, 004);
+end
+
+procedure Node008 begin
+   Reply(310);
+   NOption(311, Node009, 004);
+end
+
+procedure Node009 begin
+   Reply(320);
+   NOption(321, Node999, 004);
+end
+
+procedure Node010 begin
+   Reply(400);
+   NOption(401, Node011, 004);
+end
+
+procedure Node011 begin
+   Reply(410);
+   NOption(411, Node012, 004);
+end
+
+procedure Node012 begin
+   Reply(420);
+   NOption(421, Node999, 004);
+end
+
+procedure Node990 begin
+   if (self_tile == PETTING_ZOO_TILE) then begin
+      call Node004;
+   end else if (self_tile == WANAMINGO_TILE) then begin
+      call Node007;
+   end else if (self_tile == SPORE_PLANT_TILE) then begin
+      call Node010;
+   end
+end
+
+procedure Node991 begin
+   Reply(180);
+   NOption(181, Node999, 004);
+   if (self_tile == PETTING_ZOO_TILE) then begin
+      destroy_object(PETTING_ZOO_FIELD_PTR);
+      destroy_object(PETTING_ZOO_FIELD_PTR2);
+   end else if (self_tile == WANAMINGO_TILE) then begin
+      destroy_object(WANAMINGO_FIELD_PTR);
+   end else if (self_tile == SPORE_PLANT_TILE) then begin
+      destroy_object(SPORE_PLANT_FIELD_PTR);
+   end
+end

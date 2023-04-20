@@ -1,0 +1,202 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: NO
+        Trapped: NO
+        Closing: NO
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ssgundor"
+#define TRU_NAME                SCRIPT_SSGUNDOR
+#include "../headers/ncr2.h"
+#include "../headers/ncr.h"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_INACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_WOOD
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
+
+#define custom_use_obj_on_p_proc
+#define custom_damage_p_proc
+#define custom_use_skill_on_p_proc
+#define custom_use_p_proc
+#include "../headers/doors.h"
+
+import variable i_gunther_obj;
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure use_p_proc begin
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+
+   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+
+   if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+       if (is_success(Traps_Roll)) then begin
+           script_overrides;
+           set_local_var(LVAR_Found_Trap,1);
+           reg_anim_clear(source_obj);
+
+           if (source_obj == dude_obj) then begin
+               display_msg(mstr(204));
+           end
+           else begin
+               display_msg(mstr(205));
+           end
+       end
+
+       else begin
+           if (obj_is_locked(self_obj)) then begin
+               script_overrides;
+               display_msg(mstr(203));
+               call Damage_Critter;
+           end
+           else begin
+               call Damage_Critter;
+           end
+       end
+   end
+   else if (obj_is_locked(self_obj) or map_var(MVAR_GunDor_Open) == 0) then begin
+       script_overrides;
+       display_msg(mstr(203));
+   end
+
+   if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin
+      last_source_obj := source_obj;
+      add_timer_event(self_obj, 10, TIMER_CLOSE);
+   end
+end
+
+/**********************************************************************************
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   if (i_gunther_obj != -1) then begin
+      script_overrides;
+      POSTGLOBALTIMER(i_gunther_obj, NCR_TIMER_PLAYER_WARN);
+   end else begin
+      Skill_Used:=action_being_used;
+
+      if (Skill_Used == SKILL_LOCKPICK) then begin
+         script_overrides; //added by killap
+         if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+            call Unlock_Lock;
+         end
+         else begin
+            call Set_Lock;
+         end
+      end                                                          // End of Skill_Lockpick
+
+      else if (Skill_Used == SKILL_TRAPS) then begin
+         script_overrides; //added by killap
+         if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+            call Skill_Disarm_Traps;
+         end
+         else begin
+            if (source_obj == dude_obj) then begin
+                  display_msg(mstr(195));
+            end
+
+            else begin
+                  display_msg(obj_name(source_obj)+mstr(200));
+            end
+         end
+      end                                                          // End of Skill_Traps
+   end
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   Tool:=obj_pid(obj_being_used_with);
+   if (i_gunther_obj != -1) then begin
+      script_overrides;
+      POSTGLOBALTIMER(i_gunther_obj, NCR_TIMER_PLAYER_WARN);
+   end else begin
+      pry_trap_block
+      full_lockpick_block
+   end
+end
+
+/******************************************************************************************
+   Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
+   or any other forms of damage), this procedure will be called to destroy the door and
+   free up the space.
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   variable Trap_Damage;
+
+  /************ Wood Door ****************/
+
+ set_ncr_flag(NCR_GUARD_ENEMY);
+
+ if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+   if (DOOR_STATUS == STATE_WOOD) then begin
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+           set_local_var(LVAR_Trapped, STATE_INACTIVE);
+           set_local_var(LVAR_Locked, STATE_INACTIVE);
+           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+           explosion(self_tile, self_elevation, Trap_Damage);
+           destroy_object(self_obj);
+       end
+
+       else begin
+           set_local_var(LVAR_Trapped, STATE_INACTIVE);
+           set_local_var(LVAR_Locked, STATE_INACTIVE);
+           destroy_object(self_obj);
+       end
+   end
+
+  /************ Metal Door ****************/
+
+   else if (DOOR_STATUS == STATE_METAL) then begin
+       set_local_var(LVAR_Explosion_Attempts,local_var(LVAR_Explosion_Attempts)+1);
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+           set_local_var(LVAR_Locked, STATE_INACTIVE);
+           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+           explosion(self_tile, self_elevation, Trap_Damage);
+       end
+
+       else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
+           set_local_var(LVAR_Trapped, STATE_INACTIVE);
+           set_local_var(LVAR_Locked,STATE_INACTIVE);
+           destroy_object(self_obj);
+       end
+   end
+
+end
+
+   else begin
+       display_msg(mstr(193));
+   end
+end

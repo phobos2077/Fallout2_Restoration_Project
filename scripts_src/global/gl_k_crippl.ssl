@@ -1,0 +1,48 @@
+#define SCRIPT_REALNAME "gl_k_crippl"
+#include "../headers/define.h"
+
+#define iface_tag_player_crippled 5
+#define iface_tag_npc_crippled 6
+
+procedure is_crippled(variable who) begin
+   if (critter_state(who) bwand (4 bwor 8 bwor 16 bwor 32 bwor 64)) then return true;
+   return false;
+end
+
+procedure start begin
+   variable npc_crippled := false;
+   variable who;
+
+   if (game_loaded) then begin
+      hide_iface_tag(iface_tag_player_crippled);
+      hide_iface_tag(iface_tag_npc_crippled);
+      set_global_script_repeat(120); // todo: drop this and use hooks?
+   end
+
+   // player crippled
+   if is_crippled(dude_obj) and not is_iface_tag_active(iface_tag_player_crippled) then begin
+      show_iface_tag(iface_tag_player_crippled);
+   end
+   // player healed
+   if not is_crippled(dude_obj) and is_iface_tag_active(iface_tag_player_crippled) then begin
+      hide_iface_tag(iface_tag_player_crippled);
+   end
+
+   // check all npcs
+   npc_crippled := false;
+   foreach who in party_member_list(0) begin
+      if is_crippled(who) then begin
+         npc_crippled := true;
+         break;
+      end
+   end
+   // npc crippled
+   if npc_crippled and not is_iface_tag_active(iface_tag_npc_crippled) then begin
+      show_iface_tag(iface_tag_npc_crippled);
+   end
+   // npc healthy
+   if not npc_crippled and is_iface_tag_active(iface_tag_npc_crippled) then begin
+      hide_iface_tag(iface_tag_npc_crippled);
+   end
+
+end

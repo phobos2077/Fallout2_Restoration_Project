@@ -1,0 +1,2 @@
+{100}{}{"Zaius! Marcus nem csinál semmit azzal a mutánsgyűlölő Jacobbal és a többi mocskos összeesküvővel. Először tönkretették a légtisztítót... mi lesz a következő lépés? Megtaláltam a titkos találkozóhelyüket az alagútrendszerben. Azt hiszem, pár holttest odalent befeketítheti Jacobot. Ha egyetértesz, szólj! És égesd el ezt a rohadt üzenetet, ne úgy mint a múltkor!" - Aláírás, Francis}
+{101}{}{Atyaég! Ha ezt elmondom Marcusnak, az egész városban fellobban a gyűlölködés. Jobb lesz, ha előbb Zaiusszal vagy Francisszel beszélek... és keresek pár választ a kérdéseimre.}

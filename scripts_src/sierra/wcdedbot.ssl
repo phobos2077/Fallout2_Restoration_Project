@@ -1,0 +1,151 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+
+//Overrides the pickup p proc.
+//#define NPC_REACTION_TYPE       REACTION_TC /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
+//#define NPC_REACTION_VAR        7 /* same as thief variable */
+
+#define SCRIPT_REALNAME "wcdedbot"
+#include "../headers/define.h"
+#include "../headers/depolvz.h" //added by killap
+//#include "../headers/<TownName.h>"
+
+#define NAME                    SCRIPT_WCDEDBOT
+//#define TOWN_REP_VAR            (GVAR_TOWN_REP_)
+
+#include "../headers/command.h"
+//#include "../headers/modreact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure combat_p_proc;
+
+//added by killap - expansion
+import variable Field2c_Ptr;
+import variable Field2d_Ptr;
+//end added
+
+#define PID_ELECTRIC_FLOOR      (33555661)
+
+#define LVAR_Initialized            (0)
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+   variable floor_ptr;
+   if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+      //added by killap - expansion
+      if (map_var(MVAR_Robot_Activation) == 1) then begin
+         if ( (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
+            //added by killap
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
+            end
+            //end added
+            set_local_var(LVAR_Initialized,1);
+            set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
+            set_map_var(MVAR_Electric_Floor_2,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
+            attack(dude_obj);
+         end else if ( (map_var(MVAR_Repair_Request2) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
+            //added by killap
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
+            end
+            //end added
+            set_local_var(LVAR_Initialized,1);
+            set_map_var(MVAR_Repair_Request2,REPAIR_COMPLETE);
+            set_map_var(MVAR_Electric_Floor_2,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
+            attack(dude_obj);
+         end else if ( (map_var(MVAR_Repair_Request3) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
+            //added by killap
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
+            end
+            //end added
+            set_local_var(LVAR_Initialized,1);
+            set_map_var(MVAR_Repair_Request3,REPAIR_COMPLETE);
+            set_map_var(MVAR_Electric_Floor_2,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
+            attack(dude_obj);
+         end else if ( (map_var(MVAR_Repair_Request4) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
+            //added by killap
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
+            end
+            //end added
+            set_local_var(LVAR_Initialized,1);
+            set_map_var(MVAR_Repair_Request4,REPAIR_COMPLETE);
+            set_map_var(MVAR_Electric_Floor_2,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
+            attack(dude_obj);
+         end else if ( (map_var(MVAR_Repair_Request5) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
+            //added by killap
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
+            end
+            //end added
+            set_local_var(LVAR_Initialized,1);
+            set_map_var(MVAR_Repair_Request5,REPAIR_COMPLETE);
+            set_map_var(MVAR_Electric_Floor_2,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
+            attack(dude_obj);
+         end else if ( (map_var(MVAR_Repair_Request6) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
+            //added by killap
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
+            end
+            //end added
+            set_local_var(LVAR_Initialized,1);
+            set_map_var(MVAR_Repair_Request6,REPAIR_COMPLETE);
+            set_map_var(MVAR_Electric_Floor_2,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
+            attack(dude_obj);
+         end
+      //end added
+      end else begin
+         script_overrides;
+         ndebug("I am turned off and won't attack!");
+      end
+   end
+end

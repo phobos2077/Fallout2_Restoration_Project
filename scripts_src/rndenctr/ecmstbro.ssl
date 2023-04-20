@@ -1,0 +1,18 @@
+#define SCRIPT_REALNAME "ecmstbro"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "../headers/random_merchant.h"
+#define CITY_START              (CITY_BROKEN_HILLS)
+#define CITY_END                (CITY_GECKO)
+
+#define restock \
+   item:=create_object(PID_URANIUM_ORE,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(4,9)); \
+   item:=create_object(PID_DYNAMITE,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_FIRST_AID_KIT,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   item:=create_object(PID_SLEDGEHAMMER,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3))
+
+#include "../template/random_merchant.ssl"

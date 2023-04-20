@@ -1,0 +1,2 @@
+{100}{}{"Zaius: Marcus nic nie robi z tym wrogiem mutantów - Jacobem, i jego przeklętą bandą spiskowców. Najpierw uszkodzili systemy uzdatniania powietrza... co będzie dalej? Znalazłem tunele, w których się spotykają. Zostawienie tam kilku ciał powinno wskazać na Jacoba. Jeśli ci to pasuje, to daj mi znać. Tym razem spal tę cholerną kartkę!" - Podpisane, Francis}
+{101}{}{Mój Boże! Jeśli Marcus dowie się o tej wiadomości, w mieście rozpęta się piekło. Lepiej będzie jak porozmawiam najpierw z Zaiusem albo Francisem... i uzyskam kilka odpowiedzi.}

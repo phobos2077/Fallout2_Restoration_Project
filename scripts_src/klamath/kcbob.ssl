@@ -1,0 +1,687 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Whiskey Bob
+        Location: Klamath
+        Description:
+
+        Note: Currently this script cannot be loaded by the scripting tool.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: January 14, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "kcbob"
+#include "../headers/define.h"
+#include "../headers/kladwtn.h"
+
+#define NAME                    SCRIPT_KCBOB
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+#define Vault_Known             (1)     // Temp Until get command from Jesse
+#define Visited_City            (1)     // Temp Until get command from Jesse
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node910;
+procedure Node920;
+procedure Node950;
+procedure Node955;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node040;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Still_Accept_Plus          (11)
+#define LVAR_14_before                  (12)
+#define LVAR_jerk                       (13)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable mybooze;
+variable item;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_TOUGH_CITIZEN);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var(GVAR_ENEMY_KLAMATH,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   GetReaction;
+
+   if ((REP_ENEMY_KLAMATH) or (local_var(LVAR_Personal_Enemy) == 1)) then begin
+       call Node998;
+   end
+
+   else if (local_var(LVAR_jerk) == 1) then begin
+      display_msg(mstr(550));
+   end
+
+   else if (global_var(GVAR_STILL_STATUS) == STILL_BETRAY) then begin
+   //else if (map_var(MVAR_Still_Betray) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node017;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if ((dude_iq <= (0-LOW_IQ))) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_STILL_STATUS) == STILL_REWARDED) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node040;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_STILL_STATUS) == STILL_SUCCESS) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+          call Node018;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_STILL_STATUS) == STILL_FAILURE) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node029;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if (global_var(GVAR_STILL_STATUS) == STILL_ACCEPT) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           if ( (GAME_TIME_IN_HOURS - (global_var(GVAR_STILL_START)) ) > 24) then begin
+              set_global_var(GVAR_STILL_STATUS, STILL_FAILURE);
+              call Node029;
+           end
+           else begin
+              call Node016;
+           end
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if town_rep_worse_than(-2) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node004;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+       if (local_var(LVAR_Herebefore) == 0) then begin
+          set_local_var(LVAR_Herebefore,1);
+          call Node005;
+       end
+       else begin
+          call Node015;
+       end
+       gSay_End;
+       end_dialogue;
+   end
+
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure push_p_proc begin
+   script_overrides;
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node910 begin
+//if player money < 5 goto 8
+//else subtract 5 coins and goto 7
+   if (dude_caps > 4) then begin
+      dude_caps_adjust(-5); //subtract 5 coins
+      //set_local_var(LVAR_Give, 1);
+      if (global_var(GVAR_STILL_STATUS) == 0) then
+         call Node007;
+      else
+         call Node999;
+   end
+   else begin
+      //set_local_var(LVAR_Nogive,1);
+      call Node008;
+   end
+end
+
+procedure Node920 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
+      call Node011;
+   else
+      call Node004;
+end
+
+procedure Node950 begin
+   set_global_var(GVAR_STILL_STATUS, STILL_REWARDED);
+   dude_caps_adjust(50);
+end
+
+procedure Node955 begin
+   set_global_var(GVAR_STILL_STATUS, STILL_REWARDED);
+   dude_caps_adjust(65);   //killap's fix: changed from 55 to 65 (what .msg says he gives)
+end
+
+procedure Node995 begin
+   if (dude_charisma >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (dude_charisma >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if (dude_is_male) then
+      Reply(110);
+   else
+      Reply(111);
+
+   NLowOption(112,Node002);
+   NLowOption(113,Node002);
+   NLowOption(mstr(114) + dude_name,Node002);
+   NLowOption(115,Node003);
+end
+
+procedure Node002 begin
+   if (dude_is_male) then
+      NMessage(120);
+   else
+      NMessage(121);
+end
+
+procedure Node003 begin
+   if (dude_is_male) then
+      NMessage(130);
+   else
+      NMessage(131);
+end
+
+procedure Node004 begin
+   if (dude_is_male) then
+      NMessage(140);
+   else
+      NMessage(141);
+end
+
+procedure Node005 begin
+   Reply(150);
+   NOption(mstr(151) + dude_name + mstr(152),Node006,004);
+   NOption(mstr(153) + dude_name + mstr(154),Node006,004);
+   NOption(155,Node003,004);
+end
+
+procedure Node006 begin
+   Reply(160);
+   NOption(161,Node910,004);
+   NOption(162,Node003,004);
+   NOption(163,Node004,004);
+
+   if (global_var(GVAR_STILL_STATUS) == 0) then
+      NOption(164,Node920,007);
+end
+
+procedure Node007 begin
+   Reply(170);
+   NOption(171,Node003,004);
+   NOption(172,Node009,004);
+   NOption(173,Node010,004);
+   NOption(174,Node010,006);
+   NOption(175,Node019,006);
+end
+
+procedure Node008 begin
+   Reply(180);
+   NOption(181,Node003,004); //edit by killap - was NLowOption(181,Node003);
+end
+
+procedure Node009 begin
+   Reply(190);
+   NOption(191,Node012,004);
+   NOption(192,Node003,004);
+end
+
+procedure Node010 begin
+   Reply(200);
+   NOption(201,Node009,004);
+   NOption(202,Node999,004);
+end
+
+procedure Node011 begin
+   if (self_item_count(PID_BOOZE)) then begin
+      mybooze:=self_item(PID_BOOZE);
+      rm_obj_from_inven(self_obj,mybooze);
+      //destroy_object(mybooze); //added by killap
+      //item:=create_object(PID_BOOZE,0,0);
+      add_obj_to_inven(dude_obj,mybooze);
+   end
+//give player one bottle of booze  -nbk
+   Reply(210);
+   //NLowOption(181,Node009);
+   NOption(181,Node009,004); //edit by killap
+
+end
+
+procedure Node012 begin
+   Reply(220);
+   NOption(221,Node013,004);
+   NOption(222,Node003,004);
+   if (local_var(LVAR_14_before) == 0) then
+      NOption(223,Node014,004);
+end
+
+procedure Node013 begin
+//give player key to shack, set Still_accept flag -nbk
+   set_global_var(GVAR_STILL_START, GAME_TIME_IN_HOURS);
+   set_global_var(GVAR_STILL_STATUS, STILL_ACCEPT);
+   //set_map_var(MVAR_Still_Accept, 1);
+   Reply(230);
+   NOption(231,Node999,004);
+   NOption(232,Node019,004);
+end
+
+procedure Node014 begin
+   set_local_var(LVAR_14_before, 1);
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,0))) then begin
+      set_local_var(LVAR_Still_Accept_Plus, 1);
+      Reply(240);
+   end
+   else
+      Reply(241);
+
+   NOption(242,Node012,004);
+   NOption(243,Node003,004);
+end
+
+procedure Node015 begin
+   if (dude_is_male) then
+      Reply(250);
+   else
+      Reply(251);
+
+   NOption(252,Node006,004);
+   NOption(253,Node003,004);
+end
+
+procedure Node016 begin
+   NMessage(260);
+end
+
+procedure Node017 begin
+   NMessage(270);
+end
+
+procedure Node018 begin
+inc_general_rep(REP_BONUS_KLAMATH_REFUEL_STILL);
+//NEED TO ADD EXP IF HAVEN'T ALREADY
+//still_success flag should be true
+   if (local_var(LVAR_Still_Accept_Plus) == 1) then begin
+      call Node955;
+      Reply(281);
+      NOption(282,Node019,004);
+      NOption(283,Node003,004);
+   end
+   else begin
+      call Node950;
+      Reply(280);
+      NOption(282,Node019,004);
+      NOption(283,Node003,004);
+   end
+end
+
+procedure Node019 begin
+   //added by killap - RP
+   variable msg;
+   variable comma_needed := false;
+   variable count := 0;
+
+   msg := mstr(290);
+
+   if ((global_var(GVAR_KLAMATH_FIND_RUSTLERS) < FIND_RUSTLERS_SUCCESS) and (global_var(GVAR_DUNTON_DEAD) == 0) and (global_var(GVAR_SCARE_DUNTONS) == 0)) then begin
+      msg += mstr(2901);
+      comma_needed := true;
+      count += 1;
+   end
+
+   if not(map_is_known(MAP_KLAMATH_CANYON)) then begin
+      if (comma_needed) then
+         msg += ", ";
+      else
+        comma_needed := true;
+      msg += mstr(2902);
+      count += 1;
+   end
+
+   if (global_var(GVAR_QUEST_RAT_GOD) < RAT_GOD_SUCCESS) then begin
+      if (comma_needed) then
+         msg += ", ";
+      else
+        comma_needed := true;
+      msg += mstr(2903);
+      count += 1;
+   end
+
+   if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then begin
+      if (comma_needed) then
+         msg += ", ";
+      msg += mstr(2904);
+      count += 1;
+   end
+
+   if (count > 0) then
+      msg += mstr(2905);
+   else if (count == 0) then
+      msg := mstr(2900);
+   //end added
+
+   Reply(msg);
+
+   if ((global_var(GVAR_KLAMATH_FIND_RUSTLERS) < FIND_RUSTLERS_SUCCESS) and (global_var(GVAR_DUNTON_DEAD) == 0) and (global_var(GVAR_SCARE_DUNTONS) == 0)) then //added by killap
+      NOption(291,Node021,004);
+   if not(map_is_known(MAP_KLAMATH_CANYON)) then //added by killap
+      NOption(292,Node023,004);
+   if (global_var(GVAR_QUEST_RAT_GOD) < RAT_GOD_SUCCESS) then // added by check killap
+      NOption(293,Node024,004);
+   if (not(den_visit) and (count > 0)) then // added by killap
+      NOption(294,Node025,004);
+   if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then // added by check killap
+      NOption(295,Node026,004);
+
+   NOption(296,Node031,004);
+   NOption(297,Node003,004);
+   //NOption(298,Node004,006);
+end
+
+procedure Node020 begin
+   Reply(310);
+   NOption(311,Node006,004);
+   NOption(312,Node003,004);
+end
+
+procedure Node021 begin
+   Reply(320);
+   NOption(321,Node022,004);
+end
+
+procedure Node022 begin
+   Reply(330);
+   NOption(331,Node019,004);
+   NOption(332,Node003,004);
+end
+
+procedure Node023 begin
+   Reply(340);
+   NOption(341,Node019,004);
+   NOption(342,Node003,004);
+end
+
+procedure Node024 begin
+   Reply(350);
+   NOption(351,Node019,004);
+   NOption(352,Node003,004);
+end
+
+procedure Node025 begin
+   mark_den_on_map
+   Reply(360);
+   NOption(361,Node019,004);
+   NOption(362,Node003,004);
+end
+
+procedure Node026 begin
+   Reply(370);
+   NOption(371,Node027,004);
+   NOption(372,Node028,004);
+   NOption(373,Node019,004);
+   NOption(374,Node003,004);
+end
+
+procedure Node027 begin
+   Reply(380);
+   NOption(381,Node028,004);
+   NOption(382,Node019,004);
+   NOption(383,Node003,004);
+end
+
+procedure Node028 begin
+   Reply(390);
+   NOption(391,Node027,004);
+   NOption(392,Node019,004);
+   NOption(393,Node003,004);
+end
+
+procedure Node029 begin
+   Reply(400);
+   NOption(401,Node030,004);
+   NOption(402,Node030,004);
+   NOption(403,Node999,004);
+   NOption(404,Node030,007);
+end
+
+procedure Node030 begin
+   NMessage(410);
+end
+
+procedure Node031 begin
+   Reply(420);
+   NOption(421,Node032,004);
+end
+
+procedure Node032 begin
+   Reply(430);
+   NOption(431,Node019,004);
+   NOption(432,Node003,004);
+end
+
+procedure Node040 begin
+   Reply(500);
+   NOption(501,Node019,004);
+   NOption(502,Node999,004);
+end
+//xxxxxxxxxxxxxxxxxxxx

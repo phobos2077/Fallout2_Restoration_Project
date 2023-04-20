@@ -1,0 +1,313 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "dcslave"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_DCSLAVE
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+
+//added by killap - expansion pack
+procedure Node014;
+//end added
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+
+#define node_10_bit                       bit_10
+
+#define node_10                           lvar_bit(LVAR_Flags, node_10_bit)
+#define set_node_10                       set_lvar_bit_on(LVAR_Flags, node_10_bit)
+/* Impoted variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+end
+
+procedure timed_event_p_proc begin
+   if (self_visible) then begin
+      if (fixed_param == timed_event_float) then begin
+         if (combat_is_initialized == false) then begin
+            if (random(1,4) != 2) then begin
+               if (slaves_free == false) then begin
+                  call Node005;
+               end else if (tile_in_slave_pen(self_tile)) then begin
+                  call Node006;
+               end else begin
+                  call Node007;
+               end
+            end
+         end
+         flush_add_timer_event_sec(self_obj, random(15, 90), timed_event_float);
+      end else if (fixed_param == timed_event_wander) then begin
+         if ((combat_is_initialized == false) and (anim_busy(self_obj) == false)) then begin
+            if (slaves_free == false) then begin
+               global_temp := tile_num_in_direction(self_tile, random(0, 5), random(3, 8));
+               if (tile_in_slave_pen(global_temp)) then begin
+                  self_walk_to_tile(global_temp);
+               end
+            end else begin
+               if (tile_distance(self_tile,30302) > 3)  then begin //edit by killap - was map_next_tile
+                  anim_run_to_point_rate(30302, 5)
+               end else begin
+                  destroy_object(self_obj);
+               end
+            end
+         end
+         flush_add_timer_event_sec(self_obj, random(4, 10 + (50 * (slaves_free == false))), timed_event_wander);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_SLAVES);
+         set_self_ai(AI_COWARD);
+      end
+      if (slaves_free) then begin
+         destroy_object(self_obj);
+      end else if (((on_slave_run) and (abandon_slave_run == false)) or (random(1,5) != 1)) then begin
+         check_set_obj_visiblility(self_obj, false);
+      end else if (slave_was_party_member(self_pid)) then begin
+         destroy_object(self_obj);
+      end else begin
+         check_set_obj_visiblility(self_obj, true);
+      end
+      flush_add_timer_event_sec(self_obj, random(15, 90), timed_event_float);
+      flush_add_timer_event_sec(self_obj, random(5, 60), timed_event_wander);
+   end
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (slave_was_party_member(self_pid)) then begin
+      call Node013;
+   end else if (slaves_free) then begin
+      call Node002;
+   end else if (metzger_dead) then begin
+      if (node_10) then begin
+         call Node008;
+      end else begin
+         start_dialog_at_node(Node010);
+      end
+   end else if (has_rep_slaver) then begin
+      call Node003;
+   end else begin
+      call Node004;
+   end
+   flush_add_timer_event_sec(self_obj, random(15, 90), timed_event_float);
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   if (slave_was_party_member(self_pid)) then begin
+      inc_good_critter
+   end else begin
+      inc_neutral_critter
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (slave_is_primitive) then begin
+      display_mstr(100 + (50 * self_is_female));
+   end else begin
+      display_mstr(200 + (50 * self_is_female));
+   end
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (slave_is_primitive) then begin
+      display_mstr(125 + (50 * self_is_female));
+   end else begin
+      display_mstr(225 + (50 * self_is_female));
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node002 begin
+   if (slave_is_primitive) then begin
+      floater_rand(300, 303);
+   end else begin
+      floater_rand(304, 307);
+   end
+end
+procedure Node003 begin
+   if (slave_is_primitive) then begin
+      floater_rand(320, 325);
+   end else begin
+      floater_rand(327 - dude_is_male, 331 + (2 * dude_is_female));
+   end
+end
+procedure Node004 begin
+   if (slave_is_primitive) then begin
+      floater_rand(350, 354);
+   end else begin
+      floater_rand(355, 360);
+   end
+end
+procedure Node005 begin
+   if (slave_is_primitive) then begin
+      floater_rand(380, 390 + (6 * metzger_dead));
+   end else begin
+      floater_rand(397, 409 + (6 * metzger_dead));
+   end
+end
+procedure Node006 begin
+   floater_rand(604 - (4 * slave_is_primitive), 605 + (6 * slave_is_nomad));
+end
+procedure Node007 begin
+   floater_rand(422 - (2 * slave_is_primitive), 422 + (4 * slave_is_nomad));
+end
+procedure Node008 begin
+   if (slave_is_primitive) then begin
+      Reply(440);
+   end else begin
+      Reply(441 + has_rep_slaver);
+   end
+   NOption(443, Node011, 006);
+   NOption(444, Node999, 004);
+   GOption(445, Node009, 004);
+   GOption(446, Node012, -003);
+   GOption(dude_name + mstr(447 + dude_is_female), Node009, -003);
+end
+procedure Node009 begin
+   set_slaves_free;
+   Reply(460 + slave_is_nomad);
+   //added by killap - expansion
+   if ( (global_var(GVAR_SULIK_SISTER) == 1) and (town_known(AREA_SLAVER_CAMP) == MARK_STATE_UNKNOWN) ) then begin
+      NOption(470, Node014, 004);
+      NLowOption(475, Node014);
+   end else begin
+      GOption(462, Node999, 004);
+      GOption(463, Node999, 004);
+   end
+   GOption(464, Node999, -003);
+end
+procedure Node010 begin
+   set_node_10;
+   Reply(480 + slave_is_nomad);
+   GOption(445, Node009, 004);
+   NOption(482, Node999, 004);
+   GOption(446, Node012, -003);
+   GOption(dude_name + mstr(447 + dude_is_female), Node009, -003);
+end
+procedure Node011 begin
+   Reply(500);
+   GOption(501, Node009, 004);
+   NOption(482, Node999, 004);
+end
+procedure Node012 begin
+   set_slaves_free;
+   set_slaves_free;
+   Reply(510 + slave_is_nomad);
+   GOption(462, Node999, 004);
+   GOption(463, Node999, 004);
+   GOption(464, Node999, -003);
+end
+procedure Node013 begin
+   if (slaves_free == false) then begin
+      floater_rand(520, 527);
+   end else begin
+      floater_rand(528, 535);
+   end
+end
+
+//added by killap - expansion
+procedure Node014 begin
+   mark_on_map(AREA_SLAVER_CAMP)
+   Reply(471 + slave_is_nomad);
+   GOption(473, Node999, 004);
+   GOption(474, Node999, 004);
+
+   NLowOption(476, Node999);
+end
+//end added

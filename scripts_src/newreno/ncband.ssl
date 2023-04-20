@@ -1,0 +1,356 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ncband"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCBAND
+#define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+procedure map_update_p_proc;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+
+#define LVAR_Flags                        (0)
+#define LVAR_Number                       (1)
+#define LVAR_Bottles                      (2)
+#define LVAR_Line                         (3)
+#define LVAR_Home_Tile                    (4)
+#define LVAR_Home_Rotation                (5)
+
+#define hidden_for_fight_bit              bit_10
+
+#define track_blues                       (4)
+#define track_cum                         (5)
+#define track_bottles                     (6)
+#define track_row                         (7)
+#define track_hero                        (8)
+#define track_kiss                        (9)
+
+#define track                             (local_var(LVAR_Line) / 100)
+#define req_new_track(x)                  add_timer_event(trash_can_singer_1_obj, 0, x)
+
+#define band_member_float(x)              new_singer := random(0,2);                               \
+                                          if (new_singer == last_singer) then begin                \
+                                             new_singer := (new_singer + 1) % 3;                   \
+                                          end                                                      \
+                                          last_singer := new_singer;                               \
+                                          if (new_singer == 1) then begin                          \
+                                             new_singer := trash_can_singer_2_obj;                 \
+                                          end else if (new_singer == 2) then begin                 \
+                                             new_singer := trash_can_singer_3_obj;                 \
+                                          end else begin                                           \
+                                             new_singer := self_obj;                               \
+                                          end                                                      \
+                                          if (last_singer_obj != 0) then begin                     \
+                                             float_msg(last_singer_obj, " ", FLOAT_COLOR_NORMAL);  \
+                                          end                                                      \
+                                          last_singer_obj := new_singer;                           \
+                                          float_msg(new_singer, x, FLOAT_COLOR_NORMAL);
+
+import variable trash_can_singer_1_obj;
+import variable trash_can_singer_2_obj;
+import variable trash_can_singer_3_obj;
+variable the_line;
+variable new_track;
+variable last_singer;
+variable new_singer;
+variable last_singer_obj;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   ndebug("band timed_event_p_proc: fixed_param == "+fixed_param);
+   if (fixed_param == sing_param) then begin
+      if ((combat_is_initialized == false) and (self_visible)) then begin
+         the_line := local_var(LVAR_Line);
+         if ((the_line == 600) or (the_line == 601) or (the_line == 604)) then begin
+            if (the_line == 604) then begin
+               the_line := 600;
+               dec_local_var(LVAR_Bottles);
+            end
+            band_member_float("" + local_var(LVAR_Bottles) + mstr(the_line))
+            // Begin Seraph's Code
+            if (local_var(LVAR_Line) != 604) then
+               inc_local_var(LVAR_Line);
+            else
+               set_local_var(LVAR_Line,600);
+            if (local_var(LVAR_Bottles) == 0) then begin
+               req_new_track(track);
+            end
+            // End Seraph's Code
+         end else begin
+            if ((the_line == 401) or (the_line == 403) or (the_line == 404) or (the_line == 406) or (the_line == 407) or (the_line == 938)) then begin
+               the_line := 400;
+            end else if ((the_line == 704) or (the_line == 705)) then begin
+               the_line := 703;
+            end else if ((the_line == 926) or (the_line == 927)) then begin
+               the_line := 925;
+            end else if ((the_line == 907) or (the_line == 914) or (the_line == 924) or (the_line == 940)) then begin
+               the_line := 901;
+            end else if ((the_line == 909) or (the_line == 934)) then begin
+               the_line := 900;
+            end else if ((the_line == 908) or (the_line == 922)) then begin
+               the_line := 904;
+            end else if ((the_line == 911) or (the_line == 936)) then begin
+               the_line := 902;
+            end else if (the_line == 929) then begin
+               the_line := 916;
+            end else if (the_line == 939) then begin
+               the_line := 923;
+            end else if (the_line == 932) then begin
+               the_line := 919;
+            end else if (the_line == 931) then begin
+               the_line := 918;
+            end else if (the_line == 928) then begin
+               the_line := 915;
+            end else if (mstr(the_line) == "") then begin
+               the_line := -1;
+            end
+
+            if (the_line != -1) then begin
+               band_member_float(mstr(the_line))
+               inc_local_var(LVAR_Line);
+            end else begin
+               req_new_track(track);
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 3, 5, sing_param);
+   end else begin
+      if (fixed_param != new_song_param) then begin
+         new_track := fixed_param;
+      end else if (Fallout2_enclave_destroyed) then begin
+         /* Commented out by Seraph
+         if (track != track_kiss) then begin
+            new_track := track_kiss;
+         end else begin
+            new_track := track_hero;
+         end
+      end else if (track != track_blues) then begin
+         new_track := track_blues;
+      end else begin
+         new_track := track_cum;
+      end
+      //*/
+      // Begin Seraph's Code
+         new_track := random(4,9);
+      end else begin
+         new_track := random(4,7);
+      end
+      if (new_track == track) then begin
+         if (new_track == 4) then
+            new_track := new_track + 1;
+         else
+            new_track := new_track - 1;
+      end
+      // End Seraph's Code
+      if (new_track == track_bottles) then begin
+         if (track != track_bottles) then begin
+            set_local_var(LVAR_Bottles, 100000);
+         end
+      end
+      set_local_var(LVAR_Line, new_track * 100);
+   end
+end
+
+procedure map_enter_p_proc begin
+   ndebug("band map_enter_p_proc: LVAR_Number == "+local_var(LVAR_Number)); // Seraph's Code
+   // Begin Seraph's Code
+   if (local_var(LVAR_Number) == 1) then begin
+      set_local_var(LVAR_Line, 400);
+      nr_add_timer_event(self_obj, 6, sing_param);
+   end
+   // End Seraph's Code
+   // Comment out by killap - I see no reason to have this check. Removed here and in various other New Reno scripts
+   //if ((message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") == 0) then begin
+   //   destroy_object(self_obj);
+   //end else begin
+      // give them singing numbers
+      if (local_var(LVAR_Number) == 1) then begin
+         trash_can_singer_1_obj := self_obj;
+      end else if (local_var(LVAR_Number) == 2) then begin
+         trash_can_singer_2_obj := self_obj;
+      end else if (local_var(LVAR_Number) == 3) then begin
+         trash_can_singer_3_obj := self_obj;
+      end else if (trash_can_singer_1_obj == 0) then begin
+         set_local_var(LVAR_Number, 1);
+         trash_can_singer_1_obj := self_obj;
+      end else if (trash_can_singer_2_obj == 0) then begin
+         set_local_var(LVAR_Number, 2);
+         trash_can_singer_2_obj := self_obj;
+      end else if (trash_can_singer_3_obj == 0) then begin
+         set_local_var(LVAR_Number, 3);
+         trash_can_singer_3_obj := self_obj;
+      end
+      if (is_loading_game == false) then begin
+         if (band_killed) then begin
+            ndebug("the band's breaking up, the lead is dead");
+            destroy_object(self_obj);
+         end
+         if (map_first_run) then begin
+            set_local_var(LVAR_Home_Tile, self_tile);
+            set_local_var(LVAR_Home_Rotation, self_cur_rot);
+            set_self_team(TEAM_NEW_RENO_BAND);
+            set_self_ai(AI_TOUGH_CITIZEN);
+            /* Commented out by Seraph
+            if (local_var(LVAR_Number) == 1) then begin
+               set_local_var(LVAR_Line, 400);
+               nr_add_timer_event(self_obj, 6, sing_param);
+            end
+            //*/
+         end
+      end
+   //end
+end
+
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
+      self_rotate(local_var(LVAR_Home_Rotation));
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   if (trash_can_singer_1_obj != 0) then begin
+      start_dialog_at_node(Node001);
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+   set_band_killed;
+   if (local_var(LVAR_Number) == 1) then begin
+      trash_can_singer_1_obj := 0;
+   end else if (local_var(LVAR_Number) == 2) then begin
+      trash_can_singer_2_obj := 0;
+   end else if (local_var(LVAR_Number) == 3) then begin
+      trash_can_singer_3_obj := 0;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + local_var(LVAR_Number) - 1);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + examined); //edit by killap - was 100 + examined
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   req_new_track(track_row);
+   call Node002;
+end
+procedure Node989 begin
+   req_new_track(track_bottles);
+   call Node002;
+end
+procedure Node988 begin
+   if (Fallout2_enclave_destroyed == false) then begin
+      dude_caps_adjust(-2);
+   end
+   req_new_track(new_song_param);
+   call Node002;
+end
+
+procedure Node001 begin
+   if (Fallout2_enclave_destroyed) then begin
+      Reply(mstr(200) + dude_name + mstr(1200));
+      NOption(208, Node988, 004);
+   end else begin
+      if (dude_is_made_man) then begin
+         Reply(mstr(200) + made_man_name + mstr(1201));
+      end else if (dude_is_prizefighter) then begin
+         Reply(mstr(200) + prizefighter_name + mstr(1202));
+      end else begin
+         Reply(203 + dude_is_female);
+      end
+      if (dude_caps >= 2) then begin
+         NOption(209, Node988, 004);
+      end
+   end
+   NOption(205, Node990, -003);
+   NOption(206, Node989, -003);
+   NOption(207, Node999, -003);
+   NOption(210, Node999, 004);
+end
+procedure Node002 begin
+   Reply(300 + dude_is_female);
+   NOption(302, Node999, -003);
+   NOption(303, Node999, 004);
+end

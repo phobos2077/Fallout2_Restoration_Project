@@ -1,0 +1,153 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai5"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI5          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure talk_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+procedure Node999;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node003a;
+procedure Node002a;
+procedure Node1000;
+
+procedure start
+begin
+  obj_lock(self_obj);
+end
+
+procedure use_skill_on_p_proc begin
+  if (action_being_used == SKILL_LOCKPICK) then begin
+   script_overrides;
+   display_msg(mstr(500));
+  end
+end
+
+procedure talk_p_proc
+begin
+  if (local_var(LVAR_Herebefore) == 2) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node003;
+    gsay_end;
+    end_dialogue;
+  end
+  else
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node001;
+    gsay_end;
+    end_dialogue;
+  end
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(102));
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(100));
+  else
+    display_msg(mstr(101));
+end
+
+procedure use_p_proc
+begin
+   if (combat_is_initialized == 0) then begin
+      if (local_var(LVAR_Hostile) == 0) then begin
+         if (source_obj == dude_obj) then begin
+            script_overrides;
+            display_msg(mstr(402));
+            call talk_p_proc;
+         end
+      end
+   end
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure Node999
+begin
+
+end
+
+procedure Node001
+begin
+  Reply(200);
+  NOption(201, Node002, 4);
+  NOption(202, Node002, 4);
+  NOption(203, Node002, 4);
+  NOption(204, Node002, 4);
+  if (global_var(GVAR_EPADOOR_LOCK) == 2) then
+    NOption(205, Node003a, 4);
+  NOption(206, Node999, 4);
+
+  if (global_var(GVAR_EPADOOR_LOCK) == 0) then
+   set_global_var(GVAR_EPADOOR_LOCK, 1);
+end
+
+procedure Node002
+begin
+  Reply(300);
+  NOption(301, Node002a, 4);
+
+  if (global_var(GVAR_EPADOOR_LOCK) == 0) then
+   set_global_var(GVAR_EPADOOR_LOCK, 1);
+
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 2);
+end
+
+procedure Node003
+begin
+  Reply(400);
+  if (global_var(GVAR_EPADOOR_LOCK) == 2) then
+    NOption(205, Node003a, 4);
+  NOption(401, Node999, 4);
+end
+
+procedure Node003a
+begin
+  Reply(403);
+  NOption(404, Node999, 4);
+  set_local_var(LVAR_Hostile, 1);
+end
+
+procedure Node002a
+begin
+  set_local_var(LVAR_Herebefore, 2);
+end
+
+procedure Node1000
+begin
+end

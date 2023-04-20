@@ -1,0 +1,102 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac8"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC8          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+#define max_attack_distance 16
+
+procedure start;
+procedure critter_p_proc;
+procedure map_enter_p_proc;
+procedure destroy_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+
+procedure start begin
+   if not self_obj then return;
+   set_self_team(TEAM_RND_SPORE_PLANT);
+   set_self_ai(AI_SPORE_PLANT);
+end
+
+procedure critter_p_proc begin
+   if not self_obj then return;
+   if self_can_see_dude and (distance_dude <= max_attack_distance) then attack(dude_obj);
+end
+
+procedure map_enter_p_proc begin
+   variable item;
+   if (map_first_run) then begin
+      item:=create_object(PID_PLANT_SPIKE_EPA,0,0);
+      add_mult_objs_to_inven(self_obj,item,10);
+   end
+end
+
+procedure destroy_p_proc begin
+  inc_global_var(GVAR_KILL_EPAPLANTS);
+  if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
+   display_msg(mstr(100));
+  end
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure look_at_p_proc
+begin
+end
+
+procedure description_p_proc
+begin
+end
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_STEAL) then
+      script_overrides;
+end
+
+
+procedure damage_p_proc
+begin
+   if (source_obj == dude_obj) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   if ((obj_pid(obj_being_used_with) == PID_PLANT_SPRAY)) then begin
+      inc_global_var(GVAR_KILL_EPAPLANTS);
+      if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
+        display_msg(mstr(100));
+      end
+      switch self_pid begin
+         case PID_EPA_SPORE_PLANT: give_xp(150);
+         case PID_RED_SPORE_PLANT: give_xp(200);
+         case PID_GIANT_SPORE_PLANT: give_xp(350);
+      end
+
+      reg_anim_combat_check(0);
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         reg_anim_animate(self_obj,ANIM_fall_back,-1);
+      reg_anim_end();
+      kill_critter(self_obj, ANIM_melted_to_nothing_sf);
+   end
+end

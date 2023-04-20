@@ -1,0 +1,209 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epai32"
+#include "../headers/define.h"
+#include "../headers/epamain.h"
+#define NAME                    SCRIPT_EPAI32
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node999;
+
+
+#define BAD    (0)
+#define GOOD   (1)
+
+#define LVAR_Tank_One_Empty   (0)
+#define LVAR_Tank_Two_Empty   (1)
+
+procedure start begin
+end
+
+procedure look_at_p_proc begin
+ script_overrides;
+ display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+ script_overrides;
+ display_msg(mstr(101));
+end
+
+procedure use_p_proc
+begin
+   if (combat_is_initialized == 0) then begin
+      start_gdialog(NAME, self_obj, 4, -1, -1);
+      gsay_start;
+         call Node001;
+      gsay_end;
+      end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,004);
+   NOption(202,Node003,004);
+   NOption(203,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(210);
+   NOption(211,Node004,004);
+   NOption(212,Node006,004);
+   //NOption(213,Node007,004);
+   NOption(214,Node001,004);
+end
+
+procedure Node003 begin
+   if ( (local_var(LVAR_Tank_One_Empty) == 0) and (local_var(LVAR_Tank_Two_Empty) == 0) ) then begin
+      Reply(260);
+      NOption(264,Node014,004);
+      NOption(265,Node015,004);
+   end else if ( (local_var(LVAR_Tank_One_Empty) == 1) and (local_var(LVAR_Tank_Two_Empty) == 0) ) then begin
+      Reply(261);
+      NOption(265,Node015,004);
+   end else if ( (local_var(LVAR_Tank_One_Empty) == 0) and (local_var(LVAR_Tank_Two_Empty) == 1) ) then begin
+      Reply(262);
+      NOption(264,Node014,004);
+   end else begin
+      Reply(263);
+   end
+
+   NOption(266,Node001,004);
+end
+
+procedure Node004 begin
+   Reply(220);
+   NOption(221,Node005,004);
+end
+
+procedure Node005 begin
+   Reply(222);
+   NOption(223,Node002,004);
+end
+
+procedure Node006 begin
+   Reply(230);
+   if (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 1) then
+      NOption(231,Node017,004);
+   NOption(232,Node002,004);
+end
+
+procedure Node007 begin
+   Reply(240);
+   NOption(241,Node008,004);
+   NOption(242,Node009,004);
+   NOption(243,Node010,004);
+   NOption(244,Node012,004);
+   NOption(232,Node002,004);
+end
+
+procedure Node008 begin
+   Reply(250);
+   NOption(256,Node007,004);
+end
+
+procedure Node009 begin
+   Reply(251);
+   NOption(256,Node007,004);
+end
+
+procedure Node010 begin
+   Reply(252);
+   NOption(253,Node011,004);
+end
+
+procedure Node011 begin
+   Reply(254);
+   NOption(256,Node007,004);
+end
+
+procedure Node012 begin
+   Reply(255);
+   NOption(256,Node007,004);
+end
+
+procedure Node013 begin
+   variable seeds;
+   seeds:=create_object(PID_EXPERIMENTAL_SEEDS,0,0);
+   add_mult_objs_to_inven(dude_obj,seeds,2);
+   set_local_var(LVAR_Tank_Two_Empty,1);
+
+   Reply(281);
+   NOption(266,Node003,004);
+
+end
+
+procedure Node014 begin //tank 1
+   Reply(270);
+   NOption(273,Node016,004);
+   NOption(266,Node003,004);
+end
+
+procedure Node015 begin //tank 2
+   Reply(271);
+   NOption(273,Node013,004);
+   NOption(266,Node003,004);
+end
+
+procedure Node016 begin
+   variable seeds;
+   seeds:=create_object(PID_ARROYO_SEEDS,0,0);
+   add_mult_objs_to_inven(dude_obj,seeds,5);
+   set_local_var(LVAR_Tank_One_Empty,1);
+
+   Reply(280);
+   NOption(266,Node003,004);
+
+end
+
+procedure Node017 begin
+   variable disk;
+   disk:=create_object(PID_EPA_BOTANY_HOLODISK,0,0);
+   add_mult_objs_to_inven(dude_obj,disk,1);
+   set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,2);
+
+   Reply(290);
+   NOption(291,Node001,004);
+end
+
+procedure Node999 begin
+
+end

@@ -1,0 +1,111 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai19"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI19          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+
+procedure start
+begin
+end
+
+procedure use_obj_on_p_proc begin
+   if ((obj_pid(obj_being_used_with) == PID_WRENCH) or (obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin
+      script_overrides;
+      if (global_var(GVAR_FIX_HOLOGRAM00000) == 0) then begin
+         dude_floater(106);
+      end else if (global_var(GVAR_FIX_HOLOGRAM00000) > 0) and (global_var(GVAR_FIX_HOLOGRAM00000) < 3) then begin
+         if (has_skill(dude_obj, SKILL_REPAIR) > 50) then begin
+            if (local_var(LVAR_Herebefore) == 0) then begin
+               display_msg(mstr(103));
+               set_global_var(GVAR_FIX_HOLOGRAM00000, 2);
+               set_local_var(LVAR_Herebefore, 1);
+               game_time_advance(ONE_GAME_MINUTE * 30);
+            end else begin
+               display_msg(mstr(104));
+            end
+         end else begin
+            display_msg(mstr(105));
+         end
+      end else begin
+        display_msg(mstr(104));
+      end
+   end
+end
+
+
+procedure use_skill_on_p_proc begin
+   if (action_being_used == SKILL_REPAIR) then begin
+      script_overrides;
+      if (global_var(GVAR_FIX_HOLOGRAM00000) == 0) then begin
+         dude_floater(106);
+      end else if (global_var(GVAR_FIX_HOLOGRAM00000) > 0) and (global_var(GVAR_FIX_HOLOGRAM00000) < 3) then begin
+         if (has_skill(source_obj, SKILL_REPAIR) > 80) then begin
+            if (local_var(LVAR_Herebefore) == 0) then begin
+               display_msg(mstr(103));
+               set_global_var(GVAR_FIX_HOLOGRAM00000, 2);
+               set_local_var(LVAR_Herebefore, 1);
+               game_time_advance(ONE_GAME_MINUTE * 30);
+            end else begin
+               display_msg(mstr(104));
+            end
+         end else begin
+            display_msg(mstr(107));
+         end
+      end else begin
+         display_msg(mstr(104));
+      end
+   end
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(102));
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(100));
+  else
+    display_msg(mstr(101));
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end

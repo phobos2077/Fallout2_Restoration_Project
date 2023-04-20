@@ -1,0 +1,132 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac13"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC13          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure destroy_p_proc;
+procedure critter_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+variable pissed := 0;
+
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure start
+begin
+  float_msg(self_obj, mstr(random(103, 106)), FLOAT_MSG_RED);
+  add_timer_event(self_obj, game_ticks(random(13, 16)), 3);
+  add_timer_event(self_obj, game_ticks(random(5, 7)), 1);
+end
+
+procedure destroy_p_proc
+begin
+  set_map_var(0, map_var(0) + 1);
+end
+
+procedure critter_p_proc
+begin
+  if (global_var(GVAR_EPADOCTOR_ATTACKED) == 1) then
+    self_run_to_tile(18508);
+  if (self_can_see_dude and (pissed == 0)) then
+  begin
+    pissed := 1;
+    attack(dude_obj);
+  end
+  else
+    pissed := 0;
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(100));
+  else
+    display_msg(mstr(101));
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(102));
+end
+
+procedure use_skill_on_p_proc
+begin
+end
+
+procedure use_obj_on_p_proc
+begin
+end
+
+procedure damage_p_proc
+begin
+  attack(dude_obj);
+end
+
+procedure map_enter_p_proc
+begin
+  set_self_team(TEAM_RAIDER_BAND);
+  set_self_ai(AI_ARROYO_WARRIOR);
+end
+
+procedure map_update_p_proc
+begin
+end
+
+procedure talk_p_proc
+begin
+  float_msg(self_obj, mstr(107), FLOAT_MSG_RED);
+end
+
+procedure timed_event_p_proc
+begin
+  if (fixed_param == 3) then
+  begin
+    float_msg(self_obj, mstr(random(103, 106)), FLOAT_MSG_RED);
+    add_timer_event(self_obj, game_ticks(random(13, 16)), 3);
+  end
+  if (fixed_param == 1) then
+  begin
+    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
+    begin
+      reg_anim_clear( self_obj);
+      reg_anim_begin();
+      self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), 5));
+      reg_anim_end();
+    end
+    add_timer_event(self_obj, game_ticks(random(3, 5)), 1);
+  end
+end
+
+procedure combat_p_proc
+begin
+end

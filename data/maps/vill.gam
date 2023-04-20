@@ -1,0 +1,12 @@
+ // Map vars for Abbey Entrance map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Building_Time                       :=0;     //      (0)
+MVAR_Made_Car                            :=0;     //      (1)
+MVAR_Failed_Swindle                      :=0;     //      (2)
+MVAR_Stage_Message                       :=0;     //      (3)

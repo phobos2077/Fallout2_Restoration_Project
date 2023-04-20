@@ -1,0 +1,62 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item: Grisham store item box
+        Description: This is the box for the store inventory
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+*/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "migribox"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_MIGRIBOX
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/*
+   Local variables which do not need to be saved between map changes.
+*/
+import variable modoc_grisham_box_obj;
+
+procedure start begin
+   modoc_grisham_box_obj := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   modoc_grisham_box_obj := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_BOTTLE_CAPS, 95, 105, 100)
+         check_restock_item(PID_MEAT_JERKY, 15, 20, 100)
+         set_local_var(LVAR_Restock_Time, (random(2,3) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   modoc_grisham_box_obj := self_obj;
+end

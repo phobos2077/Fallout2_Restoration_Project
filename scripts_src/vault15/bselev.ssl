@@ -1,0 +1,249 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Elevator Door
+        Locked: YES
+        Trapped: YES
+        Closing: NO
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "bselev"
+#include "../headers/define.h"
+#define NAME                      SCRIPT_BSELEV
+#include "../headers/command.h"
+#include "../headers/v15.h"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_ACTIVE
+#define DOOR_STATUS                     3
+#define LOCK_STATUS                     STATE_ELECTRIC_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
+
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#define Lock_Bonus                      (-220)
+#define Lockpick_Exp                    (245)
+
+/* Penalties for disarming the trap */
+#define Trap_Bonus                      (-210)
+
+/* Penalties for forcing the door open using strength */
+#define Crowbar_Bonus                   (-200)
+
+#define DOOR_STRENGTH                   (200)
+
+#define custom_use_obj_on_p_proc
+#define custom_Damage_Critter
+#define custom_Lockpick_Door
+#define custom_mstr NAME
+#define custom_damage_p_proc
+#define custom_map_enter_p_proc
+#define custom_use_skill_on_p_proc
+#include "../headers/doors.h"
+
+/**********************************************************************************
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+
+   if (Skill_Used == SKILL_LOCKPICK) then begin
+       script_overrides; //added by killap
+       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+            script_overrides;
+            display_msg(message_str(SCRIPT_DOOR, 503));
+       end
+       else begin
+            script_overrides;
+            display_msg(message_str(SCRIPT_DOOR, 503));
+       end
+   end                                                          // End of Skill_Lockpick
+
+   else if (Skill_Used == SKILL_TRAPS) then begin
+       script_overrides; //added by killap
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+         display_msg(mstr(500));
+       end
+       else begin
+           if (source_obj == dude_obj) then begin
+               display_msg(mstr(195));
+           end
+
+           else begin
+               display_msg(obj_name(source_obj)+mstr(200));
+           end
+       end
+   end                                                          // End of Skill_Traps
+
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (Tool == KEY_CARD_PID) then begin
+      script_overrides;
+      ndebug("used v15 secret keycard on door");
+      obj_unlock(self_obj);
+      set_local_var(LVAR_Locked, STATE_INACTIVE);
+      set_local_var(LVAR_Trapped, STATE_INACTIVE);
+      orV15Status(V15_DOORS_UNLOCKED);
+
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      obj_open(self_obj);
+      reg_anim_end();
+   end
+
+   else elec_lockpick_inner_block
+end
+
+/******************************************************************************************
+   Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
+   or any other forms of damage), this procedure will be called to destroy the door and
+   free up the space.
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+      display_mstr(193);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+    if (andV15Status(V15_DOORS_UNLOCKED)) then begin
+       set_local_var(LVAR_Set_Door_Status, 1);
+       set_local_var(LVAR_Locked, STATE_INACTIVE);
+       set_local_var(LVAR_Trapped, STATE_INACTIVE);
+    end
+
+/* Set up the door state when the player first enters the map */
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+   end
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_lock(self_obj);
+   end
+
+   else begin
+       obj_unlock(self_obj);
+   end
+end
+
+/***************************************************************************
+   This procedure will check against the roll_vs_lockpick to see if the
+   source_object will unlock the door and display the appropriate messages
+***************************************************************************/
+
+procedure Lockpick_Door begin
+   if (is_success(Locks_Roll)) then begin
+
+       //added by killap
+       obj_unlock(self_obj);
+       set_local_var(LVAR_Locked, STATE_INACTIVE);
+       set_local_var(LVAR_Trapped, STATE_INACTIVE);
+       orV15Status(V15_DOORS_UNLOCKED);
+       //end added
+
+       //set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
+       //obj_unlock(self_obj);                                    // engine unlock door
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(170));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(173));
+       end
+
+       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
+           set_local_var(LVAR_Gave_Locks_XP,1);
+           give_xp(Lockpick_Exp);
+       end
+   end
+
+   else if (is_critical(Locks_Roll)) then begin
+       jam_lock(self_obj);
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(171));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(174));
+       end
+   end
+
+   else begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(172));
+           display_msg(mstr(500));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(175));
+       end
+   end
+end
+
+/**************************************************************************************
+   Should the trap go off for any reason by critter influence, then this procedure will
+   be called to deal damage to the critter, display a message stating how much damage
+   was taken, and remove the trap.
+**************************************************************************************/
+procedure Damage_Critter begin
+   variable Trap_Damage;
+
+   Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+
+   if (source_obj == dude_obj) then begin
+       critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+/* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
+       display_msg(mstr(166)+Trap_Damage+mstr(167));
+   end
+
+   else begin
+       critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+/* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
+       display_msg(obj_name(source_obj)+mstr(168)+Trap_Damage+mstr(169));
+   end
+
+/* The trap is now disarmed and should never go off again.                           */
+// Wrong not on this door.
+//   set_local_var(LVAR_Trapped, STATE_INACTIVE);
+end

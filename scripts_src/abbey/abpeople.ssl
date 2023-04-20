@@ -1,0 +1,213 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "abpeople"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_ABPEOPLE          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure timed_event_p_proc;
+procedure destroy_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node998;
+procedure Node999;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Flags                      (0)
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+if (fixed_param == 2) then begin
+  if (((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) and
+     (not(combat_is_initialized))) then begin
+    reg_anim_clear(self_obj);
+    reg_anim_begin();
+    if (self_tile / 200 > 131) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,5,4));
+    else if (self_tile / 200 < 108) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,2,4));
+    else if (self_tile % 200 < 80) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,3,4));
+    else if (self_tile % 200 > 122) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,0,4));
+    else
+     self_walk_to_tile(tile_num_in_direction(self_tile,random(0,7),3));
+    reg_anim_end();
+  end
+  add_timer_event(self_obj,game_ticks(random(5,7)),2);
+ end
+ end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      if (global_var(GVAR_TOWN_REP_ABBEY) != -30) then
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+add_timer_event(self_obj,game_ticks(random(3,5)),2);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc
+begin
+   if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then begin
+      call Node001;
+   end else if (Fallout2_enclave_destroyed) then begin
+      call Node002;
+   end else
+      call Node003;
+end
+
+procedure destroy_p_proc
+begin
+   inc_good_critter
+end
+
+procedure Node001 begin
+float_msg(self_obj, mstr(Random(103, 105)), FLOAT_MSG_LIGHT_RED);
+end
+
+procedure Node002 begin
+float_msg(self_obj, mstr(Random(106, 109)), FLOAT_MSG_BLUE);
+end
+
+procedure Node003 begin
+float_msg(self_obj, mstr(Random(110, 120)), FLOAT_MSG_NORMAL);
+end
+
+procedure Node998 begin
+set_local_var(LVAR_Hostile,2);
+set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+end
+
+procedure Node999 begin
+end
+
+procedure pickup_p_proc
+begin
+if (source_obj == dude_obj) then begin
+ float_msg(self_obj, mstr(200), FLOAT_MSG_RED);
+  end
+  end
+
+procedure critter_p_proc begin
+
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or ((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
+      set_local_var(LVAR_Hostile,1);
+   end
+end

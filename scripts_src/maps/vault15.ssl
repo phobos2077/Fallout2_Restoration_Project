@@ -1,0 +1,97 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Vault15 map
+        Location: Vault15
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Jun 1, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "vault15"
+#include "../headers/define.h"
+#include "../headers/vault15.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_VAULT15
+
+#include "../headers/command.h"
+
+
+export variable i_Guard_Count;
+export variable i_field_obj;
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+
+procedure Initial_Inven;
+#define TIMER_CHECK_LIGHT 1
+
+procedure start begin
+   i_Guard_Count := 0;
+   i_field_obj   := -1;
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CHECK_LIGHT) then begin
+      if (map_var(MVAR_Vault15_Power)) then
+         call map_update_p_proc;
+      else
+         add_timer_event(self_obj, game_ticks(1), TIMER_CHECK_LIGHT);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+   end
+   if (map_var(MVAR_Vault15_Power) == 0) then begin
+      Cavern_Lighting;
+      add_timer_event(self_obj, game_ticks(1), TIMER_CHECK_LIGHT);
+   end else begin
+      Full_Light;
+   end
+   //added by killap
+   if (global_var(GVAR_LOAD_MAP_INDEX) == 0) then begin
+      override_map_start_hex(27303,0,4);
+      set_global_var(GVAR_LOAD_MAP_INDEX,2);
+   end
+   //added by killap
+   set_global_var(GVAR_LOAD_MAP_INDEX,2);
+end
+
+procedure map_update_p_proc begin
+   if (map_var(MVAR_Vault15_Power) == 0) then begin
+      Cavern_Lighting;
+   end else begin
+      Full_Light;
+   end
+end
+
+//added by killap
+procedure map_exit_p_proc begin
+   set_global_var(GVAR_LOAD_MAP_INDEX,2);
+end
+//end added
+
+
+procedure Initial_Inven begin
+end

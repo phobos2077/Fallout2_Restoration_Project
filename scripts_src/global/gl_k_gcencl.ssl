@@ -1,0 +1,18 @@
+#define SCRIPT_REALNAME "gl_k_gcencl"
+#include "../headers/define.h"
+
+procedure start;
+
+procedure start begin
+   if (is_loading_game) then return;
+	if (game_loaded) then begin
+      set_global_script_repeat(60);
+      set_global_script_type(2);
+   end else begin
+      if (in_world_map) then begin
+         if (global_var(GVAR_ENCLAVE_SENT) == 1) then begin
+            force_encounter(161);
+         end
+      end
+   end
+end

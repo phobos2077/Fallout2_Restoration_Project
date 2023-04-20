@@ -1,0 +1,134 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epai38"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAI38
+
+#include "../headers/command.h"
+#include "../headers/epasl.h"
+
+#define TRAPS_PENALTY           (-20)
+#define SCIENCE_PENALTY         (-80)
+#define TOOL_BONUS              (SCIENCE_PENALTY + 20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20))
+#define FIELD_STATUS            (MVAR_Field_1)
+
+#define FIELD_PTR (tile_contains_pid_obj(24501,dude_elevation,33556498))
+
+#define FIELD_ENABLED               (0)
+#define FIELD_DISABLED              (1)
+#define FIELD_DAMAGED               (2)
+#define FIELD_DESTROYED             (3)
+
+#define EXPLOSION_DMG               (25)
+
+#define TIMER_DESTROY                1
+
+
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure damage_p_proc;
+procedure use_skill_on_p_proc;
+
+#define LVAR_Gave_Exp      (0)
+
+procedure timed_event_p_proc begin
+   variable obj;
+   if (fixed_param == TIMER_DESTROY) then begin
+      set_map_var(FIELD_STATUS,FIELD_DESTROYED);
+      explosion(tile_num(FIELD_PTR), 0, 0);
+      destroy_object(FIELD_PTR);
+      obj := create_object(PID_VDU_NOT_WORKING2, self_tile, self_elevation);
+      if (obj) then
+         destroy_object(self_obj);
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure start begin
+end
+
+procedure pickup_p_proc begin
+
+end
+
+procedure destroy_p_proc begin
+
+end
+
+
+procedure use_p_proc begin
+
+end
+
+procedure use_skill_on_p_proc begin
+   variable skill;
+
+   skill:=action_being_used;
+
+   if ( (skill == SKILL_REPAIR) and (map_var(FIELD_STATUS) < FIELD_DAMAGED) ) then begin
+      script_overrides;
+      if (skill_success(source_obj,skill,SCIENCE_PENALTY)) then begin
+        if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
+            set_map_var(FIELD_STATUS,FIELD_DISABLED);
+            set_obj_invisible(FIELD_PTR);         // invis
+            if (source_obj == dude_obj) then
+                display_msg(mstr(200));
+            else
+                display_msg(obj_name(source_obj)+mstr(210));
+        end else begin
+            set_map_var(FIELD_STATUS,FIELD_ENABLED);
+            set_obj_visible(FIELD_PTR);         // vis
+            if (source_obj == dude_obj) then
+                display_msg(mstr(202));
+            else
+                display_msg(obj_name(source_obj)+mstr(212));
+        end
+
+        if (local_var(LVAR_Gave_Exp) == 0) then begin
+            set_local_var(LVAR_Gave_Exp,1);
+            give_xp(70);
+        end
+      end else begin
+         if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
+            if (source_obj == dude_obj) then
+               display_msg(mstr(201));
+            else
+               display_msg(obj_name(source_obj)+mstr(211));
+         end else begin
+            if (source_obj == dude_obj) then
+               display_msg(mstr(203));
+            else
+               display_msg(obj_name(source_obj)+mstr(213));
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   display_msg(mstr(300));
+   explosion(self_tile, 0, EXPLOSION_DMG);
+   add_timer_event(self_obj, 3, TIMER_DESTROY);
+end

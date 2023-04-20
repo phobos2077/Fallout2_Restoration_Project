@@ -1,0 +1,117 @@
+/*
+	Name: Maze Creature
+   Location: EPA Wharehouse
+   Description: Script to the monsters in the Doctor's maze.
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "epac23"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAC23
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure critter_p_proc;
+procedure combat_p_proc;
+procedure destroy_p_proc;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Home_Tile                  (6)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   set_local_var(LVAR_Home_Tile,self_tile);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+   variable tmp;
+
+   if (self_can_see_dude) then begin
+      attack(dude_obj);
+   end else begin
+      if (not anim_busy(self_obj)) then begin
+         tmp := random(1,2);
+         if (tmp == 1) then begin
+            if ((self_tile) == (local_var(LVAR_Home_Tile))) then begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+                  self_walk_to_tile(tile_num_in_direction(self_tile, Random(0, 5), Random(1, 3)));
+               reg_anim_end();
+            end else begin
+               reg_anim_clear(self_obj);
+               reg_anim_begin();
+                  self_walk_to_tile(self_tile);
+               reg_anim_end();
+            end
+         end
+      end
+   end
+end
+
+procedure combat_p_proc begin
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+end

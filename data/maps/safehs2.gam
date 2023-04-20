@@ -1,0 +1,13 @@
+ // Map vars for Rangers Safe House 2
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_SH2_RANGERS                        :=0;     //      (0)
+MVAR_Made_Car                           :=0;     //      (1)
+MVAR_Came_With_Slavers                  :=0;     //      (2)
+MVAR_Safe_House2_Under_Attack           :=0;     //      (3)
+MVAR_SF2_Num_Of_Slavers                 :=0;     //      (4)

@@ -1,0 +1,73 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+#define SCRIPT_REALNAME "ecscorp"
+#include "../headers/define.h"
+#include "../headers/bhrnddst.h"
+
+#define NAME                    SCRIPT_ECSCORP
+
+#include "../headers/command.h"
+
+procedure start;
+procedure combat_p_proc;
+procedure destroy_p_proc;
+procedure critter_p_proc;
+procedure map_enter_p_proc;
+
+variable starttile := 0;
+
+procedure map_enter_p_proc begin
+   starttile := self_tile;
+   set_self_team(TEAM_RND_SCORPION);
+   reg_anim_clear(self_obj);
+   reg_anim_begin();
+   self_rotate(Random(0, 5));
+   reg_anim_end();
+end
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      attack(dude_obj);
+   end
+
+   if (not anim_busy(self_obj)) then begin
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+      self_walk_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(3, 10)));
+      reg_anim_end();
+   end
+end
+
+procedure destroy_p_proc begin
+   variable tail := 0;
+   // Small scorpions now drop small tails. Makes much more sense - killap (expansion)
+   if ((self_pid == PID_SMALL_RADSCORPION) or (self_pid == PID_BLACK_SCORPION)) then
+      tail := create_object(PID_SMALL_SCORPION_TAIL,0,0);
+   else
+      tail := create_object(PID_SCORPION_TAIL,0,0);
+
+   add_obj_to_inven(self_obj,tail);
+
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+      dec_map_var(MVAR_Hostile_Total);
+   end
+end
+
+procedure combat_p_proc begin
+   if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
+      if (target_obj == dude_obj) then begin
+         if (not(is_success(do_check(dude_obj,STAT_lu,-1)))) then begin
+            poison(target_obj,random(3,15));
+         end
+      end
+   end
+end

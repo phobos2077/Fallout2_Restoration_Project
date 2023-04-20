@@ -1,0 +1,542 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Davin
+        Location: Modoc
+        Description: Possible husband to be.
+
+        Log: the following defines need to be changed:
+
+
+          Created: February 15, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define set_default_party_follow             set_follow_close
+#define def_follow_msg                       mstr(1020)
+#define def_med_msg                          mstr(1005)
+#define def_far_msg                          mstr(1006)
+
+#define SCRIPT_REALNAME "mcdavin"
+#include "../headers/define.h"
+#include "../headers/newr1.h" //added by killap
+
+#define NAME                        SCRIPT_MCDAVIN
+#define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
+
+#include "../headers/command.h"
+#include "../headers/modoc.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+procedure push_p_proc;
+
+// dialog nodes
+procedure Node000;
+procedure Node001;
+procedure Node002;
+procedure Node005;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+// party member default nodes
+procedure Node1001;
+procedure Node1002;
+procedure Node1003;
+procedure Node1004;
+procedure Node1005;
+procedure Node1006;
+procedure Node1007;
+procedure Node1008;
+procedure Node1009;
+procedure Node1010;
+procedure Node1100;
+
+procedure Node999;                                      // This is the do nothing node
+procedure Node998;                                      // This Node is Always Combat
+procedure Node996;
+
+#define LVAR_Hostile                      (4)
+#define LVAR_Here_Before                  (5)
+#define LVAR_Home_Tile                    (6)
+#define LVAR_WAITING                      (7)
+#define LVAR_FOLLOW_DISTANCE              (8)
+#define LVAR_TEAM                         (9)
+#define LVAR_Gave_Weapon                  (10)
+
+#define PARTY_NODE_X                      Node002
+
+// Begin Seraph's Code
+variable biff;
+variable gun;
+// End Seraph's Code */
+import variable modoc_jo_obj;
+import variable ghost_farm_slag_obj;
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+   if (Davin_In_Party == false) then begin
+      script_overrides;
+   end
+end
+
+procedure combat_p_proc begin
+   if (dude_enemy_modoc) then begin
+      set_self_abandon_party;
+      set_self_team(TEAM_MODOC);
+   end else if (cur_map_index == MAP_GHOST_FARM) then begin
+   end else if (cur_map_index == MAP_GHOST_FARM) then begin
+      set_self_team(TEAM_PLAYER);
+   end
+end
+
+procedure timed_event_p_proc begin
+   //added by killap
+   if (fixed_param == 900) then begin
+      if (self_visible) then begin
+         if (Davin_In_Party) then begin
+            if (Is_Crippled(self_obj)) then
+               floater(2000);
+            else if (self_rads) then
+               floater(2001);
+            else if (get_poison(self_obj)) then
+               floater(2002);
+         end
+      end
+      add_timer_event(self_obj, random(25, 40), 900);
+   //end added by killap
+   end else if (fixed_param == param_clear_float) then begin
+      float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
+      float_msg(dude_obj, " ", FLOAT_COLOR_NORMAL);
+      float_msg_clear(self_obj);
+      float_msg_clear(dude_obj);
+   end
+end
+
+procedure map_enter_p_proc begin
+   if ((davin_dead) or ((Davin_In_Party) and (self_pid != PID_DAVIN))) then begin
+      destroy_object(self_obj);
+   end
+   party_member_map_enter;
+//   if (local_var(LVAR_Home_Tile) == 0) then begin - comment out by killap
+//      set_local_var(LVAR_Home_Tile, self_tile);  - moved down by killap
+   if (cur_map_index != MAP_GHOST_FARM) then begin
+         set_self_team(TEAM_MODOC);
+   end else begin
+         check_show_ghost_farm_attackers
+   end
+  /* end else */  //comment out by killap
+   //if (Davin_In_Party == false) then begin
+   if not(married_to_davin) then begin // edit by killap - party check doesn't always work when map loads
+      if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+         if (map_first_run) then
+            set_local_var(LVAR_Home_Tile, self_tile); //moved from above - killap
+         critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), dude_elevation);
+      end else begin
+         check_show_ghost_farm_attackers
+      end
+   end
+
+   //added by killap
+   add_timer_event(self_obj, random(25, 40), 900);
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(self_pid) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+end
+
+procedure critter_p_proc begin
+   if (Davin_In_Party) then begin
+      if (dude_enemy_modoc == false) then begin
+         party_member_follow_dude
+      end else begin
+         set_self_abandon_party;
+      end
+   end else if (cur_map_index == MAP_GHOST_FARM) then begin
+      Do_Attacking_Slag(11,8)
+   end else if (is_staging_wedding) then begin
+      if (get_sub_stage == wedding_stage_place_important) then begin
+         place_in_church_seat(self_obj, church_davin_seat);
+      end else if (is_staging_davin_wedding) then begin
+         if (get_sub_stage == wedding_stage_done) then begin
+            if (Davin_In_Party == false) then begin
+               party_add_self;
+               set_dude_married;
+               give_pid_qty(self_obj, PID_STIMPAK, 2)
+               give_pid_qty(self_obj, PID_MULTI_TOOL, 1)
+            end
+         end else if (stage_time_ready) then begin
+            if (get_sub_stage == wedding_stage_what_response) then begin
+               floater_afraid(400 + (5*grisham_dead)); //added by killap
+               dude_floater(401);
+               set_next_stage_time(quick_stage_time)
+               set_sub_stage(wedding_stage_grisham_response)
+            end else if (get_sub_stage == wedding_stage_question_response) then begin
+               dude_floater(410);
+               set_next_stage_time(quick_stage_time)
+               set_sub_stage(wedding_stage_question_response_2)
+            end else if (get_sub_stage == wedding_stage_continue) then begin
+               dude_floater(411);
+               set_next_stage_time(quick_stage_time)
+               set_sub_stage(wedding_stage_jo_bride_vow)
+            end else if (get_sub_stage == wedding_stage_bride_vow_response) then begin
+               dude_floater(412);
+               set_next_stage_time(quick_stage_time)
+               set_sub_stage(wedding_stage_grisham_response_2)
+            end else if (get_sub_stage == wedding_stage_player_vow_response) then begin
+               dude_floater(413);
+               set_next_stage_time(quick_stage_time)
+               set_sub_stage(wedding_stage_jo_groom_vow)
+            end else if (get_sub_stage == wedding_stage_groom_vow_response) then begin
+               floater_good(402);
+               set_next_stage_time(quick_stage_time)
+               set_sub_stage(wedding_stage_pronounce_married)
+            end
+         end
+      end
+   end else begin
+      if (self_can_see_dude) then begin
+         if ((local_var(LVAR_Hostile) != 0) or (dude_enemy_modoc)) then begin
+
+            self_attack_dude;
+         end
+      end
+      if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
+         if (self_tile != local_var(LVAR_Home_Tile)) then begin
+            anim_move_to_point(local_var(LVAR_Home_Tile))
+         end
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if ((is_staging_rape) or (is_staging_wedding)) then begin
+         clear_stage
+      end
+      set_self_abandon_party;
+      if (dude_in_modoc_town) then begin
+         set_enemy_modoc;
+      end
+      call Node998;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (Davin_In_Party == false) then begin
+         call Node998;
+      end
+   end
+end
+
+procedure talk_p_proc begin
+   if (cur_map_index == MAP_GHOST_FARM) then begin
+      kill_them_all_floater;
+   end else if (dude_enemy_modoc == false) then begin
+      script_overrides;
+      if (is_staging_wedding) then begin
+         if (get_sub_stage == wedding_stage_grisham_response) then begin
+            floater_afraid(450);
+         end
+      end else if ((married_to_sibling) or (dude_was_married)) then begin
+         if (grisham_dead) then begin
+            floater(500);
+         end else begin
+            floater(random(150,151));
+         end
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            if (Davin_In_Party) then begin
+               call PARTY_NODE_X;
+            end else if (local_var(LVAR_Here_Before) != 0) then begin
+               call Node001;
+            end else begin
+               call Node000;
+            end
+         gSay_End;
+         end_dialogue;
+      end
+      inc_local_var(LVAR_Here_Before);
+   end else begin
+      set_self_abandon_party;
+      call Node998;
+      self_attack_dude;
+   end
+end
+
+procedure destroy_p_proc begin
+   set_dude_was_married;
+   inc_good_critter
+   set_davin_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100 + (local_var(LVAR_Here_Before) > 0));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(100 + (2*dude_met_grisham));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+//added by killap
+procedure use_obj_on_p_proc begin
+   if ( (obj_pid(obj_being_used_with) == PID_MICRO_FUSION_CELL) or (obj_pid(obj_being_used_with) == PID_SMALL_ENERGY_CELL) ) then begin
+      script_overrides;
+      display_msg(g_mstr(20000));
+   end
+end
+//end added
+
+// dialog action functions
+procedure Node999 begin
+  // do absolutely everything that pertains to nothing
+end
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,true);
+end
+procedure Node996 begin
+// Begin Seraph's Code
+   if (grisham_dead) then begin //added by killap
+      biff := create_object_sid(PID_GRISHAM, 28512, self_elevation, SCRIPT_MCGRISHA);
+      gun := create_object(PID_SAWED_OFF_SHOTGUN, 0, 0);
+
+      add_obj_to_inven(biff, gun);
+      add_mult_objs_to_inven(biff, create_object(PID_SHOTGUN_SHELLS, 0, 0), 4);
+      wield_obj_critter(biff, gun);
+// End Seraph's Code */
+   end   //added by killap
+   setup_wedding_stage
+end
+
+// dialog nodes
+procedure Node000 begin
+   Reply(157);
+   if (family_feud_seed_active) then begin
+      NOption(158,Node010,004);
+   end
+   NOption(159,Node011,004);
+   NOption(160,Node012,004);
+   NOption(161,Node013,004);
+   NOption(200,Node014,004);
+   NOption(g_mstr(300),Node999,-003);
+end
+procedure Node001 begin
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
+      Reply(162);
+   end else begin
+      Reply(163);
+   end
+   if (family_feud_seed_active) then begin
+      NOption(158,Node010,004);
+   end
+   NOption(159,Node011,004);
+   NOption(160,Node012,004);
+   NOption(161,Node013,004);
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
+      NOption(168,Node015,004);
+   end
+   NOption(200,Node014,004);
+   NOption(g_mstr(300),Node999,-003);
+end
+procedure Node002 begin
+   Reply(1000 + dude_is_male);
+   party_member_default_options;
+end
+procedure Node005 begin
+   Reply(172);
+   if (family_feud_seed_active) then begin
+      NOption(158,Node010,004);
+   end
+   NOption(159,Node011,004);
+   NOption(160,Node012,004);
+   NOption(161,Node013,004);
+   NOption(200,Node014,004);
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
+      NOption(168,Node015,004);
+   end
+   NOption(g_mstr(300),Node999,-003);
+end
+procedure Node010 begin
+   Reply(178);
+   NOption(179,Node005,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node011 begin
+   Reply(180);
+   NOption(179,Node005,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node012 begin
+   Reply(182);
+   NOption(179,Node005,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node013 begin
+   Reply(184);
+   NOption(179,Node005,004);
+   NOption(g_bye,Node999,004);
+end
+procedure Node014 begin
+   Reply(186);
+   NOption(g_bye,Node999,004);
+end
+procedure Node015 begin
+   Reply(187 + dude_is_female);
+   NOption(189,Node016,008);
+   NOption(190,Node016,004);  //killap's fix: changed from 996
+   NOption(191,Node005,004);
+   NOption(192,Node999,004);
+end
+procedure Node016 begin
+   if (dude_is_male) then begin
+      Reply(194);
+   end else begin
+      Reply(193);
+   end
+   NOption(g_mstr(353),Node017,004);
+end
+procedure Node017 begin
+   gfade_out(1);
+      do_default_sex;
+      Face_Critter(dude_obj,self_obj);
+      Face_Critter(self_obj,dude_obj);
+   gfade_in(1);
+   if (dude_endurance >= 8) then begin
+      Reply(195);
+   end else if (dude_endurance == 7) then begin
+      Reply(196);
+   end else if (dude_endurance >= 4) then begin
+      Reply(197);
+   end else if (dude_endurance >= 2) then begin
+      Reply(198);
+   end else if (dude_endurance == 1) then begin
+      Reply(199);
+   end
+   NOption(g_mstr(353),Node996,004);
+end
+
+// party stuff
+procedure Node1001 begin
+   // heal yourself
+   obj_heal(self_obj)
+   global_temp := 0;
+   if (party_healed_max) then begin
+      Reply(1100);
+   end else if (party_healed_good) then begin
+      Reply(1200);
+   end else if (party_healed_hurt) then begin
+      Reply(1300);
+   end else begin
+      Reply(1400);
+   end
+   party_member_default_options;
+end
+procedure Node1002 begin
+   // wait here
+   Reply(1500);
+   party_member_default_options;
+end
+procedure Node1003 begin
+   // put your weapon away
+   inven_unwield(self_obj);
+   Reply(1600);
+   party_member_default_options;
+end
+procedure Node1004 begin
+   // follow close
+   set_follow_close;
+   Reply(1700);
+   party_member_default_options;
+end
+procedure Node1005 begin
+   // follow medium
+   Reply(1800);
+   party_member_default_options;
+end
+procedure Node1006 begin
+   // follow far
+   Reply(1900);
+   party_member_default_options;
+end
+procedure Node1007 begin
+   // distance
+   Reply(1007);
+   party_member_def_follow_options;
+end
+procedure Node1008 begin
+   // gear
+   Reply(1008);
+   party_member_def_gear_options;
+end
+procedure Node1009 begin
+   // remove armor
+   remove_armor(self_obj)
+   Reply(1007);
+   party_member_default_options;
+end
+procedure Node1010 begin
+   // weapons that can be used
+   Reply(1010);
+   party_member_default_options;
+end
+procedure Node1100 begin
+   // doesn't use the rejoin cuz you can't get rid of them, but this node needs to be here
+end

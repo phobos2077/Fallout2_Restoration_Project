@@ -1,0 +1,157 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Rat Cave Door
+        Locked: Yes
+        Trapped: No
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "kclvatr"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_ELECTRIC_LOCK
+
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#define Lock_Bonus                      (-60)
+
+#define custom_look_at_p_proc
+#define custom_Pry_Door
+#define custom_use_obj_on_p_proc
+#define custom_Look_Locks
+#define custom_damage_p_proc
+#define custom_description_p_proc
+#define custom_use_skill_on_p_proc
+#define custom_use_p_proc
+#include "../headers/doors.h"
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure use_p_proc begin
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+
+   if (global_var(GVAR_KLAMATH_GENERATOR) == 0) then begin
+      script_overrides;
+      display_msg(mstr(501));
+   end
+   else begin
+      if (obj_is_locked(self_obj)) then begin
+          script_overrides;
+          display_msg(mstr(203));
+      end
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(502));
+end
+
+/**********************************************************************************
+   Should the player examine the door closely, then he should be allowed a lockpick
+   roll, a traps roll and a perception roll. Depending on which rolls are made will
+   determine how much information about the door will be given.
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(502));
+end
+
+/**********************************************************************************
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   if (global_var(GVAR_KLAMATH_GENERATOR) == 0) then begin
+      script_overrides; //added by killap
+      display_msg(mstr(501));
+   end
+   else begin //generator working
+
+      Skill_Used:=action_being_used;
+
+      if (Skill_Used == SKILL_LOCKPICK) then begin
+         script_overrides; //added by killap
+         display_msg(mstr(503));
+      end                                                          // End of Skill_Lockpick
+
+   end //generator working
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   script_overrides;
+   if (global_var(GVAR_KLAMATH_GENERATOR) == 0) then begin
+      script_overrides; //added by killap
+      display_msg(mstr(501));
+   end
+   else begin //generator working
+
+      Tool:=obj_pid(obj_being_used_with);
+
+      elec_lockpick_inner_block
+
+      else if (Tool == PID_CROWBAR) then begin
+         script_overrides; //added by killap
+         call Pry_Door;
+      end
+      else begin
+         script_overrides; //added by killap
+         display_msg(mstr(503));
+      end
+
+   end //generator working
+end
+
+/******************************************************************************************
+   Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
+   or any other forms of damage), this procedure will be called to destroy the door and
+   free up the space.
+******************************************************************************************/
+procedure damage_p_proc begin
+   script_overrides; //you cannot destroy this door
+end
+
+procedure Look_Locks begin
+   display_msg(mstr(503));
+end
+
+procedure Pry_Door begin
+   display_msg(mstr(500));
+end

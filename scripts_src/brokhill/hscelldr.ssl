@@ -1,0 +1,47 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: Yes
+        Trapped: Yes
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "hscelldr"
+#include "../headers/broken1.h"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+/* Standard Script Procedures */
+
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure anger;
+
+#define custom_timed_event_p_proc
+#include "../headers/doors.h"
+
+procedure timed_event_p_proc begin
+end
+
+procedure anger begin
+   set_map_var(MVAR_Lockpick_Attempt, 1); //if guard is watching...stop the dude
+   add_timer_event(self_obj,game_ticks(3),0);
+end

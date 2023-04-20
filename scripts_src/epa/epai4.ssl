@@ -1,0 +1,103 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai4"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI4          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node999;
+
+procedure start
+begin
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(108));
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(106));
+  else
+    display_msg(mstr(107));
+end
+
+procedure use_p_proc
+begin
+  if (combat_is_initialized == 0) then begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+      call Node001;
+    gsay_end;
+    end_dialogue;
+  end
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end
+
+procedure Node001
+begin
+  Reply(100);
+  if (global_var(GVAR_ELECTRIC_CHAIR) == 0) then
+    NOption(101, Node002, 4);
+  if (global_var(GVAR_ELECTRIC_CHAIR) == 1) then
+    NOption(102, Node003, 4);
+  NOption(105, Node999, 4);
+end
+
+procedure Node002
+begin
+  Reply(103);
+  NOption(105, Node999, 4);
+  set_global_var(GVAR_ELECTRIC_CHAIR, 1);
+end
+
+procedure Node003
+begin
+  Reply(104);
+  NOption(105, Node999, 4);
+  set_global_var(GVAR_ELECTRIC_CHAIR, 0);
+end
+
+procedure Node999
+begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end

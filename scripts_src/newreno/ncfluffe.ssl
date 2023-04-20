@@ -1,0 +1,342 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Porn Fluffer/Extra
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: April 25, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ncfluffe"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCFLUFFE
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (0)
+
+#define hidden_for_fight_bit              bit_10
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+#define message_type_float          (1)
+#define message_type_click          (2)
+#define message_is_float            (message_type == message_type_float)
+#define message_is_click            (message_type == message_type_click)
+#define set_message_float           message_type := message_type_float
+#define set_message_click           message_type := message_type_click
+
+/* Local variables which do not need to be saved between map changes. */
+
+variable message_type;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if ((combat_is_initialized == false) and (self_visible) and (making_porn == false)) then begin
+      if ((self_can_see_dude) and (self_distance_from_dude <= 3)) then begin
+         set_message_float;
+         if (enclave_destroyed) then begin
+            call Node003;
+         end else if (dude_wearing_power_armor) then begin
+            call Node004 ;
+         end else if (dude_has_porn_star_rep) then begin
+            if (dude_is_female) then begin
+               call Node006;
+            end else begin
+               call Node005;
+            end
+         end else if (dude_is_prizefighter) then begin
+            if (dude_is_female) then begin
+               call Node008;
+            end else begin
+               call Node007;
+            end
+         end else if ((dude_is_made_man) or (has_rep_berserker)) then begin
+            if (dude_is_female) then begin
+               call Node010;
+            end else begin
+               call Node009;
+            end
+         end else if (myron_is_dude_companion) then begin
+            call Node011;
+         end else if (dude_wearing_leather_armor) then begin
+            call Node012;
+         end else if (sulik_is_dude_companion) then begin
+            call Node013;
+         end else begin
+            call Node014;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_NEW_RENO_PORNO_STUDIO);
+         set_self_ai(AI_TOUGH_CITIZEN);
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if ((hostile) or (porn_studio_hostile)) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_porn_studio_hostile;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_hostile;
+   end
+end
+
+procedure talk_p_proc begin
+   set_message_click;
+   if (enclave_destroyed) then begin
+      call Node015;
+   end else if (dude_wearing_power_armor) then begin
+      call Node005;
+   end else if (dude_has_porn_star_rep) then begin
+      call Node016;
+   end else if (dude_is_prizefighter) then begin
+      call Node017;
+   end else if (dude_is_made_man) then begin
+      call Node018;
+   end else if (myron_is_dude_companion) then begin
+      call Node011;
+   end else if (dude_wearing_leather_armor) then begin
+      call Node012;
+   end else if (sulik_is_dude_companion) then begin
+      call Node019;
+   end else begin
+      call Node020;
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (dude_is_female) then begin
+      call Node002;
+   end else begin
+      call Node001;
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+#define is_insert_message(x)  ((x == 200) or (x == 204) or  \
+                               (x == 207) or (x == 235) or  \
+                               (x == 236) or (x == 238) or  \
+                               (x == 239) or (x == 245) or  \
+                               (x == 255) or (x == 270) or  \
+                               (x == 280) or (x == 290) or  \
+                               (x == 374) or (x == 378) or  \
+                               (x == 381))
+
+procedure Node001 begin
+   display_mstr(150 + (examined));
+end
+procedure Node002 begin
+   display_mstr(160 + (examined));
+end
+procedure Node003 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(203-(3*dude_is_male), 206+(3*dude_is_female), dude_name, 1000);
+   //end else
+   //   floater_rand(202-dude_is_male, 202+dude_is_female);
+end
+procedure Node004 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(225,228);
+   //else
+   //   floater_rand(225,226);
+end
+procedure Node005 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(235, 242, porn_star_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(235, 237, porn_star_name, 1000);
+   //end
+end
+procedure Node006 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(245, 251, porn_star_name, 1000);
+   //end else
+   //   floater(247);
+end
+procedure Node007 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(255, 262, prizefighter_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(255, 256, prizefighter_name, 1000);
+   //end
+end
+procedure Node008 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(270, 274, prizefighter_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(270, 271, prizefighter_name, 1000);
+   //end
+end
+procedure Node009 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(281-(dude_is_made_man),285 , made_man_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(281-(dude_is_made_man),280 , made_man_name, 1000);
+   //end
+end
+procedure Node010 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(291-(dude_is_made_man), 294, made_man_name, 1000);
+   //end else begin
+   //   floater_rand_with_check(291-(dude_is_made_man), 291, made_man_name, 1000);
+   //end
+end
+procedure Node011 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(300,306);
+   //else
+   //   floater_rand(300,301);
+end
+procedure Node012 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(316-(message_is_float),319+(message_is_click));
+   //else
+   //   floater_rand(316, 317);
+end
+procedure Node013 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(325,333+(4*dude_is_female));
+   //else
+   //   floater_rand(325,329);
+end
+procedure Node014 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(345,349+(4*dude_is_female));
+   //else
+   //   floater_rand(345,348);
+end
+procedure Node015 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(360,366);
+   //else
+   //   floater_rand(360,361);
+end
+procedure Node016 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
+      floater_rand_with_check(381-((381-370)*dude_is_male), 397+(3*dude_is_female), porn_star_name, 1000);
+   //end else
+   //   floater_rand(371, 373);
+end
+procedure Node017 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(423-(3*dude_is_male),432+(3*dude_is_female));
+   //else
+   //   floater_rand(420,422);
+end
+procedure Node018 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(454-(4*dude_is_male),457+(3*dude_is_female));
+   //else
+   //   floater_rand(450,451);
+end
+procedure Node019 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(467-(2*dude_is_male),489+(2*dude_is_female));
+   //else
+   //   floater_rand(467,472);
+end
+procedure Node020 begin
+   //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
+      floater_rand(502-(2*dude_is_male),518+(2*dude_is_female));
+   //else
+   //   floater_rand(500,502);
+end

@@ -1,0 +1,284 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "ecmelchr"
+#include "../headers/define.h"
+#include "../headers/mbase34.h"
+
+#define NAME                    SCRIPT_ECMELCHR
+
+#include "../headers/command.h"
+#include "../headers/base.h"
+
+#define Timed_Count             (5)     // In seconds
+#define TOO_CLOSE               (20)    // in hexes
+#define WAY_TOO_CLOSE           (10)    // in hexes
+
+#define CRITTER_TILE            (13334)
+
+#define PET_PID                 PID_MOLE_RAT
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+#define LVAR_Taunt_Count                  (4)
+#define LVAR_Flags                        (5)
+#define LVAR_Cur_Pet_Var                  (6)
+#define LVAR_Pets_In_Play                 (7)
+
+#define said_out_of_pets_bit              bit_15
+#define player_too_close_bit              bit_16
+
+#define said_out_of_pets                  lvar_bit(LVAR_Flags, said_out_of_pets_bit)
+#define set_said_out_of_pets              set_lvar_bit_on(LVAR_Flags, said_out_of_pets_bit)
+
+#define player_too_close                  lvar_bit(LVAR_Flags, player_too_close_bit)
+#define set_player_too_close              set_lvar_bit_on(LVAR_Flags, player_too_close_bit)
+#define off_player_too_close              set_lvar_bit_off(LVAR_Flags, player_too_close_bit)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+import variable melchior_obj;
+
+procedure start begin
+   melchior_obj := self_obj;
+end
+
+procedure combat_p_proc begin
+variable portal_cnt;
+variable the_msg;
+variable temp_tile;
+   if (dude_elevation == self_elevation) then begin
+      if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
+         if (local_var(LVAR_Cur_Pet_Var) <= last_pet_mvar) then begin
+            if (map_var(local_var(LVAR_Cur_Pet_Var)) <= 0) then begin
+               inc_local_var(LVAR_Cur_Pet_Var);
+            end
+            if (local_var(LVAR_Cur_Pet_Var) <= last_pet_mvar) then begin
+               if (local_var(LVAR_Pets_In_Play) < pets_released) then begin
+                  // he's got pets to toss
+                  // get free pet tile
+                  portal_cnt := pets_released - 1;
+                  temp_tile := current_portal_tile;
+                  while ((portal_cnt > 0) and (clump_is_free(temp_tile) == false)) do begin
+                     portal_cnt -= 1;
+                     ndebug("in while: portal_cnt == " + portal_cnt);
+                     inc_portal_num;
+                     temp_tile := current_portal_tile;
+                  end
+                  if (clump_is_free(temp_tile)) then begin
+                     the_msg := 1000 + (10 * local_var(LVAR_Cur_Pet_Var)) + random(0,2);
+                     ndebug("message: #"+the_msg+" == "+mstr(the_msg));
+                     floater(the_msg);
+                     self_rotate(rotation_to_tile(self_tile, number_to_throw_tile(temp_tile)));
+                     anim(self_obj, ANIM_throw_anim, self_cur_rot); // edit by killap - was -1
+                     if ((pets_released - local_var(LVAR_Pets_In_Play)) > 1) then begin
+                        dec_map_var_amt(local_var(LVAR_Cur_Pet_Var), 2);
+                        inc_local_var_amt(LVAR_Pets_In_Play, 2);
+                     end else begin
+                        dec_map_var(local_var(LVAR_Cur_Pet_Var));
+                        inc_local_var(LVAR_Pets_In_Play);
+                     end
+                  end else begin
+                     ndebug("PORTAL BLOCKED!!!");
+                  end
+                  attack(dude_obj);
+               end else begin
+                  ndebug("TOO MANY PETS OUT, NEED TO WAIT FOR ONE TO DIE!!!");
+               end
+            end else if (said_out_of_pets == false) then begin
+               set_said_out_of_pets;
+               floater_afraid(1050);
+            end
+         end else if (said_out_of_pets == false) then begin
+            set_said_out_of_pets;
+            floater_afraid(1050);
+         end
+      end
+   end else begin
+      ndebug("player not on same elevation");
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   melchior_obj := self_obj;
+   Only_Once:=0;
+   set_self_team(TEAM_SUPER_MUTANT);
+   set_self_ai(AI_SUPER_MUTANT);
+end
+
+procedure map_update_p_proc begin
+   melchior_obj := self_obj;
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         attack(dude_obj);
+      end
+   end
+
+   if ((tile_distance_objs(self_obj,dude_obj) < TOO_CLOSE) and (tile_distance_objs(self_obj,dude_obj) > WAY_TOO_CLOSE)) then begin
+       if (local_var(LVAR_Taunt_Count) == 0) then begin
+           reg_anim_clear(dude_obj); //added by killap
+           //set_player_too_close; //comment out by killap
+           inc_local_var(LVAR_Taunt_Count);
+           floater(102);
+           add_timer_event(self_obj,game_ticks(3),1); //changed to game_ticks(3) - killap
+           reg_anim_clear(dude_obj);
+       end
+       else if (player_too_close) then begin
+           set_player_too_close;
+           add_timer_event(self_obj,game_ticks(5),1); //changed to game_ticks(5) - killap
+       end
+   end
+
+   else if (tile_distance_objs(self_obj,dude_obj) < WAY_TOO_CLOSE) then begin
+       floater(107);
+       rm_timer_event(self_obj);
+       set_hostile;
+       attack(dude_obj);
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == OBJECT_VISIBILITY) then
+      dec_local_var(LVAR_Pets_In_Play);
+   else begin
+      off_player_too_close;
+      if (self_can_see_dude) then begin
+         if (local_var(LVAR_Taunt_Count) < 5) then begin
+            floater(102 + local_var(LVAR_Taunt_Count));
+            inc_local_var(LVAR_Taunt_Count);
+            add_timer_event(self_obj,game_ticks(5),1);   //added by killap
+         end else if (combat_is_initialized == false) then begin
+            floater(107);
+            rm_timer_event(self_obj);
+            attack(dude_obj);
+         end
+      end
+   end
+end
+
+
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   melchior_obj := -1;
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+//   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+end
+
+//xxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,98 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "sfmboat"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_SFMBOAT
+
+#include "../headers/command.h"
+#include "../headers/sfdock.h"
+#include "../headers/sanfran.h"
+#include "../headers/sfsub.h"
+
+procedure start;
+procedure use_p_proc;
+procedure load_sub_location;
+procedure talk_p_proc;
+procedure Node001;
+
+import variable boatGrd_ptr;
+
+procedure start begin
+end
+
+
+procedure use_p_proc begin
+   variable tmp := 0;
+   if not(combat_is_initialized) then begin
+      if (cur_map_index == MAP_SAN_FRAN_DOCK) then begin
+         script_overrides;
+         if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) then begin
+            if ((global_var(GVAR_SAN_FRAN_SUB) == 0) and (boatGrd_ptr == 0)) then begin
+               float_msg(dude_obj, mstr(221), FLOAT_COLOR_NORMAL);
+            end else if (map_var(MVAR_Use_Motor_Boat) == 1) then begin
+               if (global_var(GVAR_SAN_FRAN_SUB) >= SHI_SUB_HAS_PASSWORD) then
+                  set_sub_flag(SHI_SUB_KNOWN);
+               party_member_hide_all
+               call load_sub_location;
+            end else if (boatGrd_ptr != 0) then begin
+               if (dude_iq > 3) and (dude_is_sneaking) and ( has_skill( dude_obj, SKILL_SNEAK ) > 90 ) then begin
+                  call talk_p_proc;
+               end else begin
+                  add_timer_event(boatGrd_ptr,5,1);
+               end
+            end else if (dude_iq > 3) then begin
+               game_time_advance_hour(0);
+               call load_sub_location;
+            end
+         end else begin
+             float_msg(dude_obj, mstr(220), FLOAT_COLOR_NORMAL);
+         end
+      end else begin
+         //time advance is done in sfdock
+         if ( (map_var(MVAR_Explosive_Timer) == 0) and (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_DISABLED) ) then begin
+            float_msg(dude_obj, mstr(210), FLOAT_COLOR_NORMAL);
+         end else begin
+            load_map(MAP_SAN_FRAN_DOCK,900);
+         end
+      end
+   end
+end
+
+procedure load_sub_location begin
+   game_time_advance(15*ONE_GAME_MINUTE);
+   load_map(MAP_SAN_FRAN_SUB,900);
+end
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+      call Node001;
+   gSay_End;
+   end_dialogue;
+end
+
+procedure Node001 begin
+   set_sub_flag(SHI_SUB_WITH_CREW);
+   game_time_advance_hour(0);
+   give_xp(500);
+   party_member_hide_all
+   Reply(200+(true_party_size > 0));
+   game_time_advance(15*ONE_GAME_MINUTE);
+   load_map(MAP_SAN_FRAN_SUB,901);
+end

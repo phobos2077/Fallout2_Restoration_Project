@@ -1,0 +1,156 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Chest
+        Location: Arroyo
+        Description: Chest in Arroyo Hut that contains money and will lower the player's Karma
+                     should he steal from the vase
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: December 04, 1997
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "aichest"
+#include "../headers/define.h"
+#include "../headers/arvillag.h"
+
+#define NAME                    SCRIPT_AICHEST
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure damage_p_proc;
+procedure pickup_p_proc;
+procedure use_p_proc;
+procedure use_skill_on_p_proc;
+
+/* Script Specific Procedure Calls */
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+
+#define SHAMAN_CHEST_TILE     (13512)
+
+import variable Hakunin_Ptr; //added by killap - expansion
+
+procedure start begin
+end
+
+procedure damage_p_proc begin
+   destroy_object(self_obj);
+   set_map_var(MVAR_Stealing_From_Shaman,5);
+end
+
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (self_tile == SHAMAN_CHEST_TILE) then
+      display_msg(mstr(103));
+   else
+      display_msg(mstr(101));                    // describes as a vase
+                                                // need to add in described as chest
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   if (self_tile == SHAMAN_CHEST_TILE) then
+      display_msg(mstr(103));
+   else
+      display_msg(mstr(101));                    // describes as a vase
+                                                // need to add in described as chest
+end
+
+procedure pickup_p_proc begin
+end
+
+procedure use_p_proc begin
+   if not(combat_is_initialized) then begin
+      if ((is_success(roll_vs_skill(dude_obj,SKILL_STEAL,-20))) and
+         (map_var(MVAR_Stealing_From_Shaman) < 6)) then begin
+         display_msg(mstr(104));
+      end
+      else begin
+         //added check by killap - expansion
+         if ((Hakunin_Ptr != -1) and (obj_can_see_obj(Hakunin_Ptr,dude_obj))) then begin
+            script_overrides;
+            set_map_var(MVAR_Stealing_From_Shaman,(map_var(MVAR_Stealing_From_Shaman) + 1));
+         end
+      end
+   end else begin
+      script_overrides;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   if not(combat_is_initialized) then begin
+      if ((is_success(roll_vs_skill(dude_obj,SKILL_STEAL,-20))) and
+         (map_var(MVAR_Stealing_From_Shaman) < 6)) then begin
+       //display_msg(mstr(104));
+         if (obj_is_locked(self_obj)) then begin
+            obj_unlock(self_obj);
+            display_msg(mstr(106));
+         end else begin
+            obj_lock(self_obj);
+            display_msg(mstr(105));
+         end
+      end
+      else begin
+         //added check by killap - expansion
+         if ((Hakunin_Ptr != -1) and (obj_can_see_obj(Hakunin_Ptr,dude_obj))) then begin
+            script_overrides;
+            set_map_var(MVAR_Stealing_From_Shaman,(map_var(MVAR_Stealing_From_Shaman) + 1));
+         end
+      end
+   end else begin
+      script_overrides;
+   end
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+//xxxxxxxxxxxxxxxxxxxx

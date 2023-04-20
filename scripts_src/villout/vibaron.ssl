@@ -1,0 +1,442 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "vibaron"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_VIBARON
+
+#include "../headers/command.h"
+#include "../headers/vilmerch.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Flags                      (4)
+#define LVAR_Herebefore                 (5)
+#define LVAR_Hostile                    (6)
+#define LVAR_Personal_Enemy             (7)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+procedure Node999;
+procedure Node998;
+
+procedure Node990;
+
+procedure Node900;
+procedure Node901;
+procedure Node902;
+procedure Node903;
+procedure Node904;
+procedure Node905;
+procedure Node906;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   call Node998;
+end
+
+procedure destroy_p_proc begin
+   display_msg(mstr(510));
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,3); //fail
+   inc_evil_critter
+end
+
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Herebefore)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node022;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+         set_local_var(LVAR_Herebefore,1);
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node998 begin
+   set_hostile;
+   set_map_var(MVAR_Attack_Player,1);
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node990,4); //barter
+   NOption(202,Node004,4); //help village
+   NOption(203,Node999,4); //buh bye
+   NOption(204,Node002,4); //joke
+end
+
+procedure Node002 begin
+   Reply(210);
+   NOption(201,Node990,4); //barter
+   NOption(202,Node004,4); //help village
+   NOption(203,Node999,4); //buh bye
+end
+
+procedure Node003 begin
+   Reply(220);
+   if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) < 2) then
+     NOption(221,Node004,4); //help village
+   NOption(222,Node999,4); //buh bye
+end
+
+procedure Node004 begin
+   Reply(230);
+   NOption(231,Node005,4);
+   NOption(232,Node005,4);
+   if (has_skill(dude_obj,SKILL_SPEECH) > 80) then
+      NOption(233,Node005,4);
+end
+
+procedure Node005 begin
+   Reply(240);
+   NOption(241,Node999,4);
+   NOption(242,Node006,4);
+   NOption(243,Node007,4);
+end
+
+procedure Node006 begin
+   Reply(260);
+   NOption(261,Node999,4);
+   NOption(262,Node007,4);
+   NOption(263,Node019,4);
+end
+
+procedure Node007 begin
+   Reply(300);
+   if (dude_caps >= 500) then
+      NOption(301,Node900,4); //barter check
+   NOption(302,Node901,4);
+   if (dude_is_female) then
+      NOption(303,Node902,4);
+   if (Miria_In_Party) then
+      NOption(304,Node017,4);
+   NOption(305,Node999,4);
+end
+
+//barter check
+procedure Node900 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,5))) then
+      call Node008;
+   else
+      call Node009;
+end
+
+//intimidate check
+procedure Node901 begin
+   if (dude_strength > 6) then
+      call Node012;
+   else
+      call Node011;
+end
+
+//charisma check
+procedure Node902 begin
+   if (dude_charisma > 6) then
+      call Node015;
+   else if (dude_charisma > 3) then
+      call Node014;
+   else
+      call Node013;
+end
+
+//player has sex
+procedure Node903 begin
+   do_default_sex;
+   call Node016;
+end
+
+//miria has sex
+procedure Node904 begin
+   game_time_advance(ONE_GAME_HOUR);
+   call Node018;
+end
+
+//speech check
+procedure Node905 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,10))) then
+      call Node021;
+   else
+      call Node020;
+end
+
+procedure Node906 begin
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,2); //success
+   display_msg(mstr(500));
+end
+
+//enter barter mode
+procedure Node990 begin
+   gdialog_mod_barter(0);
+   call Node003;
+end
+
+//barter success
+procedure Node008 begin
+   dude_caps_adjust(-500);
+   //quest over
+   Reply(310);
+   NOption(311,Node906,4);
+   NOption(312,Node906,4);
+end
+
+//barter fail
+procedure Node009 begin
+   Reply(320);
+   if (dude_caps >= 1000) then
+      NOption(322,Node010,4);
+   else
+      NOption(321,Node999,4);
+   NOption(323,Node999,4);
+end
+
+procedure Node010 begin
+   dude_caps_adjust(-1000);
+   //quest over
+   Reply(330);
+   NOption(331,Node906,4);
+   NOption(332,Node906,4);
+end
+
+procedure Node011 begin
+   Reply(340);
+   BOption(332,Node998,4);
+end
+
+procedure Node012 begin
+   //done
+   Reply(350);
+   NOption(351,Node906,4);
+   NOption(352,Node906,4);
+   NOption(353,Node906,4);
+end
+
+//ch <= 3
+procedure Node013 begin
+   Reply(360);
+   BOption(361,Node998,4);
+   NOption(362,Node999,4);
+   NOption(363,Node999,4);
+   NOption(363,Node999,4);
+end
+
+procedure Node014 begin
+   Reply(370);
+   if (dude_caps >= 500) then
+      NOption(371,Node900,4);
+   NOption(372,Node901,4);
+   NOption(373,Node999,4);
+end
+
+procedure Node015 begin
+   Reply(380);
+   NOption(381,Node903,4);
+   NOption(382,Node903,4);
+   NOption(383,Node903,4);
+end
+
+procedure Node016 begin
+   //done
+   Reply(390);
+   NOption(391,Node906,4);
+   NOption(392,Node906,4);
+   NOption(393,Node906,4);
+end
+
+procedure Node017 begin
+   Reply(400);
+   NOption(401,Node904,4);
+   NOption(402,Node904,4);
+   NOption(403,Node904,4);
+   NOption(404,Node904,4);
+end
+
+procedure Node018 begin
+   //done
+   Reply(410);
+   NOption(411,Node906,4);
+   NOption(412,Node906,4);
+end
+
+procedure Node019 begin
+   Reply(270);
+   NOption(271,Node905,4);
+end
+
+//spech fail
+procedure Node020 begin
+   Reply(280);
+   NOption(281,Node999,4);
+   NOption(282,Node007,4);
+end
+
+//speech pass
+procedure Node021 begin
+   //done
+   Reply(290);
+   NOption(291,Node906,4);
+   NOption(292,Node906,4);
+end
+
+procedure Node022 begin
+   Reply(250);
+   NOption(251,Node990,4);
+   NOption(252,Node999,4);
+   BOption(253,Node998,4);
+   if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 1) then
+      NOption(254,Node007,4);
+end

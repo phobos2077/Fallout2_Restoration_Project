@@ -1,0 +1,213 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Duppo's store table
+        Locked: No
+        Trapped: NO
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "sidtbl"
+
+#include "../headers/ncr1.h"
+#include "../headers/ncr.h"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_INACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_OTHER
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+#define custom_start
+#define custom_use_p_proc
+#define custom_look_at_p_proc
+#define custom_description_p_proc
+#define custom_map_enter_p_proc
+#include "../headers/containers.h"
+
+#define LVAR_Restock_Time               (7)
+#define LVAR_Restock_Time_Fix           (8) //added by killap
+
+import variable i_duppo_table;
+import variable i_duppo_talk;
+import variable i_duppo_obj;
+
+procedure start begin
+   i_duppo_table := self_obj;
+end
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure use_p_proc begin
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+
+   if (i_duppo_obj != -1) then begin
+      script_overrides;
+      i_duppo_table := self_obj;
+      i_duppo_talk := 1;
+      ndebug("duppo should talk");
+   end else begin
+      ndebug("duppo is -1");
+      Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+
+      if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+         if (is_success(Traps_Roll)) then begin
+            script_overrides;
+            set_local_var(LVAR_Found_Trap,1);
+            reg_anim_clear(source_obj);
+
+            if (source_obj == dude_obj) then begin
+                  display_msg(mstr(204));
+            end
+            else begin
+                  display_msg(mstr(205));
+            end
+         end
+
+         else begin
+            if (obj_is_locked(self_obj)) then begin
+                  script_overrides;
+                  display_msg(mstr(203));
+                  call Damage_Critter;
+            end
+            else begin
+                  call Damage_Critter;
+            end
+         end
+      end
+
+      else if (obj_is_locked(self_obj)) then begin
+         script_overrides;
+         display_msg(mstr(203));
+      end
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+end
+
+/**********************************************************************************
+   Should the player examine the door closely, then he should be allowed a lockpick
+   roll, a traps roll and a perception roll. Depending on which rolls are made will
+   determine how much information about the door will be given.
+**********************************************************************************/
+
+procedure description_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+/* Set up the door state when the player first enters the map */
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+   end
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_lock(self_obj);
+   end
+
+   else begin
+       obj_unlock(self_obj);
+   end
+
+   ndebug("I_duppo_obj " + i_duppo_obj);
+   if (i_duppo_obj != -1) then begin
+
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+
+#define DUPPO_TBL_1 17327
+#define DUPPO_TBL_2 17724
+
+//Tools & ammo
+         if (self_tile == DUPPO_TBL_1) then begin
+            check_restock_item(PID_DESERT_EAGLE, 1, 3, 100)
+            check_restock_item(PID_HUNTING_RIFLE, 1, 3, 100)
+            check_restock_item(PID_SHOTGUN, 1, 3, 100)
+            check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 50)
+            check_restock_item(PID_HK_CAWS, 1, 1, 50)
+            check_restock_item(PID_COMBAT_SHOTGUN, 1, 1, 50)
+            check_restock_item(PID_44_MAGNUM_REVOLVER, 1, 1, 40)
+            check_restock_item(PID_10MM_AP, 10, 20, 100)
+            check_restock_item(PID_5MM_AP, 5, 10, 100)
+
+            check_restock_item(PID_ROPE, 1, 4, 100)
+            check_restock_item(PID_CROWBAR, 1, 3, 100)
+            check_restock_item(PID_FLARE, 5, 7, 100)
+            check_restock_item(PID_DECK_OF_TRAGIC_CARDS, 1, 1, 10)
+            check_restock_item(PID_GEIGER_COUNTER, 1, 2, 50)
+            check_restock_item(PID_MICRO_FUSION_CELL, 3, 3, 30)
+            check_restock_item(PID_STIMPAK, 3 , 7, 50)
+            check_restock_item(PID_SUPER_STIMPAK, 1, 4, 25)
+            check_restock_item(PID_METAL_ARMOR_MK_II, 1, 3, 50)
+         end
+//Tools & ammo
+
+//Weapons
+         if (self_tile == DUPPO_TBL_2) then begin
+            check_restock_item(PID_9MM_AMMO, 1, 5, 100)
+            check_restock_item(PID_BBS, 10, 20, 100)
+            check_restock_item(PID_5MM_JHP, 5, 10, 100)
+            check_restock_item(PID_44_MAGNUM_JHP, 1, 5, 100)
+            check_restock_item(PID_223_FMJ, 5, 15, 100)
+            check_restock_item(PID_14MM_AP, 1, 10, 100)
+            check_restock_item(PID_SHOTGUN_SHELLS, 20, 20, 100)
+            check_restock_item(PID_7_62MM_AMMO, 10, 10, 100)
+            check_restock_item(PID_FN_FAL_HPFA, 1, 3, 100)
+            check_restock_item(PID_HK_P90C, 1, 2, 100)
+            check_restock_item(PID_POWER_FIST, 0, 2, 100)
+            check_restock_item(PID_10MM_AP, 5, 10, 100)
+
+            check_restock_item(PID_FRAG_GRENADE, 1, 7, 60)
+            check_restock_item(PID_THROWING_KNIFE, 7, 10, 45)
+            check_restock_item(PID_SPIKED_KNUCKLES, 2, 4, 50)
+            check_restock_item(PID_COMBAT_KNIFE, 2, 4, 50)
+            check_restock_item(PID_BOXING_GLOVES, 1, 1, 25)
+            check_restock_item(PID_COMBAT_ARMOR, 1, 1, 25)
+         end
+
+         set_local_var(LVAR_Restock_Time, (random(1,6) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+/***************************************************************************
+   This procedure is used should the player try to pry the door open using a
+   crowbar or some similar instrument.
+***************************************************************************/
+

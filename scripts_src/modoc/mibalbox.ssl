@@ -1,0 +1,65 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Item: Balthas store item box
+        Description: This is the box for the store inventory
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+*/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "mibalbox"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_MIBALBOX
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/*
+   Local variables which do not need to be saved between map changes.
+*/
+import variable modoc_balthas_box_obj;
+
+procedure start begin
+   modoc_balthas_box_obj := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+/* Set up the door state when the player first enters the map */
+   modoc_balthas_box_obj := self_obj;
+   if (is_loading_game == false) then begin
+
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_BOTTLE_CAPS, 475, 525, 100)
+         check_restock_item(PID_LEATHER_ARMOR, 1, 1, 100)
+         check_restock_item(PID_LEATHER_JACKET, 1, 1, 100)
+         set_local_var(LVAR_Restock_Time, (random(5,10) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   modoc_balthas_box_obj := self_obj;
+end

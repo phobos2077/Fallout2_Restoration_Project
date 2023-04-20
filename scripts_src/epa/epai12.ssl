@@ -1,0 +1,91 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai12"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI12          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_obj_on_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+procedure evil_plant_placing_p_proc;
+procedure corn_placing_p_proc;
+
+procedure start
+begin
+end
+
+procedure use_obj_on_p_proc
+begin
+  variable LVar1 := 0;
+
+  LVar1 := obj_pid(obj_being_used_with);
+  if (LVar1 == 631) then
+    set_local_var(LVAR_Herebefore, random(1, 2));
+  if (local_var(LVAR_Herebefore) == 1) then
+    call evil_plant_placing_p_proc;
+  else if (local_var(LVAR_Herebefore) == 2) then
+    call corn_placing_p_proc;
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end
+
+procedure evil_plant_placing_p_proc
+begin
+  variable LVar1 := 0;
+
+  gfade_out(10 * 5);
+  game_ui_disable;
+  LVar1 := create_object_sid(PID_SPORE_PLANT, 18883, dude_elevation, SCRIPT_ECPLANT);
+  critter_attempt_placement(LVar1, 18883, dude_elevation);
+  game_time_advance(60 * (60 * 10) * 168);
+  game_ui_enable;
+  gfade_in(10);
+  float_msg(dude_obj, mstr(100), FLOAT_MSG_YELLOW);
+  destroy_object(self_obj);
+end
+
+procedure corn_placing_p_proc
+begin
+  variable LVar1 := 0;
+
+  gfade_out(10 * 5);
+  game_ui_disable;
+  LVar1 := create_object(PID_CORN_1, 18883, dude_elevation);
+  critter_attempt_placement(LVar1, 18883, dude_elevation);
+  game_time_advance(60 * (60 * 10) * 168);
+  game_ui_enable;
+  gfade_in(10);
+  float_msg(dude_obj, mstr(101), FLOAT_MSG_YELLOW);
+  display_msg(mstr(102));
+  destroy_object(self_obj);
+end

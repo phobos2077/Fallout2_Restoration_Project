@@ -1,0 +1,721 @@
+/* Include Files */
+#define SCRIPT_REALNAME "tribec7"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_TRIBEC7
+
+
+#define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
+
+#include "../headers/slvcamp.h"
+#include "../headers/command.h"
+#include "../headers/updatmap.h"
+//#define Sulik_In_Party                      (Sulik_Ptr != 0)
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure combat_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node999;
+procedure Node998;
+
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+
+procedure Node090;
+procedure Node090a;
+procedure Node091;
+procedure Node092;
+procedure Node092a;
+procedure Node093;
+procedure Node094;
+procedure Node095;
+procedure Node096;
+procedure Node097;
+procedure Node098;
+procedure Node099;
+procedure Node0100;
+procedure Node0101;
+procedure Node0102;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Home_Tile                  (7)
+#define LVAR_How_Arrived                (8)
+
+#define LVAR_Flee                       (9)
+#define LVAR_Follow_Dude                (10)
+#define LVAR_Wait                       (11)
+
+#define LVAR_Freed                      (12)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+//import variable SULIK_obj;
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+import variable CELLDOOR_obj;
+import variable GUARD_obj;
+import variable DOG_obj;
+import variable SULIK_SIS_obj;
+
+variable tmp1;
+variable tmp2;
+variable tmp3;
+variable tmp4;
+variable tmp5;
+variable tmp6;
+variable tmp7;
+variable tmp8;
+
+#define UNLOCK_DOOR                     (2)
+#define OPEN_DOOR                       (3)
+#define MAX_TRAVEL              (10)
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      call talk_p_proc;
+   end else if (fixed_param == 2) then begin
+      if (local_var(LVAR_Herebefore) == 0) then
+         set_local_var(LVAR_Herebefore,1);
+      set_local_var(LVAR_Home_Tile,self_tile);
+      start_dialog_at_node(Node017);
+   end else if (fixed_param == 3) then begin
+      if (not(combat_is_initialized)) then begin
+         if (tile_distance(self_tile,local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
+            self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
+         end
+         else begin
+           self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
+         end
+         add_timer_event(self_obj,random(50,100),3);
+      end
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+       display_msg(mstr(100));
+   else
+       display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+    display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+
+procedure damage_p_proc begin
+   if (cur_town == AREA_PRIMITIVE_TRIBE) then
+      set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+   attack(dude_obj);
+end
+
+procedure destroy_p_proc
+begin
+   inc_good_critter
+   if (cur_town == AREA_PRIMITIVE_TRIBE) then begin
+      set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) - 10);
+      set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+   end
+end
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   SULIK_SIS_obj := self_obj;
+   if (global_var(GVAR_SULIK_SISTER) > 2) then
+      add_timer_event(self_obj,random(20,30),3);
+
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
+
+   if (cur_town == AREA_SLAVER_CAMP) then begin
+      if (local_var(LVAR_Freed)) then begin
+         destroy_object(self_obj);
+      end
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   SULIK_SIS_obj := self_obj;
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       if ( (cur_town == AREA_PRIMITIVE_TRIBE) ) then begin
+          set_global_var(GVAR_ENEMY_PRIMITIVE_TRIBE,1);
+       end
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Herebefore) == 0) then
+      set_local_var(LVAR_Herebefore,1);
+
+    //tmp
+   if (global_var(GVAR_SULIK_SISTER) == 0 ) then
+      set_global_var(GVAR_SULIK_SISTER,1);
+
+   if (combat_is_initialized) then begin
+      floater(820);
+   end else if (has_rep_slaver) then begin
+      call Node013;
+   end else if (global_var(GVAR_SULIK_SISTER) == 1 ) then begin
+      set_global_var(GVAR_SULIK_SISTER,2);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND1);
+      //start_gdialog(NAME,self_obj,4,-1,-1);
+       //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_TENT);
+      //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_WASTELAND);
+      gSay_Start;
+         if (map_var(MVAR_Slaver_Count) == 0) then begin
+            if (Sulik_In_Party) then
+               call Node009;
+            else
+               call Node012;
+         end else if (Sulik_In_Party) then begin
+            call Node001;
+         end else begin
+            call Node007;
+         end
+      gSay_End;
+      end_dialogue;
+   end else if (global_var(GVAR_SULIK_SISTER) == 2 ) then begin
+      if (local_var(LVAR_Wait) == 1) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node014;
+         gSay_End;
+         end_dialogue;
+      end else if (local_var(LVAR_Wait) == 2) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node026;
+         gSay_End;
+         end_dialogue;
+      end else if (local_var(LVAR_Wait) == 3) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node028;
+         gSay_End;
+         end_dialogue;
+      end
+   end else if (global_var(GVAR_SULIK_SISTER) >= 4) then begin
+      if (global_var(GVAR_FIND_SULIK) == 1) then begin
+         if (Sulik_In_Party) then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node023;
+            gSay_End;
+            end_dialogue;
+         end else begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node025;
+            gSay_End;
+            end_dialogue;
+         end
+      end else begin
+         if (Fallout2_enclave_destroyed) then
+            floater(random(2000,2001+Sulik_In_Party));
+         else if (global_var(GVAR_SULIK_DEAD) == 2) then
+            floater(701);
+         else
+            floater(700);
+      end
+   end
+
+end
+
+procedure critter_p_proc begin
+   variable tile;
+
+   if (global_var(GVAR_SULIK_SISTER) == 3) then begin
+      set_global_var(GVAR_SULIK_SISTER,4);
+      add_timer_event(self_obj,5,2);
+   end
+   else if ( ( (REP_ENEMY_PRIMITIVE_TRIBE) or (has_rep_slaver) ) and (self_can_see_dude) and (cur_town == AREA_PRIMITIVE_TRIBE) ) then begin
+       attack(dude_obj);
+   end
+end
+
+procedure combat_p_proc
+begin
+   if ( (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE)==1) and (cur_town == AREA_PRIMITIVE_TRIBE) ) then begin
+      attack(dude_obj);
+   end
+end
+
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+
+end
+
+
+
+//BELOW CODE IS FOR AT SLAVER CAMP
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201,Node002,004);
+   NLowOption(900,Node002);
+end
+
+procedure Node002 begin
+   Reply(202);
+   NOption(203,Node003,001);
+
+   set_global_var(GVAR_FIND_SULIK,2);
+   display_msg(mstr(1000));
+   give_xp(500);
+
+end
+
+procedure Node003 begin
+   Reply(204);
+   if (dude_item_count(PID_KEYS) >= 1) then begin
+      NOption(206,Node004,004);
+      NLowOption(920,Node004);
+   end else begin
+      NOption(205,Node091,004);
+      NLowOption(921,Node091);
+   end
+   NOption(207,Node094,004);
+   NLowOption(922,Node094);
+end
+
+procedure Node005 begin
+   Reply(208);
+   NOption(209,Node090,004);
+   NLowOption(930,Node090);
+   if ( (map_var(MVAR_Slaves_Flee) < 1) and (map_var(MVAR_Slaver_Count) > 0)) then
+      NOption(410,Node090a,004); //edit
+end
+
+procedure Node006 begin
+   Reply(210);
+   NOption(211,Node093,004);
+   NLowOption(940,Node093);
+
+   if ( (Sulik_In_Party) and (map_var(MVAR_Slaver_Count) != 0) ) then begin
+      NOption(212,Node094,004);
+      NLowOption(941,Node094);
+   end
+end
+
+procedure Node004 begin
+   Reply(213);
+   NOption(209,Node090,004);
+   NLowOption(930,Node090);
+
+   if ( (map_var(MVAR_Slaves_Flee) < 1) and (map_var(MVAR_Slaver_Count) > 0)) then
+      NOption(410,Node090a,004); //edit
+end
+procedure Node090 begin
+   add_timer_event(CELLDOOR_obj,1,UNLOCK_DOOR);
+   call Node092;
+end
+
+procedure Node090a begin
+   add_timer_event(CELLDOOR_obj,1,UNLOCK_DOOR);
+   call Node092a;
+end
+
+procedure Node092 begin
+   add_timer_event(CELLDOOR_obj,1,OPEN_DOOR);
+   //obj_open(CELLDOOR_obj); //door unlocked
+   //set_map_var(MVAR_Slaves_Free,1); //slaves rush out.
+   //set_local_var(LVAR_Follow_Dude,1); //sulik siter follows player
+   set_map_var(MVAR_Slaves_Flee,1);
+   set_map_var(MVAR_Attack_Slavers,1);
+   //set_map_var(MVAR_Guide_Sister,1);
+   call Node096;
+
+end
+
+procedure Node092a begin
+   add_timer_event(CELLDOOR_obj,2,OPEN_DOOR);
+   //obj_open(CELLDOOR_obj); //door unlocked
+   //set_map_var(MVAR_Slaves_Free,1); //slaves rush out.
+   set_local_var(LVAR_Wait,2); //sulik sister rush out
+   set_map_var(MVAR_Slaves_Flee,1);
+   set_map_var(MVAR_Attack_Slavers,1);
+end
+
+procedure Node093 begin
+   set_local_var(LVAR_Wait,1);//sulik's sister waits for you to return
+end
+
+procedure Node094 begin
+   if ((is_visible(GUARD_obj))) then
+      attack_setup(Sulik_Ptr,GUARD_obj); //sulik attacks the outside guard.
+   set_map_var(MVAR_Attack_Slavers,1);    //outside hostile
+   set_local_var(LVAR_Wait,3); //sulik sister rush out
+end
+
+procedure Node096 begin
+   if (dude_item_count(PID_KEYS) >= 1) then
+      call Node097;
+   else if (not(is_visible(GUARD_obj))) then
+      call Node097;
+   else if (dude_luck > 7) then
+      call Node097;
+   else if (is_success(roll_vs_skill(dude_obj, SKILL_SNEAK, (-20 + (night*10))))) then
+      call Node097;
+   else
+      call Node098;
+end
+
+procedure Node097 begin
+   set_local_var(LVAR_Freed,1);
+
+   if (obj_is_locked(CELLDOOR_obj)) then
+      obj_unlock(CELLDOOR_obj); //door unlocked
+
+   if (dude_has_car) then
+      game_time_advance(ONE_GAME_DAY);
+   else
+      game_time_advance(ONE_GAME_DAY*3);
+   load_map( MAP_PRIMITIVE_TRIBE1, 900 );
+end
+
+procedure Node098 begin
+   move_to(self_obj, 13860, self_elevation);
+   move_to(dude_obj, 13672, self_elevation);
+   move_to(GUARD_obj, 14672, self_elevation);
+   move_to(DOG_obj, 14473, self_elevation);
+   float_msg(dude_obj, mstr(810), FLOAT_MSG_NORMAL );
+   attack_setup(GUARD_obj,dude_obj);
+   set_local_var(LVAR_Wait,2);
+end
+
+procedure Node014 begin
+   Reply(214);
+   if (dude_item_count(PID_KEYS) >= 1) then begin
+      NOption(216,Node004,004);
+      NLowOption(920,Node004);
+   end else begin
+      NOption(215,Node999,004);
+      NLowOption(923,Node999);
+   end
+
+end
+
+procedure Node007 begin
+   Reply(500);
+   NOption("" + mstr(502) + dude_name + mstr(503),Node008,004);
+   NOption(501,Node008,004);
+
+   NLowOption("" + mstr(951) + dude_name + mstr(952),Node008);
+   NLowOption(950,Node008);
+end
+
+procedure Node008 begin
+   Reply(510);
+   if (dude_item_count(PID_KEYS) >= 1) then begin
+      NOption(511,Node004,004);
+      NLowOption(920,Node004);
+   end else begin
+      NOption(512,Node091,004);
+      NLowOption(921,Node091);
+   end
+
+end
+
+procedure Node009 begin
+   Reply(217);
+   NOption(201,Node010,004);
+   NLowOption(900,Node010);
+end
+
+procedure Node010 begin
+   set_global_var(GVAR_FIND_SULIK,2);
+   display_msg(mstr(1000));
+   give_xp(500);
+
+   Reply(223);
+   NOption(224,Node011,004);
+   NLowOption(910,Node011);
+end
+
+procedure Node011 begin
+   Reply(225);
+   if (dude_item_count(PID_KEYS) >= 1) then begin
+      NOption(226,Node004,004);
+      NLowOption(920,Node004);
+   end else begin
+      NOption(227,Node091,004);
+      NLowOption(921,Node091);
+   end
+end
+
+procedure Node012 begin
+   Reply(218);
+   NOption("" + mstr(502) + dude_name + mstr(503),Node008,004);
+   NOption(501,Node008,004);
+
+   NLowOption("" + mstr(951) + dude_name + mstr(952),Node008);
+   NLowOption(950,Node008);
+end
+
+procedure Node013 begin
+   float_msg(self_obj, mstr(800), FLOAT_MSG_RED );
+end
+
+procedure Node015 begin
+   Reply(530);
+   NOption(531,Node016,004);
+   if (Sulik_In_Party) then
+      NOption(533,Node095,004);
+   else
+      NOption(532,Node095,004);
+end
+
+procedure Node016 begin
+   set_local_var(LVAR_Freed,1);
+
+   if (dude_has_car) then
+      game_time_advance(ONE_GAME_DAY);
+   else
+      game_time_advance(ONE_GAME_DAY*3);
+
+   load_map( MAP_PRIMITIVE_TRIBE1, 900 );
+end
+
+procedure Node017 begin
+   Reply(600);
+   NOption(601,Node018,004);
+   NLowOption(970,Node018);
+end
+
+procedure Node018 begin
+   Reply(602);
+   NOption(603,Node019,004);
+   NLowOption(971,Node019);
+end
+
+procedure Node019 begin
+   if (Sulik_In_Party) then
+      call Node020;
+   else
+      call Node021;
+end
+
+procedure Node020 begin
+   Reply(604);
+   NOption(605,Node0102,004);
+   NLowOption(972,Node0102);
+end
+
+procedure Node021 begin
+   Reply(606);
+   NOption(607,Node022,004);
+   NLowOption(973,Node022);
+end
+
+procedure Node022 begin
+   Reply(608);
+   if (global_var(GVAR_SULIK_DEAD) == 1) then begin
+      NOption(610,Node027,004);
+      NLowOption(975,Node027);
+   end else begin
+      GOption(609,Node0100,004);
+      GLowOption(974,Node0100);
+   end
+end
+
+procedure Node023 begin
+   Reply(650);
+   NOption(651,Node024,001);
+end
+
+procedure Node024 begin
+   Reply(652);
+   NOption(605,Node999,004);
+   NLowOption(972,Node999);
+   set_global_var(GVAR_FIND_SULIK,2);
+   display_msg(mstr(1000));
+   give_xp(500);
+   add_timer_event(Sulik_Ptr,5,2);
+end
+
+procedure Node025 begin
+   Reply(653);
+   NOption(654,Node999,004);
+   NLowOption(976,Node999);
+end
+
+procedure Node026 begin
+   Reply(530);
+
+   if (map_var(MVAR_Slaver_Count) == 0) then begin
+      NOption(531,Node097,004);
+      NOption(532,Node999,004);
+      NLowOption(960,Node097);
+   end else begin
+      NOption(533,Node999,004);
+      NLowOption(961,Node999);
+   end
+end
+
+procedure Node027 begin
+   Reply(611);
+   NOption(150,Node999,001);
+end
+
+procedure Node028 begin
+   Reply(530);
+
+   if (map_var(MVAR_Slaver_Count) == 0) then begin
+      NOption(531,Node011,004);
+      NOption(532,Node999,004);
+      NLowOption(960,Node011);
+   end else begin
+      NOption(533,Node999,004);
+      NLowOption(961,Node999);
+   end
+end
+
+procedure Node099 begin
+   add_timer_event(self_obj,random(20,30),3);
+end
+
+procedure Node0100 begin
+   set_global_var(GVAR_FIND_SULIK,1);
+   call Node099;
+end
+
+procedure Node0101 begin
+   set_global_var(GVAR_SULIK_DEAD,2);
+   call Node099;
+end
+
+procedure Node0102 begin
+   add_timer_event(Sulik_Ptr,5,2);
+   call Node099;
+end
+
+procedure Node095 begin
+   add_timer_event(self_obj,5,1);
+end
+
+procedure Node091 begin
+   variable modifier;
+
+   if (dude_item_count(PID_LOCKPICKS) >= 1) then
+      modifier := 20;
+   if (dude_item_count(PID_EXP_LOCKPICK_SET) >= 1) then
+      modifier := 40;
+
+   if (is_success(roll_vs_skill(dude_obj, SKILL_LOCKPICK, (-40 + modifier)))) then
+      call Node005;
+   else
+      call Node006;
+end

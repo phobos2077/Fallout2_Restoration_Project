@@ -1,0 +1,1060 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac17"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC17          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+#include "../headers/epawrhse.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Warriors_released          (7)
+#define LVAR_Get_Widget                 (8)
+
+procedure start;
+procedure critter_p_proc;
+procedure combat_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure talk_two_p_proc;
+procedure Node001;
+procedure Node002;
+procedure Node002a;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node022a;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node027a;
+procedure Node028;
+procedure Node029;
+procedure Node029a;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node044a;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node001a;
+procedure Node002b;
+procedure Node004a;
+procedure Node017a;
+procedure Node018a;
+procedure Node022b;
+procedure Node032a;
+procedure Node039a;
+procedure Node040a;
+procedure Node046a;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+procedure Node059;
+procedure Node060;
+procedure Node061;
+procedure Node062;
+procedure Node063;
+procedure Node064;
+procedure Node065;
+procedure Node066;
+procedure Node067;
+procedure Node068;
+procedure Node069;
+procedure Node990;
+procedure Node991;
+procedure createExitGrids;
+procedure Node992;
+procedure Node998;
+procedure Node999;
+
+
+
+import variable DOCTOR_obj;
+
+procedure timed_event_p_proc;
+
+procedure start
+begin
+  DOCTOR_obj := self_obj;
+  add_timer_event(self_obj, game_ticks(random(8, 10)), 2);
+end
+
+procedure combat_p_proc
+begin
+   if (global_var(GVAR_LOWER_EPAFIELDS)==0) then begin
+      script_overrides;
+      if (global_var(GVAR_EPADOCTOR_ATTACKED)==1) then begin
+        critter_stop_attacking(self_obj);
+        if (local_var(LVAR_Warriors_released)==0) then begin
+            explosion(16104,0,1);
+            float_msg(self_obj, mstr(109), FLOAT_MSG_LIGHT_GREY);
+            set_local_var(LVAR_Warriors_released,1);
+            terminate_combat;
+         end
+      end
+   end else if (global_var(GVAR_LOWER_EPAFIELDS)==1) then begin
+      if (local_var(LVAR_Warriors_released)==0) then begin
+         explosion(16104,0,1);
+         float_msg(self_obj, mstr(109), FLOAT_MSG_LIGHT_GREY);
+         set_local_var(LVAR_Warriors_released,1);
+         terminate_combat;
+      end
+   end
+
+//if (map_var(MVAR_KILLED_WARRIOR)==0) then begin
+  //  if  (global_var(GVAR_LOWER_EPAFIELDS)!=1) then begin
+  // terminate_combat
+  //  end
+//end
+   if (map_var(MVAR_KILLED_WARRIOR)==3) then begin
+         terminate_combat;
+   end
+end
+
+procedure critter_p_proc
+begin
+     if (global_var(GVAR_LOWER_EPAFIELDS)==1) then begin
+         self_rotate(5);
+         float_msg(self_obj, mstr(603), FLOAT_MSG_RED);
+     end
+end
+
+procedure use_p_proc
+begin
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(106));
+  else
+    display_msg(mstr(107));
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(108));
+end
+
+procedure use_skill_on_p_proc
+begin
+end
+
+procedure use_obj_on_p_proc
+begin
+end
+
+procedure damage_p_proc
+begin
+  set_global_var(GVAR_EPADOCTOR_ATTACKED, 1);
+  float_msg(self_obj, mstr(109), FLOAT_MSG_LIGHT_GREY);
+end
+
+procedure map_enter_p_proc
+begin
+  move_to(self_obj, 19311, 0);
+end
+
+procedure map_update_p_proc
+begin
+end
+
+procedure talk_p_proc begin
+   if (local_var(LVAR_Get_Widget) == 3) then begin
+      floater(random(900,901));
+   end else
+   if ( (map_var(MVAR_KILLED_WARRIOR) == 3) and (global_var(GVAR_FETCH_GECKOPELTS) < 1) ) then begin
+      inc_map_var(MVAR_KILLED_WARRIOR);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+      call Node041;
+
+      gSay_End;
+      end_dialogue;
+   end
+   else begin
+      call talk_two_p_proc;
+   end
+end
+
+procedure talk_two_p_proc
+begin
+  if (local_var(LVAR_Herebefore) == 0) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node001;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 1) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node033;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 2) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node034;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 3) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    if (local_var(LVAR_Get_Widget) == 1) then
+      call Node066;
+    else
+      call Node004;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 4) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node035;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 5) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node036;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 6) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node036;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 7) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node038;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 8) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node041;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 9) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node047;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 10) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node049;
+    gsay_end;
+    end_dialogue;
+  end
+  else if (local_var(LVAR_Herebefore) == 11) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node048;
+    gsay_end;
+    end_dialogue;
+  end
+end
+
+procedure Node001
+begin
+  Reply(120);
+  NOption(mstr(121) + dude_name + mstr(122), Node002, 4);
+  NOption(123, Node001a, 4);
+end
+
+procedure Node002
+begin
+  Reply(130);
+  NOption(131, Node002a, 4);
+  NOption(132, Node002b, 4);
+end
+
+procedure Node002a
+begin
+  if (has_skill(dude_obj, SKILL_SCIENCE) > 70) then
+    call Node003;
+  else
+    call Node004;
+end
+
+procedure Node003
+begin
+  Reply(140);
+  NOption(141, Node005, 4);
+  NOption(142, Node006, 4);
+end
+
+procedure Node004
+begin
+  Reply(150);
+
+   if ((has_skill(dude_obj, SKILL_SPEECH) > 100) or (has_skill(dude_obj, SKILL_SCIENCE) > 100)) then begin
+      NOption(151, Node007, 4);
+      NOption(152, Node004a, 4);
+   end else if ( (has_skill(dude_obj, SKILL_SMALL_GUNS) > 70) or (has_skill(dude_obj, SKILL_SMALL_GUNS) > 70) or (has_skill(dude_obj, SKILL_BIG_GUNS) > 70) or (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) > 70) or (has_skill(dude_obj, SKILL_MELEE) > 70) ) then begin
+      NOption(152, Node062, 4);
+   end else
+      NOption(152, Node004a, 4);
+end
+
+procedure Node005
+begin
+  Reply(160);
+  NOption(161, Node009, 4);
+  NOption(700, Node050, 4);
+end
+
+procedure Node006
+begin
+  Reply(170);
+  NOption(171, Node013, 4);
+  NOption(172, Node014, 4);
+end
+
+procedure Node007
+begin
+  Reply(180);
+  NOption(181, Node008, 4);
+end
+
+procedure Node008
+begin
+  Reply(190);
+  NOption(191, Node005, 4);
+  NOption(192, Node006, 4);
+end
+
+procedure Node009
+begin
+  Reply(200);
+  NOption(201, Node010, 4);
+  NOption(202, Node011, 4);
+  NOption(203, Node012, 4);
+end
+
+procedure Node010
+begin
+  Reply(210);
+  if (has_skill(dude_obj, SKILL_SPEECH) > 90) then
+    NOption(211, Node015, 4);
+  NOption(212, Node016, 4);
+  NOption(213, Node017, 4);
+end
+
+procedure Node011
+begin
+  Reply(220);
+  NOption(221, Node013, 4);
+  NOption(222, Node012, 4);
+end
+
+procedure Node012
+begin
+  Reply(230);
+  NOption(231, Node017, 4);
+end
+
+procedure Node013
+begin
+  Reply(250);
+  NOption(251, Node018, 4);
+  if (dude_iq >= 7) then
+    NOption(252, Node017, 4);
+end
+
+procedure Node014
+begin
+  Reply(240);
+  NOption(241, Node019, 4);
+  NOption(242, Node020, 4);
+  if (party_member_obj(16777376) != 0) then
+    NOption(243, Node026, 4);
+end
+
+procedure Node015
+begin
+  Reply(260);
+  NOption(261, Node021, 4);
+  NOption(262, Node006, 4);
+  NOption(263, Node017, 4);
+end
+
+procedure Node016
+begin
+  Reply(270);
+  NOption(271, Node010, 4);
+  NOption(272, Node011, 4);
+  NOption(273, Node012, 4);
+end
+
+procedure Node017
+begin
+  Reply(280);
+  NOption(281, Node032, 4);
+  NOption(282, Node017a, 4);
+end
+
+procedure Node018
+begin
+  Reply(290);
+  NOption(291, Node022, 4);
+  NOption(292, Node018a, 4);
+end
+
+procedure Node019
+begin
+  Reply(300);
+  NOption(301, Node023, 4);
+  NOption(302, Node024, 4);
+end
+
+procedure Node020
+begin
+  Reply(310);
+  NOption(311, Node019, 4);
+end
+
+procedure Node021
+begin
+  Reply(320);
+  NOption(321, Node025, 4);
+end
+
+procedure Node022
+begin
+  Reply(330);
+  NOption(331, Node022a, 4);
+  NOption(332, Node022b, 4);
+end
+
+procedure Node022a
+begin
+  set_global_var(GVAR_EPADOCTOR_ATTACKED, 1);
+  set_local_var(LVAR_Herebefore, 8);
+  call combat_p_proc;
+end
+
+procedure Node023
+begin
+  Reply(340);
+  NOption(341, Node024, 4);
+end
+
+procedure Node024
+begin
+  Reply(350);
+  NOption(351, Node017, 4);
+end
+
+procedure Node025
+begin
+  Reply(360);
+  NOption(361, Node022a, 4);
+  NOption(362, Node022b, 4);
+end
+
+procedure Node026
+begin
+  Reply(370);
+  NOption(371, Node027, 4);
+end
+
+procedure Node027
+begin
+  Reply(380);
+  NOption(381, Node027a, 4);
+end
+
+procedure Node027a
+begin
+  game_ui_disable;
+  gfade_out(10 * 6);
+  game_ui_enable;
+  gfade_in(10 * 6);
+  game_time_advance(60 * (60 * 10) * 5);
+  call Node028;
+end
+
+procedure Node028
+begin
+  Reply(390);
+  NOption(391, Node029, 4);
+end
+
+procedure Node029
+begin
+  Reply(400);
+  NOption(401, Node029a, 4);
+  //giq_option(4, NAME, 411, Node031, 50);
+end
+
+procedure Node029a
+begin
+  variable weapon;
+  weapon:=create_object(PID_SOLAR_SCORCHER,0,0);
+  add_obj_to_inven(dude_obj,weapon);
+  //move_obj_inven_to_obj(self_obj, dude_obj);
+  call Node030;
+end
+
+procedure Node030
+begin
+  Reply(410);
+  NOption(411, Node031, 4);
+end
+
+procedure Node031
+begin
+  Reply(420);
+  NOption(421, Node032, 4);
+  NOption(422, Node017a, 4);
+end
+
+procedure Node032
+begin
+  Reply(430);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) >= 10) then
+    NOption(432, Node039, 4);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) <= 9) then
+    NOption(431, Node032a, 4);
+end
+
+procedure Node033
+begin
+  Reply(440);
+  NOption(441, Node002, 4);
+end
+
+procedure Node034
+begin
+  Reply(450);
+  NOption(451, Node002a, 4);
+end
+
+procedure Node035
+begin
+  Reply(460);
+  NOption(461, Node031, 4);
+  NOption(462, Node999, 4);
+end
+
+procedure Node036
+begin
+  Reply(470);
+  NOption(471, Node022a, 4);
+  NOption(472, Node037, 4);
+end
+
+procedure Node037
+begin
+  Reply(480);
+  NOption(481, Node014, 4);
+  NOption(482, Node010, 4);
+  NOption(483, Node031, 4);
+  NOption(484, Node012, 4);
+end
+
+procedure Node038
+begin
+  Reply(490);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) >= 10) then
+    NOption(491, Node039, 4);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) <= 9) then
+    NOption(492, Node999, 4);
+end
+
+procedure Node039
+begin
+  variable LVar1 := 0;
+  variable LVar2 := 0;
+
+  Reply(500);
+  NOption(501, Node040, 4);
+  NOption(502, Node039a, 4);
+  set_global_var(GVAR_FETCH_GECKOPELTS, 2);
+  LVar1 := dude_item(PID_GOLDEN_GECKO_PELT);
+  LVar2 := rm_mult_objs_from_inven(dude_obj, LVar1, 10);
+  destroy_object(LVar1);
+end
+
+procedure Node040
+begin
+  Reply(510);
+  if (global_var(GVAR_EPALIGHTING_GEN) != 4) then
+    NOption(511, Node040a, 4);
+  if (global_var(GVAR_EPALIGHTING_GEN) != 4) then
+    NOption(512, Node039a, 4);
+  if (global_var(GVAR_EPALIGHTING_GEN) == 4) then
+    NOption(513, Node042, 4);
+end
+
+procedure Node041
+begin
+  Reply(520);
+  NOption(521, Node017, 4);
+  NOption(522, Node999, 4);
+end
+
+procedure Node042
+begin
+  Reply(531);
+  NOption(532, Node043, 4);
+end
+
+procedure Node043
+begin
+  Reply(540);
+  NOption(541, Node044, 4);
+  NOption(592, Node999, 4);
+end
+
+procedure Node044
+begin
+  Reply(550);
+  NOption(551, Node044a, 4);
+end
+
+procedure Node044a
+begin
+  game_ui_disable;
+  gfade_out(10 * 6);
+  game_ui_enable;
+  gfade_in(10 * 6);
+  game_time_advance(60 * (60 * 10) * 2);
+  set_critter_stat(dude_obj, STAT_ag, 1);
+  call Node045;
+end
+
+procedure Node045
+begin
+  Reply(570);
+  NOption(571, Node046, 4);
+end
+
+procedure Node046
+begin
+  Reply(580);
+  NOption(581, Node046a, 4);
+end
+
+procedure Node047
+begin
+  Reply(590);
+  NOption(591, Node040a, 4);
+  NOption(592, Node999, 4);
+end
+
+procedure Node001a
+begin
+  set_local_var(LVAR_Herebefore, 1);
+end
+
+procedure Node002b
+begin
+  set_local_var(LVAR_Herebefore, 2);
+end
+
+procedure Node004a
+begin
+  set_local_var(LVAR_Herebefore, 3);
+end
+
+procedure Node017a
+begin
+  set_local_var(LVAR_Herebefore, 4);
+end
+
+procedure Node018a
+begin
+  set_local_var(LVAR_Herebefore, 5);
+end
+
+procedure Node022b
+begin
+  set_local_var(LVAR_Herebefore, 6);
+end
+
+procedure Node032a
+begin
+  set_global_var(GVAR_FETCH_GECKOPELTS, 1);
+  set_local_var(LVAR_Herebefore, 7);
+end
+
+procedure Node039a
+begin
+  set_local_var(LVAR_Herebefore, 9);
+end
+
+procedure Node040a
+begin
+  set_local_var(LVAR_Herebefore, 10);
+  set_global_var(GVAR_EPALIGHTING_GEN, 1);
+end
+
+procedure Node046a
+begin
+  set_local_var(LVAR_Herebefore, 11);
+end
+
+procedure Node048
+begin
+  Reply(600);
+  NOption(601, Node999, 4);
+end
+
+procedure Node049
+begin
+  Reply(530);
+  if (global_var(GVAR_EPALIGHTING_GEN) != 4) then
+    NOption(533, Node999, 4);
+  if (global_var(GVAR_EPALIGHTING_GEN) == 4) then
+    NOption(602, Node042, 4);
+end
+
+procedure Node050
+begin
+  Reply(701);
+  NOption(702, Node051, 4);
+end
+
+procedure Node051
+begin
+  Reply(703);
+  NOption(704, Node052, 4);
+end
+
+procedure Node052
+begin
+  Reply(705);
+  NOption(706, Node053, 4);
+end
+
+procedure Node053
+begin
+  Reply(707);
+  NOption(708, Node054, 4);
+  NOption(709, Node055, 4);
+  NOption(710, Node055, 4);
+  NOption(715, Node999, 4);
+end
+
+procedure Node054
+begin
+  Reply(711);
+  NOption(712, Node056, 4);
+  NOption(730, Node009, 4);
+  NOption(729, Node022a, 4);
+  NOption(715, Node999, 4);
+end
+
+procedure Node055
+begin
+  Reply(728);
+  NOption(712, Node056, 4);
+  NOption(729, Node022a, 4);
+  NOption(715, Node999, 4);
+end
+
+procedure Node056
+begin
+  Reply(713);
+  NOption(714, Node057, 4);
+  NOption(729, Node022a, 4);
+  NOption(715, Node999, 4);
+end
+
+procedure Node057
+begin
+  Reply(716);
+  NOption(717, Node058, 4);
+  NOption(715, Node999, 4);
+end
+
+procedure Node058
+begin
+  Reply(718);
+  NOption(720, Node059, 4);
+  NOption(721, Node061, 4);
+  NOption(730, Node009, 4);
+  NOption(719, Node999, 4);
+end
+
+procedure Node059
+begin
+  Reply(722);
+  NOption(723, Node060, 4);
+  NOption(721, Node061, 4);
+  NOption(715, Node999, 4);
+end
+
+procedure Node060
+begin
+  Reply(724);
+  NOption(725, Node061, 4);
+  NOption(730, Node009, 4);
+  NOption(726, Node999, 4);
+end
+
+procedure Node061
+begin
+  Reply(731);
+  NOption(730, Node009, 4);
+  NOption(192, Node006, 4);
+  NOption(201, Node010, 4);
+  NOption(202, Node011, 4);
+  NOption(203, Node012, 4);
+end
+
+procedure Node998
+begin
+  set_local_var(LVAR_Hostile, 2);
+end
+
+procedure Node999
+begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end
+
+procedure timed_event_p_proc
+begin
+  if (fixed_param == 2) then
+  begin
+    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
+    begin
+      float_msg(self_obj, mstr(random(100, 105)), FLOAT_MSG_LIGHT_GREY);
+      add_timer_event(self_obj, game_ticks(random(13, 16)), 2);
+    end
+  end
+end
+
+procedure createExitGrids begin
+   variable grid;
+
+
+   grid:=create_object(83886102,6522,0);
+   grid:=create_object(83886102,6521,0);
+   grid:=create_object(83886102,6520,0);
+   grid:=create_object(83886102,6519,0);
+   grid:=create_object(83886102,6518,0);
+   grid:=create_object(83886102,6517,0);
+   grid:=create_object(83886102,5922,0);
+   grid:=create_object(83886102,5920,0);
+   grid:=create_object(83886102,5918,0);
+   grid:=create_object(83886102,5916,0);
+   grid:=create_object(83886102,5915,0);
+
+   grid:=create_object(83886097,6918,0);
+   grid:=create_object(83886097,6717,0);
+   grid:=create_object(83886097,6316,0);
+   grid:=create_object(83886097,6115,0);
+
+   grid:=create_object(83886103,6315,0);
+   grid:=create_object(83886103,6319,0);
+   grid:=create_object(83886103,6317,0);
+   grid:=create_object(83886103,6321,0);
+   grid:=create_object(83886103,6323,0);
+   grid:=create_object(83886103,5914,0);
+   grid:=create_object(83886103,5915,0);
+   grid:=create_object(83886103,6113,0);
+
+   /*grid:=create_object(83886103,6715,0);
+   grid:=create_object(83886103,6716,0);
+   grid:=create_object(83886103,7319,0);
+   grid:=create_object(83886103,7118,0);
+   grid:=create_object(83886103,6923,0);
+   grid:=create_object(83886103,6722,0);
+   grid:=create_object(83886103,6720,0);
+   grid:=create_object(83886103,6718,0);
+   grid:=create_object(83886103,7323,0);
+   grid:=create_object(83886103,7122,0);
+   grid:=create_object(83886103,7321,0);
+   grid:=create_object(83886103,7120,0);
+   grid:=create_object(83886103,7117,0);
+   grid:=create_object(83886099,7317,0);
+
+   grid:=create_object(83886103,6123,0);
+   grid:=create_object(83886103,6321,0);
+   grid:=create_object(83886103,6119,0);
+   grid:=create_object(83886103,6517,0);
+   grid:=create_object(83886103,6518,0);
+   grid:=create_object(83886103,6515,0);
+   grid:=create_object(83886103,6723,0);
+   grid:=create_object(83886103,6522,0);
+   grid:=create_object(83886103,6721,0);
+   grid:=create_object(83886103,6520,0);
+   grid:=create_object(83886103,6114,0);
+   grid:=create_object(83886103,6116,0);
+   grid:=create_object(83886099,6113,0);*/
+
+   set_local_var(LVAR_Get_Widget,1);
+   set_map_var(MVAR_Maze_Open,1);
+   call Node004a;
+end
+
+procedure Node062 begin
+   if (local_var(LVAR_Get_Widget) == 2) then begin
+      Reply(806);
+      NOption(801,Node063,004);
+      NOption(805,Node992,004);
+   end else begin
+      Reply(800);
+      NOption(801,Node063,004);
+      NOption(802,Node992,004);
+   end
+end
+
+procedure Node063 begin
+   Reply(803);
+   NOption(804,Node065,004);
+   NOption(805,Node064,004);
+end
+
+procedure Node064 begin
+   Reply(820);
+   NOption(821,Node992,004);
+end
+
+procedure Node065 begin
+   set_global_var(GVAR_COLLECT_WIDGET_FOR_EPA_DOCTOR,1);
+   Reply(810);
+   NOption(811,createExitGrids,004);
+end
+
+procedure Node066 begin
+   Reply(830);
+   if (dude_item_count(PID_DRILL) >= 1) then begin
+      NOption(832,Node068,004);
+      NOption(833,Node069,004);
+   end else begin
+      NOption(831,Node067,004);
+   end
+end
+
+procedure Node067 begin
+   Reply(860);
+   NOption(861,Node999,004);
+end
+
+procedure Node068 begin
+   Reply(840);
+   NOption(841,Node990,004);
+end
+
+procedure Node069 begin
+   Reply(850);
+   NOption(851,Node990,004);
+   NOption(852,Node991,004);
+end
+
+procedure Node990 begin
+   //remove widget
+   //give xp
+   //cross out quest
+   set_local_var(LVAR_Get_Widget,3);
+   set_global_var(GVAR_COLLECT_WIDGET_FOR_EPA_DOCTOR,2);
+   display_msg(mstr(1000));
+   give_xp(750);
+end
+
+procedure Node991 begin
+   //remove widget
+   //give xp
+   //cross out quest
+   //attack doctor - add timer for dude to attack doctor.
+   set_global_var(GVAR_COLLECT_WIDGET_FOR_EPA_DOCTOR,2);
+   display_msg(mstr(1000));
+   give_xp(750);
+end
+
+procedure Node992 begin
+   if (local_var(LVAR_Get_Widget) != 2) then begin
+      set_local_var(LVAR_Get_Widget,2);
+      call Node004a;
+   end
+end

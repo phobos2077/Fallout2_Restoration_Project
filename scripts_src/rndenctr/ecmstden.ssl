@@ -1,0 +1,24 @@
+#define SCRIPT_REALNAME "ecmstden"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_THE_DEN)
+
+#include "../headers/random_merchant.h"
+#include "../headers/bhrnddst.h"
+#define CITY_START              (CITY_DEN)
+#define CITY_END                (CITY_NEW_RENO)
+
+#define restock \
+   item:=create_object(PID_SPEAR,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_CLUB,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_JET,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(3,7)); \
+   item:=create_object(PID_ROPE,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,5))
+
+#define custom_destroy_post \
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin \
+      dec_map_var(MVAR_Hostile_Total); \
+   end
+
+#include "../template/random_merchant.ssl"

@@ -1,0 +1,2 @@
+{100}{}{Tu descends dans le sous-marin par une échelle rouillée. L'intérieur est sombre, seulement éclairé par la faible lueur de quelques moniteurs. L'air est vicié, imprégné de rouille et de moisi. Tu te sens mal à l'aise et cloîtré.}
+{101}{}{Tu descends dans le sous-marin par une échelle rouillée. L'intérieur est sombre, seulement éclairé par la faible lueur de quelques moniteurs. L'air est vicié, imprégné de rouille et de moisi. Tu te sens presque comme chez toi.}

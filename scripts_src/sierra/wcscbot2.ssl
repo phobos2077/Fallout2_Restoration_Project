@@ -1,0 +1,3 @@
+#define SCRIPT_REALNAME "wcscbot2"
+#define NAME            SCRIPT_WCSCBOT2
+#include "wcsecbot.ssl"

@@ -1,0 +1,73 @@
+#
+# karmavar.txt
+#
+# Controls display of karmas in character editor.
+#
+# format of each line is:
+#
+#   gvar, pic, name, description
+#
+# where:
+#
+#   gvar is the GVAR_* number for the variable corresponding to the karma.
+#
+#   pic is the number of the skilldex art (line number in art\skilldex\skilldex.lst)
+#
+#   name is the number of the message in editor.msg with the karma name.
+#
+#   description is the number of the message in editor.msg with the karma description.
+#
+
+# GVAR_PLAYER_REPUTATION
+0, 48, 1000, 1100
+
+# GVAR_BERSERKER_REPUTATION
+3, 49, 1001, 1101
+
+# GVAR_CHAMPION_REPUTATION
+2, 51, 1002, 1102
+
+# GVAR_CHILDKILLER_REPUTATION
+1, 50, 1003, 1103
+
+# GVAR_REPUTATION_SLAVER
+11, 148, 1020, 1120
+
+# GVAR_GRAVES_UNEARTHED
+319, 133, 1016, 1116
+
+# GVAR_SEXPERT
+588, 130, 1013, 1113
+
+# GVAR_GIGALO
+589, 132, 1015, 1115
+
+# GVAR_MADE_MAN_SALVATORE
+591, 138, 1017, 1117
+
+# GVAR_PLAYER_MARRIED
+6, 139, 1018, 1118
+
+# GVAR_NEW_RENO_PORN_STAR
+232, 143, 1019, 1119
+
+# GVAR_DUDE_VIRGIN
+590, 151, 1021, 1121
+
+# GVAR_NEW_RENO_HAS_REP_PRIZEFIGHTER
+259, 131, 1014, 1114
+
+# GVAR_MADE_MAN_BISHOP
+592, 138, 1022, 1122
+
+# GVAR_MADE_MAN_MORDINO
+593, 138, 1023, 1123
+
+# GVAR_MADE_MAN_WRIGHT
+594, 138, 1024, 1124
+
+# GVAR_PLAYER_WAS_MARRIED
+449, 174, 1025, 1125
+
+# GVAR_PLAYER_SMOKER
+773, 175, 1026, 1126

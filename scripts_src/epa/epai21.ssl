@@ -1,0 +1,153 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai21"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI21          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure use_p_proc;
+procedure destroy_p_proc;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node999;
+
+procedure start
+begin
+end
+
+procedure map_enter_p_proc begin
+  if not self_obj then return;
+  reg_anim_begin();
+    reg_anim_animate_forever(self_obj, ANIM_stand);
+  reg_anim_end();
+  add_timer_event(self_obj, 1, 1);
+end
+
+procedure map_update_p_proc begin
+  if not self_obj then return;
+  if (combat_is_initialized == 0) then begin
+    reg_anim_begin();
+    reg_anim_animate_forever(self_obj, ANIM_stand);
+    reg_anim_end();
+  end
+end
+
+procedure timed_event_p_proc begin
+  if not self_obj then return;
+  if (fixed_param == 1) then begin
+      if ( (anim_busy(self_obj) == false) and (combat_is_initialized == 0) ) then begin
+         reg_anim_begin();
+         reg_anim_animate_forever(self_obj, ANIM_stand);
+         reg_anim_end();
+      end
+      add_timer_event(self_obj, 1, 1);
+  end
+
+end
+
+procedure description_p_proc begin
+  script_overrides;
+  display_msg(mstr(120));
+end
+
+procedure look_at_p_proc begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(118));
+  else
+    display_msg(mstr(119));
+end
+
+procedure use_p_proc begin
+  if not self_obj then return;
+  if (combat_is_initialized == 0) then begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+      call Node001;
+    gsay_end;
+    end_dialogue;
+  end
+end
+
+procedure destroy_p_proc begin
+end
+
+procedure Node001 begin
+   Reply(100);
+   NOption(101, Node002, 004);
+   NOption(102, Node003, 004);
+   NOption(103, Node004, 004);
+   NOption(104, Node005, 004);
+   NOption(105, Node006, 004);
+   NOption(106, Node007, 004);
+   NOption(107, Node008, 004);
+   NOption(117, Node009, 004);
+end
+
+procedure Node002 begin
+   Reply(108);
+   NOption(115, Node001, 004);
+end
+
+procedure Node003 begin
+  Reply(109);
+  NOption(115, Node001, 004);
+end
+
+procedure Node004 begin
+  Reply(110);
+  NOption(115, Node001, 004);
+end
+
+procedure Node005 begin
+  Reply(111);
+  NOption(115, Node001, 004);
+end
+
+procedure Node006 begin
+  Reply(112);
+  NOption(115, Node001, 004);
+end
+
+procedure Node007 begin
+  Reply(113);
+  NOption(115, Node001, 004);
+end
+
+procedure Node008 begin
+  Reply(114);
+  NOption(115, Node001, 004);
+end
+
+procedure Node009 begin
+  Reply(116);
+  NOption(117, Node999, 004);
+end
+
+procedure Node999 begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end

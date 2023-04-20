@@ -1,0 +1,275 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac5"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC5          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure combat_p_proc;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure Node998;
+procedure Node999;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure talk_two_p_proc;
+
+variable Only_Once := 0;
+
+procedure start
+begin
+  add_timer_event(self_obj, game_ticks(random(5, 8)), 3);
+end
+
+procedure combat_p_proc
+begin
+  script_overrides;
+end
+
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
+       set_local_var(LVAR_Hostile,1);
+       self_attack_dude;
+       //Macro made by Tom to keep the critter fleeing.
+   end
+
+   if (global_var(GVAR_KILL_HOLOGRAMS)==1) then begin
+       destroy_object(self_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (weapon_dmg_type(target_obj) == DMG_emp) then begin
+      script_overrides;
+      critter_damage(self_obj, 99999);
+   end else begin
+      script_overrides;
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   script_overrides;
+end
+
+procedure talk_p_proc
+begin
+  if (global_var(GVAR_MAGNETIC_FIELD) == 0) then
+    float_msg(self_obj, message_str(SCRIPT_EPAC4, random(333, 335)), FLOAT_MSG_YELLOW);
+  else
+    call talk_two_p_proc;
+end
+
+procedure destroy_p_proc
+begin
+  if (source_obj == dude_obj) then
+  begin
+    set_global_var(GVAR_GOOD_MONSTER, global_var(GVAR_GOOD_MONSTER) + 1);
+    if (critter_kill_type(self_obj) == 2) then
+    begin
+      if (source_obj == dude_obj) then
+      begin
+        set_global_var(GVAR_CHAMPION_REPUTATION, 0);
+        set_global_var(GVAR_CHILDKILLER_REPUTATION, global_var(GVAR_CHILDKILLER_REPUTATION) + 1);
+        set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) - -15);
+        set_global_var(GVAR_KARMA_HOLY_WARRIOR, 0);
+        set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES, 0);
+        set_global_var(GVAR_KARMA_SHIELD_OF_HOPE, 0);
+        set_global_var(GVAR_KARMA_DEFENDER, 0);
+        set_global_var(GVAR_KARMA_WANDERER, 0);
+        set_global_var(GVAR_KARMA_BETRAYER, 0);
+        set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR, 0);
+        set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES, 0);
+        set_global_var(GVAR_KARMA_DEMON_SPAWN, 0);
+        if (global_var(GVAR_PLAYER_REPUTATION) >= 1000) then
+          set_global_var(GVAR_KARMA_HOLY_WARRIOR, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) >= 750) then
+          set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) >= 500) then
+          set_global_var(GVAR_KARMA_SHIELD_OF_HOPE, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) >= 250) then
+          set_global_var(GVAR_KARMA_DEFENDER, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) > -250) then
+          set_global_var(GVAR_KARMA_WANDERER, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) > -500) then
+          set_global_var(GVAR_KARMA_BETRAYER, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) > -750) then
+          set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR, 1);
+        else if (global_var(GVAR_PLAYER_REPUTATION) > -1000) then
+          set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES, 1);
+        else
+          set_global_var(GVAR_KARMA_DEMON_SPAWN, 1);
+      end
+    end
+    if (((global_var(GVAR_BAD_MONSTER) + global_var(GVAR_GOOD_MONSTER)) >= 25) and ((global_var(GVAR_BAD_MONSTER) > (3 * global_var(GVAR_GOOD_MONSTER))) or (global_var(GVAR_CHAMPION_REPUTATION) == 1)) and (global_var(GVAR_CHILDKILLER_REPUTATION) == 0)) then
+    begin
+      set_global_var(GVAR_CHAMPION_REPUTATION, 1);
+      set_global_var(GVAR_BERSERKER_REPUTATION, 0);
+    end
+    if (((global_var(GVAR_BAD_MONSTER) + global_var(GVAR_GOOD_MONSTER)) >= 25) and ((global_var(GVAR_GOOD_MONSTER) > (2 * global_var(GVAR_BAD_MONSTER))) or (global_var(GVAR_BERSERKER_REPUTATION) == 1))) then
+    begin
+      set_global_var(GVAR_BERSERKER_REPUTATION, 1);
+      set_global_var(GVAR_CHAMPION_REPUTATION, 0);
+    end
+    set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + -10);
+    ndebug("Player gains " + -10 + " Karma Points.");
+    set_global_var(GVAR_KARMA_HOLY_WARRIOR, 0);
+    set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES, 0);
+    set_global_var(GVAR_KARMA_SHIELD_OF_HOPE, 0);
+    set_global_var(GVAR_KARMA_DEFENDER, 0);
+    set_global_var(GVAR_KARMA_WANDERER, 0);
+    set_global_var(GVAR_KARMA_BETRAYER, 0);
+    set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR, 0);
+    set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES, 0);
+    set_global_var(GVAR_KARMA_DEMON_SPAWN, 0);
+    if (global_var(GVAR_PLAYER_REPUTATION) >= 1000) then
+      set_global_var(GVAR_KARMA_HOLY_WARRIOR, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) >= 750) then
+      set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) >= 500) then
+      set_global_var(GVAR_KARMA_SHIELD_OF_HOPE, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) >= 250) then
+      set_global_var(GVAR_KARMA_DEFENDER, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) > -250) then
+      set_global_var(GVAR_KARMA_WANDERER, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) > -500) then
+      set_global_var(GVAR_KARMA_BETRAYER, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) > -750) then
+      set_global_var(GVAR_KARMA_SWORD_OF_DESPAIR, 1);
+    else if (global_var(GVAR_PLAYER_REPUTATION) > -1000) then
+      set_global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES, 1);
+    else
+      set_global_var(GVAR_KARMA_DEMON_SPAWN, 1);
+  end
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(100));
+  else
+    display_msg(mstr(101));
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(102));
+end
+
+procedure use_skill_on_p_proc
+begin
+end
+
+procedure map_enter_p_proc
+begin
+  Only_Once := 0;
+end
+
+procedure timed_event_p_proc
+begin
+  if ( (fixed_param == 3) and (global_var(GVAR_MAGNETIC_FIELD) == 0) ) then
+  begin
+    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
+    begin
+      float_msg(self_obj, mstr(random(244, 253)), FLOAT_MSG_YELLOW);
+      add_timer_event(self_obj, game_ticks(random(5, 6)), 3);
+    end
+  end
+end
+
+procedure Node998
+begin
+  set_local_var(LVAR_Hostile, 2);
+end
+
+procedure Node999
+begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end
+
+procedure Node001
+begin
+  Reply(200);
+  NOption(201, Node002, 4);
+end
+
+procedure Node002
+begin
+  Reply(210);
+  NOption(211, Node003, 4);
+end
+
+procedure Node003
+begin
+  Reply(220);
+  NOption(221, Node004, 4);
+end
+
+procedure Node004
+begin
+  Reply(230);
+  NOption(231, Node005, 4);
+end
+
+procedure Node005
+begin
+  Reply(240);
+  NOption(241, Node999, 4);
+end
+
+procedure talk_two_p_proc
+begin
+  if ((local_var(LVAR_Herebefore) == 0)) then
+  begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+    call Node001;
+    gsay_end;
+    end_dialogue;
+  end else
+    float_msg(self_obj, mstr(random(242, 243)), FLOAT_MSG_YELLOW);
+end

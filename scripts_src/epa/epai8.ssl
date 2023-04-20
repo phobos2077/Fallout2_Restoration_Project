@@ -1,0 +1,72 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai8"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI8          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure look_at_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+
+procedure start
+begin
+end
+
+procedure use_skill_on_p_proc
+begin
+  script_overrides;
+  if (action_being_used == 12) then
+    display_msg(mstr(103));
+  if (action_being_used == 13) then
+    display_msg(mstr(104));
+end
+
+procedure look_at_p_proc
+begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+procedure use_p_proc
+begin
+  if (local_var(LVAR_Herebefore) == 0) then
+  begin
+    script_overrides;
+    display_msg(mstr(100));
+    set_local_var(LVAR_Herebefore, 1);
+  end
+  else if (local_var(LVAR_Herebefore) == 1) then
+  begin
+    script_overrides;
+    display_msg(mstr(101));
+  end
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end

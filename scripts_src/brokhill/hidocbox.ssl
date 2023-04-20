@@ -1,0 +1,77 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+
+/******************************************************************************************
+        Item: Box For Doc Holliday
+        Location : Broken Hills
+        Description: This box is for Doc Holliday's Goods
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: August 21, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "hidocbox"
+#include "../headers/define.h"
+#include "../headers/broken1.h"
+
+#define NAME                    SCRIPT_HIDOCBOX
+
+#include "../headers/command.h"
+/* Defines and Macros */
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable broken_hills_doc_box;
+
+procedure start begin
+   broken_hills_doc_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   variable book;
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   if( map_first_run ) then begin
+      book := create_object( PID_FIRST_AID_BOOK, 0, 0 );
+      add_obj_to_inven( self_obj, book );
+   end
+
+   broken_hills_doc_box := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_BOTTLE_CAPS, 200, 750, 100)
+         check_restock_item(PID_FIRST_AID_KIT, 0, 1, 25)
+         check_restock_item(PID_HEALING_POWDER, 0, 3, 40)
+         check_restock_item(PID_ROENTGEN_RUM, 1, 3, 80)
+         check_restock_item(PID_STIMPAK, 4, 10, 70)
+         check_restock_item(PID_SUPER_STIMPAK, 0, 3, 50)
+         check_restock_item(PID_RAD_X, 2, 5, 75)
+         check_restock_item(PID_RADAWAY, 3, 4, 65)
+         set_local_var(LVAR_Restock_Time, (3 * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   broken_hills_doc_box := self_obj;
+end

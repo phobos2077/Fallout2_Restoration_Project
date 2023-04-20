@@ -1,0 +1,230 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "abmax"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_ABMAX          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY          //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Flags                      (0)
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure Node001;
+procedure Node002;
+procedure Node002a;
+procedure Node002b;
+procedure Node003;
+procedure Node004;
+
+procedure Node998;
+procedure Node999;
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure critter_p_proc begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      if (global_var(GVAR_TOWN_REP_ABBEY) != -30) then
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   set_self_team(TEAM_ABBEY);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+   end_dialogue;
+end
+
+procedure Node001 begin
+   Reply(200);
+   if ((dude_item_count(PID_MOTIVATOR) and global_var(GVAR_ABBEY_PART) == 1)) then begin
+      NOption(201,Node002,4);
+      NLowOption(600,Node004);
+   end
+
+   NOption(202,Node003,4);
+   NOption(203,Node999,4);
+end
+
+procedure Node002 begin
+   Reply(300);
+   GOption(301,Node002a,4);
+   BOption(302,Node002b,4);
+end
+
+procedure Node002a begin
+variable item;
+   item:=dude_item(PID_MOTIVATOR);
+   rm_obj_from_inven(dude_obj,item);
+   destroy_object(item);
+   display_msg(mstr(500));
+   give_exp_points(100);
+   set_global_var(GVAR_ABBEY_PART,2);
+   inc_global_var_amt(GVAR_TOWN_REP_ABBEY,5);
+   give_pid_qty(dude_obj,86,1)
+   Reply(303);
+   NOption(304,Node999,4);
+end
+
+procedure Node002b begin
+   Reply(305);
+   NOption(306,Node002a,4);
+   BOption(307,Node999,4);
+end
+
+procedure Node003 begin
+   Reply(400);
+   NOption(401,Node999,4);
+end
+
+procedure Node004 begin
+variable item;
+   item:=dude_item(PID_MOTIVATOR);
+   rm_obj_from_inven(dude_obj,item);
+   destroy_object(item);
+   display_msg(mstr(500));
+   give_exp_points(100);
+   set_global_var(GVAR_ABBEY_PART,2);
+   inc_global_var_amt(GVAR_TOWN_REP_ABBEY,5);
+   give_pid_qty(dude_obj,86,1)
+   Reply(610);
+   NOption(611,Node999,1);
+end
+
+procedure Node998 begin
+  set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+end
+
+procedure Node999 begin
+end
+
+procedure destroy_p_proc
+begin
+   inc_good_critter
+end

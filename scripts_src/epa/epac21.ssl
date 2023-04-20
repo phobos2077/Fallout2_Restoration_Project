@@ -1,0 +1,62 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac21"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC21          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Timed_Event                (0)
+#define LVAR_Active                     (1)             // 0 == Active, 1 == Inactive
+#define LVAR_Gave_Exp                   (2)
+#define LVAR_Ammo_Rocket                (3)
+#define LVAR_Ammo_5mm                   (4)
+#define LVAR_Ammo_Shells                (5)
+#define LVAR_Initialized_Ammo           (6)
+#include "../headers/robots.h"
+
+procedure start;
+procedure critter_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+procedure start begin
+  call robot_self_arm;
+  set_self_team(TEAM_EPA_ROBOTS);
+  set_self_ai(AI_SECURITY_BOT);
+end
+
+procedure map_enter_p_proc begin
+end
+
+procedure critter_p_proc begin
+  if (global_var(GVAR_FIX_VOICECOMP) == 5) then destroy_object(self_obj);
+end
+
+procedure use_skill_on_p_proc begin
+  call robot_use_skill;
+end
+
+procedure use_obj_on_p_proc begin
+  call robot_use_obj;
+end
+
+procedure damage_p_proc begin
+  if (local_var(LVAR_Active) == 0) and (source_obj == dude_obj) then attack(dude_obj);
+end
+
+procedure combat_p_proc begin
+  if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
+    script_overrides;
+    ndebug("I am disabled and won't attack!");
+  end
+end

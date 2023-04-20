@@ -1,0 +1,68 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "ncverti"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_NEWRVB
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node999;
+import variable power_armor_1_obj;
+import variable power_armor_2_obj;
+
+procedure start begin
+end
+
+procedure Node999 begin
+
+end
+
+procedure use_p_proc begin
+   if (not(combat_is_initialized) and (power_armor_1_obj != 0) and (power_armor_2_obj != 0)) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node001 begin
+   Reply(400);
+   NOption(403,Node002,004);
+   NOption(404,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(450);
+   NOption(451,Node003,004);
+   NOption(452,Node003,004);
+end
+
+procedure Node003 begin
+   mark_navarro_on_map
+   game_time_advance(30*ONE_GAME_MINUTE);
+   set_global_var(GVAR_CAME_ON_VERTIBIRD,1);
+   load_map(MAP_NAVARRO_ENTRANCE,0);
+end

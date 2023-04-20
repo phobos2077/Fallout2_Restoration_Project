@@ -1,0 +1,591 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+
+
+// Requires: 0 local variables
+
+//#script_type critter
+//  This is to be used as a critter script
+
+//#self_ref
+
+#define SCRIPT_REALNAME "ecdogmet"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ECDOGMET
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure use_obj_on_p_proc;
+procedure push_p_proc;
+procedure combat_p_proc;
+
+procedure Node1000; //Main party member node
+procedure Node1001; // heal yourself
+procedure Node1002; // wait here
+procedure Node1003; // put your weapon away
+procedure Node1004; // follow close
+procedure Node1005; // follow medium
+procedure Node1006; // follow far
+procedure Node1007;
+procedure Node1008;
+procedure Node1009;
+procedure Node1010;
+
+procedure Node1100; // rejoin party
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node010; //added by killap - expansion (dogmeat armor)
+procedure Node011; //added by killap - expansion (dogmeat armor)
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Mel                        (7)
+#define LVAR_Used_Iguana                (8)
+//Stuff for party member crap
+#define LVAR_WAITING                    (9)
+#define LVAR_FOLLOW_DISTANCE            (10)
+#define LVAR_TEAM                       (11)
+
+#define LVAR_Used_Dog_Food              (12) //added by killap - expansion
+
+#define PARTY_NODE_X Node1000
+
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable lastHowelTime;
+variable doWalking;
+variable mel;
+
+procedure combat_p_proc begin
+   if (local_var(LVAR_Mel)) then begin
+      self_attack_dude;
+   end
+end
+
+procedure push_p_proc begin
+end
+
+procedure use_obj_on_p_proc begin
+   //added by killap
+   if ( (obj_pid(obj_being_used_with) == PID_MICRO_FUSION_CELL) or (obj_pid(obj_being_used_with) == PID_SMALL_ENERGY_CELL) ) then begin
+      script_overrides;
+      display_msg(g_mstr(20000));
+   end
+   //end added
+
+   //added by killap - expansion
+   if (obj_pid(obj_being_used_with) == PID_DOG_FOOD) then begin
+      script_overrides;
+      if (Dogmeat_In_Party) then begin
+         script_overrides;
+         critter_heal(self_obj,self_max_hits-self_cur_hits);
+         remove_pid_qty(dude_obj, obj_pid(obj_being_used_with), 1)
+         float_msg(self_obj, mstr(150), FLOAT_MSG_GREEN);
+      end else begin
+         if (combat_is_initialized == false) then begin
+            script_overrides;
+            set_local_var(LVAR_Used_Dog_Food, 1);
+            remove_pid_qty(dude_obj, obj_pid(obj_being_used_with), 1)
+            dialogue_system_enter;
+         end
+      end
+   //end added by killap
+   end else if (obj_pid(obj_being_used_with) == PID_IGUANA_ON_A_STICK or obj_pid(obj_being_used_with) == PID_MEAT_ON_A_STICK) then begin
+      script_overrides;
+      // added check by killap
+      if (Dogmeat_In_Party) then begin
+         script_overrides;
+         remove_pid_qty(dude_obj, obj_pid(obj_being_used_with), 1)
+         float_msg(self_obj, mstr(150), FLOAT_MSG_GREEN);
+      // end added
+      end else begin
+         if (combat_is_initialized == false) then begin
+            script_overrides;
+            ndebug("using iguana on a stick");
+            set_local_var(LVAR_Used_Iguana, 1);
+            remove_pid_qty(dude_obj, obj_pid(obj_being_used_with), 1)
+            dialogue_system_enter;
+         end
+      end
+//      float_msg(self_obj, mstr(136), FLOAT_MSG_GREEN);
+   end
+end
+
+
+procedure start begin
+end
+
+#define TIMER_ATTACK 1
+
+procedure timed_event_p_proc begin
+
+   if (self_visible) then begin
+         if (Dogmeat_In_Party) then begin
+            if ( (Is_Crippled(self_obj)) or (self_rads) or (get_poison(self_obj)) ) then begin
+               floater(random(300,301));
+            end
+         end
+   end
+
+   if (fixed_param == TIMER_ATTACK) then begin
+      self_attack_dude;
+   end
+
+   //added by killap - expansion
+   if (fixed_param == 40893) then begin
+      set_party_waiting;
+      critter_attempt_placement( self_obj, 15698, 0 );
+   end
+   //end added
+
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+
+   party_member_map_enter;
+
+   if (Dogmeat_In_Party) then begin
+      set_self_team(TEAM_PLAYER);
+   end else begin
+      //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+      set_self_team(TEAM_RND_BAR);
+   end
+
+   add_timer_event(self_obj, random(25, 40), 0); //added by killap
+   add_timer_event(self_obj,game_ticks(10),3); //added by killap - RP
+end
+
+procedure map_update_p_proc begin
+   if (combat_is_initialized == false) then begin
+      if (anim_busy(self_obj) == false) then begin
+         if (party_member_obj(self_pid) != 0) then begin
+            if (chem_use_level(self_obj) == 1) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 2) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 30) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 3) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end else if (chem_use_level(self_obj) == 4) then begin
+               if ((100 * self_cur_hits / self_max_hits) <= 50) then begin
+                  global_temp := 1;
+                  obj_heal_no_skill(self_obj)
+               end
+            end
+         end
+      end
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   variable tile;
+   variable flame;
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
+       party_remove_self;
+       set_local_var(LVAR_Hostile,1);
+
+       if (not local_var(LVAR_Mel)) then begin
+         tile := tile_num_in_direction(self_tile, Random(0, 5), 1);
+         mel := create_object_sid(PID_MYST_STRANGER_MALE_21, tile, self_elevation, SCRIPT_ECMEL);
+         set_local_var(LVAR_Mel, mel);
+
+         flame := create_object(PID_HK_G11E, 0, 0);
+         add_obj_to_inven(mel, flame);
+         add_mult_objs_to_inven(mel, create_object(PID_4_7MM_CASELESS, 0, 0), 4);
+         wield_obj_critter(mel, flame);
+
+         set_self_team(TEAM_RND_BAR);
+         set_team(mel,TEAM_RND_BAR);
+
+         //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+         //critter_add_trait(mel,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+
+         float_msg(mel, mstr(137), FLOAT_MSG_RED);
+         add_timer_event(self_obj, game_ticks(3), TIMER_ATTACK);
+       end else begin
+         self_attack_dude;
+       end
+   end
+
+   if (not local_var(LVAR_Hostile)) then begin
+      if (Dogmeat_In_Party) then begin
+         party_member_follow_dude
+      end else if (local_var(LVAR_Used_Iguana)) then begin
+         Follow_Dude(1,3)
+      end else begin
+         if (game_time > doWalking) then begin
+            reg_anim_clear(self_obj);
+            reg_anim_begin();
+            self_walk_to_tile(tile_num_in_direction(dude_obj, Random(0, 5), Random(5, 10)));
+            reg_anim_end();
+            doWalking := game_time + game_ticks(Random(10, 40));
+         end
+      end
+
+      if (party_is_waiting == true) then begin
+         if (self_can_see_dude) then begin
+            if (game_time > lastHowelTime) then begin
+               float_msg(self_obj, mstr(135), FLOAT_MSG_BLUE);
+               lastHowelTime := game_time + game_ticks(Random(30, 90));
+            end
+         end
+      end
+   end
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_local_var(LVAR_Hostile, 2);
+       if (local_var(LVAR_Mel) == 0) then
+         terminate_combat;
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (Dogmeat_In_Party == false) then begin //added by killap
+         set_local_var(LVAR_Hostile,2);
+      end
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   if (local_var(LVAR_Hostile) == 0) then begin
+      if (Dogmeat_In_Party) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node1000;
+         gSay_End;
+         end_dialogue;
+      end else if (party_is_waiting) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node001;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         if ( (local_var(LVAR_Used_Iguana)) or (local_var(LVAR_Used_Dog_Food)) )then begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node002;
+            gSay_End;
+            end_dialogue;
+         end else dude_wearing_vault_suit begin
+            start_gdialog(NAME,self_obj,4,-1,-1);
+            gSay_Start;
+               call Node001;
+            gSay_End;
+            end_dialogue;
+         end else begin
+            call Node003;
+         end
+      end
+   end else begin
+      call Node003;
+   end
+   set_local_var(LVAR_Herebefore, 1);
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+   variable armor;
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+   //added by killap - RP
+   if (self_item_count(PID_K9_KEVLAR_WEARABLE)) then begin
+      rm_obj_from_inven(self_obj, self_armor);
+      destroy_object(self_item(PID_K9_KEVLAR_WEARABLE));
+      armor := create_object(PID_K9_KEVLAR,self_tile+1,self_elevation);
+   end
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+#define my_party_member_options(heal_msg, follow_msg, gear_msg, wait_msg, nowait_msg, end_msg, stupid_msg)  \
+                                             if (party_is_waiting == false) then begin                   \
+                                                if (local_var(LVAR_FOLLOW_DISTANCE) == 0) then begin     \
+                                                   set_follow_medium;                                    \
+                                                end                                                      \
+                                                if (heal_msg != 0) then begin                            \
+                                                   if (self_cur_hits < self_max_hits) then begin         \
+                                                      NOption(heal_msg, DEF_PARTY_HEAL_NODE, 1);       \
+                                                   end                                                   \
+                                                end                                                      \
+                                                if (follow_msg != 0) then begin                          \
+                                                   NOption(follow_msg, DEF_PARTY_FOLLOW_NODE, 1);      \
+                                                end                                                      \
+                                                if (gear_msg != 0) then begin                            \
+                                                   NOption(gear_msg, DEF_PARTY_GEAR_NODE, 1);          \
+                                                end                                                      \
+                                                if (wait_msg != 0) then begin                            \
+                                                   NOption(wait_msg, DEF_PARTY_WAIT_NODE, 1);          \
+                                                end                                                      \
+                                             end else if (nowait_msg != 0) then begin                    \
+                                                NOption(nowait_msg, DEF_PARTY_NOWAIT_NODE, 1);         \
+                                             end                                                         \
+                                             if (end_msg != 0) then begin                                \
+                                                NOption(end_msg, DEF_PARTY_END_NODE, 1);               \
+                                             end                                                         \
+                                             if (stupid_msg != 0) then begin                             \
+                                                NOption(stupid_msg, DEF_PARTY_STUPID_NODE, 1);        \
+                                             end                                                         \
+                                             ndebug("USED MY PARTY MEMBER OPTIONS")
+
+
+
+#define DOGMEAT_OPTIONS_SMART  my_party_member_options(           0,      mstr(139), /*gear*/   0,    mstr(127),      mstr(122),   mstr(128), 0)
+#define DOGMEAT_OPTIONS_STUPID my_party_member_options(           0, /*follow*/   0, /*gear*/   0,    mstr(113),      mstr(111),   mstr(121), 0)
+
+#define DOGMEAT_OPTIONS   if (dude_iq < 4) then begin DOGMEAT_OPTIONS_STUPID; end else begin DOGMEAT_OPTIONS_SMART; end
+
+
+
+#define DOGMEAT_FOLLOW_OPTIONS_SMART  party_follow_options(mstr(124), mstr(125), mstr(126), mstr(128))
+
+procedure NodeJoin begin
+   party_add_self;
+   call Node1000; // edit by killap - was Node999
+end
+
+procedure Node001 begin
+   Reply(103);
+   if (not dude_at_max_party_size) then begin
+      NLowOption(111, NodeJoin);
+      NOption(114, NodeJoin, 4);
+   end else begin
+      NLowOption(112, Node999);
+      NOption(123, Node999, 4);
+   end
+   NLowOption(121, Node999);
+   NOption(128, Node999, 4);
+end
+
+procedure Node002 begin
+   if (local_var(LVAR_Used_Iguana)) then begin
+      Reply(110);
+      set_local_var(LVAR_Used_Iguana, 0);
+   end else begin
+      Reply(1110);
+      set_local_var(LVAR_Used_Dog_Food, 0);
+   end
+
+   if (not dude_at_max_party_size) then begin
+      NLowOption(111, NodeJoin);
+      NOption(114, NodeJoin, 4);
+   end else begin
+      NLowOption(112, Node999);
+      NOption(123, Node999, 4);
+   end
+   NLowOption(121, Node999);
+   NOption(128, Node999, 4);
+end
+
+procedure Node003 begin
+   float_msg(self_obj, mstr(138), FLOAT_MSG_RED);
+   doWalking := game_time;
+end
+
+procedure Node1000 begin //Main node
+   Reply(117);
+
+   //added by killap RP
+   if ((dude_item_count(PID_K9_KEVLAR))) then begin
+      NOption(200, Node010, 4);
+   end else if (self_item_count(PID_K9_KEVLAR_WEARABLE)) then begin
+      NOption(201, Node011, 4);
+   end
+   //end added
+
+   DOGMEAT_OPTIONS
+end
+
+procedure Node1001 begin //heal self dogmeat can't
+end
+
+procedure Node1002 begin //Wait here message
+   set_party_waiting;
+   Reply(135);
+   DOGMEAT_OPTIONS
+end
+
+procedure Node1003 begin //Unarm self
+end
+
+procedure Node1004 begin //Follow Close
+   set_follow_close;
+   call Node1007;
+end
+
+procedure Node1005 begin //Follow Medium
+   set_follow_medium;
+   call Node1007;
+end
+
+procedure Node1006 begin //Follow Far
+   set_follow_far;
+   call Node1007;
+end
+
+procedure Node1007 begin
+   Reply(129);
+   DOGMEAT_FOLLOW_OPTIONS_SMART;
+end
+
+procedure Node1008 begin
+end
+
+procedure Node1009 begin
+end
+
+procedure Node1010 begin
+end
+
+procedure Node1100 begin //Stop waiting
+   end_party_waiting;
+   Reply(117);
+   DOGMEAT_OPTIONS
+end
+
+//added by killap - expansion
+procedure Node010 begin
+   variable armor;
+   gfade_out(ONE_GAME_SECOND*6);
+      armor := create_object(PID_K9_KEVLAR_WEARABLE,0,0);
+      add_obj_to_inven(self_obj,armor);
+      wield_obj_critter(self_obj, armor);
+      metarule3(107, self_obj, FID_MAADOG, 0);
+      destroy_object(dude_item(PID_K9_KEVLAR));
+      float_msg(self_obj, mstr(150), FLOAT_MSG_GREEN);
+   gfade_in(ONE_GAME_SECOND*6);
+end
+
+procedure Node011 begin
+   variable armor;
+   gfade_out(ONE_GAME_SECOND*6);
+      rm_obj_from_inven(self_obj, self_armor);
+      destroy_object(self_item(PID_K9_KEVLAR_WEARABLE));
+      metarule3(107, self_obj, FID_MADDOG, 0);
+      armor := create_object(PID_K9_KEVLAR,0,0);
+      add_obj_to_inven(dude_obj,armor);
+   gfade_in(ONE_GAME_SECOND*6);
+end
+//end added

@@ -1,0 +1,82 @@
+/*     Script from map templete       */
+/*
+        Name: Nazwa
+        Location: Polozenie
+        Description: Opis
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "sfsub"
+#include "../headers/define.h"
+//#include "../headers/nazwamapy.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_SFSUB
+
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
+#include "../headers/sfsub.h"
+
+export variable subTech3_ptr;
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+      display_msg(mstr(100));
+
+      if (global_var(GVAR_LOAD_MAP_INDEX) == 901) then begin
+         set_san_fran_flag(SF_SHI_ENEMY);
+         set_map_var(MVAR_Attack_Player,1);
+      end
+
+      if (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_HAS_PASSWORD) then begin
+         set_sub_flag(SHI_SUB_ALONE);
+         set_map_var(MVAR_Torpedo_Permission,1);
+      end else begin
+         display_msg(mstr(101));
+      end
+      give_xp(500);
+
+   end
+   set_light_level(60);
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+procedure map_update_p_proc begin
+   variable explosives;
+   if( dude_elevation == 0) then begin
+      set_light_level(60);
+   end else begin
+      if (tile_in_tile_rect(25907, 27884, 28717, 31895, dude_tile)) then begin
+         //if (tile_contains_obj_pid(self_tile, dude_elevation, PID_ACTIVE_DYNAMITE)) then
+         //if (tile_contains_obj_pid(self_tile, dude_elevation, PID_ACTIVE_PLASTIC_EXPLOSIVE)) then
+         //if (obj_on_screen(self_obj)) then begin
+            //PID_ACTIVE_DYNAMITE
+            //PID_ACTIVE_PLASTIC_EXPLOSIVE
+         //end
+      end
+      set_light_level(55);
+   end
+end
+
+procedure map_exit_p_proc begin
+   if (map_var(MVAR_Explosive_Timer) == 1) then begin
+      display_msg(mstr(102));
+      set_sub_flag(SHI_SUB_DISABLED);
+   end
+end

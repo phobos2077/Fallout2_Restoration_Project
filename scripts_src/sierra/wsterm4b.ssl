@@ -1,0 +1,375 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+#define SCRIPT_REALNAME "wsterm4b"
+#include "../headers/define.h"
+#include "../sfall/lib.arrays.h"
+
+#define NAME                    SCRIPT_WSTERM4B
+
+#include "../headers/command.h"
+
+#define LOW_DAMAGE              (20)
+#define HIGH_DAMAGE             (30)
+
+// Need to get these added in when get commands
+
+#define In_Room(who)            (tile_in_tile_rect(16525,16312,18325,18113,tile_num(who)))
+
+#define Room_Species            (1)
+
+procedure start;
+procedure use_p_proc;
+procedure talk_p_proc;
+procedure look_p_proc;
+procedure description_p_proc;
+
+procedure Node001;
+procedure Node010;
+procedure Node010a;
+procedure Node010b;
+procedure Node010c;
+procedure Node010d;
+procedure Node010e;
+procedure Node011;
+procedure Node011a;
+procedure Node011b;
+procedure Node012;
+procedure Node013;
+procedure Node013a;
+procedure Node013b;
+procedure Node013c;
+procedure Node013d;
+procedure Node013e;
+procedure Node013f;
+procedure Node013g;
+procedure Node014;
+
+procedure Node999;
+
+procedure use_skill_on_p_proc;
+
+#define LVAR_Organ                      (0) // Only used for text output. The machine is hardwired to extract brains only, see Sierra Experiment Log.
+#define LVAR_Species                    (1)
+#define LVAR_Gave_Xp                    (2)
+
+#define Organ_Brain                     (0)
+#define Organ_Heart                     (1)
+#define Organ_Kidney                    (2)
+#define Organ_Liver                     (3)
+#define Organ_Lung                      (4)
+#define Organ_Appendix                  (5)
+#define Organ_Colon                     (6)
+
+#define Species_Human                   (0)
+#define Species_Canine                  (1)
+#define Species_Feline                  (2)
+#define Species_Road_Runner             (3)
+#define Species_Rodent                  (4)
+#define Species_Mutant                  (5)
+#define Species_Deathclaw               (6)
+
+variable kill_player := 0;
+variable species := 0;
+
+procedure start begin
+end
+
+procedure look_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+//added by killap
+// Allows Myron or some other science geek to use the
+// terminal -- useful if the player wants to suicide.
+procedure use_skill_on_p_proc begin
+   script_overrides;
+   if (action_being_used == SKILL_SCIENCE) then call use_p_proc;
+end
+//end added
+
+procedure use_p_proc begin
+   variable Damage;
+
+   if (get_iq(source_obj) < 4) then begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(102));
+       end
+       else begin
+           display_msg(obj_name(source_obj) + mstr(200));
+       end
+   end
+   else begin
+       dialogue_system_enter;
+   end
+end
+
+procedure talk_p_proc begin
+   start_gdialog(NAME,self_obj,4,-1,-1);
+   gSay_Start;
+       call Node001;
+   gSay_End;
+   end_dialogue;
+
+   //added by killap - expansion
+   if (kill_player == 1) then begin
+      kill_player := 0;
+      critter_damage(dude_obj,10000);
+   end
+   //end added
+
+end
+
+procedure Node001 begin
+   Reply(103);
+
+   NOption(104,Node010,004);
+   NOption(105,Node013,004);
+   NOption(106,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(mstr(108) + mstr(109) + mstr(110) + mstr(111) + mstr(112) + mstr(113));
+
+   NOption(114,Node010a,004);
+   NOption(115,Node010b,004);
+   NOption(116,Node010c,004);
+   NOption(117,Node010d,004);
+   NOption(118,Node010e,004);
+   NOption(119,Node011,004);
+   NOption(120,Node999,004);
+end
+
+procedure Node010a begin
+   species := Species_Canine;
+   call Node012;
+end
+
+procedure Node010b begin
+   species := Species_Feline;
+   call Node012;
+end
+
+procedure Node010c begin
+   species := Species_Road_Runner;
+   call Node012;
+end
+
+procedure Node010d begin
+   species := Species_Rodent;
+   call Node012;
+end
+
+procedure Node010e begin
+   species := Species_Human;
+   call Node012;
+end
+
+procedure Node011 begin
+   Reply(121);
+
+   NOption(122,Node011a,004);
+   NOption(123,Node011b,004);
+end
+
+procedure Node011a begin
+   species := Species_Mutant;
+   call Node012;
+end
+
+procedure Node011b begin
+   species := Species_Deathclaw;
+   call Node012;
+end
+
+procedure Node012 begin
+   Reply(mstr(125) + mstr(126) + mstr(170 + species) + mstr(127) + mstr(180 + local_var(LVAR_Organ)));
+
+   NOption(128,Node010,004);
+   NOption(129,Node013,004);
+   NOption(130,Node014,004);
+   NOption(131,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(mstr(132)+mstr(133)+mstr(134)+mstr(135)+mstr(136)+mstr(137)+mstr(138)+mstr(139));
+
+   NOption(140,Node013a,004);
+   NOption(141,Node013b,004);
+   NOption(142,Node013c,004);
+   NOption(143,Node013d,004);
+   NOption(144,Node013e,004);
+   NOption(145,Node013f,004);
+   NOption(146,Node013g,004);
+   NOption(147,Node999,004);
+end
+
+
+procedure Node013a begin
+   set_local_var(LVAR_Organ,Organ_Heart);
+   call Node012;
+end
+
+procedure Node013b begin
+   set_local_var(LVAR_Organ,Organ_Brain);
+   call Node012;
+end
+
+procedure Node013c begin
+   set_local_var(LVAR_Organ,Organ_Kidney);
+   call Node012;
+end
+
+procedure Node013d begin
+   set_local_var(LVAR_Organ,Organ_Liver);
+   call Node012;
+end
+
+procedure Node013e begin
+   set_local_var(LVAR_Organ,Organ_Lung);
+   call Node012;
+end
+
+procedure Node013f begin
+   set_local_var(LVAR_Organ,Organ_Appendix);
+   call Node012;
+end
+
+procedure Node013g begin
+   set_local_var(LVAR_Organ,Organ_Colon);
+   call Node012;
+end
+
+procedure get_critters_in_room begin
+   variable who;
+   variable critters;
+   critters := create_array(0,0);
+   foreach who in list_as_array(LIST_CRITTERS) begin
+      if In_Room(who) and not is_critter_dead(who) then call array_push(critters, who);
+   end
+   return critters;
+end
+
+procedure filter_critters(variable critters) begin
+   variable who, filtered;
+   filtered := create_array(0,0);
+   foreach who in critters begin
+      ndebug("species=" + species + ", critter_kill_type="+critter_kill_type(who));
+      if (species == Species_Human) and is_human(who) then begin
+         call array_push(filtered, who);
+      end
+      if (species == Species_Canine) and (critter_kill_type(who) == KILL_TYPE_dog_kills) then begin
+         call array_push(filtered, who);
+      end
+      // no felines/road runners in the game
+      // rats are rodents
+      if (species == Species_Rodent) and (critter_kill_type(who) == KILL_TYPE_rat_kills) then begin
+         call array_push(filtered, who);
+      end
+      // technically, most creature types encountered in the game are mutants. But we probably don't need them all.
+      if (species == Species_Mutant)
+         and ( (critter_kill_type(who) == KILL_TYPE_super_mutant_kills)
+            or (critter_kill_type(who) == KILL_TYPE_ghoul_kills) )
+      then begin
+         call array_push(filtered, who);
+      end
+      if (species == Species_Deathclaw) and (critter_kill_type(who) == KILL_TYPE_deathclaw_kills) then begin
+         call array_push(filtered, who);
+      end
+   end
+   return filtered;
+end
+
+procedure karma_penalty(variable victims) begin
+   // gives penalty for anything but Sierra defence system bots
+   variable who, num := 0;
+   foreach who in victims begin
+      variable pid := obj_pid(who);
+      // I'm not sure how exactly do you lure the bots into the room and the initiate dialog, but whatever
+      if pid != PID_EYEBALL and pid != PID_MISSILE_BOT and pid != PID_TOUGH_MISSILE_BOT then begin
+         num += 1;
+      end
+   end
+   inc_general_rep(REP_BONUS_EXTRACTING_ORGANS * num);
+end
+
+procedure give_brains(variable pid, variable num) begin
+   variable b, n := 0;
+   if pid != 0 then begin
+      while n < num do begin
+         b := create_object(pid, 16515, self_elevation); // some magic tile?
+         n++;
+      end
+   end
+end
+
+procedure Node014 begin
+   variable brain_pid := 0;
+   variable i;
+   variable victims, v, matched_victims;
+   victims := get_critters_in_room;
+
+   // have we got any matches?
+   matched_victims := filter_critters(victims); //filters using species
+   if len_array(matched_victims) > 0 then begin
+      foreach v in matched_victims begin
+         ndebug("matched: " + obj_name(v));
+      end
+      switch species begin
+         case Species_Human:
+            brain_pid := PID_HUMAN_BRAIN;
+         case Species_Canine:
+            brain_pid := PID_ABNORMAL_BRAIN;
+         case Species_Mutant:
+            brain_pid := PID_ABNORMAL_BRAIN; // I think so
+         case Species_Deathclaw:
+            brain_pid := PID_ABNORMAL_BRAIN;
+         // feline is not not present in game, rodents shouldn't yield brains anyway.
+      end
+   end
+
+   // kill them all. Don't care in party or not, or what species.
+   foreach v in victims begin
+      ndebug("victim: " + obj_name(v));
+      critter_damage(v,10000);
+   end
+
+   call karma_penalty(victims);
+
+   // Kill player if player is in extraction room
+   // how do you trigger extraction from inside the room??
+   if (In_Room(dude_obj)) then begin
+      kill_player := 1;
+      while (dude_iq > 1) do begin
+         set_critter_stat(dude_obj,STAT_iq,-1);
+      end
+   end
+
+   // xp once for any victim
+   if ( (local_var(LVAR_Gave_Xp) == 0) and (len_array(victims) > 0) ) then begin
+      give_xp(EXP_EXTRACT_ORGAN);
+      set_local_var(LVAR_Gave_Xp,1);
+   end
+
+   // no one in the chamber
+   if (len_array(victims) == 0) then
+      Reply(148); // donor not present
+   else if (len_array(matched_victims) == 0) then
+      Reply(149); // extraction failed
+   else begin
+      call give_brains(brain_pid, len_array(matched_victims));
+      Reply(mstr(151) + mstr(152));
+   end
+
+   NOption(153, Node999, 004);
+end
+
+procedure Node999 begin
+end

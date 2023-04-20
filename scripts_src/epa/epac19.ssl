@@ -1,0 +1,120 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac19"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC19          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure combat_p_proc;
+procedure timed_event_p_proc;
+procedure critter_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+variable starttile := 0;
+
+import variable critter_obj;
+import variable DOCTOR_obj;
+
+procedure use_obj_on_p_proc;
+
+procedure start begin
+  critter_obj := self_obj;
+end
+
+procedure map_update_p_proc begin
+  critter_obj := self_obj;
+end
+
+procedure combat_p_proc
+begin
+  if (self_visible) then
+  begin
+    if (obj_can_see_obj(self_obj, DOCTOR_obj)) then
+      attack(DOCTOR_obj);
+    else if (tile_distance_objs(self_obj, DOCTOR_obj) > 12) then
+    begin
+      if (tile_distance_objs(self_obj, dude_obj) > (12 * 2)) then
+        self_run_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
+      else
+        self_walk_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
+    end
+  end
+end
+
+procedure timed_event_p_proc
+begin
+  if (fixed_param == 1) then
+  begin
+    if (self_visible) then
+    begin
+      if (obj_can_see_obj(self_obj, DOCTOR_obj)) then
+        attack(DOCTOR_obj);
+      else if (tile_distance_objs(self_obj, DOCTOR_obj) > 12) then
+      begin
+        if (tile_distance_objs(self_obj, DOCTOR_obj) > (12 * 2)) then
+          self_run_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
+        else
+          self_walk_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
+      end
+    end
+  end
+end
+
+procedure critter_p_proc
+begin
+  if (global_var(GVAR_LOWER_EPAFIELDS) == 1) then
+  begin
+    self_walk_to_tile(18507);
+    add_timer_event(self_obj, game_ticks(10), 1);
+  end
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure look_at_p_proc
+begin
+end
+
+procedure description_p_proc
+begin
+end
+
+procedure use_skill_on_p_proc
+begin
+end
+
+procedure damage_p_proc
+begin
+end
+
+procedure map_enter_p_proc begin
+  critter_obj := self_obj;
+  starttile := self_tile;
+  reg_anim_clear( self_obj);
+  reg_anim_begin();
+  self_rotate(random(0, 5));
+  reg_anim_end();
+end
+
+procedure use_obj_on_p_proc begin
+end

@@ -1,0 +1,98 @@
+/*        Script from item templete*          /
+
+/*
+        Name: epai35
+        Location: EPA
+        Description: Museum computer
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epai35"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAI35
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure description_p_proc;
+procedure look_at_p_proc;
+
+procedure Node999;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+
+procedure start begin
+end
+
+
+procedure description_p_proc
+begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure look_at_p_proc
+begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_p_proc
+begin
+   if (combat_is_initialized == 0) then begin
+      start_gdialog(NAME, self_obj, 4, -1, -1);
+      gsay_start;
+         call Node001;
+      gsay_end;
+      end_dialogue;
+   end
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node001 begin
+   Reply(200);
+   NOption(201, Node002, 004);
+   NOption(202, Node999, 004);
+end
+
+procedure Node002 begin
+   Reply(210);
+   NOption(211, Node003, 004);
+end
+
+procedure Node003 begin
+   Reply(220);
+   NOption(221, Node004, 004);
+end
+
+procedure Node004 begin
+   Reply(230);
+   NOption(231, Node005, 004);
+end
+
+procedure Node005 begin
+   Reply(240);
+   NOption(241, Node006, 004);
+end
+
+procedure Node006 begin
+   Reply(250);
+   NOption(251, Node999, 004);
+end

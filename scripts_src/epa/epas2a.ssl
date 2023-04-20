@@ -1,0 +1,85 @@
+/*
+	Script from spatial templete.
+*/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "epas2a"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_EPAS2A
+#include "../headers/epamain.h"
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure spatial_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure doPain;
+
+variable worn;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start
+begin
+end
+
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc
+begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+
+/**************************************************************************************
+   This procedure gets called when player is near.
+**************************************************************************************/
+procedure spatial_p_proc begin
+   if can_be_gas_poisoned(source_obj) then call doPain;
+end
+
+procedure doPain begin
+   if (map_var(MVAR_Cleaned_Fan) == 0) then begin
+      poison(source_obj, 100);
+   end else if (map_var(MVAR_Cleaned_Fan) == 1) then begin
+      poison(source_obj, 50);
+   end
+end

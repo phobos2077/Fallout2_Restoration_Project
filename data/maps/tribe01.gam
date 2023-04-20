@@ -1,0 +1,14 @@
+//      *** Created by Fallout Script Editor. ***
+
+// Map vars for tribe01.map Map.
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+// All Map Vars need to start w/ MVAR_
+
+MVAR_Made_Car                           :=0;    //      (0)
+MVAR_Saw_Body                           :=0;    //      (1)
+MVAR_Restock_Time                       :=0;    //      (2)
+MVAR_Restock_Time_Fix                   :=0;    //      (3)

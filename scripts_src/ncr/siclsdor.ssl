@@ -1,0 +1,11 @@
+/* Include Files */
+#define SCRIPT_REALNAME "siclsdor"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_INACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_WOOD
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_CLOSE
+
+#include "../headers/doors.h"

@@ -1,0 +1,133 @@
+#define SCRIPT_REALNAME "denres1"
+#include "../headers/define.h"
+#include "../headers/denres1.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_DENRES1
+
+#include "../headers/command.h"
+#include "../headers/den.h"
+
+procedure start;
+
+#define place_on_inn(the_tile, the_elev, the_rot)                                \
+         override_map_start_hex(the_tile, the_elev, the_rot);                    \
+         set_map_start((the_tile % 200), (the_tile / 200), the_elev, the_rot)
+
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure map_exit_p_proc;
+
+export variable squatter_object;
+
+export variable church_door_obj;
+export variable gang_1_member_1;
+export variable gang_1_member_2;
+export variable gang_1_member_3;
+export variable gang_1_member_4;
+export variable gang_1_member_5;
+export variable gang_2_member_1;
+export variable gang_2_member_2;
+export variable gang_2_member_3;
+export variable gang_2_member_4;
+export variable gang_2_member_5;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   variable Critter;
+   variable item;
+
+   if (map_first_run) then
+      display_msg(mstr(100));
+
+   //hide squatters if you told them to leave
+   if ( (dude_elevation == 0) and (map_var(MVAR_Squater_Count) == 0) ) then begin
+      set_obj_visibility( squatter_object, true );
+   end
+
+   if ( (global_var(GVAR_DEN_ORPHANAGE) == 6) and (game_time - (global_var(GVAR_DEN_ORPHANAGE_BUILD_TIME)) >= (ONE_GAME_DAY * 2)) ) then begin
+      if (map_var(MVAR_Squater_Count) == 0) then begin
+         //do nothing
+      end else begin
+         Critter:=create_object_sid(PID_STRONG_PEASANT_MALE,14518,1,SCRIPT_DCADDCT2);
+         Critter:=create_object_sid(PID_AVERAGE_PEASANT_MALE,16531,1,SCRIPT_DCADDCT2);
+         Critter:=create_object_sid(PID_WEAK_PEASANT_MALE,16124,1,SCRIPT_DCADDCT2);
+         Critter:=create_object_sid(PID_WEAK_PEASANT_FEMALE,15946,1,SCRIPT_DCADDCT2);
+         Critter:=create_object_sid(PID_LOSER_MALE,15536,1,SCRIPT_DCADDCT2);
+      end
+
+      set_global_var(GVAR_DEN_ORPHANAGE,7);
+
+   end
+
+   //gang war extension
+   if (gangwar(state_gangwar_in_fight)) then begin
+      if (global_var(GVAR_LOAD_MAP_INDEX) == 555) then begin
+         move_to(dude_obj, 19697, (global_var(GVAR_DEN_ORPHANAGE) == 7));
+
+         if (lara_dead == false) then begin
+              Critter:=create_object_sid(PID_TOUGH_GUARD_FEMALE,19501,dude_elevation,SCRIPT_DCLARA);
+              set_team(Critter,TEAM_PLAYER);
+              item:=create_object(PID_10MM_PISTOL,0,0);
+              add_obj_to_inven(Critter,item);
+              wield_obj_critter(Critter,item);
+              item:=create_object(PID_10MM_AP,0,0);
+              add_obj_to_inven(Critter,item);
+         end
+         if (gang_2_member_2_killed == false) then begin
+               Critter:=create_object_sid(PID_GUN_GUARD_MALE,19301,dude_elevation,SCRIPT_DCG2GRD);
+               set_team(Critter,TEAM_PLAYER);
+               item:=create_object(PID_10MM_PISTOL,0,0);
+               add_obj_to_inven(Critter,item);
+               wield_obj_critter(Critter,item);
+               item:=create_object(PID_10MM_JHP,0,0);
+               add_obj_to_inven(Critter,item);
+         end
+         if (gang_2_member_3_killed == false) then begin
+               Critter:=create_object_sid(PID_MELEE_GUARD_MALE,19303,dude_elevation,SCRIPT_DCG2GRD);
+               set_team(Critter,TEAM_PLAYER);
+               item:=create_object(PID_SLEDGEHAMMER,0,0);
+               add_obj_to_inven(Critter,item);
+               wield_obj_critter(Critter,item);
+               item:=create_object(PID_KNIFE,0,0);
+               add_obj_to_inven(Critter,item);
+         end
+         if (gang_2_member_4_killed == false) then begin
+               Critter:=create_object_sid(PID_AGILE_GUARD_FEMALE,19504,dude_elevation,SCRIPT_DCG2GRD);
+               set_team(Critter,TEAM_PLAYER);
+               item:=create_object(PID_SPEAR,0,0);
+               add_obj_to_inven(Critter,item);
+               wield_obj_critter(Critter,item);
+               item:=create_object(PID_KNIFE,0,0);
+               add_obj_to_inven(Critter,item);
+         end
+      end
+   end
+   //end gang war extension
+
+   if not(gangwar(state_gangwar_in_fight)) then begin
+      if (global_var(GVAR_LOAD_MAP_INDEX) != 555) then begin
+         place_on_inn(11308, (global_var(GVAR_DEN_ORPHANAGE) == 7), 2);
+      end
+   end
+
+   Lighting;
+      set_global_var(GVAR_LOAD_MAP_INDEX,0);
+end
+
+
+
+procedure map_update_p_proc begin
+   Lighting;
+end
+
+procedure map_exit_p_proc begin
+
+   if (at_party_fight and gangwar(state_gangwar_2won)) then begin
+      clear_at_party_fight;
+      set_returned_to_church;
+   end
+
+end

@@ -1,0 +1,182 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Metal Door
+        Locked:  Yes
+        Trapped: No
+        Close:   No
+        Description: Slave doors in NCR entrance
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Using template
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "sislvdor"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_SISLVDOR
+#include "../headers/command.h"
+
+#include "../headers/ncr.h"
+#include "../headers/ncrent.h"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+#define NUM_OF_PENS                     (13)
+
+procedure destroy_p_proc;
+
+#define custom_use_obj_on_p_proc
+#define custom_map_enter_p_proc
+#define custom_use_skill_on_p_proc
+#include "../headers/doors.h"
+
+/* Slave doors */
+   /* group 1*/
+import variable slvdor_g1d1;
+import variable slvdor_g1d2;
+import variable slvdor_g1d3;
+import variable slvdor_g1d4;
+   /* group 2 */
+import variable slvdor_g2d1;
+import variable slvdor_g2d2;
+import variable slvdor_g2d3;
+   /* group 3 */
+import variable slvdor_g3d1;
+import variable slvdor_g3d2;
+import variable slvdor_g3d3;
+   /* group 4 */
+import variable slvdor_g4d1;
+import variable slvdor_g4d2;
+import variable slvdor_g4d3;
+/* end slave doors */
+
+/**********************************************************************************
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+
+   if (Skill_Used == SKILL_LOCKPICK) then begin
+      script_overrides;
+      display_msg(mstr(212));
+   end                                                          // End of Skill_Lockpick
+
+   else if (Skill_Used == SKILL_TRAPS) then begin
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+           call Skill_Disarm_Traps;
+       end
+       else begin
+           script_overrides;
+           if (source_obj == dude_obj) then begin
+               display_msg(door_mstr(195));
+           end
+
+           else begin
+               display_msg(obj_name(source_obj)+door_mstr(200));
+           end
+       end
+   end                                                          // End of Skill_Traps
+
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+   if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
+       script_overrides;
+       call Set_Trap;
+   end else if (Tool == PID_CROWBAR) then begin
+      script_overrides;
+      display_msg(mstr(213));
+   end else begin
+      script_overrides;
+      display_msg(mstr(212));
+   end
+end
+
+//added by killap
+procedure destroy_p_proc begin
+   inc_map_var(MVAR_Pens_Destroyed);
+   if (map_var(MVAR_Pens_Destroyed) == NUM_OF_PENS) then begin
+      ncr_set_global_state(NCR_SLAVES_FREE);
+      set_map_var(MVAR_NCR_ENT_SLAVES_FREED, 1);
+      set_map_var(MVAR_Slavers_Attack, 1);
+   end
+end
+//end added
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+/* Set up the door state when the player first enters the map */
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+   end
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_lock(self_obj);
+   end
+
+   else begin
+       obj_unlock(self_obj);
+   end
+   if (self_tile == SLVDORG1D1) then
+      set_slave_door(g1d1);
+   else if (self_tile == SLVDORG1D2) then
+      set_slave_door(g1d2);
+   else if (self_tile == SLVDORG1D3) then
+      set_slave_door(g1d3);
+   else if (self_tile == SLVDORG1D4) then
+      set_slave_door(g1d4);
+   else if (self_tile == SLVDORG2D1) then
+      set_slave_door(g2d1);
+   else if (self_tile == SLVDORG2D2) then
+      set_slave_door(g2d2);
+   else if (self_tile == SLVDORG2D3) then
+      set_slave_door(g2d3);
+   else if (self_tile == SLVDORG3D1) then
+      set_slave_door(g3d1);
+   else if (self_tile == SLVDORG3D2) then
+      set_slave_door(g3d2);
+   else if (self_tile == SLVDORG3D3) then
+      set_slave_door(g3d3);
+   else if (self_tile == SLVDORG4D1) then
+      set_slave_door(g4d1);
+   else if (self_tile == SLVDORG4D2) then
+      set_slave_door(g4d2);
+   else if (self_tile == SLVDORG4D3) then
+      set_slave_door(g4d3);
+end
+

@@ -1,0 +1,4 @@
+1:Mein Geist berührt dich erneut aus dem Nichts.
+2:Auserwähltes Wesen, unsere Ernte ist schlecht, unsere Reserven sind fast erschöpft.
+3:Komm mit dem GECK zu uns zurück!
+4:Dein Scheitern ist unser Untergang.

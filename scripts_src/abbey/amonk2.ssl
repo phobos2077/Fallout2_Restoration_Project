@@ -1,0 +1,119 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "amonk2"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_AMONK2          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Flags                      (0)
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_stolen_before              (7)
+
+procedure start;
+procedure timed_event_p_proc;
+procedure talk_p_proc;
+procedure map_enter_p_proc;
+procedure destroy_p_proc;
+procedure pickup_p_proc;
+
+procedure Node001;
+procedure push_p_proc;
+
+procedure start
+begin
+end
+
+procedure critter_p_proc begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
+      attack(dude_obj);
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      if (global_var(GVAR_TOWN_REP_ABBEY) != -30) then
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   end
+end
+
+procedure destroy_p_proc
+begin
+ inc_good_critter
+end
+
+procedure timed_event_p_proc
+begin
+ if (fixed_param == 2) then begin
+  if ((anim_busy(self_obj) == false) and (not(combat_is_initialized))) then begin
+    self_walk_to_tile(tile_num_in_direction(self_tile, random(0,5), random(2, 4)));
+  end
+  add_timer_event(self_obj,game_ticks(random(20,40)),2);
+ end
+
+ if (fixed_param == 1) and
+    (not combat_is_initialized) and
+    (self_can_see_dude) and
+    (self_distance_from_dude <= 4) then begin
+  call Node001;
+  add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+ end
+end
+
+procedure talk_p_proc
+begin
+ call Node001;
+end
+
+procedure map_enter_p_proc
+begin
+ add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+ add_timer_event(self_obj,game_ticks(random(3,5)),2);
+end
+
+procedure pickup_p_proc
+begin
+ if (source_obj == dude_obj) then begin
+  if (local_var(LVAR_stolen_before) == 1) then begin
+   set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   attack(dude_obj);
+  end else begin
+   float_msg(self_obj, mstr(500), FLOAT_MSG_RED);
+   set_local_var(LVAR_stolen_before, 1);
+  end
+ end
+end
+
+procedure Node001
+begin
+ floater_rand(200, 205);
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (self_is_male) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (self_is_male) then
+      display_msg(mstr(102));
+   else
+      display_msg(mstr(103));
+end
+
+procedure push_p_proc begin
+end

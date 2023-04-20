@@ -1,0 +1,669 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "rclou"
+#include "../headers/define.h"
+#include "../headers/reddown.h"
+
+#define NAME                    SCRIPT_RCLOU
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+// Begin Seraph's Code - expansion
+
+procedure Node030;
+procedure Node031;
+
+// End Seraph's Code
+
+procedure Node003a;
+procedure Node004a;
+procedure Node020a;
+procedure Node020b;
+procedure Node022a;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Looked_Before              (7)
+#define LVAR_Seen_Strange               (8)
+#define LVAR_Said_1                     (9)
+#define LVAR_Said_18                    (10)
+#define LVAR_Said_21                    (11)
+#define LVAR_Fannie_Money_Rant          (12) //added by killap
+#define LVAR_Fannie_Dead_Rant           (13) //added by killap
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   set_self_team(TEAM_MALAMUTE_SALOON);
+   set_self_ai(AI_TOUGH_CITIZEN);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
+       attack(dude_obj);
+   end
+
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_TOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION1;
+
+   CheckKarma;
+
+   GetReaction;
+
+   if (party_size_strange > 0) then begin
+       call Node005;
+   end
+
+   else if ( (local_var(LVAR_Fannie_Dead_Rant) == 0) and (map_var(MVAR_Fannie_Mae) == FANNIE_DEAD) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node025;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else if ( (local_var(LVAR_Fannie_Money_Rant) == 0) and (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) ) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node026;
+       gSay_End;
+       end_dialogue;
+   end
+
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+   set_global_var(GVAR_ENEMY_REDDING,1);
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Looked_Before) == 0) then begin
+       display_msg(mstr(100));
+       set_local_var(LVAR_Looked_Before,1);
+   end
+   else
+       display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+
+   if ((global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_KILLED) or (map_var(MVAR_Fannie_Mae) == FANNIE_CURED_LOU)) then
+       Reply(103+(1000*local_var(LVAR_Said_1)== 0));
+   else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_JAILED) then
+       Reply(104+(1000*local_var(LVAR_Said_1)== 0));
+   else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_LET_GO) then
+       Reply(105+(1000*local_var(LVAR_Said_1)== 0));
+   else if (map_var(MVAR_Fannie_Mae) == FANNIE_DEAD) then
+       Reply(106+(1000*local_var(LVAR_Said_1)== 0));
+   else if (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) then
+       Reply(107+(1000*local_var(LVAR_Said_1)== 0));
+   else if (local_var(LVAR_Said_1)== 0) then begin
+       Reply(108);
+   end
+   else
+       Reply(109);
+
+   set_local_var(LVAR_Said_1,1);
+
+   NLowOption(110,Node002);
+   NOption(111,Node020,004);
+   if (not(dude_found_geck)) then
+       NOption(112,Node006,004);
+   NOption(113,Node007,004);
+   NOption(114,Node010,004);
+   NOption(115,Node011,006);
+   if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_CUT) then
+       NOption(116,Node014,004);
+
+   // Begin Seraph's Code - expansion
+   if ( (not(fannie_cured)) and (dude_item_count(PID_JET_ANTIDOTE)) and (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) ) then
+      GOption(310,Node030,004);
+   // End Seraph's Code
+
+   NOption(301,Node999,004); //added by killap
+end
+
+procedure Node002 begin
+   Reply(117);
+
+   NLowOption(118,Node003); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+   NLowOption(119,Node004); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+   NLowOption(120,Node999); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
+end
+
+procedure Node003 begin
+   Reply(121);
+
+   if (dude_caps > 24) then
+       NLowOption(122,Node003a);
+   NLowOption(123,Node004);
+   NLowOption(124,Node999);
+end
+
+procedure Node003a begin
+   variable money;
+   variable item;
+
+   money:=23+random(1,6)+random(1,6);
+
+   dude_caps_adjust(-money);
+   self_caps_adjust(money/2);
+
+   item:=create_object(PID_BEER,0,0);
+   add_mult_objs_to_inven(dude_obj,item,1);
+end
+
+procedure Node004 begin
+   Reply(125);
+
+   if (dude_caps >= 49) then
+       NLowOption(126,Node004a);
+   NLowOption(127,Node003);
+   NLowOption(128,Node999);
+end
+
+procedure Node004a begin
+   variable money;
+   variable healing;
+
+   money:=46 + random(1,6) + random(1,6) + random(1,6) + random(1,6);
+   dude_caps_adjust(-money);
+   self_caps_adjust(money/2);
+
+   healing:=4*get_critter_stat(dude_obj,STAT_heal_rate);
+   critter_heal(dude_obj,healing);
+   game_time_advance(8*ONE_GAME_HOUR);
+   //added by killap
+   gfade_out(600);
+   move_to(dude_obj,12901,self_elevation);
+   gfade_in(600);
+   //added by killap
+end
+
+procedure Node005 begin
+   if (local_var(LVAR_Seen_Strange) == 0) then begin
+       inc_local_var(LVAR_Seen_Strange);
+       floater(129);
+   end
+   else if (local_var(LVAR_Seen_Strange) == 1) then begin
+       inc_local_var(LVAR_Seen_Strange);
+       floater(130);
+   end
+   else
+       floater(131);
+
+end
+
+procedure Node006 begin
+   Reply(132);
+
+   NOption(133,Node001,004);
+   NOption(134,Node999,004);
+end
+
+procedure Node007 begin
+   Reply(135);
+
+   NOption(136,Node008,004);
+   NOption(137,Node009,004);
+   NOption(138,Node001,004);
+end
+
+procedure Node008 begin
+   Reply(139);
+
+   NOption(140,Node009,004);
+   NOption(141,Node001,004);
+end
+
+procedure Node009 begin
+   Reply(142);
+
+   NOption(143,Node008,004);
+   NOption(144,Node001,004);
+end
+
+procedure Node010 begin
+   Reply(145);
+
+   NOption(146,Node001,004);
+   NOption(147,Node999,004);
+end
+
+procedure Node011 begin
+   mark_san_francisco_on_map // Seraph's Code
+
+   Reply(148);
+
+   NOption(149,Node012,004);
+   NOption(150,Node001,004);
+   NOption(151,Node999,004);
+end
+
+procedure Node012 begin
+   Reply(152);
+
+   NOption(153,Node013,004);
+   NOption(154,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(155);
+
+   NOption(156,Node001,004);
+   NOption(157,Node999,004);
+end
+
+procedure Node014 begin
+   Reply(158);
+
+   NOption(159,Node015,004);
+   NOption(160,Node016,004);
+   NOption(161,Node017,004);
+   BOption(162,Node001,004);
+end
+
+procedure Node015 begin
+   Reply(163);
+
+   NOption(164,Node016,004);
+   NOption(165,Node017,004);
+   NOption(166,Node001,004);
+   GOption(167,Node019,004);
+end
+
+procedure Node016 begin
+   Reply(168);
+
+   NOption(169,Node015,004);
+   NOption(170,Node017,004);
+   if (local_var(LVAR_Said_18) == 0) then
+       NOption(171,Node018,004);
+   NOption(172,Node001,004);
+   GOption(173,Node019,004);
+end
+
+procedure Node017 begin
+   Reply(174);
+
+   NOption(175,Node016,004);
+   NOption(176,Node015,004);
+   NOption(177,Node001,004);
+   GOption(178,Node019,004);
+end
+
+procedure Node018 begin
+   set_local_var(LVAR_Said_18,1);
+
+   Reply(179);
+
+   NOption(180,Node015,004);
+   NOption(181,Node017,004);
+   NOption(182,Node001,004);
+   GOption(183,Node019,004);
+end
+
+procedure Node019 begin
+   Reply(184);
+
+   NOption(185,Node001,004);
+   NOption(186,Node999,004);
+end
+
+procedure Node020 begin
+   Reply(187);
+
+   NOption(188,Node022,004);
+   NOption(189,Node020a,004);
+   NOption(190,Node020b,004);
+   NOption(191,Node001,004);
+end
+
+procedure Node020a begin
+   if (dude_is_male) then
+       call Node023;
+   else
+       call Node024;
+end
+
+procedure Node020b begin
+   gdialog_mod_barter(0);
+   call Node021;
+end
+
+procedure Node021 begin
+   if (local_var(LVAR_Said_21) == 0) then begin
+       set_local_var(LVAR_Said_21,1);
+       Reply(192);
+   end
+   else
+       Reply(193);
+
+   NOption(194,Node001,004);
+   NOption(195,Node020b,004);
+   NOption(196,Node999,004);
+end
+
+procedure Node022 begin
+   Reply(197);
+
+   if (dude_caps > 39) then begin
+       NOption(198,Node022a,004);
+       NOption(199,Node001,004);
+   end
+   else
+       NOption(200,Node001,004);
+end
+
+procedure Node022a begin
+   variable healing;
+
+   dude_caps_adjust(-40);
+   self_caps_adjust(20);
+
+   healing:=4*get_critter_stat(dude_obj,STAT_heal_rate);
+   critter_heal(dude_obj,healing);
+
+   game_time_advance(8*ONE_GAME_HOUR);
+   //added by killap
+   gfade_out(600);
+   move_to(dude_obj,12901,self_elevation);
+   gfade_in(600);
+   //added by killap
+end
+
+procedure Node023 begin
+   if (map_var(MVAR_Fannie_Mae) == FANNIE_CUSTOMER) then
+       Reply(201);
+   else if (map_var(MVAR_Fannie_Mae) == FANNIE_DEAD) then
+       Reply(202);
+   else
+       Reply(203);
+
+   if (map_var(MVAR_Fannie_Mae) != FANNIE_DEAD) then
+       NOption(204,Node999,004);
+   else
+       BOption(205,Node999,004);
+end
+
+procedure Node024 begin
+   if (map_var(MVAR_Fannie_Mae) == FANNIE_CUSTOMER) then
+       Reply(206);
+   else if (map_var(MVAR_Fannie_Mae) == FANNIE_DEAD) then
+       Reply(207);
+   else
+       Reply(208);
+
+   if (map_var(MVAR_Fannie_Mae) != FANNIE_DEAD) then
+       NOption(209,Node999,004);
+   else
+       BOption(210,Node999,004);
+end
+
+procedure Node025 begin
+   set_local_var(LVAR_Fannie_Dead_Rant,1); // added by killap
+   Reply(211);
+
+   NOption(212,Node001,004);
+   BOption(213,Node999,004);
+   BOption(214,Node999,004);
+end
+
+procedure Node026 begin
+   set_local_var(LVAR_Fannie_Money_Rant,1); // added by killap
+   Reply(215);
+
+   NOption(216,Node027,004);
+   NOption(217,Node028,004);
+   BOption(218,Node001,004);
+end
+
+procedure Node027 begin
+   Reply(219);
+
+// Begin Seraph's Code - expansion
+   if (dude_item_count(PID_JET_ANTIDOTE)) then
+      GOption(229,Node030,004);
+// End Seraph's Code
+
+   BOption(220,Node029,004);
+   BOption(221,Node999,004);
+end
+
+procedure Node028 begin
+   Reply(222);
+
+   NOption(223,Node029,004);
+   NOption(224,Node999,004);
+end
+
+procedure Node029 begin
+   Reply(225);
+
+   BOption(226,Node001,004);
+   BOption(227,Node001,004);
+   NOption(228,Node999,004);
+end
+
+// Begin Seraph's Code - expansion
+procedure Node030 begin
+   Reply(230);
+
+   NOption(231,Node031,004);
+end
+
+procedure Node031 begin
+   variable item; //added by killap
+
+   set_fannie(FANNIE_CURED_LOU);
+   item:=dude_item(PID_JET_ANTIDOTE); //added by killap
+   rm_obj_from_inven(dude_obj,dude_item(PID_JET_ANTIDOTE));
+   destroy_object(item); //added by killap
+   display_msg(mstr(300));
+   set_rehab_time
+   ndebug("REHAB_TIME = " + map_var(MVAR_Rehab_Time));
+
+   Reply(232);
+
+   NOption(233,Node020,004);
+   NOption(112,Node006,004);
+   NOption(234,Node007,004);
+   NOption(134,Node999,004);
+end
+
+// End Seraph's Code
+
+
+
+//xxxxxxxxxxxxxxxxxxxx

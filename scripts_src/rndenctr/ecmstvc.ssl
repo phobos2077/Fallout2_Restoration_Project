@@ -1,0 +1,20 @@
+#define SCRIPT_REALNAME "ecmstvc"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
+
+#include "../headers/random_merchant.h"
+#define CITY_START              (CITY_VAULT_CITY)
+#define CITY_END                (CITY_DEN)
+
+#define restock \
+   item:=create_object(PID_STIMPAK,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_FIRST_AID_KIT,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_DOCTORS_BAG,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_ANTIDOTE,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4)); \
+   item:=create_object(PID_RADAWAY,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,4))
+
+#include "../template/random_merchant.ssl"

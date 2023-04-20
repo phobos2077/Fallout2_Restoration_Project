@@ -1,0 +1,132 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: NO
+        Trapped: NO
+        Closing: YES
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "aitemdor"
+#include "../headers/arcaves.h"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_INACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
+
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#define Lock_Bonus                      (-90)
+
+/* Max and Min damage for the trap */
+#define DOOR_STRENGTH                   (3)
+#define Crowbar_Strain                  (3)
+
+#define LVAR_Used_Key                   (7)
+
+#define custom_use_obj_on_p_proc
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
+#include "../headers/doors.h"
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+   Tool:=obj_pid(obj_being_used_with);
+   pry_trap_block
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
+       std_lockpick_inner_block
+       else if (Tool == PID_TEMPLE_KEY) then begin
+           script_overrides;
+           display_msg(mstr(400));
+           set_local_var(LVAR_Locked,STATE_INACTIVE);
+           obj_unlock(self_obj);
+           set_local_var(LVAR_Used_Key,1);
+       end
+   end
+   elec_lockpick_outer_block
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+/* Set up the door state when the player first enters the map */
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+   end
+
+   if ((self_tile == 13528) and (map_var(MVAR_Passed_Fighting) != Fighting_Finished) and (local_var(LVAR_Used_Key) == 0)) then begin
+       set_local_var(LVAR_Locked,STATE_ACTIVE);
+   end
+
+   if ( (local_var(LVAR_Locked) == STATE_ACTIVE) and (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE) ) then begin //edit by killap - added (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE)
+       obj_lock(self_obj);
+   end else begin
+       obj_unlock(self_obj);
+       set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
+   end
+end
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time. It is used to make
+   sure that the door does not lock on it's own and that the player will be able to get
+   through once he has unlocked the door. Once more, this is so that locking and
+   unlocking do not need to be done in Mapper.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+
+//   Entrance_Door_Ptr:=self_obj;
+
+   ndebug("tile_num == "+self_tile+", MVAR_Passed_Fighting == "+map_var(MVAR_Passed_Fighting)+", LVAR_Used_Key == "+local_var(LVAR_Used_Key));
+
+   if (map_var(MVAR_Passed_Fighting) == Fighting_Started) then begin
+       set_local_var(LVAR_Locked,STATE_ACTIVE);
+   end
+
+   else begin
+
+       if ((self_tile == 13528) and (map_var(MVAR_Passed_Fighting) != Fighting_Finished) and (local_var(LVAR_Used_Key) == 0)) then begin
+           set_local_var(LVAR_Locked,STATE_ACTIVE);
+       end
+
+       else if ((self_tile == 13528) and (map_var(MVAR_Passed_Fighting) == Fighting_Finished) and (global_var(GVAR_DUMAR_STATUS) == 0)) then begin
+           obj_unlock(self_obj); //added by killap
+           set_local_var(LVAR_Locked,STATE_INACTIVE);
+       end
+   end
+
+   if ( (local_var(LVAR_Locked) == STATE_ACTIVE) and (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE) ) then begin //edit by killap - added (global_var(GVAR_START_ARROYO_TRIAL) <= TRIAL_NONE)
+       obj_lock(self_obj);
+   end else begin
+       obj_unlock(self_obj);
+       set_local_var(LVAR_Locked,STATE_INACTIVE); //added by killap
+   end
+end

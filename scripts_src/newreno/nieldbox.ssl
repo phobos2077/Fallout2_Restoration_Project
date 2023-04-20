@@ -1,0 +1,91 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Eldridge Store Box
+        Location : New Reno
+        Description: This box is for Eldridge's Goods
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "nieldbox"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_NIELDBOX
+
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+/* Defines and Macros */
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable new_reno_eldridge_box;
+
+procedure start begin
+   new_reno_eldridge_box := self_obj;
+end
+
+procedure map_enter_p_proc begin
+   //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   new_reno_eldridge_box := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_SPRINGER_RIFLE, 1, 2, 100)
+         check_restock_item(PID_44_MAGNUM_REVOLVER, 1, 1, 100)
+         check_restock_item(PID_10MM_PISTOL, 1, 2, 100)
+         check_restock_item(PID_10MM_SMG, 1, 2, 80)
+         check_restock_item(PID_DESERT_EAGLE, 1, 2, 80)
+         check_restock_item(PID_FN_FAL, 1, 2, 80)
+         check_restock_item(PID_HUNTING_RIFLE, 1, 2, 80)
+         check_restock_item(PID_SHOTGUN, 1, 2, 25)
+         check_restock_item(PID_GREASE_GUN, 1, 1, 25)
+         check_restock_item(PID_14MM_PISTOL, 1, 2, 25)
+         check_restock_item(PID_MOLOTOV_COCKTAIL, 1, 3, 50)
+         check_restock_item(PID_FRAG_GRENADE, 1, 3, 75)
+         check_restock_item(PID_10MM_JHP, 1, 5, 100)
+         check_restock_item(PID_10MM_AP, 1, 3, 100)
+         check_restock_item(PID_44_MAGNUM_JHP, 1, 3, 100)
+         check_restock_item(PID_44_FMJ_MAGNUM, 1, 3, 100)
+         check_restock_item(PID_45_CALIBER_AMMO, 1, 5, 100)
+         check_restock_item(PID_223_FMJ, 1, 5, 75)
+         check_restock_item(PID_14MM_AP, 1, 3, 100)
+         check_restock_item(PID_SHOTGUN_SHELLS, 1, 5, 100)
+         check_restock_item(PID_DYNAMITE, 1, 1, 50)
+         check_restock_item(PID_PLASTIC_EXPLOSIVES, 1,1 , 50)
+         check_restock_item(PID_GUNS_AND_BULLETS, 1, 1, 25)
+         check_restock_item(PID_LEATHER_JACKET, 1, 3, 100)
+         check_restock_item(PID_LEATHER_ARMOR, 1, 2, 75)
+         check_restock_item(PID_METAL_ARMOR, 1, 1, 50)
+         check_restock_item(PID_TOMMY_GUN, 2, 2, 100)
+         check_restock_item(PID_LEATHER_ARMOR_MK_II, 1, 2, 75)
+         check_restock_item(PID_METAL_ARMOR_MK_II, 1, 1, 50)
+         set_local_var(LVAR_Restock_Time, (random(1,3) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   new_reno_eldridge_box := self_obj;
+end

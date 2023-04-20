@@ -1,0 +1,19 @@
+#define SCRIPT_REALNAME "gl_k_easter"
+#include "../headers/define.h"
+
+procedure start;
+
+procedure start begin
+   if (is_loading_game) then return;
+	if (game_loaded) then begin
+      set_global_script_repeat(60);
+      set_global_script_type(2);
+   end else begin
+      if (in_world_map) then begin
+         if ( (global_var(GVAR_FALLOUT_2) == 8) and (global_var(GVAR_EASTER_EGG_ENCOUNTER) == 0) ) then begin
+            set_global_var(GVAR_EASTER_EGG_ENCOUNTER,1);
+            force_encounter(166);
+         end
+      end
+   end
+end

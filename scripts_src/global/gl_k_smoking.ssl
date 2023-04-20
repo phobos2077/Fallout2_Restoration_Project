@@ -1,0 +1,26 @@
+#define SCRIPT_REALNAME "gl_k_smoking"
+#include "../headers/define.h"
+#include "../headers/rpu.h"
+#include "../sfall/define_extra.h"
+
+procedure start;
+
+variable enabled;
+
+procedure smoking begin
+  if enabled then begin
+    ndebug("smoking enabled");
+  end else begin // probably would be cleaner to do this other way around, but oh well
+    set_proto_data(PID_CIGARETTE, PROTO_IT_FLAGS, 0); // can't be bothered with bwors
+    ndebug("smoking disabled");
+  end
+end
+
+procedure start begin
+  if game_loaded then enabled := rpu_msetting(set_smoking);
+  call smoking;
+end
+
+procedure map_enter_p_proc begin
+  call smoking;
+end

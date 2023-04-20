@@ -1,0 +1,989 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "nctray"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCTRAY
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/newreno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (4)
+#define LVAR_Sex_T_Ray                 (5)
+#define LVAR_Restock_Time              (6)  // Seraph's Code - expansion
+#define LVAR_Restock_Time_Fix          (7) // added by killap - expansion
+
+#define gave_car_exp_bit               bit_10
+#define bishop_batteries_bit           bit_11
+#define know_t_ray_bit                 bit_12
+// #define corvega_bishop_bit             bit_13
+#define node_12_bit                    bit_14
+#define banged_t_ray_recent_bit        bit_15
+
+#define gave_car_exp                   lvar_bit(LVAR_Flags, gave_car_exp_bit)
+/*#define set_gave_car_exp               if (gave_car_exp == false) then begin                                                             \
+                                          display_mstr(1000);                                                                            \
+                                          give_xp(EXP_NEW_RENO_RECOVER_CAR);                                                             \
+                                          if (((46 <= prev_node) and (prev_node <= 53)) and (dude_family != family_bishop)) then begin   \
+                                             display_mstr(1001);                                                                         \
+                                             inc_reno_rep(REP_NEW_RENO_NON_VIOLENT_CAR_RECOVER);                                         \
+                                             give_xp(EXP_NEW_RENO_RECOVER_CAR_BISHOP_BONUS);                                             \
+                                          end                                                                                            \
+                                       end                                                                                               \
+                                       set_lvar_bit_on(LVAR_Flags, gave_car_exp_bit)*/
+
+
+#define set_gave_car_exp               if (gave_car_exp == false) then begin                                                            \
+                                          display_mstr(1000);                                                                              \
+                                          inc_reno_rep(REP_NEW_RENO_NON_VIOLENT_CAR_RECOVER);                                           \
+                                          give_xp(EXP_NEW_RENO_RECOVER_CAR);                                                            \
+                                          if (((46 <= prev_node) and (prev_node <= 53)) and (dude_family != family_bishop)) then begin  \
+                                             display_mstr(1001);                                                                        \
+                                             give_xp(EXP_NEW_RENO_RECOVER_CAR_BISHOP_BONUS);                                            \
+                                          end                                                                                           \
+                                       end                                                                                              \
+                                       set_lvar_bit_on(LVAR_Flags, gave_car_exp_bit)
+
+#define bishop_batteries               lvar_bit(LVAR_Flags, bishop_batteries_bit)
+#define set_bishop_batteries           if (bishop_batteries == false) then begin                \
+                                          display_mstr(1002);                                   \
+                                          give_xp(EXP_NEW_RENO_BISHOP_BATTERIES_BONUS);         \
+                                       end                                                      \
+                                       set_lvar_bit_on(LVAR_Flags, bishop_batteries_bit)
+#define know_t_ray                     lvar_bit(LVAR_Flags, know_t_ray_bit)
+#define set_know_t_ray                 set_lvar_bit_on(LVAR_Flags, know_t_ray_bit)
+
+// #define corvega_bishop                 lvar_bit(LVAR_Flags, corvega_bishop_bit)
+// #define set_corvega_bishop             set_lvar_bit_on(LVAR_Flags, corvega_bishop_bit)
+
+#define banged_t_ray_recent            lvar_bit(LVAR_Flags, banged_t_ray_recent_bit)
+#define set_banged_t_ray_recent        set_lvar_bit_on(LVAR_Flags, banged_t_ray_recent_bit)
+#define off_banged_t_ray_recent        set_lvar_bit_off(LVAR_Flags, banged_t_ray_recent_bit)
+
+// #define corvega_bishop                 lvar_bit(LVAR_Flags, corvega_bishop_bit)
+// #define set_corvega_bishop             set_lvar_bit_on(LVAR_Flags, corvega_bishop_bit)
+
+#define node_12                        lvar_bit(LVAR_Flags, node_12_bit)
+#define set_node_12                    set_lvar_bit_on(LVAR_Flags, node_12_bit)
+
+#define banged_t_ray                   (local_var(LVAR_Sex_T_Ray) > 0)
+#define max_t_ray_sex                  (50)
+#define t_ray_max_fucked               (local_var(LVAR_Sex_T_Ray) >= max_t_ray_sex)
+#define have_sex_with_t_ray(x)         gfade_out(ONE_GAME_MINUTE);                                 \
+                                          set_banged_t_ray_recent;                                 \
+                                          do_default_sex;                                          \
+                                          inc_local_var_amt(LVAR_Sex_T_Ray, dude_sex_rating);      \
+                                          if (t_ray_max_fucked) then begin                         \
+                                             nr_add_timer_event(self_obj, 5, explode_self_param);  \
+                                          end else begin                                           \
+                                             call x;                                               \
+                                          end                                                      \
+                                       gfade_in(ONE_GAME_MINUTE)
+
+#define t_ray_has_no_batteries         ((self_item_count(PID_SMALL_ENERGY_CELL) <= 0) and (self_item_count(PID_MICRO_FUSION_CELL) <= 0))
+#define give_dude_all_t_ray_batteries  transfer_all_pid_between_objs(self_obj, dude_obj, PID_SMALL_ENERGY_CELL)   \
+                                       transfer_all_pid_between_objs(self_obj, dude_obj, PID_MICRO_FUSION_CELL)
+#define give_t_ray_caps(x)             dude_caps_adjust(-x);  \
+                                       self_caps_adjust(x)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+import variable new_reno_t_ray_box;
+import variable new_reno_t_ray_obj;
+variable hold_on;
+variable cap_amt;
+variable return_node;
+variable prev_node;
+variable do_once := 0; //added by killap
+variable angry := 0; //added by killap
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == explode_self_param) then begin
+      call Node058;
+      critter_damage(self_obj, 5000);
+   end else if (combat_is_initialized == false) then begin
+      if (self_can_see_dude) then begin
+         //added by killap
+         if (fixed_param == tamper_good_CSObj_param) then begin
+            call Node056;
+         end else if (fixed_param == tamper_CSObj_param) then begin
+            if (angry == 0) then begin
+               angry := 1;
+               call Node057;
+            end else begin
+               call Node998;
+            end
+         //end added
+         end else if (Fallout2_enclave_destroyed) then begin
+            if (banged_t_ray) then begin
+               call Node001;
+            end else if (know_t_ray) then begin
+               call Node002;
+            end else begin
+               call Node003;
+            end
+         end else if (dude_wearing_power_armor) then begin
+            call Node004;
+         end else begin
+            call Node005;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_NEW_RENO_CHOP_SHOP);
+         set_self_ai(AI_THUG);
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+      restock_fix
+// Begin Seraph's Code - expansion
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         check_restock_item(PID_SMALL_ENERGY_CELL, 2, 6, 80)
+         check_restock_item(PID_MICRO_FUSION_CELL, 1, 3, 60)
+         set_local_var(LVAR_Restock_Time, game_time + (ONE_GAME_WEEK * Random(1, 2)));
+      end
+// End Seraph's Code
+end
+procedure map_exit_p_proc begin
+   off_banged_t_ray_recent;
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile or chop_shop_hostile) then begin
+         set_stolen_car(stolen_car_drive_away);
+         self_attack_dude;
+      end else set_new_reno_watcher(new_reno_t_ray_obj)
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_chop_shop_hostile;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin //major edit by killap - there is a check in place to prevent the blackout hang if you try to have sex w/ T-Ray just before he is about to blow up.
+   hold_on := false;
+   //killap code
+   if (t_ray_max_fucked) then begin
+      call Node999;
+   end else begin
+   //killap code
+      //if (car_has_been_recovered) then begin
+      //   set_gave_car_exp;
+     // end
+      move_obj_inven_to_obj(self_obj, new_reno_t_ray_box);
+      move_obj_inven_to_obj(new_reno_t_ray_box, self_obj);
+         if ((Fallout2_enclave_destroyed) and (get_stolen_car(stolen_car_recovered))) then begin
+            start_dialog_at_node(Node033);
+         end else begin
+            start_dialog_at_node(Node006);
+         end
+      move_obj_inven_to_obj(self_obj, new_reno_t_ray_box);
+      move_obj_inven_to_obj(new_reno_t_ray_box, self_obj);
+
+      //move by killap and edit too
+      if (get_stolen_car(stolen_car_recovered)) then begin
+        set_gave_car_exp;
+      end
+      //end edit
+
+      set_herebefore;
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+      gdialog_set_barter_mod(0);
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr_rand(150, 150 + (3 * examined));
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node990 begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) or (dude_charisma > 7)) then begin
+      call Node039; // Seraph's Fix: Swapped 'Node037' with 'Node039'
+   end else begin
+      call Node037; // Seraph's Fix: Swapped 'Node039' with 'Node037'
+   end
+end
+procedure Node989 begin
+   if (t_ray_has_no_batteries) then begin
+      call Node050;
+   end else begin
+      give_dude_all_t_ray_batteries
+      call Node051;
+   end
+end
+procedure Node988 begin
+   if (t_ray_has_no_batteries) then begin
+      call Node052;
+   end else begin
+      call Node053;
+   end
+end
+procedure Node987 begin
+   have_sex_with_t_ray(Node023);
+end
+procedure Node986 begin
+   have_sex_with_t_ray(Node999);
+end
+procedure Node985 begin
+   give_t_ray_caps(1000);
+   call Node022;
+end
+procedure Node984 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,-20))) then begin
+      give_t_ray_caps(750);
+      call Node022;
+   end else begin
+      call Node013;
+   end
+end
+procedure Node983 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,-50))) then begin
+      give_t_ray_caps(500);
+      call Node022;
+   end else begin
+      call Node013;
+   end
+end
+procedure Node982 begin
+   if ((dude_charisma > 6) or (dude_is_pornstar)) then begin
+      call Node016;
+   end else begin
+      call Node015;
+   end
+end
+procedure Node981 begin
+   gdialog_set_barter_mod(-20);
+   call Node012;
+end
+procedure Node980 begin
+   gdialog_barter;
+   call return_node;
+end
+procedure Node979 begin
+   give_t_ray_caps(500);
+   call Node025;
+end
+procedure Node978 begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,-20))) then begin
+      give_t_ray_caps(300);
+      call Node025;
+   end else begin
+      call Node026;
+   end
+end
+procedure Node976 begin
+   hold_on := true;
+   call Node031;
+end
+procedure Node975 begin
+// Begin Seraph's Code
+   if (self_item_count(PID_MICRO_FUSION_CELL) > 0) then begin
+      transfer_pid_between_objs(self_obj, dude_obj, PID_MICRO_FUSION_CELL, 1)
+   end else if (self_item_count(PID_SMALL_ENERGY_CELL) > 0) then begin
+      transfer_pid_between_objs(self_obj, dude_obj, PID_SMALL_ENERGY_CELL, 1)
+   end
+// End Seraph's Code
+   have_sex_with_t_ray(Node999);
+   display_mstr(2000);
+end
+procedure Node972 begin
+   hold_on := true;
+   call Node035;
+end
+procedure Node971 begin
+   have_sex_with_t_ray(Node999);
+   set_super_car; // Seraph's Code
+   display_mstr(2010);
+end
+procedure Node967 begin
+   if ((t_ray_has_no_batteries == false) and ((dude_charisma > 6) or (dude_is_pornstar))) then begin
+      call Node029;
+   end else begin
+      call Node028;
+   end
+end
+procedure Node966 begin
+   give_t_ray_caps(cap_amt);
+   call Node047;
+end
+procedure Node965 begin
+   give_t_ray_caps(cap_amt);
+   call Node046;
+end
+
+procedure Node001 begin
+   floater_rand(200, 202);
+end
+procedure Node002 begin
+   floater_rand(210, 212);
+end
+procedure Node003 begin
+   floater_rand(220, 222);
+end
+procedure Node004 begin
+   floater_rand(230, 232);
+end
+procedure Node005 begin
+   floater_rand(251 - dude_is_male, 267 + dude_is_female);
+end
+procedure Node006 begin
+   if (know_t_ray == false) then begin
+      set_know_t_ray;
+      Reply(275 + ((dude_is_female) and ((dude_is_pornstar) or (dude_charisma > 6))));
+   end else begin
+      Reply(277 + banged_t_ray);
+   end
+   NOption(dude_name + mstr(280) + dude_name + mstr(281), Node007, -003);
+   NOption(282, Node999, -003);
+   if (get_stolen_car(stolen_car_stolen)) then begin
+      NOption(283, Node010, 004);
+      BOption(284, Node019, 004);
+      BOption(285, Node019, 004);
+      if (corvega_bishop) then begin
+         if (dude_family == family_bishop) then begin
+            NOption(mstr(286) + made_man_name + mstr(5286), Node039, 005);
+         end else if (corvega_bishop) then begin
+            NOption(287, Node990, 007);
+         end
+      end
+   end else if (get_stolen_car(stolen_car_recovered)) then begin
+      if (bishop_batteries) then begin
+         BOption(288, Node989, 004);
+      end else begin
+         NOption(290, Node988, 004);
+      end
+      if (get_super_car == false) then begin
+         NOption(289, Node024, 004);
+      end
+   end
+   NOption(291, Node999, 004);
+   prev_node := 6;
+end
+procedure Node007 begin
+   if ((dude_is_female) and ((dude_charisma > 6) or (dude_is_pornstar))) then begin
+      Reply(302);
+      GOption(303, Node008, -003);
+      BOption(304, Node009, -003);
+   end else begin
+      Reply(300 + dude_is_female);
+   end
+   NOption(282, Node999, -003);
+   GOption(306, Node987, 004);
+   NOption(307, Node009, 004);
+end
+procedure Node008 begin
+   Reply(320);
+   GOption(321, Node986, 001);
+   prev_node := 8;
+end
+procedure Node009 begin
+   Reply(330);
+   NOption(331, Node999, -003);
+   NOption(282, Node999, -003);
+   BOption(333 + (dude_iq >= 6), Node999, 004);
+   prev_node := 9;
+end
+procedure Node010 begin
+   set_corvega_bishop;
+   set_bishop_known
+   Reply(340);
+   NOption(341, Node011, 004);
+   NOption(342 + (bishop_dead == false), Node012, 004);
+   if (dude_family == family_bishop) then begin
+      NOption(mstr(344) + made_man_name + mstr(5286), Node039, 005);
+   end else if (corvega_bishop) then begin
+      NOption(287, Node990, 007);
+   end
+   BOption(346, Node019, 004);
+   NOption(347, Node999, 004);
+   prev_node := 10;
+end
+procedure Node011 begin
+   Reply(360);
+   NOption(361, Node012, 004);
+   if (dude_family == family_bishop) then begin
+      NOption(mstr(362) + made_man_name + mstr(5286), Node039, 005);
+   end else if (corvega_bishop) then begin
+      NOption(287, Node990, 007);
+   end
+   BOption(346, Node019, 004);
+   NOption(365, Node999, 004);
+   prev_node := 11;
+end
+procedure Node012 begin
+   if (node_12) then begin
+      Reply(377);
+   end else begin
+      set_node_12;
+      Reply(375 + dude_is_female);
+   end
+   if (dude_caps >= 500) then begin
+      BOption(380, Node983, 004);
+      if (dude_caps >= 750) then begin
+         NOption(379, Node984, 004);
+         if (dude_caps >= 1000) then begin
+            GOption(378, Node985, 004);
+         end
+      end
+   end else begin
+      NOption(381, Node018, 004);
+   end
+   if (dude_is_female) then begin
+      NOption(382, Node982, 004);
+   end
+   BOption(383, Node019, 004);
+   NOption(384, Node999, 004);
+   prev_node := 12;
+end
+procedure Node013 begin
+   Reply(mstr(395 + dude_is_female) + mstr(397));
+   NOption(398, Node981, 004);
+   NOption(399, Node018, 004);
+   if (dude_is_female) then begin
+      NOption(382, Node982, 004);
+   end
+   BOption(401, Node019, 004);
+   NOption(402, Node999, 004);
+   prev_node := 13;
+end
+procedure Node014 begin
+   return_node := @Node014;
+   Reply(420);
+   NOption(421, Node980, 004);
+   BOption(422, Node998, 004);
+   NOption(423, Node999, 004);
+   prev_node := 14;
+end
+procedure Node015 begin
+   Reply(420);
+   BOption(436, Node019, 004);
+   BOption(437, Node998, 004);
+   NOption(423, Node999, 004);
+   prev_node := 15;
+end
+procedure Node016 begin
+   Reply(445);
+   NOption(446, Node017, 004);
+   BOption(436, Node019, 004);
+   BOption(437, Node998, 004);
+   NOption(423, Node999, 004);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(455);
+   NOption(456, Node007, 004);
+   BOption(457, Node019, 004);
+   BOption(458, Node998, 004);
+   NOption(459, Node009, 004);
+   prev_node := 17;
+end
+procedure Node018 begin
+   Reply(470);
+   BOption(471, Node019, 004);
+   BOption(472, Node998, 004);
+   NOption(423, Node999, 004);
+   prev_node := 18;
+end
+procedure Node019 begin
+   Reply(mstr(485) + mstr(486 + dude_is_female) + mstr(488));
+   BOption(489, Node998, 004);
+   NOption(490, Node011, 004);
+   BOption(491, Node020, 006);
+   NOption(492, Node021, 004);
+   prev_node := 19;
+end
+procedure Node020 begin
+   set_bishop_known
+   set_corvega_bishop;
+   Reply(mstr(500) + mstr(501 + dude_is_female) + mstr(503));
+   BOption(504, Node998, 004);
+   NOption(505, Node011, 004);
+   NOption(506, Node999, 004);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(520);
+   BOption(521, Node998, 004);
+   NOption(522, Node999, 004);
+   prev_node := 21;
+end
+procedure Node022 begin
+   set_stolen_car(stolen_car_recovered);
+   Reply(530);
+   if (get_super_car == false) then begin
+      NOption(531, Node024, 004);
+   end
+   BOption(532, Node998, 004);
+   NOption(533, Node999, 004);
+   prev_node := 22;
+end
+procedure Node023 begin
+   set_stolen_car(stolen_car_recovered);
+   Reply(540);
+   NOption(541, Node024, 004);   //killap's fix: changed from '015'
+   BOption(542, Node998, 004);
+   NOption(543, Node999, 004);
+   prev_node := 23;
+end
+procedure Node024 begin
+   Reply(550 + (prev_node != 6));
+   if (dude_caps >= 300) then begin
+      NOption(553, Node978, 004);
+      if (dude_caps >= 500) then begin
+         NOption(552, Node979, 004);
+      end
+   end
+   NOption(554, Node027, 004);
+   if (banged_t_ray) then begin
+      NOption(555, Node034, 004);
+   end else if (dude_is_female) then begin
+      if ((dude_charisma > 6) or (dude_is_pornstar)) then begin
+         GOption(556, Node034, 004);
+      end else begin
+         BOption(556, Node030, 004);
+      end
+   end
+   BOption(558, Node998, 004);
+   BOption(559, Node999, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   set_super_car;
+   if (do_once == 0) then begin
+      display_mstr(2010);  //added by killap
+      do_once :=1;
+   end
+   return_node := @Node025;
+   Reply(575);
+   NOption(576, Node980, 004);
+   NOption(577, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(590);
+   if (dude_caps >= 500) then begin
+      NOption(552, Node979, 004);
+   end
+   NOption(554, Node027, 004);
+   if (banged_t_ray) then begin
+      NOption(555, Node034, 004);
+   end else if (dude_is_female) then begin
+      if ((dude_charisma > 6) or (dude_is_pornstar)) then begin
+         GOption(556, Node034, 004);
+      end else begin
+         BOption(556, Node030, 004);
+      end
+   end
+   BOption(558, Node998, 004);
+   BOption(559, Node999, 004);
+   NOption(577, Node999, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   return_node := @Node027;
+   Reply(615);
+   NOption(616, Node980, 004);
+   if (dude_is_female) then begin
+      if ((dude_charisma > 6) or (dude_is_pornstar)) then begin
+         GOption(617, Node967, 004);
+      end else begin
+         BOption(617, Node014, 004);
+      end
+   end
+   NOption(619, Node999, 004);
+   prev_node := 27;
+end
+procedure Node028 begin
+   Reply(630);
+   GOption(631, Node986, 004);
+   NOption(632, Node999, 004);
+   prev_node := 28;
+end
+procedure Node029 begin
+   Reply(640 + (banged_t_ray_recent == false));
+   NOption(642, Node031, 004);
+   NOption(643, Node976, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   Reply(650);
+   if (dude_caps >= 500) then begin
+      NOption(651, Node979, 004);
+   end else begin
+      NOption(554, Node027, 004);
+   end
+   BOption(653, Node998, 004);
+   NOption(423, Node999, 004);
+   prev_node := 30;
+end
+procedure Node031 begin
+   Reply(660 + (hold_on == false));
+   GOption(662, Node975, 004);
+   BOption(663, Node007, 004);
+   prev_node := 31;
+   hold_on := false;
+end
+procedure Node033 begin
+   set_know_t_ray;
+   if ((get_super_car) and (get_ram_plate)) then begin
+      Reply(670 + banged_t_ray);
+   end else begin
+      Reply(mstr(670 + banged_t_ray) + mstr(672));
+      NOption(673, Node054, -003);
+      if (get_super_car == false) then begin
+         NOption(289, Node024, 004);
+      end
+      if (get_ram_plate == false) then begin
+         NOption(675, Node054, 004);
+      end
+   end
+   NOption(282, Node999, -003);
+   if (get_stolen_car(stolen_car_recovered)) then begin
+      if (bishop_batteries) then begin
+         BOption(288, Node989, 004);
+      end else begin
+         NOption(290, Node988, 004);
+      end
+   end
+   NOption(291, Node999, 004);
+   prev_node := 33;
+end
+procedure Node034 begin
+   if (banged_t_ray_recent) then begin
+      Reply(690);
+   end else begin
+      Reply(691 + banged_t_ray);
+   end
+   NOption(693, Node035, 004);
+   NOption(643, Node972, 004);
+   prev_node := 34;
+end
+procedure Node035 begin
+   Reply(660 + (hold_on == false));
+   GOption(662, Node971, 004);
+   BOption(663, Node009, 004);
+   prev_node := 35;
+   hold_on := false;
+end
+procedure Node037 begin
+   Reply(710);
+   BOption(711, Node038, 004);
+   NOption(712, Node999, 004);
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(720);
+   BOption(721, Node998, 004);
+   prev_node := 38;
+end
+procedure Node039 begin
+   if (dude_family != family_bishop) then begin
+      Reply(730);
+      NOption(732, Node040, 004);
+   end else begin
+      Reply(mstr(731) + made_man_name + mstr(5731) + made_man_name + mstr(6731));
+      NOption(mstr(733) + made_man_name + mstr(5733), Node040, 004);
+   end
+   NOption(734, Node041, 004);
+   NOption(735, Node999, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   Reply(745);
+   NOption(746, Node041, 004);
+   NOption(747, Node999, 004);
+   prev_node := 40;
+end
+procedure Node041 begin
+   Reply(755);
+   NOption(756, Node042, 004);
+   BOption(757, Node042, 004);
+   NOption(758, Node046, 006);
+   NOption(759, Node999, 004);
+   prev_node := 41;
+end
+procedure Node042 begin
+   // give_t_ray_caps(2700); // Seraph's Fix
+   // set_stolen_car(stolen_car_recovered); // Seraph's Fix
+   Reply(770);
+   if (dude_caps >= 900) then begin
+      if (dude_caps >= 1500) then begin
+         if (dude_caps >= 2700) then begin
+            NOption(771, Node043, 004);
+         end
+         BOption(772, Node044, 004);
+      end
+      BOption(773, Node045, 004);
+   end
+   NOption(774, Node046, 006);
+   NOption(775, Node999, 004);
+   prev_node := 42;
+end
+procedure Node043 begin
+   give_t_ray_caps(2700); // Seraph's Code
+   set_stolen_car(stolen_car_recovered); // Seraph's Code
+   Reply(780);
+   BOption(781, Node048, 007);
+   NOption(782, Node049, 004);
+   NOption(783, Node049, 004);
+   prev_node := 43;
+end
+procedure Node044 begin
+   cap_amt := 1500;
+   Reply(mstr(790 + dude_is_female) + mstr(792));
+   BOption(793, Node966, 004);
+   BOption(794, Node965, 004);
+   if ((has_skill(dude_obj,SKILL_SPEECH) > 50) and (dude_iq < 6)) then begin
+      BOption(795, Node045, 004);
+   end else begin
+      BOption(795, Node045, 004);
+   end
+   NOption(797, Node046, 006); //edit by killap - was 004, made 006 since all other calls to 046 were of int req: 6
+   NOption(798, Node999, 004);
+   prev_node := 44;
+end
+procedure Node045 begin
+   cap_amt := 900;
+   Reply(mstr(810 + dude_is_female) + mstr(812));
+   BOption(793, Node966, 004);
+   BOption(814, Node965, 004);
+   NOption(797, Node046, 006); //edit by killap - was BOption, but all other calls to 046 were NOption
+   NOption(816, Node966, 006);
+   /*if (dude_iq < 6) then begin
+      NOption(794, Node966, 004);
+   end* - this line does not make sense - killap*/
+   NOption(818, Node999, 004);
+   prev_node := 45;
+end
+procedure Node046 begin
+   set_stolen_car(stolen_car_recovered);
+   Reply(mstr(830 + dude_is_female) + mstr(832));
+   BOption(793, Node047, 004);
+   BOption(834, Node048, 007);
+   NOption(835, Node049, 004);
+   prev_node := 46;
+end
+procedure Node047 begin
+   set_stolen_car(stolen_car_recovered);
+   Reply(845);
+   BOption(846, Node048, 007);
+   NOption(847, Node049, 004);
+   NOption(783, Node049, 004);
+   prev_node := 47;
+end
+procedure Node048 begin
+   set_bishop_batteries;
+   Reply(855);
+   NOption(856, Node989, 004);
+   NOption(857, Node999, 004);
+   prev_node := 48;
+end
+procedure Node049 begin
+   return_node := @Node049;
+   Reply(865);
+   NOption(866, Node980, 004);
+   NOption(857, Node999, 004);   //killap's fix: changed from 048
+   prev_node := 49;
+end
+procedure Node050 begin
+   Reply(875);
+   NOption(876, Node999, 004);
+   prev_node := 50;
+end
+procedure Node051 begin
+   Reply(885);
+   NOption(886, Node999, 004);
+   prev_node := 51;
+end
+procedure Node052 begin
+   Reply(875);
+   NOption(896, Node999, 004);
+   prev_node := 52;
+end
+procedure Node053 begin
+   return_node := @Node053;
+   hold_on := false;
+   Reply(905);
+   GOption(906, Node980, 004);
+   if (dude_is_female) then begin
+      if ((dude_charisma > 6) or (dude_is_pornstar)) then begin
+         GOption(907, Node031, 004);
+      end else begin
+         BOption(907, Node014, 004);
+      end
+   end
+   NOption(909, Node999, 004);
+   prev_node := 53;
+   hold_on := false;
+end
+procedure Node054 begin
+   Reply(915);
+   NOption(916, Node055, -003);
+   NOption(282, Node999, -003);
+   if (get_stolen_car(stolen_car_recovered)) then begin
+      if (get_super_car == false) then begin
+         NOption(920, Node024, 004);
+      end
+      if (get_ram_plate == false) then begin
+         NOption(918, Node055, 004);
+      end
+      if (bishop_batteries) then begin
+         BOption(919, Node989, 004);
+      end else begin
+         NOption(921, Node988, 004);
+      end
+   end
+   NOption(922, Node999, 004);
+   prev_node := 54;
+end
+procedure Node055 begin
+   set_ram_plate;
+   Reply(930);
+   NOption(931, Node999, 004);
+   prev_node := 55;
+end
+procedure Node056 begin
+   floater_rand(940, 942);
+end
+procedure Node057 begin
+   floater_rand(950, 951);
+end
+
+procedure Node058 begin
+   floater(1100);
+end

@@ -1,0 +1,10 @@
+{100}{}{PERÍCIAS}
+{101}{}{CANCEL}
+{102}{}{FURTIV.}
+{103}{}{ARROMB.}
+{104}{}{ROUBO}
+{105}{}{ARMAD.}
+{106}{}{P. SOC.}
+{107}{}{MEDICINA}
+{108}{}{CIÊNCIA}
+{109}{}{REPARO}

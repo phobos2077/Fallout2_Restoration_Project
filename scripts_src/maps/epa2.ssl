@@ -1,0 +1,70 @@
+/*
+        Name: EPA
+        Location: EPA
+        Description: This is the Map Script for the EPA
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: MAY 2006
+
+           Updated:
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "epa2"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_EPA2
+
+#include "../headers/command.h"
+
+procedure start;
+procedure map_exit_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure doRepostion;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then begin
+       display_msg(mstr(100));
+   end
+
+   if (global_var(GVAR_LOAD_MAP_INDEX)==12) then begin\
+      override_map_start_hex(30062,1,3);
+   end
+
+   if (global_var(GVAR_EPALIGHTING_GEN)!=4) then begin
+      Cavern_Lighting;
+   end
+   else begin
+      Military_Base_Lighting;
+   end
+
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+
+end
+
+
+procedure map_update_p_proc
+begin
+
+   if (global_var(GVAR_EPALIGHTING_GEN)!=4) then begin
+      Cavern_Lighting;
+   end
+   else begin
+      Military_Base_Lighting;
+   end
+
+end
+
+procedure map_exit_p_proc
+begin
+
+end

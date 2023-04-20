@@ -1,0 +1,206 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "fcsubhat"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_FCSUBHAT
+
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
+
+#define Lock_Bonus                      (-40)
+#define Lockpick_Bonus                  (Lock_Bonus+20)
+#define Exd_Lockpick_Bonus              (Lock_Bonus+40)
+
+#define MARCUS_TILE  (20094)
+
+procedure start;
+procedure map_enter_p_proc;
+procedure use_p_proc;
+procedure timed_event_p_proc;
+procedure look_at_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure open_hatch;
+procedure close_hatch;
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Open                 (1)
+
+variable sequence;
+variable Locks_Roll;
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      if (sequence == 1) then begin
+         float_msg(dude_obj, mstr(210), FLOAT_MSG_GREEN);
+         sequence += 1;
+         add_timer_event(self_obj,game_ticks(2),1);
+      end else if (sequence == 2) then begin
+         float_msg(Marcus_Ptr, mstr(211), FLOAT_MSG_GREEN);
+         sequence += 1;
+         self_walk_to_tile(MARCUS_TILE);
+         add_timer_event(self_obj,game_ticks(2),1);
+      end else if (sequence == 3) then begin
+         if (tile_num(Marcus_Ptr) != MARCUS_TILE) then begin
+            animate_move_obj_to_tile(Marcus_Ptr, MARCUS_TILE, ANIMATE_WALK);
+            add_timer_event(self_obj,game_ticks(1),1);
+         end else begin
+            reg_anim_clear( self_obj );
+            obj_rotate(Marcus_Ptr, 1);
+            reg_anim_begin();
+              reg_anim_animate( Marcus_Ptr,ANIM_magic_hands_ground,-1 );
+            reg_anim_end();
+            float_msg(Marcus_Ptr, mstr(212), FLOAT_MSG_YELLOW);
+            add_timer_event(self_obj,game_ticks(1),1);
+            sequence += 1;
+         end
+      end else if (sequence == 4) then begin
+         display_msg(mstr(213));
+         call open_hatch;
+      end
+   end
+end
+
+procedure start begin
+
+end
+
+procedure map_enter_p_proc begin
+   if (sub_flag(SHI_SUB_ALONE)) then begin
+      call close_hatch;
+   end else begin
+      call open_hatch;
+   end
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure use_p_proc begin
+   if (local_var(LVAR_Open) == 0) then begin
+      if (dude_strength >= 8) then begin
+         script_overrides;
+         display_msg(mstr(200));
+         call open_hatch;
+      end else begin
+         script_overrides;
+         if (Marcus_In_Party) then begin
+            display_msg(mstr(202));
+            sequence := 1;
+            add_timer_event(self_obj,game_ticks(1),1);
+         end else begin
+            display_msg(mstr(201));
+         end
+      end
+   end if (obj_is_locked(self_obj) and not(obj_is_open(self_obj))) then begin
+      script_overrides;
+   end
+end
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+   Skill_Used:=action_being_used;
+
+   if (Skill_Used == SKILL_LOCKPICK) then begin
+      script_overrides;
+      Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
+      if (is_success(Locks_Roll)) then begin
+         if (obj_is_locked(self_obj)) then begin
+            call open_hatch;
+            display_msg(mstr(220));
+         end else begin
+            call close_hatch;
+            display_msg(mstr(240));
+         end
+      end else begin
+         //call close_hatch;
+         if (obj_is_locked(self_obj)) then
+            display_msg(mstr(221));
+         else
+            display_msg(mstr(241));
+      end
+   end
+end
+
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   if (Tool == PID_LOCKPICKS) then begin
+     script_overrides;
+     Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lockpick_Bonus);
+     if (is_success(Locks_Roll)) then begin
+         if (obj_is_locked(self_obj)) then begin
+            call open_hatch;
+            display_msg(mstr(220));
+         end else begin
+            call close_hatch;
+            display_msg(mstr(240));
+         end
+      end else begin
+         call close_hatch;
+         if (obj_is_locked(self_obj)) then
+            display_msg(mstr(221));
+         else
+            display_msg(mstr(241));
+      end
+   end else if (Tool == PID_EXP_LOCKPICK_SET) then begin
+     script_overrides;
+     Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Exd_Lockpick_Bonus);
+     if (is_success(Locks_Roll)) then begin
+         if (obj_is_locked(self_obj)) then begin
+            call open_hatch;
+            display_msg(mstr(220));
+         end else begin
+            call close_hatch;
+            display_msg(mstr(240));
+         end
+      end else begin
+         //call close_hatch;
+         if (obj_is_locked(self_obj)) then
+            display_msg(mstr(221));
+         else
+            display_msg(mstr(241));
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
+      destroy_object(self_obj);
+   end
+end
+
+procedure open_hatch begin
+   obj_unlock(self_obj);
+   obj_open(self_obj);
+   set_local_var(LVAR_Open,1);
+end
+
+procedure close_hatch begin
+   obj_close(self_obj);
+   obj_lock(self_obj);
+   //set_local_var(LVAR_Open,0);
+end

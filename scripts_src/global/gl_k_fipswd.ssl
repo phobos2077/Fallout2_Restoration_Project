@@ -1,0 +1,25 @@
+#define SCRIPT_REALNAME "gl_k_fipswd"
+#include "../headers/define.h"
+#include "../headers/command.h"
+#include "../headers/scripts.h"
+
+procedure start;
+
+procedure start begin
+   if (is_loading_game) then return;
+	if (game_loaded) then begin
+	  	set_global_script_repeat(1000);
+		set_global_script_type(0);
+	end else begin
+     // San Fran password pieces
+     if (not(dude_item(PID_PASSWORD_PAPER))) then begin
+       if (dude_item(PID_TORN_PAPER_1) and dude_item(PID_TORN_PAPER_2) and dude_item(PID_TORN_PAPER_3)) then begin
+         add_obj_to_inven(dude_obj, create_object(PID_PASSWORD_PAPER,0,0));
+         remove_pid_qty(dude_obj, PID_TORN_PAPER_1, 1)
+         remove_pid_qty(dude_obj, PID_TORN_PAPER_2, 1)
+         remove_pid_qty(dude_obj, PID_TORN_PAPER_3, 1)
+         display_msg(message_str(SCRIPT_OBJ_DUDE,700));
+        end
+      end
+   end
+end

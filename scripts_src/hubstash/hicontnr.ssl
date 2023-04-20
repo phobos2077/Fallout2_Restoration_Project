@@ -1,0 +1,72 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "hicontnr"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_HICONTNR
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure Tamper_Proc;
+
+import variable guard2_obj;
+import variable object_tamper;
+import variable guard1a_obj;
+import variable guard1b_obj;
+import variable guard1c_obj;
+
+procedure start begin
+end
+
+procedure pickup_p_proc
+begin
+   call Tamper_Proc;
+end
+
+
+procedure use_p_proc
+begin
+   call Tamper_Proc;
+end
+
+procedure Tamper_Proc begin
+
+   //if ( (obj_is_visible_flag(guard2_obj)) or (obj_is_visible_flag(guard1a_obj)) or (obj_is_visible_flag(guard1b_obj)) or (obj_is_visible_flag(guard1c_obj)) ) then begin
+      if (dude_elevation == 0) then begin
+         if ( (is_visible(guard1a_obj)) and (tile_distance(tile_num(guard1a_obj), dude_tile) < 8) ) then begin
+            script_overrides;
+            add_timer_event(guard1a_obj,5,2);
+         end else if ( (is_visible(guard1b_obj)) and (tile_distance(tile_num(guard1c_obj), dude_tile) < 7) ) then begin
+            script_overrides;
+            add_timer_event(guard1c_obj,5,2);
+         end else if ( (is_visible(guard1c_obj)) and (tile_distance(tile_num(guard1b_obj), dude_tile) < 12)  ) then begin
+            script_overrides;
+            add_timer_event(guard1b_obj,5,2);
+         end
+      end else begin
+         if ((is_visible(guard2_obj))) then begin
+            script_overrides;
+            object_tamper := 2;
+            add_timer_event(guard2_obj,5,5);
+         end
+      end
+   //end
+end

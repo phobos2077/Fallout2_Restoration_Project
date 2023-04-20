@@ -1,0 +1,197 @@
+#
+# endgame.txt
+#
+#   This file controls the slide show shown when the player completes the game.
+#
+# format of each line is:
+#
+#   gvar, value, art number, narrator file [, direction]
+#
+# Where:
+#
+#   gvar is the GVAR_* number for the variable controlling the slide.
+#
+#   value is the value that the gvar must be equal to for this slide
+#     to be shown
+#
+#   art number is the line number in art\intrface\intrface.lst of the
+#     image to use for that slide.  If art_num is the number for the
+#     panning desert image (currently 327), then that image is panned
+#     in the direction indicated by the direction field.
+#
+#   narrator file is the base filename (no path path or extension) used
+#     for the narrator voice-over and subtitles.  Maximum of 8 characters.
+#
+#   direction is the direction to pan the image.  A value of -1 pans
+#     right-to-left, 1 pans left-to-right.  This value is only used if
+#     the art number corresponds to the panning desert image (currently
+#     327).
+#
+# Examples:
+#
+#   30, 2, 240, nar_40
+#
+#   The above line says: if the global game variable 30 is equal to 2,
+#   display the image named on line 240 of art\intrface\intrface.lst,
+#   play the voice-over file sound\speech\narrator\nar_40.acm and use the
+#   file text\<language>\cuts\nar_40.txt for subtitles.
+#
+#   40, 1, 327, nar_10, 1
+#
+#   The above line says: if the global game variable 40 is equal to 1,
+#   pan the desert image from left to right while playing the voice-over
+#   file sound\speech\narrator\nar_10.acm and using the file
+#   text\<language>\cuts\nar_10.txt for subtitles.
+#
+# The slides are displayed in the order they appear in this file.
+#
+
+#####
+# Test
+#####
+#408, 1, 327, nar_ar1, 1
+
+#####
+# Test
+#####
+#408, 1, 311, nar_ar1
+
+
+#####
+# Arroyo
+#####
+408, 1, 440, nar_ar1
+#####
+# Add Ons of Arroyo
+#####
+700, 1, 471, nar_eldr #471 - killap 
+
+#####
+# Modoc
+#####
+#409, 1, 445, nar_mo1
+409, 2, 445, nar_mo2
+409, 3, 445, nar_mo3
+409, 4, 446, nar_mo4
+409, 5, 445, nar_mo5
+
+#####
+# The Den
+#####
+410, 1, 442, nar_de1
+410, 2, 454, nar_de2
+410, 3, 442, nar_de3         # Den Pic 2: 454
+410, 4, 454, nar_de4
+
+#####
+# Vault City
+#####
+411, 10, 464, nar_vc1a
+411, 11, 464, nar_vc1b
+411, 2, 464, nar_vc2
+411, 3, 465, nar_vc3
+411, 4, 465, nar_vc4         # Vault City Pic 2: 465
+411, 5, 465, nar_vc5
+
+#####
+# Reno
+#####
+412, 1, 459, nar_nr1
+412, 2, 460, nar_nr2
+412, 3, 460, nar_nr3
+412, 4, 460, nar_nr4
+412, 5, 460, nar_nr5
+412, 6, 460, nar_nr6
+412, 7, 460, nar_nr7
+412, 8, 460, nar_nr8         # New Reno Pic 2: 460
+412, 9, 460, nar_nr9
+412, 10, 460, nar_nr10
+#####
+# Add Ons of New Reno
+#####
+413, 1, 460, nar_nr11
+414, 1, 460, nar_nr12
+415, 1, 467, nar_nr13  # Myron
+
+#####
+# Gecko
+#####
+417, 1, 444, nar_ge1
+417, 2, 444, nar_ge2
+417, 3, 443, nar_ge3
+417, 4, 443, nar_ge4
+417, 5, 443, nar_ge5
+#####
+# Add Ons of Gecko
+#####
+699, 1, 443, nar_hrld #uses the best Gecko ending bg
+
+#####
+# Redding
+#####
+418, 1, 457, nar_re1
+418, 2, 457, nar_re2
+418, 3, 458, nar_re3         # Redding Pic 2: 458
+418, 4, 458, nar_re4
+
+#####
+# Broken Hills
+#####
+419, 1, 441, nar_bh1
+419, 2, 441, nar_bh2
+419, 3, 441, nar_bh3
+#####
+# Add Ons of Broken Hills
+#####
+698, 1, 470, nar_marc #changed from 441 - killap
+
+
+#####
+# NCR
+#####
+420, 1, 455, nar_ncr1
+420, 2, 456, nar_ncr2
+420, 3, 456, nar_ncr3        # NCR Pic 2: 456
+420, 4, 455, nar_ncr4
+
+#####
+# Vault 15
+#####
+421, 1, 449, nar_bv1
+421, 2, 463, nar_bv2         # Vault 15 Pic 2: 463
+
+#####
+# Vault 13
+#####
+422, 1, 469, nar_va1
+422, 2, 462, nar_va2
+
+#####
+# San Francisco
+#####
+#447/448  -- FINISH! -- Part of SubNode: Shi
+
+#####
+# Subnode: Shi
+#####
+423, 1, 447, nar_sf1a
+423, 2, 448, nar_sf1b
+423, 3, 461, nar_sf1c        # San Francisco Pic 3: 461
+
+#####
+# Subnode: Elronologists
+#####
+424, 1, 473, nar_sf2a   #was 461 - killap
+#a few were set at 423?
+424, 2, 473, nar_sf2b
+424, 3, 473, nar_sf2c
+
+#####
+# Subnode: Vagrants
+#####
+425, 1, 466, nar_sf3          # New Myron Pic: 467
+
+#####
+# President Richardson
+#####
+697, 1, 472, nar_pres

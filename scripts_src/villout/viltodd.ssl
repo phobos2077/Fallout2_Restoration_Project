@@ -1,0 +1,212 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "viltodd"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_VILTODD
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Home_Tile                  (7)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+procedure Node001;
+procedure Node002;
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+
+end
+
+procedure timed_event_p_proc begin
+  variable the_temp;
+   if ((fixed_param == 1) and (not combat_is_initialized)) then begin
+      if (anim_busy(self_obj) == 0) then begin
+            if (tile_distance(self_tile, local_var(7)) >= 8) then
+               the_temp := local_var(LVAR_Home_Tile);
+            else
+               the_temp := tile_num_in_direction(self_tile, random(0, 5), random(2, 5));
+
+            self_run_to_tile(the_temp);
+      end
+      call Node001;
+      add_timer_event(self_obj, random(10,15)*ONE_GAME_SECOND, 1);
+   end
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
+       self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
+       //set_local_var(LVAR_Hostile,1);
+       //attack(dude_obj);
+   end
+
+
+
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+  if (source_obj == dude_obj) then
+  begin
+    set_local_var(LVAR_Hostile, 2);
+    set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
+  end
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   //inc_childkiller
+   inc_good_critter //edit by killap
+
+/* Set global_variable for Enemy status*/
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+  if (map_first_run) then begin
+    set_local_var(LVAR_Home_Tile,self_tile);
+  end
+   if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
+      destroy_object(self_obj);
+   end else begin
+      if (global_var(GVAR_VAULT_VILLAGE) >= VILLAGE_STAGE_ONE) then begin
+      //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then begin
+         if (local_var(LVAR_Home_Tile) == 24495) then
+            critter_attempt_placement(self_obj, 22516, dude_elevation);
+         else if (local_var(LVAR_Home_Tile) == 20909) then
+            critter_attempt_placement(self_obj, 22897, dude_elevation);
+         else
+            critter_attempt_placement(self_obj, self_tile, dude_elevation);
+      //end
+      end
+      set_self_team(TEAM_VAULT_VILLAGERS);
+      //if ((tile_num(self_obj) != 24311) and (tile_num(self_obj) != 23900)) then
+      add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   call Node002;
+end
+
+procedure Node001 begin
+   floater(random(200,203));
+end
+
+procedure Node002 begin
+   floater(random(301-(dude_is_male),310+(dude_is_female)));
+end

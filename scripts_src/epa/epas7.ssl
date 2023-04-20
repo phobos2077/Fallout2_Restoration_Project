@@ -1,0 +1,56 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epas7"
+#include "../headers/define.h"
+#include "../headers/epamain.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAS7          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure spatial_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start
+begin
+end
+
+procedure spatial_p_proc
+begin
+  if (source_obj == dude_obj) then begin
+    if ( (map_var(MVAR_Gave_Float) == 0) and (local_var(LVAR_Herebefore) == 0) ) then begin
+      if ( (tile_distance(19268, dude_tile) <= 1) and (dude_elevation == 1) ) then begin
+         display_msg(mstr(100));
+         float_msg(dude_obj, mstr(102), FLOAT_MSG_YELLOW);
+      end else if ( (tile_distance(19303, dude_tile) <= 1) and (dude_elevation == 1) ) then begin
+         display_msg(mstr(100));
+         float_msg(dude_obj, mstr(103), FLOAT_MSG_YELLOW);
+      end else begin
+         display_msg(mstr(100));
+         float_msg(dude_obj, mstr(101), FLOAT_MSG_YELLOW);
+      end
+      set_local_var(LVAR_Herebefore, 1);
+      set_map_var(MVAR_Gave_Float,1);
+    end
+  end
+end
+
+procedure map_enter_p_proc
+begin
+end
+
+procedure map_update_p_proc
+begin
+end

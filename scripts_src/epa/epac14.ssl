@@ -1,0 +1,62 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac14"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC14          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Uses                       (7)
+
+procedure start;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+
+procedure start
+begin
+end
+
+procedure use_p_proc
+begin
+   script_overrides;
+
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure use_obj_on_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Uses) < 11) then begin
+      script_overrides;
+      set_local_var(LVAR_Uses, local_var(LVAR_Uses) + 1);
+   end
+
+   if (local_var(LVAR_Uses) == 10) then begin
+      display_msg(mstr(100));
+      script_overrides;
+      destroy_object(self_obj);
+   end
+
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end

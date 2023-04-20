@@ -1,0 +1,97 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: NewR2
+        Location: New Reno
+        Description: 2nd Street
+
+        Log:
+
+           Created: April 27, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "newr2"
+#include "../headers/define.h"
+#include "../headers/newr2.h"
+#include "../headers/updatmap.h"
+
+#define NAME                    SCRIPT_NEWR2
+
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+export variable mcGeeSlotMachineOBJ;
+export variable mcGeeOBJ;
+export variable new_reno_temp_box;
+export variable new_reno_salvatore_bar_box;
+export variable new_reno_bishop_bar_box;
+export variable new_reno_mordino_bar_box;
+export variable bishop_stair_guard_obj;
+export variable new_reno_mason_obj;
+export variable mr_bishop_obj;
+export variable bishop_roof_guard_obj;
+export variable fighting_boxer_1_obj;
+export variable fighting_boxer_2_obj;
+export variable announcer_obj;
+export variable ring_girl_obj;
+export variable prize_fighter_obj;
+export variable stuart_little_obj;
+export variable mckneely_obj;
+export variable hollyfeld_obj;
+export variable angela_guard_obj;
+export variable angela_bishop_safe_obj;
+export variable mrs_bishop_safe_obj;
+export variable commedian_audience_1_obj;
+export variable commedian_audience_2_obj;
+export variable commedian_audience_3_obj;
+export variable trash_can_singer_1_obj;
+export variable trash_can_singer_2_obj;
+export variable trash_can_singer_3_obj;
+export variable help_me_obj;
+export variable new_reno_generic_boxer_obj;
+export variable new_reno_bishop_men_obj;
+export variable new_reno_porn_actress_obj;
+export variable new_reno_bitch_obj;
+export variable new_reno_keith_wright_obj;
+export variable comedian_obj; //added by killap - expansion pack
+export variable new_reno_jimmy_j_box; //added by killap
+
+
+#define newr2_lighting                    if (dude_elevation == 1) then          \
+                                             Indoor_Lighting;                    \
+                                          else                                   \
+                                             Lighting
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   set_map_exit_tiles(34103, 6106);
+
+   Check_Create_Car(CAR_NEW_RENO2_HEX, CAR_NEW_RENO_ELEV)
+
+   newr2_lighting;
+
+end
+
+procedure map_update_p_proc begin
+   newr2_lighting;
+   if (all_party_hidden) then begin
+      ndebug("all_party_hidden: elevation == " + dude_elevation);
+      if (dude_elevation == 1) then begin
+         party_member_unhide_all
+         attempt_place_party(dude_tile, dude_elevation)
+      end
+   end
+
+   if (dude_has_car) then
+    Create_Trunk(CAR_NEW_RENO2_HEX, CAR_NEW_RENO_ELEV) //added by killap - trunk could be lost after sleeping with the bishop woomen
+end

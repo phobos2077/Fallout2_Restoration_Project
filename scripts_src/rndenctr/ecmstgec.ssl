@@ -1,0 +1,24 @@
+#define SCRIPT_REALNAME "ecmstgec"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
+
+#include "../headers/random_merchant.h"
+#define CITY_START              (CITY_GECKO)
+#define CITY_END                (CITY_BROKEN_HILLS)
+
+#define restock \
+   if (random(0,99) < 33) then begin \
+      item:=create_object(PID_SHOTGUN_SHELLS,0,0); \
+      add_mult_objs_to_inven(self_obj,item,random(1,3)); \
+   end \
+   if (random(0,99) < 25) then begin \
+      item:=create_object(PID_LEATHER_ARMOR,0,0); \
+      add_obj_to_inven(self_obj,item); \
+   end \
+   item:=create_object(PID_LEATHER_JACKET,0,0); \
+   add_obj_to_inven(self_obj,item); \
+   item:=create_object(PID_STIMPAK,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,5)); \
+   item:=create_object(PID_WRENCH,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(1,3))
+
+#include "../template/random_merchant.ssl"

@@ -1,0 +1,345 @@
+/*
+       Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: Den
+        Description:
+
+        Log:
+
+           Created: August 22, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "dcg2grd"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_DCG2GRD
+#define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/den.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_exit_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+procedure combat_p_proc;
+procedure push_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011; //added by killap -expansion
+procedure Node012; //added by killap -expansion
+procedure Node013; //added by killap -expansion
+procedure Node014; //added by killap -expansion
+procedure Node015; //added by killap -expansion
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Flags                        (4)
+#define LVAR_Home_Tile                    (5)
+#define LVAR_Home_Rotation                (6)
+#define LVAR_Attack_Tyler_Wait            (7) //added by killap - expansion
+
+#define self_gang                         gang_2
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+import variable gang_1_member_1;
+import variable gang_1_member_2;
+import variable gang_1_member_3;
+import variable gang_1_member_4;
+import variable gang_1_member_5;
+import variable gang_2_member_1;
+import variable gang_2_member_2;
+import variable gang_2_member_3;
+import variable gang_2_member_4;
+import variable gang_2_member_5;
+import variable church_door_obj;
+
+procedure start begin
+end
+
+procedure push_p_proc begin
+   gang_member_push_proc
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == timed_event_float) then begin
+      if (combat_is_initialized == false) then begin
+      end
+      // flush_add_timer_event_sec(self_obj, random(, ), timed_event_float);
+   //added by killap - expansion
+   end else if (fixed_param == 2) then begin
+      if (combat_is_initialized == false) then begin
+         if ( (self_distance_from_dude > 10) and (gang_war_dude_stray_message == false) ) then begin
+            start_dialog_at_node(Node015);
+         end else begin
+            set_den_flag_off(gang_war_dude_stray_message_bit, 3);
+         end
+      end
+   end
+//end added
+end
+
+procedure map_update_p_proc begin
+   gang_map_update_p_proc
+end
+
+procedure map_enter_p_proc begin
+
+   gang_member_map_enter
+
+   //added by killap - expansion
+   if (cur_map_index == MAP_DEN_ENTRANCE) then begin
+      if (gangwar(state_gangwar_in_fight)) then begin
+         set_self_invisible;
+      end else begin
+         set_self_visible;
+      end
+   end else if (cur_map_index == MAP_DEN_BUSINESS and at_party_fight) then begin
+      set_self_invisible;
+   end else begin
+      if ((gangwar(state_gangwar_2won)) or (gangwar(state_gangwar_in_fight))) then begin
+         set_self_visible;
+      end else begin
+         set_self_invisible;
+      end
+   end
+
+   //added by killap
+   if (gang_2_member_2_killed and self_pid == PID_GUN_GUARD_MALE) then
+      destroy_object(gang_2_member_2);
+   if (gang_2_member_3_killed and self_pid == PID_MELEE_GUARD_MALE) then
+      destroy_object(gang_2_member_3);
+   if (gang_2_member_4_killed and self_pid == PID_AGILE_GUARD_FEMALE) then
+      destroy_object(gang_2_member_4);
+   //end added
+
+   if ( (cur_map_index == MAP_DEN_RESIDENTIAL) and (gangwar(state_gangwar_2won)) ) then
+   destroy_object(self_obj);
+
+   ndebug("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
+   ndebug("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
+
+end
+
+procedure map_exit_p_proc begin
+end
+
+procedure combat_p_proc begin
+   gang_combat_p_proc
+end
+
+procedure critter_p_proc begin
+   if not self_obj then return;
+
+   gang_critter_p_proc
+
+   //added by killap - expansion
+   if (gangwar(state_gangwar_2won)) then begin
+      if (self_team == TEAM_PLAYER) then begin
+         set_self_team(TEAM_DEN_GANG_2);
+      end
+   end
+
+   if (lara_dead) then begin
+      if (cur_map_index == MAP_DEN_BUSINESS) then begin
+         if (gangwar(state_gangwar_in_fight)) then begin
+            if (church_cleared_speech == false) then begin
+               if (global_var(gang_1) <= 4) then begin
+                  if (not combat_is_initialized) then begin
+                     terminate_combat;
+                  end
+                  start_dialog_at_node(Node011);
+               end
+            end else if ( (self_distance_from_dude > 10) and (returned_to_church == false) and (gang_war_dude_stray_message == false) ) then begin
+               start_dialog_at_node(Node015);
+            end
+         end
+      end
+   end
+
+   if ( (gangwar(state_gangwar_2won)) and (cur_map_index == MAP_DEN_RESIDENTIAL) ) then begin
+      if (lara_dead == false) then begin
+         if (returned_to_church) then begin
+            destroy_object(self_obj);
+         end
+      end else begin
+         if (returned_to_church) then begin
+            destroy_object(self_obj);
+         end else begin
+            floater(400);
+            set_returned_to_church;
+         end
+      end
+   end
+   //end added
+
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      gang_member_damage
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   ndebug("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   if ((hostile) or (gang_hostile)) then begin
+      call Node001;
+   end else if (gangwar(state_gangwar_in_fight)) then begin
+      //added by killap - expansion
+      if ( (local_var(LVAR_Attack_Tyler_Wait)) and (lara_dead) ) then begin
+         start_dialog_at_node(Node014);
+      //end added by killap - expansion
+   end else begin
+      call Node010;
+   end
+   end else if (metzger_dead) then begin
+      call Node002;
+   end else if (gangwar(state_gangwar_2won)) then begin
+      if (lara_dead == false) then begin
+         call Node003;
+      end else begin
+         call Node009;
+      end
+   end else if (gangwar(state_gangwar_no_show)) then begin
+      call Node004;
+   end else if (gangwar(state_gangwar_coward)) then begin
+      call Node005;
+   end else if (gangwar(state_gangwar_fight)) then begin
+      call Node006;
+   end else if (gangwar(state_gangwar_none)) then begin
+      call Node007;
+   end else begin
+      call Node008;
+   end
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   dest_gang_member;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + self_is_female);
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+procedure Node999 begin
+end
+
+procedure Node001 begin
+   floater_rand(201 - dude_is_male, 204 + dude_is_female);
+   //self_attack_dude;
+   set_hostile; // replaced the above with this since the script crashes if we attack from dialogue. -killap
+end
+procedure Node002 begin
+   floater_rand(225,228);
+end
+procedure Node003 begin
+   floater_rand(240,246);
+end
+procedure Node004 begin
+   floater_rand(247,250);
+end
+procedure Node005 begin
+   floater_rand(251,254);
+end
+procedure Node006 begin
+   floater_rand(255,260);
+end
+procedure Node007 begin
+   floater_rand(270,275);
+end
+procedure Node008 begin
+   floater_rand(300,306);
+end
+procedure Node009 begin
+   floater_rand(310, 316);
+end
+procedure Node010 begin
+   floater_rand(350, 352);
+end
+
+//added by killap - expansion
+procedure Node011 begin
+   set_church_cleared_speech;
+   Reply(500);
+   NOption(501, Node012, 004);
+   NOption(502, Node013, 004);
+end
+
+procedure Node012 begin
+   set_local_var(LVAR_Attack_Tyler_Wait,1);
+   flush_add_timer_event_sec(self_obj, 8, 2);
+end
+
+procedure Node013 begin
+   set_local_var(LVAR_Attack_Tyler_Wait,0);
+   set_at_party_fight;
+   load_map(MAP_DEN_RESIDENTIAL, 555);
+end
+
+procedure Node014 begin
+   Reply(510);
+   NOption(501, Node012, 004);
+   NOption(502, Node013, 004);
+end
+
+procedure Node015 begin
+   set_gang_war_dude_stray_message;
+   Reply(520);
+   NOption(501, Node012, 004);
+   NOption(502, Node013, 004);
+end
+//end added

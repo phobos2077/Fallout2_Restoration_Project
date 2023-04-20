@@ -1,0 +1,35 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai26"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI26          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_p_proc;
+
+procedure start
+begin
+end
+
+procedure use_p_proc
+begin
+   if (global_var(GVAR_DYNAMITE_SETTING) == 0) then begin
+      display_msg(mstr(100));
+   end else begin
+      set_global_var(GVAR_DYNAMITE_TRIGGER,1);
+      display_msg(mstr(101));
+   end
+end

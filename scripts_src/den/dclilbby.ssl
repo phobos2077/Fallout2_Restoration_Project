@@ -1,0 +1,284 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "dclilbby"
+#include "../headers/define.h"
+#include "../headers/den.h"
+#include "../headers/denres1.h"
+
+#define NAME                    SCRIPT_DCLILBBY
+#define TOWN_REP_VAR            GVAR_TOWN_REP_THE_DEN
+
+#include "../headers/command.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+
+procedure Node999;
+procedure Node998;
+
+procedure Node001;
+procedure Node002;
+procedure Node002a;
+procedure Node002b;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Flags                      (4)
+#define LVAR_Herebefore                 (5)
+#define LVAR_Hostile                    (6)
+#define LVAR_Personal_Enemy             (7)
+#define LVAR_Packing                    (8)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   if (map_var(MVAR_Johnny_Move) == 2) then
+      display_msg(mstr(103));
+   else
+      display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure critter_p_proc begin
+   if ( (self_can_see_dude) and (local_var(LVAR_Herebefore) == 0) )then begin
+      call talk_p_proc;
+   end else
+   if (self_can_see_dude) then begin
+      if (hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   CHECK_LEVEL
+
+   set_self_team(TEAM_DEN_PEASANT);
+
+   if (global_var(GVAR_DEN_ORPHANAGE) == 7) then begin
+      if (map_var(MVAR_Johnny_Move) == 1) then begin
+         set_map_var(MVAR_Johnny_Move,2);
+         move_to(self_obj, 14119, dude_elevation);
+         reg_anim_clear( self_obj );
+         self_rotate(2);
+      end
+   end
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if (map_var(MVAR_Johnny_Move) == 1) then begin
+      if (LVAR_Packing == 0) then begin
+         floater(125);
+         set_local_var(LVAR_Packing, 1);
+      end else floater(random(126,127));
+   end else if (map_var(MVAR_Johnny_Move) == 2) then begin
+      call Node008;
+   end else if (local_var(LVAR_Herebefore) == 1) then begin
+      if ( (global_var(GVAR_DEN_ORPHANAGE) >= 1) ) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node006;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         floater(200);
+      end
+   end else begin
+      set_local_var(LVAR_Herebefore,1);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+   end
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node998 begin
+   set_hostile;
+end
+
+procedure Node001 begin
+   Reply(104 + (dude_is_female));
+   NOption(106,Node002a,004);
+end
+
+procedure Node002a begin
+   Reply(107);
+   NOption(210,Node002b,004);
+   BOption(211,Node002b,004);
+end
+
+procedure Node002b begin
+   Reply(220);
+   GOption(221,Node002,004);
+end
+
+procedure Node002 begin
+   Reply(230);
+   NOption(108,Node003,004);
+   BOption(109,Node005,004);
+end
+
+procedure Node003 begin
+   Reply(110);
+   NOption(112,Node004,004);
+end
+
+procedure Node004 begin
+   set_global_var(GVAR_DEN_ORPHANAGE,1);
+   Reply(113);
+   NOption(114,Node999,004);
+end
+
+procedure Node005 begin
+   inc_general_rep(-2);
+   Reply(111);
+   BOption(115,Node999,004);
+end
+
+procedure Node006 begin
+   Reply(120);
+   if (global_var(GVAR_DEN_ORPHANAGE) >= 6) then
+      NOption(116,Node007,004);
+   else
+      NOption(121,Node999,004);
+end
+
+procedure Node007 begin
+   //set_map_var
+   //increase karma
+   //get xp
+   set_map_var(MVAR_Johnny_Move,1);
+   inc_general_rep(5);
+   display_msg(mstr(122));
+   give_xp(500);
+   Reply(117 + (dude_is_female));
+   NOption(119,Node999,004);
+end
+
+procedure Node008 begin
+   floater(random(123,124));
+end

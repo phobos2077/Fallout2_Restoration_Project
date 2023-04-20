@@ -1,0 +1,136 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: NO
+        Trapped: NO
+        Closing: YES
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "wibaydr2"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_DOOR
+
+#include "../headers/command.h"
+#include "../headers/depolvz.h"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_ELECTRIC_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_CLOSE
+
+/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
+#define Lock_Bonus                      (-80)
+
+/* Door close distance */
+#define DOOR_CLOSE_DIST                 (2)
+
+#define custom_map_enter_p_proc
+#define custom_timed_event_p_proc
+#include "../headers/doors.h"
+
+/* Timer id's */
+#define TIMER_CLOSE                     (1)
+#define CHECK_REPAIR                    (2)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+import variable repair_bot1;
+import variable repair_bot2;
+import variable repair_bot3;
+
+
+procedure timed_event_p_proc begin
+
+   //added by killap
+   if (fixed_param == CHECK_REPAIR) then begin
+      if (repair_bot1 > 0 or repair_bot2 > 0 or repair_bot3 > 0) then begin
+         if ( (map_var(MVAR_Repair_Request1) > REPAIR_NONE) or (map_var(MVAR_Repair_Request2) > REPAIR_NONE) or (map_var(MVAR_Repair_Request3) > REPAIR_NONE) or
+            (map_var(MVAR_Repair_Request4) > REPAIR_NONE) or (map_var(MVAR_Repair_Request5) > REPAIR_NONE) or (map_var(MVAR_Repair_Request6) > REPAIR_NONE) or
+            (map_var(MVAR_Repair_Request7) > REPAIR_NONE) or (map_var(MVAR_Repair_Request8) > REPAIR_NONE) or (map_var(MVAR_Repair_Request9) > REPAIR_NONE) or
+            (map_var(MVAR_Repair_Request10) > REPAIR_NONE) or (map_var(MVAR_Repair_Request11) > REPAIR_NONE) or (map_var(MVAR_Repair_Request12) > REPAIR_NONE) ) then begin
+            if ( ((elevation(repair_bot1) == 0 and elevation(repair_bot2) == 0  and elevation(repair_bot3) == 0) and
+            ((tile_in_box(tile_num(repair_bot1), 21743, 21737, 23537, 23543)) or
+            (tile_in_box(tile_num(repair_bot2), 21743, 21737, 23537, 23543)) or
+            (tile_in_box(tile_num(repair_bot3), 21743, 21737, 23537, 23543)))) or
+
+            ((tile_distance(self_tile,tile_num(repair_bot1)) < 5 and is_visible(repair_bot1) and elevation(repair_bot1) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot2)) < 5 and is_visible(repair_bot2) and elevation(repair_bot2) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot3)) < 5 and is_visible(repair_bot3) and elevation(repair_bot3) == self_elevation))) then begin
+               obj_unlock(self_obj);
+            end else begin
+               if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+                  obj_lock(self_obj);
+               end
+            end
+         end else begin
+            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+               obj_lock(self_obj);
+            end
+         end
+         add_timer_event(self_obj, 1, CHECK_REPAIR);
+      end
+   end
+   //end added
+
+   if (obj_is_open(self_obj)) then begin
+      if not combat_is_initialized then begin
+         if ((tile_distance_objs(dude_obj, self_obj) > DOOR_CLOSE_DIST) and
+             (checkPartyMembersNearDoor == false) and
+             ((tile_distance_objs(self_obj, last_source_obj) > DOOR_CLOSE_DIST) or
+              (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
+            obj_close(self_obj);
+         end else begin
+            add_timer_event(self_obj, 10, TIMER_CLOSE);
+         end
+      end else begin
+         add_timer_event(self_obj, 10, TIMER_CLOSE);
+      end
+   end
+end
+
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+procedure map_enter_p_proc begin
+
+/* Set up the door state when the player first enters the map */
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+   end
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_close(self_obj);
+       obj_lock(self_obj);
+   end
+
+   else begin
+       obj_unlock(self_obj);
+   end
+
+   add_timer_event(self_obj, 1, CHECK_REPAIR); //added by killap
+end

@@ -1,0 +1,120 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "zismoke"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ZISMOKE
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+procedure remove;
+
+#define LVAR_Count                     (0)
+
+#define CHARGES 10
+
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) then begin
+      reg_anim_clear(dude_obj);
+   	reg_anim_begin();
+   	reg_anim_animate(dude_obj, ANIM_falling, -1);
+   	reg_anim_play_sfx(dude_obj, "powr", 6);
+   	reg_anim_animate(dude_obj, ANIM_jump_begin, -1);
+   	reg_anim_play_sfx(dude_obj, "zippo", 9);
+   	reg_anim_animate_reverse(dude_obj, 5, -1);
+   	reg_anim_play_sfx(dude_obj, "powrb", 8);
+   	reg_anim_end();
+   end else begin
+      reg_anim_clear(dude_obj);
+   	reg_anim_begin();
+   	reg_anim_animate(dude_obj, ANIM_jump_begin, -1);
+   	reg_anim_play_sfx(dude_obj, "zippo", 10);
+   	reg_anim_end();
+   end
+end
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if not (combat_is_initialized) then begin
+      if (dude_is_male) then begin
+         if ( ((obj_pid(dude_armor) == PID_POWERED_ARMOR) or (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
+         	script_overrides;
+         	if (local_var(LVAR_Count) == 0) then
+         	  display_msg(mstr(100));
+         	else
+         	  display_msg(mstr(101));
+
+            add_timer_event(self_obj, 1, 1);
+
+         	set_local_var(LVAR_Count,local_var(LVAR_Count)+1);
+
+         	if (local_var(LVAR_Count) == CHARGES) then begin
+               script_overrides;
+               call remove;
+            end
+
+         end
+
+         else if ( (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
+         	script_overrides;
+            display_msg(mstr(102));
+         end
+
+         else if ((dude_is_male) and (source_obj == dude_obj) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
+         	script_overrides;
+         	if (local_var(LVAR_Count) == 0) then
+         	  display_msg(mstr(100));
+         	else
+         	  display_msg(mstr(101));
+
+         	add_timer_event(self_obj, 1, 0);
+
+         	set_local_var(LVAR_Count,local_var(LVAR_Count)+1);
+
+            if (local_var(LVAR_Count) == CHARGES) then begin
+               script_overrides;
+               call remove;
+            end
+         end
+
+         if (dude_item_count(PID_LIGHTER) == 0) then begin
+            script_overrides;
+            display_msg(mstr(104));
+         end
+
+      end
+   end else begin
+      display_msg(mstr(250));
+   end
+end
+
+procedure remove begin
+   variable item;
+
+   script_overrides;
+   display_msg(mstr(103));
+   set_global_var(GVAR_PLAYER_SMOKER,1);
+   item:=dude_item(PID_CIGARETTE);
+   rm_obj_from_inven(dude_obj,item);
+   //destroy_object(item);
+
+end

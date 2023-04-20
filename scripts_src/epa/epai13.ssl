@@ -1,0 +1,327 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai13"
+#include "../headers/define.h"
+#include "../headers/epasl.h"
+
+#define NAME                    SCRIPT_EPAI13          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure description_p_proc;
+procedure look_at_p_proc;
+procedure talk_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure Node001;
+procedure Node001a;
+procedure Node001b;
+procedure Node002;
+procedure Node003;
+procedure Node003a;
+procedure Node003b;
+procedure Node999;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+
+#define KITSUNE_HIB_HEX    17102
+#define DEX_HIB_HEX        17090
+#define CATJULES_HIB_HEX   17096
+
+variable from_node4 := false;
+variable from_node5 := false;
+variable from_node6 := false;
+
+procedure start
+begin
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(115));
+  //set_global_var(GVAR_ALCOHOL_ADDICT,1);
+  //set_global_var(GVAR_ADDICT_TRAGIC,1);
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(113));
+  else
+    display_msg(mstr(114));
+end
+
+procedure talk_p_proc
+begin
+  from_node4 := false;
+  from_node5 := false;
+  from_node6 := false;
+
+  start_gdialog(NAME, self_obj, 4, -1, -1);
+  gsay_start;
+  call Node001;
+  gsay_end;
+  end_dialogue;
+end
+
+procedure use_p_proc
+begin
+   if (combat_is_initialized == 0) then begin
+      call talk_p_proc;
+   end
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+
+procedure Node001
+begin
+  Reply(100);
+  NOption(101, Node002, 4);
+
+  if ((map_var(MVAR_Cat_Jules_Free) == 0) or (map_var(MVAR_Kitsune_Free) == 0) or (map_var(MVAR_Dex_Free) == 0)) then
+    NOption(102, Node001a, 4);
+  NOption(103, Node999, 4);
+end
+
+procedure Node001a begin
+  Reply(106);
+
+  if (global_var(GVAR_NEED_ERSI) == 0) then
+    set_global_var(GVAR_NEED_ERSI,1);
+
+  if (dude_item_count(PID_ERSI) > 0) then begin
+    NOption(116, Node001b, 4);
+  end else begin
+    NOption(117, Node001b, 4);
+    NOption(120, Node999, 4);
+  end
+
+  NOption(214, Node001, 4);
+
+end
+
+procedure Node001b
+begin
+  Reply(300);
+  if (map_var(MVAR_Cat_Jules_Free) == 0) then
+   NOption(301, Node004, 4);
+  if (map_var(MVAR_Dex_Free) == 0) then
+   NOption(302, Node006, 4);
+  if (map_var(MVAR_Kitsune_Free) == 0) then
+    NOption(303, Node005, 4);
+    NOption(214, Node001, 4);
+end
+
+procedure Node002
+begin
+  Reply(104);
+  NOption(200, Node007, 4);
+  NOption(105, Node001, 4);
+end
+
+procedure Node003
+begin
+
+   if (dude_item_count(PID_ERSI) > 0) then begin
+      remove_pid_qty(dude_obj, PID_ERSI, 1)
+      set_global_var(GVAR_NEED_ERSI,2);
+   end else begin
+      set_global_var(GVAR_NEED_ERSI,1);
+   end
+
+   if (global_var(GVAR_NEED_ERSI) == 2) then begin
+      call Node003a;
+   end else begin
+      if (from_node4) then begin
+         set_map_var(MVAR_Cat_Jules_Free,2);
+         from_node4 := false;
+      end else if (from_node5) then begin
+         set_map_var(MVAR_Kitsune_Free,2);
+         from_node5 := false;
+      end else if (from_node6) then begin
+         set_map_var(MVAR_Dex_Free,2);
+         from_node6 := false;
+      end
+      call Node003b;
+   end
+end
+
+procedure Node003a begin
+   //set_local_var(LVAR_Hostile, 6);
+   Reply(118);
+   NOption(103, Node999, 4);
+end
+
+procedure Node003b begin
+   //set_local_var(LVAR_Hostile, 6);
+   Reply(119);
+   NOption(103, Node999, 4);
+end
+
+procedure Node999
+begin
+
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end
+
+
+procedure Node004
+begin
+  variable chamber := 0;
+  from_node4 := true;
+  //LVar1 := create_object_sid(PID_SPECIMEN_FROM_TANK_ONE, 17328, 2, -1);
+  //critter_attempt_placement(LVar1, 17328, 2);
+
+  set_map_var(MVAR_Cat_Jules_Free,1);
+
+  destroy_object(tile_contains_pid_obj(CATJULES_HIB_HEX,dude_elevation,33556342));
+  chamber:=create_object(33556341,CATJULES_HIB_HEX,dude_elevation);
+
+  Reply(110);
+  NOption((g_mstr(353)), Node003, 4);
+end
+
+//female
+procedure Node005
+begin
+  variable chamber := 0;
+  from_node5 := true;
+  //LVar1 := create_object_sid(PID_SPECIMEN_FROM_TANK_THREE, 17520, 2, -1);
+  //critter_attempt_placement(LVar1, 17520, 2);
+
+  set_map_var(MVAR_Kitsune_Free,1);
+
+
+  destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556337));
+  chamber:=create_object(33556339,KITSUNE_HIB_HEX,dude_elevation);
+  Reply(111);
+  NOption((g_mstr(353)), Node003, 4);
+end
+
+procedure Node006
+begin
+  //variable LVar1 := 0;
+  variable chamber := 0;
+  from_node6 := true;
+//SCRIPT_EPAC11
+  //LVar1 := create_object_sid(PID_SPECIMEN_FROM_TANK_TWO, 16729, dude_elevation, -1);
+  //critter_attempt_placement(LVar1, 16729, dude_elevation);
+
+  set_map_var(MVAR_Dex_Free,1);
+
+  destroy_object(tile_contains_pid_obj(DEX_HIB_HEX,dude_elevation,33556338));
+  chamber:=create_object(33556340,DEX_HIB_HEX,dude_elevation);
+
+  Reply(109);
+  NOption((g_mstr(353)), Node003, 4);
+end
+
+
+procedure Node007 begin
+   Reply(210);
+
+   NOption(211, Node008, 004);
+   NOption(212, Node010, 004);
+   NOption(213, Node015, 004);
+   NOption(105, Node001, 004);
+end
+
+procedure Node008 begin
+   set_map_var(MVAR_Read_Kitsune_Bio,1);
+   Reply(220);
+
+   NOption(221, Node009, 004);
+end
+
+
+procedure Node009 begin
+   Reply(222);
+
+   NOption(214, Node007, 004);
+   NOption(105, Node001, 004);
+end
+
+
+procedure Node010 begin
+   set_map_var(MVAR_Read_Dex_Bio,1);
+   Reply(230);
+
+   NOption(231, Node011, 004);
+end
+
+procedure Node011 begin
+   Reply(232);
+
+   NOption(233, Node012, 004);
+end
+
+procedure Node012 begin
+   Reply(234);
+
+   NOption(235, Node013, 004);
+end
+
+procedure Node013 begin
+   Reply(236);
+
+   NOption(237, Node014, 004);
+end
+
+procedure Node014 begin
+   Reply(238);
+
+   NOption(214, Node007, 004);
+   NOption(105, Node001, 004);
+end
+
+procedure Node015 begin
+   set_map_var(MVAR_Read_Cat_Jules_Bio,1);
+   Reply(240);
+
+   NOption(241, Node016, 004);
+end
+
+procedure Node016 begin
+   Reply(242);
+
+   NOption(243, Node017, 004);
+end
+
+procedure Node017 begin
+   Reply(244);
+
+   NOption(214, Node007, 004);
+   NOption(105, Node001, 004);
+end

@@ -1,0 +1,389 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: Yes
+        Trapped: Yes
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "hscrldr"
+#include "../headers/broken1.h"
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+/* Penalties for disarming the trap */
+
+//added by killap - makes for easier changes in the future
+#define JAIL_DOOR_1_HEX 10890
+#define JAIL_DOOR_2_HEX 10886
+
+/* Standard Script Procedures */
+
+procedure timed_event_p_proc;
+procedure key_unlock_door;
+procedure key_lock_door;
+
+#define custom_start
+#define custom_use_obj_on_p_proc
+#define custom_Lockpick_Door
+#define custom_damage_p_proc
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
+#define custom_use_skill_on_p_proc
+#define custom_timed_event_p_proc
+#define custom_use_p_proc
+#include "../headers/doors.h"
+
+import variable Jail_Door_1;
+import variable Jail_Door_2;
+import variable Guard_Ptr;
+
+procedure start begin
+   if( self_tile == JAIL_DOOR_1_HEX) then
+      Jail_Door_1 := self_obj;
+   else if( self_tile == JAIL_DOOR_2_HEX) then
+      Jail_Door_2 := self_obj;
+end
+
+procedure timed_event_p_proc begin
+   set_map_var(MVAR_Lockpick_Attempt,0);
+end
+
+procedure anger begin
+   set_map_var(MVAR_Lockpick_Attempt, 1); //if guard is watching...stop the dude
+   add_timer_event(self_obj,game_ticks(3),0);
+end
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure use_p_proc begin
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+
+   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+
+   // First, check to see if the Guard sees you
+   if( ( obj_can_see_obj( Guard_Ptr, dude_obj ) ) and ( global_var( GVAR_BH_JAIL ) != JAIL_CHARISMA ) ) then begin
+      script_overrides;
+      set_map_var( MVAR_Lockpick_Attempt, 1 );
+   end
+   else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+       if (is_success(Traps_Roll)) then begin
+           script_overrides;
+           set_local_var(LVAR_Found_Trap,1);
+           reg_anim_clear(source_obj);
+
+           if (source_obj == dude_obj) then begin
+               display_msg(mstr(204));
+           end
+           else begin
+               display_msg(mstr(205));
+           end
+       end
+
+       else begin
+           if (obj_is_locked(self_obj)) then begin
+               script_overrides;
+               display_msg(mstr(203));
+               call Damage_Critter;
+           end
+           else begin
+               call Damage_Critter;
+           end
+       end
+   end
+
+   else begin
+      if (obj_is_locked(self_obj)) then begin
+          script_overrides;
+          display_msg(mstr(203));
+      end
+      else if (global_var(GVAR_JAIL_BREAK) == 0) then begin
+         set_global_var(GVAR_JAIL_BREAK, JB_IN_PROGRESS);
+      end
+   end
+end
+
+/**********************************************************************************
+   Should the player try using a skill on the door, here are where the skill rolls
+   will be made. The ones which need to be in here are: Lockpick and Traps. Science
+   and Repair can be added to this list to give more information about the door.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   variable Skill_Used;
+
+   Skill_Used:=action_being_used;
+
+   // First, check to see if the Guard sees you
+   if( ( obj_can_see_obj( Guard_Ptr, dude_obj ) ) and ( global_var( GVAR_BH_JAIL ) != JAIL_CHARISMA ) ) then begin
+      script_overrides;
+      set_map_var( MVAR_Lockpick_Attempt, 1 );
+   end
+   else if (Skill_Used == SKILL_LOCKPICK) then begin
+       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+           script_overrides;
+           call Unlock_Lock;
+       end
+       else begin
+           script_overrides;
+           call Set_Lock;
+       end
+   end                                                          // End of Skill_Lockpick
+
+   else if (Skill_Used == SKILL_TRAPS) then begin
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+           script_overrides;
+           call Skill_Disarm_Traps;
+       end
+       else begin
+           if (source_obj == dude_obj) then begin
+               script_overrides; //added by killap
+               display_msg(mstr(195));
+           end
+
+           else begin
+               script_overrides; //added by killap
+               display_msg(obj_name(source_obj)+mstr(200));
+           end
+       end
+   end                                                          // End of Skill_Traps
+
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   // First, check to see if the Guard sees you
+   if( ( obj_can_see_obj( Guard_Ptr, dude_obj ) ) and ( global_var( GVAR_BH_JAIL ) != JAIL_CHARISMA ) ) then begin
+      script_overrides;
+      set_map_var( MVAR_Lockpick_Attempt, 1 );
+   end
+   else trap_block
+   else pry_block
+   else if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
+       if (Tool == PID_CELL_DOOR_KEY) then begin
+          if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+             script_overrides;
+             call key_unlock_door;
+          end
+          else begin
+             script_overrides;
+             call key_lock_door;
+          end
+       end
+       else std_lockpick_inner_block
+   end
+   elec_lockpick_outer_block
+end
+
+procedure key_unlock_door begin
+   set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
+   obj_unlock(self_obj);                                    // engine unlock door
+   script_overrides;
+   display_msg(mstr(300));
+end
+
+procedure key_lock_door begin
+   script_overrides;
+   if (obj_is_open(self_obj)) then
+       display_msg(mstr(302));
+   else begin
+      set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
+      obj_lock(self_obj);                                      // engine unlock door
+      display_msg(mstr(301));
+   end
+end
+
+/******************************************************************************************
+   Should the door sustain damage from anything (ie, dynamite, plastic explosives, rockets,
+   or any other forms of damage), this procedure will be called to destroy the door and
+   free up the space.
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   variable Trap_Damage;
+
+  /************ Wood Door ****************/
+ if (weapon_dmg_type(target_obj) == DMG_explosion) then begin //added by killap
+   set_global_var(GVAR_JAIL_BREAK, JB_IN_PROGRESS); //added by killap
+   if (DOOR_STATUS == STATE_WOOD) then begin
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+           set_local_var(LVAR_Trapped, STATE_INACTIVE);
+           set_local_var(LVAR_Locked, STATE_INACTIVE);
+           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+           explosion(self_tile, self_elevation, Trap_Damage);
+           destroy_object(self_obj);
+       end
+
+       else begin
+           set_local_var(LVAR_Trapped, STATE_INACTIVE);
+           set_local_var(LVAR_Locked, STATE_INACTIVE);
+           destroy_object(self_obj);
+       end
+   end
+
+  /************ Metal Door ****************/
+
+   else if (DOOR_STATUS == STATE_METAL) then begin
+       set_local_var(LVAR_Explosion_Attempts,local_var(LVAR_Explosion_Attempts)+1);
+       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+           set_local_var(LVAR_Locked, STATE_INACTIVE);
+           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+           explosion(self_tile, self_elevation, Trap_Damage);
+       end
+
+       else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
+           set_local_var(LVAR_Trapped, STATE_INACTIVE);
+           set_local_var(LVAR_Locked,STATE_INACTIVE);
+           destroy_object(self_obj);
+       end
+   end
+ end
+   else begin
+       display_msg(mstr(193));
+   end
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+/* Set up the door state when the player first enters the map */
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+   end
+
+   //added by killap
+   if ( (obj_is_locked(self_obj)) and (local_var(LVAR_Locked) != STATE_ACTIVE) ) then begin
+      set_local_var(LVAR_Locked,STATE_ACTIVE);
+   end
+   //end added
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+      obj_close(self_obj);
+      obj_lock(self_obj);
+   end else begin
+      obj_unlock(self_obj);
+   end
+
+   if( self_tile == JAIL_DOOR_1_HEX) then
+      Jail_Door_1 := self_obj;
+   else if( self_tile == JAIL_DOOR_2_HEX) then
+      Jail_Door_2 := self_obj;
+end
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time. It is used to make
+   sure that the door does not lock on it's own and that the player will be able to get
+   through once he has unlocked the door. Once more, this is so that locking and
+   unlocking do not need to be done in Mapper.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   //added by killap
+   if ( (obj_is_locked(self_obj)) and (local_var(LVAR_Locked) != STATE_ACTIVE) ) then begin
+      set_local_var(LVAR_Locked,STATE_ACTIVE);
+   end
+   //end added
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+      obj_close(self_obj);
+      obj_lock(self_obj);
+   end else begin
+      obj_unlock(self_obj);
+   end
+
+   if( self_tile == JAIL_DOOR_1_HEX) then
+      Jail_Door_1 := self_obj;
+   else if( self_tile == JAIL_DOOR_2_HEX) then
+      Jail_Door_2 := self_obj;
+end
+
+/***************************************************************************
+   This procedure will check against the roll_vs_lockpick to see if the
+   source_object will unlock the door and display the appropriate messages
+***************************************************************************/
+
+procedure Lockpick_Door begin
+   //call anger;
+   // First, check to see if the Guard sees you
+   if( obj_can_see_obj( Guard_Ptr, dude_obj ) ) then begin
+      script_overrides;
+      set_map_var( MVAR_Lockpick_Attempt, 1 );
+   end
+   else if (is_success(Locks_Roll)) then begin
+       set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
+       obj_unlock(self_obj);                                    // engine unlock door
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(170));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(173));
+       end
+
+       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
+           set_local_var(LVAR_Gave_Locks_XP,1);
+           give_xp(Lockpick_Exp);
+       end
+   end
+
+   else if (is_critical(Locks_Roll)) then begin
+       jam_lock(self_obj);
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(171));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(174));
+       end
+   end
+
+   else begin
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(172));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(175));
+       end
+   end
+end
+

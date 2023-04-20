@@ -1,0 +1,1 @@
+{100}{}{Na podstavci je cedule, na které stojí - "Neznámému a Vaultu 13: Co neexistuje, to si musíme představit ve snech a nechat se jimi inspirovat k lepším zítřkům. Tak to bylo i s Neznámým a jeho vírou v legendu o Vaultu 13.}

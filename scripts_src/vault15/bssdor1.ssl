@@ -1,0 +1,244 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: YES
+        Trapped: YES
+        Closing: NO
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "bssdor1"
+
+/* Sets whether the door is locked or trapped or closing */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_ACTIVE
+#define DOOR_STATUS                     STATE_WOOD
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+#define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
+
+#define custom_start
+#define custom_use_obj_on_p_proc
+#define custom_Damage_Critter
+#define custom_Lockpick_Door
+#define custom_timed_event_p_proc
+#define custom_use_p_proc
+#include "../headers/doors.h"
+
+#include "../headers/v15sent.h"
+#include "../headers/v15.h"
+
+import variable i_cell_door;
+
+procedure start begin
+   if (self_tile == CELL_DOOR_TILE) then begin
+      i_cell_door := self_obj;
+   end
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_CLOSE) then begin
+      if (obj_is_open(self_obj)) then begin
+         if not combat_is_initialized then begin
+            if (tile_distance_objs(self_obj, last_source_obj) < DOOR_CLOSE_DIST and critter_state(last_source_obj) != CRITTER_IS_DEAD) then
+               add_timer_event(self_obj, 10, TIMER_CLOSE);
+            else
+               obj_close(self_obj);
+         end else
+            add_timer_event(self_obj, 10, TIMER_CLOSE);
+      end
+   end else if (fixed_param == TIMER_UNLOCK) then begin
+      obj_unlock(self_obj);
+      set_local_var(LVAR_Locked, STATE_INACTIVE);
+      set_local_var(LVAR_Trapped, STATE_INACTIVE);
+   end
+end
+
+/********************************************************************
+   Any time that a critter tries to use this door will call this
+   procedure. it will check to see if the door is trapped and locked.
+********************************************************************/
+
+procedure use_p_proc begin
+/* Trap_Roll is a global variable to this script, defined at the beginning
+   of the script. */
+
+   Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
+
+   if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+       if (is_success(Traps_Roll)) then begin
+           script_overrides;
+           set_local_var(LVAR_Found_Trap,1);
+           reg_anim_clear(source_obj);
+
+           if (source_obj == dude_obj) then begin
+               display_msg(mstr(204));
+           end
+           else begin
+               display_msg(mstr(205));
+           end
+       end
+
+       else begin
+           if (obj_is_locked(self_obj)) then begin
+               script_overrides;
+               display_msg(mstr(203));
+               call Damage_Critter;
+           end
+           else begin
+               call Damage_Critter;
+           end
+       end
+   end
+
+   else if (obj_is_locked(self_obj)) then begin
+       script_overrides;
+       display_msg(mstr(203));
+   end
+
+   if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin
+      last_source_obj := source_obj;
+      add_timer_event(self_obj, 10, TIMER_CLOSE);
+   end
+
+   set_map_var(MVAR_Khans_Check, 1);
+
+end
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+procedure use_obj_on_p_proc begin
+   variable Tool;
+
+   Tool:=obj_pid(obj_being_used_with);
+
+   pry_trap_block
+   if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
+       if (Tool == PID_LOCKPICKS) then begin
+           script_overrides; //added by killap
+           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+               call Lockpick_Lock;
+           end
+           else begin
+               call Set_Lockpick_Lock;
+           end
+       end else if (Tool == PHIL_KEY_PID) then begin
+          script_overrides;
+          if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+             obj_unlock(self_obj);
+             set_local_var(LVAR_Locked, STATE_INACTIVE);
+             set_local_var(LVAR_Trapped, STATE_INACTIVE);
+             display_msg(mstr(300));
+          end
+       end else if (Tool == PID_EXP_LOCKPICK_SET) then begin
+          script_overrides; //added by killap
+          if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+             call Super_Lockpick_Lock;
+          end
+          else begin
+             call Super_Set_Lockpick_Lock;
+          end
+       end else begin
+          script_overrides; //added by killap
+          obj_lock(self_obj);
+          set_local_var(LVAR_Locked, STATE_ACTIVE);
+          display_msg(mstr(189));
+       end
+   end
+   elec_lockpick_outer_block
+
+end
+
+/***************************************************************************
+   This procedure will check against the roll_vs_lockpick to see if the
+   source_object will unlock the door and display the appropriate messages
+***************************************************************************/
+
+procedure Lockpick_Door begin
+   if (is_success(Locks_Roll)) then begin
+       set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
+       obj_unlock(self_obj);                                    // engine unlock door
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(170));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(173));
+       end
+
+       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
+           set_local_var(LVAR_Gave_Locks_XP,1);
+           give_xp(Lockpick_Exp);
+       end
+   end
+
+   else if (is_critical(Locks_Roll)) then begin
+       jam_lock(self_obj);
+
+       set_map_var(MVAR_Khans_Check, 1);
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(171));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(174));
+       end
+   end
+
+   else begin
+       set_map_var(MVAR_Khans_Check, 1);
+
+       if (source_obj == dude_obj) then begin
+           display_msg(mstr(172));
+       end
+
+       else begin
+           display_msg(obj_name(source_obj)+mstr(175));
+       end
+   end
+end
+
+/**************************************************************************************
+   Should the trap go off for any reason by critter influence, then this procedure will
+   be called to deal damage to the critter, display a message stating how much damage
+   was taken, and remove the trap.
+**************************************************************************************/
+procedure Damage_Critter begin
+   variable Trap_Damage;
+
+   Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+
+   if (source_obj == dude_obj) then begin
+       critter_dmg(dude_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+/* display_msg("You set off the trap and were hit for "+Trap_Damage+" points of damage.);                 */
+       display_msg(mstr(166)+Trap_Damage+mstr(167));
+       set_map_var(MVAR_Khans_Check, 1);
+   end
+
+   else begin
+       critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
+/* display_msg(Critter_Name+" set off the trap was hit for "+Trap_Damage+" points of damage");        */
+       display_msg(obj_name(source_obj)+mstr(168)+Trap_Damage+mstr(169));
+   end
+
+/* The trap is now disarmed and should never go off again.                           */
+   set_local_var(LVAR_Trapped, STATE_INACTIVE);
+end
+

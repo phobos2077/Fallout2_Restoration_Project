@@ -1,0 +1,972 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "nccorbro"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCCORBRO
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node005;
+procedure Node006;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+procedure Node038;
+procedure Node039;
+procedure Node040;
+procedure Node041;
+procedure Node042;
+procedure Node043;
+procedure Node044;
+procedure Node045;
+procedure Node046;
+procedure Node047;
+procedure Node048;
+procedure Node049;
+procedure Node050;
+procedure Node051;
+procedure Node052;
+procedure Node053;
+procedure Node054;
+procedure Node055;
+procedure Node056;
+procedure Node057;
+procedure Node058;
+procedure Node059;
+procedure Node060;
+procedure Node061;
+procedure Node062;
+procedure Node063;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                     (4)
+#define LVAR_Sex_Counter               (5)
+#define LVAR_Deal                      (6)
+
+#define brother_bit                    bit_10
+#define pissed_bit                     bit_11
+#define enclave_movie_bit              bit_12
+#define know_bros_bit                  bit_13
+#define know_cube_bit                  bit_14
+#define steal_cube_bit                 bit_15
+#define bad_name_bit                   bit_16
+#define finished_enclave_movie_bit     bit_17
+#define faded_bit                      bit_18
+#define spouse_fluff_bit               bit_19
+#define hidden_for_fight_bit           bit_20
+
+#define faded                          lvar_bit(LVAR_Flags, faded_bit)
+#define set_faded                      set_lvar_bit_on(LVAR_Flags, faded_bit)
+#define off_faded                      set_lvar_bit_off(LVAR_Flags, faded_bit)
+
+#define pissed                         lvar_bit(LVAR_Flags, pissed_bit)
+#define set_pissed                     set_lvar_bit_on(LVAR_Flags, pissed_bit)
+
+#define brother_state                  lvar_bit(LVAR_Flags, brother_bit)
+#define switch_brother                 if (brother_state) then begin                   \
+                                          set_lvar_bit_off(LVAR_Flags, brother_bit);   \
+                                       end else begin                                  \
+                                          set_lvar_bit_on(LVAR_Flags, brother_bit);    \
+                                       end
+
+#define enclave_movie                  lvar_bit(LVAR_Flags, enclave_movie_bit)
+#define set_enclave_movie              set_lvar_bit_on(LVAR_Flags, enclave_movie_bit)
+
+#define know_bros                      lvar_bit(LVAR_Flags, know_bros_bit)
+#define set_know_bros                  set_lvar_bit_on(LVAR_Flags, know_bros_bit)
+
+#define know_cube                      lvar_bit(LVAR_Flags, know_cube_bit)
+#define set_know_cube                  set_lvar_bit_on(LVAR_Flags, know_cube_bit)
+
+#define steal_cube                     lvar_bit(LVAR_Flags, steal_cube_bit)
+#define set_steal_cube                 set_lvar_bit_on(LVAR_Flags, steal_cube_bit)
+
+#define bad_name                       lvar_bit(LVAR_Flags, bad_name_bit)
+#define set_bad_name                   set_lvar_bit_on(LVAR_Flags, bad_name_bit)
+
+#define finished_enclave_movie         lvar_bit(LVAR_Flags, finished_enclave_movie_bit)
+#define set_finished_enclave_movie     set_lvar_bit_on(LVAR_Flags, finished_enclave_movie_bit)
+
+#define spouse_fluff                   lvar_bit(LVAR_Flags, spouse_fluff_bit)
+#define set_spouse_fluff               if (spouse_fluff == false) then begin                    \
+                                          inc_general_rep(REP_BONUS_SPOUSE_SUCKS_FOR_DOUGH);    \
+                                       end                                                      \
+                                       set_lvar_bit_on(LVAR_Flags, spouse_fluff_bit)
+
+#define deal_none                      (0)
+#define deal_offer                     (1)
+#define deal_tryout                    (2)
+#define deal_pass_tryout               (3)
+#define deal_deal_0                    (4)
+#define deal_deal_200                  (5)
+#define deal_deal_500                  (6)
+#define get_deal(x)                    (local_var(LVAR_Deal) == x)
+#define set_deal(x)                    set_local_var(LVAR_Deal, x)
+
+#define check_sex_counter              (local_var(LVAR_Sex_Counter) <= game_time)
+#define set_sex_counter                if (check_sex_counter) then set_local_var(LVAR_Sex_Counter, game_time + (30 * ONE_GAME_DAY))
+
+//#define bad_porn_name                  (false) // change if names are not good
+//#define great_porn_name                (false) // change if player chooses a great name
+
+#define bad_porn_name                  dude_porn_star_number == 13
+#define great_porn_name                dude_porn_star_number == (50*dude_is_female) + 3
+
+#define porn_fade_out                  if (faded == false) then gfade_out(5); set_faded
+#define porn_fade_in                   if (faded) then gfade_in(5); off_faded
+
+#define do_fluf(who_fluf, the_caps, the_msg)      porn_fade_out;                                                                  \
+                                                      fluf_time := obj_sex_rating(who_fluf);                                      \
+                                                      game_time_advance((11 - (fluf_time - (fluf_time%10))) * ONE_GAME_MINUTE);   \
+                                                      poison(who_fluf, random(2,4));                                              \
+                                                      if (the_caps > 0) then begin                                                \
+                                                         if (self_caps >= the_caps) then begin                                    \
+                                                            self_caps_adjust(-the_caps);                                \
+                                                         end                                                                      \
+                                                         dude_caps_adjust(the_caps);                                    \
+                                                      end                                                                         \
+                                                   porn_fade_in;                                                                  \
+                                                   if (who_fluf == dude_obj) then begin                                           \
+                                                      set_fluf;                                                                   \
+                                                      if (the_msg != 0) then begin                                                \
+                                                         dude_floater_sick(the_msg);                                              \
+                                                      end                                                                         \
+                                                   end else begin                                                                 \
+                                                      if (the_msg != 0) then begin                                                \
+                                                         float_msg(who_fluf, mstr(the_msg), FLOAT_COLOR_SICK);                    \
+                                                      end                                                                         \
+                                                   end
+
+// No floater is ever displayed if we call this macro in the maco above. Instead, we just directly call float_msg above - killap
+//#define obj_floater_type(z,x,type)  float_msg(z, message_str(NAME, x), FLOAT_COLOR_NORMAL + ((type - FLOAT_COLOR_NORMAL) * has_trait(TRAIT_PERK, dude_obj, PERK_empathy)))
+
+// timer event params
+#define finish_porn_param              (500)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+variable the_msg;
+variable fluf_time;
+variable prev_node;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == float_param) then begin
+      if (self_can_see_dude) then begin
+         if ((combat_is_initialized == false) and (self_visible)) then begin
+            if (steal_cube) then begin
+               call Node063;
+            end else if (enclave_destroyed) then begin
+               call Node001;
+            end else if (dude_wearing_power_armor) then begin
+               call Node002;
+            end else if (pissed) then begin
+               call Node046;
+            end else if (dude_has_porn_star_rep) then begin
+               call Node003;
+            end else if (dude_is_made_man) then begin
+               call Node005;
+            end else if (dude_is_prizefighter) then begin
+               call Node006;
+            end else if (has_rep_slaver) then begin
+               call Node008;
+            end else if (robodog_is_dude_companion) then begin
+               call Node009;
+            end else if (robobrain_is_dude_companion) then begin
+               call Node010;
+            end else if (marcus_is_dude_companion) then begin
+               call Node011;
+            end else if (lenny_is_dude_companion) then begin
+               call Node012;
+            end else begin
+               call Node013;
+            end
+         end
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end else if (fixed_param == finish_porn_param) then begin
+      off_making_porn;
+      do_default_sex;
+      set_sex_counter;
+      porn_fade_in;
+      game_ui_enable;
+      if (enclave_movie) then begin
+         dude_caps_adjust(2000);
+         set_finished_enclave_movie;
+      end else if ((get_deal(deal_deal_0)) or (get_deal(deal_deal_200)) or (get_deal(deal_deal_500))) then begin
+         if (dude_is_stupid) then begin
+            force_dialog_start(@Node034);
+         end else begin
+            force_dialog_start(@Node035);
+         end
+      end else if (dude_agility < 8) then begin
+         force_dialog_start(@Node024);
+      end else if (dude_endurance < 8) then begin
+         force_dialog_start(@Node025);
+      end else if (dude_sex_rating < 9) then begin
+         force_dialog_start(@Node026);
+      end else begin
+         force_dialog_start(@Node027);
+      end
+   end
+end
+
+procedure map_enter_p_proc begin
+   if (is_loading_game == false) then begin
+      if (map_first_run) then begin
+         set_self_team(TEAM_NEW_RENO_PORNO_STUDIO);
+         set_self_ai(AI_TOUGH_GUARD);
+      end else if (is_loading_game == false) then begin
+         switch_brother
+      end
+      nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   end
+end
+procedure map_update_p_proc begin
+   check_hide_durring_boxing_fight
+end
+
+procedure critter_p_proc begin
+   if (self_can_see_dude) then begin
+      if (hostile or porn_studio_hostile) then begin
+         self_attack_dude;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      set_porn_studio_hostile;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   check_forced_dialog
+   else if (steal_cube) then begin
+      call Node063;
+   end else if (enclave_destroyed) then begin
+      start_dialog_at_node(Node060);
+   end else if (pissed) then begin
+      call Node046;
+   end else if (dude_has_porn_star_rep) then begin
+      if (check_sex_counter == false) then begin
+         start_dialog_at_node(Node047);
+      end else begin
+         start_dialog_at_node(Node048);
+      end
+   end else if (dude_is_made_man) then begin
+      start_dialog_at_node(Node054);
+   end else if (dude_is_prizefighter) then begin
+      start_dialog_at_node(Node051);
+   end else if ((has_rep_slaver) and (not (get_extortion_bros(extortion_bros_assigned)))) then begin //edit by killap - added 'and (not (get_extortion_bros(extortion_bros_assigned)))'
+      call Node008;
+   end else if (robodog_is_dude_companion) then begin
+      call Node009;
+   end else if (robobrain_is_dude_companion) then begin
+      call Node010;
+   end else if (marcus_is_dude_companion) then begin
+      call Node011;
+   end else if (lenny_is_dude_companion) then begin
+      call Node012;
+   end else if ((fluf) and (get_deal(deal_none))) then begin
+      start_dialog_at_node(Node058);
+   end else if ((get_deal(deal_offer)) or (get_deal(deal_tryout)) or (get_deal(deal_pass_tryout))) then begin
+      start_dialog_at_node(Node059);
+   end else begin
+      start_dialog_at_node(Node014);
+   end
+   nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+   set_herebefore;
+end
+
+procedure destroy_p_proc begin
+   inc_evil_critter
+   set_bros_dead;
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_mstr(100);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   display_mstr(150 + (examined * (1 + brother_state)));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+procedure Node990 begin
+   if (dude_charisma < 8) then begin
+      call Node015;
+   end else begin
+      call Node018;
+   end
+end
+procedure Node989 begin
+   if (dude_charisma < 8) then begin
+      call Node038;
+   end else begin
+      call Node037;
+   end
+end
+
+procedure Node988 begin
+   do_fluf(dude_obj, 3, 1000)
+   display_mstr(1001); // added by killap
+end
+procedure Node987 begin
+   game_ui_disable;
+   porn_fade_out;
+   set_making_porn;
+   nr_add_timer_event(self_obj, 3, finish_porn_param);
+end
+/*procedure Node986 begin
+   display_mstr(1250);
+   give_xp(EXP_NEW_RENO_PORN_STAR);
+   inc_reno_rep(REP_NEW_RENO_PORN_STAR);
+   if (bad_porn_name) then begin
+      call Node031;
+   end else if (great_porn_name) then begin
+      call Node032;
+   end else begin
+      call Node030;
+   end
+end*/
+//commented out above and changed to this - killap
+procedure Node986 begin
+   if (bad_porn_name and dude_is_male) then begin
+      call Node031;
+   end else if (great_porn_name) then begin
+      call Node032;
+   end else begin
+      call Node030;
+   end
+end
+//end edit
+procedure Node985 begin
+   set_deal(deal_deal_500);
+   call Node028;
+end
+procedure Node984 begin
+   //added by killap - expansion
+   display_mstr(1250);
+   give_xp(EXP_NEW_RENO_PORN_STAR);
+   inc_reno_rep(REP_NEW_RENO_PORN_STAR);
+   //end added
+   call Node987;
+end
+procedure Node983 begin
+   do_fluf(dude_obj, 5, 1100)
+   display_mstr(1101);
+end
+procedure Node982 begin
+   set_spouse_fluff;
+   if (Davin_In_Party) then begin
+      do_fluf(Davin_Ptr, 3, 1200)
+   end else begin
+      do_fluf(Miria_Ptr, 3, 1200)
+   end
+   display_mstr(1201);
+end
+procedure Node981 begin
+   if (dude_charisma < 8) then begin
+      call Node038;
+   end else begin
+      call Node044;
+   end
+end
+procedure Node980 begin
+   if (dude_is_high) then begin
+      call Node050;
+   end else begin
+      call Node987;
+   end
+end
+procedure Node977 begin
+   set_enclave_movie;
+   call Node987;
+end
+
+#define is_insert_message(x)  ((x == 232) or (x == 225) or (x == 246) or (x == 252) or (x == 256))
+
+procedure Node001 begin
+   the_msg := random(200, 202);
+   float_msg(self_obj, mstr(the_msg) + dude_name + mstr(5000 + the_msg), FLOAT_COLOR_NORMAL);
+end
+procedure Node002 begin
+   floater_rand(210, 212);
+end
+procedure Node003 begin
+   floater_rand_with_check(224 - (4*dude_is_male), 230 + (3*dude_is_female), porn_star_name, 5000);
+end
+procedure Node005 begin
+   floater_rand_with_check(245, 246, made_man_name, 5000);
+end
+procedure Node006 begin
+   floater_rand_with_check(252 - (2*dude_is_male), 257 + (2*dude_is_female), prizefighter_name, 5000);
+end
+procedure Node008 begin
+   floater_rand(270, 271);
+end
+procedure Node009 begin
+   floater_rand(275, 276);
+end
+procedure Node010 begin
+   floater_rand(280, 282);
+end
+procedure Node011 begin
+   floater_rand(290, 292);
+end
+procedure Node012 begin
+   floater_rand(300, 302);
+end
+procedure Node013 begin
+   floater_rand(310, 331);
+end
+procedure Node014 begin
+   Reply(345 + ((know_bros == false)*2) + (dude_charisma < 8));
+   set_know_bros;
+   NOption(349, Node990, -003);
+   NOption(350, Node990, -003);
+   NOption(351, Node999, -003);
+   NOption(861, Node989, 004);
+   NOption(353, Node989, 004);
+   if ((Miria_In_Party) or (Davin_In_Party)) then begin
+      NOption(354, Node039, 004);
+   end
+   NOption(813, Node040, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(356, Node057, 004);
+   end
+   NOption(357 + (dude_iq >= 8), Node999, 004);
+end
+procedure Node015 begin
+   Reply(370);
+   NOption(371, Node016, -003);
+   NOption(372, Node988, -003);
+   NOption(351, Node999, -003);
+   prev_node := 15;
+end
+procedure Node016 begin
+   Reply(380);
+   NOption(381, Node017, -003);
+   prev_node := 16;
+end
+procedure Node017 begin
+   Reply(390);
+   NOption(391, Node988, -003);
+   NOption(351, Node999, -003);
+   prev_node := 17;
+end
+procedure Node018 begin
+   if (dude_is_male) then begin
+      Reply(400);
+      NOption(402, Node019, -003);
+      NOption(403, Node019, -003);
+   end else begin
+      Reply(401);
+      NOption(404, Node019, -003);
+      NOption(405, Node019, -003);
+   end
+   NOption(351, Node999, -003);
+   prev_node := 18;
+end
+procedure Node019 begin
+   set_deal(deal_offer);
+   Reply(415 + dude_is_female);
+   NOption(417, Node020, -003);
+   NOption(418, Node021, -003);
+   NOption(351, Node999, -003);
+   prev_node := 19;
+end
+procedure Node020 begin
+   Reply(mstr(425) + mstr(426 + dude_is_female));
+   NOption(428, Node022, -003);
+   NOption(429, Node022, -003);
+   NOption(351, Node999, -003);
+   prev_node := 20;
+end
+procedure Node021 begin
+   Reply(435 + dude_is_female);
+   NOption(428, Node022, -003);
+   NOption(429, Node022, -003);
+   NOption(351, Node999, -003);
+   prev_node := 21;
+end
+procedure Node022 begin
+   Reply(mstr(445) + mstr(446 + dude_is_female));
+   NOption(448, Node023, -003);
+   NOption(351, Node999, -003);
+   prev_node := 22;
+end
+procedure Node023 begin
+   set_deal(deal_tryout);
+   Reply(mstr(455) + mstr(456 + dude_is_female));
+   NOption(458 + (dude_iq >= 4), Node987, 001);
+   prev_node := 23;
+end
+procedure Node024 begin
+   Reply(465 + dude_is_female);
+   NOption(467, Node999, -003);
+   NOption(468, Node999, -003);
+   NOption(469, Node999, 004);
+   NOption(470, Node999, 004);
+   prev_node := 24;
+end
+procedure Node025 begin
+   Reply(475 + dude_is_female);
+   NOption(467, Node999, -003);
+   NOption(468, Node999, -003);
+   NOption(479, Node999, 004);
+   NOption(470, Node999, 004);
+   prev_node := 25;
+end
+procedure Node026 begin
+   Reply(485 + dude_is_female);
+   NOption(467, Node999, -003);
+   NOption(468, Node999, -003);
+   NOption(489, Node999, 004);
+   NOption(470, Node999, 004);
+   prev_node := 26;
+end
+procedure Node027 begin
+   set_deal(deal_pass_tryout);
+   Reply(mstr(495 + dude_is_female) + mstr(497));
+   NOption(498, Node028, -003);
+   BOption(499, Node999, -003);
+   NOption(500, Node028, 004);
+   if ((dude_iq >= 8) or (dude_charisma >= 8) or (has_skill(dude_obj,SKILL_SPEECH) > 74)) then begin
+      BOption(501, Node029, 004);
+   end
+   NOption(503, Node999, 004);
+end
+procedure Node028 begin
+   if (get_deal(deal_pass_tryout)) then begin
+      if (dude_is_stupid) then begin
+         set_deal(deal_deal_0);
+      end else begin
+         set_deal(deal_deal_200);
+      end
+   end
+   if (bad_name == false) then begin
+      setup_set_porn_star_name(515 + (dude_is_stupid == false), @Node986)
+   end else begin
+      setup_set_porn_star_name(517, @Node986)
+   end
+end
+procedure Node029 begin
+   Reply(525);
+   NOption(526, Node985, 004);
+   BOption(527, Node999, 004);
+   BOption(mstr(528) + dude_name + mstr(5528), Node999, 004);
+   prev_node := 29;
+end
+procedure Node030 begin
+   Reply(mstr(535) + porn_star_name + mstr(5535) + porn_star_name + mstr(6535));
+   NOption(536, Node984, -003);
+   NOption(537, Node984, 004);
+   prev_node := 30;
+end
+procedure Node031 begin
+   set_bad_name;
+   Reply(545);
+   NOption(546, Node028, 001);
+   NOption(547, Node033, -003);
+   NOption(548, Node033, 004);
+   prev_node := 31;
+end
+procedure Node032 begin
+   //set_bad_name; -comment out by killap
+   Reply(random(555 + (2*dude_is_female), 556 + (2*dude_is_female))); //edit by killap
+   NOption(536, Node984, -003);
+   NOption(537, Node984, 004);
+   prev_node := 32;
+end
+procedure Node033 begin
+   Reply(565);
+   NOption(566, Node984, -003);
+   NOption(567, Node984, 004);
+   prev_node := 33;
+end
+procedure Node034 begin
+   up_sex_status_amt(10);
+   Reply(575 + dude_is_female);
+   NOption(577, Node999, 001);
+   prev_node := 34;
+end
+procedure Node035 begin
+   the_msg := mstr(587);
+   set_sex_counter;
+   if (dude_is_male) then the_msg := mstr(585) + the_msg + mstr(588);
+   else the_msg := mstr(586) + the_msg + mstr(589);
+   if (get_deal(deal_deal_500)) then begin
+      dude_caps_adjust(500);
+      the_msg += mstr(590) + mstr(592);
+   end else if (get_deal(deal_deal_200)) then begin
+      dude_caps_adjust(200);
+      the_msg += mstr(590) + mstr(591);
+   end
+   the_msg += mstr(593);
+
+   Reply(the_msg);
+   NOption(594, Node999, 001);
+   prev_node := 35;
+end
+procedure Node036 begin
+   Reply(610);
+   NOption(813, Node040, 004);
+   NOption(612, Node038, 004);
+   NOption(613, Node999, 004);
+   prev_node := 36;
+end
+procedure Node037 begin
+   Reply(620 + dude_is_female);
+   NOption(622, Node040, 004);
+   NOption(623, Node044, 004);
+   NOption(613, Node999, 004);
+   prev_node := 37;
+end
+procedure Node038 begin
+   Reply(630);
+   NOption(631, Node983, 004);
+   NOption(632, Node999, 004);
+   prev_node := 38;
+end
+procedure Node039 begin
+   Reply(640);
+   if (Davin_In_Party) then begin
+      NOption(mstr(641) + dude_name + mstr(5641), Node982, 004);
+   end else begin
+      NOption(642, Node982, 004);
+   end
+   NOption(632, Node999, 004);
+   prev_node := 39;
+end
+procedure Node040 begin
+   if (dude_has_porn_star_rep) then begin
+      Reply(650);
+      NOption(655, Node041, 007);
+      NOption(658, Node999, 004);
+   end else begin
+      Reply(651 + dude_is_female + (2*(dude_charisma < 8)));
+      NOption(655, Node041, 007);
+      NOption(623, Node981, 004);
+      NOption(657, Node999, 004);
+   end
+   prev_node := 40;
+end
+procedure Node041 begin
+   set_know_cube;
+   Reply(670);
+   // NOption(671, Node042, 004);
+   if (dude_has_porn_star_rep == false) then begin
+      NOption(672, Node981, 004);
+   end
+   NOption(673, Node999, 004);
+   prev_node := 41;
+end
+procedure Node042 begin
+   Reply(680);
+   NOption(681, Node043, 004);
+   if (dude_has_porn_star_rep == false) then begin
+      NOption(672, Node981, 004);
+   end
+   NOption(683, Node999, 004);
+   prev_node := 42;
+end
+procedure Node043 begin
+   Reply(690);
+   if (dude_has_porn_star_rep == false) then begin
+      NOption(672, Node981, 004);
+   end
+   NOption(692, Node999, 004);
+   prev_node := 43;
+end
+procedure Node044 begin
+   Reply(700 + dude_is_female);
+   NOption(702, Node023, 004);
+   NOption(703, Node999, 004);
+   prev_node := 44;
+end
+procedure Node045 begin
+   set_pissed;
+   Reply(710);
+   BOption(711, Node999, -003);
+   BOption(mstr(712) + dude_name + mstr(5712), Node999, 004);
+   prev_node := 45;
+end
+procedure Node046 begin
+   floater_bad_rand(720, 721);
+end
+procedure Node047 begin
+   if (dude_is_male) then begin
+      Reply(mstr(730) + porn_star_name + mstr(5730));
+   end else begin
+      Reply(mstr(730) + porn_star_name + mstr(5730) + mstr(735));
+   end
+   NOption(351, Node999, -003);
+   NOption(732, Node040, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(733, Node057, 004);
+   end
+   NOption(734, Node999, 004);
+   prev_node := 47;
+end
+procedure Node048 begin
+   Reply(mstr(740) + porn_star_name + mstr(5740));
+   NOption(428, Node980, -003);
+   NOption(351, Node049, -003);
+   NOption(743, Node980, 004);
+   NOption(732, Node040, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(745, Node057, 004);
+   end
+   NOption(746, Node049, 004);
+   prev_node := 48;
+end
+procedure Node049 begin
+   Reply(mstr(755) + dude_name + mstr(5755));
+   NOption(756, Node999, -003);
+   BOption(758, Node045, -003);
+   NOption(759, Node999, 004);
+   BOption(760, Node045, 004);
+   prev_node := 49;
+end
+procedure Node050 begin
+   Reply(765);
+   BOption(766, Node045, -003);
+   NOption(351, Node999, -003);
+   BOption(768 + dude_is_female, Node045, 004);
+   NOption(770, Node999, 004);
+   prev_node := 50;
+end
+procedure Node051 begin
+   Reply(mstr(780) + prizefighter_name + mstr(5780));
+   NOption(781, Node018, -003);
+   NOption(782, Node999, -003);
+   NOption(783 + know_bros, Node052, 004);
+   NOption(785 + dude_is_female, Node053, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(787, Node057, 004);
+   end
+   NOption(788, Node999, 004);
+   prev_node := 51;
+end
+procedure Node052 begin
+   set_know_bros;
+   Reply(795);
+   NOption(655, Node041, 007);
+   NOption(797, Node053, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(787, Node057, 004);
+   end
+   NOption(799, Node999, 004);
+   prev_node := 52;
+end
+procedure Node053 begin
+   Reply(805);
+   NOption(806, Node987, 001);
+   prev_node := 53;
+end
+procedure Node054 begin
+   Reply(mstr(810) + made_man_name + mstr(5810) + dude_family_name + mstr(6810));
+   NOption(781, Node018, -003);
+   NOption(812, Node999, -003);
+   NOption(813 + know_bros, Node055, 004);
+   NOption(815 + dude_is_female, Node056, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(787, Node057, 004);
+   end
+   NOption(788, Node999, 004);
+   prev_node := 54;
+end
+procedure Node055 begin
+   set_know_bros;
+   Reply(825);
+   NOption(655, Node041, 007);
+   NOption(827, Node056, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(787, Node057, 004);
+   end
+   NOption(829, Node999, 004);
+   prev_node := 55;
+end
+procedure Node056 begin
+   Reply(835);
+   NOption(836, Node987, 004);
+   prev_node := 56;
+end
+procedure Node057 begin
+   dude_caps_adjust(250);
+   set_extortion_bros(extortion_bros_collected);
+   Reply(845 + ((dude_has_porn_star_rep == false) and (dude_is_prizefighter == false) and (dude_is_made_man == false)));
+   NOption(847, Node055, 004);
+   NOption(848, Node999, 004);
+   prev_node := 57;
+end
+procedure Node058 begin
+   if (dude_charisma < 8) then begin
+      Reply(855 + dude_is_female);
+   end else begin
+      Reply(857);
+   end
+   NOption(349, Node990, -003);
+   NOption(350, Node990, -003);
+   NOption(351, Node999, -003);
+   if (fluf) then begin
+      NOption(862, Node989, 004);
+   end
+   if ((Miria_In_Party) or (Davin_In_Party)) then begin
+      NOption(354, Node039, 004);
+   end
+   NOption(813, Node040, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(787, Node057, 004);
+   end
+   NOption(357, Node999, 004);
+   prev_node := 58;
+end
+procedure Node059 begin
+   if (get_deal(deal_offer)) then begin
+      Reply(875);
+   end else if (get_deal(deal_tryout)) then begin
+      Reply(876);
+   end else begin
+      Reply(877);
+   end
+   NOption(448, Node023, -003);
+   NOption(879, Node023, -003);
+   NOption(351, Node999, -003);
+   NOption(881 + dude_is_female, Node023, 004);
+   NOption(813, Node040, 004);
+   if (get_extortion_bros(extortion_bros_assigned)) then begin
+      NOption(787, Node057, 004);
+   end
+   NOption(357, Node999, 004);
+   prev_node := 59;
+end
+procedure Node060 begin
+   Reply(dude_name + mstr(895));
+   NOption(896, Node061, -003);
+   NOption(897, Node061, -003);
+   NOption(351, Node999, -003);
+   NOption(899, Node061, 004);
+   NOption(900, Node999, 004);
+   prev_node := 60;
+end
+procedure Node061 begin
+   Reply(910);
+   NOption(911, Node062, -003);
+   NOption(897, Node062, -003);
+   NOption(351, Node999, -003);
+   NOption(914, Node062, 004);
+   NOption(915, Node999, 004);
+   prev_node := 61;
+end
+procedure Node062 begin
+   if (enclave_movie) then begin
+      Reply(mstr(921) + dude_name + mstr(5921));
+      NOption(924, Node999, -003);
+      NOption(927, Node999, 004);
+   end else begin
+      Reply(mstr(920) + dude_name + mstr(5920));
+      NOption(922, Node977, -003);
+      NOption(897, Node977, -003);
+      NOption(926, Node977, 004);
+      NOption(928, Node999, 004);
+   end
+   NOption(351, Node999, -003);
+   prev_node := 62;
+end
+procedure Node063 begin
+   floater_bad_rand(935, 938);
+   prev_node := 63;
+end

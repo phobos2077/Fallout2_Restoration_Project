@@ -1,0 +1,131 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai2"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI2          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure timed_event_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_p_proc;
+procedure use_obj_on_p_proc;
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node999;
+
+procedure start
+begin
+  add_timer_event(self_obj, game_ticks(random(5, 10)), 3);
+end
+
+procedure timed_event_p_proc
+begin
+  if (fixed_param == 3) then
+  begin
+    float_msg(self_obj, mstr(random(112, 114)), FLOAT_MSG_WHITE);
+    add_timer_event(self_obj, game_ticks(random(5, 10)), 3);
+  end
+end
+
+procedure use_skill_on_p_proc begin
+
+   if (action_being_used == SKILL_REPAIR) then begin
+      if (local_var(LVAR_Herebefore) == 2) then begin
+         script_overrides;
+         if (global_var(GVAR_FIX_VOICECOMP) >= 4) then begin
+            display_msg(mstr(115));
+         end else if ((has_skill(source_obj, SKILL_REPAIR) < 76) ) then
+            display_msg(mstr(108));
+         else begin
+            display_msg(mstr(109));
+            set_global_var(GVAR_FIX_VOICECOMP, 4);
+            give_xp(500);
+         end
+      end
+   end
+end
+
+
+procedure use_obj_on_p_proc begin
+   if ((obj_pid(obj_being_used_with) == PID_MULTI_TOOL) or (obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) ) then begin
+      script_overrides;
+      if (local_var(LVAR_Herebefore) == 2) then begin
+         if (global_var(GVAR_FIX_VOICECOMP) >= 4) then begin
+            display_msg(mstr(115));
+         end else if ((has_skill(source_obj, SKILL_REPAIR) < 56) ) then
+            display_msg(mstr(108));
+         else begin
+            display_msg(mstr(109));
+            set_global_var(GVAR_FIX_VOICECOMP, 4);
+            give_xp(500);
+         end
+      end
+   end
+end
+
+procedure use_p_proc
+begin
+  if (combat_is_initialized == 0) then begin
+     if (global_var(GVAR_FIX_VOICECOMP) >= 4) then begin
+       start_gdialog(NAME, self_obj, 4, -1, -1);
+       gsay_start;
+       call Node004;
+       gsay_end;
+       end_dialogue;
+     end else begin
+       start_gdialog(NAME, self_obj, 4, -1, -1);
+       gsay_start;
+       call Node001;
+       gsay_end;
+       end_dialogue;
+     end
+  end
+end
+
+procedure Node001
+begin
+  Reply(100);
+  NOption(101, Node002, 4);
+  if (global_var(GVAR_FIX_VOICECOMP) < 4) then
+    NOption(102, Node003, 4);
+  NOption(103, Node999, 4);
+end
+
+procedure Node002
+begin
+  Reply(104);
+  NOption(103, Node999, 4);
+end
+
+procedure Node003
+begin
+  Reply(106);
+  NOption(107, Node999, 4);
+  set_local_var(LVAR_Herebefore, 2);
+end
+
+procedure Node004
+begin
+  Reply(110);
+  NOption(111, Node999, 4);
+end
+
+procedure Node999
+begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end

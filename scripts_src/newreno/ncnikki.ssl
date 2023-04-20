@@ -1,0 +1,642 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name:
+        Location: New Reno
+        Description:
+
+        Log:
+
+           Created: May 6, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+#define SCRIPT_REALNAME "ncnikki"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_NCNIKKI
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure Node001;
+// added by killap - expansion
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node991;
+procedure Node992;
+procedure Node993;
+procedure Node994;
+procedure Node995;
+procedure Node996;
+procedure play;
+// end added
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+
+#define LVAR_Flags                    (0)
+#define LVAR_Node_17                  (1)
+#define LVAR_Node_18                  (2)
+#define LVAR_Node_19                  (3)
+#define LVAR_Nikki_Pissed             (4)
+
+
+#define play_dice_options  if (dude_caps >= level_1_bet) then begin                                                      \
+                              NOption(298, Node991, 004);                                                                \
+                              if (dude_caps >= level_2_bet) then begin                                                   \
+                                 NOption(299, Node992, 004);                                                             \
+                                 if (dude_caps >= level_3_bet) then begin                                                \
+                                    NOption(300, Node993, 004);                                                          \
+                                    if (dude_caps >= level_4_bet) then begin                                             \
+                                       NOption(301, Node994, 004);                                                       \                                                                          \
+                                    end                                                                                  \
+                                 end                                                                                     \
+                              end                                                                                        \
+                           end else begin                                                                                \
+                              NOption(304, Node009, 004);                                                                \
+                           end                                                                                           \
+                           if (bet_amt == 0) then                                                                        \
+                             NOption(305, Node999, 004);
+
+#define level_1_bet                       (5)            // setting one of the level_#_bet will adjust the 5 levels
+#define level_2_bet                       (15)           //     of betting possible. placing 0 will make block that
+#define level_3_bet                       (25)           //     level
+#define level_4_bet                       (50)           //
+
+#define level_1_penalty                   (0)            //
+#define level_2_penalty                   (-5)            //
+#define level_3_penalty                   (-10)           //
+#define level_4_penalty                   (-20)           //
+
+
+#define get_dice_penalty(x)               ((level_1_penalty*(bet_amt == level_1_bet)) +   \
+                                           (level_2_penalty*(bet_amt == level_2_bet)) +   \
+                                           (level_3_penalty*(bet_amt == level_3_bet)) +   \
+                                           (level_4_penalty*(bet_amt == level_4_bet)) +   \
+                                           (x*-20))
+
+#define dice_roll(x)                      (roll_vs_skill(dude_obj, SKILL_GAMBLING, get_dice_penalty(x)))
+
+#define self_family                       family_salvatore
+
+
+#define dude_has_important_rep            ((enclave_destroyed) or (dude_has_porn_star_rep) or (dude_is_prizefighter) or (dude_is_made_man))
+
+#define dude_family_conflict              ((dude_family != self_family) and (self_family != family_none))
+#define dude_family_same                  ((dude_family == self_family) and (self_family != family_none))
+
+//#define self_family                       self_family_var // added by killap - expansion pack
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+/* Local variables which do not need to be saved between map changes. */
+
+variable bet_amt;
+variable trash_it;
+//variable self_family_var; // added by killap - expansion pack
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+if (combat_is_initialized == false) then begin
+      if (self_distance_from_dude <= 4) then begin
+         if (random(0,2) == 0) then begin
+            play_sfx("dice1");
+         end else if (self_can_see_dude) then begin
+            if (enclave_destroyed) then call Node001;
+            else if (dude_family_same) then call Node002;
+            else if (dude_family_conflict) then call Node003;
+            else if (dude_has_porn_star_rep) then call Node005;
+            else if (dude_is_prizefighter) then call Node004;
+            else call Node006;
+         end
+      end
+   end
+   nr_add_timer_event_rand(self_obj, 15, 30, float_param);
+end
+
+procedure map_enter_p_proc begin
+   //destroy_object(self_obj);
+   /*
+   if (is_loading_game == false) then begin
+   end
+   if (map_first_run) then begin
+   end
+   set_self_team(TEAM_NEW_RENO_);
+   set_self_ai(AI_);
+   */
+
+   /*// added by killap - expansion
+   self_family_var := family_salvatore;
+
+   if (self_family == family_salvatore and salvatore_dead and warned_attack) then begin
+      destroy_object(self_obj);
+      return;
+   end
+   // end added*/
+
+   set_self_team(TEAM_NEW_RENO_SALVATORE);
+   set_self_ai(AI_TOUGH_CITIZEN);
+   nr_add_timer_event_rand(self_obj, 5, 30, float_param);
+end
+
+procedure critter_p_proc begin
+   if ((hostile) and (self_can_see_dude)) then begin
+
+      self_attack_dude;
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+   end
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+procedure talk_p_proc begin
+   /*// added by killap - expansion
+   if (self_family == family_salvatore and salvatore_dead and warned_attack) then begin
+     float_msg(self_obj, message_str(SCRIPT_DCGAMBLE,200), FLOAT_COLOR_NORMAL);
+   // end added
+   end else begin*/
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node007;
+      gSay_End;
+      end_dialogue;
+   //end
+end
+
+procedure destroy_p_proc begin
+   set_nikki_dead;
+   inc_good_critter
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (nikki_lloyd) then
+      display_mstr(100);
+   else
+      display_mstr(125);
+end
+
+procedure description_p_proc begin
+   script_overrides;
+   if (nikki_lloyd) then begin
+      if (dude_is_male) then
+         display_mstr(random(150,156));
+      else
+         display_mstr(random(160,162));
+   end
+   else begin
+      if (dude_is_male) then
+         display_mstr(random(170,175));
+      else
+         display_mstr(random(180,183));
+   end
+   set_examined;
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure Node998 begin
+   if (hostile == false) then begin
+      set_hostile;
+   end
+end
+procedure Node999 begin
+end
+
+
+#define is_insert_message(x)  ((x == 203) or (x == 210) or (x == 214) or (x == 235) or      \
+                               (x == 239) or (x == 241) or (x == 242) or (x == 243) or      \
+                               (x == 244) or (x == 251) or (x == 252) or (x == 253) or      \
+                               (x == 266) or (x == 268))
+
+procedure floater_rand_with_check_cust(variable x, variable y,  variable the_patch) begin
+variable the_msg;
+   the_msg := random(x, y);
+   if (is_insert_message(the_msg)) then begin
+      if ( (the_msg == 203) ) then begin
+         the_msg := "" + dude_name + mstr(the_msg);
+      end else
+         the_msg := "" + mstr(the_msg) + the_patch + mstr(the_msg+1000);
+
+      float_msg(self_obj, the_msg, FLOAT_COLOR_NORMAL);
+   end else
+      floater(the_msg);
+end
+
+procedure Node001 begin //enclave
+   call floater_rand_with_check_cust(200, 204, dude_name);
+end
+
+procedure Node002 begin //made_man -same casino
+   if (dude_is_male) then
+      call floater_rand_with_check_cust(210, 215, made_man_name);
+   else
+      call floater_rand_with_check_cust(214, 218, made_man_name);
+end
+
+procedure Node003 begin //made_man -wrong casino
+   if (dude_is_male) then
+      call floater_rand_with_check_cust(220, 223, made_man_name);
+   else
+      call floater_rand_with_check_cust(223, 226, made_man_name);
+end
+
+procedure Node004 begin //prize fighter
+   variable tmp;
+   tmp := random(1,2);
+
+   if (dude_is_male) then begin
+      if (tmp == 1) then
+         call floater_rand_with_check_cust(230, 237, prizefighter_name);
+      else
+         call floater_rand_with_check_cust(239, 244, prizefighter_name);
+   end else
+      call floater_rand_with_check_cust(235, 244, prizefighter_name);
+end
+
+procedure Node005 begin //porn star
+   if (dude_is_male) then
+      call floater_rand_with_check_cust(250, 254, porn_star_name);
+   else
+      call floater_rand_with_check_cust(255, 269, porn_star_name);
+end
+
+procedure Node006 begin //generic
+   variable tmp;
+   tmp := random(1,2);
+
+   if (dude_is_male) then begin
+      if (tmp == 1) then
+         floater_rand(270, 274);
+      else
+         floater_rand(276, 282);
+   end else
+      floater_rand(275, 282);
+end
+
+procedure Node007 begin
+   if (((dude_is_made_man) and (dude_family != self_family)) and (enclave_destroyed == false)) then begin
+      Reply(290);
+   end else if (dude_has_important_rep) then begin
+      Reply(292 + (dude_is_female));
+   end else begin
+      Reply(291);
+   end
+
+   NOption(295,Node008,-003);
+   NOption(296,Node008,-003);
+   NOption(297,Node999,-003);
+
+   if (dude_caps >= 5) then begin
+      NOption(298,Node991,004);
+      if (dude_caps >= 15) then begin
+         NOption(299,Node992,004);
+         if (dude_caps >= 25) then begin
+            NOption(300,Node993,004);
+            if (dude_caps >= 50) then begin
+               NOption(301,Node994,004);
+            end
+         end
+      end
+   end else
+      NOption(304,Node009,004);
+
+   if ( (nikki_lloyd) ) then begin
+      if (herebefore) then begin
+         if (local_var(LVAR_Nikki_Pissed) == 1) then
+            NOption(303,Node025,004);
+         else
+            NOption(303,Node010,004);
+      end else
+         NOption(302,Node010,004);
+   end
+   if (bet_amt == 0) then
+     NOption(305,Node999,004);
+
+   NOption(334 + night,Node999,001);
+
+end
+
+procedure Node008 begin //retard
+   variable tmp;
+   tmp := random(1,2);
+   if (tmp == 1) then
+      Reply(311 - (dude_is_male));
+   else
+      Reply(312);
+
+   NOption(313,Node999,-003);
+   if (tmp == 2) then begin
+      NOption(""+ mstr(314) + dude_name + mstr(1314),Node999,-003);
+      NOption(315,Node999,-003);
+   end
+end
+
+procedure Node009 begin //poor
+   variable tmp;
+   tmp := random(1,2);
+
+   if (tmp == 1) then
+      Reply(324 - (dude_is_male));
+   else
+      Reply(321 - (dude_is_male));
+
+   NOption(326,Node999,004);
+   NOption(327,Node999,004);
+end
+
+procedure Node010 begin //you nikky
+   if (nikki_bribed) then begin
+      Reply(370);
+      NOption(373,Node007,004); //place bet
+      NOption(377,Node999,004); //place bet
+   end else begin
+      if not(herebefore) then
+         Reply(371 + dude_is_female);
+      else
+         Reply(370);
+      NOption(373,Node007,004); //place bet
+      BOption(374,Node011,004);
+      BOption(375,Node011,004);
+      NOption(376,Node012,004);
+      NOption(377,Node999,004);
+   end
+
+   set_herebefore;
+end
+
+procedure Node011 begin //thats a bet you would lose...
+   if ( (dude_is_male) and (dude_charisma < 5) ) then
+      Reply(390);
+   else
+      Reply(391 + dude_is_female);
+
+   BOption(393,Node995,004); //first check
+   if (local_var(LVAR_Node_18) == 0) then
+      NOption(394,Node018,004); //pretty suspicous
+   NOption(395,Node999,004);
+end
+
+procedure Node012 begin
+   if (lloyd_dead) then begin
+      Reply(380);
+
+   end else begin
+      Reply(381);
+
+      NOption(383,Node011,004);
+      NOption(384,Node011,004);
+   end
+
+   NOption(382,Node007,004);
+   NOption(385,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(400 + dude_is_female);
+
+   BOption(402,Node014,004); //player is getting rough
+   NOption(403,Node015,004);
+   NOption(404,Node999,004);
+   if (local_var(LVAR_Node_18) == 0) then
+      NOption(405,Node018,004);
+   NOption(406,Node999,004);
+end
+
+procedure Node014 begin //player getting rough
+   Reply(410);
+
+   NOption(411,Node995,004); //check for intimidation
+   if (salvatore_dead) then
+      NOption(412,Node995,004); //check for intimidation
+   NOption(413,Node995,004); //check for intimidation
+   if (local_var(LVAR_Node_18) == 0) then
+      NOption(414,Node018,004);
+   NOption(415,Node999,004);
+
+end
+
+procedure Node015 begin
+   Reply(420);
+   NOption(421,Node995,004);
+   NOption(422,Node995,004); //player offers money
+   if (local_var(LVAR_Node_18) == 0) then
+      NOption(423,Node018,004);
+   NOption(424,Node999,004);
+end
+
+procedure Node016 begin //intimidate nikki
+   Reply(430);
+   NOption(431,Node996,004);
+   NOption(433,Node999,004);
+   set_nikki_lead;
+end
+
+procedure Node017 begin //fail to intimidate
+   Reply(440);
+   NOption(441,Node996,004); //RECOSINDER
+   BOption(442,Node019,004);
+   NOption(443,Node996,004);
+   NOption(444,Node999,004);
+   set_local_var(LVAR_Node_17,1);
+end
+
+procedure Node018 begin //accuse her of sneaky shit
+   Reply(450);
+   NOption(451,Node995,004);
+   NOption(452,Node996,004); //player will pay
+   NOption(453,Node999,004);
+   set_local_var(LVAR_Node_18,1);
+end
+
+procedure Node019 begin //nikki pissed
+   Reply(460 + (local_var(LVAR_Node_19)));
+   NOption(462,Node999,004);
+   set_local_var(LVAR_Node_19,1);
+end
+
+procedure Node020 begin //nikki bribed
+   Reply(470);
+   NOption(g_mstr(352),Node021,004);
+end
+
+procedure Node021 begin //go on
+   Reply(480);
+   if (dude_caps > 499) then
+      NOption(481,Node022,004);
+   else
+      NOption(483,Node999,004);
+   BOption(482,Node024,004);
+end
+
+procedure Node022 begin //player set up
+   dude_caps_adjust(-500);
+   set_nikki_bribed;
+   display_msg(mstr(600));
+   give_xp(EXP_NIKKI_BRIBED_SOLVE);
+   Reply(490);
+   NOption(491,Node999,004);
+end
+
+procedure Node023 begin
+   Reply(500);
+   NOption(501,Node999,004);
+end
+
+procedure Node024 begin //nikki pissed 2x
+   Reply(510);
+   NOption(511,Node999,004);
+
+   set_local_var(LVAR_Nikki_Pissed,1);
+end
+
+procedure Node025 begin
+   Reply(500);
+   NOption(501,Node999,004);
+end
+
+procedure Node995 begin
+   if ( (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) or (dude_smooth_talker) ) then
+      call Node016;
+   else begin
+      if (dude_strength >= 8) then
+         call Node016;
+      else
+         call Node017;
+   end
+end
+
+procedure Node996 begin
+
+   if ( (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-40))) or (dude_smooth_talker) ) then
+      call Node020;
+   else
+      call Node019;
+
+end
+
+procedure play begin
+
+variable the_roll_1;
+variable the_roll_2;
+variable the_result := 0;
+
+   // play game
+   dude_caps_adjust(-bet_amt);
+   if (random(0,1)) then begin
+      play_sfx("dice");
+   end else begin
+      play_sfx("dice1");
+   end
+   the_roll_1 := dice_roll(1);
+   if (is_success(the_roll_1)) then begin
+      the_result := 1;
+      the_roll_2 := dice_roll(2);
+      if (is_critical(the_roll_1) or is_success(the_roll_2)) then begin
+         the_roll_1 := dice_roll(3);
+         the_result := 2;
+         if (is_critical(the_roll_2) or is_success(the_roll_1)) then begin
+            the_result := 3;
+         end
+      end
+   end
+   // display results
+   dude_caps_adjust(the_result*bet_amt);
+   Reply(332 - (dude_has_important_rep*((2*dude_is_male) + (dude_is_female))) + (10*the_result));
+   //play_dice_options
+   if (dude_caps >= 5) then begin
+      NOption(298,Node991,004);
+      if (dude_caps >= 15) then begin
+         NOption(299,Node992,004);
+         if (dude_caps >= 25) then begin
+            NOption(300,Node993,004);
+            if (dude_caps >= 50) then begin
+               NOption(301,Node994,004);
+            end
+         end
+      end
+   end else
+      NOption(304,Node009,004);
+
+   if (bet_amt == 0) then
+     NOption(305, Node999, 004);
+
+   NOption(334 + night,Node999,001);
+
+   if ( (nikki_lloyd) and not(herebefore) ) then
+      NOption(302,Node010,004);
+end
+
+
+procedure Node991 begin
+   bet_amt := level_1_bet;
+   call play;
+end
+procedure Node992 begin
+   bet_amt := level_2_bet;
+   call play;
+end
+procedure Node993 begin
+   bet_amt := level_3_bet;
+   call play;
+end
+procedure Node994 begin
+   bet_amt := level_4_bet;
+   call play;
+end

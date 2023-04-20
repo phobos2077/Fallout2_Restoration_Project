@@ -1,0 +1,712 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Chad
+        Location: Broken Hills
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "hcchad"
+#include "../headers/define.h"
+#include "../headers/broken.h"  //broken hills defines
+#include "../headers/broken1.h" //mapvars
+#include "../headers/broken2.h" //mapvars //added by killap
+#include "../headers/bhrnddst.h"
+
+#define NAME                    SCRIPT_HCCHAD
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat;
+procedure timed_event_p_proc;
+procedure map_exit_p_proc;
+procedure map_update_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node910;
+procedure Node920;
+procedure Node995;
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+
+//added by killap - expansion
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node024;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node991;
+procedure Node992;
+//end added
+
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Safe_Attack                (7) //added by killap - expansion pack
+
+#define DELETE_CHAD                      (3) //added by killap - expansion pack
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable stuff;
+variable k;
+variable from4:=0;
+variable fromWTG;
+variable doTalk :=0; //added by killap - expansion pack
+
+import variable Chad_Ptr;
+
+procedure start begin
+   //added by killap - expansion pack
+   if ((cur_map_index == MAP_BROKEN_HILLS1) or (cur_map_index == MAP_BROKEN_HILLS2)) then begin
+      Chad_Ptr := self_obj;
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   //added by killap - expansion pack
+   if ((cur_map_index == MAP_BROKEN_HILLS1) or (cur_map_index == MAP_BROKEN_HILLS2)) then begin
+      Chad_Ptr := self_obj;
+   end
+   Only_Once:=0;
+   // Chad is on your team during caravans.
+   if( cur_map_index == MAP_BH_RND_DESERT ) then
+      set_self_team(TEAM_PLAYER);
+   else
+      set_self_team(TEAM_BROKEN_HILLS);
+
+   set_self_ai(AI_TOUGH_CITIZEN);
+
+   //edit by killap - expansion pack
+   if ( ( global_var( GVAR_CHAD_DEAD ) == 1 ) or (map_var(MVAR_House_Encounter) == 2) ) then begin
+      if( self_visible ) then
+         set_obj_visibility( self_obj, true );
+   end
+   else if (not(is_loading_game)) then begin
+      // Make Chad show up in the appropriate place.
+      if( cur_map_index == MAP_BROKEN_HILLS1 ) then begin
+         // Chad always shows up in Broken Hills.
+         if( not( self_visible ) ) then
+            set_obj_visibility( self_obj, false );
+      end
+      else if( ( cur_map_index == MAP_GECKO_SETTLEMENT ) or
+               ( cur_map_index == MAP_NCR_BAZAAR ) or
+               ( cur_map_index == MAP_VAULTCITY_COURTYARD ) ) then begin
+         //if( ( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_SUCCESS ) or
+             //( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_FAILED ) ) then begin
+         //edits by killap - expansion pack
+	 if( ( ( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_SUCCESS ) or
+             ( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_ON_JOB )) and
+             ( global_var( GVAR_BH_CHAD ) != CHAD_ARRESTED) and
+             ( global_var( GVAR_CHAD_DEAD ) == 0 ) ) then begin
+            if( not( self_visible ) ) then
+               set_obj_visibility( self_obj, false );
+         end
+         else begin
+            if( self_visible ) then
+               set_obj_visibility( self_obj, true );
+         end
+      end
+   end
+
+   //added by killap - expansion pack
+   if (global_var( GVAR_CHAD_DEAD) == 1 ) then
+      destroy_object(self_obj);
+
+end
+
+procedure map_update_p_proc begin
+   //added by killap - expansion pack
+   if ((cur_map_index == MAP_BROKEN_HILLS1) or (cur_map_index == MAP_BROKEN_HILLS2)) then begin
+      Chad_Ptr := self_obj;
+   end
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+       if ( map_var(MVAR_Hostile_Total) <= 0 ) then begin //edit by killap - can drop below 0
+           float_msg(self_obj,g_mstr(450),FLOAT_COLOR_NORMAL);
+       end
+   end
+end
+
+procedure map_exit_p_proc begin
+   // If you leave the map that Chad is on before collecting your Caravan pay,
+   // you're SOL. He's outta there!
+   if( ( cur_map_index == MAP_GECKO_SETTLEMENT ) or
+       ( cur_map_index == MAP_NCR_BAZAAR ) or
+       ( cur_map_index == MAP_VAULTCITY_COURTYARD ) ) then begin
+      if( ( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_SUCCESS ) or
+          ( global_var( GVAR_BH_CARAVAN ) == CARAVAN_STATUS_ON_JOB ) ) then
+         set_global_var( GVAR_BH_CARAVAN, CARAVAN_STATUS_NONE );
+   end
+
+   //added by killap - expansion pack
+   if (global_var( GVAR_BH_CHAD) == CHAD_FLED ) then
+      destroy_object(self_obj);
+end
+
+procedure timed_event_p_proc begin
+   variable tile;
+
+   if( fixed_param == 1 ) then begin
+      game_ui_disable;
+      floater(171);
+      add_timer_event( self_obj, game_ticks(2), 2 ); //was game_ticks(4) --killap
+   end
+   else if( fixed_param == 2 ) then begin
+      gfade_out(600);
+      tile := self_tile;
+      move_to( self_obj, 0, 0 );
+      set_obj_visibility( self_obj, true );
+      move_to( self_obj, tile, 0 );
+      gfade_in(600);
+      game_ui_enable;
+   end
+   //added by killap - expansion pack
+   else if ( fixed_param == DELETE_CHAD) then begin
+      display_msg(mstr(300));
+      give_xp(750);
+      inc_general_rep(-5);
+      gfade_out(600);
+      set_obj_visibility( self_obj, true );
+      gfade_in(600);
+
+      set_global_var( GVAR_BH_CHAD, CHAD_FLED );
+
+   end
+
+   else if ( fixed_param == 4) then begin
+      call talk_p_proc;
+   end
+   //end added
+end
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+   variable max; //added by killap - expansion pack
+   variable cur; //added by killap - expansion pack
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+   //added by killap - expansion pack
+   if ( cur_map_index == MAP_BROKEN_HILLS2 ) then begin
+      if (map_var(MVAR_House_Encounter) == 1) then begin
+         set_map_var(MVAR_House_Encounter,2);
+         add_timer_event( self_obj, game_ticks(0), 4 );
+         doTalk := 1;
+      end
+
+      if (local_var(LVAR_Safe_Attack) == 2) then begin
+         max := self_max_hits;
+         cur := self_cur_hits;
+         if (cur < (max/4)) then begin
+            terminate_combat;
+            set_local_var(LVAR_Safe_Attack,0);
+            set_map_var(MVAR_Chad_Draw,1);
+            call talk_p_proc;
+         end
+      end
+   end
+   //end added
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if ( source_obj == dude_obj ) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       //added by killap - expansion pack
+       if (local_var(LVAR_Safe_Attack) == 0) then
+         set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   fromWTG:=1;
+   GetReaction;
+   ReactToLevel; //added by killap
+
+   //edits by killap - expansion pack
+   if (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) then begin
+      floater(400);
+   end else if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end else if (doTalk == 1) then begin
+      doTalk := 0;
+      set_local_var(LVAR_Safe_Attack,1);
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node026;
+      gSay_End;
+      end_dialogue;
+   end else if (map_var(MVAR_Chad_Draw) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node033;
+      gSay_End;
+      end_dialogue;
+   end else if( cur_map_index == MAP_BH_RND_DESERT ) then begin
+      floater( random( 173, 175 ) );
+   end else if( global_var( GVAR_BROKEN_HILLS_CARAVAN_POOCH_SCREW ) == 1 ) then begin
+      floater(172);
+   end else if( global_var(GVAR_BH_CARAVAN) == CARAVAN_STATUS_FAILED ) then begin
+      set_global_var( GVAR_BROKEN_HILLS_CARAVAN_POOCH_SCREW, 1 );
+      floater( random( 169, 170 ) );
+   end else if( ( global_var(GVAR_BH_CARAVAN) == CARAVAN_STATUS_SUCCESS ) or
+            ( global_var(GVAR_BH_CARAVAN) == CARAVAN_STATUS_ON_JOB ) ) then begin
+      set_global_var( GVAR_BH_CARAVAN, CARAVAN_STATUS_NONE );
+      dude_caps_adjust( 200);
+      add_timer_event( self_obj, 1, 1 );
+   end else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node016;
+       gSay_End;
+       end_dialogue;
+   end else if (bad_critter_reaction) then begin
+      call Node016;
+   end else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+/*
+             if (local_var(LVAR_Herebefore) == 0) then begin
+                set_local_var(LVAR_Herebefore,1);
+                call Node001;
+             end
+             else begin
+*/
+                if (dude_iq == 1) then begin
+                   call Node005;
+                end
+                else if ( (dude_iq == 2) or (dude_iq == 3) ) then begin
+                   call Node006;
+                end
+                else begin
+                   call Node004;
+                end
+/*
+             end
+*/
+       gSay_End;
+       end_dialogue;
+   end
+   set_local_var( LVAR_Herebefore, 1 );
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/*
+   set_map_var(MVAR_Hench_Killed,1);
+   set_map_var(MVAR_Rank_Killed, 0);
+*/
+   //dont need to decrement henchman if chad is killed...he is not counted in the total
+   //set_map_var(MVAR_Hench_Count, map_var(MVAR_Hench_Count) - 1); //we've got one less henchman
+
+   set_global_var( GVAR_CHAD_DEAD, 1 );
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure combat begin
+end
+
+procedure Node910 begin
+end
+
+procedure Node920 begin
+end
+
+procedure Node995 begin
+   if (dude_charisma >= 7) then begin
+       TopReact;
+   end
+   else begin
+       BottomReact;
+   end
+end
+
+procedure Node996 begin
+   BottomReact;
+end
+
+procedure Node997 begin
+   if (dude_charisma >= 8) then
+       call Node004;
+   else
+       call Node005;
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+//these first three nodes are special
+//and should play conversations out to
+//the player.
+end
+
+procedure Node002 begin
+end
+
+procedure Node003 begin
+end
+
+procedure Node004 begin
+   from4:=1;
+   if (fromWTG) then
+      Reply(120);
+   else
+      Reply(121);
+   giQ_Option(-1,NAME,122,Node005,NEUTRAL_REACTION);
+   if dude_moron_not_vegetable then
+      NOption(123,Node006,004);
+   //edits by killap - expansion pack
+   //if (global_var(GVAR_BH_CHAD) == CHAD_SUSPICIOUS) then
+   if ( (global_var(GVAR_BH_CHAD) >= CHAD_SUSPICIOUS) and (global_var(GVAR_BH_CHAD) <= CHAD_CONFIRMED_GECKO) ) then //edit by killap (expansion pack)
+      NOption(124,Node008,004);
+   if ( /*(global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED) or (global_Var(GVAR_BH_CHAD) == CHAD_CONFIRMED_GECKO) or*/ (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) ) then begin
+      //NOption(125,Node009,004); // killap - expansion pack
+      NOption(126,Node022,004); //was 009 - killap - expansion pack
+   end
+   NOption(127,Node006,004);
+   NOption(128,Node007,004);
+   NOption(129,Node999,004);
+end
+
+procedure Node005 begin
+   Reply(130);
+   NOption(131,Node999,001);
+end
+
+procedure Node006 begin
+   fromWTG:=0;
+   if (from4) then
+      Reply(132);
+   else if (dude_iq < 4) then
+      Reply(133);
+   else begin
+      Reply(134);
+
+      GOption(137,Node013,004);
+      BOption(138,Node014,004);
+   end
+
+   if dude_moron_not_vegetable then
+      NOption(135,Node999,002);
+   NOption(136,Node012,004);
+   NOption(139,Node004,004);
+   NOption(140,Node999,004);
+end
+
+procedure Node007 begin
+   fromWTG:=0;
+   Reply(141);
+   NOption(142,Node004,004);
+   NOption(143,Node999,004);
+end
+
+procedure Node008 begin
+   fromWTG:=0;
+   Reply(144);
+   NOption(145,Node009,004); //was 004 - edit by killap (expansion pack)
+   NOption(146,Node999,004);
+end
+
+procedure Node009 begin
+   Reply(147);
+   NOption(150,Node999,004);
+end
+
+procedure Node012 begin
+   fromWTG:=0;
+   Reply(156);
+   BOption(157,Node004,004);
+   NOption(158,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(159);
+   NOption(160,Node012,004);
+   BOption(161,Node014,004); //reaction down med
+   NOption(163,Node999,004);
+end
+
+procedure Node014 begin
+   fromWTG:=0;
+   Reply(164);
+   BOption(165,Node004,004);
+   NOption(166,Node999,004); //react down small
+end
+
+procedure Node015 begin
+   floater(167);
+end
+
+procedure Node016 begin
+   floater(168);
+end
+
+//added by killap - expansion pack
+procedure Node017 begin
+   Reply(200);
+   NOption(201,Node023,004);
+   NOption(203,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(202);
+   NOption(205,Node021,004);
+end
+
+procedure Node019 begin
+   if not(dude_item_count(PID_BRIEFCASE)) then
+      Reply(204);
+   else
+      Reply(2040);
+   NOption(205,Node020,004);
+end
+
+procedure Node020 begin
+   dude_caps_adjust( 1000);
+   call Node024;
+   if (dude_item_count(PID_BRIEFCASE)) then
+      remove_pid_qty(dude_obj, PID_BRIEFCASE, 1)
+   //give money
+   //delete_chad
+end
+
+procedure Node021 begin
+   floater(206);
+   call Node992; //change AI and make it so hurting him is not bad.
+   set_local_var(LVAR_Hostile,1);
+   set_local_var(LVAR_Personal_Enemy,1);
+   attack(dude_obj);
+   //chadd calls for help and accuses player of being a thief
+end
+
+procedure Node022 begin
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -15 ) ) ) then
+      call Node019;
+   else
+      call Node017;
+end
+
+procedure Node023 begin
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -30 ) ) ) then
+      call Node019;
+   else
+      call Node018;
+end
+
+procedure Node024 begin
+   add_timer_event( self_obj, game_ticks(1), DELETE_CHAD );
+   //remove chad
+end
+
+procedure Node025 begin
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -30 ) ) ) then
+      call Node019;
+   else
+      call Node018;
+end
+
+procedure Node026 begin
+   Reply(208);
+   NOption(209,Node027,004);
+end
+
+procedure Node027 begin
+   Reply(210);
+   if (global_var(GVAR_SAINT_NICK_LINE) == 1) then
+      NOption(211,Node028,004);
+   else
+      NOption(219,Node032,004);
+end
+
+procedure Node028 begin
+   Reply(212);
+   NOption(213,Node029,004);
+end
+
+procedure Node029 begin
+   Reply(214);
+   NOption(215,Node030,004);
+end
+
+procedure Node030 begin
+   Reply(216);
+   NOption(217,Node031,004);
+end
+
+procedure Node031 begin
+   Reply(218);
+   NOption(g_mstr(350),Node991,004);
+end
+
+procedure Node032 begin
+   Reply(mstr(220) + " " + mstr(216));
+   NOption(217,Node031,004);
+end
+
+procedure Node033 begin
+   set_global_var( GVAR_BH_CHAD, CHAD_CONFIRMED_BROKENHILLS );
+   Reply(221);
+   NOption(222,Node999,004);
+end
+
+procedure Node991 begin
+   set_global_var( GVAR_BH_CHAD, CHAD_CONFIRMED_BROKENHILLS );
+   set_local_var(LVAR_Hostile,1);
+   set_local_var(LVAR_Personal_Enemy,1);
+   attack(dude_obj);
+end
+
+procedure Node992 begin
+   set_self_ai(AI_TOUGH_CITIZEN);
+   set_local_var(LVAR_Safe_Attack,2);
+end
+//end added
+
+//xxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,128 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epai17"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAI17          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Problem                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure use_skill_on_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_p_proc;
+procedure pickup_p_proc;
+procedure destroy_p_proc;
+procedure drp_proc;
+procedure Node001;
+procedure Node002;
+procedure Node002a;
+procedure Node999;
+
+procedure start
+begin
+end
+
+procedure use_skill_on_p_proc
+begin
+  if (action_being_used == SKILL_REPAIR) then
+  begin
+    if (has_skill(source_obj, SKILL_REPAIR) > 40) then
+    begin
+      if (local_var(LVAR_Problem) == 1) then
+      begin
+        script_overrides;
+        set_global_var(GVAR_MAGNETIC_FIELD, 1);
+        set_local_var(LVAR_Problem, 2);
+        float_msg(source_obj, mstr(108), FLOAT_MSG_YELLOW);
+        display_msg(mstr(109));
+        give_xp(100);
+      end else if (local_var(LVAR_Problem) == 2) then begin
+        script_overrides;
+        display_msg(message_str(SCRIPT_EPAI2, 115));
+      end
+    end else begin
+      script_overrides;
+      display_msg(message_str(SCRIPT_EPAI2, 108));
+    end
+  end
+end
+
+procedure look_at_p_proc
+begin
+  script_overrides;
+  if (local_var(LVAR_Herebefore) == 0) then
+    display_msg(mstr(105));
+  else
+    display_msg(mstr(106));
+end
+
+procedure description_p_proc
+begin
+  script_overrides;
+  display_msg(mstr(107));
+end
+
+procedure use_p_proc
+begin
+   if (combat_is_initialized == 0) then begin
+      start_gdialog(NAME, self_obj, 4, -1, -1);
+      gsay_start;
+         call Node001;
+      gsay_end;
+      end_dialogue;
+   end
+end
+
+procedure pickup_p_proc
+begin
+end
+
+procedure destroy_p_proc
+begin
+end
+
+procedure drp_proc
+begin
+end
+
+procedure Node001
+begin
+  Reply(100);
+  NOption(101, Node002, 4);
+  NOption(102, Node999, 4);
+end
+
+procedure Node002
+begin
+  if (local_var(LVAR_Problem) != 2) then
+   Reply(103);
+  else
+   Reply(1030);
+  NOption(104, Node002a, 4);
+end
+
+procedure Node002a
+begin
+   if (local_var(LVAR_Problem) == 0) then begin
+      set_local_var(LVAR_Problem, 1);
+   end
+end
+
+procedure Node999
+begin
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  if (local_var(LVAR_Herebefore) == 0) then
+    set_local_var(LVAR_Herebefore, 1);
+end

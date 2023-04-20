@@ -1,0 +1,360 @@
+/*
+	Script for critter tmplete
+*/
+
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "vilann"
+#include "../headers/define.h"
+#include "../headers/vill.h"
+
+#define NAME                    SCRIPT_VILANN
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+
+procedure Node999;
+procedure Node998;
+
+procedure Node901;
+procedure Node990;
+procedure Node991;
+procedure Node992;
+procedure Node993;
+procedure Node994;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Quest_Wait                 (6)
+#define LVAR_Quest_Abandon              (7)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   if (global_var(GVAR_VAULT_VILLAGE) < VILLAGE_STAGE_ONE) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+  if (source_obj == dude_obj) then
+  begin
+    set_local_var(LVAR_Hostile, 2);
+    set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
+  end
+end
+
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+
+   if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
+      destroy_object(self_obj);
+   end else begin
+      if (global_var(GVAR_VAULT_VILLAGE) >= VILLAGE_STAGE_ONE) then begin
+         critter_attempt_placement(self_obj, 24100, dude_elevation);
+      end
+      set_self_team(TEAM_VAULT_VILLAGERS);
+
+   end
+
+
+   /*if ( ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS)) )  then begin
+   end else begin
+      //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then
+      if (global_var(GVAR_QUEST_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then
+         critter_attempt_placement(self_obj, 24100, dude_elevation);
+
+      set_self_team(TEAM_VAULT_VILLAGERS);
+   end*/
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+      if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 6) then begin
+         floater(403);
+      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 5) then begin
+         floater(402);
+      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 4) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node009;
+         gSay_End;
+         end_dialogue;
+      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 3) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node007;
+         gSay_End;
+         end_dialogue;
+      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 2) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node005;
+         gSay_End;
+         end_dialogue;
+      end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) or  (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_SPEAK_WITH_COUNCIL) ) then begin
+         floater(random(400,401));
+      end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) or ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) and (global_var(GVAR_VAULT_VILLAGE) < VILLAGE_STAGE_ONE) ) ) then begin
+         if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) then
+            floater(406);
+         else
+            floater(random(404,405));
+      end else if (local_var(LVAR_Quest_Wait) == 1) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node004;
+         gSay_End;
+         end_dialogue;
+      end else begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            if (local_var(LVAR_Herebefore) == 0) then
+               call Node001;
+            else
+               call Node008;
+         gSay_End;
+         end_dialogue;
+      end
+end
+
+procedure Node001 begin
+   set_local_var(LVAR_Herebefore,1);
+   Reply(200);
+   NOption(201,Node002,004);
+   NOption(202,Node999,004);
+end
+
+procedure Node002 begin
+   Reply(300);
+   NOption(301,Node990,004);
+   BOption(302,Node999,004);
+   NOption(303,Node003,004);
+end
+
+procedure Node003 begin
+   Reply(310);
+   NOption(311,Node901,004);
+   NOption(312,Node990,004);
+   NOption(313,Node999,004);
+end
+
+procedure Node004 begin
+   Reply(320);
+   NOption(321,Node990,004);
+   NOption(322,Node901,004);
+end
+
+procedure Node005 begin
+   Reply(330);
+   NOption(331,Node991,004);
+   BOption(332,Node006,004);
+end
+
+procedure Node006 begin
+   Reply(340);
+   NOption(341,Node992,004);
+   NOption(342,Node992,004);
+end
+
+procedure Node007 begin
+   Reply(350);
+   NOption(351,Node993,004);
+   NOption(352,Node993,004);
+   BOption(353,Node998,004);
+end
+
+procedure Node008 begin
+   Reply(410);
+   NOption(411,Node002,004);
+   NOption(412,Node999,004);
+end
+
+procedure Node009 begin
+   Reply(420);
+   NOption(421,Node010,004);
+end
+
+procedure Node010 begin
+   Reply(430);
+   NOption(431,Node994,004);
+   NOption(432,Node994,004);
+   BOption(432,Node998,004);
+end
+
+procedure Node901 begin
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,1); //start quest
+   set_local_var(LVAR_Quest_Wait,0);
+   //travel to map
+   load_map(MAP_VILMERCH, 0);
+end
+
+procedure Node990 begin
+   set_local_var(LVAR_Quest_Wait,1);
+end
+
+procedure Node991 begin
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,6); //karma complete
+   display_msg(mstr(500));
+   give_xp(800);
+   inc_general_rep(2);
+end
+
+procedure Node992 begin
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,5); //bad complete
+   display_msg(mstr(500));
+   give_xp(400);
+   dude_caps_adjust(100);
+end
+
+procedure Node993 begin
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,5); //bad complete
+   display_msg(mstr(510));
+end
+
+procedure Node994 begin
+   set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,5); //bad complete
+   display_msg(mstr(511));
+end
+
+procedure Node999 begin
+
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
+end

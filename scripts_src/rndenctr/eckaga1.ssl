@@ -1,0 +1,452 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Kaga Encounter 1
+        Location: Random Encounter
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "eckaga1"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
+
+#define NAME                    SCRIPT_ECKAGA1
+//#define TOWN_REP_VAR            (GVAR_TOWN_REP_)
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat_p_proc;
+procedure timed_event_p_proc;
+
+/* Script Specific Procedure Calls */
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+#define TAUNT_CHANCE 50
+
+procedure Node001;
+procedure NodeFleeing;
+procedure NodeFighting;
+procedure doSequence;
+procedure do_setup;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6) //Also used to as a run flag
+#define LVAR_Defeated                   (7)
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable sequence:=0;
+variable animated:=0;
+variable flee:=0;
+
+#define TIMER_SEQUENCE 1
+#define ATTACK 2
+#define DEFEAT 3
+
+procedure doSequence begin
+
+      Face_Critter(dude_obj, self_obj);
+      Face_Critter(self_obj, dude_obj);
+
+      game_ui_enable;
+
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node001;
+      gSay_End;
+      end_dialogue;
+
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_SEQUENCE) then begin
+      call doSequence;
+   end
+end
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+
+/* if (local_var(LVAR_Personal_Enemy)) then begin
+      if (not critter_is_fleeing(self_obj)) then begin
+         critter_set_flee_state(self_obj, 1);
+      end
+   end
+*/
+
+
+/*   if (critter_is_fleeing(self_obj)) then begin
+      call NodeFleeing;
+   end else begin
+      call NodeFighting;
+   end
+*/
+
+   if (self_visible) then begin
+      if (Random(1,2) == 1) then begin
+         if (critter_is_fleeing(self_obj)) then begin
+            call NodeFleeing;
+         end else begin
+            call NodeFighting;
+         end
+      end
+
+      if ((self_cur_hits) < (self_max_hits)) then begin
+         critter_set_flee_state(self_obj, 1);
+      end
+
+
+
+      if (((not obj_on_screen(self_obj)) or (tile_distance_objs(dude_obj, self_obj) > 15)) and (critter_is_fleeing(self_obj))) then begin
+         float_msg(self_obj, mstr(110), FLOAT_MSG_RED);
+         set_kaga_met;
+         //destroy_object(self_obj);
+         set_self_invisible;
+      end
+   end
+
+end
+
+procedure do_setup begin
+   variable Critter;
+   variable Critter_Rotation;
+   variable Critter_Tile;
+   variable count;
+
+   if not(local_var(LVAR_Defeated)) then begin
+      count := 1;
+
+      set_self_team(TEAM_RND_KAGA);
+      set_self_ai(AI_KAGA);
+      //set_local_var(LVAR_Hostile, 2);
+      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
+      set_kaga_1;
+      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
+      set_kaga_met;
+      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
+
+      check_restock_item(PID_SPEAR, 2, 3, 100)
+      check_restock_item(PID_BOTTLE_CAPS, 100, 200, 100)
+      check_restock_item(PID_STIMPAK, 1, 2, 100)
+
+      //Face_Critter(dude_obj, self_obj);
+      //Face_Critter(self_obj, dude_obj);
+
+      //obj := self_item(PID_SPEAR);
+
+      //move_to(dude_obj, 16099, 0);
+      //move_to(self_obj, 17880, 0);
+
+      //ndebug("ECKAGA1: tile_set_center(16494): " + tile_set_center(16494)); //screen will recenter to the right of the player as he/she walks
+      //game_ui_disable;
+
+      //wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_SPEAR));
+
+      while (count > 0) do begin
+         Critter:=create_object_sid(PID_MALE_CANNIBAL,0,0,SCRIPT_ECOUTCST);
+         if (count == 1) then begin
+            add_obj_to_inven(Critter, create_object(PID_KNIFE,0,0));
+            wield_obj_critter(Critter,get_item(Critter, PID_KNIFE));
+         end
+         set_team(Critter,TEAM_RND_KAGA);
+         set_ai(Critter,AI_GENERIC_GUARDS);
+
+         Critter_Rotation:=dude_inv_rot;
+         Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
+         critter_attempt_placement(Critter,Critter_Tile,0);
+         Face_Critter(dude_obj,Critter);
+         count := count - 1;
+      end
+
+      count := 1;
+
+      while (count > 0) do begin
+         Critter:=create_object_sid(PID_FEMALE_CANNIBAL,0,0,SCRIPT_ECOUTCST);
+         if (count == 1) then begin
+            add_obj_to_inven(Critter, create_object(PID_KNIFE,0,0));
+            wield_obj_critter(Critter,get_item(Critter, PID_KNIFE));
+         end
+         set_team(Critter,TEAM_RND_KAGA);
+         set_ai(Critter,AI_GENERIC_GUARDS);
+         Critter_Rotation:=dude_inv_rot;
+         Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
+         critter_attempt_placement(Critter,Critter_Tile,0);
+         Face_Critter(dude_obj,Critter);
+         count := count - 1;
+      end
+
+      add_timer_event(self_obj, 1, TIMER_SEQUENCE);
+   end
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   if( not( is_loading_game ) ) then begin
+      call do_setup;
+   end
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+ /*  if (local_var(LVAR_Personal_Enemy)) then begin
+      if (obj_on_screen(self_obj)) then begin
+         if (not anim_busy(self_obj)) then begin
+            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
+         end
+      end else begin
+         set_kaga_met;
+         destroy_object(self_obj);
+      end
+   end*/
+   variable rot;
+
+   if (self_visible) then begin
+      if (not( is_loading_game ) and not(kaga_1)) then begin
+         call do_setup;
+      end else if ((self_cur_hits) < (self_max_hits)) then begin
+         if not(local_var(LVAR_Defeated)) then begin
+            set_local_var(LVAR_Defeated,1);
+         end
+         if ((not(obj_on_screen(self_obj))) or (tile_distance_objs(dude_obj, self_obj) > 15)) then begin
+            float_msg(self_obj, mstr(110), FLOAT_MSG_RED);
+            set_global_var(GVAR_RND_KAGA_STATE, global_var(GVAR_RND_KAGA_STATE) bwor 64);
+            //destroy_object(self_obj);
+            set_self_invisible;
+         end else begin
+            if (tile_distance_objs(dude_obj, self_obj) < 15) then begin
+               if (anim_busy(self_obj) == 0) then begin
+                  rot := dude_rotation_to_self;
+                  self_run_to_tile(tile_num_in_direction(self_tile, rot, random(30, 40)));
+                  rot := (rot + 1) % 6;
+                  while((anim_busy(self_obj) == 0) and (rot != dude_rotation_to_self)) do begin
+                     ndebug("flee loop: rot == " + rot);
+                     self_run_to_tile(tile_num_in_direction(self_tile, rot, random(30, 40)));
+                     rot := (rot + 1) % 6;
+                  end
+               end
+            end else begin
+               if (not(anim_busy(self_obj))) then begin
+                  self_run_to_tile(tile_num_in_direction(self_tile, dude_rotation_to_self, 30));
+               end
+            end
+         end
+      end else begin
+         if (not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and self_can_see_dude) then begin
+            attack(dude_obj);
+         end
+      end
+   end
+
+   /*if ((self_cur_hits) < (self_max_hits)) then begin
+      if not(local_var(LVAR_Defeated)) then
+         set_local_var(LVAR_Defeated,1);
+      if ( ((obj_on_screen(self_obj))) or (self_can_see_dude) ) then begin
+         if (not anim_busy(self_obj)) then begin
+            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 12));
+         end
+      end else begin
+         set_kaga_met;
+         destroy_object(self_obj);
+      end
+   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
+       //set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end*/
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   /*if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+   end*/
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+
+/* Set global_variable for Enemy status*/
+   set_kaga_dead;
+   set_kaga_met;
+
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then begin
+      display_msg(mstr(100));
+   end else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(103));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   attack(dude_obj);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure NodeFleeing begin
+   float_msg(self_obj, mstr(Random(108, 110)), FLOAT_MSG_YELLOW);
+end
+
+procedure NodeFighting begin
+   float_msg(self_obj, mstr(Random(104, 107)), FLOAT_MSG_RED);
+end
+
+
+procedure Node001 begin
+   set_local_var(LVAR_Herebefore, 1);
+   Reply(150);
+   NOption(151,Node002,004);
+   NOption(152,Node003,004);
+   NLowOption(200,Node004);
+end
+
+
+procedure Node002 begin
+   Reply(160);
+   NOption(g_mstr(350),Node998,004);
+   //attack
+end
+
+
+procedure Node003 begin
+   Reply(161);
+   NOption(g_mstr(350),Node998,004);
+   //attack
+end
+
+
+procedure Node004 begin
+   Reply(201);
+   NLowOption(202,Node005);
+end
+
+
+procedure Node005 begin
+   Reply(203);
+   NLowOption(g_mstr(350),Node998);
+end
+
+//xxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,16 @@
+ // Map vars for Arroyo Garden Map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Remove_Skeeve                    :=0;      //  (0)
+MVAR_Made_Car                         :=0;      //  (1)
+MVAR_Stealing_From_Harry              :=0;      //  (2)
+MVAR_Guard_Alert                      :=0;      //  (3)
+MVAR_Auto_Doc_Fixed                   :=0;      //  (4)
+MVAR_Wrench                           :=0;      //  (5)
+MVAR_Made_Payoff                      :=0;      //  (6)
+MVAR_Saw_Raiders                      :=0;      //  (7)

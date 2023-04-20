@@ -1,0 +1,627 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Drill Sergeant (new)
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "ccdrill"
+#include "../headers/define.h"
+//#include "../headers/navdef.h"
+#include "../headers/navarro.h"
+//#include "../headers/<TownName.h>"
+
+#define NAME                    SCRIPT_CCDRILL
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
+
+#define OFF_BASE          13705
+#define GUARD_POST        14930
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure timed_event_p_proc;
+procedure combat_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+
+/* Script Specific Procedure Calls */
+procedure Node996;
+procedure Node997;
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+procedure SpawnResponse;
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_second_look                (7)
+#define LVAR_14_before                  (8)
+#define LVAR_15_before                  (9)
+#define LVAR_Said_Intruder              (10)
+#define LVAR_Guard_Duty                 (11)
+#define LVAR_Rounds_State               (12)
+#define LVAR_Dest_Tile                  (13)
+#define LVAR_Dest_Rot                   (14)
+
+#define ROUNDS0_TILE       (24091)
+#define ROUNDS1_TILE       (29304)
+#define ROUNDS2_TILE       (21506)
+#define ROUNDS3_TILE       (21130)
+#define ROUNDS4_TILE       (15330)
+#define ROUNDS5_TILE       (15515)
+#define ROUNDS6_TILE       (18298)
+#define ROUNDS7_TILE       (18275)
+
+#define ROUNDS0_ROT        (0)
+#define ROUNDS1_ROT        (1)
+#define ROUNDS2_ROT        (2)
+#define ROUNDS3_ROT        (2)
+#define ROUNDS4_ROT        (5)
+#define ROUNDS5_ROT        (5)
+#define ROUNDS6_ROT        (5)
+#define ROUNDS7_ROT        (5)
+
+#define GUARD0             (24089)
+#define GUARD1             (29703)
+#define GUARD2             (21906)
+#define GUARD3             (21730)
+#define GUARD5             (15115)
+#define GUARD6             (17898)
+#define GUARD7             (17875)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable Setup_Rounds := 0;
+variable Force_Move := 0;
+variable Move_Player := 0;
+variable background; //added by killap - expansion
+
+procedure start begin
+end
+
+procedure combat_p_proc begin
+   // Turn off Rounds
+   rm_timer_event( self_obj );
+end
+
+procedure map_enter_p_proc begin
+   Setup_Rounds := 0;
+   Force_Move := 0;
+   Only_Once:=0;
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
+
+   // Set up the Drill Sargeant's rounds
+   rm_timer_event( self_obj );
+   if( local_var( LVAR_Guard_Duty ) == 1 ) then begin
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
+      if( local_var( LVAR_Rounds_State ) >= 7 ) then
+         set_local_var( LVAR_Rounds_State, 0 );
+      else
+         inc_local_var( LVAR_Rounds_State );
+      add_timer_event( self_obj, game_ticks(20), 0 );
+   end
+end
+
+procedure timed_event_p_proc begin
+   if( fixed_param == 0 ) then begin
+      // Handle the Drill Sargeant's rounds.
+      if( local_var( LVAR_Rounds_State ) == 0 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS0_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS0_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 1 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS1_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS1_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 2 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS2_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS2_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 3 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS3_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS3_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 4 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS4_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS4_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 5 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS5_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS5_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 6 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS6_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS6_ROT);
+      end
+      else if( local_var( LVAR_Rounds_State ) == 7 ) then begin
+         set_local_var( LVAR_Dest_Tile, ROUNDS7_TILE);
+         set_local_var( LVAR_Dest_Rot, ROUNDS7_ROT);
+      end
+
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
+   end
+end
+
+procedure critter_p_proc begin
+   // Rotate the Sarge and do a floater if in position.
+   if( ( local_var( LVAR_Guard_Duty ) == 1 ) and
+       ( self_tile == local_var( LVAR_Dest_Tile ) ) and
+       ( self_cur_rot != local_var( LVAR_Dest_Rot ) ) and
+       ( anim_busy(self_obj) == false ) ) then begin
+      // Only float something at the player's position if
+      // he's in the area.
+      if( local_var( LVAR_Rounds_State ) == 4 ) then begin
+         if( tile_distance( GUARD_POST, dude_tile ) > 10 ) then begin
+            self_rotate( local_var( LVAR_Dest_Rot ));
+            floater(169);
+         end
+         else begin
+            Face_Critter( dude_obj, self_obj );
+            call Node020;
+         end
+      end
+      else begin
+         self_rotate( local_var( LVAR_Dest_Rot ));
+         call SpawnResponse;
+         call Node020;
+      end
+
+      // Go to next state.
+      if( local_var( LVAR_Rounds_State ) >= 7 ) then
+         set_local_var( LVAR_Rounds_State, 0 );
+      else
+         inc_local_var( LVAR_Rounds_State );
+      add_timer_event( self_obj, game_ticks(6), 0 );
+   end
+   else if( ( local_var( LVAR_Guard_Duty ) == 1 ) and
+            ( self_tile != local_var( LVAR_Dest_Tile ) ) and
+            ( anim_busy(self_obj) == false ) ) then begin
+      // Dornan has stopped walking, potentiall because you had dialog with
+      // someone else. Start 'im up again.
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
+   end
+
+   if (self_can_see_dude) then begin
+      if (local_var(LVAR_Hostile) == 2) then begin
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
+      else if ( ( global_var(GVAR_NAVARRO_BASE_ALERT) > 0 ) and
+                ( local_var( LVAR_Said_Intruder ) == 0 ) ) then begin
+         // Instead of attacking directly, this guy asks you what the
+         // hell you're doing.
+         set_local_var( LVAR_Said_Intruder, 1 );
+         dialogue_system_enter;
+         //set_local_var(LVAR_Hostile,1);
+         //attack(dude_obj);
+      end
+      else if( not_alone ) then begin
+         call Node021;
+      end
+      else if( ( tile_distance( GUARD_POST, dude_tile ) > 10 ) and ( local_var( LVAR_Guard_Duty ) == 1 ) ) then begin
+         dialogue_system_enter;
+      end
+   end
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+#define start_drill_dialog(the_node)                                                \
+         start_gdialog(NAME,self_obj,4,HEAD_COM_OFFICER,background);      \
+         gSay_Start;                                                                \
+            call the_node;                                                          \
+         gSay_End;                                                                  \
+         end_dialogue
+
+procedure talk_p_proc begin
+   GetReaction;
+
+   Force_Move := 0;
+
+   //added by killap - RP
+   if ((game_time_hour >= 2000) or (game_time_hour < 600)) then
+      background := BACKGROUND_WASTELAND_NIGHT;
+   else
+      background := BACKGROUND_WASTELAND;
+   //end added
+
+   // added by killap
+   if (local_var(LVAR_Hostile) == 2) then begin
+      if (self_can_see_dude) then begin
+        set_local_var(LVAR_Hostile,1);
+        self_attack_dude;
+      end
+   // end added
+   end else if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
+      start_drill_dialog(Node016);
+   end
+   // Set up NOT AT POST
+   else if( ( local_var( LVAR_Guard_Duty ) == 1 ) and
+            ( tile_distance( GUARD_POST, dude_tile ) > 10 ) ) then begin
+      start_drill_dialog(Node015);
+   end
+   else if( local_var( LVAR_Guard_Duty ) == 1 ) then begin
+      call Node020;
+   end
+   else if ( (map_var(MVAR_Get_Armor) == 1) and ( not_wearing_power_armor ) ) then begin
+      if( local_var( LVAR_14_before ) < 2 ) then begin
+         start_drill_dialog(Node014);
+      end else begin
+         floater(300);
+         call Node998;
+      end
+   end
+   else if (map_var(MVAR_Get_Armor) == 1) then begin
+      start_drill_dialog(Node013);
+   end
+   else if ( (map_var(MVAR_Replace) == 1) and ( not_wearing_power_armor ) ) then begin
+      start_drill_dialog(Node009);
+   end
+   else if (map_var(MVAR_Replace) == 1) then begin
+      start_drill_dialog(Node003);
+   end
+   else if ( dude_wearing_power_armor ) then begin
+      start_drill_dialog(Node003);
+   end
+   else begin
+      if (local_var(LVAR_Herebefore) == 0) then begin
+         set_local_var(LVAR_Herebefore,1);
+         start_drill_dialog(Node001);
+      end
+      else begin
+         start_drill_dialog(Node002);
+      end
+   end
+
+   if( Move_Player == 1 ) then begin
+      Move_Player := 0;
+      gfade_out(600);
+      set_local_var( LVAR_Guard_Duty, 1 );
+      move_to(dude_obj,GUARD_POST,dude_elevation);
+      critter_attempt_placement(dude_obj,GUARD_POST,dude_elevation);
+      dude_rotate( 2);
+      gfade_in(600);
+   end
+
+   if( Setup_Rounds == 1 ) then begin
+      Setup_Rounds := 0;
+      set_local_var( LVAR_Rounds_State, 0 );
+      add_timer_event( self_obj, 1, 0 );
+   end
+
+   if( Force_Move == 1 ) then begin
+      // This is to make sure that the Sarge keeps moving to his destination
+      // after talking to you.
+      Force_Move := 0;
+      rm_timer_event( self_obj );
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
+      if( local_var( LVAR_Rounds_State ) >= 7 ) then
+         set_local_var( LVAR_Rounds_State, 0 );
+      else
+         inc_local_var( LVAR_Rounds_State );
+      add_timer_event( self_obj, game_ticks(20), 0 );
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_second_look) == 0) then begin
+      set_local_var(LVAR_second_look,1);
+      display_msg(mstr(100));
+   end
+   else begin
+      display_msg(mstr(101));
+   end
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+   //if (action_being_used == SKILL_STEAL) then begin
+      //if (is_success(roll_vs_skill(dude_obj,action_being_used,0))) then begin
+      //end
+   //end
+end
+
+procedure Node001 begin
+   if( not_alone ) then begin //dude is not alone
+      Reply(104);
+   end
+   else begin
+      Reply(103);
+   end
+
+   NOption(105,Node996,001); //Fade to black transport out of base
+end
+
+procedure Node002 begin
+   if( not_alone ) then begin //dude is not alone
+      Reply(106);
+   end
+   else begin
+      Reply(107);
+   end
+
+   BOption(105,Node998,001); //combat
+end
+
+procedure Node003 begin
+   Reply(108);
+
+   NLowOption(mstr(109) + dude_name + mstr(200), Node004);
+   NOption(mstr(110) + dude_name + mstr(200), Node005, 004);
+end
+
+procedure Node004 begin
+   if( local_var( LVAR_Guard_Duty ) == 0 ) then
+      Setup_Rounds := 1;
+   Reply(111);
+
+   NLowOption(112,Node997); //set guard
+end
+
+procedure Node005 begin
+   Reply(113);
+
+   NOption(mstr(114) + dude_name + mstr(201), Node006, 004);
+end
+
+procedure Node006 begin
+   Reply(115);
+
+   NOption(116,Node007,004);
+   NOption(117,Node012,004);
+end
+
+procedure Node007 begin
+   if( local_var( LVAR_Guard_Duty ) == 0 ) then
+      Setup_Rounds := 1;
+   Reply(118);
+
+   NOption(119,Node008,004);
+   NOption(120,Node997,004); //set guard, fade out, transport to hangar
+end
+
+procedure Node008 begin
+   if( local_var( LVAR_Guard_Duty ) == 0 ) then
+      Setup_Rounds := 1;
+   Reply(121);
+
+   NOption(122,Node997,004); //set guard, fade out, transport to hangar
+end
+
+procedure Node009 begin
+   Reply(123);
+
+   NLowOption(124,Node010);
+   NOption(125,Node011,006);
+   NOption(126,Node010,004);
+   BOption(127,Node998,004);
+end
+
+procedure Node010 begin
+   set_map_var(MVAR_Get_Armor,1);
+   //set armor
+   Reply(128);
+
+   NLowOption(129,Node999);
+   NOption(130,Node999,004);
+end
+
+procedure Node011 begin
+   set_map_var(MVAR_Get_Armor,1);
+   //set armor
+   Reply(131);
+
+   NLowOption(132,Node999);
+   NOption(133,Node999,004);
+end
+
+procedure Node012 begin
+   Reply(134);
+
+   NOption(135,Node007,004);
+end
+
+procedure Node013 begin
+   Reply(136);
+
+   NLowOption(137,Node003);
+   BLowOption(138,Node998);
+   NOption(139,Node003,004);
+   BOption(140,Node998,004);
+end
+
+procedure Node014 begin
+   if (local_var(LVAR_14_before) == 0) then begin
+      set_local_var(LVAR_14_before,1);
+      Reply(141);
+   end
+   else if( local_var(LVAR_14_before) == 1 ) then begin
+      set_local_var(LVAR_14_before,2);
+      Reply(142);
+   end
+
+   NLowOption(143,Node999);
+   BLowOption(144,Node998);
+   NOption(145,Node999,004);
+   BOption(146,Node998,004);
+end
+
+procedure Node015 begin
+   if (local_var(LVAR_15_before) == 0) then begin //first time
+      set_local_var(LVAR_15_before,1);
+      Force_Move := 1;
+      BMessage(147);
+      call Node997;
+   end
+   else if (local_var(LVAR_15_before) == 1) then begin //second time
+      set_local_var(LVAR_15_before,2);
+      Force_Move := 1;
+      BMessage(148);
+      call Node997;
+   end
+   else if (local_var(LVAR_15_before) == 2) then begin //third time
+      BMessage(149);
+      call Node998;
+   end
+end
+
+procedure Node016 begin
+   Reply(150);
+
+   BLowOption(151,Node017);
+   BLowOption(152,Node998);
+   BOption(153,Node017,004);
+   BOption(154,Node998,004);
+end
+
+procedure Node017 begin
+   Reply(155);
+
+   BOption(156,Node998,001);
+end
+
+procedure Node018 begin
+   // Unused
+end
+
+procedure Node019 begin
+   floater(random(157,160));
+end
+
+procedure Node020 begin
+   floater(random(161,164));
+end
+
+procedure Node021 begin
+   // Handle Not Alone
+   floater( random( 165, 168 ) );
+   call Node998;
+end
+
+procedure Node996 begin
+   gfade_out(600);
+   move_to(dude_obj,OFF_BASE,0);
+   critter_attempt_placement(dude_obj,OFF_BASE,0);
+   gfade_in(600);
+end
+
+procedure Node997 begin
+   Move_Player := 1;
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+   set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+procedure SpawnResponse begin
+   variable guard;
+   variable tile;
+
+   if( local_var( LVAR_Rounds_State ) == 0 ) then
+      tile := GUARD0;
+   else if( local_var( LVAR_Rounds_State ) == 1 ) then
+      tile := GUARD1;
+   else if( local_var( LVAR_Rounds_State ) == 2 ) then
+      tile := GUARD2;
+   else if( local_var( LVAR_Rounds_State ) == 3 ) then
+      tile := GUARD3;
+   else if( local_var( LVAR_Rounds_State ) == 5 ) then
+      tile := GUARD5;
+   else if( local_var( LVAR_Rounds_State ) == 6 ) then
+      tile := GUARD6;
+   else if( local_var( LVAR_Rounds_State ) == 7 ) then
+      tile := GUARD7;
+
+   guard := tile_get_next_critter( tile, 2, 0 );
+   if( guard != 0 ) then
+      add_timer_event( guard, game_ticks(9), 999 );
+end

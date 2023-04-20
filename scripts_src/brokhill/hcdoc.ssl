@@ -1,0 +1,1103 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Doc Holiday
+        Location: Broken Hills
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: June 4, 1998
+
+           Updated:
+*/
+
+/* Include Files */
+
+/* Note, the Following Lines need to be in this order so that
+   the script will be compilable. The define Name is referenced
+   in a module from define.h and used in command.h. Please do
+   not change the ordering.
+        -rwh2   11/13/97
+*/
+#define SCRIPT_REALNAME "hcdoc"
+#include "../headers/define.h"
+#include "../headers/broken.h"
+
+#define NAME                    SCRIPT_HCDOC
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure combat;
+
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+// The next lines are added in by the Designer Tool.
+// Do NOT add in any lines here.
+//~~~~~~~~~~~~~~~~ DESIGNER TOOL STARTS HERE
+
+procedure Node001;
+procedure Node001a;
+procedure Node001b;
+procedure Node001c;
+procedure Node002;
+procedure Node002a;
+procedure Node003;
+procedure Node003a;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node018;
+procedure Node019;
+procedure Node020;
+procedure Node021;
+procedure Node022;
+procedure Node023;
+procedure Node023a;
+procedure Node024;
+procedure Node024a;
+procedure Node025;
+procedure Node026;
+procedure Node026a;
+procedure Node027;
+procedure Node028;
+procedure Node029;
+procedure Node029a;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node033a;
+procedure Node034;
+procedure Node035;
+procedure Node036;
+procedure Node037;
+
+procedure Node101;
+procedure Node102;
+procedure Node103;
+procedure Node104;
+procedure Node105;
+procedure Node106;
+procedure Node107;
+procedure Node108;
+procedure Node109;
+procedure Node110;
+procedure Node111;
+procedure Node112;
+procedure Node113;
+procedure Node114;
+//added by killap - RP
+procedure Node115;
+procedure Node116;
+procedure Node117;
+//end added
+procedure PartyFree;
+procedure PayDude;
+procedure PayParty;
+
+//~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
+// The Following lines are for anything that is not needed to be
+// seen by the design Tool
+
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Freeheal                   (7)
+#define LVAR_Heardramble                (8) // added by killap
+
+#define FH_GIVEN                (1)     //doc has told player he will give freeheal
+#define FH_USED                 (2)     //player has used the freeheal
+
+/* Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_) */
+import variable broken_hills_doc_box;
+import variable broken_hills_temp_box;
+
+#define move_inven_to_box              move_obj_inven_to_obj(self_obj, broken_hills_doc_box);
+#define move_inven_from_box            move_obj_inven_to_obj(broken_hills_doc_box, self_obj);
+#define move_inven_to_temp_box         move_obj_inven_to_obj(self_obj, broken_hills_temp_box);
+#define move_inven_from_temp_box       move_obj_inven_to_obj(broken_hills_temp_box, self_obj);
+
+//added by killap
+#define If_Companion_Needs_Healing                unhealthy_members := 0;         \
+                                                   if (Vic_In_Party) then                              \
+                                                      if ((Is_Injured(Vic_Ptr)) or (get_poison(Vic_Ptr) > 0) or (get_rads(Vic_Ptr)) or (Is_Crippled(Vic_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Myron_In_Party) then                            \
+                                                      if ((Is_Injured(Myron_Ptr)) or (get_poison(Myron_Ptr) > 0) or (get_rads(Myron_Ptr)) or (Is_Crippled(Myron_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Marcus_In_Party) then                           \
+                                                      if ((Is_Injured(Marcus_Ptr)) or (get_poison(Marcus_Ptr) > 0) or (get_rads(Marcus_Ptr)) or (Is_Crippled(Marcus_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (MacRae_In_Party) then                           \
+                                                      if ((Is_Injured(MacRae_Ptr)) or (get_poison(MacRae_Ptr) > 0) or (get_rads(MacRae_Ptr)) or (Is_Crippled(MacRae_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Sulik_In_Party) then                            \
+                                                      if ((Is_Injured(Sulik_Ptr)) or (get_poison(Sulik_Ptr) > 0) or (get_rads(Sulik_Ptr)) or (Is_Crippled(Sulik_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Lenny_In_Party) then                            \
+                                                      if ((Is_Injured(Lenny_Ptr)) or (get_poison(Lenny_Ptr) > 0) or (get_rads(Lenny_Ptr)) or (Is_Crippled(Lenny_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Cyberdog_In_Party) then                         \
+                                                      if ((Is_Injured(Cyberdog_Ptr)) or (get_poison(Cyberdog_Ptr) > 0) or (get_rads(Cyberdog_Ptr)) or (Is_Crippled(Cyberdog_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Doc_In_Party) then                              \
+                                                      if ((Is_Injured(Doc_Ptr)) or (get_poison(Doc_Ptr) > 0) or (get_rads(Doc_Ptr)) or (Is_Crippled(Doc_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Goris_In_Party) then                            \
+                                                      if ((Is_Injured(Goris_Ptr)) or (get_poison(Goris_Ptr) > 0) or (get_rads(Goris_Ptr)) or (Is_Crippled(Goris_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Davin_In_Party) then                            \
+                                                      if ((Is_Injured(Davin_Ptr)) or (get_poison(Davin_Ptr) > 0) or (get_rads(Davin_Ptr)) or (Is_Crippled(Davin_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Miria_In_Party) then                            \
+                                                      if ((Is_Injured(Miria_Ptr)) or (get_poison(Miria_Ptr) > 0) or (get_rads(Miria_Ptr)) or (Is_Crippled(Miria_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Robobrain_In_Party) then                        \
+                                                      if ((Is_Injured(Robobrain_Ptr)) or (get_poison(Robobrain_Ptr) > 0) or (get_rads(Robobrain_Ptr)) or (Is_Crippled(Robobrain_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Dogmeat_In_Party) then                        \
+                                                      if ((Is_Injured(Dogmeat_Ptr)) or (get_poison(Dogmeat_Ptr) > 0) or (get_rads(Dogmeat_Ptr)) or (Is_Crippled(Dogmeat_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (K9_In_Party) then                        \
+                                                      if ((Is_Injured(K9_Ptr)) or (get_poison(K9_Ptr) > 0) or (get_rads(K9_Ptr)) or (Is_Crippled(K9_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Kitsune_In_Party) then                        \
+                                                      if ((Is_Injured(Kitsune_Ptr)) or (get_poison(Kitsune_Ptr) > 0) or (get_rads(Kitsune_Ptr)) or (Is_Crippled(Kitsune_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (Dex_In_Party) then                        \
+                                                      if ((Is_Injured(Dex_Ptr)) or (get_poison(Dex_Ptr) > 0) or (get_rads(Dex_Ptr)) or (Is_Crippled(Dex_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                    if (Cat_Jules_In_Party) then                        \
+                                                      if ((Is_Injured(Cat_Jules_Ptr)) or (get_poison(Cat_Jules_Ptr) > 0) or (get_rads(Cat_Jules_Ptr)) or (Is_Crippled(Cat_Jules_Ptr)) ) then                   \
+                                                         unhealthy_members+=1;      \
+                                                   if (unhealthy_members > 0)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable member;
+variable Heal_Cost := 0;
+variable From_5 := 0;
+variable From_26 := 0;
+variable From_32 := 0;
+variable unhealthy_members:=0; //added by killap
+
+procedure start begin
+end
+
+/* This procedure will get called each time that the map is first entered. It will
+   set up the Team number and AI packet for this critter. This will override the
+   default from the prototype, and needs to be set in scripts. */
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
+end
+
+
+/* Every heartbeat that the critter gets, this procedure will be called. Anything from
+   Movement to attacking the player on sight can be placed in here.*/
+procedure critter_p_proc begin
+
+/* If the critter is mad at the player for any reason, it will attack and remember to attack
+   the player should the game be saved and loaded repeatedly. Additionally, if any special
+   actions need to be taken by the critter based on previous combat, the critter will remember
+   this as well. */
+
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
+   end
+
+end
+
+/* Whenever the critter takes damage of any type, this procedure will be called. Things
+   like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
+procedure damage_p_proc begin
+
+/* If the player causes damage to this critter, then he will instantly consider the player
+   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
+   the player for his evil acts. */
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Personal_Enemy,1);
+       set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
+   end
+
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+       set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   Evil_Critter:=0;
+   Slavery_Tolerant:=SLAVE_INTOLERANT;
+   Karma_Perception:=KARMA_PERCEPTION4;
+
+   GetReaction;
+
+   Heal_Cost := 0;
+   From_5 := 0;
+   From_26 := 0;
+   From_32 := 0;
+
+   move_inven_to_temp_box
+   move_inven_from_box
+
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+       call Node998;
+   end
+   else begin
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+             call Node001;
+       gSay_End;
+       end_dialogue;
+   end
+
+   move_inven_to_box
+   move_inven_from_temp_box
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+
+/* Increment the aligned critter counter*/
+   inc_good_critter
+
+/* Set global_variable for Enemy status*/
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   if( local_var(LVAR_Herebefore) == 0 ) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(101));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+/* Any time a skill is used on a critter this call is made. This can be to give examinations
+   for things like Doctor skill or messages for various other skills. */
+procedure use_skill_on_p_proc begin
+end
+
+procedure combat begin
+end
+
+/* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,
+   this call will be made. Essentially, it stores the Hostile vaule so that the critter remembers
+   he was once hostile towards the player.*/
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end
+
+// Not lines are allowed to be added below here
+// The Following lines are from the Design Tool
+//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
+
+procedure Node001 begin
+   if ( local_var(LVAR_Herebefore) == 0 ) then begin
+      set_local_var(LVAR_Herebefore,1);
+      Reply(103);
+   end
+   else
+      Reply(104);
+
+   NLowOption(105,Node020);
+   if( dude_cur_hits < dude_max_hits ) then
+      NOption(106,Node001a,004);
+   //if( party_size >= 2 ) then
+   If_Companion_Needs_Healing then // edit by killap
+      NOption(107,Node001b,004);
+   if ( local_var(LVAR_Freeheal) == 0 ) then
+      NOption(108,Node004,004);
+   if ( local_var(LVAR_Heardramble) == 0 ) then // added by killap
+     NOption(109,Node005,004);
+   NOption(110,Node006,004);
+   NOption(111,Node001c,004);
+   NOption(112,Node999,004);
+end
+
+procedure Node001a begin
+   if( local_var(LVAR_Freeheal) == FH_GIVEN ) then
+      call Node029;
+   else
+      call Node002;
+end
+
+procedure Node001b begin
+   // Determine which NPC to heal.
+   Reply(300);
+   if (Vic_In_Party) then begin
+      if (Is_Injured(Vic_Ptr) or Is_Crippled(Vic_Ptr)) then
+         NOption(301,Node101,004);
+   end
+   if (Myron_In_Party) then begin
+      if (Is_Injured(Myron_Ptr) or Is_Crippled(Myron_Ptr)) then
+         NOption(302,Node102,004);
+   end
+   if (Marcus_In_Party) then begin
+      if (Is_Injured(Marcus_Ptr) or Is_Crippled(Marcus_Ptr)) then
+         NOption(303,Node103,004);
+   end
+   if (MacRae_In_Party) then begin
+      if (Is_Injured(MacRae_Ptr) or Is_Crippled(MacRae_Ptr)) then
+         NOption(304,Node104,004);
+   end
+   if (Sulik_In_Party) then begin
+      if (Is_Injured(Sulik_Ptr) or Is_Crippled(Sulik_Ptr)) then
+         NOption(305,Node105,004);
+   end
+   if (Lenny_In_Party) then begin
+      if (Is_Injured(Lenny_Ptr) or Is_Crippled(Lenny_Ptr)) then
+         NOption(306,Node106,004);
+   end
+   if (Cyberdog_In_Party) then begin
+      if (Is_Injured(Cyberdog_Ptr) or Is_Crippled(Cyberdog_Ptr)) then
+         NOption(307,Node107,004);
+   end
+   if (Doc_In_Party) then begin
+      if (Is_Injured(Doc_Ptr) or Is_Crippled(Doc_Ptr)) then
+         NOption(308,Node108,004);
+   end
+   if (Goris_In_Party) then begin
+      if (Is_Injured(Goris_Ptr) or Is_Crippled(Goris_Ptr)) then
+         NOption(309,Node109,004);
+   end
+   if (Davin_In_Party) then begin
+      if (Is_Injured(Davin_Ptr) or Is_Crippled(Davin_Ptr)) then
+         NOption(310,Node110,004);
+   end
+   if (Miria_In_Party) then begin
+      if (Is_Injured(Miria_Ptr) or Is_Crippled(Miria_Ptr)) then
+         NOption(311,Node111,004);
+   end
+   if (Robobrain_In_Party) then begin
+      if (Is_Injured(Robobrain_Ptr) or Is_Crippled(Robobrain_Ptr)) then
+         NOption(312,Node112,004);
+   end
+   //DAN DON'T worry about Pariah Dog...Chris Holland said to exclude him from healing
+   if (Dogmeat_In_Party) then begin
+      if (Is_Injured(Dogmeat_Ptr) or Is_Crippled(Dogmeat_Ptr)) then
+         NOption(400,Node113,004);
+   end
+   if (K9_In_Party) then begin
+      if (Is_Injured(K9_Ptr) or Is_Crippled(K9_Ptr)) then
+         NOption(401,Node114,004);
+   end
+   //added by killap - RP
+   if (Kitsune_In_Party) then begin
+      if (Is_Injured(Kitsune_Ptr) or Is_Crippled(Kitsune_Ptr)) then
+         NOption(402,Node115,004);
+   end
+   if (Dex_In_Party) then begin
+      if (Is_Injured(Dex_Ptr) or Is_Crippled(Dex_Ptr)) then
+         NOption(403,Node116,004);
+   end
+   if (Cat_Jules_In_Party) then begin
+      if (Is_Injured(Cat_Jules_Ptr) or Is_Crippled(Cat_Jules_Ptr)) then
+         NOption(404,Node117,004);
+   end
+   //end added by killap
+
+   NOption(313,Node999,004); //end dialogue
+end
+
+procedure Node001c begin
+   gdialog_mod_barter(-50);
+
+   call Node018;
+end
+
+procedure Node002 begin
+   Reply(113);
+   NOption(114,Node002a,004);
+   NOption(115,Node999,004);
+end
+
+procedure Node002a begin
+   if( dude_is_crippled ) then begin
+      Heal_Cost := 300;
+      call Node011;
+   end
+   else if( dude_cur_hits >= ( dude_max_hits * 9 ) / 10 ) then begin
+      Heal_Cost := 50;
+      call Node007;
+   end
+   else if( dude_cur_hits >= ( dude_max_hits * 6 ) / 10 ) then begin
+      Heal_Cost := 100;
+      call Node008;
+   end
+   else if( dude_cur_hits >= ( dude_max_hits * 3 ) / 10 ) then begin
+      Heal_Cost := 150;
+      call Node009;
+   end
+   else begin
+      Heal_Cost := 200;
+      call Node010;
+   end
+end
+
+procedure Node003 begin
+   Reply(116);
+   NOption(117,Node003a,004);
+   NOption(118,Node999,004);
+end
+
+procedure Node003a begin
+   variable health;
+
+   health := get_cur_hits( member);
+   if( Is_Crippled( member ) ) then begin
+      Heal_Cost := 300;
+      call Node016;
+   end
+   else if( health >= ( dude_max_hits * 9 ) / 10 ) then begin
+      Heal_Cost := 50;
+      call Node012;
+   end
+   else if( health >= ( dude_max_hits * 6 ) / 10 ) then begin
+      Heal_Cost := 100;
+      call Node013;
+   end
+   else if( health >= ( dude_max_hits * 3 ) / 10 ) then begin
+      Heal_Cost := 150;
+      call Node014;
+   end
+   else begin
+      Heal_Cost := 200;
+      call Node015;
+   end
+end
+
+procedure Node004 begin
+   Reply(119);
+   NOption(120,Node023,004);
+   BOption(121,Node024,004);
+   GOption(122,Node025,007);
+end
+
+procedure Node005 begin
+   From_5 := 1;
+   Reply(123);
+   NOption(124,Node032,004);
+   NOption(125,Node033,004);
+end
+
+procedure Node006 begin
+   Reply(126);
+   NOption(127,Node031,004);
+   NOption(128,Node001,004);
+end
+
+procedure Node007 begin
+   Reply(129);
+   NOption(130,PayDude,004);
+   NOption(131,Node999,004);
+end
+
+procedure Node008 begin
+   Reply(132);
+   NOption(133,PayDude,004);
+   NOption(134,Node999,004);
+end
+
+procedure Node009 begin
+   Reply(135);
+   NOption(136,PayDude,004);
+   NOption(137,Node999,004);
+end
+
+procedure Node010 begin
+   Reply(138);
+   NOption(139,PayDude,004);
+   NOption(140,Node999,004);
+end
+
+procedure Node011 begin
+   Reply(141);
+   NOption(142,PayDude,004);
+   NOption(143,Node999,004);
+end
+
+procedure Node012 begin
+   Reply(144);
+   NOption(145,PayParty,004);
+   NOption(146,Node999,004);
+end
+
+procedure Node013 begin
+   Reply(147);
+   NOption(148,PayParty,004);
+   NOption(149,Node999,004);
+end
+
+procedure Node014 begin
+   Reply(150);
+   NOption(151,PayParty,004);
+   NOption(152,Node999,004);
+end
+
+procedure Node015 begin
+   Reply(153);
+   NOption(154,PayParty,004);
+   NOption(155,Node999,004);
+end
+
+procedure Node016 begin
+   Reply(156);
+   NOption(157,PayParty,004);
+   NOption(158,Node999,004);
+end
+
+procedure Node017 begin
+   Reply(159);
+   NOption(160,Node001c,004);
+   NOption(161,Node999,004);
+end
+
+procedure Node018 begin
+   Reply(162);
+   NOption(163,Node999,004);
+end
+
+procedure Node019 begin
+   // Unsuccessful barter was to go here, but there is no such thing. Responses
+   // occur within the barter screen.
+end
+
+procedure Node020 begin
+   Reply(167);
+   NLowOption(168,Node021);
+   NLowOption(169,Node021);
+end
+
+procedure Node021 begin
+   variable money;
+   money:=dude_caps;
+   if (money >= 100) then begin
+      dude_caps_adjust(-100);
+   end
+   else begin
+      dude_caps_adjust(-(money/2)); //take half if less than 100...check with Colin
+   end
+   // Begin Seraph's Code
+   critter_heal(dude_obj,dude_max_hits-dude_cur_hits);
+   critter_uninjure(dude_obj, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+   gfade_out(600);
+   game_time_advance(game_ticks(2*ONE_GAME_HOUR));//Heal Damage
+   gfade_in(600);
+   // End Seraph's Code
+   Reply(170); //check doc NBK
+   NLowOption(171,Node022);
+end
+
+procedure Node022 begin
+   Reply(172);
+   NLowOption(173,Node999);
+end
+
+procedure Node023 begin
+   Reply(174);
+   if ( (dude_iq > 5) or (dude_charisma > 5) ) then
+      GOption(175,Node023a,004); //react up small
+   BOption(176,Node024,004);
+   NOption(177,Node001,004);
+   NOption(178,Node999,004);
+end
+
+procedure Node023a begin
+   UpReactMinor;
+   call Node026;
+end
+
+procedure Node024 begin
+   Reply(179);
+   BOption(180,Node998,004);
+   BOption(181,Node024a,004); //react down small
+   NOption(182,Node025,004);
+   NOption(183,Node025,004);
+end
+
+procedure Node024a begin
+   DownReactMinor;
+end
+
+procedure Node025 begin
+   if ( From_26 == 1 ) then begin
+      From_26 := 0;
+      Reply(185);
+   end
+   else
+      Reply(184);
+   NOption(186,Node001,004);
+   BOption(187,Node998,004);
+end
+
+procedure Node026 begin
+   From_26 := 1;
+   Reply(188);
+   NOption(189,Node027,004);
+   BOption(190,Node025,004);
+   if ( (dude_iq > 6) or (dude_charisma > 6) ) then
+      GOption(191,Node026a,004);
+   NOption(192,Node999,004);
+end
+
+procedure Node026a begin
+   UpReactMinor;
+   call Node028;
+end
+
+procedure Node027 begin
+   Reply(193);
+   NOption(194,Node001,004);
+end
+
+procedure Node028 begin
+   set_local_var(LVAR_Freeheal,FH_GIVEN);
+   Reply(195); //Freeheal=True
+   NOption(196,Node001,004);
+   NOption(197,Node999,004);
+end
+
+procedure Node029 begin
+   set_local_var(LVAR_Freeheal,FH_USED);
+ //heal all players wounds, Freeheal=used
+   call PartyFree;
+   if( party_size == 1 ) then
+      NMessage(198);
+   else
+      NMessage(314);
+   call Node029a;
+end
+
+procedure Node029a begin
+   gfade_out(600);
+   game_time_advance(game_ticks(party_size*ONE_GAME_HOUR));//Heal Injure
+   gfade_in(600);
+
+   Reply(315);
+   NOption(202,Node001,004);
+   NOption(203,Node999,004);
+end
+
+procedure Node030 begin
+   set_local_var(LVAR_Freeheal,FH_USED);
+ //heal all companions wounds, Freeheal=used
+   call PartyFree;
+   NMessage(201);
+   call Node029a;
+end
+
+procedure Node031 begin
+   Reply(204);
+   NOption(205,Node001,004);
+end
+
+procedure Node032 begin
+   From_32 := 1;
+   if (global_var(GVAR_KNOW_DOC_HOLIDAY) == 0) then  // Seraph's Code
+      set_global_var(GVAR_KNOW_DOC_HOLIDAY,1);
+   Reply(206); //add know_holiday
+   NOption(207,Node034,004);
+   BOption(208,Node033,004);
+end
+
+procedure Node033 begin
+   Reply(209);
+   NOption(210,Node033a,004); //if from 32 goto 34, from 5 goto 32
+   BOption(211,Node999,004);
+end
+
+procedure Node033a begin
+   if( From_32 == 1 ) then begin
+      From_32 := 0;
+      call Node034;
+   end
+   else if( From_5 == 1 ) then begin
+      From_5 := 0;
+      call Node032;
+   end
+end
+
+procedure Node034 begin
+   Reply(212);
+   NOption(213,Node035,004);
+end
+
+procedure Node035 begin
+   Reply(214);
+   GOption(215,Node036,004);
+   NOption(216,Node037,004);
+end
+
+procedure Node036 begin
+   set_local_var(LVAR_Freeheal,FH_GIVEN);
+   set_local_var(LVAR_Heardramble,1); // added by killap
+   Reply(217);
+   NOption(218,Node001,004);
+   NOption(219,Node999,004);
+end
+
+procedure Node037 begin
+   Reply(220);
+   NOption(221,Node001,004);
+   BOption(222,Node999,004);
+end
+
+procedure Node101 begin
+   member:=Vic_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node102 begin
+   member:=Myron_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node103 begin
+   member:=Marcus_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node104 begin
+   member:=MacRae_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node105 begin
+   member:=Sulik_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node106 begin
+   member:=Lenny_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node107 begin
+   member:=Cyberdog_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node108 begin
+   member:=Doc_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node109 begin
+   member:=Goris_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node110 begin
+   member:=Davin_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node111 begin
+   member:=Miria_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node112 begin
+   member:=Robobrain_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node113 begin
+   member:=Dogmeat_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node114 begin
+   member:=K9_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+//added by killap - RP
+procedure Node115 begin
+   member:=Kitsune_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node116 begin
+   member:=Dex_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+
+procedure Node117 begin
+   member:=Cat_Jules_Ptr;
+   if (local_var(LVAR_Freeheal) == FH_GIVEN) then
+      call Node030;
+   else
+      call Node003;
+end
+//end added
+
+procedure PartyFree begin
+   critter_heal(dude_obj,dude_max_hits-dude_cur_hits);
+   critter_uninjure(dude_obj, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+
+   if (Vic_In_Party) then begin
+      if (Is_Injured(Vic_Ptr) or Is_Crippled(Vic_Ptr)) then begin
+         critter_heal(Vic_Ptr,Injured_How_Much(Vic_Ptr));
+         critter_uninjure(Vic_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Myron_In_Party) then begin
+      if (Is_Injured(Myron_Ptr) or Is_Crippled(Myron_Ptr)) then begin
+         critter_heal(Myron_Ptr,Injured_How_Much(Myron_Ptr));
+         critter_uninjure(Myron_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Marcus_In_Party) then begin
+      if (Is_Injured(Marcus_Ptr) or Is_Crippled(Marcus_Ptr)) then begin
+         critter_heal(Marcus_Ptr,Injured_How_Much(Marcus_Ptr));
+         critter_uninjure(Marcus_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (MacRae_In_Party) then begin
+      if (Is_Injured(MacRae_Ptr) or Is_Crippled(MacRae_Ptr)) then begin
+         critter_heal(MacRae_Ptr,Injured_How_Much(MacRae_Ptr));
+         critter_uninjure(MacRae_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Sulik_In_Party) then begin
+      if (Is_Injured(Sulik_Ptr) or Is_Crippled(Sulik_Ptr)) then begin
+         critter_heal(Sulik_Ptr,Injured_How_Much(Sulik_Ptr));
+         critter_uninjure(Sulik_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Lenny_In_Party) then begin
+      if (Is_Injured(Lenny_Ptr) or Is_Crippled(Lenny_Ptr)) then begin
+         critter_heal(Lenny_Ptr,Injured_How_Much(Lenny_Ptr));
+         critter_uninjure(Lenny_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Cyberdog_In_Party) then begin
+      if (Is_Injured(Cyberdog_Ptr) or Is_Crippled(Cyberdog_Ptr)) then begin
+         critter_heal(Cyberdog_Ptr,Injured_How_Much(Cyberdog_Ptr));
+         critter_uninjure(Cyberdog_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Doc_In_Party) then begin
+      if (Is_Injured(Doc_Ptr) or Is_Crippled(Doc_Ptr)) then begin
+         critter_heal(Doc_Ptr,Injured_How_Much(Doc_Ptr));
+         critter_uninjure(Doc_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Goris_In_Party) then begin
+      if (Is_Injured(Goris_Ptr) or Is_Crippled(Goris_Ptr)) then begin
+         critter_heal(Goris_Ptr,Injured_How_Much(Goris_Ptr));
+         critter_uninjure(Goris_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Davin_In_Party) then begin
+      if (Is_Injured(Davin_Ptr) or Is_Crippled(Davin_Ptr)) then begin
+         critter_heal(Davin_Ptr,Injured_How_Much(Davin_Ptr));
+         critter_uninjure(Davin_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Miria_In_Party) then begin
+      if (Is_Injured(Miria_Ptr) or Is_Crippled(Miria_Ptr)) then begin
+         critter_heal(Miria_Ptr,Injured_How_Much(Miria_Ptr));
+         critter_uninjure(Miria_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Robobrain_In_Party) then begin
+      if (Is_Injured(Robobrain_Ptr) or Is_Crippled(Robobrain_Ptr)) then begin
+         critter_heal(Robobrain_Ptr,Injured_How_Much(Robobrain_Ptr));
+         critter_uninjure(Robobrain_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Dogmeat_In_Party) then begin
+      if (Is_Injured(Dogmeat_Ptr) or Is_Crippled(Dogmeat_Ptr)) then begin
+         critter_heal(Dogmeat_Ptr,Injured_How_Much(Dogmeat_Ptr));
+         critter_uninjure(Dogmeat_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   //DAN DON'T worry about Pariah Dog...Chris Holland said to exclude him from healing
+   if (K9_In_Party) then begin
+      if (Is_Injured(K9_Ptr) or Is_Crippled(K9_Ptr)) then begin
+         critter_heal(K9_Ptr,Injured_How_Much(K9_Ptr));
+         critter_uninjure(K9_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   //added by killap - RP
+   if (Kitsune_In_Party) then begin
+      if (Is_Injured(Kitsune_Ptr) or Is_Crippled(Kitsune_Ptr)) then begin
+         critter_heal(Kitsune_Ptr,Injured_How_Much(Kitsune_Ptr));
+         critter_uninjure(Kitsune_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Dex_In_Party) then begin
+      if (Is_Injured(Dex_Ptr) or Is_Crippled(Dex_Ptr)) then begin
+         critter_heal(Dex_Ptr,Injured_How_Much(Dex_Ptr));
+         critter_uninjure(Dex_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   if (Cat_Jules_In_Party) then begin
+      if (Is_Injured(Cat_Jules_Ptr) or Is_Crippled(Cat_Jules_Ptr)) then begin
+         critter_heal(Cat_Jules_Ptr,Injured_How_Much(Cat_Jules_Ptr));
+         critter_uninjure(Cat_Jules_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      end
+   end
+   //end added
+end
+
+procedure PayDude begin
+   if( dude_caps >= Heal_Cost) then begin
+      // Heal the player.
+      dude_caps_adjust(-Heal_Cost);
+      critter_heal(dude_obj,dude_max_hits-dude_cur_hits);
+      critter_uninjure(dude_obj, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      gfade_out(600);
+
+      if( Heal_Cost == 300 ) then
+         game_time_advance(game_ticks(8*ONE_GAME_HOUR));//Heal Injure
+      else
+         game_time_advance(game_ticks(2*ONE_GAME_HOUR));//Heal Damage
+
+      gfade_in(600);
+
+      Reply(315);
+      NOption(202,Node001,004);
+      NOption(203,Node999,004);
+   end
+   else
+      call Node017;
+end
+
+procedure PayParty begin
+   if( dude_caps >= Heal_Cost) then begin
+      // Heal the party member.
+      dude_caps_adjust(-Heal_Cost);
+      critter_heal(member,Injured_How_Much(member));
+      critter_uninjure(member, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
+      gfade_out(600);
+
+      if( Heal_Cost == 300 ) then
+         game_time_advance(game_ticks(8*ONE_GAME_HOUR));//Heal Injure
+      else
+         game_time_advance(game_ticks(2*ONE_GAME_HOUR));//Heal Dammage
+
+      gfade_in(600);
+
+      Reply(315);
+      NOption(202,Node001,004);
+      NOption(203,Node999,004);
+   end
+   else
+      call Node017;
+end
+
+//xxxxxxxxxxxxxxxxxxxx

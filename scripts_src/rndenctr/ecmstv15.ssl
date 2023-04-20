@@ -1,0 +1,18 @@
+#define SCRIPT_REALNAME "ecmstv15"
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_15)
+
+#include "../headers/random_merchant.h"
+#define CITY_START              (CITY_VAULT_15)
+#define CITY_END                (CITY_NEW_RENO)
+
+#define restock \
+   item:=create_object(PID_MEAT_JERKY,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,6)); \
+   item:=create_object(PID_IGUANA_ON_A_STICK,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,6)); \
+   item:=create_object(PID_LOCKPICKS,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,6)); \
+   item:=create_object(PID_DYNAMITE,0,0); \
+   add_mult_objs_to_inven(self_obj,item,random(2,6))
+
+#include "../template/random_merchant.ssl"

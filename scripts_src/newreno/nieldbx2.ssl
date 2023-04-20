@@ -1,0 +1,75 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Eldridge Store Box
+        Location : New Reno
+        Description: This box is for Eldridge's Goods
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: May 13, 1998
+
+           Updated:
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "nieldbx2"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_NIELDBOX
+
+#include "../headers/command.h"
+#include "../headers/newreno.h"
+/* Defines and Macros */
+
+#define LVAR_Restock_Time                 (0)
+#define LVAR_Restock_Time_Fix             (1) //added by killap
+
+/* Standard Script Procedures */
+procedure start;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+import variable new_reno_eldridge_box_2;
+
+procedure start begin
+   new_reno_eldridge_box_2 := self_obj;
+end
+
+procedure map_enter_p_proc begin
+     //added by killap
+   variable tmp;
+   variable special_item;
+   //end added
+
+   new_reno_eldridge_box_2 := self_obj;
+   if (is_loading_game == false) then begin
+      restock_fix
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
+         if (map_first_run) then begin
+            give_pid_qty(self_obj, PID_223_PISTOL, 1)
+         end
+         check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 25)
+         check_restock_item(PID_COMBAT_SHOTGUN, 1, 1, 25)
+         check_restock_item(PID_ROCKET_LAUNCHER, 1, 1, 25)
+         check_restock_item(PID_FLAMER, 1, 1, 25)
+         check_restock_item(PID_MINIGUN, 1, 1, 25)
+         check_restock_item(PID_SNIPER_RIFLE, 1, 1, 25)
+         check_restock_item(PID_M60, 1, 1, 25)
+         check_restock_item(PID_HK_CAWS, 1, 1, 25)
+         check_restock_item(PID_SUPER_SLEDGE, 1, 1, 25)
+         check_restock_item(PID_BOZAR, 1, 1, 25)
+         set_local_var(LVAR_Restock_Time, (random(2,4) * ONE_GAME_DAY) + game_time);
+      end
+   end
+end
+
+procedure map_update_p_proc begin
+   new_reno_eldridge_box_2 := self_obj;
+end

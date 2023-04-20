@@ -1,0 +1,103 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Wood Door
+        Locked: Yes
+        Trapped: Yes
+        Description: This is a generic locked and trapped wooden door.
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+******************************************************************************************/
+
+/* Include Files */
+#define SCRIPT_REALNAME "kidbox"
+#include "../headers/define.h"
+#define NAME                    SCRIPT_KIDBOX
+#include "../headers/command.h"
+/* Defines and Macros */
+
+/* Sets whether the door is locked or trapped */
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+
+#define LVAR_Restock_Time               (7)
+#define LVAR_Restock_Time_Fix           (8) //added by killap
+
+#define custom_start
+#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
+#include "../headers/containers.h"
+
+import variable klam_dunton_box_obj;
+
+procedure start begin
+   klam_dunton_box_obj := self_obj;
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called. The main purpose of
+   this procedure is to lock the door from the outset, rather than having to worry about
+   it through Mapper. After the door has been unlocked, it will remain as such, unless
+   the player locks it once more.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+/* Set up the door state when the player first enters the map */
+   variable tmp;
+   variable special_item;
+
+   klam_dunton_box_obj := self_obj;
+   if (local_var(LVAR_Set_Door_Status) == 0) then begin
+       set_local_var(LVAR_Set_Door_Status,1);
+       set_local_var(LVAR_Locked,LOCKED_STATUS);
+       set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+   end
+
+   restock_fix
+   if (local_var(LVAR_Restock_Time) < game_time) then begin
+      check_restock_item(PID_BOTTLE_CAPS, 65, 65, 100)
+      check_restock_item(PID_MEAT_JERKY, 45, 45, 100)
+      check_restock_item(PID_BRASS_KNUCKLES, 1, 1, 100)
+      check_restock_item(PID_CROWBAR, 1, 1, 100)
+      check_restock_item(PID_HEALING_POWDER, 4, 4, 100)
+      check_restock_item(PID_CATS_PAW, 1, 1, 100)
+      set_local_var(LVAR_Restock_Time, (21 * ONE_GAME_DAY) + game_time);
+   end
+
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_lock(self_obj);
+   end
+
+   else begin
+       obj_unlock(self_obj);
+   end
+end
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time. It is used to make
+   sure that the door does not lock on it's own and that the player will be able to get
+   through once he has unlocked the door. Once more, this is so that locking and
+   unlocking do not need to be done in Mapper.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+   klam_dunton_box_obj := self_obj;
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_lock(self_obj);
+   end
+
+   else begin
+       obj_unlock(self_obj);
+   end
+end

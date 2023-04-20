@@ -1,0 +1,40 @@
+/*        Script from item templete*          /
+
+/*
+        Name:
+        Location:
+        Description:
+
+        Log:
+
+
+           Created:
+
+           Updated:
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "peeing"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_PEEING
+
+#include "../headers/command.h"
+
+procedure start;
+procedure use_p_proc;
+
+procedure start begin
+end
+
+procedure use_p_proc begin
+   if (source_obj == dude_obj) then begin
+      script_overrides;
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+         reg_anim_animate(dude_obj, ANIM_up_stairs_left, -1);
+         reg_anim_play_sfx(dude_obj, "peeing", 1);
+      reg_anim_end();
+   end
+end

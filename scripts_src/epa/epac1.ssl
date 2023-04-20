@@ -1,0 +1,101 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epac1"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAC1          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure timed_event_p_proc;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+procedure push_p_proc;
+
+procedure start begin
+  add_timer_event(self_obj, game_ticks(5), 1);
+end
+
+procedure timed_event_p_proc begin
+  if fixed_param == 1 then begin
+    rm_fixed_timer_event(self_obj, 1); //clear queue
+    if not (critter_state(self_obj) bwand DAM_KNOCKED_DOWN)
+      and not combat_is_initialized then
+    begin
+      variable dst := tile_num_in_direction(self_tile, random(0, 5), 5);
+      if not tile_is_blocked(dst, self_elevation) then begin
+        reg_anim_clear(self_obj);
+        reg_anim_begin();
+          self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), 5));
+        reg_anim_end();
+      end
+    end
+    add_timer_event(self_obj, game_ticks(random(10, 15)), 1);
+  end
+end
+
+procedure use_p_proc begin
+end
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+procedure description_p_proc
+begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then begin
+      display_msg(mstr(101));
+      set_local_var(LVAR_Herebefore,1);
+   end else
+      display_msg(mstr(102));
+end
+
+procedure use_skill_on_p_proc
+begin
+end
+
+procedure use_obj_on_p_proc
+begin
+end
+
+procedure damage_p_proc
+begin
+end
+
+procedure map_enter_p_proc
+begin
+end
+
+procedure map_update_p_proc
+begin
+end
+
+procedure talk_p_proc
+begin
+  float_msg(self_obj, mstr(random(200, 210)), FLOAT_MSG_YELLOW);
+end
+
+procedure push_p_proc
+begin
+  float_msg(self_obj, mstr(random(500, 501)), FLOAT_MSG_YELLOW);
+end

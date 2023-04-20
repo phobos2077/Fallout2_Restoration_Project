@@ -1,0 +1,20 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/* Random Encounter scripts. These will be filled in more once they
+   have been designed.
+*/
+
+procedure start;
+
+#define SCRIPT_REALNAME "ecslvrun"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ECSLVRUN
+
+#include "../headers/command.h"
+
+procedure start begin
+   set_self_team(TEAM_RND_SLAVE_RUN);
+end

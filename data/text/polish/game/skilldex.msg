@@ -1,0 +1,10 @@
+{100}{}{Umiejętn.}
+{101}{}{Anuluj}
+{102}{}{Skradaj}
+{103}{}{Otwórz}
+{104}{}{Kradnij}
+{105}{}{Pułapki}
+{106}{}{P.Pomoc}
+{107}{}{Lecz}
+{108}{}{Nauka}
+{109}{}{Naprawa}

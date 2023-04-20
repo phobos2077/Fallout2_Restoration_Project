@@ -1,0 +1,472 @@
+/*
+        Name: abmerch1
+        Location: Abbey
+        Description: Marchant trying to fix the waterpump
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: killap - 7/01/2006
+
+           Updated:
+*/
+
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "abmerch1"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ABMERCH1
+#define TOWN_REP_VAR            (GVAR_TOWN_REP_ABBEY)
+
+#include "../headers/command.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure destroy_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node998;
+procedure Node999;
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+
+#define LVAR_Flags                      (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Home_Tile                  (7)
+#define LVAR_End_Sequence               (8)
+#define LVAR_Get_Part                   (9)
+#define LVAR_Talked_About_Pump          (10)
+#define LVAR_Asked_Money                (11)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+variable From_Node := 0;
+variable install_part := 12;
+variable step := 0;
+variable installing_part := 0;
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (combat_is_initialized) then begin
+      add_timer_event(self_obj,game_ticks(5),5);
+   end else if (not((game_time_hour >= 1900) or (game_time_hour < 600))) then begin
+      if (global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) then begin
+         if (fixed_param == install_part) then begin
+            if(step == 0) then begin
+               step :=1;
+               anim_move_to_point_rate(11708, 5)
+               rm_fixed_timer_event(self_obj, fixed_param);
+               add_timer_event(self_obj,game_ticks(2),install_part);
+            end if (step == 1) then begin
+               step :=2;
+               reg_anim_clear( self_obj );
+               self_rotate(0);
+               rm_fixed_timer_event(self_obj, fixed_param);
+               add_timer_event(self_obj,game_ticks(1),install_part);
+            end else if (step == 2) then begin
+               step :=3;
+               reg_anim_clear( self_obj );
+               //reg_anim_begin();
+                  anim(self_obj, random(ANIM_magic_hands_ground,ANIM_magic_hands_middle), 0);
+               //reg_anim_end();
+               rm_fixed_timer_event(self_obj, fixed_param);
+               add_timer_event(self_obj,game_ticks(1),install_part);
+            end else if (step == 3) then begin
+               reg_anim_clear( self_obj );
+               //reg_anim_begin();
+                  anim(self_obj, ANIM_stand, 0);
+               //reg_anim_end();
+               floater(900);
+               display_msg(mstr(901));
+               set_global_var(GVAR_ABBEY_PUMP,PUMP_FIXED);
+               if (local_var(LVAR_Asked_Money) == 1) then begin
+                  give_xp(150);
+               end else begin
+                  give_xp(300);
+                  inc_global_var_amt(GVAR_TOWN_REP_ABBEY,5);
+               end
+               rm_fixed_timer_event(self_obj, fixed_param);
+               add_timer_event(self_obj,game_ticks(4),1);
+               installing_part := 0;
+            end
+         end else begin
+            if (fixed_param == 1) then begin
+               floater(random(103,106));
+               rm_fixed_timer_event(self_obj, 1);
+               add_timer_event(self_obj,game_ticks(random(10,15)),5);
+            end else if (fixed_param == 2) then begin
+               reg_anim_clear( self_obj );
+               //reg_anim_begin();
+                  anim(self_obj, random(ANIM_magic_hands_ground,ANIM_magic_hands_middle), 0);
+               //reg_anim_end();
+               rm_fixed_timer_event(self_obj, 3);
+               add_timer_event(self_obj,game_ticks(1),3);
+            end else if (fixed_param == 3) then begin
+               reg_anim_clear( self_obj );
+               //reg_anim_begin();
+                  anim(self_obj, ANIM_stand, 0);
+               //reg_anim_end();
+               rm_fixed_timer_event(self_obj, 3);
+               add_timer_event(self_obj,game_ticks(2),1);
+            end else if (fixed_param == 4) then begin
+               anim_move_to_point_rate(12505, 5)
+               rm_fixed_timer_event(self_obj, 4);
+            end else if (fixed_param == 5) then begin
+               if (random(1,3) == 1) then begin
+                  ndebug("self_title:" + self_tile + " home_tile:" +  local_var(LVAR_Home_Tile));
+                  if (self_tile == local_var(LVAR_Home_Tile)) then begin
+                     anim_move_to_point_rate(11708, 5)
+                     rm_fixed_timer_event(self_obj, 5);
+                     add_timer_event(self_obj,game_ticks(2),6);
+                  end else begin
+                     anim_move_to_point_rate(local_var(LVAR_Home_Tile), 5)
+                     rm_fixed_timer_event(self_obj, 5);
+                     add_timer_event(self_obj,game_ticks(2),7);
+                  end
+               end else begin
+                  rm_fixed_timer_event(self_obj, 5);
+                  add_timer_event(self_obj,game_ticks(2),2);
+               end
+            end else if (fixed_param == 6) then begin
+               reg_anim_clear( self_obj );
+               self_rotate(0);
+               add_timer_event(self_obj,game_ticks(1),2);
+            end else if (fixed_param == 7) then begin
+               reg_anim_clear( self_obj );
+               self_rotate(5);
+               add_timer_event(self_obj,game_ticks(0),2);
+            end
+         end
+      end else begin
+         if (fixed_param == 8) then begin
+            rm_fixed_timer_event(self_obj, 8);
+            floater(110);
+            add_timer_event(self_obj,game_ticks(3),9);
+         end else if (fixed_param == 9) then begin
+            rm_fixed_timer_event(self_obj, fixed_param);
+            anim_move_to_point_rate(12504, 5) //near the guys
+            add_timer_event(self_obj,game_ticks(2),10);
+         end else if (fixed_param == 10) then begin
+            rm_fixed_timer_event(self_obj, 10);
+            if (self_tile == 12504) then begin
+               rm_fixed_timer_event(self_obj, 10);
+               reg_anim_clear( self_obj );
+               self_rotate(0);
+               add_timer_event(self_obj,game_ticks(1),11);
+            end else
+               add_timer_event(self_obj,game_ticks(1),10);
+         end else if (fixed_param == 11) then begin
+            reg_anim_clear( self_obj );
+            //reg_anim_begin();
+               anim(self_obj, ANIM_stand, 0);
+            //reg_anim_end();
+            rm_fixed_timer_event(self_obj, 11);
+         end
+      end
+   end else begin
+      if (self_tile != 12504) then begin
+         self_walk_to_tile(12504);
+      end else begin
+         reg_anim_clear( self_obj );
+         //reg_anim_begin();
+            anim(self_obj, ANIM_stand, 0);
+         //reg_anim_end();
+      end
+      rm_fixed_timer_event(self_obj, fixed_param);
+      add_timer_event(self_obj,game_ticks(1),5);
+   end
+end
+
+procedure critter_p_proc begin
+
+   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (self_can_see_dude)) then begin
+      attack(dude_obj);
+   end
+
+   else if ( (global_var(GVAR_ABBEY_PUMP) >= PUMP_FIXED) and (local_var(LVAR_End_Sequence) !=1 ) ) then begin
+      rm_fixed_timer_event(self_obj, fixed_param);
+      set_local_var(LVAR_End_Sequence,1);
+      add_timer_event(self_obj,game_ticks(1),8);
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+end
+
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      call Node998;
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(102));
+end
+
+
+
+procedure use_skill_on_p_proc begin
+end
+
+
+procedure use_obj_on_p_proc begin
+end
+
+
+/******************************************************************************************
+   IF it gets damaged
+******************************************************************************************/
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_personal_enemy;
+      if (global_var(GVAR_TOWN_REP_ABBEY) != -30) then
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+   end
+end
+
+/******************************************************************************************
+   IF it gets killed
+******************************************************************************************/
+procedure destroy_p_proc begin
+   inc_good_critter
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   if (map_first_run) then
+      set_local_var(LVAR_Home_Tile, self_tile);
+   add_timer_event(self_obj,game_ticks(5),5);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   if not(installing_part) then begin
+      if ( ((game_time_hour >= 1900) or  (game_time_hour < 600)) and (global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) ) then
+         floater(330);
+      else if (global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) then begin
+           start_gdialog(NAME,self_obj,4,-1,-1);
+           gSay_start;
+               if (global_var(GVAR_ABBEY_PUMP) < PUMP_QUEST_GIVEN) then
+                 call Node001;
+               else if (local_var(LVAR_Get_Part) == 1) then
+                 call Node009;
+               else begin
+                 if (local_var(LVAR_Talked_About_Pump) == 0) then
+                     call Node012;
+                 else
+                     call Node007;
+               end
+           gSay_end;
+           end_dialogue;
+      end else
+         call Node002;
+   end
+end
+
+procedure Node999 begin
+end
+
+procedure Node998 begin
+  set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+end
+
+procedure Node990 begin
+   set_global_var(GVAR_ABBEY_PUMP, PUMP_GET_PART);
+   set_local_var(LVAR_Get_Part,1);
+end
+
+procedure Node001 begin
+    Reply(300);
+    if (global_var(GVAR_ABBEY_PUMP) == PUMP_QUEST_GIVEN) then begin
+      NOption(301,Node004,4);
+      NOption(313,Node013,4);
+    end else begin
+      NOption(305,Node005,4);
+      NOption(312,Node013,4);
+    end
+    NOption(310,Node999,4);
+   //floater(random(107,108));
+   //set_global_var(GVAR_ABBEY_PUMP,PUMP_QUEST_GIVEN);
+end
+
+procedure Node002 begin
+   if (global_var(GVAR_ABBEY_PUMP) != PUMP_REPORTED) then
+      floater(random(109,110));
+   else
+      floater(200);
+end
+
+procedure Node003 begin
+   floater(random(103,104));
+end
+
+procedure Node004 begin
+   Reply(302);
+   NOption(303,Node006,4);
+
+   From_Node := 4;
+end
+
+procedure Node005 begin
+   set_global_var(GVAR_ABBEY_PUMP,PUMP_QUEST_GIVEN);
+   set_local_var(LVAR_Talked_About_Pump,1);
+   Reply(306);
+   if (has_skill(dude_obj, SKILL_REPAIR) > 60) then
+     NOption(307,Node006,4);
+   else
+     NOption(308,Node006,4);
+
+   From_Node := 5;
+end
+
+procedure Node006 begin
+   if(From_Node == 4) then
+      Reply(304);
+   else if (From_Node == 5) then
+      Reply(309);
+
+   NOption(311,Node999,4);
+end
+
+procedure Node007 begin
+   Reply(400);
+   if (global_var(GVAR_ABBEY_PUMP) == PUMP_FOUND_PROBLEM) then
+      NOption(402,Node008,4);
+   NOption(401,Node999,4);
+end
+
+procedure Node008 begin
+   Reply(500);
+   NOption(501,Node990,4);
+   NOption(502,Node014,4);
+   BOption(503,Node999,4);
+end
+
+procedure Node009 begin
+   Reply(600);
+   if ((dude_item_count(PID_MOTOR))) then
+      NOption(602,Node010,4);
+   else
+      NOption(601,Node999,4);
+end
+
+procedure Node010 begin
+   Reply(700);
+   NOption(701,Node999,4);
+   NOption(702,Node011,4);
+end
+
+procedure Node011 begin
+   variable item;
+   Reply(800);
+   NOption(801,Node999,4);
+   item:=dude_item(PID_MOTOR);
+   rm_obj_from_inven(dude_obj,item);
+   destroy_object(item);
+   rm_fixed_timer_event(self_obj, fixed_param);
+   add_timer_event(self_obj,game_ticks(1),install_part);
+   installing_part := 1;
+end
+
+procedure Node012 begin
+   Reply(910);
+   if (global_var(GVAR_ABBEY_PUMP) == PUMP_FOUND_PROBLEM) then
+      NOption(913,Node008,4);
+   else
+      NOption(911,Node005,4);
+   NOption(912,Node999,4);
+end
+
+procedure Node013 begin
+   Reply(320);
+   NOption(321,Node005,4);
+   NOption(322,Node999,4);
+end
+
+procedure Node014 begin
+   set_local_var(LVAR_Asked_Money,1);
+   dude_caps_adjust(600);
+   Reply(510);
+   NOption(511,Node990,4);
+end

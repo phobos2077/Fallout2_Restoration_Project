@@ -1,0 +1,41 @@
+/*
+  ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
+*/
+
+#define SCRIPT_REALNAME "epas3"
+#include "../headers/define.h"
+//#include "../headers/<TownMapName.h>"
+
+#define NAME                    SCRIPT_EPAS3          //Script name from scripts.h
+#define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
+
+#include "../headers/command.h"
+#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
+
+#define LVAR_Herebefore                 (4)
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
+procedure start;
+procedure spatial_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+
+procedure start
+begin
+end
+
+procedure spatial_p_proc
+begin
+  if (global_var(GVAR_ELECTRIC_CHAIR) == 1) then
+    critter_dmg(source_obj, random(450, 550), DMG_electrical);
+end
+
+procedure map_enter_p_proc
+begin
+end
+
+procedure map_update_p_proc
+begin
+end
