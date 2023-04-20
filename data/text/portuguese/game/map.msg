@@ -179,86 +179,86 @@
 {308}{}{Vault 15: Nivel 1}
 {309}{}{Vault 15: Nivel 2}
 {310}{}{Vault 15: Nivel 3}
-{311}{}{Squatters}
+{311}{}{Invasores}
 {312}{}{}
 {313}{}{}
-{314}{}{Squatters}
+{314}{}{Invasores}
 {315}{}{}
 {316}{}{}
-{317}{}{East Entrance}
+{317}{}{Entrada leste}
 {318}{}{}
 {319}{}{}
-{320}{}{Level 1}
-{321}{}{Level 2}
-{322}{}{Level 3}
+{320}{}{Nivel 1}
+{321}{}{Nivel 2}
+{322}{}{Nivel 3}
 {323}{}{Caverna}
 {324}{}{}
 {325}{}{}
 {326}{}{Centro da Cidade}
 {327}{}{}
 {328}{}{}
-{329}{}{Council Hall}
+{329}{}{Salão do Conselho}
 {330}{}{}
 {331}{}{}
-{332}{}{Westin Ranch}
+{332}{}{Rancho Westin}
 {333}{}{}
 {334}{}{}
-{335}{}{Grazing Lands}
+{335}{}{Pastagens}
 {336}{}{}
 {337}{}{}
-{338}{}{Bazaar}
+{338}{}{Bazar}
 {339}{}{}
 {340}{}{}
-{341}{}{Council Hall}
+{341}{}{Salão do Conselho}
 {342}{}{}
 {343}{}{}
 {344}{}{Desfiladeiro}
 {345}{}{Desfiladeiro}
 {346}{}{Desfiladeiro}
-{347}{}{Level 1}
-{348}{}{Level 2}
+{347}{}{Nivel 1}
+{348}{}{Nivel 2}
 {349}{}{}
-{350}{}{Level 3}
-{351}{}{Level 4}
+{350}{}{Nivel 3}
+{351}{}{Nivel 4}
 {352}{}{}
 {353}{}{Entrada}
 {354}{}{}
 {355}{}{}
 {356}{}{Deserto}
 {357}{}{Vila}
-{358}{}{Camp Site}
+{358}{}{Acampamento}
 {359}{}{Deserto}
 {360}{}{}
 {361}{}{}
-{362}{}{Virgin Street}
-{363}{}{Desperado Basement}
-{364}{}{Desperado 2nd Floor}
-{365}{}{2nd Street}
-{366}{}{Shark Club 2nd Floor}
-{367}{}{Shark Club 3rd Floor}
-{368}{}{Commercial Row}
-{369}{}{New Reno Arms Basement}
+{362}{}{Rua Virgem}
+{363}{}{Porão Desperado}
+{364}{}{2º andar de Desperado}
+{365}{}{Segunda Rua}
+{366}{}{2º andar do Clube Tubarão}
+{367}{}{3º andar do Clube Tubarão}
+{368}{}{Linha Comercial}
+{369}{}{Porão de Armas de New Reno}
 {370}{}{}
 {371}{}{Zona Leste}
-{372}{}{Train Station}
+{372}{}{Estação de Trem}
 {373}{}{}
 {374}{}{Chop Shop}
 {375}{}{}
 {376}{}{}
-{377}{}{Graveyard}
-{378}{}{Fallout Shelter}
+{377}{}{Cemitério}
+{378}{}{Abrigo Fallout}
 {379}{}{}
-{380}{}{Slave Pens}
-{381}{}{Lab}
+{380}{}{Curral de Escravos}
+{381}{}{Laboratorio}
 {382}{}{}
-{383}{}{Boxing Arena}
-{384}{}{Boxing Arena}
-{385}{}{Boxing Arena}
+{383}{}{Arena de Boxe}
+{384}{}{Arena de Boxe}
+{385}{}{Arena de Boxe}
 {386}{}{Entrada da mina}
 {387}{}{Entrada da mina}
 {388}{}{Entrada da mina}
-{389}{}{Mine Level 1}
-{390}{}{Mine Level 2}
+{389}{}{Mina Nivel 1}
+{390}{}{Mina Nivel 2}
 {391}{}{}
 {392}{}{Centro da Cidade}
 {393}{}{Centro da Cidade}
@@ -548,7 +548,7 @@
 {677}{}{Nivel Secreto}
 {678}{}{Introduza o nome}
 {679}{}{Introduza o nome}
-{680}{}{Main Camp}
+{680}{}{Acampamento Principal}
 {681}{}{Introduza o nome}
 {682}{}{Introduza o nome}
 {683}{}{Deserto}
@@ -557,15 +557,15 @@
 {686}{}{Entrada}
 {687}{}{Nivel Um}
 {688}{}{Nivel Dois}
-{689}{}{Ranger Safe House}
-{690}{}{Ranger Safe House}
-{691}{}{Ranger Safe House}
-{692}{}{Ranger Safe House}
-{693}{}{Ranger Safe House}
-{694}{}{Ranger Safe House}
-{695}{}{Ranger Safe House}
-{696}{}{Ranger Safe House}
-{697}{}{Ranger Safe House}
+{689}{}{Casa Segura de Ranger}
+{690}{}{Casa Segura de Ranger}
+{691}{}{Casa Segura de Ranger}
+{692}{}{Casa Segura de Ranger}
+{693}{}{Casa Segura de Ranger}
+{694}{}{Casa Segura de Ranger}
+{695}{}{Casa Segura de Ranger}
+{696}{}{Casa Segura de Ranger}
+{697}{}{Casa Segura de Ranger}
 {698}{}{Deserto}
 {699}{}{Deserto}
 {700}{}{Deserto}
@@ -575,8 +575,8 @@
 {704}{}{Deserto}
 {705}{}{Deserto}
 {706}{}{Deserto}
-{707}{}{Sub Surface}
-{708}{}{Sub Interior Level 1}
+{707}{}{Subsuperfície}
+{708}{}{Sub Interior Nivel 1}
 {709}{}{}
 {710}{}{Nivel Um}
 {711}{}{Nivel Dois}
@@ -584,7 +584,7 @@
 {713}{}{Nivel Um}
 {714}{}{Nivel Dois}
 {715}{}{Nivel Tres}
-{716}{}{Abandoned House}
+{716}{}{Casa Abandonada}
 {717}{}{Caverna}
 {718}{}{}
 {1500}{}{Arroyo}
@@ -595,56 +595,56 @@
 {1505}{}{Gecko}
 {1506}{}{Broken Hills}
 {1507}{}{Novo Reno}
-{1508}{}{Sierra Army Depot}
+{1508}{}{Depósito Militar de Sierra}
 {1509}{}{Vault 15}
-{1510}{}{New California Republic}
+{1510}{}{Republica da Nova California}
 {1511}{}{Vault 13}
-{1512}{}{Military Base}
+{1512}{}{Base Militar}
 {1513}{}{Redding}
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
-{1516}{}{The Enclave}
-{1517}{}{Abbey}
-{1518}{}{Umbra Tribe}
+{1516}{}{A Enclave}
+{1517}{}{Mosteiro}
+{1518}{}{Tribo Umbra}
 {1519}{}{EPA}
-{1520}{}{Ghost Farm}
-{1521}{}{Car Outta Power}
+{1520}{}{Fazenda Fantasma}
+{1521}{}{Carro sem energia}
 {1522}{}{Arroyo}
-{1523}{}{Toxic Caves}
-{1524}{}{Den Slave Run}
+{1523}{}{Cavernas Tóxicas}
+{1524}{}{A Invasão de Escravos de Den}
 {1525}{}{Raiders}
 {1526}{}{Deserto}
 {1527}{}{Montanha}
 {1528}{}{Cidade em ruinas}
 {1529}{}{Costa}
-{1530}{}{Golgotha}
-{1531}{}{Crashed Whale}
-{1532}{}{Tin Woodsman}
-{1533}{}{Talking Head}
-{1534}{}{Federation Shuttle}
-{1535}{}{Unwashed Villagers}
+{1530}{}{Golgota}
+{1531}{}{Baleia Acidentada}
+{1532}{}{Homem de Lata}
+{1533}{}{Cabeça Falante}
+{1534}{}{Transporte da Federação}
+{1535}{}{Aldeões Sujos}
 {1536}{}{Ponte}
 {1537}{}{Café dos Sonhos Desfeitos}
-{1538}{}{Paladins}
-{1539}{}{Vorpal Rat Cave}
+{1538}{}{Paladinos}
+{1539}{}{Caverna do Rato Vorpal}
 {1540}{}{Guardião para Sempre}
 {1541}{}{Deposito de lixo tóxico}
-{1542}{}{Pariahs}
-{1543}{}{Mad Brahmin}
+{1542}{}{Parias}
+{1543}{}{Brahmin Louco}
 {1544}{}{Caravan}
 {1545}{}{Vault 13}
 {1546}{}{Fake Vault 13}
 {1547}{}{Random Encounter}
 {1548}{}{Stables}
 {1549}{}{Vila}
-{1550}{}{Slaver Camp}
-{1551}{}{Hubologist Stash}
-{1552}{}{Safe House}
-{1553}{}{Safe House}
-{1554}{}{Safe House}
-{1555}{}{RP Easter Egg Encounter}
+{1550}{}{Campo de Escravista}
+{1551}{}{Estoque Hubologista}
+{1552}{}{Casa Segura}
+{1553}{}{Casa Segura}
+{1554}{}{Casa Segura}
+{1555}{}{RP Encontro de Easter Egg}
 {1556}{}{Comerciante}
 {1557}{}{Comerciante}
 {1558}{}{Submarino Shi}
-{1559}{}{Abandoned House}
-{1560}{}{Gecko Enclave Patrol}
+{1559}{}{Casa Abandonada}
+{1560}{}{Patrulha da Enclave de Gecko}

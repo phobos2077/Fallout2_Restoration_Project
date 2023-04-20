@@ -212,19 +212,19 @@
 {269}{}{Talvez eu dei uma passada lá e fale com eles. Obrigado, prefeito. Adeus.}
 {270}{}{Ultimamente, nossos envios de ouro começaram a diminuir porque os mineradores estão gastando
  muito tempo chapando no Jet.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
-{272}{}{Everyone's getting too high on Jet to work effectively. We aren't making but a tenth of our
- regular gold shipments, and we've jacked the price way up on that. This can't last.}
-{273}{}{Seems like everyone got a bad batch of Jet. All of the regular Jet Jockeys are going through
- some kind of massive detox. I guess something didn't agree with 'em. I don't know what all happened but
- I think it'll turn out for the better.}
-{274}{}{Things are almost back to normal. Everyone who was sick on Jet has just about sworn it off. Our
- mine production and shipping schedule is just about back up to normal, too. Looks like the worst is
- over.}
-{275}{}{Hmm. That's interesting. Let me ask you about something else, Mayor Ascorti.}
-{276}{}{I see. Thanks for the info, Mayor. Goodbye.}
-{277}{}{A Garden of Eden Creation Kit? I think they made Vault City out of one of those. All of the
- vaults were supposed to have one, but there sure ain't one around here nowheres.}
-{278}{}{Oh, well. Let me ask you something else, Mayor.}
-{279}{}{I better keep looking then. Thanks, Mayor Ascorti.}
+{271}{}{Quase todos os mineradores estão gastando mais tempo chapando em jet do que minerando...
+ nossos preços ficam altos e nossas exportações baixas. Pessimo para os negócios em todos os sentidos.}
+{272}{}{Todo mundo está ficando muito chapadasso com Jet e não conseguem agir direito. Agora
+ não fazendo mais do que um décimo de nossas remessas regulares de ouro, e temos que aumentar muito o preço com isso. Não da pra ficar assim.}
+{273}{}{Parece que todo mundo tomou um lote ruim de Jet. Todos os viciados estão passando por
+ algum tipo de desintoxicação massiva. Algo não se encaixa para mim. Não sei o que deve ter acontecido,
+ mas espero que tudo mude para melhor.}
+{274}{}{As coisas estão quase voltando ao normal, quase todo mundo que estava viciado em jet esta
+ melhorando. Nossa programação de produção e remessas das minas está quase voltando ao normal.
+ Parece que o pior já passou.}
+{275}{}{Hum. Isso é interessante. Deixe eu te perguntar sobre outra coisa, prefeito Ascorti.}
+{276}{}{Entendo. Obrigado pela informação, Prefeito. Adeus.}
+{277}{}{Um Kit de Criação do Jardim do Éden? Acho que eles fizeram Vault City com um desses.
+ Todos as vaults deveriam ter um, mas com certeza não há temos um por aqui.}
+{278}{}{Ah, bom. Deixe eu te perguntar outra coisa, prefeito.}
+{279}{}{É melhor eu continuar procurando. Obrigado, prefeito Ascorti.}

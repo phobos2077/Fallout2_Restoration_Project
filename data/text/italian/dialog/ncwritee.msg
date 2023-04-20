@@ -3,7 +3,7 @@
 {150}{}{Vedi un ragazzo con un'espressione imbronciata. Si sta sforzando nel tentativo di avere l'aria da duro.}
 {151}{}{Vedi uno dei figli di Wright. Sta portando con se' diverse armi e sembra essere troppo giovane per sapere cosa farsene.}
 {152}{}{Vedi uno dei figli di Wright. Cerca di fissarti con aria da duro, ma senza successo.}
-{153}{}{Vedi uno dei figli di Wright. Dalla sua espressione si direbbe che preferirebbe fare qualcosa  d'altro... qualsiasi cosa...}
+{153}{}{Vedi uno dei figli di Wright. Dalla sua espressione si direbbe che preferirebbe fare qualcosa d'altro... qualsiasi cosa...}
 {160}{}{Vedi una giovane donna con un'espressione imbronciata. Sta facendo di tutto per cercare di avere l'aria da dura.}
 {161}{}{Vedi una delle figlie di Wright. Sta portando con se' diverse armi e sembra essere troppo giovane per sapere cosa farsene.}
 {162}{}{Vedi una delle figlie di Wright. Ti ignora, ma fa cadere la sua mano sulla fondina con un gesto palese.}

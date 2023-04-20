@@ -1,18 +1,18 @@
 {100}{}{You see a computer monk.}
-{101}{}{You see Brother Paul.}
-{102}{}{This monk looks like a computer geek.}
+{101}{}{Du ser Broder Paul.}
+{102}{}{Den här munken ser ut som en datanörd.}
 {200}{}{Hej!}
 {201}{}{Hej.}
-{202}{}{Now, did I backup those computer files today...}
-{203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
+{202}{}{Så, säkerhetskopierade jag de där datorfilerna idag...}
+{203}{}{Jag är ledsen, men jag har inte tid med någon med din intelligens.}
 {300}{}{Ja?}
-{301}{}{You guys sure have a lot of computers here.}
+{301}{}{Ni har verkligen många datorer här.}
 {302}{}{What can you tell me about the Abbey?}
-{303}{}{Tell me about your leader.}
+{303}{}{Berätta om er ledare.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}
 {306}{}{Hej då.}
-{307}{}{I am in need of some specific information.}
+{307}{}{Jag behöver lite specifik information.}
 {308}{}{Such as?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
  each and every day. There's just so much information to preserve, but, of course, it must be done.}
@@ -51,7 +51,7 @@
 {437}{}{No problem, I'll do that now. See you around.}
 {500}{}{Stop that, moron!}
 {550}{}{That computer near me should have some information about it. You now have access, so take a look for yourself.}
-{600}{}{The Abbot gave me permission to access the computers here.}
+{600}{}{Abboten gav mig tillåtelse att använda datorerna här.}
 {601}{}{Ah yes, I heard about what you did. Thanks for taking care of that situation. Here is the access key. (He hands you the key.) Enjoy!}
 {602}{}{Thanks. See you around.}
 {650}{}{Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?}

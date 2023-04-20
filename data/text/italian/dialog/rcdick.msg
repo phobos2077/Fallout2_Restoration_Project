@@ -29,7 +29,7 @@
 {128}{}{Capisco. Arrivederci.}
 {129}{}{Ehila'. Il mio nome e' Athabaska Dick. Molti mi chiamano semplicemente Dick. Certo, c'e' anche qualcuno che mi chiama Athabaska. La maggior parte mi chiama semplicemente Dick, pero'.}
 {130}{}{Ehila'. Cosa puo' fare per te il vecchio Athabaska Dick?}
-{131}{}{Devo sbrigarmi. Piu' veloce, piu' veloce! Beh? Che cosa aspetti? Se vuoi parlare con  Athabaska Dick devi parlare piu' in fretta.}
+{131}{}{Devo sbrigarmi. Piu' veloce, piu' veloce! Beh? Che cosa aspetti? Se vuoi parlare con Athabaska Dick devi parlare piu' in fretta.}
 {132}{}{Cosa, cosa vuoi? N'n riesci a vedere che sono occupato? (mormora tra se' e se') devo stare sempre occupato...occupato...occupato....}
 {133}{}{(grugnisce) Cosa vuoi dal vecchio Athabaska Dick? (a se stesso) Mi sento come se un mulo mi avesse dato un calcio in testa.}
 {134}{}{Mi sento enormemente male. In che modo hai intenzione di disturbare il vecchio Dick?}

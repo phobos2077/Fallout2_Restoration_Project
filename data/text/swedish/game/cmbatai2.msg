@@ -112,7 +112,7 @@
 {1333}{}{I like the pain!}
 {1334}{}{I love the sound of cracking ribs!}
 {1335}{}{That ain't nothing!}
-{1336}{}{Arg!}
+{1336}{}{Argh!}
 {1360}{}{I love the sound of bones crunching.}
 {1361}{}{}
 {1362}{}{You broke my leg, but I'll break your neck!}
@@ -325,7 +325,7 @@
 {1679}{}{Kai, yai, yippee, ai, ay!}
 {1680}{}{Damn blood in my eyes!}
 {1681}{}{My eye! You'll pay for that one!}
-{1682}{}{Bastard!}
+{1682}{}{Din jävel!}
 {1683}{}{Who turned out the lights?}
 {1684}{}{Hah, that was my glass eye!}
 {1685}{}{Squishes like a ripe grape, don't it?}
@@ -1420,7 +1420,7 @@
 {36072}{}{You weren't trying to hit my leg were you!?!}
 {36080}{}{Damn blood in my eyes!}
 {36081}{}{My eye! You'll pay for that one!}
-{36082}{}{Bastard!}
+{36082}{}{Din jävel!}
 {36090}{}{Oooooo, time out, I have to pick something up}
 {36091}{}{Ooo! Kaga gotta learn that move...}
 {36092}{}{Urg! Petey! You OK down there?}

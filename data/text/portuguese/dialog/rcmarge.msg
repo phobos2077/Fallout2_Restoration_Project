@@ -1,120 +1,120 @@
-{100}{}{You see a burly, middle-aged woman covered with rock-dust.}
-{101}{}{You see Marge LeBarge, owner of the Kokoweef Mine.}
-{102}{}{You see a strong, durable woman with an air of authority.}
-{103}{}{Sorry, I don't have time for charity cases right now.}
-{104}{}{Come back when that head-wound heals up.}
-{105}{}{I'm surprised that you can walk and talk at the same time.}
-{106}{}{Looks like your belt doesn't go through all the loops.}
-{107}{}{You're just a few clowns short of a circus, aren't you?}
-{108}{}{You aren't exactly my favorite person right now.}
-{109}{}{Hey, thanks for getting me that excavator chip. Things are really going smooth for the Kokoweef
- Mine now.}
-{110}{}{I'll give you $1,000 for that excavator chip.}
-{111}{}{Have any luck getting that excavator chip?}
-{112}{}{Yeah, well, sorry about that. But you can't please all of the people all of the time.}
-{113}{}{Always happy to get a job that pays that well. Let me ask you about something else.}
-{114}{}{How'd you know that I had the excavator chip on me?}
-{115}{}{How much is it worth to you?}
-{116}{}{If I had it, you'd be among the first to know.}
-{117}{}{I think I'll be moving on now. Goodbye.}
-{118}{}{Hey, thanks for breaking up that brawl. Sometimes my miners get a little out of line, but they're
- a good sort when they're not all Jetted up.}
-{119}{}{Thanks for putting those Morningstar troublemakers behind bars. That's where they belong. How
- can I help you?}
-{120}{}{I can't believe you'd put any of my boys in jail. I'm sure that those damn Morningstar thugs
- started that fight. Now what do you want?}
-{121}{}{I sure wish you hadn't jailed my miners like that. Just jailing those Morningstar hooligans
- would have kept the peace in town. What do you want?}
-{122}{}{You sure know how to spank a baby with an axe, don't you? Nobody needed to die over a bar-brawl.
- Just what the hell do you want from me, anyway?}
+{100}{}{Você vê uma mulher corpulenta de meia-idade coberta de poeira de pedras.}
+{101}{}{Você vê Marge LeBarge, proprietária da Mina Kokoweef.}
+{102}{}{Você vê uma mulher forte e com um ar de autoridade.}
+{103}{}{Desculpe, não tenho tempo para casos de caridade agora.}
+{104}{}{Volte quando o ferimento na cabeça sarar.}
+{105}{}{Estou surpreso que você possa andar e falar ao mesmo tempo.}
+{106}{}{Parece que seu cinto não consegue dar uma volta inteira.}
+{107}{}{Vocês são apenas alguns palhaços que escaparam de um circo, certo?}
+{108}{}{Você não é exatamente minha pessoa favorita agora.}
+{109}{}{Ei, obrigado por me dar aquele chip de escavadeira. As coisas estão indo muito bem com a Mina
+ Kokoweef agora.}
+{110}{}{Te dou $1.000 pelo chip da escavadora.}
+{111}{}{Teve alguma sorte com aquele chip de escavadeira?}
+{112}{}{Sim, bem, desculpe por isso. Mas você não pode agradar todas as pessoas ao tempo todo.}
+{113}{}{Sempre satisfeito em conseguir um emprego que paga tão bem. Deixe eu te perguntar sobre outra coisa.}
+{114}{}{Como você sabia que eu tinha o chip da escavadeira comigo?}
+{115}{}{Quanto vale para você?}
+{116}{}{Se eu tivesse, você seria uns dos primeiros a saber.}
+{117}{}{Acho que vou seguir em frente agora. Adeus.}
+{118}{}{Ei, obrigado por acabar com aquela briga. Às vezes, meus mineradores são meio fora do cabo,
+ mas eles são boa gente quando não estão com jet na cabeça.}
+{119}{}{Obrigado por colocar aqueles encrenqueiros da Morningstar atrás das grades, é lá que eles pertencem.
+ Como posso te ajudar?}
+{120}{}{Não acredito que você colocou algum dos meus meninos na cadeia. Tenho certeza de que
+ aqueles malditos capangas da Morningstar começaram a luta. O que você quer agora?}
+{121}{}{Eu gostaria que você não tivesse prendido meus mineiros assim. Só de prender aqueles
+ retardados Morningstar ja manteria a paz na cidade. O que você quer?}
+{122}{}{Você é muito bom em apagar um incêndio com gasolina, não é? Ninguém precisava morrer por causa
+ de uma briga de bar. E agora, o que você quer de mim?}
 {123}{}{Quem é você?}
-{124}{}{I wanted to ask you about something.}
-{125}{}{I was just walking past. I think I'll keep walking. Goodbye.}
-{126}{}{Hello there. I'm Marge. Marge LeBarge, and I run this mine.}
-{127}{}{What can Marge do you for?}
-{128}{}{What do you mine here?}
+{124}{}{Eu queria te perguntar sobre uma coisa.}
+{125}{}{Eu estava apenas passando. Acho que vou continuar seguindo, adeus.}
+{126}{}{Olá. Eu sou a Marge, Marge LeBarge, e eu comando esta mina.}
+{127}{}{O que Marge pode fazer por você?}
+{128}{}{O que você extrai na mina aqui?}
 {129}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
-{130}{}{Are you a Redding native?}
-{131}{}{Know about any jobs or anything else going on here?}
-{132}{}{I was just looking around a bit. Goodbye.}
-{133}{}{Gold, of course. We mine it right here at the Kokoweef, and then ship it to Vault City, New Reno,
- and the New California Republic.}
-{134}{}{You send it all over the place?}
-{135}{}{Why did you call your mine Kokoweef?}
+{130}{}{Você é nativa de Redding?}
+{131}{}{Sabe sobre algum trabalho ou qualquer outra coisa que esta acontecendo aqui?}
+{132}{}{Eu estava apenas dando uma olhada nas coisas aqui. Adeus.}
+{133}{}{Ouro, é claro. Nós extraímos aqui na Kokoweef e depois o enviamos para Vault City, New Reno e
+ na NCR.}
+{134}{}{Você envia para todos os lugares?}
+{135}{}{Por que você chamou sua mina de Kokoweef?}
 {136}{}{Deixe-me perguntar-lhe algo mais.}
-{137}{}{I see. Thanks. That's all I need to know for now. Goodbye.}
-{138}{}{Sure do. Everyone likes gold. You should talk to the caravan master, James Hoffy, if you're real
- curious about it.}
+{137}{}{Entendo, obrigado. Isso é tudo que preciso saber por enquanto. Adeus.}
+{138}{}{Claro que sim, todo mundo gosta de ouro. Você deveria falar com o mestre da caravana, James
+ Hoffy, se tiver mais curiosidade sobre isso.}
 {139}{}{Deixe-me perguntar-lhe algo mais.}
-{140}{}{Thanks, I'll do that. Goodbye.}
-{141}{}{A Garden of Eden Creation Kit, huh? Sounds pretty impressive. If I had something like that you
- sure wouldn't find me grubbing around in the dirt to make ends meet, now would you?}
-{142}{}{I guess not. Let me ask you something else.}
-{143}{}{I just thought I'd ask. Goodbye.}
-{144}{}{Heck no. I was born way up north. Right on the edge of a lake. Lake LeBarge, it was.}
-{145}{}{I've never heard of that. Let me ask you something else.}
-{146}{}{Sounds nice. Maybe I'll go hunt that place down. Goodbye for now.}
-{147}{}{Just some rumors is all.}
-{148}{}{Well, there's always rumors... but I do have something that needs doing.}
-{149}{}{I'll get back to that. Let me ask you about something else first, though.}
-{150}{}{Tell me about the rumors.}
+{140}{}{Obrigado, vou fazer isso. Adeus.}
+{141}{}{Um Kit de Criação do Jardim do Éden, eh? Parece bem impressionante. Se eu tivesse algo assim,
+ você com certeza não me encontraria cavoucando terra para pagar as contas, né não?}
+{142}{}{Eu acho que não. Deixe- eu te perguntar outra coisa.}
+{143}{}{Só gostaria de perguntar. Adeus.}
+{144}{}{Caramba, não, eu nasci bem no norte. Bem na beira de um lago, o Lago LeBarge.}
+{145}{}{Eu nunca ouvi falar disso. Deixe eu te perguntar outra coisa.}
+{146}{}{Parece bom, talvez eu de uma procurada naquele lugar. Até logo.}
+{147}{}{Só alguns rumores.}
+{148}{}{Bem, tem sempre uns rumores... mas tenho algo que precisa ser feito.}
+{149}{}{Voltarei sobre isso. Deixe eu te perguntar sobre outra coisa primeiro.}
+{150}{}{Me conte sobre os rumores.}
 {151}{}{O que é isso?}
-{152}{}{I bet you do. Sorry, but I'm too busy right now. Goodbye.}
-{153}{}{I've got a great big ol' digger machine down in my mine. Problem is that the control chip for it
- don't work anymore. I need a new one if I want to expand my operations.}
-{154}{}{That's interesting, but how do I fit in?}
-{155}{}{The Great Wanamingo Mine, just west of town, should have one of those same excavator machines.
- It's been abandoned for quite a while, so I'm guessing that they still have a working chip in their
- machine.}
-{156}{}{Sounds pretty easy. How come you haven't done it already?}
-{157}{}{It isn't as easy as all that. You see, the Great Wanamingo Mine's haunted. People go there and
- they don't come back. That's the big reason it's been shut down. Used to be a high-roller type place.
- Not any more, though.}
-{158}{}{So, you want me to get the digging machine chip out of this mine. What's it worth to you?}
-{159}{}{I'll give you $1,000 for that chip. McGrew over at the Morningstar'd probably give you the same,
- but he's all for those damn New Reno thugs. I can't stand those violent bastards. So let me give you the
- money, okay?}
-{160}{}{We'll see. One thing, though... that's good money. That mine must be pretty dangerous.}
-{161}{}{Well, it isn't a cakewalk, sweetheart. But you look like someone who can take care of
- themselves. Anyhow, you bring me the chip and you get the cash. Interested?}
-{162}{}{Yeah. I'm interested. Sign me up.}
-{163}{}{Well, I'll think about it. Goodbye for now.}
-{164}{}{Great. The sooner you get back here with the excavator chip, the better.}
-{165}{}{I'll see what I can do. First, let me ask you about something else.}
-{166}{}{Okay, I'll see you around. Goodbye.}
-{167}{}{Well, there's always the usual rumors about Redding being taken over, or about Wanamingos
- coming out of the graveyard at night. Heck, someone even said that they saw some kind of flying
- machine go overhead a few months ago.}
-{168}{}{What else were you curious about?}
-{169}{}{What did you hear about a takeover?}
-{170}{}{What's a Wanamingo?}
-{171}{}{A flying machine?}
-{172}{}{I guess people talk about the same kind of stuff everywhere. Tell me about something else.}
-{173}{}{I'd love to listen but I've got to be going. Goodbye.}
-{174}{}{Well, people always talk about Vault City taking over to get our gold. Or one of the families in
- New Reno getting everyone hooked on their dope in order to take over. Or even the NCR wanting to annex
- us. I tell you, the NCR's our best bet - but they're all just out for our gold. Redding's still
- independent, so far.}
-{175}{}{What about the other rumors?}
+{152}{}{Eu aposto que sim. Desculpe, mas estou muito ocupado agora. Adeus.}
+{153}{}{Eu tenho uma grande e velha escavadeira na minha mina. O problema é que o chip de controle
+ dela não funciona mais. Preciso de um novo para conseguir expandir minhas operações.}
+{154}{}{Isso é interessante, mas como me encaixo?}
+{155}{}{A Grande Mina Wanamingo, a oeste da cidade, deveria ter uma dessas mesmas máquinas escavadoras.
+ Está abandonado há um bom tempo, então acho que eles ainda têm um chip funcionando em sua
+ máquina.}
+{156}{}{Parece muito fácil. Como é que você ainda não fez isso?}
+{157}{}{Não é tão fácil assim. Entenda, a Grande Mina Wanamingo é assombrada, as pessoas vão lá e
+ não voltam. Esse é o principal motivo de ter sido desativada. Costumava ser um lugar bem produtivo,
+ mas agora não mais.}
+{158}{}{Então, você quer que eu pegue o chip da máquina de escavação desta mina. Quanto isso vale pra você?}
+{159}{}{Te dou $1.000 por esse chip. McGrew na Morningstar provavelmente daria o mesmo, mas ele é
+ totalmente a favor daqueles bandidos canalhas de New Reno. Não suporto aqueles desgraçados violentos.
+ Então deixe que eu te dou o dinheiro, ok?}
+{160}{}{Veremos. Mais uma coisa... essa é uma boa grana. Essa mina deve ser bem perigosa.}
+{161}{}{Bem, não é brincadeirinha, meu bem. Mas você parece alguém que pode cuidar de si
+ mesmo. De qualquer forma, você me traz o chip e recebe o dinheiro. Te interessa?}
+{162}{}{Sim, me interessa. Estou dentro.}
+{163}{}{Bem, vou pensar sobre isso. Até logo.}
+{164}{}{Ótimo. Quanto antes você voltar aqui com o chip da escavadeira, melhor.}
+{165}{}{Verei o que posso fazer. Primeiro, deixe eu te perguntar sobre outra coisa.}
+{166}{}{Ok, te vejo por aí. Adeus.}
+{167}{}{Bem, temos os rumores de sempre sobre Redding ser comprada, ou sobre Wanamingos saindo
+ do cemitério à noite. Caramba, alguém até disse que viu algum tipo de máquina voadora passar
+ sobrevoando alguns meses atrás.}
+{168}{}{Sobre o que mais você tem curiosidade?}
+{169}{}{O que você ouviu sobre a compra?}
+{170}{}{O que é um Wanamingo?}
+{171}{}{Uma maquina voadora?}
+{172}{}{Acho que as pessoas falam sobre esse tipo de coisa em qualquer lugar. Me conte sobre outra coisa.}
+{173}{}{Adoraria ouvir, mas tenho que ir. Adeus.}
+{174}{}{Bem, as pessoas sempre falam que Vault City vai assumir o controle para ter nosso ouro. Ou
+ uma das famílias de New Reno deixar todo mundo viciado em suas drogas para assumir o controle. Ou mesmo
+ a NCR querendo nos anexar. Para mim, a NCR é a nossa melhor aposta, mas eles estão
+ apenas querendo nosso ouro. Redding ainda é independente, por enquanto.}
+{175}{}{E os outros rumores?}
 {176}{}{Acho que é tudo o que eu queria saber. Tchau.}
-{177}{}{A Wanamingo's just the single orneriest critter there is. Tall as two men, stronger than a bull
- brahmin, and with flappin' suckers instead of arms. Can't be hurt with guns, neither. S'posedly, injuns
- called 'em up for revenge on the white-man for what the war did. I don't put much stock in that, though.}
-{178}{}{What about the other rumors?}
+{177}{}{Um Wanamingo é só a criatura mais maldita que existe. Alto como dois homens, mais forte que
+ um touro brahmin e com ventosas se batendo em vez de braços. Também não pode ser ferido com armas.
+ Supostamente, os índios os invocaram para se vingar do homem branco pelo que fizeram na guerra. Mas eu não coloco minhas fichas nisso.}
+{178}{}{E os outros rumores?}
 {179}{}{Acho que é tudo o que eu queria saber. Tchau.}
-{180}{}{Oh, yeah. Well, a couple of my miners were flying a bit themselves - Jetting around, if you catch
- my drift - a while back. They swore up-and-down that they saw a ship fly past, going southwest.}
-{181}{}{What about the other rumors?}
+{180}{}{Oh, sim. Bem, alguns dos meus mineiros estavam meio chapados, com um pouco de jet, se você
+ me entende, um tempo atrás. Eles juraram que viram um navio passar voando, indo para o sudoeste.}
+{181}{}{E os outros rumores?}
 {182}{}{Acho que é tudo o que eu queria saber. Tchau.}
-{183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
- one big Jet addict slum before too long.}
-{184}{}{Not really my concern. Tell me about something else.}
-{185}{}{Oh well. Goodbye.}
-{186}{}{In a town this size, everyone knows more than they want to about everyone else. So how about it?}
-{187}{}{How much were you going to give me for it?}
-{188}{}{$1,000. Right here, right now. You want it or not?}
-{189}{}{OK, I'll take it. Here's the chip.}
-{190}{}{I don't think I want to sell right now.}
+{183}{}{Bem, Dan e seus homens da Morningstar favorecem os mafiosos de New Reno. Acho que Redding será
+ uma grande favela para viciados em jet em pouco tempo.}
+{184}{}{Não é realmente minha preocupação. Me contes obre outra coisa.}
+{185}{}{Ah bem. Adeus.}
+{186}{}{Em uma cidade deste tamanho, todos ficam sabendo sobre todos os outros. Então, o que você acha?}
+{187}{}{Quanto você ia me dar por isso?}
+{188}{}{$1.000. Aqui e agora. Você quer ou não?}
+{189}{}{OK, eu fico com isso. Aqui está o chip.}
+{190}{}{Acho que não quero vender agora.}
 {191}{}{Acha que vai conseguir uma oferta melhor? Pense de novo, cara. Eu não acho que você
  pode encontrar uma melhor. Mas acho que é a sua hora.}
 {192}{}{Tudo bem, eu vou te vender. Aqui está a ficha.}

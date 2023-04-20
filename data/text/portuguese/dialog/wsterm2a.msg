@@ -1,17 +1,17 @@
 {100}{}{Um terminal de computador.}
 {101}{}{O protetor de tela está ativo.}
-{103}{}{Skynet Security Systems
-                                  Intruder Level 2
-                                                   Activating Counter Measures Level 2
-                        Counter Measures - Stopped Transmitting
-                        Activating Automated Repair System}
-{104}{}{Skynet Security Systems
-                                     Intruder Level 2
-                                             Activating Counter Measures Level 2
-                            Attempting to reroute power to field generators}
-{105}{}{Skynet Security Systems
-                                 Intruder Level 2
-                                                 Activating Counter Measures Level 2}
+{103}{}{Sistemas de Segurança Skynet
+                                           Intruso Nível 2
+                                                               Ativando Contramedidas Nível 2
+                              Contramedidas - Transmissão interrompida
+                              Ativando o sistema de reparo automatizado}
+{104}{}{Sistemas de Segurança Skynet
+                                              Intruso Nível 2
+                                                         Ativando Contramedidas Nível 2
+                                   Tentativa de redirecionar energia para geradores de campo}
+{105}{}{Sistemas de Segurança Skynet
+                                         Intruso Nível 2
+                                                             Ativando Contramedidas Nível 2}
 {106}{}{Terminate Alarm Level 2 - False Alarm}
 {107}{}{[You notice a button on the keyboard labeled help.] Push key.}
 {108}{}{"Hackear" o sistema de segurança}
@@ -40,9 +40,9 @@
 {129}{}{To Deactivate Alarm Press - 1
                                     To Run Diagnostic Program Press - 2
                              To Exit Press - 3}
-{130}{}{Press 1}
-{131}{}{Press 2}
-{132}{}{Press 3}
+{130}{}{Pressione 1}
+{131}{}{Pressione 2}
+{132}{}{Pressione 3}
 {133}{}{Sair}
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}

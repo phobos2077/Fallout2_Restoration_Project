@@ -1,1 +1,1 @@
-{101}{}{The explosion causes the damaged supports to break and an avalanche of rocks comes down from above.}
+{101}{}{A explosão faz com que os suportes danificados quebrem e uma avalanche de pedras venha de cima.}

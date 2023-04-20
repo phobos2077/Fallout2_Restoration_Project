@@ -49,6 +49,7 @@ import variable vault_city_martin_obj; // Seraph's Code
     ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_REAL_CITIZEN ) ) then begin \
       script_overrides; \
       set_map_var( MVAR_Martin_Sees_Lockpick, 1 ); \
+      return; \
   end
 
 /********************************************************************
@@ -160,7 +161,6 @@ procedure use_obj_on_p_proc begin
   or ( Tool == PID_CROWBAR or Tool == PID_DYNAMITE or Tool == PID_PLASTIC_EXPLOSIVES)
   then begin
     martin_sees_lockpick_block
-    return;
   end
   pry_trap_block
   full_lockpick_block

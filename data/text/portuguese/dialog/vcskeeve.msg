@@ -102,42 +102,42 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {191}{}{If that's what it takes...}
 {192}{}{You reconsider?}
 {193}{}{You again. What do you want?}
-{194}{}{Vant? Vant!}
+{194}{}{Vauti? Vauti!}
 {195}{}{Desliga}
 {196}{}{O que é este lugar?}
-{197}{}{I'd like to get inside the city.}
-{198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
-{199}{}{I've decided to turn you in for selling fake Citizenship papers.}
+{197}{}{Eu gostaria de entrar na cidade.}
+{198}{}{Eu gostaria de comprar aqueles documentos falsos de Cidadania que você estava oferecendo.}
+{199}{}{Decidi denunciá-lo por vender documentos falsos para cidadania.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
 {201}{}{Não importa.}
-{202}{}{Look, dim, get out of here, or I'll call the guards.}
-{203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
+{202}{}{Olha, idiota, saia daqui ou eu chamo os guardas.}
+{203}{}{Olhe, desgraça, saia daq... Mmmm. Espere um minuto. Talvez...}
 {204}{}{Hurnh?}
 {205}{}{Desliga}
-{206}{}{Come with me a second, dim. I got somebody you gotta meet.}
-{207}{}{Okee-dokeee}
-{208}{}{Nuh-uh ME STAY}
-{209}{}{Found this Outsider wandering in the wastes, Barkus. Looks like good Servant material.}
-{210}{}{Found this bunch wandering in the wastes, Barkus. This one Outsider here looks like good Servant material.}
+{206}{}{Venha comigo um segundo, idiota. Tenho alguém que você precisa conhecer.}
+{207}{}{Taaaa bom}
+{208}{}{Nãoooo EU FICO}
+{209}{}{Encontrei esse Forasteiro vagando pelos desertos, Barkus. Parece um bom material para serviçal.}
+{210}{}{Encontrei este bando vagando pelos desertos, Barkus. Este Forasteiro aqui parece um bom material para serviçal.}
 {211}{}{2 Segundos}
-{212}{}{You HAVE to be kidding. It's obviously retarded.}
-{213}{}{1 Second, don't remove Barkus' float yet.}
-{214}{}{Re-tar-dead! Pooooo!}
+{212}{}{Você só PODE estar brincando. É obviamente um retardado.}
+{213}{}{1 Segundo, não remova o flutuador de Barkus ainda.}
+{214}{}{Re-tra-dado! Ooohhh!}
 {215}{}{2 Segundos}
-{216}{}{C'mon. You need someone to work the Vault, don't you?}
-{217}{}{1 Second, don't remove Barkus' float yet.}
-{218}{}{Valt! Gechkk!}
+{216}{}{Ah, vamos. Você precisa de alguém para trabalhar na Vault, não é?}
+{217}{}{1 Segundo, não remova o flutuador de Barkus ainda.}
+{218}{}{Vauti! Gechkk!}
 {219}{}{2 Segundos}
-{220}{}{Well... hmmm. I suppose you'll be expecting a finder's fee?}
+{220}{}{Bem... hum. Suponho que você espera uma comissão, certo?}
 {221}{}{2 Segundos}
-{222}{}{Do Outsiders eat their own feces? Of COURSE I want a finder's fee.}
-{223}{}{1 Second, Don't remove Skeev's float}
-{224}{}{Feeee? Peeeeeeee!}
+{222}{}{Os forasteiros comem suas próprias fezes? Claro que eu quero uma comissão.}
+{223}{}{1 segundo, não remova o flutuador de Skeev}
+{224}{}{Comssão? Siiiiiiii!}
 {225}{}{1 Second}
-{226}{}{Very well. I'll send it off to the Vault then. MAYBE it can clear up the storerooms.}
-{227}{}{Whoa. How did you escape?}
-{228}{}{Whoa. How did you escape? You better get back inside before Barkus gets mad. C'mon...}
-{229}{}{Oh-keeee}
+{226}{}{Muito bem. Vou mandá-lo para a Vault então. TALVEZ possa limpar os armazéns.}
+{227}{}{Uau. Como você escapou?}
+{228}{}{Uau. Como você escapou? É melhor voltar para dentro antes que o Barkus fique furioso. Vamos lá...}
+{229}{}{Okeeeee}
 {230}{}{Desliga}
 {231}{}{Like I said before, I can make you a full-fledged Citizen for $200. You'll have free passage
  through the gate, no hassles. I can print out the papers, register your serial number,
@@ -145,32 +145,32 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {232}{}{What does it take to become a real Citizen?}
 {233}{}{And what if I do? I could go tell him right now that you're selling fake Citizenship papers.}
 {234}{}{I sure hope so. I can be pretty persuasive.}
-{235}{}{We'll see about that.}
-{236}{}{Ha! I'd like to see you try. Wallace'll never believe you.}
-{237}{}{Oh, I think he will once he sees the fake citizenship papers you gave me. Of course, if you
- happen to have some cash on you, it can be our little secret.}
-{238}{}{We'll see about that.}
+{235}{}{Veremos isso.}
+{236}{}{Ha! Eu gostaria de ver você tentar. Wallace nunca vai acreditar em você.}
+{237}{}{Ah, acho que ele vai, assim que vir os papéis falsos de cidadania que você me deu. Claro,
+ se você tiver algum dinheiro sobrando, isso pode ser nosso segredinho.}
+{238}{}{Veremos isso.}
 {239}{}{Vou levar os papéis da Cidadania, então.}
 {240}{}{Bem, $200 é muito caro para mim. Talvez eu volte se conseguir mais algum dinheiro.}
 {241}{}{Não, valeu. Talvez outra hora.}
 {242}{}{What does it take to become a real Citizen?}
-{243}{}{Hmmmm. How much for the Citizenship papers again?}
-{244}{}{If I have to pry it from his dead fingers, I will.}
-{245}{}{How do you become a real Citizen?}
+{243}{}{Hmmmm. Quanto custa mesmo os documentos da Cidadania?}
+{244}{}{Se eu tiver que arrancar de seus dedos mortos, farei.}
+{245}{}{Como você se torna um cidadão de verdade?}
 {246}{}{Nada, esquece.}
 {247}{}{Não, valeu. Talvez outra hora.}
-{248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
- Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
+{248}{}{Se não nasce como cidadão, tem que fazer um teste para se tornar cidadão. Número de
+ forasteiros que fizeram o teste e se tornaram Cidadãos? Zero. Suas chances? Menos que zero.}
 {249}{}{What is this test?}
-{250}{}{I see. How much for those papers again?}
+{250}{}{Entendo. Quanto é mesmo por esses documentos?}
 {251}{}{Never mind. Maybe we'll talk some other time.}
-{252}{}{Gregory, the Proconsul, gives a "test" to any Outsiders who want to become Citizens. It
- measures their intelligence and perception, and you have to be damned lucky to pass it, too.
- Most Citizens would have trouble with it.}
+{252}{}{Gregory, o Procônsul, faz um "teste" para qualquer Forasteiro que queira se tornar Cidadão.
+ Ele mede a inteligência e a percepção deles, e você também precisa ter muita sorte para passar.
+ A maioria dos cidadãos teria problemas com isso.}
 {253}{}{So what makes it so hard?}
-{254}{}{I see. How much for those papers again?}
-{255}{}{Hmmmm. Maybe we'll talk some other time.}
-{256}{}{Since most Outsiders can't read, do trigonometry, or spell "Australopithecus," you figure it
- out. It's just an excuse to keep Outsiders from becoming Citizens.}
-{257}{}{I see. How much for those papers again?}
-{258}{}{Hmmm. Maybe we'll talk some other time.}
+{254}{}{Entendo. Quanto é mesmo por esses documentos?}
+{255}{}{Hmmmm. Talvez conversemos outra hora.}
+{256}{}{Como a maioria dos Forasteiros não sabe ler, fazer trigonometria ou soletrar "Australopithecus",
+ como você deve saber. É apenas uma desculpa para impedir que os Forasteiros se tornem Cidadãos.}
+{257}{}{Entendo. Quanto é mesmo por esses documentos?}
+{258}{}{Hmmm. Talvez a conversemos outra hora.}

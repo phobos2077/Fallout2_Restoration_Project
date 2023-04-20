@@ -4,24 +4,33 @@
 {201}{}{¡Es bueno que hayas vuelto! ¿Qué puedo hacer por ti?}
 {202}{}{Sí. ¿Qué puedes contarme sobre este lugar?}
 {203}{}{Estoy en una misión para el sagrado GECK. ¿Sabes algo de esto?}
-{204}{}{El hermano Samuel dijo que podrías saber algo sobre quién está perturbando las tumbas. Él dijo que escuchaste algunos ruidos provenientes de los cultivos.}
+{204}{}{El hermano Samuel dijo que podrías saber algo sobre quién está perturbando las tumbas. Él dijo que escuchaste algunos
+ruidos provenientes de los cultivos.}
 {205}{}{Olvídelo, debo irme.}
-{300}{}{La esposa y yo vinimos hace unos años en una caravana. Nos gustó tanto que decidimos quedarnos y comenzar nuestra propia pequeña granja. Déjame decirte, la Abadía podría no ser tan llamativa como Nuevo Reno, o tan avanzada como Ciudad Refugio, pero en lo que a mí respecta, este lugar es tan bueno como el Yermo. La gente aquí es decente, y las personas se cuidan mutuamente. Claro, algunos lugares pueden ofrecer más seguridad, pero a costa de la libertad personal. No gracias.}
+{300}{}{La esposa y yo vinimos hace unos años en una caravana. Nos gustó tanto que decidimos quedarnos y comenzar nuestra propia
+pequeña granja. Déjame decirte, la Abadía podría no ser tan llamativa como Nuevo Reno, o tan avanzada como Ciudad Refugio, pero en lo que
+a mí respecta, este lugar es tan bueno como el Yermo. La gente aquí es decente, y las personas se cuidan mutuamente.
+Claro, algunos lugares pueden ofrecer más seguridad, pero a costa de la libertad personal. No gracias.}
 {301}{}{¿Viniste en una caravana? ¿Vienen aquí a menudo?}
-{302}{}{Realmente no. La Abadía es demasiado pequeña y está aislada para que las caravanas nos presten mucha atención. Sin embargo no importa, somos una comunidad bastante auto suficiente - cultivamos nuestra propia comida, elaboramos nuestra propio licor - por lo que nos las arreglamos bien. De todos modos, Bill es el hombre para hablar sobre caravanas, dirige la tienda general justo al suroeste de aquí.}
+{302}{}{Realmente no. La Abadía es demasiado pequeña y está aislada para que las caravanas nos presten mucha atención. Sin embargo, no importa, somos
+una comunidad bastante auto suficiente - cultivamos nuestra propia comida, elaboramos nuestra propio licor - por lo que nos las arreglamos bien. De todos modos, Bill es el hombre
+para hablar sobre caravanas, dirige la tienda general justo al suroeste de aquí.}
 {303}{}{Eso sueña genial, pero realmente debo marcharme.}
 {304}{}{Interesante. Tenía curiosidad por algo más.}
 {305}{}{Olvídelo, debo irme.}
 {400}{}{¿Qué más querías saber?}
 {401}{}{¿Qué puedes contarme acerca de la Abadía?}
 {402}{}{¿Sabes algo sobre el Kit de Creación del Jardín del Edén?}
-{500}{}{Lo siento amigo, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí.}
+{500}{}{Lo siento amigo, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto
+en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que
+conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí.}
 {501}{}{Gracias, lo haré. Sin embargo, tengo algunas preguntas más.}
 {502}{}{Gracias por el consejo. Voy a comprobar eso ahora.}
 {600}{}{¿El hermano Samuel te envió aquí? ¿Qué es de ese borracho hasta ahora?}
 {601}{}{Cuidando de las tumbas como de costumbre supongo. Entonces, sobre lo que escuchaste ...}
 {602}{}{[John se sienta en su silla y se sirve una trago de whisky.] Todo comenzó hace un par de días. Mi esposa y
- yo estábamos preparándonos para irnos a la cama cuando escuchamos un crujido en el campo. Agarré mi linterna y corrí afuera para ver si podia encontrar la fuente del ruido. Tan pronto como llegué a los campos, los ruidos se habían detenido.}
+yo estábamos preparándonos para irnos a la cama cuando escuchamos un crujido en el campo. Agarré mi linterna y corrí afuera para ver
+si podia encontrar la fuente del ruido. Tan pronto como llegué a los campos, los ruidos se habían detenido.}
 {603}{}{Continúa.}
 {604}{}{Mira, realmente debo irme.}
 {605}{}{Bueno, la noche siguiente no escuchamos nada. Pero la noche después de eso, escuchamos crujidos provenientes del campo de nuevo. Esta vez me arrastré hasta la ventana y miré en vez de salir corriendo. Mirando en la oscuridad, vi una luz tenue, como de una linterna vieja o algo así, moviéndose entre los cultivos. Después de un par de minutos, la luz se movió hacia el cementerio.}

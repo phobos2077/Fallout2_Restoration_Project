@@ -77,7 +77,7 @@
 {395}{}{Yes. Here.}
 {396}{}{No. I'll come back.}
 {397}{}{Who's your boss?}
-{398}{}{Nevermind. Bye.}
+{398}{}{Det är inte viktigt. Hej då.}
 {410}{}{Stop bothering me. Go talk to Metzger. He's the boss.}
 {411}{}{Leave me alone! What's your problem?}
 {412}{}{I said talk to Metzger!}

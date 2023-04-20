@@ -19,7 +19,7 @@
 {118}{}{Liberdade! Doce e bendita liberdade!}
 {119}{}{Olha o que você fez, você arruinou minha vida!}
 {120}{}{Não posso parar, tenho que correr. Não posso deixá-los me pegar.}
-{121}{}{Shit! I'm doomed - they're gonna hunt me down and kill me.}
-{122}{}{Where do I go now? What do I do?}
-{123}{}{Thanks a lot. Now I got some slaver blood to spill.}
-{124}{}{I don't believe it - I'm free!}
+{121}{}{Merda! Estou condenado, eles vão me caçar e me matar.}
+{122}{}{Para onde eu vou agora? O que eu faço?}
+{123}{}{Muito obrigado. Agora tenho um pouco de sangue de escravista para derramar.}
+{124}{}{Não acredito... estou livre!}

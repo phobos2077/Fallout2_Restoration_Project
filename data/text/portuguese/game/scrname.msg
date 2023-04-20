@@ -188,7 +188,7 @@
 {288}{}{Armadilha de Lança}
 {289}{}{Caverna Fantasma 1}
 {290}{}{Caverna Fantasma 2}
-{291}{}{Ghost Farm}
+{291}{}{Fazenda Fantasma}
 {292}{}{Campo de brahmins em Modoc}
 {293}{}{Jardim Modoc}
 {294}{}{Pousada Modoc}
@@ -674,7 +674,7 @@
 {774}{}{Guarda de Suprimentos}
 {775}{}{Roteiro do mapa}
 {776}{}{Roteiro do mapa}
-{777}{}{Mad Brahmin}
+{777}{}{Brahmin Louco}
 {778}{}{Hakeswill}
 {779}{}{Centro de Redding}
 {780}{}{Roteiro do mapa}
@@ -730,7 +730,7 @@
 {830}{}{Comprador de gado}
 {831}{}{Roteiro do mapa}
 {832}{}{Estranho Misterioso}
-{833}{}{Mad Brahmin}
+{833}{}{Brahmin Louco}
 {834}{}{Membro da Yakuza}
 {835}{}{Selvagem}
 {836}{}{Doguinho}
@@ -1224,7 +1224,7 @@
 {1324}{}{Armário}
 {1325}{}{Roteiro do mapa}
 {1326}{}{Você não pode me ver}
-{1327}{}{Tin Woodsman}
+{1327}{}{Homem de Lata}
 {1328}{}{Roteiro do mapa}
 {1329}{}{Formação de pedra}
 {1330}{}{}

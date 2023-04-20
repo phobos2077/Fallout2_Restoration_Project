@@ -1,5 +1,5 @@
-{100}{}{You see a red-faced, friendly looking man.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{100}{}{Você vê um homem de rosto vermelho e aparência amigável.}
+{101}{}{É Duppo. Ele comanda a Associação de Vaqueiros.}
 {102}{}{He's a stocky fellow and with constantly flushed face and shock of thin blond hair. He walks with a slight limp.}
 {103}{}{Greetings, stranger. Don't know you from these parts, so that means you're not a rancher. You come looking for work or are you here to buy?}
 {104}{}{What'll it be, stranger?}
@@ -8,7 +8,7 @@
 {107}{}{Well, my name's Duppo. Ranch supplies and hiring hall, all done right here. Gotta say, you don't look like a brahmin puncher. How are you with a gun?}
 {108}{}{Still looking for some guards, if you're interested.}
 {109}{}{Heh. Kill.}
-{110}{}{Good enough.}
+{110}{}{Muito bem.}
 {111}{}{I'm not into violence.}
 {112}{}{Well, here's my stock. Make sure to look at all my tables for more inventories. If you don't like what I got, get your ass to that shyster Buster. Of course, he'll rob you blind.}
 {113}{}{Well, sounds like you'll do. We're looking for guards for a brahmin drive up to Redding. Pay's $2000 minus any stock lost before you get there. If you're interested, be at the gate to Westin's place tomorrow. If you don't show, you don't go. Deal?}

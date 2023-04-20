@@ -1,6 +1,6 @@
 {100}{}{Vedi Jordan che fa roteare la sua lancia, come al solito.}
 {101}{}{Vedi Jordan che fa roteare la sua lancia, come al solito.}
-{102}{}{Buona fortuna!  Devo tornare ad allenarmi.}
+{102}{}{Buona fortuna! Devo tornare ad allenarmi.}
 {103}{}{Salve, Prescelto. Vedo che hai bisogno di un po' di allenamento. Posso aiutarti?}
 {104}{}{Bene.}
 {105}{}{No, Grazie.}

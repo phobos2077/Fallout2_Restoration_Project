@@ -243,11 +243,11 @@ Advertencia! Ascendente a CIN el centro de Pekín servidor no esté disponible. 
 {410}{}{De: centro de Comando de Todas las fuerzas en la posición. La transmisión de confirmación final
  códigos. Operación Youmíng se vaya.}
 {411}{}{::volver::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
-                                                   SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external servers could be made.}
+{420}{}{El escaneo de medios de comunicación... PLA CentCom... sin conexión
+ CIN de Beijing... sin conexión
+ SSC Astillero Naval... sin conexión
+ SCA Dragón Oriental.. sin conexión
+ Advertencia: No se pudo establecer ninguna conexión con servidores externos.}
 {421}{}{Que decepcionante...}
 {430}{}{Escaneado de unidades locales...}
 {431}{}{[CONTINUAR]}
@@ -284,9 +284,9 @@ Advertencia! Ascendente a CIN el centro de Pekín servidor no esté disponible. 
  son bajos y no hay suficiente de ellos para todo. La tripulación es cada vez más inquietos.}
 {501}{}{Leer en.}
 {502}{}{::volver::}
-{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
+{510}{}{2077-11-08: El Emperador está de vuelta en línea, pero apenas. Todavía no tenemos la navegación y la tripulación está al borde del
+ motín - he tenido que parar dos marineros de golpear a Jing. La situación es grave. A menos que salgamos a la superficie en los próximos días,
+ temo que nos matemos entre nosotros.}
 {511}{}{Leer en.}
 {512}{}{::volver::}
 {520}{}{2077-11-12: ¡por fin! Nos encalló en la bahía de San Francisco. Los marineros fueron regocijo hasta que abra la

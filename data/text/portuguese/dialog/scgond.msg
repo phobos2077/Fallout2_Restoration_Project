@@ -1,9 +1,9 @@
-{100}{}{It's a big super-mutant.}
-{101}{}{It's Gond, the super-mutant.}
-{102}{}{It's big, it's green, and it's no brighter looking than the rest of its kind.}
-{103}{}{Hey, did Elise say you could be here?}
-{104}{}{Are you a Ranger, too?}
-{105}{}{You ain't supposed to be here.}
-{106}{}{Greetings fellow Ranger.}
-{107}{}{A Ranger's work is never done.}
-{108}{}{Take heart! Our brothers hit a slave camp last week.}
+{100}{}{É um grande super mutante.}
+{101}{}{É Gond, o super mutante.}
+{102}{}{É grande, é verde e não parece mais inteligente que o resto de sua espécie.}
+{103}{}{Ei, Elise disse que você poderia estar aqui?}
+{104}{}{Você também é um Ranger?}
+{105}{}{Você não deveria estar aqui.}
+{106}{}{Saudações, companheiro Ranger.}
+{107}{}{O trabalho de um Ranger nunca termina.}
+{108}{}{Coragem! Nossos irmãos atacaram um campo de escravos na semana passada.}

@@ -1,37 +1,37 @@
-{100}{}{You see a snot-nosed little kid.}
-{101}{}{It's Vice-President Carlson's kid.}
-{102}{}{Looks like a spoiled little runt. Fat, too.}
-{103}{}{My dad's Vice-President Carlson, so you better treat me nice! Who are you?}
+{100}{}{Você vê uma criança com nariz escorrendo.}
+{101}{}{É o filho do vice-presidente Carlson.}
+{102}{}{Parece um nanico mimado. E gordo também.}
+{103}{}{Meu pai é o vice-presidente Carlson, então é melhor você me tratar bem! Quem é?}
 {104}{}{[Nome do jogador]}
-{105}{}{I'm one of your dad's guards.}
-{106}{}{Where's your dad?}
-{107}{}{See this knife? I've gutted little kids nicer than you.}
-{108}{}{I'm your worst nightmare, puke.}
-{109}{}{Sorry kid, I'm busy.}
-{110}{}{? That's a crappy name. You got a stupid name! Stupid name!}
-{111}{}{Then you got to be extra nice to me or I'll tell my dad.}
-{112}{}{Oh? How about I (whisper).}
-{113}{}{Right. Oh boy.}
-{114}{}{He's inside. In his office. He's always in there.}
-{115}{}{Where's his office?}
+{105}{}{Sou um dos guardas do seu pai.}
+{106}{}{Onde está o seu pai?}
+{107}{}{Está vendo esta faca? Eu estripei crianças mais legais do que você.}
+{108}{}{Eu sou seu pior pesadelo, rolha de poço.}
+{109}{}{Desculpe garoto, estou ocupado.}
+{110}{}{? Esse é um nome ruim. Você tem um nome estúpido! Nome estúpido!}
+{111}{}{Então precisa de ser muito legal comigo ou conto ao meu pai.}
+{112}{}{Ah sim? Que tal (sussurro).}
+{113}{}{Certo. Oh garoto.}
+{114}{}{Ele está lá dentro, em seu escritório. Ele está sempre lá.}
+{115}{}{Onde é o escritório dele?}
 {116}{}{Tudo bem. Obrigado.}
-{117}{}{By the water tank. I play over there sometimes. I peek on him while he's working.}
-{118}{}{You're an annoying little brat, aren't you?}
-{119}{}{Thanks kid, you've been a big help.}
-{120}{}{You're not a nice man, you're a bad man! I'm going to go tell my daddy!}
-{121}{}{Hey, it's you again. Whatcha doing?}
-{122}{}{Go ask your father if I can see him.}
-{123}{}{Tell you father I have news about Mr. Bishop. Can you remember that?}
+{117}{}{Junto ao depósito de água. Eu brinco lá às vezes, eu espio enquanto ele está trabalhando.}
+{118}{}{Você é um pirralho chato, não é?}
+{119}{}{Obrigado garoto, você tem sido de grande ajuda.}
+{120}{}{Você não é um homem bom, você é um homem mau! Vou contar pro meu papai!}
+{121}{}{Ei, é você de novo. O que você está fazendo?}
+{122}{}{Vá perguntar ao seu pai se eu posso vê-lo.}
+{123}{}{Diga ao seu pai que tenho notícias sobre o Sr. Bishop. Você vai se lembrar disso?}
 {124}{}{Fnuh.}
-{125}{}{You're a poop brain! Poop brain!}
+{125}{}{Você é um cabeça de cocô! Cabeça de cocô!}
 {126}{}{Tudo bem.}
-{127}{}{News about Mr. Mishop. Okay?}
-{128}{}{Good enough.}
-{129}{}{Daddy says he can't see you.}
-{130}{}{I told Daddy that. I think he doesn't like you.}
-{131}{}{Daddy says you can come in the house.}
-{132}{}{I told Daddy you were a bad man.}
-{133}{}{That's right, I'm the boogy man! And I'm gonna eat you.}
-{134}{}{You got me wrong, kid.}
-{135}{}{I'm not supposed to talk to you anymore.}
-{136}{}{My daddy's dead. Why didn't you save him?}
+{127}{}{Notícias sobre o Sr. Mishop. OK?}
+{128}{}{Muito bem.}
+{129}{}{Papai diz que não pode te ver.}
+{130}{}{Eu disse isso ao papai. Acho que ele não gosta de você.}
+{131}{}{Papai disse que você pode entrar em casa.}
+{132}{}{Eu disse ao papai que você era um homem mau.}
+{133}{}{É isso mesmo, eu sou o bicho-papão! E eu vou comer você.}
+{134}{}{Você me entendeu errado, garoto.}
+{135}{}{Não devo mais falar com você.}
+{136}{}{Meu pai está morto. Por que você não o salvou?}

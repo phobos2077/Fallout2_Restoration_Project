@@ -1,22 +1,22 @@
-{100}{}{You see a dirty but strong-looking man.}
-{101}{}{You see Connar.}
-{102}{}{Hey you! What're you doing here?!}
-{103}{}{Stay where you are for now, wanderer. What are you doing here?}
-{104}{}{I'm killing off all these mole rats.}
-{105}{}{Why, what's it to you?}
-{106}{}{Why you Yell!}
-{107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
-{108}{}{Well, it's a little late for that.}
+{100}{}{Você vê um homem sujo, mas de aparência forte.}
+{101}{}{Você vê Connar.}
+{102}{}{Ei você! O que está fazendo aqui?!}
+{103}{}{Fique onde está por enquanto, andarilho. O que você está fazendo aqui?}
+{104}{}{Estou matando todos esses ratos toupeira.}
+{105}{}{Por que, o que é isso?}
+{106}{}{Você grita muito!}
+{107}{}{Aposto que aqueles cretinos em Vault City te enviaram. Bem, é melhor você ir embora e deixar todo o resto vivo.}
+{108}{}{Bem, é um pouco tarde para isso.}
 {109}{}{Por quê?}
-{110}{}{Sorry, I have a job to do.}
-{111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
+{110}{}{Desculpe, tenho um trabalho a fazer.}
+{111}{}{Essas criaturas são a única coisa que impede Vault City de nos tornar seus chamados "servos".}
 {112}{}{Olha, eles estão me pagando para me livrar dessas feras, então é isso que vou fazer.}
 {113}{}{Eles não me disseram isso.}
 {114}{}{Eles estão me pagando para me livrar deles, e o trabalho está feito.}
 {115}{}{Seu idiota! Por que você fez isso!}
 {116}{}{Precisava do dinheiro.}
-{117}{}{They'll come for us if you do that, you know.}
-{118}{}{Not my problem.}
+{117}{}{Eles virão atrás de nós se você fizer isso, entenda.}
+{118}{}{Não é problema meu.}
 {119}{}{Well I hope you choke on it. They'll be here for us soon.}
 {120}{}{I didn't know this was why they wanted the job done.}
 {121}{}{Yeah, well, I don't deal with trash like you anyway.}
@@ -59,24 +59,24 @@
  in or around the bar. He'll know what to do.}
 {153}{}{Eu estou no meu caminho.}
 {154}{}{Posso perguntar-lhe algumas perguntas?}
-{155}{}{Certainly, what's on your mind?}
-{156}{}{Where did these mole rats come from, and why aren't they aggressive?}
-{157}{}{Nothing, bye.}
-{158}{}{Well, it's kind of a strange story. You see, a bunch of ghouls came here one day, mumbling something about a "renewal",
- and giving out these funky amulets. [He shows you an Ankh shaped amulet.] These big rodents came with em, and the ghouls said
- they'd be protecting us from now on. The ghouls left--probably back up to Gecko--but the rodents stayed put, and they've
- been here ever since. Like I said, it's pretty strange stuff. It's kind of a pain to clean up after these things, but hell,
- if they keep Vault City off our ass, then I suppose I can put up with a little rat shit.}
-{159}{}{Very interesting. Do you think I could have one of those amulets?}
-{160}{}{By all means. They gave us so many, and we don't know what the hell to do with em. Here, take one.}
-{161}{}{Thanks a lot. Bye.}
-{162}{}{No, but I've got some great news: I convinced the Vault City council not to touch your village.}
-{163}{}{What? They're seriously going to just leave us alone? I don't understand... how did you that? I swear if you're bullshitting me...}
-{164}{}{It's true--trust me. I was able to pull some strings and broker a deal, but the details don't matter. The important thing is that you and your people are safe now.}
-{165}{}{Thank you from the bottom of my heart... em... By the way, I still don't know your name.}
-{166}{}{My name is - }
-{167}{}{Thank you, }
-{168}{}{, but what about the money I gave you to buy the guns?}
+{155}{}{Com certeza, o que você tem em mente?}
+{156}{}{De onde vieram esses ratos toupeira e por que eles não são agressivos?}
+{157}{}{Nada, tchau.}
+{158}{}{Bem, é uma história meio estranha. Olha, um bando de ghouls veio aqui um dia, murmurando algo sobre uma "renovação"
+ e distribuindo esses amuletos estranhos. [Ele mostra a você um amuleto em forma de Ankh.] Esses roedores grandes vieram com eles,
+ e os ghouls disseram que estariam nos protegendo a partir de agora. Os ghouls partiram, provavelmente de volta para Gecko,
+ mas os roedores ficaram parados e estão aqui desde então. Como eu disse, é uma coisa bem estranha. É meio chato
+ limpar tudo isso depois, mas, droga, se eles mantiverem Vault City longe daqui, então acho que posso aturar um pouco de merda de rato.}
+{159}{}{Muito interessante. Você acha que eu poderia ter um desses amuletos?}
+{160}{}{Claro, eles nos deram um monte, e não sabemos o que diabos fazer com eles. Aqui, pegue um.}
+{161}{}{Muito obrigado. Tchau.}
+{162}{}{Não, mas tenho ótimas notícias: convenci o conselho de Vault City a não tocar em sua vila.}
+{163}{}{O que? Eles vão mesmo nos deixar em paz? Eu não entendo... como você fez isso? Eu juro que se você estiver me enganando...}
+{164}{}{É verdade, confie em mim. Mexi alguns pauzinhos e negociei um acordo, mas os detalhes não importam. O importante é que você e seu pessoal estão seguros agora.}
+{165}{}{Obrigado do fundo do meu coração... em... A propósito, ainda não sei o seu nome.}
+{166}{}{Meu nome é - }
+{167}{}{Obrigado, }
+{168}{}{, mas e o dinheiro que te dei para comprar as armas?}
 {169}{}{Você é sempre bem vindo aqui! Adeus.}
 {170}{}{Sim, mas acho que não vai precisar deles. Pelo menos não contra Vault City. Veja, convenci o conselho de Vault City a não tocar em sua vila.}
 {171}{}{Vou fazer isso. Eu tenho algumas perguntas antes de ir embora.}
@@ -131,6 +131,6 @@
 {730}{}{Tell you what--how 'bout you just pay us back half? Do you have $2,500?}
 {731}{}{Sure, here. [You give him $2,500.]}
 {732}{}{Sorry, I don't even have that much.}
-{740}{}{Thank you, }
+{740}{}{Obrigado, }
 {741}{}{. We won't forget what you've done for us.}
 {750}{}{I see . . . well, don't worry about it. The money isn't as important as our freedom. Thank you.}

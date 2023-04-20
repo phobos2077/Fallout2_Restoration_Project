@@ -26,7 +26,7 @@
 {173}{}{Oon Ga.}
 {174}{}{ Fa' buon viaggio, ritardato -- per amor nostro.}
 {175}{}{????}
-{176}{}{Ci hai tradito.  Devi morire.}
+{176}{}{Ci hai tradito. Devi morire.}
 {177}{}{Un traditore della tua stessa gente!}
 {178}{}{Perche' fai questo?}
 {179}{}{Morte al malvagio!}

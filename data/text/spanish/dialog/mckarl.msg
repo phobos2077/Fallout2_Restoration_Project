@@ -91,7 +91,7 @@
 {254}{}{Zzzzzzzzzzzzzzz}
 {255}{}{*ronquido* *gruñido* *ronquido*}
 {260}{}{Oh, joder. Debo haberme quedado sin dinero por el camino. Aquí tengo}
-{261}{}{ dólares. Es todo lo que tengo.}
+{261}{}{. Es todo lo que tengo.}
 {262}{}{Oh, joder. Debe haberme quedado sin dinero por el camino. Lo siento, ha sido divertido de todos modos.}
 {300}{}{¡Vuelvo a casa, gracias a ti!}
 {400}{}{Has hecho que Karl vuelva a Modoc.}

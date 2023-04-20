@@ -9,7 +9,7 @@
 {156}{}{Gli dei ti proteggano durante il tuo viaggio.}
 {157}{}{Ho una domanda da farti.}
 {158}{}{Arrivederci, amico mio.}
-{159}{}{Vai a trovare Hakunin nell'angolo nord del villaggio.  Lui puo' aiutarti.}
+{159}{}{Vai a trovare Hakunin nell'angolo nord del villaggio. Lui puo' aiutarti.}
 {160}{}{Grazie. Arrivederci.}
 {161}{}{Oh, non e' compito mio trattare con i mercanti. Parla con Mynoc, il guardiano del grande ponte. Lui li vede tutti.}
 {162}{}{Grazie. Arrivederci.}

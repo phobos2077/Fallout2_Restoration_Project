@@ -2,7 +2,7 @@
 {101}{}{Vedi un uomo sganasciato che continua a sbattere rapidamente gli occhi.}
 {102}{}{Vedi Martin.}
 {103}{}{Vedi un uomo sganasciato che continua a sbattere rapidamente gli occhi.}
-{104}{}{Grazie per averci sah-sah-salvato. L'eco delle tue imprese e' arrivato  peh-peh-persino quaggiu'.}
+{104}{}{Grazie per averci sah-sah-salvato. L'eco delle tue imprese e' arrivato peh-peh-persino quaggiu'.}
 {105}{}{Ah-aiuto! Intruso!}
 {106}{}{Un muh-muh-mutante! Aiuto!}
 {107}{}{Un gah-gah-ghoul! Aiuto!}

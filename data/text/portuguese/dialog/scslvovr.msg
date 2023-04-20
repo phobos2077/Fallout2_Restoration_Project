@@ -1,19 +1,19 @@
-{100}{}{You see a stocky man with a submachine gun slung under his arm.}
-{101}{}{It's the slave overseer.}
-{102}{}{Well, from his tattoo you know he's a slaver. Looks like he's in charge of the guards around here.}
-{103}{}{What the hell are you? Some kind of burglar?}
-{104}{}{NCR meddling do-gooder! I got a cure for you.}
-{105}{}{Vortis, we've got an intruder!}
-{106}{}{Guards! Alert!}
+{100}{}{Você vê um homem atarracado com uma submetralhadora pendurada sob o braço.}
+{101}{}{É o supervisor de escravos.}
+{102}{}{Bem, pela tatuagem dele você sabe que ele é um escravista. Parece que ele é o comandante dos guardas por aqui.}
+{103}{}{E que merda é você? Algum tipo de ladrão?}
+{104}{}{Benfeitor intrometido da NCR! Eu tenho a cura para você.}
+{105}{}{Vortis, temos um intruso!}
+{106}{}{Guardas! Alerta!}
 {107}{}{O que você quer?}
 {108}{}{Kurg?}
 {109}{}{O que é este lugar?}
-{110}{}{The Rangers sent me.}
-{111}{}{I'm looking for the owner.}
-{112}{}{Brother slaver, I've got a few questions.}
-{113}{}{Sorry, wrong guy.}
-{114}{}{Go on, get out of here. I've already got enough idiot guards!}
-{115}{}{What are you chump, blind? This is a slave pen. You want to know more, talk to Vortis.}
+{110}{}{Os Rangers me enviaram.}
+{111}{}{Estou procurando o proprietário.}
+{112}{}{Irmão escravista, tenho algumas perguntas.}
+{113}{}{Desculpe, cara errado.}
+{114}{}{Vá, saia daqui. Eu já tenho guardas idiotas o suficientes!}
+{115}{}{O que há de errado seu idiota, você é cego? É um centro de escravos. Se quiser saber mais, fale com a Vortis.}
 {116}{}{É assim mesmo? Bem, estou te mandando de volta em um saco para cadáveres.}
 {117}{}{That'd be Vortis, the old guy.}
 {118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}

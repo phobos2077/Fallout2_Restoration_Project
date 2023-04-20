@@ -1,3 +1,3 @@
-{100}{}{You startle a flock of vultures feeding off a dead herd of brahmin.}
-{101}{}{Whew! Nothing worse than flesh rotting out in the hot sun.}
+{100}{}{Você assusta um bando de abutres se alimentando de um manada de brahmins mortos.}
+{101}{}{Urgh! Nada pior do que carne apodrecendo sob o sol quente.}
 {102}{}{Oh, meu Deus, é Bess!}

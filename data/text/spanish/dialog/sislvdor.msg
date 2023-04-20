@@ -134,7 +134,7 @@
 {171}{}{Tu falta de habilidad ha atascado la cerradura de esta puerta.}
 {172}{}{No consigues abrir la cerradura de la puerta.}
 {173}{}{ abre hábilmente la cerradura de la puerta.}
-{174}{}{ ha atascado la cerradura de la puerta por su falta de habilidad.}
+{174}{}{Ha atascado la cerradura de la puerta por su falta de habilidad.}
 {175}{}{ no consigue abrir la cerradura de esta puerta.}
 {176}{}{Rompes la cerradura de la puerta.}
 {177}{}{Fuerzas la espalda mientras intentas romper la cerradura y

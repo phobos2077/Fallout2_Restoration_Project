@@ -7,7 +7,7 @@
 {106}{}{Well, spit it out.}
 {107}{}{Urrrgh.}
 {108}{}{I'm looking for Vault 13. Do you know where it is?}
-{109}{}{Do you have a GECK?}
+{109}{}{Você tem um GECK?}
 {110}{}{I'm looking for some honest work. Can you help me?}
 {111}{}{Oh, fine. Everything's been just peachy.}
 {112}{}{Primitive, eh? You. Questions? Ask me. Okay?}
@@ -16,7 +16,7 @@
 {115}{}{Tudo bem.}
 {116}{}{No, I don't. That's something even President Tandi would like to know. Solve a lot of problems.}
 {117}{}{Problemas?}
-{118}{}{President Tandi?}
+{118}{}{Presidente Tandi?}
 {119}{}{Great. Just my luck. Thanks.}
 {120}{}{Listen, I lead a clean and wholesome life! I don't have GECK or anything else.}
 {121}{}{So-rry! I don't suppose you know where Vault 13 is?}
@@ -56,7 +56,7 @@
 {155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
 {156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
-{158}{}{President Tandi?}
+{158}{}{Presidente Tandi?}
 {159}{}{Tenho que ir.}
 {160}{}{Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.}
 {161}{}{Sim?}

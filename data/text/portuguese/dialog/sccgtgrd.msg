@@ -1,15 +1,15 @@
-{100}{}{Yet another guard. Somebody must breed them, since they all look alike.}
-{101}{}{Still a guard. Probably doesn't like you.}
-{102}{}{You look at him closely and you're convinced he's a guard.}
-{103}{}{You're not authorized to be here.}
-{104}{}{Can I see your pass?}
-{105}{}{This is government property. Move on, stranger.}
-{106}{}{You're the one Merk talked about? Okay, let him through, boys.}
-{107}{}{This checks out. Stand aside, boys.}
-{108}{}{Okay, you're clear. Open the gate, boys.}
-{109}{}{You're the one Merk talked about? Okay, let her through, boys.}
-{110}{}{I'm on duty. No time for socializing.}
-{111}{}{Hey, nice shoes.}
-{112}{}{You should go about your business.}
-{113}{}{There you are, sir. Have a good day.}
-{114}{}{There's been an incident. Move along.}
+{100}{}{Só outro guarda. Alguém deve estar clonando, todos parecem iguais.}
+{101}{}{Só mais outro guarda. Provavelmente não gosta de você.}
+{102}{}{Você olha para ele de perto e está convencido de que ele é um guarda.}
+{103}{}{Você não está autorizado a estar aqui.}
+{104}{}{Posso ver seu passe?}
+{105}{}{Isso é propriedade do governo. Siga em frente, estranho.}
+{106}{}{Você é aquele de quem Merk falou? Certo, o deixem passar, rapazes.}
+{107}{}{Isso confere. Afastem-se, rapazes.}
+{108}{}{Ok, você está limpo. Abram o portão, rapazes.}
+{109}{}{Você é aquela de quem Merk falou? Certo, a deixem passar, rapazes.}
+{110}{}{Estou em serviço. Não tenho tempo para conversa.}
+{111}{}{Ei, pisante maneiro.}
+{112}{}{Você deve cuidar dos seus assuntos.}
+{113}{}{Aí está você, senhor. Tenha um bom dia.}
+{114}{}{Houve um incidente. Siga em frente.}

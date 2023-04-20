@@ -22,7 +22,7 @@
 {304}{}{Seja o que for, adeus.}
 {305}{}{Você acha que pode me manter em linha? Vamos ver você tentar, velho. Isso deve ser divertido.}
 {400}{}{Você pode encontrar Bill, nosso comerciante residente, no prédio em frente àqui. Além disso, você deveria ir
-  para Percy's Survival Gear Locker no ferro-velho em Gecko ou Happy Harry's no patio em Vault City.}
+  para Percy's Survival Gear Locker no ferro-velho em Gecko ou Harry Alegre no patio em Vault City.}
 {401}{}{Bom saber. Eu tenho outra pergunta.}
 {402}{}{Obrigado, tchau.}
 {500}{}{Se alguém é pobre ou ganancioso o suficiente para tentar desenterrar túmulos, esse é o seu negócio. Não é como a lata morta

@@ -107,16 +107,18 @@ procedure start begin
 end
 
 procedure combat_p_proc begin
-
-   if ( (self_cur_hits <= (self_max_hits / 3)) or (is_critter_prone(self_obj)) ) then begin
-      set_global_var(GVAR_NCR_BEAT_HOSS, 1);
+   if (global_var(GVAR_NCR_BEAT_HOSS) == 0)
+      and   (
+         (self_cur_hits <= (self_max_hits / 3))
+         or is_critter_prone(self_obj)
+      )
+   then begin
       call surrender;
    end
-
 end
 
 procedure timed_event_p_proc begin
-   if (fixed_param == TIMER_CHECK_END_FIGHT) then begin
+   if (global_var(GVAR_NCR_BEAT_HOSS) == 0) and (fixed_param == TIMER_CHECK_END_FIGHT) then begin
       ndebug("checking for weapon");
 
       if (self_cur_hits <= (self_max_hits / 3)) then begin
@@ -178,7 +180,7 @@ procedure damage_p_proc begin
        set_local_var(LVAR_Personal_Enemy,1);
    end
 
-   if (self_cur_hits <= (self_max_hits / 3)) then begin
+   if (global_var(GVAR_NCR_BEAT_HOSS) == 0) and (self_cur_hits <= (self_max_hits / 3)) then begin
       set_global_var(GVAR_NCR_BEAT_HOSS, 1);
       call surrender;
    end
@@ -368,7 +370,9 @@ procedure getTimeBit begin
 end
 
 procedure surrender begin
+   set_global_var(GVAR_NCR_BEAT_HOSS, 1);
    set_local_var(LVAR_Surrendered, 1);
+   ndebug("terminating combat");
    terminate_combat;
    set_self_team(TEAM_NCR);
    add_timer_event(self_obj, game_ticks(1), TIMER_TALK);

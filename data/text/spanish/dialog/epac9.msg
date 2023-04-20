@@ -1,5 +1,5 @@
 {100}{}{Ves una computadora grande. }
-{101}{}{¡Ves al  Sr. Chemmie!}
+{101}{}{¡Ves al Sr. Chemmie!}
 {102}{}{Una gran computadora de fabricación de drogas.}
 {200}{}{¡Hola usuario! Soy el farmacéutico del futuro, Sr. Chemmie. ¡¿Como puedo ayudarte?!}
 {201}{}{¿Qué haces?}
@@ -10,7 +10,7 @@
 {221}{}{Estimulante}
 {222}{}{Superestimulante}
 {223}{}{Veneno}
-{224}{}{Antídoto de veneno  }
+{224}{}{Antídoto de veneno}
 {225}{}{Botiquín de 1º Auxilios}
 {226}{}{Maletín de Médico}
 {227}{}{Esteroides}

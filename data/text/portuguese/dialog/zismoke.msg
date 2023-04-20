@@ -1,18 +1,18 @@
-{100}{}{You smoke a Commie.}
-{101}{}{You smoke another Commie.}
-{102}{}{Inside your helmet there's a warning: "DANGER! - No smoking!!" You think you better do as it says.}
-{103}{}{You've smoked 'em all.}
-{104}{}{You need a lighter first.}
-{200}{}{You smoke a joint.}
-{201}{}{You smoke another joint.}
-{203}{}{You're all outa weed.}
-{210}{}{Whoa. That is some herb SUPERB.}
-{211}{}{Okay, I'm just gonna lie down here for a while.}
-{212}{}{You begin to feel VERY light headed.}
-{213}{}{I am feeling really strange right now...}
-{214}{}{...this must be how Hakunin feels in his garden.}
-{215}{}{That was crazy. I feel better now though.}
-{216}{}{Oh shit...}
-{217}{}{You pass out.}
-{218}{}{You wake up feeling dazed and confused.}
-{250}{}{Smoking is a disgusting habit for a woman to have.}
+{100}{}{Você fuma um comunista.}
+{101}{}{Você fuma outro comunista.}
+{102}{}{Dentro de seu capacete há um aviso: "PERIGO! - Proibido fumar!!" Você acha que é melhor fazer o que é dito.}
+{103}{}{Você fumou todos eles.}
+{104}{}{Você precisa de um isqueiro primeiro.}
+{200}{}{Você fuma um baseado.}
+{201}{}{Você fuma outro baseado.}
+{203}{}{Você não tem maconha.}
+{210}{}{Uau. Essa é uma erva DA BOA.}
+{211}{}{Ok, eu só vou deitar aqui por um tempo.}
+{212}{}{Você começa a se sentir MUITO tonto.}
+{213}{}{Me sento muito estranho agora...}
+{214}{}{...deve ser assim que Hakunin se sente em seu jardim.}
+{215}{}{Isso foi uma loucura. Eu me sinto melhor agora.}
+{216}{}{Oh, merda...}
+{217}{}{Você desmaia.}
+{218}{}{Você acorda se sentindo atordoado e confuso.}
+{250}{}{Fumar é um hábito repugnante para uma mulher.}

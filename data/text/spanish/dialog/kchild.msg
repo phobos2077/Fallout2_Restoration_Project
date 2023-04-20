@@ -45,7 +45,7 @@
 {193}{}{¿Qué es lo que llevas puesto?}
 {194}{}{¡Quiero montar en brahmin!}
 {195}{}{¿Eres de muy lejos?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{¡Siii! ¡Ja Ja Ja!}
 {197}{}{¡No te vayas!}
 {198}{}{¿Tienes algo de comida?}
 {199}{}{¿Te estoy molestando?}
@@ -73,7 +73,7 @@
 {221}{}{¿Te gusto?}
 {222}{}{¿Estás casado?}
 {223}{}{Uno, dos, tres - ¡siii!}
-{1000}{}{Anciano}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

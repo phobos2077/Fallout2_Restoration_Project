@@ -13,8 +13,7 @@
 {112}{}{Fuera de aquí, o avisaré a tu sargento.}
 {113}{}{Muévete, soldado.}
 {114}{}{No he informado de ningún problema por aquí.}
-{115}{}{Bienvenido a la Unidad de Guerra Química, soldado. Soy el teniente coronel doctor Charles
- Curling, y ahora que nos conocemos... ¡fuera de aquí!}
+{115}{}{Bienvenido a la Unidad de Guerra Química, soldado. Soy el teniente coronel doctor Charles Curling, y ahora que nos conocemos... ¡fuera de aquí!}
 {116}{}{No soy quien tú crees. Soy }
 {117}{}{ de Arroyo, y tenemos que hablar.}
 {118}{}{Lo siento, señor. Me equivocado. Adiós.}
@@ -148,7 +147,7 @@
 {246}{}{Cuando las estrellas arrojaron sus lanzas,}
 {247}{}{                      y mojaron el cielo con sus lágrimas,}
 {248}{}{                            ¿sonrió al contemplar su obra?}
-{249}{}{¿Aquel que hizo al cordero, te hizo a ti?}
+{249}{}{                                  ¿Aquel que hizo al cordero, te hizo a ti?}
 {250}{}{¿Eh?}
 {251}{}{Oh, sólo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavía hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabó nuestro tiempo, el vuestro acaba de comenzar. ¡Vete!}
 {252}{}{Oh, de acuerdo, gracias por toda tu ayuda. Eres un hombre valiente.}

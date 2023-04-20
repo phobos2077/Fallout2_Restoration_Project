@@ -202,7 +202,7 @@
 {532}{}{Torr está haciendo pastar a sus brahmines justo al norte del centro del pueblo.}
 {533}{}{Cuando el idiota de Torr llegue aquí, será mejor que te libres de él.}
 {600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrona!}
-{601}{}{¿Listo para ir?}
+{601}{}{ ¿Listo para ir?}
 {700}{}{Has robado el ganado de Torr.}
 {702}{}{No, yo diré lo que tienen estos para. Se visten como el "Error de los Hombres" y asustar a la pobre vieja Torr de su Brahmán, no usted, ¿no?! Todo tiene sentido ahora. Usted está a sólo un par de no buena rufianes.}
 {703}{}{[El Dunton hermanos ojos muy amplia y los dos hombres comienzan a inquietar demasiado.] Yy..yyy... sí, así que... ¿qué es para usted, tribales? Todo el mundo necesita un poco de dinero extra ahora y entonces. ¿Qué es para usted de todos modos? ¿Qué van a hacer al respecto, ¿eh?}

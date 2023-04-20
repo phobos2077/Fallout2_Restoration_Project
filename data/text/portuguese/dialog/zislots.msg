@@ -1,12 +1,12 @@
-{100}{}{You see a strange machine. }
-{101}{}{You see a slot machine. }
-{102}{}{You see a glittering slot machine. }
-{103}{}{You see a gleaming slot machine. }
-{130}{}{It has three eyes and one arm.}
-{140}{}{The minimum bet is $}
+{100}{}{Você vê uma máquina estranha. }
+{101}{}{Você vê uma máquina caça-níqueis. }
+{102}{}{Você vê uma máquina caça-níqueis brilhante. }
+{103}{}{Você vê uma máquina caça-níqueis brilhante. }
+{130}{}{Tem três olhos e um braço.}
+{140}{}{A aposta mínima é $}
 {141}{}{.}
-{150}{}{You swear you can see it looking at you out of the corner of your eye. }
-{151}{}{Its shiny frame and golden handle gleam seductively beneath the lights. }
+{150}{}{Você jura que pode vê-lo olhando para você com o canto do olho. }
+{151}{}{Sua moldura brilhante e alça dourada brilham sedutoramente sob as luzes. }
 {165}{}{Destina-se aos grandes apostadores. }
 {180}{}{Seu alto premio parece muito atraente. }
 {200}{}{(Sua mão treme enquanto você pega suas moedas. A máquina continua a sussurrar para você.) *Vamos, doçura... é isso...
@@ -84,17 +84,17 @@
 {2136}{}{Você ser um water chip?}
 {2137}{}{Sair; procurar por mais coisas brilhantes}
 {2138}{}{(Vai embora.)}
-{2151}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box
- speaks! "Please... insert... money."}
+{2151}{}{Você agarra seu braço e o sacode com força. Ao fazer isso, há um *bzzzzzzz* e a caixa
+ fala! "Por favor... insira... dinheiro."}
 {2152}{}{Ahhhhh! Robô! Robô! Corrrran}
 {2153}{}{(Vai embora.)}
-{2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time...)}
+{2175}{}{(Você olha para a máquina caça-níqueis percebendo que não tem o suficiente para jogar e amaldiçoa sua pobreza. Talvez outra hora...)}
 {2176}{}{Deixar.}
-{2185}{}{(The "OUT OF SERVICE" light on the slot machine is flashing on and off.)}
+{2185}{}{(A luz "FORA DE SERVIÇO" na máquina caça-níqueis está piscando).}
 {2186}{}{Deixar.}
-{2200}{}{(You can hear her laughing at you.)}
-{2201}{}{*Hehehe, why don't you just give up sweetie.*}
-{2202}{}{*Maybe you should let someone else pull my handle.*}
+{2200}{}{(Você pode ouvi-la rindo de você.)}
+{2201}{}{*Hehehe, por que você simplesmente não desiste, docinho.*}
+{2202}{}{*Talvez você devesse deixar outra pessoa puxar meu controle.*}
 {2203}{}{(A faint maniacal laugh emanates from the machine.)}
 {2204}{}{(You hear the slot machine laughing at you.)}
 {2205}{}{(The slot machine chuckles at you.)}
@@ -115,13 +115,13 @@
 {2283}{}{Uh... olá?}
 {2284}{}{::Respirar fundo, sair.::}
 {2300}{}{*Eu ainda estou aqui, bela donzela.* (O caça-níquel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
-{2301}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now... you wanna stick some coins in lil' old me?*}
-{2302}{}{Whooo *are* yoooo?}
+{2301}{}{*Ainda estou aqui, docinho.* (A máquina caça-níqueis abaixa a voz.) *Você é um cara legal, sabia? Vamos agora... Você não vai colocar algumas moedas na minha pequena fenda?*}
+{2302}{}{Queeem *é* vooocê?}
 {2303}{}{Clauro... ô vô fager uma apoxta em voxê}
-{2304}{}{I think I better leave before I stick something in you I might regret. (Leave.)}
-{2305}{}{::Take a deep breath, walk away.:: (Leave.)}
-{2320}{}{*I'm your ideal man.* (The slot machine gives you a wink.) *Give me some coins, and I'll please you in ways no man has EVER pleased you.*}
-{2321}{}{*I'm your ideal woman, sugar. All's ah want is a little attention. Can you help pretty old me? Come on, just a coin or two?*}
+{2304}{}{Acho melhor ir embora antes eu enfie algo em você de que possa me arrepender. (Sai.)}
+{2305}{}{::Respira fundo e vai embora.:: (Sai.)}
+{2320}{}{*Eu sou o seu homem ideal.* (A máquina caça-níqueis dá uma piscadela para você.) *Me dê algumas moedas, e eu vou agradá-lo de uma forma que nenhum homem NUNCA te agradou.*}
+{2321}{}{*Eu sou sua mulher ideal, docinho. Tudo que eu quero é um pouco de atenção. Você pode dar um pouquinho? Vamos, pode ser só algumas moedinhas?*}
 {2322}{}{Nósh não podemosh só conversá}
 {2340}{}{*Claro que podemos, coração, claro que podemos.* (O caça-níquel parece compreensível.) *O que perturba a sua cabecinha?*}
 {2341}{}{*Claro que podemos, docinho, claro que podemos.* (O caça-níquel parece compreensível) *O que está te perturbando, bonitão?* }
@@ -135,13 +135,13 @@
 {2370}{}{*Isso, isso... não perturbe mais sua cabecinha por causa disso... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
 {2371}{}{*Isso, isso... não se perturbe mais por conta disso, docinho... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
 {2372}{}{Valeu, caça-níco *snif* 'cê é legal}
-{2373}{}{Yooo onlee *nice* pershun I met so far everybodee else is so meeen n' tried ta *hurt* me an' take my monee and...*sniff*}
+{2373}{}{Voocê é a uuunica pessoa *legal* que conheci até agora no mundo que nããoo tentou me *machucar* e robar meu dinheiro e... *sniff*}
 {2380}{}{*Você vai bem, certo, coração? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
 {2381}{}{(Você descansa sua cabeça deprimida na máquina.)}
 {2382}{}{*Você vai bem, certo, docinho? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
 {2383}{}{Ô vô ficar bem... 'cê foi legal em cunversá cumigo, caça-nico, ô te amo}
-{2400}{}{*You're the only heroine we got in this two-bit world of bastards and thieves! You take care of yourself now, you hear, sweetheart?* (Turns away.) *You better go fore I start acting unmanly.*}
-{2401}{}{(A tear seems to form on one of the windows.) }
+{2400}{}{*Você é a única heroína que temos neste mundo de dois bits de desgraçados e ladrões! Cuide-se agora, ouviu, querida?* (Vira-se.) *É melhor você ir antes que eu comece a agir de forma pouco masculina.*}
+{2401}{}{(Uma lágrima parece se formar em uma das janelas). }
 {2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You... you... take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
 {2403}{}{Shaaauuuu}
 {3000}{}{C'mon, }
@@ -149,6 +149,6 @@
 {3002}{}{! Daddy needs a new plasma rifle!}
 {4000}{}{There seems to be someone blocking the machine.}
 {5000}{}{Jinx the machine into giving you all its money.}
-{5001}{}{The machine appears to freeze and then you hear a faint rumble as an avalanche of coins begin to fall from the
- dispenser.}
-{5002}{}{[Collect money and walk away.]}
+{5001}{}{A máquina parece congelar e então você ouve um leve estrondo quando uma avalanche de moedas começa a cair
+ do dispensador.}
+{5002}{}{[Recolhe o dinheiro e vá embora.]}

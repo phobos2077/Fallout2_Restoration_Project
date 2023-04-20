@@ -50,32 +50,32 @@
 {149}{}{Eu faço o SEU trabalho, senhor.}
 {150}{}{I run the Corrections Center. And obey your orders, sir.}
 {151}{}{I run the Corrections Center. Keep the Outworlders in line. Make sure the Servants behave. Organize patrols. Try and protect the city from raiders.}
-{152}{}{You got a problem, Sergeant?}
-{153}{}{You the one who busted up Cassidy's bar?}
-{154}{}{Have you heard of a servant named Joshua?}
-{155}{}{Patrols?}
-{156}{}{Raiders?}
-{157}{}{About those Raiders...}
+{152}{}{Algum problema, sargento?}
+{153}{}{Você quem invadiu o bar de Cassidy?}
+{154}{}{Você já ouviu falar de um servo chamado Joshua?}
+{155}{}{Patrulhas?}
+{156}{}{Saqueadores?}
+{157}{}{Sobre os saqueadores...}
 {158}{}{Posso te fazer algumas perguntas?}
 {159}{}{Obrigado. Adeus.}
-{160}{}{Permission to speak freely, sir.}
-{161}{}{Granted.}
-{162}{}{No. I had some other questions for you, first.}
-{163}{}{Not today, Sergeant.}
-{164}{}{You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... sir.}
-{165}{}{That's why I need you at your post, Sergeant. There is no doubt that you are capable and know Vault City better than I do. Nevertheless, I have shown RESULTS where you have NOT. Never forget that.}
-{166}{}{Noted, Sergeant. Now I have some questions for you.}
-{167}{}{Noted, Sergeant. I suggest you swallow your attitude and get on with doing your job. Good day.}
-{168}{}{Understood, sir.}
-{169}{}{Now I have some questions for you.}
-{170}{}{Carry on then, Sergeant.}
-{171}{}{Yes, sir. I conducted an authorized raid on Mr. Cassidy's establishment.}
-{172}{}{Maybe your friend Cassidy there didn't tell you that he had illegal substances on the premises, and his license for alcohol distribution had expired. You forget to tell your friend here that, Cassidy?}
-{173}{}{Cassidy says he was all paid up and you raided his place anyway.}
+{160}{}{Permissão para falar livremente, senhor.}
+{161}{}{Concedido.}
+{162}{}{Não. Eu tinha algumas outras perguntas primeiro.}
+{163}{}{Hoje não, sargento.}
+{164}{}{Você não MERECE o seu posto. Eu vivi em Vault City toda a minha vida. Os homens e mulheres sob MEU comando confiam em mim e me respeitam, não você... senhor.}
+{165}{}{É por isso que preciso de você em seu posto, sargento. Não há dúvida de que você é capaz e conhece Vault City melhor do que eu. No entanto, obtive RESULTADOS e você NÃO. Nunca esqueça disso.}
+{166}{}{Anotado, Sargento. Agora eu tenho algumas perguntas para você.}
+{167}{}{Anotado, Sargento. Sugiro que engula sua atitude e continue fazendo seu trabalho. Bom dia.}
+{168}{}{Entendido, senhor.}
+{169}{}{Agora eu tenho algumas perguntas para você.}
+{170}{}{Continue então, sargento.}
+{171}{}{Sim, senhor. Conduzi uma batida autorizada no estabelecimento do Sr. Cassidy.}
+{172}{}{Talvez seu amigo Cassidy não tenha te contado que tinha substâncias ilegais no local e que sua licença para distribuição de álcool havia expirado. Você se esqueceu de dizer isso ao seu amigo aqui, Cassidy?}
+{173}{}{Cassidy disse que ele estava tudo pago e você invadiu a casa dele de qualquer forma.}
 {174}{}{Esqueça. Eu tinha outras perguntas...}
-{175}{}{Never mind then. Goodbye.}
-{176}{}{No, sir. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.}
-{177}{}{Cassidy was guilty of possession without a license. He doesn't like it, he can leave Vault City. That simple.}
+{175}{}{Deixa pra lá então. Adeus.}
+{176}{}{Não, senhor. O Sr. Cassidy não pagou sua taxa de licenciamento de álcool no mês, mas ainda estava vendendo no local. Sua lista de pagamentos está registrada no computador.}
+{177}{}{Cassidy era culpado de posse sem licença. Se não gostar, pode sair de Vault City. Simples assim.}
 {178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
 {179}{}{You know, I think my fist and your face are about to have a conversation.}
 {180}{}{Esqueça. Eu tinha outras perguntas...}
@@ -96,14 +96,14 @@
 {195}{}{Hmmm. I'll head over there now.}
 {196}{}{The Vault's right outside the door... sir.}
 {197}{}{The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.}
-{198}{}{The Vault's right outside the door. Only Citizens are allowed in there, so I don't want to catch you bothering the guards.}
+{198}{}{O Vault do outro lado da porta. Só cidadãos podem entrar lá, então não quero pegar você incomodando os guardas.}
 {199}{}{Posso pedir mais uma coisa?}
 {200}{}{But I am a Citizen.}
-{201}{}{How do you become a citizen?}
+{201}{}{Como você se torna um cidadão?}
 {202}{}{Obrigado. Adeus.}
-{203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
-{204}{}{Here's my papers. I think you'll find everything in order.}
-{205}{}{Uh, never mind. I had some other questions...}
+{203}{}{Isso mesmo? Não te reconheço, e conheço todos os Cidadãos de Vault City.}
+{204}{}{Aqui estão meus documentos. Acho que você vai encontrar tudo em ordem.}
+{205}{}{Uh, não importa. Eu tinha outras perguntas...}
 {206}{}{É melhor eu ir.}
 {207}{}{Well, well, if it isn't those papers that were stolen last month. Looks like I finally found the culprit. Come with me, Outsider.}
 {208}{}{Touch me, and you'll regret it.}
@@ -135,19 +135,19 @@
 {234}{}{Eu estava apenas curioso.}
 {235}{}{Never mind. I had some questions...}
 {236}{}{Forget it. Maybe we'll talk some other time.}
-{237}{}{What, you some kind of good Samaritan? I don't buy it.}
-{238}{}{I am not a Samaritan. I'm actually a native of Arroyo - it's a village to the west.}
-{239}{}{I'd like to help if I could.}
-{240}{}{Look, I've seen enough of the world to know that helping out people seems to come back and help me in the end.}
+{237}{}{O quê, você é algum tipo de bom samaritano? Eu não engulo.}
+{238}{}{Eu não sou um samaritano. Na verdade, sou natural de Arroyo - é uma vila a oeste.}
+{239}{}{Gostaria de ajudar se pudesse.}
+{240}{}{Olha, eu já vi o suficiente no mundo para saber que ajudar as pessoas compensa no final quando você recebe ajuda.}
 {241}{}{Never mind. I had some questions...}
 {242}{}{Forget it. Maybe we'll talk some other time.}
-{243}{}{What, you come in here to be a smartass? That it?}
-{244}{}{Oh, yeah? Well, tackling this band of raiders may be more than you can handle.}
-{245}{}{No, but if you need help, I'm willing to help you out.}
-{246}{}{I'd still like to try and help.}
-{247}{}{Never mind then. I had some questions...}
+{243}{}{O que, você veio aqui para ser um espertinho? É Isso?}
+{244}{}{Oh sim? Bem, enfrentar esse bando de invasores pode ser mais do que você pode suportar.}
+{245}{}{Não, mas se precisar de ajuda, estou à disposição.}
+{246}{}{Eu ainda gostaria de tentar ajudar.}
+{247}{}{Deixa pra lá então. Eu tinha algumas perguntas...}
 {248}{}{Forget it. Maybe we'll talk some other time.}
-{249}{}{Hmmm. Well, I ain't going to turn down any help at this point. You find their base, or even better, wipe them out, go tell the First Citizen.}
+{249}{}{Hmmm. Bem, não vou recusar nenhuma ajuda neste momento. Você encontra a base deles, ou melhor ainda, os elimine, vá contar a Primeira Cidadã.}
 {250}{}{Actually, I already found their base.}
 {251}{}{Actually, I wiped them out already.}
 {252}{}{Any idea where these raiders are striking from?}
@@ -158,119 +158,119 @@
 {257}{}{I don't know anything. That's why I'm asking you.}
 {258}{}{Never mind. I had some questions...}
 {259}{}{Forget it. Maybe we'll talk some other time.}
-{260}{}{Don't know anything? Maybe I'll keep you here in the Corrections Center until you REMEMBER something.}
+{260}{}{Não sabe de nada? Talvez eu te deixe aqui no Centro Correcional até você LEMBRAR de algo.}
 {261}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
-{262}{}{You got me. I'm obviously in league with the raiders. Arrest me.}
-{263}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
-{264}{}{You're already in trouble. You looking to make it worse?}
-{265}{}{No, I'd like to try and find their base, maybe stop the attacks if I can.}
-{266}{}{You got me. I'm obviously in league with the raiders. Arrest me.}
-{267}{}{I'm leaving. You want to stop me? Go ahead.}
+{262}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
+{263}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
+{264}{}{Você já está com problemas. Quer piorar ainda mais?}
+{265}{}{Não, gostaria de tentar encontrar a base deles, talvez parar os ataques se puder.}
+{266}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
+{267}{}{Estou indo embora. Você quer me parar? Vá em frente.}
 {268}{}{Tudo bem, então...}
-{269}{}{Whoa! Whoa! I didn't --}
-{270}{}{Bring it on, dead man.}
-{271}{}{I don't think we'll be dropping the subject quite that easily. Now... what do you know about the raiders?}
+{269}{}{Hei! Hei! Eu não --}
+{270}{}{Viva com isso, homem morto.}
+{271}{}{Acho que não vamos abandonar o assunto tão facilmente. Agora... o que você sabe sobre os invasores?}
 {272}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
 {273}{}{Eu estava apenas curioso.}
-{274}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
-{275}{}{I don't know. These raiders don't make much sense. IF they are raiders.}
+{274}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
+{275}{}{Não sei, esses invasores não fazem muito sentido. SE eles são invasores.}
 {276}{}{O que você quer dizer?}
 {277}{}{Eu tenho mais algumas perguntas...}
 {278}{}{Tenho que ir.}
-{279}{}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.}
-{280}{}{Uh... they stop short of breaking through the defenses?}
+{279}{}{Eles têm poder de fogo pesado, armamento caro. Eles conhecem táticas militares, ficam em formação. Eles nunca cruzam suas linhas de fogo, e sempre param de romper nossas defesas.}
+{280}{}{Uh... eles param de romper as defesas?}
 {281}{}{Eu tenho mais algumas perguntas...}
 {282}{}{Tenho que ir.}
-{283}{}{I've seen them do it. The last attack, they disabled a laser turret on the western perimeter. They had a clear shot into the city. Then I saw one of their "captains" ORDER them to fall back. Makes no sense.}
-{284}{}{Any idea where they're coming from?}
+{283}{}{Eu os vi fazer isso. No último ataque, eles desativaram uma torreta laser no perímetro oeste. Eles tinham uma visão clara da cidade. Então eu vi um de seus "capitães" ORDENAR que eles recuassem. Não faz sentido.}
+{284}{}{Alguma ideia de onde eles estão vindo?}
 {285}{}{Hmmm. Eu tenho outras perguntas…}
-{286}{}{Interesting. I have to be going.}
-{287}{}{No. That's the most frustrating part. They keep retreating south. I can't spare any men to go and scout the area. I think the raiders have some native guide that leads them through the southern canyons.}
-{288}{}{What's the deal with the south?}
+{286}{}{Interessante. Eu tenho que ir.}
+{287}{}{Não, essa é a parte mais frustrante. Eles continuam recuando para o sul. Não posso dispensar homens para patrulhar a área. Acho que os invasores têm algum guia nativo que os conduz pelos desfiladeiros do sul.}
+{288}{}{Algum problema com o sul?}
 {289}{}{Hmmm. Eu tenho outras perguntas…}
-{290}{}{Interesting. I have to be going.}
-{291}{}{Plenty of places to hide if you don't know where to look. The place is riddled with caves.}
-{292}{}{I could probably find them.}
+{290}{}{Interessante. Eu tenho que ir.}
+{291}{}{Muitos lugares para se esconder se você não souber onde procurar. Esse lugar é lotado de cavernas.}
+{292}{}{Eu provavelmente poderia encontrá-los.}
 {293}{}{Eu tenho mais algumas perguntas...}
-{294}{}{Hmmm. I'll keep that in mind. Goodbye.}
-{295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
+{294}{}{Hmmm. Vou me lembrar disso. Adeus.}
+{295}{}{Vá em frente e tente, aposto que a única maneira de encontrá-los é se eles nos derem um mapa.}
 {296}{}{Eu tenho mais algumas perguntas...}
 {297}{}{Se for necessário... obrigado pela informação.}
-{298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
-{299}{}{Recon-o-what?}
-{300}{}{I do a lot of traveling. Anything I can help with?}
+{298}{}{Sim, temos um pequeno grupo de patrulhas. Mal posso dispensar os homens para proteger Vault City, muito menos fazer todo o reconhecimento que precisa ser feito.}
+{299}{}{Recon-o-que?}
+{300}{}{Eu viajo muito. Posso ajudar em alguma coisa?}
 {301}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
-{302}{}{Never mind then. Goodbye.}
-{303}{}{Scouting.}
+{302}{}{Deixa pra lá então. Adeus.}
+{303}{}{Exploração.}
 {304}{}{O que você quer dizer?}
-{305}{}{I could do some recon for you if you're short-handed.}
+{305}{}{Eu poderia fazer algum reconhecimento se você estiver com falta de pessoal.}
 {306}{}{Esqueça. Eu tinha outras perguntas...}
-{307}{}{Never mind then. Goodbye.}
-{308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
-{309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
-{310}{}{Well, all right. I had some other questions...}
-{311}{}{Never mind then. Goodbye.}
-{312}{}{Yeah? Has it got a Northern California world map installed?}
-{313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
-{314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
+{307}{}{Deixa pra lá então. Adeus.}
+{308}{}{Não, você precisaria de um Pip-Boy para fazer o trabalho direito, e não posso emprestar um agora.}
+{309}{}{Eu já tenho um Pip-Boy. É velho... e mal-humorado... e parece ter fios e botões arrancados por toda parte... mas funciona.}
+{310}{}{Bem, tudo bem. Eu tinha outras perguntas...}
+{311}{}{Deixa pra lá então. Adeus.}
+{312}{}{Sim? Tem um mapa-múndi do norte da Califórnia instalado?}
+{313}{}{Sim. Bem, pelo menos o que você pode ver por causa da incerteza com que ele mostra todo esse maldito lixo.}
+{314}{}{Eu tenho um trabalho para você, então. Preciso de alguém para explorar o terreno ao redor de Gecko... aquele acampamento ghoul a nordeste. Inspecione os oito setores no mapa ao redor da cidade e depois reporte.}
 {315}{}{Por quê?}
-{316}{}{No problem. I've already scouted out the area.}
-{317}{}{All right. I'll come back when I've scouted the area.}
-{318}{}{On second thought, count me out. Goodbye.}
+{316}{}{Sem problemas. Eu já explorei a área.}
+{317}{}{Tudo bem. Voltarei quando tiver feito o reconhecimento da área.}
+{318}{}{Pensando bem, conte comigo. Adeus.}
 {319}{}{If they keep poisoning our groundwater, we may be forced to take military action.}
 {320}{}{I want to see how much damage the plant meltdown caused to the area.}
 {321}{}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again.}
 {322}{}{Now do you want the job or not?}
 {323}{}{Yes. I've already scouted out the area, though.}
 {324}{}{I'll take the job. I'll report back when I'm done.}
-{325}{}{I'll take the job. I had some questions first, though...}
+{325}{}{Eu aceito o trabalho. Mas eu tinha algumas perguntas primeiro...}
 {326}{}{Não, obrigado. Talvez outra hora.}
-{327}{}{That so? Heh. Well... all right then.}
-{328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+{327}{}{Isso mesmo? Hehe. Bem... tudo bem então.}
+{328}{}{Bom trabalho. Transfira a informação para o meu Pip-Boy, e vou registrá-la nos computadores da patrulha.}
 {329}{}{Tudo bem...}
-{330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
+{330}{}{Essa informação parece boa, bom trabalho. Aqui está o seu pagamento... trezentos dólares.}
 {331}{}{Tudo bem então... você tem mais trabalho para mim?}
-{332}{}{Great. I had some other questions...}
-{333}{}{Thanks. Pleasure doing business with you.}
-{334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
- the Republic might be building up military strength. True or not, I need someone to plot a route to NCR and report back.}
-{335}{}{No problem. Already done.}
-{336}{}{Just travel to NCR, then come back?}
+{332}{}{Ótimo. Eu tinha algumas outras perguntas...}
+{333}{}{Obrigado. Prazer em fazer negócios com você.}
+{334}{}{Sim, na verdade... Preciso de alguém para viajar para a NCR. Ultimamente, tenho ouvido
+ relatos de que a República pode estar aumentando o poderio militar. Verdade ou não, preciso de alguém para traçar uma rota até a NCR e relatar.}
+{335}{}{Sem problemas. Já está feito.}
+{336}{}{Basta viajar para a NCR e depois voltar?}
 {337}{}{Esqueça. Eu tinha outras perguntas...}
 {338}{}{No thanks. Goodbye.}
-{339}{}{That's all I need. I'm more interested in the route than the Republic itself, but I'll still need you to enter the city once you get there.}
-{340}{}{No problem. Already done.}
+{339}{}{Isso é tudo que preciso. Estou mais interessado na rota do que na própria República, mas ainda precisarei que você entre na cidade assim que chegar lá.}
+{340}{}{Sem problemas. Já está feito.}
 {341}{}{I'll take the job. I'll report back when I'm done.}
-{342}{}{I'll take the job. I had some questions before I left, however...}
-{343}{}{No thanks. I had some other questions, though...}
-{344}{}{I don't think I want this job. Maybe some other time.}
-{345}{}{That so? Heh.}
-{346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+{342}{}{Eu aceito o trabalho. Eu tinha algumas perguntas antes de sair...}
+{343}{}{Não, obrigado. Eu tinha algumas outras perguntas...}
+{344}{}{Acho que não quero esse trabalho. Talvez outra hora.}
+{345}{}{Isso mesmo? Hehe.}
+{346}{}{Tudo bem, então. Transfira a informação para o meu Pip-Boy, e vou registrá-la nos computadores da patrulha.}
 {347}{}{Tudo certo.}
-{348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
+{348}{}{Essa informação parece boa, bom trabalho. Aqui está o pagamento por seus serviços, quinhentos dólares... Além disso, você pode achar isso útil.}
 {349}{}{O que é?}
-{350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}
-{351}{}{How does it work?}
-{352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
-{353}{}{Thanks, this could be useful. Say, can I ask you some other questions?}
-{354}{}{Much appreciated. I'll go try it out.}
-{355}{}{Hello... Captain. Did you want something?}
-{356}{}{Hello again, Citizen. Something I can help you with?}
-{357}{}{You're back again? You lost, or do you need something?}
-{358}{}{Like what... sir?}
+{350}{}{É um sensor de movimento Vault-Tec. Íamos desmontá-lo por partes, já que é muito velho para os nossos Pip-Boys, mas parece que é compatível com o seu modelo.}
+{351}{}{Como funciona?}
+{352}{}{Mantenha em sua mão e ele identificará os inimigos em sua área imediata ao usá-lo. Ou você pode ativar o automapa do Pip-Boy normalmente, então basta clicar no botão "scanner" e eles serão iluminados como um letreiro de néon.}
+{353}{}{Obrigado, isso pode ser útil. Então, posso te fazer algumas outras perguntas?}
+{354}{}{Te agradeço muito. Eu vou tentar.}
+{355}{}{Olá... Capitão. Você queria alguma coisa?}
+{356}{}{Olá novamente, Cidadão. Algo em que posso ajudá-lo?}
+{357}{}{Você está de volta? Está perdido, ou precisa de alguma coisa?}
+{358}{}{Como o que... senhor?}
 {359}{}{Yes, Citizen. What did you want to know?}
 {360}{}{Como o quê?}
 {361}{}{Hep-Hep Schlep-Bep}
 {362}{}{Desliga}
 {363}{}{You got some kind of problem, Sergeant?}
-{364}{}{You the one who busted up Cassidy's bar?}
+{364}{}{Você quem invadiu o bar de Cassidy?}
 {365}{}{Have you heard of a Servant named Joshua?}
 {366}{}{O que você faz aqui?}
 {367}{}{Você pode me dizer onde fica a Vault?}
 {368}{}{I surveyed the area around Gecko for you.}
 {369}{}{Got any more recon work for me?}
 {370}{}{I plotted that route to NCR for you.}
-{371}{}{About those Raiders...}
+{371}{}{Sobre os saqueadores...}
 {372}{}{Never mind. Goodbye.}
 {373}{}{Bom dia... senhora.}
 {374}{}{Vault City prevails... ma'am.}
@@ -293,41 +293,41 @@
 {391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
 {392}{}{Just gun down a few rats? Ok, I'm on it.}
 {393}{}{What for?}
-{394}{}{What about the NCR expedition?}
-{395}{}{I'll think about it. Can I ask you a few questions?}
-{396}{}{No, not my kind of job. Goodbye.}
-{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters... and any other threat.}
+{394}{}{E a expedição da NCR?}
+{395}{}{Vou pensar sobre isso. Posso te fazer algumas perguntas?}
+{396}{}{Não, não é o meu tipo de trabalho. Adeus.}
+{397}{}{Excelente. Aqui, deixe eu te mostrar a localização exata da aldeia. [Stark marca a vila em seu mapa no Pip-Boy.] Te pago $750, basta voltar e pegar assim que terminar a tarefa. Mais uma coisa... se você não resolver isso em um mês, vou mandar um esquadrão lá para eliminar os monstros... e qualquer outra ameaça.}
 {398}{}{Adeus.}
-{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
-{400}{}{Got it. I'll take the job.}
-{401}{}{It's clear. What's with that village, anyway?}
-{402}{}{About that village...}
-{403}{}{You killed all those big ugly rats? Really?}
-{404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
+{399}{}{Para que? [Ele hesita por um momento, então franze a testa.] Não preciso explicar meus motivos para você. Eu dou ordens, e você recebe, é assim que funciona. Se você não quer o trabalho, enviarei um esquadrão para fazer... mas às vezes as coisas ficam um pouco "bagunçadas" quando solto meus garotos.}
+{400}{}{Entendi. Eu aceito o trabalho.}
+{401}{}{Está claro. O que há com aquela vila, afinal?}
+{402}{}{Sobre a vila...}
+{403}{}{Você matou todos aqueles ratos grandes e feios? Realmente?}
+{404}{}{Me disseram que você planeja transformar as pessoas daquela vila em servos, e que os ratos toupeira estavam impedindo você de fazer isso, essa é a verdadeira razão que você queria que eles fossem exterminados.}
 {405}{}{Sim.}
 {406}{}{Ainda não.}
-{407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
-{408}{}{They're happy right where they are.}
-{409}{}{Doesn't matter. Will you complete your task or not?}
-{410}{}{Ok. I'll finish it.}
-{411}{}{No, I don't think so. }
-{412}{}{Great, return when you are done.}
-{413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
+{407}{}{Oh, ficou sabendo disso, não é? Bem, você ouviu direito, é para o bem deles. Aqui, eles seriam bem alimentados e cuidados. Tenho certeza de que eles perceberam o quanto é melhor servir na grande Vault City do que morar naquela pequena vila com merda de rato até os joelhos.}
+{408}{}{Eles estão felizes onde estão.}
+{409}{}{Não importa. Você completará sua tarefa ou não?}
+{410}{}{OK. Eu vou terminar ela.}
+{411}{}{Não, não penso assim. }
+{412}{}{Ótimo, volte quando terminar.}
+{413}{}{Não importa, todos eles se tornarão servos da mesma forma. Estou enviando um esquadrão de luta para lá imediatamente. Em breve, não haverá mais nada em sua pequena aldeia.}
 {414}{}{[FEITO]}
-{415}{}{Return when all is done.}
-{416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
-{417}{}{Wait -- You never said anything about making the villagers your servants.}
-{418}{}{Whatever. Goodbye.}
-{419}{}{It's for their own good. Once they're servants of Vault City, there'll be no need for them to strife for survival. They'll be fed and taken care of. In return, they'll work for the good of the City. Everyone wins.}
-{420}{}{But it's slavery!}
-{421}{}{It's not slavery, but a mutually beneficial co-existence, a symbiosis so to speak.}
-{422}{}{Disgusting! Goodbye.}
-{423}{}{Those primitives must have lost their minds completely. They obtained weapons from somewhere, and started shooting us on sight! So I gave it another thought. Hell with them. After all, it's not like we're short on slaves... I mean servants.}
-{424}{}{What village? Oh, the one we got our new servants from... what about it?}
-{425}{}{You say what!? You enslaved them all?}
-{426}{}{I know who provided them with weapons. It was that trader in the courtyard, Harry. }
-{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
-{428}{}{I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. }
+{415}{}{Volte quando tudo estiver pronto.}
+{416}{}{Ótimo trabalho, soldado. Aqui estão seus $750, um pequeno preço a pagar por uma vila cheia de novos servos. Você prestou um grande serviço a Vault City.}
+{417}{}{Espere, você nunca disse nada sobre fazer dos aldeões seus servos.}
+{418}{}{Como queira. Adeus.}
+{419}{}{É para o bem deles, uma vez que serão servos de Vault City, não haverá necessidade de lutar pela sobrevivência. Eles serão alimentados e cuidados. Em troca, eles trabalharão para o bem da cidade. Todos ganham.}
+{420}{}{Isso é escravidão!}
+{421}{}{Não é escravidão, mas uma coexistência mutuamente benéfica, uma simbiose, por assim dizer.}
+{422}{}{Asqueroso! Adeus.}
+{423}{}{Esses primitivos devem ter enlouquecido completamente. Eles obtiveram armas de algum lugar e começaram a atirar em nós à primeira vista! Então isso me ocorreu outro pensamento, que se dane eles. Afinal, não é como se estivéssemos escravos... quero dizer, servos.}
+{424}{}{Que aldeia? Oh, aquela de quem pegamos nossos novos servos... e o que tem isso?}
+{425}{}{Você diz o que!? Você escravizou todos eles?}
+{426}{}{Eu sei quem lhes forneceu armas. Era aquele comerciante no pátio, Harry. }
+{427}{}{Harry Alegre, isso você diz?... imagino que seja um daqueles canalhas no pátio. Ok, eu vou lidar com ele. Veremos como ele ficará "alegre" quando eu terminar. Quanto a você, pode pegar o que encontrar na loja dele como recompensa por ter me informado.}
+{428}{}{Não sei por que, mas o procônsul McClure me ordenou que esperasse um pouco na questão da aldeia. Isso se aplica a você também. }
 {429}{}{Hmm... Ok.}
 {1215}{}{I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
 {1224}{}{You did? So, they will no longer be a threat to us?}

@@ -1,11 +1,11 @@
-{100}{}{The creatures came from the northeast. It shouldn't be hard to track them back to their nest. (Exit Grid to the northeast.)}
-{101}{}{Wow, this sure is boring. I hope something happens.}
-{102}{}{Look at the time...}
-{103}{}{Hmmm, dis is boring.}
-{104}{}{Zzzz... Zzz... huhh, wah...?}
-{105}{}{Look - human guard brahmin.}
-{106}{}{Gruthar say we go. No hurt human.}
-{107}{}{Look. It}
-{108}{}{. We go.}
-{109}{}{That strange. Bad things talk?}
-{110}{}{Talking deathclaws? That's weird...}
+{100}{}{As criaturas vieram do nordeste. Não deve ser difícil rastreá-las de volta ao ninho. (Sai pelo nordeste.)}
+{101}{}{Nossa, isso é muito chato. Espero que algo aconteça.}
+{102}{}{Olha que horas são...}
+{103}{}{Hmmm, estou entediado.}
+{104}{}{Zzzz... Zzz... huhh, qu...?}
+{105}{}{Veja - humano protege brahmin.}
+{106}{}{Gruthar nos manda ir. Não machuque humano.}
+{107}{}{Olhe. Isso}
+{108}{}{. Nós vamos.}
+{109}{}{Estranho. Coisas ruins falam?}
+{110}{}{Deathclaws falantes? Devo estar louco...}

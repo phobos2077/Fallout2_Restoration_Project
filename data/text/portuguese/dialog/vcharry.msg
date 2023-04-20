@@ -17,17 +17,17 @@
 {115}{}{Desculpe, amigo. Vai te custar oitocentos.}
 {119}{}{Você precisa do dinheiro para pegar, amigo.}
 {120}{}{Eu volto com o dinheiro.}
-{121}{}{Not a problem. I'll have it dropped off right now.}
-{122}{}{Thought you'd just help yourself, huh? Damn thief... guards! Guards!}
-{123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
-{124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
- [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
- hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{121}{}{Sem problemas. Tenho que entregar agora mesmo.}
+{122}{}{Pensou em colar, não é? Maldito ladrão... guardas! Guardas!}
+{123}{}{Dave me enviou. Estamos tentando consertar uma bomba d'água quebrada e ele disse que você teria um motor substituto.}
+{124}{}{Trabalhando com Dave, é? Sim, eu conheço o cara. Vejo que ele ainda tem o dom de fazer os outros fazerem o trabalho duro
+ dele, bastardo preguiçoso. [Ele ri.] De qualquer forma, acho que consegui o que você está procurando, mas deixe eu voltar e verificar.
+ [Harry vai para a sala dos fundos onde você ouve as caixas sendo embaralhadas e movidas. Ele retorna um minuto depois.] Sim, tenho aqui. $ 500 e ela é toda sua.}
 {125}{}{Com certeza. Aqui está o dinheiro.}
-{126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
-{127}{}{Thanks for the business. Take care.}
+{126}{}{500? Droga, espero ser reembolsado por isso. Tudo bem, aqui está o dinheiro.}
+{127}{}{Obrigado pelo negócio. Se cuida.}
 {128}{}{Adeus.}
-{129}{}{Connar sent me for the goods.}
+{129}{}{Connar me mandou buscar as mercadorias.}
 {130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
 {131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
 {132}{}{Of course, here's the money.}

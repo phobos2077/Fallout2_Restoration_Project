@@ -13,10 +13,6 @@
 #include "../headers/modreact.h"
 #include "../headers/partybkg.h"
 
-#define LVAR_Herebefore                 (4)
-#define LVAR_Hostile                    (5)
-#define LVAR_Personal_Enemy             (6)
-
 procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;

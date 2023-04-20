@@ -37,7 +37,7 @@
 {261}{}{Il banco ha vinto ancora!}
 {262}{}{Devo prendere qualche moneta...}
 {263}{}{Dannata macchinetta! Continui a fregarti tutti i miei soldi...}
-{270}{}{Ti devo le mie scuse.  Ti auguro la miglior fortuna.}
+{270}{}{Ti devo le mie scuse. Ti auguro la miglior fortuna.}
 {271}{}{Scusa se ho perso le staffe. Il sole del deserto ti fa dire cose terribili.}
 {272}{}{::Fa il gesto di alzare il cappello::}
 {275}{}{}

@@ -55,7 +55,7 @@
 {152}{}{Controlla il database medico in cerca di qualcosa di interessante.}
 {153}{}{Spegni il terminale.}
 {200}{}{Hai finito di esaminare il database medico di Vault City.}
-{201}{}{Il tuo amico cerca di attirare la tua attenzione verso la finestra colorata che fa  BEEP BEEP, ma non riesci a capire come aprirla, per cui alla fine ti annoi e la lasci perdere.}
+{201}{}{Il tuo amico cerca di attirare la tua attenzione verso la finestra colorata che fa BEEP BEEP, ma non riesci a capire come aprirla, per cui alla fine ti annoi e la lasci perdere.}
 {202}{}{-Allontanati-}
 {203}{}{*Beep*}
 {204}{}{*Beeee-oop*}

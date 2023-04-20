@@ -1,13 +1,13 @@
-{100}{}{You see a burly female miner.}
-{101}{}{You see Blasphemous Bette, a miner for the Morningstar Mine.}
-{102}{}{You see a well-muscled woman bristling with confidence.}
-{103}{}{Caminetto, your Kokoweef miners are all show and no go.}
-{104}{}{I'll show you where to go, Blasphemous Bette.}
-{105}{}{You couldn't show me where to go with a roadmap.}
-{106}{}{Just 'cause I wouldn't wanna get that close to ya.}
-{107}{}{Don't flatter yourself, you little runt.}
-{108}{}{You'd be lucky to get a runt instead of that drilling machine you normally use.}
-{109}{}{Well, at least my drill lasts more than thirty seconds.}
+{100}{}{Você vê uma mineira corpulenta.}
+{101}{}{Você vê Bette Blasfemia, uma mineradora da Mina Morningstar.}
+{102}{}{Você vê uma mulher bem musculosa e cheia de confiança.}
+{103}{}{Caminetto, seus mineiros de Kokoweef são só aparência.}
+{104}{}{Vou te dizer onde você pode ir, Bette Blasfemia.}
+{105}{}{Você não poderia me dizer nem com um roteiro.}
+{106}{}{Só porque eu não gostaria de chegar tão perto de você.}
+{107}{}{Não se iluda, seu nanico.}
+{108}{}{Você teria sorte se conseguisse um nanico em vez daquela furadeira que normalmente você usa.}
+{109}{}{Bem, pelo menos minha furadeira dura mais de trinta segundos.}
 {110}{}{Não é de admirar que a maquinaria da Morningstar esteja sempre quebrando.}
 {111}{}{Eu vou te mostrar como se quebra, com meus punhos!}
 {112}{}{Seus punhos? Seu bafo ja é ruim o suficiente.}
@@ -55,41 +55,41 @@
 {152}{}{Bem, isso parece um problema. Tudo bem, não te culpo. Boa sorte.}
 {153}{}{O que pensa fazer sobre isso, seu bunda mole?}
 {154}{}{Eu mato a primeira pessoa que levantar a mão.}
-{155}{}{I'm just going to ask you real nice like. Then I'm going to load up my weapons and wait for some
- target practice.}
-{156}{}{The Sheriff asked me to help him out while he's laid up with a bum leg. I've got to keep my
- word to him.}
-{157}{}{Yeah? That Marion's kinda cute. Okay, for him I'll give those Kokoweef pansies a rain-check for an
- ass-kicking.}
-{158}{}{Thanks. I was hoping you'd see things that way. Goodbye.}
-{159}{}{Don't you think you're some kind of shit-hot asphalt cowboy. I don't think I like your fucking
- attitude.}
-{160}{}{You don't have to like it. You're going to walk with me to the Jail or I'm gonna drag your
- corpse there. Your choice.}
-{161}{}{Oh, I'm sorry. I certainly didn't mean to be rude. I'll be leaving now. Goodbye.}
-{162}{}{Yeah? Well, I tell you what. I'll go if you jail that asswipe Caminetto, too.}
-{163}{}{You're not in a position to make deals.}
-{164}{}{That's not a bad idea. Putting some bars between the two of you should cool things off a bit.
- Come along, you two.}
-{165}{}{Are you suffering from a cranial-rectal inversion? If you try anything we'll all jump you just
- for a warmup. Then there's gonna be blood. Think the Sheriff'll like the job you're doin' then?}
-{166}{}{No, I guess he wouldn't.}
-{167}{}{Doesn't matter to me. It won't be *my* blood that's spilled.}
-{168}{}{Well, maybe I could use a fucking rest. I've been working my goddamn ass off lately. (to the
- others) Break it up, gang. I'll be back at work tomorrow.}
-{169}{}{Good choice.}
-{170}{}{Don't worry; I'm bringing Caminetto along to keep you company. Right, Caminetto?}
-{171}{}{You just don't fucking get it, do you? You try to mix it up with us and both me and that
- weasel-dick Caminetto are gonna lay into you.}
-{172}{}{Then I'll just have to jail both you and Caminetto.}
-{173}{}{Then I'll just have to kill both you and Caminetto.}
-{174}{}{Hmm, I think I'm needed in another part of town. Right away. Goodbye.}
-{175}{}{I guess you're brighter than you look. But then you must be; you're standing erect. Just run on
- home to mommy and say there wasn't anything you had enough guts to do.}
-{176}{}{That's it. I've had enough of your mouth. One last chance: Go quietly or I'll tear you apart.}
-{177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{155}{}{Vou te pedir muito gentilmente. Depois, carregarei minhas armas e esperarei uma chance de praticar
+ tiro ao alvo.}
+{156}{}{O xerife me pediu para ajudá-lo enquanto ele está com uma perna machucada. Eu tenho que
+ manter minha palavra.}
+{157}{}{Sim? Essa Marion é uma gracinha. Ok, por ele eu vou dar aqueles viadinhos de Kokoweef um cheque
+ de adiantamento para um chute no traseiro.}
+{158}{}{Obrigado. Eu esperava que você entendesse as coisas assim. Adeus.}
+{159}{}{Você acha que é algum tipo de cowboy do asfalto? E essa porra de atitude sua não me agrada
+ em nada.}
+{160}{}{Você não precisa gostar. Você vem comigo até a cadeia ou eu arrasto seu cadáver até lá.
+ Pode escolher.}
+{161}{}{Oh, me desculpe, nunca quis ser grosseiro. Estou indo embora agora. Adeus.}
+{162}{}{Ah eh? Bem, vou te dizer uma coisa. Eu irei se você prender aquele idiota do Caminetto também.}
+{163}{}{Você não está em posição de fazer negócios.}
+{164}{}{Isso não é uma má ideia. Colocar algumas barreiras entre vocês dois deve aliviar um pouco
+ as coisas. Venham, vocês dois.}
+{165}{}{Você está sofrendo de alguma inversão crânio-retal? Se você tentar fazer algo, todos nós
+ pularíamos em você só como aquecimento. E teremos sangue. Acha que o xerife vai gostar do trabalho que você está fazendo?}
+{166}{}{Não, acho que não.}
+{167}{}{Tanto faz. Não será *meu* sangue que vai ser derramado.}
+{168}{}{Bem, talvez eu precise só de um descanso. Eu to trabalhando pra caramba ultimamente.
+ (para os outros) Vamos acabar com isso, galera. Voltarei ao trabalho amanhã.}
+{169}{}{Boa escolha.}
+{170}{}{Não se preocupe; trarei Caminetto para te fazer companhia. Certo, Caminetto?}
+{171}{}{Você não entende nada, não é? Nem tente se encrespar com nós, se não eu e aquele
+ idiota do Caminetto vamos partir pra cima.}
+{172}{}{Então terei que prender você e Caminetto.}
+{173}{}{Então terei que matar você e Caminetto.}
+{174}{}{Hmm, acho que precisam de mim em outro lugar agora. Agora mesmo. Adeus.}
+{175}{}{Acho que você é mais inteligente do que parece. Agora, aproveite que esta ai de pé com cara de
+ tonto, corra para a casa da mamãe e diga que você não teve coragem de fazer nada.}
+{176}{}{É isso, já cansei dessa conversa. Última chance: vá embora quietinho ou eu vou acabar com você.}
+{177}{}{Talvez eu faça isso. Tenho certeza que não quero machucar ninguém. Adeus.}
+{178}{}{Eu vejo como isso vai indo, seu pedação de merda. OK, você pode me levar, e Caminetto
+ também. (para Caminetto) Certo, meu pequeno filho da puta?}
 {179}{}{Assim que se fala.}
-{180}{}{Nope. Too late now. I'm gonna have to open up a can of whoop-ass on you two. }
-{181}{}{I guess I'll just kick Caminetto's ass another day.}
+{180}{}{Não, é tarde demais agora. Vou ter que acabar com vocês dois. }
+{181}{}{Acho que vou chutar a bunda de Caminetto outro dia.}

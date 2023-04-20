@@ -8,6 +8,7 @@ env:
 
 jobs:
   build:
+    if: ${{ github.actor != 'bgforge-hive' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

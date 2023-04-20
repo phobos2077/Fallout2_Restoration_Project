@@ -4,7 +4,7 @@
 {103}{}{Skynet da gracias al humano.                                      Skynet desea pedir un favor.                                      Skynet desea viajar con el humano.}
 {104}{}{}
 {105}{}{}
-{106}{}{                                [Este artilugio podría ser útil.]}
+{106}{}{                              [Este artilugio podría ser útil].}
 {107}{}{Te llevas al robot contigo.}
 {108}{}{Dejas al robot.}
 {109}{}{Salir.}
@@ -105,7 +105,7 @@
 {204}{}{Desactivando toda la seguridad - Nivel 1}
 {205}{}{Desactivando toda la seguridad - Nivel 2}
 {206}{}{Desactivando toda la seguridad - Nivel 3}
-{207}{}{Deactivating all Security - Level 4}
+{207}{}{Desactivando toda la seguridad - Nivel 4}
 {306}{}{[Este artilugio podría ser útil.]}
 {400}{}{Guarda tu arma.}
 {410}{}{Rrrrrr}

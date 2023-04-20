@@ -13,7 +13,7 @@
 {216}{}{Intentas matar a todo el mundo con un virus, ¿eh? ¡Cómase esto, señor Presidente!}
 {217}{}{¡Cómase esto, señor Presidente!}
 {218}{}{¡Quiero ser el Morador del Refugio en el próximo juego!}
-{219}{}{Nuh-uh! ¿Me echabas de menos, simpatizante del Presidente?}
+{219}{}{Nuh-uh! ¡Me echabas de menos, simpatizante del Presidente!}
 {220}{}{Uh-uh! ¡Te tengo! ¡Te tengo!}
 {221}{}{¡Acabo de volar por los aires el Enclave! ¡Boooooom!}
 {222}{}{¡Rápido! ¡Todo el mundo al petrolero!}

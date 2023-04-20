@@ -75,72 +75,72 @@
 {174}{}{Actually, I was looking for some information.}
 {175}{}{Nada mais por hoje, valeu.}
 {176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
-{177}{}{You seem to know a great deal about these synthetics.}
+{177}{}{Você parece saber muito sobre esses sintéticos.}
 {178}{}{Uh, do you have any real drinks?}
-{179}{}{Oh. Well, I'd just like some water then.}
-{180}{}{Hmmm. I'll try some of that alcohol-Z.}
-{181}{}{Interesting. Say, I was looking for some information...}
-{182}{}{I see. Thanks for the information. Good-bye.}
-{183}{}{I was a servant to Dr. Troy for a few months before being re-assigned here. He required that I be fluent with the Vault City medical database.}
-{184}{}{"Fluent?" Can he legally ask you to do that to a computer?}
-{185}{}{Medical database?}
-{186}{}{Interesting. Say, I was looking for some information...}
-{187}{}{I see. Thanks for the information. Good-bye.}
-{188}{}{Uh..."fluent" means proficient, skilled, well-learned.}
-{189}{}{Huh. Well, if that makes you feel better to put it that way, fine. What was this about a medical database?}
-{190}{}{I was looking for some other information...}
-{191}{}{If denial makes you feel better, I understand. I'll talk to you later.}
-{192}{}{Yes, several of the computers on the first floor of the Vault contain a vast array of medical information. It's all quite fascinating, though the jargon can be confusing if you don't have medical training.}
-{193}{}{Jargon? Is he the one in charge of the computers?}
-{194}{}{Interesting. Say, I was looking for some information...}
-{195}{}{Hmmmm. Maybe I'll go check them out, then.}
-{196}{}{Uh, no. "Jargon" refers to lingo, terminology, usually related to a particular profession.}
-{197}{}{Uh, sure it does, sure it does. Just testing you. Say, I was looking for some information...}
-{198}{}{If you say so. Just let this Jargon guy know that I'll be speaking to him, all right? Goodbye.}
+{179}{}{Oh. Bem, eu só gostaria de um pouco de água então.}
+{180}{}{Hmmm. Vou experimentar um pouco desse álcool-Z.}
+{181}{}{Interessante. Olha, eu estava procurando algumas informações...}
+{182}{}{Entendo. Obrigado pela informação, adeus.}
+{183}{}{Fui criado do Dr. Troy por alguns meses antes de ser designado para cá. Ele exigiu que eu fosse fluente com o banco de dados médico de Vault City.}
+{184}{}{"Experiente?" Ele pode pedir legalmente para você fazer isso em um computador?}
+{185}{}{Banco de dados médico?}
+{186}{}{Interessante. Olha, eu estava procurando algumas informações...}
+{187}{}{Entendo. Obrigado pela informação, adeus.}
+{188}{}{Uh..."fluente" significa proficiente, habilidoso, bem aprendido.}
+{189}{}{Huh. Bem, se isso faz você se sentir melhor colocando dessa forma, tudo bem. O que era isso sobre um banco de dados médico?}
+{190}{}{Estava procurando outras informações...}
+{191}{}{Se a negação faz você se sentir melhor, eu entendo. Falo com você mais tarde.}
+{192}{}{Sim, vários dos computadores no primeiro andar da Vault contêm uma vasta gama de informações médicas. É tudo muito fascinante, embora o jargão possa ser confuso se você não tiver formação médica.}
+{193}{}{Jargão? Ele é o responsável pelos computadores?}
+{194}{}{Interessante. Olha, eu estava procurando algumas informações...}
+{195}{}{Hmmmm. Talvez eu de uma olhada neles, então.}
+{196}{}{Oh não. "Jargão" refere-se a linguagem, terminologia, geralmente relacionada a uma determinada profissão.}
+{197}{}{Uh, claro que sim, claro que sim. Estava só te testando. Olha, eu estava procurando algumas informações...}
+{198}{}{Se você diz. Avise esse jargão que falarei com ele, certo? Adeus.}
 {199}{}{If you mean what passes for alcohol in the wastes, then no.}
 {200}{}{We have never felt the need to poison our systems with those bacterial-ridden mixtures. The bar in the Courtyard might be less... discriminating.}
 {201}{}{I'll just have some water, then.}
 {202}{}{Wait a minute. What 'synthesized drinks' do you have?}
 {203}{}{I was looking for some information.}
 {204}{}{I'll go check it out then, thanks.}
-{205}{}{Maybe I'll go somewhere else, then.}
-{206}{}{Then perhaps you should be at our information center instead of this establishment. It is located downtown. Now move along... I have other customers.}
-{207}{}{Hold on, I wanted a drink. What have you got on tap?}
-{208}{}{No, I think you'll tell me what I want to know first. And you'll leave that attitude out of your voice, too if you know what's good for you.}
+{205}{}{Talvez eu vá para outro lugar, então.}
+{206}{}{Então talvez você devesse estar em nosso centro de informações em vez deste estabelecimento, ele está localizado no centro da cidade. Agora vá em frente... Tenho outros clientes.}
+{207}{}{Espere, eu queria uma bebida. O que você tem na torneira?}
+{208}{}{Não, acho que você vai me dizer o que eu quero saber primeiro. E você também deixará de ter essa atitude se souber o que é bom para você.}
 {209}{}{Tudo bem então. Bom Dia.}
-{210}{}{Of course. What did you need to know, sir?}
-{211}{}{Of course. What did you need to know, ma'am?}
-{212}{}{Of course. What did you need to know, Captain?}
-{213}{}{Of course. What did you need to know, Citizen?}
-{214}{}{Can you tell me who Vault City's leader is?}
-{215}{}{Can you tell me a little about the slavery here in Vault City?}
-{216}{}{Never mind. I wanted a drink. What have you got on tap?}
+{210}{}{Claro. O que você precisa saber, senhor?}
+{211}{}{Claro. O que você precisa saber, senhora?}
+{212}{}{Claro. O que você precisa saber, capitão?}
+{213}{}{Claro. O que você precisa saber, cidadão?}
+{214}{}{Você pode me dizer quem é o líder de Vault City?}
+{215}{}{Você pode me contar um pouco sobre a escravidão aqui em Vault City?}
+{216}{}{Deixa para lá, eu queria uma bebida. O que você tem disponivel?}
 {217}{}{Nada por hoje, valeu.}
-{218}{}{Why, First Citizen Lynette, of course. She's been First Citizen for almost two terms now. She is still answerable to the council, but she is responsible for most of the core legislation for Vault City.}
-{219}{}{Council?}
-{220}{}{Can you tell me a little about the slavery here in Vault City?}
-{221}{}{Never mind. I wanted a drink. What have you got on tap?}
-{222}{}{Interesting. Thanks for the information. Goodbye.}
-{223}{}{Yes, there is also a Vault City council. Its spokesman is Senior Councilman McClure. (Leans in.) McClure and the First Citizen have butted heads several times, in fact.}
-{224}{}{Really...?}
-{225}{}{Can you tell me a little about the slavery here in Vault City?}
-{226}{}{Never mind. I wanted a drink. What have you got on tap?}
-{227}{}{Interesting. Thanks for the information. Goodbye.}
-{228}{}{Oh, yes. Recently, some Citizens have petitioned McClure and the council to override some of the First Citizen's decisions. It created quite a stir, let me tell you.}
-{229}{}{Hmmm. I was curious about something else...}
-{230}{}{I see. Well, I could use a drink. What have you got on tap?}
-{231}{}{Interesting. Thanks for the information. Goodbye.}
-{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
-{233}{}{Everything except your freedom, huh?}
-{234}{}{If you've no complaints, then it's no problem. Forget I asked.}
-{235}{}{Never mind. I wanted a drink. What have you got on tap?}
-{236}{}{I see. Well, thanks for talking with me. Goodbye.}
-{237}{}{If you are not going to order a drink, perhaps you had best leave, ma'am.}
-{238}{}{If you are not going to order a drink, perhaps you had best leave, sir.}
-{239}{}{If you've no complaints about your... servitude, then it's no problem. Forget I asked.}
-{240}{}{I'll take a drink, then. What have you got on tap?}
-{241}{}{Maybe I better. Good day.}
-{242}{}{I shall. Now is there something I can help you with?}
-{243}{}{I'll take a drink, then. What have you got on tap?}
-{244}{}{Not today, actually. Good day.}
+{218}{}{Ora, Primeira Cidadã Lynette, é claro. Ela é Primeira Cidadã há quase dois mandatos. Ela ainda responde ao conselho, mas é responsável pela maior parte da legislação básica de Vault City.}
+{219}{}{Conselho?}
+{220}{}{Você pode me contar um pouco sobre a escravidão aqui em Vault City?}
+{221}{}{Deixa para lá, eu queria uma bebida. O que você tem disponivel?}
+{222}{}{Interessante. Obrigado pela informação e adeus.}
+{223}{}{Sim, também existe um conselho em Vault City. Seu porta-voz é o conselheiro sênior McClure. (Inclina-se.) McClure e o Primeiro Cidadão bateram de frente várias vezes, na verdade.}
+{224}{}{Sério...?}
+{225}{}{Você pode me contar um pouco sobre a escravidão aqui em Vault City?}
+{226}{}{Deixa para lá, eu queria uma bebida. O que você tem disponivel?}
+{227}{}{Interessante. Obrigado pela informação e adeus.}
+{228}{}{Oh sim. Recentemente, alguns cidadãos fizeram uma petição a McClure e ao conselho para anular algumas das decisões da Primeira Cidadã, isso criou uma grande agitação.}
+{229}{}{Hmmm. Fiquei curioso sobre outra coisa...}
+{230}{}{Eu vejo. Bem, eu poderia tomar uma bebida. O que você tem disponivel?}
+{231}{}{Interessante. Obrigado pela informação e adeus.}
+{232}{}{Oh, não, não... não é escravidão. Essas pessoas que você vê trabalhando na cidade são serviçais... inclusive eu. Somos muito bem tratados aqui, ensinados a ler e escrever, e recebem assistência médica, moradia e alimentação.}
+{233}{}{Tudo menos a sua liberdade, eh?}
+{234}{}{Se você não tem queixas, então sem problemas. Esqueça que eu perguntei.}
+{235}{}{Deixa para lá, eu queria uma bebida. O que você tem disponivel?}
+{236}{}{Entendo. Bem, obrigado por falar comigo. Adeus.}
+{237}{}{Se não vai pedir uma bebida, talvez seja melhor sair, senhora.}
+{238}{}{Se não vai pedir uma bebida, talvez seja melhor sair, senhor.}
+{239}{}{Se você não tem queixas sobre sua... servidão, então sem problemas. Esqueça que eu perguntei.}
+{240}{}{Vou tomar uma bebida, então. O que você tem disponivel?}
+{241}{}{Talvez seria melhor. Bom dia.}
+{242}{}{Eu vou. Agora, há algo em que posso ajudá-lo?}
+{243}{}{Vou tomar uma bebida, então. O que você tem disponivel?}
+{244}{}{Não hoje, na verdade. Bom dia.}
 {245}{}{Zzzzzz.}

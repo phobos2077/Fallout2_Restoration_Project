@@ -86,7 +86,7 @@
 {442}{}{E' tutto quello che volevo sapere. Adesso levati e lasciami lavorare.}
 {465}{}{Hai trovato Lloyd?}
 {466}{}{(Aggrotta le sopracciglia.) Farai MEGLIO ad avere delle buone notizie per me. Hai trovato Lloyd?}
-{467}{}{(Aggrotta le sopracciglia.)  Farai MEGLIO ad avere delle buone notizie per Mr. Salvatore, oppure stanotte dormirai con i radscorpioni.}
+{467}{}{(Aggrotta le sopracciglia.) Farai MEGLIO ad avere delle buone notizie per Mr. Salvatore, oppure stanotte dormirai con i radscorpioni.}
 {468}{}{No, non ancora. Avrei delle domande da farti su questo Lloyd...}
 {470}{}{Si', ho trovato Lloyd.}
 {472}{}{No, credo che abbia lasciato la citta' con il denaro.}

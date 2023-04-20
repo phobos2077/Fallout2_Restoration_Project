@@ -133,7 +133,10 @@ esos sitios}
 {530}{}{De acuerdo, ya ves, todo es parte de sus "experimentos". Estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me estaban inyectando los recuerdos de un maníaco, para ver cómo afectaría la personalidad de una persona normal. Al menos, eso es lo mejor que pude entender.}
 {531}{}{Bueno ... si eso es verdad, entonces es terrible. Pero, ¿qué hizo que te eligieran como sujeto de prueba en primer lugar?}
 {532}{}{Asombroso, pobrecito. Bueno, eso esta todo en el pasado ahora. Esos hombres terribles están muertos hace mucho tiempo y no podrán lastimarte jamás. Ven conmigo y saldremos de este lugar.}
-{540}{}{Je, ya ves que es lo gracioso. Yo, realmente vine a  "ellos". Respondieron un anuncio que publicaron diciendo que pagarían mucho dinero para sujetos de prueba sanos. Necesitaba el dinero y... bueno, resultó ser el peor error de mi vida. Ni siquiera puedo comenzar a contarte los horrores a los que me sometieron. [Sus ojos brillan con lágrimas mientras reflexiona. Él suspira profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
+{540}{}{Je, ya ves que es lo gracioso. Yo, realmente vine a "ellos". Respondieron un anuncio que publicaron diciendo que pagarían
+mucho dinero para sujetos de prueba sanos. Necesitaba el dinero y... bueno, resultó ser el peor error de mi vida.
+Ni siquiera puedo comenzar a contarte los horrores a los que me sometieron. [Sus ojos brillan con lágrimas mientras reflexiona. Él suspira
+profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
 {541}{}{Finalmente estoy libre de esa pesadilla.}
 {542}{}{Eh. Bien, me alegra poder ayudar... Yo creo.}
 {543}{}{En realidad, gilipollas, tu pesadilla acaba de empezar, porque no voy a comprar una palabra de esto.}

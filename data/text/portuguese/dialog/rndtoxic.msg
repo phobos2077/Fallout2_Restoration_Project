@@ -1,1 +1,1 @@
-{100}{}{Who did you piss off to get stuck in this?}
+{100}{}{Quem você irritou para ficar enfiado nisso?}

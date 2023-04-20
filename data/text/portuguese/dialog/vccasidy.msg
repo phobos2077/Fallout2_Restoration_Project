@@ -207,11 +207,11 @@
 {2999}{}{All right. Take care, then.}
 {3000}{}{Vamos sair.}
 {3100}{}{Esqueça que eu disse, idiota.}
-{3200}{}{Never mind, then. Your loss.}
+{3200}{}{Deixa pra lá então. Pior pra você.}
 {4100}{Cas4100}{Ok, está tudo remendado. Estou pronto para ir.}
 {4200}{Cas4200}{Ok, praticamente tudo está remendado.}
-{4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
-{4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
+{4300}{Cas4300}{Eu consegui muito bem, mas eu poderia usar mais alguns estimulantes.}
+{4400}{Cas4400}{Usei o que pude, mas ainda estou muito confuso. Se você tiver mais estimulantes sobrando, eu gostaria de usá-los. Mas eu ainda posso andar.}
 {9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {10001}{}{Tome um estimulante e se cure.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
@@ -223,12 +223,12 @@
 {10100}{}{C'mon, Cassidy. Time to head out.}
 {20000}{Cas20000}{Tudo bem, estou ouvindo.}
 {20001}{Cas20001}{Meu equipamento? O que tem ele?}
-{20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
-{20003}{}{Let's try a different formation.}
+{20002}{Cas20002}{Sem problemas. Muito calor para esse tipo de equipamento, de qualquer forma. Me faz suar como uma prostituta de New Reno.}
+{20003}{}{Vamos tentar uma formação diferente.}
 {20004}{}{Eu preciso falar com você sobre seu equipamento.}
-{20005}{}{Forget it. Let's stick to the formation we have now.}
-{20006}{}{Never mind. There's nothing I need to know about your gear.}
-{20007}{}{I need you to remove that armor you're wearing.}
-{30000}{}{Ah, that actually feels good. I feel like I can handle things much better now.}
-{30001}{}{Wow, this feels different. Those heart pills must be working.}
-{30100}{}{Yeah, why not... It'll help me feel like I'm dead.}
+{20005}{}{Esqueça. Vamos manter a formação que temos agora.}
+{20006}{}{Deixa para lá. Não há nada que eu precise saber sobre seu equipamento.}
+{20007}{}{Preciso que remova essa armadura que está usando.}
+{30000}{}{Ah, isso realmente é bom. Eu sinto que posso manejar com as coisas muito melhor agora.}
+{30001}{}{Uau, isso parece diferente. Essas pílulas para o coração devem estar funcionando.}
+{30100}{}{Sim, por que não... Vai me ajudar a sentir que estou morto.}
