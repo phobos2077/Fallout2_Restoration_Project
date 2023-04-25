@@ -1,17 +1,17 @@
 {100}{}{Você vê um barman.}
-{101}{}{You see a tall man in an elegant suit. He is staring straight ahead and paying no attention to the patrons around him.}
+{101}{}{Você vê um homem alto em um terno elegante. Ele está olhando para a frente e não presta atenção aos clientes ao seu redor.}
 {102}{}{Você vê um barman.}
-{103}{}{This man looks stone-faced. If he notices you, he shows no sign.}
-{104}{}{Care for a drink, hero?}
-{105}{}{Welcome, hero. Please, take a seat in the bar.}
-{106}{}{Please! Take a seat, rest for a while!}
+{103}{}{Este homem parece impassível. Se ele te nota, não dá nenhum sinal.}
+{104}{}{Quer uma bebida, herói?}
+{105}{}{Bem-vindo, herói. Por favor, sente-se no bar.}
+{106}{}{Por favor! Sente-se, descanse um pouco!}
 {107}{}{Bom dia, Capitão.}
 {108}{}{Vault City prevails, Capitão.}
 {109}{}{Bom dia, Citizen.}
 {110}{}{Vault City prevails, Citizen.}
 {111}{}{Um mutante! Guardas! Guardas!}
 {112}{}{Um ghoul! Guardas! Guardas!}
-{113}{}{I'm sorry, but the bar is closed for the evening.}
+{113}{}{Lamento, mas o bar está fechado à noite.}
 {114}{}{The bar is closed. I'll be returning home once I finish this inventory list.}
 {115}{}{Don't you have homes to go to?}
 {116}{}{Welcome! We've all heard about your exploits against the Enclave. Can I get you something to drink?}

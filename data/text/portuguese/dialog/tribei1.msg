@@ -1,7 +1,7 @@
-{100}{}{Well, at least it has a working rope now.}
-{101}{}{That should just about do it.}
-{102}{}{This well is missing its rope and bucket.}
-{103}{}{The well is already fixed. Remember?}
+{100}{}{Bem, pelo menos você tem uma corda de trabalho agora.}
+{101}{}{O que deveria fazer.}
+{102}{}{Ok, está faltando sua corda e um balde.}
+{103}{}{O poço já está consertado. Lembra?}
 {104}{}{It has rope, but it's missing its bucket.}
 {200}{}{Você vê um poço.}
 {201}{}{It's just a well.}

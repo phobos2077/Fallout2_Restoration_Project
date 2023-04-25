@@ -4,7 +4,7 @@
 {103}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like the bartender.}
 {104}{}{Welcome! Care for a drink, Chosen One?}
 {105}{}{Welcome, Chosen One! Please, take a seat in the bar.}
-{106}{}{Please! Take a seat, rest for a while!}
+{106}{}{Por favor! Sente-se, descanse um pouco!}
 {107}{}{It's the Chosen One! Everybody give it up for the HERO of Fallout 2!}
 {108}{}{Bom dia, Capitão.}
 {109}{}{Vault City prevails, Capitão.}

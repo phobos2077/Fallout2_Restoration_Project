@@ -1,42 +1,42 @@
 {100}{}{Você vê um tribal de aparência antiga.}
 {101}{}{Você vê o chefe idoso da tribo.}
-{102}{}{[The old man smokes his pipe and watches you with dull gray eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] Thank you for bringing Kurisu back to our village. [He takes a long hit off his pipe.] The spirits... they have much to say about you. Much indeed. Tell me, is there something you need?}
-{103}{}{[The old man smokes his pipe and watches you with dull gray eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] We are most grateful for your services, Wanderer. [He takes a long hit off his pipe.] The spirits... they have much to say about you. Much indeed. Tell me, what brings you to our village?}
-{104}{}{Welcome back, child. Was there something else you needed?}
-{105}{}{What can this old man do for you?}
-{106}{}{I am on a quest for the Holy GECK. Do you know anything about this?}
-{107}{}{I am looking for a missing woman. She's the sister of my friend, Sulik.}
-{108}{}{Is there anything else that needs to be done around here?}
+{102}{}{[O velho fuma seu cachimbo da paz e olha para você com olhos cinzentos opacos que parecem perfurar sua alma. Ele acena para você se sentar em frente a ele na tenda cheia de fumaça.] Obrigado por trazer Kurisu de volta à nossa aldeia. [Ele dá uma longa tragada em seu cachimbo.] Os espíritos... eles têm muito a dizer sobre você. Muito mesmo. Diga-me, há algo que você precisa?}
+{103}{}{[O velho fuma seu cachimbo da paz e olha para você com olhos cinzentos opacos que parecem perfurar sua alma. Ele gesticula para que você se sente à sua frente na tenda cheia de fumaça.] Somos muito gratos por seus serviços, Errante. [Ele dá uma longa tragada em seu cachimbo.] Os espíritos... eles têm muito a dizer sobre você. Muito mesmo. Diga-me, o que o traz à nossa aldeia?}
+{104}{}{Bem-vindo de volta, criança. Havia algo mais que você precisava?}
+{105}{}{O que esse velho homem pode fazer por você?}
+{106}{}{Estou em busca do Santo GECK. Você sabe algo sobre isso?}
+{107}{}{Estou procurando uma mulher desaparecida. Ela é irmã do meu amigo, Sulik.}
+{108}{}{Há mais alguma coisa que precisa ser feita por aqui?}
 {109}{}{Deixa pra lá. Tchau.}
-{110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
+{110}{}{O Santo GECK... [Ele dá uma longa tragada em seu cachimbo.] Há uma criatura que às vezes caçamos... às vezes, ela nos caça. Uma gecko. Não, sinto que não é isso que você procura. Receio que seu Santo GECK esteja além do meu alcance.}
 {111}{}{Deixe-me perguntar-lhe algo mais.}
-{112}{}{That's all I need to know. Bye.}
-{120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
-{121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
-{122}{}{Oh, he's alright. I told him to wait while I get some things done.}
+{112}{}{Isso é tudo que eu preciso saber. Tchau.}
+{120}{}{Sulik? [Ele acena com a cabeça.] Um dos nossos melhores homens. Igualmente habilidoso na arte da caça e na arte de se comunicar com os espíritos dos ossos. Ele nos deixou para encontrar sua irmã, Kurisu, que nunca voltou de uma tribo próxima. Diga-me, criança, onde está Sulik agora?}
+{121}{}{Ele está bem aqui. Ei, Sulik, venha aqui...}
+{122}{}{Oh, ele está bem. Eu disse a ele para esperar enquanto eu faço algumas coisas.}
 {123}{}{Sinto muito, mas ele está morto.}
-{124}{}{[Sulik and the tribe's chief exchange greetings.] It brings me great pleasure to see Sulik again. The bonespirits told me he had fallen into trouble. But what of his sister, Kurisu?}
-{125}{}{It is good to hear that Sulik is well. We were worried he got into trouble. So, his sister is still missing?
- She too is a member of our tribe.}
-{126}{}{[He frowns and smokes his pipe in silence for a long time. Just when you consider leaving. He finally speaks.] The spirits were strong with Sulik. I always thought, he might one day take my place. Now, I see the spirits had other plans for Sulik. But what of his sister, Kurisu?}
-{127}{}{She was captured by slavers. I've offered Sulik assistance in locating her. Do you know anything that might help in the search?}
-{128}{}{[He closes his eyes for a long time. Just as you think he might have fallen asleep, he begins speaking.] The slavers are led by a man with a dark soul. Metzger. He dwells in one of the ruined husks of the Old One's cities. They call it the Den. [He opens his eyes.] Perhaps, he is holding her there. The bonespirits say no more.}
+{124}{}{[Sulik e o chefe da tribo trocam cumprimentos.] É um grande prazer para mim ver Sulik novamente. Os espíritos dos ossos me disseram que ele estava em apuros. Mas e sua irmã, Kurisu?}
+{125}{}{É bom saber que Sulik está bem, estávamos preocupados que ele tivesse problemas. Então, a irmã
+ dele ainda está desaparecida? Ela também é membro da nossa tribo.}
+{126}{}{[Ele franze a testa e fuma seu cachimbo em silêncio por um longo tempo. Apenas quando você pensa em ir embora. Ele finalmente fala.] Os espíritos eram fortes com Sulik. Eu sempre pensei, ele pode um dia tomar o meu lugar. Agora, vejo que os espíritos tinham outros planos para Sulik. Mas e sua irmã, Kurisu?}
+{127}{}{Ela foi capturada por escravistas. Ofereci minha ajuda a Sulik para encontra-la. Você sabe de algo que possa ajudar na busca?}
+{128}{}{[Ele fecha os olhos por um longo tempo. Assim que você pensa que ele pode ter adormecido, ele começa a falar.] Os escravistas são liderados por um homem com uma alma sombria, Metzger. Ele mora em uma das ruínas das cidades do Antigo, eles a chamam de Den. [Ele abre os olhos.] Talvez ele a esteja mantendo lá. Os espíritos dos ossos não dizem mais nada.}
 {129}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
-{130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
-{140}{}{I look for GECK.}
-{141}{}{I looking for missing woman. She sister of friend Sulik.}
+{130}{}{Obrigado, criança, mas estou contente, mas talvez outros não estejam assim. Pergunte ao redor da aldeia.}
+{140}{}{Procuro GECK.}
+{141}{}{Procuro mulher desaparecida. Ela irmã do amigo Sulik.}
 {142}{}{Adeus.}
-{150}{}{I ask more.}
-{160}{}{Oh, he right here. Sulik, chief man want talk.}
-{161}{}{Oh, he good. He wait for me.}
-{162}{}{I sorry. He dead.}
-{170}{}{Yes, bad men got her. I help Sulik. You know where she is?}
-{200}{}{Your evil ends here, slaver!}
-{300}{}{[The old man smokes his pipe and watches you with dull grey eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] You have done a great deed, child. I hear the cries of many wicked bonespirits lost out in the Great Salt Water. Now that you have proven yourself, I can share with you the final great secret.}
-{301}{}{Alright, finally! Let's hear it.}
-{302}{}{Not interested, old man. Bye.}
-{310}{}{[He takes a big hit off his pipe, then closes his eyes. After a moment, he nods.] Yes. I see the Great Bear spirit has guided your quest, breathing new life into old bones. Others as well. Perhaps they've come to you in a vision. Come from far, far away... where mutants are not allowed.}
+{150}{}{Eu pergunto mais.}
+{160}{}{Ah, ele aqui. Sulik, o chefe quer conversar.}
+{161}{}{Ah, ele bom. Ele espera por mim.}
+{162}{}{Desculpa. Ele morto.}
+{170}{}{Sim, homens maus a pegaram. Eu ajudo Sulik. Você sabe onde ela está?}
+{200}{}{Seu mal termina aqui, escravista!}
+{300}{}{[O velho fuma seu cachimbo da paz e olha para você com olhos cinzentos opacos que parecem perfurar sua alma. Ele faz sinal para que você se sente em frente a ele na tenda cheia de fumaça.] Você fez um grande feito, criança. Eu ouço os gritos de muitos espíritos dos ossos perversos perdidos na Grande Água Salgada. Agora que você provou seu valor, posso compartilhar com você o grande segredo final.}
+{301}{}{Que bom, finalmente! Quero ouvir.}
+{302}{}{Não tenho interesse, velho. Tchau.}
+{310}{}{[Ele dá uma grande tragada no cachimbo e fecha os olhos. Depois de um momento, ele acena com a cabeça.] Sim. Vejo que o espírito do Grande Urso guiou sua busca, dando nova vida a velhos ossos. Outros também. Talvez eles tenham vindo até você em uma visão. Venha de muito, muito longe... onde mutantes não são permitidos.}
 {311}{}{O que diabos você está falando?}
-{312}{}{Yeah yeah, I got the Star Wars special encounter. Don't tell me that's the final great secret.}
-{320}{}{The final secret... the greatest secret in the entire game... is, [As he does a dramatic pause, he takes another hit off his pipe. Suddenly, the pipe slips from his hands and falls into his robes, instantly igniting him in flames.]}
-{321}{}{Fuck!}
+{312}{}{Sim, achei o encontro especial de Star Wars. Não me diga que esse é o grande segredo final.}
+{320}{}{O segredo final... o maior segredo de todo o jogo... é, [Enquanto ele faz uma pausa dramática, ele dá outra tragada em seu cachimbo. De repente, o cachimbo escorrega de suas mãos e cai em suas vestes, incendiando-o instantaneamente.]}
+{321}{}{Porra!}
