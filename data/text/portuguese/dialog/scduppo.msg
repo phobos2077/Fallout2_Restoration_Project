@@ -1,37 +1,37 @@
 {100}{}{Você vê um homem de rosto vermelho e aparência amigável.}
 {101}{}{É Duppo. Ele comanda a Associação de Vaqueiros.}
-{102}{}{He's a stocky fellow and with constantly flushed face and shock of thin blond hair. He walks with a slight limp.}
-{103}{}{Greetings, stranger. Don't know you from these parts, so that means you're not a rancher. You come looking for work or are you here to buy?}
-{104}{}{What'll it be, stranger?}
+{102}{}{Ele é um sujeito atarracado, com o rosto constantemente corado e cabelos loiros ralos. Ele anda mancando levemente.}
+{103}{}{Saudações, estranho. Não te conheço por aqui, isso significa que você não é um fazendeiro. Você vem à procura de trabalho ou está aqui para negócios?}
+{104}{}{O que vai ser, estranho?}
 {105}{}{Trabalho.}
-{106}{}{Buy.}
-{107}{}{Well, my name's Duppo. Ranch supplies and hiring hall, all done right here. Gotta say, you don't look like a brahmin puncher. How are you with a gun?}
-{108}{}{Still looking for some guards, if you're interested.}
-{109}{}{Heh. Kill.}
+{106}{}{Negócios.}
+{107}{}{Bem, meu nome é Duppo. Suprimentos para ranchos e sala de aluguel, fazemos tudo aqui. Tenho que dizer, você não parece um açougueiro de brahmin. Como você se sai com uma arma?}
+{108}{}{Ainda estou procurando alguns guardas, se estiver interessado.}
+{109}{}{Heh. Matar.}
 {110}{}{Muito bem.}
-{111}{}{I'm not into violence.}
-{112}{}{Well, here's my stock. Make sure to look at all my tables for more inventories. If you don't like what I got, get your ass to that shyster Buster. Of course, he'll rob you blind.}
-{113}{}{Well, sounds like you'll do. We're looking for guards for a brahmin drive up to Redding. Pay's $2000 minus any stock lost before you get there. If you're interested, be at the gate to Westin's place tomorrow. If you don't show, you don't go. Deal?}
-{114}{}{Me come.}
-{115}{}{No like. Me no do.}
+{111}{}{Não sou de violência.}
+{112}{}{Bem, aqui está o meu estoque. Certifique-se de verificar todas as tabelas para ver o restante do inventário. Se você não gosta do que eu tenho, leve sua bunda para aquele trapaceiro do Buster. Claro, ele vai te roubar o que pode.}
+{113}{}{Bem, você se parece com isso. Procuramos guardas para uma viagem de brahmins até Redding. Pagamos $ 2.000 menos qualquer estoque perdido até chegar lá. Se você estiver interessado, esteja no portão da casa de Westin amanhã. Se não aparecer, não vai. Aceita?}
+{114}{}{Eu vou.}
+{115}{}{Não gosto, não vou.}
 {116}{}{Parece bom.}
-{117}{}{Nah, I don't want to go to Redding.}
-{118}{}{Well, then there's no work for you here. Countryside's a rough place. No place for weaklings, stranger. }
+{117}{}{Nah, eu não quero ir para Redding.}
+{118}{}{Bem, então não há trabalho para você aqui. O campo é um lugar difícil, não existe lugar para fracos, estranho. }
 {119}{}{Mais alguma coisa?}
-{120}{}{Good enough. Anything else, stranger?}
-{121}{}{Buy.}
+{120}{}{Bom o bastante. Mais alguma coisa, estranho?}
+{121}{}{Negócios.}
 {122}{}{Trabalho.}
 {123}{}{Wes-tin?}
-{124}{}{I'm looking for Roger Westin. Ever hear of him?}
-{125}{}{Where can I find Frank Carlson?}
+{124}{}{Estou procurando Roger Westin. Já ouviu falar?}
+{125}{}{Onde posso encontrar Frank Carlson?}
 {126}{}{Carl-son?}
 {127}{}{Adeus.}
-{128}{}{You mean Roger Westin? West of town.}
-{129}{}{One of the stockholders in this place. West of town. I don't think he's looking for ranch hands, if that's what you're thinking.}
-{130}{}{He's the vice-president; I know that much. Otherwise, can't tell you anything, really. Spends all his time at the Presidential House. Hardly ever comes out, especially now what with all the trouble we've been having.}
-{131}{}{Carlson. Big chief man. Lives in big house. That all.}
-{132}{}{Sorry - cattle drive season's over. Come back in a few months.}
-{133}{}{Yeah, yeah... Is there any other way to make a quick buck in town?}
+{128}{}{Você quer dizer Roger Westin? Ao oeste da cidade.}
+{129}{}{Um dos acionistas neste lugar, ao oeste da cidade. Acho que ele não está procurando ajudantes para o rancho, se é isso que você está pensando.}
+{130}{}{Ele é o vice-presidente; é tudo que eu sei, não posso dizer mais nada além disso. Passa todo o seu tempo na Casa Presidencial. Quase nunca sai, especialmente agora com todos os problemas que estamos tendo.}
+{131}{}{Carlson. Grande chefe. Mora em casa grande. Isso é tudo.}
+{132}{}{Desculpe, a temporada de caravanas de gado acabou. Volte em alguns meses.}
+{133}{}{Sim, sim... Existe alguma outra maneira de ganhar dinheiro rápido na cidade?}
 {134}{}{There might be something like that. Let's just say the officials wouldn't want to know about an opportunity like this.}
 {135}{}{Well, I would be willing to pay a little for some information.}
 {136}{}{Hmm how much are you willing to part with?}

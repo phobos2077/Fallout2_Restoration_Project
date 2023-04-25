@@ -18,7 +18,7 @@
 {303}{}{[FEITO]}
 {400}{}{Thanks for helpin Serin. He good warrior. You friend of tribe.}
 {401}{}{Thanks. Well, I must be going now.}
-{402}{}{Hello friend. Wut you need?}
-{403}{}{Nothing. Just passing through. Take care.}
-{500}{}{You hero! I hug!}
-{501}{}{Teach me be hero, like yoo!}
+{402}{}{Olá, amigo. Do que precisa?}
+{403}{}{Nada, só de passagem. Tome cuidado.}
+{500}{}{Você herói! Eu abraço!}
+{501}{}{Me ensine a ser herói, como você!}

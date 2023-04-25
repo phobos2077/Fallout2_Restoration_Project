@@ -5,5 +5,5 @@
 {102}{}{You see a raised plate.}
 {103}{}{ sees a raised plate.}
 {104}{}{You trigger the trap and narrowly avoid the projectile shot from the wall.}
-{105}{}{ triggers the trap and narrowly avoids the projectile shot from the wall.}
-{106}{}{You see a raised plate that looks harmless.}
+{105}{}{ aciona a armadilha e por pouco evita o projétil disparado da parede.}
+{106}{}{Você vê uma placa elevada que parece inofensiva.}

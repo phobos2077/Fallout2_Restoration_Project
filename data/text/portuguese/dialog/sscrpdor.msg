@@ -1,17 +1,17 @@
 {100}{}{Você vê uma porta.}
-{101}{}{It looks very sturdy.}
-{102}{}{The door doesn't seem to budge.}
-{103}{}{(You notice a small hole in the door where sound seems to be coming from.) Hello?}
-{104}{}{Uhh, hello?}
-{105}{}{Since when could doors talk?}
-{106}{}{Uhh, hi.}
-{107}{}{GANG PROBLEM LIMB.}
-{108}{}{Click... (The door unlocks.)}
-{109}{}{Sorry, we don't need any of that.}
-{110}{}{The door is bolted from the other side. There doesn't seem to be anything to pick.}
-{111}{}{The door is flush to the frame and doesn't have anywhere to place a trap.}
-{112}{}{The door creaks and breaks under the strain.}
-{113}{}{The door is already unlocked.}
-{114}{}{The door feels no challenge from you.}
-{120}{}{Herro, Ra Ra?}
-{121}{}{Hehe, door talkie. Hi!}
+{101}{}{Parece muito resistente.}
+{102}{}{A porta não parece se mover.}
+{103}{}{(Você percebe um pequeno buraco na porta de onde parece vir o som.) Olá?}
+{104}{}{Uhh, olá?}
+{105}{}{Desde quando as portas falam?}
+{106}{}{Uhh, olá.}
+{107}{}{PEÇA DO PROBLEMA GANG.}
+{108}{}{Clique... (A porta se abre.)}
+{109}{}{Desculpe, não precisamos de nada disso.}
+{110}{}{A porta está trancada do outro lado. Não parece haver nada em que se agarrar.}
+{111}{}{A porta está nivelada com o caixilho e não tem onde colocar um sifão.}
+{112}{}{A porta range e quebra sob o esforço.}
+{113}{}{A porta já está destrancada.}
+{114}{}{O portão não é um desafio para você.}
+{120}{}{Rola, Ra Ra?}
+{121}{}{Hehe, porta faladora. Oi!}

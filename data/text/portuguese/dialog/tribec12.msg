@@ -1,5 +1,5 @@
-{100}{}{You see an ancient looking tribal.}
-{101}{}{You see the elderly chief of the tribe.}
+{100}{}{Você vê um tribal de aparência antiga.}
+{101}{}{Você vê o chefe idoso da tribo.}
 {102}{}{[The old man smokes his pipe and watches you with dull gray eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] Thank you for bringing Kurisu back to our village. [He takes a long hit off his pipe.] The spirits... they have much to say about you. Much indeed. Tell me, is there something you need?}
 {103}{}{[The old man smokes his pipe and watches you with dull gray eyes that seem to bore into your soul. He motions for you to sit across from him in the smoke-filled tent.] We are most grateful for your services, Wanderer. [He takes a long hit off his pipe.] The spirits... they have much to say about you. Much indeed. Tell me, what brings you to our village?}
 {104}{}{Welcome back, child. Was there something else you needed?}
