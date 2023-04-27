@@ -5,7 +5,7 @@
 {104}{}{Uhh, olá?}
 {105}{}{Desde quando as portas falam?}
 {106}{}{Uhh, olá.}
-{107}{}{PEÇA DO PROBLEMA GANG.}
+{107}{}{MEU PAU FICA DURO.}
 {108}{}{Clique... (A porta se abre.)}
 {109}{}{Desculpe, não precisamos de nada disso.}
 {110}{}{A porta está trancada do outro lado. Não parece haver nada em que se agarrar.}

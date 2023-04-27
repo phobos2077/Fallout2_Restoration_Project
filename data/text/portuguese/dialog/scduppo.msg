@@ -32,26 +32,26 @@
 {131}{}{Carlson. Grande chefe. Mora em casa grande. Isso é tudo.}
 {132}{}{Desculpe, a temporada de caravanas de gado acabou. Volte em alguns meses.}
 {133}{}{Sim, sim... Existe alguma outra maneira de ganhar dinheiro rápido na cidade?}
-{134}{}{There might be something like that. Let's just say the officials wouldn't want to know about an opportunity like this.}
-{135}{}{Well, I would be willing to pay a little for some information.}
-{136}{}{Hmm how much are you willing to part with?}
-{137}{}{How about 500?}
-{138}{}{How about 300?}
-{139}{}{How about 200?}
-{140}{}{How about 100?}
-{141}{}{Well, you didn't hear this here, but the password to the door in the back is GANG PROBLEM LIMB.}
-{142}{}{Hmm... Doesn't sound like something I would be interested in.}
-{143}{}{Hmmm.. Don't forget about my 10 kids.}
-{144}{}{Hmmm.. Well, the wife will want a new fur.}
-{145}{}{Hmmm.. You're gonna have to contribute more.}
-{146}{}{Ah, a little short on funds these days?}
+{134}{}{É possível que tenha algo assim. Digamos que os funcionários não gostariam de saber de uma oportunidade como essa.}
+{135}{}{Bem, eu estaria disposto a pagar um pouco por algumas informações.}
+{136}{}{Hmm, de quanto você está disposto a se livrar?}
+{137}{}{Que tal 500?}
+{138}{}{Que tal 300?}
+{139}{}{Que tal 200?}
+{140}{}{Que tal 100?}
+{141}{}{Bem, você não ouviu nada aqui, mas a senha para a porta nos fundos é MEU PAU FICA DURO.}
+{142}{}{Hmm... Não parece algo que me interesse.}
+{143}{}{Hmmm.. Não se esqueça dos meus 10 filhos.}
+{144}{}{Hmm... bem, minha esposa quer um casaco de pele novo.}
+{145}{}{Hmmm.. Você vai ter que contribuir com algo mais.}
+{146}{}{Ah, com pouco dinheiro esses dias?}
 {147}{}{- Acho que sim.}
-{148}{}{Come on now, don't be cheap.}
-{149}{}{You're getting warmer.}
-{150}{}{Look, I'm going to need a little more incentive.}
-{151}{}{Hurry up, before someone sees.}
-{152}{}{Are you sure you're not involved with the law?}
-{153}{}{Look, you're almost there, just keep it coming.}
-{154}{}{Alright, just a little more, I promise.}
-{155}{}{Be at the gate to Westin's place tomorrow. If you don't show, you don't go, understand?}
-{156}{}{We are about to do another cattle run to Redding. How's your gun handling?}
+{148}{}{Vamos, não seja mão de vaca.}
+{149}{}{Você está se chegando perto.}
+{150}{}{Olha, vou precisar de mais um pouco de incentivo.}
+{151}{}{Se apresse, antes que alguém veja.}
+{152}{}{Tem certeza de que você não tem problema com a lei?}
+{153}{}{Opa, você está chegando lá, continue assim.}
+{154}{}{Tudo bem, só mais um pouco, eu prometo.}
+{155}{}{Esteja no portão da casa de Westin amanhã. Se não aparecer, não vai, entendeu?}
+{156}{}{Estamos quase fazendo outra viagem de gado para Redding. Como está sua habilidade com armas?}

@@ -36,7 +36,7 @@
 {131}{}{Obrigado.}
 {132}{}{Yes? May I help you?}
 {133}{}{Eu gostaria de entrar na Vault.}
-{134}{}{Nothing, sorry to disturb you.}
+{134}{}{Nada, desculpe incomodá-lo.}
 {135}{}{I apologize, but only Citizens may enter the Vault.}
 {136}{}{I *am* a Citizen.}
 {137}{}{I'm sorry... I don't recognize you. I'm under orders to only let Citizens I know into the Vault.

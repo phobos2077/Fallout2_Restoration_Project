@@ -2,7 +2,7 @@
 {101}{}{É o vendedor de espetinhos de iguana.}
 {102}{}{Para um vendedor de espetinhos de iguana, esse cara tem estilo. Ele é limpo, bem vestido e comanda um pequeno negócio impecável.}
 {103}{}{Com fome, forasteiro? Eu tenho a melhor iguana da região. Pode perguntar a qualquer um!}
-{104}{}{What can I get you?}
+{104}{}{Com o que posso te servir?}
 {105}{}{Quero carne.}
 {106}{}{Vou levar uma.}
 {107}{}{O que você pode me dizer sobre essa cidade?}

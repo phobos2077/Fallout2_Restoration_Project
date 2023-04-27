@@ -1,41 +1,41 @@
-{100}{}{You see Citizen Sergeant Stark.}
-{101}{}{You see a huge black man in heavy armor. He's watching you carefully.}
-{102}{}{You see Citizen Sergeant Stark.}
-{103}{}{You see a huge black man in heavy armor. He's watching you carefully.}
-{104}{}{Good job down south. Saw the fireworks all the way up here.}
-{105}{}{Good day... sir.}
-{106}{}{Vault City prevails... sir.}
+{100}{}{Você vê o Cidadão Sargento Stark.}
+{101}{}{Você vê um enorme homem negro em uma armadura pesada. Ele te observa com atenção.}
+{102}{}{Você vê o Cidadão Sargento Stark.}
+{103}{}{Você vê um enorme homem negro em uma armadura pesada. Ele te observa com atenção.}
+{104}{}{Bom trabalho no sul. Vi os fogos de artifício daqui.}
+{105}{}{Bom dia... senhor.}
+{106}{}{Vault City prevalece... senhor.}
 {107}{}{Bom dia, Citizen.}
 {108}{}{Vault City prevails, Citizen.}
-{109}{}{You'll wish you stayed out of the city... Guards!}
+{109}{}{Você vai desejar ficar fora da cidade... Guardas!}
 {110}{}{Um mutante! Guardas!}
 {111}{}{Um ghoul! Guardas!}
-{112}{}{Need to compile those ammunition lists...}
-{113}{}{Need to check the weapon lockers down in the Vault tomorrow...}
-{114}{}{Maybe being in these cells will teach you to behave yourselves.}
-{115}{}{And you'll STAY in these cells until the First Citizen pardons you.}
-{116}{}{I'm sorry, Citizen, but no one's permitted in the Corrections Center after dark. Come back in the morning.}
-{117}{}{It's past curfew. What are you still doing in the city?}
+{112}{}{Preciso compilar essas listas de munição...}
+{113}{}{Preciso verificar os armários de armas na Vault amanhã...}
+{114}{}{Talvez ficar nestas celas te ensine a se comportar.}
+{115}{}{E você FICARÁ nestas celas até que a Primeira Cidadã o perdoe.}
+{116}{}{Lamento, Cidadão, mas ninguém é permitido no Centro de Correções depois de escurecer. Volte pela manhã.}
+{117}{}{Já passou do toque de recolher. O que você ainda está fazendo na cidade?}
 {118}{}{Yah!}
-{119}{}{Uh, as a Citizen, I am allowed to be in the city after dark.}
-{120}{}{I just had some business to take care of before I left.}
-{121}{}{I'm leaving right now.}
-{122}{}{Is that so? Well, I know EVERY Citizen in Vault City, and I don't recognize you. Where's your papers?}
-{123}{}{You want them? Come get them.}
-{124}{}{I don't have them on me.}
+{119}{}{Uh, como Cidadão, posso ficar na cidade depois de escurecer.}
+{120}{}{Eu só tinha alguns negócios para resolver antes de ir.}
+{121}{}{Estou saindo agora mesmo.}
+{122}{}{É assim? Bem, eu conheço TODOS os Cidadãos de Vault City, e não reconheço você. Onde estão seus papéis?}
+{123}{}{Você quer, é? Então vem pegar.}
+{124}{}{Eu não tenho comigo.}
 {125}{}{Aqui está.}
-{126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
-{127}{}{Your business is over for the day. Come on, let's move it.}
-{128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
+{126}{}{Então pare de desperdiçar meu tempo, "Cidadão". Vamos, se mexa.}
+{127}{}{Seu negócio acabou por hoje. Vamos, se mexa.}
+{128}{}{Eu não vou a lugar nenhum. Se tentar qualquer coisa, vai se arrepender.}
 {129}{}{Tudo bem, eu vou.}
-{130}{}{Captain. Can I help you... sir?}
+{130}{}{Capitão. Posso te ajudar... senhor?}
 {131}{}{Posso ajudá-lo, Cidadão?}
 {132}{}{O que você quer?}
 {133}{}{Yah!}
 {134}{}{Desliga}
 {135}{}{Quem é você?}
-{136}{}{Nothing, sorry to disturb you.}
-{137}{}{Come with me, boy. NOW.}
+{136}{}{Nada, desculpe incomodá-lo.}
+{137}{}{Venha comigo, garoto. AGORA.}
 {138}{}{Venha comigo, moça. AGORA.}
 {139}{}{Eu sair? Eu sair!}
 {140}{}{EU NÃO VOU. AGORA.}
@@ -46,10 +46,10 @@
 {145}{}{Eu sou o Cidadão Sargento Stark, Forasteiro. O que você procura?}
 {146}{}{O que você faz aqui?}
 {147}{}{Você pode me dizer onde fica a Vault?}
-{148}{}{Nothing, sorry to disturb you.}
+{148}{}{Nada, desculpe incomodá-lo.}
 {149}{}{Eu faço o SEU trabalho, senhor.}
-{150}{}{I run the Corrections Center. And obey your orders, sir.}
-{151}{}{I run the Corrections Center. Keep the Outworlders in line. Make sure the Servants behave. Organize patrols. Try and protect the city from raiders.}
+{150}{}{Eu comando o Centro de Correções. E obedeço suas ordens, senhor.}
+{151}{}{Eu comando o Centro de Correções. Mantenho os andarilhos na linha, certifico que os servos se comportem, organizo patrulhas. Tento proteger a cidade dos invasores.}
 {152}{}{Algum problema, sargento?}
 {153}{}{Você quem invadiu o bar de Cassidy?}
 {154}{}{Você já ouviu falar de um servo chamado Joshua?}
@@ -76,19 +76,19 @@
 {175}{}{Deixa pra lá então. Adeus.}
 {176}{}{Não, senhor. O Sr. Cassidy não pagou sua taxa de licenciamento de álcool no mês, mas ainda estava vendendo no local. Sua lista de pagamentos está registrada no computador.}
 {177}{}{Cassidy era culpado de posse sem licença. Se não gostar, pode sair de Vault City. Simples assim.}
-{178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
-{179}{}{You know, I think my fist and your face are about to have a conversation.}
+{178}{}{Eu acredito em você, sargento. Bom trabalho. Agora me escute: eu quero que você perdoe o Sr. Cassidy, limpe seu registro e pague a ele uma restituição pelos danos que você causou ao seu estabelecimento.}
+{179}{}{Sabe, acho que meu punho e sua cara estão querendo conversar.}
 {180}{}{Esqueça. Eu tinha outras perguntas...}
 {181}{}{Não faz mal. Tchau.}
-{182}{}{Thanks for looking out for me, friend. Stark's one stubborn sonuvabitch.}
-{183}{}{Just try it. I'll look forward to putting trash like you and Cassidy in their place.}
-{184}{}{Fine. I was looking forward to kicking your ass anyway.}
+{182}{}{Obrigado por cuidar de mim, amigo. Stark é um filho da puta teimoso.}
+{183}{}{Só tente. Adoraria colocar lixo como você e o Cassidy no lugar.}
+{184}{}{Muito bem. Eu gostaria muito de chutar a sua cara mesmo.}
 {185}{}{Esqueça. Eu tinha outras perguntas...}
 {186}{}{Não faz mal. Tchau.}
-{187}{}{Yes... SIR.}
-{188}{}{NOW, Sergeant.}
-{189}{}{Come on, Sergeant. Chop-chop.}
-{190}{}{Here you are, SIR.}
+{187}{}{Sim... SENHOR.}
+{188}{}{AGORA, sargento.}
+{189}{}{Vamos, sargento. Acorda.}
+{190}{}{Aqui está, SENHOR.}
 {191}{}{Now I have some questions for you, Sergeant.}
 {192}{}{Very good, Sergeant. Carry on.}
 {193}{}{Yeah, he was that drunk Outworlder who struck one of my guards in that brawl in the Spittoon. He's over at the Servant Allocation Center getting... broken in. It's just down the street.}
