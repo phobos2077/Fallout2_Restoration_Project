@@ -15,8 +15,8 @@
 {133}{}{Nope, I'm afraid you're just going to have to admit to the others what happened. Try to keep your spirits of lust under control next time. Bye.}
 {140}{}{So is the well fixed yet, or what?}
 {141}{}{No, not yet I'm afraid.}
-{142}{}{Does it look fixed to you? You're standing right next to the fucking thing. Jerk.}
-{150}{}{So, have you fixed up the well yet?}
+{142}{}{Está olhando o que? Você está parado ao lado dessa porra, idiota.}
+{150}{}{Então, você já consertou o poço?}
 {151}{}{Sure, I got the rope in place now. See?}
 {160}{}{[He glances at the well, then snickers.] What good is a rope if you don't have a bucket attached? Or do you outworlders drink by licking water off a wet rope? [He shakes his head and mutters something under his breath.] Just attach the bucket, and I'll see that you be gettin' a reward.}
 {161}{}{Certo.}

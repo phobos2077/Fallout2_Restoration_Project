@@ -1,46 +1,46 @@
-{100}{}{You see a striking woman in a long robe.}
-{101}{}{It's the Enlightened One.}
-{102}{}{Her fixed stare and expression of mindless bliss would be disturbing were she not so tranquil.}
-{103}{}{Greetings, child. Are you one of the Enlightened?}
-{104}{}{<Drool>}
-{105}{}{Sure, why not?}
-{106}{}{Well, I am the Chosen One.}
-{107}{}{Uh, I really don't know what you're talking about.}
-{108}{}{So you're the itch Merk wants scratched!}
+{100}{}{Você vê uma mulher atraente em um longo manto.}
+{101}{}{É a Primeira Iluminada.}
+{102}{}{Seu olhar fixo e expressão de êxtase irracional seriam perturbadores se ela não estivesse tão tranquila.}
+{103}{}{Saudações, criança. Você é um dos Iluminados?}
+{104}{}{<Babando>}
+{105}{}{Claro, por que não?}
+{106}{}{Bem, eu sou o Escolhido.}
+{107}{}{Uh, eu realmente não sei do que você está falando.}
+{108}{}{Então você é o inseto que Merk quer que eu esmague!}
 {109}{}{Sim.}
 {110}{}{Não.}
-{111}{}{I just want to be alone.}
-{112}{}{Hello? Anybody there?}
+{111}{}{Eu só quero ficar sozinho.}
+{112}{}{Olá? Alguém aí?}
 {113}{}{Guh.}
-{114}{}{No-body here.}
-{115}{}{Oh dear, a Level One. Still trapped in primitive state. Perhaps a zeta-scan alignment would help. Would you like that?}
-{116}{}{Zay-ta!}
+{114}{}{Nada aqui não.}
+{115}{}{Oh, querido, um Nível Um. Ainda preso em estado primitivo. Talvez um alinhamento zeta o ajude. Você gostaria disso?}
+{116}{}{Zee-ta!}
 {117}{}{Não!}
-{118}{}{Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
-{119}{}{Chosen One? Don't you mean AHS-One? Just what text are you working from?}
-{120}{}{It's simple. I am the Chosen One because that is what must be.}
-{121}{}{AHS one?}
-{122}{}{That's what my Elder says I am.}
+{118}{}{Por favor, não zombe da Igreja da Hubologia. São opressores como você que tornam as coisas difíceis para o resto de nós. Oh céus, estou toda turbulenta!}
+{119}{}{O escolhido? Você não quer dizer AHS-1? Que tipo de texto você está trabalhando?}
+{120}{}{É simples. Eu sou o Escolhido porque é assim que deve ser.}
+{121}{}{AHS-1?}
+{122}{}{Isso é o que meu Ancião diz que eu sou.}
 {123}{}{Do que você está falando?}
-{124}{}{Can we just get to the part where you sprinkle holy water on me or something?}
-{125}{}{Oh. Well, are you seeking true understanding and spiritual peace? We can help.}
-{126}{}{No, I'm looking for a GECK.}
-{127}{}{Help? How?}
-{128}{}{A rocket launcher gives me all the spiritual peace I need, lady.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
-{130}{}{Merk? What's he want?}
-{131}{}{Simple. He wants you dead. Say bye-bye.}
-{132}{}{I don't know what you did, but he's put a contract out on you.}
-{133}{}{Wonderful, brother. So what level are you?}
-{134}{}{I asked you first.}
-{135}{}{What level are you?}
-{136}{}{Oh. I assumed you could see my aura. I'm sorry.}
-{137}{}{Oh. I assumed you could see my aura. I'm sorry.}
-{138}{}{Well, last time I checked the character screen, I was at level }
-{139}{}{Why, I'm at Transcendency, of course.}
-{140}{}{Uhhh... isn't it really impolite to go talking about levels?}
-{141}{}{Honestly! I don't know what they expect me to accomplish surrounded by such rim meat!}
-{142}{}{Ah, such enthusiasm. Come with me.}
+{124}{}{Podemos ir para a parte em que você joga água benta em mim ou sei lá o que?}
+{125}{}{Oh. Bem, você está buscando a verdadeira compreensão e paz espiritual? Nós podemos ajudar.}
+{126}{}{Não, estou procurando um GECK.}
+{127}{}{Ajuda? Como?}
+{128}{}{Uma bazuca me dá toda a paz espiritual de que preciso, senhora.}
+{129}{}{"O verdadeiro entendimento" é isso aqui, ó! (Mostra o dedo do meio.)}
+{130}{}{Merk? O que ele quer?}
+{131}{}{Simples, ele quer você morta. Diga adeus.}
+{132}{}{Não sei o que você fez, mas ele tem um contrato contra você.}
+{133}{}{Maravilhoso, irmão. Então, em que nível você está?}
+{134}{}{Eu te perguntei primeiro.}
+{135}{}{Em que nível você está?}
+{136}{}{Oh. Presumi que você pudesse ver minha aura. Desculpe.}
+{137}{}{Oh. Presumi que você pudesse ver minha aura. Desculpe.}
+{138}{}{Da última vez que dei uma olhada nos status do personagem, eu estava no nível }
+{139}{}{Ora, estou na Transcendência, é claro.}
+{140}{}{Uhhh... não é falta de educação falar sobre níveis?}
+{141}{}{Honestamente! Eu não sei o que eles esperam que eu faça cercado por tal pedaço de carne!}
+{142}{}{Ah, que entusiasmo. Venha comigo.}
 {143}{}{"Lost are those who will not seek the Hub." If you should ever change your mind, you are always welcome.}
 {144}{}{Do not shout! Now I've got a neurodyne to align!}
 {145}{}{Predestination? What about free will? By your belief, nothing you do has any meaning since it's all determined in advance. It's like you're just a pawn in a game.}
@@ -91,16 +91,16 @@
 {189}{}{Claro, porque não.}
 {190}{}{No thanks. I'm fine.}
 {191}{}{I tell you, spreading the word of Hubology out here is harder than you can imagine! AHS-9 just doesn't understand the difficulty. In fact, I've written it all down. Say, would you be willing to deliver it to AHS-9 in San Francisco? I can't promise any reward, but I know AHS-9 will appreciate it.}
-{192}{}{Sure, why not?}
+{192}{}{Claro, por que não?}
 {193}{}{No thanks. I don't get involved.}
 {194}{}{Excellent. Here is the letter. Now, can I do anything else for you? A zeta-scan?}
 {195}{}{A scan? Why not.}
 {196}{}{You've already done enough. Bye.}
 {197}{}{Then I've spoken too much already. Goodbye.}
 {198}{}{Greetings again. How can the Church of Hubology help you?}
-{199}{}{<Drool>}
-{200}{}{So you're the itch Merk wants scratched!}
-{201}{}{Uh, I really don't know what you're talking about.}
+{199}{}{<Babando>}
+{200}{}{Então você é o inseto que Merk quer que eu esmague!}
+{201}{}{Uh, eu realmente não sei do que você está falando.}
 {202}{}{What does the church do?}
 {203}{}{Oops. Wrong door.}
 {204}{}{Killing me will serve no purpose. I'm not a threat to Merk, I simply irritate him because of my beliefs. I hope you'll refuse to honor the contract.}
