@@ -663,16 +663,16 @@
 {677}{}{I'm not sure yet. I'm still looking into it.}
 {678}{lyn111a}{What?! How do you know this? What evidence do you have?}
 {679}{lyn111b}{Do you have any evidence?}
-{680}{}{I don't have any actual proof, but word in New Reno is that the Bishops are behind it.}
-{681}{}{I found this account book in the raiders' safe listing payments from Bishop for a three-month
- campaign of terror against your city... uh, with options for one-month extensions if you were stubborn.}
-{682}{}{I don't really have any hard evidence. I'm still working on it. }
-{683}{lyn112}{I would not be surprised. Bishop visited Vault City not long ago, and suggested an
- alliance. I refused, of course. We don't associate with criminals.}
-{684}{}{Maybe this was his way of forcing you into an alliance.}
-{685}{lyn113}{I would sooner ask NCR for help. If you come across any hard evidence of Bishop's
- involvement, please bring it to me at once.}
-{686}{}{Fair enough. I had some other questions...}
+{680}{}{Não tenho nenhuma prova real, mas dizem em New Reno que os Bishops estão por trás disso.}
+{681}{}{Encontrei este livro de contas no cofre dos invasores, listando os pagamentos de Bishop para
+ uma campanha de terror de três meses contra sua cidade... uh, com opção para extensão de um mês se vocês fossem teimosos.}
+{682}{}{Eu não tenho nenhuma evidência concreta, ainda estou trabalhando nisso. }
+{683}{lyn112}{Não me surpreenderia. Bishop visitou Vault City não muito tempo atrás e sugeriu
+ uma aliança. Recusei, claro. Não nos associamos a criminosos.}
+{684}{}{Talvez essa fosse a maneira dele de forçar uma aliança.}
+{685}{lyn113}{Eu preferiria pedir ajuda a NCR. Se você encontrar qualquer evidência concreta do
+ envolvimento de Bishop, por favor, traga para mim imediatamente.}
+{686}{}{Justo. Eu tinha algumas outras perguntas...}
 {687}{}{If I find out anything, I'll let you know.}
 {688}{}{I will, First Citizen. Good day.}
 {689}{lyn114}{I'm not surprised. Bishop visited not long ago and suggested an alliance. I refused, of
@@ -680,7 +680,7 @@
 {690}{}{I think he expected that. I found this holodisc in Bishop's safe. He was hired by NCR to get
  Vault City to join the Republic. When you refused his offer, he hired the mercenaries to attack you
  so you would ask NCR for help.}
-{691}{}{Maybe this was his way of forcing you into an alliance.}
+{691}{}{Talvez essa fosse a maneira dele de forçar uma aliança.}
 {692}{lyn115}{Possibly... but it would never work. I would sooner ask NCR for help. You have done Vault
  City a great service. Please take this as a token of our appreciation.}
 {693}{}{Obrigado. Eu tenho algumas outras questões...}
