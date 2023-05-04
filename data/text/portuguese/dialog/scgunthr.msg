@@ -24,7 +24,7 @@
 {123}{}{Meu nome é Gunther, assistente pessoal da presidente Tandi. Agora, o que posso fazer por você?}
 {124}{}{Estou procurando pela Vault 13.}
 {125}{}{Estou procurando pelo GECK.}
-{126}{}{I understand the president has a job to be done.}
+{126}{}{Eu entendo que a presidente tem um trabalho a ser feito.}
 {127}{}{Madam President no longer grants interviews regarding Vault 13. I'm sorry. She's too busy to see every prospector who comes through.}
 {128}{}{Huh? I don't get it.}
 {129}{}{E que tal um GECK? Ela pode saber algo sobre isso?}
@@ -33,7 +33,7 @@
 {132}{}{Então sugiro que você leia a placa na estátua do lado de fora. Agora, bom dia.}
 {133}{}{Eu não tenho ideia do que você está falando. Você tem uma pergunta de verdade?}
 {134}{}{Estou procurando pela Vault 13.}
-{135}{}{I understand the president has a job to be done.}
+{135}{}{Eu entendo que a presidente tem um trabalho a ser feito.}
 {136}{}{Não importa.}
 {137}{}{Ah sim. Bem, ela me instruiu a deixar qualquer um que perguntasse sobre isso passar. Pode passar, é a porta à minha direita.}
 {138}{}{Senhora Presidente terminou com você? Como foram as coisas?}
