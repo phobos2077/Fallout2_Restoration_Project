@@ -76,17 +76,17 @@
 {174}{}{Você aceita?}
 {175}{}{Yeah. Here you go.}
 {176}{}{Uh... thanks. I mean, they're not great, but they'll do. Where did you... oh, never mind. It's not important. Here's a few bucks for your trouble.}
-{177}{}{Thanks. Say, I had some questions...}
-{178}{}{Maybe you can use those tools to help fix that attitude of yours.}
+{177}{}{Obrigado. Olha, eu tenho algumas perguntas...}
+{178}{}{Talvez você possa usar essas ferramentas para ajudar a corrigir essa sua atitude.}
 {179}{}{Sem problemas. Foi um prazer ajudar.}
-{180}{}{Yeah, yeah... look, I have some work to do. Come back in a day or two, all right? I'll have
- time to chat then.}
+{180}{}{Sim, sim... olha, tenho trabalho a fazer. Volte em um ou dois dias, certo? Aí terei tempo
+ para conversar.}
 {181}{}{Até amanhã, então.}
 {182}{}{Tudo bem. Eu estarei de volta em um dia ou dois. Adeus.}
-{183}{}{You won't believe this. Not less than a DAY after you gave me those tools, that Super Tool Kit I ordered arrives. But not just one. They send me FIVE. What the hell is wrong with the ordering office?!}
-{184}{}{Could you part with one of those tool kits?}
-{185}{}{Why not?! What am I going to do with FIVE?! Take it! I swear that I'm going to beat the living tar out of the List Office for this.}
-{186}{}{Thanks. Say, I had some questions...}
+{183}{}{Você não vai acreditar nisso. Não menos de um DIA depois que você me deu essas ferramentas, chega aquele Super Kit de Ferramentas que encomendei. Mas não só um, eles me enviaram CINCO. Mas que diabo aconteceu de errado com o escritório de pedidos?!}
+{184}{}{Você poderia se desfazer de um desses conjuntos de ferramentas?}
+{185}{}{Por que não?! O que eu vou fazer com CINCO?! Pegue! Juro que vou dar uma surra nos caras do escritório de listas por isso.}
+{186}{}{Obrigado. Olha, eu tenho algumas perguntas...}
 {187}{}{Te agradeço. Vou usar bem esse kit.}
 {188}{}{Ah, eu vejo como é. Bem, o que é que você quer?}
 {189}{}{O que? Não tenho tempo para conversar o dia todo.}
@@ -94,19 +94,19 @@
 {191}{}{Você pode consertar alguma coisa minha?}
 {192}{}{O que tem a venda?}
 {193}{}{Qual é o problema com você e seu pai?}
-{194}{}{Never mind. I'll leave you to your work.}
-{195}{}{Nothing worth mentioning. He came here twenty years ago on one of his caravan trips, knocked up Mom and left. Until he stopped by, I hadn't seen him in about five years. No loss.}
-{196}{}{Sounds like you and him have some things to work out.}
-{197}{}{Oh. Well, uh, I had some other questions...}
-{198}{}{Never mind. I'll leave you to your work.}
-{199}{}{No, we don't. We've said all we need to say a long time ago. }
+{194}{}{Deixa para lá. Vou te deixar com seu trabalho.}
+{195}{}{Nada que valha a pena mencionar. Ele veio aqui há vinte anos em uma de suas viagens de caravana, engravidou a mamãe e foi embora. Até que ele apareceu, eu não o via há cerca de cinco anos. Não perdi nada.}
+{196}{}{Parece que você e ele têm algumas coisas para resolver.}
+{197}{}{Oh. Bem, uh, eu tinha outras perguntas...}
+{198}{}{Deixa para lá. Vou te deixar com seu trabalho.}
+{199}{}{Não, nós não. Já dissemos tudo o que precisávamos há muito tempo. }
 {200}{}{Are you sure?}
 {201}{}{Tudo bem, entao. Eu tinha outras perguntas...}
-{202}{}{I'll leave you to your work then.}
+{202}{}{Vou te deixar com o seu trabalho então.}
 {203}{}{Yes, I'm SURE. Well... except for the fact that I think he should lose some weight. He's got quite a spare tire going. And he should stop wandering all around the wastes selling junk to tribals. That's pretty much it.}
 {204}{}{Look, he was in a mess of trouble with slavers, and he's trying to make up for lost time now. But you're right, he could stand to lose some weight.}
 {205}{}{Oh, uh, okay. I had some other questions...}
-{206}{}{Never mind. I'll leave you to your work.}
+{206}{}{Deixa para lá. Vou te deixar com seu trabalho.}
 {207}{}{Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway.}
 {208}{}{Um... make sure he stays out of trouble, all right?}
 {209}{}{Great. Look, I had something else I wanted to ask you...}

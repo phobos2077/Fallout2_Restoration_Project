@@ -25,11 +25,11 @@
 {124}{}{Estou procurando pela Vault 13.}
 {125}{}{Estou procurando pelo GECK.}
 {126}{}{Eu entendo que a presidente tem um trabalho a ser feito.}
-{127}{}{Madam President no longer grants interviews regarding Vault 13. I'm sorry. She's too busy to see every prospector who comes through.}
-{128}{}{Huh? I don't get it.}
+{127}{}{Senhora Presidente não concede mais entrevistas sobre a Vault 13, sinto muito. Ela está ocupada demais para ver todos os garimpeiros que aparecem.}
+{128}{}{Huh? Eu não entendo.}
 {129}{}{E que tal um GECK? Ela pode saber algo sobre isso?}
-{130}{}{There was some talk about a job.}
-{131}{}{You're useless. I'm going.}
+{130}{}{Houve alguma conversa sobre um trabalho.}
+{131}{}{Você é inútil. Eu vou.}
 {132}{}{Então sugiro que você leia a placa na estátua do lado de fora. Agora, bom dia.}
 {133}{}{Eu não tenho ideia do que você está falando. Você tem uma pergunta de verdade?}
 {134}{}{Estou procurando pela Vault 13.}
@@ -49,19 +49,19 @@
 {148}{}{Já de volta! O que foi agora?}
 {149}{}{Rec-compensa.}
 {150}{}{A presidente disse para pedir uma recompensa.}
-{151}{}{Mon-ey.}
-{152}{}{I'm here to collect my pay.}
-{153}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}
+{151}{}{Di-nhero}
+{152}{}{Estou aqui para receber meu pagamento.}
+{153}{}{Sua presidente disse que você deveria saber que há um espião em sua casa, alguém chamado Feargus.}
 {154}{}{Nada.}
-{155}{}{Of course, she just buzzed me about it. A reward of $6000 and NCR thanks you, she said. Now, there is work to be done. Goodbye.}
-{156}{}{Let's see. Contract says $500. Here you are.}
-{157}{}{In fact, she just buzzed me to change your amount - seems you earned a bonus. Here it is, $900 and NCR's thanks. Now, there is work to be done, so goodbye.}
-{158}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}
+{155}{}{Claro, você acabou de me avisar sobre isso. Uma recompensa de $6.000 e agradecimentos do NCR, ela disse. Agora, tenho trabalho a fazer.}
+{156}{}{Vamos ver, contrato diz $500. Aqui está.}
+{157}{}{Na verdade, ela apenas me ligou para mudar a quantidade, parece que você ganhou um bônus. Aqui está, $900 e os agradecimentos da NCR. Agora, tenho trabalho a ser feito, então adeus.}
+{158}{}{Sua presidente disse que você deveria saber que há um espião em sua casa, alguém chamado Feargus.}
 {159}{}{Adeus.}
-{160}{}{Feargus? I don't believe it!}
-{161}{}{Take a look at this disk.}
-{162}{}{Whatever. I'm out of here.}
-{163}{}{Damn. Looks solid. Look, we'll take care of this. Here's $4000 for the info.}
+{160}{}{Feargus? Não acredito nisso!}
+{161}{}{Dê uma olhada neste disco.}
+{162}{}{Que seja, vou sair daqui.}
+{163}{}{Droga, parece uma prova sólida. Olha, nós cuidaremos disso. Aqui estão $4000 pela informação.}
 {164}{}{I don't take blood money. I'm out of here.}
 {165}{}{Thanks. Have a nice day.}
 {166}{}{Oh, it's you. Look, this is not a good time. In fact, I think Madam President would rather not get you involved in anything else. Thank you and good day.}

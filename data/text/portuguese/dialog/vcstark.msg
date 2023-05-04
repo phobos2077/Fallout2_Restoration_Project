@@ -95,7 +95,7 @@
 {194}{}{I had another question...}
 {195}{}{Hmmm. I'll head over there now.}
 {196}{}{The Vault's right outside the door... sir.}
-{197}{}{The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.}
+{197}{}{A Vault fica logo na porta. Apenas diga aos guardas que você é um Cidadão, e eles te deixarão passar.}
 {198}{}{O Vault do outro lado da porta. Só cidadãos podem entrar lá, então não quero pegar você incomodando os guardas.}
 {199}{}{Posso pedir mais uma coisa?}
 {200}{}{But I am a Citizen.}
@@ -105,19 +105,19 @@
 {204}{}{Aqui estão meus documentos. Acho que você vai encontrar tudo em ordem.}
 {205}{}{Uh, não importa. Eu tinha outras perguntas...}
 {206}{}{É melhor eu ir.}
-{207}{}{Well, well, if it isn't those papers that were stolen last month. Looks like I finally found the culprit. Come with me, Outsider.}
-{208}{}{Touch me, and you'll regret it.}
-{209}{}{I'm going, I'm going. Stop pushing.}
-{210}{}{I was BORN a Citizen. Interested in becoming a Citizen? Find a council member.}
+{207}{}{Bem, bem, se não são aqueles papéis que foram roubados no mês passado. Parece que finalmente encontrei o culpado. Venha comigo, Forasteiro.}
+{208}{}{Me toque e você vai se arrepender.}
+{209}{}{Eu vou, eu vou. Pare de empurrar.}
+{210}{}{Eu NASCI cidadão. Interessado em se tornar um Cidadão? Encontre um membro do conselho.}
 {211}{}{Posso pedir mais uma coisa?}
-{212}{}{I will, thanks. Goodbye.}
+{212}{}{Eu vou, obrigado. Adeus.}
 {213}{}{Yeah, what about them?}
-{214}{}{I found their base.}
-{215}{}{I wiped them out.}
-{216}{}{Any idea where these raiders are striking from?}
-{217}{}{Never mind. I had some questions...}
-{218}{}{Forget it. Maybe we'll talk some other time.}
-{219}{}{You did? Where is it?}
+{214}{}{Encontrei a base deles.}
+{215}{}{Eu os limpei do mapa.}
+{216}{}{Alguma ideia de onde esses invasores estão atacando?}
+{217}{}{Deixa para lá. Eu tinha algumas perguntas...}
+{218}{}{Esqueça. Talvez a gente converse outra hora.}
+{219}{}{É sério? Onde está?}
 {220}{}{Yes, you said that before. You should tell the First Citizen if you haven't already.}
 {221}{}{Down south, in a series of caves in the mountains. Here, let me point it out...}
 {222}{}{I had some questions for you.}
@@ -133,31 +133,31 @@
 {232}{}{Yeah, raiders. They've been hitting us pretty hard lately. (Frowns.) Why do you want to know about them?}
 {233}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
 {234}{}{Eu estava apenas curioso.}
-{235}{}{Never mind. I had some questions...}
-{236}{}{Forget it. Maybe we'll talk some other time.}
+{235}{}{Deixa para lá. Eu tinha algumas perguntas...}
+{236}{}{Esqueça. Talvez a gente converse outra hora.}
 {237}{}{O quê, você é algum tipo de bom samaritano? Eu não engulo.}
 {238}{}{Eu não sou um samaritano. Na verdade, sou natural de Arroyo - é uma vila a oeste.}
 {239}{}{Gostaria de ajudar se pudesse.}
 {240}{}{Olha, eu já vi o suficiente no mundo para saber que ajudar as pessoas compensa no final quando você recebe ajuda.}
-{241}{}{Never mind. I had some questions...}
-{242}{}{Forget it. Maybe we'll talk some other time.}
+{241}{}{Deixa para lá. Eu tinha algumas perguntas...}
+{242}{}{Esqueça. Talvez a gente converse outra hora.}
 {243}{}{O que, você veio aqui para ser um espertinho? É Isso?}
 {244}{}{Oh sim? Bem, enfrentar esse bando de invasores pode ser mais do que você pode suportar.}
 {245}{}{Não, mas se precisar de ajuda, estou à disposição.}
 {246}{}{Eu ainda gostaria de tentar ajudar.}
 {247}{}{Deixa pra lá então. Eu tinha algumas perguntas...}
-{248}{}{Forget it. Maybe we'll talk some other time.}
+{248}{}{Esqueça. Talvez a gente converse outra hora.}
 {249}{}{Hmmm. Bem, não vou recusar nenhuma ajuda neste momento. Você encontra a base deles, ou melhor ainda, os elimine, vá contar a Primeira Cidadã.}
 {250}{}{Actually, I already found their base.}
 {251}{}{Actually, I wiped them out already.}
-{252}{}{Any idea where these raiders are striking from?}
+{252}{}{Alguma ideia de onde esses invasores estão atacando?}
 {253}{}{Certo. Eu tenho outras perguntas...}
 {254}{}{Eu vou fazer isso.}
 {255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
 {256}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
 {257}{}{I don't know anything. That's why I'm asking you.}
-{258}{}{Never mind. I had some questions...}
-{259}{}{Forget it. Maybe we'll talk some other time.}
+{258}{}{Deixa para lá. Eu tinha algumas perguntas...}
+{259}{}{Esqueça. Talvez a gente converse outra hora.}
 {260}{}{Não sabe de nada? Talvez eu te deixe aqui no Centro Correcional até você LEMBRAR de algo.}
 {261}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
 {262}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
