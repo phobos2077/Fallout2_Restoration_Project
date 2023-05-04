@@ -41,18 +41,18 @@
 {140}{}{Uhhh... não é falta de educação falar sobre níveis?}
 {141}{}{Honestamente! Eu não sei o que eles esperam que eu faça cercado por tal pedaço de carne!}
 {142}{}{Ah, que entusiasmo. Venha comigo.}
-{143}{}{"Lost are those who will not seek the Hub." If you should ever change your mind, you are always welcome.}
-{144}{}{Do not shout! Now I've got a neurodyne to align!}
-{145}{}{Predestination? What about free will? By your belief, nothing you do has any meaning since it's all determined in advance. It's like you're just a pawn in a game.}
-{146}{}{You misunderstand. Only my potential as the Chosen One is pre-determined. My choices and my actions determine the fulfillment of that potential.}
-{147}{}{Of course the universe is deterministic! After all, we've been put here for some purpose that's already known to our creator.}
-{148}{}{Nonsense. There is no organizing force determining our fates. In fact there's no 'higher power' behind anything. The universe is just chance. I am the Chosen One because others have declared it. That's all.}
-{149}{}{Aligned Hub Seeker. You are obviously not Enlightened.}
-{150}{}{A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?}
+{143}{}{"Perdidos estão aqueles que não procuram o Hub." Se você mudar de ideia, será sempre bem-vindo.}
+{144}{}{Não grite! Agora tenho um neurodino para alinhar!}
+{145}{}{Predestinação? E quanto ao livre arbítrio? Pela sua crença, nada do que você faz tem qualquer significado, já que tudo é determinado. É como se você fosse apenas um peão em um jogo.}
+{146}{}{Você não entende. Apenas meu potencial como O Escolhido é pré-determinado. Minhas escolhas e minhas ações determinam a realização desse potencial.}
+{147}{}{Claro que o universo é determinista! Afinal, fomos colocados aqui para algum propósito que já é conhecido do nosso criador.}
+{148}{}{Absurdo, não há força organizadora determinando nossos destinos. Na verdade, não há 'poder superior' por trás de nada, o universo é apenas acaso. Eu sou O Escolhido porque outros o declararam. Isso é tudo.}
+{149}{}{AHS: Buscador Alinhado ao Eixo. Você obviamente não é Iluminado.}
+{150}{}{Uma crença primitiva... mas você mostra sinais de grande promessa. Podemos te mostrar o caminho mais elevado. Gostaria de saber mais?}
 {151}{}{Sim.}
 {152}{}{Não.}
-{153}{}{I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.}
-{154}{}{By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!}
+{153}{}{Não posso ajudá-lo com isso. No entanto, nossos cientistas em São Francisco podem saber de algo. Talvez você devesse viajar para lá.}
+{154}{}{O libertando dos neurônios que te mantêm em estado de opressão, com um alinhamento. Só então você pode ser Iluminado!}
 {155}{}{Neurodynes are the psychic centers of the body. They become polluted by the spiritual remnants of the people who died in the War. Their psi-energies imprint into our neurodynes at birth and hold us in an oppressive state. Alignment erases these imprints.}
 {156}{}{As long as your brain chemistry is affected by negative psychic energy, your true spiritual potential is oppressed. Worse still, oppressives can transmit this energy unless they are very, very strong-willed.}
 {157}{}{Enlightenment happens when all your neurodynes are aligned. Then you become an AHS, Aligned Hub Seeker, which is the goal of all Hubonites.}
