@@ -139,62 +139,62 @@
 {223}{lyn021}{Why... from surface monitors, I suppose. I am certain there were sensors monitoring
  the environment. How else would the Overseer have known when it was safe to leave?}
 {224}{}{Do these monitors still exist? Can I see them?}
-{225}{}{So... the order to leave the vault came from the Overseer?}
-{226}{}{Speaking of the Overseer, where is he? I'd like to speak to him.}
-{227}{}{You lie! The all-clear signal never came!}
-{228}{}{I'm not certain... yet. Good day.}
-{229}{lyn022}{Quite likely they were disassembled and used as upgrades for other systems.}
-{230}{}{Hmmm. But the Overseer was the one who gave the order to leave the vault?}
-{231}{}{Where is the Overseer? I must speak with him about this.}
-{232}{}{I don't believe you. I'm telling you, the all-clear signal never came!}
+{225}{}{Então... a ordem para deixar a vault veio do Supervisor?}
+{226}{}{Falando no Supervisor, onde ele está? Eu gostaria de falar com ele.}
+{227}{}{Você mente! O sinal de "tudo limpo" nunca veio!}
+{228}{}{Não tenho certeza... ainda. Bom dia.}
+{229}{lyn022}{Muito provavelmente eles foram desmontados e usados como atualizações para outros sistemas.}
+{230}{}{Hmmm. Mas foi o Supervisor quem deu a ordem para sair da vault?}
+{231}{}{Onde está o Supervisor? Devo falar com ele sobre isso.}
+{232}{}{Eu não acredito em você. Estou te dizendo, o sinal de "tudo limpo" nunca apareceu!}
 {233}{}{Entendo. Obrigado pela informação, bom dia.}
-{234}{lyn023}{Yes... at least, that's what I remember from the archives. However, I am certain many
- Citizens were responsible for monitoring the surface sensors.}
-{235}{}{Any idea where these surface sensors are now?}
+{234}{lyn023}{Sim... pelo menos é o que me lembro dos arquivos. No entanto, tenho certeza de que
+ muitos Cidadãos foram responsáveis por monitorar os sensores de superfície.}
+{235}{}{Alguma ideia de onde esses sensores de superfície estão agora?}
 {236}{}{Onde estão esses arquivos?}
 {237}{}{Onde está o Supervisor? Devo falar com ele.}
-{238}{}{You lie! The all-clear signal never came!}
+{238}{}{Você mente! O sinal de "tudo limpo" nunca veio!}
 {239}{}{Entendo. Obrigado pela informação, bom dia.}
-{240}{lyn024}{If you were capable of examining your argument, the flaw would quickly become apparent.
- The archives do not allow for the same form of corruption your... "tribal legends" do.}
+{240}{lyn024}{Se você fosse capaz de examinar seu argumento, a falha logo se tornaria evidente. Os arquivos
+ não permitem a mesma forma de corrupção que suas... "lendas tribais" permitem.}
 {241}{}{Onde estão esses arquivos?}
 {242}{}{Onde está o Supervisor? Devo falar com ele.}
-{243}{}{Look, I'm telling you... the all-clear signal never came!}
-{244}{}{I've heard enough. Good day.}
-{245}{lyn025}{You have the audacity to accuse me, Lynette, the First Citizen of Vault City, of LYING?!
- Leave! You are no longer welcome in this city.}
-{246}{}{I'm not leaving until I get some answers!}
-{247}{}{I shall leave... for now.}
-{248}{lyn026}{The archives are stored within our vault. Only Citizens have access to them... they are
- NOT for Outsiders.}
-{249}{}{Fine. Where is the Overseer? I will ask him about these archives.}
+{243}{}{Olha, estou te dizendo... o sinal de "tudo limpo" nunca veio!}
+{244}{}{Já ouvi o suficiente. Bom dia.}
+{245}{lyn025}{Você tem a audácia de me acusar, Lynette, a Primeira Cidadã de Vault City, de MENTIR?!
+ Saia! Você não é mais bem-vindo nesta cidade.}
+{246}{}{Não vou embora até obter algumas respostas!}
+{247}{}{Vou embora... por enquanto.}
+{248}{lyn026}{Os arquivos são armazenados em nossa vault. Apenas Cidadãos têm acesso... eles NÃO
+ são para Forasteiros.}
+{249}{}{Certo. Onde está o Supervisor? Vou perguntar a ele sobre esses arquivos.}
 {250}{}{But I am a Citizen.}
-{251}{}{How does one become one of you Vault Dwellers?}
-{252}{}{How can I become a Citizen?}
-{253}{}{I've heard enough. Good day.}
-{254}{lyn027}{We no longer consider ourselves to be "Vault Dwellers"... we refer to ourselves as
- "Citizens." If you wish to become part of our community, you must first prove your worth.}
-{255}{}{Prove my worth? How?}
-{256}{}{I am the descendant of the first Vault Dweller -- that should be enough.}
-{257}{}{I'll think about it. Good day.}
-{258}{lyn028}{You misunderstand... it is not the world we object to, it is the people in it. Look
- around -- within these walls is all that remains of pre-war civilization.}
-{259}{}{Where is the Overseer? I need to speak with him.}
-{260}{}{It isn't right you don't share. It's your responsibility to help everyone... not just those
- that live in these walls.}
+{251}{}{Como alguém se torna parte dos Moradores da Vault?}
+{252}{}{Como posso me tornar um Cidadão?}
+{253}{}{Já ouvi o suficiente. Bom dia.}
+{254}{lyn027}{Não nos consideramos mais "Moradores da Vaul"... nos referimos a nós mesmos
+ como "Cidadãos". Se você deseja fazer parte da nossa comunidade, primeiro você deve provar o seu valor.}
+{255}{}{Provar meu valor? Como?}
+{256}{}{Eu sou o descendente do primeiro Morador da Vault - isso deve ser o suficiente.}
+{257}{}{Vou pensar sobre isso. Bom dia.}
+{258}{lyn028}{Você entendeu mal... não é contra o mundo que nos opomos, são as pessoas
+ que vivem nele. Olhe ao redor - dentro dessas paredes está tudo o que resta da civilização pré-guerra.}
+{259}{}{Onde está o Supervisor? Eu preciso falar com ele.}
+{260}{}{Não é certo você não compartilhar. É sua responsabilidade ajudar a todos... não apenas
+ aqueles que vivem nestas paredes.}
 {261}{}{Eu... vejo. Obrigado por enquanto. Bom dia.}
-{262}{lyn029}{You Outsiders are fine ones to lecture about "responsibility." You beg incessantly for
- help, yet do nothing to better yourselves. Our talk is over... leave now, before I summon the guards.}
-{263}{}{You better summon the guards now, because you're not going to have another chance.}
-{264}{}{I'm not leaving until I see the Overseer!}
-{265}{}{I'm leaving... for now.}
-{266}{}{Very well. Thank you for speaking with me. Good day.}
-{267}{lyn030}{"The first Vault Dweller?" What? You must mean another Vault! We have never been in
- contact with another Vault! Where is it located?}
-{268}{}{I think THIS was the vault my ancestor originally came from.}
-{269}{}{I don't live in a Vault. I come from a tribal village from the west.}
-{270}{}{I don't know... you see, I'm trying to find the Vault my ancestor came from.}
-{271}{}{When I find it, I'll be sure to let you know. Good day.}
+{262}{lyn029}{Vocês, estranhos, são bons para dar palestras sobre "responsabilidade". Você implora
+ incessantemente por ajuda, mas não faz nada para melhorar a si mesmo. Nossa conversa acabou... saia agora, antes que eu chame os guardas.}
+{263}{}{É melhor você chamar os guardas agora, porque não vai ter outra chance.}
+{264}{}{Não vou embora até ver o Supervisor!}
+{265}{}{Estou saindo... por enquanto.}
+{266}{}{Muito bem, obrigado por falar comigo. Bom dia.}
+{267}{lyn030}{"O primeiro Morador da Vault?" O que? Você deve estar se referindo a outra Vault! Nunca
+ tivemos contato com outro Vault! Onde está localizada?}
+{268}{}{Acho que ESSE era a vault de onde meu ancestral veio.}
+{269}{}{Eu não moro em uma Vault. Venho de uma aldeia tribal do oeste.}
+{270}{}{Não sei... veja, estou tentando encontrar a Vault de onde meu ancestral veio.}
+{271}{}{Quando encontrar, com certeza avisarei. Bom dia.}
 {272}{lyn031}{We exited the Vault 120 years ago and, with the help of our Eden kit, began construction
  of Vault City. Ten years later, the Overseer retired and a Council of Citizens was established. The
  Council appointed the initial First Citizen.}

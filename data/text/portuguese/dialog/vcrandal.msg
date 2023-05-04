@@ -69,7 +69,7 @@
 {168}{}{Eu posso estar de volta em outra hora.}
 {169}{}{Bem, desculpe informar, mas só estou autorizado a fazer transações com Cidadãos. Sem ofensa a você, mas é regra, sabe? Você pode experimentar o Happy Alegre no pátio.}
 {170}{}{Bem, desculpe informar, mas só estou autorizado a fazer transações com Cidadãos. Sem ofensa a você, mas é regra, sabe? Você pode experimentar o Happy Alegre no pátio.}
-{171}{}{How can I become a Citizen?}
+{171}{}{Como posso me tornar um Cidadão?}
 {172}{}{Mas... uh, eu sou um Cidadão. Você não se lembra de mim?}
 {173}{}{Olha, meu dinheiro vale tanto quanto o de qualquer Cidadão.}
 {174}{}{O Conselheiro McClure disse que você teria um regulador hidroelétrico de magnetosfera em estoque que eu poderia ter.}
