@@ -53,55 +53,55 @@
 {152}{}{Não.}
 {153}{}{Não posso ajudá-lo com isso. No entanto, nossos cientistas em São Francisco podem saber de algo. Talvez você devesse viajar para lá.}
 {154}{}{O libertando dos neurônios que te mantêm em estado de opressão, com um alinhamento. Só então você pode ser Iluminado!}
-{155}{}{Neurodynes are the psychic centers of the body. They become polluted by the spiritual remnants of the people who died in the War. Their psi-energies imprint into our neurodynes at birth and hold us in an oppressive state. Alignment erases these imprints.}
-{156}{}{As long as your brain chemistry is affected by negative psychic energy, your true spiritual potential is oppressed. Worse still, oppressives can transmit this energy unless they are very, very strong-willed.}
-{157}{}{Enlightenment happens when all your neurodynes are aligned. Then you become an AHS, Aligned Hub Seeker, which is the goal of all Hubonites.}
-{158}{}{Neurodynes?}
-{159}{}{Enlightened?}
-{160}{}{Oppressive state?}
-{161}{}{So how's this purging work? Is it painful?}
-{162}{}{It's not painful. You just undergo a zeta-scan. I can do one now, if you like.}
+{155}{}{Os neurodinos são os centros psíquicos do corpo. Eles se tornam poluídos pelos remanescentes espirituais das pessoas que morreram na guerra. Suas energias psíquicas se imprimem em nossas neurodinas no nascimento e nos mantêm em um estado opressivo. O alinhamento apaga essas impressões.}
+{156}{}{Enquanto a química do seu cérebro for afetada pela energia psíquica negativa, seu verdadeiro potencial espiritual será oprimido. Pior ainda, os opressores podem transmitir essa energia, a menos que sejam muito, muito obstinados.}
+{157}{}{A iluminação acontece quando todos as suas neurodinas estão alinhadas. Então você se torna um AHS, Buscador Alinhado ao Eixo, que é o objetivo de todos os hubologistas.}
+{158}{}{Neurodinas?}
+{159}{}{Alinhamento?}
+{160}{}{Estado de Opressão?}
+{161}{}{Então, como funciona essa purga? É dolorosa?}
+{162}{}{Não é doloroso. Você acabou de passar por uma varredura zeta. Posso fazer uma agora, se quiser.}
 {163}{}{Com certeza.}
 {164}{}{De jeito nenhum!}
-{165}{}{The Church of Hubology exists to free mankind from the chains that have kept his full spiritual potential in shackles.}
-{166}{}{How do you do that?}
-{167}{}{Oh yeah, like "Let my psyche go," right?}
-{168}{}{That is not an ability that I possess. Is there something else that I can help you with? An alignment perhaps?}
-{169}{}{I'll take the alignment.}
-{170}{}{I need some information. Vault 13 - what do you know about it?}
-{171}{}{How have things been going?}
-{172}{}{Forget about it. No hard feelings. That's all.}
-{173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
-{174}{}{Yes!!}
-{175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
- Now that we have that out of the way, shall we try again?}
-{176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
+{165}{}{A Igreja da Hubologia existe para libertar a humanidade das correntes que mantiveram todo o seu potencial espiritual preso.}
+{166}{}{Como você faz isso?}
+{167}{}{Oh sim, como "Deixe minha psique ir", certo?}
+{168}{}{Essa não é uma habilidade que possuo. Há algo mais em que eu possa ajudá-lo? Um alinhamento talvez?}
+{169}{}{Eu vou fazer o alinhamento.}
+{170}{}{Eu preciso de algumas informações. Vault 13 - o que você sabe sobre isso?}
+{171}{}{Como vão as coisas?}
+{172}{}{Esqueça isso, sem ressentimentos. Isso é tudo.}
+{173}{}{Isso é impressionante. Embora eu acredite que estamos falando de duas coisas diferentes, ainda parece que você merece um bônus de experiência.}
+{174}{}{Sim!!}
+{175}{}{Está feito. Lembre-se, porém, que há mais na vida do que upar pontos de experiência suficientes para alcançar o próximo nível. Existe todo um mundo "real" lá fora. Agora
+ que resolvemos isso, vamos tentar de novo?}
+{176}{}{Transcendência? Honestamente, como eles esperam que eu espalhe a palavra aqui quando eles nem mesmo me mantêm atualizado sobre a última doutrina!?}
 {177}{}{(Continue)}
-{178}{}{Were you asleep during indoctrination? Hmmph - you are not one of the Enlightened!}
-{179}{}{So you're saying there's some higher power who creates us with a purpose and then just abandons us? I can't believe any being would be so callous. Come, embrace the Church of Hubology. Let us show you the true way.}
-{180}{}{What true way?}
+{178}{}{Você estava dormindo durante a doutrinação? Hmmph - você não é um dos Iluminados!}
+{179}{}{Então você está dizendo que existe algum poder superior que nos cria com um propósito e então simplesmente nos abandona? Não acredito que alguém seja tão insensível. Venha, abrace a Igreja da Hubologia. Nos deixe mostrar o verdadeiro caminho.}
+{180}{}{Qual caminho correto?}
 {181}{}{Não, obrigado.}
-{182}{}{Without control of your own life, though, what's the point? Nothing you do has any value. Did you choose to get up this morning? No, you're just a puppet by your own philosophy. Now, we at the church of Hubology have a true answer.}
-{183}{}{Which is?}
-{184}{}{Sure you do.}
-{185}{}{Oh, what a sad and empty philosophy that is! Even if it were true, the only course for you is to seek to develop yourself. It is the only thing you have any control over. The Church of Hubology can help.}
-{186}{}{How?}
-{187}{}{Oh, get out of my face.}
-{188}{}{Vault 13? Our scientists have been searching for it somewhere to the west. That is all I know. Are you sure you don't want an alignment?}
+{182}{}{Sem o controle de sua própria vida, qual o sentido? Nada do que você faz tem valor. Você escolheu se levantar esta manhã? Não, você é apenas um fantoche de sua própria filosofia. Agora, nós da igreja da Hubologia temos uma resposta verdadeira.}
+{183}{}{Qual é?}
+{184}{}{Com certeza.}
+{185}{}{Oh, que triste e vazia filosofia é essa! Mesmo que fosse verdade, o único caminho para você é buscar se desenvolver. É a única coisa sobre a qual você tem algum controle. A Igreja da Hubologia pode ajudar.}
+{186}{}{Como?}
+{187}{}{Ah, saia da minha frente.}
+{188}{}{Vault 13? Nossos cientistas têm procurado por ela em algum lugar a oeste. Isto é tudo que eu sei. Tem certeza que não quer um alinhamento?}
 {189}{}{Claro, porque não.}
-{190}{}{No thanks. I'm fine.}
-{191}{}{I tell you, spreading the word of Hubology out here is harder than you can imagine! AHS-9 just doesn't understand the difficulty. In fact, I've written it all down. Say, would you be willing to deliver it to AHS-9 in San Francisco? I can't promise any reward, but I know AHS-9 will appreciate it.}
+{190}{}{Não, obrigado. Estou bem.}
+{191}{}{Te asseguro que divulgar a Hubologia por aqui é mais difícil do que você imagina! AHS-9 simplesmente não entende essa dificuldade. Na verdade, eu escrevi tudo. Olha, você estaria disposto a entregá-lo ao AHS-9 em San Francisco? Não posso prometer nenhuma recompensa, mas sei que o AHS-9 vai gostar.}
 {192}{}{Claro, por que não?}
-{193}{}{No thanks. I don't get involved.}
-{194}{}{Excellent. Here is the letter. Now, can I do anything else for you? A zeta-scan?}
-{195}{}{A scan? Why not.}
-{196}{}{You've already done enough. Bye.}
-{197}{}{Then I've spoken too much already. Goodbye.}
-{198}{}{Greetings again. How can the Church of Hubology help you?}
+{193}{}{Não, obrigado. Não quero me envolver.}
+{194}{}{Excelente, aqui está a carta. Agora, posso fazer mais alguma coisa por você? Uma varredura zeta?}
+{195}{}{Uma varredura? Por que não.}
+{196}{}{Você já fez o suficiente. Tchau.}
+{197}{}{Então já falei demais. Adeus.}
+{198}{}{Saudações novamente. Como a Igreja da Hubologia pode ajudá-lo?}
 {199}{}{<Babando>}
 {200}{}{Então você é o inseto que Merk quer que eu esmague!}
 {201}{}{Uh, eu realmente não sei do que você está falando.}
-{202}{}{What does the church do?}
+{202}{}{O que a igreja faz?}
 {203}{}{Oops. Wrong door.}
 {204}{}{Killing me will serve no purpose. I'm not a threat to Merk, I simply irritate him because of my beliefs. I hope you'll refuse to honor the contract.}
 {205}{}{Yeah, you seem harmless.}

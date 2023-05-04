@@ -1,16 +1,16 @@
 {100}{}{Você vê um guerreiro.}
-{101}{}{You see Serin.}
-{102}{}{He looks badly injured and has a broken leg.}
-{103}{}{You see Serin. He looks badly injured and has a broken leg.}
-{104}{}{You see Serin. His leg is bandaged and he is hobbling.}
-{105}{}{You see Serin. He looks better and he is in a deep sleep.}
-{106}{}{You see Serin. He looks like he has recovered nicely.}
-{200}{}{*ugh* Die fiend!! You won't be ta-}
-{201}{}{Calm down. You're safe now. The gecko is dead.}
-{202}{}{What!? Oh, praise the spirits, fren. I feared I be done for.}
-{203}{}{What happened here?}
-{204}{}{Jerem and I be going out for weekly hunt. Took cave passage to field where many geckos roam. Hunt went bad. Had to run. Too many geckos with spirits of fury. We entered cave. Started yelling for help. [He pauses for a moment and winces in pain as he tries to rub his leg.]}
-{205}{}{Please go on.}
+{101}{}{Você vê Serin.}
+{102}{}{Ele parece gravemente ferido e tem uma perna quebrada.}
+{103}{}{Você vê Serin. Ele parece gravemente ferido e tem uma perna quebrada.}
+{104}{}{Você vê Serin. Sua perna está enfaixada e ele está mancando.}
+{105}{}{Você vê Serin. Ele parece melhor e está em um sono profundo.}
+{106}{}{Você vê Serin. Parece que ele se recuperou bem.}
+{200}{}{*ugh* Morra demônio!! Você não vai ser ta-}
+{201}{}{Acalme-se, você está seguro agora. O gecko esta morto.}
+{202}{}{O que!? Oh, louvado sejam os espíritos, amigo. Tive medo de estar acabado.}
+{203}{}{O que aconteceu aqui?}
+{204}{}{Jerem e eu vamos caçar toda semana. Tomou a passagem da caverna para o campo onde muitos geckos vagam. Hunt foi mal. Tive que correr. Muitos geckos com espíritos de fúria. Entramos na caverna. Começou a gritar por socorro. [Ele faz uma pausa por um momento e estremece de dor enquanto tenta esfregar a perna.]}
+{205}{}{Por favor, continue.}
 {206}{}{Passage was already on brink of doom. Water seeping in from stream overhead. A deadly pass, but it be a great shortcut to fields. Not no more. See, we be yelling like fools and the ceiling come crashing down on us.}
 {207}{}{[Continuar]}
 {208}{}{Poor Jerem. I saw big rock crush him like bug. The big rocks missed me, but the Gecko's bite didn't. Just when I thinking I be safe, a gecko come from nowhere and take big bite outta leg. Took me right to the ground. Had no spear, thought the Gecko be dining on me for sure. But the spirits had other plans. Brought a final big 'o rock down on the geckos head. Crushed it flat. But crushed my leg, too.}

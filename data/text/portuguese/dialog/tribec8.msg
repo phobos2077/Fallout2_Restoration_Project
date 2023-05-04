@@ -31,15 +31,15 @@
 {314}{}{Hmmf. Go bother someone else.}
 {315}{}{Did you bring the firewood?}
 {316}{}{Yeah, I got it right here.}
-{317}{}{No, not yet. I'll be back when I get the three bundles.}
-{318}{}{Are you ready to help me?}
+{317}{}{Não, ainda não. Voltarei quando conseguir os três pacotes.}
+{318}{}{Você está pronto para me ajudar?}
 {319}{}{Com certeza. O que você precisa?}
-{320}{}{No, I still need more time. Bye.}
-{321}{}{No, and I won't be. Deal with your own problems. Bye.}
-{330}{}{No real use for it? Then why didn't you give it to me in the first place? (mumble) Stupid bitch.}
-{400}{}{Whut you need?}
-{401}{}{Ooo! Make me favorite food!}
-{410}{}{I look.}
-{411}{}{I have wood. Heh-heh... wood.}
-{420}{}{That ok. Bye!}
-{500}{}{Vile slaver!}
+{320}{}{Não, ainda preciso de mais tempo. Tchau.}
+{321}{}{Não, e não estarei. Lide com seus próprios problemas. Tchau.}
+{330}{}{Nenhum uso real para isso? Então por que você não me deu em primeiro lugar? (murmúrio) Vadia estúpida.}
+{400}{}{Do que você precisa?}
+{401}{}{Ooo! Me faz comida favorita!}
+{410}{}{Eu vejo.}
+{411}{}{Eu tenho madeira. Heh-heh... madeira.}
+{420}{}{Está ok. Tchau!}
+{500}{}{Vil escravista!}
