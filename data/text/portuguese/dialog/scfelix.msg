@@ -1,7 +1,7 @@
-{100}{}{You see a man wearing leathers and packing heat.}
-{101}{}{It's Felix, the ranch foreman.}
-{102}{}{He looks like a cooler, tougher customer than the rest of the lot hanging around here.}
-{103}{}{What can I do for you, stranger?}
+{100}{}{Você vê um homem vestindo roupas de couro com uma arma escondida.}
+{101}{}{É Felix, o capataz do rancho.}
+{102}{}{Ele parece um cliente mais frio e durão do que o resto do pessoal por aqui.}
+{103}{}{O que posso fazer por você, estranho?}
 {104}{}{Você novamente?}
 {105}{}{Nyeh.}
 {106}{}{O xerife me disse para passar aqui, disse que o Sr. Westin pode ter um trabalho para mim.}
@@ -43,7 +43,7 @@
 {142}{}{Sim. Estou saindo daqui.}
 {143}{}{Certo. Alguém, ou alguma coisa, tem matado brahmins no pasto oeste. Eu levo você lá para cuidar disso. Vamos.}
 {144}{}{Esqueça isso!}
-{145}{}{Mr. Westin is waiting for you.}
-{146}{}{Well, we were having a problem with varmints, but they stopped hassling us. You can see Westin if you want.}
-{147}{}{I'm here on business from Vault City.}
-{500}{}{You touch that door again and there'll be hell to pay. Got that, buddy?}
+{145}{}{O Sr. Westin está esperando por você.}
+{146}{}{Bem, estávamos tendo problemas com os vermes, mas eles pararam de nos incomodar. Você pode ver Westin se quiser.}
+{147}{}{Estou aqui por negócios de Vault City.}
+{500}{}{Se você tocar naquela porta de novo, vai pagar caro. Entendeu, amigo?}

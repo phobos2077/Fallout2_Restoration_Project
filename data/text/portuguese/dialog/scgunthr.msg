@@ -18,12 +18,12 @@
 {117}{}{Não?}
 {118}{}{Oh, ok.}
 {119}{}{OK. Não tenho certeza se é isso que você está procurando. De qualquer forma, ela disse para mandar todos entrarem, pode ir. Fale com Tandi agora.}
-{120}{}{NO! You are dumb. President must be smart, talk in two-syllable words! You no president.}
-{121}{}{Oh. What me do?}
-{122}{}{Me no like you. You yell. Bad man.}
-{123}{}{My name is Gunther, personal assistant to President Tandi. Now, what can I do for you?}
-{124}{}{I'm searching for Vault 13.}
-{125}{}{I'm looking for the GECK.}
+{120}{}{NÃO! Você é idiota. presidente deve ser esperta, falar com palavras de duas sílabas! Você não é presidente.}
+{121}{}{Oh. O que eu faço?}
+{122}{}{Eu não gosto de você. Você grita. Homem mau.}
+{123}{}{Meu nome é Gunther, assistente pessoal da presidente Tandi. Agora, o que posso fazer por você?}
+{124}{}{Estou procurando pela Vault 13.}
+{125}{}{Estou procurando pelo GECK.}
 {126}{}{I understand the president has a job to be done.}
 {127}{}{Madam President no longer grants interviews regarding Vault 13. I'm sorry. She's too busy to see every prospector who comes through.}
 {128}{}{Huh? I don't get it.}
@@ -32,7 +32,7 @@
 {131}{}{You're useless. I'm going.}
 {132}{}{Então sugiro que você leia a placa na estátua do lado de fora. Agora, bom dia.}
 {133}{}{Eu não tenho ideia do que você está falando. Você tem uma pergunta de verdade?}
-{134}{}{I'm searching for Vault 13.}
+{134}{}{Estou procurando pela Vault 13.}
 {135}{}{I understand the president has a job to be done.}
 {136}{}{Não importa.}
 {137}{}{Ah sim. Bem, ela me instruiu a deixar qualquer um que perguntasse sobre isso passar. Pode passar, é a porta à minha direita.}

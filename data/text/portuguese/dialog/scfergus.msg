@@ -1,5 +1,5 @@
-{100}{}{You see a plain-looking young man in respectable clothing.}
-{101}{}{It's the building receptionist.}
+{100}{}{Você vê um jovem de aparência simples em roupas respeitáveis.}
+{101}{}{É o recepcionista do prédio.}
 {102}{}{Não há nada particularmente excepcional sobre o cara. Ele parece o epítome de um burocrata em ascensão.}
 {103}{}{Bem-vindo à Casa do Congresso. Como posso te ajudar?}
 {104}{}{De volta, entendo. Como posso te ajudar desta vez?}

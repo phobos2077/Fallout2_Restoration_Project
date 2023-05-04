@@ -1,7 +1,7 @@
-{100}{}{You see a diligent-looking guard. The guard is outfitted in metal armor
- and is carrying an assault rifle.}
-{101}{}{You see a Vault City guard.}
-{102}{}{Yes? What is it?}
+{100}{}{Você vê um guarda de aparência diligente. O guarda está equipado com
+ armadura de metal e carrega um rifle de assalto.}
+{101}{}{Você vê um guarda de Vault City.}
+{102}{}{Sim? O que é?}
 {103}{}{Eu estou indo para um GRANDE buraco ao lado de uma montanha}
 {104}{}{Eu gostaria de entrar na Vault.}
 {105}{}{Nada, desculpe incomodar.}
@@ -34,7 +34,7 @@
 {129}{}{Claro. Por favor, passe.}
 {130}{}{Thankee!}
 {131}{}{Obrigado.}
-{132}{}{Yes? May I help you?}
+{132}{}{Sim? Posso te ajudar?}
 {133}{}{Eu gostaria de entrar na Vault.}
 {134}{}{Nada, desculpe incomodá-lo.}
 {135}{}{I apologize, but only Citizens may enter the Vault.}

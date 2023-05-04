@@ -102,20 +102,20 @@
 {200}{}{Então você é o inseto que Merk quer que eu esmague!}
 {201}{}{Uh, eu realmente não sei do que você está falando.}
 {202}{}{O que a igreja faz?}
-{203}{}{Oops. Wrong door.}
-{204}{}{Killing me will serve no purpose. I'm not a threat to Merk, I simply irritate him because of my beliefs. I hope you'll refuse to honor the contract.}
-{205}{}{Yeah, you seem harmless.}
-{206}{}{Forget it. You're one dead Hubologist.}
-{207}{}{I don't have time for idiots. Please go away.}
-{208}{}{Out, apostate!}
-{209}{}{There is nothing you can say to gain favor in the Church of Hubology, blasphemer.}
-{210}{}{Close your eyes. This won't hurt a bit.}
-{211}{}{There. We erased a few nasty imprints! You are now an AHS-1. Now, if you'll excuse me, I have to tend my church.}
-{212}{}{Greetings, fellow seeker. There is nothing more I can do for you. You must continue your journey as an AHS-1 on your own.}
-{213}{}{The church is closed. Come back tomorrow.}
-{214}{}{I would love to help you, but even an AHS-4 must sleep. Come back in daylight.}
-{215}{}{Intruder! Do you plan to desecrate this place? Out!}
-{216}{}{Wonderful, sister. So what level are you?}
-{217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
+{203}{}{Ops. Porta errada.}
+{204}{}{Me matar não servirá de nada. Não sou uma ameaça para Merk, somente o irrito por causa de minhas crenças. Espero que se recuse a honrar o contrato.}
+{205}{}{Sim, você parece inofensiva.}
+{206}{}{Esqueça. Você será uma Hubologista morta.}
+{207}{}{Não tenho tempo para idiotas. Por favor, vá embora.}
+{208}{}{Fora, apóstata!}
+{209}{}{Não há nada que você possa dizer para ganhar favores na Igreja da Hubologia, blasfemador.}
+{210}{}{Feche seus olhos. Isso pode doer um pouco.}
+{211}{}{Apagamos algumas impressões desagradáveis! Agora você é um AHS-1. Agora, se me der licença, tenho que ir à minha igreja.}
+{212}{}{Saudações, companheiro de busca. Não há mais nada que eu possa fazer por você. Você deve continuar sua jornada como um AHS-1 por conta própria.}
+{213}{}{A igreja está fechada. Volte amanhã.}
+{214}{}{Eu adoraria te ajudar, mas mesmo um AHS-4 deve dormir. Volte à luz do dia.}
+{215}{}{Intruso! Você planeja profanar este lugar? Fora!}
+{216}{}{Maravilhoso, irmã. Então, em que nível você está?}
+{217}{}{. Tenho certeza de que se continuar vagando e matando criaturas aleatórias, vou atingir o nível 99 rapidinho.}
 {218}{}{Você ganhou }
-{219}{}{ experience points for "taking care of" the Hubologist for Merk.}
+{219}{}{ pontos de experiência por "cuidar" da Hubologista para Merk.}

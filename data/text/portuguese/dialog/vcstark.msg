@@ -289,9 +289,9 @@
 {387}{}{The Vault's right outside the door... ma'am.}
 {388}{}{You have scouted Gecko for Vault City.}
 {389}{}{You have scouted NCR for Vault City.}
-{390}{}{Like what... ma'am?}
-{391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
-{392}{}{Just gun down a few rats? Ok, I'm on it.}
+{390}{}{Como o que... senhora?}
+{391}{}{Sim, há algo... Eu estive olhando seu relatório de reconhecimento e encontrei uma pequena vila próxima repleta de uhh... "ratos-toupeira", é como os forasteiros os chamam, certo? Eu quero que você vá lá e extermine todas aquelas feras.}
+{392}{}{Apenas atirar em alguns ratos? Ok, me parece bom.}
 {393}{}{What for?}
 {394}{}{E a expedição da NCR?}
 {395}{}{Vou pensar sobre isso. Posso te fazer algumas perguntas?}
@@ -329,7 +329,7 @@
 {427}{}{Harry Alegre, isso você diz?... imagino que seja um daqueles canalhas no pátio. Ok, eu vou lidar com ele. Veremos como ele ficará "alegre" quando eu terminar. Quanto a você, pode pegar o que encontrar na loja dele como recompensa por ter me informado.}
 {428}{}{Não sei por que, mas o procônsul McClure me ordenou que esperasse um pouco na questão da aldeia. Isso se aplica a você também. }
 {429}{}{Hmm... Ok.}
-{1215}{}{I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
-{1224}{}{You did? So, they will no longer be a threat to us?}
-{1251}{}{Actually, I already put a stop to them. I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
-{1422}{}{Well, I agree. They're better off this way. Goodbye.}
+{1215}{}{Convenci o guia deles a não conduzi-los mais pelas montanhas. Eles nunca encontrarão seu caminho sem ele.}
+{1224}{}{Você fez? Então, eles não serão mais uma ameaça para nós?}
+{1251}{}{Na verdade, eu já coloquei um fim neles. Convenci o guia deles a não conduzi-los mais pelas montanhas. Eles nunca encontrarão seu caminho sem ele.}
+{1422}{}{Bem, eu concordo, eles estão melhor assim. Adeus.}

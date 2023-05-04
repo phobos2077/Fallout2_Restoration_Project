@@ -5,7 +5,7 @@
 {104}{}{Apenas saiba onde pisar e nós nos daremos bem, estranho.}
 {105}{}{Você tem perguntas? Procure o Xerife Dumont. Ele vai te informar.}
 {106}{}{As leis estão no quadro de avisos do lado de fora. Sem armas, sem bêbados, sem problemas.}
-{107}{}{What can I do for you, stranger?}
+{107}{}{O que posso fazer por você, estranho?}
 {108}{}{Você novamente?}
 {109}{}{Eu entro.}
 {110}{}{Eu gostaria de entrar na NCR.}
