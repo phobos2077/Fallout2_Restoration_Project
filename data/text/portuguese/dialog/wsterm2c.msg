@@ -1,14 +1,14 @@
-{100}{}{A Computer Terminal.}
-{101}{}{A rather antiquated computer. CPU speed of only 500hz.}
+{100}{}{Um Terminal De Computador.}
+{101}{}{Um computador bastante antiquado. Velocidade da CPU de apenas 500 Hz.}
 {102}{}{Você é incapaz de ler o que está no monitor.}
-{103}{}{Automated Repair Station
-                                  Processing Repair Requests from Skynet
-                        Dispatching Repair Units}
+{103}{}{Estação de Reparação Automatizada
+                                           Processando solicitações de reparo da Skynet
+                               Despachando unidades de reparo}
 {104}{}{}
 {105}{}{}
-{106}{}{Attempt to disable the repair station.}
-{107}{}{Unplug the computer.}
-{108}{}{Push the big red button marked with the letters OFF.}
+{106}{}{Tente desativar a estação de reparo.}
+{107}{}{Desconecte o computador.}
+{108}{}{Pressione o grande botão vermelho marcado com as letras 'OFF'.}
 {109}{}{Sair}
 {110}{}{[You can't seem to figure out how to shut the program down.]}
 {111}{}{Sair}

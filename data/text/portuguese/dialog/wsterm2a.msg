@@ -80,12 +80,12 @@
 {305}{}{5 de agosto de 2077}
 {306}{}{ dias atrás.}
 {307}{}{
-                                             Warning! Intruder Detected Level }
+                                             Alerta! Intrusão Detectado no Nível }
 {308}{}{
-                                             Warning! Intruder Detected Levels: }
+                                             Alerta! Intruso Detectado nos Níveis: }
 {309}{}{
-                               }
+                                        }
 {310}{}{
-                                             }
+                                                         }
 {311}{}{
-                       }
+                             }
