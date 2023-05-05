@@ -1,7 +1,7 @@
-{100}{}{You see a pudgy guy with a shiny bald head and thick-lensed glasses.}
-{101}{}{It's Dr. Henry.}
-{102}{}{This guy is so out of place it's painful. He's got that egghead, not living in the real world air about him, that's for sure.}
-{103}{}{Excuse me, I'm Dr. Henry and I'm very busy. What do you want?}
+{100}{}{Você vê um cara gorducho com uma careca brilhante e óculos de lentes grossas.}
+{101}{}{É o Dr. Henry.}
+{102}{}{Esse cara é tão deslocado que chega a doer. Ele é um daqueles intelectuais que vive em seu próprio mundo, com certeza.}
+{103}{}{Com licença, sou o Dr. Henry e estou muito ocupado. O que você quer?}
 {104}{}{Você de novo? O que você quer?}
 {105}{}{Hurgh.}
 {106}{}{Eu sou}

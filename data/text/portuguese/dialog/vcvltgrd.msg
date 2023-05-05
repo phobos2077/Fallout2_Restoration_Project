@@ -32,7 +32,7 @@
 {127}{}{Tudo bem.}
 {128}{}{Umgh}
 {129}{}{Claro. Por favor, passe.}
-{130}{}{Thankee!}
+{130}{}{Brigadooo!}
 {131}{}{Obrigado.}
 {132}{}{Sim? Posso te ajudar?}
 {133}{}{Eu gostaria de entrar na Vault.}

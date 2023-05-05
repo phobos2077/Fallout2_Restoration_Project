@@ -65,20 +65,20 @@
 {283}{}{We'll offer you ten golden gecko skins. No more.}
 {284}{}{Let me think it over for a moment.}
 {285}{}{Nenhum acordo.}
-{290}{}{[Roy's face lights up.] Excellent choice! It's a deal then. [The items are quickly exchanged, then Roy hastens
- off to his next stop.]}
-{300}{}{[Roy chuckles and glances at his bodyguards before returning his eye to you.] Look, a single stimpak is worth much
- more than a single golden pelt. So you see, I'm already offering them to you at an outrageous discount. To ask more of me
- would be robbery. Twenty pelts, or I'll move on to a tribe that's more reasonable.}
-{301}{}{Alright. We'll do it.}
-{302}{}{Then you better get moving. No deal.}
-{303}{}{Let me think about it a moment.}
-{305}{}{[Roy frowns and scratches his scruffy neck. Finally, he lets out a long sigh.] You're killing me, you know that?
- But as a favor to your tribe, I'll accept your deal. [The items are quickly exchanged, then Roy hastens off to his next
- stop.]}
-{310}{}{[He frowns.] I don't know what kind of an idiot would turn down a deal like this. [He shakes his head and turns
- to his men.] Alright, let's go. [He glances back at you.] And fuck you for wasting my time.}
-{311}{}{[Let them leave.]}
+{290}{}{[O rosto de Roy se ilumina.] Excelente escolha! Temos um acordo. [Os itens são trocados rapidamente, então
+ Roy se apressa para sua próxima parada.]}
+{300}{}{[Roy ri e olha para seus guarda-costas antes de voltar a olhar para você.] Olha, um único estimulante vale muito mais
+ do que uma única pele dourada. Então, veja, eu já estou oferecendo a você com um desconto ultrajante, pedir mais de mim
+ seria roubo. Vinte peles, ou vou para uma tribo mais razoável.}
+{301}{}{Tudo bem. Nós vamos fazer.}
+{302}{}{Então é melhor você se mexer. Sem trato.}
+{303}{}{Deixe eu pensar sobre isso um pouco.}
+{305}{}{[Roy franze a testa e coça o pescoço desalinhado. Finalmente, ele solta um longo suspiro.] Você está me matando,
+ sabia? Mas como um favor para sua tribo, aceitarei seu acordo. [Os itens são trocados rapidamente, então Roy se
+ apressa para sua próxima parada.]}
+{310}{}{[Ele franze a testa.] Não sei que tipo de idiota recusaria um acordo como esse. [Ele balança a cabeça e se vira
+ para seus homens.] Tudo bem, vamos embora. [Ele olha para você.] Você que se foda por desperdiçar meu tempo.}
+{311}{}{[Indo embora.]}
 {312}{}{[Ataca]}
 {320}{}{No catch, my friend. I simply already have all the stimpaks I need, so I'm offloading my excess supply.
  Golden pelts, on the other hand... I could never have enough of those. Sure, fifty stimpaks are worth far more than
@@ -109,6 +109,6 @@
 {380}{}{[He sneers.] Alright! Fine! If you say they're fake, then maybe they are. How should I know? I didn't make the
  fucking things -- I bought 'em. So *I'm* the one that was ripped off here -- not you. Now, since there's no deal, I'm not
  gonna waste my time here any longer. Bye.}
-{381}{}{[Let them leave.]}
+{381}{}{[Indo embora.]}
 {382}{}{[Ataca]}
 {390}{}{Who the fuck do you think you are? [To his bodyguards.] Kill these goddamn tribals!}

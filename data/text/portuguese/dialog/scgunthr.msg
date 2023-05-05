@@ -62,21 +62,21 @@
 {161}{}{Dê uma olhada neste disco.}
 {162}{}{Que seja, vou sair daqui.}
 {163}{}{Droga, parece uma prova sólida. Olha, nós cuidaremos disso. Aqui estão $4000 pela informação.}
-{164}{}{I don't take blood money. I'm out of here.}
-{165}{}{Thanks. Have a nice day.}
-{166}{}{Oh, it's you. Look, this is not a good time. In fact, I think Madam President would rather not get you involved in anything else. Thank you and good day.}
-{167}{}{Let me make myself clear. The President is not going to see you - now or ever. You've been paid. Now just leave.}
+{164}{}{Eu não aceito dinheiro de sangue. Vou saindo daqui.}
+{165}{}{Obrigado, tenha um bom dia.}
+{166}{}{Ah é você. Olha, não é uma boa hora. Na verdade, acho que a senhora presidente prefere não te envolver em mais nada. Obrigado e bom dia.}
+{167}{}{Deixe-me ser claro, a presidente não vai te ver. Agora ou nunca. Você foi pago, agora é só sair.}
 {171}{}{Eu vou.}
-{172}{}{Absolutely nothing.}
-{173}{}{You bitch! Guards! Assassin. Murderer!}
-{174}{}{I've been to Vault 15 and I need to talk to your boss about it.}
-{175}{}{Me need talk about Vault 15.}
-{176}{}{You should know there's a spy in your house - somebody named F.}
-{177}{}{Me also find spy. Ferrrgus.}
-{178}{}{Me no lie. Lookie. (You hand him the disk.)}
-{179}{}{Thankee!}
-{500}{}{We keep the doors locked for a reason.}
-{501}{}{I must ask you to leave.}
-{502}{}{This is your last warning. Leave before I have you removed.}
-{503}{}{Security - please deal with this pest.}
-{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}
+{172}{}{Absolutamente nada.}
+{173}{}{Sua vadia! Guardas! Assassino. Assassino!}
+{174}{}{Estive na Vault 15 e preciso falar com sua chefe sobre isso.}
+{175}{}{Eu preciso falar sobre a Vault 15.}
+{176}{}{Você deve saber que há um espião em sua casa, alguém que tem o nome que começa com F.}
+{177}{}{Eu também encontro espião. Ferrgus.}
+{178}{}{Eu não minto. Olha. (Você entrega o disco a ele.)}
+{179}{}{Brigadooo!}
+{500}{}{Mantemos as portas trancadas por um motivo.}
+{501}{}{Devo te pedir para sair.}
+{502}{}{Este é seu último aviso. Saia antes que eu te tire daqui.}
+{503}{}{Segurança, por favor, lide com esta praga.}
+{510}{}{Bem, espere um minuto. Tenho mais a discutir com sua chefe sobre a Vault 15.}
