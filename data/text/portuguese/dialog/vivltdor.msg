@@ -1,7 +1,7 @@
-{100}{}{You see a typical Vault door.}
-{101}{}{This is a typical Vault door. It looks like its power couplings are stuck.}
-{102}{}{Door no move.}
-{103}{}{This door's stuck. It'd take a very strong person to open it.}
+{100}{}{Você vê uma porta típica de Vault.}
+{101}{}{Esta é uma porta típica de Vault. Parece que seus acoplamentos de energia estão presos.}
+{102}{}{A porta não se move.}
+{103}{}{Esta porta está emperrada. Seria preciso uma pessoa muito forte para abri-la.}
 {104}{}{*Hrnnnnnn*... *hfff*... *hfff*}
 {105}{}{Mesmo com o pé de cabra, você ainda não é forte o suficiente para forçar a porta.}
 {106}{}{*Hrnnnnnn*}
@@ -13,4 +13,4 @@
 {112}{}{A porta está emperrada, não fechada.}
 {113}{}{Porta emperrada, não bloqueada.}
 {114}{}{A porta não fecha. Está emperrada.}
-{115}{}{Door no move.}
+{115}{}{A porta não se move.}
