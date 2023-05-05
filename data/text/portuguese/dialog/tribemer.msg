@@ -80,35 +80,35 @@
  para seus homens.] Tudo bem, vamos embora. [Ele olha para você.] Você que se foda por desperdiçar meu tempo.}
 {311}{}{[Indo embora.]}
 {312}{}{[Ataca]}
-{320}{}{No catch, my friend. I simply already have all the stimpaks I need, so I'm offloading my excess supply.
- Golden pelts, on the other hand... I could never have enough of those. Sure, fifty stimpaks are worth far more than
- a mere twenty golden gecko pelts, but I'm being realistic. I can't expect your tribe -- skilled hunters though I'm sure
- you are -- to have a hundred golden gecko hides laying around, so I'm making a more reasonable offer. *That's* why it's
- such a good deal.}
+{320}{}{Não tem trapaça, meu amigo. Eu já tenho todos os stimpaks de que preciso, então estou me livrando
+ do meu excesso de estoque. Peles douradas, por outro lado... Eu nunca poderia ter o suficiente delas. Claro, cinquenta
+ stimpaks valem muito mais do que meras vinte peles douradas de gecko, estou sendo realista. Não posso esperar que
+ sua tribo, mesmo sendo de caçadores habilidosos, o que inclui você, tenha cem peles de gecko douradas por aí, então
+ estou fazendo uma oferta mais razoável. É por isso que é um bom negócio.}
 {321}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
-{322}{}{Before we agree to anything, I'd like to have a look at the rest of the goods.}
-{330}{}{[His eye narrows slightly, then he grins.] Of course. They're in this crate next to me.}
+{322}{}{Antes de concordarmos com qualquer coisa, gostaria de dar uma olhada no resto dos produtos.}
+{330}{}{[Seu olho se estreita ligeiramente, então ele sorri.] Claro. Estão nesta caixa ao meu lado.}
 {331}{}{[FEITO]}
-{340}{}{Alright, but don't take too long. We've got another stop to make before nightfall.}
-{350}{}{Alright, if you're done messing around, let's get this show on the road. I'm a busy man.}
-{351}{}{Alright. We'll accept the deal.}
+{340}{}{Tudo bem, mas não demore muito. Temos outra parada a fazer antes de anoitecer.}
+{350}{}{Tudo bem, se você acabou com as brincadeiras, vamos colocar o pé na estrada. Eu sou um homem ocupado.}
+{351}{}{Tudo bem. Aceitaremos o acordo.}
 {352}{}{Nenhum acordo.}
-{353}{}{I need to think about this a little more.}
-{354}{}{I've got a new deal for you: give us the stimpaks, and you get to keep your life.}
-{360}{}{You're a busy guy, huh? You're also a liar and a cheat.}
-{361}{}{Those stimpaks are fake. They're nothing but hypodermics filled with brahmin blood. You were trying to rip this tribe off.}
-{362}{}{I need to think about this a little more.}
-{363}{}{Alright. We'll accept the deal.}
-{370}{}{[He shifts uncomfortably, and casts a nervous glance at Krom.] Wh-what are you talking about?}
-{371}{}{Those stimpaks are fake. They're nothing but hypodermics filled with brahmin blood. You were trying rip this
- tribe off.}
-{372}{}{Wha-- that's impossible. You saw the demonstration. They work fine. I'm not going to stand here and let you try
- and ruin my good name.}
-{373}{}{Sure, the stimpak you used during the demonstration was real. But I'd like to see you try it again using one of the stimpaks in that crate.}
-{374}{}{Fuck your good name. It's not going to be any use to you after I'm done. [Attack.]}
-{380}{}{[He sneers.] Alright! Fine! If you say they're fake, then maybe they are. How should I know? I didn't make the
- fucking things -- I bought 'em. So *I'm* the one that was ripped off here -- not you. Now, since there's no deal, I'm not
- gonna waste my time here any longer. Bye.}
+{353}{}{Preciso pensar um pouco mais sobre isso.}
+{354}{}{Tenho um novo acordo para você: Nos dê seus stimpaks e poderá ficar com sua vida.}
+{360}{}{Você é um cara ocupado, é? E também é um mentiroso e trapaceiro.}
+{361}{}{Esses stimpaks são falsos, eles não passam de hipodérmicos cheios de sangue de brahmin. Você estava tentando roubar essa tribo.}
+{362}{}{Preciso pensar um pouco mais sobre isso.}
+{363}{}{Tudo bem. Aceitaremos o acordo.}
+{370}{}{[Ele se mexe desconfortavelmente e lança um olhar nervoso para Krom.] Do que você está falando?}
+{371}{}{Esses stimpaks são falsos, eles não passam de hipodérmicos cheios de sangue de brahmin. Você estava tentando
+ roubar essa tribo.}
+{372}{}{O que-- isso é impossível. Você viu a demonstração, eles funcionam bem. Não vou ficar aqui e deixar você tentar
+ arruinar meu bom nome.}
+{373}{}{Claro, o stimpak que você usou durante a demonstração era real. Mas eu gostaria de ver você tentar novamente usando um dos stimpaks naquela caixa.}
+{374}{}{Foda-se o seu bom nome. Não vai servir de nada depois que eu terminar com você. [Ataque.]}
+{380}{}{[Ele zomba.] Tudo bem! Se você diz que eles são falsos, talvez eles sejam. Como eu deveria saber? Eu não fiz
+ essas porras, eu comprei. Então eu sou aquele que foi ROUBADO aqui, não você. Agora, como não tem acordo, não vou
+ mais perder meu tempo aqui. Tchau.}
 {381}{}{[Indo embora.]}
 {382}{}{[Ataca]}
-{390}{}{Who the fuck do you think you are? [To his bodyguards.] Kill these goddamn tribals!}
+{390}{}{Que diabo você pensa que é? [Para seus guarda-costas.] Matem esses malditos tribais!}

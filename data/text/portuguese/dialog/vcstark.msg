@@ -292,7 +292,7 @@
 {390}{}{Como o que... senhora?}
 {391}{}{Sim, há algo... Eu estive olhando seu relatório de reconhecimento e encontrei uma pequena vila próxima repleta de uhh... "ratos-toupeira", é como os forasteiros os chamam, certo? Eu quero que você vá lá e extermine todas aquelas feras.}
 {392}{}{Apenas atirar em alguns ratos? Ok, me parece bom.}
-{393}{}{What for?}
+{393}{}{Pelo que?}
 {394}{}{E a expedição da NCR?}
 {395}{}{Vou pensar sobre isso. Posso te fazer algumas perguntas?}
 {396}{}{Não, não é o meu tipo de trabalho. Adeus.}
