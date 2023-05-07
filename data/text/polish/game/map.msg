@@ -180,7 +180,7 @@
 {309}{}{Krypta 15: poziom 2}
 {310}{}{Krypta 15: poziom 3}
 {311}{}{Osiedleńcy}
-{312}{}{}
+{312}{}{Osiedleńcy}
 {313}{}{}
 {314}{}{Osiedleńcy}
 {315}{}{}

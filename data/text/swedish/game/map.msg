@@ -180,7 +180,7 @@
 {309}{}{Vault 15: Level 2}
 {310}{}{Vault 15: Level 3}
 {311}{}{Squatters}
-{312}{}{}
+{312}{}{Squatters}
 {313}{}{}
 {314}{}{Squatters}
 {315}{}{}
