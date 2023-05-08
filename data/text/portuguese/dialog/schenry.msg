@@ -5,17 +5,17 @@
 {104}{}{Você de novo? O que você quer?}
 {105}{}{Hurgh.}
 {106}{}{Eu sou}
-{107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
-{108}{}{Ever heard of a place called the Enclave?}
+{107}{}{Chega de conversa. Você tem alguns papéis que o Sr. Merk quer, me entregue e ninguém se machuca.}
+{108}{}{Já ouviu falar de um lugar chamado Enclave?}
 {109}{}{Não é da sua conta.}
-{110}{}{Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.}
-{111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
+{110}{}{Hmm, desenvolvimento craniano abaixo da média... Desenvolvimento intelectual atrofiado. No entanto, nenhuma mutação física grosseira. Não, você não vai fazer nada, eu tenho medo. Bom dia.}
+{111}{}{O Escolhido? Claro, isso faz sentido. Interessante... Infelizmente não posso te ajudar. Fui designado para pesquisa em cibergenética, não para o Projeto de Comportamento de Vault.}
 {112}{}{Do que você está falando?}
-{113}{}{Vault Behavioral project?}
-{114}{}{Cyber-genetics? I don't remember ever studying that one.}
-{115}{}{Right. You're mad as a hatter. Goodbye.}
-{116}{}{Oh my, I've said more than I should already. Never mind, and if anybody asks I didn't say anything.}
-{117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment. Sloppy work, I'd say.}
+{113}{}{Projeto de Comportamento de Vault?}
+{114}{}{Ciber-genética? Não me lembro de ter estudado isso.}
+{115}{}{Certo, você é mais louco que o Batman. Adeus.}
+{116}{}{Oh meu Deus, já disse mais do que deveria. Não importa, e se alguém perguntar, eu não disse nada.}
+{117}{}{Algo sobre condicionamento sociológico extremo. Veja, eu pensei que era tudo pura besteira, nenhuma ciência real nessa coisa. Mas ouvi alguma coisa sobre a 13 ter improvisado durante o experimento. Eu chamaria de um descuido de trabalho.}
 {118}{}{Experimento? Que experimento?}
 {119}{}{O que é isso sobre ciber-genética?}
 {120}{}{Você espera que eu acredite em um dessas coisas? Você é um maluco.}

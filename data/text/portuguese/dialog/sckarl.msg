@@ -33,22 +33,22 @@
 {132}{}{Bem, eu tenho outras perguntas.}
 {133}{}{Obrigado.}
 {134}{}{Sim, ele é bicho ruim. Matou dois dos nossos homens e não disse nada.}
-{135}{}{Give me a little time alone with him. Maybe I can convince him to be cooperative.}
-{136}{}{Can I see him now?}
-{137}{}{Hang the bastard, I hope. Him and his buddies killed two good men. Won't be any pain for me to see him dead.}
-{138}{}{Can I see him now?}
-{139}{}{She and Jack used to be married, you know. Had themselves a really messy divorce. I wouldn't believe spit from her, not about Jack. 
-Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's got him a little high-strung.}
-{140}{}{Okay, let's move on to other topics.}
-{141}{}{Well, thank you kindly for that advice, deputy.}
-{142}{}{His ex, that's all. If he's not here, he might be over at the power plant. He's been moonlighting over there for Dorothy.}
+{135}{}{Me dê um pouco de tempo a sós com ele. Talvez eu o convença a cooperar.}
+{136}{}{Posso vê-lo agora?}
+{137}{}{Que enforquem o desgraçado. Ele e seus amigos mataram dois bons homens, não seria nenhuma dor para mim o ver morto.}
+{138}{}{Posso vê-lo agora?}
+{139}{}{Ela e Jack costumavam ser casados, sabia? Tiveram um divórcio realmente complicado. Eu não acreditaria em nada que saísse dela, não sobre Jack.
+ Faça um favor a si mesmo, não se envolva. Jack é um bom homem, só que isso o deixou um pouco tenso.}
+{140}{}{Ok, vamos passar para outros assuntos.}
+{141}{}{Bem, muito obrigado por esse conselho, ajudante.}
+{142}{}{A ex dele, só isso. Se ele não estiver aqui, pode estar na usina. Ele está trabalhando lá para Dorothy.}
 {143}{}{Bem, eu tenho outras perguntas.}
 {144}{}{Obrigado.}
-{145}{}{Guess I'm pretty obvious. Lot of folks look up to him because he's a councilman, but not me. He thinks he's a big man, like the law don't always apply to him. I'd like to take him down a notch or two someday.}
-{146}{}{Stranger things have happened. What can you tell me about him?}
-{147}{}{I've got to go. Just outside of town, you say?}
-{148}{}{No problem. Next five minutes, maybe I won't hear a thing. Follow me.}
-{149}{}{Sure, for what good it will do you.}
+{145}{}{Acho que sou bastante óbvio. Muita gente o admira por ser vereador, mas eu não. Ele se acha um homem grande, como se a lei nem sempre se aplicasse a ele. Eu gostaria que alguém apagasse esse fogo algum dia.}
+{146}{}{Coisas estranhas aconteceram. O que você pode me dizer sobre ele?}
+{147}{}{Tenho que ir. Fora da cidade, certo?}
+{148}{}{Sem problemas. Nos próximos cinco minutos, talvez eu não ouça nada. Me siga.}
+{149}{}{Claro, o que você queria.}
 {150}{}{Well, a couple of years ago he had a stroke and now Doc Jubilee's got him on some kind of medicine. What's it to you, anyway?}
 {151}{}{Nothing, just talk. I'll quit wasting your time.}
 {152}{}{. I'm in need of some honest work.}
