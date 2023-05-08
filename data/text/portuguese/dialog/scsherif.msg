@@ -1,20 +1,20 @@
-{100}{}{You see a gray haired man in the uniform of the NCR police.}
-{101}{}{It's the sheriff of NCR.}
-{102}{}{This guy's about as regulation as they come - crew cut and square-jawed, a real no-nonsense kind of guy.}
-{103}{}{Welcome to NCR, stranger. Name's Dumont - Sheriff Dumont. Hope you're having a nice peaceful time here.}
-{104}{}{Take a word of advice from Sheriff Dumont, stranger - this town don't care for your kind. Any trouble and I come down hard. Now, is there anything I can do for you?}
-{105}{}{Hello again. Anything I can do for you?}
-{106}{}{Well, spit it out.}
+{100}{}{Você vê um homem de cabelos grisalhos no uniforme da polícia da NCR.}
+{101}{}{É o xerife da NCR.}
+{102}{}{Esse cara realmente segue as regras: corte militar e queixo quadrado. O tipo de cara que não aceita besteiras.}
+{103}{}{Bem-vindo à NCR, estranho. Meu nome é Dumont, Xerife Dumont. Espero que você aproveite da tranquilidade aqui.}
+{104}{}{Aceite um conselho do xerife Dumont, Estranho: esta cidade não se importa com seu tipo. Qualquer problema e as coisas se tornam mais difíceis. Agora, há algo que eu possa fazer por você?}
+{105}{}{Olá de novo. Algo que eu possa fazer por você?}
+{106}{}{Bem, cuspa.}
 {107}{}{Urrrgh.}
-{108}{}{I'm looking for Vault 13. Do you know where it is?}
+{108}{}{Estou procurando a Vault 13. Você sabe onde fica?}
 {109}{}{Você tem um GECK?}
-{110}{}{I'm looking for some honest work. Can you help me?}
-{111}{}{Oh, fine. Everything's been just peachy.}
-{112}{}{Primitive, eh? You. Questions? Ask me. Okay?}
+{110}{}{Estou procurando algum trabalho honesto. Pode me ajudar?}
+{111}{}{Ah, tudo bem. Tudo está ótimo.}
+{112}{}{Primitivo, é? Você, perguntas? Me pergunte. OK?}
 {113}{}{Vault 13?}
 {114}{}{GECK?}
 {115}{}{Tudo bem.}
-{116}{}{No, I don't. That's something even President Tandi would like to know. Solve a lot of problems.}
+{116}{}{Não, eu não. Isso é algo que até a presidente Tandi gostaria de saber. Resolve muitos problemas.}
 {117}{}{Problemas?}
 {118}{}{Presidente Tandi?}
 {119}{}{Great. Just my luck. Thanks.}

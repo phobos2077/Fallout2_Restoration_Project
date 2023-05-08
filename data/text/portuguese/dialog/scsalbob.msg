@@ -41,11 +41,11 @@
 {140}{}{Boss let's me stay here. I run this stable! Do a little cleaning, keep a square camp.}
 {141}{}{Saltbeef? What kind of name is that?}
 {142}{}{Pleased to meet you. I'm}
-{143}{}{Hell and thunder, you again? Git yer scrawny ass outta my sight!}
-{144}{}{Bite me!}
-{145}{}{You're a feisty one, old timer.}
-{146}{}{Damn right I am! You don't have a little drink on you, do you now? Fer an old man.}
+{143}{}{Raios e trovões, você de novo? Tire sua bunda magrela da minha vista!}
+{144}{}{Me chupa!}
+{145}{}{Você é bem babaca, velho.}
+{146}{}{Estou certo! Você não tem nenhuma bebida com você, não é? Para um velho.}
 {147}{}{Sim.}
 {148}{}{Não.}
-{149}{}{Get away from me you stinking bum!}
+{149}{}{Afaste-se de mim seu vagabundo fedorento!}
 {150}{}{.}

@@ -26,7 +26,7 @@
 {125}{}{Sim.}
 {126}{}{Não.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
-{128}{}{Bite me!}
+{128}{}{Me chupa!}
 {129}{}{Vault 13! Get outta here. Damn place is a myth. Vault 13, my ass.}
 {130}{}{Outra pergunta...}
 {131}{}{Well, thanks for nothing.}

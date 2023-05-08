@@ -49,8 +49,8 @@
 {147}{}{Tenho que ir. Fora da cidade, certo?}
 {148}{}{Sem problemas. Nos próximos cinco minutos, talvez eu não ouça nada. Me siga.}
 {149}{}{Claro, o que você queria.}
-{150}{}{Well, a couple of years ago he had a stroke and now Doc Jubilee's got him on some kind of medicine. What's it to you, anyway?}
-{151}{}{Nothing, just talk. I'll quit wasting your time.}
-{152}{}{. I'm in need of some honest work.}
-{153}{}{Tandi say you got bad man here.}
+{150}{}{Bem, há alguns anos ele teve um derrame e agora o Dr. Jubilee o prescreveu algum tipo de remédio. Por que você quer saber, afinal?}
+{151}{}{Nada, só conversa. Vou parar de desperdiçar seu tempo.}
+{152}{}{. Estou precisando de um trabalho honesto.}
+{153}{}{Tandi disse que você tem um homem mau aqui.}
 {154}{}{Me want to see bad man.}
