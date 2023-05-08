@@ -17,21 +17,21 @@
 {116}{}{Não, eu não. Isso é algo que até a presidente Tandi gostaria de saber. Resolve muitos problemas.}
 {117}{}{Problemas?}
 {118}{}{Presidente Tandi?}
-{119}{}{Great. Just my luck. Thanks.}
-{120}{}{Listen, I lead a clean and wholesome life! I don't have GECK or anything else.}
-{121}{}{So-rry! I don't suppose you know where Vault 13 is?}
-{122}{}{We'll just forget I asked. I'll leave you alone now.}
-{123}{}{I can think of a couple of things, if you're really interested.}
-{124}{}{You're joking right? After what you did with Jack? I suppose you could find some steady work.}
+{119}{}{Ótimo, que sorte a minha. Obrigado.}
+{120}{}{Ouça, eu levo uma vida limpa! Eu não tenho GECK ou qualquer outro tipo de droga.}
+{121}{}{Desculpe! Suponho que você não saiba onde fica a Vault 13, não é?}
+{122}{}{Vamos esquecer a pergunta. Vou te deixar tem paz.}
+{123}{}{Posso pensar em algumas coisas, se você estiver realmente interessado.}
+{124}{}{Você está brincando? Depois do que você fez com Jack? Acho que você poderia encontrar um emprego estável.}
 {125}{}{Como o quê?}
-{126}{}{No, let's just change the subject.}
-{127}{}{Forget it, I've changed my mind. Goodbye.}
-{128}{}{No Vault 13. Vault 15, yes.}
-{129}{}{Fif-teen?}
-{130}{}{No. Thir-teen!}
-{131}{}{Yes, 15! You talk Tandi. Big chief NCR. Tandi know Vault. Want help. You go Tandi.}
+{126}{}{Não, vamos mudar de assunto.}
+{127}{}{Esqueça, mudei de ideia. Adeus.}
+{128}{}{Não Vault 13. Vault 15, sim.}
+{129}{}{Qui-inze?}
+{130}{}{Não. Tre-ezee!}
+{131}{}{Sim, 15! Você fala com Tandi. Grande chefe da NCR. Tandi conhece Vault. Quer ajuda. Você vai Tandi.}
 {132}{}{Tandi?}
-{133}{}{No go. Want 13!}
+{133}{}{Não vou. Quero 13!}
 {134}{}{Lis-ten. No Vault 13. No find. No see. No 13. Vault 15 - people find. People live Vault 15. You understand?}
 {135}{}{No thir-teen? Fif-teen?}
 {136}{}{NO. WANT THIRTEEN!}
