@@ -53,4 +53,4 @@
 {151}{}{Nada, só conversa. Vou parar de desperdiçar seu tempo.}
 {152}{}{. Estou precisando de um trabalho honesto.}
 {153}{}{Tandi disse que você tem um homem mau aqui.}
-{154}{}{Me want to see bad man.}
+{154}{}{Eu quero ver o homem mau.}
