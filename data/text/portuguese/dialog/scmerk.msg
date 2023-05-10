@@ -43,33 +43,33 @@
 {142}{}{Provar como?}
 {143}{}{Você conhece alguém que gostaria de um pouco de jet?}
 {144}{}{Escute, eu sou}
-{145}{}{Right. Like I got to prove myself to you. Forget you, slugwort.}
-{146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
-{147}{}{Deal.}
-{148}{}{Whoa - I'm not that cold-blooded!}
-{149}{}{And they're gonna say you were a dumb ass. Boys-}
-{150}{}{Interesting. Now who'd go saying something like that?}
-{151}{}{Don't bullshit me, fat man. If I don't get back what's mine, somebody'll be shopping for your burial suit.}
-{152}{}{Cute. You gonna answer my question or not?}
-{153}{}{Oh, it's just something I heard. Just wanted to see what you'd say.}
-{154}{}{Supposing I do know something. What of it?}
-{155}{}{Now if a person had some things missing, do you suppose such a person could buy those things back?}
-{156}{}{I want my shit back, fat man!}
-{157}{}{How about I talk to the law?}
-{158}{}{I'm tired of this. Boys - take care of our guest.}
-{159}{}{I don't think Lenny would like that.}
-{160}{}{Probably, but I wasn't asking him.}
-{161}{}{Have it your way.}
-{162}{}{True. Been too dull around here. Time for a little one-on-one in the basement. Come on, Lenny, I want to watch you kill this}
-{163}{}{Like I've got problems that need solving.}
+{145}{}{Certo, como se eu tivesse que me provar para você. Esqueça, escoria.}
+{146}{}{Foi aquele maldito Doofus, não foi? Aquele drogado fala bem mais do que deve. Vou te dizer uma coisa: silencie ele pra mim (considere isso um favor) e depois a gente conversa.}
+{147}{}{É um trato.}
+{148}{}{Opa, eu não sou tão sangue frio!}
+{149}{}{E vão dizer que você era um babaca. Pessoal...}
+{150}{}{Interessante. Agora, quem diria algo assim?}
+{151}{}{Não brinque comigo, gordão. Se eu não receber o que é meu de volta, alguém vai ter que comprar um terno para seu enterro.}
+{152}{}{Gracinha. Você vai responder a minha pergunta ou não?}
+{153}{}{Oh, é apenas algo que eu ouvi. Eu só queria saber o que você diria.}
+{154}{}{Supondo que eu saiba alguma coisa. E daí?}
+{155}{}{Agora, se uma pessoa tivesse algumas dessas coisas faltando, você acha que tal pessoa poderia comprar essas coisas de volta?}
+{156}{}{Quero minhas coisas de volta, gordão!}
+{157}{}{Que tal eu falar com a lei?}
+{158}{}{Estou cansado disso. Pessoal, cuidem do nosso convidado.}
+{159}{}{Acho que Lenny não gostaria disso.}
+{160}{}{Provavelmente, mas eu não estava perguntando a ele.}
+{161}{}{Faça do seu jeito.}
+{162}{}{Verdade, tem sido muito chato por aqui. É hora de uma conversa no porão. Vamos, Lenny, quero ver você matar esse.}
+{163}{}{Também tenho problemas que precisam ser resolvidos.}
 {164}{}{Como?}
-{165}{}{Jet? Are you proposing something...?}
-{166}{}{My friend here knows how to make it. Interested?}
-{167}{}{Something illegal? No, I wouldn't do that.}
-{168}{}{Intriguing. I'll give you $1000 for his services.}
-{169}{}{Deal.}
-{170}{}{No, I can't do that to a friend.}
-{171}{}{Looks like we can do business, friend. Here's the deal - there's a loopy scientist in town - Dr. Henry. He's got some papers I'd like. I'll pay $1000 for them. Oh, and I don't want no harm to come to Dr Henry. He's useful alive. Interested? }
+{165}{}{Jet? Você está propondo algo...?}
+{166}{}{Meu amigo aqui sabe como conseguir. Interessado?}
+{167}{}{Algo ilegal? Não, eu não faria isso.}
+{168}{}{Intrigante. Te dou $1000 pelos seus serviços.}
+{169}{}{É um trato.}
+{170}{}{Não, não posso fazer isso com um amigo.}
+{171}{}{Parece que podemos fazer negócios, amigo. Este é o trato: tem um cientista maluco na cidade, Dr. Henry. Ele tem alguns papéis que eu gostaria. Eu pago $1000 por eles. Ah, e não quero que nenhum mal aconteça ao Dr. Henry, ele é mais útil vivo. Interessado? }
 {172}{}{Eu estou trabalhando nisso.}
 {173}{}{Não, não faz o meu estilo.}
 {174}{}{Conhecimento custa dinheiro. Fui claro?}
@@ -108,17 +108,17 @@
 {207}{}{E aposto que você também vende gelo pra esquimó.}
 {208}{}{Talvez mais tarde.}
 {209}{}{É algum tipo de droga de New Reno? Eu nunca ouvi sobre isso.}
-{210}{}{Nope. I've got some more questions, though.}
-{211}{}{That's all I needed to know.}
+{210}{}{Não. Mas tenho mais algumas perguntas.}
+{211}{}{Isso é tudo que eu precisava saber.}
 {212}{}{Aqueles malditos? Melhor ficar fora da minha casa ou vou abrir um buraco neles.}
 {213}{}{Bem, isso foi informativo. Outra pergunta.}
-{214}{}{That's all I needed to know.}
+{214}{}{Isso é tudo que eu precisava saber.}
 {215}{}{O fazendeiro, hein? Veio aqui uma vez, quase batendo as botas. O médico da cidade teve que correr com alguns comprimidos - parece que Westin tem um problema cardíaco. Isso arruinou os negócios pelo resto da noite.}
 {216}{}{Obrigado pela informação. Eu tenho mais algumas perguntas.}
-{217}{}{That's all I needed to know.}
+{217}{}{Isso é tudo que eu precisava saber.}
 {218}{}{Como um bom cidadão, aplaudo a oposição de Carlson a qualquer influência de New Reno por aqui. Agora que Westin está morto, tenho ajudado na segurança do vice-presidente.}
 {219}{}{Oh, bem, acho que nunca vou conhecer o homem. Também já ouvi falar muito dele.}
-{220}{}{That's all I needed to know.}
+{220}{}{Isso é tudo que eu precisava saber.}
 {221}{}{Isso é tudo?}
 {222}{}{Não, eu tenho mais algumas perguntas.}
 {223}{}{Sim, por enquanto é isso.}
