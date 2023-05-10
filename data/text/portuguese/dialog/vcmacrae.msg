@@ -3,26 +3,26 @@
 {102}{}{Hey now, I ain't seen you around before. I'm MacRae -- I run this place.
  What can I do for you?}
 {103}{}{Estou a procura da Vault.}
-{104}{}{You looking to get out of here yet?}
+{104}{}{Já está querendo sair daqui?}
 {105}{}{What do you have here?}
 {106}{}{Anything going on around here?}
 {107}{}{Ug Nog}
 {108}{}{Nada por hoje, valeu.}
 {109}{}{Vault? Only Vault I know of is the one inside the city. Big friggin'
  hole... you can't miss it, trust me.}
-{110}{}{What do you have to drink here?}
+{110}{}{O que você tem para beber aqui?}
 {111}{}{Anything going on around here?}
 {112}{}{Obrigado pelas direções. Tchau.}
 {113}{}{Standard crap. Beer for $20, shot of whiskey for $30. Nothing
  special. You want something?}
 {114}{}{You know about the Vault?}
-{115}{}{I'll take a beer.}
-{116}{}{I'll take a shot.}
+{115}{}{Vou tomar uma cerveja.}
+{116}{}{Vou tomar um whisky.}
 {117}{}{O que está acontecendo por aqui?}
 {118}{}{Nothing today, thanks. Goodbye.}
 {119}{}{Around here? Same old, same old. Bores me to tears most of the time.
  Why, you looking for something?}
-{120}{}{What do you have to drink here?}
+{120}{}{O que você tem para beber aqui?}
 {121}{}{Do you know anything about the Vault?}
 {122}{}{It can't be that bad.}
 {123}{}{Nada. Tchau.}

@@ -241,23 +241,23 @@
 {338}{}{3 Segundos}
 {339}{}{We'll talk later, Val.}
 {340}{}{2 Segundos}
-{341}{}{Yeah, sure, Dad.}
+{341}{}{Sim, claro, pai.}
 {342}{}{2 Segundos}
 {343}{}{Apagar-se por 3 segundos}
-{344}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks.}
-{345}{}{You come back here for a little peace and quiet, Mr. Big Hero?}
-{346}{}{You come back here for a little peace and quiet, Ms. Big Heroine?}
-{347}{}{HE-wo? Hee-hee! Yup!}
+{344}{}{Ei! Que bom que você voltou. A última vez que ouvi, você estava viajando para o sul, atacando velhos petroleiros e explodindo plataformas de petróleo.}
+{345}{}{Voltou aqui para um pouco de paz e sossego, Sr. Grande Herói?}
+{346}{}{Você voltou aqui para um pouco de paz e sossego, Sra. Grande Heroína?}
+{347}{}{HE-RO? Hee-hee! Sim!}
 {348}{}{Desliga}
-{349}{}{Thought I'd come back and touch base with Vault City for a while. The peace and quiet doesn't hurt, either. I needed something first, though...}
-{350}{}{Nothing today, thanks. Take care.}
-{351}{}{Well, you be careful around here, you hear? Don't be blowing up Vault City if you can help it. And... hey, thanks for saving us all.}
-{352}{}{Swure! Bye-bye!}
+{349}{}{Pensei em voltar e ficar em Vault City por um tempo. Um pouco de paz e sossego não fazem mal. Eu só precisava de algo primeiro...}
+{350}{}{Nada hoje, obrigado. Se cuida.}
+{351}{}{Bem, tenha cuidado por aqui, ouviu? Não exploda Vault City se puder evitar. E... ei, obrigado por salvar a todos nós.}
+{352}{}{Claruu! Tchau-tchau!}
 {353}{}{Desliga}
-{354}{}{Nevermind. I'll talk to you later.}
-{355}{}{You helped Valerie obtain new tools.}
-{356}{}{You convinced Val to give her Dad a chance.}
-{357}{}{ ***DO NOT DELETE THE NEXT LINE (#358)! IT'S NEEDED FOR THE SCRIPT. DON'T BOTHER TRANSLATING THIS, EITHER***}
+{354}{}{Deixa para lá. Falo com você mais tarde.}
+{355}{}{Você ajudou Valerie a obter novas ferramentas.}
+{356}{}{Você convenceu Val a dar uma chance ao pai dela.}
+{357}{}{ ***NÃO APAGUE A PRÓXIMA LINHA (#358)! É NECESSÁRIO PARA O SCRIPT. NÃO SE PREOCUPE EM TRADUZIR ISSO TAMBÉM***}
 {358}{}{}
-{359}{}{Hey, I have those tools you wanted.}
-{360}{}{It doesn't look like you have much of anything that I could tinker with. I mostly do pistols, rifles, that sort of thing.}
+{359}{}{Ei, eu tenho aquelas ferramentas que você queria.}
+{360}{}{Não parece que você tem muita coisa que eu possa brincar. Normalmente eu uso pistolas, rifles, esse tipo de coisa.}

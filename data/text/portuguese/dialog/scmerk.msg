@@ -1,13 +1,13 @@
 {100}{}{Você vê um homem corpulento e bem vestido se movendo com lentidão deliberada.}
 {101}{}{É Merk - as pessoas por aqui o chamam de O Homem.}
 {102}{}{Esse sujeito tem um ar de frieza e arrogancia, como se ele não visse diferença entre você e a mosca que acabou de esmagar entre os dedos.}
-{103}{}{Hey, I've seen you in the movies! Come to show me some action, have you?}
-{104}{}{Whaddya mean, disturbing my peace like this? Get outta here.}
-{105}{}{Excuse me, I got business to conduct.}
-{106}{}{You wanna talk business, see me at the Rawhide. Otherwise leave me alone.}
-{107}{}{I've seen you on the silver screen, ain't I? You got impressive, uh, credentials.}
-{108}{}{You got that certain look in your eyes. Stop by the Rawhide - I could always use somebody like you.}
-{109}{}{Shit, what's that smell? Something just walked into the room.}
+{103}{}{Ei, eu vi você no cinema! Venho me mostrar alguma ação, não é?}
+{104}{}{O que quer comigo me perturbando de desse jeito? Saia daqui.}
+{105}{}{Com licença, tenho negócios a tratar.}
+{106}{}{Se quiser falar comigo sobre negócios, pode me encontrar no Rawhide.. Caso contrário, me deixe em paz.}
+{107}{}{Eu vi você na tela prateada, né? Você tem credenciais impressionantes.}
+{108}{}{Você tem certa segurança em seus olhos. Vá para Rawhide, sempre posso precisar de alguém como você.}
+{109}{}{Merda, que cheiro é esse? Algo acabou de entrar na sala.}
 {110}{}{Vá buscar outro uísque, e rápido.}
 {111}{}{Não tenho tempo agora.}
 {112}{}{Eu sou um convidado aqui, pare de me incomodar.}
@@ -37,12 +37,12 @@
 {136}{}{Não.}
 {137}{}{Eu tenho algumas perguntas.}
 {138}{}{Hum... Forte. Burro... Se você quer um emprego, fale com Mira. Entende? Mi-ra. Por ali.}
-{139}{}{Like making noises? Will somebody get this brahmin turd out of here?}
-{140}{}{Are you that stupid? You think I'm just gonna hire anybody? You work for me, you got to prove you're good for something.}
-{141}{}{How about I just shoot Lenny, there? He deserves it.}
-{142}{}{Prove like how?}
-{143}{}{You know anybody who'd like some Jet, maybe?}
-{144}{}{Listen, I'm}
+{139}{}{Gosta de fazer barulhos? Alguém vai tirar essa bosta de brahmin daqui?}
+{140}{}{Você é estúpido? Acha que vou contratar qualquer um? Para trabalhar para mim, você tem que provar que é bom em alguma coisa.}
+{141}{}{Que tal se eu atirar no Lenny? Ele merece.}
+{142}{}{Provar como?}
+{143}{}{Você conhece alguém que gostaria de um pouco de jet?}
+{144}{}{Escute, eu sou}
 {145}{}{Right. Like I got to prove myself to you. Forget you, slugwort.}
 {146}{}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
 {147}{}{Deal.}

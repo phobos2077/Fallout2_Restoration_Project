@@ -74,7 +74,7 @@
 {173}{}{Where's the Vault?}
 {174}{}{Can you tell me about the slavery in Vault City?}
 {175}{}{Does Vault City have much contact with the outside world?}
-{176}{}{What have you got on tap?}
+{176}{}{O que você tem pra tomar?}
 {177}{}{I have that shipment of alcohol you wanted.}
 {178}{}{Tudo bem então. Bom Dia.}
 {179}{}{Uh, First Citizen Lynette... you are a Citizen, aren't you?}

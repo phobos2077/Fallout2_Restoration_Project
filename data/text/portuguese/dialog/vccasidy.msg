@@ -1,44 +1,44 @@
-{100}{}{You see an elderly man with deep wrinkles along his face. If he notices you looking at him, he gives no sign.}
-{101}{}{You see Cassidy.}
-{102}{}{You see an elderly man with deep wrinkles along his face. He nods at you.}
-{103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
+{100}{}{Você vê um homem idoso com rugas profundas no rosto. Se ele percebeu que você está olhando para ele, não dá sinal.}
+{101}{}{Você vê Cassidy.}
+{102}{}{Você vê um homem idoso com rugas profundas no rosto. Ele acena para você.}
+{103}{Cas0103}{Bem, nunca te vi por aqui antes, estranho. Meu nome é Cassidy, sou dono deste lugar. O que posso fazer por você?}
 {104}{Cas0104}{Bem, se não é o meu herói. O que a mãe pode fazer por você hoje?}
-{105}{}{Ug Nog?}
+{105}{}{Fazer eu?}
 {106}{}{Desliga}
 {107}{}{Estou a procura da Vault.}
-{108}{}{You looking to get out of here yet?}
-{109}{}{What have you got on tap?}
-{110}{}{Anything interesting going on around here?}
+{108}{}{Já está querendo sair daqui?}
+{109}{}{O que você tem pra tomar?}
+{110}{}{Algo interessante acontecendo por aqui?}
 {111}{}{Nada por hoje, valeu.}
-{112}{Cas0112}{Hit on the head a little too often, eh? Sorry, I don't speak imbecile.}
-{113}{}{Bee-sil?}
-{114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
-{115}{}{What do you have to drink here?}
-{116}{}{Anything interesting going on around here?}
+{112}{Cas0112}{Atiraram quantas vezes na sua cabeça? Desculpe, eu não falo imbecil.}
+{113}{}{Im-bezil?}
+{114}{Cas0114}{Vault? A única Vault que conheço é aquela dentro da cidade. Um buracão... você tem como errar, confie em mim.}
+{115}{}{O que você tem para beber aqui?}
+{116}{}{Algo interessante acontecendo por aqui?}
 {117}{}{Obrigado pelas direções. Tchau.}
-{118}{Cas0118}{Beer for $20, shot of whiskey for $30. Nothing special. Why, you want something?}
+{118}{Cas0118}{Cerveja por US$20, dose de uísque por US$30. Nada especial. Por que, procurando alguma coisa?}
 {119}{}{Estou a procura da Vault.}
-{120}{}{I'll take a beer.}
-{121}{}{I'll take a shot.}
-{122}{}{Anything interesting going on around here?}
-{123}{}{Not really. Thanks anyway.}
-{124}{Cas0124}{"Interesting?" Heh. Friend, Vault City ain't an "interesting" place... unless the guards get bored, then you
- better take cover. Why you asking? You looking for something in this sinkhole?}
-{125}{}{What do you have to drink here?}
-{126}{}{Actually, I'm looking for the Vault.}
-{127}{}{It can't be that bad here.}
-{128}{}{Not really. Thanks anyway.}
-{129}{Cas0129}{Here you go. Drink up. It might help you forget where you are.}
-{130}{}{This place can't be that bad.}
-{131}{}{Thanks for the drink. I have to be going.}
-{132}{Cas0132}{Oh, really? Well, hell then, I must be mistaken, considering YOU'RE the authority and all. Guess you must have been napping during the raid last week?}
-{133}{}{Raid?}
-{134}{Cas0134}{Aw, yeah, a beautiful sight it was. A guard patrol broke in here looking for "illegal substances." They busted down the door, busted up my stock, then busted up a few of my customers, too.}
-{135}{}{What happened after that?}
-{136}{}{Sorry to hear it. I'll talk to you later.}
+{120}{}{Vou tomar uma cerveja.}
+{121}{}{Vou tomar um whisky.}
+{122}{}{Algo interessante acontecendo por aqui?}
+{123}{}{Na verdade, não. Mas agradeço.}
+{124}{Cas0124}{"Interessante?" Hehe. Cara, Vault City não é um lugar "interessante"... só se os guardas ficarem entediados,
+ então é melhor se proteger. Por que está perguntando? Tá procurando algo que preste nesse buraco?}
+{125}{}{O que você tem para beber aqui?}
+{126}{}{Na verdade, estou procurando pela Vault.}
+{127}{}{Não pode ser tão ruim aqui.}
+{128}{}{Na verdade, não. Mas agradeço.}
+{129}{Cas0129}{Aqui está. Beba em um gole só, vai ajudar a esquecer onde você está.}
+{130}{}{Este lugar não pode ser tão ruim.}
+{131}{}{Obrigado pela bebida. Eu tenho que ir.}
+{132}{Cas0132}{Oh sério? Bem, inferno, devo estar enganado, considerando que VOCÊ é a autoridade nisso tudo. Acho que você estava dormindo quando nos assaltaram na semana passada, não é?}
+{133}{}{Assalto?}
+{134}{Cas0134}{Ah, sim, foi uma bela visita. Uma patrulha de guardas invadiu aqui procurando "substâncias ilegais". Eles arrombaram a porta, arrebentaram meu estoque e depois arrebentaram alguns de meus clientes também.}
+{135}{}{O que aconteceu depois?}
+{136}{}{Lamento ouvir isso. Falo com você mais tarde.}
 {137}{Cas0137}{After they hauled away this one guy, Joshua, for resisting arrest, they fined my ass for finding - get this - REAL whiskey on the premises. Nevermind that I got a permit from Stark three months before. Bastards.}
 {138}{}{Whoa. No kidding.}
-{139}{}{Sorry to hear it. I'll talk to you later.}
+{139}{}{Lamento ouvir isso. Falo com você mais tarde.}
 {140}{Cas0140}{It gets better. Now I'm in debt to the guards for the fine, an' I had to buy a new case of alcohol from a merchant at triple my standard rate. I'm expecting the guards to come knocking again soon, just to bust my chops. }
 {141}{}{What's it like most of the time?}
 {142}{}{Hope things look up for you in the future. See you.}

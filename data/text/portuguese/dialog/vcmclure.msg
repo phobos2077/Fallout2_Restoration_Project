@@ -1,8 +1,8 @@
-{100}{}{You see Senior Council Member McClure.}
-{101}{}{You see an elderly Vault City official. His hair is graying around the edges.}
-{102}{}{You see Senior Council Member McClure.}
-{103}{}{You see an elderly Vault City official. His hair is graying around the edges.}
-{104}{}{I have heard of your act of heroism. We are all in your debt... Chosen One.}
+{100}{}{Você vê o membro sênior do conselho, McClure.}
+{101}{}{Você vê um oficial idoso de Vault City. Seu cabelo está ficando grisalho nas pontas.}
+{102}{}{Você vê o membro sênior do conselho, McClure.}
+{103}{}{Você vê um oficial idoso de Vault City. Seu cabelo está ficando grisalho nas pontas.}
+{104}{}{Ouvi falar do seu ato heroico. Estamos todos em dívida com você... Escolhido.}
 {105}{}{I have to tabulate these lists before I leave. Return in the morning, and I will speak to you then.}
 {106}{}{A ghoul?! Guards! Guards!}
 {107}{}{A mutant?! Guards! Guards!}

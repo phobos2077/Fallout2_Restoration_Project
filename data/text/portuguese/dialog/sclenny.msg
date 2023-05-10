@@ -9,10 +9,10 @@
 {108}{}{Diga ao seu mestre mutante que meu nome é Lenny, escravo.}
 {109}{}{Ei, irmão mutante, Lenny quer saber por que você anda com esse verme humano?}
 {110}{}{Lenny não fala com ninguém. Faz mutantes de escravos, escoria.}
-{111}{}{Lenny says you and your butt-kissing mutie Tom can go to hell.}
-{112}{}{Watch out. Lenny ain't no tame mutie like the one you got now.}
-{113}{}{Hey, the little pale skin's back!}
-{114}{}{Get off my case, human.}
-{115}{}{Get lost, chump.}
-{116}{}{What's the matter? Need somebody to change yer diaper?}
-{117}{}{You are as dense as a pile of bricks, human.}
+{111}{}{Lenny diz que você e seu mutante chupador de rola, Tom, podem ir para a puta que pariu.}
+{112}{}{Atenção. Lenny não é um mutante sociável como o que você tem agora.}
+{113}{}{Ei, o pequeno rosto pálida está de volta!}
+{114}{}{Saia daqui, humano.}
+{115}{}{Some daqui, vagabundo.}
+{116}{}{Qual é o problema? Precisa de alguém para trocar sua fralda?}
+{117}{}{Você é tão esperto quanto uma pilha de tijolos, humano.}
