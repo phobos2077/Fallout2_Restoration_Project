@@ -81,7 +81,7 @@
 {376}{}{Eu deveria colocar uma caixa de lenço de papel.}
 {377}{}{Hmmm, quem eu devo imaginar agora.}
 {390}{}{Hey, você não está vendo que eu estou ocupado aqui?}
-{391}{}{Hey, Hey, vá pro inferno.}
+{391}{}{Ae, vá pro inferno.}
 {392}{}{Ei, você não conseguiu terminar o trabalho, então saia.}
 {393}{}{Você pode me pegar uma esfregona e voltar em 5?}
 {400}{}{Billy, é melhor você não ter feito uma bagunça no colchão novamente!}
