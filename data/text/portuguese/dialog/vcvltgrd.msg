@@ -37,47 +37,47 @@
 {132}{}{Sim? Posso te ajudar?}
 {133}{}{Eu gostaria de entrar na Vault.}
 {134}{}{Nada, desculpe incomodá-lo.}
-{135}{}{I apologize, but only Citizens may enter the Vault.}
-{136}{}{I *am* a Citizen.}
-{137}{}{I'm sorry... I don't recognize you. I'm under orders to only let Citizens I know into the Vault.
- Perhaps First Citizen Lynette can help you. Good day.}
-{138}{}{Hello, Captain. Can I help you?}
+{135}{}{Peço desculpas, mas apenas Cidadãos podem entrar na Vault.}
+{136}{}{Eu *sou* um Cidadão.}
+{137}{}{Me desculpe... não te reconheço. Tenho ordens de deixar apenas Cidadãos que conheço
+ entrarem na Vault. Talvez a Primeira Cidadã Lynette possa te ajudar. Bom dia.}
+{138}{}{Olá, capitão. Posso ajudar?}
 {139}{}{Ah, tudo bem.}
-{140}{}{Oh, sure. I was just looking.}
+{140}{}{Ah, com certeza. Eu só estava olhando.}
 {141}{}{Umgh}
-{142}{}{Yeah, whatever, Mungoth. Talk to the hand.}
-{143}{}{You there! What is that ghoul doing here in Vault City?!}
-{144}{}{You there! What is that mutant doing here in Vault City?!}
+{142}{}{Sim, tanto faz, Mungoth. Fale com minha mão.}
+{143}{}{Você aí! O que esse ghoul está fazendo aqui em Vault City?!}
+{144}{}{Você aí! O que esse mutante está fazendo aqui em Vault City?!}
 {145}{}{Breep-oop foop foop}
 {146}{}{Um ghoul? Onde?}
 {147}{}{Um mutante? Onde?}
 {148}{}{Está comigo.}
 {149}{}{Ele viajam comigo. Se algum de vocês, racistas, tem algum problema com isso, talvez devêssemos resolver isso aqui e agora.}
-{150}{}{If that creature is with you, then you both belong back out in the Courtyard, not in the Vault City streets.}
+{150}{}{Se essa criatura estiver com você, então vocês dois pertencem ao Pátio, não às ruas de Vault City.}
 {151}{}{Tudo bem, iremos pacificamente.}
 {152}{}{Por que você não nos escolta para fora daqui? Te asseguro que será uma experiência muito educativa.}
-{153}{}{How do these Outworlders get in here in the first place...?}
-{154}{}{That creature there.}
-{155}{}{You both belong back out in the Courtyard, not in the Vault City streets.}
+{153}{}{Como esses forasteiros entraram aqui em primeiro lugar...?}
+{154}{}{Essa criatura aí.}
+{155}{}{Vocês dois pertencem ao Pátio, não às ruas de Vault City.}
 {156}{}{EU NÃO, ELE AMIGO! VOCÊ NÃO AMIGO!}
 {157}{}{Nós vamos nós vamos quietinhos}
 {158}{}{Tudo bem, iremos pacificamente.}
 {159}{}{Ele viajam comigo. Se algum de vocês, racistas, tem algum problema com isso, talvez devêssemos resolver isso aqui e agora.}
-{160}{}{Guards! Intruders in the City!}
+{160}{}{Guardas! Intrusos na cidade!}
 {161}{}{Hrnghhhhhhhh!}
 {162}{}{Você estará morto antes que esses seus amigos apareçam.}
-{163}{}{Hey! You're the one who defeated the Enclave!}
-{164}{}{Look, it's the one who defeated the Enclave!}
-{165}{}{Welcome to Vault City.}
+{163}{}{Ei! Você é quem derrotou a Enclave!}
+{164}{}{Olha, é aquele que derrotou a Enclave!}
+{165}{}{Bem vindo a Vault City.}
 {166}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
 {167}{}{I heard you've traveled as far south as San Francisco. Is that true?}
 {168}{}{Is it true that the U.S. was still fighting the war?}
 {169}{}{You should catalog your travels in the Vault City computer.}
 {170}{}{You're welcome to stay in Vault City as long as you want.}
 {171}{}{Você deve catalogar suas façanhas contra a Enclave e adicioná-las as Lista no Servidor.}
-{172}{}{Captain.}
+{172}{}{Capitão.}
 {173}{}{Vault City prevails, Capitão.}
-{174}{}{Hello, Captain.}
+{174}{}{Olá, Capitão.}
 {175}{}{Vault City prevails, Citizen.}
-{176}{}{Citizen.}
+{176}{}{Cidadão.}
 {177}{}{Ola, cidadão.}

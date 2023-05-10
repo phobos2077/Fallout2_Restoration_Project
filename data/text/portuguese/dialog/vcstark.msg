@@ -282,13 +282,13 @@
 {380}{}{You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... ma'am.}
 {381}{}{Understood, ma'am.}
 {382}{}{Yes, ma'am. I conducted an authorized raid on Mr. Cassidy's establishment.}
-{383}{}{No, ma'am. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.}
-{384}{}{Yes... MA'AM.}
-{385}{}{Here you are, MA'AM.}
-{386}{}{You pulled rank on Stark to help out your friend Cassidy.}
-{387}{}{The Vault's right outside the door... ma'am.}
-{388}{}{You have scouted Gecko for Vault City.}
-{389}{}{You have scouted NCR for Vault City.}
+{383}{}{Não, Senhora. O Sr. Cassidy não pagou sua taxa de licenciamento de álcool no mês, mas ainda estava vendendo no local. Sua lista de pagamentos está registrada no computador.}
+{384}{}{Sim... Senhora.}
+{385}{}{Aqui está... Senhora.}
+{386}{}{Você subjugou Stark para ajudar seu amigo Cassidy.}
+{387}{}{A Vault fica do outro lado da porta... senhora.}
+{388}{}{Você explorou Gecko para Vault City.}
+{389}{}{Você explorou a NCR para Vault City.}
 {390}{}{Como o que... senhora?}
 {391}{}{Sim, há algo... Eu estive olhando seu relatório de reconhecimento e encontrei uma pequena vila próxima repleta de uhh... "ratos-toupeira", é como os forasteiros os chamam, certo? Eu quero que você vá lá e extermine todas aquelas feras.}
 {392}{}{Apenas atirar em alguns ratos? Ok, me parece bom.}
