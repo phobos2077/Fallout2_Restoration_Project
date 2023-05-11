@@ -1,25 +1,25 @@
-{100}{}{You see a man wearing a badge of the NCR police.}
-{101}{}{It's Jack, assistant deputy of the NCR law.}
-{102}{}{This guy's wound tighter than a watch spring. His jaw is permanently clenched, the veins stand out on his forehead, and there's not a spot of joy or happiness anywhere on him.}
-{103}{}{I don't want to hear your troubles right now. Take it to somebody else.}
-{104}{}{You know, I don't have to put up with this - from you or anybody.}
-{105}{}{Damn ex-wife took me for everything I had.}
-{106}{}{She made a fool out of me, you know. Nobody makes a fool out of Jack.}
-{107}{}{One of these days I'll show her. I'll show everybody...}
-{108}{}{What you looking at? Scram!}
-{109}{}{Bite me! This is Jack! People better listen to me now!}
-{110}{}{I got a bomb in here so don't try anything!}
-{111}{}{People always laughing at Jack, calling him Whack Jack - well who's laughing now?}
-{112}{}{I'm counting to three and if Mira ain't here by then, I'll blow the place. One...}
-{113}{}{Two...}
-{114}{}{Three....}
-{115}{}{What do you want? What are you staring at me for?}
-{116}{}{Leave me alone, understand?}
-{117}{}{Damn ex-wife - it's all her fault.}
-{118}{}{Stay back! I've got a bomb!}
-{119}{}{Don't do this, Jack. There's always a better solution.}
-{120}{}{Uhh - stop.}
-{121}{}{Yeah, sure. What would you know about this?}
+{100}{}{Você vê um homem usando um distintivo da polícia da NCR.}
+{101}{}{É Jack, deputado assistente da lei na NCR.}
+{102}{}{Esse cara é mais apertado do que uma mola de relógio. Sua mandíbula está permanentemente cerrada, as veias se destacam em sua testa e não há um pingo de alegria ou felicidade em qualquer lugar nele.}
+{103}{}{Não quero ouvir seus problemas agora. Fale com outra pessoa.}
+{104}{}{Sabe... eu não tenho que aturar isso... nem de você, nem de ninguém.}
+{105}{}{Minha maldita ex-esposa levou tudo que eu tinha.}
+{106}{}{Ela me fez de idiota, sabia? Ninguém faz Jack de idiota.}
+{107}{}{Um dia destes eu mostro. Vou mostrar para todo mundo...}
+{108}{}{O que você está olhando? Vaza!}
+{109}{}{Que se foda! Sou Jack! É melhor as pessoas me ouvirem agora!}
+{110}{}{Eu tenho uma bomba aqui, então não tente nada!}
+{111}{}{As pessoas sempre riem de Jack, chamando de Jack Bobo... E agora? Quem está rindo agora?}
+{112}{}{Vou contar até três e se Mira não estiver aqui até lá, vou explodir o lugar. Um...}
+{113}{}{Dois...}
+{114}{}{Três...}
+{115}{}{O que você quer? Por que fica me encarando?}
+{116}{}{Me deixe em paz, entendido?}
+{117}{}{Merda de ex-esposa... é tudo culpa dela.}
+{118}{}{Para trás! Eu tenho uma bomba!}
+{119}{}{Não faça isso, Jack. Há sempre uma solução melhor.}
+{120}{}{Ehh... pare.}
+{121}{}{Sim, claro. O que você saberia sobre isso?}
 {122}{}{I know things sometimes look bad, but blowing things up doesn't solve anything.}
 {123}{}{Nothing. I don't know crap about your problems. Maybe you better tell me.}
 {124}{}{What is this - some kind of trick? Stall Jack until his buddies come to kill him?}

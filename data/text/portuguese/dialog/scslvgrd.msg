@@ -4,7 +4,7 @@
 {103}{}{Fale com o Sr. Vortis, não comigo.}
 {104}{}{Uhh...}
 {105}{}{Você tem perguntas? Fale com Vortis.}
-{106}{}{You give us trouble, that's what I'm here for. Understand?}
+{106}{}{Você nos causa problemas, é para isso que estou aqui. Entende?}
 {107}{}{Bem, temos um intruso.}
 {108}{}{Toquem o alarme. Intruso no local!}
 {109}{}{Sr. Vortis, saqueadores!}
