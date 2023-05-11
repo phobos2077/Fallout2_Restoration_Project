@@ -1,7 +1,7 @@
-{100}{}{It's a heap of rags that might have a person under it.}
-{101}{}{You see Ratch, probably picking at some lice.}
-{102}{}{It could be a human. It might be a mutant. All you can tell for sure is that it smells really, really bad.}
-{103}{}{Junk for sale, junk for sale. Look it over, make me an offer.}
+{100}{}{É um monte de trapos que pode ter uma pessoa debaixo dele.}
+{101}{}{Você vê Ratch, provavelmente coçando alguns piolhos.}
+{102}{}{Pode ser um humano, pode ser um mutante. Tudo o que você pode dizer com certeza é que cheira muito, muito mal.}
+{103}{}{Vende-se sucata, vende-se sucata. Dê uma olhada, me faça uma oferta.}
 {104}{}{Com certeza, qualquer que seja.}
 {105}{}{Uh... huh...}
 {106}{}{So what's for sale?}

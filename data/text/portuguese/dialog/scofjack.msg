@@ -20,44 +20,44 @@
 {119}{}{Não faça isso, Jack. Há sempre uma solução melhor.}
 {120}{}{Ehh... pare.}
 {121}{}{Sim, claro. O que você saberia sobre isso?}
-{122}{}{I know things sometimes look bad, but blowing things up doesn't solve anything.}
-{123}{}{Nothing. I don't know crap about your problems. Maybe you better tell me.}
-{124}{}{What is this - some kind of trick? Stall Jack until his buddies come to kill him?}
-{125}{}{Who wants to kill you?}
-{126}{}{Don't worry, nobody's going to hurt you.}
-{127}{}{That damn bitch of my ex-wife, Mira, for one. She wants me dead.}
-{128}{}{So let the law deal with her. Not this way, Jack.}
-{129}{}{You're right. She hired me to kill you. So what do you say? How about it, Jack?}
-{130}{}{Who the hell's Mira?}
-{131}{}{All right, you bastard. Let's do it!}
-{132}{}{What a joke! I am the law. Look what good it's done.}
-{133}{}{Jack, think about this.}
-{134}{}{So blowing up the powerplant is going to fix Mira?}
-{135}{}{Like I said. My ex. I catch her sleeping around and now she's saying I'm the bad guy. Got the court to give her everything and she's still trying to screw me.}
-{136}{}{Whoa - that's hard. Completely unfair.}
-{137}{}{You can recover. Everything passes with time. She'll forget about you.}
-{138}{}{Sure... No. Crap, I don't know. I gotta do something. Let people know they can't go walking all over Jack.}
-{139}{}{They know, Jack. Look at them. You blow yourself up now and they won't respect you at all.}
-{140}{}{Look, think this through. Blow this place up and it'll just prove everything she says about you.}
-{141}{}{No kidding, Sherlock. Now folks are going to listen to me.}
-{142}{}{Nobody's going to listen to you with a bomb in your hands. Put it down, come on out, and we can get this settled.}
-{143}{}{Look, think this through. Blow this place up and folks will say, "Jack took the weak way. Let himself get pushed around by his ex-wife." She wins, you lose.}
-{144}{}{You really think so?}
-{145}{}{Yes, Jack. It's true.}
-{146}{}{Of course. What do you think - I'm lying?}
+{122}{}{Sei que às vezes as coisas parecem ruins, mas explodir tudo não resolve nada.}
+{123}{}{Nada, eu não porra nenhuma sobre seus problemas. Poderia me contar.}
+{124}{}{Mas o que é isso, algum tipo de truque? Distrair Jack até que seus amigos venham matá-lo?}
+{125}{}{Quem quer te matar?}
+{126}{}{Não se preocupe, ninguém vai te machucar.}
+{127}{}{Aquela maldita puta da minha ex-esposa, Mira, por exemplo. Ela me quer morto.}
+{128}{}{Então deixe a lei lidar com ela. Não desta forma, Jack.}
+{129}{}{Você tem razão, ela me contratou para te matar. Então, o que você diz? Que tal, Jack?}
+{130}{}{Que merda que é Mira?}
+{131}{}{Tudo bem, seu viado. Vamos fazer!}
+{132}{}{Que piada! Eu sou a lei. Agora veja o que é bom.}
+{133}{}{Jack, pense nisso.}
+{134}{}{Então explodir o motor vai consertar as coisas com Mira?}
+{135}{}{Como eu disse, minha ex. Eu a pego me traindo e agora ela está diz que eu sou o cara mau. Consegui que o tribunal desse tudo a ela e ela ainda está tentando me ferrar.}
+{136}{}{Nossa, isso é duro. Completamente injusto.}
+{137}{}{Você pode se recuperar, tudo passa com o tempo. Ela vai se esquecer de você.}
+{138}{}{Claro... Não. Droga, não sei. Eu tenho que fazer alguma coisa, deixar as pessoas saberem que não podem passar por cima de Jack.}
+{139}{}{Eles sabem, Jack. Olhe para eles... Se exploda agora e eles nunca vão te respeitar.}
+{140}{}{Escute, pense bem. Exploda este lugar e isso só provará tudo o que ela diz sobre você.}
+{141}{}{Sem piadas, Sherlock. Agora as pessoas vão me ouvir.}
+{142}{}{Ninguém vai te ouvir com uma bomba nas mãos. Abaixe isso, saia, e podemos resolver isso.}
+{143}{}{Olha, pense bem. Exploda este lugar e as pessoas dirão: "Jack escolheu o caminho mais fraco, se deixou levar pela ex-mulher." Ela ganha, você perde.}
+{144}{}{Você realmente pensa assim?}
+{145}{}{Sim, Jack. É verdade.}
+{146}{}{Claro. O que você acha, que estou mentindo?}
 {147}{}{Eu não sei.}
-{148}{}{Don't let her win, Jack.}
-{149}{}{Now's your chance. Be the big man. Really stand her down.}
-{150}{}{Screw it. You're just full of it. You don't care about me!}
-{151}{}{Ah hell, maybe you're right. This wasn't the greatest idea anyway.}
-{152}{}{I would've done it, you know.}
-{153}{}{Damn Mira, now she'll get hers.}
-{154}{}{Now people know who Jack is, that's for sure.}
-{155}{}{Just back off! I don't want to hurt you!}
-{156}{}{This don't concern you!}
-{157}{}{Go ahead, kill me. What do I care anymore?}
-{158}{}{This isn't your fight. Leave me alone.}
-{159}{}{I either blow up or you kill me. What's it matter?}
-{160}{}{I'm not trying to hurt you! Just want them to remember...}
+{148}{}{Não deixe ela vencer, Jack.}
+{149}{}{Agora é sua chance, seja o grande homem. Acabe somente com ela.}
+{150}{}{Foda-se, você está cheio disso. Você nem se importa comigo!}
+{151}{}{Ah, merda, talvez você esteja certo. Esta não foi a melhor das ideias.}
+{152}{}{Eu teria feito, você sabe.}
+{153}{}{Maldita Mira, agora ela vai conseguir o dela.}
+{154}{}{Agora as pessoas saberão quem é Jack, com certeza.}
+{155}{}{Recue agora! Eu não quero te machucar!}
+{156}{}{Isso não diz respeito a você!}
+{157}{}{Vá em frente, me mate. O que me importa mais?}
+{158}{}{Esta não é a sua luta. Me deixe em paz.}
+{159}{}{Ou eu explodo ou você me mata. O que importa?}
+{160}{}{Eu não estou tentando te machucar! Só quero que eles se lembrem...}
 {161}{}{Você ganhou }
-{162}{}{ experience points for taking care of Jack for Mira.}
+{162}{}{ pontos de experiência por cuidar de Jack para Mira.}
