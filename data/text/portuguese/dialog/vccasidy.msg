@@ -180,26 +180,26 @@
 {356}{}{Papai me deu o nome de um personagem de quadrinhos de antes da guerra. Disse que ele também era um mesquinho filho da puta.}
 {357}{}{É bom estar viajando novamente. Morar em Vault City estava me dando uma úlcera.}
 {358}{}{Espero que meu coração não aja enquanto estamos viajando...}
-{359}{}{Sure could use a drink.}
-{360}{}{Better check my gear again.}
-{361}{}{Goddamn arthritis...}
-{362}{}{If I was twenty years younger, I'd go east and explore the Midwest. Too late now, I s'pose.}
-{363}{}{I hear they got twisters miles wide in the Midwest. It's a big ol' radioactive dustbowl now.}
-{364}{}{Wonder if Texas survived the war...}
-{365}{}{Thanks, friend. I... whoa. Now my vision's getting all cloudy.}
-{366}{}{I heard this stuff makes you hallucin... whoa! Where the hell did all these snakes come from?!}
-{367}{}{Whenever I take this stuff, I have flashbacks.}
-{368}{}{Nothing like a little backwater tribal healing...}
-{369}{}{I'm about due for some crutches and a wheelchair over here.}
-{370}{}{Cassidy dies of a heart attack.}
-{371}{}{You have convinced Cassidy to join your party.}
-{372}{}{Just let me pop a heart pill first...}
+{359}{}{Claro que poderia tomar um gole.}
+{360}{}{Melhor eu verificar meu equipamento de novo.}
+{361}{}{Maldita artrite...}
+{362}{}{Se eu fosse vinte anos mais jovem, iria para o leste e exploraria o meio-oeste. Mas agora é tarde demais, eu acho.}
+{363}{}{Ouvi dizer que eles têm tornados com quilômetros de largura no meio-oeste. Agora é um grande e velho depósito de lixo radioativo.}
+{364}{}{Me pergunto se Texas sobreviveu à guerra...}
+{365}{}{Obrigado, amigo. eu... nossa. Agora minha visão está ficando turva.}
+{366}{}{Ouvi dizer que essa coisa te deixa alucinado... eita! De onde raios vieram todas essas cobras?!}
+{367}{}{Sempre que tomo essas coisas, tenho uns flashbacks.}
+{368}{}{Nada como um pouco de cura tribal decadente...}
+{369}{}{Acho que vou receber algumas muletas e uma cadeira de rodas aqui.}
+{370}{}{Cassidy morre de ataque cardíaco.}
+{371}{}{Você convenceu Cassidy a se juntar ao seu grupo.}
+{372}{}{Deixe eu tomar uma pílula para o coração primeiro...}
 {1000}{Cas1000}{Bem... tudo bem então. Vou esperar aqui até você voltar. }
-{1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
-{1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
-{1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}
-{1400}{Cas1400}{All right, I'll be watching your back. You need me, holler, and I'll come running.}
-{2000}{Cas2000}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
+{1100}{Cas1100}{Claro. Mas não posso prometer que não vou aceitar de volta se houver problemas.}
+{1200}{Cas1200}{Tudo bem, eu vou ficar mais perto de você. Você deve estar esperando problemas.}
+{1300}{Cas1300}{Tudo bem, vou manter alguma distância. Vou ter uma visão melhor assim.}
+{1400}{Cas1400}{Tudo bem, vou ficar em volta. Se precisar de mim, grite, e eu venho correndo.}
+{2000}{Cas2000}{Sem ofensa nem nada, mas você não parece muito capaz de liderar ninguém. Parece que o deserto vai ter você para o jantar.}
 {2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
 {2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
 {2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
