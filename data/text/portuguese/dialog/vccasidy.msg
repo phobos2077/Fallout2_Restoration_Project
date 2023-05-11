@@ -172,14 +172,14 @@
 {348}{}{*Hic* Heh-heh. Nothing like some good ol' firewater to get the blood pumping.}
 {349}{}{Thanks. Hell, you should take a swig, too.}
 {350}{}{That's the Vault. Big friggin' thing, innit?}
-{351}{}{You want me to join you again?}
-{352}{}{I'm good to go whenever you are.}
-{353}{}{Sure you don't need my help?}
-{354}{}{I'm itching to get going.}
-{355}{}{Sure could go for a smoke.}
-{356}{}{Dad named me after some comic book character from before the war. Said he was a mean sonuvabitch, too.}
-{357}{}{It's good to be traveling again. Living in Vault City was giving me an ulcer.}
-{358}{}{Hope my heart doesn't act up while we're travelling...}
+{351}{}{Você quer que eu me junte a você de novo?}
+{352}{}{Estou pronto para ir quando você estiver.}
+{353}{}{Tem certeza que não precisa da minha ajuda?}
+{354}{}{Estou ansioso para ir.}
+{355}{}{Claro que poderia fumar.}
+{356}{}{Papai me deu o nome de um personagem de quadrinhos de antes da guerra. Disse que ele também era um mesquinho filho da puta.}
+{357}{}{É bom estar viajando novamente. Morar em Vault City estava me dando uma úlcera.}
+{358}{}{Espero que meu coração não aja enquanto estamos viajando...}
 {359}{}{Sure could use a drink.}
 {360}{}{Better check my gear again.}
 {361}{}{Goddamn arthritis...}
