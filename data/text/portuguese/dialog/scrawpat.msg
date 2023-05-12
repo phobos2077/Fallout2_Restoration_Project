@@ -1,7 +1,7 @@
-{100}{}{Looks like yet another barfly.}
-{101}{}{Same drunk you saw last time.}
-{102}{}{Doesn't look like the nicest of people, but with that much booze, who does?}
-{103}{}{Look, I'm just drinking. Leave me alone.}
+{100}{}{Parece mais uma mosca de bar.}
+{101}{}{O mesmo bêbado que você viu da última vez.}
+{102}{}{Você não parece a melhor das pessoas, mas bêbado assim, quem seria?}
+{103}{}{Olha, estou só bebendo. Me deixe em paz.}
 {104}{}{I don't talk to strangers. Bad for your health in this bar.}
 {105}{}{I've heard about you. Damn, but aren't you in the wrong place!}
 {106}{}{You want trouble? Go talk to Merk.}

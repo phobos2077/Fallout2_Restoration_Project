@@ -25,16 +25,16 @@
 {124}{}{E tem o Carne Seca. Esse velho diz que encontrou uma mina de ouro...}
 {125}{}{A Srta. Dorothy e Toto estiveram aqui na semana passada, procurando algumas peças para consertar a usina. Mas eu não pude ajuda-los...}
 {126}{}{Dizem na cidade que o que aconteceu com Westin não foi um acidente. Algumas pessoas acham que existem muitos estranhos suspeitos por aí...}
-{127}{}{Thanks for the money, but I don't know anything more.}
-{128}{}{Here's another fiver.}
-{129}{}{Can I see your stuff?}
-{130}{}{Well, thanks for the info.}
-{131}{}{Well, gimme six hours. I should have it fixed up by then.}
-{132}{}{Before you do, a little more of your time.}
-{133}{}{Good enough. I'll see you later.}
-{134}{}{Look, if you get the cash, come back. I'll probably still have it.}
-{135}{}{Fair enough.}
+{127}{}{Obrigado pelo dinheiro, mas não sei de mais nada.}
+{128}{}{Aqui está outra nota de cinco.}
+{129}{}{Posso ver suas coisas?}
+{130}{}{Bem, obrigado pela informação.}
+{131}{}{Bem, me dê seis horas. Eu deveria ter consertado até então.}
+{132}{}{Antes de fazer isso, me dê um pouco mais tempo.}
+{133}{}{Bom o bastante. Vejo você mais tarde.}
+{134}{}{Olha, se você conseguir o dinheiro, volte. Provavelmente ainda terei.}
+{135}{}{É justo.}
 {136}{}{Adeus.}
-{137}{}{There she is! Claudia's all installed.}
-{138}{}{Gimme a little more time. I'm still working on the cussed thing.}
-{139}{}{Whoa! I don't think I've got a spare brain for you.}
+{137}{}{Lá está ela! Claudia foi toda instalada.}
+{138}{}{Me dê um pouco mais de tempo. Ainda estou trabalhando nessa bendita.}
+{139}{}{Uau! Acho que não tenho um cérebro sobrando para você.}
