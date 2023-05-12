@@ -142,15 +142,13 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-      //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
+   variable tmp_box;
 
    if (validHandle(i_lao_merchant)) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin //Armor table
+            tmp_box := move_critical_items();
 
 //used to be table 3
             check_restock_item(PID_ROCKET_LAUNCHER, 1, 2, 40)
@@ -175,7 +173,11 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_LEATHER_JACKET, 2, 4, 60)
             check_restock_item(PID_POWERED_ARMOR, 1, 2, 60)
             check_restock_item(PID_METAL_ARMOR_MK_II, 1, 2, 65)
+
+            call restore_critical_items(tmp_box);
          end else if (self_tile == TABLE_2) then begin //Ammo table
+            tmp_box := move_critical_items();
+
 //used to be table 4
             check_restock_item(PID_CROWBAR, 1, 1, 100)
             check_restock_item(PID_SHIV, 1, 2, 80)
@@ -233,6 +235,8 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_10MM_AP, 2, 5, 100)
             check_restock_item(PID_9MM_AMMO, 1, 5, 50)
             check_restock_item(PID_223_FMJ, 5, 10, 100)
+
+            call restore_critical_items(tmp_box);
          end
          set_local_Var(LVAR_Restock_Time, game_time + (ONE_GAME_DAY * Random(2, 4)));
       end

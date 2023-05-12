@@ -45,16 +45,12 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    broken_hills_liz_box := self_obj;
    if (is_loading_game == false) then begin
       if (map_var(MVAR_Liz_Dead) == 0) then begin
          restock_fix
          if (local_var(LVAR_Restock_Time) < game_time) then begin
+            variable tmp_box := move_critical_items();
             check_restock_item(PID_BOTTLE_CAPS, 100, 300, 100)
             check_restock_item(PID_ROPE, 1, 5, 100)
             check_restock_item(PID_FLARE, 2, 10, 100)
@@ -71,6 +67,7 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_METAL_ARMOR, 1, 2, 100)
             check_restock_item(PID_COMBAT_KNIFE, 1, 1, 100)
             check_restock_item(PID_KNIFE, 1, 2, 100)
+            call restore_critical_items(tmp_box);
             set_local_var(LVAR_Restock_Time, (random(2,4) * ONE_GAME_DAY) + game_time);
          end
       end

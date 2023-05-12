@@ -137,21 +137,18 @@ end
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    Only_Once:=0;
    set_self_team(TEAM_SAN_FRAN_SHI);
    set_self_ai(AI_SF_SHI);
 
    restock_fix
    if (game_time > local_var(LVAR_Restock_Time)) then begin
+      variable tmp_box := move_critical_items();
       check_restock_item(PID_STIMPAK, 5, 7, 100)
       check_restock_item(PID_FIRST_AID_KIT, 1, 3, 60)
       check_restock_item(PID_RADAWAY, 1, 3, 60)
       check_restock_item(PID_SUPER_STIMPAK, 1, 7, 50)
+      call restore_critical_items(tmp_box);
       set_local_var(LVAR_Restock_Time, game_time + (ONE_GAME_DAY * Random(1, 7)));
    end
 end

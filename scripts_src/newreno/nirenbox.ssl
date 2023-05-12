@@ -43,15 +43,11 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    new_reno_renesco_box := self_obj;
    if (is_loading_game == false) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
+         variable tmp_box := move_critical_items();
          self_caps_adjust(random(250,500) - self_caps);
          check_restock_item(PID_JET, 5, 10, 100)
          check_restock_item(PID_ANTIDOTE, 1, 5, 100)
@@ -70,6 +66,7 @@ procedure map_enter_p_proc begin
          if (map_first_run) then begin
             check_restock_item(PID_FIRST_AID_KIT, 1, 1, 100)
          end
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (random(2,5) * ONE_GAME_DAY) + game_time);
       end
    end
