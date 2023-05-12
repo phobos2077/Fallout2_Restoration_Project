@@ -7,7 +7,7 @@
 {106}{}{Realmente, não me importo em ser um escravo. É uma vida boa, estou alimentado e minha amante é muito boa para mim.}
 {107}{}{Vá embora! Me deixe em paz!}
 {108}{}{Vocês! Você tem que nos ajudar! Derrube os opressores!}
-{109}{}{Don't talk to me! I don't want another beating.}
+{109}{}{Não fale comigo! Não quero outra surra.}
 {110}{}{A escravidão é apenas uma construção mental. Afinal, você é realmente livre?}
 {111}{}{Não mais! Por favor, não a Casa da Dor!}
 {112}{}{Fique longe de mim!}

@@ -2,16 +2,16 @@
 {101}{}{O mesmo bêbado que você viu da última vez.}
 {102}{}{Você não parece a melhor das pessoas, mas bêbado assim, quem seria?}
 {103}{}{Olha, estou só bebendo. Me deixe em paz.}
-{104}{}{I don't talk to strangers. Bad for your health in this bar.}
-{105}{}{I've heard about you. Damn, but aren't you in the wrong place!}
-{106}{}{You want trouble? Go talk to Merk.}
-{107}{}{Hey, good-looking, you want to go some place private and have a little fun?}
-{108}{}{Don't talk to me! I don't want another beating.}
-{109}{}{Damn cheap whiskey! You know, they serve the worst liquor here.}
-{110}{}{Shit! I didn't mean to spill my drink on you. Let me clean that up. Sorry, sorry.}
+{104}{}{Eu não falo com estranhos. Faz mal pra saúde do bar.}
+{105}{}{Já ouvi falar de você. Porra, mas você está no lugar errado!}
+{106}{}{Procurando problemas? Vá falar com Merk.}
+{107}{}{Ei, bonitão, quer ir para algum lugar mais privado e se divertir um pouco?}
+{108}{}{Não fale comigo! Não quero outra surra.}
+{109}{}{Maldito uísque barato! Você sabe, eles servem o pior licor aqui.}
+{110}{}{Merda! Eu não queria derramar minha bebida em você. Deixe eu limpar isso. Desculpe, desculpe.}
 {111}{}{Fique longe de mim!}
-{112}{}{I've heard about you. Please don't hit me.}
-{113}{}{New in town? Word is Merk's looking for some tough hombres.}
+{112}{}{Eu ouvi sobre você. Por favor, não me bata.}
+{113}{}{Novo na cidade? Dizem que Merk está procurando por homens durões.}
 {114}{}{What are you, some kind of tough guy? Get outta my face!}
 {115}{}{They shouldn't never have done that. Someday stranger, I'll have a gun and then I'll show 'em.}
 {116}{}{How'd you like to be my love slave, pretty?}
