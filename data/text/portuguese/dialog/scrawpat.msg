@@ -13,17 +13,17 @@
 {112}{}{Eu ouvi sobre você. Por favor, não me bata.}
 {113}{}{Novo na cidade? Dizem que Merk está procurando por homens durões.}
 {114}{}{Você é o que? Algum tipo de cara durão? Saia da minha frente!}
-{115}{}{They shouldn't never have done that. Someday stranger, I'll have a gun and then I'll show 'em.}
-{116}{}{How'd you like to be my love slave, pretty?}
-{117}{}{Drinking and talking - hell, nothing exciting ever happens in this town.}
-{118}{}{Go away, you're bothering me.}
-{119}{}{Did you hear the one about...}
-{120}{}{So I says to him, "Look," I says...}
-{121}{}{Try the roasted mole-rat. It's the best around.}
-{122}{}{Hi. What's your sign?}
+{115}{}{Eles nunca deveriam ter feito isso. Algum dia, estranho, terei uma arma e depois mostrarei a eles.}
+{116}{}{Você gostaria de ser minha escrava amorosa, linda?}
+{117}{}{Bebida e conversa... Meu Deus, nada emocionante acontece nesta cidade.}
+{118}{}{Vai embora, está me incomodando.}
+{119}{}{Você ouviu falar sobre...}
+{120}{}{Então eu digo a ele: "Olha", eu disse...}
+{121}{}{Experimente um rato toupeira assado. É o melhor por aqui.}
+{122}{}{Oi. Qual é o seu signo?}
 {123}{}{Se está procurando trabalho, estranho, vá até o Stockman's.}
-{124}{}{Shit! Did you see that?}
-{125}{}{Oh man, I'm going to be sick.}
-{126}{}{No more for me.}
-{127}{}{Hey, mix me one of those!}
-{128}{}{I had a Rad-a-Waster like that once...}
+{124}{}{Merda! Você viu isso?}
+{125}{}{Oh cara, eu vou ficar doente.}
+{126}{}{Nada mais para mim.}
+{127}{}{Ei, misture um desses!}
+{128}{}{Eu tive um Rad-a-Waster desses uma vez...}
