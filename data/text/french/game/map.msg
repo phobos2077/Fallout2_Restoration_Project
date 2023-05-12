@@ -180,7 +180,7 @@
 {309}{}{Abri 15 : niveau 2}
 {310}{}{Abri 15 : niveau 3}
 {311}{}{Squatters}
-{312}{}{}
+{312}{}{Squatters}
 {313}{}{}
 {314}{}{Squatters}
 {315}{}{}
