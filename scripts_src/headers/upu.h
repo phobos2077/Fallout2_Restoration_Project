@@ -7,7 +7,7 @@
 #define upu_setting(section, setting) get_ini_setting(upu_ini + "|" + section + "|" + setting)
 #define upu_string(section, setting) get_ini_string(upu_ini + "|" + section + "|" + setting)
 #define upu_msetting(setting) get_ini_setting(upu_ini + "|" + sec_main + "|" + setting)
-#define set_goris_derobing "goris_quick_derobing"
+#define set_goris_derobing "goris_derobing_speed"
 #define repeatable_brahmin_drive upu_setting("ncr", "repeatable_brahmin_drive")
 #define wipe_inventory upu_setting("main", "wipe_inventory")
 
