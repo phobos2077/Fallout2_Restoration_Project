@@ -8,23 +8,23 @@
 {107}{}{Parece que você é bom com as mãos. Você tem mãos, certo?}
 {108}{}{Eu tenho $5. Tem alguma boa fofoca rolando?}
 {109}{}{Adeus.}
-{110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like children to me. I hate having to sell 'em, but I got to eat.}
-{111}{}{You're messing with all my children!}
-{112}{}{Yeah, right. Here's a fiver. You know any good gossip?}
-{113}{}{O-kay - aren't you just special! Maybe I should shop someplace else.}
-{114}{}{Let me look at your stock again.}
-{115}{}{I think me and Edna will be going now.}
-{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
-{117}{}{Uhh - of course.}
-{118}{}{Well, I think I'll be going now.}
-{119}{}{I can fix up all sorts of stuff. Got me blower, named it Claudia, fit most any car - give it a lot more power. Only $1000. You interested?}
-{120}{}{Dummy, we already talked about that.}
-{121}{}{You bet, Claudia's my kind of - whatever.}
-{122}{}{Maybe something else.}
-{123}{}{Heard tell there's a doc here in town, says he's got some miracle cure. I ain't taking it though...}
-{124}{}{Then there's Saltbeef. Old coot says he's found a gold mine...}
-{125}{}{Miss Dorothy and Toto was out here last week, looking for some parts to fix the power plant. I couldn't help them, though...}
-{126}{}{There's talk in town that what happened to Westin wasn't no accident. Some folks thinking there's too many suspicious strangers around...}
+{110}{}{Está vendo aquela ali? Essa é a minha favorita, é a Edna. Eu nomeio todas as minhas coisas... elas são como crianças para mim. Odeio ter que vender, mas preciso comer.}
+{111}{}{Você está mexendo em todas as minhas filhas!}
+{112}{}{Ok, certo. Pegue uma nota de cinco. Tem alguma boa fofoca rolando?}
+{113}{}{O-kay, você não é tão especial! Talvez eu devesse comprar em outro lugar.}
+{114}{}{Deixe eu dar uma olhada de novo em seu estoque.}
+{115}{}{Acho que Edna e eu iremos agora.}
+{116}{}{Bem, graças a Deus aquele estranho não te levou, criança... Minhas coisas são como minhas crianças.}
+{117}{}{Uhh... entendi.}
+{118}{}{Bem, acho que já vou indo.}
+{119}{}{Eu posso consertar todo tipo de coisa. Com esse compressor - o chamei de Claudia - que cabe em quase todos os carros, da muito mais potência. São só $1000. Te interessa?}
+{120}{}{Tonto, já falamos sobre isso.}
+{121}{}{Pode apostar, Claudia é o meu tipo de... tanto faz.}
+{122}{}{Talvez outra coisa.}
+{123}{}{Ouvi dizer que tem um médico aqui na cidade, que diz ter uma cura milagrosa. Mas eu não tomaria...}
+{124}{}{E tem o Carne Seca. Esse velho diz que encontrou uma mina de ouro...}
+{125}{}{A Srta. Dorothy e Toto estiveram aqui na semana passada, procurando algumas peças para consertar a usina. Mas eu não pude ajuda-los...}
+{126}{}{Dizem na cidade que o que aconteceu com Westin não foi um acidente. Algumas pessoas acham que existem muitos estranhos suspeitos por aí...}
 {127}{}{Thanks for the money, but I don't know anything more.}
 {128}{}{Here's another fiver.}
 {129}{}{Can I see your stuff?}
