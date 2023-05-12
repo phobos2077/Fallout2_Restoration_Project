@@ -12,7 +12,7 @@
 {111}{}{Fique longe de mim!}
 {112}{}{Eu ouvi sobre você. Por favor, não me bata.}
 {113}{}{Novo na cidade? Dizem que Merk está procurando por homens durões.}
-{114}{}{What are you, some kind of tough guy? Get outta my face!}
+{114}{}{Você é o que? Algum tipo de cara durão? Saia da minha frente!}
 {115}{}{They shouldn't never have done that. Someday stranger, I'll have a gun and then I'll show 'em.}
 {116}{}{How'd you like to be my love slave, pretty?}
 {117}{}{Drinking and talking - hell, nothing exciting ever happens in this town.}
