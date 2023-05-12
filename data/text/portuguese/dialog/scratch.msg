@@ -4,9 +4,9 @@
 {103}{}{Vende-se sucata, vende-se sucata. Dê uma olhada, me faça uma oferta.}
 {104}{}{Com certeza, qualquer que seja.}
 {105}{}{Uh... huh...}
-{106}{}{So what's for sale?}
-{107}{}{You look like you're good with your hands. You do have hands, don't you?}
-{108}{}{I got $5. You got any good gossip?}
+{106}{}{Então, o que está à venda?}
+{107}{}{Parece que você é bom com as mãos. Você tem mãos, certo?}
+{108}{}{Eu tenho $5. Tem alguma boa fofoca rolando?}
 {109}{}{Adeus.}
 {110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like children to me. I hate having to sell 'em, but I got to eat.}
 {111}{}{You're messing with all my children!}
