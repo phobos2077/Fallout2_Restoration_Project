@@ -1,7 +1,7 @@
-{100}{}{You see a dumpy-looking bald guy, polishing a glass.}
-{101}{}{It's the bartender.}
-{102}{}{He's a gruff-looking guy with a crooked nose and pinched up ears like he might have been a boxer years ago.}
-{103}{}{What can I get you?}
+{100}{}{Você vê um careca de aparência atarracada, polindo um copo.}
+{101}{}{É o barman.}
+{102}{}{Ele é um cara de aparência rude, com nariz torto e orelhas empinadas, como se fosse um boxeador anos atrás.}
+{103}{}{Com o que posso te servir?}
 {104}{}{Diga, foi você que fez Jack desistir, não foi? Esse foi um bom trabalho. Então o que você quer?}
 {105}{}{Com certeza.}
 {106}{}{Bebida.}

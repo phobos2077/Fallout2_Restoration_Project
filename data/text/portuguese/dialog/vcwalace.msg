@@ -58,7 +58,7 @@
 {157}{}{De nada. Nem preciso disso tanto assim.}
 {158}{}{De nada então. Eu voltarei quando tiver mais algum dinheiro.}
 {159}{}{Aqui está. POR FAVOR tente manter este com você todo o tempo.Eu não quero ficar distribuindo múltiplos Day Passes pra todo mundo..}
-{160}{}{I had some other questions I wanted to ask you.}
+{160}{}{Eu tinha outras perguntas que queria te fazer.}
 {161}{}{Entendido. Valeu.}
 {162}{}{Meu nome é Wallace. Sou o oficial do Customs Office de Vault City. Eu acomodo aqueles que desejam fazer negócios conosco.}
 {163}{}{Eu gostaria de entrar em Vault City.}

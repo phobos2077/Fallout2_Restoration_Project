@@ -1,19 +1,19 @@
-{100}{}{He's a muscular guy, with a barrel chest.}
-{101}{}{It's Hal, the captain for the brahmin drive.}
-{102}{}{He's chewing a wad of something you hope he don't spit this way, because it stinks to high heaven.}
-{103}{}{You here for the drive?}
+{100}{}{Ele é um cara musculoso, com peito largo.}
+{101}{}{É Hal, o capitão da caravana de brahmins.}
+{102}{}{Ele está mastigando um pedaço de algo que você espera que não cuspa perto de você, porque fede muito.}
+{103}{}{Você está aqui pela caravana?}
 {104}{}{}
 {105}{}{Sim.}
 {106}{}{Não.}
 {107}{}{Mantenha seus olhos abertos.}
-{108}{}{Stay together men!}
-{109}{}{Keep it up boys.}
-{110}{}{Great. Let's roll out. Head 'em out for Redding boys!}
-{111}{}{Well then, leave me alone. I got 500 head of brahmin to get on the trail.}
-{112}{}{You again? Go away.}
+{108}{}{Fiquem juntos, homens!}
+{109}{}{Continuem assim, rapazes.}
+{110}{}{Ótimo, vamos lançar. Para Redding, rapazes!}
+{111}{}{Bem, então me deixe em paz. Eu tenho 500 cabeças de brahmins para entrar na trilha.}
+{112}{}{Você outra vez? Vaza.}
 {113}{}{Bem, foi tudo uma merda! Receio que não pegamos dinheiro nesta viagem para nenhum de nós. Agradeça por estar vivo.}
 {114}{}{Bem, os fazendeiros não estão muito felizes. Vão nos dar $1.000 por essa viagem. Sorte difícil.}
-{115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
+{115}{}{Bem, tivemos um pouco de azar, mas nos saímos bem. Aqui estão os $2.000 do acordo.}
 {116}{}{Caramba, foi muito bem! Pegue um bônus de $1.000 para você, isso e mais $2.000 no seu pagamento. Redding, melhor tomar cuidado esta noite!}
-{117}{}{You're on your own. Good travelling with you.}
+{117}{}{Você está por sua conta, tenha uma boa viagem.}
 {118}{}{Você é o pior projeto de guarda que eu já vi. Saia agora daqui.}

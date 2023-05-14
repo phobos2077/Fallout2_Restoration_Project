@@ -4,7 +4,7 @@
 {103}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like the bartender.}
 {104}{}{Welcome! Care for a drink, Chosen One?}
 {105}{}{Welcome, Chosen One! Please, take a seat in the bar.}
-{106}{}{Please! Take a seat, rest for a while!}
+{106}{}{Por favor! Sente-se, descanse um pouco!}
 {107}{}{It's the Chosen One! Everybody give it up for the HERO of Fallout 2!}
 {108}{}{Bom dia, Capitão.}
 {109}{}{Vault City prevails, Capitão.}
@@ -74,7 +74,7 @@
 {173}{}{Where's the Vault?}
 {174}{}{Can you tell me about the slavery in Vault City?}
 {175}{}{Does Vault City have much contact with the outside world?}
-{176}{}{What have you got on tap?}
+{176}{}{O que você tem pra tomar?}
 {177}{}{I have that shipment of alcohol you wanted.}
 {178}{}{Tudo bem então. Bom Dia.}
 {179}{}{Uh, First Citizen Lynette... you are a Citizen, aren't you?}

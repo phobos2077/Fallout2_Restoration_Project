@@ -87,32 +87,32 @@
 {186}{}{(Vai embora.)}
 {187}{}{All right. Before you go in, we have to search your belongings first.}
 {188}{}{Uh, tudo bem.}
-{189}{}{What for?}
-{190}{}{Forget it, then.}
-{191}{}{Stop right there. No Outworlders are allowed within Vault City after dark.}
-{192}{}{But I have a Pass.}
-{193}{}{But I'm a Citizen.}
-{194}{}{I'm sorry. I'll be moving along.}
-{195}{}{Oh, so NOW you're a Citizen, huh? Just like last time? Give me those "Citizenship papers" and get out of here.}
+{189}{}{Pelo que?}
+{190}{}{Esqueça, então.}
+{191}{}{Pare aí. Nenhum forasteiro é permitido dentro de Vault City após o anoitecer.}
+{192}{}{Mas eu tenho um passe.}
+{193}{}{Mas eu sou um Cidadão.}
+{194}{}{Desculpe. Eu vou seguindo em frente.}
+{195}{}{Ah, então AGORA você é um Cidadão, hein? Assim como da última vez? Me dê aqueles "documentos de cidadania" e saia daqui.}
 {196}{}{You want these papers? Come get them!}
 {197}{}{Tudo bem, tudo certo.}
-{198}{}{Go talk to Wallace, Head of Customs. Now leave me alone.}
+{198}{}{Vá falar com Wallace, Chefe da Alfândega. Agora me deixa em paz.}
 {199}{}{Certo. Tchau.}
-{200}{}{Yeah, you have a DAY Pass. Does it look like day to you? Move along.}
-{201}{}{Okay, okay.}
-{202}{}{Sometimes Outworlders try to smuggle alcohol or addictive drugs into Vault City: Buffout, Jet, Psycho,
- Mentats... that sort of thing.}
-{203}{}{Oh, okay. Feel free to search me.}
-{204}{}{Forget it, then. I don't need to get into Vault City that badly.}
-{205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
- City. Ditch them then come back, all right?}
+{200}{}{Sim, você tem um passe para o DIA. Parece que é dia? Vá andando.}
+{201}{}{Está bem, está bem.}
+{202}{}{Às vezes forasteiros tentam contrabandear álcool ou drogas para Vault City: Buffout, Jet, Psycho, Mentats...
+ esse tipo de coisa.}
+{203}{}{Oh, tudo bem. Fique à vontade para me procurar.}
+{204}{}{Esqueça, então. Não preciso entrar aqui pra ser maltratado.}
+{205}{}{Desculpe, não posso deixá-lo entrar com esses itens em sua posse. Drogas e álcool não são permitidos
+ em Vault City. Livre-se deles e depois volte, certo?}
 {206}{}{Tudo bem.}
-{207}{}{All right, it looks like you're clean. You can head on in.}
+{207}{}{Tudo bem, parece que você está limpo. Pode entrar.}
 {208}{}{Obrigado.}
-{209}{}{Yup. Heer}
-{210}{}{Byeeee}
-{211}{}{Uh... (Studies you for a moment, then shrugs.) }
-{212}{}{O-kae.}
-{213}{}{Nup. Byeeeee}
-{214}{}{Awl ritye}
+{209}{}{Sim, vou}
+{210}{}{Tchauuuu}
+{211}{}{Uh... (te estuda por um momento, então dá de ombros.) }
+{212}{}{OOokey.}
+{213}{}{Não, tchaauu}
+{214}{}{Di aco-odo}
 {215}{}{Sim.}

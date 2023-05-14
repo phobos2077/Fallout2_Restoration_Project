@@ -72,7 +72,7 @@
 {171}{}{Tudo certo.}
 {172}{}{Eu não sei... Está um pouco caro. Que tal }
 {173}{}{ mangos?}
-{174}{}{Can you heal just me instead?}
+{174}{}{Você pode me curar em vez disso?}
 {175}{}{O que é este lugar?}
 {176}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
 {177}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
@@ -80,7 +80,7 @@
 {179}{}{Bem... tudo bem. Isso parece justo.}
 {180}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {181}{}{Apagar-se por 3 segundos}
-{182}{}{There, all stitched up! Knew the ol' Doctor still had some life left in 'im.}
+{182}{}{Pronto, tudo costurado! Eu sabia que o velho Doutor ainda daria pro gasto.}
 {183}{}{Valeu. Há outra coisa que eu precisava...}
 {184}{}{Apreciei bastante. Nós voltaremos algum dia.}
 {185}{}{Este é o hospital da plebe de Vault City. Entretanto eu e o ol'Doctor ali atrás também precisamos de alguns cuidados.}

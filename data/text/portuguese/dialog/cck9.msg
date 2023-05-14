@@ -4,7 +4,7 @@
 {103}{}{As funções vitais de meu mestre estão terminadas. Você é o meu novo mestre?}
 {104}{}{Uh... cachorrinho falar?}
 {105}{}{OK. Eu gosto de cachorrinho.}
-{106}{}{Não. Não quero cachorrinho.}
+{106}{}{Não quero cachorrinho.}
 {107}{}{Ha! Um cão falante.}
 {108}{}{1; Eu sou um cão. Dois; Estou me comunicando vocalmente usando a comum
   Língua Portuguêsa. Portanto, é seguro assumir que a resposta à sua pergunta
@@ -33,7 +33,7 @@
   capaz de motivação total, eu morderia você na parte carnuda do sua
   região anterior comumente referida como ...}
 {125}{}{Bunda. Eu sei o que é bunda. Eu não sou burro. Eu apenas brinco com você.}
-{126}{}{Oh, uma piada. Hardy Har Har Har Har. Agora, você é meu novo mestre ou não?}
+{126}{}{Oh, uma piada. Ha-Ha-Ha-Ha. Agora, você é meu novo mestre ou não?}
 {127}{}{OK. Eu gosto de cachorrinho.}
 {128}{}{Não. Não quero cachorrinho.}
 {129}{}{Excelente. Preciso de reparos, mestre. Minha unidade de motivação

@@ -30,7 +30,7 @@
 {129}{}{(need info from Chris)}
 {130}{}{(Avellone, that is)}
 {131}{}{Bem.}
-{132}{}{Deal.}
+{132}{}{É um trato.}
 {133}{}{Too bad for you, old man.}
 {134}{}{I look forward to hearing from you. Now, go out the way you came.}
 {135}{}{Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.}

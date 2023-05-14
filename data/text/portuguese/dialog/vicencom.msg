@@ -195,12 +195,12 @@
 {300}{}{Quando voce esta prestes a retornar a lista de arquivos, voce percebe habilmente uma entrada oculta na mesma lista.}
 {301}{}{Quando voce esta prestes a fazer logoff do terminal, voce percebe habilmente uma entrada oculta na lista de arquivos.}
 {302}{}{[CONTINUAR]}
-{303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
- entitled "Classified." It looks like your skill points in Science are paying off.}
-{304}{}{[Read entry.]}
-{305}{}{Reading through the file, it appears as if the sole purpose of Vault 8 was to act as a "control Vault" in a series of Vaults created by a corporation called Vault-Tec.
- The intent was for Vault 8 to open and re-colonize the surface after 10 years. It also appears Vault 8 was not the only Vault with a purpose other than protecting its inhabitants from the Great War.
- Perhaps more can be found out about the true purpose of these Vaults at another location.}
-{306}{}{[Return to archive listing.]}
-{307}{}{[Log off.]}
-{308}{}{You learn about the real purpose of Vault 8 and that there is more to the construction of all the Vaults than meets the eye.}
+{303}{}{Após alguns minutos, você poderá acessar o arquivo bloqueado. Há apenas um arquivo listado com o
+ título "Classificado". Parece que seus pontos de habilidade em Ciências estão valendo a pena.}
+{304}{}{[Ler a entrada.]}
+{305}{}{Lendo o arquivo, parece que o único propósito da Vault 8 era atuar como uma "Vault de controle" em uma série de Vaults criadas por uma corporação chamada Vault-Tec.
+ A intenção era que a Vault 8 abrisse e recolonizasse a superfície após 10 anos. Também parece que a Vault 8 não era a única Vault com um propósito diferente de proteger seus habitantes da Grande Guerra.
+ Talvez mais informações possam ser descobertas sobre o verdadeiro propósito dessas Vaults em outro local.}
+{306}{}{[Retornar à lista de arquivos.]}
+{307}{}{[Encerrar.]}
+{308}{}{Você aprende sobre o verdadeiro propósito da Vault 8 e que existe mais coisas na construção das Vaults do que parece.}

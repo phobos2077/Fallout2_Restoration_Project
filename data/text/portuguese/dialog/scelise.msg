@@ -125,20 +125,20 @@
 {250}{}{Na verdade, mais uma coisa. Você parece alguém confiável, alguém que não gosta de escravistas.}
 {251}{}{Bem, acabei de eliminar um acampamento inteiro deles. O que você tem em mente?}
 {252}{}{Acho que já fiz o suficiente pela humanidade hoje. Vejo você por aí.}
-{260}{}{What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?}
-{261}{}{Yep. That was me.}
-{262}{}{I sure as hell did. You got a problem with that? }
+{260}{}{O que você está fazendo aqui? Isso é particular... Ei, espere um pouco, acho que já ouvi falar de você. Não foi você quem destruiu um dos campos de escravos de Metzger?}
+{261}{}{Sim, eu mesmo.}
+{262}{}{E como fiz. Você tem algum problema com isso? }
 {263}{}{Talvez... por que?}
-{264}{}{I have no idea what you're talking about. Now if you'll excuse me, I'll be on my way.}
-{270}{}{That was a fine thing you did and I just want to shake your hand.}
-{271}{}{Not at all. In fact, I'd like to shake your hand.}
-{272}{}{Because that was a fine thing you did and I just want to shake your hand.}
+{264}{}{Não faço ideia do que você está falando. Agora, se me der licença, vou embora.}
+{270}{}{Isso foi uma coisa boa que você fez e eu só quero apertar sua mão.}
+{271}{}{Nenhum problema. Pelo contrário, gostaria de apertar sua mão.}
+{272}{}{Porque foi uma coisa boa que você fez e eu só quero apertar sua mão.}
 {273}{}{Se está tão feliz com o meu trabalho, que tal uma pequena recompensa em dinheiro?}
-{274}{}{You're welcome. Now why don't you tell me who you are?}
-{280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
+{274}{}{É bem-vindo. Agora, por que você não me diz quem você é?}
+{280}{}{Não temos muitos fundos sobrando, mas você *prestou* um grande serviço para nós, então suponho que poderíamos nos desfazer de alguns. Aqui é $ 1000.}
 {281}{}{Obrigado. Tchau.}
-{282}{}{Thanks. Now why don't you tell me who you are?}
-{290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
+{282}{}{Obrigado. Agora, por que você não me diz quem é você?}
+{290}{}{Eu sou Elsie, esse é Gond. Somos membros de um grupo antiescravista chamado Rangers da Nova California. Nós poderíamos precisar de alguém como você. Se você estiver interessado em se juntar a nós, tenho uma tarefa.}
 {291}{}{Vamos ouvi-lo.}
 {292}{}{Não interessado. Tchau.}
-{300}{}{Help you with something, Ranger?}
+{300}{}{Ajudar com alguma coisa, Ranger?}

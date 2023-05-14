@@ -3,16 +3,16 @@
 {200}{}{BOOM!!! I love 'splosions!}
 {201}{}{Bam-bam! I shoot mutants!}
 {202}{}{I wish I saw more 'splosions!}
-{203}{}{Everything should explode!}
-{300}{}{Can you blow something up, Mister?}
-{301}{}{When I grow up, I'm gonna rule the world!}
-{302}{}{I don't like it here, I wanna move to the east coast!}
-{303}{}{My clothes are magic!}
-{304}{}{Grownups talk too much!}
-{305}{}{The Brotherhood of Steel are the knights of the wasteland!}
-{306}{}{All mutants are evil!}
-{307}{}{I bet my teddy bear could kill you!}
-{308}{}{My dad went missing again!}
-{309}{}{Sometimes I drink from toilets!}
-{310}{}{What's cont-i-newy-t mean?}
-{311}{}{Can you blow something up, Misses?}
+{203}{}{Tudo deve explodir!}
+{300}{}{Pode explodir alguma coisa, senhor?}
+{301}{}{Quando eu crescer, vou dominar o mundo!}
+{302}{}{Não gosto daqui, quero me mudar para a costa leste!}
+{303}{}{Minhas roupas são mágicas!}
+{304}{}{Os adultos falam muito!}
+{305}{}{A Irmandade do Aço são os cavaleiros do deserto!}
+{306}{}{Todos os mutantes são maus!}
+{307}{}{Aposto que meu ursinho de pelúcia poderia te matar!}
+{308}{}{Meu pai desapareceu de novo!}
+{309}{}{Às vezes eu bebo no banheiro!}
+{310}{}{O que significa cont-i-newy-t?}
+{311}{}{Você pode explodir alguma coisa, moça?}

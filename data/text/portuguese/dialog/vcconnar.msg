@@ -108,29 +108,29 @@
 {301}{}{Not yet. I'll report back when I find something.}
 {302}{}{Good news: I've convinced the Vault City council not to touch your village.}
 {310}{}{If you're willing to part with those weapons you're carrying, we're willing to pay you $5,000 for them.}
-{311}{}{You've got yourself a deal. Here's the weapons.}
-{312}{}{No deal. It's a dangerous world out there and I need all the guns I can get my hands on. Goodbye.}
-{400}{}{Thanks friend. With these weapons we stand a chance!}
-{401}{}{Welcome back. Thanks to you we were successful in pushing back the Vault City patrol. They won't be bothering us anymore.}
+{311}{}{Você tem um acordo. Aqui estão as armas.}
+{312}{}{Sem trato. É um mundo perigoso lá fora e preciso de todas as armas que puder. Adeus.}
+{400}{}{Obrigado, amigo. Com essas armas temos uma chance!}
+{401}{}{Bem vindo de volta. Graças a você, conseguimos repelir a patrulha de Vault City. Eles não vão mais nos incomodar.}
 {500}{}{Não me incomode.}
-{600}{}{What was the name of your contact in Vault City again?}
-{601}{}{Old Joe. As the name implies, he's a real old fella. You'll either find him in the courtyard bar or wandering nearby.}
-{602}{}{Alright, thanks.}
-{603}{}{So, who exactly is he?}
-{604}{}{Old Joe's a real character, is who he is. Claims to be over a hundred years old, but I dunno if I buy it. He claims all sorts of things. Even says he helped save the world once. The guy's full of stories--I reckon most of em are bullshit, but they sure are entertaining. He keeps an eye on things in Vault City for us, and he does a damn fine job considering he's old as dirt and nearly blind.}
-{605}{}{Interesting. I must be going.}
-{606}{}{He says he helped save the world? You know, I'm kind of on a world saving quest myself--at least a quest to save *my* world.}
-{610}{}{Right. Good for you. Well, you keep at it then. Just don't forget about helping us.}
-{611}{}{Oh I won't. See you later.}
-{612}{}{I probably will, actually. I get so many quests it's hard to keep track. If it wasn't for this handy Pip-Boy, who knows where I'd be? See ya.}
-{700}{}{Oh, right. Here you go. [Hand him $5,000.]}
-{701}{}{Sorry, I had to spend it as part of the deal.}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
-{710}{}{Thanks. Here. [He hands you back $2,500.] Keep it. It's the least we could do to repay you.}
-{720}{}{Oh, I see. Well, if it bought us our freedom, then it was worth every coin. Thanks again for all you've done for us.}
-{730}{}{Tell you what--how 'bout you just pay us back half? Do you have $2,500?}
-{731}{}{Sure, here. [You give him $2,500.]}
-{732}{}{Sorry, I don't even have that much.}
+{600}{}{Qual era mesmo o nome do seu contato em Vault City?}
+{601}{}{Velho, Joe. Como o nome indica, ele é velho de verdade. Você o encontrará no bar do pátio ou vagando por aí.}
+{602}{}{Tudo bem, obrigado.}
+{603}{}{Então, quem exatamente é ele?}
+{604}{}{O velho Joe é um personagem real, isso que ele é. Afirma ter mais de cem anos, mas não sei se acredito. Ele afirma todo tipo de coisas, até diz que ajudou a salvar o mundo uma vez. Esse cara é cheio de histórias, acho que a maioria delas são besteiras, mas com certeza são divertidas. Ele fica de olho nas coisas em Vault City para nós e faz um ótimo trabalho, considerando que está velho pra caramba e quase cego.}
+{605}{}{Interessante. Eu preciso ir.}
+{606}{}{Ele diz que ajudou a salvar o mundo? Sabe, eu mesmo estou em uma missão para salvar o mundo... pelo menos em uma missão para salvar *meu* mundo.}
+{610}{}{Certo, bom para você. Bem, continue assim. Só não se esqueça de nos ajudar.}
+{611}{}{Ah, eu não. Até mais.}
+{612}{}{Eu provavelmente, na verdade. Tenho tantas missões que é difícil acompanhar. Se não fosse por esse prático Pip-Boy (e pelo google), quem sabe onde eu estaria? Até mais.}
+{700}{}{Oh, certo. Aqui tem. [Dá a ele $5.000.]}
+{701}{}{Desculpe, tive que gastar como parte do acordo.}
+{702}{}{Merda, eu não tenho o suficiente para te pagar de volta. Devo ter gasto algum sem pensar direito. Te devolvo assim que puder.}
+{710}{}{Obrigado. Aqui. [Ele te devolve $2.500.] Fique com ele. É o mínimo que podemos fazer para recompensá-lo.}
+{720}{}{Oh, eu vejo. Bem, se comprou nossa liberdade, valeu cada moeda. Obrigado novamente por tudo que você fez por nós.}
+{730}{}{Nos diga, que tal você pagar apenas metade? Você tem $2.500?}
+{731}{}{Claro, aqui. [Você dá a ele $2.500.]}
+{732}{}{Desculpe, não tenho tanto.}
 {740}{}{Obrigado, }
-{741}{}{. We won't forget what you've done for us.}
-{750}{}{I see . . . well, don't worry about it. The money isn't as important as our freedom. Thank you.}
+{741}{}{. Não vamos esquecer o que você fez por nós.}
+{750}{}{Entendo . . . bem, não se preocupe com isso. O dinheiro não é tão importante quanto a nossa liberdade. Obrigado.}

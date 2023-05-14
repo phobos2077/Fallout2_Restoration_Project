@@ -41,7 +41,7 @@
 {514}{}{Agora, onde foi que eu coloquei Leia...?}
 {600}{}{Você vê R2Qwerty.}
 {601}{}{Um pequeno robô enfezado. Ele pisca e emite um sinal sonoro.}
-{610}{}{Beep Beep!}
+{610}{}{Beep-Beep!}
 {611}{}{Rrrrrr beep Rrrrwow!}
 {612}{}{* pisca e chacoalha excitadamente *}
 {613}{}{Bestas! Táticas! Bestas!}
@@ -135,7 +135,7 @@
 {1122}{}{Amém irmão. Obrigado por ajudar na criação desse lugar de paz e consolo. E quando eu precisava descansar meus pés irradiados e buscar rejuvenescimento espiritual.}
 {1123}{}{Lembro-me desse lugar. Nenhum shaman qualificado, porém, não é erva excelente. Não sei de quem é a ideia de um centro espiritual, mas não é minha.}
 {1124}{}{Oh? E onde é esse lugar que pode me salvar?}
-{1125}{}{Cuco! Bye Bye agora!}
+{1125}{}{Cuco! Tchauzinho agora!}
 {1130}{}{Você deve voltar lá novamente. É um abrigo seguro nesses resíduos severos.}
 {1131}{}{Eu estou no meu caminho, o Sr. Skynet. Obrigado por tudo. Adeus.}
 {1132}{}{Bem, eu acho que VOCÊ deveria ir lá Skybrain, e ficar lá. Eu sou daqui. Freak.}

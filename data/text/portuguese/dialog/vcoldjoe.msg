@@ -55,8 +55,8 @@
 {145}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care, Ian.}
 {146}{}{Uh, thanks for the tip. I think you are the man I need to see though. Connar sent me to ask you for some things.}
 {147}{}{Wait a minute! Connar told me you have some information.}
-{148}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care.}
-{150}{}{He was interested in getting some weaponry to fight off the Vault City patrols, but I convinced him that there's a better solution.}
+{148}{}{Não, mas sou bem versado na história, já que se tornou uma lenda sagrada em minha tribo. De qualquer forma, talvez eu veja o que posso encontrar em Gecko. Tomar cuidado.}
+{150}{}{Ele estava interessado em obter algumas armas para lutar contra as patrulhas de Vault City, mas eu o convenci que há uma solução melhor.}
 {151}{}{Ah, so that's his new plan, eh? Yeah, Connar's a good man, but he doesn't always think things all the way through. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller.}
 {152}{}{Well, any idea who on the council I might be able to talk to?}
 {153}{}{I think Senior Council Member McClure might be the man to talk to. What do you think?}
