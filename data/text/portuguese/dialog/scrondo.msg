@@ -1,11 +1,11 @@
-{100}{}{You see a man in grease-stained clothes, probably a mechanic.}
-{101}{}{It's Rondo, owner of this joint.}
-{102}{}{You think he's a mechanic, but he is wearing a sidearm which does seem a little odd.}
-{103}{}{Greetings, Ranger. Time's been good, I hope.}
-{104}{}{Someday we'll wipe out those slavers.}
-{105}{}{I need to hunt some more slavers.}
-{106}{}{Sorry, we're out of business.}
-{107}{}{This is private property. Do you mind?}
+{100}{}{Você vê um homem com roupas manchadas de graxa, provavelmente um mecânico.}
+{101}{}{É o Rondo, dono desta espelunca.}
+{102}{}{Você acha que ele é um mecânico, mas está usando uma arma que parece meio estranha.}
+{103}{}{Saudações, Ranger. O tempo tem sido bom, espero.}
+{104}{}{Algum dia vamos acabar com esses escravistas.}
+{105}{}{Preciso caçar mais escravistas.}
+{106}{}{Desculpe, não fazemos mais isso.}
+{107}{}{Isso é propriedade privada. Se importa?}
 {108}{}{I'm not taking any more work right now, okay?}
 {109}{}{Hey, bastard, you shouldn't mess with the Rangers.}
 {110}{}{Touch any of my stuff again and I am going to have to open up ole' bessy on you.}

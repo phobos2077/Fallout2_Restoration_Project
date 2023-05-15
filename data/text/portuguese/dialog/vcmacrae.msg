@@ -56,7 +56,7 @@
 {144}{}{You know, that doesn't sound like a half bad idea. Count me in.}
 {145}{}{Yeah, what?}
 {146}{}{Eu preciso que você saia do meu caminho.}
-{147}{}{How are you?}
+{147}{}{Como você está?}
 {148}{}{Cure-se.}
 {149}{}{Eu preciso que você espere aqui até eu voltar.}
 {150}{}{You! Ooyag!}
