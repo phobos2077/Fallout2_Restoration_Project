@@ -147,8 +147,8 @@
 {3000}{}{Vamos, }
 {3001}{}{! Esse bebê precisa de um novo par de sapatos!}
 {3002}{}{! Papai precisa de um novo rifle de plasma!}
-{4000}{}{There seems to be someone blocking the machine.}
-{5000}{}{Jinx the machine into giving you all its money.}
+{4000}{}{Parece haver alguém bloqueando a máquina.}
+{5000}{}{Jinx, a máquina, te entrega todo seu dinheiro.}
 {5001}{}{A máquina parece congelar e então você ouve um leve estrondo quando uma avalanche de moedas começa a cair
  do dispensador.}
 {5002}{}{[Recolhe o dinheiro e vá embora.]}

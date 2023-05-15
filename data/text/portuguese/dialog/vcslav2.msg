@@ -55,10 +55,10 @@
 {150}{}{Ouvi dizer que a Primeira Cidadã ocasionalmente perde a paciência com seus servos.}
 {151}{}{Eu não posso falar com você. Tenho trabalho a fazer.}
 {152}{}{Devo terminar minhas tarefas dentro de uma hora.}
-{153}{}{Speaking to Outsiders is against the rules.}
-{154}{}{Escape? Why?}
+{153}{}{Falar com Forasteiros é contra as regras.}
+{154}{}{Escapar? Por que?}
 {155}{}{Yes? Can I help you?}
 {156}{}{Fui capturado por escravistas há muito tempo. Nem me lembro mais.}
-{157}{}{I used to have two children, but they were shipped northwards. I hope they make their way here
- someday.}
+{157}{}{Eu tinha dois filhos, mas eles foram enviados para o norte. Espero que eles cheguem aqui algum
+ dia.}
 {158}{}{Desculpe, mas não tenho tempo para conversar.}

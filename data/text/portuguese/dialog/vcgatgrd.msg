@@ -54,38 +54,38 @@
 {153}{}{Get a Day Pass and I'll let you in.}
 {154}{}{Keep away from the Gate.}
 {155}{}{Pare de vagabundar.}
-{156}{}{Do you have a Day Pass?}
+{156}{}{Você tem um passe diário?}
 {157}{}{Não.}
-{158}{}{No, but I am a Citizen.}
-{159}{}{How *dare* you question me?! I'm a Citizen! Here are my papers!}
-{160}{}{A Citizen, huh? Let me see your papers.}
-{161}{}{Eh... I don't have them on me.}
-{162}{}{Okay, here you go.}
-{163}{}{Uh, what I meant was, how do I go about getting Citizenship?}
-{164}{}{My apologies, Citizen. I didn't mean to offend you. You have clearance to enter.}
+{158}{}{Não, mas sou Cidadão.}
+{159}{}{Como você *ousa* me questionar?! Eu sou um Cidadão! Aqui estão meus documentos!}
+{160}{}{Um Cidadão, é? Deixe-me ver seus papéis.}
+{161}{}{Eh... não estão aqui comigo.}
+{162}{}{Ok, aqui está.}
+{163}{}{Uh, o que eu quis dizer foi: o que faço para obter a cidadania?}
+{164}{}{Minhas desculpas, Cidadão. Eu não quis ofendê-lo. Você tem autorização para entrar.}
 {165}{}{Muito bem.}
-{166}{}{Look, "Citizen," you need a Day Pass to get in here, all right? Don't try to trick me again.}
+{166}{}{Olha, "Cidadão", você precisa de um Passe Diário para entrar aqui, entendeu? Não tente me enganar de novo.}
 {167}{}{(Vai embora.)}
-{168}{}{Hmmmnn... these look legit. Funny, I don't recall ever seeing you around before.}
-{169}{}{Well, perhaps you should be more observant. I have an appointment with the First Citizen, and he's expecting me.}
-{170}{}{I hope you'll remember me next time.}
-{171}{}{Why, yes, I hold Citizenship in all of the vaults.}
-{172}{}{We must have missed each other. I'm pleased to make your acquaintance.}
-{173}{}{Oh, is that so? Look, I don't know who you are, but you're no Citizen. Give me those papers and get out of here. You want in, you're going to have to get a Day Pass from Wallace like everyone else.}
-{174}{}{You want these papers? Come get them!}
+{168}{}{Hmmmnn... parecem legítimos. Engraçado, não me lembro de ter visto você antes.}
+{169}{}{Bem, talvez você devesse ser mais observador. Preciso me encontrar com a Primeira Cidadã, ela está me esperando.}
+{170}{}{Espero que você se lembre de mim na próxima vez.}
+{171}{}{Ora, sim, tenho cidadania em todas as Vaults.}
+{172}{}{Devemos ter nos desencontrado. Prazer em conhecê-lo.}
+{173}{}{Oh, é assim? Olha, eu não sei quem você é, mas você não é Cidadão. Me dê esses papéis e saia daqui. Se você quiser entrar, terá que obter um Passe Diário de Wallace, como todo mundo.}
+{174}{}{Você quer esses papéis? Vem pegar!}
 {175}{}{Where can I find Wallace?}
 {176}{}{Certo. Tchau.}
-{177}{}{Well, all right, you're cleared to enter. Vault City prevails, Citizen.}
-{178}{}{Uh, yes... Vault City prevails, Citizen.}
+{177}{}{Ok, tudo bem, você está liberado para entrar. Vault City prevalece, Cidadão.}
+{178}{}{Uh, sim... Vault City prevalece, Cidadão.}
 {179}{}{Obrigado.}
-{180}{}{Day Pass, please.}
+{180}{}{Passe Diário, por favor.}
 {181}{}{Aqui está.}
-{182}{}{I don't need a Day Pass. I'm a Citizen.}
-{183}{}{I was just stopping by to see how you were doing.}
-{184}{}{I don't have time for small talk, all right? Now get out of here.}
-{185}{}{All right, all right. Just trying to be friendly...}
+{182}{}{Eu não preciso de um Passe Diário. Eu sou um Cidadão.}
+{183}{}{Só vim ver o que você estava fazendo.}
+{184}{}{Não tenho tempo para conversa fiada, está bem? Agora saia daqui.}
+{185}{}{Tudo bem, tudo bem. Só estava tentando ser amigável...}
 {186}{}{(Vai embora.)}
-{187}{}{All right. Before you go in, we have to search your belongings first.}
+{187}{}{Tudo bem. Antes de entrar, temos que revistar seus pertences primeiro.}
 {188}{}{Uh, tudo bem.}
 {189}{}{Pelo que?}
 {190}{}{Esqueça, então.}
@@ -94,7 +94,7 @@
 {193}{}{Mas eu sou um Cidadão.}
 {194}{}{Desculpe. Eu vou seguindo em frente.}
 {195}{}{Ah, então AGORA você é um Cidadão, hein? Assim como da última vez? Me dê aqueles "documentos de cidadania" e saia daqui.}
-{196}{}{You want these papers? Come get them!}
+{196}{}{Você quer esses papéis? Vem pegar!}
 {197}{}{Tudo bem, tudo certo.}
 {198}{}{Vá falar com Wallace, Chefe da Alfândega. Agora me deixa em paz.}
 {199}{}{Certo. Tchau.}

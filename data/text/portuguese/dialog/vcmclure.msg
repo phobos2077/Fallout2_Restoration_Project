@@ -17,22 +17,22 @@
 {116}{}{Desliga}
 {117}{}{Posso te fazer algumas perguntas?}
 {118}{}{Quem é você?}
-{119}{}{Just looking around, thanks. Good day.}
-{120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
-{121}{}{I go no I GO NO}
-{122}{}{Ahhh... Ples no go? Me be good}
-{123}{}{Of course, Captain.}
-{124}{}{Of course, Citizen.}
-{125}{}{What is it you would like to know?}
-{126}{}{What's your job here?}
+{119}{}{Só dando uma olhada, obrigado. Bom dia.}
+{120}{}{Como você chegou à nossa cidade? Guardas! Temos um Forasteiro que precisa ser escoltado até o portão!}
+{121}{}{Não vou eu NÃO VOU}
+{122}{}{Ahhh... Por favor, eu não vou? Sou bom}
+{123}{}{Claro, Capitão.}
+{124}{}{Claro, Cidadão.}
+{125}{}{O que você gostaria de saber?}
+{126}{}{Qual é o seu trabalho aqui?}
 {127}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
-{128}{}{What can you tell me about the First Citizen?}
-{129}{}{I'd like to ask you some questions about Gecko.}
+{128}{}{O que você pode me dizer sobre a Primeira Cidadã?}
+{129}{}{Eu gostaria de fazer algumas perguntas sobre Gecko.}
 {130}{}{O que você pode me dizer sobre Redding?}
-{131}{}{I need to speak to you about Redding.}
-{132}{}{How does one become a Citizen?}
-{133}{}{I think you might have a part that could fix Gecko's power plant.}
-{134}{}{I repaired Gecko's plant.}
+{131}{}{Preciso falar com você sobre Redding.}
+{132}{}{Como alguém se torna um Cidadão?}
+{133}{}{Acho que você pode ter uma peça que pode consertar a usina nuclear do Gecko.}
+{134}{}{Eu consertei a central de Gecko.}
 {135}{}{Tenho um disco de dados econômicos aqui que você pode achar interessante.}
 {136}{}{Encontrei uma maneira de otimizar o reator de Gecko.}
 {137}{}{Aqui está o disco do reator de Gecko. Você pode otimizá-lo?}
@@ -74,36 +74,36 @@
 {173}{}{O que aconteceu com o GECK que quebrou?}
 {174}{}{Posso te fazer outra pergunta?}
 {175}{}{Entendo. Obrigado pela informação.}
-{176}{}{Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.}
+{176}{}{Chips de água, cerca de cem. Não sei porque mandaram tantos... nunca precisamos trocar os nossos. Temos o mesmo chip de água desde o dia em que nosso povo viveu no subsolo da Vault.}
 {177}{}{O que aconteceu com o GECK que quebrou?}
 {178}{}{Posso te fazer outra pergunta?}
 {179}{}{Interessante. Obrigado pelo seu tempo.}
-{180}{}{The irony is razor sharp. Maybe we'll talk later after I stop the bleeding.}
-{181}{}{It was disassembled, and its parts were used for other applications.}
-{182}{}{What was in the shipment meant for Vault 13?}
+{180}{}{A ironia é uma lâmina afiada. Talvez voltemos a conversar mais tarde, quando o sangramento parar.}
+{181}{}{Ele foi desmontado e suas partes foram usadas em outras aplicações.}
+{182}{}{O que estava na remessa destinada à Vault 13?}
 {183}{}{Posso te fazer outra pergunta?}
 {184}{}{Eu vejo. Obrigado pelo seu tempo.}
-{185}{}{She is the leader of the people. The Citizens of Vault City look to her for guidance, but the Citizens, through the Council, still have final say on matters. In these trying times, she is a pillar of our society.}
-{186}{}{"Trying times?" What do you mean?}
-{187}{}{What is it you do?}
+{185}{}{Ela é a líder do povo. Os Cidadãos de Vault City procuram sua orientação, mas os Cidadãos, por meio do Conselho, ainda têm a palavra final sobre os assuntos. Nestes tempos difíceis, ela é um pilar da nossa sociedade.}
+{186}{}{"Tempos difíceis?" O que você quer dizer?}
+{187}{}{O que você faz?}
 {188}{}{Posso te fazer outra pergunta?}
 {189}{}{Thanks for your time. Goodbye.}
-{190}{}{Gecko? What do you want to know?}
-{191}{}{Where is Gecko?}
-{192}{}{What is Gecko?}
+{190}{}{Gecko? O que você quer saber?}
+{191}{}{Onde está Gecko?}
+{192}{}{O que é Gecko?}
 {193}{}{Posso te fazer outra pergunta?}
 {194}{}{Thanks for your time. Goodbye.}
-{195}{}{Not much to tell, other than the fact that our ore shipments have become few and far between.}
-{196}{}{Any idea why?}
-{197}{}{Where is Redding?}
+{195}{}{Não há muito a dizer, além do fato de que nossos embarques de minério tornaram-se poucos e mais distantes entre si.}
+{196}{}{Alguma ideia do porquê?}
+{197}{}{Onde está Redding?}
 {198}{}{Posso te fazer outra pergunta?}
 {199}{}{Thanks for your time. Goodbye.}
-{200}{}{I am the Senior Council Member. I oversee the council meetings.}
-{201}{}{Then what does the First Citizen do?}
+{200}{}{Eu sou o membro sênior do conselho. Eu supervisiono as reuniões do conselho.}
+{201}{}{Então, o que a Primeira Cidadã faz?}
 {202}{}{Posso te fazer outra pergunta?}
-{203}{}{Thank you for your time. Goodbye.}
-{204}{}{Well, Citizenship isn't for everyone, you understand. You seem more like an adventurer to me... I really don't think that Citizenship is for you.}
-{205}{}{Aw, c'mon... just tell me what I need to do to become a Citizen.}
+{203}{}{Obrigado pelo seu tempo. Adeus.}
+{204}{}{Bem, Cidadania não é para todos, sabe... Você me parece um tipo de aventureiro... Realmente não acho que a Cidadania seja para você.}
+{205}{}{Ah, vamos lá... apenas me diga o que eu preciso fazer para me tornar um Cidadão.}
 {206}{}{I'd still like to become a Citizen anyway.}
 {207}{}{Posso te fazer outra pergunta?}
 {208}{}{Deixe pra lá então.}
@@ -121,12 +121,12 @@
 {220}{}{As coisas têm sido difíceis nos últimos dois anos. A NCR está ficando mais agressiva em suas tentativas de fazer com que Vault City se junte à República.}
 {221}{}{Eles nos dizem que se nos juntarmos, eles seriam capazes de nos defender dos ataques invasores em nossa cidade. Ultimamente, esses ataques de invasores se tornaram mais brutais.}
 {222}{}{Além de tudo isso, temos ghouls em Gecko contaminando nossas águas subterrâneas.}
-{223}{}{Where is Gecko?}
-{224}{}{What is Gecko?}
+{223}{}{Onde está Gecko?}
+{224}{}{O que é Gecko?}
 {225}{}{Tempos difíceis, de fato. Posso te fazer outra pergunta?}
 {226}{}{Desculpe ouvir isso. Obrigado pelo seu tempo. Adeus.}
 {227}{}{Fica logo a nordeste daqui, mas se você está planejando ir para lá, te aconselho a comprar alguns medicamentos anti-radiação. Se eles estão contaminando nossa água, é provável que a própria cidade deles seja irradiada.}
-{228}{}{What is Gecko?}
+{228}{}{O que é Gecko?}
 {229}{}{Posso te fazer outra pergunta?}
 {230}{}{Obrigado pelo aviso. Adeus.}
 {231}{}{É um lugar abandonado, uma favela construída em torno dos restos de uma antiga usina atômica.}
@@ -135,10 +135,10 @@
 {234}{}{Thanks for your time. Goodbye.}
 {235}{}{Não, eu não entendo nada disso. Estamos dispostos a pagar muito caro pelo minério deles, mas sempre que tentamos falar com eles sobre isso, eles se tornam evasivos. Se eu soubesse o que está acontecendo...}
 {236}{}{Eu poderia ir verificar isso para você.}
-{237}{}{Where is Redding?}
+{237}{}{Onde está Redding?}
 {238}{}{Thanks for your time. Goodbye.}
 {239}{}{Você irá? Não está em meu poder te pagar, mas sua ajuda será muito apreciada.}
-{240}{}{Where is Redding?}
+{240}{}{Onde está Redding?}
 {241}{}{Sem problemas. Vou verificar e retorno quando descobrir o que há de errado.}
 {242}{}{Redding fica a cerca de uma semana a oeste daqui. Eu nunca estive lá, nunca estive fora de Vault City, aliás. Pelo que entendi, Redding é considerado um dos assentamentos mais agradáveis dos desertos.}
 {243}{}{Você tem alguma ideia do que está causando a queda das remessas?}

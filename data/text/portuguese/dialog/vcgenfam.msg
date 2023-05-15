@@ -44,17 +44,17 @@
 {143}{}{Passei a maior parte do dia fazendo aquela lista para o Procônsul, depois checando. Adoro fazer listas.}
 {144}{}{Eu trabalho no Escritório de Listas. A maioria de nós trabalha. Aqui em Vault City nós *amamos* fazer listas.}
 {145}{}{Passei a maior parte do dia hoje atualizando essa lista para o Escritório de Listas. Foi um trabalho bom, honesto e produtivo.}
-{146}{}{I heard you actually traveled the outside world. How did you survive among those filthy Outsiders?}
+{146}{}{Ouvi dizer que você realmente viajou pelo mundo exterior. Como você sobreviveu entre esses forasteiros imundos?}
 {147}{}{Oh! Você é o novo Cidadão. Bem vindo a Vault City.}
 {148}{}{Você precisa de um lugar para ficar enquanto está na cidade?}
 {149}{}{O Coselho tem nossos interesses no coração.}
 {150}{}{Nós devemos cuidar para manter nossa linda cidade limpa.}
-{151}{}{Each family gets a room in the communal house.}
-{152}{}{The city provides us with everything we need.}
-{153}{}{The Servants? Oh, we use them for menial tasks.}
-{154}{}{Hmmmm. I need to get a Servant to hose out the store room...}
-{155}{}{A Servant should be over later to weed the garden...}
-{156}{}{That Council meeting yesterday was very productive. We made *lots* of lists. We here at Vault City love to make lists.}
+{151}{}{Cada família fica com um quarto na casa comunal.}
+{152}{}{A cidade nos fornece tudo o que precisamos.}
+{153}{}{Os servos? Oh, nós os usamos para tarefas domésticas.}
+{154}{}{Hmmmm. Preciso de um servo para limpar o depósito...}
+{155}{}{Um servo deve vir mais tarde para capinar o jardim...}
+{156}{}{A reunião do Conselho ontem foi muito produtiva. Fizemos *muitas* listas. Nós aqui em Vault City adoramos fazer listas.}
 {157}{}{Sim?}
 {158}{}{Pardon me, can I help you?}
 {159}{}{It's polite to ask before entering someone's house.}
@@ -62,9 +62,9 @@
 {161}{}{Desculpe, nós o convidamos para entrar?}
 {162}{}{Posso te ajudar?}
 {163}{}{Vocês forasteiros poderiam aprender algumas maneiras.}
-{164}{}{The city provides us with everything we need.}
-{165}{}{The Servants? Oh, we use them for menial tasks.}
-{166}{}{Hmmmm. I need to get a Servant to hose out the store room...}
-{167}{}{A Servant should be over later to weed the garden...}
+{164}{}{A cidade nos fornece tudo o que precisamos.}
+{165}{}{Os servos? Oh, nós os usamos para tarefas domésticas.}
+{166}{}{Hmmmm. Preciso de um servo para limpar o depósito...}
+{167}{}{Um servo deve vir mais tarde para capinar o jardim...}
 {168}{}{Sim, eu posso cheirar... er, ver, que você é um Forasteiro.}
 {169}{}{Você é um forasteiro? Que típico.}

@@ -143,8 +143,8 @@ They don't seem to catch on that anyone would let Servants carry anything import
  through the gate, no hassles. I can print out the papers, register your serial number,
  and have you on your way in five minutes.}
 {232}{}{What does it take to become a real Citizen?}
-{233}{}{And what if I do? I could go tell him right now that you're selling fake Citizenship papers.}
-{234}{}{I sure hope so. I can be pretty persuasive.}
+{233}{}{E se eu fizer? Eu poderia dizer a ele agora mesmo que você está vendendo documentos de cidadania falsos.}
+{234}{}{Espero que sim. Eu posso ser bastante persuasivo.}
 {235}{}{Veremos isso.}
 {236}{}{Ha! Eu gostaria de ver você tentar. Wallace nunca vai acreditar em você.}
 {237}{}{Ah, acho que ele vai, assim que vir os papéis falsos de cidadania que você me deu. Claro,

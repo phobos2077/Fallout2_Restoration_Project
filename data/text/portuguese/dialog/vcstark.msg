@@ -89,12 +89,12 @@
 {188}{}{AGORA, sargento.}
 {189}{}{Vamos, sargento. Acorda.}
 {190}{}{Aqui está, SENHOR.}
-{191}{}{Now I have some questions for you, Sergeant.}
-{192}{}{Very good, Sergeant. Carry on.}
-{193}{}{Yeah, he was that drunk Outworlder who struck one of my guards in that brawl in the Spittoon. He's over at the Servant Allocation Center getting... broken in. It's just down the street.}
-{194}{}{I had another question...}
-{195}{}{Hmmm. I'll head over there now.}
-{196}{}{The Vault's right outside the door... sir.}
+{191}{}{Tenho algumas perguntas para fazer, Sargento.}
+{192}{}{Muito bem, sargento. Faça isso.}
+{193}{}{Sim, ele era aquele Forasteiro bêbado que bateu em um dos meus guardas naquela briga no Spittoon. Ele está no Centro de Alocação de Servos se... acostumando. É na mesma rua.}
+{194}{}{Eu tenho outra pergunta...}
+{195}{}{Hmmm. Vou para lá agora.}
+{196}{}{A Vault está bem do outro lado da porta... senhor.}
 {197}{}{A Vault fica logo na porta. Apenas diga aos guardas que você é um Cidadão, e eles te deixarão passar.}
 {198}{}{O Vault do outro lado da porta. Só cidadãos podem entrar lá, então não quero pegar você incomodando os guardas.}
 {199}{}{Posso pedir mais uma coisa?}

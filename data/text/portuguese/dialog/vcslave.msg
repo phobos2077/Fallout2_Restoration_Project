@@ -30,7 +30,7 @@
 {126}{}{Se os guardas virem seu ghoul, você será forçado a sair.}
 {127}{}{Ghouls não são permitidos dentro da cidade! Precisa sair!}
 {128}{}{Sim, já tenho um dono. O Central de Alocação de Servos tem meus documentos.}
-{129}{}{Please leave me be. I am a Servant of Vault City.}
+{129}{}{Por favor, deixe-me em paz. Eu sou um servo de Vault City.}
 {130}{}{Eu te imploro: você viu duas crianças, morenas...? Eles foram levados por outros escravistas há
  dois anos e vendidos para o Norte.}
 {131}{}{Por favor... Não tenho permissão para falar com ninguém.}
@@ -55,10 +55,10 @@
 {150}{}{Ouvi dizer que a Primeira Cidadã ocasionalmente perde a paciência com seus servos.}
 {151}{}{Eu não posso falar com você. Tenho trabalho a fazer.}
 {152}{}{Devo terminar minhas tarefas dentro de uma hora.}
-{153}{}{Speaking to Outsiders is against the rules.}
-{154}{}{Escape? Why?}
+{153}{}{Falar com Forasteiros é contra as regras.}
+{154}{}{Escapar? Por que?}
 {155}{}{Yes? Can I help you?}
 {156}{}{Fui capturado por escravistas há muito tempo. Nem me lembro mais.}
-{157}{}{I used to have two children, but they were shipped northwards. I hope they make their way here
- someday.}
+{157}{}{Eu tinha dois filhos, mas eles foram enviados para o norte. Espero que eles cheguem aqui algum
+ dia.}
 {158}{}{Desculpe, mas não tenho tempo para conversar.}
