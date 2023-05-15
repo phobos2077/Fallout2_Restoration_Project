@@ -1,9 +1,9 @@
-{100}{}{You see Randal, the Chief Amenities Officer.}
-{101}{}{You see a middle-aged man with thinning black hair.}
-{102}{}{You see Randal, the Chief Amenities Officer.}
-{103}{}{You see a middle-aged man with thinning black hair.}
-{104}{}{Congratulations, }
-{105}{}{Way to put those Enclave assh-... er, jerks, in their place!}
+{100}{}{Você vê Randal, o Diretor de Serviços.}
+{101}{}{Você vê um homem de meia-idade com um cabelo preto ralo.}
+{102}{}{Você vê Randal, o Diretor de Serviços.}
+{103}{}{Você vê um homem de meia-idade com um cabelo preto ralo.}
+{104}{}{Parabéns, }
+{105}{}{Maneira de colocar aqueles via... er, malditos da Enclave em seu lugar!}
 {106}{}{Ouvi dizer que você chutou alguns traseiros importante no sul. Muito bem.}
 {107}{}{Um intruso! Guardas! Guardas!}
 {108}{}{O qu?! Um mutante! Guardas!}
@@ -78,11 +78,11 @@
 {177}{}{Certo. Tchau.}
 {178}{}{Você pode fazer o teste de Cidadania. O procônsul Gregory dá a qualquer estranho que queira se tornar um cidadão. Você provavelmente deveria falar primeiro com a Primeira Cidadã Lynette. Ela meio que comanda o show por aqui.}
 {179}{}{Tudo bem. Onde ela está?}
-{180}{}{I see. Mind if I ask you another question?}
-{181}{}{Thanks for the information. I'll go look for her.}
+{180}{}{Entendo. Se importa se eu fizer outra pergunta?}
+{181}{}{Obrigado pela informação. Eu irei procurá-la.}
 {182}{}{Ela está no Prédio do Conselho... saia do prédio aqui, vire à direita e continue descendo a rua passando pelo parque. Você deve chegar direto nele.}
-{183}{}{I see. Mind if I ask you another question?}
-{184}{}{Thanks for the information. I'll go look for her.}
+{183}{}{Entendo. Se importa se eu fizer outra pergunta?}
+{184}{}{Obrigado pela informação. Eu irei procurá-la.}
 {185}{}{Sério? Não posso dizer que me lembro de você. Tem algum documento com você? Isso esclareceria o assunto.}
 {186}{}{Não, eu não os tenho comigo agora.}
 {187}{}{Sim. Aqui está.}
@@ -95,10 +95,10 @@
 {194}{}{Se importa se eu te fizer algumas perguntas?}
 {195}{}{Vejo você mais tarde.}
 {196}{}{Tudo confere, pegue de volta seus documentos. O que posso fazer por você?}
-{197}{}{Let me see what you have in stock.}
-{198}{}{Actually, do you mind if I ask you some questions instead?}
+{197}{}{Me deixe ver o que você tem em estoque.}
+{198}{}{Na verdade, você se importa se eu fizer algumas perguntas?}
 {199}{}{Nada hoje, na verdade.}
-{200}{}{So... you're Citizen }
+{200}{}{Então... você é Cidadão }
 {201}{}{Yeah, he said you'd be stopping by... }
 {202}{}{Tudo certo.}
 {203}{}{Actually, never mind, I'll come back later for it.}

@@ -72,7 +72,7 @@
 {203}{}{[Ele dá uma risada áspera por um tempo; finalmente, ele se acalma e enxuga algumas lágrimas de seus olhos.] Oh, que ótimo. Queimado até a morte por um lança-chamas, ha! Veja bem, eu disse ao Morador da Vault para inventar uma história sobre como eu morri, porque eu não queria nenhum de nossos antigos inimigos tentando me caçar, é por isso que mudei meu nome. Eu disse a ele para me derrubar em uma explosão gloriosa, e parece que ele interpretou isso literalmente. Ha, um clássico.}
 {204}{}{Heh, acho que isso resolve. Eu estava curioso sobre os ratos-toupeira que estão cuidando da vila.}
 {205}{}{Isso ainda não explica como você ainda está vivo e bem depois de todos esses anos.}
-{206}{}{Hey, I'm just as confused as you are. Who knows? Maybe it's got something to do with all that radiation I was exposed to back in the old days. Hell, when we went to the Glow, I remember the Vault Dweller was popping Rad-X like candy, but did he offer any to ol' Ian? Of course not. I think he was still upset over a little friendly fire mishap. Heh heh. [Sigh.] Those were some good times.}
-{207}{}{I'm sure they were. Thanks for the story Joe, er, Ian. Take care.}
-{208}{}{I'm sure they were. Thanks for the story Joe, er, Ian. I was curious about the molerats that are guarding the village though.}
-{300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}
+{206}{}{Ei, estou tão confuso quanto você. Quem sabe? Talvez tenha algo a ver com toda aquela radiação a que fui exposto antigamente. Caramba, quando fomos para o Glow, eu lembro que o Morador da Vault estava estourando Rad-X como um pote de doce, mas ele ofereceu algum para o velho Ian? Claro que não. Acho que ele ainda estava chateado com um pequeno acidente de fogo amigo. Heh heh. [Suspiro.] Aqueles foram bons tempos.}
+{207}{}{Tenho certeza que sim. Obrigado pela história Joe, er, Ian. Tome cuidado.}
+{208}{}{Tenho certeza que sim. Obrigado pela história Joe, er, Ian. Eu estava curioso sobre os ratos-toupeira que estão cuidando da vila.}
+{300}{}{Espere um minuto! Você é o contato em Vault City de quem Connar estava falando?}
