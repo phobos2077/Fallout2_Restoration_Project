@@ -1,26 +1,26 @@
-{100}{}{You see an old grubby man with stringy hair.}
-{101}{}{It's the guy they call Saltbeef Bob.}
-{102}{}{He's got about three teeth and a face criss-crossed with the little veins of a drunkard. He smells bad too.}
-{103}{}{Howdy, stranger!}
+{100}{}{Você vê um velho sujo com cabelo pegajoso.}
+{101}{}{É o cara que eles chamam de Bob Carne Seca.}
+{102}{}{Ele tem cerca de três dentes e um rosto entrecruzado com as pequenas veias de um bêbado. Cheira mal também.}
+{103}{}{Oláá, Estranho!}
 {104}{}{Gruh?}
 {105}{}{Quem é você?}
-{106}{}{Name's Bob. Saltbeef Bob, yep. How about you?}
-{107}{}{What'd you say your name was again, stranger? I'm Saltbeef Bob.}
+{106}{}{Meu nome é Bob. Bob Carne Seca, sim. E você?}
+{107}{}{Como você disse que era seu nome mesmo, estranho? Eu sou Bob Carne Seca.}
 {108}{}{[Nome do jogador]}
-{109}{}{Saltbeef? What kind of name is that?}
+{109}{}{Carne Seca? Que tipo de nome é esse?}
 {110}{}{O que faz aqui?}
-{111}{}{That's a right fine name, yep. Say, you wouldn't have a drink on ya, pardner?}
+{111}{}{Esse é um bom nome, sim. Então, você teria uma bebida com você, chefia?}
 {112}{}{Sim.}
 {113}{}{Não.}
-{114}{}{Get away from me, you stinking bum!}
-{115}{}{Well, there warn't no need to be rude about it. Just wanted a little sip, see. Steady my nerves...}
-{116}{}{Hoo-wee! Sounds like you got yerself some mighty fine hooch there! Say, hows about sharing a little? Just a little sip.}
-{117}{}{Drink! Good!}
+{114}{}{Sai de perto, seu vagabundo fedorento!}
+{115}{}{Bem, não há necessidade de ser rude assim, só queria um gole. Para acalmar meus nervos...}
+{116}{}{Opaaa! Parece que você conseguiu uma bebida poderosa aí! Eaí, que tal dar um pouquinho? Só um gole.}
+{117}{}{Bebida! Boa!}
 {118}{}{Grrrg!}
-{119}{}{Easy, pardner! Can't blame a man fer asking, can ya? I'll just leave you be then.}
-{120}{}{(Gulp, gulp, gulp) Aaaahhhh! That's right fine of you, stranger! Fine person, indeed. Kind a man should have as his pardner. (Gulp) Did I ever tell you about the time I made my big strike?}
+{119}{}{Calma ae, meu bem! Não pode culpar um homem por perguntar, pode? Vou te deixar em paz então.}
+{120}{}{(Gole, gole, gole) Aaaahhhh! Muito bem da sua parte, estranho! Uma boa pessoa, com certeza. O tipo que um homem deve ter como amigo. (Gole) Eu já te contei sobre a vez que fiz meu grande golpe?}
 {121}{}{Não?}
-{122}{}{Hey, quit drinking all my booze!}
+{122}{}{Ei, pare de beber toda a minha bebida!}
 {123}{}{Rahhhg!}
 {124}{}{It was back in '78 and me and Bessie - best 'bot a man ever had - we was u-ra-ni-um prospecting west o' here. We hadn't turned up a rad's worth o' beans when all of a sudden five - no, I'm sure it was ten - deathclaws jumped us.}
 {125}{}{They fought like hellcats. I fired so much I melted down my rifle barrel and was going at 'em knife to claw when old Bessie finally fused her last circuit board. Well, I tried to save her, but it warn't no use. Finally had to cut and run, keeping 'em off with rocks all the way.}
@@ -39,7 +39,7 @@
 {138}{}{Get away from me you, stinking bum!}
 {139}{}{Hee, hee, hee! It's mine now, pardner. You'll jes' have to find yer own!}
 {140}{}{Boss let's me stay here. I run this stable! Do a little cleaning, keep a square camp.}
-{141}{}{Saltbeef? What kind of name is that?}
+{141}{}{Carne Seca? Que tipo de nome é esse?}
 {142}{}{Pleased to meet you. I'm}
 {143}{}{Raios e trovões, você de novo? Tire sua bunda magrela da minha vista!}
 {144}{}{Me chupa!}

@@ -6,6 +6,6 @@
 {105}{}{Preciso caçar mais escravistas.}
 {106}{}{Desculpe, não fazemos mais isso.}
 {107}{}{Isso é propriedade privada. Se importa?}
-{108}{}{I'm not taking any more work right now, okay?}
-{109}{}{Hey, bastard, you shouldn't mess with the Rangers.}
-{110}{}{Touch any of my stuff again and I am going to have to open up ole' bessy on you.}
+{108}{}{Não vou mais trabalhar agora, ok?}
+{109}{}{Ei, babaca, você não deveria mexer com os Rangers.}
+{110}{}{Toque em uma das minhas coisas de novo e eu abro um buraco em você.}
