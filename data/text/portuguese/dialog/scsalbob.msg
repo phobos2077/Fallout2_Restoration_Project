@@ -32,13 +32,13 @@
 {131}{}{Maldito seja, ele é um nome bom e honesto, sim! Os meninos me deixam cozinhar um pouco por aqui e se você não fosse tão idiota saberia disso e saberia respeitar os mais velhos.}
 {132}{}{Desculpe, não pretendia te irritar.}
 {133}{}{Bem, foda-se, velho!}
-{134}{}{Rile me? Rile me! You ain't seen me riled yet! Now jes' git outta my sight before you gets me really upset! Gwan! Git!}
-{135}{}{Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner! Say, you got any hooch on ya? Just a little sip?}
+{134}{}{Me irritar? Me irritar! Você ainda não me viu irritado! Agora saia da minha frente antes que você me deixe realmente irritado! Vaza!}
+{135}{}{Foda-se você também! Agora nos entendemos. Não aceite besteira de ninguém, chefe! Ei, você não tem um pouco de bebida? Só um trago?}
 {136}{}{Sim.}
 {137}{}{Não.}
-{138}{}{Get away from me you, stinking bum!}
-{139}{}{Hee, hee, hee! It's mine now, pardner. You'll jes' have to find yer own!}
-{140}{}{Boss let's me stay here. I run this stable! Do a little cleaning, keep a square camp.}
+{138}{}{Se afaste de mim seu vagabundo fedorento!}
+{139}{}{Ei, ei, ei! É meu agora, parceiro. Você terá que encontrar o seu próprio!}
+{140}{}{Chefe, deixe-me ficar aqui. Eu comando esse estábulo! Limpo o lugar, mantenha certinho.}
 {141}{}{Carne Seca? Que tipo de nome é esse?}
 {142}{}{Pleased to meet you. I'm}
 {143}{}{Raios e trovões, você de novo? Tire sua bunda magrela da minha vista!}

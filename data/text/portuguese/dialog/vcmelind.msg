@@ -1,26 +1,26 @@
-{100}{}{You see a very stiff woman. She looks like she hasn't relaxed in years.}
-{101}{}{You see Melinda, the Chief Greeting Officer.}
-{102}{}{Hello. I don't think I've seen you around before. Welcome to Vault
- City. Is there anything I can help you with?}
-{103}{}{Yes, what else can I help you with?}
-{104}{}{Is this fenced-in area the city?}
+{100}{}{Você vê uma mulher muito rígida. Ela parece que não relaxa há anos.}
+{101}{}{Você vê Melinda, a chefe do escritório de boas-vindas.}
+{102}{}{Olá, acho que nunca te vi por aqui antes. Bem-vindo a Vault City. Há
+ algo em que eu possa ajudá-lo?}
+{103}{}{Sim, em que mais posso ajudá-lo?}
+{104}{}{Esta área cercada é a cidade?}
 {105}{}{Estou a procura da Vault.}
 {106}{}{Quem é você?}
-{107}{}{No thanks. Goodbye.}
-{108}{}{Thizz Valt Citeee?}
-{109}{}{No, no... don't let the surroundings confuse you. You're
- currently standing in the Courtyard. The actual city lies to the North.}
-{110}{}{What's the difference between the two areas?}
+{107}{}{Não, obrigado. Adeus.}
+{108}{}{Isto Vauti Citi?}
+{109}{}{Não, não... não deixe que o local te confunda. Você está
+ atualmente no Pátio, a cidade real fica ao norte.}
+{110}{}{Qual a diferença entre as duas áreas?}
 {111}{}{Posso pedir mais uma coisa?}
 {112}{}{Obrigado pela ajuda. Tchau.}
-{113}{}{Thankee}
-{114}{}{Our Vault? It is located within the city. However, I must tell you only
- Citizens are allowed in the Vault.}
-{115}{}{I need to get into the Vault.}
+{113}{}{Brigadooo}
+{114}{}{Nossa Vault? Está localizada dentro da cidade. No entanto, devo dizer
+ que apenas Cidadãos são permitidos na Vault.}
+{115}{}{Eu preciso entrar na Vault.}
 {116}{}{Posso pedir mais uma coisa?}
 {117}{}{Obrigado pela ajuda. Tchau.}
-{118}{}{My name? Why, it's Melinda. I'm the Chief Greeting Officer for Vault City.}
-{119}{}{Sounds like a tough job.}
+{118}{}{O meu nome? Ora, é Melinda. Sou a chefe do Escritório de Saudações de Vault City.}
+{119}{}{Parece um trabalho difícil.}
 {120}{}{Posso pedir mais uma coisa?}
 {121}{}{Obrigado por sua ajuda.}
 {122}{}{The Courtyard is an area where we protect the less fortunate Outworlders. Many

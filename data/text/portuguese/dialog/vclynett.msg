@@ -451,50 +451,50 @@
 {489}{}{It's all taken care of.}
 {490}{lyn074}{What?! He did?! I suppose he granted you Citizenship, also! Fixing Gecko's plant won't
  solve anything. Those... creatures! They cannot be trusted! What happens when their plant starts leaking again?!}
-{491}{}{I don't know... maybe HELP them fix it?}
-{492}{}{Look, the groundwater isn't being contaminated anymore, and no one got hurt. The problem's solved.}
-{493}{}{I'll come back later when you've calmed down.}
-{494}{}{I have to leave, First Citizen. Good day.}
-{495}{lyn075}{You had better watch your step in this city, "Citizen." I'll be watching you. One misstep, and you'll be exiled.}
-{496}{}{That does it. Nobody threatens me, especially some bigoted bitch with a stick up her butt. Time to die.}
-{497}{}{Mess with me, Lynette, and Vault City will need a new First Citizen. Understand?}
-{498}{}{So? I'll just get McClure to get my Citizenship back. He seems like real First Citizen material.}
-{499}{}{I'll come back later when you've calmed down.}
+{491}{}{Não sei... AJUDÁ-LOS a consertar, talvez?}
+{492}{}{Olha, o lençol freático não está mais sendo contaminado e ninguém se machucou. O problema está resolvido.}
+{493}{}{Volto mais tarde, quando você se acalmar.}
+{494}{}{Eu tenho que sair, Primeira Cidadã. Bom dia.}
+{495}{lyn075}{É melhor você tomar cuidado com seus passos nesta cidade, "Cidadão". Eu vou estar observando você. Um passo em falso e você será exilado.}
+{496}{}{Então tá certo... Ninguém me ameaça, principalmente uma cadela preconceituosa com um pedaço de pau enfiado na bunda. Hora de morrer.}
+{497}{}{Mexa comigo, Lynette, e Vault City precisará de um novo Primeiro Cidadão. Entendeu?}
+{498}{}{E? Vou pedir a McClure para recuperar a minha cidadania. Ele parece alguém apropriado para Primeiro Cidadão.}
+{499}{}{Volto mais tarde, quando você se acalmar.}
 {500}{}{Bom dia, Primeira Cidadã.}
-{501}{lyn076a}{Excellent. You have conducted yourself as a true Vault Citizen.}
-{502}{lyn076b}{It is my pleasure to grant you Citizenship, complete with privileges and access to our facilities.}
-{503}{}{Hey, I was hoping to get some monetary compensation.}
-{504}{}{No problem. Just doing my job. Goodbye.}
-{505}{}{It was my pleasure, First Citizen. Good day.}
-{506}{}{Great, thanks. I'll go check them out now.}
-{507}{}{I appreciate all you've done for me, First Citizen. Good day.}
-{508}{lyn077ab}{You have already received much, Outsider. Citizenship is its own reward.}
-{509}{lyn077b}{Citizenship is its own reward.}
-{510}{}{Like hell! Some money better change hands right now, or Vault City's going to need a new First Citizen.}
-{511}{}{No problem... I was just curious. Goodbye.}
+{501}{lyn076a}{Excelente. Você se comportou como um verdadeiro Cidadão da Vault.}
+{502}{lyn076b}{É um prazer conceder-lhe a Cidadania, com privilégios e acesso às nossas instalações.}
+{503}{}{Ei, eu esperava receber alguma compensação monetária.}
+{504}{}{Sem problemas, apenas fazendo o meu trabalho. Adeus.}
+{505}{}{Foi um prazer, Primeira Cidadã. Bom dia.}
+{506}{}{Ótimo, obrigado. Vou verificar agora.}
+{507}{}{Agradeço tudo o que fez por mim, Primeira Cidadã. Bom dia.}
+{508}{lyn077ab}{Você já recebeu muito, Forasteiro. A cidadania é sua própria recompensa.}
+{509}{lyn077b}{A Cidadania é sua própria recompensa.}
+{510}{}{Para o inferno! É melhor algum dinheiro aparecer em mãos agora, ou Vault City vai precisar de um novo Primeiro Cidadão.}
+{511}{}{Sem problemas... Estava apenas curioso. Adeus.}
 {512}{}{Muito bem, Primeira Cidadã. Bom dia.}
-{513}{lyn077_a}{Absolutely not.}
-{514}{}{I wonder who'll take over after you're dead... in about a minute from now.}
-{515}{}{No problem... Thought I'd give it a try. Goodbye.}
-{516}{lyn078}{Dr. Troy?! What makes you say that?}
-{517}{}{He asked me to smuggle in some illegal drugs into the city.}
-{518}{}{He only administers healing to Citizens.}
-{519}{}{Nothing... I misspoke. Good day.}
-{520}{lyn079}{Who are you to be accusing a Citizen of such crimes? Guards! Escort this Outsider to the gates!}
+{513}{lyn077_a}{Absolutamente não.}
+{514}{}{Me pergunto quem vai assumir o comando depois que você morrer... daqui a um minuto.}
+{515}{}{Sem problemas... Pensei em tentar. Adeus.}
+{516}{lyn078}{Dr. Troy?! O que te faz dizer isso?}
+{517}{}{Ele me pediu para contrabandear algumas drogas ilegais para a cidade.}
+{518}{}{Ele só administra a cura aos Cidadãos.}
+{519}{}{Nada... me equivoquei. Bom dia.}
+{520}{lyn079}{Quem é você para acusar um Cidadão de tais crimes? Guardas! Escolte este Forasteiro até os portões!}
 {521}{}{Seus guardas não chegarão a tempo de salvar sua vida... "Primeira Cidadã."}
 {522}{}{Não há necessidade de guardas, irei pacificamente.}
-{523}{}{But it's the truth! You have to believe me! I have pr --!}
-{524}{lyn080}{That is a very serious accusation. Since you are a Citizen, I must take you at your word...
- but are you absolutely certain? If true, his Citizenship would be revoked, and he would be exiled.}
-{525}{}{Look, I know it's hard for you to believe, but he asked me to smuggle Jet into Vault City for him.}
-{526}{}{Isn't that a little harsh? Couldn't you just rehabilitate him and keep him on as a doctor?}
-{527}{}{Oh. Uh... I misspoke. I meant to say Dr. Troy is involved in PARALEGAL activities, not illegal ones.}
-{528}{}{Hmmmm. I'll go see if I can find anything else out.}
-{529}{lyn081}{I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
- honesty, Citizen. I will take care of this immediately.}
+{523}{}{Mas é a verdade! Você tem que acreditar em mim! Eu tenho pr --!}
+{524}{lyn080}{Essa é uma acusação muito séria. Como você é um cidadão, devo acreditar em sua palavra...
+ mas você tem certeza absoluta? Se for verdade, sua cidadania seria revogada e ele seria exilado.}
+{525}{}{Olha, eu sei que é difícil para você acreditar, mas ele me pediu para contrabandear jet para Vault City até ele.}
+{526}{}{Isso não é um pouco duro? Você não poderia simplesmente reabilitá-lo e mantê-lo como médico?}
+{527}{}{Oh. Uh... falei errado. Eu quis dizer que o Dr. Troy está envolvido em atividades PARALEGAIS, não ilegais.}
+{528}{}{Hmmmm. Vou ver se descubro mais alguma coisa.}
+{529}{lyn081}{Não acredito que um Cidadão dessa estatura se viciasse em drogas. Obrigado pela sua honestidade,
+ Cidadão. Eu cuidarei disso imediatamente.}
 {530}{}{Eu tenho mais algumas perguntas...}
-{531}{}{Great. The entire situation had me concerned. Goodbye.}
-{532}{}{Thank you, First Citizen. I only wanted to see justice carried out.}
+{531}{}{Ótimo, toda essa situação me preocupava. Adeus.}
+{532}{}{Obrigado, Primeira Cidadã. Eu só queria ver a justiça sendo feita.}
 {533}{lyn082a}{Inform me at once if you discover anything more.}
 {534}{lyn082b}{Vault City prevails, Citizen.}
 {535}{}{Eu tenho mais algumas perguntas...}
@@ -504,8 +504,8 @@
  absolutely certain of your accusations?}
 {539}{}{So bribing me to solve your Gecko situation with Citizenship papers... that's legal?}
 {540}{}{Yes. He asked me to smuggle Jet into Vault City for him.}
-{541}{}{Oh. Uh... I misspoke. I meant to say Dr. Troy is involved in PARALEGAL activities, not illegal ones.}
-{542}{}{Hmmmm. I'll go see if I can find anything else out.}
+{541}{}{Oh. Uh... falei errado. Eu quis dizer que o Dr. Troy está envolvido em atividades PARALEGAIS, não ilegais.}
+{542}{}{Hmmmm. Vou ver se descubro mais alguma coisa.}
 {543}{lyn084a}{You had best watch what you say.}
 {544}{lyn084b}{You had best watch what you say, Outsider.}
 {545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk

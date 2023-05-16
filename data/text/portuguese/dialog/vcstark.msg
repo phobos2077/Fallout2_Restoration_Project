@@ -237,7 +237,7 @@
 {335}{}{Sem problemas. Já está feito.}
 {336}{}{Basta viajar para a NCR e depois voltar?}
 {337}{}{Esqueça. Eu tinha outras perguntas...}
-{338}{}{No thanks. Goodbye.}
+{338}{}{Não, obrigado. Adeus.}
 {339}{}{Isso é tudo que preciso. Estou mais interessado na rota do que na própria República, mas ainda precisarei que você entre na cidade assim que chegar lá.}
 {340}{}{Sem problemas. Já está feito.}
 {341}{}{I'll take the job. I'll report back when I'm done.}
