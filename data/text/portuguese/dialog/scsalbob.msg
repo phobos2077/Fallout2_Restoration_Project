@@ -22,16 +22,16 @@
 {121}{}{Não?}
 {122}{}{Ei, pare de beber toda a minha bebida!}
 {123}{}{Rahhhg!}
-{124}{}{It was back in '78 and me and Bessie - best 'bot a man ever had - we was u-ra-ni-um prospecting west o' here. We hadn't turned up a rad's worth o' beans when all of a sudden five - no, I'm sure it was ten - deathclaws jumped us.}
-{125}{}{They fought like hellcats. I fired so much I melted down my rifle barrel and was going at 'em knife to claw when old Bessie finally fused her last circuit board. Well, I tried to save her, but it warn't no use. Finally had to cut and run, keeping 'em off with rocks all the way.}
-{126}{}{Well, things looked bad when I stumbled into this cave. Thought I was a goner fer sure. Figured it was their lair - but I had me my torch so I went inside. Hoo-wee, it was a deep cave. And that's when I saw it.}
-{127}{}{It was a great big door, like them kinds you see in the old video flics. Big and made o' steel. An on it was carved a great, big 13!}
-{128}{}{I knew I'd found it, the mother lode, the Vault 13. I sat right down and made me a map. Damn near died getting out o' there, past them deathclaws and then the sun o' the desert and no water.}
-{129}{}{By the time I staggered into Shady Sands, I was mostly dead. Took me to the doc and fixed me up, but that doc stole my map. I knows it and that's all I gots to say.}
+{124}{}{Foi em 78, eu e Bessie - o melhor robô que um homem já teve - Procurávamos u-ra-ni-o a oeste daqui. Não tínhamos descoberto nem uma pedrinha quando, de repente, cinco - não, tenho certeza de que eram dez - deathclaws pularam sobre nós.}
+{125}{}{Eles lutaram como gatos demoníacos. Atirei tanto que derreti o cano do meu rifle e estava atacando eles na base da faca quando a velha Bessie finalmente fundiu sua última placa de circuito. Bem, eu tentei salvá-la, mas não adiantou. Finalmente tive que cortar e correr, os mantendo afastados com pedras o tempo todo.}
+{126}{}{Bem, as coisas ficaram ruins quando eu tropecei na caverna. Pensei que tudo tinha ido pro beleléu, com certeza. Achei que era a toca deles - mas eu tinha minha tocha, então entrei. Rapaz, era uma caverna profunda. E foi quando eu vi.}
+{127}{}{Era uma grande porta, como aquelas que você vê nos velhos filmes. Grande e feito de aço. E nela foi esculpido um grande, grande 13!}
+{128}{}{Eu sabia que tinha encontrado, a principal, a Vault 13. Me sentei e fiz um mapa. Quase morri saindo de lá, passei por aqueles deathclaws e o sol do deserto, e tudo sem água.}
+{129}{}{No momento em que cambaleei até Shady Sands, já estava quase morto. Me levaram ao médico e me ele ajudou, mas aquele médico roubou meu mapa. Eu sei disso e é tudo o que tenho a dizer.}
 {130}{}{(Continue)}
-{131}{}{Tarnation, it's a good and honest name, is what it is! The boys let me do some cooking around here and if you weren't such a tinhorn you'd know that and know to respect yer elders.}
-{132}{}{Sorry, old-timer didn't mean to rile you.}
-{133}{}{Well bite me, old timer!}
+{131}{}{Maldito seja, ele é um nome bom e honesto, sim! Os meninos me deixam cozinhar um pouco por aqui e se você não fosse tão idiota saberia disso e saberia respeitar os mais velhos.}
+{132}{}{Desculpe, não pretendia te irritar.}
+{133}{}{Bem, foda-se, velho!}
 {134}{}{Rile me? Rile me! You ain't seen me riled yet! Now jes' git outta my sight before you gets me really upset! Gwan! Git!}
 {135}{}{Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner! Say, you got any hooch on ya? Just a little sip?}
 {136}{}{Sim.}
