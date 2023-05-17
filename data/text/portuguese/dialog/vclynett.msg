@@ -168,7 +168,7 @@
 {248}{lyn026}{Os arquivos são armazenados em nossa vault. Apenas Cidadãos têm acesso... eles NÃO
  são para Forasteiros.}
 {249}{}{Certo. Onde está o Supervisor? Vou perguntar a ele sobre esses arquivos.}
-{250}{}{But I am a Citizen.}
+{250}{}{Mas eu sou um Cidadão.}
 {251}{}{Como alguém se torna parte dos Moradores da Vault?}
 {252}{}{Como posso me tornar um Cidadão?}
 {253}{}{Já ouvi o suficiente. Bom dia.}
@@ -276,7 +276,7 @@
 {334}{}{Muito bem, então não temos mais nada a discutir. Bom dia, Primeira Cidadã.}
 {335}{lyn043}{Poderíamos verificar os computadores da Vault. Eles provavelmente teriam as informações
  que você procura. Mas apenas os cidadãos têm permissão para acessar os arquivos.}
-{336}{}{But I am a Citizen.}
+{336}{}{Mas eu sou um Cidadão.}
 {337}{}{Existe alguma maneira de eu me tornar um Cidadão?}
 {338}{}{Acho que estou sem sorte, então. Bom dia.}
 {339}{lyn044}{Em vez de fazer o teste, você pode provar seu compromisso com as Vaults de uma forma
@@ -758,7 +758,7 @@
 {759}{}{No, he never gave me one.}
 {760}{lyn130a}{Excellent. Let me scan this.}
 {761}{}{Fade out 3 seconds}
-{762}{lyn130b}{We will not have problems with NCR for a very long time. }
+{762}{lyn130b}{Não teremos problemas com a NCR por muito tempo. }
 {763}{}{That's good news.}
 {764}{lyn131}{Now... regarding payment: Report to Randal, the Chief Amenities Officer. Tell him I sent
  you, and he will present you with your reward. Thank you again. }

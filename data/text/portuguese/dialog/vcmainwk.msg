@@ -70,7 +70,7 @@
 {168}{}{Bem, eu tenho uma chave inglesa e um alicate aqui.}
 {169}{}{Maybe I could go find some and bring them back to you.}
 {170}{}{Qual é o problema em conseguir mais ferramentas?}
-{171}{}{Oh. Well, thanks for the advice.}
+{171}{}{Oh. Bem, obrigado pelo conselho.}
 {172}{}{I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.}
 {173}{}{If I find a wrench and a pair of pliers, I'll bring them by.}
 {174}{}{Você aceita?}
@@ -131,7 +131,7 @@
 {228}{}{Upgrade the Desert Eagle.}
 {229}{}{How about $850 for the Desert Eagle?}
 {230}{}{Forget the pistols. Can you upgrade any of my other weapons?}
-{231}{}{I wanted to know something else...}
+{231}{}{Eu queria saber outra coisa...}
 {232}{}{I'll be back when I have some more cash.}
 {233}{}{Hmmm. Maybe some other time.}
 {234}{}{That assault rifle you got there... I can give it an expanded magazine for $1500.}

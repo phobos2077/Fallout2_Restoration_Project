@@ -43,86 +43,86 @@
 {142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second... I want the guards to hear it, too.}
 {143}{}{Too? Tew. Tewwwww. Tewwww sexeee fur my clothez}
 {144}{}{Desliga}
-{145}{}{We have synthetic beers and liquor... vodka-H, tequila derivatives W and W2. Oh, and water. And brahmin milk. Beer or liquor is ten bucks, water or milk's three bucks.}
+{145}{}{Temos cervejas sintéticas e licores... vodka-H, derivados de tequila W e W2. Ah, e água. E leite de brahmin. Cerveja ou licor custa dez dólares, água ou leite três dólares.}
 {146}{}{Como...?}
-{147}{}{Uh, do you have any real alcohol?}
-{148}{}{I could go for some synthetic beer.}
-{149}{}{Some synthetic vodka would really hit the spot.}
-{150}{}{Some tequila W2 would be great.}
-{151}{}{Some water'd be great.}
-{152}{}{Brahmin's milk.}
+{147}{}{Uh, você tem algum álcool real?}
+{148}{}{Gostaria de tomar um pouco de cerveja sintética.}
+{149}{}{Um pouco de vodca sintética realmente cairia bem.}
+{150}{}{Um pouco de tequila W2 seria ótimo.}
+{151}{}{Um pouco de água seria ótimo.}
+{152}{}{Leite de brahmin.}
 {153}{}{Actually, I was looking for some information.}
 {154}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {155}{}{I think I'll pass, thanks.}
-{156}{}{The brahmin milk's not on tap... well, not exactly. I'd have to go out and snag some really quick.}
-{157}{}{That's fine. I don't mind waiting. I just feel like having a refreshing glass of milk. Mmmmm-mmm. That would really hit the spot.}
-{158}{}{I think I'll try something else then.}
-{159}{}{Never mind then. Say, I was looking for some information...}
+{156}{}{O leite de brahmin não está disponível... bem, não exatamente. Eu teria que sair e pegar um pouco bem rápido.}
+{157}{}{Isso é bom, não me importo de esperar. Estou com vontade de tomar um refrescante copo de leite, mmmmhhhh. Isso realmente seria ótimo.}
+{158}{}{Acho que vou tentar outra coisa.}
+{159}{}{Deixa pra lá então. Olha, eu estava procurando algumas informações...}
 {160}{}{Esqueça. Eu volto outra hora.}
 {161}{}{Não que você vá. Mais alguma coisa?}
-{162}{}{Uh, do you have any real alcohol?}
-{163}{}{I could go for some synthetic beer.}
-{164}{}{Some synthetic vodka would really hit the spot.}
-{165}{}{Some tequila W2 would be great.}
+{162}{}{Uh, você tem algum álcool real?}
+{163}{}{Gostaria de tomar um pouco de cerveja sintética.}
+{164}{}{Um pouco de vodca sintética realmente cairia bem.}
+{165}{}{Um pouco de tequila W2 seria ótimo.}
 {166}{}{Some water would be great.}
-{167}{}{Brahmin's milk.}
+{167}{}{Leite de brahmin.}
 {168}{}{Actually, I was looking for some information.}
 {169}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {170}{}{I think I'll pass, thanks.}
-{171}{}{Oh? Like what?}
-{172}{}{Who's in charge of Vault City?}
-{173}{}{Where's the Vault?}
-{174}{}{Can you tell me about the slavery in Vault City?}
-{175}{}{Does Vault City have much contact with the outside world?}
+{171}{}{Uh? Como o que?}
+{172}{}{Quem está no comando de Vault City?}
+{173}{}{Onde está a Vault?}
+{174}{}{Você pode me falar sobre a escravidão em Vault City?}
+{175}{}{Vault City tem muito contato com o mundo exterior?}
 {176}{}{O que você tem pra tomar?}
 {177}{}{I have that shipment of alcohol you wanted.}
 {178}{}{Tudo bem então. Bom Dia.}
-{179}{}{Uh, First Citizen Lynette... you are a Citizen, aren't you?}
-{180}{}{First Citizen Lynette. She's in the council building up north if you need to talk to her.}
-{181}{}{I wanted to know something else...}
-{182}{}{All right. I'll go speak to her, then.}
-{183}{}{Uh, it's the big hole in the side of the mountain to the east of here... say, you are a Citizen, aren't you?}
-{184}{}{It's that big hole in the mountain to the east of here. You can't miss it. You also can't get inside unless you're a Citizen, though.}
-{185}{}{I wanted to know something else...}
-{186}{}{But I am a Citizen.}
-{187}{}{Yeah, just getting my bearings, thanks. I'll go check it out.}
-{188}{}{Hmmm. Thanks for the information.}
-{189}{}{Sure you are. I'd just be careful who you say that to, "Citizen." Somebody's gonna recognize whatever stolen papers you bought from that bloodsucker Skeev. So keep your head down, all right?}
-{190}{}{Uh, okay. Say, I wanted to know something else...}
-{191}{}{Oh. Well, thanks for the advice.}
-{192}{}{Look, first thing I have to say is that you better not call it "slavery" around here or you're going to get yourself in a whole mess of trouble. They're called "servants," not slaves. Just a word of advice.}
-{193}{}{Point taken. Say, I wanted to know something else...}
+{179}{}{Uh, Primeira Cidadã Lynette... você é um Cidadão, não é?}
+{180}{}{Primeira cidadã Lynette. Ela está no prédio do conselho ao norte, se você precisar falar com ela.}
+{181}{}{Eu queria saber outra coisa...}
+{182}{}{Tudo bem. Vou falar com ela, então.}
+{183}{}{Uh, é o grande buraco na encosta da montanha a leste daqui... diga, você é um Cidadão, não é?}
+{184}{}{É aquele grande buraco na montanha a leste daqui, não tem como não ver. Embora você não possa entrar a menos que seja um cidadão.}
+{185}{}{Eu queria saber outra coisa...}
+{186}{}{Mas eu sou um Cidadão.}
+{187}{}{Sim, apenas seguindo as orientações, obrigado. Eu vou dar uma olhada.}
+{188}{}{Hmmm. Obrigado pela informação.}
+{189}{}{Claro que é. Eu só tomaria cuidado para quem você diz isso, "Cidadão". Alguém pode reconhecer qualquer documento roubado que você comprou daquela sanguessuga do Skeev. Portanto, ande de cabeça baixa, está bem?}
+{190}{}{Uh, tudo bem. Olha, eu queria saber outra coisa...}
+{191}{}{Oh. Bem, obrigado pelo conselho.}
+{192}{}{Olha, a primeira coisa que tenho a dizer é que é melhor você não chamar isso de "escravidão" por aqui ou vai se meter em encrenca. Eles são chamados de "servos", não escravos. Apenas um conselho.}
+{193}{}{Entendido. Então, eu queria saber outra coisa...}
 {194}{}{Obrigado. Eu vou manter isso em mente.}
-{195}{}{Not much. Most contact we have with Outsiders is merchants travelling the Big Circle caravan trail from Broken Hills, New Reno, and Redding. Only other place outside the caravan trail that I know of is Gecko.}
+{195}{}{Não muito. A maior parte do contato que temos com os de fora são mercadores que viajam pela trilha de caravanas do Grande Círculo de Broken Hills, New Reno e Redding. O único outro lugar fora da trilha da caravana que eu conheço é Gecko.}
 {196}{}{Me fale sobre Broken Hills.}
-{197}{}{Tell me about New Reno.}
+{197}{}{Me fale sobre New Reno.}
 {198}{}{Me fale sobre Redding.}
 {199}{}{Me conte sobre Geco.}
-{200}{}{I wanted to know something else...}
+{200}{}{Eu queria saber outra coisa...}
 {201}{}{Obrigado pela informação.}
 {202}{}{É uma comunidade mineira como Redding, exceto que está localizada no extremo sul. Recebemos muitos de nossos carregamentos de urânio de lá.}
-{203}{}{Tell me about New Reno.}
+{203}{}{Me fale sobre New Reno.}
 {204}{}{Me fale sobre Redding.}
 {205}{}{Me conte sobre Geco.}
-{206}{}{I wanted to know something else...}
+{206}{}{Eu queria saber outra coisa...}
 {207}{}{Obrigado pela informação.}
 {208}{}{É um caminho para o sudoeste, eu ouço relatos conflitantes sobre Reno. Alguns comerciantes, especialmente os escravistas, realmente adoram lá. Outros comerciantes... não. Cidade com muito brilho... e muita confusão, ouvi dizer.}
 {209}{}{Me fale sobre Broken Hills.}
 {210}{}{Me fale sobre Redding.}
 {211}{}{Me conte sobre Geco.}
-{212}{}{I wanted to know something else...}
+{212}{}{Eu queria saber outra coisa...}
 {213}{}{Obrigado pela informação.}
 {214}{}{É uma cidade mineira bem a oeste. Não vimos muitas caravanas deles recentemente, e alguns dos chefões ficaram um pouco preocupados. Especialmente o conselheiro sênior McClure.}
 {215}{}{Me fale sobre Broken Hills.}
-{216}{}{Tell me about New Reno.}
+{216}{}{Me fale sobre New Reno.}
 {217}{}{Me conte sobre Geco.}
-{218}{}{I wanted to know something else...}
+{218}{}{Eu queria saber outra coisa...}
 {219}{}{Obrigado pela informação.}
 {220}{}{Uma cidade de ghouls a menos de um dia de viagem para o nordeste, pelo que entendi. Há rumores de que eles atacam qualquer viajante que entra em seu território. Melhor ficar longe.}
 {221}{}{Me fale sobre Broken Hills.}
-{222}{}{Tell me about New Reno.}
+{222}{}{Me fale sobre New Reno.}
 {223}{}{Me fale sobre Redding.}
-{224}{}{I wanted to know something else...}
+{224}{}{Eu queria saber outra coisa...}
 {225}{}{Obrigado pela informação.}
 {226}{}{Por que? Você está procurando algo com um pouco mais de força do que essas bebidas sintéticas?}
 {227}{}{Talvez. Beber álcool sintético não pode ser comparado ao real.}

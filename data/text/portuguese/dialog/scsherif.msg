@@ -43,38 +43,38 @@
 {142}{}{Vault 13?}
 {143}{}{Tudo bem.}
 {144}{}{Olhe a sua volta, a NCR é um lugar crescente. Precisamos de peças, computadores, um pouco de tudo. Tem sido um problema desde que aqueles invasores se mudaram para a Vault 15.}
-{145}{}{Vault 15? Squatters? What's going on?}
-{146}{}{What's this about President Tandi?}
-{147}{}{Thanks for the info.}
-{148}{}{President of NCR, who else? Things have got her so worried she even asked to borrow one of my deputies for a special mission. Hated to turn her down, but I can't spare the manpower.}
+{145}{}{Vault 15? Invasores? O que está acontecendo?}
+{146}{}{O que se passa sobre a presidente Tandi?}
+{147}{}{Obrigado pela informação.}
+{148}{}{A Presidente da NCR, quem mais? Essas coisas a deixaram tão preocupada que ela até pediu emprestado um dos meus auxiliares para uma missão especial. Odiei recusar, mas não posso dispensar a mão de obra.}
 {149}{}{E quanto a mim? Talvez você possa me recomendar.}
 {150}{}{Hum. Vida difícil, eu acho.}
-{151}{}{You? Hmmm....I couldn't. Don't even know you - but she's looking to hire somebody so you can go talk to her yourself. Her office is in the Hall of Congress.}
+{151}{}{Você? Hmmm... não poderia. Nem te conheço. Mas ela quer contratar alguém, então você mesmo pode falar com ela. Seu escritório fica no Salão do Congresso.}
 {152}{}{Obrigado. Irei fazer isso.}
-{153}{}{Know anything about a GECK?}
-{154}{}{Well, that's damn fine of you, stranger - and damn presumptuous, too. I don't know you from Adam and Eve and I don't like the way you look! I'm not recommending you to anybody. Now, I got work to do.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+{153}{}{Sabe alguma coisa sobre um GECK?}
+{154}{}{Bem, isso é muito legal da sua parte, estranho... e muito presunçoso também. Não te conheço nem um pouco nem gosto da sua aparência! Eu não te recomendaria a ninguém. Agora, tenho trabalho a fazer.}
+{155}{}{Bem, lá está Duppo no Pecuaristas. Ele faz as contratações para as unidades dos brahmins. Depois, temos o Sr. Westin. Se falar com ele, diz que te enviei. Até a presidente Tandi precisa de ajuda.}
+{156}{}{Duppo na Associação dos Pecuaristas disputa as mãos para as unidades de brahmins. Tente com ele.}
 {157}{}{Westin?}
 {158}{}{Presidente Tandi?}
 {159}{}{Tenho que ir.}
-{160}{}{Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.}
+{160}{}{Roger Westin. Suas terras estão localizadas fora do portão oeste. Ele tem tido alguns problemas com intrusos. Ele cuidaria disso sozinho, mas sua saúde não é já das melhores. Batimentos ruins, segundo o Dr. Jubilee.}
 {161}{}{Sim?}
-{162}{}{Any work to be had in this town?}
-{163}{}{Never mind. I'm going.}
-{164}{}{Just make sure things stay that way. Goodbye.}
-{165}{}{That's a damn fine piece of work you did with old Jack, stranger. As the sheriff, I'll take if from here.}
-{166}{}{He's all yours.}
-{167}{}{What about a reward?}
-{168}{}{Well, I can't say that I've got any reward money to give. Best I can do is my thanks.}
-{169}{}{Wait. I've got some questions.}
-{170}{}{Oh, I understand all right.}
-{171}{}{Sorry, can't talk right now. I'm already late for the coroner's inquest. Seems pretty clear cut to me.}
-{172}{}{Sorry, no crime, no time.}
-{173}{}{Desert rats. You got to understand -- this town traces its roots back to 15. Seems there was some trouble there a long time ago and the survivors founded Shady Sands. So by right, Vault 15 is our property. Few years back some squatters moved in and there's been trouble ever since. You should talk to Tandi about it.}
+{162}{}{Algum trabalho a ser feito nesta cidade?}
+{163}{}{Deixa para lá. Vou indo.}
+{164}{}{Se assegure de que as coisas continuem assim. Adeus.}
+{165}{}{Que belo trabalho você fez com o velho Jack, Estranho. Como xerife, eu assumo daqui.}
+{166}{}{Ele é todo seu.}
+{167}{}{Que tal uma recompensa?}
+{168}{}{Bem, não posso dizer que tenho recompensas em dinheiro para dar. O melhor que posso fazer é agradecer.}
+{169}{}{Espere. Eu tenho algumas perguntas.}
+{170}{}{Oh, eu entendo muito bem.}
+{171}{}{Desculpe, não posso falar agora. Já estou atrasado para o inquérito do legista. Parece bastante claro para mim.}
+{172}{}{Desculpe, sem crime, sem tempo.}
+{173}{}{Ratos do deserto. Você tem que entender que as raízes desta cidade remontam a 15. Parece que houve algum problema lá há muito tempo e os sobreviventes fundaram Shady Sands. Então, por direito, a Vault 15 é nossa propriedade. Alguns anos atrás, alguns invasores se mudaram e temos problemas desde então. Você deveria falar com Tandi sobre isso.}
 {174}{}{Tandi?}
-{175}{}{I'll take that under advisement.}
-{176}{}{There is no more work that I am aware of.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
-{178}{}{Anyone else of your stature would be leaving town, much less look for work.}
+{175}{}{Vou levar isso em consideração.}
+{176}{}{Não há mais trabalho que eu saiba.}
+{177}{}{Duppo na Associação de Pecuaristas disputa as mãos para as unidades de brahmins. A Presidente Tandi tem pedido ajuda.}
+{178}{}{Qualquer outra pessoa como você estaria deixando a cidade, muito menos procurando trabalho.}
 {179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

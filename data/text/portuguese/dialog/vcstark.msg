@@ -98,7 +98,7 @@
 {197}{}{A Vault fica logo na porta. Apenas diga aos guardas que você é um Cidadão, e eles te deixarão passar.}
 {198}{}{O Vault do outro lado da porta. Só cidadãos podem entrar lá, então não quero pegar você incomodando os guardas.}
 {199}{}{Posso pedir mais uma coisa?}
-{200}{}{But I am a Citizen.}
+{200}{}{Mas eu sou um Cidadão.}
 {201}{}{Como você se torna um cidadão?}
 {202}{}{Obrigado. Adeus.}
 {203}{}{Isso mesmo? Não te reconheço, e conheço todos os Cidadãos de Vault City.}
