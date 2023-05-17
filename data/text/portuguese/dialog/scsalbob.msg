@@ -40,7 +40,7 @@
 {139}{}{Ei, ei, ei! É meu agora, parceiro. Você terá que encontrar o seu próprio!}
 {140}{}{Chefe, deixe-me ficar aqui. Eu comando esse estábulo! Limpo o lugar, mantenha certinho.}
 {141}{}{Carne Seca? Que tipo de nome é esse?}
-{142}{}{Pleased to meet you. I'm}
+{142}{}{Prazer em conhecê-lo. Eu sou}
 {143}{}{Raios e trovões, você de novo? Tire sua bunda magrela da minha vista!}
 {144}{}{Me chupa!}
 {145}{}{Você é bem babaca, velho.}

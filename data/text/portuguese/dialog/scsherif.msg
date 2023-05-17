@@ -32,17 +32,17 @@
 {131}{}{Sim, 15! Você fala com Tandi. Grande chefe da NCR. Tandi conhece Vault. Quer ajuda. Você vai Tandi.}
 {132}{}{Tandi?}
 {133}{}{Não vou. Quero 13!}
-{134}{}{Lis-ten. No Vault 13. No find. No see. No 13. Vault 15 - people find. People live Vault 15. You understand?}
-{135}{}{No thir-teen? Fif-teen?}
-{136}{}{NO. WANT THIRTEEN!}
-{137}{}{Arrgh! THERE IS NO 13, YOU DUMB BOX OF ROCKS! No 13. No find. Never! Ever!}
-{138}{}{Tandi big chief. Tandi want help. You talk to Tandi. Go Con-gress house. Okay?}
+{134}{}{Ou-ça. Não tem Vault 13. Não foi achada. Não viram, nada de 13. Vault 15 encontraram, pessoas vivem em Vault 15. Você entende?}
+{135}{}{Não tre-eze? Qui-inze?}
+{136}{}{NÃO. QUERO TREZE!}
+{137}{}{Arrgh! NÃO EXISTE A 13, SEU JUMENTO! Nada de 13, nunca foi achada. Nunca! Jamais!}
+{138}{}{Tandi é grande chefe. Tandi quer ajuda. Você fala com Tandi. Vá para a casa do Con-gre-sso. Entende?}
 {139}{}{GECK?}
 {140}{}{Tudo bem.}
-{141}{}{No GECK. Me healthy. Not sick.}
+{141}{}{Sem GECK. Eu saudável. Não doente.}
 {142}{}{Vault 13?}
 {143}{}{Tudo bem.}
-{144}{}{Look around you. NCR's a growing place. We need parts, computers, whatnot. Been a problem ever since those squatters moved into Vault 15.}
+{144}{}{Olhe a sua volta, a NCR é um lugar crescente. Precisamos de peças, computadores, um pouco de tudo. Tem sido um problema desde que aqueles invasores se mudaram para a Vault 15.}
 {145}{}{Vault 15? Squatters? What's going on?}
 {146}{}{What's this about President Tandi?}
 {147}{}{Thanks for the info.}
