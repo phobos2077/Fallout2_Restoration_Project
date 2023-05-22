@@ -77,4 +77,4 @@
 {176}{}{Não há mais trabalho que eu saiba.}
 {177}{}{Duppo na Associação de Pecuaristas disputa as mãos para as unidades de brahmins. A Presidente Tandi tem pedido ajuda.}
 {178}{}{Qualquer outra pessoa como você estaria deixando a cidade, muito menos procurando trabalho.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo na Associação dos Pecuaristas disputa as mãos para as unidades brahmins. Tente ele. Depois, ainda tem o Sr. Westin. Se falar com ele, pode dizer que te enviei.}

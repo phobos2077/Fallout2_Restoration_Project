@@ -1,6 +1,6 @@
-{100}{}{You see a thin-looking punk.}
-{101}{}{It's Doofus, the car hop.}
-{102}{}{This guy's a ragged little weed, full twitches and tics, no doubt an addict of something.}
+{100}{}{Você vê um vândalo magricela.}
+{101}{}{É Doofus, o cuidador de carros.}
+{102}{}{Esse cara é um rato maltrapilho, cheio de tiques nervosos, é sem dúvida viciado em alguma coisa.}
 {103}{}{That's a fine transport, man, truly fine! Oh man, I am the one for you - watch your car, keep it safe from the bedbugs. Five bucks, no problem. Five bucks and Doofus is on the job! Never sleep - 24 hour, always there, man.}
 {104}{}{I am the car hop, man. I watch cars - $5. Nobody touches them, cause Doofus's on the job.}
 {105}{}{Right, sure man.}
