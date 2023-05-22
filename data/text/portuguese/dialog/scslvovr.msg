@@ -36,15 +36,15 @@
 {135}{}{Todo mundo já ouviu falar da Vault 13. Quando eu era criança, meus amigos e eu costumávamos procurá-la. Supostamente fica a leste daqui, então procuramos por tudo, mas nunca encontramos.}
 {136}{}{Tenho certeza que você se esforçou. Eu gostaria de fazer mais algumas perguntas, já que você sabe muito.}
 {137}{}{Bem, eu preciso ir.}
-{138}{}{GECK, eh? Back when I was studying Vault tech, I read about those. Supposedly every vault got one and it was supposed to be the first thing used once a vault got opened. They say that's how Shady Sands got its start - from a GECK. That help at all?}
-{139}{}{You studied vault tech? Impressive. Say, I got some more questions for you.}
+{138}{}{GECK, é? Quando eu estava estudando a tecnologia das Vaults, li sobre isso. Supostamente, cada Vault tinha um e deveria ser a primeira coisa usada quando uma Vault era aberta. Dizem que foi assim que Shady Sands começou, de um GECK. Isso te ajuda?}
+{139}{}{Você estudou tecnologia de Vaults? Impressionante. Então, tenho mais algumas perguntas para você.}
 {140}{}{Bem, eu preciso ir.}
-{141}{}{The Enclave.... You know, there's a doc in town, goes by the name of Henry. One night when he was drunk he started going on about some guys he called the Enclave.}
-{142}{}{That's just what I needed to know. You are a well-informed man.}
-{143}{}{That's all I need bother you with. Thanks.}
-{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
-{145}{}{Man, you know a lot. I could spend all day asking you questions.}
-{146}{}{Well, I'll get right on these leads.}
-{147}{}{You cut their... you knows... off for me, okay?}
-{148}{}{No problem. There's some other stuff I'd like to know, though.}
-{149}{}{I'll take care of them, don't worry.}
+{141}{}{A Enclave... Veja, tem um médico na cidade, atende pelo nome de Henry. Uma noite, quando estava bêbado, começou a falar sobre alguns caras que chamava de Enclave.}
+{142}{}{Isso é o que eu precisava saber. Você é um homem bem informado.}
+{143}{}{Isso é tudo que eu preciso saber. Obrigado.}
+{144}{}{Eu, estou sempre atento, o problema é que ninguém mais quer contratar um escravista. Vortis, meu chefe, gosta de silêncio. E na cidade, os fazendeiros da Associação dos Pecuaristas estão sempre contratando mais do que Dorothy. Você pode ajudar na usina se tiver as habilidades certas. Dizem que até a presidente Tandi está procurando um especialista.}
+{145}{}{Cara, você sabe muito. Eu poderia passar o dia todo fazendo perguntas.}
+{146}{}{Bem, vou direto buscar essas pistas.}
+{147}{}{Corte o… você sabe… para mim, ok?}
+{148}{}{Sem problemas. Há outras coisas que eu gostaria de saber, na verdade.}
+{149}{}{Eu cuidarei deles, não se preocupe.}

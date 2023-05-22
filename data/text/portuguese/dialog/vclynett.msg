@@ -865,25 +865,25 @@
  get the part...}
 {851}{}{Never mind. We can talk about this some other time.}
 {852}{lyn047b}{What if we do? That is only a temporary solution.}
-{853}{}{Uh, well, I don't know the specifics, but it sounds like the magneto-thingie could help both
- Gecko and Vault City. Can I get the part?}
-{854}{}{Actually, the regulator could make the plant run clean for many years. So if I could just get the part...?}
-{855}{}{Never mind. Maybe I can find someone else to help me.}
-{856}{}{You are correct, First Citizen. I'll see what I can do to handle this problem on my own.}
-{857}{}{I don't think I understand. Is there some problem with Gecko... or the ghouls?}
-{858}{}{First Citizen, please hear me out... is there some problem with getting the part? It could
- solve your problems with Gecko and help the ghouls, too...}
-{859}{}{Nevermind. Maybe I can find someone else to help me.}
-{860}{}{Sorry for disturbing you, First Citizen.}
-{861}{}{They aren't trying to hurt anyone. They just don't have the part they need to make
- the plant run cleanly. So, if you could please GIVE me the part...}
-{862}{}{Never mind. Maybe I can find someone else to help me.}
+{853}{}{Uh, bem, eu não sei os detalhes, mas parece que o magneto pode ajudar tanto Gecko quant
+ Vault City. Posso pegar a peça?}
+{854}{}{Na verdade, o regulador poderia fazer a planta funcionar limpa por muitos anos. Então, se eu pudesse conseguir a peça...?}
+{855}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{856}{}{Você está correta, Primeira Cidadã. Vou ver o que posso fazer para lidar com esse problema.}
+{857}{}{Acho que não entendo. Há algum problema com Gecko... ou com os ghouls?}
+{858}{}{Primeira Cidadã, por favor, ouça-me... há algum problema em conseguir a peça? Poderia
+ resolver seus problemas com Gecko e ajudar os ghouls também...}
+{859}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{860}{}{Desculpe por incomodá-la, Primeira Cidadã.}
+{861}{}{Eles não estão tentando machucar ninguém. Eles simplesmente não têm a peça de
+ que precisam para fazer a fábrica funcionar de forma limpa. Então, se você puder, por favor, ME DÊ a peça...}
+{862}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
 {863}{}{Very well. Sorry to disturb you, First Citizen.}
 {864}{lyn017b}{You barge into my chambers and then have the audacity to make demands of ME, Lynette, First Citizen of Vault City?!}
 {865}{lyn041c}{Agora saia imediatamente, ou chamarei os guardas.}
 {866}{}{That does it. You're in bad need of a painful lesson.}
-{867}{}{Never mind. Maybe I can find someone else to help me.}
-{868}{}{Sorry for disturbing you, First Citizen.}
+{867}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{868}{}{Desculpe por incomodá-la, Primeira Cidadã.}
 {869}{}{I need a part to fix the Gecko power plant.}
 {870}{}{You delivered Westin's holodisk to Lynette.}
 {871}{}{You delivered Westin's holodisk to Lynette and became Captain of the Guard.}

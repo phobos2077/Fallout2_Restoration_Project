@@ -1,5 +1,5 @@
-{100}{}{You see a scrawny old guy with a pen stuck behind his ear and spectacles balanced on the end of his nose.}
-{101}{}{It's Vortis, the owner of this slave pen.}
+{100}{}{Você vê um velho magricela com uma caneta presa atrás da orelha e óculos equilibrados na ponta do nariz.}
+{101}{}{É Vortis, o dono deste centro de escravos.}
 {102}{}{He's got about three teeth. His fingers and shirt are stained with blue ink. There's a really faded slaver's tattoo on his forehead.}
 {103}{}{So what do you want?}
 {104}{}{Brother, welcome to Vortis' hall. How can I help you?}
