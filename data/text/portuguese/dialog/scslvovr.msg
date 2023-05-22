@@ -23,22 +23,22 @@
 {122}{}{Eu sei mais do que o velho Vortis me dá crédito, sabe.}
 {123}{}{Bem, eu fiz muito mais do que a maioria das pessoas suspeita. Embora não goste deste trabalho. É bom e confortável.}
 {124}{}{Seja o que for.}
-{125}{}{What's the deal with these Rangers I hear about?}
-{126}{}{I'm looking for Vault 13. Ever hear of it?}
+{125}{}{Qual é o problema com esses Rangers de que ouvi falar?}
+{126}{}{Estou procurando a Vault 13. Já ouviu falar?}
 {127}{}{Já ouviu falar de um GECK?}
-{128}{}{Know anything about an outfit called the Enclave?}
-{129}{}{I'm looking for work. Know anybody who's hiring?}
-{130}{}{Forget it. I don't want to take up your time.}
-{131}{}{Those bastards killed my brother and then said it was for the good of the people! I want them dead. If you can help, talk to Vortis.}
-{132}{}{Sounds like a good idea to me.}
-{133}{}{Vortis, eh? You're a fountain of wisdom. What else do you know?}
-{134}{}{Right. Think I'll do that right now.}
-{135}{}{Everybody's heard of Vault 13. When I was a kid, me and my friends used to go prospecting for it. Supposed to be east of here, so we searched everything but never did find it.}
-{136}{}{I'm sure you tried hard. I'd like to ask some more questions, since you know so much.}
-{137}{}{Well, I got to go.}
+{128}{}{Sabe alguma coisa sobre um grupo chamado Enclave?}
+{129}{}{Estou procurando trabalho. Conhece alguém que está contratando?}
+{130}{}{Esqueça. Não quero tomar seu tempo.}
+{131}{}{Aqueles desgraçados mataram meu irmão e depois disseram que era para o bem do povo! Eu quero todos mortos. Se puder ajudar, fale com Vortis.}
+{132}{}{Me parece uma boa ideia.}
+{133}{}{Vortis, é? Você é uma fonte de sabedoria. O que mais você sabe?}
+{134}{}{Certo. Acho que vou fazer isso agora.}
+{135}{}{Todo mundo já ouviu falar da Vault 13. Quando eu era criança, meus amigos e eu costumávamos procurá-la. Supostamente fica a leste daqui, então procuramos por tudo, mas nunca encontramos.}
+{136}{}{Tenho certeza que você se esforçou. Eu gostaria de fazer mais algumas perguntas, já que você sabe muito.}
+{137}{}{Bem, eu preciso ir.}
 {138}{}{GECK, eh? Back when I was studying Vault tech, I read about those. Supposedly every vault got one and it was supposed to be the first thing used once a vault got opened. They say that's how Shady Sands got its start - from a GECK. That help at all?}
 {139}{}{You studied vault tech? Impressive. Say, I got some more questions for you.}
-{140}{}{Well, I got to go.}
+{140}{}{Bem, eu preciso ir.}
 {141}{}{The Enclave.... You know, there's a doc in town, goes by the name of Henry. One night when he was drunk he started going on about some guys he called the Enclave.}
 {142}{}{That's just what I needed to know. You are a well-informed man.}
 {143}{}{That's all I need bother you with. Thanks.}
