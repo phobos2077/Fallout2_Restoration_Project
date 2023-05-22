@@ -1,33 +1,33 @@
 {100}{}{Você vê um vândalo magricela.}
 {101}{}{É Doofus, o cuidador de carros.}
 {102}{}{Esse cara é um rato maltrapilho, cheio de tiques nervosos, é sem dúvida viciado em alguma coisa.}
-{103}{}{That's a fine transport, man, truly fine! Oh man, I am the one for you - watch your car, keep it safe from the bedbugs. Five bucks, no problem. Five bucks and Doofus is on the job! Never sleep - 24 hour, always there, man.}
-{104}{}{I am the car hop, man. I watch cars - $5. Nobody touches them, cause Doofus's on the job.}
-{105}{}{Right, sure man.}
-{106}{}{So man, you want my protection?}
+{103}{}{Esse é um ótimo veículo, cara, realmente ótimo! Oh cara, eu sou a pessoa certa para você... cuido do seu carro, o deixo a salvo dos bichos. Só cinco dólares e sem problemas. Cinco pratas e Doofus está a seu serviço! Nunca durmo, 24 horas direto, cara.}
+{104}{}{Eu cuido dos carros, cara. Eu vigio carros, por $5. Ninguém toca neles, porque Doofus trabalha aqui.}
+{105}{}{Sim, claro, cara.}
+{106}{}{Então, cara, você quer minha proteção?}
 {107}{}{Boa. Fazer.}
-{108}{}{No. You no touch.}
-{109}{}{I am not a man!}
-{110}{}{What place is this?}
-{111}{}{Deal. $5 - you watch the car.}
-{112}{}{Get lost, skuzz!}
-{113}{}{Whoa man, there's like this giant talking to me! Is that so cool or what?}
+{108}{}{Não. Não toque.}
+{109}{}{Não sou seu amigo!}
+{110}{}{Que lugar é este?}
+{111}{}{De acordo, $5. Vigie o carro.}
+{112}{}{Some daqui, vagabundo!}
+{113}{}{Opa, cara, tem um gigante falando comigo! Isso não é legal?}
 {114}{}{Gurg?}
-{115}{}{I am not a man!}
-{116}{}{What place is this?}
-{117}{}{That's right. I'm a really powerful giant! You will obey me.}
-{118}{}{Useless junkie - get lost!}
-{119}{}{What do you want with Doofus, man?}
-{120}{}{Whoa, we met before? What can I do for you?}
-{121}{}{Right, sure man.}
-{122}{}{Squa?}
-{123}{}{I am not a man!}
+{115}{}{Não sou seu amigo!}
+{116}{}{Que lugar é este?}
+{117}{}{Isso mesmo. Eu sou um gigante beeem forte! Você vai me obedecer.}
+{118}{}{Viciado idiota - sai daqui!}
+{119}{}{O que você quer com Doofus, cara?}
+{120}{}{Opa, nós nos conhecemos antes? O que posso fazer por você?}
+{121}{}{Sim, claro, cara.}
+{122}{}{É?}
+{123}{}{Não sou seu amigo!}
 {124}{}{O que fazer?}
 {125}{}{O que é este lugar?}
-{126}{}{Nothing. Thought you were somebody else. Bye.}
-{127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}
+{126}{}{Nada, pensei que você fosse outra pessoa. Tchau.}
+{127}{}{Ei, cara, eu te avisei. Lugar ruim. Pessoas más por aqui. Ouvi dizer que coisas do seu veículo foram roubadas.}
 {128}{}{Brak?}
-{129}{}{How did you know?}
+{129}{}{Como você sabe?}
 {130}{}{Excelente, obrigado. Bem.}
 {131}{}{Doofus fará isso, amigo. Nem uma mosca vai jogar merda no seu au-to-mo-vel!}
 {132}{}{O que é este lugar?}

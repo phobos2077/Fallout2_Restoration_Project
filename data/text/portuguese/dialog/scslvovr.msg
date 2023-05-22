@@ -15,13 +15,13 @@
 {114}{}{Vá, saia daqui. Eu já tenho guardas idiotas o suficientes!}
 {115}{}{O que há de errado seu idiota, você é cego? É um centro de escravos. Se quiser saber mais, fale com a Vortis.}
 {116}{}{É assim mesmo? Bem, estou te mandando de volta em um saco para cadáveres.}
-{117}{}{That'd be Vortis, the old guy.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
-{119}{}{The old guy, eh? Okay.}
-{120}{}{Well now, you put it that way, I can't really say no. What's on your mind?}
+{117}{}{Deve ser Vortis, o velho.}
+{118}{}{Obrigado. Olha, você parece um cara inteligente. Aposto que você pode me responder algumas perguntas.}
+{119}{}{O velho, é? OK.}
+{120}{}{Agora, se você colocar dessa forma, eu não poderia dizer não. Que tem em mente?}
 {121}{}{Valeu.}
-{122}{}{I know more than old Vortis gives me credit for, you know.}
-{123}{}{Well, I've done a lot more than most people suspect. Like this job, though. It's nice and cushy.}
+{122}{}{Eu sei mais do que o velho Vortis me dá crédito, sabe.}
+{123}{}{Bem, eu fiz muito mais do que a maioria das pessoas suspeita. Embora não goste deste trabalho. É bom e confortável.}
 {124}{}{Seja o que for.}
 {125}{}{What's the deal with these Rangers I hear about?}
 {126}{}{I'm looking for Vault 13. Ever hear of it?}
