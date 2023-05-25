@@ -1,5 +1,5 @@
 {100}{}{Você vê um guarda.}
-{101}{}{You see Grant, the guard}
+{101}{}{Você vê Grant, o guarda}
 {102}{}{You see a guard. His armor and weapons are in excellent condition.}
 {103}{}{This is private property, please move along.}
 {104}{}{Who live here?}
