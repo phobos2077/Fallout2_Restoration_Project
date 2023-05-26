@@ -1,7 +1,7 @@
-{100}{}{I'm watching you, Outworlder.}
+{100}{}{Estou de olho em você, Forasteiro.}
 {101}{}{I think it's about time for you to leave.}
 {102}{}{I don't like the looks of you.}
-{103}{}{Keep your nose clean, or I'll take that Pass away.}
+{103}{}{Mantenha seu nariz onde deve, ou eu te tiro esse passe.}
 {104}{}{Já passa das 18h. Hora de você voltar para o pátio.}
 {105}{}{OK. Estou indo agora.}
 {106}{}{OK. Eu vou em um minuto.}

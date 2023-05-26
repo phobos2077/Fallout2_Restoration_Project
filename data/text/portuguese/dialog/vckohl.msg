@@ -25,26 +25,26 @@
 {124}{}{Este é o Centro de Informações de Vault City. Este é o lugar que você procura?}
 {125}{}{Sim, isso mesmo. Eu tinha algumas perguntas que talvez você possa responder.}
 {126}{}{Centro de Informações? Você tem algum livro ou manual?}
-{127}{}{Not really. Sorry to disturb you.}
-{128}{}{Unfortunately, our books are currently being transcribed into electronic format. The extras are being shipped to the
- Amenities Offices down the street. You might try there.}
-{129}{}{Where are these electronically-formatted books stored?}
-{130}{}{All the books are gone?}
-{131}{}{Oh. I have a few questions...}
-{132}{}{Maybe I'll check there, then.}
-{133}{}{Hello, again. Did you need help finding anything?}
-{134}{}{Certainly. What questions did you have?}
+{127}{}{Na verdade. Lamento te perturbar.}
+{128}{}{Infelizmente, nossos livros estão sendo transcritos em formato eletrônico. Os extras estão sendo enviados para o
+ Escritório de Serviços no final da rua. Você pode tentar lá.}
+{129}{}{Onde esses livros em formato eletrônico são armazenados?}
+{130}{}{Todos os livros sumiram?}
+{131}{}{Oh. Eu tenho algumas perguntas...}
+{132}{}{Talvez eu devesse procurar lá, então.}
+{133}{}{Olá de novo. Você precisou de ajuda para encontrar alguma coisa?}
+{134}{}{Certamente. Que perguntas você tem?}
 {135}{}{O que é este lugar?}
 {136}{}{Você sabe onde eu posso encontrar um GECK?}
-{137}{}{Do you know where I could find the Vault?}
+{137}{}{Você sabe onde posso encontrar a Vault?}
 {138}{}{Nada por hoje, valeu.}
-{139}{}{A GECK? That name sounds familiar. What does it do?}
-{140}{}{You know, I don't know myself. To hear the Elder of my village tell it, it's supposed to be some panacea for my village.
- I'm a little more skeptical.}
+{139}{}{Um GECK? Esse nome soa familiar. O que isso faz?}
+{140}{}{Na verdade, eu nem sei. Eu ouvi sobre isso pela Anciã da minha aldeia, e ela supõe que seja algum tipo de panaceia
+ para nós. Eu já sou um pouco mais cético.}
 {141}{}{Eu realmente não sei.}
 {142}{}{Posso fazer mais algumas perguntas?}
-{143}{}{Never mind. Maybe we'll talk some other time.}
-{144}{}{The Vault? Why, the entrance is just down the street... it's the large hole in the side of the mountain.}
+{143}{}{Deixa para lá. Talvez a gente converse outra hora.}
+{144}{}{A Vault? Ora, a entrada é logo abaixo da rua... é o grande buraco na encosta da montanha.}
 {145}{}{Você conhece alguma outra Vault?}
 {146}{}{Posso fazer mais algumas perguntas?}
 {147}{}{Obrigado pelas orientações.}
@@ -72,32 +72,32 @@
 {165}{}{Oh. Ei, tenho algumas outras perguntas…}
 {166}{}{Desculpe ouvir isso. Tenho que ir.}
 {167}{}{Isso significa que meu posto aqui não é mais necessário. Para o bem de todos.}
-{168}{}{They are discussing putting information terminals in every household. These new terminals would all be tied to the List
- Server and the Information Archives. Once that is done, the information center... and I... will be unnecessary. It's all for the
- best, really.}
-{169}{}{Are you sure?}
+{168}{}{Eles estão discutindo a instalação de terminais informativos em todos os lares. Esses novos terminais seriam todos
+ vinculados ao servidor de listas e aos arquivos de informações. Feito isso, o centro de informações... e eu... seremos
+ desnecessários. É tudo para melhor, na verdade.}
+{169}{}{Tem certeza?}
 {170}{}{Oh. Ei, tenho algumas outras perguntas…}
 {171}{}{Desculpe ouvir isso. Tenho que ir.}
-{172}{}{Oh my, yes. The First Citizen is rarely wrong in such matters. Still, I will be sorry to leave this place. I heard they have a position waiting for me in the List Office.}
-{173}{}{Oh. Well, I'm sorry to hear that all the books were transcribed. I'd much rather read a book than stare at a computer screen.}
-{174}{}{Oh. Well, I'm sorry to hear that all the books were transcribed. I'd much rather read a book than stare at a computer screen.}
+{172}{}{Oh sim, claro. A Primeira Cidadã raramente está errada em tais questões. Ainda assim, lamentarei deixar este lugar. Ouvi dizer que eles têm um cargo esperando por mim no Escritório de Listas.}
+{173}{}{Oh. Bem, lamento saber que todos os livros foram transcritos. Eu prefiro pegar em um livro do que olhar para uma tela de computador.}
+{174}{}{Oh. Bem, lamento saber que todos os livros foram transcritos. Eu prefiro pegar em um livro do que olhar para uma tela de computador.}
 {175}{}{Oh. Ei, tenho algumas outras perguntas…}
 {176}{}{Desculpe ouvir isso. Tenho que ir.}
-{177}{}{That's how I feel as well! I have nothing against electronic format mind you, but there is a certain... solidity... in having a book in your hands and turning the pages one by one. Hmmm. You know...}
+{177}{}{É assim que me sinto também! Não tenho nada contra o formato eletrônico, mas olha... há uma certa... solidez... em ter um livro em mãos e virar as páginas uma a uma. Hmmm. Você sabe...}
 {178}{}{Sim?}
 {179}{}{Oh. Ei, tenho algumas outras perguntas…}
 {180}{}{Desculpe ouvir isso. Tenho que ir.}
-{181}{}{They haven't shipped all the books out to the Amenities Offices yet. I know Randal won't miss them if I gave them to someone who appreciated them... someone like yourself.}
-{182}{}{I'd love to have them. Thanks.}
-{183}{}{I'll go fetch them...}
+{181}{}{Eles ainda não despacharam todos os livros para o Escritório de Serviços . Sei que Randal não sentirá falta deles se eu os der a alguém que os aprecie... alguém como você.}
+{182}{}{Eu adoraria tê-los. Obrigado.}
+{183}{}{Vou buscá-los...}
 {184}{}{Tudo certo.}
-{185}{}{Here you go. I hope you enjoy reading them. They are some of my favorites... a little on the technical side, but still quite good.}
-{186}{}{Thanks. Do you mind if I ask you some other questions?}
-{187}{}{Great. I'll go check these out.}
-{188}{}{The books are being entered into one of the library terminals on the third level of the Vault.
- I don't recall which one... it's not one of the ones in the central core, though.}
-{189}{}{Why is everything being transcribed?}
+{185}{}{Estão aqui, espero que você goste de lê-los. Eles são alguns dos meus favoritos... um pouco técnicos, mas ainda muito bons.}
+{186}{}{Obrigado. Você se importa se eu fizer outras perguntas?}
+{187}{}{Ótimo. Vou verificar isso.}
+{188}{}{Os livros estão sendo inseridos em um dos terminais da biblioteca no terceiro nível da Vault.
+ Não me lembro qual... mas não é um dos do núcleo central.}
+{189}{}{Por que tudo está sendo transcrito?}
 {190}{}{Como posso descer até a Vault?}
-{191}{}{I see. Do you mind if I ask you some other questions?}
-{192}{}{Maybe I'll go see if I can find it.}
-{193}{}{! Well done! Bravo!}
+{191}{}{Entendo. Você se importa se eu fizer outras perguntas?}
+{192}{}{Acho que vou ver se consigo encontrá-lo.}
+{193}{}{! Bom trabalho! Bravo!}

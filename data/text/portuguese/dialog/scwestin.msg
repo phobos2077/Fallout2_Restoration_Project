@@ -1,14 +1,14 @@
-{100}{}{You see a man dressed in fancy ranch clothes.}
-{101}{}{It's Councilor Westin.}
-{102}{}{Silver and turquoise rings, silver belt buckle, pistol at his side, this guy's clearly used to having money and having his own way.}
-{103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
+{100}{}{Você vê um homem vestido com roupas chiques de fazendeiro.}
+{101}{}{É o Conselheiro Westin.}
+{102}{}{Anéis de prata e turquesa, fivela de cinto de prata, pistola ao lado, esse cara está claramente acostumado a ter dinheiro e fazer o que bem entende.}
+{103}{}{Eu sou Roger Westin e você não pode entrar aqui. O que você quer?}
 {104}{}{Você de novo? O que você quer?}
 {105}{}{O que você quer?}
 {106}{}{Dã…}
 {107}{}{Eu estou procurando a Vault 13. Você pode me ajudar?}
-{108}{}{I'm looking for Vault 13. Can you help me?}
-{109}{}{I finished your dirty work.}
-{110}{}{Bad things come. Me scare off. Moo-moos safe.}
+{108}{}{Estou procurando pela Vault 13. Você pode me ajudar?}
+{109}{}{Terminei seu trabalho sujo.}
+{110}{}{Coisas ruins vieram. Eu assustei. Moo-moos seguros agora.}
 {111}{}{About your brahmin problem -- looks like all you've got to do is post a man out there. He doesn't even have to do anything, just be there. I know it sounds weird, but it will work. You mentioned some pay?}
 {112}{}{I'm here about a job.}
 {113}{}{First Citizen Lynette sends her greetings. She's got something for you.}

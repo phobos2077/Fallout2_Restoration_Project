@@ -1,6 +1,6 @@
-{100}{}{You see a stern-looking woman with thick glasses, wearing a Vault City jumpsuit. Judging from her bearing, she seems important.}
-{101}{}{You see First Citizen Lynette. She looks preoccupied.}
-{102}{}{You see First Citizen Lynette. She looks preoccupied.}
+{100}{}{Você vê uma mulher de aparência severa com óculos grossos, vestindo um macacão de Vault City. A julgar por seu porte, ela parece importante.}
+{101}{}{Você vê a Primeira Cidadã Lynette. Ela parece preocupada.}
+{102}{}{Você vê a Primeira Cidadã Lynette. Ela parece preocupada.}
 {103}{}{It is late. Schedule an appointment for tomorrow morning, and I will receive you then.}
 {104}{}{As I SAID, I don't receive visitors this late. MOST Citizens have retired to bed by this time.}
 {105}{}{Schedule an appointment for tomorrow morning. I will receive you then.}

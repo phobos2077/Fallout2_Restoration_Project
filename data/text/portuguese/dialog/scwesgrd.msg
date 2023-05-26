@@ -1,44 +1,44 @@
 {100}{}{Você vê um guarda.}
 {101}{}{Você vê Grant, o guarda}
-{102}{}{You see a guard. His armor and weapons are in excellent condition.}
-{103}{}{This is private property, please move along.}
-{104}{}{Who live here?}
+{102}{}{Você vê um guarda. Sua armadura e armas estão em excelentes condições.}
+{103}{}{Esta é uma propriedade privada, por favor, adiante.}
+{104}{}{Quem vive aqui?}
 {105}{}{Ok, eu vou.}
-{106}{}{Excuse me but who lives here?}
-{107}{}{All right, I'll be going.}
-{108}{}{Are you ready to leave?}
-{109}{}{Me want go.}
-{110}{}{No, me stay.}
-{111}{}{Yes, I need to be going now.}
-{112}{}{No, I'll hang around a bit longer.}
-{113}{}{This is Westin Ranch, home of councilman Westin.}
-{114}{}{Me need see.}
-{115}{}{Ok. Bye.}
-{116}{}{I need to see the councilman, please.}
-{117}{}{I see. Well, I'll be on my way.}
-{118}{}{What business do you have with Mr. Westin?}
-{119}{}{Me need job.}
-{120}{}{Just want chat.}
+{106}{}{Desculpe, mas quem mora aqui?}
+{107}{}{Está bem, estou indo.}
+{108}{}{Você está pronto para ir?}
+{109}{}{Vou ir.}
+{110}{}{Não, eu fico.}
+{111}{}{Sim, preciso ir agora.}
+{112}{}{Não, vou ficar mais um pouco.}
+{113}{}{Este é o Rancho Westin, casa do vereador Westin.}
+{114}{}{Preciso ver.}
+{115}{}{OK. Tchau.}
+{116}{}{Preciso falar com o vereador, por favor.}
+{117}{}{Entendo. Bem, eu estarei no meu caminho.}
+{118}{}{Que negócios você tem com o Sr. Westin?}
+{119}{}{Preciso de trabalho.}
+{120}{}{Quero conversar.}
 {121}{}{Uh...}
 {122}{}{Deixa pra lá.}
-{123}{}{I'm looking for work and I hear that he's hiring.}
-{124}{}{I would like to chat with Mr. Westin.}
-{125}{}{Never mind, I'll come back later.}
-{126}{}{Hmm... I seem to remember something about work being available. All right, come on in. Don't cause any trouble though, I'll be watching you.}
-{127}{}{Me thank.}
+{123}{}{Estou procurando trabalho e ouvi dizer que ele está contratando.}
+{124}{}{Eu gostaria de conversar com o Sr. Westin.}
+{125}{}{Não importa, voltarei mais tarde.}
+{126}{}{Hmm... Acho que me lembro sobre algum trabalho disponível. Tudo bem, entre. Mas não cause nenhum problema, estarei de olho em você.}
+{127}{}{Eu obrigado.}
 {128}{}{Obrigado.}
-{129}{}{Mr. Westin doesn't just 'chat' with anyone who walks in off the street. If you don't have specific business with him then I suggest you leave until such time as you do. Now please go away.}
+{129}{}{O Sr. Westin não 'conversa' com qualquer um que entra aqui. Se você não tem negócios específicos com ele, sugiro que saia até o momento que tiver algum. Agora, por favor, vá embora.}
 {130}{}{[FEITO]}
-{131}{}{(sigh) I've heard that Mr. Westin has a soft spot for people like you. Come on in.}
+{131}{}{(suspiro) Ouvi dizer que o Sr. Westin tem uma queda por pessoas como você. Entre.}
 {132}{}{- Me agradecer-lhe.}
-{133}{}{Yeah, yeah. I am in the middle of something.}
+{133}{}{Sim, sim. Estou no meio de algo.}
 {134}{}{Ei, saia daí!}
-{135}{}{You should ask before you play with things that aren't yours.}
-{136}{}{Hello. Did you need to see Mr. Westin again?}
+{135}{}{Você devia perguntar antes de brincar com coisas que não são suas.}
+{136}{}{Olá. Você precisa ver o Sr. Westin novamente?}
 {137}{}{Sim.}
 {138}{}{Não.}
-{139}{}{Me have things from Vault City for Mr. Westin.}
-{140}{}{I have something from Vault City for Mr. Westin.}
-{141}{}{All right, come on in. Don't cause any trouble though, I'll be watching you.}
-{142}{}{You're not allowed on to the ranch without official business.}
-{150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}
+{139}{}{Tenho coisas de Vault City para o Sr. Westin.}
+{140}{}{Eu tenho algo de Vault City para o Sr. Westin.}
+{141}{}{Tudo bem, entre. Mas não cause nenhum problema, estarei de olho em você.}
+{142}{}{Você não tem permissão para entrar no rancho sem algum negócio oficial.}
+{150}{}{Sinto muito, houve um incidente e ninguém é permitido na propriedade. Siga em frente.}

@@ -155,7 +155,7 @@
 {254}{}{Eu vou fazer isso.}
 {255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
 {256}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
-{257}{}{I don't know anything. That's why I'm asking you.}
+{257}{}{Eu não sei nada. É por isso que estou perguntando.}
 {258}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {259}{}{Esqueça. Talvez a gente converse outra hora.}
 {260}{}{Não sabe de nada? Talvez eu te deixe aqui no Centro Correcional até você LEMBRAR de algo.}

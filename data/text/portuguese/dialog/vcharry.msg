@@ -52,5 +52,5 @@
 {201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}
 {202}{}{Fine. Here's the money.}
 {203}{}{Forget it, I'm outta here.}
-{204}{}{$500!? Forget this, I'm outta here.}
-{1288}{}{Looks like I don't have enough money. Bye.}
+{204}{}{$500!? Esqueça isso, vou sair daqui.}
+{1288}{}{Acho que não tenho dinheiro suficiente. Tchau.}

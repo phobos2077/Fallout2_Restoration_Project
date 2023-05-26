@@ -40,22 +40,22 @@
 {139}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
 {140}{}{What is this test?}
 {141}{}{What else could I do to beat customs?}
-{142}{}{Never mind. Maybe we'll talk some other time.}
+{142}{}{Deixa para lá. Talvez a gente converse outra hora.}
 {143}{}{Gregory, the Proconsul, gives a "test" to any Outsiders who want to become Citizens. It measures their intelligence and
  perception, and you have to be damn lucky to pass it, too. Most Citizens would have trouble with it.}
 {144}{}{So what makes it so hard?}
 {145}{}{What else could I do to beat customs other than becoming a Citizen?}
-{146}{}{Never mind. Maybe we'll talk some other time.}
+{146}{}{Deixa para lá. Talvez a gente converse outra hora.}
 {147}{}{Since most Outsiders can't read, do trigonometry, or spell "Australopithecus," you figure it out. It's just an excuse to keep Outsiders from becoming Citizens.}
 {148}{}{What else could I do to beat customs other than becoming a Citizen?}
-{149}{}{Never mind. Maybe we'll talk some other time.}
+{149}{}{Deixa para lá. Talvez a gente converse outra hora.}
 {150}{}{Hide the goods on your slaves... your "Servants." You see, Vault City mentality is this:
 They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.}
 {151}{}{Any other options?}
 {152}{}{Tudo bem, então. Obrigado.}
 {153}{}{Bem, você PODE se tornar um Cidadão... não oficialmente.}
 {154}{}{Do que você está falando?}
-{155}{}{Never mind. Maybe we'll talk some other time.}
+{155}{}{Deixa para lá. Talvez a gente converse outra hora.}
 {156}{}{Se você tem o dinheiro, então entrarei em detalhes. Do contrario...}
 {157}{}{Eu tenho o dinheiro. O que você está vendendo?}
 {158}{}{Nevermind. Maybe we'll talk some other time.}
@@ -72,7 +72,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {167}{}{Vou levar os papéis da Cidadania, então.}
 {168}{}{Aceito os papéis da Cidadania... mas por $150, não $200.}
 {169}{}{Bem, $200 é muito caro para mim. Talvez eu volte se conseguir mais algum dinheiro.}
-{170}{}{Never mind. Maybe we'll talk some other time.}
+{170}{}{Deixa para lá. Talvez a gente converse outra hora.}
 {171}{}{Hmmm. Bem, tudo bem... Estou me sentindo caridoso hoje, mas não diga para nenhum de
  seus outros amigos forasteiros que você os comprou tão barato.}
 {172}{}{Tudo certo.}
@@ -163,7 +163,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
  forasteiros que fizeram o teste e se tornaram Cidadãos? Zero. Suas chances? Menos que zero.}
 {249}{}{What is this test?}
 {250}{}{Entendo. Quanto é mesmo por esses documentos?}
-{251}{}{Never mind. Maybe we'll talk some other time.}
+{251}{}{Deixa para lá. Talvez a gente converse outra hora.}
 {252}{}{Gregory, o Procônsul, faz um "teste" para qualquer Forasteiro que queira se tornar Cidadão.
  Ele mede a inteligência e a percepção deles, e você também precisa ter muita sorte para passar.
  A maioria dos cidadãos teria problemas com isso.}

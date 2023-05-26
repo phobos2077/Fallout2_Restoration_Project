@@ -100,7 +100,7 @@
 {197}{}{Oh. Bem, uh, eu tinha outras perguntas...}
 {198}{}{Deixa para lá. Vou te deixar com seu trabalho.}
 {199}{}{Não, nós não. Já dissemos tudo o que precisávamos há muito tempo. }
-{200}{}{Are you sure?}
+{200}{}{Tem certeza?}
 {201}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {202}{}{Vou te deixar com o seu trabalho então.}
 {203}{}{Yes, I'm SURE. Well... except for the fact that I think he should lose some weight. He's got quite a spare tire going. And he should stop wandering all around the wastes selling junk to tribals. That's pretty much it.}
