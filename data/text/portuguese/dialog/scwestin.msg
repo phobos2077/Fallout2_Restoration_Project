@@ -9,65 +9,65 @@
 {108}{}{Estou procurando pela Vault 13. Você pode me ajudar?}
 {109}{}{Terminei seu trabalho sujo.}
 {110}{}{Coisas ruins vieram. Eu assustei. Moo-moos seguros agora.}
-{111}{}{About your brahmin problem -- looks like all you've got to do is post a man out there. He doesn't even have to do anything, just be there. I know it sounds weird, but it will work. You mentioned some pay?}
-{112}{}{I'm here about a job.}
-{113}{}{First Citizen Lynette sends her greetings. She's got something for you.}
-{114}{}{Bishop sent me.}
+{111}{}{Sobre o seu problema com brahmins... parece que tudo o que você precisa fazer é apostar um homem lá. Você não precisa fazer nada, apenas estar lá. Eu sei que parece loucura, mas vai funcionar. Você mencionou alguma coisa sobre um pagamento?}
+{112}{}{Estou aqui procurando trabalho.}
+{113}{}{A Primeira Cidadã Lynette te envia saudações. Ela tem algo para você.}
+{114}{}{Bishop me enviou.}
 {115}{}{Oops.}
-{116}{}{That all? Talk to my foreman, Felix.}
-{117}{}{You don't understand. I'm here to do a job.}
-{118}{}{The sheriff suggested I come talk to you personally.}
-{119}{}{Fine. Be that way.}
-{120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
+{116}{}{Isso é tudo? Fale com meu capataz, Felix.}
+{117}{}{Você não entendeu. Estou aqui para fazer um trabalho.}
+{118}{}{O xerife sugeriu que eu fosse falar com você pessoalmente.}
+{119}{}{Certo. Que seja assim.}
+{120}{}{Eu deveria ter adivinhado. O que ele te prometeu? dinheiro, drogas ou sexo? Não importa. Você nunca terá nada disso.}
 {121}{}{O que você quer dizer?}
 {122}{}{Cale-se.}
-{123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
+{123}{}{Oh, você é um simples? Que coisa triste. Deve ser uma cruz difícil de carregar. Ouça: você fala com Fee-lix. Ele te deu trabalho. Entendeu?}
 {124}{}{Uh-huh.}
-{125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
+{125}{}{O que você acha? Você sabe. E se você voltar para a NCR e te vender, ou te ameaçar? Você já está morto. Por outro lado, tenho uma oferta melhor.}
 {126}{}{Como?}
 {127}{}{Eu não acredito em você.}
-{128}{}{Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?}
-{129}{}{(need info from Chris)}
-{130}{}{(Avellone, that is)}
+{128}{}{Em vez disso, elimine Bishop. Vou pagar em dinheiro, o que ele estava pagando mais 50%. O que me diz?}
+{129}{}{(precisa de informações de Chris)}
+{130}{}{(Avellone, é isso)}
 {131}{}{Bem.}
 {132}{}{É um trato.}
-{133}{}{Too bad for you, old man.}
-{134}{}{I look forward to hearing from you. Now, go out the way you came.}
-{135}{}{Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.}
-{136}{}{Anything else I can do for you?}
-{137}{}{Thanks. Maybe you can help me out. I'm trying to find Vault 13.}
+{133}{}{Que pena para você, velho.}
+{134}{}{Estou ansioso para te ouvir. Agora, saia por onde veio.}
+{135}{}{Excelente. Eu sabia que você era a pessoa certa. Bem, eu prometi te pagar e não renego meus acordos. Aqui está o seu dinheiro.}
+{136}{}{Mais alguma coisa que eu possa fazer por você?}
+{137}{}{Obrigado. Talvez você possa me ajudar. Estou tentando encontrar a Vault 13.}
 {138}{}{Adeus.}
-{139}{}{Dumont recommended you? Well, that's good enough for me. Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.}
-{140}{}{Sounds like easy work. I'll do it.}
-{141}{}{I've decided against it.}
-{142}{}{Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.}
-{143}{}{Sounds like a good idea. I'll do it.}
-{144}{}{No thanks. Sitting in a field, waiting for some mantoid to show sounds boring.}
-{145}{}{Excellent. Felix will guide you out there. Now, if you'll excuse me.}
-{146}{}{Well, maybe I can. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't vault 13 then maybe you'll find a clue there that will lead you to it.}
-{147}{}{Ooooh. Good.}
+{139}{}{Dumont recomendou você? Bem, isso é o suficiente para mim. Algo ou alguém tem atacado meus brahmins à noite. Eu preciso descobrir o que está acontecendo. Que tal ir lá e dar uma olhada nisso para mim? Eu vou pagar por qualquer problema.}
+{140}{}{Parece um trabalho fácil. Eu vou fazer.}
+{141}{}{Eu decidi que melhor não.}
+{142}{}{Algo ou alguém tem atacado meus brahmins à noite. Eu preciso descobrir o que está acontecendo. Que tal ir lá e dar uma olhada nisso para mim? Eu vou pagar por qualquer problema.}
+{143}{}{Parece uma boa ideia. Eu vou fazer.}
+{144}{}{Não, obrigado. Ficar sentado em um campo e esperar que alguma assombração apareça parece bem chato.}
+{145}{}{Excelente. Felix irá guiá-lo lá fora. Agora, se me der licença.}
+{146}{}{Bem, talvez eu possa. Eu ouvi muitas histórias sobre Tandi e o Morador da Vault. Parece que ele salvou a vida dela anos atrás, antes mesmo de a NCR ser fundada. De qualquer forma, diz a lenda que ele passou muito tempo explorando uma Vault a leste daqui. Se não for a Vault 13, talvez você encontre uma pista que o levará a ela.}
+{147}{}{Ooooh. Bom.}
 {148}{}{Obrigado!}
-{149}{}{Well, maybe I can. However, I need a favor from you first. Something, or someone, has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for it and I'll tell you what I know.}
-{150}{}{Sounds like a good idea. I'll do it.}
-{151}{}{No thanks. Sitting in a field, waiting for some mantoid to show sounds boring.}
-{152}{}{Well, then here you go. Nice to meet you, stranger.}
-{153}{}{I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.}
-{154}{}{Me tank you!}
+{149}{}{Bem, talvez eu possa. No entanto, primeiro preciso de um favor seu. Algo, ou alguém, tem atacado meus brahmins à noite. Eu preciso descobrir o que está acontecendo. Que tal ir lá e dar uma olhada nisso para mim? Pagarei por isso e direi o que sei.}
+{150}{}{Parece uma boa ideia. Eu vou fazer.}
+{151}{}{Não, obrigado. Ficar sentado em um campo e esperar que alguma assombração apareça parece bem chato.}
+{152}{}{Bem, então aqui está. Prazer em conhecê-lo, estranho.}
+{153}{}{Não tenho certeza se acredito em você, mas aqui está o seu pagamento. Cacete, se você estiver mentindo, meus rapazes vão te encontrar. Eu também disse que te daria algumas informações, então aqui está. Eu ouvi muitas histórias sobre Tandi e o Morador da Vault. Parece que ele salvou a vida dela anos atrás, antes mesmo da NCR ser fundada. De qualquer forma, diz a lenda que ele passou muito tempo explorando uma Vault a leste daqui. Se não for a Vault 13, talvez você encontre uma pista que o levará a ela.}
+{154}{}{Agradeço você!}
 {155}{}{Obrigado.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{A primeira cidadã? Excelente, era isso que eu estava esperando. Você é um Cidadão da Vault?}
 {157}{}{Sim.}
 {158}{}{Não.}
-{159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
+{159}{}{E você é um bom cidadão, tenho certeza. Quero que leve este holodisco de volta à Primeira Cidadã, é importante. Tem as informações que ela precisa para expor este plano NCR-New Reno.}
 {160}{}{Eu tenho algumas outras perguntas.}
 {161}{}{Sim, senhor.}
-{162}{}{Well then, that's all.}
+{162}{}{Bem, então isso é tudo.}
 {163}{}{Eu tenho algumas outras perguntas.}
 {164}{}{Seja o que for.}
-{165}{}{A job. You mean--}
-{166}{}{Bishop sent me. Got a little message for you.}
-{167}{}{Bye-bye and sleep tight, old man.}
-{168}{}{dollars it is. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
-{169}{}{Ohh yeah. Well, I was having some problem with varmints, but they stopped coming around. Sorry about that. Try Felix and see if he has anything for you to do.}
+{165}{}{Um trabalho. Você quer dizer...}
+{166}{}{Bispo me enviou. Tenho uma pequena mensagem para você.}
+{167}{}{Tchau e durma bem, velho.}
+{168}{}{dólares, de acordo. Você faz o trabalho, eu te pago. Você diz não, você não sai daqui vivo. Certo?}
+{169}{}{Oh, sim. Bem, eu estava tendo algum problema com intrusos, mas eles pararam de aparecer, desculpe por isso. Fale com Felix e veja se ele tem algo para você fazer.}
 {170}{}{Ok, obrigado.}
 {171}{}{Ehhh.... I have a bad heart condition... can't take...}
 {172}{}{Must ..... ttteeeelll Feeellliixx.}
