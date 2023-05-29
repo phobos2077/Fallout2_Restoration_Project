@@ -464,8 +464,8 @@
 #define EXP_KILL_DR_SHENG_REWARD                (1000)
 #define EXP_KILL_DR_SHENG_NO_REWARD             (3000)
 #define EXP_DELIVER_SEEDS_TO_DR_SHENG           (1000)
-#define EXP_KILL_DR_WONG		        (1000)
-#define EXP_DELIVER_SEED_SAMPLE_TO_DR_WONG	(200)
+#define EXP_KILL_DR_WONG                        (1000)
+#define EXP_DELIVER_SEED_SAMPLE_TO_DR_WONG       (200)
 
 //Tribe
 #define EXP_TRIBE_WEAPONS                       (300)

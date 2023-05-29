@@ -15,9 +15,9 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Attack_Player                        (0)
-#define MVAR_Stash_Enter			  (1)
-#define MVAR_Guard_Time			          (2)
-#define MVAR_Room_Empty				  (3)
+#define MVAR_Attack_Player                      (0)
+#define MVAR_Stash_Enter                        (1)
+#define MVAR_Guard_Time                         (2)
+#define MVAR_Room_Empty                         (3)
 
 #endif // HUBSTASH_H

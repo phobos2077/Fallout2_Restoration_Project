@@ -101,7 +101,7 @@
 #define GVAR_PLAYER_GOT_CAR                  (18)
 #define GVAR_DEN_VIC_STATUS                  (19)
 #define GVAR_DEN_MAGGIE_STILL                (20)
-#define GVAR_CAME_FROM_BROKEN2               (29) //unused but not used for Lump in Broken Hills - killap
+#define GVAR_CAME_FROM_BROKEN2               (29) //unused, now used for Lumpy in Broken Hills - killap
 #define GVAR_SLAVE_RUN                       (30)
 #define GVAR_SLAVES_COUNT                    (31)
 #define GVAR_HOSTILE_SLAVE_COUNT             (125)
@@ -182,7 +182,7 @@
 #define GVAR_BATH_HOUSE_REJECT               (603)
 #define GVAR_KLAMATH_SCORPIONS_KILLED        (621)
 #define GVAR_KLAMATH_SCORPIONS_TOTAL         (622)
-#define GVAR_SCARE_DUNTONS                   (701)	//added by killap
+#define GVAR_SCARE_DUNTONS                   (701)  //added by killap
 
 
 // Navarro
@@ -592,8 +592,8 @@
 #define GVAR_WADE_PAYOUT                     (517)
 #define GVAR_SAVINE_PAYOUT                   (518)
 #define GVAR_MORTON_GANG                     (580)
-#define GVAR_WIDOW_ROONEY                    (702)	//killap's code
-#define GVAR_MINE_DEED                       (703)	//killap's code
+#define GVAR_WIDOW_ROONEY                    (702) //killap's code
+#define GVAR_MINE_DEED                       (703) //killap's code
 
 // Raiders
 #define GVAR_RAIDERS_FLAGS                   (373)
@@ -852,11 +852,11 @@
 
 
 // Abbey - killap
-#define GVAR_ABBEY_BEAST			  (708)
-#define GVAR_ABBEY_PART			          (709)
-#define GVAR_ABBEY_PUMP				  (710)
-#define GVAR_ABBEY_GRAVES			  (711)
-#define GVAR_ABBEY_TULLY			  (712)
+#define GVAR_ABBEY_BEAST                          (708)
+#define GVAR_ABBEY_PART                           (709)
+#define GVAR_ABBEY_PUMP                           (710)
+#define GVAR_ABBEY_GRAVES                         (711)
+#define GVAR_ABBEY_TULLY                          (712)
 
 //Primitive Tribe
 #define GVAR_TRIBE_WEAPONS                        (713)
@@ -873,7 +873,7 @@
 #define GVAR_WIPED_OUT_RANGER_SAFE_HOUSES         (722)
 
 //Vault Experiment Info
-#define GVAR_VAULT_EXPERIMENTS			  (723)
+#define GVAR_VAULT_EXPERIMENTS                    (723)
 
 //Chad skimming quest
 #define GVAR_CHAD_EVIDENCE_TIP                    (724)
@@ -1551,52 +1551,52 @@
 #define TURRET_MAINTENANCE                  (2)
 
 // Primitive Tribe
-#define MERCHANT_START             	    	(1)
+#define MERCHANT_START                      (1)
 #define MERCHANT_BOUGHT_TRICKED             (2)
 #define MERCHANT_NO_DEAL                    (3)
 #define MERCHANT_BOUGHT_DISCOUNT            (4)
 #define MERCHANT_REALIZE_FAKE               (5)
-#define MERCHANT_DONE              	    	(6)
-#define MERCHANT_DONE_BAD              	    (7)
+#define MERCHANT_DONE                       (6)
+#define MERCHANT_DONE_BAD                   (7)
 
 // San Fran
 
 // Find sheng
-#define PLANT_QUEST_DRSHENG_KNOW     		(1)
-#define PLANT_QUEST_FIND_DRSHENG			(2)
-#define PLANT_QUEST_FOUND_DRSHENG			(3)
-#define PLANT_QUEST_DR_WONG_INFORMED	    (4)
+#define PLANT_QUEST_DRSHENG_KNOW            (1)
+#define PLANT_QUEST_FIND_DRSHENG            (2)
+#define PLANT_QUEST_FOUND_DRSHENG           (3)
+#define PLANT_QUEST_DR_WONG_INFORMED        (4)
 
 // Sheng get seeds
-#define PLANT_QUEST_GET_SEEDS_FOR_DRSHENG		(1)
-#define PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG	(2)
+#define PLANT_QUEST_GET_SEEDS_FOR_DRSHENG       (1)
+#define PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG  (2)
 
 // Sheng delivered seeds
-#define PLANT_QUEST_RETURN_TO_DRWONG	    	    	    (1)
-#define PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH	    (2)
-#define PLANT_QUEST_DELIVERED_SEED_SAMPLE   	    	    (3)
-#define PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED   	    (4)
+#define PLANT_QUEST_RETURN_TO_DRWONG                    (1)
+#define PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH    (2)
+#define PLANT_QUEST_DELIVERED_SEED_SAMPLE               (3)
+#define PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED     (4)
 
 // Sheng kill wong
-#define PLANT_QUEST_KILL_DRWONG		        (1)
-#define PLANT_QUEST_KILLED_DRWONG		    (2)
+#define PLANT_QUEST_KILL_DRWONG             (1)
+#define PLANT_QUEST_KILLED_DRWONG           (2)
 
 // Wong kill sheng
-#define PLANT_QUEST_KIL_DRSHENG	            (1)
-#define PLANT_QUEST_KILLED_DRSHENG	        (2)
+#define PLANT_QUEST_KIL_DRSHENG             (1)
+#define PLANT_QUEST_KILLED_DRSHENG          (2)
 
 
 // Character Modifications
-#define GENDER								(1)
-#define RACE								(2)
-#define HAIR								(3)
+#define GENDER                              (1)
+#define RACE                                (2)
+#define HAIR                                (3)
 
 // SHI SUB - GVAR_SHI_SUB
-#define SHI_SUB_KNOWN					(1)
-#define SHI_SUB_ALONE					(2)
-#define SHI_SUB_HAS_PASSWORD			(3)
-#define SHI_SUB_WITH_CREW				(4)
-#define SHI_SUB_DISABLED				(5)
+#define SHI_SUB_KNOWN                   (1)
+#define SHI_SUB_ALONE                   (2)
+#define SHI_SUB_HAS_PASSWORD            (3)
+#define SHI_SUB_WITH_CREW               (4)
+#define SHI_SUB_DISABLED                (5)
 
 
 // ABBEY - GVAR_ABBEY_PUMP
@@ -1686,7 +1686,6 @@
 #define get_stranger_flag(x)    (global_var(GVAR_MYSTERIOUS_STRANGER) bwand x)
 #define set_stranger_flag(x)    set_global_var(GVAR_MYSTERIOUS_STRANGER, global_var(GVAR_MYSTERIOUS_STRANGER) bwor x)
 
-
 /******************************************************************/
 
 
@@ -1740,6 +1739,5 @@
 #define kaga_dead  (global_var(GVAR_RND_KAGA_STATE) bwand KAGA_DEAD)
 #define kaga_met   (global_var(GVAR_RND_KAGA_STATE) bwand KAGA_MET)
 #define kaga_bg    (global_var(GVAR_RND_KAGA_STATE) bwand KAGA_BG)
-
 
 #endif // _GLOBAL_H_DEFINED2 O0)  (1O9 )_ _ LI ( DW1O  (
