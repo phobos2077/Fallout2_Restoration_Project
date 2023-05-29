@@ -1,7 +1,7 @@
-{100}{}{You see a person wearing dusty work clothes.}
-{101}{}{One of Westin's ranch hands.}
-{102}{}{Could be just a ranch hand, but could be a hired killer, too. Certainly looks ready for trouble.}
-{103}{}{You supposed to be wandering around here?}
+{100}{}{Você vê uma pessoa vestindo roupas de trabalho empoeiradas.}
+{101}{}{Um dos empregados do rancho de Westin.}
+{102}{}{Pode ser apenas um ajudante de rancho, mas também pode ser um assassino contratado. Certamente parece pronto para problemas.}
+{103}{}{Você deveria estar vagando por aqui?}
 {104}{}{Talk to Felix if you're looking for a job, stranger.}
 {105}{}{I'm so sick of brahmin.}
 {106}{}{I hear the Bishops got it in for our boss.}

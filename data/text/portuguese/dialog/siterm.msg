@@ -3,6 +3,6 @@
 {200}{}{This terminal appears to control the doors on this cell block.}
 {201}{}{Invalid code sequence.}
 {202}{}{The doors are now open.}
-{203}{}{The doors are now closed.}
-{204}{}{Interesting idea, but it didn't work.}
-{205}{}{Hmmm, these computer thingies are complicated.}
+{203}{}{As portas já estão fechadas.}
+{204}{}{Ideia interessante, mas não funcionou.}
+{205}{}{Hmmm, essas coisas de computador são complicadas.}

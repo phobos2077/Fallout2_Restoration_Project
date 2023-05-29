@@ -28,20 +28,20 @@
 {222}{}{Louvamos aos espíritos! Agora devo ir e voltar ao meu povo, há muito tempo que sinto falta. Por favor, passe na minha aldeia. Fica perto da Grande Água Salgada, alguns dias a sudoeste daqui. Obrigado, amigo.}
 {223}{}{[Sulik corre para próximo do portão e aperta as mãos estendidas de sua irmã. Você se afasta para dar um pouco de privacidade ao reencontro emocional deles. Momentos depois, a irmã dele se vira para você.] Espíritos dos Ossos dizem que você está liderando Sulik. O nome é Kurisu, mas agora não é hora para cumprimentos apropriados. Os escravistas estão mortos, sim?}
 {224}{}{Sim, os escravistas estão mortos.}
-{225}{}{Praise the spirits! Please, unlock this door. We eager to go from this evil place.}
-{226}{}{Don't worry. I got a key.}
-{227}{}{Alright, let me try and lockpick this door.}
-{400}{}{Let's keep moving.}
+{225}{}{Louvado sejam os espíritos! Por favor, destranque esta porta. Estamos ansiosos para sair deste lugar maligno.}
+{226}{}{Não se preocupe. Eu tenho uma chave.}
+{227}{}{Tudo bem, deixe eu tentar trancar esta porta.}
+{400}{}{Vamos continuar.}
 {401}{}{Por favor, eu quero estar em casa.}
-{410}{}{[You turn to Kurisu.] Wait, I don't want to leave here until I free the slaves in the other holding pens. You wait
- here until I free everyone from this camp. [To the other slaves.] Keep quiet and head for the woods. I'll handle the guards.}
+{410}{}{[Você se vira para Kurisu.] Espere, eu não quero sair daqui até que eu liberte os escravos nos outros cercados.
+ Espere aqui até eu libertar todos deste acampamento. [Para os outros escravos.] Fiquem quietos e vão para a floresta. Eu cuido dos guardas.}
 {500}{}{Se você está me escolhendo para um leigo, é melhor esperar por uma luta - espere, a menos que o demônio esteja marcado em sua cabeça. Quem é você?}
 {501}{}{Eu sou o "Escolhido" e quem é você?}
 {502}{}{Meu nome é }
 {503}{}{. Quem é você?}
 {510}{}{Meu nome é Kurisu. Venho de uma tribo do sudoeste, fica perto da Grande Água Salgada. Os escravistas me pegaram, tenho outros, mas já foi enviado. Eles dizer que não acabou comigo, isso me deixa perto de prazer perverso. Por favor, você precisa tirar nós da gaiola para ficar longe de homens perversos.}
 {511}{}{Não se preocupe, estou aqui para os ajudar. Tenho uma chave e permissão para te tirar daqui.}
-{512}{}{Alright, let me try and lockpick this door.}
+{512}{}{Tudo bem, deixe eu tentar trancar esta porta.}
 {530}{}{Esta seguro? Você enviou os escravistas aos espíritos?}
 {531}{}{Sim, é seguro. Podemos ir para a sua aldeia agora.}
 {532}{}{Sim, mas deixe eu libertar todos os escravos aqui antes de irmos.}
@@ -68,12 +68,12 @@
 {800}{}{Espíritos malignos andam com você! Esteja longe!}
 {810}{}{Volte para o prédio, Kurisu! Eu cuido disso.}
 {820}{}{Por favor, não deixe que eles nos machuquem.}
-{900}{}{Me? No, me Chosen One. You talk Sulik?}
-{910}{}{Yes, bad men dead.}
-{920}{}{I got key.}
-{921}{}{I try lockpick.}
-{922}{}{[You nod at Sulik] We fight bad men now.}
-{923}{}{I still work.}
+{900}{}{Meu? Não, eu Escolhido. Você fala Sulik?}
+{910}{}{Sim, homens maus mortos.}
+{920}{}{Eu tenho a chave.}
+{921}{}{Eu tento fechadura.}
+{922}{}{[Você acena para Sulik] Vamos lutar contra homens maus agora.}
+{923}{}{Eu ainda trabalho.}
 {930}{}{[You turn to Kurisu.] I protect yoo. [To the other slaves.] Go home.}
 {940}{}{Lockpick no work. I look for key. Yoo wait.}
 {941}{}{Lockpick no work. [You turn to Sulik] We fight bad men now.}

@@ -103,9 +103,9 @@
 {360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
  civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
  feeling about you, and I've learned to trust my instincts.}
-{361}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
- civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
- feeling about you girl, and I've learned to trust my instincts.}
+{361}{}{Porque você é meu parente - um companheiro tribal, como eles nos chamam - mas posso dizer que você teve
+ uma experiência recente com o mundo civilizado. Se ele tentar pegar algo, é mais provável que você perceba
+ do que eu. Além disso, tenho um bom pressentimento sobre você, garota, e aprendi a confiar em meus instintos.}
 {362}{}{Tudo bem. Vamos fazer isso.}
 {363}{}{Tudo bem, mas me dê um momento para me preparar.}
 {364}{}{Se eu a ajudar, o que há para mim?}
@@ -185,14 +185,14 @@
  dentro de mim. Em breve, acredito que seguirei em frente e verei o que os Deuses têm reservado para mim a seguir.}
 {501}{}{Obrigado pela história. Posso te perguntar outra coisa?}
 {502}{}{Obrigado pela história. Tchau.}
-{510}{}{Let's see... Most members of this village actually hail from three smaller tribes that decided to unite many
- years ago in order to keep from dying off. It creates an interesting mix of customs and dialects. More importantly, it
- creates a good mix of women. Beyond that, there's not much to say. It's a simple village where we struggle to forge a
- simple existence.}
-{511}{}{Alright, thanks. Could I ask you something else?}
-{512}{}{Alright, thanks. Bye.}
-{520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
-{521}{}{Alright, thanks. Bye.}
+{510}{}{Vejamos... A maioria dos membros desta aldeia vem de três tribos menores que decidiram se unir há muitos
+ anos para evitar a extinção. Criaram uma mistura interessante de costumes e dialetos. E o mais importante, criaram
+ uma boa mistura de mulheres. Além disso, não há muito a dizer. É uma vila simples onde lutamos para forjar uma
+ existência simples.}
+{511}{}{Tudo bem, obrigado. Posso te perguntar outra coisa?}
+{512}{}{Tudo bem, obrigado. Tchau.}
+{520}{}{Na verdade, Marli parece estar tendo problemas com o bem. Se quiser ajudar, talvez possa ir ver qual é o problema com isso.}
+{521}{}{Tudo bem, obrigado. Tchau.}
 {522}{}{Tudo bem, talvez eu faça isso. Mas primeiro, posso te perguntar outra coisa?}
 {530}{}{Bom ver você, amigo. Se você tiver um momento, eu poderia precisar de sua ajuda de novo.}
 {531}{}{Bom ver você de novo, moça. Se você tiver um momento, eu poderia precisar de sua ajuda.}
@@ -207,12 +207,12 @@
 {552}{}{Espere, você quer que eu passe por uma caverna que está prestes a desabar? Hmm... Merda, acabei de me lembrar! Eu tenho que ir salvar minha tribo! Desculpe, tenho que ir.}
 {560}{}{Você traz notícias dos caçadores perdidos?}
 {561}{}{Ainda não, vou continuar procurando.}
-{562}{}{Yeah, I found them in the cave. They're both dead.}
-{570}{}{[Krom nods, his face grim.] How?}
-{571}{}{There was a cave-in. One had been crushed by the falling rocks; the other was pinned down by the rubble, then eaten alive by a gecko. It was pretty brutal.}
-{580}{}{Killed by a damn cave-in. Curse the Gods! I hate to lose good men in such a way. They should have died on the field of battle, like the true warriors they were. [He shakes his head.] Their loss is a great blow to this tribe. Anyway, thank you for looking. Your services are no longer needed.}
-{581}{}{Sure, anytime. Bye.}
-{582}{}{I'm sure they were great men. Bye.}
+{562}{}{Sim, eu os encontrei na caverna. Ambos estão mortos.}
+{570}{}{[Krom assente com a cabeça, seu rosto sombrio.] Como?}
+{571}{}{Houve um desmoronamento. Um fora esmagado pelas pedras que caíam; o outro foi imobilizado pelos escombros e comido vivo por um gecko. Foi muito brutal.}
+{580}{}{Morto por um maldito desmoronamento. Maldição dos deuses! Odeio perder bons homens dessa forma. Eles deveriam ter morrido no campo de batalha, como verdadeiros guerreiros que eram. [Ele balança a cabeça.] A perda deles é um grande golpe para esta tribo. De qualquer forma, obrigado por olhar. Seus serviços não são mais necessários.}
+{581}{}{Claro, a qualquer momento. Tchau.}
+{582}{}{Tenho certeza que foram grandes homens. Tchau.}
 {590}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died
  on the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, friend. You will
  always be welcome here.}

@@ -69,9 +69,9 @@
 {168}{}{dólares, de acordo. Você faz o trabalho, eu te pago. Você diz não, você não sai daqui vivo. Certo?}
 {169}{}{Oh, sim. Bem, eu estava tendo algum problema com intrusos, mas eles pararam de aparecer, desculpe por isso. Fale com Felix e veja se ele tem algo para você fazer.}
 {170}{}{Ok, obrigado.}
-{171}{}{Ehhh.... I have a bad heart condition... can't take...}
-{172}{}{Must ..... ttteeeelll Feeellliixx.}
-{173}{}{Wow, I guess he did have a heart problem.}
-{174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! IT BURNS!!!}
-{175}{}{You delivered the holodisk to Westin.}
-{176}{}{His heart go boom boom.}
+{171}{}{Ehhh.... eu tenho um problema com coração ruim... não aguento...}
+{172}{}{Deve... Faaalaaar com Feeeeeliiixx.}
+{173}{}{Nossa, acho que ele tinha um problema cardíaco.}
+{174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! ISSO QUEIMA!!!}
+{175}{}{Você entregou o holodisco para Westin.}
+{176}{}{Seu coração faz boom boom.}

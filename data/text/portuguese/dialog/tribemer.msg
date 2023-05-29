@@ -29,20 +29,20 @@
 {241}{}{Uh, yeah. Actually, they're pretty common.}
 {242}{}{Of course. In fact, I hoard the things. Hell, I'm practically a stimpak junkie.}
 {243}{}{[Shake your head and stare at the item in wonder.] What's... stim-pak?}
-{250}{}{[He chuckles nervously.] I wouldn't say they're *common*, but they're certainly coveted by us civilized folks.
- [He looks at Krom.] And for good reason. You see, these little guys contain magical healing powers that will *astound*
- and *amaze* you. Of course, words mean nothing without proof, so allow me to show you the wonders of the stimpak in action.}
-{251}{}{[His eye momentarily hardens, but he quickly regains his composure and looks at Krom.] You see, these little guys
- contain magical healing powers that will *astound* and *amaze* you. Of course, words mean nothing without proof, so allow
- me to show you the wonders of the stimpak in action.}
-{252}{}{An excellent question my friend! A stimpak is one of the many great marvels left to us by the Old World. You see,
- these little guys contain magical healing powers that will *astound* and *amaze* you. Of course, words mean nothing without
- proof, so allow me to show you the wonders of the stimpak in action.}
-{253}{}{This should be interesting. Let's see it.}
-{254}{}{I already know how they work, I've used them myself plenty of times.}
-{260}{}{[He grins at you and Krom, then turns to one of his bodyguards.] Warren, come give me your hand. [The guard frowns,
- but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm. Warren
- winces with pain but does not cry out. Roy grins at you.] As you can see, Warren's got quite a nasty gash here.}
+{250}{}{[Ele ri nervosamente.] Eu não diria que eles são *comuns*, mas certamente são cobiçados por nós, pessoas
+ civilizadas. [Ele olha para Krom.] E por um bom motivo. Veja, esses carinhas contêm poderes mágicos de cura que irão
+ *surpreender* e *maravilhar* você. Claro, as palavras não significam nada sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
+{251}{}{[Seu olho endurece momentaneamente, mas ele rapidamente recupera a compostura e olha para Krom.] Veja, esses
+ carinhas contêm poderes mágicos de cura que irão *surpreender* e *maravilhar* você. Claro, as palavras não significam nada
+ sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
+{252}{}{Uma excelente pergunta meu amigo! Um stimpak é uma das muitas grandes maravilhas deixadas para nós pelo
+ Velho Mundo. Olha, esses carinhas contêm poderes mágicos de cura que irão *surpreender* e *maravilhar* você. Claro, as
+ palavras não significam nada sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
+{253}{}{Isso deve ser interessante. Vamos ver.}
+{254}{}{Eu já sei como eles funcionam, eu mesmo usei muitas vezes.}
+{260}{}{[Ele sorri para você e Krom, então se vira para um de seus guarda-costas.] Warren, venha me dar uma mão. [O guarda
+ franze a testa, mas obedece. Roy rapidamente pega uma faca e a corta no braço de Warren. Warren estremece
+ de dor, mas não grita. Roy sorri para você.] Como você pode ver, Warren tem um corte bem feio aqui.}
 {261}{}{[MAIS]}
 {262}{}{I assure you friends, the cut, and Warren's pain, are quite genuine. You can see this is no trick blade. [He hands
  the knife to Krom, who hardly glances at it before nodding and handing it back.] But now, look. [He injects the stimpak

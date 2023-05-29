@@ -1,12 +1,12 @@
-{100}{}{You see a scowling slaver covered in grime.}
-{101}{}{You see a tough looking slaver. He appears to be in charge here.}
-{102}{}{You see Don, the slaver in charge of this camp.}
-{105}{}{Hey, what the fuck!? Who the hell are you?}
-{106}{}{I'm your worst nightmare. Prepare to die!}
+{100}{}{Você vê um escravista carrancudo coberto de sujeira.}
+{101}{}{Você vê um escravista de aparência dura. Ele parece estar no comando aqui.}
+{102}{}{Você vê Don, o escravista responsável por este acampamento.}
+{105}{}{Ei, que porra é essa!? Quem é você?}
+{106}{}{Eu sou o seu pior pesadelo. Prepare-se para a morte!}
 {107}{}{Metzger me enviou.}
-{108}{}{I'm here to join.}
-{109}{}{Uhh, this isn't where I left my car...}
-{200}{}{You first, asshole.}
+{108}{}{Estou aqui para me unir.}
+{109}{}{Uhh, não foi aqui que deixei meu carro...}
+{200}{}{Você primeiro, babaca.}
 {201}{}{I don't have time for this, get 'em boys.}
 {202}{}{Join us? This aint a fuckin recruiting center. If you want to join the slavers go to the Den and speak with Metzger.
  Now do you need something or are you just here to piss me off?}
