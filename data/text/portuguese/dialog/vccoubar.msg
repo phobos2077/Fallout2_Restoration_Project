@@ -97,12 +97,12 @@
 {196}{}{Oh não. "Jargão" refere-se a linguagem, terminologia, geralmente relacionada a uma determinada profissão.}
 {197}{}{Uh, claro que sim, claro que sim. Estava só te testando. Olha, eu estava procurando algumas informações...}
 {198}{}{Se você diz. Avise esse jargão que falarei com ele, certo? Adeus.}
-{199}{}{If you mean what passes for alcohol in the wastes, then no.}
-{200}{}{We have never felt the need to poison our systems with those bacterial-ridden mixtures. The bar in the Courtyard might be less... discriminating.}
-{201}{}{I'll just have some water, then.}
-{202}{}{Wait a minute. What 'synthesized drinks' do you have?}
+{199}{}{Se você quer dizer o que passa por álcool no deserto, então não.}
+{200}{}{Nunca sentimos a necessidade de envenenar nossos sistemas com essas misturas cheias de bactérias. O bar no Pátio podia ser menos... discriminador.}
+{201}{}{Vou só tomar um pouco de água, então.}
+{202}{}{Espere um minuto. Que 'bebidas sintetizadas' você tem?}
 {203}{}{I was looking for some information.}
-{204}{}{I'll go check it out then, thanks.}
+{204}{}{Vou verificar então, obrigado.}
 {205}{}{Talvez eu vá para outro lugar, então.}
 {206}{}{Então talvez você devesse estar em nosso centro de informações em vez deste estabelecimento, ele está localizado no centro da cidade. Agora vá em frente... Tenho outros clientes.}
 {207}{}{Espere, eu queria uma bebida. O que você tem na torneira?}

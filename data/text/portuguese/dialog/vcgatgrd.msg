@@ -29,26 +29,26 @@
 {128}{}{You should catalog your exploits against the Enclave and put it on the List Server.}
 {129}{}{No ghouls are allowed in Vault City. Get that... thing out of here. Now.}
 {130}{}{No mutants are allow in Vault City. Get that... thing out of here. Now.}
-{131}{}{Stop right there, friend. No one is allowed past this point without proper authorization.}
-{132}{}{Propa uh-zat-shun?}
+{131}{}{Um momento, amigo. Ninguém é permitido além deste ponto sem a devida autorização.}
+{132}{}{Au-utorizzaçãun??}
 {133}{}{Desliga}
-{134}{}{Proper authorization?}
-{135}{}{Never mind, then.}
-{136}{}{Looks like we got another victim of the Outworlder inbreeding here... look, dim, get out of here before you get hurt, all right?}
+{134}{}{Devida autorização?}
+{135}{}{Deixa pra lá então.}
+{136}{}{Parece que temos outra vítima dos incestos dos forasteiros aqui... olha, idiota, saia daqui antes que você se machuque, certo?}
 {137}{}{MIM NÃO IR!}
 {138}{}{Desliga}
-{139}{}{Yes, "proper authorization."}
-{140}{}{If you want to get into Vault City, you need to speak to Wallace, Head of Customs. He can issue you a Day Pass.}
-{141}{}{Where can I find Wallace?}
-{142}{}{A Day Pass? What's that?}
+{139}{}{Sim, "devida autorização".}
+{140}{}{Se você quiser entrar em Vault City, precisa falar com Wallace, chefe da alfândega. Ele pode emitir um Passe Diário.}
+{141}{}{Onde posso encontrar Wallace?}
+{142}{}{Um passe diário? O que é isso?}
 {143}{}{Ok, obrigado.}
-{144}{}{Wallace is in the Customs building right over there. }
-{145}{}{Now move along. I don't have time to talk to Outworlders.}
+{144}{}{Wallace está no prédio da alfândega logo ali. }
+{145}{}{Agora siga em frente. Não tenho tempo para falar com forasteiros.}
 {146}{}{O que é um Day Pass?}
 {147}{}{Thanks for your time. Goodbye.}
 {148}{}{A Day Pass'll get you into our city... if you've got business here. }
-{149}{}{Now move along. I don't have time to talk to Outworlders.}
-{150}{}{Where can I find Wallace?}
+{149}{}{Agora siga em frente. Não tenho tempo para falar com forasteiros.}
+{150}{}{Onde posso encontrar Wallace?}
 {151}{}{Thanks for your time. Goodbye.}
 {152}{}{You need a Day Pass to get into the city.}
 {153}{}{Get a Day Pass and I'll let you in.}
@@ -73,7 +73,7 @@
 {172}{}{Devemos ter nos desencontrado. Prazer em conhecê-lo.}
 {173}{}{Oh, é assim? Olha, eu não sei quem você é, mas você não é Cidadão. Me dê esses papéis e saia daqui. Se você quiser entrar, terá que obter um Passe Diário de Wallace, como todo mundo.}
 {174}{}{Você quer esses papéis? Vem pegar!}
-{175}{}{Where can I find Wallace?}
+{175}{}{Onde posso encontrar Wallace?}
 {176}{}{Certo. Tchau.}
 {177}{}{Ok, tudo bem, você está liberado para entrar. Vault City prevalece, Cidadão.}
 {178}{}{Uh, sim... Vault City prevalece, Cidadão.}

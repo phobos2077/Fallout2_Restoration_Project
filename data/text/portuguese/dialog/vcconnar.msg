@@ -17,8 +17,8 @@
 {116}{}{Precisava do dinheiro.}
 {117}{}{Eles virão atrás de nós se você fizer isso, entenda.}
 {118}{}{Não é problema meu.}
-{119}{}{Well I hope you choke on it. They'll be here for us soon.}
-{120}{}{I didn't know this was why they wanted the job done.}
+{119}{}{Bem, espero que você engasgue com isso. Eles virão atrás de nós em breve.}
+{120}{}{Eu não sabia por que eles queriam que eu fizesse o trabalho.}
 {121}{}{Yeah, well, I don't deal with trash like you anyway.}
 {122}{}{Well, we can't let you do that.}
 {123}{}{You gotta do what you gotta do.}

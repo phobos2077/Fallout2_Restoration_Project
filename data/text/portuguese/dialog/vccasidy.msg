@@ -143,8 +143,8 @@
 {319}{}{I was hoping we'd steer clear of this place for good.}
 {320}{}{City of tight-asses...}
 {321}{}{This place looks worse than Vault City.}
-{322}{}{Good thing I checked my weapons before I came in here.}
-{323}{}{If I kick the bucket, don't bury me here.}
+{322}{}{Ainda bem que verifiquei minhas armas antes de vir aqui.}
+{323}{}{Se eu for de base, não me enterre aqui.}
 {324}{}{Cuidado por aqui. Os locais não são muito amigáveis.}
 {325}{}{Hehe. Nunca pensei que veria São Francisco.}
 {326}{}{Nunca pensei que você manteria um veterano como eu por tanto tempo. Vamos fazer este trabalho e ir para casa.}
@@ -169,9 +169,9 @@
 {345}{}{Maldição, eu vou ficar aqui, então.}
 {346}{}{Perdão, amigo. Não quis bloquear seu caminho.}
 {347}{}{Ahhhh. Isso atingiu o alvo. Muito obrigado.}
-{348}{}{*Hic* Heh-heh. Nothing like some good ol' firewater to get the blood pumping.}
-{349}{}{Thanks. Hell, you should take a swig, too.}
-{350}{}{That's the Vault. Big friggin' thing, innit?}
+{348}{}{*Hic* Heh-heh. Nada como uma boa e velha aguardente para fazer o sangue bombear.}
+{349}{}{Obrigado. Caramba, você deveria tomar um gole também.}
+{350}{}{Esse é a Vault. Coisa grande, né não?}
 {351}{}{Você quer que eu me junte a você de novo?}
 {352}{}{Estou pronto para ir quando você estiver.}
 {353}{}{Tem certeza que não precisa da minha ajuda?}
@@ -200,11 +200,11 @@
 {1300}{Cas1300}{Tudo bem, vou manter alguma distância. Vou ter uma visão melhor assim.}
 {1400}{Cas1400}{Tudo bem, vou ficar em volta. Se precisar de mim, grite, e eu venho correndo.}
 {2000}{Cas2000}{Sem ofensa nem nada, mas você não parece muito capaz de liderar ninguém. Parece que o deserto vai ter você para o jantar.}
-{2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
+{2100}{Cas2100}{Não, eu não viajo com escravistas. Eles têm o péssimo um hábito de vender alguém quando estão com pouco dinheiro. Sem ofensa.}
+{2200}{Cas2200}{Não, você tem cara de quem tem um pé na cova e o outro no inferno. Eu não acho que preciso manchar mais a minha reputação.}
+{2300}{Cas2300}{Não... parece que você já tem gente suficiente.}
 {2400}{Cas2400}{Tudo bem, então.}
-{2999}{}{All right. Take care, then.}
+{2999}{}{Tudo bem. Se cuida, então.}
 {3000}{}{Vamos sair.}
 {3100}{}{Esqueça que eu disse, idiota.}
 {3200}{}{Deixa pra lá então. Pior pra você.}

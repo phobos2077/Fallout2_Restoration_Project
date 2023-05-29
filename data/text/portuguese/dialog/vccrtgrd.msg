@@ -1,6 +1,6 @@
-{100}{}{You see a stern-looking guard.}
-{101}{}{You see a mean-looking Vault City guard.}
-{102}{}{Get on about your business.}
+{100}{}{Você vê um guarda de aparência severa.}
+{101}{}{Você vê um guarda malvado de Vault City.}
+{102}{}{Cuide dos seus assuntos.}
 {103}{}{I think it's about time for you to leave.}
 {104}{}{I don't like the looks of you.}
 {105}{}{Tenha cuidado.}

@@ -44,22 +44,22 @@
  franze a testa, mas obedece. Roy rapidamente pega uma faca e a corta no braço de Warren. Warren estremece
  de dor, mas não grita. Roy sorri para você.] Como você pode ver, Warren tem um corte bem feio aqui.}
 {261}{}{[MAIS]}
-{262}{}{I assure you friends, the cut, and Warren's pain, are quite genuine. You can see this is no trick blade. [He hands
- the knife to Krom, who hardly glances at it before nodding and handing it back.] But now, look. [He injects the stimpak
- into Warren's arm. Almost instantly, the bleeding stops. Roy uses a dirty rag to mop away most of the blood, revealing a
- gash that's nearly healed.]}
+{262}{}{Garanto a vocês, amigos, que o corte e a dor de Warren são genuínos. Você pode ver que esta não é uma lâmina
+ de truque. [Ele entrega a faca para Krom, que mal olha para ela antes de acenar com a cabeça e devolvê-la.] Mas agora,
+ olhe. [Ele injeta o stimpak no braço de Warren. Quase instantaneamente, o sangramento para. Roy usa um pano sujo para
+ enxugar a maior parte do sangue, revelando um corte que está quase cicatrizado.]}
 {263}{}{[MAIS]}
-{264}{}{Now just imagine the advantage having stimpaks would give you over your rival tribes. And unlike that healing
- powder you fellas like to brew up, the stimpak does *not* cause drowsiness. In fact, this little wonder is completely
- *without* side effects. But I know what you're thinking, they must cost a fortune, right? Wrong. Because I *like* you,
- I'm practically giving 'em away for nothing.}
-{270}{}{[Ignoring your comment, he grins at Krom, then turns to one of his bodyguards.] Warren, come give me your hand.
- [The guard frowns, but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm.
- Warren winces with pain but does not cry out.] As you can see, Warren's got quite a nasty gash here.}
+{264}{}{Agora imagine a vantagem que os stimpaks te dariam sobre suas tribos rivais. E ao contrário daquele pó de cura
+ que vocês gostam de preparar, o stimpak *não* causa sonolência. Na verdade, esta pequena maravilha é completamente
+ *sem* efeitos colaterais. Mas eu sei o que você está pensando, eles devem custar uma fortuna, certo? Errado. Porque
+ eu *gosto* de você, estou praticamente os dando de graça.}
+{270}{}{[Ignorando seu comentário, ele sorri para Krom, então se vira para um de seus guarda-costas.] Warren, venha me
+ dar uma mão. [O guarda franze a testa, mas obedece. Roy rapidamente pega uma faca e a corta no braço de Warren.
+ Warren estremece de dor, mas não grita.] Como você pode ver, Warren tem um corte bem feio aqui.}
 {275}{}{Quanto?}
-{276}{}{Practically giving them away? How much are you asking?}
-{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks--and all I ask in return is a measly *twenty*
- golden gecko pelts. You just can't beat a deal like that.}
+{276}{}{Praticamente nos dando? Quanto você está pedindo?}
+{280}{}{Vou te dar um caixote inteiro cheio deles, com *cinquenta* stimpaks. E tudo que peço em troca são míseras
+ *vinte* peles de gecko douradas. Você não pode achar um acordo como esse.}
 {281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
 {282}{}{That's a good deal alright. Too good. What's the catch?}
 {283}{}{We'll offer you ten golden gecko skins. No more.}
