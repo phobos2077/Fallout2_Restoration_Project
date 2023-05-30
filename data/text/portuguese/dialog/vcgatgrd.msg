@@ -17,18 +17,18 @@
 {116}{}{Saia daqui.}
 {117}{}{Se perder.}
 {118}{}{Got a problem? Or are you looking for one?}
-{119}{}{I don't want to have to hurt you.}
-{120}{}{You're cleared to enter. Head on in.}
-{121}{}{Good day, traveler.}
+{119}{}{Eu não quero ter que te machucar.}
+{120}{}{Você está autorizado a entrar. Vá em frente.}
+{121}{}{Bom dia, viajante.}
 {122}{}{Bem vindo de volta.}
 {123}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
-{124}{}{I heard you've traveled as far south as San Francisco. Is that true?}
-{125}{}{Is it true that the U.S. was still fighting the war?}
-{126}{}{You should catalog your travels in the Vault City computer.}
-{127}{}{You're welcome to stay in Vault City as long as you want.}
-{128}{}{You should catalog your exploits against the Enclave and put it on the List Server.}
-{129}{}{No ghouls are allowed in Vault City. Get that... thing out of here. Now.}
-{130}{}{No mutants are allow in Vault City. Get that... thing out of here. Now.}
+{124}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{125}{}{É verdade que os EUA ainda estavam lutando na guerra?}
+{126}{}{Você deve catalogar suas viagens no computador de Vault City.}
+{127}{}{Você pode ficar em Vault City o tempo que quiser.}
+{128}{}{Você deve catalogar suas façanhas contra o Enclave e colocá-las no Servidos de listas.}
+{129}{}{Nenhum ghoul é permitido em Vault City. Tire essa... coisa daqui. Agora.}
+{130}{}{Nenhum mutante é permitido em Vault City. Tire essa... coisa daqui. Agora.}
 {131}{}{Um momento, amigo. Ninguém é permitido além deste ponto sem a devida autorização.}
 {132}{}{Au-utorizzaçãun??}
 {133}{}{Desliga}
@@ -45,14 +45,14 @@
 {144}{}{Wallace está no prédio da alfândega logo ali. }
 {145}{}{Agora siga em frente. Não tenho tempo para falar com forasteiros.}
 {146}{}{O que é um Day Pass?}
-{147}{}{Thanks for your time. Goodbye.}
-{148}{}{A Day Pass'll get you into our city... if you've got business here. }
+{147}{}{Obrigado pelo seu tempo. Adeus.}
+{148}{}{Um passe diário o permitirá entrar na nossa cidade... se você tiver negócios aqui. }
 {149}{}{Agora siga em frente. Não tenho tempo para falar com forasteiros.}
 {150}{}{Onde posso encontrar Wallace?}
-{151}{}{Thanks for your time. Goodbye.}
-{152}{}{You need a Day Pass to get into the city.}
-{153}{}{Get a Day Pass and I'll let you in.}
-{154}{}{Keep away from the Gate.}
+{151}{}{Obrigado pelo seu tempo. Adeus.}
+{152}{}{Você precisa de um passe diário para entrar na cidade.}
+{153}{}{Obtenha um passe diário e eu o deixarei entrar.}
+{154}{}{Mantenha-se afastado do Portão.}
 {155}{}{Pare de vagabundar.}
 {156}{}{Você tem um passe diário?}
 {157}{}{Não.}

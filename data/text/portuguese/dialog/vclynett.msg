@@ -442,15 +442,15 @@
 {481}{lyn071}{Do not toy with me, or I will make certain you never walk Vault City's streets again.}
 {482}{}{You watch yourself, "First Citizen." Goodbye.}
 {483}{}{Bom dia, Primeira Cidadã.}
-{484}{lyn072a}{You did it! Excellent! You have performed a valuable service for Vault City. Please
- accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...}
-{485}{lyn072b}{Excellent. No more than they deserved. To think a band of RAIDERS was causing so much trouble...}
-{486}{}{Well, they weren't really a roving band of raiders... turns out they were mercenaries.}
-{487}{lyn073}{So you disabled their plant?}
-{488}{}{No, I repaired it. Councilor McClure gave me the part I needed and that was enough to get the plant running properly.}
-{489}{}{It's all taken care of.}
-{490}{lyn074}{What?! He did?! I suppose he granted you Citizenship, also! Fixing Gecko's plant won't
- solve anything. Those... creatures! They cannot be trusted! What happens when their plant starts leaking again?!}
+{484}{lyn072a}{Você fez! Excelente! Você prestou um serviço valioso para Vault City. Por favor, aceite
+ isso como um sinal de nosso apreço. E pensar que um bando de SAQUEADORES causavam tantos problemas...}
+{485}{lyn072b}{Excelente, nada mais do que eles mereciam. E pensar que um bando de SAQUEADORES causavam tantos problemas...}
+{486}{}{Bem, eles na verdade não eram um bando de invasores itinerantes... Acontece que eles eram mercenários.}
+{487}{lyn073}{Então você desativou a central deles?}
+{488}{}{Não, eu consertei. O conselheiro McClure me deu a peça de que eu precisava e isso foi o suficiente para fazer a central funcionar corretamente.}
+{489}{}{Está tudo resolvido.}
+{490}{lyn074}{O que?! Ele fez?! Suponho que ele também lhe concedeu a cidadania! Consertar a planta
+ do Gecko não resolve nada. Essas... criaturas! Eles não são confiáveis! O que acontecerá quando a central começar a vazar de novo?!}
 {491}{}{Não sei... AJUDÁ-LOS a consertar, talvez?}
 {492}{}{Olha, o lençol freático não está mais sendo contaminado e ninguém se machucou. O problema está resolvido.}
 {493}{}{Volto mais tarde, quando você se acalmar.}
@@ -495,14 +495,14 @@
 {530}{}{Eu tenho mais algumas perguntas...}
 {531}{}{Ótimo, toda essa situação me preocupava. Adeus.}
 {532}{}{Obrigado, Primeira Cidadã. Eu só queria ver a justiça sendo feita.}
-{533}{lyn082a}{Inform me at once if you discover anything more.}
-{534}{lyn082b}{Vault City prevails, Citizen.}
+{533}{lyn082a}{Me informe imediatamente se descobrir mais alguma coisa.}
+{534}{lyn082b}{Vault City prevalece, Cidadão.}
 {535}{}{Eu tenho mais algumas perguntas...}
-{536}{}{Sure. Goodbye.}
-{537}{}{I will. Thank you, First Citizen.}
-{538}{lyn083}{The law is the law. Exceptions make us no better than the Outsiders. Again, are you
- absolutely certain of your accusations?}
-{539}{}{So bribing me to solve your Gecko situation with Citizenship papers... that's legal?}
+{536}{}{Claro. Adeus.}
+{537}{}{Eu vou. Obrigado, Primeira Cidadã.}
+{538}{lyn083}{A lei é a lei. As exceções não nos tornam melhores do que os Renegados. Mais uma vez,
+ você está absolutamente certo de suas acusações?}
+{539}{}{Então, me subornar para resolver a situação de Gecko com documentos de Cidadania... é legal?}
 {540}{}{Yes. He asked me to smuggle Jet into Vault City for him.}
 {541}{}{Oh. Uh... falei errado. Eu quis dizer que o Dr. Troy está envolvido em atividades PARALEGAIS, não ilegais.}
 {542}{}{Hmmmm. Vou ver se descubro mais alguma coisa.}
@@ -696,18 +696,18 @@
 {702}{}{$200}
 {703}{}{$400}
 {704}{}{$500}
-{705}{}{Never mind. I'll tell you the information I have for free.}
-{706}{lyn118}{Very well, here is your money. Now tell me what you know.}
+{705}{}{Deixa para lá. Vou te contar as informações de graça.}
+{706}{lyn118}{Muito bem, aqui está o seu dinheiro. Agora me diga o que você sabe.}
 {707}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
 {708}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
-{709}{}{Actually, I don't really know much of anything.}
-{710}{}{Thanks for the cash. I have to be going now.}
-{711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
- Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
-{712}{}{Uh... didn't you hear? Westin's dead. I mean, he had an accident. A deadly one. It's a long story.}
-{713}{}{Wait a minute. Go to NCR? Weren't they responsible for all this?}
-{714}{}{All right, I'll do it. }
-{715}{}{No thanks. I'm too busy as it is.}
+{709}{}{Na verdade, eu realmente não sei muito sobre quase nada.}
+{710}{}{Obrigado pelo dinheiro. Preciso ir agora.}
+{711}{lyn119}{Preciso que vá imediatamente à República da Nova Califórnia e encontre o Conselheiro
+ Westin, Roger Westin. Dê a ele o holodisco. Isso deve garantir que nenhum outro "invasor" seja contratado.}
+{712}{}{Uh... você não sabia? Westin está morto. Quero dizer, ele sofreu um acidente, um mortal. É uma longa história.}
+{713}{}{Espere um minuto. Ir para NCR? Não foram eles os responsáveis por tudo isso?}
+{714}{}{Tudo bem, eu farei isso. }
+{715}{}{Não, obrigado. Estou muito ocupado.}
 {716}{lyn120}{Roger Westin was probably the only honest man in the New Republic and a sympathetic
  to our cause... his death is a terrible loss.}
 {717}{}{Yeah, he was a tough old fella. Good guy. Lot of hit points. So... do I still get a reward for

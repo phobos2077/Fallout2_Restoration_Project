@@ -87,17 +87,17 @@
 {186}{}{"Tempos difíceis?" O que você quer dizer?}
 {187}{}{O que você faz?}
 {188}{}{Posso te fazer outra pergunta?}
-{189}{}{Thanks for your time. Goodbye.}
+{189}{}{Obrigado pelo seu tempo. Adeus.}
 {190}{}{Gecko? O que você quer saber?}
 {191}{}{Onde está Gecko?}
 {192}{}{O que é Gecko?}
 {193}{}{Posso te fazer outra pergunta?}
-{194}{}{Thanks for your time. Goodbye.}
+{194}{}{Obrigado pelo seu tempo. Adeus.}
 {195}{}{Não há muito a dizer, além do fato de que nossos embarques de minério tornaram-se poucos e mais distantes entre si.}
 {196}{}{Alguma ideia do porquê?}
 {197}{}{Onde está Redding?}
 {198}{}{Posso te fazer outra pergunta?}
-{199}{}{Thanks for your time. Goodbye.}
+{199}{}{Obrigado pelo seu tempo. Adeus.}
 {200}{}{Eu sou o membro sênior do conselho. Eu supervisiono as reuniões do conselho.}
 {201}{}{Então, o que a Primeira Cidadã faz?}
 {202}{}{Posso te fazer outra pergunta?}
@@ -117,7 +117,7 @@
 {216}{}{Tudo bem. Vou falar com o Proconsul agora.}
 {217}{}{Você o encontrará na ala leste. Seu escritório fica em frente ao da Primeira Cidadã.}
 {218}{}{Posso te fazer outra pergunta?}
-{219}{}{Thanks for your time. Goodbye.}
+{219}{}{Obrigado pelo seu tempo. Adeus.}
 {220}{}{As coisas têm sido difíceis nos últimos dois anos. A NCR está ficando mais agressiva em suas tentativas de fazer com que Vault City se junte à República.}
 {221}{}{Eles nos dizem que se nos juntarmos, eles seriam capazes de nos defender dos ataques invasores em nossa cidade. Ultimamente, esses ataques de invasores se tornaram mais brutais.}
 {222}{}{Além de tudo isso, temos ghouls em Gecko contaminando nossas águas subterrâneas.}
@@ -132,11 +132,11 @@
 {231}{}{É um lugar abandonado, uma favela construída em torno dos restos de uma antiga usina atômica.}
 {232}{}{Onde Gecko fica localizada?}
 {233}{}{Posso te fazer outra pergunta?}
-{234}{}{Thanks for your time. Goodbye.}
+{234}{}{Obrigado pelo seu tempo. Adeus.}
 {235}{}{Não, eu não entendo nada disso. Estamos dispostos a pagar muito caro pelo minério deles, mas sempre que tentamos falar com eles sobre isso, eles se tornam evasivos. Se eu soubesse o que está acontecendo...}
 {236}{}{Eu poderia ir verificar isso para você.}
 {237}{}{Onde está Redding?}
-{238}{}{Thanks for your time. Goodbye.}
+{238}{}{Obrigado pelo seu tempo. Adeus.}
 {239}{}{Você irá? Não está em meu poder te pagar, mas sua ajuda será muito apreciada.}
 {240}{}{Onde está Redding?}
 {241}{}{Sem problemas. Vou verificar e retorno quando descobrir o que há de errado.}

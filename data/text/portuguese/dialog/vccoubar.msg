@@ -50,13 +50,13 @@
 {149}{}{Quais tipos de álcool sintetizado você tem?}
 {150}{}{Never mind. I was looking for some information.}
 {151}{}{Isso é um pouco caro para mim. Voltarei quando tiver mais dinheiro.}
-{152}{}{I think I'll pass, thanks.}
-{153}{}{We have synthetic derivatives H and T, and we recently brewed an extremely popular mixture, "Alcohol-Z," which has a rich pseudo micro-brewery flavor. Each is modestly priced at twenty dollars a glass.}
-{154}{}{How do you manufacture these synthesized alcohols?}
+{152}{}{Acho que vou passar, obrigado.}
+{153}{}{Temos derivados sintéticos H e T, e recentemente fabricamos uma mistura extremamente popular, "Alcohol-Z", que tem um rico sabor de pseudo micro-cervejaria. Cada um custa modestos vinte dólares o copo.}
+{154}{}{Como você fabrica esses álcoois sintetizados?}
 {155}{}{Uh, do you have any real drinks?}
-{156}{}{I'll just have some water, I think.}
-{157}{}{Hmmm. I'll try some of that delicious alcohol-Z.}
-{158}{}{Nevermind. I was looking for some information.}
+{156}{}{Acho que só vou tomar um pouco de água.}
+{157}{}{Hmmm. Vou experimentar um pouco desse delicioso álcool-Z.}
+{158}{}{Deixa quieto. Eu estava procurando algumas informações.}
 {159}{}{That's a little steep. I'll come back when I have more money.}
 {160}{}{Nada por hoje, valeu.}
 {161}{}{Would you care for anything else?}
@@ -69,9 +69,9 @@
 {168}{}{Would you care for anything else?}
 {169}{}{I don't feel so good... I'm just going to pop out of dialogue for a second and check my max hit points.}
 {170}{}{No, no, I feel great! I'm just going to pop out of dialogue for a second and check my max hit points.}
-{171}{}{I'll just have some water, I think.}
+{171}{}{Acho que só vou tomar um pouco de água.}
 {172}{}{I'll have some more delicious alcohol-Z.}
-{173}{}{How do you manufacture these synthesized alcohols?}
+{173}{}{Como você fabrica esses álcoois sintetizados?}
 {174}{}{Actually, I was looking for some information.}
 {175}{}{Nada mais por hoje, valeu.}
 {176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}

@@ -76,7 +76,7 @@
 {175}{}{Oh, o Dr. Troy pode ser bastante rigoroso às vezes, mas no geral, ele é um bom homem. Vault City tem sorte em tê-lo.}
 {176}{}{Bem, ele me pediu para contrabandear certas drogas para a cidade.}
 {177}{}{Posso te fazer outra pergunta?}
-{178}{}{Thanks for your time. Goodbye.}
+{178}{}{Obrigado pelo seu tempo. Adeus.}
 {179}{}{}
 {180}{}{}
 {181}{}{Está certo disso? Isso não parece nada com o Dr. Troy. Ainda assim... ele tem trabalhado duro ultimamente... não, não, isso é impossível. Você deve estar enganado.}

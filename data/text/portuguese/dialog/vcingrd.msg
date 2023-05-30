@@ -55,10 +55,10 @@
 {153}{}{Ei, parabéns por derrotar a Enclave!}
 {154}{}{Bem-vindo a Vault City, herói!}
 {155}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
-{156}{}{I heard you've traveled as far south as San Francisco. Is that true?}
-{157}{}{Is it true that the U.S. was still fighting the war?}
-{158}{}{You should catalog your travels in the Vault City computer.}
-{159}{}{You're welcome to stay in Vault City as long as you want.}
+{156}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{157}{}{É verdade que os EUA ainda estavam lutando na guerra?}
+{158}{}{Você deve catalogar suas viagens no computador de Vault City.}
+{159}{}{Você pode ficar em Vault City o tempo que quiser.}
 {160}{}{Você deve catalogar suas façanhas contra a Enclave e adicioná-las as Lista no Servidor.}
 {161}{}{Eu não reconheço você. Onde estão seus documentos?}
 {162}{}{Aqui estão eles, "oficial". Acho que vai encontrar tudo em ordem.}

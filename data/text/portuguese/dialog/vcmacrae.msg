@@ -51,9 +51,9 @@
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
 {140}{}{I'm heading out that way again. Why don't you come along?}
 {141}{}{Bem, boa sorte para você.}
-{142}{}{Naw... you look like you got enough people following you around.}
+{142}{}{Não... parece que você tem gente suficiente te seguindo.}
 {143}{}{All right. Well, good luck.}
-{144}{}{You know, that doesn't sound like a half bad idea. Count me in.}
+{144}{}{Sabe, isso não parece uma má ideia. Conte comigo.}
 {145}{}{Yeah, what?}
 {146}{}{Eu preciso que você saia do meu caminho.}
 {147}{}{Como você está?}

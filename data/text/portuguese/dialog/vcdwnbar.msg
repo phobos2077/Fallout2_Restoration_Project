@@ -53,7 +53,7 @@
 {152}{}{Leite de brahmin.}
 {153}{}{Actually, I was looking for some information.}
 {154}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{155}{}{I think I'll pass, thanks.}
+{155}{}{Acho que vou passar, obrigado.}
 {156}{}{O leite de brahmin não está disponível... bem, não exatamente. Eu teria que sair e pegar um pouco bem rápido.}
 {157}{}{Isso é bom, não me importo de esperar. Estou com vontade de tomar um refrescante copo de leite, mmmmhhhh. Isso realmente seria ótimo.}
 {158}{}{Acho que vou tentar outra coisa.}
@@ -68,7 +68,7 @@
 {167}{}{Leite de brahmin.}
 {168}{}{Actually, I was looking for some information.}
 {169}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{170}{}{I think I'll pass, thanks.}
+{170}{}{Acho que vou passar, obrigado.}
 {171}{}{Uh? Como o que?}
 {172}{}{Quem está no comando de Vault City?}
 {173}{}{Onde está a Vault?}
