@@ -44,7 +44,7 @@
 {142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
 {143}{}{Eu tenho mais algumas perguntas...}
 {144}{}{Obrigado pela informação.}
-{145}{}{Shoot. What did you want to know?}
+{145}{}{Atirar. O que você quer saber?}
 {146}{}{Você conhece um comerciante chamado Vic? Ele disse que comprou este frasco de água da Vault de você.}
 {147}{}{Você conhece um comerciante chamado Vic?}
 {148}{}{Aqui, meu amigo Vic disse que comprou um cantil de você.}
@@ -53,16 +53,16 @@
 {151}{}{O que voce pode me falar sobre Vault City?}
 {152}{}{O que você faz por aqui?}
 {153}{}{Adeus.}
-{154}{}{Well... there's that Vault inside the main part of the city. You checked it out yet? Could be the one you're looking for.}
-{155}{}{Well... there's a Vault inside the main part of the city. That what you're looking for?}
-{156}{}{Perhaps. I had some other questions...}
-{157}{}{Could be. Thanks for the information.}
-{158}{}{Okay place... if you can deal with the Citizens. I don't agree with some of their views, but hey, I make a pretty good living here.}
+{154}{}{Bem... tem aquela Vault dentro da parte principal da cidade. Já conferiu? Pode ser o que você está procurando.}
+{155}{}{Bem... há uma Vault dentro da parte principal da cidade. É isso o que você está procurando?}
+{156}{}{Talvez. Eu tenho algumas outras perguntas...}
+{157}{}{Poderia ser. Obrigado pela informação.}
+{158}{}{Bom lugar... se você conseguir lidar com os Cidadãos. Eu não concordo com algumas de suas opiniões, mas, eu ganho muito bem aqui.}
 {159}{}{Eu tenho mais algumas perguntas...}
-{160}{}{I see. Thanks for the information. Goodbye.}
-{161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
+{160}{}{Entendo. Obrigado pela informação, adeus.}
+{161}{}{Eu vendo brahmins para pessoas que precisam deles. Me ajuda a pagar o aluguel deste lugar.}
 {162}{}{Eu tenho mais algumas perguntas...}
-{163}{}{I see. Thanks for the information. Goodbye.}
-{164}{}{I got brahmin smarter than you. Move along.}
-{165}{}{This looks like Ed's place. He's the one I bought that water flask from.}
-{166}{}{You have discovered the origin of the water flask.}
+{163}{}{Entendo. Obrigado pela informação, adeus.}
+{164}{}{Eu tenho um brahmin mais esperto do que você. Vai logo.}
+{165}{}{Parece a casa do Ed. Foi dele que comprei aquele cantil de água.}
+{166}{}{Você descobriu a origem do cantil de água.}

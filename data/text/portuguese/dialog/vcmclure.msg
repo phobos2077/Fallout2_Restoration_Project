@@ -183,22 +183,22 @@
 {282}{}{Vault City prevails, Citizen.}
 {283}{}{Vault City, prevails, Captain.}
 {284}{}{Here's your Citizenship papers. If you ever need anything, come see me.}
-{285}{}{Vault City prevails, Councilor.}
+{285}{}{Vault City prevalece, Conselheiro.}
 {286}{}{Obrigado.}
-{287}{}{Yes, you mentioned that.}
-{288}{}{Well done, Captain.}
-{289}{}{Well done, Citizen.}
-{290}{}{Well done.}
+{287}{}{Sim, você mencionou isso.}
+{288}{}{Muito bem, capitão.}
+{289}{}{Muito bem, Cidadão.}
+{290}{}{Bom trabalho.}
 {291}{}{Eu tenho mais algumas perguntas...}
 {292}{}{Obrigado.}
-{293}{}{I'm sorry... an economic data disk? What do you mean?}
-{294}{}{Here, take a look.}
-{295}{}{It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.}
+{293}{}{Desculpe... um disco de dados econômicos? O que quer dizer?}
+{294}{}{Aqui, dê uma olhada.}
+{295}{}{É um disco de dados econômicos que mostra a quantidade de energia que a usina atômica de Gecko produziu antes da guerra... e poderia produzir novamente.}
 {296}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {297}{}{Nada. Me desculpe por perturbar você.}
-{298}{}{Very well. Give me a moment...}
+{298}{}{Muito bem. Me dê um momento...}
 {299}{}{Tudo certo.}
-{300}{}{Hmmm. How did you come by this disk?}
+{300}{}{Hmmm. Como você conseguiu esse disco?}
 {301}{}{Eu... encontrei.}
 {302}{}{Eu o encontrei enquanto procurava alguns dos arquivos na biblioteca de Vault City.}
 {303}{}{Peguei de alguém em Gecko.}
@@ -210,15 +210,15 @@
 {309}{}{O disco mostra que a usina de Gecko... se fosse otimizada... poderia produzir uma grande quantidade de energia. Muito mais do que Gecko precisa. Vault City poderia usar essa energia.}
 {310}{}{Você está sugerindo que nos APODEREMOS de Gecko e sua usina? Eu NÃO ouvi --}
 {311}{}{Não, não... se Gecko pudesse receber os dados de otimização para sua central, aposto que eles estariam dispostos a trocar seu excesso de energia por assistência médica.}
-{312}{}{Hmmm. As far as medical assistance goes, I'm not unsympathetic to the plight of the ghouls. They have certainly suffered enough... but how could we optimize their plant?}
-{313}{}{I don't know. Maybe there's someone I can talk to once the plant is repaired.}
-{314}{}{I don't know. Maybe there's someone I can talk to at the plant.}
-{315}{}{I would just need access to the Vault City computer. It could optimize the power plant reactor disk and allow the plant to run more smoothly.}
-{316}{}{I have no objections to your proposal. If you can find some means of optimizing the plant, let me know.}
-{317}{}{All right. I'll go get that part from Randal and see about repairing the reactor first.}
-{318}{}{Very well, Captain.}
-{319}{}{Very well, Citizen.}
-{320}{}{You have my permission to use the Vault computer and optimize the reactor disk. You can find it on the third level of the Vault, near the Operations Room.}
+{312}{}{Hmmm. No que diz respeito à assistência médica, não sou indiferente à situação dos ghouls. Eles certamente já sofreram o suficiente... mas como poderíamos otimizar sua central?}
+{313}{}{Não sei. Talvez haja alguém com quem eu possa falar assim que a central estiver consertada.}
+{314}{}{Não sei. Talvez haja alguém com quem eu possa falar na central.}
+{315}{}{Eu só precisaria de acesso ao computador de Vault City. Isso poderia otimizar o disco do reator da usina e permitir que a usina funcione com mais suavidade.}
+{316}{}{Não tenho objeções à sua proposta. Se você encontrar algum meio de otimizar a central, me avise.}
+{317}{}{Tudo bem. Vou pegar essa peça com Randal e vejo como posso consertar o reator.}
+{318}{}{Muito bem, capitão.}
+{319}{}{Muito bem, Cidadão.}
+{320}{}{Você tem minha permissão para usar o computador da Vault e otimizar o disco do reator. Você pode encontrá-lo no terceiro nível da Vault, perto da Sala de Operações.}
 {321}{}{Excellent. Thank you, Councilor. I'll go do that.}
 {322}{}{It is done. Here you go.}
 {323}{}{I'll keep the economic disk and study it some more... Perhaps I can persuade the Council to enter negotiations with Gecko to trade for their power. The data disk would be a strong argument in of itself.}
@@ -240,7 +240,7 @@
 {339}{}{I'm still looking for a way to optimize the power plant.}
 {340}{}{I wish I could help, but I'm afraid my knowledge of reactors is... limited. Perhaps one
  of the technicians at the Gecko plant would know how to optimize the plant?}
-{341}{}{Perhaps. I had some other questions...}
+{341}{}{Talvez. Eu tenho algumas outras perguntas...}
 {342}{}{Maybe so. I'll go see.}
 {343}{}{You told McClure about the Jet antidote delivery.}
 {344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}

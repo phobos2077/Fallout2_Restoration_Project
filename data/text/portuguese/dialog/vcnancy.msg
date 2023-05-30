@@ -115,14 +115,14 @@
 {214}{}{Uh, okay. Can I ask you another question?}
 {215}{}{All right then. Maybe we'll speak later.}
 {216}{}{Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.}
-{217}{}{Uh... a pregnancy cycle?}
+{217}{}{Uh... um ciclo de gravidez?}
 {218}{}{Posso te fazer outra pergunta?}
 {219}{}{Entendo. Bem, agradeço pela informação.}
-{220}{}{Yes. Pregnancies are permitted only during certain years established by the Council.}
-{221}{}{What if you get pregnant anyway?}
+{220}{}{Sim. As gravidezes são permitidas apenas durante certos anos estabelecidos pelo Conselho.}
+{221}{}{E se você engravidar mesmo assim?}
 {222}{}{Oh. Ei, tenho algumas outras perguntas…}
 {223}{}{Entendo. Bem, agradeço pela informação.}
-{224}{}{How would that happen?}
+{224}{}{Como isso aconteceria?}
 {225}{}{Uh, pelo que ouvi, SEXO pode engravidar alguém.}
 {226}{}{Esqueça que eu perguntei. Olha, eu tenho outras perguntas...}
 {227}{}{Deixa para lá. É melhor eu ir.}
@@ -187,12 +187,12 @@
 {286}{}{Oh, well. Just thought I'd ask.}
 {287}{}{Bem, é bom ver que o preconceito com homossexuais esta bem vivo em Vault City. Tchau.}
 {288}{}{. O que você faz por aqui?}
-{289}{}{. Mind if I ask you some questions?}
-{290}{}{Oh well, I thought there weren't any children because this might be the European version of Fallout 2. Goodbye.}
-{291}{}{You have given Vault City a donation and introduced favorable genetic material into their community.}
-{292}{}{You have given Vault City a donation and introduced fresh genetic material into their community.}
-{293}{}{You have given Vault City a donation... for whatever it's worth.}
-{294}{}{You have convinced Phyllis to speak to Dr. Troy about the potential sterility in Vault City.}
-{295}{}{You have convinced Phyllis to see the outside world.}
-{296}{}{You quickly discover Phyllis is rather dull and self-centered. You resolve never to date anyone like her again.}
+{289}{}{. Se importa se eu te fizer algumas perguntas?}
+{290}{}{Bem, eu pensei que não havia crianças porque esta poderia ser a versão européia de Fallout 2. Adeus.}
+{291}{}{Você fez uma doação para Vault City e introduziu material genético favorável em sua comunidade.}
+{292}{}{Você fez uma doação para Vault City e introduziu material genético puro em sua comunidade.}
+{293}{}{Você fez uma doação para Vault City... para o que for útil.}
+{294}{}{Você convenceu Phyllis a falar com o Dr. Troy sobre a potencial esterilidade em Vault City.}
+{295}{}{Você convenceu Phyllis a ver o mundo exterior.}
+{296}{}{Você descobre rapidamente que Phyllis é bastante monótona e egocêntrica. Você decide nunca mais namorar alguém como ela.}
 {297}{}{Speaking of octo-generic- uh, octo-ians, uh, old people, I noticed there aren't any children in Vault city.}

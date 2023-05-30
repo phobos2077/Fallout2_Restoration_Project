@@ -37,12 +37,12 @@
 {136}{tand5}{Raios e trovões... É sua escolha... mas se você mudar de ideia...}
 {137}{}{Feito.}
 {138}{tand6a}{Parece justo. Faça bem e haverá uma recompensa.}
-{139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
+{139}{tand6b}{Senhor, eu sei que estou cometendo um erro, mas... tente, se você entendeu alguma coisa do que eu disse.}
 {140}{}{Ok. - Me ir.}
 {141}{}{Eu tenho perguntas.}
-{142}{}{All right. I'm off.}
+{142}{}{Tudo bem. estou de partida.}
 {143}{}{Gostaria de fazer alguns perguntas.}
-{144}{tand7a}{Well, I got a little time to spare.}
+{144}{tand7a}{Bem, eu tenho um pouco de tempo de sobra.}
 {145}{tand7b}{O que você quer saber?}
 {146}{}{O que você pode me dizer sobre a Vault 15?}
 {147}{}{Por que não fazer acordo com posseiros?}
@@ -122,24 +122,24 @@
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
 {222}{}{Não, obrigado.}
 {223}{tand23}{Stubborn as a mule... but a good man. Why?}
-{224}{}{Me curious about work.}
-{225}{}{Me curious about work.}
-{226}{}{I'm curious about some work.}
-{227}{}{I'm curious about some work.}
-{228}{tand24}{Seems to me that you've got enough on your plate already.}
+{224}{}{Curioso por um trabalho seu.}
+{225}{}{Curioso por um trabalho seu.}
+{226}{}{Estou curioso por alguns trabalhos.}
+{227}{}{Estou curioso por alguns trabalhos.}
+{228}{tand24}{Me parece que você já tem coisas suficientes em mãos.}
 {229}{}{Ok. Nada não.}
-{230}{}{Yeah, you're right.}
-{231}{tand25}{Ever since Westin died, Carlson's been holed up in his office. Probably won't see you, but you can talk to his boys.}
+{230}{}{Sim, você está certo.}
+{231}{tand25}{Desde que Westin morreu, Carlson está enfurnado em seu escritório. Provavelmente não vai ver você, mas você pode falar com os homens dele.}
 {232}{}{Ok.}
 {233}{tand26}{Listen. Lots of folks, me included, like old man Carlson even if we don't agree on New Reno. Something happens to him, we won't take kindly to it. Anyone thinking his or her life would be easier if he was gone is very, very wrong. Understand?}
 {234}{}{Yeah. Me understand.}
 {235}{}{Sim, eu entendo.}
 {236}{tand27}{Lord, that was a long time ago! Hardly remember who I was then - just a naive girl. The one you call the Vault Dweller - is he still alive?}
 {237}{}{He ancestor now. Live with spirits. Live in me.}
-{238}{}{The Vault Dweller is my ancestor. He lives on in me.}
-{239}{tand28}{Yes... there's a resemblance - you've got the same fire, too. I was always afraid that he was nothing but a skeleton somewhere in the desert.}
-{240}{}{Me want hear you story.}
-{241}{}{I'd like to hear your story.}
+{238}{}{O Morador da Vault é meu ancestral. Ele vive em mim.}
+{239}{tand28}{Sim... há uma semelhança, vocês também têm o mesmo fogo. Sempre tive medo de que ele não passasse de um esqueleto em algum lugar do deserto.}
+{240}{}{Eu quero ouvir sua história.}
+{241}{}{Eu gostaria de ouvir sua história.}
 {242}{tand29}{Figuras. (suspiro) Bem, eu era bem jovem quando nos conhecemos. Havia uma gangue de invasores - Os Khans - eles me pegaram. As coisas pareciam muito ruins quando, de repente, esse estranho apareceu e me resgatou. Seu Morador da Vault.}
 {243}{}{Morador tem muitas aventuras.}
 {244}{}{O Morador da Vault teve muitas dessas aventuras.}

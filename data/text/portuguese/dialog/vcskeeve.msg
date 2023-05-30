@@ -142,7 +142,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {231}{}{Like I said before, I can make you a full-fledged Citizen for $200. You'll have free passage
  through the gate, no hassles. I can print out the papers, register your serial number,
  and have you on your way in five minutes.}
-{232}{}{What does it take to become a real Citizen?}
+{232}{}{O que é preciso para se tornar um verdadeiro Cidadão?}
 {233}{}{E se eu fizer? Eu poderia dizer a ele agora mesmo que você está vendendo documentos de cidadania falsos.}
 {234}{}{Espero que sim. Eu posso ser bastante persuasivo.}
 {235}{}{Veremos isso.}
@@ -153,7 +153,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {239}{}{Vou levar os papéis da Cidadania, então.}
 {240}{}{Bem, $200 é muito caro para mim. Talvez eu volte se conseguir mais algum dinheiro.}
 {241}{}{Não, valeu. Talvez outra hora.}
-{242}{}{What does it take to become a real Citizen?}
+{242}{}{O que é preciso para se tornar um verdadeiro Cidadão?}
 {243}{}{Hmmmm. Quanto custa mesmo os documentos da Cidadania?}
 {244}{}{Se eu tiver que arrancar de seus dedos mortos, farei.}
 {245}{}{Como você se torna um cidadão de verdade?}

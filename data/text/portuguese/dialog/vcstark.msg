@@ -118,20 +118,20 @@
 {217}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {218}{}{Esqueça. Talvez a gente converse outra hora.}
 {219}{}{É sério? Onde está?}
-{220}{}{Yes, you said that before. You should tell the First Citizen if you haven't already.}
-{221}{}{Down south, in a series of caves in the mountains. Here, let me point it out...}
-{222}{}{I had some questions for you.}
-{223}{}{All right. I'll go tell her.}
-{224}{}{You wiped them out?}
-{225}{}{Yes, you said that before. You should tell the First Citizen if you haven't already.}
-{226}{}{Yeah, Vault City shouldn't have to worry about them anymore.}
-{227}{}{I had some questions for you.}
-{228}{}{All right. I'll go tell her.}
-{229}{}{Go tell the First Citizen at once. She'll want to know about this immediately.}
-{230}{}{I had some questions first.}
-{231}{}{All right. I'll go tell her.}
-{232}{}{Yeah, raiders. They've been hitting us pretty hard lately. (Frowns.) Why do you want to know about them?}
-{233}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{220}{}{Sim, você disse isso antes. Você deve contar a Primeira Cidadã se ainda não o fez.}
+{221}{}{No sul, em uma série de cavernas nas montanhas. Aqui, deixe eu apontar...}
+{222}{}{Eu tenho algumas perguntas para você.}
+{223}{}{Tudo bem. Eu vou dizer a ela.}
+{224}{}{Você os tirou do mapa?}
+{225}{}{Sim, você disse isso antes. Você deve contar a Primeira Cidadã se ainda não o fez.}
+{226}{}{Sim, Vault City não deveria mais se preocupar com eles.}
+{227}{}{Eu tenho algumas perguntas para você.}
+{228}{}{Tudo bem. Eu vou dizer a ela.}
+{229}{}{Vá contar a Primeira Cidadã imediatamente. Ela vai querer saber disso imediatamente.}
+{230}{}{Eu tenho algumas perguntas primeiro.}
+{231}{}{Tudo bem. Eu vou dizer a ela.}
+{232}{}{Sim, invasores. Eles têm nos atacado bastante ultimamente. (Carranca.) Por que você quer saber sobre eles?}
+{233}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {234}{}{Eu estava apenas curioso.}
 {235}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {236}{}{Esqueça. Talvez a gente converse outra hora.}
@@ -148,18 +148,18 @@
 {247}{}{Deixa pra lá então. Eu tinha algumas perguntas...}
 {248}{}{Esqueça. Talvez a gente converse outra hora.}
 {249}{}{Hmmm. Bem, não vou recusar nenhuma ajuda neste momento. Você encontra a base deles, ou melhor ainda, os elimine, vá contar a Primeira Cidadã.}
-{250}{}{Actually, I already found their base.}
+{250}{}{Na verdade, eu já encontrei a base deles.}
 {251}{}{Actually, I wiped them out already.}
 {252}{}{Alguma ideia de onde esses invasores estão atacando?}
 {253}{}{Certo. Eu tenho outras perguntas...}
 {254}{}{Eu vou fazer isso.}
 {255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
-{256}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{256}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {257}{}{Eu não sei nada. É por isso que estou perguntando.}
 {258}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {259}{}{Esqueça. Talvez a gente converse outra hora.}
 {260}{}{Não sabe de nada? Talvez eu te deixe aqui no Centro Correcional até você LEMBRAR de algo.}
-{261}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{261}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {262}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
 {263}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
 {264}{}{Você já está com problemas. Quer piorar ainda mais?}
@@ -170,7 +170,7 @@
 {269}{}{Hei! Hei! Eu não --}
 {270}{}{Viva com isso, homem morto.}
 {271}{}{Acho que não vamos abandonar o assunto tão facilmente. Agora... o que você sabe sobre os invasores?}
-{272}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{272}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {273}{}{Eu estava apenas curioso.}
 {274}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
 {275}{}{Não sei, esses invasores não fazem muito sentido. SE eles são invasores.}

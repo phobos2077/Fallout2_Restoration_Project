@@ -54,26 +54,26 @@
 {142}{}{Não... parece que você tem gente suficiente te seguindo.}
 {143}{}{All right. Well, good luck.}
 {144}{}{Sabe, isso não parece uma má ideia. Conte comigo.}
-{145}{}{Yeah, what?}
+{145}{}{Sim, o que?}
 {146}{}{Eu preciso que você saia do meu caminho.}
 {147}{}{Como você está?}
 {148}{}{Cure-se.}
 {149}{}{Eu preciso que você espere aqui até eu voltar.}
-{150}{}{You! Ooyag!}
+{150}{}{Você! Viajem!}
 {151}{}{É isso por agora.}
-{152}{}{OK, everything's stitched up. Let's get going.}
-{153}{}{OK, pretty much everything is patched up.}
-{154}{}{That pretty much did it, but I could use a couple more stims.}
-{155}{}{I used what I could, but I'm still pretty messed up. Got any stims on you?}
-{156}{}{Use First Aid on yourself.}
+{152}{}{OK, tudo está certo, já costurei tudo. Bora.}
+{153}{}{OK, praticamente tudo já está corrigido.}
+{154}{}{Isso funcionou bem, mas eu poderia usar mais alguns stimpacks.}
+{155}{}{Usei o que pude, mas ainda estou muito confuso. Tem alguns stims com você?}
+{156}{}{Use os primeiros socorros em si mesmo.}
 {157}{}{Deixa pra lá.}
 {158}{}{OK.}
-{159}{}{OK, I'll wait here.}
+{159}{}{OK, vou esperar aqui.}
 {160}{}{Deixa pra lá.}
 {161}{}{OK.}
-{162}{}{Let's get going.}
+{162}{}{Vamos indo.}
 {163}{}{OK.}
-{164}{}{Look, you have enough people following your coat tails now.}
-{165}{}{Yeah, you go with that.}
+{164}{}{Olha, você já tem gente suficiente no seu pé por agora.}
+{165}{}{Sim, isso é para você.}
 {166}{}{Nah... Acho que vou passar.}
-{167}{}{I think I'm just going to hang around here a little longer.}
+{167}{}{Acho que vou ficar por aqui mais um pouco.}

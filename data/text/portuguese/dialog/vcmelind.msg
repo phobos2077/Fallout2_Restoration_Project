@@ -44,12 +44,12 @@
 {134}{}{And that means separating yourselves?}
 {135}{}{I take great pride in the work that I do for Vault City. You'll have
  to excuse me, but I have some very pressing business to attend to. Good day.}
-{136}{}{We don't do it for *ourselves.* We do it for the betterment of everyone.}
-{137}{}{Yeah, sure you do. It sounds better that way.}
+{136}{}{Não fazemos isso para *nós mesmos.* Fazemos isso para o bem de todos.}
+{137}{}{Sim, claro que sim. Soa melhor dessa forma.}
 {138}{}{Posso pedir mais uma coisa?}
 {139}{}{Obrigado por sua ajuda.}
-{140}{}{You don't seem capable of understanding what we're doing here.}
-{141}{}{You're right. I can't understand it because it doesn't make any *sense.*}
-{142}{}{I was just curious. Thanks for your help.}
-{143}{}{I am very busy at the moment. Speak to the Sub-Greeting Officer if you
- require assistance.}
+{140}{}{Você não parece capaz de entender o que estamos fazendo aqui.}
+{141}{}{Você tem razão. Não consigo entender porque não faz nenhum *sentido.*}
+{142}{}{Eu só estava curioso. Obrigado pela ajuda.}
+{143}{}{Estou muito ocupado no momento. Fale com o Sub-Oficial de Boas Vindas
+ se precisar de assistência.}
