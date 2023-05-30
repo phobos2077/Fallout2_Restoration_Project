@@ -11,12 +11,12 @@
 {305}{}{Olá. Como vai?}
 {306}{}{Você ainda abre qualquer escravo?}
 {307}{}{Oi novamente.}
-{308}{}{Heading out on another run?}
+{308}{}{Saindo em outra corrida?}
 {309}{}{As coisas estão bastante calmas.}
 {310}{}{Quando eu vou ver alguma ação?}
-{311}{}{Bagging slaves always brings a smile to my face.}
+{311}{}{Ensacamento de escravos sempre traz um sorriso ao meu rosto.}
 {312}{}{As corridas de escravos são uma explosão.}
-{313}{}{Hey, glad to have you with us.}
+{313}{}{Ei, que bom ter você com nós.}
 {500}{}{Hey you! What do you think you're doing? I ain't seen you before.}
 {501}{}{Metzger sent me to check on his goods. You know how he is. If it isn't perfect, shit hits the fan.
  Now I'm already running late. I need to finish this inspection and report back to him. Do you want to be held responsible

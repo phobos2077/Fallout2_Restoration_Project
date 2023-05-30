@@ -262,4 +262,4 @@
 {2502}{}{You expose Roy's deception, and ensure that he'll never trade again.}
 {2503}{}{You decline to trade with Roy.}
 {2504}{}{You expose Roy's deception.}
-{3000}{}{Begone vile slaver!}
+{3000}{}{Embora escravista mal!}

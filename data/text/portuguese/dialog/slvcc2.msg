@@ -12,20 +12,20 @@
 {305}{}{Olá. Como vai?}
 {306}{}{Você ainda abre qualquer escravo?}
 {307}{}{Oi novamente.}
-{308}{}{Heading out on another run?}
+{308}{}{Saindo em outra corrida?}
 {309}{}{As coisas estão bastante calmas.}
-{310}{}{When am I gonna see some action?}
-{311}{}{Bagging slaves always brings a smile to my face.}
+{310}{}{Quando eu vou ver alguma ação?}
+{311}{}{Ensacamento de escravos sempre traz um sorriso ao meu rosto.}
 {312}{}{As corridas de escravos são uma explosão.}
-{313}{}{Hey, glad to have you with us.}
-{400}{}{Hold it right there. Where the hell do you think you're going?}
-{401}{}{Metzger sent me. I need to speak with whoever is in charge here.}
-{402}{}{I got some slaves you guys might be interested in.}
-{403}{}{I was called because of a rodent problem. Namely all of you here.}
-{404}{}{[The man's eyes flare up.] You've picked the wrong group to fuck with. HEY GUYS, WE GOT AN INTRUDER!}
-{405}{}{[He looks up and down your party members.] I think we might be interested. Go inside and speak with Don.}
-{406}{}{Isn't it a little early for another shipment? What does Metzger need?}
-{407}{}{He needs a few healthy slaves. Specifically female slaves, if you know what I mean.}
+{313}{}{Ei, que bom ter você com nós.}
+{400}{}{Fique aí. E onde você pensa que está indo?}
+{401}{}{Metzger me enviou. Preciso falar com quem está no comando aqui.}
+{402}{}{Tenho alguns escravos que podem interessar vocês.}
+{403}{}{Fui chamado por causa de um problema com roedores. Ou seja, de todos vocês aqui.}
+{404}{}{[Os olhos do homem brilham.] Você escolheu o grupo errado para tentar foder. EI, PESSOAL, TEMOS UM INTRUSO!}
+{405}{}{[Ele olha para cima e para baixo nos membros do seu grupo.] Acho que podemos ter interesse. Entre e fale com Don.}
+{406}{}{Não é um pouco cedo para outro envio? O que Metzger precisa?}
+{407}{}{Ele precisa de alguns escravos saudáveis. Especificamente escravas, se é que você me entende.}
 {408}{}{Hehe. I sure do. Well, go inside and speak to Don. I'm sure he's got what the boss needs.}
 {409}{}{Umm... well, he uhh, said he needs more slaves.}
 {410}{}{More slaves? He got a huge shipment last week. You're full of shit and I don't have time for this. Leave now

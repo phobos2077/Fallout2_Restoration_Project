@@ -1,6 +1,6 @@
-{100}{}{You see a crate.}
-{101}{}{A crate that appears to be full of stimpaks.}
-{102}{}{You see a crate full of useless fake stimpaks.}
+{100}{}{Você vê um caixote.}
+{101}{}{Uma caixa que parece estar cheia de stimpaks.}
+{102}{}{Você vê uma caixa cheia de stimpaks falsos e inúteis.}
 {200}{}{[After giving the crate a brief look-over, you determined that there's about fifty stimpaks in it, just like the merchant said.]}
 {201}{}{[Examine them further.]}
 {202}{}{[DONE.]}

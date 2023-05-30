@@ -9,15 +9,15 @@
 {206}{}{You again? Wut dis time?}
 {207}{}{Just passing through. Keep up the good work.}
 {208}{}{The head warrior told me I am allowed to enter the cave to search for the missing hunters.}
-{209}{}{Oh, yeah, me no see those guys in while. Hope they ok. Head warrior say ok to enter? Fine wit me.}
-{210}{}{Thanks. I'll let you know if I need anything.}
-{300}{}{Hey, why you rush? You find sumtin?}
-{301}{}{Yes, I found the missing hunters. One of them is dead but the other is badly hurt. I need your help
- to carry him out and bring him to the Shaman. I'll go wait with the Shaman while you rescue the hunter.}
-{302}{}{Tribe member need help? Me need help them. In cave? Me coming!}
+{209}{}{Oh, sim, eu não vejo esses caras faz tempo, espero que estejam bem. Chefe guerreiro diz ok para entrar? Tudo bem comigo.}
+{210}{}{Obrigado. Vou deixar você saber se eu precisar de alguma coisa.}
+{300}{}{Ei, por que você se apressa? Você encontrou sumtin?}
+{301}{}{Sim, encontrei os caçadores desaparecidos. Um deles está morto, mas o outro está gravemente
+ ferido. Preciso da sua ajuda para carregá-lo e levá-lo ao Xamã. Vou esperar com o Xamã enquanto você resgata o caçador.}
+{302}{}{Membro da tribo precisa de ajuda? Eu preciso ajudá-lo. Na caverna? Eu vou!}
 {303}{}{[FEITO]}
-{400}{}{Thanks for helpin Serin. He good warrior. You friend of tribe.}
-{401}{}{Thanks. Well, I must be going now.}
+{400}{}{Obrigado por ajudar Serin. Ele bom guerreiro. Você amigo da tribo.}
+{401}{}{Obrigado. Bem, preciso ir agora.}
 {402}{}{Olá, amigo. Do que precisa?}
 {403}{}{Nada, só de passagem. Tome cuidado.}
 {500}{}{Você herói! Eu abraço!}

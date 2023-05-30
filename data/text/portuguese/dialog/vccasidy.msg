@@ -104,20 +104,20 @@
 {280}{}{All right. Just checking.}
 {281}{Cas0281}{Says you. Just don't be calling me no tribal, and we'll get along just fine.}
 {282}{Cas0282}{Don't want people mistaking me for ol' Bone-nose over there. Heh-heh. I ain't never seen no tribal do something as dumb as jam a bone in his nose.}
-{283}{Cas0283}{Of course there isn't. Spear's a fine weapon. Lots of tribal friends of mine use 'em.}
-{284}{}{Did you know that I am a "tribal?"}
-{285}{}{Hmmm. Look, I had some other questions...}
-{286}{}{All right. Thanks for the rundown.}
-{287}{Cas0287}{Aw, don't be playing with ol' Cassidy now. You ain't no tribal.}
+{283}{Cas0283}{Claro que não, a lança é uma boa arma. Muitos amigos tribais meus usam.}
+{284}{}{Você sabia que eu sou um "tribal?"}
+{285}{}{Hmmm. Olha, eu tenho outras perguntas...}
+{286}{}{Tudo bem. Obrigado pelo resumo.}
+{287}{Cas0287}{Ah, não brinque com o velho Cassidy agora. Você não é tribal.}
 {288}{}{Sim, eu sou.}
-{289}{}{Whatever. Look, I had some other questions...}
-{290}{}{Forget it. I don't want to get into this with you right now.}
-{291}{Cas0291}{Uh, well... damn it all, you can have my apology right here and now. I didn't mean any offense.}
-{292}{}{Sure you didn't. Look, I had some other questions...}
-{293}{}{Forget it. Let's move on.}
-{294}{Cas0294}{Well, now, before you go, I got a question for you. What are we doing out here? We seem to be running all over the place looking for something. Have we got some sort of plan?}
-{295}{}{We're looking for a GECK - a Garden of Eden Creation Kit. My village needs it to restore their crops.}
-{296}{}{We're going to the Vault, then return the GECK to my village.}
+{289}{}{Que seja. Olha, eu tenho outras perguntas...}
+{290}{}{Esqueça. Eu não quero entrar nisso com você agora.}
+{291}{Cas0291}{Uh, bem... que se dane isso, você pode ter minhas desculpas aqui e agora. Eu não quis ofender.}
+{292}{}{Claro que não. Olha, eu tenho outras perguntas...}
+{293}{}{Esqueça. Vamos continuar.}
+{294}{Cas0294}{Bem, agora, antes de ir, tenho uma pergunta para você. O que estamos fazendo aqui? Parece que estamos correndo por todo lugar procurando alguma coisa. Temos algum tipo de plano?}
+{295}{}{Procuramos um GECK - Kit de Criação do Jardim do Éden. Minha aldeia precisa dele para restaurar suas plantações.}
+{296}{}{Estamos indo para a Vault, para devolver o GECK para minha aldeia.}
 {297}{}{My village has been kidnapped. I'm trying to find out what happened to them.}
 {298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
 {299}{Cas0299}{Ok, certo, apenas verificando.}

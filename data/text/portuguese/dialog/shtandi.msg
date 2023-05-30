@@ -30,13 +30,13 @@
 {129}{}{Eu estive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti. Aqui peças também.}
 {130}{}{Desculpe, isso não parece meu tipo de trabalho.}
 {131}{}{Ficarei feliz em ajudá-la.}
-{132}{}{I'm interested, but what's the job pay?}
-{133}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
+{132}{}{Estou interessado, mas qual é o pagamento pelo trabalho?}
+{133}{}{Eu já lidei com boa parte disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão acesso a Vault.}
 {134}{}{Eu estive lá e tenho as peças que você está procurando.}
-{135}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
-{136}{tand5}{Hell and thunder... Your choice - but if you change your mind...}
+{135}{}{Eu já tratei disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão a Vault. Além disso, aqui estão as peças.}
+{136}{tand5}{Raios e trovões... É sua escolha... mas se você mudar de ideia...}
 {137}{}{Feito.}
-{138}{tand6a}{Fair enough. Do it right and there's a reward.}
+{138}{tand6a}{Parece justo. Faça bem e haverá uma recompensa.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. - Me ir.}
 {141}{}{Eu tenho perguntas.}
@@ -188,9 +188,9 @@
 {287}{}{Eu estive lá. Eu tenho peças.}
 {288}{}{Eu estive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti. Aqui peças também.}
 {289}{}{Ainda estou trabalhando nisso. Até mais.}
-{290}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
+{290}{}{Eu já lidei com boa parte disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão acesso a Vault.}
 {291}{}{Eu estive lá e tenho as peças que você está procurando.}
-{292}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
+{292}{}{Eu já tratei disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão a Vault. Além disso, aqui estão as peças.}
 {293}{tand41}{Raios e trovões! Então pare de desperdiçar meu tempo!}
 {294}{}{Sinto.}
 {295}{tand42}{A Vault 13, você encontrou? Isso resolve todos os nossos problemas! Onde esta?}

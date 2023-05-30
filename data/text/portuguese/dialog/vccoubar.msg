@@ -43,13 +43,13 @@
 {142}{}{Nada por hoje, valeu.}
 {143}{}{Very good, sir.}
 {144}{}{Very good, ma'am.}
-{145}{}{Which would you like? Mineral? Distilled? Or Sparkling? Each is modestly priced at five dollars a glass.}
-{146}{}{Mineral, please.}
-{147}{}{I'll try some of that distilled water.}
-{148}{}{Set me up with some of that sparkling water.}
-{149}{}{What synthesized alcohols do you have?}
+{145}{}{Qual você gostaria? Mineral? Destilada? Ou Espumante? Cada um custa modestamente cinco dólares o copo.}
+{146}{}{Mineral, por favor.}
+{147}{}{Vou pegar um pouco dessa água destilada.}
+{148}{}{Pode me dar um pouco dessa água com gás.}
+{149}{}{Quais tipos de álcool sintetizado você tem?}
 {150}{}{Never mind. I was looking for some information.}
-{151}{}{That's a little steep for me. I'll come back when I have more money.}
+{151}{}{Isso é um pouco caro para mim. Voltarei quando tiver mais dinheiro.}
 {152}{}{I think I'll pass, thanks.}
 {153}{}{We have synthetic derivatives H and T, and we recently brewed an extremely popular mixture, "Alcohol-Z," which has a rich pseudo micro-brewery flavor. Each is modestly priced at twenty dollars a glass.}
 {154}{}{How do you manufacture these synthesized alcohols?}
@@ -61,7 +61,7 @@
 {160}{}{Nada por hoje, valeu.}
 {161}{}{Would you care for anything else?}
 {162}{}{I'd like some more water, thanks.}
-{163}{}{What synthesized alcohols do you have?}
+{163}{}{Quais tipos de álcool sintetizado você tem?}
 {164}{}{Never mind. I was looking for some information.}
 {165}{}{Nada por hoje, valeu.}
 {166}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
