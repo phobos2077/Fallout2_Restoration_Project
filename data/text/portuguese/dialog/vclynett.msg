@@ -568,38 +568,38 @@
 {595}{lyn093}{No. He is not a TRUE Citizen... not anymore. When he came to us two years ago, he seemed
  everything we would want in a Citizen. But just a year later he... changed. He turned against us.}
 {596}{}{You know, that would explain a few things. Moore was probably just playing a role for a while.}
-{597}{}{Maybe it's time for a change.}
-{598}{}{I'm sorry you don't consider Moore a "true" Citizen. Maybe you should examine what it means to
- be a Citizen.}
-{599}{}{Maybe he just saw the light. Good day.}
-{600}{lyn094}{We have prospered in this world where so many others have failed, and you tell me we need
- to change? Look at the outside world! Anarchy, depravity, sickness... Vault City is a paradise!}
-{601}{}{That's exactly WHY a change is necessary. You should share your accomplishments with others.}
-{602}{}{It's a paradise for some people, maybe. I think your slaves would disagree.}
-{603}{}{I'm not going to argue this with you anymore. Goodbye.}
-{604}{lyn095}{Vault City was built through the hard work and suffering of many Citizens. The outside
- world should look to our example and follow it, not sit outside our walls and beg for handouts.}
-{605}{}{The hard work of Citizens? Everywhere I go in your city, I see the real work being done by slaves.}
-{606}{}{I'm not going to argue this with you anymore. Goodbye.}
-{607}{lyn096}{Why do we condone slavery? The system has been in place for many years, and it works
- quite well. Both parties benefit from the institution.}
-{608}{}{I see. Can I ask you another question?}
-{609}{}{I'm sure your slaves would disagree.}
-{610}{}{But... you buy and sell human beings like brahmin. Doesn't keeping slaves bother you?}
+{597}{}{Talvez seja hora de uma mudança.}
+{598}{}{Lamento que você não considere Moore um "verdadeiro" cidadão. Talvez você deva examinar o
+ que significa ser um Cidadão.}
+{599}{}{Talvez ele apenas tenha visto a luz. Bom dia.}
+{600}{lyn094}{Nós prosperamos neste mundo onde tantos outros falharam, e você me diz que precisamos
+ mudar? Olhe para o mundo lá fora! Anarquia, depravação, doença... Vault City é um paraíso!}
+{601}{}{É exatamente POR ISSO que uma mudança é necessária. Você deve compartilhar suas realizações com os outros.}
+{602}{}{É um paraíso para algumas pessoas, talvez. Acho que seus escravos discordariam.}
+{603}{}{Não vou mais discutir isso com você. Adeus.}
+{604}{lyn095}{Vault City foi construída com muito trabalho e sofrimento de muitos cidadãos. O mundo
+ exterior deve olhar para o nosso exemplo e segui-lo, não sentar do lado de fora de nossos muros e implorar por esmolas.}
+{605}{}{Trabalho árduo dos Cidadãos? Onde quer que eu vá em sua cidade, vejo o verdadeiro trabalho feito por escravos.}
+{606}{}{Não vou mais discutir isso com você. Adeus.}
+{607}{lyn096}{Por que toleramos a escravidão? O sistema existe há muitos anos e funciona muito bem.
+ Ambas as partes se beneficiam da instituição.}
+{608}{}{Entendo. Posso te fazer outra pergunta?}
+{609}{}{Tenho certeza que seus escravos discordariam.}
+{610}{}{Mas... você compra e vende seres humanos como brahmins. Manter escravos não te incomoda?}
 {611}{}{Já ouvi o suficiente. Tchau.}
 {612}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
-{613}{lyn097}{They are not slaves, they are our "servants." We have given them homes, food, clothing,
- and a purpose. We have given them a life.}
-{614}{}{Sure. Why be free when they could be laboring for you?}
+{613}{lyn097}{Eles não são escravos, são nossos "servos". Damos a eles casas, comida, roupas e um
+ propósito. Nós lhes demos uma vida.}
+{614}{}{Claro. Por que ser livre quando eles poderiam estar trabalhando para você?}
 {615}{}{Look, no matter what sweet-sounding words you use to cover the stink, it's still slavery.}
 {616}{}{Uh... sure. Look, I had some other questions...}
-{617}{}{I'm not going to argue this with you anymore. Goodbye.}
+{617}{}{Não vou mais discutir isso com você. Adeus.}
 {618}{}{Hmmmm. I hadn't considered it that way before. I'll have to go think about this.}
 {619}{lyn098}{Your hypocrisy is quite remarkable. You have the mark of the Slaver's Guild, yet you disagree with slavery.}
 {620}{}{I don't disagree with slavery, I'm just pointing out they do all the real work around here.}
 {621}{}{Look, I got the mark only to get some information... I'm no slaver.}
 {622}{}{I was young... I needed the money...}
-{623}{}{I'm not going to argue this with you anymore. Goodbye.}
+{623}{}{Não vou mais discutir isso com você. Adeus.}
 {624}{lyn099}{What do you mean?}
 {625}{}{Moore's actually working for the New California Republic.}
 {626}{}{Sem problemas. Eu tenho outras perguntas...}
@@ -753,18 +753,18 @@
 {754}{}{I'll kill those guards... after I kill you.}
 {755}{}{Okay! Here, take the disk, and I'll go. }
 {756}{lyn129}{Thank you! You have done a great service! Did Westin send back correspondence?}
-{757}{}{Yes, I'm starting to feel like the Postman. Here, he wanted me to give you this disk.}
-{758}{}{No, I lost it.}
-{759}{}{No, he never gave me one.}
-{760}{lyn130a}{Excellent. Let me scan this.}
-{761}{}{Fade out 3 seconds}
+{757}{}{Sim, estou começando a me sentir como um carteiro. Aqui, ele queria que eu te desse este disco.}
+{758}{}{Não, eu perdi.}
+{759}{}{Não, ele nunca me deu nada.}
+{760}{lyn130a}{Excelente. Deixe eu digitalizar isso.}
+{761}{}{Desvanecer por 3 segundos}
 {762}{lyn130b}{Não teremos problemas com a NCR por muito tempo. }
-{763}{}{That's good news.}
-{764}{lyn131}{Now... regarding payment: Report to Randal, the Chief Amenities Officer. Tell him I sent
- you, and he will present you with your reward. Thank you again. }
+{763}{}{Isso é uma boa notícia.}
+{764}{lyn131}{Agora... em relação ao pagamento: Reporte a Randal, o Diretor de Serviços. Diga a ele
+ que eu o enviei, e ele lhe apresentará sua recompensa. Obrigado novamente.}
 {765}{}{Before I go, I had some other questions...}
-{766}{}{All right. Reward, here I come.}
-{767}{}{Thank you, First Citizen. Good day.}
+{766}{}{Tudo bem. Recompensa, aqui vou eu.}
+{767}{}{Obrigado, Primeira Cidadã. Bom dia.}
 {768}{lyn132}{Your service has been exemplary. So much so that it is my honor to name you Captain of the
  Guard. Congratulations, Captain. You deserve it.}
 {769}{}{Uh... thanks.}
@@ -773,7 +773,7 @@
  receive your reward. We are in your debt... Captain.}
 {772}{}{Before I go, I had some other questions...}
 {773}{}{Tudo bem. Recompensa, aí vou eu!}
-{774}{}{Thank you, First Citizen. Good day.}
+{774}{}{Obrigado, Primeira Cidadã. Bom dia.}
 {775}{lyn134}{Você perdeu?! Essa correspondência era extremamente importante! Muito bem...
  aqui está o seu pagamento pela entrega do disco. Agora, se me der licença... }
 {776}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}

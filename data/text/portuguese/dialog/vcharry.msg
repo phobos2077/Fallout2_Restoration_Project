@@ -28,10 +28,10 @@
 {127}{}{Obrigado pelo negócio. Se cuida.}
 {128}{}{Adeus.}
 {129}{}{Connar me mandou buscar as mercadorias.}
-{130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
-{131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
-{132}{}{Of course, here's the money.}
-{133}{}{But Connar only gave me five grand.}
+{130}{}{[Os olhos de Harry se movem rapidamente, ele parece um pouco nervoso] Sim, claro. Um momento...}
+{131}{}{[Harry te traz os rifles.] Aqui, pegue. Vai ser dez mil, e vamos fazer isso rápido.}
+{132}{}{Claro, aqui está o dinheiro.}
+{133}{}{Mas Connar só me deu cinco mil.}
 {134}{}{But Connar only gave me two grand.}
 {135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
