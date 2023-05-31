@@ -57,7 +57,7 @@
 {152}{}{Devo terminar minhas tarefas dentro de uma hora.}
 {153}{}{Falar com Forasteiros é contra as regras.}
 {154}{}{Escapar? Por que?}
-{155}{}{Yes? Can I help you?}
+{155}{}{Sim? Posso ajudar?}
 {156}{}{Fui capturado por escravistas há muito tempo. Nem me lembro mais.}
 {157}{}{Eu tinha dois filhos, mas eles foram enviados para o norte. Espero que eles cheguem aqui algum
  dia.}

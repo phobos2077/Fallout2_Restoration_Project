@@ -57,7 +57,7 @@
 {156}{}{A reunião do Conselho ontem foi muito produtiva. Fizemos *muitas* listas. Nós aqui em Vault City adoramos fazer listas.}
 {157}{}{Sim?}
 {158}{}{Pardon me, can I help you?}
-{159}{}{It's polite to ask before entering someone's house.}
+{159}{}{É educado perguntar antes de entrar na casa de alguém.}
 {160}{}{Por favor, limpe os pés antes de entrar em casa.}
 {161}{}{Desculpe, nós o convidamos para entrar?}
 {162}{}{Posso te ajudar?}

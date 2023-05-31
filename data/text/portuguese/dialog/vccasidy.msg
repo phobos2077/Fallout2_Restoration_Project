@@ -51,26 +51,26 @@
 {149}{}{I see. Say, I'm looking for a Vault. Can you help me out?}
 {150}{}{Hope things get better for you from here on. See you.}
 {151}{Cas0151}{Makes me want to close up shop and let this City rot. Screw 'em all.}
-{152}{}{Why don't you leave?}
-{153}{}{Sorry to hear it. Hope things work out for you.}
-{154}{Cas0154}{Go into the wastes by myself? Ha! I'm sick of this place, but I ain't stupid.}
-{155}{}{I'm heading out that way again. Why don't you come along?}
-{156}{}{Well, good luck to you then.}
-{157}{Cas0157}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{158}{Cas0158}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{159}{Cas0159}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{160}{Cas0160}{Naw... you look like you got enough of a crowd already.}
-{161}{}{All right. Well, good luck.}
-{162}{}{Forget I asked then, asshole. Go back to tending bar in this shitwater burg.}
-{163}{}{Nevermind then. Your loss.}
+{152}{}{Por que você não vai embora?}
+{153}{}{Desculpe ouvir isso. Espero que as coisas funcionem para você.}
+{154}{Cas0154}{Ir para o deserto sozinho? Há! Estou cheio deste lugar, mas não sou estúpido.}
+{155}{}{Estou indo para lá de novo. Por que você não vem junto?}
+{156}{}{Bem, boa sorte para você então.}
+{157}{Cas0157}{Sem ofensa nem nada, mas você não parece muito capaz de liderar ninguém. Parece que você vai servir de janta para o deserto.}
+{158}{Cas0158}{Não, eu não viajo com escravistas. Eles têm o péssimo hábito de te vender quando estão com pouco dinheiro. Sem ofensa.}
+{159}{Cas0159}{Não, você tem cara de quem esta com um pé na cova e outro no inferno. Eu não acho que preciso manchar ainda mais minha reputação.}
+{160}{Cas0160}{Não... parece que você já tem gente o suficiente.}
+{161}{}{Tudo bem. Bem, boa sorte.}
+{162}{}{Esqueça então que eu perguntei, idiota. Volte a cuidar do bar nesse bairro de merda.}
+{163}{}{Deixa pra lá. Problema é seu.}
 {164}{Cas0164}{Ei, tá falando sério?}
-{165}{}{Sure. Why the hell not? You look like you know how to take care of yourself in a fight.}
-{166}{}{On second thought, it's pretty dangerous out there, especially for someone with heart trouble. You'd be better off here.}
+{165}{}{Claro. Por que não? Você parece saber como se cuidar em uma luta.}
+{166}{}{Pensando bem, é muito perigoso lá fora, especialmente para alguém com problemas cardíacos. Você ficaria melhor aqui.}
 {167}{Cas0167}{Tudo bem, conte comigo.}
-{168}{}{Let's hit it.}
+{168}{}{Vamos lá.}
 {169}{}{}
 {170}{}{}
-{171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
+{171}{Cas0171}{E aí? Você tem aquele olhar de "preciso te dizer uma coisa que você pode não gostar" de novo.}
 {172}{Cas0172}{Sim?}
 {173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
 {174}{}{Eu gostaria de lhe fazer algumas perguntas...}

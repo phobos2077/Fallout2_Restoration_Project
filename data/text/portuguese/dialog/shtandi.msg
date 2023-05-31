@@ -119,9 +119,9 @@
 {218}{}{Quem Westin?}
 {219}{}{Eu vejo.}
 {220}{}{Quem é esse Westin?}
-{221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
+{221}{tand22}{Congressista Westin? Um dos maiores fazendeiros de brahmins da região, sua fazenda fica no lado oeste da cidade. Só não mencione New Reno se você falar com ele, isso o deixa meio doido. Se você está procurando um emprego estável... mas você não é desse tipo, né?}
 {222}{}{Não, obrigado.}
-{223}{tand23}{Stubborn as a mule... but a good man. Why?}
+{223}{tand23}{Teimoso como uma mula... mas um bom homem. Por que?}
 {224}{}{Curioso por um trabalho seu.}
 {225}{}{Curioso por um trabalho seu.}
 {226}{}{Estou curioso por alguns trabalhos.}
@@ -131,11 +131,11 @@
 {230}{}{Sim, você está certo.}
 {231}{tand25}{Desde que Westin morreu, Carlson está enfurnado em seu escritório. Provavelmente não vai ver você, mas você pode falar com os homens dele.}
 {232}{}{Ok.}
-{233}{tand26}{Listen. Lots of folks, me included, like old man Carlson even if we don't agree on New Reno. Something happens to him, we won't take kindly to it. Anyone thinking his or her life would be easier if he was gone is very, very wrong. Understand?}
-{234}{}{Yeah. Me understand.}
+{233}{tand26}{Escuta. Muitas pessoas, inclusive eu, gostam do velho Carlson, mesmo que não concordemos com New Reno. Se algo acontecer com ele, não aceitaremos isso com bons olhos. Quem pensa que sua vida seria mais fácil se ele não estivesse aqui está muito, muito enganado. Entendido?}
+{234}{}{Sim, eu entendo.}
 {235}{}{Sim, eu entendo.}
-{236}{tand27}{Lord, that was a long time ago! Hardly remember who I was then - just a naive girl. The one you call the Vault Dweller - is he still alive?}
-{237}{}{He ancestor now. Live with spirits. Live in me.}
+{236}{tand27}{Senhor, isso foi há muito tempo! Mal me lembro de quem eu era na época, só uma garota ingênua. Aquele que você chama de Morador da Vault, ainda está vivo?}
+{237}{}{Ele ancestral agora. Vive com espíritos. Vive em mi.}
 {238}{}{O Morador da Vault é meu ancestral. Ele vive em mim.}
 {239}{tand28}{Sim... há uma semelhança, vocês também têm o mesmo fogo. Sempre tive medo de que ele não passasse de um esqueleto em algum lugar do deserto.}
 {240}{}{Eu quero ouvir sua história.}
@@ -198,15 +198,15 @@
 {297}{}{Desenho no mapa. Aqui.}
 {298}{}{Antes que eu continue, há um pequeno problema com a vault.}
 {299}{}{Desenhei um mapa. É seu.}
-{300}{}{I'm not one to just hand over a gold mine for free. I want 20 grand or you can forget it.}
-{301}{tand43}{What?}
-{302}{}{It full of D'claws. Smart ones. They talk.}
-{303}{}{It's full of intelligent deathclaws. They can even talk.}
-{304}{tand44a}{Right. (shakes head) Lord, you're dumber than Hoss ever was! (sigh) There's the door.}
-{305}{tand44b}{Right. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
+{300}{}{Não sou do tipo que entrega uma mina de ouro de graça. Quero 20 mil ou pode esquecer.}
+{301}{tand43}{O que?}
+{302}{}{Está cheio de Deathclaws. Inteligentes. Eles falam.}
+{303}{}{Está cheio de deathclaws inteligentes. Eles podem até falar.}
+{304}{tand44a}{Certo. (balança a cabeça) Deus, você é ainda mais burro do que Hoss disse! (suspira) Ali está a porta.}
+{305}{tand44b}{Certo. (balança a cabeça) Bem, então vamos parar de desperdiçar nosso tempo. (suspiro) Ali está a porta.}
 {306}{}{Eu vou agora.}
-{307}{}{Right. I'll be leaving.}
-{308}{tand45}{You earned yourself a bonus. My assistant will square things up.}
+{307}{}{Certo. Vou indo.}
+{308}{tand45}{Você ganhou um bônus. Meu assistente vai resolver as coisas.}
 {309}{}{}
 {310}{}{Obrigado.}
 {311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}

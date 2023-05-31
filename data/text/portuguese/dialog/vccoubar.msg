@@ -12,29 +12,29 @@
 {111}{}{Um mutante! Guardas! Guardas!}
 {112}{}{Um ghoul! Guardas! Guardas!}
 {113}{}{Lamento, mas o bar está fechado à noite.}
-{114}{}{The bar is closed. I'll be returning home once I finish this inventory list.}
-{115}{}{Don't you have homes to go to?}
-{116}{}{Welcome! We've all heard about your exploits against the Enclave. Can I get you something to drink?}
+{114}{}{O bar está fechado. Voltarei para casa assim que terminar esta lista de inventário.}
+{115}{}{Você não tem alguma casa para ir?}
+{116}{}{Bem-vindo! Todos nós já ouvimos sobre suas façanhas contra a Enclave. Posso pegar algo para você beber?}
 {117}{}{Awnt-awnt}
 {118}{}{Desliga}
 {119}{}{O que você tem aí?}
-{120}{}{I was looking for some information.}
+{120}{}{Estava procurando algumas informações.}
 {121}{}{Nada por hoje, valeu.}
-{122}{}{Heh-heh, "awnt-awnt" to you, too. Please be careful out in the wastes.}
+{122}{}{Heh-heh, "awnt-awnt" para você também. Por favor, tenha cuidado no deserto.}
 {123}{}{Oonnt-oooont!}
 {124}{}{Desliga}
-{125}{}{What can I do for you, Captain?}
-{126}{}{What can I do for you, Citizen?}
-{127}{}{Yes? Can I help you?}
+{125}{}{O que posso fazer por você, capitão?}
+{126}{}{O que posso fazer por você, Cidadão?}
+{127}{}{Sim? Posso ajudar?}
 {128}{}{Awnt-awnt}
 {129}{}{Desliga}
 {130}{}{O que você tem aí?}
-{131}{}{I was looking for some information.}
+{131}{}{Estava procurando algumas informações.}
 {132}{}{Nada por hoje, valeu.}
-{133}{}{Yes, "awnt-awnt" to you, too. Hold on a moment while I summon the guards to "awnt-awnt" you to the front gate.}
-{134}{}{Urnt? Urnt-urnt.}
+{133}{}{Sim, "awnt-awnt" para você também. Espere um momento enquanto eu chamo os guardas para "awnt-awnt" com você no portão da frente.}
+{134}{}{Urnt? Batata.}
 {135}{}{Desliga}
-{136}{}{"On tap?" How... quaint.}
+{136}{}{"Na torneira?" Que pitoresco.}
 {137}{}{We have mineral water, distilled water, and sparkling water. We also have several synthesized alcohols.}
 {138}{}{Um... what synthesized alcohols do you have?}
 {139}{}{Uh, do you have any real drinks?}
@@ -101,7 +101,7 @@
 {200}{}{Nunca sentimos a necessidade de envenenar nossos sistemas com essas misturas cheias de bactérias. O bar no Pátio podia ser menos... discriminador.}
 {201}{}{Vou só tomar um pouco de água, então.}
 {202}{}{Espere um minuto. Que 'bebidas sintetizadas' você tem?}
-{203}{}{I was looking for some information.}
+{203}{}{Estava procurando algumas informações.}
 {204}{}{Vou verificar então, obrigado.}
 {205}{}{Talvez eu vá para outro lugar, então.}
 {206}{}{Então talvez você devesse estar em nosso centro de informações em vez deste estabelecimento, ele está localizado no centro da cidade. Agora vá em frente... Tenho outros clientes.}

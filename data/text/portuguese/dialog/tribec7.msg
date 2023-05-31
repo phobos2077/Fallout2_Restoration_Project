@@ -13,7 +13,7 @@
  way out of here.}
 {207}{}{[You nod at Sulik] These bastards will pay. Lock and load ol' buddy.}
 {208}{}{[A few minutes pass by and you finally hear a click from the lock. The door swings open.]}
-{209}{}{[You turn to Kurisu.] Alright, stay close and keep your head down. [To the other slaves.] Keep quiet and head for the woods.}
+{209}{}{[Você se vira para Kurisu.] Tudo bem, fique por perto e mantenha a cabeça baixa. [Para os outros escravos.] Fiquem quietos e vão para a floresta.}
 {210}{}{[Alguns minutos se passam e você não consegue destrancar a porta.]}
 {211}{}{Deve haver outra maneira de destrancar esta porta. Vamos ver se consigo algum tipo de chave. Espere aqui, eu voltarei.}
 {212}{}{Tudo bem, Sulik, é hora do seu plano. Hora de varrer o lixo.}
@@ -21,8 +21,8 @@
 {214}{}{Alguma sorte, amigo? Mais depressa, por favor.}
 {215}{}{Ainda não. Ainda estou trabalhando nisso.}
 {216}{}{Eu tenho as chaves. Hora de tirar você daqui.}
-{217}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. Who be... Sulik? Do the spirits be teasing, or is that really you, brother?}
-{218}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. And I sense you be the one sending em. What you be needin', Ghost-maker?}
+{217}{}{Por que há tanta comoção lá fora? Ah, sinto que muitos foram se juntar aos espíritos. Quem é... Sulik? Os espíritos estão zombando, ou é mesmo você, irmão?}
+{218}{}{Por que há tanta comoção lá fora? Ah, sinto que muitos foram se juntar aos espíritos. E sinto que é você quem está enviando. O que você precisa, criador de fantasmas?}
 {219}{}{Eu vim para te resgatar.}
 {221}{}{Louvado seja os espíritos! Por favor, você precisa nos tirar da jaula. Longe deste lugar maligno.}
 {222}{}{Louvamos aos espíritos! Agora devo ir e voltar ao meu povo, há muito tempo que sinto falta. Por favor, passe na minha aldeia. Fica perto da Grande Água Salgada, alguns dias a sudoeste daqui. Obrigado, amigo.}
@@ -74,19 +74,19 @@
 {921}{}{Eu tento fechadura.}
 {922}{}{[Você acena para Sulik] Vamos lutar contra homens maus agora.}
 {923}{}{Eu ainda trabalho.}
-{930}{}{[You turn to Kurisu.] I protect yoo. [To the other slaves.] Go home.}
-{940}{}{Lockpick no work. I look for key. Yoo wait.}
-{941}{}{Lockpick no work. [You turn to Sulik] We fight bad men now.}
-{950}{}{I "Chosen One". Who yoo?}
+{930}{}{[Você se vira para Kurisu.] Eu protejo você. [Para os outros escravos.] Vá a casa.}
+{940}{}{Fechadura não vai. Procuro chave. Você espera.}
+{941}{}{Fechadura não vai. [Você se vira para Sulik] Nós lutar com homens maus agora.}
+{950}{}{Eu "Escolhido". Quem você?}
 {951}{}{Eu}
-{952}{}{. Who yoo?}
-{960}{}{It safe. We go home.}
-{961}{}{It no safe. More bad men to kill.}
-{970}{}{You welcome. How they get yoo?}
-{971}{}{Yes, bad men no good. What yoo do now?}
-{972}{}{Thankeee. Bye!}
-{973}{}{I know Sulik. Sulik me friend. He talk like me. He talk with bone in nose.}
-{974}{}{I bring him. He miss yoo.}
+{952}{}{. Quem você?}
+{960}{}{É seguro. Nós vamos para casa.}
+{961}{}{Não é seguro. Mais homens maus pra matar.}
+{970}{}{De nada. Como eles ficam com você?}
+{971}{}{Sim, homens maus não são bons. O que você faz agora?}
+{972}{}{Obrigadooo. Tchau!}
+{973}{}{Conheço Sulik. Sulik meu amigo. Ele fala como eu. Ele fala com osso no nariz.}
+{974}{}{Eu o trago. Ele sente sua falta.}
 {975}{}{Me sorry. He dead.}
 {976}{}{I still look.}
 {1000}{}{You reunite Sulik and his sister.}

@@ -47,12 +47,12 @@
 {135}{}{O que está acontecendo por aqui?}
 {136}{}{Nothing today, thanks. Goodbye.}
 {137}{}{Yeah, wish I could get the hell outta here.}
-{138}{}{Why don't you leave?}
+{138}{}{Por que você não vai embora?}
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
-{140}{}{I'm heading out that way again. Why don't you come along?}
+{140}{}{Estou indo para lá de novo. Por que você não vem junto?}
 {141}{}{Bem, boa sorte para você.}
 {142}{}{Não... parece que você tem gente suficiente te seguindo.}
-{143}{}{All right. Well, good luck.}
+{143}{}{Tudo bem. Bem, boa sorte.}
 {144}{}{Sabe, isso não parece uma má ideia. Conte comigo.}
 {145}{}{Sim, o que?}
 {146}{}{Eu preciso que você saia do meu caminho.}

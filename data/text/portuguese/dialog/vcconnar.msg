@@ -106,8 +106,8 @@
 {226}{}{Alright, take care then.}
 {300}{}{Any news on our dilemma?}
 {301}{}{Not yet. I'll report back when I find something.}
-{302}{}{Good news: I've convinced the Vault City council not to touch your village.}
-{310}{}{If you're willing to part with those weapons you're carrying, we're willing to pay you $5,000 for them.}
+{302}{}{Boas notícias: convenci o conselho de Vault City a não tocar em sua vila.}
+{310}{}{Se você estiver disposto a se livrar das armas que está levando, estamos dispostos a pagar US$ 5.000 por elas.}
 {311}{}{Você tem um acordo. Aqui estão as armas.}
 {312}{}{Sem trato. É um mundo perigoso lá fora e preciso de todas as armas que puder. Adeus.}
 {400}{}{Obrigado, amigo. Com essas armas temos uma chance!}

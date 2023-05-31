@@ -19,7 +19,7 @@
 {118}{}{Dwinkie-winkie me make stinkie}
 {119}{}{Desliga}
 {120}{}{O que você tem aí?}
-{121}{}{I was looking for some information.}
+{121}{}{Estava procurando algumas informações.}
 {122}{}{I have that shipment of alcohol you wanted.}
 {123}{}{Nada por hoje, valeu.}
 {124}{}{Uh... so I smell. Um, thanks again for saving the world and all.}
@@ -32,12 +32,12 @@
 {131}{}{Thankie wankie my stankie}
 {132}{}{Desliga}
 {133}{}{Uh... o que posso fazer por você, capitão?}
-{134}{}{What can I do for you, Citizen?}
-{135}{}{Yes? Can I help you?}
+{134}{}{O que posso fazer por você, Cidadão?}
+{135}{}{Sim? Posso ajudar?}
 {136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
 {137}{}{Desliga}
 {138}{}{O que você tem aí?}
-{139}{}{I was looking for some information.}
+{139}{}{Estava procurando algumas informações.}
 {140}{}{I have that shipment of alcohol you wanted.}
 {141}{}{Nada por hoje, valeu.}
 {142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second... I want the guards to hear it, too.}
@@ -130,11 +130,11 @@
 {229}{}{Hoje não.}
 {230}{}{Isso é certeza. Eu costumava ter um... bem, eu conhecia um comerciante que tinha uma garrafa de Maddog 30/30. Coisas amargas... não consegui sentir minha língua depois, mas foi refrescantemente diferente.}
 {231}{}{O que aconteceu com o esconderijo desse "comerciante"?}
-{232}{}{I was looking for some information.}
+{232}{}{Estava procurando algumas informações.}
 {233}{}{Entendo. Bem, foi bom falar com você.}
 {234}{}{Estava bêbado. Ou então eu ouvi. Havia alguns outros "amigos" aqui em Vault City que ajudaram este amigo comerciante a beber o estoque. Eles estavam dispostos a pagar um bom preço para ter o material real para negociar.}
 {235}{}{Aposto. Você sabe, eu provavelmente poderia pegar mais coisas reais, fácil. Eu tenho viajado muito pelo deserto, e conseguir álcool não é grande coisa.}
-{236}{}{I was looking for some information.}
+{236}{}{Estava procurando algumas informações.}
 {237}{}{Entendo. Bem, foi bom falar com você.}
 {238}{}{É assim mesmo? Bem, se por acaso você está procurando se livrar de um pouco de álcool de verdade, então eu posso fazer valer a pena. Se você pudesse ficar quieto sobre o nosso acordo. E faça o contrabando passar pelo portão.}
 {239}{}{Quanto álcool real você precisaria?}

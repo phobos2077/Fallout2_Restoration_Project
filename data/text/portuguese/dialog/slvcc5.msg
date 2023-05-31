@@ -28,7 +28,7 @@
 {506}{}{But, uh, I've never seen you before. Where's the usual guy?}
 {507}{}{He's sick. Bad case of the flu.}
 {508}{}{He was killed during a slave run.}
-{509}{}{Damn, that's too bad. Well, go ahead then. I'll be here if you need something.}
-{510}{}{The flu? Yeah, right. Looks like we got an intruder on our hands.}
-{600}{}{I warned you, asshole!}
+{509}{}{Droga, isso é muito ruim. Bem, vá em frente então. Estarei aqui se precisar de algo.}
+{510}{}{A gripe? Ok, certo. Parece que temos um intruso em nossas mãos.}
+{600}{}{Eu te avisei, idiota!}
 {800}{}{[FEITO]}
