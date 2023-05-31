@@ -98,10 +98,10 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {188}{}{Não, obrigado.}
 {189}{}{Ha! Good luck, Outsider. The only way you'll get a Day Pass outta ol' man Wallace is if you pry
  it from his stingy, dead fingers.}
-{190}{}{I'll try him anyway.}
-{191}{}{If that's what it takes...}
-{192}{}{You reconsider?}
-{193}{}{You again. What do you want?}
+{190}{}{Vou tentar com ele de qualquer forma.}
+{191}{}{Se é isso que é preciso...}
+{192}{}{Você reconsidera?}
+{193}{}{Você novamente. O que você quer?}
 {194}{}{Vauti? Vauti!}
 {195}{}{Desliga}
 {196}{}{O que é este lugar?}
@@ -139,9 +139,9 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {228}{}{Uau. Como você escapou? É melhor voltar para dentro antes que o Barkus fique furioso. Vamos lá...}
 {229}{}{Okeeeee}
 {230}{}{Desliga}
-{231}{}{Like I said before, I can make you a full-fledged Citizen for $200. You'll have free passage
- through the gate, no hassles. I can print out the papers, register your serial number,
- and have you on your way in five minutes.}
+{231}{}{Como eu disse antes, posso torná-lo um cidadão de pleno direito por $200. Você terá
+ passagem livre pelo portão, sem aborrecimentos. Posso imprimir os papéis, registrar
+ seu número de série e deixá-lo pronto em cinco minutos.}
 {232}{}{O que é preciso para se tornar um verdadeiro Cidadão?}
 {233}{}{E se eu fizer? Eu poderia dizer a ele agora mesmo que você está vendendo documentos de cidadania falsos.}
 {234}{}{Espero que sim. Eu posso ser bastante persuasivo.}

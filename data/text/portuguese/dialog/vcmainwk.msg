@@ -122,24 +122,24 @@
 {219}{}{Show her your pistols.}
 {220}{}{Show her your rifles.}
 {221}{}{Show her your general inventory.}
-{222}{}{Never mind. I wanted to know something else...}
+{222}{}{Deixa para lá. Queria saber outra coisa...}
 {223}{}{Talvez alguma outra hora.}
-{224}{}{I could put a speed loader on that magnum of yours for $800.}
-{225}{}{Hmmmm. That Desert Eagle you have... I could give it an expanded magazine, if you want. That'll cost $1000.}
-{226}{}{Upgrade the magnum.}
-{227}{}{How about $650 for the magnum upgrade instead?}
-{228}{}{Upgrade the Desert Eagle.}
-{229}{}{How about $850 for the Desert Eagle?}
-{230}{}{Forget the pistols. Can you upgrade any of my other weapons?}
+{224}{}{Posso colocar um carregador rápido nessa sua magnum por $800.}
+{225}{}{Hmmmm. Aquela Desert Eagle que você tem... Posso colocar um pente expandido, se quiser. Isso custaria US$1.000.}
+{226}{}{Melhora a magnum.}
+{227}{}{Que tal $650 para melhorar a magnum?}
+{228}{}{Melhora a Desert Eagle.}
+{229}{}{Que tal $850 pela a Desert Eagle?}
+{230}{}{Esqueça as pistolas. Você pode melhorar alguma das minhas outras armas?}
 {231}{}{Eu queria saber outra coisa...}
-{232}{}{I'll be back when I have some more cash.}
-{233}{}{Hmmm. Maybe some other time.}
-{234}{}{That assault rifle you got there... I can give it an expanded magazine for $1500.}
-{235}{}{Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.}
+{232}{}{Voltarei quando tiver mais dinheiro.}
+{233}{}{Hmmm. Talvez outra hora.}
+{234}{}{Aquele fuzil de assalto que você tem aí... Posso dar a ele um pente expandido por $1.500.}
+{235}{}{Hmmmm. Eu tenho uma mira de visão noturna que posso colocar nessa FN FAL por $3.500.}
 {236}{}{Aumente o pente do rifle de assalto AK-112.}
-{237}{}{How about $1350 for upgrading the assault rifle?}
+{237}{}{Que tal $1350 para melhorar o rifle de assalto?}
 {238}{}{Instale essa visão noturna no FN FAL.}
-{239}{}{How about $3100 for the low-light scope?}
+{239}{}{Que tal $3100 pela mira de visão noturna?}
 {240}{}{Você poderia melhorar uma das minhas outras armas?}
 {241}{}{Deixa para lá. queria outra coisa...}
 {242}{}{Na verdade, nenhuma delas. Preciso ir.}
@@ -230,7 +230,7 @@
 {327}{}{Ha! Eu sabia. Descuidado, descuidado.}
 {328}{}{Seu "chefe" provavelmente é melhor em consertar as coisas do que você.}
 {329}{}{2 Segundos}
-{330}{}{Well, Val, last I saw you, you could barely tell a lug nut from a wrench.}
+{330}{}{Bem, Val, da última vez que te vi, você mal conseguia distinguir uma porca de uma chave inglesa.}
 {331}{}{2 Segundos}
 {332}{}{Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass.}
 {333}{}{2 Segundos}

@@ -149,11 +149,11 @@
 {248}{}{Esqueça. Talvez a gente converse outra hora.}
 {249}{}{Hmmm. Bem, não vou recusar nenhuma ajuda neste momento. Você encontra a base deles, ou melhor ainda, os elimine, vá contar a Primeira Cidadã.}
 {250}{}{Na verdade, eu já encontrei a base deles.}
-{251}{}{Actually, I wiped them out already.}
+{251}{}{Na verdade, eu já eliminei.}
 {252}{}{Alguma ideia de onde esses invasores estão atacando?}
 {253}{}{Certo. Eu tenho outras perguntas...}
 {254}{}{Eu vou fazer isso.}
-{255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
+{255}{}{Curioso, né? Eu também. Agora, o que você sabe sobre os invasores?}
 {256}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {257}{}{Eu não sei nada. É por isso que estou perguntando.}
 {258}{}{Deixa para lá. Eu tinha algumas perguntas...}
@@ -217,9 +217,9 @@
 {316}{}{Sem problemas. Eu já explorei a área.}
 {317}{}{Tudo bem. Voltarei quando tiver feito o reconhecimento da área.}
 {318}{}{Pensando bem, conte comigo. Adeus.}
-{319}{}{If they keep poisoning our groundwater, we may be forced to take military action.}
-{320}{}{I want to see how much damage the plant meltdown caused to the area.}
-{321}{}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again.}
+{319}{}{Se eles continuarem envenenando nossas águas subterrâneas, podemos ser forçados a tomar medidas militares.}
+{320}{}{Quero ver quanto dano o colapso da usina causou na área.}
+{321}{}{Podemos ser forçados a tomar medidas militares contra eles no futuro, especialmente se eles começarem a envenenar as águas subterrâneas novamente.}
 {322}{}{Now do you want the job or not?}
 {323}{}{Yes. I've already scouted out the area, though.}
 {324}{}{I'll take the job. I'll report back when I'm done.}

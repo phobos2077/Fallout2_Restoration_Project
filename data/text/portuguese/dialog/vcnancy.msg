@@ -97,20 +97,20 @@
 {196}{}{Uh... maybe you SHOULD go speak to him. You two may have more in common than I first thought.}
 {197}{}{Can I ask you another question first?}
 {198}{}{All right then. I'll go speak to him.}
-{199}{}{Vault City? Well, actually, there's not much to say. I mean, I've been a Citizen all my life... but there's not much to do in Vault City. At all.}
-{200}{}{It seems a shame that a beautiful young woman such as yourself can't find SOMETHING to do in Vault City.}
-{201}{}{Nothing at all? Come on.}
-{202}{}{Can I ask you another question...}
-{203}{}{Oh, well. Just thought I'd ask.}
-{204}{}{Look, I know you're a new Citizen and all, and I don't mean to throw a damper on your Citizenship, but this City can be VERY dull at times.}
-{205}{}{Dull? How so?}
-{206}{}{That's too bad. I had some other questions...}
-{207}{}{Oh, well. Sorry to hear it.}
-{208}{}{I mean, have you noticed how similar everyone is? And OLD? Most of the seminars and extracurricular activities are geared towards octogenarians. I'm barely twenty-five, and this city makes me feel like I'm fifty.}
-{209}{}{Uh... octo-genarians? You mean the guards?}
-{210}{}{Speaking of old, I noticed there aren't any children in the city.}
-{211}{}{I DID notice the similarity of Citizens.}
-{212}{}{Oh, well. Just thought I'd ask.}
+{199}{}{Vault City? Bem, na verdade, não há muito o que dizer. Quer dizer, eu fui um cidadão toda a minha vida... mas não há muito o que fazer em Vault City. Nada mesmo.}
+{200}{}{É uma pena que uma bela jovem como você não consiga encontrar NADA para fazer em Vault City.}
+{201}{}{Nada mesmo? Vamos lá.}
+{202}{}{Queria te fazer outra pergunta...}
+{203}{}{Ah bem. Só pensei em perguntar.}
+{204}{}{Olha, eu sei que você é um cidadão novo e tudo mais, e não quero estragar sua cidadania, mas esta cidade pode ser MUITO chata às vezes.}
+{205}{}{Chato? Como assim?}
+{206}{}{Que pena. Eu tinha outras perguntas...}
+{207}{}{Ah, bem. Lamento ouvir isso.}
+{208}{}{Quero dizer, você notou como tudo parece igual? E velho? A maioria dos seminários e atividades extracurriculares é voltada para octogenários. Mal tenho vinte e cinco anos, e esta cidade me faz sentir como se tivesse cinquenta.}
+{209}{}{Uh... octo-genários? Você quer dizer os guardas?}
+{210}{}{Falando em velho, notei que não tem crianças na cidade.}
+{211}{}{Eu notei essa semelhança entre os cidadãos.}
+{212}{}{Ah bem. Só pensei em perguntar.}
 {213}{}{Uh no... "octogenarian" is an adjective that refers to a person who is eighty years old. }
 {214}{}{Uh, okay. Can I ask you another question?}
 {215}{}{All right then. Maybe we'll speak later.}
@@ -129,7 +129,7 @@
 {228}{}{Oh, você quer dizer relação sexual? A relação sexual ainda é permitida fora dos ciclos de gravidez.}
 {229}{}{Isso não deixa as pessoas grávidas?}
 {230}{}{Oh. Ei, tenho algumas outras perguntas…}
-{231}{}{Oh, well. Just thought I'd ask.}
+{231}{}{Ah bem. Só pensei em perguntar.}
 {232}{}{Oh, não, não... veja, nossas gravidezes não resultam de relações sexuais.}
 {233}{}{Tenho medo de perguntar. Mas eu vou de qualquer jeito.}
 {234}{}{Eu não quero mais nada. Mas eu tenho algumas outras perguntas...}
@@ -152,13 +152,13 @@
 {251}{}{Bem, na verdade... veja bem, isso é algo em que tenho pensado ultimamente, mas os cidadãos não parecem ter gravidezes acidentais. As únicas gestações bem-sucedidas foram facilitadas pelo Auto-Doc.}
 {252}{}{Você sabe, a radiação de fundo pode resultar em esterilidade ou pior ainda, dano cromossômico. Pode valer a pena conferir.}
 {253}{}{Talvez seja só porque eles não fazem muito sexo de verdade por aqui.}
-{254}{}{Oh, well. Just thought I'd ask.}
+{254}{}{Ah bem. Só pensei em perguntar.}
 {255}{}{Sabe, eu estava pensando a mesma coisa. Talvez eu devesse mencionar isso ao Dr. Troy. Ele tem estado muito ocupado para investigar isso ultimamente, mas o próximo ciclo de gravidez ESTÁ chegando, então...}
 {256}{}{Posso fazer mais algumas perguntas?}
 {257}{}{Mencionar isso ao Dr. Troy seria uma boa ideia. Boa sorte.}
 {258}{}{É como se fossem todos... clones. Todos se vestem da mesma forma, agem da mesma forma, e o pior é que todos parecem felizes com isso. Eu... bem, às vezes me preocupo em acabar sendo como eles. Isso provavelmente parece bobo, não é?}
 {259}{}{De jeito nenhum. A pressão para se conformar deve ser muito difícil por aqui, especialmente considerando o quão isolada é a comunidade de Vault City.}
-{260}{}{Oh, well. Just thought I'd ask.}
+{260}{}{Ah bem. Só pensei em perguntar.}
 {261}{}{Sim, às vezes pode ser meio opressor. Mas aqui estou, derrubando sua opinião sobre Vault City. Não me entenda mal, é um ótimo lugar para se viver.}
 {262}{}{Apenas uma sugestão, mas você pode querer viajar um pouco para fora de Vault City. Até fale com alguns dos mercadores no Pátio. Eles podem ser capazes de ampliar um pouco seus horizontes.}
 {263}{}{Tem suas vantagens, sem dúvida. Posso te fazer algumas outras perguntas?}
@@ -173,18 +173,18 @@
 {272}{}{Perdão?}
 {273}{}{Não pude deixar de notar que você é uma jovem atraente que costuma sair de vez em quando. Que tal você e eu sairmos para jantar?}
 {274}{}{Deixa para lá. Posso te fazer outra pergunta?}
-{275}{}{Oh, well. Just thought I'd ask.}
+{275}{}{Ah bem. Só pensei em perguntar.}
 {276}{}{Oh. Eu... sabe, eu adoraria, mas não posso.}
 {277}{}{Oh. Bem, eu... eu adoraria.}
 {278}{}{Ah, vamos. Sou novo, vou ter problemas se sair por aí sozinho.}
 {279}{}{Tudo bem. Posso te fazer algumas perguntas então?}
-{280}{}{Oh, well. Just thought I'd ask.}
+{280}{}{Ah bem. Só pensei em perguntar.}
 {281}{}{Grande! Vamos lá.}
 {282}{}{Obrigado pela noite maravilhosa.}
 {283}{}{Claro. Talvez a gente saia outra hora. Eu... uh, ligo para você. Tchau.}
 {284}{}{Sinto muito, mas não.}
 {285}{}{De acordo. Em vez disso, posso fazer algumas perguntas?}
-{286}{}{Oh, well. Just thought I'd ask.}
+{286}{}{Ah bem. Só pensei em perguntar.}
 {287}{}{Bem, é bom ver que o preconceito com homossexuais esta bem vivo em Vault City. Tchau.}
 {288}{}{. O que você faz por aqui?}
 {289}{}{. Se importa se eu te fizer algumas perguntas?}
