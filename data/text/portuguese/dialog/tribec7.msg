@@ -88,7 +88,7 @@
 {973}{}{Conheço Sulik. Sulik meu amigo. Ele fala como eu. Ele fala com osso no nariz.}
 {974}{}{Eu o trago. Ele sente sua falta.}
 {975}{}{Me sorry. He dead.}
-{976}{}{I still look.}
+{976}{}{Ainda procuro.}
 {1000}{}{You reunite Sulik and his sister.}
 {2000}{}{I *knew* the bonespirit's had big plans for you.}
 {2001}{}{First you be saving me. Then you be saving the world. You quite the hero.}

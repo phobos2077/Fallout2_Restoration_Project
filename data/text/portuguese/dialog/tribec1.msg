@@ -77,32 +77,32 @@
 {300}{}{Va para o inferno, sedutora! Vá trazer sua provocação para outro lugar. Não tenho tempo para perder com você.}
 {301}{}{Sim, foda-se você também. Tchau.}
 {302}{}{Seja o que for. Tchau.}
-{310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
- Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
-{311}{}{Thanks. You're not so bad yourself.}
-{312}{}{Of course I am. After all, I'm the Chosen One.}
-{320}{}{[Krom gives you a strange grin.] The God's know you've done wonders for me, girl, but perhaps you'd be interested
- in assisting the rest of the tribe?}
-{321}{}{Sure, I suppose I could help out a bit. What would you like me to do?}
-{322}{}{I wish I could help, but I should really be going now. Sorry.}
-{323}{}{You want me to fuck the rest of the tribe? What kind of a girl do you think I am?}
-{330}{}{[Krom bursts into hearty laughter.] Gods no, girl! Though that might do wonders for my warrior's morale, I'd
- hate to share honey as sweet as you. No, I have a far more mundane task for you, if you're willing.}
-{331}{}{That depends. What would you need me to do?}
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
- yet, but I've got a feeling about our next meeting.}
+{310}{}{[Várias horas se passam em uma névoa de paixão suada e brutal. Finalmente, você se deita no chão da cabana
+ de Krom, exausta. Krom está deitado ao seu lado, seus olhos devorando os contornos do seu corpo.] Pelos deuses, garota, você é incrível!}
+{311}{}{Obrigada. Você também não é de todo mau.}
+{312}{}{Claro que sou. Afinal, eu sou o Escolhido.}
+{320}{}{[Krom te dá um sorriso estranho.] Deus sabe que você fez maravilhas por mim, garota, mas talvez você esteja
+ interessada em ajudar o resto da tribo?}
+{321}{}{Claro, acho que posso ajudar um pouco. O que você gostaria que eu fizesse?}
+{322}{}{Eu gostaria de poder ajudar, mas eu realmente deveria ir. Desculpe.}
+{323}{}{Você quer que eu foda com o resto da tribo? Que tipo de garota você pensa que eu sou?}
+{330}{}{[Krom cai na gargalhada.] Deuses não, garota! Embora isso possa fazer maravilhas para a moral dos meus
+ guerreiros, eu odiaria compartilhar um mel tão doce quanto você. Não, tenho uma tarefa muito mais mundana para você, se quiser.}
+{331}{}{Depende. O que você precisa que eu faça?}
+{340}{}{[Ele olha para você, parecendo considerar algo por um momento.] Devo me encontrar com um desses malditos
+ comerciantes civilizados em breve, um homem gorducho e caolho, em quem confio tanto quanto confio em um radscorpion.
+ Ele ainda não nos enganou, mas tenho um pressentimento sobre nosso próximo encontro.}
 {341}{}{Por que?}
 {342}{}{Não vejo como entro nisso. Onde você quer chegar?}
-{350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all
- the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized
- trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the
- trade.}
+{350}{}{Quando conversamos pela última vez, ele se gabou de estar me trazendo algo realmente milagroso, e que eu seria
+ sensato em levar todas as peles de gecko douradas que pudesse carregar para o encontro. Não sei qual é o item
+ milagroso dele, mas provavelmente é alguma bugiganga civilizada que ele espera que eu ignore o suficiente para
+ pagar muito mais do que vale. É por isso que eu gostaria que você fizesse a troca.}
 {351}{}{Por que eu?}
 {352}{}{Desculpe, mas acho que vou passar. Tchau.}
-{360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
- civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
- feeling about you, and I've learned to trust my instincts.}
+{360}{}{Porque você é meu parente... um companheiro tribal, como eles nos chamam. Mas posso dizer que você teve
+ uma experiência recente com o mundo civilizado. Se ele tentar puxar alguma coisa, é mais provável que você
+ perceba do que eu. Além disso, tenho um bom pressentimento sobre você e aprendi a confiar em meus instintos.}
 {361}{}{Porque você é meu parente - um companheiro tribal, como eles nos chamam - mas posso dizer que você teve
  uma experiência recente com o mundo civilizado. Se ele tentar pegar algo, é mais provável que você perceba
  do que eu. Além disso, tenho um bom pressentimento sobre você, garota, e aprendi a confiar em meus instintos.}
@@ -213,28 +213,28 @@
 {580}{}{Morto por um maldito desmoronamento. Maldição dos deuses! Odeio perder bons homens dessa forma. Eles deveriam ter morrido no campo de batalha, como verdadeiros guerreiros que eram. [Ele balança a cabeça.] A perda deles é um grande golpe para esta tribo. De qualquer forma, obrigado por olhar. Seus serviços não são mais necessários.}
 {581}{}{Claro, a qualquer momento. Tchau.}
 {582}{}{Tenho certeza que foram grandes homens. Tchau.}
-{590}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died
- on the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, friend. You will
- always be welcome here.}
-{591}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died
- in the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, girl. You will always
- be welcome here.}
-{592}{}{Thanks. Take care, Krom.}
-{800}{}{Me tribe, Arroyo, need help. I help. I special chosen helper.}
-{801}{}{[Krom chuckles.] Yeah, you certainly are special. [He smiles and ruffles your hair with a hand that seems
- capable of crushing boulders.] You like helping, huh? How would you like to be our tribe's special helper?}
-{802}{}{I help! Wut you need?}
-{803}{}{Nu-uh. I help Arroyo. No time help others. Biiee!}
-{810}{}{We need pointy weapons. [He points at his spear.] Five spears, like this. [He holds up his fingers.] *Five*.
- Also, we need *ten*, that's twice as many, knifes. [He pulls out a knife and shows it to you.] Like this, okay? Five
- spears, doesn't matter how sharp they are. And ten normal knifes. Got it?}
-{811}{}{Otay. I go find pointy things.}
-{812}{}{I have many pointy things. I no need them all.}
-{820}{}{Did you change your mind? Want to be our tribe's special helper?}
-{821}{}{I special. I be big helper for tribe.}
-{830}{}{You find all the pointy things I asked for?}
-{831}{}{I found.}
-{832}{}{I still look.}
+{590}{}{Obrigado por localizar os caçadores. A perda de Jerem é grande, pois ele era um guerreiro habilidoso. Ele deveria
+ ter morrido no campo de batalha, não por um maldito desmoronamento. De qualquer forma, Serin deve se recuperar
+ totalmente, graças a você, amigo. Você sempre será bem-vindo aqui.}
+{591}{}{Obrigado por localizar os caçadores. A perda de Jerem é grande, pois ele era um guerreiro habilidoso. Ele deveria
+ ter morrido no campo de batalha, não por um maldito desmoronamento. De qualquer forma, Serin deve se recuperar
+ totalmente, graças a você, garota. Você sempre será bem-vinda aqui.}
+{592}{}{Obrigado. Tome cuidado, Krom.}
+{800}{}{Eu de tribo, Arroyo, preciso de ajuda. Eu ajudo. Eu Escolhido, ajudante especial.}
+{801}{}{[Krom ri.] Sim, você certamente é especial. [Ele sorri e bagunça seu cabelo com uma mão que parece
+ capaz de esmagar pedregulhos.] Você gosta de ajudar, né? Você gostaria de ser o ajudante especial da nossa tribo?}
+{802}{}{Eu ajudo! O que você precisa?}
+{803}{}{Nãã. Eu ajudo Arroyo. Sem tempo pra ajudar outros. Tchau!}
+{810}{}{Precisamos de armas pontiagudas. [Ele aponta para sua lança.] Cinco lanças, como esta. [Ele levanta os
+ dedos.] *Cinco*. Além disso, precisamos de *dez*, ou seja, o dobro de facas. [Ele puxa uma faca e mostra para você.]
+ Assim, ok? Cinco lanças, não importa o quão afiadas sejam. E dez facas normais. Entendeu?}
+{811}{}{Ok. Eu encontrar coisas pontiagudas.}
+{812}{}{Tenho muitas coisas pontiagudas. Eu não preciso de todas elas.}
+{820}{}{Você mudou de ideia? Quer ser o ajudante especial da tribo?}
+{821}{}{Eu especial. Eu sou um grande ajudante para a tribo.}
+{830}{}{Você encontrou todas as coisas pontiagudas que eu pedi?}
+{831}{}{Eu encontrei.}
+{832}{}{Ainda procuro.}
 {840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
 {841}{}{Adeus!}
 {850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}

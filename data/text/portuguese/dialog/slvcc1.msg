@@ -21,14 +21,14 @@
 {308}{}{[O suor começa a se formar na cabeça tatuada do homem.] Ei, espere um segundo. Eu nunca disse que não poderia dar algumas. Na verdade, aqui, pegue a chave do barraco, é onde guardamos nossas, uh, favoritas. A escolha certa, você pode dizer. [Ele te entrega uma chave e sorri nervosamente.]}
 {309}{}{Obrigado, vou falar bem de você. Tchau.}
 {310}{}{Metzger te mandou, é? Eu pareço cego para você? Você nem está usando a porra da nossa marca. Não sei quem você é, mas você fala merda e está me fazendo perder tempo. Por isso, vai morrer. [Sinal para seus homens.] Vamos acabar com esse perdedor.}
-{311}{}{Yeah right. You're full of shit and you're wasting my time. For that, you die. [Signals to his men.] Let's waste this loser.}
-{400}{}{I'm busy. Go see Metzger in the Den if you want to do a run.}
-{450}{}{Didn't I tell you to scram? We don't take too kindly to trespassers. Time to die.}
+{311}{}{Ok, certo. Você fala muita merda e está desperdiçando meu tempo. Por isso, vai morrer. [Sinal para seus homens.] Vamos acabar com esse perdedor.}
+{400}{}{Estou ocupado. Vá ver Metzger no Den se quiser uma corrida.}
+{450}{}{Eu não te disse para sumir? Não tratamos com muita gentileza os invasores. Hora de morrer.}
 {500}{}{[FEITO]}
 {600}{}{Agora é a hora que você vai morrer!}
-{601}{}{Die Ranger scum!}
-{800}{}{Umm... Give Metzger my regards.}
-{900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to
- pay a premium price.}
-{901}{}{Bullshit. Metzger's never sent a customer out here before. I don't know what you're trying to pull, but you've
- got three seconds to get the fuck outta my face before I have my boys pump you full of lead.}
+{601}{}{Morra escória Ranger!}
+{800}{}{Umm... Dê lembranças a Metzger.}
+{900}{}{Não, na verdade, ele me mandou dar uma olhada no seu estoque. Veja, eu tenho gostos muito particulares,
+ mas estou disposto a pagar um preço premium.}
+{901}{}{Besteira. Metzger nunca mandou um cliente aqui antes. Eu não sei o que você está tentando fazer, mas você
+ tem três segundos para dar o fora da minha cara antes que eu mande meus homens te encherem de chumbo.}

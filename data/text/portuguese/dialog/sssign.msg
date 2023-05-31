@@ -23,7 +23,7 @@
 {122}{}{A igualdade perante a lei é uma coisa boa.}
 {123}{}{(Voltar)}
 {124}{}{Eu li o suficiente.}
-{125}{}{Teaching these guys some respect is gaining priority on your list of things to do.}
+{125}{}{Ensinar algum respeito a esses caras está ganhando prioridade em sua lista de coisas a fazer.}
 {126}{}{É um pouco contundente, mas dá conta do recado.}
 {127}{}{(Voltar)}
 {128}{}{Eu li o suficiente.}

@@ -1,5 +1,5 @@
 {100}{}{Você vê um escravo.}
-{101}{}{You see a healthy looking slave.}
+{101}{}{Você vê um escravo de aparência saudável.}
 {320}{}{Você é mau!}
 {321}{}{Nós não conversamos com você.}
 {322}{}{Temos livre.}
@@ -25,6 +25,6 @@
 {358}{}{Quem essas pessoas pensam que são?}
 {359}{}{Por favor, ajude-nos!}
 {360}{}{Tire-me daqui.}
-{400}{}{Oh, why me!}
-{401}{}{*cough*}
+{400}{}{Ah, por que eu!?}
+{401}{}{*tosse*}
 {402}{}{*se coça*}
