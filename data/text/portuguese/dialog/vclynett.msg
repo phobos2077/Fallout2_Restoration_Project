@@ -765,12 +765,12 @@
 {765}{}{Before I go, I had some other questions...}
 {766}{}{Tudo bem. Recompensa, aqui vou eu.}
 {767}{}{Obrigado, Primeira Cidadã. Bom dia.}
-{768}{lyn132}{Your service has been exemplary. So much so that it is my honor to name you Captain of the
- Guard. Congratulations, Captain. You deserve it.}
-{769}{}{Uh... thanks.}
+{768}{lyn132}{Seu serviço tem sido exemplar. Tanto que é uma honra nomeá-lo Capitão da Guarda. Parabéns,
+ capitão. Você merece isso.}
+{769}{}{Uh... Obrigado.}
 {770}{}{Obrigado, Primeirã Cidadã.}
-{771}{lyn133}{In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
- receive your reward. We are in your debt... Captain.}
+{771}{lyn133}{Além disso, reporte-se a Randal, o Diretor de Serviços. Diga a ele que eu o enviei
+ e receba sua recompensa. Estamos em dívida com você... Capitão.}
 {772}{}{Before I go, I had some other questions...}
 {773}{}{Tudo bem. Recompensa, aí vou eu!}
 {774}{}{Obrigado, Primeira Cidadã. Bom dia.}
