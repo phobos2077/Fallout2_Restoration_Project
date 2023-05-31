@@ -16,16 +16,16 @@
 {222}{}{Não, não vou desculpá-lo, vou eliminá-lo e purgar o mundo de sua existência patética!}
 {230}{}{Bem, até recentemente eu era apenas o subalterno do xamã da aldeia. Isso foi fácil, eu apenas tive que seguir sua liderança. Então ele foi dar um mergulho bêbado à meia-noite na Grande Água Salgada e, bem, de repente fui promovido. Não pensei que seria tão ruim. Imaginei que poderia apenas falar alguma besteira mística e todo mundo ficaria feliz. Mas não, no mesmo dia em que adquiro o título de xamã, me vejo lidando com algo que está muito além da minha cabeça.}
 {231}{}{O que aconteceu?}
-{240}{}{There's an *actual* lost spirit roaming the woods just south of the village! It's true, I've seen her with my own eyes--a pretty girl with the blank look of the dead. The sight chilled me to the very core. The moment I saw her I pissed myself and ran as fast as I could. The others expect me to go back and guide her into the mists, but how can I? I'm too petrified to go near her again.}
-{241}{}{So what could I do to help?}
-{242}{}{Unless you got an extra pair of balls laying around that I could pin onto you, I don't know what I could do to help.}
-{250}{}{You could go to her. Try to figure out why she lingers in the mortal realm. She appears in the woods to the south at night. If you could find out anything that could help me, I'd greatly appreciate it.}
-{251}{}{Not my problem. It's time for you to man-up and do your job.}
-{252}{}{I'll look into it.}
-{260}{}{Did you change your mind? Will you help me with the lost spirit?}
-{261}{}{Like I said before, it's not my problem. Bye.}
-{262}{}{Eh, I suppose I could look into it. I'll let you know what I find out.}
-{270}{}{You're back. Did you discover anything about the lost spirit?}
+{240}{}{Há um espírito perdido *real* vagando pela floresta ao sul da vila! É verdade, eu vi com meus próprios olhos... uma garota bonita com o olhar vazio dos mortos. A visão me gelou até o âmago. No momento em que a vi, me mijei e corri o mais rápido que pude. Os outros esperam que eu volte e a guie pelas brumas, mas como posso? Estou petrificado demais para chegar perto dela novamente.}
+{241}{}{Então, o que eu poderia fazer para ajudar?}
+{242}{}{A menos que você tenha algumas bolas por aí que possam prender você, não sei o que posso fazer para ajudar.}
+{250}{}{Você poderia ir até ela. Tente descobrir por que ela permanece no reino mortal. Ela aparece na floresta ao sul à noite. Se você puder descobrir algo que possa me ajudar, eu agradeceria muito.}
+{251}{}{Não é problema meu. É hora de você ser homem e fazer o seu trabalho.}
+{252}{}{Vou investigar.}
+{260}{}{Você mudou de ideia? Vai me ajudar com o espírito perdido?}
+{261}{}{Como eu disse antes, não é problema meu. Tchau.}
+{262}{}{Eh, eu suponho que poderia dar uma olhada nisso. Eu vou te informar com o que eu descobrir.}
+{270}{}{Você voltou. Descobriu alguma coisa sobre o espírito perdido?}
 {271}{}{Eu estou trabalhando nisso. Eu voltarei aqui.}
 {272}{}{Eu falei com - er, ouvi - o espírito. Parece que ela foi traída e assassinada por seu amante, alguém chamado Thorg.}
 {280}{}{Thor?! Ele era o xamã quando servi como aprendiz. Nossa, eu sabia que ele era meio idiota, mas não nunca ia pensar em um assassino de garotas bonitas. Hmm, acho que um pouco de culpa ajuda a explicar por que um mergulho bêbado à meia-noite levou à sua própria morte. Então Thorg é um assassino... uau...}

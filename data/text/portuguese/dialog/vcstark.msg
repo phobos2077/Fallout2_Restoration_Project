@@ -220,9 +220,9 @@
 {319}{}{Se eles continuarem envenenando nossas águas subterrâneas, podemos ser forçados a tomar medidas militares.}
 {320}{}{Quero ver quanto dano o colapso da usina causou na área.}
 {321}{}{Podemos ser forçados a tomar medidas militares contra eles no futuro, especialmente se eles começarem a envenenar as águas subterrâneas novamente.}
-{322}{}{Now do you want the job or not?}
-{323}{}{Yes. I've already scouted out the area, though.}
-{324}{}{I'll take the job. I'll report back when I'm done.}
+{322}{}{Agora você quer o trabalho ou não?}
+{323}{}{Sim, eu já explorei a área.}
+{324}{}{Eu aceito o trabalho. Informarei quando terminar.}
 {325}{}{Eu aceito o trabalho. Mas eu tinha algumas perguntas primeiro...}
 {326}{}{Não, obrigado. Talvez outra hora.}
 {327}{}{Isso mesmo? Hehe. Bem... tudo bem então.}
@@ -240,7 +240,7 @@
 {338}{}{Não, obrigado. Adeus.}
 {339}{}{Isso é tudo que preciso. Estou mais interessado na rota do que na própria República, mas ainda precisarei que você entre na cidade assim que chegar lá.}
 {340}{}{Sem problemas. Já está feito.}
-{341}{}{I'll take the job. I'll report back when I'm done.}
+{341}{}{Eu aceito o trabalho. Informarei quando terminar.}
 {342}{}{Eu aceito o trabalho. Eu tinha algumas perguntas antes de sair...}
 {343}{}{Não, obrigado. Eu tinha algumas outras perguntas...}
 {344}{}{Acho que não quero esse trabalho. Talvez outra hora.}
@@ -258,13 +258,13 @@
 {356}{}{Olá novamente, Cidadão. Algo em que posso ajudá-lo?}
 {357}{}{Você está de volta? Está perdido, ou precisa de alguma coisa?}
 {358}{}{Como o que... senhor?}
-{359}{}{Yes, Citizen. What did you want to know?}
+{359}{}{Sim, cidadão. O que você queria saber?}
 {360}{}{Como o quê?}
 {361}{}{Hep-Hep Schlep-Bep}
 {362}{}{Desliga}
-{363}{}{You got some kind of problem, Sergeant?}
+{363}{}{Tem algum tipo de problema, Sargento?}
 {364}{}{Você quem invadiu o bar de Cassidy?}
-{365}{}{Have you heard of a Servant named Joshua?}
+{365}{}{Você já ouviu falar de um servo chamado Joshua?}
 {366}{}{O que você faz aqui?}
 {367}{}{Você pode me dizer onde fica a Vault?}
 {368}{}{I surveyed the area around Gecko for you.}

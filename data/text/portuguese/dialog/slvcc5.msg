@@ -23,11 +23,11 @@
  for delaying me?}
 {502}{}{Umm.. uhh... Okay, go right ahead then. I'll be here if you need something.}
 {503}{}{Thanks. I'll put in a good word for you with the big man. Bye.}
-{504}{}{Funny that Metzger would send someone that doesn't have our tattoo. You ain't fooling me. Time to take out the trash.}
-{505}{}{Look, a one headed brahmin!}
-{506}{}{But, uh, I've never seen you before. Where's the usual guy?}
-{507}{}{He's sick. Bad case of the flu.}
-{508}{}{He was killed during a slave run.}
+{504}{}{Engraçado que Metzger enviaria alguém que não tem a nossa tatuagem. Você não me engana, hora de tirar o lixo.}
+{505}{}{Olha, um brahmin de uma cabeça só!}
+{506}{}{Mas, uh, eu nunca te vi antes. Onde está o cara de sempre?}
+{507}{}{Ele está doente. Uma gripe grave.}
+{508}{}{Ele foi morto durante uma corrida de escravos.}
 {509}{}{Droga, isso é muito ruim. Bem, vá em frente então. Estarei aqui se precisar de algo.}
 {510}{}{A gripe? Ok, certo. Parece que temos um intruso em nossas mãos.}
 {600}{}{Eu te avisei, idiota!}

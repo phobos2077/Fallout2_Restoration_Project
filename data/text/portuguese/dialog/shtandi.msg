@@ -209,13 +209,13 @@
 {308}{tand45}{Você ganhou um bônus. Meu assistente vai resolver as coisas.}
 {309}{}{}
 {310}{}{Obrigado.}
-{311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
+{311}{tand46}{É, você é bem ligeiro. Tudo bem, veja Gunther. Ele cuidará dos preparativos.}
 {312}{}{Obrigado.}
-{313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
+{313}{tand47}{Rapazes, tirem essa monte de saliva de brahmins do meu escritório! É hora de você partir, estranho.}
 {314}{}{Feito}
-{315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}
-{316}{}{You'll have to talk to my aide, Gunther, about that.}
-{400}{}{Squatters want deal. You teach, you help, they give you vault.}
-{401}{}{The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
-{410}{}{As me said. Lowlifes there but me kick ass. Bye-bye.}
-{411}{}{As I mentioned before, there were some lowlifes there but I kicked their ass. See you around.}
+{315}{tand14b}{Meu pai e Seth procuraram por anos tentando encontrar a Vault 13. Morreram procurando... sempre disseram que ficava a oeste daqui. Se alguém encontrasse a Vault 13, seria ainda melhor do que a 15.}
+{316}{}{Você terá que falar com meu ajudante, Gunther, sobre isso.}
+{400}{}{Invasores querem acordo. Você ensina, você ajuda, eles te dão Vault.}
+{401}{}{Os invasores querem um acordo. Você os ajuda a se tornarem autossuficientes e eles te darão acesso a Vault.}
+{410}{}{Como eu disse. Tinha bandidos lá, mas eu chutei a bunda deles. Tchau.}
+{411}{}{Como mencionei antes, tinha alguns canalhas lá, mas eu chutei a bunda deles. Vejo você por aí.}

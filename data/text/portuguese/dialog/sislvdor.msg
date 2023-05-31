@@ -1,8 +1,8 @@
 {100}{}{Você verá uma porta de madeira.}
 {101}{}{Você verá uma porta de metal.}
-{102}{}{You see a study door with a lock which can be picked with
- lockpicks and a highly explosive trap in the doorframe, which
- you may be able to pry open.}
+{102}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas e uma armadilha altamente
+ explosiva no batente da porta, que você pode arrombar.}
 {103}{}{Você vê uma porta resistente com um bloqueio e uma
   armadilha explosiva no quadro da porta, que você poderá
   desarmar.}
@@ -12,18 +12,18 @@
 {105}{}{Você vê uma porta resistente com uma fechadura velha e
  enferrujada e uma armadilha explosiva no batente da porta, que
  você poderá desarmar.}
-{106}{}{You see a study door with a lock which can be picked with
- lockpicks and a trap in the doorframe, which you may be able to
- pry open.}
+{106}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas e uma armadilha no batente da
+ porta, que você pode arrombar.}
 {107}{}{Você vê uma porta resistente com um bloqueio e uma armadilha em
   o quadro da porta, que você poderá abrir.}
 {108}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha no quadro da porta, que você poderá abrir.}
 {109}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e uma armadilha
   no quadro da porta, que você poderá abrir.}
-{110}{}{You see a study door with a lock which can be picked with
- lockpicks and a cut wire in the doorframe, which you may be
- able to pry open.}
+{110}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas e um fio cortado no batente
+ da porta, que você pode forçar para abrir.}
 {111}{}{Você vê uma porta resistente com uma fechadura e um fio cortado
   no quadro da porta, que você poderá abrir.}
 {112}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
@@ -31,98 +31,98 @@
   abrir.}
 {113}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
   fio no quadro da porta, que você poderá abrir.}
-{114}{}{You see a study door with a lock which can be picked with
- lockpicks, which you may be able to pry open.}
+{114}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas, que você pode arrombar.}
 {115}{}{Você vê uma porta resistente com um bloqueio nele, o que você pode ser
   capaz de se abrir.}
 {116}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente,
   que você poderá abrir.}
 {117}{}{Você vê uma porta resistente com um bloqueio velho
  e enferrujado, que você pode abrir.}
-{118}{}{You see a study door with a lock which can be picked with
- lockpicks and a highly explosive trap in the doorframe.}
+{118}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas e uma armadilha altamente explosiva no batente da porta.}
 {119}{}{Você vê uma porta resistente com um bloqueio e uma
   armadilha explosiva no quadro da porta.}
 {120}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha altamente explosiva no quadro da porta.}
 {121}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
   armadilha explosiva no quadro da porta.}
-{122}{}{You see a study door with a lock which can be picked with
- lockpicks and a trap in the doorframe.}
+{122}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas e uma armadilha no batente da porta.}
 {123}{}{Você vê uma porta resistente com um bloqueio e uma armadilha em
   o quadro da porta.}
 {124}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
 {125}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e uma armadilha
   no batente da porta.}
-{126}{}{You see a study door with a lock which can be picked with
- lockpicks and a cut wire in the doorframe.}
+{126}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas e um fio cortado no batente da porta.}
 {127}{}{Você vê uma porta resistente com uma fechadura e um fio cortado
   no batente da porta.}
 {128}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   um fio cortado no quadro da porta.}
 {129}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
   fio no quadro da porta.}
-{130}{}{You see a study door with a lock which can be picked with
- lockpicks.}
+{130}{}{Você vê uma porta de escritório com uma fechadura que
+ pode ser arrombada com gazuas.}
 {131}{}{Você vê uma porta resistente com um bloqueio nela.}
 {132}{}{Você verá uma robusta porta aparente sem dispositivo de bloqueio.}
 {133}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado.}
-{134}{}{You see a damaged door with a lock which can be picked with
- lockpicks and a highly explosive trap in the doorframe.}
+{134}{}{Você vê uma porta danificada com uma fechadura que pode ser
+ arrombada com gazuas e uma armadilha altamente explosiva no batente da porta.}
 {135}{}{Você vê uma porta danificada com um bloqueio e uma
   armadilha explosiva no quadro da porta.}
 {136}{}{Você vê uma porta danificada sem dispositivo de bloqueio aparente e
   uma armadilha altamente explosiva no quadro da porta.}
 {137}{}{Você vê uma porta danificada com um bloqueio e uma
   armadilha explosiva no quadro da porta.}
-{138}{}{You see a damaged door with a lock which can be picked with
- lockpicks and a trap in the doorframe.}
+{138}{}{Você vê uma porta danificada com uma fechadura que pode
+ ser arrombada com gazuas e uma armadilha no batente da porta.}
 {139}{}{Você vê uma porta danificada com um bloqueio e uma
  armadilha no quadro da porta.}
 {140}{}{Você vê uma porta danificada sem dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
 {141}{}{Você vê uma porta danificada com um bloqueio e uma
  armadilha no quadro da porta.}
-{142}{}{You see a damaged door with a lock which can be picked with
- lockpicks and a cut wire in the doorframe.}
+{142}{}{Você vê uma porta danificada com uma fechadura que pode
+ ser arrombada com gazuas e um fio cortado no batente da porta.}
 {143}{}{Você vê uma porta danificada com um bloqueio e um fio cortado
   no batente da porta.}
 {144}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   um fio cortado no quadro da porta.}
 {145}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
   fio no quadro da porta.}
-{146}{}{You see a damaged door with a lock which can be picked with
- lockpicks.}
+{146}{}{Você vê uma porta danificada com uma fechadura que pode
+ ser arrombada com gazuas.}
 {147}{}{Você vê uma porta danificada com um bloqueio nele.}
 {148}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
 {149}{}{Você vê uma porta danificada com um bloqueio velho e enferrujado.}
-{150}{}{You see an old door with a lock which can be picked with
- lockpicks and a highly explosive trap in the doorframe.}
+{150}{}{Você vê uma porta velha com uma fechadura que pode ser
+ arrombada com gazuas e uma armadilha altamente explosiva no batente da porta.}
 {151}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
   armadilha explosiva no quadro da porta.}
 {152}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e
   uma armadilha altamente explosiva no quadro da porta.}
 {153}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
   armadilha explosiva no quadro da porta.}
-{154}{}{You see an old door with a lock which can be picked with
- lockpicks and a trap in the doorframe.}
+{154}{}{Você vê uma porta velha com uma fechadura que pode ser
+ arrombada com gazuas e uma armadilha no batente da porta.}
 {155}{}{Você vê uma porta velha com um bloqueio e uma
  armadilha no quadro da porta.}
 {156}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
 {157}{}{Você verá uma porta velha, a velha e enferrujada de bloqueio e uma armadilha
 no alizar de porta.}
-{158}{}{You see an old door with a lock which can be picked with
- lockpicks and a cut wire in the doorframe.}
+{158}{}{Você vê uma porta velha com uma fechadura que pode ser
+ arrombada com gazuas e um fio cortado no batente da porta.}
 {159}{}{Você vê uma porta velha com um bloqueio e um fio cortado
   no batente da porta.}
 {160}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   um fio cortado no quadro da porta.}
 {161}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
   fio no quadro da porta.}
-{162}{}{You see an old door with a lock which can be picked with
- lockpicks.}
+{162}{}{Você vê uma porta velha com uma fechadura que pode
+ ser arrombada com gazuas.}
 {163}{}{Você verá uma porta velha com um cadeado.}
 {164}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
@@ -177,5 +177,5 @@ a porta está aberta.}
 {209}{}{Você não configura adequadamente a armadilha no quadro da porta.}
 {210}{}{ habilmente define uma armadilha na moldura da porta.}
 {211}{}{ falha ao definir adequadamente a armadilha na moldura da porta.}
-{212}{}{This door does not unlock here.}
-{213}{}{The door won't budge.}
+{212}{}{Esta porta não abre aqui.}
+{213}{}{A porta não se move.}
