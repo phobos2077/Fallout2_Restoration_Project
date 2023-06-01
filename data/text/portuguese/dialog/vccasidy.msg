@@ -36,14 +36,14 @@
 {134}{Cas0134}{Ah, sim, foi uma bela visita. Uma patrulha de guardas invadiu aqui procurando "substâncias ilegais". Eles arrombaram a porta, arrebentaram meu estoque e depois arrebentaram alguns de meus clientes também.}
 {135}{}{O que aconteceu depois?}
 {136}{}{Lamento ouvir isso. Falo com você mais tarde.}
-{137}{Cas0137}{After they hauled away this one guy, Joshua, for resisting arrest, they fined my ass for finding - get this - REAL whiskey on the premises. Nevermind that I got a permit from Stark three months before. Bastards.}
-{138}{}{Whoa. No kidding.}
+{137}{Cas0137}{Depois que eles levaram embora um cara, Joshua, por resistir à prisão, eles me multaram por encontrar - olha só - uísque DE VERDADE no local. Nem importou que eu tivesse uma permissão de Stark de três meses atrás. Bastardos.}
+{138}{}{Nossa, tenso.}
 {139}{}{Lamento ouvir isso. Falo com você mais tarde.}
-{140}{Cas0140}{It gets better. Now I'm in debt to the guards for the fine, an' I had to buy a new case of alcohol from a merchant at triple my standard rate. I'm expecting the guards to come knocking again soon, just to bust my chops. }
-{141}{}{What's it like most of the time?}
-{142}{}{Hope things look up for you in the future. See you.}
-{143}{Cas0143}{Even the good days ain't worth a damn. The Citizens don't drink much, so I'm stuck here pouring drinks for merchants. The next cheap sonuvabitch who haggles for a drink is going to be wearing his ass as a hat.}
-{144}{}{Why are you here if you hate it so much?}
+{140}{Cas0140}{Fica ainda melhor. Estou em dívida com os guardas pela multa, e tive que comprar uma nova caixa de álcool de um comerciante pelo triplo do preço normal. Estou esperando que os guardas voltem a bater em breve, só para me pegar. }
+{141}{}{Como é na maioria das vezes?}
+{142}{}{Espero que as coisas melhorem para você no futuro. Até mais.}
+{143}{Cas0143}{Mesmo os bons dias não valem nada. Os Cidadãos não bebem muito, então estou preso aqui servindo bebidas para os mercadores. O próximo filho da puta que pechinchar por bebida eu vou arrancar a pele pra fazer um chapéu.}
+{144}{}{Se odeia tanto, por que ainda está aqui?}
 {145}{}{Sorry to hear that. I'm looking for a Vault. Can you help me out?}
 {146}{}{Sorry to hear it. Hope things get better.}
 {147}{Cas0147}{I have a bad heart. Need cardio booster shots to keep it beating. This city's the only place to get real medical care, so I thought I'd settle here, try and make a living.}

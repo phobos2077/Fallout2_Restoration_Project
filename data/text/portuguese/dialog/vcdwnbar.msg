@@ -64,7 +64,7 @@
 {163}{}{Gostaria de tomar um pouco de cerveja sintética.}
 {164}{}{Um pouco de vodca sintética realmente cairia bem.}
 {165}{}{Um pouco de tequila W2 seria ótimo.}
-{166}{}{Some water would be great.}
+{166}{}{Um pouco de água seria ótimo.}
 {167}{}{Leite de brahmin.}
 {168}{}{Actually, I was looking for some information.}
 {169}{}{Eu vou voltar quando eu tiver mais dinheiro.}

@@ -1,12 +1,12 @@
 {100}{}{Você vê uma mulher de aparência severa com óculos grossos, vestindo um macacão de Vault City. A julgar por seu porte, ela parece importante.}
 {101}{}{Você vê a Primeira Cidadã Lynette. Ela parece preocupada.}
 {102}{}{Você vê a Primeira Cidadã Lynette. Ela parece preocupada.}
-{103}{}{It is late. Schedule an appointment for tomorrow morning, and I will receive you then.}
-{104}{}{As I SAID, I don't receive visitors this late. MOST Citizens have retired to bed by this time.}
-{105}{}{Schedule an appointment for tomorrow morning. I will receive you then.}
-{106}{}{I will speak with you TOMORROW.}
-{107}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.}
-{108}{}{I don't know what you intend to gain by clicking on me, but I won't tolerate it much longer.}
+{103}{}{É tarde. Agende uma consulta para amanhã de manhã, e eu o receberei.}
+{104}{}{Como eu DISSE, não recebo visitas tão tarde. A MAIORIA dos cidadãos já se retirou para dormir a essa altura.}
+{105}{}{Agende um horário para amanhã de manhã. Eu vou te receber.}
+{106}{}{Falo com você AMANHÃ.}
+{107}{}{Não sei como passou pelos guardas e entrou em meus aposentos particulares, mas é melhor ir embora.}
+{108}{}{Não sei o que você pretende ganhar me pressionando, mas não vou tolerar por muito tempo.}
 {109}{}{Perhaps you find clicking on me... amusing. Perhaps you will find the Corrections Center just as humorous.}
 {110}{}{I appreciate your attention, but I really am quite dangerous when riled.}
 {111}{}{I am the First Citizen! I must have my sleep!}
@@ -632,33 +632,33 @@
 {649}{}{Eu tenho mais algumas perguntas...}
 {650}{}{I have to be going. Goodbye.}
 {651}{}{I'm sorry to hear that; perhaps they will go elsewhere in search of easier targets. Good day, First Citizen.}
-{652}{lyn105}{Outsider trash. For over a century, Outsiders have tried to loot our city... and have
- always failed. Eventually, we will defeat this group.}
-{653}{}{Uh... "eventually?" Why haven't you wiped them out already?}
+{652}{lyn105}{Lixo do exterior. Por mais de um século, Forasteiros tentaram saquear nossa cidade...
+ e sempre falharam. Eventualmente, vamos derrotar este grupo.}
+{653}{}{Uh... "eventualmente?" Por que você ainda não os derrotou?}
 {654}{}{Posso te fazer outra pergunta?}
 {655}{}{I have to be going. Goodbye.}
-{656}{}{I have to go. Good day, First Citizen.}
-{657}{lyn106}{Finding their base has proven difficult. In addition, they also have a great deal of
- firepower. Nevertheless, we have repelled every attack... with minimal casualties.}
+{656}{}{Eu tenho que ir. Bom dia, Primeira Cidadã.}
+{657}{lyn106}{Encontrar sua base provou ser difícil. Além disso, eles também têm um grande
+ poder de fogo. No entanto, repelimos todos os ataques... com o mínimo de baixas.}
 {658}{}{Posso te fazer outra pergunta?}
 {659}{}{I have to be going. Goodbye.}
-{660}{}{Thanks for your time. Good day, First Citizen.}
-{661}{lyn107}{What is it? }
-{662}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
-{663}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
-{664}{}{Information has its price.}
+{660}{}{Obrigado pelo seu tempo. Bom dia, Primeira Cidadã.}
+{661}{lyn107}{O que é? }
+{662}{}{Encontrei a base deles. Eles estão escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{663}{}{Eu os eliminei. Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{664}{}{A informação tem seu preço.}
 {665}{}{Deixa pra lá. Eu tenho que ir.}
-{666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
- Could you end the attacks? I'll pay you.}
-{667}{}{No, I'm too busy at the moment.}
+{666}{lyn108}{Você tem? Excelente! Mas os guardas da cidade já estão sobrecarregados... E você?
+ Você poderia acabar com os ataques? Eu te pagarei.}
+{667}{}{Não, estou muito ocupado no momento.}
 {668}{}{Eu vou ver o que posso fazer.}
-{669}{lyn109}{Very well. If you'll excuse me, I am also very busy. You can find your own way out.}
-{670}{}{I had some other questions I wanted to ask you first...}
+{669}{lyn109}{Muito bem. Se me der licença, também estou muito ocupada. Você pode encontrar sua própria saída.}
+{670}{}{Eu tenho algumas outras perguntas que queria te fazer...}
 {671}{}{Muito bem, estou saindo.}
 {672}{}{Muito bem. Bom dia, Primeira Cidadã.}
-{673}{lyn110a}{Mercenaries? Who hired them?}
-{674}{lyn110b}{Yes, I believe you mentioned that before. Do you know who hired them?}
-{675}{}{I'm betting it was the Bishop Family in New Reno. }
+{673}{lyn110a}{Mercenários? Quem os contratou?}
+{674}{lyn110b}{Sim, acho que você mencionou isso antes. Você sabe quem os contratou?}
+{675}{}{Aposto que foi a Família Bishop em New Reno. }
 {676}{}{The Bishop Family in New Reno.}
 {677}{}{I'm not sure yet. I'm still looking into it.}
 {678}{lyn111a}{What?! How do you know this? What evidence do you have?}
@@ -698,8 +698,8 @@
 {704}{}{$500}
 {705}{}{Deixa para lá. Vou te contar as informações de graça.}
 {706}{lyn118}{Muito bem, aqui está o seu dinheiro. Agora me diga o que você sabe.}
-{707}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
-{708}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
+{707}{}{Encontrei a base deles. Eles estão escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{708}{}{Eu os eliminei. Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul.}
 {709}{}{Na verdade, eu realmente não sei muito sobre quase nada.}
 {710}{}{Obrigado pelo dinheiro. Preciso ir agora.}
 {711}{lyn119}{Preciso que vá imediatamente à República da Nova Califórnia e encontre o Conselheiro

@@ -101,11 +101,11 @@
 {220}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. You know what? Forget it. We don't need the help of someone like you. Now I suggest you leave.}
 {221}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. [He sighs.] Fine, we'll throw in an extra thousand, but that leaves us with nothing. Will you give us the guns now?}
 {222}{}{Sure, pleasure doing business with you. Bye.}
-{223}{}{Actually, I think I can find a better deal elsewhere. Goodbye.}
-{225}{}{Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}
-{226}{}{Alright, take care then.}
-{300}{}{Any news on our dilemma?}
-{301}{}{Not yet. I'll report back when I find something.}
+{223}{}{Na verdade, acho que posso encontrar um negócio melhor em outro lugar. Adeus.}
+{225}{}{Excelente. Aqui, eu te dou $5.000 por essas armas. É todo o dinheiro que temos, mas não há preço alto demais pela liberdade. Você nos prestou um grande serviço e será sempre bem-vindo aqui.}
+{226}{}{Tudo bem, cuide-se então.}
+{300}{}{Alguma notícia sobre o nosso dilema?}
+{301}{}{Ainda não. Volto com informações quando encontrar algo.}
 {302}{}{Boas notícias: convenci o conselho de Vault City a não tocar em sua vila.}
 {310}{}{Se você estiver disposto a se livrar das armas que está levando, estamos dispostos a pagar US$ 5.000 por elas.}
 {311}{}{Você tem um acordo. Aqui estão as armas.}

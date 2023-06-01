@@ -35,34 +35,34 @@
 {134}{}{Urnt? Batata.}
 {135}{}{Desliga}
 {136}{}{"Na torneira?" Que pitoresco.}
-{137}{}{We have mineral water, distilled water, and sparkling water. We also have several synthesized alcohols.}
-{138}{}{Um... what synthesized alcohols do you have?}
-{139}{}{Uh, do you have any real drinks?}
-{140}{}{Some water would be great.}
-{141}{}{Never mind. I was looking for some information.}
+{137}{}{Temos água mineral, água destilada e água com gás. Também temos vários álcoois sintetizados.}
+{138}{}{Hum... que tipo de álcool sintetizado você tem?}
+{139}{}{Uh, você tem alguma bebida real?}
+{140}{}{Um pouco de água seria ótimo.}
+{141}{}{Deixa para lá. Eu estava procurando algumas informações.}
 {142}{}{Nada por hoje, valeu.}
-{143}{}{Very good, sir.}
-{144}{}{Very good, ma'am.}
+{143}{}{Muito bem, senhor.}
+{144}{}{Muito bem, senhora.}
 {145}{}{Qual você gostaria? Mineral? Destilada? Ou Espumante? Cada um custa modestamente cinco dólares o copo.}
 {146}{}{Mineral, por favor.}
 {147}{}{Vou pegar um pouco dessa água destilada.}
 {148}{}{Pode me dar um pouco dessa água com gás.}
 {149}{}{Quais tipos de álcool sintetizado você tem?}
-{150}{}{Never mind. I was looking for some information.}
+{150}{}{Deixa para lá. Eu estava procurando algumas informações.}
 {151}{}{Isso é um pouco caro para mim. Voltarei quando tiver mais dinheiro.}
 {152}{}{Acho que vou passar, obrigado.}
 {153}{}{Temos derivados sintéticos H e T, e recentemente fabricamos uma mistura extremamente popular, "Alcohol-Z", que tem um rico sabor de pseudo micro-cervejaria. Cada um custa modestos vinte dólares o copo.}
 {154}{}{Como você fabrica esses álcoois sintetizados?}
-{155}{}{Uh, do you have any real drinks?}
+{155}{}{Uh, você tem alguma bebida real?}
 {156}{}{Acho que só vou tomar um pouco de água.}
 {157}{}{Hmmm. Vou experimentar um pouco desse delicioso álcool-Z.}
 {158}{}{Deixa quieto. Eu estava procurando algumas informações.}
-{159}{}{That's a little steep. I'll come back when I have more money.}
+{159}{}{Isso é meio caro pra mim. Voltarei quando tiver mais dinheiro.}
 {160}{}{Nada por hoje, valeu.}
 {161}{}{Would you care for anything else?}
 {162}{}{I'd like some more water, thanks.}
 {163}{}{Quais tipos de álcool sintetizado você tem?}
-{164}{}{Never mind. I was looking for some information.}
+{164}{}{Deixa para lá. Eu estava procurando algumas informações.}
 {165}{}{Nada por hoje, valeu.}
 {166}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
 {167}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
@@ -76,7 +76,7 @@
 {175}{}{Nada mais por hoje, valeu.}
 {176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{Você parece saber muito sobre esses sintéticos.}
-{178}{}{Uh, do you have any real drinks?}
+{178}{}{Uh, você tem alguma bebida real?}
 {179}{}{Oh. Bem, eu só gostaria de um pouco de água então.}
 {180}{}{Hmmm. Vou experimentar um pouco desse álcool-Z.}
 {181}{}{Interessante. Olha, eu estava procurando algumas informações...}

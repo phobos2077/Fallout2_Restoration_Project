@@ -35,20 +35,20 @@
 {128}{}{Look. I asked if you wanted a drink and then told you what it would cost.
  Most people understand the process. If you don't got the money, you shouldn't have
  asked.}
-{129}{}{Sorry. Thought I had the cash. Not being able to see your money in the
- dialogue screen creates some problems, y'know?}
+{129}{}{Desculpe, pensei que tinha o dinheiro. Não poder ver seu dinheiro na tela
+ de diálogo cria alguns problemas, sabia?}
 {130}{}{Sim... tanto faz. Estou saindo daqui.}
-{131}{}{It's worse. The Citizens don't drink much, so I'm stuck here giving merchants
- drinks. The next cheap bastard who tries to haggle for a drink is going to find
- my boot in his ass.}
+{131}{}{É pior. Os Cidadãos não bebem muito, então estou preso aqui dando bebidas
+ aos mercadores. O próximo bastardo que tentar pechinchar por uma bebida
+ vai acordar com uma bota enfiada na bunda.}
 {132}{}{You sound pretty fed up with the place.}
-{133}{}{Sorry to hear that. What do you know about the Vault?}
-{134}{}{We all make mistakes... some more than others. So what do you want?}
+{133}{}{Lamento ouvir isso. O que você sabe sobre a Vault?}
+{134}{}{Todos cometemos erros... uns mais que outros. Então o que você quer?}
 {135}{}{O que está acontecendo por aqui?}
 {136}{}{Nothing today, thanks. Goodbye.}
-{137}{}{Yeah, wish I could get the hell outta here.}
+{137}{}{Sim, gostaria de poder dar o fora daqui.}
 {138}{}{Por que você não vai embora?}
-{139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
+{139}{}{Ir para o deserto sozinho? Estou entediado, mas não estou estúpido.}
 {140}{}{Estou indo para lá de novo. Por que você não vem junto?}
 {141}{}{Bem, boa sorte para você.}
 {142}{}{Não... parece que você tem gente suficiente te seguindo.}

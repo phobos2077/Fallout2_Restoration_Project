@@ -235,25 +235,25 @@
 {830}{}{Você encontrou todas as coisas pontiagudas que eu pedi?}
 {831}{}{Eu encontrei.}
 {832}{}{Ainda procuro.}
-{840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
+{840}{}{[Krom examina rapidamente as armas, sorri e dá um tapinha nas suas costas.] Você fez um bom trabalho, obrigado. Agora corra e fique longe de problemas.}
 {841}{}{Adeus!}
-{850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}
+{850}{}{[Krom bagunça seu cabelo.] Aqui está meu ajudante especial. Agora você corre e fica longe de problemas.}
 {851}{}{Adeus!}
-{860}{}{Come to press your luck, have you?}
-{861}{}{No, I've come to kick your ass.}
-{862}{}{No, I just wanted to apologize for offending you.}
-{863}{}{No, I was just leaving.}
-{870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
-{871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
+{860}{}{Venha apertar a sua sorte, você tem?}
+{861}{}{Não, eu vim para chutar sua bunda.}
+{862}{}{Não, só queria me desculpar por ofender você.}
+{863}{}{Não, eu estava saindo.}
+{870}{}{Ah, parece que estou com disposição para perdoar hoje, amigo. Então, o que posso fazer por você?}
+{871}{}{Eu não gosto de brincar com garotas, mas pelos deuses, como eu poderia ficar com raiva de uma deusa como você? Então, o que posso fazer por você?}
 {872}{}{Deixa pra lá. Tchau.}
-{1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
- impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
- head back out into the wastes myself.}
-{1001}{}{Where will you go?}
-{1002}{}{You're just going to leave? But you're the tribe's head warrior.}
-{1003}{}{Alright. Good luck on your journey, Krom.}
-{1010}{}{[He shrugs his broad shoulders.] East seems as good a direction as any other. Yeah, I think I'll head east and see
- what awaits me.}
+{1000}{}{[O guerreiro gigante acena respeitosamente para você.] Bem, se não é o grande herói dos desertos. Isso foi
+ um feito bastante impressionante, enviar esses cachorros da Enclave para o inferno assim. Na verdade, ouvir histórias
+ de suas façanhas me inspirou a voltar para o deserto.}
+{1001}{}{Para onde você irá?}
+{1002}{}{Você vai ir? Mas você é o guerreiro chefe da tribo.}
+{1003}{}{Bom. Boa sorte em sua jornada, Krom.}
+{1010}{}{[Ele dá de ombros.] O leste parece um bom lugar quanto qualquer um. Sim, acho que vou para o leste e ver o que
+ me espera.}
 {1020}{}{They'll just have some other warrior fill the position. Hell, head warriors generally don't live much longer than
  a couple years anyway, so I'd say I've earned my retirement.}
 {2000}{}{You restock the Tribe with more weapons.}

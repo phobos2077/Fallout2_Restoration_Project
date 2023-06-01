@@ -43,14 +43,14 @@
 {142}{}{What if I just give you five grand?}
 {143}{}{What about two grand?}
 {144}{}{Ehmmm... ten grand?! I don't have that much money; wait a bit until I get it.}
-{145}{}{Damn! Who could possibly have turned me in?!}
-{146}{}{Hey! What was I imprisoned for?}
-{147}{}{Well, at least the food's not bad.}
+{145}{}{Droga! Quem poderia ter me denunciado?!}
+{146}{}{Ei! Por que fui preso?}
+{147}{}{Bem, pelo menos a comida não é ruim.}
 {148}{}{O que você está olhando?}
-{149}{}{What will happen to my shop now?}
-{200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
-{201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}
-{202}{}{Fine. Here's the money.}
-{203}{}{Forget it, I'm outta here.}
+{149}{}{O que acontecerá com minha loja agora?}
+{200}{}{$500? Ei, talvez você pudesse me dar um descontinho, figo, você e Dave são amigos, certo?}
+{201}{}{Para dizer a verdade, nunca me importei com o cara. $500 pelo motor. É pegar ou largar.}
+{202}{}{Certo. Aqui está o dinheiro.}
+{203}{}{Esqueça, vou sair daqui.}
 {204}{}{$500!? Esqueça isso, vou sair daqui.}
 {1288}{}{Acho que não tenho dinheiro suficiente. Tchau.}

@@ -61,9 +61,9 @@
 {280}{}{Vou te dar um caixote inteiro cheio deles, com *cinquenta* stimpaks. E tudo que peço em troca são míseras
  *vinte* peles de gecko douradas. Você não pode achar um acordo como esse.}
 {281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
-{282}{}{That's a good deal alright. Too good. What's the catch?}
-{283}{}{We'll offer you ten golden gecko skins. No more.}
-{284}{}{Let me think it over for a moment.}
+{282}{}{Isso é um bom negócio, bom demais. Qual é o problema?}
+{283}{}{Ofereceremos a você dez peles douradas de gecko. nada mais.}
+{284}{}{Me deixe pensar sobre isso por um momento.}
 {285}{}{Nenhum acordo.}
 {290}{}{[O rosto de Roy se ilumina.] Excelente escolha! Temos um acordo. [Os itens são trocados rapidamente, então
  Roy se apressa para sua próxima parada.]}

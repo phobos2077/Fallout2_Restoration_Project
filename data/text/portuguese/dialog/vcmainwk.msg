@@ -1,16 +1,16 @@
-{100}{}{You see Val. Or Valerie. Or whatever.}
-{101}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like a mechanic.}
-{102}{}{You see Val. Or Valerie. Or whatever.}
-{103}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like a mechanic.}
-{104}{}{Oh, hello, "Dad."}
-{105}{}{1 Second}
-{106}{}{Valerie. Good to see you again.}
-{107}{}{Oh, uh, hi, Dad. It's good to see you. Really.}
-{108}{}{1 Second}
-{109}{}{Hello, Valerie. It's good to see you, too.}
-{110}{}{You better get that mutant out of here before the guards see it.}
-{111}{}{You better get that ghoul out of here before the guards see it.}
-{112}{}{Stupid metal bore's acting up again...}
+{100}{}{Você vê Val. Ou Valéria. Como queira.}
+{101}{}{Você vê uma mulher de cabelos castanhos vestida com uniforme marrom e armadura de metal. Ela parece uma mecânica.}
+{102}{}{Você vê Val. Ou Valéria. Como queira.}
+{103}{}{Você vê uma mulher de cabelos castanhos vestida com uniforme marrom e armadura de metal. Ela parece uma mecânica.}
+{104}{}{Oh, olá, "papai".}
+{105}{}{1 segundo}
+{106}{}{Valéria. Bom te ver de novo.}
+{107}{}{Oh. Oi, pai. É bom te ver, de verdade.}
+{108}{}{1 segundo}
+{109}{}{Olá, Valéria. É bom ver você também.}
+{110}{}{É melhor você tirar esse mutante daqui antes que os guardas o vejam.}
+{111}{}{É melhor você tirar esse ghoul daqui antes que os guardas o vejam.}
+{112}{}{Estúpida broca de metal ataca de novo...}
 {113}{}{That metal lathe needs to be oiled again...}
 {114}{}{Need to make a list of those surplus parts for the First Citizen.}
 {115}{}{Work, you stupid piece of junk!}
