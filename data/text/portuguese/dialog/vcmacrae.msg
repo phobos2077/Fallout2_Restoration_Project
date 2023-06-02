@@ -1,17 +1,17 @@
-{100}{}{You see an elderly man with deep wrinkles along his face.}
-{101}{}{You see John MacRae.}
-{102}{}{Hey now, I ain't seen you around before. I'm MacRae -- I run this place.
- What can I do for you?}
+{100}{}{Você vê um homem idoso com rugas profundas no rosto.}
+{101}{}{Você vê John MacRae.}
+{102}{}{Ei, nunca te vi por aqui antes. Eu sou MacRae: comando este lugar. O que
+ posso fazer para você?}
 {103}{}{Estou a procura da Vault.}
 {104}{}{Já está querendo sair daqui?}
-{105}{}{What do you have here?}
-{106}{}{Anything going on around here?}
+{105}{}{O que temos aqui?}
+{106}{}{Tem alguma coisa acontecendo por aqui?}
 {107}{}{Ug Nog}
 {108}{}{Nada por hoje, valeu.}
 {109}{}{Vault? Only Vault I know of is the one inside the city. Big friggin'
  hole... you can't miss it, trust me.}
 {110}{}{O que você tem para beber aqui?}
-{111}{}{Anything going on around here?}
+{111}{}{Tem alguma coisa acontecendo por aqui?}
 {112}{}{Obrigado pelas direções. Tchau.}
 {113}{}{Standard crap. Beer for $20, shot of whiskey for $30. Nothing
  special. You want something?}

@@ -1,11 +1,11 @@
-{100}{}{You see the Resident Medical Assistant, Phyllis.}
-{101}{}{You see a thin young woman. She smells faintly of antiseptic.}
-{102}{}{You see RMA Phyllis.}
-{103}{}{You see a thin young woman. She smells faintly of antiseptic.}
-{104}{}{You risked your own life to save us ALL. You're the bravest person I've ever known.}
-{105}{}{An intruder! Aieeeeee! Guards!}
-{106}{}{A mutant! Aieeeeee! Guards!}
-{107}{}{A ghoul! Aieeeeee! Guards!}
+{100}{}{Você vê a assistente médica residente, Phyllis.}
+{101}{}{Você vê uma jovem magra. Ela cheira levemente a antisséptico.}
+{102}{}{Você vê RMA Phyllis.}
+{103}{}{Você vê uma jovem magra. Ela cheira levemente a antisséptico.}
+{104}{}{Você arriscou sua própria vida para salvar a todos nós. Você é a pessoa mais corajosa que já conheci.}
+{105}{}{Um intruso! Aaaaah! Guardas!}
+{106}{}{Um mutante! Aaaaah! Guardas!}
+{107}{}{Um ghoul! Aaaaah! Guardas!}
 {108}{}{Need to print out Gregory's charts...}
 {109}{}{Let's see. We have three Servant inoculations scheduled for 1400...}
 {110}{}{All that beeping is driving me crazy...}

@@ -23,27 +23,27 @@
 {119}{}{Parece um trabalho difícil.}
 {120}{}{Posso pedir mais uma coisa?}
 {121}{}{Obrigado por sua ajuda.}
-{122}{}{The Courtyard is an area where we protect the less fortunate Outworlders. Many
- live within our protection and add to the splendor of Vault City. The Inner City is
- where the Citizens of the city live.}
-{123}{}{Why do only Citizens live in the Inner City?}
+{122}{}{O Pátio é uma área onde protegemos os forasteiros menos afortunados. Muitos
+ vivem sob nossa proteção e aumentam o esplendor de Vault City. O interioir é
+ onde vivem os cidadãos da cidade.}
+{123}{}{Por que apenas os cidadãos vivem no centro da cidade?}
 {124}{}{Posso pedir mais uma coisa?}
 {125}{}{Obrigado por sua ajuda.}
-{126}{}{I'm sorry, but as I said, only Citizens are allowed in the Vault. I cannot
- grant you access. Talk to Wallace, our Customs Official. He might be able to help.
- You'll find his office at the north end of the Courtyard.}
+{126}{}{Sinto muito, mas como eu disse, apenas Cidadãos são permitidos na Vault.
+ Não posso te conceder acesso. Fale com Wallace, nosso funcionário da alfândega.
+ Ele pode ser capaz de ajudar. Você encontrará o escritório dele no extremo norte do Pátio.}
 {127}{}{Posso pedir mais uma coisa?}
 {128}{}{Obrigado pela ajuda. Tchau.}
-{129}{}{My work benefits Vault City, and I have the privilege of being able to talk
- to travelers about the grandeur of the city.}
-{130}{}{Oh, come on, it has to be a *little* boring sometimes.}
+{129}{}{Meu trabalho beneficia Vault City e tenho o privilégio de poder conversar
+ com os viajantes sobre a grandeza da cidade.}
+{130}{}{Oh, vamos lá, tem que ser um *pouco* chato às vezes.}
 {131}{}{Posso pedir mais uma coisa?}
 {132}{}{Obrigado por sua ajuda.}
-{133}{}{To build a better life for everyone, we must be vigilant in protecting ourselves
- from outside influences.}
-{134}{}{And that means separating yourselves?}
-{135}{}{I take great pride in the work that I do for Vault City. You'll have
- to excuse me, but I have some very pressing business to attend to. Good day.}
+{133}{}{Para construir uma vida melhor para todos, devemos estar atentos para nos
+ proteger de influências externas.}
+{134}{}{E é por isso que vocês se separam?}
+{135}{}{Tenho muito orgulho do trabalho que faço para Vault City. Você
+ terá que me desculpar, mas tenho alguns negócios muito urgentes para resolver. Bom dia.}
 {136}{}{Não fazemos isso para *nós mesmos.* Fazemos isso para o bem de todos.}
 {137}{}{Sim, claro que sim. Soa melhor dessa forma.}
 {138}{}{Posso pedir mais uma coisa?}

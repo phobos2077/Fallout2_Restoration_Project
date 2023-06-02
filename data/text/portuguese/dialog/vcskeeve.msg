@@ -91,13 +91,13 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {182}{}{Falar comigo não vai ajudar, Skeev.}
 {183}{}{All right, I got a LITTLE cash stashed away. Here. Take it... three hundred bucks.
  Now, you gonna keep quiet?}
-{184}{}{As far as you know. See you.}
-{185}{}{No problem. You have my silence.}
-{186}{}{Two hundred or nothing, Outsider. It's the only way you're going to get inside the gate.}
-{187}{}{I think I'll try official channels.}
+{184}{}{Até onde você sabe. Até mais.}
+{185}{}{Sem problemas. Você tem o meu silêncio.}
+{186}{}{Duzentos ou nada, Forasteiro. É a única maneira de passar pelo portão.}
+{187}{}{Acho que vou tentar pelos canais oficiais.}
 {188}{}{Não, obrigado.}
-{189}{}{Ha! Good luck, Outsider. The only way you'll get a Day Pass outta ol' man Wallace is if you pry
- it from his stingy, dead fingers.}
+{189}{}{Ha! Boa sorte, Forasteiro. A única maneira de conseguir um passe diário do velho Wallace é
+ arrancando de seus dedos mesquinhos e mortos.}
 {190}{}{Vou tentar com ele de qualquer forma.}
 {191}{}{Se é isso que é preciso...}
 {192}{}{Você reconsidera?}

@@ -204,10 +204,10 @@
  que estou procurando.}
 {276}{}{Estou vendo. Bom dia.}
 {277}{lyn032}{Correto... Eu sou o Primeira Cidadã de Vault City.}
-{278}{}{First Citizen, I have an urgent request: My village is in dire need of a Garden of Eden Creation
- Kit. Do you possess one that I may have?}
-{279}{}{Then you are who I seek. I have come on behalf of the people of Arroyo to claim what is
- rightfully ours: the holy GECK.}
+{278}{}{Primeira Cidadã, tenho um pedido urgente: minha vila precisa urgentemente de um Kit de
+ Criação do Jardim do Éden. Você possui um que eu possa ter?}
+{279}{}{Então você é quem eu procuro. Eu vim em nome do povo de Arroyo para reivindicar o que
+ é nosso por direito: o sagrado GECK.}
 {280}{}{Entendo. Obrigado por falar comigo, bom dia.}
 {281}{lyn033}{Corrupto?! O Supervisor era um grande homem e um líder impecável. Seus ensinamentos
  e sabedoria ainda abrangem grande parte de nossa educação.}
@@ -439,8 +439,8 @@
 {478}{}{Olha, causar tanta destruição não foi fácil! Espero ALGUMA compensação...}
 {479}{}{Tudo bem, tudo bem. Estou indo embora.}
 {480}{}{Bom dia, Primeira Cidadã.}
-{481}{lyn071}{Do not toy with me, or I will make certain you never walk Vault City's streets again.}
-{482}{}{You watch yourself, "First Citizen." Goodbye.}
+{481}{lyn071}{Não brinque comigo, ou vou garantir que você nunca mais ande pelas ruas de Vault City.}
+{482}{}{Cuide de si mesma, "Primeira Cidadã". Adeus.}
 {483}{}{Bom dia, Primeira Cidadã.}
 {484}{lyn072a}{Você fez! Excelente! Você prestou um serviço valioso para Vault City. Por favor, aceite
  isso como um sinal de nosso apreço. E pensar que um bando de SAQUEADORES causavam tantos problemas...}
@@ -503,25 +503,25 @@
 {538}{lyn083}{A lei é a lei. As exceções não nos tornam melhores do que os Renegados. Mais uma vez,
  você está absolutamente certo de suas acusações?}
 {539}{}{Então, me subornar para resolver a situação de Gecko com documentos de Cidadania... é legal?}
-{540}{}{Yes. He asked me to smuggle Jet into Vault City for him.}
+{540}{}{Sim. Ele me pediu para contrabandear jet para Vault City para ele.}
 {541}{}{Oh. Uh... falei errado. Eu quis dizer que o Dr. Troy está envolvido em atividades PARALEGAIS, não ilegais.}
 {542}{}{Hmmmm. Vou ver se descubro mais alguma coisa.}
-{543}{lyn084a}{You had best watch what you say.}
-{544}{lyn084b}{You had best watch what you say, Outsider.}
-{545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
- the streets of Vault City again. Understood?}
+{543}{lyn084a}{É melhor você tomar cuidado com o que diz.}
+{544}{lyn084b}{É melhor você tomar cuidado com o que diz, Forasteiro.}
+{545}{lyn084c}{Se eu ouvir falar de você criando problemas para o Dr. Troy, ou qualquer outro Cidadão,
+ você nunca mais andará pelas ruas de Vault City. Entendido?}
 {546}{}{Uh... claro. Desculpa. Eu tenho algumas perguntas...}
-{547}{}{Crystal clear. I'll just be going now.}
-{548}{}{My apologies, First Citizen. Good day.}
-{549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
- in the courtyard for that.}
-{550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
-{551}{}{Oh. Look, I had some other questions...}
-{552}{}{Yeah, for those that can pay... and that's assuming they come out of the Auto-Doc in one piece.}
-{553}{}{All right, never mind then. Goodbye.}
-{554}{}{My apologies, First Citizen. Good day.}
-{555}{lyn086}{I believe it is time you left. I suggest you make your stay in Vault City a short one.}
-{556}{}{Before I go, I had some more questions...}
+{547}{}{Claro como cristal. Eu vou indo agora.}
+{548}{}{Minhas desculpas, Primeira Cidadã. Bom dia.}
+{549}{lyn085}{CLARO que só trata dos Cidadãos, ele não tem tempo para tratar Forasteiros... temos um
+ Auto-Doc no pátio para isso.}
+{550}{}{Bem, você talvez queira saber que o Doutor me pediu para contrabandear algumas drogas ilegais para a cidade.}
+{551}{}{Oh. Olha, eu tinha outras perguntas...}
+{552}{}{Sim, para aqueles que podem pagar... e isso assumindo que saiam inteiros do Auto-Doc.}
+{553}{}{Tudo bem, não importa. Adeus.}
+{554}{}{Minhas desculpas, Primeira Cidadã. Bom dia.}
+{555}{lyn086}{Eu acredito que é hora de você sair. Eu sugiro que você tenha uma curta estadia em Vault City.}
+{556}{}{Antes de ir, tenho mais algumas perguntas...}
 {557}{}{Tudo bem. Estou saindo.}
 {558}{lyn087}{Moore? He's a troublemaker. THAT'S what he is.}
 {559}{}{Você tem razão. Ele tem... interesses no exterior.}
@@ -888,18 +888,18 @@
 {870}{}{You delivered Westin's holodisk to Lynette.}
 {871}{}{You delivered Westin's holodisk to Lynette and became Captain of the Guard.}
 {872}{}{You have wiped out the raiders and helped Vault City.}
-{873}{}{You have exposed Moore as a spy for NCR.}
-{874}{}{You have proven that Bishop hired the raiders.}
-{875}{}{You have proven that Bishop was hired by NCR.}
-{876}{}{I'm in need of one to save my --}
-{877}{}{Hold on a second --}
-{878}{}{Forget this. I'm leaving.}
-{879}{}{It seems like I'm wasting my time with you as well. Maybe you'd better go fetch someone who CAN help me.}
-{880}{}{Sorry to bother you, then. Goodbye.}
-{881}{}{That's good to hear. So...?}
+{873}{}{Você expôs Moore como um espião da NCR.}
+{874}{}{Você provou que Bishop contratou os invasores.}
+{875}{}{Você provou que Bishop foi contratado pela NCR.}
+{876}{}{Preciso de um para salvar meu --}
+{877}{}{Espere um segundo --}
+{878}{}{Esqueça isso. Vou embora.}
+{879}{}{Parece que estou perdendo meu tempo com você também. Talvez seja melhor você ir buscar alguém que POSSA me ajudar.}
+{880}{}{Desculpe incomodá-lo, então. Adeus.}
+{881}{}{Me alegra ouvir isso. Então...?}
 {882}{}{Obrigado, Primeirã Cidadã.}
-{883}{}{Uh, it was my mistake... I didn't mean to say --}
-{884}{}{My apologizes, First Citizen. I --}
+{883}{}{Uh, foi um erro meu... eu não quis dizer --}
+{884}{}{Peço desculpas, Primeira Cidadã. Eu --}
 {885}{}{Guardas!}
-{1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
-{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
+{1663}{}{Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul. Convenci o guia deles a não ajudá-los mais. Sem os guias, eles não conseguirão encontrar o caminho pelas montanhas.}
+{1708}{}{Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul. Convenci o guia deles a não ajudá-los mais. Sem os guias, eles não conseguirão encontrar o caminho pelas montanhas.}

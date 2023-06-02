@@ -13,8 +13,8 @@
 {131}{}{Não tenho uma corda comigo, mas vou ver se consigo uma. Eu voltarei aqui.}
 {132}{}{Mas eu posso fazer isso. Vou ver se consigo consertar esse poço para você.}
 {133}{}{Não, receio que você terá que contar aos outros o que aconteceu. Tente manter seu espírito de luxúria controlado da próxima vez. Tchau.}
-{140}{}{So is the well fixed yet, or what?}
-{141}{}{No, not yet I'm afraid.}
+{140}{}{Então, o poço já está consertado ou o quê?}
+{141}{}{Não, não estou com medo.}
 {142}{}{Está olhando o que? Você está parado ao lado dessa porra, idiota.}
 {150}{}{Então, você já consertou o poço?}
 {151}{}{Claro, coloquei a corda no lugar agora. Viu?}

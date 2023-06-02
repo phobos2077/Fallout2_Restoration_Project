@@ -1,19 +1,19 @@
-{100}{}{You see Lydia.}
-{101}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like the bartender.}
-{102}{}{You see Lydia.}
-{103}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like the bartender.}
-{104}{}{Welcome! Care for a drink, Chosen One?}
-{105}{}{Welcome, Chosen One! Please, take a seat in the bar.}
+{100}{}{Você vê Lydia.}
+{101}{}{Você vê uma mulher de cabelos castanhos vestida com uniforme marrom e armadura de metal. Ela se parece com a atendente.}
+{102}{}{Você vê Lydia.}
+{103}{}{Você vê uma mulher de cabelos castanhos vestida com uniforme marrom e armadura de metal. Ela se parece com a atendente.}
+{104}{}{Bem-vindo! Quer uma bebida, Escolhido?}
+{105}{}{Bem-vindo, Escolhido! Por favor, sente-se no bar.}
 {106}{}{Por favor! Sente-se, descanse um pouco!}
-{107}{}{It's the Chosen One! Everybody give it up for the HERO of Fallout 2!}
+{107}{}{É o Escolhido! Todos aplaudam o HERÓI de Fallout 2! E o tradutor também!}
 {108}{}{Bom dia, Capitão.}
 {109}{}{Vault City prevails, Capitão.}
 {110}{}{Bom dia, Citizen.}
 {111}{}{Vault City prevails, Citizen.}
 {112}{}{Um mutante! Guardas! Guardas!}
 {113}{}{Um ghoul! Guardas! Guardas!}
-{114}{}{We're closed. Come back in the morning.}
-{115}{}{Sorry, last call was a while ago. Come back in the morning.}
+{114}{}{Estamos fechados. Volte pela manhã.}
+{115}{}{Desculpe, a última rodada foi há um tempo atrás. Volte pela manhã.}
 {116}{}{We're closed. Once I finish making this list of our stock, I'll be closing up.}
 {117}{}{Hey there, Chosen One! We were just talking about your adventure... can I get you anything to drink?}
 {118}{}{Dwinkie-winkie me make stinkie}

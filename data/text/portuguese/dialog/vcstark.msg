@@ -267,21 +267,21 @@
 {365}{}{Você já ouviu falar de um servo chamado Joshua?}
 {366}{}{O que você faz aqui?}
 {367}{}{Você pode me dizer onde fica a Vault?}
-{368}{}{I surveyed the area around Gecko for you.}
-{369}{}{Got any more recon work for me?}
-{370}{}{I plotted that route to NCR for you.}
+{368}{}{Verifiquei a área ao redor de Gecko para você.}
+{369}{}{Tem mais algum trabalho de reconhecimento para mim?}
+{370}{}{Tracei aquela rota até a NCR para você.}
 {371}{}{Sobre os saqueadores...}
-{372}{}{Never mind. Goodbye.}
+{372}{}{Deixa para lá. Adeus.}
 {373}{}{Bom dia... senhora.}
-{374}{}{Vault City prevails... ma'am.}
-{375}{}{Captain. Can I help you... ma'am?}
-{376}{}{Sergeant Stark... ma'am. Did you need something?}
-{377}{}{I do YOUR job, ma'am.}
-{378}{}{I run the Corrections Center. And obey your orders, ma'am.}
-{379}{}{Permission to speak freely, ma'am.}
-{380}{}{You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... ma'am.}
-{381}{}{Understood, ma'am.}
-{382}{}{Yes, ma'am. I conducted an authorized raid on Mr. Cassidy's establishment.}
+{374}{}{Vault City prevalece... senhora.}
+{375}{}{Capitã. Posso ajudá-la... senhora?}
+{376}{}{Sargento Stark... senhora. Precisava de algo?}
+{377}{}{Faço o SEU trabalho, senhora.}
+{378}{}{Eu dirijo o Centro de Correções. E obedeço às suas ordens, senhora.}
+{379}{}{Permissão para falar livremente, senhora.}
+{380}{}{Você não MERECE o seu posto. Eu vivi em Vault City toda a minha vida. Os homens e mulheres sob o MEU comando confiam em mim e me respeitam, não você... senhora.}
+{381}{}{Entendido, senhora.}
+{382}{}{Sim, senhora. Conduzi uma batida autorizada no estabelecimento do Sr. Cassidy.}
 {383}{}{Não, Senhora. O Sr. Cassidy não pagou sua taxa de licenciamento de álcool no mês, mas ainda estava vendendo no local. Sua lista de pagamentos está registrada no computador.}
 {384}{}{Sim... Senhora.}
 {385}{}{Aqui está... Senhora.}

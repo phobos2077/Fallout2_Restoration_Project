@@ -1,5 +1,5 @@
-{100}{}{You see a ragged-looking farmer.}
-{101}{}{You see Smith.}
+{100}{}{Você vê um fazendeiro de aparência esfarrapada.}
+{101}{}{Você vê Smith.}
 {102}{}{Não me parece que já o vi por aí antes, Estranho. Meu nome é Smith. Posso
  te ajudar em algo?}
 {103}{}{Gostaria de algo mais?}

@@ -86,24 +86,24 @@
 {262}{Cas0262}{O que tem em mente?}
 {263}{}{Why do you want to cap Myron?}
 {264}{}{What weapons are you skilled with?}
-{265}{}{Actually, I had something else I wanted you to do...}
-{266}{}{Actually, I had something I wanted you to do...}
-{267}{}{Nevermind. Let's move on.}
-{268}{}{No, don't hurt Myron. Not today, anyway. I'll keep you posted.}
-{269}{Cas0269}{Well, shotguns and rifles, mostly... just personal preference. I ain't a bad shot with pistols, neither.}
+{265}{}{Na verdade, tinha outra coisa que queria que você fizesse...}
+{266}{}{Na verdade, tinha algo que eu queria que você fizesse...}
+{267}{}{Deixa pra lá. Vamos continuar.}
+{268}{}{Não, não machuque Myron. Não hoje, pelo menos. Te manterei informado.}
+{269}{Cas0269}{Bem, escopetas e rifles, principalmente... apenas preferência pessoal. Também não sou um mau atirador com pistolas.}
 {270}{}{Mais alguma coisa?}
 {271}{}{OK. Eu tinha algumas outras perguntas...}
-{272}{}{All right. Just checking.}
-{273}{Cas0273}{If you ever need to learn somebody some manners up close and personal, slip me some brass knuckles, and I can tapdance on their face with my fists.}
-{274}{}{Great. Anything else?}
+{272}{}{Tudo bem. Apenas checando.}
+{273}{Cas0273}{Se você tiver algo para eu ensinar boas maneiras a alguém pessoalmente, me dê algum soco inglês e eu posso sambar na cara deles com minhas mãos.}
+{274}{}{Ótimo. Algo mais?}
 {275}{}{OK. Eu tinha algumas outras perguntas...}
-{276}{}{All right. Just checking.}
-{277}{Cas0277}{Uh, well... just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when... fact I'm alive and they ain't might tell you something.}
-{278}{}{Nothing wrong with using a spear.}
+{276}{}{Tudo bem. Apenas checando.}
+{277}{Cas0277}{Uh, bem... também consigo usar uma lança muito bem, diga-se de passagem. Eu e meus amigos costumávamos caçar radscorpions com lanças na infância... estou vivo, e esses bichos não podem dizer o mesmo.}
+{278}{}{Nada de errado em usar uma lança.}
 {279}{}{OK. Eu tinha algumas outras perguntas...}
-{280}{}{All right. Just checking.}
-{281}{Cas0281}{Says you. Just don't be calling me no tribal, and we'll get along just fine.}
-{282}{Cas0282}{Don't want people mistaking me for ol' Bone-nose over there. Heh-heh. I ain't never seen no tribal do something as dumb as jam a bone in his nose.}
+{280}{}{Tudo bem. Apenas checando.}
+{281}{Cas0281}{Diga você. Só não me chame de tribal, e nos daremos muito bem.}
+{282}{Cas0282}{Não quero que as pessoas me confundam com o nariz de osso ali. Heh heh. Nunca vi nenhum tribal fazer algo tão idiota quanto enfiar um osso no nariz.}
 {283}{Cas0283}{Claro que não, a lança é uma boa arma. Muitos amigos tribais meus usam.}
 {284}{}{Você sabia que eu sou um "tribal?"}
 {285}{}{Hmmm. Olha, eu tenho outras perguntas...}
@@ -118,11 +118,11 @@
 {294}{Cas0294}{Bem, agora, antes de ir, tenho uma pergunta para você. O que estamos fazendo aqui? Parece que estamos correndo por todo lugar procurando alguma coisa. Temos algum tipo de plano?}
 {295}{}{Procuramos um GECK - Kit de Criação do Jardim do Éden. Minha aldeia precisa dele para restaurar suas plantações.}
 {296}{}{Estamos indo para a Vault, para devolver o GECK para minha aldeia.}
-{297}{}{My village has been kidnapped. I'm trying to find out what happened to them.}
-{298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
+{297}{}{Minha aldeia foi sequestrada. Estou tentando descobrir o que aconteceu com eles.}
+{298}{Cas0298}{Essas coisas vêm em pacotes agora, é? Cara, o bom livro não menciona isso, não é? Bem, tudo bem. Vamos caçar.}
 {299}{Cas0299}{Ok, certo, apenas verificando.}
-{300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
-{301}{}{All right. Let's go.}
+{300}{Cas0300}{Eu não me importaria em abrir uns buracos em alguns sequestradores. Um pouco de justiça na fronteira nunca fez mal a ninguém... bem, pelo menos não a mim.}
+{301}{}{Tudo bem. Vamos.}
 {302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
 {303}{Cas0303}{Especially a woman's.}
 {304}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}

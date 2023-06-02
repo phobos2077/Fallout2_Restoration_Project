@@ -254,12 +254,12 @@
 {1003}{}{Bom. Boa sorte em sua jornada, Krom.}
 {1010}{}{[Ele dá de ombros.] O leste parece um bom lugar quanto qualquer um. Sim, acho que vou para o leste e ver o que
  me espera.}
-{1020}{}{They'll just have some other warrior fill the position. Hell, head warriors generally don't live much longer than
- a couple years anyway, so I'd say I've earned my retirement.}
-{2000}{}{You restock the Tribe with more weapons.}
-{2500}{}{You fall victim to Roy's deception.}
-{2501}{}{You needlessly kill the merchant.}
-{2502}{}{You expose Roy's deception, and ensure that he'll never trade again.}
-{2503}{}{You decline to trade with Roy.}
-{2504}{}{You expose Roy's deception.}
+{1020}{}{Eles terão outro guerreiro para preencher essa posição. Que inferno, guerreiros chefes geralmente não vivem
+ muito mais do que alguns mesmo, então eu diria que ganhei minha aposentadoria.}
+{2000}{}{Você reabastece a Tribo com mais armas.}
+{2500}{}{Você foi vítima da mentira de Roy.}
+{2501}{}{Você mata desnecessariamente o comerciante.}
+{2502}{}{Você expõe a mentira de Roy e garante que ele nunca mais negocie.}
+{2503}{}{Você se recusa a negociar com Roy.}
+{2504}{}{Você expõe a mentira de Roy.}
 {3000}{}{Embora escravista mal!}

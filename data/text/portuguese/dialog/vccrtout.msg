@@ -12,10 +12,10 @@
 {111}{}{Money's running short...}
 {112}{}{You get yourself outta here, y'hear?}
 {113}{}{Get outta my face.}
-{114}{}{You're as bad as them.}
-{115}{}{Back off.}
-{116}{}{Keep on moving.}
-{117}{}{Keep to yourself.}
+{114}{}{Você é tão ruim quanto eles.}
+{115}{}{Para trás.}
+{116}{}{Continue se movendo.}
+{117}{}{Fique por aí.}
 {118}{}{Nós não precisamos de tua gente por aqui.}
-{119}{}{The gate's right over there. Make yourself scarce.}
-{120}{}{Desert trash...}
+{119}{}{O portão é bem ali. Suma daqui.}
+{120}{}{Lixo do deserto...}

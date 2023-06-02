@@ -1,8 +1,8 @@
-{100}{}{You see a small, young man dressed in rags.}
-{101}{}{You see the village shaman.}
-{102}{}{This young man is staring off into the distance. He has a haunted look on his face.}
-{103}{}{The shaman appears to be much more at ease.}
-{200}{}{[He appears deep in thought. Upon noticing you, he does a startled jump, then quickly regains his composure.] Uh, yes, outworlder? If you come seeking spiritual guidance, I'm afraid I'm not up to it at the moment. Perhaps... perhaps some other time.}
+{100}{}{Você vê um pequeno jovem vestido com trapos.}
+{101}{}{Você vê o xamã da aldeia.}
+{102}{}{Este jovem está olhando para longe. Ele tem um olhar assombrado em seu rosto.}
+{103}{}{O xamã parece estar muito mais à vontade.}
+{200}{}{[Ele parece imerso em pensamentos. Ao perceber você, ele dá um pulo assustado, então rapidamente recupera a compostura.] Uh, sim, forasteiro? Se você vier em busca de orientação espiritual, receio não estar à altura no momento. Talvez... talvez em outro momento.}
 {201}{}{Huh?! Oh, it's you again. You shouldn't sneak up on people like that. Look, I've got a lot on my mind at the moment. Perhaps I could help you some other time.}
 {202}{}{It seems like something is troubling you. Is there anything I could help you with?}
 {203}{}{Eu vou voltar mais tarde.}
