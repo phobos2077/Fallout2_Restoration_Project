@@ -30,7 +30,7 @@
 {222}{}{[Feito]}
 {300}{}{Eu te agradeço, amigo. Vejo você de volta na aldeia.}
 {400}{}{Muito obrigado, amigo. Verdadeiramente, você é abençoado pelos espíritos.}
-{500}{}{zzzZZzzz...}
+{500}{}{A mimir...}
 {501}{}{A mimir...}
 {600}{}{Você cura a perna de Serin.}
 {700}{}{Ele precisa de mais ajuda do que eu posso oferecer. É melhor eu ir.}

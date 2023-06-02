@@ -9,10 +9,10 @@
 {204}{}{[A irmã de Sulik se vira para você.] Espiritos dos Ossos dizem que você está liderando Sulik. O nome é Kurisu, mas agora não é hora para cumprimentos apropriados. Por favor, você precisa nos tirar da jaula e longe dos homens perversos governados por espíritos de luxúria. [Ela zomba e cospe na terra.] Cães imundos não colocarão as mãos em nós novamente. [Ao ouvir isso, os olhos de Sulik se arregalam enquanto seu rosto se contorce de raiva. Ele pega sua arma.]}
 {205}{}{Espere aí, Sulik, estamos em menor número aqui. Vamos ver se consigo trancar esta porta e podemos escapar
  daqui.}
-{206}{}{Hold on there, Sulik, we're outnumbered here. I got the key to this door. Let's keep it quiet and we'll sneak our
- way out of here.}
-{207}{}{[You nod at Sulik] These bastards will pay. Lock and load ol' buddy.}
-{208}{}{[A few minutes pass by and you finally hear a click from the lock. The door swings open.]}
+{206}{}{Espere aí, Sulik, estamos em menor número aqui. Eu tenho a chave desta porta. Vamos ficar quietos e sairemos
+ daqui.}
+{207}{}{[Você acena para Sulik] Esses desgraçados vão pagar. Bloqueie e carregue o velho amigo.}
+{208}{}{[Alguns minutos se passam e você finalmente ouve um clique na fechadura. A porta se abre.]}
 {209}{}{[Você se vira para Kurisu.] Tudo bem, fique por perto e mantenha a cabeça baixa. [Para os outros escravos.] Fiquem quietos e vão para a floresta.}
 {210}{}{[Alguns minutos se passam e você não consegue destrancar a porta.]}
 {211}{}{Deve haver outra maneira de destrancar esta porta. Vamos ver se consigo algum tipo de chave. Espere aqui, eu voltarei.}
@@ -87,9 +87,9 @@
 {972}{}{Obrigadooo. Tchau!}
 {973}{}{Conheço Sulik. Sulik meu amigo. Ele fala como eu. Ele fala com osso no nariz.}
 {974}{}{Eu o trago. Ele sente sua falta.}
-{975}{}{Me sorry. He dead.}
+{975}{}{Me desculpe. Ele morto.}
 {976}{}{Ainda procuro.}
-{1000}{}{You reunite Sulik and his sister.}
-{2000}{}{I *knew* the bonespirit's had big plans for you.}
-{2001}{}{First you be saving me. Then you be saving the world. You quite the hero.}
-{2002}{}{You don't be needin' Sulik, no more, do you?}
+{1000}{}{Você reúne Sulik e sua irmã.}
+{2000}{}{Eu *sabia* que o Espírito do Osso tinha grandes planos para você.}
+{2001}{}{Primeiro você me salva. Então você estará salvando o mundo. Você é um herói.}
+{2002}{}{Você não precisa mais de Sulik, não é?}

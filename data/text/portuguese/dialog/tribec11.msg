@@ -1,14 +1,14 @@
-{100}{}{You see a strong Tribal warrior.}
-{101}{}{This tribal looks very strong, but not very bright.}
-{200}{}{Halt! Wut you want?}
+{100}{}{Você vê um forte guerreiro tribal.}
+{101}{}{Este tribal parece muito forte, mas não muito brilhante.}
+{200}{}{Pare! O que quer?}
 {201}{}{O que faz aqui?}
-{202}{}{Me guard cave for tribe. Me make sure no bad men sneak up on us.}
-{203}{}{I see. Could I look around the cave?}
-{204}{}{No. Me no allowed to let strangers in cave. Head warrior told so.}
-{205}{}{Maybe later then.}
-{206}{}{You again? Wut dis time?}
-{207}{}{Just passing through. Keep up the good work.}
-{208}{}{The head warrior told me I am allowed to enter the cave to search for the missing hunters.}
+{202}{}{Eu guardo a caverna da tribo. Eu certifico de que nenhum homem mau se aproxime de nós.}
+{203}{}{Entendo. Posso dar uma olhada na caverna?}
+{204}{}{Não. Eu não tenho permissão para deixar estranhos entrarem na caverna. Guerreiro chefe disse isso.}
+{205}{}{Talvez mais tarde, então.}
+{206}{}{Você de novo? Que hora é?}
+{207}{}{Só de passagem. Continue com seu bom trabalho.}
+{208}{}{O guerreiro chefe me disse que posso entrar na caverna para procurar os caçadores desaparecidos.}
 {209}{}{Oh, sim, eu não vejo esses caras faz tempo, espero que estejam bem. Chefe guerreiro diz ok para entrar? Tudo bem comigo.}
 {210}{}{Obrigado. Vou deixar você saber se eu precisar de alguma coisa.}
 {300}{}{Ei, por que você se apressa? Você encontrou sumtin?}

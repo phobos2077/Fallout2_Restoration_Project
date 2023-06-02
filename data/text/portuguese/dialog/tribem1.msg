@@ -1,4 +1,4 @@
-{100}{}{You have entered a densely wooded area. There is a narrow path leading north.}
-{101}{}{You enter Umbra Shore, home of the Umbra Tribe. You see many differences in appearances on the villagers and tents, as if not all come from the same place.}
-{102}{}{You found out what happened to the missing hunters.}
-{200}{}{You have rescued Sulik's sister from the slavers.}
+{100}{}{Você entrou em uma área densamente arborizada. Há um caminho estreito que leva ao norte.}
+{101}{}{Você entra em Umbra da Costa, lar da Tribo Umbra. Você vê muitas diferenças nas aparências dos aldeões e das tendas, como se nem todos viessem do mesmo lugar.}
+{102}{}{Você descobriu o que aconteceu com os caçadores desaparecidos.}
+{200}{}{Você resgatou a irmã de Sulik dos escravistas.}

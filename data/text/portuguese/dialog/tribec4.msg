@@ -3,16 +3,16 @@
 {102}{}{Este jovem está olhando para longe. Ele tem um olhar assombrado em seu rosto.}
 {103}{}{O xamã parece estar muito mais à vontade.}
 {200}{}{[Ele parece imerso em pensamentos. Ao perceber você, ele dá um pulo assustado, então rapidamente recupera a compostura.] Uh, sim, forasteiro? Se você vier em busca de orientação espiritual, receio não estar à altura no momento. Talvez... talvez em outro momento.}
-{201}{}{Huh?! Oh, it's you again. You shouldn't sneak up on people like that. Look, I've got a lot on my mind at the moment. Perhaps I could help you some other time.}
-{202}{}{It seems like something is troubling you. Is there anything I could help you with?}
+{201}{}{Huh?! Ah, é você de novo. Você não deveria se aproximar de pessoas assim. Olha, eu tenho muito em que pensar no momento. Talvez eu possa te ajudar em outro momento.}
+{202}{}{Parece que algo está incomodando você. Há algo em que eu possa te ajudar?}
 {203}{}{Eu vou voltar mais tarde.}
-{204}{}{Huh-huh! I skeered yu! Booh!}
-{210}{}{The offer is appreciated, but... No, no, this is a personal matter that I must face on my own.}
-{211}{}{[He contemplates for a moment, then sighs.] This is rather embarrassing to admit but... You see, I've never actually *believed* in spirits, the afterlife, any of it. I know what you're thinking, what good is a shaman that doesn't believe? It's just that, well, it was either this or I take up a spear and hunt geckos with the warriors. Do I look like a warrior to you? Wait, don't answer that.}
-{212}{}{So you're a coward and a deceiver. You disgust me.}
-{213}{}{If you don't believe, then how do you tend to the spiritual needs of the village?}
-{220}{}{Oh, I don't blame you. In fact, I disgust myself quite thoroughly. I don't know why I thought you might help me. I certainly don't deserve to be helped. I got myself into this situation, so it's up to me to get myself out of it. Now if you'll excuse me...}
-{221}{}{Hold on there, Captain Pity. Why don't you tell me how exactly you thought I could help you?}
+{204}{}{Huh-huh! Eh zoei você! Booh!}
+{210}{}{A oferta é apreciada, mas... Não, não, este é um assunto pessoal que devo enfrentar sozinho.}
+{211}{}{[Ele pensa por um momento, então suspira.] É bastante embaraçoso admitir, mas... Veja bem, eu nunca realmente *acreditei* em espíritos, vida após a morte, nada disso. Eu sei o que você está pensando, de que adianta um xamã que não acredita? É que, bem, era isso ou eu pego uma lança e caço geckos com os guerreiros. Eu pareço um guerreiro para você? Não responda.}
+{212}{}{Então você é um covarde e mentiroso. Você me dá nojo.}
+{213}{}{Se você não acredita, então como você atende às necessidades espirituais da aldeia?}
+{220}{}{Ah, eu não te culpo. Na verdade, eu me enojo completamente. Não sei por que pensei que você poderia me ajudar, eu certamente não mereço ser ajudado. Eu me meti nessa situação, então cabe a mim sair dela. Agora se me der licença...}
+{221}{}{Espere aí, Capitão Piedade. Por que você não me diz exatamente como você pensou que eu poderia te ajudar?}
 {222}{}{Não, não vou desculpá-lo, vou eliminá-lo e purgar o mundo de sua existência patética!}
 {230}{}{Bem, até recentemente eu era apenas o subalterno do xamã da aldeia. Isso foi fácil, eu apenas tive que seguir sua liderança. Então ele foi dar um mergulho bêbado à meia-noite na Grande Água Salgada e, bem, de repente fui promovido. Não pensei que seria tão ruim. Imaginei que poderia apenas falar alguma besteira mística e todo mundo ficaria feliz. Mas não, no mesmo dia em que adquiro o título de xamã, me vejo lidando com algo que está muito além da minha cabeça.}
 {231}{}{O que aconteceu?}
@@ -62,15 +62,15 @@
 {612}{}{Parece que hoje é seu dia de sorte. Eu já tenho o que você está procurando aqui. Pode pegar, são seus.}
 {613}{}{Desculpe, mas estou muito ocupado para sair perambulando pela floresta, colhendo ervas para você.}
 {614}{}{Por que uma quantia tão exata?}
-{620}{}{Because, I'm very... particular about things. It's all about balance, certain numbers... [He frowns.] Look, I
- don't expect you to understand, but that's just the way I am. I need five Xander Roots and three Broc Flowers, no more,
- no less. Will you help me?}
-{630}{}{Have you obtained the items I need?}
-{631}{}{Yup, I have everything right here.}
-{632}{}{I'm still looking. Bye.}
-{640}{}{Lets see here... Oh, excellent. These will work well. Here, take some healing powder for your time.}
+{620}{}{Porque, eu sou muito... particular sobre as coisas. É tudo uma questão de equilíbrio, certos números... [Ele
+ franze a testa.] Olha, eu não espero que você entenda, mas é assim que eu sou. Preciso de cinco Raízes de Xander e três
+ Flores Broc, nem mais nem menos. Você vai me ajudar?}
+{630}{}{Você obteve os itens que eu preciso?}
+{631}{}{Sim, tenho tudo aqui.}
+{632}{}{Eu ainda estou procurando. Tchau.}
+{640}{}{Vamos ver aqui... Oh, excelente. Funcionarão muito bem. Aqui, pegue um pouco de pó de cura pelo seu tempo.}
 {641}{}{Obrigado. Tchau.}
-{1000}{}{You relieve the Tribe's Shaman of his troubles.}
-{2000}{}{You deliver the herbs to the Shaman.}
-{3000}{}{I knew you were a great hero all along... The spirits told me so.}
-{3001}{}{I'm glad my healing powders protected you from the Enclave.}
+{1000}{}{Você livra o Xamã da Tribo de seus problemas.}
+{2000}{}{Você entrega as ervas ao Xamã.}
+{3000}{}{Eu sabia que você era um grande herói o tempo todo... Os espíritos me disseram isso.}
+{3001}{}{Fico feliz que meus pós de cura tenham protegido você da Enclave.}
