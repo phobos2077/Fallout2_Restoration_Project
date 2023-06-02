@@ -108,20 +108,20 @@
 {205}{}{Oh, uh, okay. I had some other questions...}
 {206}{}{Deixa para lá. Vou te deixar com seu trabalho.}
 {207}{}{Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway.}
-{208}{}{Um... make sure he stays out of trouble, all right?}
-{209}{}{Great. Look, I had something else I wanted to ask you...}
-{210}{}{I'll do my best. I had something else I wanted to ask you...}
-{211}{}{That's all I ask. I'll leave you to your work.}
-{212}{}{I'll try. He seems to find it wherever we go. See you, Valerie.}
-{213}{}{Look, I don't have anything in "stock." This isn't a store. Most of the stuff I fix here ends up in the Amenities Office... it's out the door and to your left.}
-{214}{}{Like I said BEFORE, this isn't a store. Go to the Amenities Office if you want a gun. Come here if you want something repaired.}
-{215}{}{Oh. Well, can you repair anything of mine instead?}
+{208}{}{Hum... certifique-se de que ele fique longe de problemas, tudo bem?}
+{209}{}{Ótimo. Olha, eu tinha outra coisa que queria te perguntar...}
+{210}{}{Eu farei o meu melhor. Tinha outra coisa que eu queria te perguntar...}
+{211}{}{Isso é tudo que eu peço. Te deixarei com seu trabalho.}
+{212}{}{Vou tentar. Parece que eles estão em todos os lugares que vamos. Até mais, Valéria.}
+{213}{}{Olha, não tenho nada em "estoque", isso não é uma loja. A maioria das coisas que conserto aqui acabam no Escritório de Serviços... fica do lado de fora, à sua esquerda.}
+{214}{}{Como eu disse ANTES, isso não é uma loja. Vá para o Escritório de Serviços se quiser uma arma. Venha aqui se quiser consertar alguma coisa.}
+{215}{}{Oh. Bem, então você pode consertar alguma coisa minha?}
 {216}{}{Você pode consertar alguma coisa minha?}
-{217}{}{All right, all right. Goodbye.}
-{218}{}{Well... maybe. Let's see what you got.}
-{219}{}{Show her your pistols.}
-{220}{}{Show her your rifles.}
-{221}{}{Show her your general inventory.}
+{217}{}{Tudo bem, tudo bem. Adeus.}
+{218}{}{Bem, talvez. Vamos ver o que você tem.}
+{219}{}{Você mostra suas pistolas.}
+{220}{}{Mostre seus rifles.}
+{221}{}{Mostra seu inventário geral.}
 {222}{}{Deixa para lá. Queria saber outra coisa...}
 {223}{}{Talvez alguma outra hora.}
 {224}{}{Posso colocar um carregador rápido nessa sua magnum por $800.}

@@ -1,5 +1,5 @@
-{100}{}{You see a chubby merchant with an eyepatch.}
-{101}{}{One-Eyed Roy watches you intently with his good eye as he mops sweat from his forehead.}
+{100}{}{Você vê um comerciante gordinho com um tapa-olho.}
+{101}{}{Roy Caolho observa você atentamente com seu olho bom enquanto enxuga o suor da testa.}
 {200}{}{[As you and Krom approach the meeting site, you're greeted by a chubby merchant with an eyepatch and a
  small entourage of bodyguards. Though the merchant is sweating profusely, he appears downright cheerful.]}
 {201}{}{[MAIS]}

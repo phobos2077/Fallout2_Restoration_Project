@@ -3,9 +3,9 @@
 {102}{}{Você vê o membro sênior do conselho, McClure.}
 {103}{}{Você vê um oficial idoso de Vault City. Seu cabelo está ficando grisalho nas pontas.}
 {104}{}{Ouvi falar do seu ato heroico. Estamos todos em dívida com você... Escolhido.}
-{105}{}{I have to tabulate these lists before I leave. Return in the morning, and I will speak to you then.}
-{106}{}{A ghoul?! Guards! Guards!}
-{107}{}{A mutant?! Guards! Guards!}
+{105}{}{Tenho que tabular essas listas antes de sair. Volte pela manhã, e então falarei com você.}
+{106}{}{Um ghoul?! Guardas! Guardas!}
+{107}{}{Um mutante?! Guardas! Guardas!}
 {108}{}{I have nothing to say to you. Leave, or I will call the guards.}
 {109}{}{Good day... Captain, is it? I've heard a great deal about you. Is there something I could help you with?}
 {110}{}{Good day... Citizen, is it? I'd heard we had gained a new member of the community. Is there anything I could help you with?}
