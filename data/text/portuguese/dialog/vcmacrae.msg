@@ -41,7 +41,7 @@
 {131}{}{É pior. Os Cidadãos não bebem muito, então estou preso aqui dando bebidas
  aos mercadores. O próximo bastardo que tentar pechinchar por uma bebida
  vai acordar com uma bota enfiada na bunda.}
-{132}{}{You sound pretty fed up with the place.}
+{132}{}{Você parece bastante farto deste lugar.}
 {133}{}{Lamento ouvir isso. O que você sabe sobre a Vault?}
 {134}{}{Todos cometemos erros... uns mais que outros. Então o que você quer?}
 {135}{}{O que está acontecendo por aqui?}

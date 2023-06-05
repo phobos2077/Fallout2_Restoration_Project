@@ -59,15 +59,15 @@
 {158}{}{Deixa quieto. Eu estava procurando algumas informações.}
 {159}{}{Isso é meio caro pra mim. Voltarei quando tiver mais dinheiro.}
 {160}{}{Nada por hoje, valeu.}
-{161}{}{Would you care for anything else?}
-{162}{}{I'd like some more water, thanks.}
+{161}{}{Você gostaria de mais alguma coisa?}
+{162}{}{Eu gostaria de um pouco mais de água, obrigado.}
 {163}{}{Quais tipos de álcool sintetizado você tem?}
 {164}{}{Deixa para lá. Eu estava procurando algumas informações.}
 {165}{}{Nada por hoje, valeu.}
-{166}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
-{167}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
-{168}{}{Would you care for anything else?}
-{169}{}{I don't feel so good... I'm just going to pop out of dialogue for a second and check my max hit points.}
+{166}{}{Você está bem, senhor? Beber todo aquele "álcool-Z" parece ter causado algum tipo de efeito em você. Tem certeza que quer mais?}
+{167}{}{Você está bem, senhor? Beber todo aquele "álcool-Z" parece ter causado algum tipo de efeito em você. Tem certeza que quer mais?}
+{168}{}{Você gostaria de mais alguma coisa?}
+{169}{}{Não me sinto muito bem... Vou só sair do diálogo rapidão e dar uma olhada no meu HP máximo.}
 {170}{}{No, no, I feel great! I'm just going to pop out of dialogue for a second and check my max hit points.}
 {171}{}{Acho que só vou tomar um pouco de água.}
 {172}{}{I'll have some more delicious alcohol-Z.}

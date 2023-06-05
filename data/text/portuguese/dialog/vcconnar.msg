@@ -49,14 +49,14 @@
 {144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
 {145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
 {146}{}{Just don't kill anything out there, you simpleton.}
-{147}{}{What the hell have you done?!?! You fucking traitor! I hate you!!!}
+{147}{}{Que tipo de merda você fez?!?! Seu maldito traidor! Te odeio!!!}
 {148}{}{Oooooops...}
-{149}{}{Let me out of here!!!}
+{149}{}{Me deixe sair daqui!!!}
 {150}{}{O que foi que eu fiz para você?}
 {151}{}{Socorro!}
-{152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
- stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
- in or around the bar. He'll know what to do.}
+{152}{}{Claro. Olha, isso é tudo que podemos pagar. [Ele te entrega $ 5.000.] Posso ser um idiota por confiar isso
+ a um estranho, mas você é a única esperança que temos de ficar livres. Fale com o Velho Joe no pátio de Vault City.
+ Ele geralmente está dentro ou ao redor do bar. Ele saberá o que fazer.}
 {153}{}{Eu estou no meu caminho.}
 {154}{}{Posso perguntar-lhe algumas perguntas?}
 {155}{}{Com certeza, o que você tem em mente?}
@@ -87,20 +87,20 @@
 {201}{}{Acontece que já estou carregando todas essas armas. Suponho que poderia dispensar algumas, mas você tem certeza de que esta é a melhor maneira de fazer isso?}
 {202}{}{Tenho as armas que você precisa, mas honestamente, acho que poderia haver uma maneira melhor de fazer isso. Há um homem razoável no conselho em Vault City, o membro sênior do conselho McClure. Tenho certeza de que conseguiria convencê-lo a chegar a uma solução pacífica.}
 {203}{}{Honestamente, acho que poderia haver uma maneira melhor de fazer isso. Há um homem razoável no conselho em Vault City, o membro sênior do conselho, McClure. Tenho certeza de que conseguiria convencê-lo a chegar a uma solução pacífica.}
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naive my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
-{206}{}{Ok. I'll report back when I have some news.}
-{210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}
-{211}{}{You do?! Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}
-{212}{}{Alright. Here are the weapons.}
-{213}{}{No, I have decided not to. Goodbye.}
-{214}{}{No price too high, eh? Well, I know how economics work. Increase in demand means an increase in prices.}
+{205}{}{Ha! Você realmente acha que algum desses membros importantes do conselho se importa com o que acontece conosco? Não seja tão ingênuo meu amigo, aqueles babacas de Vault City não são confiáveis. Agora, por favor, encontre Joe no pátio de Vault City. Se ele não está no bar, provavelmente não está longe dele. O velho Joe saberá o que fazer, pode confiar nele. Por favor, depressa.}
+{206}{}{OK. Voltarei aqui quando tiver novidades.}
+{210}{}{Confie em mim, nós consideramos a alternativa, mas a única coisa que esses babacas de Vault City irão responder é a violência. Agora, você vai nos dar as armas? Pago $5.000 por elas. Nenhum preço pode ser estabelecido para a liberdade.}
+{211}{}{Você faz?! Excelente. Aqui, eu te dou $5.000 por essas armas. É todo o dinheiro que temos, mas não há preço alto demais para a liberdade. Você nos prestou um grande serviço e será sempre bem-vindo aqui.}
+{212}{}{Tudo bem. Aqui estão as armas.}
+{213}{}{Não, eu decidi que não. Adeus.}
+{214}{}{Nenhum preço é muito alto, mesmo? Bem, eu sei como a economia funciona, aumento da demanda significa aumento de preços.}
 {215}{}{[FEITO]}
-{216}{}{[ATTACK]}
-{217}{}{Listen, starting a war with Vault City isn't the answer. Sure, you might be able to fend them off for months, maybe even years, but you can't hold out forever. And in the meantime, lives will be needlessly lost. But if I can just get one member of the Vault City council to see reason, then I know we can reach a peaceful agreement.}
-{218}{}{Hmm... Alright, I trust you have our best interests in mind. If you really think you can reason with one of their council members, then by all means, give it a shot. However, I think you should talk to Old Joe and see what he has to say. You can find him in or around the courtyard bar. Good luck. We're all counting on you.}
-{220}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. You know what? Forget it. We don't need the help of someone like you. Now I suggest you leave.}
-{221}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. [He sighs.] Fine, we'll throw in an extra thousand, but that leaves us with nothing. Will you give us the guns now?}
-{222}{}{Sure, pleasure doing business with you. Bye.}
+{216}{}{[ATAQUE]}
+{217}{}{Ouça, começar uma guerra com Vault City não é a resposta. Claro, você pode afastá-los por meses, talvez até anos, mas não pode resistir para sempre. E enquanto isso, vidas serão perdidas desnecessariamente. Mas se eu conseguir que um membro do conselho de Vault City veja a razão, sei que podemos chegar a um acordo pacífico.}
+{218}{}{Hmm... Tudo bem, acredito que você tenha nossos melhores interesses em mente. Se você realmente acha que pode argumentar com um dos membros do conselho, então, por favor, tente. No entanto, acho que você deveria falar com o Velho Joe e ver o que ele tem a dizer. Você pode encontrá-lo dentro ou ao redor do bar do pátio. Boa sorte, estamos todos contando com você.}
+{220}{}{Eu deveria saber que você seria outro oportunista sem coração. É de pessoas como você que começamos esta comunidade para tentar fugir. Sabe de uma coisa? Esqueça. Não precisamos da ajuda de alguém como você, sugiro que saia.}
+{221}{}{Eu deveria saber que você seria outro oportunista sem coração. É de pessoas como você que começamos esta comunidade para tentar fugir. [Ele suspira.] Tudo bem, vamos colocar mais mil, mas isso nos deixa sem nada. Você vai nos dar as armas agora?}
+{222}{}{Certo, prazer em fazer negócios com você. Tchau.}
 {223}{}{Na verdade, acho que posso encontrar um negócio melhor em outro lugar. Adeus.}
 {225}{}{Excelente. Aqui, eu te dou $5.000 por essas armas. É todo o dinheiro que temos, mas não há preço alto demais pela liberdade. Você nos prestou um grande serviço e será sempre bem-vindo aqui.}
 {226}{}{Tudo bem, cuide-se então.}

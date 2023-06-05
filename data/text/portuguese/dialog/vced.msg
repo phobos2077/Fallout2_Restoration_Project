@@ -31,12 +31,12 @@
 {130}{}{Quando eu era muito mais jovem, costumava conduzir brahmins pelo 'Grande Círculo'... Broken Hills, New Reno, Redding, Den, Modoc, depois de volta aqui. Ficou muito perigoso depois de um tempo, então me estabeleci aqui.}
 {131}{}{Onde estão esses lugares?}
 {132}{}{Entendo. Bem, agradeço pela informação.}
-{133}{}{Let me mark it on your map. See, Broken Hills is south... bear west on the trail from there, and you'll hit Reno.
- Northwest o' Reno is Redding, then it's north to the Den, east to Modoc, then east to here, Vault City.}
-{134}{}{Any idea which of those places you got the flask from?}
+{133}{}{Deixe que eu marque em seu mapa. Veja, Broken Hills fica ao sul... vire para oeste na trilha de lá, e você chegará
+ a Reno. Noroeste de Reno é Redding, então é ao norte até o Den, a leste até Modoc, então a leste até aqui, Vault City.}
+{134}{}{Alguma ideia de qual desses lugares você conseguiu o cantil?}
 {135}{}{Obrigado pela informação.}
-{136}{}{Sorry, can't remember exactly. It was a long time ago. Why do you want to know?}
-{137}{}{I'm looking for the Vault the flask came from.}
+{136}{}{Desculpe, não me lembro exatamente. Foi há muito tempo. Por que você quer saber?}
+{137}{}{Estou procurando a Vault de onde veio esse cantil.}
 {138}{}{Obrigado pela informação.}
 {139}{}{Well, hell, if it's a Vault you're looking for, then there's one inside the walls of Vault City.}
 {140}{}{A Vault 13 está dentro da cidade?}

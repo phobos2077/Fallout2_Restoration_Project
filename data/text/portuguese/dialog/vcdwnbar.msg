@@ -23,25 +23,25 @@
 {122}{}{I have that shipment of alcohol you wanted.}
 {123}{}{Nada por hoje, valeu.}
 {124}{}{Uh... so I smell. Um, thanks again for saving the world and all.}
-{125}{}{Stinkie-blinkie me make twinkie!}
+{125}{}{Explode-explode faz de mim uma estrelinha!}
 {126}{}{Desliga}
-{127}{}{Look, maybe you saved the world and all, but a poet, you're not. Now cut it out.}
-{128}{}{Flinkie-flinkie klinkie-klinkie!}
+{127}{}{Olha, talvez você tenha salvado o mundo e tudo mais, mas poeta você não é. Agora pare com isso.}
+{128}{}{Estora-estora-estora-estora!}
 {129}{}{Desliga}
-{130}{}{Look, take these and get out of here, okay? They ought to keep your mouth busy for a while.}
-{131}{}{Thankie wankie my stankie}
+{130}{}{Olha, pegue isso e saia daqui, certo? Eles devem manter sua boca ocupada por um tempo.}
+{131}{}{Obrigado idiota meu migo}
 {132}{}{Desliga}
 {133}{}{Uh... o que posso fazer por você, capitão?}
 {134}{}{O que posso fazer por você, Cidadão?}
 {135}{}{Sim? Posso ajudar?}
-{136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
+{136}{}{Você? Também? Quem? Uau. O- e te joooj é que todos fala quando me ve}
 {137}{}{Desliga}
 {138}{}{O que você tem aí?}
 {139}{}{Estava procurando algumas informações.}
 {140}{}{I have that shipment of alcohol you wanted.}
 {141}{}{Nada por hoje, valeu.}
-{142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second... I want the guards to hear it, too.}
-{143}{}{Too? Tew. Tewwwww. Tewwww sexeee fur my clothez}
+{142}{}{Essa é talvez a coisa mais fascinante que já ouvi. Espere um segundo... Quero que os guardas também ouçam.}
+{143}{}{Too? Tu, tu-tu-tu. Vocêêêê e eu doissss}
 {144}{}{Desliga}
 {145}{}{Temos cervejas sintéticas e licores... vodka-H, derivados de tequila W e W2. Ah, e água. E leite de brahmin. Cerveja ou licor custa dez dólares, água ou leite três dólares.}
 {146}{}{Como...?}
@@ -154,6 +154,6 @@
 {253}{}{Deixa pra lá, então. Estava procurando algumas informações...}
 {254}{}{Entendo. Obrigado de qualquer maneira.}
 {255}{}{Eu... vejo. Bem, uh, tome cuidado agora. OK?}
-{256}{}{Thankie wankie my stankie}
+{256}{}{Obrigado idiota meu migo}
 {257}{}{Desliga}
 {258}{}{Zzzzzzzz.}

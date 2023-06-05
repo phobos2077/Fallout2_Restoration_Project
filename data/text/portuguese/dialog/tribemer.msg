@@ -1,34 +1,34 @@
 {100}{}{Você vê um comerciante gordinho com um tapa-olho.}
 {101}{}{Roy Caolho observa você atentamente com seu olho bom enquanto enxuga o suor da testa.}
-{200}{}{[As you and Krom approach the meeting site, you're greeted by a chubby merchant with an eyepatch and a
- small entourage of bodyguards. Though the merchant is sweating profusely, he appears downright cheerful.]}
+{200}{}{[Conforme você e Krom se aproximam do local da reunião, você é saudado por um comerciante gordinho
+ com um tapa-olho e uma pequena comitiva de guarda-costas. Embora o comerciante esteja suando profusamente, ele parece francamente alegre.]}
 {201}{}{[MAIS]}
-{202}{}{[After the merchant gives Krom an enthusiastic greeting, he turns to you and looks you over. Though his grin
- never falters, his probing eye betrays a hint of suspicion.] So Krom here says I'm to do business with you today.
- [He shrugs.] Folks call me One-Eyed Roy, but I can't for the life of me figure out why. [He laughs heartily at his joke.]
- What's your name, friend?}
+{202}{}{[Depois que o comerciante dá a Krom uma saudação entusiástica, ele se vira e olha para você. Embora seu
+ sorriso nunca vacile, seu olhar perscrutador revela uma pitada de suspeita.] Então, Krom diz que devo fazer
+ negócios com você hoje. [Ele dá de ombros.] As pessoas me chamam de Roy Caolho, mas não consigo descobrir o
+ por que. [Ele ri muito de sua piada.] Qual é o seu nome, amigo?}
 {203}{}{Eu sou }
-{204}{}{ of Arroyo.}
-{205}{}{. Now let's get this underway.}
-{210}{}{A true pleasure to meetcha, }
-{211}{}{. If you don't mind me saying, you're a bit of an odd sort for a tribal.}
-{212}{}{I'm not your average tribal. In fact, I'm the Chosen One.}
-{213}{}{I don't know what you mean. I'm just your average Joe Tribal. Nothing odd about me at all.}
-{214}{}{Oh, because of what I'm wearing? You see, I'm trying to set a new tribal fashion trend. I'm tired of the same ol'
- brahmin hide pants with a strap across the chest. That look is *so* 2240.}
-{215}{}{Who are you calling an "odd sort", you tubby one-eyed motherfucker? [Attack.]}
-{220}{}{[His grin falters slightly and he nods.] Alright, down to business then. Tell me, friend, have you ever heard
- of a little item called... a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat
- pocket and holds it up like a wondrous artifact.]}
-{230}{}{[His eye goes wide and he lets out a low whistle.] The Chosen One, huh? Well color me impressed. Now let's say
- we get down to business. Tell me, friend, have you ever heard of a little item called... a stimpak? [As he dramatically
- speaks the last word, he produces a stimpak from his coat pocket and holds it up like a wondrous artifact.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
-{241}{}{Uh, yeah. Actually, they're pretty common.}
-{242}{}{Of course. In fact, I hoard the things. Hell, I'm practically a stimpak junkie.}
-{243}{}{[Shake your head and stare at the item in wonder.] What's... stim-pak?}
+{204}{}{ de Arroyo.}
+{205}{}{. Agora vamos começar isso.}
+{210}{}{Um verdadeiro prazer em te conhecer, }
+{211}{}{. Se não se importa que eu diga, você é um tipo estranho para um tribal.}
+{212}{}{Eu não sou seu tribal médio. Na verdade, eu sou O Escolhido.}
+{213}{}{Eu não sei o que você quer dizer, eu sou só um típico Tribal médio. Tem nada de estranho em mim.}
+{214}{}{Ah, por causa do que estou vestindo? Então, estou tentando definir uma nova tendência na moda tribal. Cansei
+ das mesmas velhas calças de brahmin com uma tira no peito. Esse visual é *tão* 2240.}
+{215}{}{Quem você está chamando de "estranho", seu gordo filho da puta caolho? [Ataque.]}
+{220}{}{[Seu sorriso vacila um pouco e ele acena com a cabeça.] Tudo bem, vamos aos negócios então. Me diga, você
+ já ouviu falar de um pequeno item chamado... stimpak? [Enquanto ele fala dramaticamente a última palavra, ele
+ tira um stimpak do bolso do casaco e o segura como um artefato maravilhoso.]}
+{230}{}{[Seu olho se arregala e ele solta um assobio baixo.] O Escolhido, é? Bem, impressione. Agora, vamos direto ao
+ assunto. Me diga, você já ouviu falar de um pequeno item chamado... stimpak? [Enquanto ele fala dramaticamente
+ a última palavra, ele tira um stimpak do bolso do casaco e o segura como um artefato maravilhoso.]}
+{240}{}{O que você disser, amigo. Agora vamos ao que interessa, certo? Você já ouviu falar de um pequeno item chamado...
+ stimpak? [Enquanto ele fala dramaticamente a última palavra, ele tira um stimpak do bolso do casaco e o segura como
+ um artefato maravilhoso.]}
+{241}{}{Sim. Na verdade, eles são bem comuns.}
+{242}{}{Claro. Na verdade, eu acumulo essas coisas. Porra, eu sou praticamente viciado em stimpak.}
+{243}{}{[Balança a cabeça e olhe para o item maravilhado.] O que é... Stim-pak?}
 {250}{}{[Ele ri nervosamente.] Eu não diria que eles são *comuns*, mas certamente são cobiçados por nós, pessoas
  civilizadas. [Ele olha para Krom.] E por um bom motivo. Veja, esses carinhas contêm poderes mágicos de cura que irão
  *surpreender* e *maravilhar* você. Claro, as palavras não significam nada sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
@@ -60,7 +60,7 @@
 {276}{}{Praticamente nos dando? Quanto você está pedindo?}
 {280}{}{Vou te dar um caixote inteiro cheio deles, com *cinquenta* stimpaks. E tudo que peço em troca são míseras
  *vinte* peles de gecko douradas. Você não pode achar um acordo como esse.}
-{281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
+{281}{}{[Para Krom.] Ele está certo, é um bom negócio. Um ótimo, na verdade. [Para Roy.] Faremos negócio.}
 {282}{}{Isso é um bom negócio, bom demais. Qual é o problema?}
 {283}{}{Ofereceremos a você dez peles douradas de gecko. nada mais.}
 {284}{}{Me deixe pensar sobre isso por um momento.}
@@ -85,7 +85,7 @@
  stimpaks valem muito mais do que meras vinte peles douradas de gecko, estou sendo realista. Não posso esperar que
  sua tribo, mesmo sendo de caçadores habilidosos, o que inclui você, tenha cem peles de gecko douradas por aí, então
  estou fazendo uma oferta mais razoável. É por isso que é um bom negócio.}
-{321}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
+{321}{}{[Para Krom.] Ele está certo, é um bom negócio. Um ótimo, na verdade. [Para Roy.] Faremos negócio.}
 {322}{}{Antes de concordarmos com qualquer coisa, gostaria de dar uma olhada no resto dos produtos.}
 {330}{}{[Seu olho se estreita ligeiramente, então ele sorri.] Claro. Estão nesta caixa ao meu lado.}
 {331}{}{[FEITO]}

@@ -44,10 +44,10 @@
 {142}{}{Espero que as coisas melhorem para você no futuro. Até mais.}
 {143}{Cas0143}{Mesmo os bons dias não valem nada. Os Cidadãos não bebem muito, então estou preso aqui servindo bebidas para os mercadores. O próximo filho da puta que pechinchar por bebida eu vou arrancar a pele pra fazer um chapéu.}
 {144}{}{Se odeia tanto, por que ainda está aqui?}
-{145}{}{Sorry to hear that. I'm looking for a Vault. Can you help me out?}
-{146}{}{Sorry to hear it. Hope things get better.}
-{147}{Cas0147}{I have a bad heart. Need cardio booster shots to keep it beating. This city's the only place to get real medical care, so I thought I'd settle here, try and make a living.}
-{148}{}{You sound pretty fed up with the place.}
+{145}{}{Lamento ouvir isso. Estou procurando uma Vault. Você pode me ajudar?}
+{146}{}{Desculpe ouvir isso. Espero que as coisas melhorem.}
+{147}{Cas0147}{Eu tenho um coração ruim, precisa de cargas de impulso-cardíaco para mantê-lo batendo. Esta cidade é o único lugar onde se consegue atendimento médico de verdade, então pensei em me estabelecer aqui, tentar ganhar a vida.}
+{148}{}{Você parece bastante farto deste lugar.}
 {149}{}{I see. Say, I'm looking for a Vault. Can you help me out?}
 {150}{}{Hope things get better for you from here on. See you.}
 {151}{Cas0151}{Makes me want to close up shop and let this City rot. Screw 'em all.}
