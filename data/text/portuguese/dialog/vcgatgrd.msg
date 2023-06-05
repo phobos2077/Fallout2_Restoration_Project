@@ -1,13 +1,13 @@
-{100}{}{You see one of the Vault City gate guards.}
-{101}{}{You see a diligent-looking guard. The guard is wearing metal armor and carrying a powerful-looking rifle.}
+{100}{}{Você vê um dos guardas do portão de Vault City.}
+{101}{}{Você vê um guarda de aparência diligente. O guarda está vestindo uma armadura de metal e carregando um rifle potente.}
 {102}{}{Ei! Cai fora daqui!}
-{103}{}{We warned you once...}
-{104}{}{Hey! It's the one who defeated the Enclave. Open the gate.}
+{103}{}{Nós avisamos uma vez...}
+{104}{}{Ei! É aquele que derrotou a Enclave. Abram o portão.}
 {105}{}{Bom dia, Capitão.}
-{106}{}{Sir. It's good to see you, sir.}
-{107}{}{Sir, yes, sir!}
+{106}{}{Senhor. É bom vê-lo, senhor.}
+{107}{}{Senhor. Sim, senhor!}
 {108}{}{Vault City prevails, Capitão.}
-{109}{}{My apologies, Citizen, but ghouls are not permitted inside Vault City.}
+{109}{}{Minhas desculpas, Cidadão, mas ghouls não são permitidos dentro de Vault City.}
 {110}{}{My apologies, Citizen, but mutants are not permitted inside Vault City.}
 {111}{}{That ghoul had better step away from the gate. Now.}
 {112}{}{That mutant had better step away from the gate. Now.}

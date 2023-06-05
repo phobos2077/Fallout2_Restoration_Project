@@ -38,10 +38,10 @@
 {136}{}{Desculpe, não me lembro exatamente. Foi há muito tempo. Por que você quer saber?}
 {137}{}{Estou procurando a Vault de onde veio esse cantil.}
 {138}{}{Obrigado pela informação.}
-{139}{}{Well, hell, if it's a Vault you're looking for, then there's one inside the walls of Vault City.}
+{139}{}{Bem, caramba, se é uma Vault que você está procurando, então há uma dentro das paredes de Vault City.}
 {140}{}{A Vault 13 está dentro da cidade?}
 {141}{}{Obrigado pela informação.}
-{142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
+{142}{}{Bem, agora, não sei se é "13" exatamente, mas há uma Vault. Se não for essa que você está procurando, o computador central da Vault pode saber onde estão as outras. Elas devem estar todas listada.}
 {143}{}{Eu tenho mais algumas perguntas...}
 {144}{}{Obrigado pela informação.}
 {145}{}{Atirar. O que você quer saber?}
