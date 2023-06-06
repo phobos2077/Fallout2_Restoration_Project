@@ -19,11 +19,11 @@
 {118}{}{Não é problema meu.}
 {119}{}{Bem, espero que você engasgue com isso. Eles virão atrás de nós em breve.}
 {120}{}{Eu não sabia por que eles queriam que eu fizesse o trabalho.}
-{121}{}{Yeah, well, I don't deal with trash like you anyway.}
-{122}{}{Well, we can't let you do that.}
-{123}{}{You gotta do what you gotta do.}
-{124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
-{125}{}{Is there anything I could do to help?}
+{121}{}{Sim, bem, eu não costumo lidar com lixos como vocês.}
+{122}{}{Bem, não podemos deixar você fazer isso.}
+{123}{}{Você tem que fazer o que você tem que fazer.}
+{124}{}{Você acreditou neles pelo valor de cara? Você tem muito a aprender sobre o mundo, amigo.}
+{125}{}{Há algo que eu possa fazer para ajudar?}
 {126}{}{The Vault City boys aren't the bravest. You show them any kind of a fight and they run for the
  hills. If we had a few guns, I think we could hold them off.}
 {127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}

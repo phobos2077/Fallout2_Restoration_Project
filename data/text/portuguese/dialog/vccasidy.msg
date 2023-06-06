@@ -48,9 +48,9 @@
 {146}{}{Desculpe ouvir isso. Espero que as coisas melhorem.}
 {147}{Cas0147}{Eu tenho um coração ruim, precisa de cargas de impulso-cardíaco para mantê-lo batendo. Esta cidade é o único lugar onde se consegue atendimento médico de verdade, então pensei em me estabelecer aqui, tentar ganhar a vida.}
 {148}{}{Você parece bastante farto deste lugar.}
-{149}{}{I see. Say, I'm looking for a Vault. Can you help me out?}
-{150}{}{Hope things get better for you from here on. See you.}
-{151}{Cas0151}{Makes me want to close up shop and let this City rot. Screw 'em all.}
+{149}{}{Entendo. Olha, estou procurando uma Vault. Você pode me ajudar?}
+{150}{}{Espero que as coisas melhorem a partir de agora. Até mais.}
+{151}{Cas0151}{Dá vontade de fechar a loja e deixar essa cidade apodrecer. Que se fodam todos.}
 {152}{}{Por que você não vai embora?}
 {153}{}{Desculpe ouvir isso. Espero que as coisas funcionem para você.}
 {154}{Cas0154}{Ir para o deserto sozinho? Há! Estou cheio deste lugar, mas não sou estúpido.}
@@ -72,20 +72,20 @@
 {170}{}{}
 {171}{Cas0171}{E aí? Você tem aquele olhar de "preciso te dizer uma coisa que você pode não gostar" de novo.}
 {172}{Cas0172}{Sim?}
-{173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
+{173}{Cas0173}{O que é? Você está com aquele olhar de novo de "vou abusar da minha autoridade".}
 {174}{}{Eu gostaria de lhe fazer algumas perguntas...}
-{175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
-{176}{}{Cassidy, I need you to wait here until I come back.}
+{175}{}{Parece que você sofreu algum dano. Use alguns stimpacks e cure-se.}
+{176}{}{Cassidy, preciso que espere aqui até eu voltar.}
 {177}{}{Coloque sua arma de distância.}
 {178}{}{Ficar perto de mim.}
 {179}{}{Não fique muito longe.}
 {180}{}{Devemos espalhar um pouco.}
-{181}{}{C'mon, Cassidy. Time to head out.}
+{181}{}{Bora, Cassidy. Hora de ir.}
 {182}{}{Nada, esquece.}
-{261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
+{261}{Cas0261}{Você quer que eu coloque uma bala na cabeça do Myron, isso? Sem problemas, só dar a ordem.}
 {262}{Cas0262}{O que tem em mente?}
-{263}{}{Why do you want to cap Myron?}
-{264}{}{What weapons are you skilled with?}
+{263}{}{Por que você quer se livrar do Myron?}
+{264}{}{Com quais armas você tem habilidade?}
 {265}{}{Na verdade, tinha outra coisa que queria que você fizesse...}
 {266}{}{Na verdade, tinha algo que eu queria que você fizesse...}
 {267}{}{Deixa pra lá. Vamos continuar.}
@@ -123,26 +123,26 @@
 {299}{Cas0299}{Ok, certo, apenas verificando.}
 {300}{Cas0300}{Eu não me importaria em abrir uns buracos em alguns sequestradores. Um pouco de justiça na fronteira nunca fez mal a ninguém... bem, pelo menos não a mim.}
 {301}{}{Tudo bem. Vamos.}
-{302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
-{303}{Cas0303}{Especially a woman's.}
-{304}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}
-{305}{}{So? What are you saying?}
-{306}{}{You know, you cuss a lot, too, Cassidy.}
-{307}{}{Tell me about it. Let's get going.}
-{308}{Cas0308}{Yeah, but when I do it, it's got style. He's just a little trash mouth.}
+{302}{Cas0302}{As coisas que aquele patife diz não são adequadas para ouvidos decentes.}
+{303}{Cas0303}{Especialmente mulheres.}
+{304}{}{Pô, Cassidy, eu não sabia que você se importava. Meu coração está palpitando.}
+{305}{}{Então? O que você está dizendo?}
+{306}{}{Sabe, você xinga muito também, Cassidy.}
+{307}{}{Me conte sobre isso. Vamos indo.}
+{308}{Cas0308}{Sim, mas quando eu faço é com estilo. Ele é só um boca de lixo.}
 {309}{Cas0309}{E eu também não gosto do jeito que ele olha para você.}
-{310}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}
-{311}{}{So? What are you saying?}
-{312}{}{Tell me about it. Let's get going.}
+{310}{}{Pô, Cassidy, eu não sabia que você se importava. Meu coração está palpitando.}
+{311}{}{Então? O que você está dizendo?}
+{312}{}{Me conte sobre isso. Vamos indo.}
 {313}{Cas0313}{Espere um pouco, eu não quis dizer nada disso.}
-{314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
-{315}{}{Well, life can be a harsh teacher on its own. I had some other questions for you...}
-{316}{}{Well, he's bound to bite it any time now anyway. I wouldn't worry about it.}
-{317}{}{Just calm down, Cassidy. Leave Myron alone.}
-{318}{}{I hate this place.}
-{319}{}{I was hoping we'd steer clear of this place for good.}
-{320}{}{City of tight-asses...}
-{321}{}{This place looks worse than Vault City.}
+{314}{Cas0314}{Tudo o que estou dizendo é que aquele babacão é vai sacar seu número um dia, quando formos só eu, ele e um buraco no deserto.}
+{315}{}{Bem, a vida pode ser um pouco dura as vezes. Eu tinha outras perguntas para você...}
+{316}{}{Bem, ele é obrigado a morder o tempo todo de qualquer forma. Eu não me preocuparia.}
+{317}{}{Calma lá, Cassidy. Deixe Myron em paz.}
+{318}{}{Odeio esse lugar.}
+{319}{}{Eu esperava que ficássemos longe deste lugar para sempre.}
+{320}{}{Cidade de engomadinhos...}
+{321}{}{Este lugar parece pior que Vault City.}
 {322}{}{Ainda bem que verifiquei minhas armas antes de vir aqui.}
 {323}{}{Se eu for de base, não me enterre aqui.}
 {324}{}{Cuidado por aqui. Os locais não são muito amigáveis.}
@@ -214,13 +214,13 @@
 {4400}{Cas4400}{Usei o que pude, mas ainda estou muito confuso. Se você tiver mais estimulantes sobrando, eu gostaria de usá-los. Mas eu ainda posso andar.}
 {9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {10001}{}{Tome um estimulante e se cure.}
-{10002}{}{Cassidy, I need you to wait here until I come back.}
+{10002}{}{Cassidy, preciso que espere aqui até eu voltar.}
 {10003}{}{Coloque sua arma de distância.}
 {10004}{}{Ficar perto de mim.}
 {10005}{}{Não fique muito longe.}
 {10006}{}{Devemos espalhar um pouco.}
 {10007}{}{Vamos sair.}
-{10100}{}{C'mon, Cassidy. Time to head out.}
+{10100}{}{Bora, Cassidy. Hora de ir.}
 {20000}{Cas20000}{Tudo bem, estou ouvindo.}
 {20001}{Cas20001}{Meu equipamento? O que tem ele?}
 {20002}{Cas20002}{Sem problemas. Muito calor para esse tipo de equipamento, de qualquer forma. Me faz suar como uma prostituta de New Reno.}
