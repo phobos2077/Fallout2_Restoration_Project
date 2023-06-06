@@ -9,14 +9,14 @@
 {108}{}{Vault City prevails, Capitão.}
 {109}{}{Minhas desculpas, Cidadão, mas ghouls não são permitidos dentro de Vault City.}
 {110}{}{My apologies, Citizen, but mutants are not permitted inside Vault City.}
-{111}{}{That ghoul had better step away from the gate. Now.}
-{112}{}{That mutant had better step away from the gate. Now.}
+{111}{}{É melhor aquele ghoul se afastar do portão. Agora.}
+{112}{}{É melhor aquele mutante se afastar do portão. Agora.}
 {113}{}{Bom dia, Citizen.}
-{114}{}{Good to see you, Citizen.}
+{114}{}{Bom ver você, Cidadão.}
 {115}{}{Vault City prevails, Citizen.}
 {116}{}{Saia daqui.}
 {117}{}{Se perder.}
-{118}{}{Got a problem? Or are you looking for one?}
+{118}{}{Tem algum problema? Ou está procurando um?}
 {119}{}{Eu não quero ter que te machucar.}
 {120}{}{Você está autorizado a entrar. Vá em frente.}
 {121}{}{Bom dia, viajante.}

@@ -32,7 +32,7 @@
 {131}{}{[Harry te traz os rifles.] Aqui, pegue. Vai ser dez mil, e vamos fazer isso rápido.}
 {132}{}{Claro, aqui está o dinheiro.}
 {133}{}{Mas Connar só me deu cinco mil.}
-{134}{}{But Connar only gave me two grand.}
+{134}{}{Mas Connar só me deu dois mil.}
 {135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
 {137}{}{Excellent. But remember, you didn't buy these weapons here.}

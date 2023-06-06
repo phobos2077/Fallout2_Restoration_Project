@@ -24,31 +24,31 @@
 {123}{}{Você tem que fazer o que você tem que fazer.}
 {124}{}{Você acreditou neles pelo valor de cara? Você tem muito a aprender sobre o mundo, amigo.}
 {125}{}{Há algo que eu possa fazer para ajudar?}
-{126}{}{The Vault City boys aren't the bravest. You show them any kind of a fight and they run for the
- hills. If we had a few guns, I think we could hold them off.}
-{127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
-{128}{}{[He eyes you with a tentative grin.] You're serious about helping us, aren't you? Alright, if you're up for it,
- then some rifles would be ideal--that way we could start picking them off from a distance. So if you truly wanna help,
- then bring us some automatic rifles--four would do it. Oh, and a shotgun would be nice too, in case things get close and dirty.}
-{129}{}{I'll see what I can do. But like I said, guns aren't cheap, so I'm gonna need some money.}
-{130}{}{You're not wanted here. Leave now.}
-{131}{}{I changed my mind. What can I do to help?}
-{132}{}{Yeah, well, you're not going to be here for long anyway.}
-{133}{}{Like I care.}
-{134}{}{You're back! Do you have the guns for us?}
-{135}{}{What was it that you needed again?}
-{136}{}{Yep, here they are.}
-{137}{}{We need four assault rifles and a shotgun. The sooner you can get them to us, the better.}
+{126}{}{Os garotos de Vault City não são os mais corajosos. Você mostra a eles qualquer tipo de luta
+ e eles correm para as colinas. Se tivéssemos algumas armas, acho que poderíamos detê-los.}
+{127}{}{Posso te ajudar, mas armas não são baratas. Que tipo de armas você está procurando?}
+{128}{}{[Ele olha para você com um sorriso hesitante.] Você está falando sério sobre nos ajudar, não está? Tudo bem,
+ se você quiser, alguns rifles seriam ideais, assim poderíamos começar a acertá-los à distância. Então, se você realmente
+ quer ajudar, nos traga alguns rifles automáticos, quatro bastam. Ah, e uma escopeta também seria bom, caso as coisas fiquem próximas e sujas.}
+{129}{}{Verei o que posso fazer. Mas como eu disse, as armas não são baratas, vou precisar de algum dinheiro.}
+{130}{}{Você não é bem-vindo aqui. Saia agora.}
+{131}{}{Eu mudei de ideia. O que posso fazer para ajudar?}
+{132}{}{Sim, bem, você não vai ficar aqui por muito tempo de qualquer forma.}
+{133}{}{Como se eu me importasse.}
+{134}{}{Você voltou! Tem as armas para nós?}
+{135}{}{O que mesmo você precisava?}
+{136}{}{Sim, aqui estão elas.}
+{137}{}{Precisamos de quatro rifles de assalto e uma escopeta. Quanto mais cedo você puder entregá-las para nós, melhor.}
 {138}{}{Tudo bem.}
-{139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
- lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
+{139}{}{Muito bem! Com essas gracinhas, vamos conseguir fazer algo nesse lugar nos próximos meses. Muito obrigado, e
+ olha, se precisar de um lugar para descansar, será sempre bem-vindo aqui, amigo.}
 {140}{}{Você é bem-vindo.}
-{141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
-{142}{}{Hello again! Things have been going well, as you can see. Look around if you have the time.}
-{143}{}{We're still building. We're hoping to expand the walls again in the next month.}
-{144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
-{145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
-{146}{}{Just don't kill anything out there, you simpleton.}
+{141}{}{Olá! As coisas estão indo bem. Vamos trabalhar na expansão da Vila no próximo mês.}
+{142}{}{Olá de novo! As coisas estão indo bem, como você pode ver. Dê uma olhada se tiver tempo.}
+{143}{}{Ainda estamos construindo. Esperamos expandir as paredes novamente no próximo mês.}
+{144}{}{Saudações! A vila se expandiu novamente, exatamente como esperávamos. Claro, você é bem-vindo como sempre.}
+{145}{}{Não temos mais nada a temer de Vault City... Parece que seremos capazes de viver aqui em paz. Obrigado novamente, andarilho.}
+{146}{}{Só não saia matando nada por aí, seu simplório.}
 {147}{}{Que tipo de merda você fez?!?! Seu maldito traidor! Te odeio!!!}
 {148}{}{Oooooops...}
 {149}{}{Me deixe sair daqui!!!}

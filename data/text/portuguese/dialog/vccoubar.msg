@@ -68,7 +68,7 @@
 {167}{}{Você está bem, senhor? Beber todo aquele "álcool-Z" parece ter causado algum tipo de efeito em você. Tem certeza que quer mais?}
 {168}{}{Você gostaria de mais alguma coisa?}
 {169}{}{Não me sinto muito bem... Vou só sair do diálogo rapidão e dar uma olhada no meu HP máximo.}
-{170}{}{No, no, I feel great! I'm just going to pop out of dialogue for a second and check my max hit points.}
+{170}{}{Não, não, eu me sinto ótimo! Vou dar uma saída do diálogo rapidão e ver com está meu HP máximo.}
 {171}{}{Acho que só vou tomar um pouco de água.}
 {172}{}{I'll have some more delicious alcohol-Z.}
 {173}{}{Como você fabrica esses álcoois sintetizados?}
