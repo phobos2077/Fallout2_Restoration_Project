@@ -33,16 +33,16 @@
 {132}{}{Claro, aqui está o dinheiro.}
 {133}{}{Mas Connar só me deu cinco mil.}
 {134}{}{Mas Connar só me deu dois mil.}
-{135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
-{136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
-{137}{}{Excellent. But remember, you didn't buy these weapons here.}
-{138}{}{It's a deal. Bye.}
+{135}{}{Não é problema meu. Olha, meu negócio já tem problemas o suficiente. Se alguém descobrir que estou fornecendo armas a Connar, as coisas vão ficar muito feias, e bem rápido. Além disso, já estou dando um desconto para ele.}
+{136}{}{Olha, estou colocando meu pescoço em risco. . . Ah, que vá tudo pro inferno, eu não tenho tempo para discutir. É só levar. [Ele rapidamente embolsa seu dinheiro.] Agora saia daqui. E lembre-se, você não comprou nada de mim.}
+{137}{}{Excelente. Mas lembre-se, você não comprou essas armas aqui.}
+{138}{}{Temos um acordo. Tchau.}
 {139}{}{[MAIS]}
-{140}{}{Well then, wait a bit until I get the money.}
-{141}{}{Well, have you brought the money?}
-{142}{}{What if I just give you five grand?}
-{143}{}{What about two grand?}
-{144}{}{Ehmmm... ten grand?! I don't have that much money; wait a bit until I get it.}
+{140}{}{Bem, então espere um pouco até eu receber o dinheiro.}
+{141}{}{Bem, você trouxe o dinheiro?}
+{142}{}{E se eu te der cinco mil?}
+{143}{}{Que tal dois mil?}
+{144}{}{Ehmmm... dez mil?! Eu não tenho tanto dinheiro; espere um pouco até eu conseguir.}
 {145}{}{Droga! Quem poderia ter me denunciado?!}
 {146}{}{Ei! Por que fui preso?}
 {147}{}{Bem, pelo menos a comida não é ruim.}

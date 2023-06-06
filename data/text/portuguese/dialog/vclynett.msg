@@ -7,10 +7,10 @@
 {106}{}{Falo com você AMANHÃ.}
 {107}{}{Não sei como passou pelos guardas e entrou em meus aposentos particulares, mas é melhor ir embora.}
 {108}{}{Não sei o que você pretende ganhar me pressionando, mas não vou tolerar por muito tempo.}
-{109}{}{Perhaps you find clicking on me... amusing. Perhaps you will find the Corrections Center just as humorous.}
-{110}{}{I appreciate your attention, but I really am quite dangerous when riled.}
-{111}{}{I am the First Citizen! I must have my sleep!}
-{112}{}{Leave!}
+{109}{}{Talvez você ache que clicar em mim é... divertido. Talvez você ache o Centro Correcional igualmente engraçado.}
+{110}{}{Agradeço sua atenção, mas realmente sou muito perigoso quando irritado.}
+{111}{}{Eu sou a Primeira Cidadã! Eu devo dormir!}
+{112}{}{Saia!}
 {113}{}{Cai fora!}
 {114}{}{Fora! Fora! Fora!}
 {115}{}{Admiro sua persistência. Gostaria de admirá-la à distância.}
@@ -74,7 +74,7 @@
 {162}{}{Desculpe minha ignorância, Primeira Cidadã... o título "Primeira Cidadã" significa que você é o Supervisora desta vault?}
 {163}{}{Aqui é Vault City? Por que você não mora em uma vault?}
 {164}{}{Nenhum negócio hoje. Talvez outra hora.}
-{165}{}{Nothing today. My apologies for disturbing you, First Citizen. Good day.}
+{165}{}{Nada hoje. Peço desculpas por incomodá-la, Primeira Cidadã. Bom dia.}
 {166}{lyn012a}{Onde alguém como VOCÊ ouviu falar de um Kit de Criação do Jardim do Éden?}
 {167}{lyn012b}{Essa tecnologia não se destina a forasteiros.}
 {168}{}{Você tem um PROBLEMA com estranhos, mulher?}
