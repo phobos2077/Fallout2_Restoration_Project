@@ -111,7 +111,7 @@
 {210}{}{Eu NASCI cidadão. Interessado em se tornar um Cidadão? Encontre um membro do conselho.}
 {211}{}{Posso pedir mais uma coisa?}
 {212}{}{Eu vou, obrigado. Adeus.}
-{213}{}{Yeah, what about them?}
+{213}{}{Sim, o que tem eles?}
 {214}{}{Encontrei a base deles.}
 {215}{}{Eu os limpei do mapa.}
 {216}{}{Alguma ideia de onde esses invasores estão atacando?}

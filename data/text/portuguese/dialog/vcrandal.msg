@@ -99,22 +99,22 @@
 {198}{}{Na verdade, você se importa se eu fizer algumas perguntas?}
 {199}{}{Nada hoje, na verdade.}
 {200}{}{Então... você é Cidadão }
-{201}{}{Yeah, he said you'd be stopping by... }
+{201}{}{Sim, ele disse que você passaria por aqui... }
 {202}{}{Tudo certo.}
-{203}{}{Actually, never mind, I'll come back later for it.}
-{204}{}{Okay, here you go. One Hy-Mag. Kinda looks like a lava lamp, doesn't it? Oh, don't drop it... it's pretty fragile.}
-{205}{}{Say, what else do you have in stock?}
+{203}{}{Na verdade, não importa, voltarei mais tarde.}
+{204}{}{Ok, aqui está. Um Hy-Mag. Meio que parece uma lâmpada de lava, não é? Ah, não deixe cair... é bem frágil.}
+{205}{}{Diga, o que mais você tem a venda?}
 {206}{}{Se importa se eu te fizer algumas perguntas?}
-{207}{}{Thanks. I might stare at this for a few hours before taking it to the Gecko plant.}
-{208}{}{Got it. Thanks for the part.}
-{209}{}{Yeah, the First Citizen said you'd be stopping by... Captain. (Winks.) Let me tell you, Captain, you've got a BEAUTY waiting for you.}
-{210}{}{Yeah, the First Citizen said you'd be stopping by. Well, let me tell you, friend, you got a BEAUTY waiting for you.}
+{207}{}{Obrigado. Posso ficar olhando para isso por algumas horas antes de levá-lo para a usina de Gecko.}
+{208}{}{Entendi. Obrigado pela peça.}
+{209}{}{Sim, a Primeira Cidadã disse que você passaria por aqui... Capitão. (Pisca o olho.) Deixe-me dizer, capitão, você tem uma BELEZA esperando por você.}
+{210}{}{Sim, a Primeira Cidadã disse que você passaria por aqui. Bem, deixe-me dizer uma coisa, você tem uma BELEZA esperando por você.}
 {211}{}{O que é?}
-{212}{}{Actually, keep it for me. I'll pick it up later.}
-{213}{}{Nothing less than a Heckler and Koch G11, one of the best assault weapons ever made...(hefts weapon, passes it to you)...fires a 4.7 mm caseless cartridge, 50-round magazine. When it talks, people listen.}
-{214}{}{I'll bet. Thanks.}
-{215}{}{No problem. Plus, here... have a couple of frag grenades on me. Consider it my thanks for wiping out those raiders.}
-{216}{}{Great. Can I see what else you have in stock?}
+{212}{}{Na verdade, guarde para mim. Vou pegar mais tarde.}
+{213}{}{Nada menos que uma Heckler e Koch G11, uma das melhores armas de assalto já feitas...(pega a arma, passa para você)...dispara um cartucho de 4,7 mm sem caixa, carregador de 50 tiros. Quando ela fala, as pessoas ouvem.}
+{214}{}{Aposto que sim. Obrigado.}
+{215}{}{Sem problemas. Além disso, aqui... tem algumas granadas de fragmentação comigo. Considere isso como um agradecimento por acabar com aqueles invasores.}
+{216}{}{Ótimo. Posso ver o que mais você tem a venda?}
 {217}{}{Posso fazer mais algumas perguntas?}
 {218}{}{Thanks. I'll put them to good use.}
 {219}{}{That'll do it for you, then?}

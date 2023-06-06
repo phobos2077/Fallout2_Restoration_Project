@@ -6,11 +6,11 @@
 {105}{}{Um intruso! Aaaaah! Guardas!}
 {106}{}{Um mutante! Aaaaah! Guardas!}
 {107}{}{Um ghoul! Aaaaah! Guardas!}
-{108}{}{Need to print out Gregory's charts...}
-{109}{}{Let's see. We have three Servant inoculations scheduled for 1400...}
-{110}{}{All that beeping is driving me crazy...}
-{111}{}{I swear those medical databases are talking amongst themselves...}
-{112}{}{Let's see... three hypodermics, antiseptic, three ampoules of RadX...}
+{108}{}{Preciso imprimir os prontuários de Gregory...}
+{109}{}{Vamos ver. Temos três inoculações de servos agendadas para 14:00...}
+{110}{}{Todo esse ruído está me deixando louco...}
+{111}{}{Eu juro que esses bancos de dados médicos estão conversando entre si...}
+{112}{}{Vejamos... três hipodérmicos, antisséptico, três ampolas de Rad-X...}
 {113}{}{Melhor preparar o Dr. Troy para esse seminário para amanhã...}
 {114}{}{Sim, eles me fizeram trabalhar até tarde DE NOVO. Principalmente fazendo listas.}
 {115}{}{Você pode querer voltar de manhã.}
@@ -85,18 +85,18 @@
 {184}{}{Deixa pra lá então.}
 {185}{}{Eu teria MUITO cuidado com o que você diz sobre o Dr. Troy em Vault City. Ele é um membro respeitado da nossa comunidade.}
 {186}{}{Tudo bem então. Posso te fazer outra pergunta?}
-{187}{}{Thanks for the warning. Maybe I should go talk to someone else.}
-{188}{}{It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.}
+{187}{}{Obrigado pelo aviso. Talvez eu devesse ir falar com outra pessoa.}
+{188}{}{É no terceiro nível, se bem me lembro. Faz séculos que não vou lá embaixo.}
 {189}{}{Por que não?}
 {190}{}{Posso te fazer outra pergunta?}
 {191}{}{Obrigado pelas direções. Tchau.}
-{192}{}{Oh, I don't know. Not much reason to go down into the Vault. It's mostly used for storage space nowadays. The only one down there is Martin, and... well, just between you and me, he's not a great conversationalist.}
-{193}{}{Uhh.... Why did they make him conversationalist if he's no good at his job?}
+{192}{}{Não sei. Não há muitos motivos para descer a Vault. É usada principalmente para espaço de armazenamento hoje em dia. O único que fica lá embaixo é Martin, e... bem, cá entre nós, ele não é um grande conversador.}
+{193}{}{Uhh... Por que eles o deixaram conversador se ele não é bom em seu trabalho?}
 {194}{}{Posso te fazer outra pergunta?}
 {195}{}{Entendo. Obrigado pela informação.}
-{196}{}{Uh... maybe you SHOULD go speak to him. You two may have more in common than I first thought.}
-{197}{}{Can I ask you another question first?}
-{198}{}{All right then. I'll go speak to him.}
+{196}{}{Uh... talvez você DEVESSE ir falar com ele. Vocês dois podem ter mais em comum do que eu pensava.}
+{197}{}{Posso fazer outra pergunta primeiro?}
+{198}{}{Tudo bem então. Eu irei falar com ele.}
 {199}{}{Vault City? Bem, na verdade, não há muito o que dizer. Quer dizer, eu fui um cidadão toda a minha vida... mas não há muito o que fazer em Vault City. Nada mesmo.}
 {200}{}{É uma pena que uma bela jovem como você não consiga encontrar NADA para fazer em Vault City.}
 {201}{}{Nada mesmo? Vamos lá.}
@@ -111,10 +111,10 @@
 {210}{}{Falando em velho, notei que não tem crianças na cidade.}
 {211}{}{Eu notei essa semelhança entre os cidadãos.}
 {212}{}{Ah bem. Só pensei em perguntar.}
-{213}{}{Uh no... "octogenarian" is an adjective that refers to a person who is eighty years old. }
-{214}{}{Uh, okay. Can I ask you another question?}
-{215}{}{All right then. Maybe we'll speak later.}
-{216}{}{Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.}
+{213}{}{Uh, não... "octogenário" é um adjetivo que se refere a uma pessoa de oitenta anos. }
+{214}{}{Tudo bem. Posso te fazer outra pergunta?}
+{215}{}{Tudo bem, então. Talvez nos falemos mais tarde.}
+{216}{}{Bem, sim. Na verdade, não há. Ainda. Não sei se alguém já te disse, Vault City é uma comunidade planejada. Não teremos outro ciclo de gravidez até daqui a alguns anos.}
 {217}{}{Uh... um ciclo de gravidez?}
 {218}{}{Posso te fazer outra pergunta?}
 {219}{}{Entendo. Bem, agradeço pela informação.}
@@ -195,4 +195,4 @@
 {294}{}{Você convenceu Phyllis a falar com o Dr. Troy sobre a potencial esterilidade em Vault City.}
 {295}{}{Você convenceu Phyllis a ver o mundo exterior.}
 {296}{}{Você descobre rapidamente que Phyllis é bastante monótona e egocêntrica. Você decide nunca mais namorar alguém como ela.}
-{297}{}{Speaking of octo-generic- uh, octo-ians, uh, old people, I noticed there aren't any children in Vault city.}
+{297}{}{Falando em octo-genéricos, octo-geraldo, uh, velhos, notei que não há crianças em Vault City.}

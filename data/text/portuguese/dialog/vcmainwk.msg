@@ -11,16 +11,16 @@
 {110}{}{É melhor você tirar esse mutante daqui antes que os guardas o vejam.}
 {111}{}{É melhor você tirar esse ghoul daqui antes que os guardas o vejam.}
 {112}{}{Estúpida broca de metal ataca de novo...}
-{113}{}{That metal lathe needs to be oiled again...}
-{114}{}{Need to make a list of those surplus parts for the First Citizen.}
-{115}{}{Work, you stupid piece of junk!}
-{116}{}{I'm surrounded by idiots...}
-{117}{}{If I just had the right tools!}
-{118}{}{I'm going to kill that bald-headed monkey in the Purchasing Office...}
+{113}{}{Esse torno de metal precisa ser lubrificado novamente...}
+{114}{}{Preciso fazer uma lista dessas peças excedentes para a Primeira Cidadã.}
+{115}{}{Funciona, seu monte de lixo inútil!}
+{116}{}{Estou cercado de idiotas...}
+{117}{}{Se eu tivesse as ferramentas certas!}
+{118}{}{Eu vou matar aquele macaco careca no Escritório de Compras...}
 {119}{}{Está tarde, volte pela manhã.}
-{120}{}{Shop's closed. After I finish this list for the First Citizen, I'm heading home.}
-{121}{}{I'm busy. Come back in a day or so, and I should be finished.}
-{122}{}{I have a whole backlog of stuff that needs fixing. Come back in a day or two.}
+{120}{}{A loja está fechada. Depois de terminar esta lista para a Primeira Cidadã, vou para casa.}
+{121}{}{Estou ocupado. Volte em um dia ou dois, e devo terminar.}
+{122}{}{Tenho coisas amontoadas que precisam ser consertadas. Volte em um ou dois dias.}
 {123}{}{Bem, se não é o "chefe" do meu pai.}
 {124}{}{Sim?!}
 {125}{}{Você QUER alguma coisa, ou vai ficar aí parado olhando como um idiota?}
@@ -63,19 +63,19 @@
 {161}{}{O PROBLEMA é que não posso simplesmente sair e comprar alguns novos, tenho que requisitar em Vault City. Isso significa preencher cinco bilhões de listas, envia-las em triplicado e, então, ESPERAR.}
 {162}{}{Então por qu --?}
 {163}{}{Me desculpe --}
-{164}{}{Hell, I ordered a Super Snap-Off Tool Kit MONTHS ago, but just like always, it won't show until I don't need it anymore. It's a wonder things ever get done around here...}
-{165}{}{Maybe I could help you.}
-{166}{}{Oh. Well, sorry to hear it. I may be back.}
+{164}{}{Inferno, encomendei um kit de ferramentas Rodrigo Hilbert MESES atrás, mas, como sempre, não aparecerá até que eu não precise mais dele. É uma maravilha como as coisas são feitas por aqui...}
+{165}{}{Talvez eu possa ajudá-lo.}
+{166}{}{Oh. Bem, desculpe ouvir isso. Talvez eu volte.}
 {167}{}{Sim. Por quê?}
 {168}{}{Bem, eu tenho uma chave inglesa e um alicate aqui.}
-{169}{}{Maybe I could go find some and bring them back to you.}
+{169}{}{Talvez eu pudesse encontrar algumas e trazer para você.}
 {170}{}{Qual é o problema em conseguir mais ferramentas?}
 {171}{}{Oh. Bem, obrigado pelo conselho.}
-{172}{}{I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.}
-{173}{}{If I find a wrench and a pair of pliers, I'll bring them by.}
+{172}{}{Não vou pedir de joelhos, mas se você quiser, fique a vontade. O tempo é seu, não meu. Talvez eu consiga juntar um pouco para pagar pelo seu trabalho.}
+{173}{}{Se eu encontrar uma chave inglesa e um alicate, eu trarei.}
 {174}{}{Você aceita?}
-{175}{}{Yeah. Here you go.}
-{176}{}{Uh... thanks. I mean, they're not great, but they'll do. Where did you... oh, never mind. It's not important. Here's a few bucks for your trouble.}
+{175}{}{Sim, estão aqui.}
+{176}{}{Obrigado. Quero dizer, eles não são ótimos, mas servem. Onde você... oh, não importa, não é importante. Aqui estão alguns dólares pelo seu problema.}
 {177}{}{Obrigado. Olha, eu tenho algumas perguntas...}
 {178}{}{Talvez você possa usar essas ferramentas para ajudar a corrigir essa sua atitude.}
 {179}{}{Sem problemas. Foi um prazer ajudar.}
@@ -103,11 +103,11 @@
 {200}{}{Tem certeza?}
 {201}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {202}{}{Vou te deixar com o seu trabalho então.}
-{203}{}{Yes, I'm SURE. Well... except for the fact that I think he should lose some weight. He's got quite a spare tire going. And he should stop wandering all around the wastes selling junk to tribals. That's pretty much it.}
-{204}{}{Look, he was in a mess of trouble with slavers, and he's trying to make up for lost time now. But you're right, he could stand to lose some weight.}
-{205}{}{Oh, uh, okay. I had some other questions...}
+{203}{}{Sim, me ASSEGURO. Bem... exceto pelo fato de que acho que deveria perder algum peso. Tem uns pneuzinhos aparecendo. E ele deveria parar de correr pelo deserto vendendo lixo para os tribais. Basicamente isso.}
+{204}{}{Olha, ele estava em apuros com escravistas, e agora está tentando recuperar o tempo perdido. Mas você está certo, ele poderia perder algum peso.}
+{205}{}{Tudo bem. Eu tinha algumas outras perguntas...}
 {206}{}{Deixa para lá. Vou te deixar com seu trabalho.}
-{207}{}{Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway.}
+{207}{}{Heh heh. Você tem um lado sarcástico, gosto disso. Quanto ao velho "pai"... bem... hmmm. Vou tentar ser um pouco mais civilizado. Por um tempo, em todo caso.}
 {208}{}{Hum... certifique-se de que ele fique longe de problemas, tudo bem?}
 {209}{}{Ótimo. Olha, eu tinha outra coisa que queria te perguntar...}
 {210}{}{Eu farei o meu melhor. Tinha outra coisa que eu queria te perguntar...}
@@ -232,14 +232,14 @@
 {329}{}{2 Segundos}
 {330}{}{Bem, Val, da última vez que te vi, você mal conseguia distinguir uma porca de uma chave inglesa.}
 {331}{}{2 Segundos}
-{332}{}{Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass.}
+{332}{}{Continue assim, pai, e você PRECISARÁ de uma chave inglesa para tirar minha bota da sua bunda.}
 {333}{}{2 Segundos}
-{334}{}{Oh, yeah?! Well, "honey," you better watch it or -}
+{334}{}{Oh sim?! Bem, "docinho", é melhor você tomar cuidado ou -}
 {335}{}{2 Segundos}
-{336}{}{Shut up! Shut up both of you! This has gone on LONG ENOUGH! Now, c'mon, Vic, let's get going.}
-{337}{}{UGRGHH! GO! NO MORE TALK! WE GO!}
+{336}{}{Cala a boca! Calem a boca vocês dois! Isso já durou DEMAIS! Agora, vamos, Vic, vamos ir.}
+{337}{}{UGRGHH! IR! NÃO FALA MAIS! NÓS VAMOS!}
 {338}{}{3 Segundos}
-{339}{}{We'll talk later, Val.}
+{339}{}{Falaremos mais tarde, Val.}
 {340}{}{2 Segundos}
 {341}{}{Sim, claro, pai.}
 {342}{}{2 Segundos}
