@@ -14,15 +14,15 @@
 {113}{}{Um ghoul! Guardas! Guardas!}
 {114}{}{Estamos fechados. Volte pela manhã.}
 {115}{}{Desculpe, a última rodada foi há um tempo atrás. Volte pela manhã.}
-{116}{}{We're closed. Once I finish making this list of our stock, I'll be closing up.}
-{117}{}{Hey there, Chosen One! We were just talking about your adventure... can I get you anything to drink?}
+{116}{}{Estamos fechados. Assim que terminar de fazer esta lista de estoque, estarei fechando.}
+{117}{}{Olá, Escolhido! Estávamos conversando sobre sua aventura... posso pegar alguma coisa para você beber?}
 {118}{}{Dwinkie-winkie me make stinkie}
 {119}{}{Desliga}
 {120}{}{O que você tem aí?}
 {121}{}{Estava procurando algumas informações.}
-{122}{}{I have that shipment of alcohol you wanted.}
+{122}{}{Tenho aquele carregamento de álcool que você queria.}
 {123}{}{Nada por hoje, valeu.}
-{124}{}{Uh... so I smell. Um, thanks again for saving the world and all.}
+{124}{}{Uh... entendi. Hum, obrigado novamente por salvar o mundo e tudo mais.}
 {125}{}{Explode-explode faz de mim uma estrelinha!}
 {126}{}{Desliga}
 {127}{}{Olha, talvez você tenha salvado o mundo e tudo mais, mas poeta você não é. Agora pare com isso.}
@@ -38,7 +38,7 @@
 {137}{}{Desliga}
 {138}{}{O que você tem aí?}
 {139}{}{Estava procurando algumas informações.}
-{140}{}{I have that shipment of alcohol you wanted.}
+{140}{}{Tenho aquele carregamento de álcool que você queria.}
 {141}{}{Nada por hoje, valeu.}
 {142}{}{Essa é talvez a coisa mais fascinante que já ouvi. Espere um segundo... Quero que os guardas também ouçam.}
 {143}{}{Too? Tu, tu-tu-tu. Vocêêêê e eu doissss}
@@ -51,7 +51,7 @@
 {150}{}{Um pouco de tequila W2 seria ótimo.}
 {151}{}{Um pouco de água seria ótimo.}
 {152}{}{Leite de brahmin.}
-{153}{}{Actually, I was looking for some information.}
+{153}{}{Na verdade, eu estava procurando algumas informações.}
 {154}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {155}{}{Acho que vou passar, obrigado.}
 {156}{}{O leite de brahmin não está disponível... bem, não exatamente. Eu teria que sair e pegar um pouco bem rápido.}
@@ -66,7 +66,7 @@
 {165}{}{Um pouco de tequila W2 seria ótimo.}
 {166}{}{Um pouco de água seria ótimo.}
 {167}{}{Leite de brahmin.}
-{168}{}{Actually, I was looking for some information.}
+{168}{}{Na verdade, eu estava procurando algumas informações.}
 {169}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {170}{}{Acho que vou passar, obrigado.}
 {171}{}{Uh? Como o que?}
@@ -75,7 +75,7 @@
 {174}{}{Você pode me falar sobre a escravidão em Vault City?}
 {175}{}{Vault City tem muito contato com o mundo exterior?}
 {176}{}{O que você tem pra tomar?}
-{177}{}{I have that shipment of alcohol you wanted.}
+{177}{}{Tenho aquele carregamento de álcool que você queria.}
 {178}{}{Tudo bem então. Bom Dia.}
 {179}{}{Uh, Primeira Cidadã Lynette... você é um Cidadão, não é?}
 {180}{}{Primeira cidadã Lynette. Ela está no prédio do conselho ao norte, se você precisar falar com ela.}

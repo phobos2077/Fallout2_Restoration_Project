@@ -70,11 +70,11 @@
 {169}{}{Não me sinto muito bem... Vou só sair do diálogo rapidão e dar uma olhada no meu HP máximo.}
 {170}{}{Não, não, eu me sinto ótimo! Vou dar uma saída do diálogo rapidão e ver com está meu HP máximo.}
 {171}{}{Acho que só vou tomar um pouco de água.}
-{172}{}{I'll have some more delicious alcohol-Z.}
+{172}{}{Vou querer mais um delicioso álcool-Z.}
 {173}{}{Como você fabrica esses álcoois sintetizados?}
-{174}{}{Actually, I was looking for some information.}
+{174}{}{Na verdade, eu estava procurando algumas informações.}
 {175}{}{Nada mais por hoje, valeu.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
+{176}{}{Os Auto-Docs dentro de Vault City podem preparar substitutos sintéticos para substâncias viciantes. Pelo que entendi, esses sintéticos eram usados como placebos para viciados em drogas antes da guerra.}
 {177}{}{Você parece saber muito sobre esses sintéticos.}
 {178}{}{Uh, você tem alguma bebida real?}
 {179}{}{Oh. Bem, eu só gostaria de um pouco de água então.}

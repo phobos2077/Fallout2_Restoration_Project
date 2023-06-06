@@ -613,13 +613,13 @@
 {633}{}{Muito bem, Primeira Cidadã. Bom dia.}
 {634}{lyn101}{Isso não é conduta de um Cidadão! Estou revogando sua Cidadania. Meus guardas irão te mostrar o portão da frente.}
 {635}{}{Seus guardas não chegarão a tempo de salvar sua vida... "Primeira Cidadã."}
-{636}{}{No need for the guards. I'll leave peacefully.}
-{637}{lyn102}{Although it would serve Vault City's interests, I can't... as long as he breaks no laws,
- Moore is permitted to say anything he wants.}
-{638}{}{Do you want me to... take care of him?}
-{639}{}{Oh, but he has. You see, Moore isn't just a Citizen... he's been looking out for someone else's interests.}
+{636}{}{Não há necessidade dos guardas. Vou embora em paz.}
+{637}{lyn102}{Embora sirva aos interesses de Vault City, não posso... contanto que ele não quebre
+ nenhuma lei, Moore pode dizer o que quiser.}
+{638}{}{Você quer que eu... cuide dele?}
+{639}{}{Ah, mas ele tem. Veja bem, Moore não é apenas um cidadão... ele está cuidando dos interesses de outra pessoa.}
 {640}{}{Posso te fazer outra pergunta?}
-{641}{}{Well, he'll probably bury himself at the rate he's going. Talk to you later.}
+{641}{}{Bem, ele provavelmente está se enterrando no ritmo que está indo. Nos falamos mais tarde.}
 {642}{}{Eu entendo. Bem, obrigado pelo seu tempo, Primeira Cidadã.}
 {643}{lyn103}{Um espião da NCR? Isso... isso... explicaria muitas coisas. Obrigado Cidadão. Eu vou
  lidar com isso imediatamente.}
@@ -708,51 +708,51 @@
 {713}{}{Espere um minuto. Ir para NCR? Não foram eles os responsáveis por tudo isso?}
 {714}{}{Tudo bem, eu farei isso. }
 {715}{}{Não, obrigado. Estou muito ocupado.}
-{716}{lyn120}{Roger Westin was probably the only honest man in the New Republic and a sympathetic
- to our cause... his death is a terrible loss.}
-{717}{}{Yeah, he was a tough old fella. Good guy. Lot of hit points. So... do I still get a reward for
- finding all this information out for you, or...?}
-{718}{}{Yeah, I was sorry to hear about it, too. It was like I just saw him yesterday.}
-{719}{lyn121a}{I recall already paying you for information regarding these "raiders." You have been compensated. Now leave.}
-{720}{lyn121b}{Yes, yes... you have done very well. Please... take this as a reward.}
-{721}{}{No reward?! Finding out all this political bullshit was no easy task. I think I deserve something extra, don't you?!}
-{722}{}{Hold on, I'm not done yet. I had some other questions...}
+{716}{lyn120}{Roger Westin foi provavelmente o único homem honesto na República e um simpatizante
+ de nossa causa... sua morte é uma perda terrível.}
+{717}{}{Sim, ele era um velho durão. Um bom cara, tinha bastante HP. Então... Vou receber uma
+ recompensa por encontrar todas essas informações para você, ou...?}
+{718}{}{Sim, também lamento saber disso. Parece que o vi ontem.}
+{719}{lyn121a}{Me lembro de já ter pago a você por informações sobre esses "assaltantes". Você já foi compensado. Agora saia.}
+{720}{lyn121b}{Sim, sim... você se saiu muito bem. Por favor... aceite isso como uma recompensa.}
+{721}{}{Nenhuma recompensa?! Descobrir toda essa treta política não foi tarefa fácil. Acho que mereço algo a mais, não é?!}
+{722}{}{Espere, ainda não terminei. Eu tinha outras perguntas...}
 {723}{}{Muito bem, estou saindo.}
 {724}{}{Obrigado. Eu tenho algumas outras questões...}
-{725}{}{Great! Thanks... I better be going now.}
+{725}{}{Ótimo! Obrigado... É melhor eu ir agora.}
 {726}{}{Obrigado, Primeirã Cidadã.}
-{727}{lyn122}{Roger Westin is probably the only honest man in the New Republic and sympathetic to our cause. }
-{728}{}{All right, I'll deliver the disk to him.}
-{729}{}{No thanks. I'm too busy right now.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
-{731}{}{Before I go, I had some other questions...}
+{727}{lyn122}{Roger Westin é provavelmente o único homem honesto na República e simpatizante de nossa causa. }
+{728}{}{Tudo bem, vou entregar o disco para ele.}
+{729}{}{Não, obrigado. Estou muito ocupado agora.}
+{730}{lyn123}{Seu patriotismo não ficará sem recompensa. Vá agora, tempo é essencial.}
+{731}{}{Antes de ir, tenho outras perguntas...}
 {732}{}{Eu estou trabalhando nisso.}
-{733}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{734}{lyn124}{Nevertheless, Vault City will prevail. You have performed a valuable service...
- please accept this token of our appreciation.}
+{733}{}{Pode contar comigo, Primeira Cidadã. Voltarei depois de entregar o disco para Westin.}
+{734}{lyn124}{No entanto, Vault City prevalecerá. Você prestou um serviço valioso... por favor,
+ aceite este sinal de nossa gratidão.}
 {735}{}{Obrigado. Eu tenho algumas outras questões...}
-{736}{}{Great! Thanks... I better be going now.}
+{736}{}{Ótimo! Obrigado... É melhor eu ir agora.}
 {737}{}{Obrigado, Primeirã Cidadã.}
-{738}{lyn125}{Have you delivered it?}
-{739}{}{No. I was wondering, what is the reward you spoke of?}
-{740}{}{No, I'm too busy to deliver the disk.}
-{741}{}{No, not yet. But I had some questions...}
-{742}{}{I delivered the disk to Counselor Westin.}
-{743}{}{Not yet. I'll be back when I do.}
-{744}{}{Not yet, First Citizen. I'll return when I've delivered it to Westin.}
-{745}{lyn126}{You will?! Excellent! Take the disk you got from Bishop and hurry. Time is of the essence.}
-{746}{}{Before I go, I had some other questions...}
+{738}{lyn125}{Você já entregou?}
+{739}{}{Não. Estava me perguntando, qual é a recompensa de que você falou?}
+{740}{}{Não, estou muito ocupado para entregar o disco.}
+{741}{}{Não, ainda não. Mas eu tinha algumas perguntas...}
+{742}{}{Entreguei o disco ao Conselheiro Westin.}
+{743}{}{Ainda não. Eu estarei de volta quando fizer.}
+{744}{}{Ainda não, Primeira Cidadã. Voltarei quando o entregar ao Westin.}
+{745}{lyn126}{Você fará?! Excelente! Pegue o disco que você pegou do Bishop e se apresse. Tempo é essencial.}
+{746}{}{Antes de ir, tenho outras perguntas...}
 {747}{}{Eu estou trabalhando nisso.}
-{748}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{749}{lyn127}{Believe me, you will not be disappointed. Now please deliver that holodisk.}
-{750}{}{Before I go, I had some other questions...}
-{751}{}{All right. I'm on it.}
-{752}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{753}{lyn128}{I can see that our agreement meant nothing to you. Very well then; your Vault City privileges
- are revoked. My guards will escort you to the front gate.}
-{754}{}{I'll kill those guards... after I kill you.}
-{755}{}{Okay! Here, take the disk, and I'll go. }
-{756}{lyn129}{Thank you! You have done a great service! Did Westin send back correspondence?}
+{748}{}{Pode contar comigo, Primeira Cidadã. Voltarei depois de entregar o disco para Westin.}
+{749}{lyn127}{Acredite em mim, você não ficará desapontado. Agora, por favor, entregue o holodisco.}
+{750}{}{Antes de ir, tenho outras perguntas...}
+{751}{}{Tudo bem. Estou trabalhando nisso.}
+{752}{}{Pode contar comigo, Primeira Cidadã. Voltarei depois de entregar o disco para Westin.}
+{753}{lyn128}{Posso ver que nosso acordo não significou nada para você. Muito bem então; seus privilégios
+ de Vault City foram revogados. Meus guardas irão acompanhá-lo até o portão da frente.}
+{754}{}{Vou matar aqueles guardas... depois de matar você.}
+{755}{}{Está bem! Pegue o disco, e eu irei. }
+{756}{lyn129}{Obrigado! Você prestou um grande serviço! Westin te entregou alguma correspondência?}
 {757}{}{Sim, estou começando a me sentir como um carteiro. Aqui, ele queria que eu te desse este disco.}
 {758}{}{Não, eu perdi.}
 {759}{}{Não, ele nunca me deu nada.}
@@ -762,7 +762,7 @@
 {763}{}{Isso é uma boa notícia.}
 {764}{lyn131}{Agora... em relação ao pagamento: Reporte a Randal, o Diretor de Serviços. Diga a ele
  que eu o enviei, e ele lhe apresentará sua recompensa. Obrigado novamente.}
-{765}{}{Before I go, I had some other questions...}
+{765}{}{Antes de ir, tenho outras perguntas...}
 {766}{}{Tudo bem. Recompensa, aqui vou eu.}
 {767}{}{Obrigado, Primeira Cidadã. Bom dia.}
 {768}{lyn132}{Seu serviço tem sido exemplar. Tanto que é uma honra nomeá-lo Capitão da Guarda. Parabéns,
@@ -771,7 +771,7 @@
 {770}{}{Obrigado, Primeirã Cidadã.}
 {771}{lyn133}{Além disso, reporte-se a Randal, o Diretor de Serviços. Diga a ele que eu o enviei
  e receba sua recompensa. Estamos em dívida com você... Capitão.}
-{772}{}{Before I go, I had some other questions...}
+{772}{}{Antes de ir, tenho outras perguntas...}
 {773}{}{Tudo bem. Recompensa, aí vou eu!}
 {774}{}{Obrigado, Primeira Cidadã. Bom dia.}
 {775}{lyn134}{Você perdeu?! Essa correspondência era extremamente importante! Muito bem...

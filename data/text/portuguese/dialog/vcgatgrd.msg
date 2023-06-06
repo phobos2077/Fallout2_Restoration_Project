@@ -8,7 +8,7 @@
 {107}{}{Senhor. Sim, senhor!}
 {108}{}{Vault City prevails, Capitão.}
 {109}{}{Minhas desculpas, Cidadão, mas ghouls não são permitidos dentro de Vault City.}
-{110}{}{My apologies, Citizen, but mutants are not permitted inside Vault City.}
+{110}{}{Minhas desculpas, Cidadão, mas mutantes não são permitidos dentro de Vault City.}
 {111}{}{É melhor aquele ghoul se afastar do portão. Agora.}
 {112}{}{É melhor aquele mutante se afastar do portão. Agora.}
 {113}{}{Bom dia, Citizen.}
