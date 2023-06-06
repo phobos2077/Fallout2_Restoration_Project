@@ -95,13 +95,13 @@
 {2200}{}{(Você pode ouvi-la rindo de você.)}
 {2201}{}{*Hehehe, por que você simplesmente não desiste, docinho.*}
 {2202}{}{*Talvez você devesse deixar outra pessoa puxar meu controle.*}
-{2203}{}{(A faint maniacal laugh emanates from the machine.)}
-{2204}{}{(You hear the slot machine laughing at you.)}
-{2205}{}{(The slot machine chuckles at you.)}
-{2206}{}{*Come on now loser, don't give up on me*}
-{2207}{}{*I got what I wanted from you baby. Why don't you give up?*}
-{2208}{}{*Trash!*}
-{2209}{}{*Don't let the casino door hit you in the ass on your way out.*}
+{2203}{}{(Uma leve risada maníaca emana da máquina.)}
+{2204}{}{(Você ouve a máquina caça-níqueis rindo de você.)}
+{2205}{}{(A máquina caça-níqueis ri de você.)}
+{2206}{}{*Venha agora, perdedor, não desista de mim*}
+{2207}{}{*Eu consegui o que queria de você, baby. Por que você não desiste?*}
+{2208}{}{*Lixo!*}
+{2209}{}{*Não deixe a porta do cassino bater em sua bunda ao sair.*}
 {2247}{}{*Aaaaaaahhh! É isso, docinho! Oh Deus, sim! Sim! Sim, de novo! Mais rápido! Mais forte! Tá esperando o que?! Mais!*}
 {2248}{}{*É isso, meu bem... puxa mais a alavanca... mais rápido, mais forte, mais rápido... vamos logo...*}
 {2249}{}{*Vamos, meu bem... acontece com todo mundo alguma vez... tente de novo... por favor...*}

@@ -1,5 +1,5 @@
 {100}{}{Ao entrar na pequena aldeia, seu nariz é entupido pelo cheiro familiar de roedor. Você vê vários ratos-toupeira andando por aí. Estranhamente, eles não parecem interessados em atacar você ou os camponeses que moram aqui.}
-{101}{}{The village appears to be empty. The air reeks of rotting mole rat carcasses.}
-{102}{}{The village has changed a lot since your last visit.}
-{103}{}{Even more has changed since you were last here. It seems the protection of the mole rats has been replaced with a wall.}
-{104}{}{Hey! Where'd everybody go?}
+{101}{}{A aldeia parece estar vazia. O ar fede a carcaças de ratos toupeira em decomposição.}
+{102}{}{A vila mudou muito desde a sua última visita.}
+{103}{}{Mudou ainda mais desde a última vez que você esteve aqui. Parece que a proteção dos ratos-toupeira foi substituída por uma parede.}
+{104}{}{Ei! Para onde todos foram?}

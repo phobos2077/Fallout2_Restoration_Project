@@ -116,15 +116,15 @@
 {215}{}{Sem problemas. Além disso, aqui... tem algumas granadas de fragmentação comigo. Considere isso como um agradecimento por acabar com aqueles invasores.}
 {216}{}{Ótimo. Posso ver o que mais você tem a venda?}
 {217}{}{Posso fazer mais algumas perguntas?}
-{218}{}{Thanks. I'll put them to good use.}
-{219}{}{That'll do it for you, then?}
+{218}{}{Obrigado. Vou fazer bom uso.}
+{219}{}{Vai fazer isso por você, então?}
 {220}{}{Se importa se eu fizer algumas outras perguntas?}
-{221}{}{Yeah, that'll be it for today.}
-{222}{}{Yeah, I know. I'm still waiting for the requisition lists to clear the server, but it's going to be a while. Don't know what to say. Things just take time.}
-{223}{}{I see. Mind if I ask you some other questions?}
-{224}{}{Maybe I can go find those tools somewhere else, then.}
+{221}{}{Sim, é isso por enquanto.}
+{222}{}{Sim, eu sei. Ainda estou esperando as listas de requisição para limpar o servidor, mas vai demorar um pouco. Não sei o que dizer. As coisas levam tempo.}
+{223}{}{Entendo. Se importa se eu fizer outras perguntas?}
+{224}{}{Talvez eu possa encontrar essas ferramentas em outro lugar então.}
 {225}{}{!}
-{226}{}{, huh? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
-{227}{}{, right? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
+{226}{}{, huh? Espere um minuto, e eu vou pegar o Regulador Hidroelétrico da... uh, o Hi-Mag.}
+{227}{}{, certo? Espere um minuto, e eu vou pegar o Regulador Hidroelétrico da... uh, o Hi-Mag.}
 {228}{}{Obrigado.}
 {229}{}{[continuar]}

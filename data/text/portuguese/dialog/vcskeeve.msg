@@ -1,34 +1,34 @@
-{100}{}{You see Wallace's Assistant, Skeev.}
-{101}{}{You see a scrawny young man. His eyes are darting back and forth.}
-{102}{}{You see Wallace's Assistant, Skeev.}
-{103}{}{You see a scrawny young man. His eyes are darting back and forth.}
-{104}{}{Hey, you got any pieces of Horrigan? I could sell 'em for fifty, hundred bucks a pop, give you 10% of the action.}
+{100}{}{Você vê o assistente de Wallace, Skeev.}
+{101}{}{Você vê um jovem magricela. Seus olhos estão indo para frente e para trás.}
+{102}{}{Você vê o assistente de Wallace, Skeev.}
+{103}{}{Você vê um jovem magricela. Seus olhos estão indo para frente e para trás.}
+{104}{}{Ei, você tem alguma peça de Horrigan? Eu poderia vendê-los por cinquenta, cem dólares cada, e te dou 10% do negócio.}
 {105}{}{Se perder.}
-{106}{}{Beat it. I got nothing to say to you.}
-{107}{}{Oh, uh, hey, Captain. Good day, huh?}
-{108}{}{Well, if it ain't the new Citizen.}
-{109}{}{Hey there, "Citizen."}
-{110}{}{You can't bring that mutant in here.}
-{111}{}{You can't bring that ghoul in here.}
-{112}{}{We're shut down for the night. Come back in the morning.}
-{113}{}{Look, Outsider, if you got customs business, Wallace is in the back there, okay? He'll set you up with all the forms you need.}
-{114}{}{Furms need?}
+{106}{}{Cai fora. Não tenho nada para te dizer.}
+{107}{}{Huh, hey, capit?o. Eh, Bom dia?}
+{108}{}{Ora, se não é o novo Cidadão.}
+{109}{}{Olá, "Cidadão".}
+{110}{}{Você não pode trazer aquele mutante aqui.}
+{111}{}{Você não pode trazer esse ghoul aqui.}
+{112}{}{Estamos fechados durante a noite. Volte pela manhã.}
+{113}{}{Olhe, forasteiro, se você tem negócios comerciais, Wallace está lá atrás, certo? Ele irá te preparar com todos os formulários que você precisa.}
+{114}{}{Preciso formas?}
 {115}{}{Desliga}
-{116}{}{Uh... what is this place?}
-{117}{}{All right. Thanks.}
-{118}{}{This is the CUSTOMS Office. Like the sign outside says. If you haven't got customs business, what are you doing here?}
-{119}{}{I was looking for the Vault.}
-{120}{}{I was looking to get inside the city.}
-{121}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
+{116}{}{Uh... que lugar é esse?}
+{117}{}{Tudo bem. Obrigado.}
+{118}{}{Aqui é a ALFÂNDEGA, como diz a placa do lado de fora. Se você não tem negócios alfandegários, o que está fazendo aqui?}
+{119}{}{Eu estava procurando pela Vault.}
+{120}{}{Eu estava querendo entrar na cidade.}
+{121}{}{Já que você faz parte da alfândega e tudo, eu queria saber se você tem algum 'conselho' sobre como trazer certos itens dentro da cidade.}
 {122}{}{Nada. Desculpe por atrapalhar.}
-{123}{}{The Vault? It's inside the city. Why? You looking to get past the gate?}
+{123}{}{A Vault? Está dentro da cidade. Por que? Quer passar pelo portão?}
 {124}{}{Sim.}
-{125}{}{No, just looking around. Thanks.}
-{126}{}{Well, you could go see my boss, Wallace, and TRY to get permission to get inside, but you'd be wasting your time. He never lets anybody in. Of course, there's other ways...}
-{127}{}{What other ways?}
-{128}{}{Thanks. I'll go see Wallace then.}
-{129}{}{Advice? Well, advice's expensive, Outsider. You got any money?}
-{130}{}{Give him $50.}
+{125}{}{Não, só olhando ao redor. Obrigado.}
+{126}{}{Bem, você poderia ir ver meu chefe, Wallace, e TENTAR obter permissão para entrar, mas estaria perdendo seu tempo. Ele nunca deixa ninguém entrar. Claro, há outras maneiras...}
+{127}{}{Que outras maneiras?}
+{128}{}{Obrigado. Então vou ver Wallace.}
+{129}{}{Conselho? Bem, conselhos são caros, forasteiro. Você tem algum dinheiro?}
+{130}{}{Me dê $50.}
 {131}{}{Da a ele $75.}
 {132}{}{Da a ele $100.}
 {133}{}{Provavelmente não o suficiente para te interessar. Volto quando tiver mais.}
@@ -49,9 +49,9 @@
 {147}{}{A maioria dos forasteiros não sabe ler, fazer trigonometria ou soletrar "Australopitecos", como você deve imaginar. É apenas uma desculpa para impedir que os forasteiros se tornem Cidadãos.}
 {148}{}{O que mais eu poderia fazer para pular essa revista além de me tornar um Cidadão?}
 {149}{}{Deixa para lá. Talvez a gente converse outra hora.}
-{150}{}{Hide the goods on your slaves... your "Servants." You see, Vault City mentality is this:
-They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.}
-{151}{}{Any other options?}
+{150}{}{Esconda essas mercadorias com seus escrav... seus "Servos". Veja bem, a mentalidade de Vault City é esta: 
+Eles não parecem acreditar que alguém deixaria seus servos carregarem algo importante assim... ou questionável. Vai saber.}
+{151}{}{Alguma outra opção?}
 {152}{}{Tudo bem, então. Obrigado.}
 {153}{}{Bem, você PODE se tornar um Cidadão... não oficialmente.}
 {154}{}{Do que você está falando?}
@@ -89,8 +89,8 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {180}{}{Eu... mas... maldito...}
 {181}{}{Cuidado... Eu tomaria cuidado com essa língua se eu fosse você.}
 {182}{}{Falar comigo não vai ajudar, Skeev.}
-{183}{}{All right, I got a LITTLE cash stashed away. Here. Take it... three hundred bucks.
- Now, you gonna keep quiet?}
+{183}{}{Tudo bem, eu tenho um POUCO de dinheiro escondido. Aqui. Pegue... trezentos
+ dólares. Agora, você fica quieto sobre isso?}
 {184}{}{Até onde você sabe. Até mais.}
 {185}{}{Sem problemas. Você tem o meu silêncio.}
 {186}{}{Duzentos ou nada, Forasteiro. É a única maneira de passar pelo portão.}
@@ -108,7 +108,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {197}{}{Eu gostaria de entrar na cidade.}
 {198}{}{Eu gostaria de comprar aqueles documentos falsos de Cidadania que você estava oferecendo.}
 {199}{}{Decidi denunciá-lo por vender documentos falsos para cidadania.}
-{200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
+{200}{}{Já que você faz parte da alfândega e tudo, eu queria saber se você tem algum 'conselho' sobre como trazer certos itens dentro da cidade.}
 {201}{}{Não importa.}
 {202}{}{Olha, idiota, saia daqui ou eu chamo os guardas.}
 {203}{}{Olhe, desgraça, saia daq... Mmmm. Espere um minuto. Talvez...}

@@ -16,7 +16,7 @@
 {115}{}{Desculpe, a última rodada foi há um tempo atrás. Volte pela manhã.}
 {116}{}{Estamos fechados. Assim que terminar de fazer esta lista de estoque, estarei fechando.}
 {117}{}{Olá, Escolhido! Estávamos conversando sobre sua aventura... posso pegar alguma coisa para você beber?}
-{118}{}{Dwinkie-winkie me make stinkie}
+{118}{}{Essa é a última frase traduzida, oh beleza}
 {119}{}{Desliga}
 {120}{}{O que você tem aí?}
 {121}{}{Estava procurando algumas informações.}
