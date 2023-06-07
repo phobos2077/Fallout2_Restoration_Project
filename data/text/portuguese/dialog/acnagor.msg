@@ -42,12 +42,16 @@
  falar muito sobre os tempos difíceis que estão por vir.}
 {202}{}{Eu ainda estou olhando, Nagor.}
 {203}{}{Eu ainda estou procurando. Primo}
-{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
-{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
+{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já
+ encontrou o vault treze e o GECK?}
+{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já
+ encontrou o vault treze e o GECK?}
 {206}{}{Eu não encontrei. Sinto muito.}
 {207}{}{Eu sinto muito, Nagor. Eu ainda estou procurando.}
-{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
-{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo
+ aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo
+ aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
 {210}{}{Olá, primo.}
 {211}{}{Olá, primo.}
 {212}{}{Você não parece com você mesmo.}
