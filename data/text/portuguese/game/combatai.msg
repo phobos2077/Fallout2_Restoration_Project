@@ -307,7 +307,7 @@
 {1306}{}{Eu nem sentir isso.}
 {1307}{}{Pelo menos você só bateu minha cabeça.}
 {1308}{}{Ouch, isso dói.}
-{1309}{}{Eu ainda tenho *alguns dentes*.}
+{1309}{}{Eu ainda tenho * alguns dentes *.}
 {1310}{}{Eu voltei!}
 {1311}{}{Posso acabar com você com apenas uma mão.}
 {1312}{}{Você quebrou meu braço, mas eu vou quebrar seu pescoço!}
@@ -833,7 +833,7 @@
 {2160}{}{Não sou tão ruim, sou?}
 {2161}{}{Eu vi mais Brahmin mais esperto que você}
 {2162}{}{Ufa!}
-{2163}{}{Eu nao sou uma presa facil.}
+{2163}{}{Eu não sou uma presa fácil.}
 {2164}{}{Graças a Deus!}
 {2165}{}{Errou!}
 {2166}{}{Você não é tão bom assim.}
@@ -882,7 +882,7 @@
 {2236}{}{Eu adoro ver como se contorce.}
 {2237}{}{Espero que este seja um desafio.}
 {2238}{}{Oh sim! Estava a muito tempo esperando por isso.}
-{2239}{}{Vamos ver do que realmente voce e feito.}
+{2239}{}{Vamos ver do que realmente você é feito.}
 {2240}{}{Tome isso!}
 {2241}{}{Você gosta disso?}
 {2242}{}{Isto é o que fazemos com vermes!}
@@ -1608,7 +1608,7 @@
 {12480}{}{Ahhhh, merda! A porra do meu olho!}
 {12481}{}{Erggg...Isso foi... Sorte...}
 {12482}{}{Porra..tudo esta escuro..}
-{12483}{}{Nada que... um tapa-olho ... nao vai curar ...}
+{12483}{}{Nada que... um tapa-olho ... não vai curar ...}
 {12484}{}{Vou arrancar seus dois olhos por isso... devagar.}
 {12485}{}{Estou cego! Socorro! Estou cego!}
 {12486}{}{Não posso ver... cabeça girando...}
@@ -2690,7 +2690,7 @@
 {40860}{}{Damn! Eu não levo um tiro na perna desde 1900 e bolinha.}
 {40861}{}{* NFFF * ... boa tentativa ... minha perna ja recebeu golpes piores.}
 {40862}{}{Isso abriu uma ferida na perna.}
-{40863}{}{Vou ter que proteger melhor a minha perna direita...}
+{40863}{}{Vou ter que proteger melhor a minha perna direita ...}
 {40864}{}{*Nffff*...right leg's...useless...}
 {40865}{}{Não consigo... sentir... minha perna direita...}
 {40866}{}{* Nfff * ... outra ... ferida na porra da perna. }
@@ -3226,7 +3226,7 @@
 {42086}{}{Aieeeee! Eu fui atingido no olho! Todo mundo, olhe para mim!}
 {42087}{}{Meu olho esta sangrando! Merda!}
 {42088}{}{Grande. Lá se vai alguns pontos de Percepção.}
-{42089}{}{Alguém pode me dizer se esse foi o meu globo ocular ou apenas um tiro de na minha cabeça?}
+{42089}{}{Alguém pode me dizer se esse foi o meu globo ocular ou apenas um tiro de na minha Cabeça?}
 {42090}{}{ignorar a dor em minhas bolas... ignorar a dor em minhas bolas}
 {42091}{}{Nas bolas não!}
 {42092}{}{Aiiieeee! Levei um tiro no saco!}

@@ -31,7 +31,7 @@
 {130}{}{Na verdade, é de interesse. Eu gostaria de combustível para o Poseidon navio Petroleiro.}
 {131}{}{Aposto que seria de interesse para os Hubologistas. Eles querem combustível.}
 {132}{}{Não, ainda não. Mas eu vou estar de volta.}
-{133}{}{Eles querem combustível, não é? Bem, por mais irritantes que sejam, eles têm seus usos. Ouvi dizer que eles desenvolveram um processo em que eles fazem um terno de armadura de poder ainda mais invencível. Se eles atualizarem esse terno de armadura para mim, eu passarei o combustível ao longo da tubulação. Eu suponho que seja para sua nave espacial de brinquedo. É o chamado Crockett com o qual você deseja falar.}
+{133}{}{Eles querem combustível, não é? Bem, por mais irritantes que sejam, eles têm seus usos. Ouvi dizer que eles desenvolveram um processo em que eles fazem um terno de armadura de poder ainda mais invencível. Se eles atualizarem esse terno de armadura para mim, eu passarei o combustível ao longo da tubulação. Eu suponho que seja para sua nave espacial de brinquedo. É o chamado Crocket com o qual você deseja falar.}
 {134}{}{Eu vou fazer isso.}
 {135}{}{Eu não posso fazer promessas.}
 {136}{}{Eu tenho uma aqui.}

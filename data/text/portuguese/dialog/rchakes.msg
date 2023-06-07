@@ -1,7 +1,7 @@
 {100}{}{Você vê um homem alto com uma barriga enorme e disforme.}
 {101}{}{Você vê Hakeswill, um trabalhador da Morningstar Mine.}
 {102}{}{Você vê um homem de pele amarela, com uma cicatriz no pescoço e uma pança enorme.}
-{103}{}{Ei, o que 'ce pensa que 'tá fazendo?}
+{103}{}{Ei, o que 'cê pensa que 'tá fazendo?}
 {104}{}{Hakeswill vai te dar uma lição, vai sim.}
 {105}{}{Vão se fuder cês tudo.}
 {106}{}{Mostre o devido respeito aos seus superiores.}

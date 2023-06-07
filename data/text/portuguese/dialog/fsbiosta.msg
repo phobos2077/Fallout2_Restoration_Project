@@ -35,8 +35,8 @@
 {133}{}{Nota pessoal.}
 {134}{}{Voltar.}
 {135}{}{Dr. Wong: Novo cabeça do Projeto Biológico, junto com a Pesquisa Física.
-Dr. Sheng: Cabeça do Projeto Biológico até dois meses atrás. Um mês de férias do novo "soro de senciência botânica" contabilizado; o resto da ausência é um mistério. Dr. Wong assume o controle do Programa Biológico.
-Dr. Long: Recentemente falecido por via de um soro de FEV.}
+Dr. Sheng: Cabeça do Projeto Biológico até dois meses atrás. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
+Dr. Long: Recently deceased via FEV serum.}
 {136}{}{Programa Botânico.}
 {137}{}{Programa Genético.}
 {138}{}{Xeno program.}

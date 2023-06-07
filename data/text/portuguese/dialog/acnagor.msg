@@ -6,15 +6,15 @@
 {105}{}{Então eu irei para fora na minha missão!}
 {106}{}{Espere aí... em que você precisa de ajuda?}
 {107}{}{Você faz isso.}
-{108}{}{Fumaça fugiu para o campo de caça e não voltou, e agora Morlis não me deixa ir encontrar
- ele. Ela diz que é muito perigoso e ele é apenas um cachorro, mas eu estava indo de qualquer
- maneira. Mas agora você está aqui e você pode fazer por mim, eu não iria me meter em
- apuros.}
+{108}{}{Fumaça fugiu para o campo de caça e não voltou e agora Morlis não me deixa ir
+ encontrar ele. Ela diz que é muito perigoso e ele é apenas um cão, mas eu estava
+ indo de qualquer maneira. Mas agora você está aqui e você pode fazê-lo e eu não
+ iria me meter em apuros.}
 {109}{}{Com certeza. Mas onde estão os terrenos de caça?}
 {110}{}{Com certeza. Eu vou encontrá-lo agora.}
 {111}{}{Esqueça, eu não tenho tempo para isso.}
-{112}{}{O que você fez, foi atingido na cabeça com uma pedra? Eles estão do outro lado da
- tenda de Hakunin, a norte da vila.}
+{112}{}{Fez o que? Foi atingido na cabeça com uma pedra? Eles estão do outro
+ lado da tenda de Hakunin, ao norte da vila.}
 {113}{}{Eu vou estar de volta com ele em breve.}
 {114}{}{Você já encontrou Fumaça?}
 {115}{}{Não, ainda não. Onde você disse que é o campo de caça?}
@@ -36,22 +36,18 @@
 {129}{}{Estou ocupada, burro. Vá jogar em outro lugar.}
 {130}{}{Eu vou.}
 {131}{}{Eu vou por trás da fumaça.}
-{200}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito
- sobre os tempos difíceis que estão por vir.}
-{201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito
- sobre os tempos difíceis que estão por vir.}
+{200}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi
+ falar muito sobre os tempos difíceis que estão por vir.}
+{201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi
+ falar muito sobre os tempos difíceis que estão por vir.}
 {202}{}{Eu ainda estou olhando, Nagor.}
 {203}{}{Eu ainda estou procurando. Primo}
-{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o
- vault treze e o GECK?}
-{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o
- vault treze e o GECK?}
+{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
+{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
 {206}{}{Eu não encontrei. Sinto muito.}
 {207}{}{Eu sinto muito, Nagor. Eu ainda estou procurando.}
-{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos
- pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
-{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos
- pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
 {210}{}{Olá, primo.}
 {211}{}{Olá, primo.}
 {212}{}{Você não parece com você mesmo.}

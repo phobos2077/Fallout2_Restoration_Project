@@ -330,7 +330,7 @@
 {16901}{}{Uma coluna de suporte}
 {17000}{}{Coluna}
 {17001}{}{Uma coluna de suporte}
-{17100}{}{Computador de aceso.}
+{17100}{}{Computador de acesso.}
 {17101}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {17200}{}{Cartaz de Casino}
 {17201}{}{Parece que é uma propaganda para o Casino de Gizmo.}
@@ -3179,7 +3179,7 @@
 {210201}{}{Este grande porta é o elo entre o refúgio e o mundo exterior. Foi arrasada por uma tremenda explosão.}
 {210300}{}{Entrada da caverna}
 {210301}{}{A caverna parece se expandir para uma rede maior de cavernas.}
-{210400}{}{Computador de aceso.}
+{210400}{}{Computador de acesso.}
 {210401}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {210500}{}{Barco enferrujado}
 {210501}{}{Este barco parece não ter condições de navegar.}

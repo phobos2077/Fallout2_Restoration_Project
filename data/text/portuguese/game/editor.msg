@@ -51,7 +51,7 @@
 {150}{}{Perícias}
 {151}{}{As perícias são conhecimentos aprendidos. Aumentam por experiência. Quanto maior o nível, melhor você está naquela habilidade.}
 {152}{}{ESCOLHA UMA CARACTERÍSTICA}
-{153}{}{ESCOLHA UMA NOVA CARACTERISTICA}
+{153}{}{ESCOLHA UMA NOVA CARACTERÍSTICA}
 {154}{}{ELIMINE UMA CARACTERÍSTICA}
 {155}{}{ESCOLHA UMA PERÍCIA}
 {156}{}{CARACTERÍSTICAS}

@@ -69,7 +69,7 @@
 {631}{}{Sim, tenho tudo aqui.}
 {632}{}{Eu ainda estou procurando. Tchau.}
 {640}{}{Vamos ver aqui... Oh, excelente. Funcionarão muito bem. Aqui, pegue um pouco de pó de cura pelo seu tempo.}
-{641}{}{Obrigado. Tchau.}
+{641}{}{Obrigado. }
 {1000}{}{Você livra o Xamã da Tribo de seus problemas.}
 {2000}{}{Você entrega as ervas ao Xamã.}
 {3000}{}{Eu sabia que você era um grande herói o tempo todo... Os espíritos me disseram isso.}

@@ -12,7 +12,7 @@ segurando uma lança.}
 {156}{}{Bem, talvez os deuses cuidem de você.}
 {157}{}{Obrigado, adeus.}
 {158}{}{O que você quer saber?}
-{159}{}{O que você pode me dizer de homens que têm relações
+{159}{}{O que você pode me dizer dos homens que têm relações
  comerciais com a nossa aldeia?}
 {160}{}{O que você pode me dizer sobre esse objeto que eu tenho de
 um cofre?}

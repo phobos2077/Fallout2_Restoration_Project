@@ -37,8 +37,8 @@
   capaz de se abrir.}
 {116}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente,
   que você poderá abrir.}
-{117}{}{Você vê uma porta resistente com um bloqueio velho
- e enferrujado, que você pode abrir.}
+{117}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado, que
+ você pode abrir.}
 {118}{}{Você vê uma porta resistente com uma fechadura, que pode ser aberta com gazua
  e uma armadilha altamente explosiva no quadro da porta.}
 {119}{}{Você vê uma porta resistente com um bloqueio e uma

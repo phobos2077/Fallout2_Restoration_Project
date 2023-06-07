@@ -12,7 +12,7 @@
 {110}{}{Talvez outra vez, então? Que suas viagens estejam livres de perigo.}
 {111}{}{Obrigado. Tchau.}
 {112}{}{Que pena. Então descanse e seja bem vindo no meu acampamento.}
-{113}{}{Obrigado. Tchau.}
+{113}{}{Obrigado. }
 {114}{}{Minha oferta de sombra chegou muito tarde para você. O sol deve ter fervido as palavras do seu
   cérebro. Eu devo ser gentil com aqueles menos afortunados do que eu. Fique o tempo que você gosta no meu acampamento, maldito.}
 {115}{}{Adeus.}
