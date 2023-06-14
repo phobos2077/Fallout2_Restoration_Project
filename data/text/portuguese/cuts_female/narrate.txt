@@ -1,6 +1,6 @@
 1:Guerra.
 2:A guerra nunca muda.
-3:O fim do mundo ocorreu praticamente como nós tínhamos previsto.
+3:O fim do mundo ocorreu praticamente como havíamos previsto.
 4:Muitos humanos, sem espaço ou recursos suficientes para todos.
 5:Os detalhes são triviais e inúteis; os motivos, como sempre, puramente humanos.
 6:Em 2077, a terra estava quase limpa da vida humana.
@@ -10,15 +10,15 @@
 10:A humanidade foi quase extinto, seus espíritos, tornando-se parte da radiação de fundo que cobriu a terra.
 11:Uma escuridão silenciosa caiu sobre o planeta, durando muitos anos.
 12:Poucos sobreviveram à devastação.
-13:Alguns tiveram a sorte de alcançar a segurança, abrigando-se em grandes Refúgios subterrâneos.
+13:Alguns tiveram a sorte de alcançar a segurança, abrigando-se em grandes vaults subterrâneas.
 14:Quando a grande escuridão passou, estes Vaults se abriram, e seus habitantes surgiram para começar suas vidas novamente.
 15:Uma das tribos do norte afirma que eles são descendentes de um desses Refúgios.
 16:Eles consideram que seu fundador e antepassado, um conhecido como "Morador do Vault ", uma vez salvou o mundo de um grande mal.
-17:De acordo com a lenda, o mal surgiu no distante sul.
-18:Ele corrompia tudo o que tocava, distorcendo o interior de homens, transformando-os em bestas.
+17:De acordo com a lenda, esse mal surgiu no extremo sul.
+18:Ele corrompia tudo o que tocava, distorcendo o interior dos homens, transformando-os em bestas.
 19:Esse grande mal só foi destruído graças à coragem do "Morador da Vault".
 20:Mas, ao fazê-lo, perdeu muitos dos seus amigos e sofreu muito, sacrificando muito de si mesmo para salvar o mundo.
-21:Quando finalmente ele voltou para a casa que lutou tanto para proteger, ele foi expulso.
+21:Ao finalmente retornar ao lar que tanto lutou para proteger, ele foi expulso.
 22:Exilado.
 23:Ao confrontar o que eles temiam, ele se tornou algo mais em seus olhos ... e não é seu campeão.
 24:Abandonado pelo seu povo, ele caminhou pelo deserto.
