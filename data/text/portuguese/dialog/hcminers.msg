@@ -11,15 +11,15 @@
 {109}{}{Quem é você?}
 {110}{}{Ah, bom, um idiota. Afetado pela radiação, hein, cara? Não consigo entender nada, não posso te ajudar.}
 {111}{}{Eu disse que não posso te ajudar! Vá embora e encha o saco de outro!}
-{112}{}{O que há para fazer? Bem, a mina fechou porque não temos um purificador de ar que preste. Tem
- o salão, os caravaneiros e o armazém geral. É isso aí. Espere, sobre o que estávamos conversando
- mesmo?}
+{112}{}{O que tem para fazer? Bem, a mina fechou porque não temos um purificador de ar que
+ funcione. Ali tem o salão, tem os caravaneiros e o armazém geral. Isso é tudo. Espere, sobre o que
+ nós estávamos conversando?}
 {113}{}{Com quem eu falo sobre a mina?}
 {114}{}{Onde está o salão?}
 {115}{}{Onde estão os caravaneiros?}
 {116}{}{Onde fica o armazém geral?}
 {117}{}{Obrigado. Tchau.}
-{118}{}{Apenas um dos mineiros. Você quer alguém importante?}
+{118}{}{Só um dos mineiros. Procura alguém importante?}
 {119}{}{Sim.}
 {120}{}{Não.}
 {121}{}{Adeus.}

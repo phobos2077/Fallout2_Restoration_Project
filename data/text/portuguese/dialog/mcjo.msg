@@ -66,7 +66,7 @@
  estranhas brilhantes cuidando das plantações e alimentando os animais à noite. Nós só rimos dele,
  achamos que eram só histórias bestas. Então, um dia, Karl parou de vir à cidade.}
 {201}{}{O que aconteceu com ele? Você o procurou?}
-{202}{}{Claro que sim! Subimos depois que suspeitamos de algo errado. [Ele começa a tremer
+{202}{}{Claro que sim! Subimos lá assim que suspeitamos que algo estava errado. [Ele começa a tremer
  violentamente.] Que horror. Corpos espalhados por toda parte. Alguns crucificados, enquanto
  outros foram deixados para apodrecer ao sol. Ainda acordo gritando no meio da noite com as
  imagens horríveis que vi naquele dia.}
