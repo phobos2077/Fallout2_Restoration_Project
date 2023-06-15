@@ -44,7 +44,7 @@
 {182}{}{Bem, eu não gostaria de mantê-lo. Adeus.}
 {190}{}{Com certeza seria bom ter alguma ajuda. Mas, você vê, ninguém mais está qualificado para fazer o que eu faço.
  Eles nem mesmo entendem o básico.}
-{191}{}{Como alguém poderia acompanhar você? Você está acima de todos.}
+{191}{}{Como alguém poderia esperar te acompanhar? Você está acima de todos.}
 {192}{}{Você é realmente especial, sem dúvida. Adeus.}
 {200}{}{Você sabe que eu sou. Posso dizer que você realmente entende essas coisas. Se eu não estivesse tão ocupado aqui
  eu cuidaria do Gecko. E deixe-me dizer, eu faria muito bem.}
@@ -103,7 +103,7 @@
 {340}{}{Você tem um Regulador Hidrelétrico da Magnetosfera sobressalente com você?}
 {341}{}{Você realmente sabe o que é isso?}
 {342}{}{Claro. Você está pronto para instalá-lo?}
-{350}{}{Surpreso? Eu te disse que sabia tudo sobre plantas de energia nuclear. Você devia ter me ouvido.}
+{350}{}{Surpreso? Eu disse a você que sei tudo sobre usinas atômicas. Você deveria ter me ouvido.}
 {351}{}{Bem, já que você sabe o que é, você deve saber como instalá-lo.}
 {352}{}{Acho que já te escutei demais. Adeus.}
 {360}{}{Claro que eu faço. Ora, isso é simples para alguém com minha experiência e talento. eu era
