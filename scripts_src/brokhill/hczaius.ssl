@@ -408,7 +408,7 @@ procedure Node008 begin
    if( dude_iq == 1 ) then
       NOption(129, Node009, 001);
    if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
-      NOption(130,Node010,002);
+      NOption(mstr(130) + dude_name + mstr(1130), Node010, 002);
 end
 
 procedure Node009 begin
