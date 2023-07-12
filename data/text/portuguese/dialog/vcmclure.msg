@@ -1,38 +1,38 @@
-{100}{}{You see Senior Council Member McClure.}
-{101}{}{You see an elderly Vault City official. His hair is graying around the edges.}
-{102}{}{You see Senior Council Member McClure.}
-{103}{}{You see an elderly Vault City official. His hair is graying around the edges.}
-{104}{}{I have heard of your act of heroism. We are all in your debt... Chosen One.}
-{105}{}{I have to tabulate these lists before I leave. Return in the morning, and I will speak to you then.}
-{106}{}{A ghoul?! Guards! Guards!}
-{107}{}{A mutant?! Guards! Guards!}
-{108}{}{I have nothing to say to you. Leave, or I will call the guards.}
-{109}{}{Good day... Captain, is it? I've heard a great deal about you. Is there something I could help you with?}
-{110}{}{Good day... Citizen, is it? I'd heard we had gained a new member of the community. Is there anything I could help you with?}
-{111}{}{Hello... can I help you?}
-{112}{}{Good day, Captain. Everything is well, I trust?}
-{113}{}{Good day, Citizen. Can I help you?}
-{114}{}{Yes? Was there something else you wanted?}
-{115}{}{San-tah Klass?}
+{100}{}{Você vê o membro sênior do conselho, McClure.}
+{101}{}{Você vê um oficial idoso de Vault City. Seu cabelo está ficando grisalho nas pontas.}
+{102}{}{Você vê o membro sênior do conselho, McClure.}
+{103}{}{Você vê um oficial idoso de Vault City. Seu cabelo está ficando grisalho nas pontas.}
+{104}{}{Ouvi falar do seu ato heroico. Estamos todos em dívida com você... Escolhido.}
+{105}{}{Tenho que tabular essas listas antes de sair. Volte pela manhã, e então falarei com você.}
+{106}{}{Um ghoul?! Guardas! Guardas!}
+{107}{}{Um mutante?! Guardas! Guardas!}
+{108}{}{Eu não tenho nada para dizer a você. Saia, ou chamarei os guardas.}
+{109}{}{Bom dia... Capitão, certo? Eu ouvi muito sobre você. Há algo em que eu possa ajudá-lo?}
+{110}{}{Bom dia... Cidadão, certo? Ouvi dizer que ganhamos um novo membro da comunidade. Há algo em que eu possa ajudá-lo?}
+{111}{}{Olá... posso te ajudar?}
+{112}{}{Bom dia, Capitão. Vai tudo bem?}
+{113}{}{Bom dia, Cidadão. Posso ajudar?}
+{114}{}{Sim? Gostaria de algo mais?}
+{115}{}{Pa-pai Noel?}
 {116}{}{Desliga}
 {117}{}{Posso te fazer algumas perguntas?}
 {118}{}{Quem é você?}
-{119}{}{Just looking around, thanks. Good day.}
-{120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
-{121}{}{I go no I GO NO}
-{122}{}{Ahhh... Ples no go? Me be good}
-{123}{}{Of course, Captain.}
-{124}{}{Of course, Citizen.}
-{125}{}{What is it you would like to know?}
-{126}{}{What's your job here?}
+{119}{}{Só dando uma olhada, obrigado. Bom dia.}
+{120}{}{Como você chegou à nossa cidade? Guardas! Temos um Forasteiro que precisa ser escoltado até o portão!}
+{121}{}{Não vou eu NÃO VOU}
+{122}{}{Ahhh... Por favor, eu não vou? Sou bom}
+{123}{}{Claro, Capitão.}
+{124}{}{Claro, Cidadão.}
+{125}{}{O que você gostaria de saber?}
+{126}{}{Qual é o seu trabalho aqui?}
 {127}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
-{128}{}{What can you tell me about the First Citizen?}
-{129}{}{I'd like to ask you some questions about Gecko.}
+{128}{}{O que você pode me dizer sobre a Primeira Cidadã?}
+{129}{}{Eu gostaria de fazer algumas perguntas sobre Gecko.}
 {130}{}{O que você pode me dizer sobre Redding?}
-{131}{}{I need to speak to you about Redding.}
-{132}{}{How does one become a Citizen?}
-{133}{}{I think you might have a part that could fix Gecko's power plant.}
-{134}{}{I repaired Gecko's plant.}
+{131}{}{Preciso falar com você sobre Redding.}
+{132}{}{Como alguém se torna um Cidadão?}
+{133}{}{Acho que você pode ter uma peça que pode consertar a usina nuclear do Gecko.}
+{134}{}{Eu consertei a central de Gecko.}
 {135}{}{Tenho um disco de dados econômicos aqui que você pode achar interessante.}
 {136}{}{Encontrei uma maneira de otimizar o reator de Gecko.}
 {137}{}{Aqui está o disco do reator de Gecko. Você pode otimizá-lo?}
@@ -74,40 +74,40 @@
 {173}{}{O que aconteceu com o GECK que quebrou?}
 {174}{}{Posso te fazer outra pergunta?}
 {175}{}{Entendo. Obrigado pela informação.}
-{176}{}{Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.}
+{176}{}{Chips de água, cerca de cem. Não sei porque mandaram tantos... nunca precisamos trocar os nossos. Temos o mesmo chip de água desde o dia em que nosso povo viveu no subsolo da Vault.}
 {177}{}{O que aconteceu com o GECK que quebrou?}
 {178}{}{Posso te fazer outra pergunta?}
 {179}{}{Interessante. Obrigado pelo seu tempo.}
-{180}{}{The irony is razor sharp. Maybe we'll talk later after I stop the bleeding.}
-{181}{}{It was disassembled, and its parts were used for other applications.}
-{182}{}{What was in the shipment meant for Vault 13?}
+{180}{}{A ironia é uma lâmina afiada. Talvez voltemos a conversar mais tarde, quando o sangramento parar.}
+{181}{}{Ele foi desmontado e suas partes foram usadas em outras aplicações.}
+{182}{}{O que estava na remessa destinada à Vault 13?}
 {183}{}{Posso te fazer outra pergunta?}
 {184}{}{Eu vejo. Obrigado pelo seu tempo.}
-{185}{}{She is the leader of the people. The Citizens of Vault City look to her for guidance, but the Citizens, through the Council, still have final say on matters. In these trying times, she is a pillar of our society.}
-{186}{}{"Trying times?" What do you mean?}
-{187}{}{What is it you do?}
+{185}{}{Ela é a líder do povo. Os Cidadãos de Vault City procuram sua orientação, mas os Cidadãos, por meio do Conselho, ainda têm a palavra final sobre os assuntos. Nestes tempos difíceis, ela é um pilar da nossa sociedade.}
+{186}{}{"Tempos difíceis?" O que você quer dizer?}
+{187}{}{O que você faz?}
 {188}{}{Posso te fazer outra pergunta?}
-{189}{}{Thanks for your time. Goodbye.}
-{190}{}{Gecko? What do you want to know?}
-{191}{}{Where is Gecko?}
-{192}{}{What is Gecko?}
+{189}{}{Obrigado pelo seu tempo. Adeus.}
+{190}{}{Gecko? O que você quer saber?}
+{191}{}{Onde está Gecko?}
+{192}{}{O que é Gecko?}
 {193}{}{Posso te fazer outra pergunta?}
-{194}{}{Thanks for your time. Goodbye.}
-{195}{}{Not much to tell, other than the fact that our ore shipments have become few and far between.}
-{196}{}{Any idea why?}
-{197}{}{Where is Redding?}
+{194}{}{Obrigado pelo seu tempo. Adeus.}
+{195}{}{Não há muito a dizer, além do fato de que nossos embarques de minério tornaram-se poucos e mais distantes entre si.}
+{196}{}{Alguma ideia do porquê?}
+{197}{}{Onde está Redding?}
 {198}{}{Posso te fazer outra pergunta?}
-{199}{}{Thanks for your time. Goodbye.}
-{200}{}{I am the Senior Council Member. I oversee the council meetings.}
-{201}{}{Then what does the First Citizen do?}
+{199}{}{Obrigado pelo seu tempo. Adeus.}
+{200}{}{Eu sou o membro sênior do conselho. Eu supervisiono as reuniões do conselho.}
+{201}{}{Então, o que a Primeira Cidadã faz?}
 {202}{}{Posso te fazer outra pergunta?}
-{203}{}{Thank you for your time. Goodbye.}
-{204}{}{Well, Citizenship isn't for everyone, you understand. You seem more like an adventurer to me... I really don't think that Citizenship is for you.}
-{205}{}{Aw, c'mon... just tell me what I need to do to become a Citizen.}
-{206}{}{I'd still like to become a Citizen anyway.}
+{203}{}{Obrigado pelo seu tempo. Adeus.}
+{204}{}{Bem, Cidadania não é para todos, sabe... Você me parece um tipo de aventureiro... Realmente não acho que a Cidadania seja para você.}
+{205}{}{Ah, vamos lá... apenas me diga o que eu preciso fazer para me tornar um Cidadão.}
+{206}{}{Eu ainda gostaria de me tornar um cidadão mesmo assim.}
 {207}{}{Posso te fazer outra pergunta?}
 {208}{}{Deixe pra lá então.}
-{209}{}{You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.}
+{209}{}{Você gostaria se tornar um Cidadão? Bem, ficaríamos felizes em recebê-lo. Basta falar com o Procônsul Gregório e ele fará o teste de Cidadania.}
 {210}{}{Onde posso encontrar o Procônsul Gregório?}
 {211}{}{Posso te fazer outra pergunta?}
 {212}{}{Obrigado. Vou encontrá-lo agora. Adeus.}
@@ -117,28 +117,28 @@
 {216}{}{Tudo bem. Vou falar com o Proconsul agora.}
 {217}{}{Você o encontrará na ala leste. Seu escritório fica em frente ao da Primeira Cidadã.}
 {218}{}{Posso te fazer outra pergunta?}
-{219}{}{Thanks for your time. Goodbye.}
+{219}{}{Obrigado pelo seu tempo. Adeus.}
 {220}{}{As coisas têm sido difíceis nos últimos dois anos. A NCR está ficando mais agressiva em suas tentativas de fazer com que Vault City se junte à República.}
 {221}{}{Eles nos dizem que se nos juntarmos, eles seriam capazes de nos defender dos ataques invasores em nossa cidade. Ultimamente, esses ataques de invasores se tornaram mais brutais.}
 {222}{}{Além de tudo isso, temos ghouls em Gecko contaminando nossas águas subterrâneas.}
-{223}{}{Where is Gecko?}
-{224}{}{What is Gecko?}
+{223}{}{Onde está Gecko?}
+{224}{}{O que é Gecko?}
 {225}{}{Tempos difíceis, de fato. Posso te fazer outra pergunta?}
 {226}{}{Desculpe ouvir isso. Obrigado pelo seu tempo. Adeus.}
 {227}{}{Fica logo a nordeste daqui, mas se você está planejando ir para lá, te aconselho a comprar alguns medicamentos anti-radiação. Se eles estão contaminando nossa água, é provável que a própria cidade deles seja irradiada.}
-{228}{}{What is Gecko?}
+{228}{}{O que é Gecko?}
 {229}{}{Posso te fazer outra pergunta?}
 {230}{}{Obrigado pelo aviso. Adeus.}
 {231}{}{É um lugar abandonado, uma favela construída em torno dos restos de uma antiga usina atômica.}
 {232}{}{Onde Gecko fica localizada?}
 {233}{}{Posso te fazer outra pergunta?}
-{234}{}{Thanks for your time. Goodbye.}
+{234}{}{Obrigado pelo seu tempo. Adeus.}
 {235}{}{Não, eu não entendo nada disso. Estamos dispostos a pagar muito caro pelo minério deles, mas sempre que tentamos falar com eles sobre isso, eles se tornam evasivos. Se eu soubesse o que está acontecendo...}
 {236}{}{Eu poderia ir verificar isso para você.}
-{237}{}{Where is Redding?}
-{238}{}{Thanks for your time. Goodbye.}
+{237}{}{Onde está Redding?}
+{238}{}{Obrigado pelo seu tempo. Adeus.}
 {239}{}{Você irá? Não está em meu poder te pagar, mas sua ajuda será muito apreciada.}
-{240}{}{Where is Redding?}
+{240}{}{Onde está Redding?}
 {241}{}{Sem problemas. Vou verificar e retorno quando descobrir o que há de errado.}
 {242}{}{Redding fica a cerca de uma semana a oeste daqui. Eu nunca estive lá, nunca estive fora de Vault City, aliás. Pelo que entendi, Redding é considerado um dos assentamentos mais agradáveis dos desertos.}
 {243}{}{Você tem alguma ideia do que está causando a queda das remessas?}
@@ -178,27 +178,27 @@
 {277}{}{Excelente! Onde posso conseguir a peça?}
 {278}{}{Vá ver Randal, o Diretor de Serviços. Ele deve ter a peça em estoque.}
 {279}{}{Obrigado. Vou vê-lo agora.}
-{280}{}{There's one other thing. You might find this economic data disk interesting.}
-{281}{}{Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done.}
+{280}{}{Uma outra coisa. Você pode achar este disco de dados econômicos interessante.}
+{281}{}{Excelente! Eu estava preocupado que o acúmulo de radiação pudesse nos forçar a mudar. Você deve ser elogiado por um trabalho bem feito.}
 {282}{}{Vault City prevails, Citizen.}
-{283}{}{Vault City, prevails, Captain.}
-{284}{}{Here's your Citizenship papers. If you ever need anything, come see me.}
-{285}{}{Vault City prevails, Councilor.}
+{283}{}{Vault City, prevalece, Capitão.}
+{284}{}{Aqui estão seus documentos de Cidadania. Se precisar de alguma coisa, venha me ver.}
+{285}{}{Vault City prevalece, Conselheiro.}
 {286}{}{Obrigado.}
-{287}{}{Yes, you mentioned that.}
-{288}{}{Well done, Captain.}
-{289}{}{Well done, Citizen.}
-{290}{}{Well done.}
+{287}{}{Sim, você mencionou isso.}
+{288}{}{Muito bem, capitão.}
+{289}{}{Muito bem, Cidadão.}
+{290}{}{Bom trabalho.}
 {291}{}{Eu tenho mais algumas perguntas...}
 {292}{}{Obrigado.}
-{293}{}{I'm sorry... an economic data disk? What do you mean?}
-{294}{}{Here, take a look.}
-{295}{}{It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.}
+{293}{}{Desculpe... um disco de dados econômicos? O que quer dizer?}
+{294}{}{Aqui, dê uma olhada.}
+{295}{}{É um disco de dados econômicos que mostra a quantidade de energia que a usina atômica de Gecko produziu antes da guerra... e poderia produzir novamente.}
 {296}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {297}{}{Nada. Me desculpe por perturbar você.}
-{298}{}{Very well. Give me a moment...}
+{298}{}{Muito bem. Me dê um momento...}
 {299}{}{Tudo certo.}
-{300}{}{Hmmm. How did you come by this disk?}
+{300}{}{Hmmm. Como você conseguiu esse disco?}
 {301}{}{Eu... encontrei.}
 {302}{}{Eu o encontrei enquanto procurava alguns dos arquivos na biblioteca de Vault City.}
 {303}{}{Peguei de alguém em Gecko.}
@@ -210,54 +210,54 @@
 {309}{}{O disco mostra que a usina de Gecko... se fosse otimizada... poderia produzir uma grande quantidade de energia. Muito mais do que Gecko precisa. Vault City poderia usar essa energia.}
 {310}{}{Você está sugerindo que nos APODEREMOS de Gecko e sua usina? Eu NÃO ouvi --}
 {311}{}{Não, não... se Gecko pudesse receber os dados de otimização para sua central, aposto que eles estariam dispostos a trocar seu excesso de energia por assistência médica.}
-{312}{}{Hmmm. As far as medical assistance goes, I'm not unsympathetic to the plight of the ghouls. They have certainly suffered enough... but how could we optimize their plant?}
-{313}{}{I don't know. Maybe there's someone I can talk to once the plant is repaired.}
-{314}{}{I don't know. Maybe there's someone I can talk to at the plant.}
-{315}{}{I would just need access to the Vault City computer. It could optimize the power plant reactor disk and allow the plant to run more smoothly.}
-{316}{}{I have no objections to your proposal. If you can find some means of optimizing the plant, let me know.}
-{317}{}{All right. I'll go get that part from Randal and see about repairing the reactor first.}
-{318}{}{Very well, Captain.}
-{319}{}{Very well, Citizen.}
-{320}{}{You have my permission to use the Vault computer and optimize the reactor disk. You can find it on the third level of the Vault, near the Operations Room.}
-{321}{}{Excellent. Thank you, Councilor. I'll go do that.}
-{322}{}{It is done. Here you go.}
-{323}{}{I'll keep the economic disk and study it some more... Perhaps I can persuade the Council to enter negotiations with Gecko to trade for their power. The data disk would be a strong argument in of itself.}
-{324}{}{I appreciate it. Thanks.}
-{325}{}{Hmmm. Well, I cannot allow you access to the Vault, but I could optimize the reactor disk for you.}
-{326}{}{All right. But I don't have the reactor disk on me. I'll be back with it.}
+{312}{}{Hmmm. No que diz respeito à assistência médica, não sou indiferente à situação dos ghouls. Eles certamente já sofreram o suficiente... mas como poderíamos otimizar sua central?}
+{313}{}{Não sei. Talvez haja alguém com quem eu possa falar assim que a central estiver consertada.}
+{314}{}{Não sei. Talvez haja alguém com quem eu possa falar na central.}
+{315}{}{Eu só precisaria de acesso ao computador de Vault City. Isso poderia otimizar o disco do reator da usina e permitir que a usina funcione com mais suavidade.}
+{316}{}{Não tenho objeções à sua proposta. Se você encontrar algum meio de otimizar a central, me avise.}
+{317}{}{Tudo bem. Vou pegar essa peça com Randal e vejo como posso consertar o reator.}
+{318}{}{Muito bem, capitão.}
+{319}{}{Muito bem, Cidadão.}
+{320}{}{Você tem minha permissão para usar o computador da Vault e otimizar o disco do reator. Você pode encontrá-lo no terceiro nível da Vault, perto da Sala de Operações.}
+{321}{}{Excelente. Obrigado, vereador. Vou fazer isso.}
+{322}{}{Está feito. Está aqui.}
+{323}{}{Vou guardar o disco econômico e estudá-lo um pouco mais... Talvez eu possa persuadir o Conselho a entrar em negociações com Gecko para negociar em troca de sua energia. O disco de dados seria um forte argumento por si só.}
+{324}{}{Eu agradeço. Obrigado.}
+{325}{}{Hmmm. Bem, não posso permitir que você acesse a Vault, mas posso otimizar o disco do reator para você.}
+{326}{}{Tudo bem. Mas não tenho o disco do reator comigo. Voltarei com ele.}
 {327}{}{Isso seria ótimo.}
-{328}{}{Excellent!}
+{328}{}{Excelente!}
 {329}{}{Tudo certo.}
-{330}{}{Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
+{330}{}{Deixe eu pegar o disco do reator e farei com que o computador central do Vault o otimize.}
 {331}{}{Obrigado, adeus.}
 {332}{}{O que é?}
-{333}{}{I have a reactor data disk here from Gecko. According to... the... uh, technician at the power plant, the Vault City computer can optimize the reactor disk and make the plant run more smoothly.}
-{334}{}{Guards! Guards!}
+{333}{}{Eu tenho um disco de dados do reator de Gecko. De acordo com... o... uh, técnico da usina, o computador de Vault City pode otimizar o disco do reator e fazer a usina funcionar mais suavemente.}
+{334}{}{Guardas! Guardas!}
 {335}{}{}
-{336}{}{You told McClure about the Redding Jet addiction problem.}
-{337}{}{You gave the economic data disk to McClure.}
-{338}{}{I'm still looking for a way to optimize the power plant.}
-{339}{}{I'm still looking for a way to optimize the power plant.}
-{340}{}{I wish I could help, but I'm afraid my knowledge of reactors is... limited. Perhaps one
- of the technicians at the Gecko plant would know how to optimize the plant?}
-{341}{}{Perhaps. I had some other questions...}
-{342}{}{Maybe so. I'll go see.}
-{343}{}{You told McClure about the Jet antidote delivery.}
-{344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
-{345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
-{346}{}{Actually, yes. Sergeant Stark reported something on this to me recently. What interest do you have in this matter?}
-{347}{}{Is it true that you intend to make servants of those people?}
-{348}{}{Nothing really. May I ask you about something else?}
-{349}{}{Doesn't matter. Bye.}
-{350}{}{Recruiting servants is not the issue here. The issue is the threat that these monsters pose to Vault City. According to Sergeant Stark's report, the people of that village seem to coexist with those huge rat creatures. If that's true, they may have found a way to control them, and perhaps that's why these creatures have begun to attack our patrols. Sergeant Stark plans to eliminate these pests, and he has my full support.}
-{351}{}{I assure you the people of that village aren't controlling the mole rats. In fact, I've got a proposition for you: I'll take care of this mole rat problem, and in return, I want your assurance that Vault City will leave the people of that village alone.}
-{352}{}{An interesting proposition, but how exactly do you plan to deal with all those rat creatures?}
-{353}{}{I think I might know who *is* controlling them.}
-{354}{}{Don't really know, but I'll think of something. I always do.}
-{355}{}{Really? Very well then, I'll take your word for it. The raid will be postponed for a month.}
-{356}{}{You're a good man, McClure, and you won't regret this. I'll be back once the problem's taken care of.}
-{357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
-{358}{}{Thank you!}
-{359}{}{You solved the village problem.}
-{360}{}{This is quite interesting.}
-{370}{}{Alright. Well, I won't get in your way then.}
+{336}{}{Você contou a McClure sobre o problema do vício de jet em Redding.}
+{337}{}{Você deu o disco de dados econômicos para McClure.}
+{338}{}{Ainda estou procurando uma maneira de otimizar a usina.}
+{339}{}{Ainda estou procurando uma maneira de otimizar a usina.}
+{340}{}{Eu gostaria de poder ajudar, mas receio que meu conhecimento sobre reatores seja...
+ limitado. Será que um dos técnicos da usina de Gecko sabe como a otimizar?}
+{341}{}{Talvez. Eu tenho algumas outras perguntas...}
+{342}{}{Talvez sim. Vou ver.}
+{343}{}{Você contou a McClure sobre a entrega do antídoto do jet.}
+{344}{}{O disco mostra que, como a usina agora está totalmente funcional e otimizada, ela pode produzir uma grande quantidade de energia. Muito mais do que Gecko precisa. Vault City poderia usar essa energia. Acho que o conselho deveria considerar o que este disco tem a oferecer.}
+{345}{}{Você sabe alguma coisa sobre a aldeia próxima que está cheia de ratos-toupeira?}
+{346}{}{Na verdade, sim. O sargento Stark relatou algo sobre isso para mim recentemente. Que interesse você tem neste assunto?}
+{347}{}{É verdade que você pretende fazer essas pessoas de servos?}
+{348}{}{Nada realmente. Posso te perguntar sobre outra coisa?}
+{349}{}{Não importa. Tchau.}
+{350}{}{Recrutar servos não é o problema aqui. A questão é a ameaça que esses monstros representam para Vault City. De acordo com o relatório do Sargento Stark, as pessoas daquela aldeia parecem coexistir com aqueles enormes ratos. Se for verdade, eles podem ter encontrado uma maneira de controlá-los, e talvez seja por isso que essas criaturas começaram a atacar nossas patrulhas. O sargento Stark planeja eliminar essas pragas e tem todo o meu apoio.}
+{351}{}{Te garanto que as pessoas daquela aldeia não estão controlando os ratos-toupeira. Na verdade, tenho uma proposta para você: vou cuidar desse problema do ratos e, em troca, quero sua garantia de que Vault City deixará as pessoas daquela vila em paz.}
+{352}{}{Uma proposta interessante, mas como exatamente você planeja lidar com todas essas criaturas?}
+{353}{}{Acho que posso saber quem *está* controlando eles.}
+{354}{}{Não sei bem, mas vou pensar em algo. Eu sempre faço.}
+{355}{}{Verdade? Muito bem então, vou acreditar em sua palavra. O ataque será adiado por um mês.}
+{356}{}{Você é um bom homem, McClure, e não vai se arrepender disso. Voltarei assim que o problema for resolvido.}
+{357}{}{É incrível, os ataques de ratos-toupeira em nossas patrulhas pararam repentinamente, e sem aviso. Eu não sei como você fez isso, mas eu te agradeço. Além disso, manterei minha parte no acordo, ordenarei a Stark que cancele o ataque imediatamente. Contanto que as pessoas daquela vila não representem uma ameaça para Vault City, elas não terão nada a temer de nós, eu cuidarei de tudo.}
+{358}{}{Obrigado!}
+{359}{}{Você resolveu o problema da aldeia.}
+{360}{}{Isso é muito interessante.}
+{370}{}{Tudo bem, então não vou atrapalhar.}

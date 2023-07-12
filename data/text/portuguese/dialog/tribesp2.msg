@@ -1,5 +1,5 @@
-{100}{}{As your eyes adjust to the darkness of the cave, you see what appears to be the aftermath of a cave-in. A defenseless warrior lays on the ground, struggling to dislodge his leg from a large rock while a golden gecko lunges toward him. The body of another warrior lies motionless nearby.}
-{101}{}{Rush in and attempt to save the tribal.}
-{102}{}{Stand there and watch what happens.}
-{200}{}{If I be dying, then I be dying like true warrior.}
+{100}{}{À medida que seus olhos se ajustam à escuridão da caverna, você vê o que parece ser o resultado de um desmoronamento. Um guerreiro indefeso está deitado no chão, lutando para desalojar sua perna de uma grande rocha enquanto um gecko dourado avança em sua direção. O corpo de outro guerreiro jaz imóvel próximo a ele.}
+{101}{}{Corra para tentar salvar o tribal.}
+{102}{}{Fique aí e observe o que acontece.}
+{200}{}{Se estou morrendo, então vou morrer como um verdadeiro guerreiro.}
 {201}{}{Ahh!}

@@ -7,8 +7,8 @@
 {122}{}{Deerk deegler!}
 {123}{}{Você quem?}
 {124}{}{Marcus tem feito algumas perguntas sobre você.}
-{125}{}{Há provas suficientes para te prender por ter roubado dinheiro que deveria ter ido para Broken Hills. Você não sai daqui.}
-{126}{}{Há provas suficientes para te prender por ter roubado o dinheiro que deveria ter ido para Broken Hills. Me dê $1000 e eu farei com que você consiga sair da cidade.}
+{125}{}{Há provas suficientes para prendê-lo por roubar dinheiro que deveria ir para Broken Hills. Você vai se ferrar.}
+{126}{}{Há provas suficientes para te prender por roubar dinheiro que deveria ir para Broken Hills. Me pague US$ 1.000 e garanto que você pode fugir da cidade.}
 {127}{}{Quem é você?}
 {128}{}{Conte-me sobre este lugar.}
 {129}{}{Nada. Tchau.}

@@ -139,8 +139,8 @@
  Você se importa de explicar sua teoria?}
 {213}{}{Bem, você sabe que a química viciante do Jet provavelmente é a mais difícil de abalar, então eu pensei
  que se nós introduzíssimos bloqueadores de endorfina no corpo nós poderíamos...}
-{215}{}{I'm... speechless. That's simply the most brilliant solution I have ever heard. I've been
- experimenting with methods of curing Jet addiction for months, and came up with nothing.}
+{215}{}{Estou... sem palavras. Essa é simplesmente a solução mais brilhante que já ouvi. Eu
+ tenho experimentado métodos para curar o vício em jet por meses e não encontrei nada.}
 {216}{}{Você também andou trabalhando num antídoto?}
 {217}{}{Sim, por isso precisava de uma amostra de Jet.}
 {218}{}{Sim... e sem sucesso.}
@@ -245,7 +245,7 @@
 {303}{}{Eu fui envenenado.}
 {304}{}{Eu fui irradiado.}
 {305}{}{Eu vim buscar meu dinheiro. Já está com ele?}
-{306}{}{I'm here to remind you that the first is coming up, and you better have my money.}
+{306}{}{Estou aqui para lembrá-lo de que estamos no primeiro dia e é melhor você ficar com o meu dinheiro.}
 {307}{}{Nada... por hoje.}
 {308}{}{Eu não esqueci. Aqui está. Agora saia.}
 {309}{}{Espere... eu quero me curar também.}
@@ -266,7 +266,7 @@
  Chantagear alguém, então colocar sua vida nas mão da pessoa? Simplesmente fantástico. Adeus... e boa viagem.}
 {323}{}{Agora eu tenho que recarregar o jogo! Que cu! Eu te pego no meu próximo "jogo salvo".}
 {324}{}{E quanto ao seu Juramento de Hipócrates?! Ei! Eu...}
-{325}{}{I'll haunt you from the grave. I swear it.}
+{325}{}{Eu vou assombrá-lo da sepultura. Eu juro.}
 {326}{}{Como você conseguiu entrar aqui? Você deve sair. Espere um momento enquanto eu chamo alguns
  guardas para te escoltar.}
 {327}{}{MIM NÃO IR!}
@@ -356,4 +356,4 @@
 {396}{}{Ótimo. Até mais.}
 {397}{}{Guardas!}
 {398}{}{Zzzzzzz.}
-{399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}
+{399}{}{Você explica ao Dr. Troy sobre o processo de fabricação do jet.}

@@ -132,7 +132,7 @@
 {474}{}{Muito caro para o que eu tenho. Nos falamos quando eu tiver mais algum dinheiro.}
 {480}{}{(Sorri, esfrega as mãos quando você coloca o dinheiro na mesa.) Certo, aqui está. Algo mais? }
 {481}{}{(Pensa sobre isso por um momento, te olha, então acena com a cabeça.) Tudo bem então... Vou te deixar quase
- de graça, aqui está. (Entrega o módulo, pega seu dinheiro.)}
+ de graça, aqui está. (Entrega o módulo, pega seu dinheiro.) }
 {482}{}{Mais alguma coisa?}
 {485}{}{Sim, eu estava interessado em outra coisa...}
 {486}{}{Nada mais hoje, obrigado.}
@@ -177,7 +177,7 @@
 {610}{}{Então sugiro que dê o fora daqui antes que eu te mate com um tiro.}
 {700}{}{Ô cachorrada do caralho! Vou voltar para a cama.}
 {701}{}{Cachorros idiotas! Vou colocar todos vocês para dormir amanhã cedo.}
-{702}{}{Vocês, cães, calam a boca! Ninguém é retardado o suficiente para invadir uma loja de armas!}
+{702}{}{Vocês, cães, calem a boca! Ninguém é estúpido o suficiente para invadir uma loja de armas!}
 {800}{}{Você entregou uma pistola a laser para Eldridge.}
 {801}{}{Ei, eu tenho cara de mágico? Você vai precisar da arma se quiser melhorar. Agora saia daqui e vá encontrar uma que eu possa trabalhar... Deus!}
 {802}{}{Volte quando tiver o dinheiro.}

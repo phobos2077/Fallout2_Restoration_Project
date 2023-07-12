@@ -473,7 +473,7 @@
 {2160}{}{Não sou tão ruim, sou?}
 {2161}{}{Eu vi mais Brahmin mais esperto que você}
 {2162}{}{Ufa!}
-{2163}{}{Eu nao sou uma presa facil.}
+{2163}{}{Eu não sou uma presa fácil.}
 {2164}{}{Graças a Deus!}
 {2165}{}{Errou!}
 {2200}{}{Não vale a pena!}

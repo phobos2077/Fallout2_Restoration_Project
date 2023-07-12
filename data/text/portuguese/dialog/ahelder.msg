@@ -52,8 +52,8 @@ GECK ou o nosso povo vai morrer!}
 {146}{aeld11}{Klamath é para o leste.}
 {147}{}{Há outras coisas que eu poderia aprender.}
 {148}{}{Eu estou pronto. Adeus.}
-{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault sabia. Seus contos falam de
- uma perigosa jornada. }
+{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault sabia. Seus
+ contos falam de uma perigosa jornada.}
 {150}{}{Eu vejo. Há muito que eu preciso saber.}
 {151}{}{Adeus, Ancião.}
 {152}{aeld13}{Ser um covarde nos matará a todos! Incluindo você. Você passou

@@ -1,82 +1,82 @@
 {100}{}{Você vê um barman.}
-{101}{}{You see a tall man in an elegant suit. He is staring straight ahead and paying no attention to the patrons around him.}
+{101}{}{Você vê um homem alto em um terno elegante. Ele está olhando para a frente e não presta atenção aos clientes ao seu redor.}
 {102}{}{Você vê um barman.}
-{103}{}{This man looks stone-faced. If he notices you, he shows no sign.}
-{104}{}{Care for a drink, hero?}
-{105}{}{Welcome, hero. Please, take a seat in the bar.}
-{106}{}{Please! Take a seat, rest for a while!}
+{103}{}{Este homem parece impassível. Se ele te nota, não dá nenhum sinal.}
+{104}{}{Quer uma bebida, herói?}
+{105}{}{Bem-vindo, herói. Por favor, sente-se no bar.}
+{106}{}{Por favor! Sente-se, descanse um pouco!}
 {107}{}{Bom dia, Capitão.}
 {108}{}{Vault City prevails, Capitão.}
 {109}{}{Bom dia, Citizen.}
 {110}{}{Vault City prevails, Citizen.}
 {111}{}{Um mutante! Guardas! Guardas!}
 {112}{}{Um ghoul! Guardas! Guardas!}
-{113}{}{I'm sorry, but the bar is closed for the evening.}
-{114}{}{The bar is closed. I'll be returning home once I finish this inventory list.}
-{115}{}{Don't you have homes to go to?}
-{116}{}{Welcome! We've all heard about your exploits against the Enclave. Can I get you something to drink?}
+{113}{}{Lamento, mas o bar está fechado à noite.}
+{114}{}{O bar está fechado. Voltarei para casa assim que terminar esta lista de inventário.}
+{115}{}{Você não tem alguma casa para ir?}
+{116}{}{Bem-vindo! Todos nós já ouvimos sobre suas façanhas contra a Enclave. Posso pegar algo para você beber?}
 {117}{}{Awnt-awnt}
 {118}{}{Desliga}
 {119}{}{O que você tem aí?}
-{120}{}{I was looking for some information.}
+{120}{}{Estava procurando algumas informações.}
 {121}{}{Nada por hoje, valeu.}
-{122}{}{Heh-heh, "awnt-awnt" to you, too. Please be careful out in the wastes.}
+{122}{}{Heh-heh, "awnt-awnt" para você também. Por favor, tenha cuidado no deserto.}
 {123}{}{Oonnt-oooont!}
 {124}{}{Desliga}
-{125}{}{What can I do for you, Captain?}
-{126}{}{What can I do for you, Citizen?}
-{127}{}{Yes? Can I help you?}
+{125}{}{O que posso fazer por você, capitão?}
+{126}{}{O que posso fazer por você, Cidadão?}
+{127}{}{Sim? Posso ajudar?}
 {128}{}{Awnt-awnt}
 {129}{}{Desliga}
 {130}{}{O que você tem aí?}
-{131}{}{I was looking for some information.}
+{131}{}{Estava procurando algumas informações.}
 {132}{}{Nada por hoje, valeu.}
-{133}{}{Yes, "awnt-awnt" to you, too. Hold on a moment while I summon the guards to "awnt-awnt" you to the front gate.}
-{134}{}{Urnt? Urnt-urnt.}
+{133}{}{Sim, "awnt-awnt" para você também. Espere um momento enquanto eu chamo os guardas para "awnt-awnt" com você no portão da frente.}
+{134}{}{Urnt? Batata.}
 {135}{}{Desliga}
-{136}{}{"On tap?" How... quaint.}
-{137}{}{We have mineral water, distilled water, and sparkling water. We also have several synthesized alcohols.}
-{138}{}{Um... what synthesized alcohols do you have?}
-{139}{}{Uh, do you have any real drinks?}
-{140}{}{Some water would be great.}
-{141}{}{Never mind. I was looking for some information.}
+{136}{}{"Na torneira?" Que pitoresco.}
+{137}{}{Temos água mineral, água destilada e água com gás. Também temos vários álcoois sintetizados.}
+{138}{}{Hum... que tipo de álcool sintetizado você tem?}
+{139}{}{Uh, você tem alguma bebida real?}
+{140}{}{Um pouco de água seria ótimo.}
+{141}{}{Deixa para lá. Eu estava procurando algumas informações.}
 {142}{}{Nada por hoje, valeu.}
-{143}{}{Very good, sir.}
-{144}{}{Very good, ma'am.}
-{145}{}{Which would you like? Mineral? Distilled? Or Sparkling? Each is modestly priced at five dollars a glass.}
-{146}{}{Mineral, please.}
-{147}{}{I'll try some of that distilled water.}
-{148}{}{Set me up with some of that sparkling water.}
-{149}{}{What synthesized alcohols do you have?}
-{150}{}{Never mind. I was looking for some information.}
-{151}{}{That's a little steep for me. I'll come back when I have more money.}
-{152}{}{I think I'll pass, thanks.}
-{153}{}{We have synthetic derivatives H and T, and we recently brewed an extremely popular mixture, "Alcohol-Z," which has a rich pseudo micro-brewery flavor. Each is modestly priced at twenty dollars a glass.}
-{154}{}{How do you manufacture these synthesized alcohols?}
-{155}{}{Uh, do you have any real drinks?}
-{156}{}{I'll just have some water, I think.}
-{157}{}{Hmmm. I'll try some of that delicious alcohol-Z.}
-{158}{}{Nevermind. I was looking for some information.}
-{159}{}{That's a little steep. I'll come back when I have more money.}
+{143}{}{Muito bem, senhor.}
+{144}{}{Muito bem, senhora.}
+{145}{}{Qual você gostaria? Mineral? Destilada? Ou Espumante? Cada um custa modestamente cinco dólares o copo.}
+{146}{}{Mineral, por favor.}
+{147}{}{Vou pegar um pouco dessa água destilada.}
+{148}{}{Pode me dar um pouco dessa água com gás.}
+{149}{}{Quais tipos de álcool sintetizado você tem?}
+{150}{}{Deixa para lá. Eu estava procurando algumas informações.}
+{151}{}{Isso é um pouco caro para mim. Voltarei quando tiver mais dinheiro.}
+{152}{}{Acho que vou passar, obrigado.}
+{153}{}{Temos derivados sintéticos H e T, e recentemente fabricamos uma mistura extremamente popular, "Alcohol-Z", que tem um rico sabor de pseudo micro-cervejaria. Cada um custa modestos vinte dólares o copo.}
+{154}{}{Como você fabrica esses álcoois sintetizados?}
+{155}{}{Uh, você tem alguma bebida real?}
+{156}{}{Acho que só vou tomar um pouco de água.}
+{157}{}{Hmmm. Vou experimentar um pouco desse delicioso álcool-Z.}
+{158}{}{Deixa quieto. Eu estava procurando algumas informações.}
+{159}{}{Isso é meio caro pra mim. Voltarei quando tiver mais dinheiro.}
 {160}{}{Nada por hoje, valeu.}
-{161}{}{Would you care for anything else?}
-{162}{}{I'd like some more water, thanks.}
-{163}{}{What synthesized alcohols do you have?}
-{164}{}{Never mind. I was looking for some information.}
+{161}{}{Você gostaria de mais alguma coisa?}
+{162}{}{Eu gostaria de um pouco mais de água, obrigado.}
+{163}{}{Quais tipos de álcool sintetizado você tem?}
+{164}{}{Deixa para lá. Eu estava procurando algumas informações.}
 {165}{}{Nada por hoje, valeu.}
-{166}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
-{167}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
-{168}{}{Would you care for anything else?}
-{169}{}{I don't feel so good... I'm just going to pop out of dialogue for a second and check my max hit points.}
-{170}{}{No, no, I feel great! I'm just going to pop out of dialogue for a second and check my max hit points.}
-{171}{}{I'll just have some water, I think.}
-{172}{}{I'll have some more delicious alcohol-Z.}
-{173}{}{How do you manufacture these synthesized alcohols?}
-{174}{}{Actually, I was looking for some information.}
+{166}{}{Você está bem, senhor? Beber todo aquele "álcool-Z" parece ter causado algum tipo de efeito em você. Tem certeza que quer mais?}
+{167}{}{Você está bem, senhor? Beber todo aquele "álcool-Z" parece ter causado algum tipo de efeito em você. Tem certeza que quer mais?}
+{168}{}{Você gostaria de mais alguma coisa?}
+{169}{}{Não me sinto muito bem... Vou só sair do diálogo rapidão e dar uma olhada no meu HP máximo.}
+{170}{}{Não, não, eu me sinto ótimo! Vou dar uma saída do diálogo rapidão e ver com está meu HP máximo.}
+{171}{}{Acho que só vou tomar um pouco de água.}
+{172}{}{Vou querer mais um delicioso álcool-Z.}
+{173}{}{Como você fabrica esses álcoois sintetizados?}
+{174}{}{Na verdade, eu estava procurando algumas informações.}
 {175}{}{Nada mais por hoje, valeu.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
+{176}{}{Os Auto-Docs dentro de Vault City podem preparar substitutos sintéticos para substâncias viciantes. Pelo que entendi, esses sintéticos eram usados como placebos para viciados em drogas antes da guerra.}
 {177}{}{Você parece saber muito sobre esses sintéticos.}
-{178}{}{Uh, do you have any real drinks?}
+{178}{}{Uh, você tem alguma bebida real?}
 {179}{}{Oh. Bem, eu só gostaria de um pouco de água então.}
 {180}{}{Hmmm. Vou experimentar um pouco desse álcool-Z.}
 {181}{}{Interessante. Olha, eu estava procurando algumas informações...}
@@ -97,12 +97,12 @@
 {196}{}{Oh não. "Jargão" refere-se a linguagem, terminologia, geralmente relacionada a uma determinada profissão.}
 {197}{}{Uh, claro que sim, claro que sim. Estava só te testando. Olha, eu estava procurando algumas informações...}
 {198}{}{Se você diz. Avise esse jargão que falarei com ele, certo? Adeus.}
-{199}{}{If you mean what passes for alcohol in the wastes, then no.}
-{200}{}{We have never felt the need to poison our systems with those bacterial-ridden mixtures. The bar in the Courtyard might be less... discriminating.}
-{201}{}{I'll just have some water, then.}
-{202}{}{Wait a minute. What 'synthesized drinks' do you have?}
-{203}{}{I was looking for some information.}
-{204}{}{I'll go check it out then, thanks.}
+{199}{}{Se você quer dizer o que passa por álcool no deserto, então não.}
+{200}{}{Nunca sentimos a necessidade de envenenar nossos sistemas com essas misturas cheias de bactérias. O bar no Pátio podia ser menos... discriminador.}
+{201}{}{Vou só tomar um pouco de água, então.}
+{202}{}{Espere um minuto. Que 'bebidas sintetizadas' você tem?}
+{203}{}{Estava procurando algumas informações.}
+{204}{}{Vou verificar então, obrigado.}
 {205}{}{Talvez eu vá para outro lugar, então.}
 {206}{}{Então talvez você devesse estar em nosso centro de informações em vez deste estabelecimento, ele está localizado no centro da cidade. Agora vá em frente... Tenho outros clientes.}
 {207}{}{Espere, eu queria uma bebida. O que você tem na torneira?}

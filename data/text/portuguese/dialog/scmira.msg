@@ -1,5 +1,5 @@
-{100}{}{You'd guess that even with the green hair and the scowl, she's the bartender of this joint.}
-{101}{}{That's Mira. She mixes a mean Rad-A-Waster.}
+{100}{}{Você acha que, mesmo com cabelo verde e carrancuda, ela é a garçonete deste lugar.}
+{101}{}{Essa é Mira. Ela está misturado um Rad-A-Waster.}
 {102}{}{Bem, ela é jovem e atraente, mas há algo em olhar em seus olhos diz que ela não aceita nada de ninguém. O olhar e os nós dos dedos pontiagudos que ela usa em uma corrente em volta do pescoço.}
 {103}{}{me chamo Mira. O que você quer, estranho?}
 {104}{}{Olá de novo. O que vai ser?}
@@ -52,7 +52,7 @@
 {151}{}{Hmm.}
 {152}{}{Mais algumas perguntas...}
 {153}{}{Bem, obrigado. Vou me lembrar disso.}
-{154}{}{Ya another one them whackos looking for lost treasure? Ya ought to go see Saltbeef Bob over at Westin's Ranch. He's always talking about treasure. Ya may have to wet his whistle though.}
+{154}{}{Você é outro daqueles malucos procurando um tesouro perdido? Você deveria ir ver Bob Carne Seca no Rancho Westin. Ele está sempre falando sobre tesouros. Se bem que suportar suas histórias sóbrio é bem difícil.}
 {155}{}{Batata? Eu vou.}
 {156}{}{Mais algumas perguntas...}
 {157}{}{Bem, obrigado. Vou me lembrar disso.}
@@ -99,6 +99,6 @@
 {198}{}{Você fez o que? Ah, se eu não estivesse de plantão, eu fecharia esse bar e... bom, te beijaria. Esse idiota mereceu. Na verdade, não conte a ninguém, mas eu esperava conseguir algum capanga estúpido para fazer o trabalho para mim. Tinha uma pequena recompensa reservada para isso, é sua agora. No que me diz respeito, você merece.}
 {199}{}{Obrigado, eu acho. Diga, tem tempo para uma pergunta?}
 {200}{}{Obrigado. Achei que você deveria saber.}
-{201}{}{Dumbo, you've made me the happiest woman around! I got a little present for you, right here behind the bar. It's all yours.}
-{202}{}{Me like Mira.}
-{203}{}{Me like gun. Me go bye bye.}
+{201}{}{Dumbo, você me fez a mulher mais feliz que existe! Tenho um presentinho para você, bem aqui atrás do bar. É todo seu.}
+{202}{}{Eu gosto Mira.}
+{203}{}{Eu gosto arma. Eu vou, tchau.}

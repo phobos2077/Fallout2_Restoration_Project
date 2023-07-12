@@ -1,53 +1,53 @@
 {100}{}{}
 {101}{}{Você vê um membro da tribo.}
-{102}{}{You see Marli.}
-{103}{}{You see a warrior with a scowl on his face.}
-{110}{}{Be gone. I'm seeking council with the spirits and they don't like you, outworlder. If you must speak to me, do it another time.}
-{111}{}{No need to be so rude. Bye.}
-{112}{}{Hmph. I didn't ask for your help, outworlder. I could have taken care of the well myself.}
-{113}{}{Right. No thanks required.}
-{114}{}{Whatever. Way to be ungrateful.}
+{102}{}{Você vê Marli.}
+{103}{}{Você vê um guerreiro com um rosto carrancudo.}
+{110}{}{Vá embora. Estou buscando conselho com os espíritos e eles não gostam de você, forasteiro. Se você deve falar comigo, faça isso em outra hora.}
+{111}{}{Não há necessidade de ser tão rude. Tchau.}
+{112}{}{Hmph. Não me peça sua ajuda, forasteiro. Eu poderia ter cuidado disso sozinho.}
+{113}{}{Certo. Não é necessário, obrigado.}
+{114}{}{Tanto faz. Que maneira de ser ingrato.}
 {120}{}{O que você quer?}
-{121}{}{I see you're having some trouble with that well. What's wrong, exactly?}
-{130}{}{What's wrong? I dropped the rope, that's what's wrong. [He shifts uncomfortably.] I was fastening a new rope to the well and then I looked up and saw this fine young maiden stretching in the sunlight. Spirits of lust distracted me and the rope slipped from my hands and... What's it to you anyway, outworlder? Unless you got a new rope for me, you be wasting my time.}
-{131}{}{I don't have a rope on me, but I'll see if I can come up with one. I'll get back to you.}
-{132}{}{As a matter of fact, I do. I'll see if I can fix that well for you.}
-{133}{}{Nope, I'm afraid you're just going to have to admit to the others what happened. Try to keep your spirits of lust under control next time. Bye.}
-{140}{}{So is the well fixed yet, or what?}
-{141}{}{No, not yet I'm afraid.}
-{142}{}{Does it look fixed to you? You're standing right next to the fucking thing. Jerk.}
-{150}{}{So, have you fixed up the well yet?}
-{151}{}{Sure, I got the rope in place now. See?}
-{160}{}{[He glances at the well, then snickers.] What good is a rope if you don't have a bucket attached? Or do you outworlders drink by licking water off a wet rope? [He shakes his head and mutters something under his breath.] Just attach the bucket, and I'll see that you be gettin' a reward.}
+{121}{}{Vejo que está tendo problemas com esse poço. O que há de errado, exatamente?}
+{130}{}{O que está errado? Deixei cair a corda, é isso que está errado. [Ele se mexe desconfortavelmente.] Eu estava prendendo uma nova corda no poço e então olhei para cima e vi esta bela jovem se espreguiçando ao sol. Espíritos da luxúria me distraíram e a corda escorregou de minhas mãos e... O que você tem com isso, forasteiro? A menos que você tenha uma corda nova para mim, você está me fazendo perder tempo.}
+{131}{}{Não tenho uma corda comigo, mas vou ver se consigo uma. Eu voltarei aqui.}
+{132}{}{Mas eu posso fazer isso. Vou ver se consigo consertar esse poço para você.}
+{133}{}{Não, receio que você terá que contar aos outros o que aconteceu. Tente manter seu espírito de luxúria controlado da próxima vez. Tchau.}
+{140}{}{Então, o poço já está consertado ou o quê?}
+{141}{}{Não, não estou com medo.}
+{142}{}{Está olhando o que? Você está parado ao lado dessa porra, idiota.}
+{150}{}{Então, você já consertou o poço?}
+{151}{}{Claro, coloquei a corda no lugar agora. Viu?}
+{160}{}{[Ele olha para o poço, então ri.] De que adianta uma corda se você não tem um balde preso? Ou vocês, forasteiros, bebem água lambendo de uma corda molhada? [Ele balança a cabeça e murmura algo baixinho.] Só prenda o balde e eu te asseguro que você receba uma recompensa.}
 {161}{}{Certo.}
-{162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
-{170}{}{Did you attach the bucket?}
+{162}{}{Que tal *você* recolocar o balde, e eu vejo se consigo me conter para não bater no seu cu.}
+{170}{}{Você prendeu o balde?}
 {171}{}{Não, ainda não.}
-{172}{}{Does it *look* like I attached the bucket?}
-{180}{}{So the well is fixed, yes? With the bucket attached and everything?}
-{181}{}{Yes, it's all done.}
+{172}{}{*Parece* que prendi o balde?}
+{180}{}{Então o poço está consertado? Com o balde preso e tudo?}
+{181}{}{Sim, está tudo feito.}
 {182}{}{...}
-{190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
+{190}{}{[O canto de sua boca se contrai em uma sugestão de sorriso.] Ah, suponho que vocês, forasteiros, não sejam de todo ruins, afinal. Aqui, pegue esse dinheiro. Os espíritos me dizem que você está precisando disso mais do que eu.}
 {191}{}{Obrigado.}
-{200}{}{May your ancestors guide you well.}
+{200}{}{Que seus ancestrais o guiem bem.}
 {201}{}{Obrigado por sua ajuda.}
-{202}{}{Nice to be seeing you again.}
-{210}{}{You won't take us alive, slaver!}
-{300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}
+{202}{}{Prazer em vê-lo novamente.}
+{210}{}{Você não vai nos pegar vivos, escravista!}
+{300}{}{Tudo bem, acalme seus espíritos de raiva. Vou fazer isso sozinho. [Ele resmunga.] Forasteiro louco...}
 {301}{}{[FEITO]}
-{310}{}{[He narrows his eyes at you, then glances at the well.] No.}
-{311}{}{Then no, I guess I didn't attach it yet.}
-{320}{}{Hey, did you hear me? I asked if the well be fixed yet.}
-{321}{}{... [You sigh, then point at the well.]}
-{330}{}{[He turns and looks at the well, then turns back to you.] Yeah, looks right an' proper now. Why not just say so? Here, take this money. The spirits tell me you be needing this more than I.}
-{331}{}{... [You take the money and walk away.]}
-{400}{}{[As you're about to walk away, Marli looks at you closely and his eyes light up.] Ah! I see you have sub-machine gun. [He gazes longingly at the weapon.] We had one once, but Sulik always be hogging it. Got lost in a battle. Such a pity. My magic would be fearsome strong if I had a soul-taker such as that.}
-{401}{}{If you want this one, you can have it. I'm sure I'll find another. [Hand Marli the SMG.]}
-{402}{}{Just take it. I don't even want it after the eye raping you're giving it. [Hand Marli the SMG.]}
-{403}{}{Yeah, I bet. Anyway, me and my soul-taker are going elsewhere now.}
-{404}{}{You keep your magic to yourself, pal. Bye.}
-{410}{}{[He grins like a maniac as he looks over the weapon.] Oh, you be a good friend to Marli, outworlder. Here, was saving this sweet bubble-water, but I think you should be having it. [He hands you a Nuka-Cola.] Now I be off to spit fiery death at some geckos. [He runs off to the hunting grounds.]}
-{411}{}{My magic be fearsome now!}
-{1000}{}{You fix the Tribe's well.}
-{2000}{}{Sorry if I was a jerk to you, hero.}
-{2001}{}{Sorry, I lost your sub-machine gun. That gecko be a fierce one.}
+{310}{}{[Ele estreita os olhos para você, então olha para o poço.] Não.}
+{311}{}{Então não, acho que ainda não o conectei.}
+{320}{}{Ei, você me ouviu? Eu perguntei se o poço já esta consertado.}
+{321}{}{... [Você suspira, então aponta para o poço.]}
+{330}{}{[Ele se vira e olha para o poço, então se volta para você.] Sim, parece certo agora. Por que não diz logo? Aqui, pegue esse dinheiro. Os espíritos me dizem que você está precisando disso mais do que eu.}
+{331}{}{... [Você pega o dinheiro e vai embora.]}
+{400}{}{[Quando você está indo embora, Marli olha para você de perto e seus olhos brilham.] Ah! Vejo que você tem um submetralhadora. [Ele olha ansiosamente para a arma.] Nós tivemos uma vez, mas Sulik sempre está monopolizando ela. Se perdeu em uma batalha, uma pena. Minha magia seria terrivelmente forte, se eu tivesse um caçador de almas assim.}
+{401}{}{Se você quiser essa, pode ficar. Tenho certeza de que encontrarei outra. [Entregue a Marli a SMG.]}
+{402}{}{Pegue logo. Nem quero mais depois de você me estuprar pelos olhos. [Entrega Marli a SMG.]}
+{403}{}{Sim, aposto que sim. Bom, eu e meu caçador de almas estamos indo para outro lugar agora.}
+{404}{}{Mantenha sua magia para si mesmo, amigo. Tchau.}
+{410}{}{[Ele sorri como um maníaco enquanto olha para a arma.] Oh, você é um bom amigo de Marli, forasteiro. Aqui, estava guardando esta doce bolha de água, mas acho que você deveria ficar com ela. [Ele te entrega uma Nuka-Cola.] Agora vou cuspir fogo mortal em alguns geckos. [Ele corre para o campo de caça.]}
+{411}{}{Minha magia é assustadora agora!}
+{1000}{}{Você conserta o poço da Tribo.}
+{2000}{}{Desculpe se fui um idiota com você, herói.}
+{2001}{}{Desculpe, perdi sua metralhadora. Esse gecko é feroz.}

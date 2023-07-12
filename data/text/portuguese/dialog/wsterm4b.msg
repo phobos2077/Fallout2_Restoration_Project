@@ -35,14 +35,14 @@
 {129}{}{Selecione Orgão}
 {130}{}{Prossiga com a extração.}
 {131}{}{Sair.}
-{132}{}{The dial has the following organs listed:
-                          Heart
-                                                                  Brain
-                                                                    Kidney
-                                                                  Liver
-                                                                 Lung
-                                                                 Appendix
-                                                              Colon (Scratched in)}
+{132}{}{O mostrador possui os seguintes órgãos listados:
+                                    Coração
+                                                                               Cérebro
+                                                                                  Rim
+                                                                              Fígado
+                                                                            Pulmão
+                                                                            Apêndice
+                                                                        Dois pontos (riscados)}
 {133}{}{}
 {134}{}{}
 {135}{}{}
@@ -50,32 +50,32 @@
 {137}{}{}
 {138}{}{}
 {139}{}{}
-{140}{}{Select Heart}
-{141}{}{Select Brain}
-{142}{}{Select Kidney}
-{143}{}{Select Liver}
-{144}{}{Select Lung}
-{145}{}{Select Appendix}
-{146}{}{Select Colon}
+{140}{}{Selecionar Coração}
+{141}{}{Selecionar Cérebro}
+{142}{}{Selecionar Rim}
+{143}{}{Selecionar Fígado}
+{144}{}{Selecionar Pulmão}
+{145}{}{Selecionar Apêndice}
+{146}{}{Selecionar Cólon}
 {147}{}{Sair.}
-{148}{}{Donor subject is not present in extraction room.}
-{149}{}{Extraction failed.}
-{150}{}{Extraction completed.}
-{151}{}{Extraction completed.
-                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
+{148}{}{O doador não está presente na sala de extração.}
+{149}{}{A extração falhou.}
+{150}{}{Extração completa.}
+{151}{}{Extração concluída.
+                                                      Obrigado por usar a Vault-Tec. Consulte nosso catálogo para conhecer nossa linha completa de produtos Vault-Tec.}
 {152}{}{}
 {153}{}{Sair.}
-{154}{}{Extraction failed-- local sensor overload.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
-{170}{}{Human }
-{171}{}{Canine }
-{172}{}{Feline }
-{173}{}{Road Runner }
-{174}{}{Rodent }
-{175}{}{Mutant }
+{154}{}{Falha na extração -- sobrecarga do sensor local.}
+{155}{}{Falha na extração -- não foi possível inicializar o procedimento para a fisiologia do paciente.}
+{170}{}{Humano }
+{171}{}{Canino }
+{172}{}{Felino }
+{173}{}{Corredor de estrada }
+{174}{}{Roedor }
+{175}{}{Mutante }
 {176}{}{Deathclaw }
-{180}{}{Brain }
-{181}{}{Heart }
+{180}{}{Cérebro }
+{181}{}{Coração }
 {182}{}{Kidney }
 {183}{}{Fígado }
 {184}{}{Pulmão }

@@ -95,20 +95,20 @@
 {2200}{}{(Você pode ouvi-la rindo de você.)}
 {2201}{}{*Hehehe, por que você simplesmente não desiste, docinho.*}
 {2202}{}{*Talvez você devesse deixar outra pessoa puxar meu controle.*}
-{2203}{}{(A faint maniacal laugh emanates from the machine.)}
-{2204}{}{(You hear the slot machine laughing at you.)}
-{2205}{}{(The slot machine chuckles at you.)}
-{2206}{}{*Come on now loser, don't give up on me*}
-{2207}{}{*I got what I wanted from you baby. Why don't you give up?*}
-{2208}{}{*Trash!*}
-{2209}{}{*Don't let the casino door hit you in the ass on your way out.*}
-{2247}{}{*Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
-{2248}{}{*That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
-{2249}{}{*Come on, sugar... it happens to everyone at least once... try again... please...*}
-{2250}{}{*Please don't give up on me yet baby! I need you more now than ever!*}
-{2251}{}{*Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
-{2252}{}{*That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
-{2253}{}{*Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
+{2203}{}{(Uma leve risada maníaca emana da máquina.)}
+{2204}{}{(Você ouve a máquina caça-níqueis rindo de você.)}
+{2205}{}{(A máquina caça-níqueis ri de você.)}
+{2206}{}{*Venha agora, perdedor, não desista de mim*}
+{2207}{}{*Eu consegui o que queria de você, baby. Por que você não desiste?*}
+{2208}{}{*Lixo!*}
+{2209}{}{*Não deixe a porta do cassino bater em sua bunda ao sair.*}
+{2247}{}{*Aaaaaaahhh! É isso, docinho! Oh Deus, sim! Sim! Sim, de novo! Mais rápido! Mais forte! Tá esperando o que?! Mais!*}
+{2248}{}{*É isso, meu bem... puxa mais a alavanca... mais rápido, mais forte, mais rápido... vamos logo...*}
+{2249}{}{*Vamos, meu bem... acontece com todo mundo alguma vez... tente de novo... por favor...*}
+{2250}{}{*Por favor, não desista de mim, gracinha! Eu preciso de você mais do que nunca!*}
+{2251}{}{*Venha, meu bem... tente de novo... pegue maçaneta... agarre forte... venha agora...*}
+{2252}{}{*É isso, amor... puxa mais a manivela... mais rápido, mais forte, mais rápido... vamos, vai...*}
+{2253}{}{*Ennnnghhhh! É isso, gostosa! Quem é o papai?! Quem é seu paizinho?!! Vai de novo! Mais forte dessa vez! Mais forte!*}
 {2280}{}{(Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas. Quando você olha pra ele. uma das três janelas pisca pra você. Do buraco de moedas você ouve uma voz suave) *Oláaaaaa, docinho. Quer mostrar pra uma garota quem é que manda?*}
 {2281}{}{(Você vê um caça-níquel. Ele é forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e você sente suas coxas queimarem de expectativa. Quando você olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tão linda como você por aqui, senhorita. Está procurando por um bom tratamento?*}
 {2282}{}{::Envermelhar-se de vergonha::}
@@ -142,13 +142,13 @@
 {2383}{}{Ô vô ficar bem... 'cê foi legal em cunversá cumigo, caça-nico, ô te amo}
 {2400}{}{*Você é a única heroína que temos neste mundo de dois bits de desgraçados e ladrões! Cuide-se agora, ouviu, querida?* (Vira-se.) *É melhor você ir antes que eu comece a agir de forma pouco masculina.*}
 {2401}{}{(Uma lágrima parece se formar em uma das janelas). }
-{2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You... you... take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
+{2402}{}{*Você é o único herói que temos neste mundo de dois bits de vagabundos e bandidos! Você... você... cuide-se agora, ouviu, docinho?* (Vira-se.) *É melhor você ir antes que eu comece a chorar.*}
 {2403}{}{Shaaauuuu}
-{3000}{}{C'mon, }
-{3001}{}{! Baby needs a new pair of shoes!}
-{3002}{}{! Daddy needs a new plasma rifle!}
-{4000}{}{There seems to be someone blocking the machine.}
-{5000}{}{Jinx the machine into giving you all its money.}
+{3000}{}{Vamos, }
+{3001}{}{! Esse bebê precisa de um novo par de sapatos!}
+{3002}{}{! Papai precisa de um novo rifle de plasma!}
+{4000}{}{Parece haver alguém bloqueando a máquina.}
+{5000}{}{Jinx, a máquina, te entrega todo seu dinheiro.}
 {5001}{}{A máquina parece congelar e então você ouve um leve estrondo quando uma avalanche de moedas começa a cair
  do dispensador.}
 {5002}{}{[Recolhe o dinheiro e vá embora.]}

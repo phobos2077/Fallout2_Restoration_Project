@@ -22,7 +22,7 @@
 {122}{}{Posso ajudá-lo, Capitão?}
 {123}{}{Posso ajudá-lo, Cidadão?}
 {124}{}{Sim, o que é?}
-{125}{}{Ieu poss ajuuudar oceeee}
+{125}{}{Ieu poss ajuuudar ocêeee}
 {126}{}{Desliga}
 {127}{}{O que é este lugar?}
 {128}{}{Posso ver o que você tem no estoque?}

@@ -1,2 +1,2 @@
-{100}{}{As you enter a wooded area, you're hit with the stench of the unwashed slaves living in a filthy pen to the west. Up ahead is a house with several armed slavers milling about.}
-{200}{}{You wiped out the slaver camp.}
+{100}{}{Ao entrar em uma área arborizada, você é atingido pelo fedor dos escravos sujos que vivem em um cercado imundo a oeste. À frente está uma casa com vários escravistas armados circulando.}
+{200}{}{Você limpou o acampamento dos escravistas.}

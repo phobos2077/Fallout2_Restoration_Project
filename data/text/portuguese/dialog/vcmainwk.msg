@@ -1,26 +1,26 @@
-{100}{}{You see Val. Or Valerie. Or whatever.}
-{101}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like a mechanic.}
-{102}{}{You see Val. Or Valerie. Or whatever.}
-{103}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like a mechanic.}
-{104}{}{Oh, hello, "Dad."}
-{105}{}{1 Second}
-{106}{}{Valerie. Good to see you again.}
-{107}{}{Oh, uh, hi, Dad. It's good to see you. Really.}
-{108}{}{1 Second}
-{109}{}{Hello, Valerie. It's good to see you, too.}
-{110}{}{You better get that mutant out of here before the guards see it.}
-{111}{}{You better get that ghoul out of here before the guards see it.}
-{112}{}{Stupid metal bore's acting up again...}
-{113}{}{That metal lathe needs to be oiled again...}
-{114}{}{Need to make a list of those surplus parts for the First Citizen.}
-{115}{}{Work, you stupid piece of junk!}
-{116}{}{I'm surrounded by idiots...}
-{117}{}{If I just had the right tools!}
-{118}{}{I'm going to kill that bald-headed monkey in the Purchasing Office...}
+{100}{}{Você vê Val. Ou Valéria. Como queira.}
+{101}{}{Você vê uma mulher de cabelos castanhos vestida com uniforme marrom e armadura de metal. Ela parece uma mecânica.}
+{102}{}{Você vê Val. Ou Valéria. Como queira.}
+{103}{}{Você vê uma mulher de cabelos castanhos vestida com uniforme marrom e armadura de metal. Ela parece uma mecânica.}
+{104}{}{Oh, olá, "papai".}
+{105}{}{1 segundo}
+{106}{}{Valéria. Bom te ver de novo.}
+{107}{}{Oh. Oi, pai. É bom te ver, de verdade.}
+{108}{}{1 segundo}
+{109}{}{Olá, Valéria. É bom ver você também.}
+{110}{}{É melhor você tirar esse mutante daqui antes que os guardas o vejam.}
+{111}{}{É melhor você tirar esse ghoul daqui antes que os guardas o vejam.}
+{112}{}{Estúpida broca de metal ataca de novo...}
+{113}{}{Esse torno de metal precisa ser lubrificado novamente...}
+{114}{}{Preciso fazer uma lista dessas peças excedentes para a Primeira Cidadã.}
+{115}{}{Funciona, seu monte de lixo inútil!}
+{116}{}{Estou cercado de idiotas...}
+{117}{}{Se eu tivesse as ferramentas certas!}
+{118}{}{Eu vou matar aquele macaco careca no Escritório de Compras...}
 {119}{}{Está tarde, volte pela manhã.}
-{120}{}{Shop's closed. After I finish this list for the First Citizen, I'm heading home.}
-{121}{}{I'm busy. Come back in a day or so, and I should be finished.}
-{122}{}{I have a whole backlog of stuff that needs fixing. Come back in a day or two.}
+{120}{}{A loja está fechada. Depois de terminar esta lista para a Primeira Cidadã, vou para casa.}
+{121}{}{Estou ocupado. Volte em um dia ou dois, e devo terminar.}
+{122}{}{Tenho coisas amontoadas que precisam ser consertadas. Volte em um ou dois dias.}
 {123}{}{Bem, se não é o "chefe" do meu pai.}
 {124}{}{Sim?!}
 {125}{}{Você QUER alguma coisa, ou vai ficar aí parado olhando como um idiota?}
@@ -63,30 +63,30 @@
 {161}{}{O PROBLEMA é que não posso simplesmente sair e comprar alguns novos, tenho que requisitar em Vault City. Isso significa preencher cinco bilhões de listas, envia-las em triplicado e, então, ESPERAR.}
 {162}{}{Então por qu --?}
 {163}{}{Me desculpe --}
-{164}{}{Hell, I ordered a Super Snap-Off Tool Kit MONTHS ago, but just like always, it won't show until I don't need it anymore. It's a wonder things ever get done around here...}
-{165}{}{Maybe I could help you.}
-{166}{}{Oh. Well, sorry to hear it. I may be back.}
+{164}{}{Inferno, encomendei um kit de ferramentas Rodrigo Hilbert MESES atrás, mas, como sempre, não aparecerá até que eu não precise mais dele. É uma maravilha como as coisas são feitas por aqui...}
+{165}{}{Talvez eu possa ajudá-lo.}
+{166}{}{Oh. Bem, desculpe ouvir isso. Talvez eu volte.}
 {167}{}{Sim. Por quê?}
 {168}{}{Bem, eu tenho uma chave inglesa e um alicate aqui.}
-{169}{}{Maybe I could go find some and bring them back to you.}
+{169}{}{Talvez eu pudesse encontrar algumas e trazer para você.}
 {170}{}{Qual é o problema em conseguir mais ferramentas?}
-{171}{}{Oh. Well, thanks for the advice.}
-{172}{}{I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.}
-{173}{}{If I find a wrench and a pair of pliers, I'll bring them by.}
+{171}{}{Oh. Bem, obrigado pelo conselho.}
+{172}{}{Não vou pedir de joelhos, mas se você quiser, fique a vontade. O tempo é seu, não meu. Talvez eu consiga juntar um pouco para pagar pelo seu trabalho.}
+{173}{}{Se eu encontrar uma chave inglesa e um alicate, eu trarei.}
 {174}{}{Você aceita?}
-{175}{}{Yeah. Here you go.}
-{176}{}{Uh... thanks. I mean, they're not great, but they'll do. Where did you... oh, never mind. It's not important. Here's a few bucks for your trouble.}
-{177}{}{Thanks. Say, I had some questions...}
-{178}{}{Maybe you can use those tools to help fix that attitude of yours.}
+{175}{}{Sim, estão aqui.}
+{176}{}{Obrigado. Quero dizer, eles não são ótimos, mas servem. Onde você... oh, não importa, não é importante. Aqui estão alguns dólares pelo seu problema.}
+{177}{}{Obrigado. Olha, eu tenho algumas perguntas...}
+{178}{}{Talvez você possa usar essas ferramentas para ajudar a corrigir essa sua atitude.}
 {179}{}{Sem problemas. Foi um prazer ajudar.}
-{180}{}{Yeah, yeah... look, I have some work to do. Come back in a day or two, all right? I'll have
- time to chat then.}
+{180}{}{Sim, sim... olha, tenho trabalho a fazer. Volte em um ou dois dias, certo? Aí terei tempo
+ para conversar.}
 {181}{}{Até amanhã, então.}
 {182}{}{Tudo bem. Eu estarei de volta em um dia ou dois. Adeus.}
-{183}{}{You won't believe this. Not less than a DAY after you gave me those tools, that Super Tool Kit I ordered arrives. But not just one. They send me FIVE. What the hell is wrong with the ordering office?!}
-{184}{}{Could you part with one of those tool kits?}
-{185}{}{Why not?! What am I going to do with FIVE?! Take it! I swear that I'm going to beat the living tar out of the List Office for this.}
-{186}{}{Thanks. Say, I had some questions...}
+{183}{}{Você não vai acreditar nisso. Não menos de um DIA depois que você me deu essas ferramentas, chega aquele Super Kit de Ferramentas que encomendei. Mas não só um, eles me enviaram CINCO. Mas que diabo aconteceu de errado com o escritório de pedidos?!}
+{184}{}{Você poderia se desfazer de um desses conjuntos de ferramentas?}
+{185}{}{Por que não?! O que eu vou fazer com CINCO?! Pegue! Juro que vou dar uma surra nos caras do escritório de listas por isso.}
+{186}{}{Obrigado. Olha, eu tenho algumas perguntas...}
 {187}{}{Te agradeço. Vou usar bem esse kit.}
 {188}{}{Ah, eu vejo como é. Bem, o que é que você quer?}
 {189}{}{O que? Não tenho tempo para conversar o dia todo.}
@@ -94,52 +94,52 @@
 {191}{}{Você pode consertar alguma coisa minha?}
 {192}{}{O que tem a venda?}
 {193}{}{Qual é o problema com você e seu pai?}
-{194}{}{Never mind. I'll leave you to your work.}
-{195}{}{Nothing worth mentioning. He came here twenty years ago on one of his caravan trips, knocked up Mom and left. Until he stopped by, I hadn't seen him in about five years. No loss.}
-{196}{}{Sounds like you and him have some things to work out.}
-{197}{}{Oh. Well, uh, I had some other questions...}
-{198}{}{Never mind. I'll leave you to your work.}
-{199}{}{No, we don't. We've said all we need to say a long time ago. }
-{200}{}{Are you sure?}
+{194}{}{Deixa para lá. Vou te deixar com seu trabalho.}
+{195}{}{Nada que valha a pena mencionar. Ele veio aqui há vinte anos em uma de suas viagens de caravana, engravidou a mamãe e foi embora. Até que ele apareceu, eu não o via há cerca de cinco anos. Não perdi nada.}
+{196}{}{Parece que você e ele têm algumas coisas para resolver.}
+{197}{}{Oh. Bem, uh, eu tinha outras perguntas...}
+{198}{}{Deixa para lá. Vou te deixar com seu trabalho.}
+{199}{}{Não, nós não. Já dissemos tudo o que precisávamos há muito tempo. }
+{200}{}{Tem certeza?}
 {201}{}{Tudo bem, entao. Eu tinha outras perguntas...}
-{202}{}{I'll leave you to your work then.}
-{203}{}{Yes, I'm SURE. Well... except for the fact that I think he should lose some weight. He's got quite a spare tire going. And he should stop wandering all around the wastes selling junk to tribals. That's pretty much it.}
-{204}{}{Look, he was in a mess of trouble with slavers, and he's trying to make up for lost time now. But you're right, he could stand to lose some weight.}
-{205}{}{Oh, uh, okay. I had some other questions...}
-{206}{}{Never mind. I'll leave you to your work.}
-{207}{}{Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway.}
-{208}{}{Um... make sure he stays out of trouble, all right?}
-{209}{}{Great. Look, I had something else I wanted to ask you...}
-{210}{}{I'll do my best. I had something else I wanted to ask you...}
-{211}{}{That's all I ask. I'll leave you to your work.}
-{212}{}{I'll try. He seems to find it wherever we go. See you, Valerie.}
-{213}{}{Look, I don't have anything in "stock." This isn't a store. Most of the stuff I fix here ends up in the Amenities Office... it's out the door and to your left.}
-{214}{}{Like I said BEFORE, this isn't a store. Go to the Amenities Office if you want a gun. Come here if you want something repaired.}
-{215}{}{Oh. Well, can you repair anything of mine instead?}
+{202}{}{Vou te deixar com o seu trabalho então.}
+{203}{}{Sim, me ASSEGURO. Bem... exceto pelo fato de que acho que deveria perder algum peso. Tem uns pneuzinhos aparecendo. E ele deveria parar de correr pelo deserto vendendo lixo para os tribais. Basicamente isso.}
+{204}{}{Olha, ele estava em apuros com escravistas, e agora está tentando recuperar o tempo perdido. Mas você está certo, ele poderia perder algum peso.}
+{205}{}{Tudo bem. Eu tinha algumas outras perguntas...}
+{206}{}{Deixa para lá. Vou te deixar com seu trabalho.}
+{207}{}{Heh heh. Você tem um lado sarcástico, gosto disso. Quanto ao velho "pai"... bem... hmmm. Vou tentar ser um pouco mais civilizado. Por um tempo, em todo caso.}
+{208}{}{Hum... certifique-se de que ele fique longe de problemas, tudo bem?}
+{209}{}{Ótimo. Olha, eu tinha outra coisa que queria te perguntar...}
+{210}{}{Eu farei o meu melhor. Tinha outra coisa que eu queria te perguntar...}
+{211}{}{Isso é tudo que eu peço. Te deixarei com seu trabalho.}
+{212}{}{Vou tentar. Parece que eles estão em todos os lugares que vamos. Até mais, Valéria.}
+{213}{}{Olha, não tenho nada em "estoque", isso não é uma loja. A maioria das coisas que conserto aqui acabam no Escritório de Serviços... fica do lado de fora, à sua esquerda.}
+{214}{}{Como eu disse ANTES, isso não é uma loja. Vá para o Escritório de Serviços se quiser uma arma. Venha aqui se quiser consertar alguma coisa.}
+{215}{}{Oh. Bem, então você pode consertar alguma coisa minha?}
 {216}{}{Você pode consertar alguma coisa minha?}
-{217}{}{All right, all right. Goodbye.}
-{218}{}{Well... maybe. Let's see what you got.}
-{219}{}{Show her your pistols.}
-{220}{}{Show her your rifles.}
-{221}{}{Show her your general inventory.}
-{222}{}{Never mind. I wanted to know something else...}
+{217}{}{Tudo bem, tudo bem. Adeus.}
+{218}{}{Bem, talvez. Vamos ver o que você tem.}
+{219}{}{Você mostra suas pistolas.}
+{220}{}{Mostre seus rifles.}
+{221}{}{Mostra seu inventário geral.}
+{222}{}{Deixa para lá. Queria saber outra coisa...}
 {223}{}{Talvez alguma outra hora.}
-{224}{}{I could put a speed loader on that magnum of yours for $800.}
-{225}{}{Hmmmm. That Desert Eagle you have... I could give it an expanded magazine, if you want. That'll cost $1000.}
-{226}{}{Upgrade the magnum.}
-{227}{}{How about $650 for the magnum upgrade instead?}
-{228}{}{Upgrade the Desert Eagle.}
-{229}{}{How about $850 for the Desert Eagle?}
-{230}{}{Forget the pistols. Can you upgrade any of my other weapons?}
-{231}{}{I wanted to know something else...}
-{232}{}{I'll be back when I have some more cash.}
-{233}{}{Hmmm. Maybe some other time.}
-{234}{}{That assault rifle you got there... I can give it an expanded magazine for $1500.}
-{235}{}{Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.}
+{224}{}{Posso colocar um carregador rápido nessa sua magnum por $800.}
+{225}{}{Hmmmm. Aquela Desert Eagle que você tem... Posso colocar um pente expandido, se quiser. Isso custaria US$1.000.}
+{226}{}{Melhora a magnum.}
+{227}{}{Que tal $650 para melhorar a magnum?}
+{228}{}{Melhora a Desert Eagle.}
+{229}{}{Que tal $850 pela a Desert Eagle?}
+{230}{}{Esqueça as pistolas. Você pode melhorar alguma das minhas outras armas?}
+{231}{}{Eu queria saber outra coisa...}
+{232}{}{Voltarei quando tiver mais dinheiro.}
+{233}{}{Hmmm. Talvez outra hora.}
+{234}{}{Aquele fuzil de assalto que você tem aí... Posso dar a ele um pente expandido por $1.500.}
+{235}{}{Hmmmm. Eu tenho uma mira de visão noturna que posso colocar nessa FN FAL por $3.500.}
 {236}{}{Aumente o pente do rifle de assalto AK-112.}
-{237}{}{How about $1350 for upgrading the assault rifle?}
+{237}{}{Que tal $1350 para melhorar o rifle de assalto?}
 {238}{}{Instale essa visão noturna no FN FAL.}
-{239}{}{How about $3100 for the low-light scope?}
+{239}{}{Que tal $3100 pela mira de visão noturna?}
 {240}{}{Você poderia melhorar uma das minhas outras armas?}
 {241}{}{Deixa para lá. queria outra coisa...}
 {242}{}{Na verdade, nenhuma delas. Preciso ir.}
@@ -230,34 +230,34 @@
 {327}{}{Ha! Eu sabia. Descuidado, descuidado.}
 {328}{}{Seu "chefe" provavelmente é melhor em consertar as coisas do que você.}
 {329}{}{2 Segundos}
-{330}{}{Well, Val, last I saw you, you could barely tell a lug nut from a wrench.}
+{330}{}{Bem, Val, da última vez que te vi, você mal conseguia distinguir uma porca de uma chave inglesa.}
 {331}{}{2 Segundos}
-{332}{}{Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass.}
+{332}{}{Continue assim, pai, e você PRECISARÁ de uma chave inglesa para tirar minha bota da sua bunda.}
 {333}{}{2 Segundos}
-{334}{}{Oh, yeah?! Well, "honey," you better watch it or -}
+{334}{}{Oh sim?! Bem, "docinho", é melhor você tomar cuidado ou -}
 {335}{}{2 Segundos}
-{336}{}{Shut up! Shut up both of you! This has gone on LONG ENOUGH! Now, c'mon, Vic, let's get going.}
-{337}{}{UGRGHH! GO! NO MORE TALK! WE GO!}
+{336}{}{Cala a boca! Calem a boca vocês dois! Isso já durou DEMAIS! Agora, vamos, Vic, vamos ir.}
+{337}{}{UGRGHH! IR! NÃO FALA MAIS! NÓS VAMOS!}
 {338}{}{3 Segundos}
-{339}{}{We'll talk later, Val.}
+{339}{}{Falaremos mais tarde, Val.}
 {340}{}{2 Segundos}
-{341}{}{Yeah, sure, Dad.}
+{341}{}{Sim, claro, pai.}
 {342}{}{2 Segundos}
 {343}{}{Apagar-se por 3 segundos}
-{344}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks.}
-{345}{}{You come back here for a little peace and quiet, Mr. Big Hero?}
-{346}{}{You come back here for a little peace and quiet, Ms. Big Heroine?}
-{347}{}{HE-wo? Hee-hee! Yup!}
+{344}{}{Ei! Que bom que você voltou. A última vez que ouvi, você estava viajando para o sul, atacando velhos petroleiros e explodindo plataformas de petróleo.}
+{345}{}{Voltou aqui para um pouco de paz e sossego, Sr. Grande Herói?}
+{346}{}{Você voltou aqui para um pouco de paz e sossego, Sra. Grande Heroína?}
+{347}{}{HE-RO? Hee-hee! Sim!}
 {348}{}{Desliga}
-{349}{}{Thought I'd come back and touch base with Vault City for a while. The peace and quiet doesn't hurt, either. I needed something first, though...}
-{350}{}{Nothing today, thanks. Take care.}
-{351}{}{Well, you be careful around here, you hear? Don't be blowing up Vault City if you can help it. And... hey, thanks for saving us all.}
-{352}{}{Swure! Bye-bye!}
+{349}{}{Pensei em voltar e ficar em Vault City por um tempo. Um pouco de paz e sossego não fazem mal. Eu só precisava de algo primeiro...}
+{350}{}{Nada hoje, obrigado. Se cuida.}
+{351}{}{Bem, tenha cuidado por aqui, ouviu? Não exploda Vault City se puder evitar. E... ei, obrigado por salvar a todos nós.}
+{352}{}{Claruu! Tchau-tchau!}
 {353}{}{Desliga}
-{354}{}{Nevermind. I'll talk to you later.}
-{355}{}{You helped Valerie obtain new tools.}
-{356}{}{You convinced Val to give her Dad a chance.}
-{357}{}{ ***DO NOT DELETE THE NEXT LINE (#358)! IT'S NEEDED FOR THE SCRIPT. DON'T BOTHER TRANSLATING THIS, EITHER***}
+{354}{}{Deixa para lá. Falo com você mais tarde.}
+{355}{}{Você ajudou Valerie a obter novas ferramentas.}
+{356}{}{Você convenceu Val a dar uma chance ao pai dela.}
+{357}{}{ ***NÃO APAGUE A PRÓXIMA LINHA (#358)! É NECESSÁRIO PARA O SCRIPT. NÃO SE PREOCUPE EM TRADUZIR ISSO TAMBÉM***}
 {358}{}{}
-{359}{}{Hey, I have those tools you wanted.}
-{360}{}{It doesn't look like you have much of anything that I could tinker with. I mostly do pistols, rifles, that sort of thing.}
+{359}{}{Ei, eu tenho aquelas ferramentas que você queria.}
+{360}{}{Não parece que você tem muita coisa que eu possa brincar. Normalmente eu uso pistolas, rifles, esse tipo de coisa.}

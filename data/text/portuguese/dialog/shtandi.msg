@@ -30,19 +30,19 @@
 {129}{}{Eu estive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti. Aqui peças também.}
 {130}{}{Desculpe, isso não parece meu tipo de trabalho.}
 {131}{}{Ficarei feliz em ajudá-la.}
-{132}{}{I'm interested, but what's the job pay?}
-{133}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
+{132}{}{Estou interessado, mas qual é o pagamento pelo trabalho?}
+{133}{}{Eu já lidei com boa parte disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão acesso a Vault.}
 {134}{}{Eu estive lá e tenho as peças que você está procurando.}
-{135}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
-{136}{tand5}{Hell and thunder... Your choice - but if you change your mind...}
+{135}{}{Eu já tratei disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão a Vault. Além disso, aqui estão as peças.}
+{136}{tand5}{Raios e trovões... É sua escolha... mas se você mudar de ideia...}
 {137}{}{Feito.}
-{138}{tand6a}{Fair enough. Do it right and there's a reward.}
-{139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
+{138}{tand6a}{Parece justo. Faça bem e haverá uma recompensa.}
+{139}{tand6b}{Senhor, eu sei que estou cometendo um erro, mas... tente, se você entendeu alguma coisa do que eu disse.}
 {140}{}{Ok. - Me ir.}
 {141}{}{Eu tenho perguntas.}
-{142}{}{All right. I'm off.}
+{142}{}{Tudo bem. estou de partida.}
 {143}{}{Gostaria de fazer alguns perguntas.}
-{144}{tand7a}{Well, I got a little time to spare.}
+{144}{tand7a}{Bem, eu tenho um pouco de tempo de sobra.}
 {145}{tand7b}{O que você quer saber?}
 {146}{}{O que você pode me dizer sobre a Vault 15?}
 {147}{}{Por que não fazer acordo com posseiros?}
@@ -119,27 +119,27 @@
 {218}{}{Quem Westin?}
 {219}{}{Eu vejo.}
 {220}{}{Quem é esse Westin?}
-{221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
+{221}{tand22}{Congressista Westin? Um dos maiores fazendeiros de brahmins da região, sua fazenda fica no lado oeste da cidade. Só não mencione New Reno se você falar com ele, isso o deixa meio doido. Se você está procurando um emprego estável... mas você não é desse tipo, né?}
 {222}{}{Não, obrigado.}
-{223}{tand23}{Stubborn as a mule... but a good man. Why?}
-{224}{}{Me curious about work.}
-{225}{}{Me curious about work.}
-{226}{}{I'm curious about some work.}
-{227}{}{I'm curious about some work.}
-{228}{tand24}{Seems to me that you've got enough on your plate already.}
+{223}{tand23}{Teimoso como uma mula... mas um bom homem. Por que?}
+{224}{}{Curioso por um trabalho seu.}
+{225}{}{Curioso por um trabalho seu.}
+{226}{}{Estou curioso por alguns trabalhos.}
+{227}{}{Estou curioso por alguns trabalhos.}
+{228}{tand24}{Me parece que você já tem coisas suficientes em mãos.}
 {229}{}{Ok. Nada não.}
-{230}{}{Yeah, you're right.}
-{231}{tand25}{Ever since Westin died, Carlson's been holed up in his office. Probably won't see you, but you can talk to his boys.}
+{230}{}{Sim, você está certo.}
+{231}{tand25}{Desde que Westin morreu, Carlson está enfurnado em seu escritório. Provavelmente não vai ver você, mas você pode falar com os homens dele.}
 {232}{}{Ok.}
-{233}{tand26}{Listen. Lots of folks, me included, like old man Carlson even if we don't agree on New Reno. Something happens to him, we won't take kindly to it. Anyone thinking his or her life would be easier if he was gone is very, very wrong. Understand?}
-{234}{}{Yeah. Me understand.}
+{233}{tand26}{Escuta. Muitas pessoas, inclusive eu, gostam do velho Carlson, mesmo que não concordemos com New Reno. Se algo acontecer com ele, não aceitaremos isso com bons olhos. Quem pensa que sua vida seria mais fácil se ele não estivesse aqui está muito, muito enganado. Entendido?}
+{234}{}{Sim, eu entendo.}
 {235}{}{Sim, eu entendo.}
-{236}{tand27}{Lord, that was a long time ago! Hardly remember who I was then - just a naive girl. The one you call the Vault Dweller - is he still alive?}
-{237}{}{He ancestor now. Live with spirits. Live in me.}
-{238}{}{The Vault Dweller is my ancestor. He lives on in me.}
-{239}{tand28}{Yes... there's a resemblance - you've got the same fire, too. I was always afraid that he was nothing but a skeleton somewhere in the desert.}
-{240}{}{Me want hear you story.}
-{241}{}{I'd like to hear your story.}
+{236}{tand27}{Senhor, isso foi há muito tempo! Mal me lembro de quem eu era na época, só uma garota ingênua. Aquele que você chama de Morador da Vault, ainda está vivo?}
+{237}{}{Ele ancestral agora. Vive com espíritos. Vive em mi.}
+{238}{}{O Morador da Vault é meu ancestral. Ele vive em mim.}
+{239}{tand28}{Sim... há uma semelhança, vocês também têm o mesmo fogo. Sempre tive medo de que ele não passasse de um esqueleto em algum lugar do deserto.}
+{240}{}{Eu quero ouvir sua história.}
+{241}{}{Eu gostaria de ouvir sua história.}
 {242}{tand29}{Figuras. (suspiro) Bem, eu era bem jovem quando nos conhecemos. Havia uma gangue de invasores - Os Khans - eles me pegaram. As coisas pareciam muito ruins quando, de repente, esse estranho apareceu e me resgatou. Seu Morador da Vault.}
 {243}{}{Morador tem muitas aventuras.}
 {244}{}{O Morador da Vault teve muitas dessas aventuras.}
@@ -188,9 +188,9 @@
 {287}{}{Eu estive lá. Eu tenho peças.}
 {288}{}{Eu estive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti. Aqui peças também.}
 {289}{}{Ainda estou trabalhando nisso. Até mais.}
-{290}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
+{290}{}{Eu já lidei com boa parte disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão acesso a Vault.}
 {291}{}{Eu estive lá e tenho as peças que você está procurando.}
-{292}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
+{292}{}{Eu já tratei disso. Os invasores querem um acordo, você os ajuda a se tornarem autossuficientes e eles te darão a Vault. Além disso, aqui estão as peças.}
 {293}{tand41}{Raios e trovões! Então pare de desperdiçar meu tempo!}
 {294}{}{Sinto.}
 {295}{tand42}{A Vault 13, você encontrou? Isso resolve todos os nossos problemas! Onde esta?}
@@ -198,24 +198,24 @@
 {297}{}{Desenho no mapa. Aqui.}
 {298}{}{Antes que eu continue, há um pequeno problema com a vault.}
 {299}{}{Desenhei um mapa. É seu.}
-{300}{}{I'm not one to just hand over a gold mine for free. I want 20 grand or you can forget it.}
-{301}{tand43}{What?}
-{302}{}{It full of D'claws. Smart ones. They talk.}
-{303}{}{It's full of intelligent deathclaws. They can even talk.}
-{304}{tand44a}{Right. (shakes head) Lord, you're dumber than Hoss ever was! (sigh) There's the door.}
-{305}{tand44b}{Right. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
+{300}{}{Não sou do tipo que entrega uma mina de ouro de graça. Quero 20 mil ou pode esquecer.}
+{301}{tand43}{O que?}
+{302}{}{Está cheio de Deathclaws. Inteligentes. Eles falam.}
+{303}{}{Está cheio de deathclaws inteligentes. Eles podem até falar.}
+{304}{tand44a}{Certo. (balança a cabeça) Deus, você é ainda mais burro do que Hoss disse! (suspira) Ali está a porta.}
+{305}{tand44b}{Certo. (balança a cabeça) Bem, então vamos parar de desperdiçar nosso tempo. (suspiro) Ali está a porta.}
 {306}{}{Eu vou agora.}
-{307}{}{Right. I'll be leaving.}
-{308}{tand45}{You earned yourself a bonus. My assistant will square things up.}
+{307}{}{Certo. Vou indo.}
+{308}{tand45}{Você ganhou um bônus. Meu assistente vai resolver as coisas.}
 {309}{}{}
 {310}{}{Obrigado.}
-{311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
+{311}{tand46}{É, você é bem ligeiro. Tudo bem, veja Gunther. Ele cuidará dos preparativos.}
 {312}{}{Obrigado.}
-{313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
+{313}{tand47}{Rapazes, tirem essa monte de saliva de brahmins do meu escritório! É hora de você partir, estranho.}
 {314}{}{Feito}
-{315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}
-{316}{}{You'll have to talk to my aide, Gunther, about that.}
-{400}{}{Squatters want deal. You teach, you help, they give you vault.}
-{401}{}{The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
-{410}{}{As me said. Lowlifes there but me kick ass. Bye-bye.}
-{411}{}{As I mentioned before, there were some lowlifes there but I kicked their ass. See you around.}
+{315}{tand14b}{Meu pai e Seth procuraram por anos tentando encontrar a Vault 13. Morreram procurando... sempre disseram que ficava a oeste daqui. Se alguém encontrasse a Vault 13, seria ainda melhor do que a 15.}
+{316}{}{Você terá que falar com meu ajudante, Gunther, sobre isso.}
+{400}{}{Invasores querem acordo. Você ensina, você ajuda, eles te dão Vault.}
+{401}{}{Os invasores querem um acordo. Você os ajuda a se tornarem autossuficientes e eles te darão acesso a Vault.}
+{410}{}{Como eu disse. Tinha bandidos lá, mas eu chutei a bunda deles. Tchau.}
+{411}{}{Como mencionei antes, tinha alguns canalhas lá, mas eu chutei a bunda deles. Vejo você por aí.}

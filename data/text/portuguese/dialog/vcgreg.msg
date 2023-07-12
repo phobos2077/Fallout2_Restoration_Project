@@ -63,7 +63,7 @@
 {162}{}{Vou fazer o teste então.}
 {163}{}{Vou fazer o teste de novo, então.}
 {164}{}{Hmmm. Posso te fazer algumas outras perguntas?}
-{165}{}{Thanks for your time. Goodbye.}
+{165}{}{Obrigado pelo seu tempo. Adeus.}
 {166}{}{Você deseja fazer o teste? Excelente, excelente! Nada me agrada mais do que testar candidatos em potencial... mas devo avisá-lo, o teste dura várias horas. Deseja faze-lo agora?}
 {167}{}{Bem, qualquer um pode fazer o teste. Acho que no seu caso, porém, seria uma perda de tempo... para nós dois. Alguém do seu calibre simplesmente não tem potencial para cidadão.}
 {168}{}{Com certeza.}

@@ -32,7 +32,7 @@
 {130}{}{Comodizoditado. Semdinheironãoéamor. Ohssoéporsexo. Quetalsemmassanenhumgolpe.
  Voltequandoganharalgumdinheiro.}
 {131}{}{[Fim]}
-{132}{}{Heheheh! Parecequevocepodeusaralgunsmentats. Mede $1000.}
+{132}{}{Heheheh! Parece que você pode usar alguns mentats. Me dê $1000.}
 {133}{}{[Dar ao homem us $1000]}
 {134}{}{Eu vou.}
 {135}{}{OH SIM! Isso irá escolher o seu alto!}

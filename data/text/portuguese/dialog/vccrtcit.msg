@@ -8,9 +8,9 @@
 {106}{}{Desculpa-me.}
 {107}{}{Você está no meu caminho.}
 {108}{}{Por que você não vai para fora com os outros?}
-{109}{}{Can you keep a little distance, please?}
-{110}{}{Just stay over there.}
-{111}{}{You should be moving on.}
+{109}{}{Você pode manter um pouco a distância, por favor?}
+{110}{}{Apenas fique aí.}
+{111}{}{Você deveria seguir em frente.}
 {112}{}{Saia daqui.}
 {113}{}{Tenha cuidado ou avisarei os guardas.}
 {114}{}{Estou te observando.}

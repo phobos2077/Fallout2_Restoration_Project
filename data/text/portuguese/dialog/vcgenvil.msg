@@ -2,16 +2,16 @@
 {101}{}{Você vê um camponês.}
 {102}{}{Olá.}
 {103}{}{Bom dia pra você.}
-{104}{}{Welcome to our village.}
-{105}{}{The monsters protect us.}
-{106}{}{Welcome.}
-{107}{}{We will need those rifles soon.}
-{108}{}{Please hurry and bring us those weapons.}
-{109}{}{Why did you kill the monsters? Now Vault City will come after us.}
-{110}{}{Get out and don't come back!!}
-{111}{}{Get the hell out of here!}
-{112}{}{We are safe now.}
-{113}{}{You have our gratitude.}
+{104}{}{Bem-vindo à nossa aldeia.}
+{105}{}{Os monstros nos protegem.}
+{106}{}{Bem-vindo.}
+{107}{}{Vamos precisar desses rifles em breve.}
+{108}{}{Por favor, se apresse e nos traga essas armas.}
+{109}{}{Por que você matou os monstros? Agora Vault City virá atrás de nós.}
+{110}{}{Saia e não volte mais!!}
+{111}{}{Saia já daqui!}
+{112}{}{Estamos a salvo agora.}
+{113}{}{Você tem nossa gratidão.}
 {114}{}{Deus te acompanhe, estranho.}
 {115}{}{Vá falar com Connar.}
 {116}{}{Ha! Você deveria tê-los visto correr!}

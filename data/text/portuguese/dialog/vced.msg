@@ -31,20 +31,20 @@
 {130}{}{Quando eu era muito mais jovem, costumava conduzir brahmins pelo 'Grande Círculo'... Broken Hills, New Reno, Redding, Den, Modoc, depois de volta aqui. Ficou muito perigoso depois de um tempo, então me estabeleci aqui.}
 {131}{}{Onde estão esses lugares?}
 {132}{}{Entendo. Bem, agradeço pela informação.}
-{133}{}{Let me mark it on your map. See, Broken Hills is south... bear west on the trail from there, and you'll hit Reno.
- Northwest o' Reno is Redding, then it's north to the Den, east to Modoc, then east to here, Vault City.}
-{134}{}{Any idea which of those places you got the flask from?}
+{133}{}{Deixe que eu marque em seu mapa. Veja, Broken Hills fica ao sul... vire para oeste na trilha de lá, e você chegará
+ a Reno. Noroeste de Reno é Redding, então é ao norte até o Den, a leste até Modoc, então a leste até aqui, Vault City.}
+{134}{}{Alguma ideia de qual desses lugares você conseguiu o cantil?}
 {135}{}{Obrigado pela informação.}
-{136}{}{Sorry, can't remember exactly. It was a long time ago. Why do you want to know?}
-{137}{}{I'm looking for the Vault the flask came from.}
+{136}{}{Desculpe, não me lembro exatamente. Foi há muito tempo. Por que você quer saber?}
+{137}{}{Estou procurando a Vault de onde veio esse cantil.}
 {138}{}{Obrigado pela informação.}
-{139}{}{Well, hell, if it's a Vault you're looking for, then there's one inside the walls of Vault City.}
+{139}{}{Bem, caramba, se é uma Vault que você está procurando, então há uma dentro das paredes de Vault City.}
 {140}{}{A Vault 13 está dentro da cidade?}
 {141}{}{Obrigado pela informação.}
-{142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
+{142}{}{Bem, agora, não sei se é "13" exatamente, mas há uma Vault. Se não for essa que você está procurando, o computador central da Vault pode saber onde estão as outras. Elas devem estar todas listada.}
 {143}{}{Eu tenho mais algumas perguntas...}
 {144}{}{Obrigado pela informação.}
-{145}{}{Shoot. What did you want to know?}
+{145}{}{Atirar. O que você quer saber?}
 {146}{}{Você conhece um comerciante chamado Vic? Ele disse que comprou este frasco de água da Vault de você.}
 {147}{}{Você conhece um comerciante chamado Vic?}
 {148}{}{Aqui, meu amigo Vic disse que comprou um cantil de você.}
@@ -53,16 +53,16 @@
 {151}{}{O que voce pode me falar sobre Vault City?}
 {152}{}{O que você faz por aqui?}
 {153}{}{Adeus.}
-{154}{}{Well... there's that Vault inside the main part of the city. You checked it out yet? Could be the one you're looking for.}
-{155}{}{Well... there's a Vault inside the main part of the city. That what you're looking for?}
-{156}{}{Perhaps. I had some other questions...}
-{157}{}{Could be. Thanks for the information.}
-{158}{}{Okay place... if you can deal with the Citizens. I don't agree with some of their views, but hey, I make a pretty good living here.}
+{154}{}{Bem... tem aquela Vault dentro da parte principal da cidade. Já conferiu? Pode ser o que você está procurando.}
+{155}{}{Bem... há uma Vault dentro da parte principal da cidade. É isso o que você está procurando?}
+{156}{}{Talvez. Eu tenho algumas outras perguntas...}
+{157}{}{Poderia ser. Obrigado pela informação.}
+{158}{}{Bom lugar... se você conseguir lidar com os Cidadãos. Eu não concordo com algumas de suas opiniões, mas, eu ganho muito bem aqui.}
 {159}{}{Eu tenho mais algumas perguntas...}
-{160}{}{I see. Thanks for the information. Goodbye.}
-{161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
+{160}{}{Entendo. Obrigado pela informação, adeus.}
+{161}{}{Eu vendo brahmins para pessoas que precisam deles. Me ajuda a pagar o aluguel deste lugar.}
 {162}{}{Eu tenho mais algumas perguntas...}
-{163}{}{I see. Thanks for the information. Goodbye.}
-{164}{}{I got brahmin smarter than you. Move along.}
-{165}{}{This looks like Ed's place. He's the one I bought that water flask from.}
-{166}{}{You have discovered the origin of the water flask.}
+{163}{}{Entendo. Obrigado pela informação, adeus.}
+{164}{}{Eu tenho um brahmin mais esperto do que você. Vai logo.}
+{165}{}{Parece a casa do Ed. Foi dele que comprei aquele cantil de água.}
+{166}{}{Você descobriu a origem do cantil de água.}
