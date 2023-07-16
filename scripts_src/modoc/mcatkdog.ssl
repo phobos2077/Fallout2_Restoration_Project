@@ -71,6 +71,15 @@ procedure combat_p_proc;
 #define attack_brahmin                    lvar_bit(LVAR_Flags, attack_brahmin_bit)
 #define set_attack_brahmin                set_lvar_bit_on(LVAR_Flags, attack_brahmin_bit)
 
+// by phobos2077: wait before attack
+#define ATTACK_WAIT_SECONDS               50
+#define ATTACK_WAIT_BASE_TILE             8091
+#define ATTACK_WAIT_OVERRIDE_DIST         25
+#define ATTACK_WAIT_EVENT                 2077
+#define attack_wait_bit                   bit_16
+#define attack_wait                       lvar_bit(LVAR_Flags, attack_wait_bit)
+#define set_attack_wait                   set_lvar_bit_on(LVAR_Flags, attack_wait_bit)
+
 import variable dog_object;
 import variable brahmin_object;
 import variable cage_door_obj;
@@ -98,7 +107,7 @@ variable temp_tile;
          end
       end
       add_timer_event(self_obj,game_ticks(random(2,3)),1);
-   end if (fixed_param == 2) then begin
+   end else if (fixed_param == 2) then begin
       if (combat_is_initialized == false) then begin
          ndebug("telling dog to switch tile");
          if ((anim_busy(self_obj) == false) and (dude_is_in_cage == false)) then begin
@@ -113,6 +122,9 @@ variable temp_tile;
          end
       end
       add_timer_event(self_obj,game_ticks(random(5,15)),2);
+   end else if (fixed_param == ATTACK_WAIT_EVENT) then begin
+      if (not attack_wait) then ndebug("waited long enough, go for brahmin!");
+      set_attack_wait;
    end
 end
 
@@ -163,19 +175,25 @@ procedure critter_p_proc begin
 variable temp_tile;
    if (cur_map_index == MAP_MODOC_BRAHMINPASTURES) then begin
       // dogs in pasture
-      if (all_brahmin_dead == false) then begin
+      // phobos2077:
+      if (not attack_wait and tile_distance(dude_tile, ATTACK_WAIT_BASE_TILE) < ATTACK_WAIT_OVERRIDE_DIST) then begin
+         ndebug("Dude too close, stop waiting!");
+         set_attack_wait;
+      end
+      // ;
+      if (all_brahmin_dead == false and attack_wait) then begin // pbs: added wait
          set_dog_obj;
          if (brahmin_object != 0) then begin
             if (obj_can_see_obj(self_obj, brahmin_object)) then begin
                attack(brahmin_object);
             end else begin
-               anim_run_to_point(tile_num(brahmin_object))
+               anim_move_to_point(tile_num(brahmin_object)) // pbs: move instead of run
             end
          end
       end else if (self_can_see_dude) then begin
          self_attack_dude;
       end else begin
-         anim_run_to_point(local_var(LVAR_Home_Tile))
+         anim_move_to_point(local_var(LVAR_Home_Tile)) // pbs: move instead of run
       end
    end else begin
       // dogs in cage
@@ -282,6 +300,7 @@ procedure map_enter_p_proc begin
       end else begin
          self_rotate(random(0,5));
       end
+      add_timer_event(self_obj, game_ticks(ATTACK_WAIT_SECONDS), ATTACK_WAIT_EVENT);
    end else begin
       // dogs in cage
       set_self_team(TEAM_MODOC);
