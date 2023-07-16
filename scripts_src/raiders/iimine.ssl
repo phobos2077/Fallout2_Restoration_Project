@@ -34,8 +34,8 @@
 #define TRAP_EXP                        EXP_TRAPS_NORMAL
 #define TRAP_TIME                       (0)             // In Seconds
 
-#define MIN_DMG                         (10)
-#define MAX_DMG                         (20)
+#define MIN_DMG                         (20) // pbs from 10
+#define MAX_DMG                         (45) // pbs from 20
 #define DAMAGE_TYPE                     DMG_explosive_dam
 
 #define TRAP_LVAR                       LVAR_Mine_Status

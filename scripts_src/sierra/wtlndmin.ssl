@@ -58,7 +58,7 @@
 
 #define MIN_DMG                         (40)
 #define MAX_DMG                         (60)
-#define DAMAGE_TYPE                     DMG_explosive_dam
+#define DAMAGE_TYPE                     DMG_explosion
 
 #define MINE_ACTIVE                     (0)
 #define MINE_DISARMED                   (1)
@@ -197,8 +197,12 @@ procedure Check_Active(variable Mine_Var) begin
        //if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (is_success(do_check(dude_obj,STAT_ag,-3)))) then
        if ((source_obj == dude_obj) and (dude_perk(PERK_light_step_perk)) and (random(0,1) == 1)) then //added by killap
            ndebug("Used Light Step.");
-       else
-           explosion(self_tile,self_elevation,random(MIN_DMG,MAX_DMG));
+       else begin
+          if (combat_is_initialized) then
+             play_sfx("WHN1XXX1");
+          critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_normal_dam BWOR DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
+          explosion(self_tile,self_elevation,1);
+       end
 
        set_map_var(Mine_Var,MINE_EXPLODED);
    end
