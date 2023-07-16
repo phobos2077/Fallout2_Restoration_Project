@@ -24,6 +24,8 @@
 #include "../headers/ncr1.h"
 #include "../headers/ncr.h"
 
+#include "../_pbs_headers/ecco_ids.h"
+
 /* Sets whether the door is locked or trapped */
 #define LOCKED_STATUS                   STATE_INACTIVE
 #define TRAPPED_STATUS                  STATE_INACTIVE
@@ -156,6 +158,8 @@ procedure map_enter_p_proc begin
             tmp_box := move_critical_items();
             check_restock_item(PID_DESERT_EAGLE, 1, 3, 100)
             check_restock_item(PID_HUNTING_RIFLE, 1, 3, 100)
+            check_restock_item(PID_SNIPER_RIFLE, 1, 1, 100) // pbs
+            check_restock_item(PID_PBS_COWBOY_REPEATER, 1, 1, 40) // pbs
             check_restock_item(PID_SHOTGUN, 1, 3, 100)
             check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 50)
             check_restock_item(PID_HK_CAWS, 1, 1, 50)
@@ -167,6 +171,7 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_ROPE, 1, 4, 100)
             check_restock_item(PID_CROWBAR, 1, 3, 100)
             check_restock_item(PID_FLARE, 5, 7, 100)
+            check_restock_item(PID_SUPER_TOOL_KIT, 1, 1, 100) // pbs
             check_restock_item(PID_DECK_OF_TRAGIC_CARDS, 1, 1, 10)
             check_restock_item(PID_GEIGER_COUNTER, 1, 2, 50)
             check_restock_item(PID_MICRO_FUSION_CELL, 3, 3, 30)
@@ -186,15 +191,21 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_44_MAGNUM_JHP, 1, 5, 100)
             check_restock_item(PID_223_FMJ, 5, 15, 100)
             check_restock_item(PID_14MM_AP, 1, 10, 100)
+            check_restock_item(PID_PBS_14MM_JHP, 1, 3, 50)
             check_restock_item(PID_SHOTGUN_SHELLS, 20, 20, 100)
+            check_restock_item(PID_PBS_SHOTGUN_SLUGS, 1, 2, 45) // pbs
             check_restock_item(PID_7_62MM_AMMO, 10, 10, 100)
+            check_restock_item(PID_PBS_7_62MM_AP, 1, 3, 50) // pbs
             check_restock_item(PID_FN_FAL_HPFA, 1, 3, 100)
             check_restock_item(PID_HK_P90C, 1, 2, 100)
+            check_restock_item(PID_BOZAR, 1, 1, 25) // pbs
+            check_restock_item(PID_PBS_14MM_SMG, 1, 1, 25) // pbs
             check_restock_item(PID_POWER_FIST, 0, 2, 100)
             check_restock_item(PID_10MM_AP, 5, 10, 100)
 
             check_restock_item(PID_FRAG_GRENADE, 1, 7, 60)
             check_restock_item(PID_THROWING_KNIFE, 7, 10, 45)
+            check_restock_item(PID_PBS_THROWING_AXE, 1, 4, 45) // pbs
             check_restock_item(PID_SPIKED_KNUCKLES, 2, 4, 50)
             check_restock_item(PID_COMBAT_KNIFE, 2, 4, 50)
             check_restock_item(PID_BOXING_GLOVES, 1, 1, 25)

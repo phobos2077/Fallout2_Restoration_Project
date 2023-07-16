@@ -31,6 +31,8 @@
 #define LVAR_Restock_Time                 (0)
 #define LVAR_Restock_Time_Fix             (1) //added by killap
 
+#include "../_pbs_headers/ecco_ids.h"
+
 /* Standard Script Procedures */
 procedure start;
 procedure map_enter_p_proc;
@@ -56,7 +58,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_KNIFE, 1, 3, 100)
          check_restock_item(PID_CROWBAR, 1, 2, 100)
          check_restock_item(PID_44_MAGNUM_REVOLVER, 1, 1, 100)
-         check_restock_item(PID_10MM_PISTOL, 1, 2, 100)
+         //check_restock_item(PID_10MM_PISTOL, 1, 2, 100) // pbs: removed
          check_restock_item(PID_DESERT_EAGLE, 1, 1, 80)
          check_restock_item(PID_HUNTING_RIFLE, 1, 1, 50)
          check_restock_item(PID_SHOTGUN, 1, 2, 25)
@@ -65,18 +67,29 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_44_FMJ_MAGNUM, 2, 3, 100)
          check_restock_item(PID_44_MAGNUM_JHP, 2, 3, 100)
          check_restock_item(PID_10MM_AP, 2, 3, 100)
-         check_restock_item(PID_10MM_JHP, 3, 5, 100)
-         check_restock_item(PID_SHOTGUN_SHELLS, 1, 3, 100)
+         check_restock_item(PID_10MM_JHP, 3, 6, 100) // pbs: max from 5
+         check_restock_item(PID_SHOTGUN_SHELLS, 2, 5, 100) // pbs: min/max from 1/3
          check_restock_item(PID_DYNAMITE, 1, 1, 50)
          check_restock_item(PID_SHOVEL, 1, 1, 50)
          check_restock_item(PID_FLARE, 1, 2, 50)
          check_restock_item(PID_BEER, 1, 1, 100)
          check_restock_item(PID_BOOZE, 1, 1, 100)
-         check_restock_item(PID_ROPE, 1, 1, 50)
+         check_restock_item(PID_ROPE, 1, 3, 50) // pbs: max from 1
          check_restock_item(PID_223_FMJ, 1, 2, 100)
          check_restock_item(PID_METAL_ARMOR, 1, 1, 25)
          check_restock_item(PID_10MM_SMG, 1, 1, 50)
          check_restock_item(PID_FRAG_GRENADE, 1, 2, 50)
+         // by phobos2077:
+         check_restock_item(PID_PBS_COWBOY_REPEATER, 1, 1, 50)
+         check_restock_item(PID_PBS_50_AMMO, 1, 2, 25)
+         check_restock_item(PID_PBS_THROWING_AXE, 1, 2, 25)
+         check_restock_item(PID_PBS_BOOMERANG, 1, 3, 50)
+         check_restock_item(PID_THROWING_KNIFE, 2, 5, 100)
+         check_restock_item(PID_PBS_9MM_SMG, 1, 1, 50)
+         check_restock_item(PID_9MM_AMMO, 2, 5, 100) // AP ammo
+         check_restock_item(PID_7_62MM_AMMO, 1, 3, 100)
+         check_restock_item(PID_5MM_JHP, 1, 3, 100)
+         // ;
          call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (3 * ONE_GAME_DAY) + game_time);
       end

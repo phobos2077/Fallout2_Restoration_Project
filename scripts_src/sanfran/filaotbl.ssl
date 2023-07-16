@@ -27,6 +27,8 @@
 #include "../headers/command.h"
 #include "../headers/sanfran.h"
 
+#include "../_pbs_headers/ecco_ids.h"
+
 /* Standard Script Procedures */
 procedure start;
 procedure use_p_proc;
@@ -154,7 +156,7 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_ROCKET_LAUNCHER, 1, 2, 40)
             check_restock_item(PID_LASER_PISTOL, 1, 3, 40)
             check_restock_item(PID_SPIKED_KNUCKLES, 1, 3, 80)
-            check_restock_item(PID_223_PISTOL, 1, 1, 40)
+            // check_restock_item(PID_223_PISTOL, 1, 1, 40) // phobos2077: removed on purpose
             check_restock_item(PID_HK_P90C, 1, 2, 55)
             check_restock_item(PID_M60, 1, 2, 45)
             check_restock_item(PID_LASER_RIFLE_EXT_CAP, 1, 1, 40)
@@ -223,10 +225,12 @@ procedure map_enter_p_proc begin
 //Used to be table 5
 
             check_restock_item(PID_7_62MM_AMMO, 3, 4, 50)
+            check_restock_item(PID_PBS_7_62MM_AP, 1, 2, 50) // pbs
             check_restock_item(PID_FLAMETHROWER_FUEL_MK_II, 1, 3, 50)
             check_restock_item(PID_MICRO_FUSION_CELL, 2, 4, 50)
             check_restock_item(PID_ROCKET_AP, 1, 4, 50)
             check_restock_item(PID_14MM_AP, 2, 3, 100)
+            check_restock_item(PID_PBS_14MM_JHP, 1, 2, 50) // pbs
             check_restock_item(PID_FLAMETHROWER_FUEL, 2, 4, 50)
             check_restock_item(PID_45_CALIBER_AMMO, 3, 5, 50)
             check_restock_item(PID_HN_NEEDLER_CARTRIDGE, 1, 5, 65)
@@ -235,6 +239,7 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_10MM_AP, 2, 5, 100)
             check_restock_item(PID_9MM_AMMO, 1, 5, 50)
             check_restock_item(PID_223_FMJ, 5, 10, 100)
+            check_restock_item(PID_PBS_223_AP, 2, 5, 50) // pbs
 
             call restore_critical_items(tmp_box);
          end
