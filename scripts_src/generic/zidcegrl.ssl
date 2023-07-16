@@ -56,8 +56,10 @@ procedure Node017;
    prepended by LVAR_ */
 #define LVAR_Flags                        (0)
 #define LVAR_Home_Tile                    (1)
-#define LVAR_Examined                     (2)
-#define LVAR_Dice_Tamper                  (3)
+// by phobos2077 new lvars (2 and 3 were not used):
+#define LVAR_Money                        (2)
+#define LVAR_Restock_Time                 (3)
+// ;
 #define LVAR_Personal_Enemy               (4)
 
 // settings start
@@ -109,6 +111,7 @@ procedure Node017;
 #define play_dice_options  dice_option(324, Node014, -003);                                                              \
                            dice_option(325, Node014, -003);                                                              \
                            dice_option(326, Node999, -003);                                                              \
+                           if (local_var(LVAR_Money) > 0) then begin                                                     \
                            if (dude_caps >= level_1_bet) then begin                                                      \
                               dice_option(dice_mstr(328) + level_1_bet + dice_mstr(2328), Node991, 004);                 \
                               if (dude_caps >= level_2_bet) then begin                                                   \
@@ -126,6 +129,7 @@ procedure Node017;
                            end else begin                                                                                \
                               dice_option(329, Node015, 004);                                                            \
                            end                                                                                           \
+                           end                                                                                           \
                            if (bet_amt == 0) then                                                                        \
                              dice_option(330, Node999, 004);
 
@@ -141,7 +145,9 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   if (combat_is_initialized == false) then begin
+   // by phobos2077 - act only when this table is available to play
+   if (local_var(LVAR_Money) >= 0) then begin
+    if (combat_is_initialized == false) then begin
       if (self_distance_from_dude <= 4) then begin
          if (random(0,2) == 0) then begin
             play_sfx("dice1");
@@ -154,6 +160,7 @@ procedure timed_event_p_proc begin
             else call Node011;
          end
       end
+    end
    end
    add_timer_event(self_obj,game_ticks(random(5,20)),1);
 end
@@ -170,6 +177,12 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_CASINO);
    set_self_ai(AI_COWARD);
    add_timer_event(self_obj,game_ticks(random(1,30)),1);
+   
+   // by phobos2077 - restock caps
+   if (local_var(LVAR_Restock_Time) < game_time) then begin
+      set_local_var(LVAR_Money, random(2000, 5000));
+      set_local_var(LVAR_Restock_Time, game_time + ONE_GAME_WEEK);
+   end
 end
 
 procedure critter_p_proc begin
@@ -201,7 +214,12 @@ procedure talk_p_proc begin
    ndebug("talk_p_proc:");
    if ((dice_count == 1) and (get_dice_tamper == false)) then begin
       ndebug("   a");
-      start_dialog_at_node(Node013);
+      // by phobos2077 - allow to play only if there is money available
+      if (local_var(LVAR_Money) <= 0) then begin
+         floater(3000);
+      end else begin
+         start_dialog_at_node(Node013);
+      end
    end else begin
       ndebug("   b");
       call Node017;
@@ -359,8 +377,10 @@ procedure Node016 begin
 variable the_roll_1;
 variable the_roll_2;
 variable the_result := 0;
+variable say; // new
    // play game
    dude_caps_adjust(-bet_amt);
+   inc_local_var_amt(LVAR_Money, bet_amt); // by phobos2077 - add money to table
    if (random(0,1)) then begin
       play_sfx("dice");
    end else begin
@@ -380,7 +400,13 @@ variable the_result := 0;
    end
    // display results
    dude_caps_adjust(the_result*bet_amt);
-   dice_reply(400 + (dude_has_important_rep*(dude_is_male + (2*dude_is_female))) + (10*the_result));
+   // by phobos2077 - decrease money at table, if there is none, don't allow to play
+   dec_local_var_amt(LVAR_Money, the_result*bet_amt);
+   say := mstr(400 + (dude_has_important_rep*(dude_is_male + (2*dude_is_female))) + (10*the_result));
+   if (local_var(LVAR_Money) <= 0) then begin
+      say := say + " " + mstr(3000);
+   end
+   dice_reply(say);
    play_dice_options
    dice_option(440 + night, Node999, 001);
 end

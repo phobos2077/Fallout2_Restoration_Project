@@ -71,12 +71,12 @@ procedure Node020; //added by killap - expansion pack
 #define high_roller_low_bet               (5)
 #define high_roller_penalty               (-75)
 #define high_roller_max_level             level_7_payoff_mult
-#define high_roller_coin_max              (5)
+#define high_roller_coin_max              (2)
 
 #define jackpot_low_bet                   (5)
 #define jackpot_penalty                   (-100)
 #define jackpot_max_level                 level_8_payoff_mult
-#define jackpot_coin_max                  (5)
+#define jackpot_coin_max                  (2)
 
 #define random_slot_type                  (slot_type_normal + (random(1,11) == 5) + (random(1,74) == 13))
 #define def_slot_type                     random_slot_type
@@ -121,7 +121,7 @@ procedure Node020; //added by killap - expansion pack
 #define level_7_payoff                    (level_7_payoff_mult * (coin_mult*low_bet))
 #define level_8_payoff                    (level_8_payoff_mult * (coin_mult*low_bet))
 
-#define restock_time                      (ONE_GAME_DAY)                // set this to 0 for no restock
+#define restock_time                      (ONE_GAME_WEEK)                // set this to 0 for no restock
 
 #define machine_max_payoff                (max_level * low_bet * coin_max)
 #define machine_starting_caps             (3*machine_max_payoff)
@@ -634,10 +634,16 @@ end
 
 //added by killap - expansion pack
 procedure Node020 begin
-   dude_caps_adjust(machine_starting_caps);
-   set_local_var(LVAR_Caps_Restocked_Time, game_time + restock_time);
-   set_local_var(LVAR_Caps, slot_tube_size - machine_starting_caps);
-   slot_reply(5001);
-   slot_option(5002,Node999,001);
+   if (get_critter_stat(dude_obj, 6) * 10 > random(0,99)) then begin
+      dude_caps_adjust(machine_starting_caps);
+      slot_reply(5001);
+      slot_option(5002,Node999,001);
+   end else begin
+      slot_reply(600);
+      slot_option(2186,Node999,001);
+   end
+   set_local_var(LVAR_Caps_Restocked_Time, game_time + ONE_GAME_MONTH);
+   set_local_var(LVAR_Caps, 0); 
+   
 end
 //end added by killap
