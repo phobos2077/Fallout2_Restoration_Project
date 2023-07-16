@@ -683,7 +683,7 @@ procedure Node032 begin
    set_global_var( GVAR_VAULT_BOOZE_SMUGGLING, BOOTLEG_DELIVERED );
    give_xp(EXP_BOOTLEG_DELIVERED);
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_DELIVERED_BOOZE ) );
-   dude_caps_adjust( 300);
+   dude_caps_adjust(500); // pbs: raised from 300
    // Remove 10 beers from inventory
    DrinkObj := dude_item(PID_BEER);
    Dummy := rm_mult_objs_from_inven(dude_obj, DrinkObj, 10 );

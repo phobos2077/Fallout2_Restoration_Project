@@ -37,6 +37,10 @@ export variable CELLDOOR2_obj;
 export variable SULIK_SIS_obj;
 export variable PENGUARD2_obj;
 
+//added by Lujo & Phobos2077 to fix shelf looting (way too easy motion tracker to grab) - reuses new reno shelves script
+export variable new_reno_bishop_men_obj := 0;
+//end
+
 procedure start
 begin
 end

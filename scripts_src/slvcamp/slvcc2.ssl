@@ -66,6 +66,7 @@ import variable PENGUARD2_obj;
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_)
 *******************************************************************/
+import variable new_reno_bishop_men_obj; // pbs
 
 /*******************************************************************
    Local variables which do not need to be saved between map changes.
@@ -152,6 +153,17 @@ procedure destroy_p_proc begin
 end
 
 procedure critter_p_proc begin
+   //added by phobos2077 shelf fix
+      if (self_can_see_dude) then begin
+         if (new_reno_bishop_men_obj) then begin
+            if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(new_reno_bishop_men_obj, dude_obj)) then begin
+               new_reno_bishop_men_obj := self_obj;
+               ndebug("watcher_obj switched to "+tile_num(self_obj));
+            end
+         end else new_reno_bishop_men_obj := self_obj;
+      end
+   //added end
+	
    if (self_can_see_dude) then begin
       if ( (metzger_dead) or (hostile) or (local_var(LVAR_Hostile) == 2) or (global_var(GVAR_NCR_PLAYER_RANGER)) or (map_var(MVAR_Attack_Slavers) == 1) or (local_var(LVAR_Warned) == 2) ) then begin
 

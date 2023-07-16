@@ -57,6 +57,10 @@ procedure Node002;
 
 /* Local variables which do not need to be saved between map changes. */
 
+// by phobos2077:
+#define get_money_pool     (local_var(2))
+#define set_money_pool(x)  set_local_var(2, x)
+
 
 procedure start begin
 end
@@ -83,6 +87,7 @@ procedure map_enter_p_proc begin
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
+   set_money_pool(random(300,500)); // pbs
 end
 procedure map_update_p_proc begin
    check_hide_durring_boxing_fight
@@ -124,11 +129,14 @@ procedure talk_p_proc begin
    end else begin
       gdialog_set_barter_mod(0 + (10*(dude_caps>=100)) + (10*(dude_caps>=200)) + (10*(local_var(LVAR_reaction_level)<REACTION_LEVEL_NEUTRAL)));
    end
+   item_caps_adjust(self_obj, get_money_pool - item_caps_total(self_obj));
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
       call Node000;
    gSay_End;
    end_dialogue;
+   set_money_pool(item_caps_total(self_obj));
+   item_caps_adjust(self_obj, - item_caps_total(self_obj));
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);
 end
 

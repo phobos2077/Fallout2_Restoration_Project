@@ -357,8 +357,9 @@ end
 
 procedure destroy_p_proc begin
    new_reno_eldridge_obj := 0;
+   call reduce_merchant_loot(new_reno_eldridge_box, 100, 100, 0, 70, 50, 0); // pbs: reduce loot in his box, but keep what's in his inventory as trophy
    move_obj_inven_to_obj(new_reno_eldridge_box, self_obj);
-   move_obj_inven_to_obj(new_reno_eldridge_box_2, self_obj);
+   //move_obj_inven_to_obj(new_reno_eldridge_box_2, self_obj); // pbs
    give_voice_chip(self_obj)
    set_eldridge_dead;
 end

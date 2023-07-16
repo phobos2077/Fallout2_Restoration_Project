@@ -97,7 +97,7 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_self_team(TEAM_THE_DEN);
-         set_self_ai(AI_LONER_CITIZEN);
+         set_self_ai(AI_TOUGH_MERCHANT); // pbs: changed from LONWER CITIZEN
       end
    end
 end
@@ -163,6 +163,16 @@ end
 procedure destroy_p_proc begin
    flick_obj := 0;
    set_flick_dead;
+   // phobos2077: reduce loot: all armors and all weapons except shotgun
+   restock_amt := 0;
+   while (inven_ptr(den_flick_box_obj, restock_amt) != 0) do begin
+      restock_obj := inven_ptr(den_flick_box_obj, restock_amt);
+      if (obj_item_subtype(restock_obj) == item_type_armor or (obj_item_subtype(restock_obj) == item_type_weapon and obj_pid(restock_obj) != PID_SHOTGUN)) then begin
+      	rm_obj_from_inven(den_flick_box_obj, restock_obj);
+      	destroy_object(restock_obj);
+      end else
+      	restock_amt += 1;
+   end
    move_obj_inven_to_obj(den_flick_box_obj,self_obj);
    inc_evil_critter
 end

@@ -5415,7 +5415,7 @@ procedure New_Gang begin
        Critter_Total:=1;
 
    while (Critter_Counter < Critter_Total) do begin
-       Create_Enemy(PID_GUN_THUG_MALE,PID_223_PISTOL,SCRIPT_ECGANGS);
+       Create_Enemy(PID_GUN_THUG_MALE,PID_14MM_PISTOL,SCRIPT_ECGANGS); // phobos2077: replaced .223 Pistol
        give_money(Critter,random(5,18));
        inc_map_var(MVAR_Hostile_Total);
    end

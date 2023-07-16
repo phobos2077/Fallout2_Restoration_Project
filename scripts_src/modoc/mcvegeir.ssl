@@ -261,8 +261,8 @@ procedure Node003 begin
    if (local_var(LVAR_Said_Thanks)) then begin
       Reply(166);
    end else begin
-      give_pid_qty(dude_obj, PID_ASSAULT_RIFLE, 1)
-      give_pid_qty(dude_obj, PID_5MM_JHP, 1)
+      give_pid_qty(dude_obj, PID_HUNTING_RIFLE, 1) // pbs: changed from Assault Rifle
+      give_pid_qty(dude_obj, PID_223_FMJ, 1) // pbs: changed from 5mm JHP
       Reply(165);
       set_local_var(LVAR_Said_Thanks,true);
    end

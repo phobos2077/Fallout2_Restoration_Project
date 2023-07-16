@@ -102,7 +102,7 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_self_team(TEAM_DEN_TUBBYS);
-         set_self_ai(AI_COWARD);
+         set_self_ai(AI_TOUGH_CITIZEN); // pbs: changed from COWARD
       end else if (tubby_dead) then begin
          if (self_is_male) then begin
             destroy_object(self_obj);

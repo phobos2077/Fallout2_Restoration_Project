@@ -154,6 +154,11 @@ procedure Node053a;
 // by phobos2077:
 #define _LEARN_CRAFT_DRJOHNSON
 #include "../_pbs_craft/learn_craft_drjohn.h"
+#define CONTAINER_TILE           (20171) // inaccessible container outside of map bounds
+#define violating_property       (tile_in_tile_rect(20530, 20523, 21723, 22530, dude_tile))  // back room of Doctors' house
+#define move_inven_to_container    move_obj_inven_to_obj(self_obj, get_container())
+#define move_inven_from_container  move_obj_inven_to_obj(get_container(), self_obj)
+variable caught_sneaking := 0;
 // ;
 
 /* Imported variables from the Map scripts. These should only be
@@ -170,6 +175,14 @@ variable From_52:=0;
 variable From_53:=0;
 
 procedure start begin
+end
+
+procedure get_container begin
+   variable obj;
+   obj := tile_contains_pid_obj(CONTAINER_TILE, 0, PID_FOOTLOCKER_CLEAN_LEFT);
+   if not(obj) then
+      obj := create_object(PID_FOOTLOCKER_CLEAN_LEFT, CONTAINER_TILE, 0);
+   return obj;
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -214,14 +227,23 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
+   if (not self_can_see_dude) then return;
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
+   if (global_var(GVAR_ENEMY_REDDING) == 1) then begin
        attack(dude_obj);
    end
-
-   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
+   else if (local_var(LVAR_Hostile) == 2) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
+   end
+   else if (violating_property) then begin
+      if (caught_sneaking == 0) then begin
+         obj_floater_type(self_obj, g_mstr(random(3925, 3929)), FLOAT_COLOR_BAD);
+         caught_sneaking := game_time;
+      end
+      else if ((caught_sneaking + 50) < game_time) then begin
+         set_local_var(LVAR_Hostile, 2);
+      end
    end
 
 end
@@ -260,6 +282,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
+   move_inven_from_container; // phobos2077
    if (dude_iq < 4) then begin
        call Node001;
    end
@@ -290,6 +313,7 @@ procedure talk_p_proc begin
        end
 
    end
+   move_inven_to_container; // phobos2077
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -304,6 +328,9 @@ procedure destroy_p_proc begin
    set_global_var(GVAR_DOC_JOHNSON_STATUS,1);
 
    Doc_Johnson_Ptr:=0;
+
+   move_inven_from_container; // phobos2077
+   destroy_object(get_container()); // phobos2077
 
 /* Set global_variable for Enemy status*/
 end
