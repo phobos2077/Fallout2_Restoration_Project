@@ -272,6 +272,7 @@
 # 1010 Other Questions
 {2403}{}{Where did you get the Vault 13 water flask?}
 {2404}{}{Never mind.}
+{2405}{}{How were you captured?}
 
 # 1011 Other questions greeting (From 1000)
 {2500}{}{Sure, Boss.}
@@ -427,3 +428,9 @@
 {5500}{}{I feel like I broke a limb, Boss. You better have a look.}
 {5501}{}{I feel like I am burning up, Boss. You better have a look.}
 {5502}{}{I feel like I have been poisoned, Boss. You better have a look.}
+
+#added by Lujo - Slaver Camp info
+{6000}{}{I was on my way back from a visit to a tribe to the south west of the Den when I got captured. They kept me where they keep all the tribals while they break them in, in a camp in the middle of nowhere. Then Metzger needed his radio fixed, and you know the rest.}
+{6001}{}{Can you show me where that holding camp is?}
+{6002}{}{Ummm, sure boss, but if we're ever going there you better have a very, very good plan. That or lotsa guns. Metzger's guys in the Den got nothing the guys he has guarding the slaves there. I'm still trying to forget those guys.}
+{6003}{}{Hmmmm... I'll keep that in mind.}

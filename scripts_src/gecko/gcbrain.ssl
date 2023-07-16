@@ -34,6 +34,9 @@
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
 #define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 
+// condition changed/moved to macro by Lujo/phobos2077
+#define patrols_attacked_by_rats_cond	( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and (global_var(GVAR_QUEST_VAULT_SERVANT) != SERVANT_QUEST_FINISHED) and (global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) )
+
 //#define RECEIVED                1
 //#define GIVEN                   2
 
@@ -120,6 +123,7 @@ procedure Node048;
 procedure Node049;
 procedure Node050;
 // end added
+procedure Node080; // by Lujo
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -568,7 +572,7 @@ procedure Node008 begin
     //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
 
    //NOTE - GO HERE - killap
-   if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
+   if patrols_attacked_by_rats_cond then  // Lujo/phobos2077
       NOption(183,Node044,004);
    //end
    else
@@ -594,9 +598,9 @@ procedure Node011 begin
    else begin
       Reply(211);
    end
-
+   
    //added by killap - expansion pack
-   if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
+   if patrols_attacked_by_rats_cond then // Lujo/phobos2077
       NOption(706,Node044,004);
    else
       NOption(212,Node940,001);
@@ -626,7 +630,7 @@ procedure Node013 begin
 
       //added by killap - expansion pack
       //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
-      if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
+      if patrols_attacked_by_rats_cond then // Lujo/phobos2077
       begin
          if (local_var(LVAR_Node_045) == 1) then
             NOption(188,Node046,004);
@@ -642,7 +646,7 @@ procedure Node013 begin
 
       //added by killap - expansion pack
       //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
-      if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
+      if patrols_attacked_by_rats_cond then // Lujo/phobos2077
       begin
          if (local_var(LVAR_Node_045) == 1) then
             NOption(188,Node046,004);
@@ -656,10 +660,10 @@ procedure Node013 begin
       Reply(230);
       NOption(639,Node015,004);
       NOption(641,Node015,004);
-
+      
       //added by killap - expansion pack
       //if ((global_var(GVAR_VAULT_SERVANT) == 6) and (global_var(GVAR_QUEST_VAULT_SERVANT) == 1)) then
-      if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
+      if patrols_attacked_by_rats_cond then // Lujo/phobos2077
       begin
          if (local_var(LVAR_Node_045) == 1) then
             NOption(188,Node046,004);
@@ -704,7 +708,7 @@ end
 procedure Node014 begin
    Reply(240);
    //added by killap - expansion
-   if ( (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) and ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) )) or ( ((global_var(GVAR_VAULT_SERVANT) < SERVANT_BRAIN_AGREEMENT) and ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_SPEAK_WITH_COUNCIL) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ))) ) then
+   if patrols_attacked_by_rats_cond then // Lujo/phobos2077
       NOption(706,Node044,004);
    //end added
    NOption(241,Node999,004);
@@ -861,6 +865,7 @@ end
 
 procedure Node028 begin
    Reply(380);
+   NOption(800,Node080,004); // added by Lujo
    NOption(381,Node029,004);
 end
 
@@ -1131,4 +1136,10 @@ procedure Node050 begin
 end
 //end - killap
 
+// added by Lujo
+procedure Node080 begin
+   mark_EPA_on_map
+   Reply(801);
+   NOption(381, Node029, 004);
+end
 //xxxxxxxxxxxxxxxxxxxx

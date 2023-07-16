@@ -49,6 +49,13 @@ procedure Node090;
 procedure Node091;
 procedure Node092;
 procedure Node093;
+// by Lujo - flow fixes begin
+procedure Node099;
+procedure Node100;
+procedure Node101;
+procedure Node102;
+// end
+
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_
@@ -271,6 +278,10 @@ end
 
 procedure Node007a begin
    Reply(901);
+   // option added by Lujo
+   if ( Vic_In_Party ) then
+      BOption (1001,Node099,004);
+   
    NOption(304,Node093,004);
    BOption(305,Node998,004);
 end
@@ -282,12 +293,22 @@ end
 
 procedure Node009 begin
    Reply(310);
-   NOption(500,Node998,004);
+   // option added by Lujo
+   if ( Vic_In_Party ) then begin
+      GOption (1001,Node099,004);
+   end else begin   
+      NOption(500,Node998,004);
+   end
 end
 
 procedure Node010 begin
    Reply(311);
-   NOption(500,Node998,004);
+   // option added by Lujo
+   if ( Vic_In_Party ) then
+      GOption (1001,Node099,004);
+   else begin
+      NOption(500,Node998,004);
+   end
 end
 
 //procedure Node011 begin
@@ -346,3 +367,30 @@ end
 procedure Node093 begin
    set_local_var(LVAR_Told_To_Leave,1);
 end
+
+// added by Lujo begin
+procedure Node099 begin
+   if (has_skill(dude_obj,SKILL_SPEECH) >= 40) then begin
+      Reply(1008);
+      NOption(1009, Node100, 004);
+   end else begin
+      Reply(1010);
+      NOption(500, Node998, 001);
+   end
+end
+   
+procedure Node100 begin
+   Reply(1002);
+   NOption(1003,Node101,004);
+end
+
+procedure Node101 begin
+   Reply(1004);
+   NOption(1005,Node102,004);
+end
+
+procedure Node102 begin
+   Reply(1006);
+   NOption(1007,Node092,004);
+end
+// xxxxxxxxxxxxxx

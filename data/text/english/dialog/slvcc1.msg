@@ -43,3 +43,15 @@
  pay a premium price.}
 {901}{}{Bullshit. Metzger's never sent a customer out here before. I don't know what you're trying to pull, but you've
  got three seconds to get the fuck outta my face before I have my boys pump you full of lead.}
+
+#Lujo
+{1001}{}{Wait up! See this fat old bastard here? He was here already! He had him brought in to fix a radio! Don't tell me you don'tremember the sorry sack of lard!}
+{1002}{}{[Stares at you in disbilief] Wow. You actually bought that guy?}
+{1003}{}{Yes! And let me tell you, he was not worth nowhere near what I paid for him! The only thing he was good for was bringing me here, and even that almost got me killed!}
+{1004}{}{Yeah, you sorry bastard... [Laughs] Metzger sure knows how to screws people over! But you're right, he wouldn't like us shooting a proper customer one bit, especially one with your taste in merchandise. Look around, take your pick!}
+{1005}{}{Thank you. I'd tell you to keep the fatass, but then you might change your mind and I wouldn't blame you.}
+{1006}{}{Oh, hell no, you bought him, you keep him! Here's the keys, check the ones in the shack out in case you're not buying for yourself. You won't like them, though, they're good for stuff! [Laughs]}
+{1007}{}{Thank you!}
+{1008}{}{[Slavers eyes go wide with recognition] Oh, no! No! Don't tell me Metzger sent him BACK!? Cuz I'll shoot both of you and play dumb!}
+{1009}{}{No! Metzger made me BUY him, sold him to me as a "guide"!} 
+{1010}{}{[Slavers eyes go wide with recognition] No! Hell, no! I'm not taking that guy back! You're both dead!}
