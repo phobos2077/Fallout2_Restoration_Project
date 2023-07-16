@@ -44,6 +44,8 @@
 procedure GetZone;
 procedure CreateContents;
 
+#include "../_pbs_headers/ecco_ids.h" // pbs
+
 /***************************************************************************
    This is cursory glance description that the player will receive should
    he just pass the Action Cursor over. Examines which give more information
@@ -116,6 +118,8 @@ procedure CreateZone1 begin
    check_restock_item(PID_ROCK, 1, 10, 20)
    check_restock_item(PID_HEALING_POWDER, 1, 1, 5)
    check_restock_item(PID_MUTATED_FRUIT, 1, 2, 10)
+   // added by phobos2077:
+   check_restock_item(PID_ROPE, 1, 1, 10)
 end
 
 procedure CreateZone2 begin
@@ -129,10 +133,16 @@ procedure CreateZone2 begin
    check_restock_item(PID_BOOZE, 1, 1, 5)
    check_restock_item(PID_FLARE, 1, 2, 5)
    check_restock_item(PID_THROWING_KNIFE, 1, 2, 5)
-   check_restock_item(PID_SPIKED_KNUCKLES, 1, 2, 5)
+   check_restock_item(PID_BRASS_KNUCKLES, 1, 1, 5) // pbs: replaced PID_SPIKED_KNUCKLES
    check_restock_item(PID_10MM_JHP, 1, 1, 2)
    check_restock_item(PID_10MM_AP, 1, 1, 2)
    check_restock_item(PID_BOTTLE_CAPS, 1, 10, 2)
+   // added by phobos2077:
+   check_restock_item(PID_ROPE, 1, 1, 10)
+   check_restock_item(PID_PUMP_PARTS, 1, 1, 10)
+   check_restock_item(PID_9MM_BALL, 1, 1, 2)
+   check_restock_item(PID_PBS_FOOD_1, 1, 1, 2)
+   check_restock_item(PID_PBS_FOOD_2, 1, 1, 2)
 end
 
 procedure CreateZone3 begin
@@ -149,6 +159,12 @@ procedure CreateZone3 begin
    check_restock_item(PID_CROWBAR, 1, 1, 8)
    check_restock_item(PID_KNIFE, 1, 2, 10)
    check_restock_item(PID_10MM_JHP, 1, 1, 7)
+   // added by phobos2077:
+   check_restock_item(PID_ROPE, 1, 1, 10)
+   check_restock_item(PID_PUMP_PARTS, 1, 1, 10)
+   check_restock_item(PID_PBS_40MM_HE, 1, 1, 2)
+   check_restock_item(PID_PBS_FOOD_1, 1, 1, 2)
+   check_restock_item(PID_PBS_FOOD_2, 1, 1, 2)
 end
 
 procedure CreateZone4 begin
@@ -164,6 +180,10 @@ procedure CreateZone4 begin
    check_restock_item(PID_IGUANA_ON_A_STICK, 1, 3, 8)
    check_restock_item(PID_BOOZE, 1, 2, 7)
    check_restock_item(PID_JET, 1, 2, 20)
+   // added by phobos2077:
+   check_restock_item(PID_ROPE, 1, 1, 10)
+   check_restock_item(PID_PUMP_PARTS, 1, 1, 10)
+   check_restock_item(PID_PBS_40MM_HE, 1, 1, 2)
 end
 
 procedure CreateContents begin
