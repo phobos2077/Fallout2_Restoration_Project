@@ -38,6 +38,10 @@
 #define RECON_BROKEN_HILLS_ASSIGNED      (3) // added by phobos2077
 #define RECON_BROKEN_HILLS_DONE          (4) // added by phobos2077
 
+#include "../_pbs_headers/talking_heads_compat.h"
+#define HEAD_STARK      (86)
+#define start_dialog_check_head_stark      start_gdialog_check_talking_head(4, HEAD_STARK, BACKGROUND_ADOBE)
+
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -378,7 +382,7 @@ procedure talk_p_proc begin
       call Node001;
    else if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) and
             ( local_var( LVAR_Stark_Status ) == STARK_UNKNOWN ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_dialog_check_head_stark;
        gSay_Start;
            call Node012;
        gSay_End;
@@ -386,7 +390,7 @@ procedure talk_p_proc begin
    end
    else if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) and
             ( local_var( LVAR_Stark_Status ) == STARK_KNOWN ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_dialog_check_head_stark;
        gSay_Start;
            call Node064;
        gSay_End;
@@ -402,21 +406,21 @@ procedure talk_p_proc begin
             ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) ) then
       call Node008;
    else if( night ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_dialog_check_head_stark;
        gSay_Start;
            call Node009;
        gSay_End;
        end_dialogue;
    end
    else if( local_var( LVAR_Stark_Status ) == STARK_KNOWN ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_dialog_check_head_stark;
        gSay_Start;
            call Node064;
        gSay_End;
        end_dialogue;
    end
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_dialog_check_head_stark;
        gSay_Start;
            call Node012;
        gSay_End;
@@ -1125,11 +1129,11 @@ end
 procedure Node055 begin
    From_54_or_55 := 1;
    if( global_var( GVAR_VAULT_GECKO_PLANT ) < PLANT_DESTROYED ) then
-      Reply( mstr(319) + " " + mstr(322) );
+      Reply_THAT(7700, mstr(319) + " " + mstr(322));
    else if( global_var( GVAR_VAULT_GECKO_PLANT ) == PLANT_DESTROYED ) then
-      Reply( mstr(320) + " " + mstr(322) );
+      Reply_THAT(7701, mstr(320) + " " + mstr(322));
    else
-      Reply( mstr(321) + " " + mstr(322) );
+      Reply_THAT(7702, mstr(321) + " " + mstr(322));
 
    if( gecko_reconned ) then
       NOption(323, Node056, 004);
@@ -1151,7 +1155,7 @@ end
 procedure Node056 begin
    if( From_54_or_55 == 1 ) then begin
       From_54_or_55 := 0;
-      Reply( mstr(327) + " " + mstr(328) );
+      Reply_THAT(7703, mstr(327) + " " + mstr(328) );
    end
    else
       Reply(328);
@@ -1258,7 +1262,7 @@ end
 procedure Node060 begin
    if( From_58_or_59 == 1 ) then begin
       From_58_or_59 := 0;
-      Reply( mstr(345) + " " + mstr(346) );
+      Reply_THAT(7704, mstr(345) + " " + mstr(346));
    end
    else
       Reply(346);

@@ -26,6 +26,8 @@
 #include "../headers/modoc.h"
 #include "../headers/modreact.h"
 
+#include "../_pbs_headers/talking_heads_compat.h"
+
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -183,7 +185,7 @@ procedure talk_p_proc begin
    end else begin
       move_obj_inven_to_obj(modoc_balthas_box_obj, self_obj);
       script_overrides;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog_check_talking_head(4, 168, 7);
       gSay_Start;
          if ((jonny_at_home) and (jonny_dead == false)) then begin
             if (node_3) then begin
@@ -340,7 +342,7 @@ procedure Node010 begin
    NOption(186,Node999,001);
 end
 procedure Node011 begin
-   Reply(mstr(187) + dude_name + mstr(188));
+   Reply_THAT(7700, mstr(187) + dude_name + mstr(188));
    NOption(189,Node012,004);
    NOption(190,Node001,001);
 end
