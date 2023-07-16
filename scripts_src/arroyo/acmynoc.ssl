@@ -32,6 +32,9 @@
 #define VISITED_OTHER_TOWN              ((den_visit) or (klamath_visit))
 #define VISITED_TOWN_MULTIPLE_TIMES     ((den_visit) and (klamath_visit))
 
+// added by phobos2077
+#include "../_pbs_craft/learn_craft.h"
+
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -445,12 +448,13 @@ procedure Node026 begin
        ndebug("Destroy Spear");
    end
 
-   if (dude_item_count(PID_FLINT)) then begin //added check by killap
+	// by phobos2077: don't remove flint
+   /*if (dude_item_count(PID_FLINT)) then begin //added check by killap
       item1:=dude_item(PID_FLINT);
       JunkIt:=rm_mult_objs_from_inven(dude_obj,item1,1);
       destroy_object(item1);
       ndebug("Destroy Flint");
-   end
+   end*/
 
    item2:=create_object(PID_SHARP_SPEAR,0,0);
    add_mult_objs_to_inven(dude_obj,item2,1);
@@ -461,6 +465,9 @@ procedure Node026 begin
    set_global_var(GVAR_ARROYO_SPEAR,SPEAR_FINISHED);
 
    gfade_out(600);
+   // by phobos2077: add blades schematics
+   set_sfall_global(SGVAR_CRAFT_BLADES, 1);
+   display_msg(fixit_mstr(87));
    gfade_in(600);
 
    Reply(312);

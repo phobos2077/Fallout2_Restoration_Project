@@ -157,6 +157,9 @@ variable Complex_Float_Stage := 0;
 variable From_26:=0;
 variable From_41:=0;
 
+// by phobos2077: crafting
+#include "../_pbs_craft/learn_craft_val.h"
+
 procedure start begin
    Val_Ptr := self_obj;
 end
@@ -498,6 +501,7 @@ procedure Node014 begin
    Reply(145);
 
    NOption(146, Node015, 004);
+   ASK_CRAFT_INJECTION(502) // phobos2077
    BOption(147, Node012, 004);
    NOption(148, Node999, 004);
 end
@@ -645,6 +649,7 @@ procedure Node027 begin
    NOption(192, Node032, 004);
    if( local_var( LVAR_Vic_Relationship ) == RELATION_KNOWN ) then
       NOption(193, Node028, 004);
+   ASK_CRAFT_INJECTION(501) // pbs
    NOption(194, Node999, 004);
 end
 

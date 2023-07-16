@@ -94,6 +94,9 @@ procedure Node027;
 
 #define repeated_car_warning              lvar_bit(LVAR_Flags, repeated_car_warning_bit)
 #define set_repeated_car_warning          set_lvar_bit_on(LVAR_Flags, repeated_car_warning_bit)
+
+#include "../_pbs_craft/learn_craft_smitty.h" // by phobos2077: crafting
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -265,6 +268,11 @@ procedure Node003 begin
    if ((smitty_deliver(state_smitty_deliver_in_progress)) and (dude_has_smitty_meal)) then begin
       GOption(247, Node008, 004);
    end
+   // by phobos2077: crafting
+   if (get_sfall_global_int(SGVAR_CRAFT_EXPLOSIVES) == 0) then begin
+      NOption(701, NodeCraft1, 004);
+   end
+   // end by phobos
    NOption(249, Node999, 004);
 end
 
@@ -385,6 +393,10 @@ procedure Node018 begin
    end
    if ((smitty_deliver(state_smitty_deliver_in_progress)) and (dude_has_smitty_meal)) then begin
       GOption(432, Node008, 004);
+   end
+   // by phobos2077: crafting
+   if (get_sfall_global_int(SGVAR_CRAFT_EXPLOSIVES) == 0) then begin
+       NOption(702, NodeCraft1, 004);
    end
    NOption(433, Node999, 004);
 end

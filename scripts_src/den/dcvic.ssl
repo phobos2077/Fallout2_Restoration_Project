@@ -117,6 +117,8 @@ import variable vic_door_obj; //added by killap
 #define node_13_bit                       bit_17
 #define node_1010_bit                     bit_18
 
+#include "../_pbs_craft/learn_craft_vic.h" // by phobos2077: crafting pointers
+
 #define node_2                            lvar_bit(LVAR_Flags, node_2_bit)
 #define set_node_2                        set_lvar_bit_on(LVAR_Flags, node_2_bit)
 
@@ -851,6 +853,15 @@ procedure Node1021 begin
       NOption(823, Node1207, 004);
    end
    NOption(2405, SlaverCampNode01, 004); // by Lujo
+   // by phobos2077:
+   if (crafting_mod_available) then begin
+      if (not(node_craft)) then begin
+         NOption(5100, NodeCraft1, 004);
+      end else begin
+         NOption(51001, NodeCraft5, 004);
+      end
+   end
+   // end by phobos;
    NOption(2404, PARTY_NODE_X, 004);
 end
 

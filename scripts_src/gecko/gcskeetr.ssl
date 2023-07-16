@@ -165,6 +165,8 @@ procedure Node150;
 #define CPCOST                         ((1500 * (25000/(160 + (has_skill(dude_obj, SKILL_BARTER)))))/100)
 // End Seraph's Fixes
 
+#include "../_pbs_craft/learn_craft_skeeter.h" // by phobos2077
+
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
 variable k;
@@ -588,6 +590,8 @@ end
 
 procedure Node021 begin
    Reply(320);
+   set_sfall_global(SGVAR_CRAFT_TOOLS, 1); // pbs: unlock crafting of Super Tool Kit
+   display_msg(fixit_mstr(89));
    NOption(321,Node022,004);
 end
 
@@ -708,6 +712,11 @@ procedure Node110 begin
    if (dude_item_count(PID_CATTLE_PROD)) then begin
       NOption(603, Node113, 004);
    end
+   // by phobos2077:
+   if (get_sfall_global_int(SGVAR_CRAFT_AMMO) == 0) then begin
+       NOption(1001, NodeCraft1, 004);
+   end
+   // by phobos end
    NOption(604, Node009, 004);
    NOption(605, Node999, 004);
    //prev_node := 10;

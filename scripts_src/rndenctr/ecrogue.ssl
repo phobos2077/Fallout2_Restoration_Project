@@ -33,6 +33,12 @@
 
 #include "../headers/command.h"
 
+// by phobos2077:
+#define _BOUNTY_ECROGUE
+#include "..\_pbs_headers\quests_bounty.h"
+// end;
+
+
 
 /* Standard Script Procedures */
 procedure start;
@@ -69,17 +75,22 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_RND_ROGUE);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BERSERKER); //comment out by killap
    set_self_ai(AI_TOUGH_GUARD); //added by killap
+   call bounty_hook_map_enter; // by phobos2077
 end
 
 
 procedure look_at_p_proc begin
    script_overrides;
-   display_msg(mstr(100));
+   // by phobos2077 - different description
+   if (i_am_bounty) then display_msg(mstr(105));
+   else display_msg(mstr(104));
 end
 
 procedure description_p_proc begin
    script_overrides;
-   display_msg(mstr(100));
+   // by phobos2077 - different description
+   if (i_am_bounty) then display_msg(mstr(105));
+   else display_msg(mstr(104));
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -92,7 +103,10 @@ procedure critter_p_proc begin
    this as well. */
 
    if (self_can_see_dude) then begin
-       floater(random(205,212));
+       // by phobos2077 (different floater for quest robbers):
+       if (i_am_bounty) then floater(random(240, 244));
+       else floater(random(205,212));
+       // end;
        attack(dude_obj);
    end
 
@@ -121,7 +135,7 @@ end
    incrementing the death count for reputation purposes and Enemy Counters are placed
    in here. */
 procedure destroy_p_proc begin
-
+   call bounty_hook_destroy; // by phobos2077
 /* Increment the aligned critter counter*/
    inc_evil_critter
 

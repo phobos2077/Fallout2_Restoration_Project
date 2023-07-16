@@ -151,6 +151,11 @@ procedure Node053a;
 #define LVAR_Restock_Time               (15) //added by killap
 #define LVAR_Restock_Time_Fix           (16) //added by killap
 
+// by phobos2077:
+#define _LEARN_CRAFT_DRJOHNSON
+#include "../_pbs_craft/learn_craft_drjohn.h"
+// ;
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -186,6 +191,9 @@ procedure map_enter_p_proc begin
       check_restock_item(PID_ANTIDOTE, 1, 1, 80)
       check_restock_item(PID_BOTTLE_CAPS, 123, 200, 50)
       set_local_var(LVAR_Restock_Time, (random(2,6) * ONE_GAME_DAY) + game_time);
+      // by phobos2077:
+      if not(is_loading_game) then
+         move_inven_to_container;
    end
    //end added
 
@@ -681,6 +689,15 @@ procedure Node010 begin
    NOption(159,Node010b,004);
    NOption(160,Node042,004);
    NOption(161,Node012,004);
+   // by phobos2077:
+   if (crafting_mod_available) then begin
+      if (get_sfall_global_int(SGVAR_CRAFT_FIRST_AID) == 0) then begin
+         NOption(501, NodeCraft1, 004);
+      end else begin
+         NOption(502, NodeCraft10, 004);
+      end
+   end
+   // ;
    NOption(162,Node999,004);
 end
 

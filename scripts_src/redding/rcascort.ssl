@@ -136,6 +136,13 @@ procedure Node045a;
 #define Deed_Offered_Buy_Back           (2)
 #define Deed_Sold_To_Ascorti            (3)
 
+
+// by phobos2077 - bounty hunt
+#define _BOUNTY_RCASCORT
+#include "..\_pbs_headers\quests_bounty.h"
+// ;
+
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -338,6 +345,11 @@ procedure Node002 begin
    else
        Reply(111);
 
+   // pbs bounty quest begin       
+   INJECT_BOUNTY_DONE
+   INJECT_GIVE_PROOF
+   // end
+
    NOption(112,Node045,004);
    NOption(113,Node048,004);
    if (not(dude_found_geck)) then
@@ -505,7 +517,7 @@ procedure Node018a begin
 end
 
 procedure Node018b begin
-   dude_caps_adjust(2500);
+   dude_caps_adjust(3000); // phobos2077: from 2500 to 3000
    set_local_var(LVAR_Wanamingo_Deed,Deed_Sold_To_Ascorti);
    give_xp(EXP_SELL_MINE_DEED);
    inc_global_var_amt(GVAR_TOWN_REP_REDDING, 15); //added by killap
@@ -739,6 +751,8 @@ procedure Node045 begin
 
    NOption(258,Node045a,004);
    NOption(259,Node042a,004);
+   INJECT_ASK_BOUNTY  // phobos2077
+   INJECT_BOUNTY_DONE  // phobos2077
    NOption(260,Node002,004);
    NOption(261,Node999,004);
 end

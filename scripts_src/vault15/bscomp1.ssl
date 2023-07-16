@@ -64,6 +64,10 @@ procedure Node001;
 procedure Node002;
 procedure Node999;
 
+// phobos2077: learn crafting
+#include "../_pbs_craft/learn_craft.h"
+procedure NodeCraft1;
+
 /*******************************************************************
    The start procedure is the first procedure called when the map is
    first entered. Any initial information that needs to be set up
@@ -178,13 +182,23 @@ procedure Node001 begin
       set_local_var(LVAR_Got_Info, 1);
       mark_vault_13_on_map
       Reply(103);
+      NOption(200, NodeCraft1, 004); // phobos2077
    end else begin
       Reply(104);
+      ENDOPTION; // phobos2077
    end
-   ENDOPTION;
+   // ENDOPTION;
 end
 
 procedure Node002 begin
    Reply(106);
+   ENDOPTION;
+end
+
+procedure NodeCraft1 begin
+   Reply(201);
+   set_sfall_global(SGVAR_CRAFT_ELECTRONICS, 1);
+   set_sfall_global(SGVAR_CRAFT_ELECTRONICS2, 1);
+   display_msg(fixit_mstr(85));
    ENDOPTION;
 end

@@ -108,6 +108,11 @@ variable Node1Count := 0;
 #define PLAYER_DONE 1
 #define WALK_BACK   2
 
+// by phobos2077 - bounty quest
+#define _BOUNTY_SCKARL
+#include "..\_pbs_headers\quests_bounty.h"
+// end;
+
 procedure start begin
 end
 
@@ -259,6 +264,7 @@ procedure Node001 begin
       Reply(103);
    else
       Reply(104);
+   INJECT_BOUNTY_DONE  // phobos2077
    NLowOption(105, Node002);
    NOption(106, Node003, 4);
    if (not V13KNOWN) then
@@ -272,6 +278,7 @@ procedure Node001 begin
       BOption(110, Node007, 4);
    if (get_westin_flag(WESTIN_ACCEPT_SNUFF) and not get_westin_flag(WESTIN_DEAD)) then
       NOption(111, Node008, 4);
+   NOption(300, Node999, 4); // phobos2077 - added "goodbye" option
 end
 
 procedure Node002 begin
@@ -311,7 +318,7 @@ procedure Node006 begin
       set_global_var(GVAR_NCR_TANDI_WORK, 1);
       Reply(124);
    end
-
+   INJECT_ASK_BOUNTY // phobos2077
    NOption(125, Node001, 4);
 
    if (good_critter_reaction) then //added by killap

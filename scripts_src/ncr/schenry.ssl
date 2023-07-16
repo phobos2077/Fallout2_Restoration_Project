@@ -100,6 +100,10 @@ procedure DoCallGuards;
 #define LVAR_Personal_Enemy             (6)
 #define LVAR_Node24_Count               (7)
 
+// by phobos2077 - bring X quest
+#define _BRINGX_SCHENRY
+#include "..\_pbs_headers\quests_bringx.h"
+// ;
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -260,7 +264,11 @@ end
 
 procedure Node001 begin
    Node6Repeat := 0; //added by killap
-
+   // by phobos2077 begin:
+   if (is_new_monsterparts_enabled) then begin
+	   Reply(mstr(103 + (local_var(LVAR_Herebefore) > 0)) + " " + mstr(400));
+   end else 
+   // end;
    if (local_var(LVAR_Herebefore) == 0) then
       Reply(103);
    else
@@ -272,6 +280,7 @@ procedure Node001 begin
       NOption(107, Node013, 4);
    if (global_var(GVAR_NCR_ENCLAVE_INFO) bwand 1) then
       NOption(108, Node014, 4);
+   INJECT_ASK_BRING // phobos2077
    NOption(109, Node015, 4);
 end
 
@@ -380,6 +389,12 @@ procedure Node016 begin
 end
 
 procedure Node017 begin
+   // by phobos2077:
+   if (is_new_monsterparts_enabled) then begin
+	   Reply(400);
+	   INJECT_ASK_BRING
+   end else
+   // end;
    Reply(146);
    ENDOPTION;
 end
@@ -414,6 +429,13 @@ procedure Node021 begin
 end
 
 procedure Node022 begin
+   // by phobos2077:
+   if (is_new_monsterparts_enabled) then begin
+	  Reply(400);
+	  INJECT_ASK_BRING
+	  ENDOPTION;
+   end else
+   // end;
    float_msg(self_obj, mstr(157 + Random(0, 2)), FLOAT_MSG_NORMAL);
 end
 

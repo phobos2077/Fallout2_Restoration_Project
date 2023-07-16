@@ -128,6 +128,11 @@ procedure checkItems;
 #define LVAR_Stealing_Pills             (10) //added by killap - RP
 #define LVAR_Pill_Inquiry               (11) //added by killap - RP
 
+// by phobos2077 - bring X quest TODO:
+//#define _BRINGX_SCDOCJUB
+//#include "..\_pbs_headers\quests_bringx.h"
+// ;
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -432,7 +437,7 @@ procedure Node008 begin
    end else begin
       Reply(127);
    end
-
+   // TODO: INJECT_GIVE_X // pbs
    if (not V13KNOWN) then
       NLowOption(128, Node011);
    NOption(129, Node011, 4);
@@ -525,6 +530,12 @@ end
 
 procedure Node016 begin
    set_global_var(GVAR_NCR_TANDI_WORK, 1);
+   // by phobos2077: TODO:
+   // if (is_new_monsterparts_enabled) then begin
+	//   Reply(400);
+	//   INJECT_ASK_BRING
+   // end else
+   // by phobos end
    Reply(158);
    NOption(159, Node008, 4);
    NOption(160, Node999, 4);

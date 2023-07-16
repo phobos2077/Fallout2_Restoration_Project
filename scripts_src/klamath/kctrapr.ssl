@@ -17,6 +17,7 @@
            Created: Febuary 25, 1998
 
            Updated:
+           - phobos2077: added dialogue to teach Gecko skinning and Leather Crafting
 */
 
 /* Include Files */
@@ -41,6 +42,31 @@
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse
+
+// by phobos2077:
+#define Has_Skinner      (has_trait(TRAIT_PERK,dude_obj,PERK_gecko_skinning_perk))
+#define Add_Skinner      critter_add_trait(dude_obj,TRAIT_PERK,PERK_gecko_skinning_perk,1)
+#define TEACHER_MAP     (MAP_KLAMATH_MALL)
+#define TEACHER_TILE    (26904)
+#define TEACHER_ELEV    (0)
+#define is_teacher_pos  (cur_map_index == TEACHER_MAP and self_tile == TEACHER_TILE and self_elevation == TEACHER_ELEV)
+#define teacher_no      (1)
+#define teacher_yes     (2)
+#define teacher_taught  (3)
+#define TEACHER_PRICE   (200)
+#define CRAFT_PRICE     (200)
+
+
+procedure NodeTeach1;
+procedure NodeTeach2;
+procedure NodeTeach3;
+procedure NodeTeach4;
+
+procedure NodeCraft1;
+procedure NodeCraft2;
+procedure NodeCraft3;
+procedure NodeCraft4;
+// end;
 
 /* Standard Script Procedures */
 procedure start;
@@ -82,6 +108,7 @@ procedure Node004;
    prepended by LVAR_ */
 #define LVAR_Hostile                    (4)
 #define LVAR_Personal_Enemy             (5)
+#define LVAR_Teacher                    (6) // pbs
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -91,6 +118,9 @@ procedure Node004;
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
 variable k;
+
+// by phobos2077 - crafting
+#include "../_pbs_craft/learn_craft.h"
 
 procedure start begin
 end
@@ -102,6 +132,12 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    set_self_team(TEAM_KLAMATH);
    set_self_ai(AI_TOUGH_CITIZEN);
+   // by phobos2077:
+   if (local_var(LVAR_Teacher) == 0) then begin
+      if (is_teacher_pos) then set_local_var(LVAR_Teacher, teacher_yes);
+      else set_local_var(LVAR_Teacher, teacher_no);
+   end
+   // end by phobos;
 end
 
 
@@ -149,6 +185,19 @@ end
    stored which affects player interactions. */
 procedure talk_p_proc begin
    GetReaction;
+   
+   if (local_var(LVAR_Teacher) >= teacher_yes and (not(Has_Skinner) or (get_sfall_global_int(SGVAR_CRAFT_JACKET) == 0))) then begin
+      // new dialog
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call NodeTeach1;
+      gSay_End;
+      end_dialogue;
+      return;
+   end else if (local_var(LVAR_Teacher) == teacher_taught) then begin
+      floater(random(520, 523));
+      return;
+   end
 
    if ((REP_ENEMY_KLAMATH) or (local_var(LVAR_Personal_Enemy) == 1)) then begin
        call Node998;
@@ -259,3 +308,78 @@ end
 procedure Node004 begin
    floater(random(170,181));
 end
+
+
+// phobos2077 expansion - teach Skinning begin:
+procedure NodeTeach1 begin
+   Reply(500);
+   
+   if (not(Has_Skinner)) then begin
+      NOption(501,NodeTeach2,004);
+      NLowOption(502,NodeTeach2);
+   end
+   
+   if (get_sfall_global_int(SGVAR_CRAFT_JACKET) == 0) then
+      NOption(530,NodeCraft1,004);
+   
+   NOption(503,Node999,000);
+end
+
+procedure NodeTeach2 begin
+   Reply(505);
+   
+   if (dude_caps > TEACHER_PRICE) then begin
+      NOption(506,NodeTeach3,004);
+      NLowOption(508,NodeTeach3);
+   end
+   NOption(507,NodeTeach4,004);
+   NLowOption(509,NodeTeach4);
+end
+
+procedure NodeTeach3 begin
+   Reply(510);
+   Add_Skinner;
+   set_local_var(LVAR_Teacher, teacher_taught);
+   item_caps_adjust(dude_obj, -TEACHER_PRICE);
+   NOption(511,Node999,004);
+   NLowOption(512,Node999);
+end
+
+procedure NodeTeach4 begin
+   NMessage(515);
+end
+
+
+procedure NodeCraft1 begin
+   Reply(531);
+   
+   NOption(532,NodeCraft2,004);
+end
+
+procedure NodeCraft2 begin
+   Reply(533);
+   
+   if (dude_caps >= CRAFT_PRICE) then
+      NOption(534,NodeCraft3,004);
+      
+   NOption(535,Node999,004);
+end
+
+procedure NodeCraft3 begin
+   Reply(537);
+   
+   set_sfall_global(SGVAR_CRAFT_JACKET, 1);
+   display_msg(fixit_mstr(82));
+   set_local_var(LVAR_Teacher, teacher_taught);
+   item_caps_adjust(dude_obj, -CRAFT_PRICE);
+   
+   NOption(540, NodeCraft4,004);
+end
+
+procedure NodeCraft4 begin
+   Reply(541);
+   
+   NOption(542, Node999,004);
+end
+
+// teach skinning end;

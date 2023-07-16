@@ -99,6 +99,7 @@ procedure Node992;
 import variable den_mom_box_obj;
 import variable generic_temp_box;
 
+#include "../_pbs_craft/learn_craft_mom.h"
 procedure start begin
 end
 
@@ -342,7 +343,11 @@ procedure Node013 begin
    else if (global_var(GVAR_DEN_ORPHANAGE) == 5) then
       NOption(821, Node030, 004);
    //end added - expansion
-
+   
+   //added by phobos2077 - craft
+   if (get_sfall_global_int(SGVAR_CRAFT_FOOD) == 0) then
+      NOption(2001, NodeCraft1, 004);
+   
    NOption(g_mstr(376),Node999,004); //edit by killap
 
    set_herebefore; //added by killap

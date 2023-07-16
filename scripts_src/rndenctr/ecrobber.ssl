@@ -14,6 +14,11 @@
 
 #include "../headers/command.h"
 
+// by phobos2077:
+#define _BOUNTY_ECROBBER
+#include "..\_pbs_headers\quests_bounty.h"
+// end;
+
 procedure start;
 procedure critter_p_proc;
 procedure map_enter_p_proc;
@@ -231,7 +236,7 @@ procedure critter_p_proc begin
 end
 
 procedure destroy_p_proc begin
-
+   call bounty_hook_destroy; // by phobos2077
 /* Increment the aligned critter counter*/
    inc_evil_critter
 

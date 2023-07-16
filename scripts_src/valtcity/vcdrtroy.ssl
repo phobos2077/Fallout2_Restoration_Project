@@ -229,6 +229,10 @@ variable unhealthy_members:=0;
                                                          unhealthy_members+=1;      \
                                                    if (unhealthy_members > 0)
 
+// by phobos2077:
+#include "../_pbs_craft/learn_craft_drtroy.h"
+// ;
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -473,6 +477,7 @@ procedure Node005 begin
    NLowOption(120,Node999); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
    NOption(121,Node008,004);
    NOption(122,Node009,004);
+   ASK_CRAFT_INJECTION_FAIL // by phobos2077
    NOption(123,Node005a,004);
 end
 
@@ -519,6 +524,7 @@ procedure Node009 begin
    Reply(136);
 
    NOption(137,Node008,004);
+   ASK_CRAFT_INJECTION_FAIL    // by phobos2077
    NOption(138,Node005a,004);
 end
 
@@ -1051,6 +1057,7 @@ procedure Node044 begin
        NOption(293,Node017,004);
    if ((global_var(GVAR_VAULT_JET_QUEST) == JET_DECLINED_JOB) or (global_var(GVAR_VAULT_JET_QUEST) == JET_WILL_GET)) then
        NOption(294,Node038,004);
+   ASK_CRAFT_INJECTION   // by phobos2077
    NOption(295,Node005a,004); // Seraph's Fix: changed 'Node999' to 'Node005a'
 end
 

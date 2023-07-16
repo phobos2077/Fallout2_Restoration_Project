@@ -89,6 +89,13 @@ procedure Node994;
 #define gave_jonny_gun                    lvar_bit(LVAR_Flags, gave_jonny_gun_bit)
 #define set_gave_jonny_gun                set_lvar_bit_on(LVAR_Flags, gave_jonny_gun_bit)
 
+// by phobos2077:
+#include "../_pbs_craft/learn_craft_balthas.h"
+
+#define _BRINGX_MCBATLHA
+#include "../_pbs_headers/quests_bringx.h"
+// end by phobos;
+
 import variable modoc_balthas_box_obj;
 import variable ghost_farm_slag_obj;
 
@@ -259,6 +266,10 @@ procedure Node000 begin
       NOption(156,Node010,004);
    end
    NOption(157,Node996,004);
+   // by phobos2077:
+   ASK_CRAFT_INJECTION(1001)
+   INJECT_ASK_BRING(1101)
+   // ;
    if (family_feud_seed_active) then begin
       NOption(158,Node021,004);
    end
@@ -273,6 +284,10 @@ procedure Node001 begin
       NOption(156,Node010,004);
    end
    NOption(157,Node996,004);
+   // by phobos2077:
+   ASK_CRAFT_INJECTION(1001)
+   INJECT_ASK_BRING(1101)
+   // ;
    NOption(160,Node020,004);
    if (family_feud_seed_active) then begin
       NOption(158,Node021,004);
@@ -289,6 +304,10 @@ procedure Node002 begin
    end else if (jonny_bb_gun_found) then begin
       NOption(172,Node024,004);
    end
+   // by phobos2077:
+   ASK_CRAFT_INJECTION(1002)
+   INJECT_ASK_BRING(1102)
+   // ;
    NOption(173,Node999,004);
    NOption(g_mstr(300),Node999,-003);
 end
@@ -433,5 +452,9 @@ end
 procedure Node027 begin
    Reply(176);
    NOption(157,Node996,004);
+   // by phobos2077:
+   ASK_CRAFT_INJECTION(1003)
+   INJECT_ASK_BRING(1101)
+   // ;
    NOption(159,Node999,004);
 end
