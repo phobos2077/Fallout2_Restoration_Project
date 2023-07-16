@@ -643,15 +643,15 @@ procedure Node027 begin
 end
 
 procedure Node028 begin
-   Reply(230);
+   Reply(259); //changed by Lujo
 
-   NOption(231, Node029, 004);
+   NOption(260, Node029, 004);  //changed by Lujo
    NOption(232, Node017, 004);
    NOption(233, Node999, 004);
 end
 
 procedure Node029 begin
-   Reply(234);
+   Reply(261); //changed by Lujo
 
    NOption(235, Node030, 004);
    NOption(236, Node017, 004);

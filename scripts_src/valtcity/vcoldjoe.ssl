@@ -85,6 +85,10 @@ procedure Node021;
 procedure Node022;
 procedure Node023;
 procedure Node024;
+
+// by Lujo
+procedure Node025; 
+procedure Node026; 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
 // seen by the design Tool
@@ -195,6 +199,15 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end else begin
+      // by Lujo begin
+      if not (mole_rat_origin_info) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+             call Node025;
+         gSay_End;
+         end_dialogue;
+      end else
+     // by Lujo end;
       if (local_var(LVAR_Given_Gun) == 1) then begin
          call Node013;
       end else begin
@@ -402,6 +415,7 @@ procedure Node018 begin
     //you can always say to mcclure that you know what is going on.
     //also shouldn't be called Ian if you don't acutally know that...
    //set_global_var(GVAR_
+   //Lujo: I used the molerat_origin_info to allow me to get molerat_origin_amulet from Connor and used both to get McClure to open up the diplomatic options.
 end
 //end
 
@@ -449,4 +463,17 @@ procedure Node024 begin
    Reply(206);
    NOption(207,Node999,004);
    NOption(208,Node017,004);
+end
+
+//Lujo: I added 2 nodes in case you miss the molerat_origin_info when you first talk to joe (and I used those for McClure diplomacy). You can access these only once, and then it's floaters again.
+
+procedure Node025 begin
+   Reply(301);
+   NOption(302,Node026,004);
+end
+
+procedure Node026 begin
+   set_mole_rat_origin_info;
+   Reply(303);
+   NOption(304,Node999,004);
 end

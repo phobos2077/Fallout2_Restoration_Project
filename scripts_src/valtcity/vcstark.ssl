@@ -35,6 +35,8 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 
+#define RECON_BROKEN_HILLS_ASSIGNED      (3) // added by phobos2077
+#define RECON_BROKEN_HILLS_DONE          (4) // added by phobos2077
 
 /* Standard Script Procedures */
 procedure start;
@@ -139,6 +141,7 @@ procedure Node064;
 //added by killap - expansion pack (Village)
 procedure Node058_1;
 procedure Node058_2;
+procedure Node058_2a; //added by Lujo
 procedure Node058_3;
 procedure Node058_4;
 procedure Node058_5;
@@ -150,6 +153,22 @@ procedure Node058_10;
 procedure Node058_11;
 procedure Node058_12;
 procedure Node058_13;
+
+//added by Lujo - gameflow fixes
+
+procedure Node070;
+procedure Node071;
+procedure Node072;
+procedure Node072a;
+procedure Node073;
+procedure Node074;
+procedure Node074a;
+procedure Node075;
+procedure Node076;
+procedure Node077;
+procedure Node077a;
+procedure Node077b;
+Procedure Node078;
 //end
 
 
@@ -182,6 +201,16 @@ procedure Node058_13;
                            ( wm_get_subtile_state( 1275, 274 ) > KNOWNTILETYPE ) and \
                            ( wm_get_subtile_state( 1325, 273 ) > KNOWNTILETYPE )
 
+// by phobos2077
+#define broken_hills_reconned ( wm_get_subtile_state( 1125, 826 ) > KNOWNTILETYPE ) and \
+							( wm_get_subtile_state( 1175, 825 ) > KNOWNTILETYPE ) and \
+                            ( wm_get_subtile_state( 1225, 825 ) > KNOWNTILETYPE ) and \
+                            ( wm_get_subtile_state( 1225, 875 ) > KNOWNTILETYPE ) and \
+                            ( wm_get_subtile_state( 1225, 925 ) > KNOWNTILETYPE ) and \
+                            ( wm_get_subtile_state( 1175, 925 ) > KNOWNTILETYPE ) and \
+                            ( wm_get_subtile_state( 1125, 925 ) > KNOWNTILETYPE ) and \
+                            ( wm_get_subtile_state( 1125, 875 ) > KNOWNTILETYPE )
+						   
 /*
 #define ncr_reconned       ( wm_get_subtile_state( 1073, 137 ) > UNKNOWNTILETYPE ) and \
                            ( wm_get_subtile_state( 1124, 137 ) > UNKNOWNTILETYPE ) and \
@@ -618,7 +647,7 @@ procedure Node016 begin
       NOption(153, Node020, 004);
    if( global_var( GVAR_QUEST_JOSHUA ) == JOSHUA_ASSIGNED ) then
       NOption(154, Node026, 004);
-   if( global_var( GVAR_VAULT_STARK_RECON ) == 0 ) then
+   if( global_var( GVAR_VAULT_STARK_RECON ) == RECON_UNKNOWN ) then
       NOption(155, Node050, 004);
    if( local_var( LVAR_Stark_Raiders ) == 0 ) then
       NOption(156, Node035, 004);
@@ -1144,7 +1173,7 @@ procedure Node057 begin
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_SCOUTED_GECKO ) );
    Reply(330);
 
-   NOption(331, Node058, 004);
+   NOption(331, Node070, 004); // changed Node058 => Node070 by Lujo
    NOption(332, Node064, 004);
    NOption(333, Node999, 004);
 end
@@ -1308,21 +1337,33 @@ procedure Node064 begin
       NOption(365, Node026, 004);
    NOption(366, Node016, 004);
    NOption(367, Node027, 004);
+   
+   //edited by Lujo, gameflow fixes - returning after finishing the scoutings
    if( ( global_var( GVAR_VAULT_STARK_RECON ) == RECON_GECKO_ASSIGNED ) and
        ( gecko_reconned ) ) then
       NOption(368, Node056, 004);
-   if( global_var( GVAR_VAULT_STARK_RECON ) == RECON_GECKO_DONE ) then
-      NOption(369, Node058, 004);
+   if( ( global_var( GVAR_VAULT_STARK_RECON ) == RECON_BROKEN_HILLS_ASSIGNED ) and
+       ( broken_hills_reconned ) ) then
+	  NOption(439, Node072, 004);
    if( ( global_var( GVAR_VAULT_STARK_RECON ) == RECON_NCR_ASSIGNED ) and
        ( global_var( GVAR_FINISHED_STARK_RECON ) == 1 ) ) then
       NOption(370, Node060, 004);
+	  
+   //edited by Lujo, gameflow fixes, asking for work after finishig the scoutings leads to the next one  
+   if( global_var( GVAR_VAULT_STARK_RECON ) == RECON_GECKO_DONE ) then
+      NOption(369, Node070, 004);
+   if( global_var( GVAR_VAULT_STARK_RECON ) == RECON_BROKEN_HILLS_DONE ) then
+      NOption(369, Node058, 004);
+   if( ( global_var( GVAR_VAULT_STARK_RECON ) == RECON_NCR_ASSIGNED ) and ( global_var( GVAR_FINISHED_STARK_RECON ) == 1 ) ) then
+      NOption(370, Node060, 004);  
 
-   //added by killap - expansion pack (Village)
+   //unlocking the vault village after having scouted gecko
+   if( global_var( GVAR_VAULT_STARK_RECON ) >= RECON_GECKO_DONE and global_var(GVAR_QUEST_VAULT_SERVANT) < SERVANT_QUEST_ACCEPTED) then
+      NOption(437, Node058_1, 004);
+   
+   //asking about the village if you've accepted the quest   
    if ( (global_var(GVAR_QUEST_VAULT_SERVANT) >= SERVANT_QUEST_ACCEPTED) and (global_var(GVAR_QUEST_VAULT_SERVANT) < SERVANT_QUEST_FINISHED) ) then
       giq_option(4, SCRIPT_VCSTARK, 402, Node058_4, NEUTRAL_REACTION);
-   if ( (global_var(GVAR_VAULT_STARK_RECON) == 4) and (global_var(GVAR_QUEST_VAULT_SERVANT) < SERVANT_QUEST_ACCEPTED) ) then
-      giq_option(4, SCRIPT_VCSTARK, 369, Node058_1, NEUTRAL_REACTION);
-   //end
 
    if( local_var( LVAR_Stark_Raiders ) == 1 ) then
       NOption(371, Node031, 004);
@@ -1339,23 +1380,40 @@ begin
   //if (global_var(GVAR_VAULT_STARK_RECON) == 2) then
     //giq_option(4, SCRIPT_VCSTARK, 394, Node059, 50);
   giq_option(4, SCRIPT_VCSTARK, 395, Node064, NEUTRAL_REACTION);
+  //added by lujo in global fixes
+  if ( global_var( GVAR_FINISHED_STARK_RECON ) != 1 ) then begin
+    if not ( broken_hills_reconned ) then
+    NOption(430, Node070, 4);
+    else
+    NOption(430, Node058, 4);
+  end
   giq_option(4, SCRIPT_VCSTARK, 396, Node999, NEUTRAL_REACTION);
 end
+
+//edited by Lujo to make the time limit impossible to miss
 
 procedure Node058_2
 begin
   if (town_known(49) == MARK_STATE_UNKNOWN) then
     mark_area_known(0, 49, MARK_STATE_KNOWN);
   set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_ACCEPTED);
+  gsay_reply(SCRIPT_VCSTARK, 397); //edited by Lujo dialogue to divide the mission and timing warning
+  giq_option(4, SCRIPT_VCSTARK, 441, Node058_2a, NEUTRAL_REACTION);
+end
+
+//added by Lujo, to make the time restriction impossible to miss
+
+procedure Node058_2a
+begin
   set_global_var(GVAR_SERVANT_RAID_DATE, game_time);
-  gsay_reply(SCRIPT_VCSTARK, 397);
-  giq_option(4, SCRIPT_VCSTARK, 222, Node064, NEUTRAL_REACTION);
-  giq_option(4, SCRIPT_VCSTARK, 398, Node999, NEUTRAL_REACTION);
+  gsay_reply(SCRIPT_VCSTARK, 440);
+  giq_option(4, SCRIPT_VCSTARK, 442, Node064, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_VCSTARK, 443, Node999, NEUTRAL_REACTION);
 end
 
 procedure Node058_3
 begin
-  gsay_reply(SCRIPT_VCSTARK, 399);
+  gsay_reply(SCRIPT_VCSTARK, 399); //lujo edited dialogue
   giq_option(4, SCRIPT_VCSTARK, 400, Node058_2, NEUTRAL_REACTION);
   //if (global_var(GVAR_VAULT_STARK_RECON) == 2) then
   //  giq_option(4, SCRIPT_VCSTARK, 394, Node059, 50);
@@ -1365,24 +1423,39 @@ end
 
 procedure Node058_4 begin
    //display_msg("GVAR_VAULT_SERVANT == " + global_var(GVAR_VAULT_SERVANT));
-
-   if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_SCREWED) ) then begin
-         set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
-
+   // by Lujo:
+   if (global_var(GVAR_VAULT_SERVANT) == SERVANT_TIME_EXTENDED) then begin
+       if (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_DELIVERED_GUNS) then begin
+          Reply(455); 
+          NOption(446, Node076, 004); 
+       end else begin
+       Reply(428);
+       NOption(429, Node999, 4);
+       end
+    end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_SCREWED) ) then begin
+       gsay_reply(SCRIPT_VCSTARK, 423);
+       NOption(444, Node075, 004);
+       giq_option(4, SCRIPT_VCSTARK, 175, Node999, 50);
+   //end else
+   //Old part
+   /*if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_SCREWED) ) then begin
+         //set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
+         if 
          gsay_reply(SCRIPT_VCSTARK, 423);
+         NOption(444, Node075, 004);
     //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) == 8) then
          //if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
-            giq_option(4, SCRIPT_VCSTARK, 175, Node999, NEUTRAL_REACTION);
-            BOption(426, Node058_13, 004);
-         //end
-   end else if (global_var(GVAR_VAULT_SERVANT) == SERVANT_TIME_EXTENDED) then begin
-      gsay_reply(SCRIPT_VCSTARK, 428);
-      giq_option(4, SCRIPT_VCSTARK, 429, Node999, NEUTRAL_REACTION);
+         giq_option(4, SCRIPT_VCSTARK, 175, Node999, NEUTRAL_REACTION);
+         //Moved the option to turn Harry in
+         //BOption(426, Node058_13, 004);
+         //end*/    
    end else begin if ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= (ONE_GAME_MONTH) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) ) then begin
       set_global_var(GVAR_VAULT_SERVANT, SERVANT_FINISHED_VIOLENT);
       set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_SCREWED);
       set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
-
+      //-- Lujo: this ought to get the gun delivery crossed out in the pipboy
+      set_global_var(GVAR_QUEST_VAULT_VILLAGE, 9);
+	  
       gsay_reply(SCRIPT_VCSTARK, 424);
       giq_option(4, SCRIPT_VCSTARK, 425, Node058_12, NEUTRAL_REACTION);
    end else begin
@@ -1406,6 +1479,7 @@ end
 procedure Node058_6
 begin
   gsay_reply(SCRIPT_VCSTARK, 409);
+  NOption(459, Node058_7, 4);
   giq_option(4, SCRIPT_VCSTARK, 410, Node058_7, NEUTRAL_REACTION);
   giq_option(4, SCRIPT_VCSTARK, 411, Node058_8, NEUTRAL_REACTION);
 end
@@ -1421,6 +1495,8 @@ begin
   set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_SCREWED);
   set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
   set_global_var(GVAR_VAULT_SERVANT, SERVANT_FINISHED_VIOLENT);
+  //-- Lujo: this ought to get the gun delivery crossed out in the pipboy
+  set_global_var(GVAR_QUEST_VAULT_VILLAGE, 9);
   //set_global_var(GVAR_QUEST_VAULT_SERVANT, 2);
   //set_global_var(GVAR_VAULT_SERVANT, 3);
   set_global_var(GVAR_TOWN_REP_VAULT_CITY, global_var(GVAR_TOWN_REP_VAULT_CITY) - 1);
@@ -1468,7 +1544,8 @@ end
 
 procedure Node058_13
 begin
-  set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_TURNED_IN_HARRY);
+  set_global_var(GVAR_VAULT_SERVANT, SERVANT_TURNED_IN_HARRY);
+  set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
   gsay_reply(SCRIPT_VCSTARK, 427);
   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + -15);
   ndebug("Player gains " + -15 + " Karma Points.");
@@ -1476,4 +1553,97 @@ begin
   set_global_var(GVAR_TOWN_REP_VAULT_CITY, global_var(GVAR_TOWN_REP_VAULT_CITY) + 1);
   giq_option(4, SCRIPT_VCSTARK, 414, Node999, NEUTRAL_REACTION);
 end
+
+// added by Lujo begin
+procedure Node070 begin
+   mark_broken_hills_on_map
+   Reply(431);
+   NOption(432, Node071, 004); //asks why?
+   if( broken_hills_reconned ) then
+      NOption(316, Node072, 004); //allready done
+   NOption(317, Node074, 004); //accepts
+   NOption(325, Node074a, 004); //accepts with questions
+   NOption(318, Node999, 004); //exit
+end
+
+procedure Node071 begin
+   Reply(433);
+
+   if( broken_hills_reconned ) then
+      NOption(316, Node072, 004);
+   NOption(317, Node074, 004);
+   NOption(344, Node999, 004);
+end
+
+procedure Node072 begin
+   Reply(328);
+   NOption(329, Node072a, 004);
+end
+
+procedure Node072a begin
+   gfade_out(600);
+   gfade_in(600);
+   call Node073;
+end
+
+procedure Node073 begin
+   item_caps_adjust( dude_obj, 400 );
+   set_global_var( GVAR_VAULT_STARK_RECON, RECON_BROKEN_HILLS_DONE );
+   display_msg( mstr(434) );
+   give_xp( EXP_VAULT_GECKO_RECON );
+   set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_SCOUTED_GECKO ) );
+   Reply(435);
+
+   NOption(331, Node058, 004);
+   if( global_var(GVAR_QUEST_VAULT_SERVANT) < SERVANT_QUEST_ACCEPTED ) then
+   NOption(437, Node058_1, 004);
+
+   NOption(332, Node064, 004);
+   NOption(333, Node999, 004);
+end
+
+procedure Node074 begin
+   set_global_var( GVAR_VAULT_STARK_RECON, RECON_BROKEN_HILLS_ASSIGNED );
+   // End Dialogue.
+end
+
+procedure Node074a begin
+   set_global_var( GVAR_VAULT_STARK_RECON, RECON_BROKEN_HILLS_ASSIGNED );
+   call Node064;
+   // End Dialogue.
+end
+
+Procedure Node075 begin
+   Reply(445);
+   NOption(446, Node076, 004);
+end
+
+Procedure Node076 begin
+   Reply(447);
+   NOption(456, Node077, 004);
+end
+
+Procedure Node077 begin
+   Reply(457);
+   NOption(448, Node077a, 004);
+   NOption(449, Node077b, 004);
+   BOption(426, Node058_13, 004);
+   NOption(458, Node999, 004);
+end
+   
+Procedure Node077a begin
+   Reply(450);
+   NOption(452, Node078, 004);
+end
+
+Procedure Node077b begin
+   Reply(451);
+   NOption(453, Node999, 004);
+end
+
+Procedure Node078 begin
+   set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
+   call Node999;
+end
+
 //end

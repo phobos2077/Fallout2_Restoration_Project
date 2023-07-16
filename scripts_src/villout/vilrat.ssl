@@ -67,8 +67,9 @@ procedure damage_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   if ( ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS)) ) then begin
-   //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then begin
+ //Lujo: Added a condition which would kill the rats if the quest is finished violently by Stark before the raid date (could happen in conversation even in the original RP)
+ if ((global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or 
+ (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS)) ))  then begin
       kill_critter(self_obj, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));
    end else begin
       set_self_team(TEAM_VAULT_VILLAGERS);

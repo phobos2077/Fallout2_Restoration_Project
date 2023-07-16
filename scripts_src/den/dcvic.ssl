@@ -93,6 +93,9 @@ procedure Node996;
 procedure Node993; //added by killap
 procedure Node005a; //added by killap
 
+procedure SlaverCampNode01; //added by Lujo
+procedure SlaverCampNode02; //added by Lujo
+
 import variable vic_door_obj; //added by killap
 
 #define LVAR_Flags                        (4)
@@ -847,6 +850,7 @@ procedure Node1021 begin
    end else if (global_var(GVAR_VC_MET_ED) != ED_KNOWN) then begin //added by killap
       NOption(823, Node1207, 004);
    end
+   NOption(2405, SlaverCampNode01, 004); // by Lujo
    NOption(2404, PARTY_NODE_X, 004);
 end
 
@@ -895,3 +899,14 @@ procedure Node1111 begin
    // used drugs
    floater_rand(4700, 4708);
 end
+//added by Lujo begin
+procedure SlaverCampNode01 begin
+   Reply(6000);
+   NOption(6001, SlaverCampNode02, 004);
+end
+procedure SlaverCampNode02 begin
+   mark_on_map(AREA_SLAVER_CAMP)
+   Reply(6002);
+   NOption(6003, PARTY_NODE_X, 004);
+end
+// end added
