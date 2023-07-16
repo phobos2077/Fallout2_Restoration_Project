@@ -15,6 +15,8 @@
            Created: April 09 1998
 
            Updated:
+           
+           phobos2077: lowered XP reward for fixing computer
 */
 
 /* Include Files */
@@ -687,7 +689,7 @@ procedure Node018 begin
    set_global_var(GVAR_V13_COMP_QST, 2);   // Seraph - unlocked by killap
    inc_general_rep(REP_BONUS_V13_FIX_COMPUTER);
    inc_vault13_rep(REP_HERO_V13_FIX_COMPUTER);
-   give_xp(EXP_FIX_COMPUTER);
+   give_xp(3000); // pbs: lowered from 5000 (EXP_FIX_COMPUTER)
 
    Reply(181);
    if (local_var(LVAR_Give_Geck) == 1) then

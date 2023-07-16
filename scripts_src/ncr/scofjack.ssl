@@ -452,7 +452,7 @@ end
 procedure Node016 begin
    set_jack_state(JACK_SURRENDER);
    inc_general_rep(REP_BONUS_NCR_JACK_TALK_OUT);
-   give_xp(EXP_TALK_JACK_OUT);
+   give_xp(1000); // reduced by phobos2077 (was 6000 = EXP_TALK_JACK_OUT)
    inc_ncr_rep(REP_HERO_NCR_TALKED_JACK);
    warpJack := 1;
    Reply(151);
