@@ -57,6 +57,7 @@ procedure Node012;
 /* Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_ */
 #define LVAR_Flags                    (0)
+#define LVAR_Rest_Time                (1)  // by phobos2077
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -114,13 +115,18 @@ end
 
 procedure talk_p_proc begin
    if (algernon_dead == false) then begin
-      start_dialog_at_node(Node002);
-      set_herebefore;
-      if (algernon_dead) then begin
-         dude_floater(400);
-         kill_critter(self_obj, ANIM_bad_landing);
+      // by phobos2077: upgrade weapons only after rest
+      if (local_var(LVAR_Rest_Time) > game_time) then begin
+         display_mstr(500);
       end else begin
-         nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+         start_dialog_at_node(Node002);
+         set_herebefore;
+         if (algernon_dead) then begin
+            dude_floater(400);
+            kill_critter(self_obj, ANIM_bad_landing);
+         end else begin
+            nr_add_timer_event_rand(self_obj, 25, 35, float_param);
+         end
       end
    end
 end
@@ -273,7 +279,8 @@ procedure Node008 begin
       set_know_algernon_weapons;
    gfade_in(ONE_GAME_MINUTE);
    Reply(260);
-   NOption(261, Node007, 004);
+   set_local_var(LVAR_Rest_Time, game_time + (random(12,24) * ONE_GAME_HOUR)); // pbs: 12 to 24 hours resting time
+   //NOption(261, Node007, 004); // pbs: disabled
    NOption(262, Node999, 004);
 end
 procedure Node009 begin
