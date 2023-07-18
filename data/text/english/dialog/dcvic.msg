@@ -423,6 +423,31 @@
 
 {5000}{}{I'm a bit hungry at the moment. We'll talk again at Mom's.}
 
+#added by phobos2077 - craft pointers
+{5100}{}{Say, you're some sort of a mechanic aren't you? Can you actually *make* stuff?}
+{51001}{}{Could you run me again through your list of people who make stuff?}
+{5101}{}{Well, I AM a mechanic, boss, but, err, I'm more of a repairman. Not what you'd call a tradesman. Or a crafter.}
+{5102}{}{So you can't in fact make anything... meckanicky?}
+{5103}{}{Well... I can sharpen a spear.}
+{5104}{}{There's guys in my village who can sharpen spears! Do you know of anyone who's more of a crafter?}
+{51041}{}{That's better than nothing. Show me.}
+{5105}{}{Here's how you do it... [Vic explains] You'll need a piece of flint though. Mom probably has some.}
+{5106}{}{Ok, noted. Do you know of anyone who's more of a crafter?}
+{5107}{}{Oh, sure. There's Smitty in the Den, he's got his own workshop. Keeps trying to make a dead car run, but he's handy with explosives. He'd probably even teach you, I just never asked.}
+{5108}{}{Ok, that actually sounds good. Anyone else?}
+{5109}{}{Well, any town with lotsa cattle has someone who can work leather, boss. Some can make some fine armor, and there's probably someone in Trapper Town who can put togather a Leather Jacket. That's in Klamath.}
+{5110}{}{Ok, I see a lot of brahmin or trappers, someone is making armor. How about something a bit more advanced?}
+{5111}{}{Hmmm, well, if we're talking electronics, they have quite a setup in Vault City. Whoever is in charge of the mines and defenses is a pretty damned good at his job, I'll tell you that.}
+{5112}{}{Ok, so for electronics I go to Vault City, how about guns or ammunition?}
+{5113}{}{Eh, by the looks of it, there used to be more guns than people in this land even before the war. Lots of folks tweak them and make adjustments, but noone's making them as far as I know. Not the good ones, any way... But if we're talking ammo...
+ This is strange, boss, but I've seen some pretty effective custom made stuff out there, mostly in the Vault City area. But the Vault City guys aren't making it, so I have no idea who is. Whoever *is* making it is pretty incredible.}
+{5116}{}{Ok, so there's an anonymous ammunitions manufacturer somewhere around Vault City. Anyone else making stuff?}
+{5117}{}{Mom cooks a mean stew that puts you on your feet well enough.}
+{5120}{}{Say, anyone out there making actual medicine?}
+{5121}{}{Eh, someone definitely is making all the drugs. No idea who, though. As for medicine, well, I suppose a doctor of some sort could clue you in on that.}
+{5122}{}{Wow, you do actually know stuff. You just don't know how to do anything! Well, this was useful.}
+{5130}{}{I think I've heard enough.}
+
 #added by killap - NPC info
 {5500}{}{I feel like I broke a limb, Boss. You better have a look.}
 {5501}{}{I feel like I am burning up, Boss. You better have a look.}

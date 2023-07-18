@@ -213,3 +213,17 @@
 {824}{}{Thanks Mom. See you around.}
 {850}{}{You help establish an orphanage for the children of The Den.}
 
+# crafting - phobos2077
+{2001}{}{You must be quite the cook, Mom. Any pointers you could give me?}
+{2005}{}{Sure. I can show you how I make a fish soup and something else, too.}
+{2006}{}{Sounds great! Show me.}
+{2007}{}{I changed my mind.}
+{2010}{}{Well, I have a special recipe for fish soup and people seem to like my stew. I could teach you for $400. That's not cheap, but cooking is my livehood, you see.}
+{2011}{}{It's a deal.}
+{2012}{}{My, that's really expensive. I think I'll leave cooking to you then.}
+{2015}{}{Well, I didn't want to chase you away that easily. How about $200?}
+{2016}{}{That's better. I'll take it.}
+{2020}{}{OK, give me just a moment to find the recipes...}
+{2021}{}{... that's how my mother used to cook it. This special ingredient makes it really healthy.}
+{2022}{}{They must be feeling the aroma all the way over on the West Side! I think I'll go try to apply your technique, see if I got it down right.}
+{2023}{}{Thanks. Can I ask you something else?}

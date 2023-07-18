@@ -80,3 +80,39 @@
 {204}{}{You see someone who spends a lot of time in the wilderness. They're wearing
  a gecko-pelt shirt.}
 {205}{}{You see a trapper who makes his home in Trapper Town.}
+
+#by phobos2077 - alternative gecko skinning teacher
+{500}{}{What do you want, tribal?}
+{501}{}{You look like you know how to handle geckos. Can you teach me something?}
+{502}{}{Me wants skin Gecko. Trapper knows. Trapper teach us.}
+{503}{}{Nothing.}
+{505}{}{Damn right I can. But I see no reason to help you for free. $200 should cover it.}
+{506}{}{Here is your money.}
+{507}{}{I don't have such money.}
+{508}{}{Money, here.}
+{509}{}{No money, no money...}
+{510}{}{Trapper named Smiley taught me this. Good fella... Anyway, here's how you skin them (the Trapper demonstrates)... You will get your money back in no time. They give pretty decent price for those skins here.}
+{511}{}{Thanks, I'm sure that will come in handy.}
+{512}{}{Urk. Pretty, heh, heh, heh. Money. Heh, heh, heh. Bye.}
+{515}{}{Then we have nothing else to talk about.}
+{520}{}{I already taught you everything.}
+{521}{}{There is nothing else I can do for you.}
+{522}{}{You better go out and hunt some geckos.}
+{523}{}{Those golden geckos can be very profitable for their skin.}
+
+# leather jacket crafting
+{530}{}{Hey, what do people do with all the gecko skins?}
+{531}{}{They make tough clothing and leather armor, as far as I know. Well, I know they make leather jackets, because I even know how to do it.}
+{532}{}{You know how to make a leather jacket? Could you teach me?}
+{533}{}{Sure, if you give me $200. Don't ask me, how to make Leather armor though, there's more to it than I know. Jackets are simple enough.}
+
+{534}{}{All right, here's your money.}
+{535}{}{I think I'll pass.}
+
+{537}{}{All right, you don't need more than silver gecko pelts, a load of rope and some patience (the Trapper takes you through the process). And there you go - leather jacket.
+ If I were younger I'd go find someone who could teach me what the deal with proper leather armor is. Much better use of Gecko pelts. But few people can make them, all the good leather comes from Modoc.}
+
+{540}{}{Who's Modoc?}
+
+{541}{}{Buggered if I know. It's just something people say, "All good leathers come from Modoc". We get ours from the Den, like everything else. As far as I know.}
+{542}{}{Oh, well, if that's so. Thanks for the leathercrafting tips, anyway.}

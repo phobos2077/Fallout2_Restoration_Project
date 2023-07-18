@@ -317,3 +317,33 @@
 {327}{}{Thanks for the advice, Doc. This is great. Hey, let me ask you about something else.}
 {328}{}{Thanks for your handiwork, Doc. I better be moving on now. Goodbye.}
 {329}{}{You deliver the Jet antidote to Doc Johnson.}
+
+# phobos2077 crafting
+{501}{}{Say, you think you could show me how to make drugs myself?}
+{502}{}{Where can I learn about more advanced drugs?}
+
+{510}{}{I could... Pay me $1000 and I'll show you how to mix some stuff.}
+{511}{}{Uh.. Okay, here you go.}
+{512}{}{That's a lot of money...}
+{513}{}{Cut it down to $500 and I'm in.}
+{514}{}{Never mind.}
+
+{520}{}{Time is money and information is gold, you know. My recipes are *very* useful.}
+{521}{}{Hm.. maybe you're right. Here is your thousand.}
+{522}{}{Hm.. I think you're just *afraid* that I might ruin your business making my own drugs and selling them next door. Is that it?}
+
+{530}{}{What?! Me afraid of your chemistry skills? That's ridiculous! Take them for... $400.}
+{531}{}{That's a deal. Let's get started then.}
+{532}{}{I changed my mind.}
+
+{540}{}{No. $750 is as low as it gets.}
+{541}{}{Deal. Let's get started.}
+
+{550}{}{[Doctor briefly disappears in his back room and returns with a few notebooks.] Let's start with antidotes,
+ they are fairly easy...}
+{551}{}{... and this chemical reaction allows you.. Ah well, I bet you don't understand a single word. You need to step up your basic chemistry and medicine.}
+{552}{}{I'll figure it out, thanks.}
+{553}{}{That's useful indeed. Let me ask you something else.}
+
+{560}{}{More advanced than this? You'd need a proper scientist for that. Either try the Vault City, the Vault in the Vault City, that is or...
+ I have no idea. Someone *is* making jet, so I suppose there's at least a few other scientists out there somewhere, but good luck finding them.}

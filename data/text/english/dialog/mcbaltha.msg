@@ -96,3 +96,19 @@
 #added by killap - RP
 {240}{}{Please, bring my son back to me safely.}
 
+
+# phobos2077 crafting
+{1001}{}{Actually I was wondering if you could teach me about tanning?}
+{1002}{}{Not yet, sorry... Maybe you can teach me about tanning, though?}
+{1003}{}{Can you teach me about tanning?}
+{1010}{}{I could teach you... but I'm not sharing no trade secrets for less than 400$.}
+{1011}{}{It's a deal.}
+{1012}{}{Let's cut it to $200.}
+{1014}{}{Not interested.}
+{1020}{}{$300 is my final offer.}
+{1030}{}{Sure thing! For saving my son, you have all my attention. Let's get started, shall we?}
+{1031}{}{Yes.}
+{1032}{}{Maybe later.}
+{1040}{}{OK, so first you need to understand that this involves a ton of rope...}
+{1041}{}{... and if you've stitched it all right you got yourself a fine piece of armor. Oh, and if you can get your hands on some metal junk - you could probably attach that for extra protection.}
+{1042}{}{This will definitely come in handy!}

@@ -131,7 +131,7 @@
 {310}{}{Now, you put the pieces like so...}
 {311}{}{The Chosen One without a spear? Well, you'll have to take one of
  mine. Now, let's get to work...}
-{312}{}{Here is your new spear.}
+{312}{}{Here is your new spear. Now you know how to sharpen your blades.}
 {313}{}{Thank you, my friend -- this will help a lot.}
 {314}{}{Yes, but I was wondering about your spear. It looks a little
  different.}

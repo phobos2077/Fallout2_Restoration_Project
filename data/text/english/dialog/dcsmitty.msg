@@ -146,3 +146,23 @@
 {650}{}{Don't let me catch you sneaking around my car like that again.}
 {651}{}{You won't.}
 {652}{}{Uggg-K}
+
+# Crafting
+{701}{}{Say, you look like a seriously skilled mechanic! You think you could teach me a thing or two?}
+{702}{}{Pretty good, Smitty. Thanks! Say, mind showing me a thing or two about your craft?}
+
+{710}{}{Heh, I could teach you more than a few things, if it's grenades and explosives you're interested in. How about $200?}
+{711}{}{Sure thing, compadre. If you're interested in grenades and explosives I could teach you how to put them together. Interested?}
+{712}{}{Show me.}
+{713}{}{How about $100?}
+{714}{}{No.}
+{715}{}{I don't have the money.}
+
+{730}{}{Ok, I'll knock it down to $125. How's that sound?}
+
+{720}{}{Okay. First thing you need to remember is to not blow yourself up while you're at it...}
+{721}{}{...and then you toss 'em towards the other guys. Should mess 'em right up. Can't say I know more about it than that.}
+{722}{}{Thanks.}
+{723}{}{Thanks. Can I ask something else?}
+
+{740}{}{You have learned how to make explosives.}

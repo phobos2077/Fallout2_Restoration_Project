@@ -261,3 +261,18 @@
 {358}{}{}
 {359}{}{Hey, I have those tools you wanted.}
 {360}{}{It doesn't look like you have much of anything that I could tinker with. I mostly do pistols, rifles, that sort of thing.}
+
+# phobos2077: crafting
+{501}{}{Hey, you look like you're handy with tools. Could you teach me anything?}
+{502}{}{Actually I was wandering if you could you teach me anything?}
+{505}{}{Yeah, I'm about angry enough at the management to teach you some pretty good electronics.}
+{506}{}{Oh, without compensation?}
+{507}{}{Naah, wouldn't want to get you into trouble.}
+{510}{}{Oh, with compensation, deffinitely. It'll take a $%1%.}
+{511}{}{Never mind.}
+{512}{}{So much? Really? how about $%1%?}
+{515}{}{You know what, I'll do it. $%1% it is.}
+{516}{}{Let's get to it.}
+{520}{}{I'll teach you how to make mines with sensors, those things go off if you just look at them funny...}
+{521}{}{...and that's how you do it. You'd think I made you the terror of the wasteland right now, right? Well, it's not so simple - these things require fusion cells, and good luck finding any.
+ Only people who can get a hold of any are the ones crazy enough to try to trade with the ghouls.}

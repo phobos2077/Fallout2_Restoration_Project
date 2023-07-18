@@ -263,4 +263,20 @@
 {700}{}{You delivered the part to Skeeter.}
 {710}{}{You delivered the repair kit to Skeeter.}
 
+# phobos2077 crafting
+{1001}{}{Actually I was wondering if you could teach me to upgrade my weapons?}
+{1010}{}{I don't go around teaching random smoothskins how to upgrade weapons. Besides, you would need a propper workshop...
+ I could, however, teach you a thing or two about making ammunition - it's a hobby of mine. I could clue you in for... lets say, $500.}
+{1011}{}{It's a deal.}
+{1012}{}{$500? That's ridiculous! I can shoot things dead enough with the regular ammo.}
+{1013}{}{I could only give you $250.}
+{1014}{}{Not interested.}
+{1020}{}{No way, it's not like you can learn about it anywhere else. $400 is my final offer.}
+{1030}{}{This is my intellectual property, and that doesn't come cheap. Pay or go away.}
+{1031}{}{OK, fine.}
+{1032}{}{Forget it.}
+{1040}{}{OK, let's see it then...}
+{1041}{}{... hope it'll be useful.}
+{1042}{}{I hope so too. Tell me something else.}
+
 {5500}{}{.}

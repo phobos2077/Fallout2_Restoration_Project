@@ -358,3 +358,21 @@
 {397}{}{Guards!}
 {398}{}{Zzzzzzz.}
 {399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}
+
+
+# phobos2077 crafting
+{1001}{}{Actually, I am seeking knowledge about advanced drugs.}
+{1010}{}{I really don't have time for teaching, you know. We have a large community here and a lot of patients to treat...}
+{1011}{}{Maybe we can work something out? I'd consider this information extremely valuable.}
+{1012}{}{Forget it, then.}
+{1020}{}{In this case... I would need proper compensation for my trouble. I suppose $2000 would be enough...
+ OR, maybe you can really help my clinic with some supplies. We can usually produce all we need, but a specific poison requires scorpion tails, and we have trouble obtaining those.
+ If you could bring me at least 8 large tails, it would help us a lot.}
+{1021}{}{Let's cut this to $1000.}
+{1022}{}{Here is the money.}
+{1023}{}{Here are your tails.}
+{1024}{}{I changed my mind.}
+{1030}{}{I do not barter, I'm a very busy man. And that is how much my time costs.}
+{1031}{}{OK, fine, here is the money.}
+{1040}{}{Good. Now let's get this over with... }
+{1041}{}{[Doctor Troy explains some basics of pharmaceutics and then uploads several schematics to your pipboy.] Done. Good luck with that.}
