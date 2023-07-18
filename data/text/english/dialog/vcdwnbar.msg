@@ -157,3 +157,8 @@
 {256}{}{Thankie wankie my stankie}
 {257}{}{Shamble off}
 {258}{}{Zzzzzzzz.}
+
+# by Lujo - flow fixes
+{259}{}{That's for sure. I used to have a... well, I used to know this merchant who'd smuggle in some incredible wine. Problem was, it was so good that word got out and he got thrown out for good. Never happened with any regular booze that managed to find it's way in, though.}
+{260}{}{Where in the world did he find any kind of wine, let alone the good stuff?}
+{261}{}{I have no idea. The guy was strange, he'd sit there for hours an read books. But his wine got me in trouble so I haven't been able to sneak in any plain old booze and my stash dried up. I've got friends who'd pay quite nicely for some real stuff.}

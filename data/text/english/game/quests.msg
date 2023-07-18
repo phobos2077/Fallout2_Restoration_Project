@@ -74,6 +74,8 @@
 {510}{}{Resolve the problem with the nearby village.}
 {511}{}{Get weapons for Connar to be used at the nearby village.}
 {512}{}{Put the Village on a trade route.}
+# new quest by Lujo/phobos2077
+{513}{}{Scout the eight sectors around Broken Hills and return to Stark.}
 
 #
 # Gecko Quests

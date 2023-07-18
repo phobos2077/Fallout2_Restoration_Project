@@ -155,7 +155,7 @@
 
 {380}{}{I was just one of many normal rats in an advanced research lab. Then, one day, there were
  explosions. Our cages were broken open, and we were doused with some sort of fluid from a huge vat.}
-{381}{}{Then what?}
+{381}{}{Oh? What happened when it all went to hell?}
 
 {390}{}{I crawled outside. As I began to heal, I noticed that I had changed. I tried to communicate with
  people, but they all just tried to kill me. Humans are just too violent to survive under their own
@@ -301,7 +301,7 @@
 {709}{}{Listen here, you radioactive rat. You're really starting to piss me off. You said your "kin" had kicked the bucket... Well, I want you to know -- it was me, who finished him off. And now I think I'll finish the job of rendering your kind extinct.}
 {710}{}{Listen here, you radioactive rat. You're really starting to piss me off. I think it's time I put a stop to this madness.}
 {711}{}{I need to think this over.}
-{712}{}{Most interesting... and here I thought you were concerned for the well-being of Vault City. Anyway, the safety of that village is integral to my plan. Therefore, I shall grant your request, human.}
+{712}{}{The safety of that village is integral to my plan. Therefore, I shall grant your request, human. For your asistance I shall count you among the ones who have earned Renewal.}
 {713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
 {714}{}{Thank you! What were you saying about the optimization?}
 {715}{}{Thank you! Bye.}
@@ -313,3 +313,6 @@
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
 {720}{}{Very well, I shall help you.}
 {721}{}{No, screw you rat brain! I've had enough of this. Time to die!}
+
+{800}{}{What was this lab?}
+{801}{}{It was called the Environmental Protection Agency, funnily enough. I do not remember that place fondly, and all things considered I am glad to have made the long trek of exactly [procedes to explain the exact distance and angle relative to his current position].}

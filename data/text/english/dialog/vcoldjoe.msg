@@ -43,11 +43,11 @@
 
 {133}{}{Thanks. One more thing though. I'm trying to help this little village that's north-east of here. A guy there named Connar told me to seek you out and speak with you.}
 {134}{}{Connar, huh? He's a good guy. I've been keeping my eye on things for him. So what exactly does Connar want, now?}
-{135}{}{He's trying to get his hands on some weapons. He thinks if they had some firepower, they'd be able to keep the Vault City patrols at bay.}
-{136}{}{Ah, so that's his new plan, eh? Well, head over to Happy Harry's general store. Tell Harry Connar sent you, and he should be able to fix you up -- I believe he's got some guns stashed away for just such an occasion. But if you ask me, I'm not sure this is the best way to handle things.}
+{135}{}{He's trying to get his hands on some explosives. He thinks if they had that kind of firepower, they'd be able to make the Vault City patrols give them a wide berth.}
+{136}{}{Ah, so that's his new plan, eh? Well, head over to Happy Harry's general store. Tell Harry Connar sent you, and he should be able to fix you up -- I believe he's got a case or two of grenades stashed away in case Stark ever gets funny ideas. But if you ask me, I'm not sure this is the best way to handle things.}
 {137}{}{I'm off to speak with Harry then. Take care ol' friend.}
 {138}{}{Why, what do you mean?}
-{139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
+{139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Sooner or later they'll run out of explosives, and it won't take too long for Vault City to find out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
 {140}{}{Hmm... I may have to consider this. Thanks for everything, bye.}
 {141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
 {142}{}{Yeah, what about them?}
@@ -58,7 +58,7 @@
 {147}{}{Wait a minute! Connar told me you have some information.}
 {148}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care.}
 
-{150}{}{He was interested in getting some weaponry to fight off the Vault City patrols, but I convinced him that there's a better solution.}
+{150}{}{He was interested in getting some explosives to fend off the Vault City patrols, but I convinced him that there's a better solution.}
 {151}{}{Ah, so that's his new plan, eh? Yeah, Connar's a good man, but he doesn't always think things all the way through. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller.}
 
 {152}{}{Well, any idea who on the council I might be able to talk to?}
@@ -84,3 +84,8 @@
 {208}{}{I'm sure they were. Thanks for the story Joe, er, Ian. I was curious about the molerats that are guarding the village though.}
 
 {300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}
+
+{301}{}{If we talk too often they'll find out I'm helping you out. What is it?}
+{302}{}{One important thing - how *did* Connor get a bunch of huge rats to protect the village?}
+{303}{}{That, I'm not sure about. The way I herd it, a bunch of ghouls came by with them in tow. That's pretty much all I know. You might wanna ask Connor about it, or check Gecko out. That place is bustling with ghouls.}
+{304}{}{Interesting, thank you and goodbye.}

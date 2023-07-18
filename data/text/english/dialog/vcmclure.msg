@@ -243,7 +243,7 @@
 {341}{}{Perhaps. I had some other questions...}
 {342}{}{Maybe so. I'll go see.}
 {343}{}{You told McClure about the Jet antidote delivery.}
-{344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
+{344}{}{The disk shows that if the plant is fully functional and optimized, it can produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
 
 {345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
 {346}{}{Actually, yes. Sergeant Stark reported something on this to me recently. What interest do you have in this matter?}
@@ -255,7 +255,7 @@
 {352}{}{An interesting proposition, but how exactly do you plan to deal with all those rat creatures?}
 {353}{}{I think I might know who *is* controlling them.}
 {354}{}{Don't really know, but I'll think of something. I always do.}
-{355}{}{Really? Very well then, I'll take your word for it. The raid will be postponed for a month.}
+{355}{}{Really? Very well then, I'll take your word for it. I will tell Stark to postpone any raids for a month.}
 {356}{}{You're a good man, McClure, and you won't regret this. I'll be back once the problem's taken care of.}
 {357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
 {358}{}{Thank you!}
@@ -264,3 +264,13 @@
 {360}{}{This is quite interesting.} #was 345-killap
 
 {370}{}{Alright. Well, I won't get in your way then.}
+
+# by Lujo:
+{371}{}{The villagers are too well armed to attack, but there might be a way to get rid of the rats regardless.}
+{372}{}{Really? I'm certainly more interested in a peaceful solution. I will tell Stark to postpone any raids for a while.}
+{373}{}{By pests, you mean just the rats, or the future servants?}
+{374}{}{I don't like the implication that Vault City would go around "raiding" for servants. We are not slavers. Officially, the orders Stark was given do not include any mention of servants. But he *is* showing these people a great mercy. However you look at it, there are rats right outside the walls, and these people are responsible.}
+{375}{}{In other words, if the villagers don't have a bunch of rats loafing around... Excuse me while I go check something out!}
+{376}{}{What if the villagers aren't the ones controlling the rats? What if I could make the rats go away?}
+{377}{}{Have you had any luck in persuading the villagers to do away with the rats?}
+{378}{}{I'm still working on it.}

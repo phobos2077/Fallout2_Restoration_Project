@@ -32,20 +32,20 @@
 
 {129}{}{Connar sent me for the goods.}
 {130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
-{131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
+{131}{}{[Harry brings you the explosives.] Here, take em. That'll be four thousand, and let's make this snappy.}
 {132}{}{Of course, here's the money.}
-{133}{}{But Connar only gave me five grand.}
-{134}{}{But Connar only gave me two grand.}
-{135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
+{133}{}{But Connar only gave me two and a half grand!}
+{134}{}{But Connar only gave me one grand.}
+{135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with explosives, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
-{137}{}{Excellent. But remember, you didn't buy these weapons here.}
+{137}{}{Excellent. But remember, you didn't buy these explosives here.}
 {138}{}{It's a deal. Bye.}
 {139}{}{[MORE]}
 {140}{}{Well then, wait a bit until I get the money.}
 {141}{}{Well, have you brought the money?}
-{142}{}{What if I just give you five grand?}
-{143}{}{What about two grand?}
-{144}{}{Ehmmm... ten grand?! I don't have that much money; wait a bit until I get it.}
+{142}{}{What if I just give you twenty five hundred?}
+{143}{}{How about a thousand?}
+{144}{}{Ehmmm... four grand?! I don't have that much money; wait a bit until I get it.}
 {145}{}{Damn! Who could possibly have turned me in?!}
 {146}{}{Hey! What was I imprisoned for?}
 {147}{}{Well, at least the food's not bad.}

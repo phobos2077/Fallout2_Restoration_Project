@@ -302,7 +302,7 @@
 {396}{}{No, not my kind of job. Goodbye.}
 {397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters... and any other threat.}
 {398}{}{Bye.}
-{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
+{399}{}{What for? [He hesitates for a moment, then frowns.] Because they're huge damned rats and they're running around too damned close to the walls. I've got orders here - the only reason I'm offering you the job is because I don't want to put any of my boys in danger unless I have to }
 {400}{}{Got it. I'll take the job.}
 {401}{}{It's clear. What's with that village, anyway?}
 {402}{}{About that village...}
@@ -310,13 +310,13 @@
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
 {405}{}{Yes.}
 {406}{}{Not yet.}
-{407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
-{408}{}{They're happy right where they are.}
-{409}{}{Doesn't matter. Will you complete your task or not?}
-{410}{}{Ok. I'll finish it.}
-{411}{}{No, I don't think so. }
+{407}{}{You were missinformed. The rats are the main objective. But we *are* going to take the villagers as servants -- it's for their own good. Here, they'd be well fed and taken care of.}
+{408}{}{It kind of looks like they're happy with where they are.}
+{409}{}{You mean to say they'd rather live with rat shit up to their knees than be servants in Vault City? Either you're mad, or they are. And besides, I was *ordered* to remove the threat those rats pose, the only way it turns into a paying job is if there's servant money at the end. The question is do you want the job, or do I send in a squad in to get it done.}
+{410}{}{Ok, understood. Back to the job.}
+{411}{}{I don't think I want to be part of this.}
 {412}{}{Great, return when you are done.}
-{413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
+{413}{}{All right, I'm dispatching a battle squad there immediately. Somebody HAS to do it.}
 {414}{}{[DONE]}
 {415}{}{Return when all is done.}
 {416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
@@ -327,10 +327,45 @@
 {421}{}{It's not slavery, but a mutually beneficial co-existence, a symbiosis so to speak.}
 {422}{}{Disgusting! Goodbye.}
 {1422}{}{Well, I agree. They're better off this way. Goodbye.}
-{423}{}{Those primitives must have lost their minds completely. They obtained weapons from somewhere, and started shooting us on sight! So I gave it another thought. Hell with them. After all, it's not like we're short on slaves... I mean servants.}
+{423}{}{Those primitives must have lost their minds completely! They started shooting at us on sight! They even started lobbing grenades at us! So I called the whole thing off.}
 {424}{}{What village? Oh, the one we got our new servants from... what about it?}
 {425}{}{You say what!? You enslaved them all?}
-{426}{}{I know who provided them with weapons. It was that trader in the courtyard, Harry. }
+{426}{}{I know who provided them with explosives. It was that trader in the courtyard, Harry. }
 {427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
 {428}{}{I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. }
 {429}{}{Hmm... Ok.}
+
+# by Lujo - flow fixes
+{430}{}{Hmmm, how about a scouting? Is there somewhere else you want reconaissance on?}
+{431}{}{There is. I need you to scout the area around Broken Hills. It's a mining comunity down south, we don't know much about them. Still, their caravans go north after they stop here, so we suspect they might be in cahoots with the ghouls.}
+{432}{}{So... same deal as with Gecko? Scout the place out?}
+{433}{}{Same deal. Get the lay of the land around Broken Hills, return here for your reward. There's no rush so don't go unprepared - from the little we've seen the terrain looks nasty.}
+{434}{}{You have scouted Broken Hills for Vault City.}
+{435}{}{Mutants and humans mixing up? Really? It's a sick world out there... Well, it's not your fault. Here's your pay, you earned it.}
+{436}{}{I surveyed the area around Broken Hills for you.}
+{437}{}{Is there anything that you need done closer to home?}
+{438}{}{Do you have anything closer to home? I don't think I'll be going that way right now.}
+{439}{}{I surveyed the area around Broken Hills for you.}
+{440}{}{You have one month to get it done. Any later than that and I'm sending a squad in, they shoot the place up and you don't get paid. I don't want to risk my boys unless I need to, so you better get to it right away. Understood?}
+{441}{}{Yes?}
+{442}{}{Understood. A few questions before I get on it?}
+
+{443}{}{Understood. Getting right on it!}
+{444}{}{Well, at least you don't have to bother with them anymore, right?}
+{445}{}{To hell with them. We have enough servants as is. If I got a whole squad blown to pieces over this McClure would forget about his bullshit principles just long enough to make ME a servant.}
+{446}{}{So, it's over?}
+{447}{}{Like hell it is, now there's a bunch of rats attacking our patrols and we can't do anything about it! The council wants the rats gone, but they also don't want anyone getting blown up. So I'm screwed.}
+{448}{}{Well, I'm sure you'll think of something, I'm out of this. I don't want to get blown up either.}
+{449}{}{Ok, if I ever find a way to get rid of the rats I'll let you know.}
+{450}{}{Who does? And yeah, I guess we'll just have to be content with shooting off any rats that come too close and that's it. I've got nothing to pay you with, but you got out of it alive, so that's something.}
+{451}{}{Let the council know. And if you make the rats go away, tell them there's no threat. Because I'm not too hot on the idea of getting my men killed over one lousy village. Hell, if you could get the council to let it go right now, I wouldn't mind it one bit.}
+{452}{}{Yep. I'm glad I got out in on piece. Bye.}
+{453}{}{Sure thing.}
+{454}{}{Sure thing. Another question?}
+{455}{}{McClure ordered me to postpone the raid for one month. I'll postpone it permanently, just make sure you get it all sorted out so he forgets there ever was a problem.} 
+{456}{}{Well, what do I do now? Can I help?}
+{457}{}{You can drop the whole thing right now, I won't blame you. If you could find a way to make the rats go away, that would get the council off my ass. And I'd love to get my hands on the son of a bitch who gave those savages explosives.}
+{458}{}{I have to think about this. I'll see you when I do.}
+{459}{}{[Lie about it]. Ok, I'll do it for you.}
+
+{460}{}{Those primitives must have lost their minds completely! They started shooting at us on sight! They even started lobbing grenades at our patrol! Lucky for us, proconsul McClure ordered us to call everything off for a while.}

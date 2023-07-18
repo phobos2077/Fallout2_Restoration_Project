@@ -319,8 +319,8 @@
 
 {776}{slk47}{Trader named Vic supposed to be here. He be saying he know about slavers. We show up, didn't
  peep him, get pretty hot.}
-{777}{}{Vic's here but I don't think he knows much about slaves. Other than being held as one in the
- Den, that is. Tell me something else.}
+{777}{}{Vic's here and he ran into the slavers too, and they were holding him as one in the
+ Den. Tell me something else.}
 {778}{}{Bye.}
 
 {779}{slk48a}{Slavers got our sis. Thought Vic be having information. Couldn't peep him, got p.o.'d, drank
