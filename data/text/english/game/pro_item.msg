@@ -1155,3 +1155,76 @@
 {59501}{}{Nothing out of the ordinary.}
 {59600}{}{Fake Heart Pills}
 {59601}{}{These pills would normally be used by people with heart problems, except in this case death would ensue. These pills have been mixed with other chemicals, resulting in a guaranteed heart-exploding experience.}
+{61000}{}{.50 BMG}
+{61001}{}{Large caliber ammunition 12.7x99 armour piercing. This bullets can penetrate a tank.}
+{61100}{}{Throwing Axe}
+{61101}{}{Throwing axe. Perfectly balanced and sharpened. Work of a master blacksmith. Min ST: 5.}
+{52901}{}{}
+{61200}{}{Dragon Skin}
+{61201}{}{This strange drug makes user invulnerable to fire. Nasty side effects are reported.}
+{61300}{}{Home-made grenade}
+{61301}{}{This grenade was made from junk. However it does its job in dismembering people pretty well. Min ST: 3.}
+{61400}{}{12 ga. Slugs}
+{61401}{}{Shotgun ammunition. Loaded with heavy lead for large game hunting.}
+{61500}{}{.223 AP}
+{61501}{}{A case of .223 caliber ammunition, armor piercing.}
+{61600}{}{Mine-Trap Kit}
+{61601}{}{Disassembled floor plate trap. Contains pressing mechanism with a detonator. Can be armed with all kinds of explosives or grenades.}
+{61700}{}{Taser}
+{61701}{}{Police issue X46 Taser. Non-lethal weapon used to temporarily stop the target. Min ST: 3.}
+{61800}{}{Spike Trap}
+{61801}{}{This trap consists of a crude triggering mechanism and a number of sharp spikes. It can be used several times before the spikes are worn out.}
+{61900}{}{Proximity Mine Kit}
+{61901}{}{A mine-trap kit, consisting of a plastic shell and a simple proximity sensor with detonator. Can be armed with all types of explosives or grenades.}
+{62000}{}{Hercules}
+{62001}{}{This drug increases strength of certain muscle groups, allowing to lift and carry heavy items.}
+{62100}{}{Severed Arm}
+{62101}{}{An arm brutally cut from the body. There is a tattoo that indecates a gang and a rank of the victim.}
+{62200}{}{Death Claw}
+{62201}{}{A sharp claw ripped from a powerful creature. Its unique properties make it very valuable among traders and collectors alike.}
+{62300}{}{Mole Rat Hide}
+{62301}{}{A sturdy piece of mole rat skin. Great material for leather armor.}
+{62400}{}{Mutant Tentacle}
+{62401}{}{A tentacle, severed from a mutant. It is said to be very useful in a medical field. Only doctors know why...}
+{62500}{}{Wanamingo Hand}
+{62501}{}{A hand taken from a dead wanamingo. Extraordinary hardness that allows the creature to dig tunnels through solid rock also makes it useful in many ways.}
+{62600}{}{Bone Amulet}
+{62601}{}{A tribal amulet, carefully carved from bones. Unique image on the amulet indicates the tribe of origin and the name of the warrior who should wear it.}
+{62700}{}{Fish Soup}
+{62701}{}{Healthy soup made from local fish and some other strange ingredients. Really good aroma!}
+{62800}{}{Meat Stew}
+{62801}{}{Very healthy stew made with meat, fruits and some spices. Grandmother's recipe.}
+{62900}{}{9mm SMG}
+{62901}{}{This old pre-war sub-machine gun was primarily used by police forces. It is inferior to other SMGs, but can still be found in the wastes. Caliber: 9x19mm. Min ST: 4.}
+{63000}{}{Grenade Launcher}
+{63001}{}{40mm M79 grenade launcher. Sawed-off for concealed carry. Needs reload after each shot, but still effective against large groups. Min ST: 4.}
+{63100}{}{40mm HE Grenades}
+{63101}{}{High-explosive frag grenades. Caliber 40x46 mm. Typically used with M79 grenade launcher.}
+{63200}{}{40mm IC Grenades}
+{63201}{}{Incendiary grenades. Caliber 40x46 mm. Useful for fast clearing of rooms and other positions.}
+{63300}{}{14mm JHP}
+{63301}{}{Large caliber ammunition. 14mm jacketed hollow-points.}
+{63400}{}{MGL}
+{63401}{}{Milkor MGL is a lightweight 40mm six-shot revolver-type grenade launcher. It has enough firepower to quickly create chaos in a wide area. Min ST: 5.}
+{63500}{}{Traps and Explosives}
+{63501}{}{This book describes ways to set and disarm traps, and how to make explosives without getting blown up in the process.}
+{63600}{}{Capital}
+{63601}{}{Capital: A Critique of Political Economy. Book describes the process of circulation of capital. You already feel as it starts to circulate towards your pocket.}
+{63700}{}{Boomerang}
+{63701}{}{Ancient thrown weapon. Min ST: 3.}
+{63800}{}{Spiked Sledge}
+{63801}{}{Heavy sledgehammer with sharp spikes for additional effect. Min ST: 6.}
+{63900}{}{Piston Spear}
+{63901}{}{Spear with a pneumatic piston built into the end. It is designed to do more impact damage. Min ST: 5.}
+{64000}{}{Deathclaw Gauntlet}
+{64001}{}{A sturdy leather gauntlet with three claws attached to it. Extremely sharp. Min ST: 3.}
+{64100}{}{12 ga. Dragon Breath}
+{64101}{}{These incendiary shells pack a fiery punch that can melt armor and flesh alike.}
+{64200}{}{7.62mm AP}
+{64201}{}{Ammunition. Caliber: 7.62mm armor piercing.}
+{64300}{}{Cowboy Repeater}
+{64301}{}{Winchester lever-action rifle, in .44 magnum. Min ST: 4.}
+{64400}{}{14mm SMG}
+{64401}{}{When you need the most firepower in the smallest package. Caliber: 14mm. Min ST: 6.}
+{64500}{}{Bear Trap}
+{64501}{}{This trap can hold down a large animal, like a bear. But there are no bears around here...}

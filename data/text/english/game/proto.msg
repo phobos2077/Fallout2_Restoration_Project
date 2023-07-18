@@ -71,6 +71,8 @@
 {316}{}{4.7mm caseless}
 {317}{}{HN needler}
 {318}{}{7.62mm}
+{319}{}{.50 cal}
+{320}{}{40mm grenade}
 
 #
 # Race Types
@@ -256,6 +258,8 @@
 {804}{}{You learn new ways to heal injury.}
 {805}{}{You learn how to handle your guns better.}
 {806}{}{You learn a lot about wilderness survival.}
+{807}{}{You learn how to plant and disarm traps better.}
+{808}{}{You learn a lot about economics.}
 #
 # Use on messages (and some extra stuff that Jesse needed)
 #
