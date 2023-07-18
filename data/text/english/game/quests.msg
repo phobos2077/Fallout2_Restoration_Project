@@ -55,6 +55,8 @@
 {407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Go to the Den and tell Karl it's alright to come back home.}
 {409}{}{Guard Grisham's brahmin.}
+# phobos2077:
+{421}{}{Bring 10 molerat hides to Balthas.}
 
 #
 # Vault City Quests
@@ -146,6 +148,11 @@
 {1111}{}{Stop the brahmin raids.}
 {1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
 {1113}{}{Wipe out the Slaver Camp to the north west, for the Rangers.}
+# new quests added by phobos2077
+{1120}{}{Take down a tribal traveling around Modoc and bring proof to Deputy Karl.}
+{1121}{}{Take down a group of villains somewhere east of Broken Hills. Bring proof to Karl.}
+{1122}{}{Eliminate an armed gang last seen to the east of San Francisco. Bring proof to Karl.}
+{1123}{}{Bring 10 mutant tentacles to Dr. Henry.}
 
 #
 # Vault 13 Quests
@@ -167,6 +174,8 @@
 {1401}{}{Break up the bar brawl.}
 {1402}{}{Find out who cut the whore.}
 {1403}{}{Kill Frog Morton.}
+# new quests added by phobos2077
+{1411}{}{Eliminate a gang of robbers roaming around town and report to Ascorti.}
 
 #
 # San Francisco Quests

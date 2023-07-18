@@ -53,7 +53,9 @@
 {152}{}{Thanks. I'll do that.}
 {153}{}{Know anything about a GECK?}
 {154}{}{Well, that's damn fine of you, stranger - and damn presumptuous, too. I don't know you from Adam and Eve and I don't like the way you look! I'm not recommending you to anybody. Now, I got work to do.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
+# phobos2077 changed line:
+{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.
+ If you're a bounty hunter, talk to my deputy Karl at the office. He'll find you a suitable task.}
 {156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 
 

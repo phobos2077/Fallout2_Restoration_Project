@@ -786,6 +786,8 @@
 {3975}{}{A man guarding a bridge.}
 {3976}{}{King Arthur's Knights fighting a rat.}
 {3977}{}{Some angry bandits.}
+{3978}{}{A group of adventurers.}
+{3979}{}{Some molerats.}
 
 # Encounter Table 20
 {4000}{}{Some highwaymen tracking with wild dogs.}
@@ -1271,6 +1273,12 @@
 {4820}{}{Some prospectors.}
 {4821}{}{A man guarding a bridge.}
 {4822}{}{King Arthur's Knights fighting a rat.}
+{4823}{}{A gang of robbers in a small camp.}
+{4824}{}{A gang of robbers in a small camp.}
+{4825}{}{A gang of robbers patrolling the area.}
+{4826}{}{A gang of robbers in a small camp.}
+{4827}{}{A gang of robbers in a small camp.}
+{4828}{}{A gang of robbers patrolling the area.}
 
 # Encounter Table 37
 {4850}{}{A pack of wolves and some molerats.}
@@ -1752,6 +1760,7 @@
 {5866}{}{A Unity patrol.}
 {5867}{}{A man guarding a bridge.}
 {5868}{}{King Arthur's Knights fighting a rat.}
+{5869}{}{A strange group of armed adventurers.}
 
 # Encounter Table 58
 {5900}{}{A band of mercenaries.}
@@ -1904,6 +1913,7 @@
 {6167}{}{A caravan.}
 {6168}{}{A caravan.}
 {6169}{}{A band of angry mercenaries.}
+{6170}{}{A strange group of heavily armed individuals.}
 
 # Encounter Table 64
 {6200}{}{Toxic waste dump.}
@@ -2194,3 +2204,31 @@
 {6772}{}{A tin woodsman.}
 {6773}{}{The Unwashed Villagers hunting a spammer.}
 {6774}{}{The Cafe of Broken Dreams.}
+
+# Encounter Table 76
+{6800}{}{Toxic waste dump.}
+{6801}{}{A lone surviving dog.}
+{6802}{}{A herd of brahmin.}
+{6803}{}{Some highwaymen tracking with wild dogs.}
+{6804}{}{Some bounty hunters.}
+{6805}{}{Some bounty hunters.}
+{6806}{}{Some bounty hunters.}
+{6807}{}{Some bounty hunters.}
+{6808}{}{Some bounty hunters.}
+{6809}{}{Some bounty hunters.}
+{6810}{}{Some bounty hunters.}
+{6811}{}{Some bounty hunters.}
+{6812}{}{A band of ruffians led by a Morton Brother.}
+{6813}{}{A band of highwaymen.}
+{6814}{}{A pack of wild dogs amongst some spore plants.}
+{6815}{}{A pack of wild dogs.}
+{6816}{}{A caravan attacked by wild dogs.}
+{6817}{}{A caravan.}
+{6818}{}{A patrol unit fighting some slavers.}
+{6819}{}{A patrol unit fighting some slavers.}
+{6820}{}{A patrol unit.}
+{6821}{}{A pack of angry molerats.}
+{6822}{}{A crashed shuttle.}
+{6823}{}{A Guardian Portal.}
+{6824}{}{King Arthur's Knights.}
+{6825}{}{A tin woodsman.}

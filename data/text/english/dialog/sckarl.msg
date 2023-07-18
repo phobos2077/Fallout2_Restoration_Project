@@ -21,8 +21,12 @@
 {120}{}{His name's Oswald. That's all we could get out of him. He's supposed to be a squatter, from vault 15, but... I doubt it. He's a bit too tough. You know what I mean?}
 {121}{}{Tough guy, huh?}
 {122}{}{What're you going to do to him?}
-{123}{}{Say, I've heard of you haven't I? Yeah - some pretty good stuff. Look, there's some folks I know, they could use a fellow like you. Just go to the auto shop and ask for Elise. Tell her Karl sends his regards.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+# phobos2077 changed lines
+{123}{}{Say, I've heard of you haven't I? Yeah - some pretty good stuff. Look, there's some folks I know, they could use a fellow like you. Just go to the auto shop and ask for Elise. Tell her Karl sends his regards.
+ If you're up for some bounty hunting, there is some people on wanted list. Dead or alive.}
+{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it.
+ If you're up for some bounty hunting, there is some people on wanted list. Dead or alive. That help?}
+# end of changed lines
 {125}{}{Well, I've got some other questions.}
 {126}{}{Some. Thanks.}
 {127}{}{That's Officer Jack, stranger. One of our men. You haven't been talking to Mira, have you?}
@@ -54,3 +58,37 @@ Do yourself a favor, stay out of it. Jack's a good man, it's just this stuff's g
 {152}{}{. I'm in need of some honest work.}
 {153}{}{Tandi say you got bad man here.}
 {154}{}{Me want to see bad man.}
+
+# phobos2077 bounty hunt
+{200}{}{Work? There's plenty. The Stockmen's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. If you're up for some bounty hunting, there are people on the wanted list. Dead or alive. That help?}
+{201}{}{Tell me more about that wanted list.}
+{202}{}{Do you have someone else on that list?}
+{203}{}{Can you describe the current target again?}
+{204}{}{I'm here to claim the bounty for that tribal.}
+{205}{}{The information on bounties is public, you take out people on the list, bring some proof and receive your bounty. Simple. Interested?}
+{206}{}{Go on.}
+{207}{}{How come YOU people are putting up offers such as those?}
+{208}{}{I'm not a killer for hire.}
+{210}{}{Let's see who's on the list... Hmmm, you don't look like you could deal with any of them. We don't want people going on suicide missions. Return later with some more experience under your belt.}
+{211}{}{If you say so.}
+{215}{}{People from all over ask for aid against violent criminals and offer rewards. We just make the information public, for a small fee. We only deal with community officials, of course, and the wanted people are all obvious criminals.}
+{220}{}{There is a guy who's crossed way too many people, judging from the number of bounties. Dead only.
+ A tribal from somewhere far up north, rounded up a bunch of followers, they run around with guns.
+ He's been spotted around Modoc recently, so you can look for him there. The bounty is $%1%.}
+{221}{}{I suppose I need some proof?}
+{225}{}{Well, apparently, he's from a tribe where all warriors are wearing these amulets. They only take those off after death. So I guess that would do.}
+{226}{}{I'll keep my eyes open, thanks.}
+{230}{}{You won't believe this, but there's another guy from the same tribe. This one's gathered quite a posse too, and is hiding somewhere in the desert east of Broken Hills. His head is priced at $%1%.}
+{235}{}{What is the deal with this tribe? I've got another one! And this one's got a regular army of followers! Found an old army bunker loaded with guns and armor and whatnot in a cave somewhere up north, burnt his way down to San Francisco. He's somewhere east of it now. The bounty is $%1%.}
+{250}{}{Yes, my sources confirm that your target has disappeared. Do you have proof of your work?}
+{251}{}{Yes, here is his amulet.}
+{252}{}{No, I don't have it...}
+{255}{}{Yeah, this is the guy. Here is your bounty.}
+{256}{}{Thanks. Goodbye.}
+{260}{}{Well, from all I know he may be just laying low. Or someone else got him. No proof - no money.}
+{261}{}{Damn it...}
+{265}{}{No, there is nothing more for you, sorry.}
+{266}{}{It was a pleasure doing business.}
+{267}{}{That's a shame... I just started to like it.}
+
+{300}{}{Nothing. Goodbye.}

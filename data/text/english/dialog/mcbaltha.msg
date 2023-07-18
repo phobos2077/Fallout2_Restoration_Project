@@ -112,3 +112,23 @@
 {1040}{}{OK, so first you need to understand that this involves a ton of rope...}
 {1041}{}{... and if you've stitched it all right you got yourself a fine piece of armor. Oh, and if you can get your hands on some metal junk - you could probably attach that for extra protection.}
 {1042}{}{This will definitely come in handy!}
+
+# phobos2077 bring hides quest
+{1101}{}{How's the tanning bussines? Need any help?}
+{1102}{}{Not yet. Got anything else that needs doing?}
+{1103}{}{I've brought some hides...}
+{1110}{}{To be honest, I do. Word got out my armor's good, so I'm running out of raw materials. I need %1% mole rat hides. I can pay you $%2% for them.}
+{1111}{}{Sounds good. I'll start hunting right away.}
+{1112}{}{Not interested.}
+{1120}{}{Well, I'm still waiting for that mole rat hides.}
+{1130}{}{No, the materials you brought last time are enough for now.}
+{1131}{}{I'll see you later then.}
+{1140}{}{Let me see... Eh, those are some rough cuts... Nothing too bad, mind you. I'll take them...
+ You know what, I can offer you something else instead of cash. I have this leather armor,  finished it only yesterday. What do say?}
+{1141}{}{I'll take the cash.}
+{1142}{}{Armor sounds good.}
+{1150}{}{Let me see them... Looks nice. I see you are getting better at skinning those rats.}
+{1151}{}{Thanks, now how about my payment?}
+{1160}{}{Here is your reward.}
+{1161}{}{It was a pleasure doing business. Goodbye.}
+{1162}{}{Good, I'll go now.}

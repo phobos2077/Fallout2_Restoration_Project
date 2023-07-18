@@ -67,3 +67,18 @@
 {166}{}{You'll regret that, Doc.}
 {167}{}{Hey! You have exactly ten seconds to put those papers back before I call the guards.}
 {168}{}{Caught you again, huh? Fine, I'll let the law deal with you. Guards! Guards!}
+
+# phobos2077 bring tentacles quest
+{400}{}{Are you here because of those tentacles I'm looking for?}
+{401}{}{You're looking for tentacles?}
+{402}{}{Do you need more of those tentacles?}
+{403}{}{I've brought the tentacles you wanted.}
+{404}{}{I'm still collecting those tentacles for you. Goodbye.}
+{405}{}{Yes, I need a bit of specific biomaterial for my research. It can be found in tentacles of several stranger varieties of mutants, ones often called "floaters" or "centaurs". Bring me %1% of them and I'll pay you $%2%.}
+{406}{}{Where can I find them?}
+{407}{}{I'll see what I can do.}
+{408}{}{I don't have time for this.}
+{410}{}{Remnants of the masters army still infest much of the region from here all the way to the coast. Some of them should have what I need. I've herd of groups in the desert west of New Reno, although that could be only rumors.}
+{415}{}{Good. Here is your money. Come again later, maybe I will need more biomaterial.}
+{416}{}{I will.}
+{420}{}{No, I have enough of those for the time being.}

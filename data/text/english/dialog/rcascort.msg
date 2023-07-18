@@ -195,8 +195,8 @@
 {254}{}{Thanks for the tip. Before I go, though, let me ask you about something else.}
 {255}{}{Hey, tell me about the mine owners.}
 {256}{}{Maybe I'll take a look over there, then. Thanks.}
-{257}{}{Well, there's the Sheriff, and then the mine owners are looking for someone to retrieve some
- kind of part for one of their machines.}
+{257}{}{Well, there's the Sheriff, the mine owners are looking for someone to retrieve some
+ kind of part for one of their machines, and then some troubles with our caravan runs.}
 {258}{}{What about the Sheriff?}
 {259}{}{What about the mine owners?}
 {260}{}{Interesting. Let me ask you about something else, Mayor.}
@@ -229,3 +229,39 @@
  vaults were supposed to have one, but there sure ain't one around here nowheres.}
 {278}{}{Oh, well. Let me ask you something else, Mayor.}
 {279}{}{I better keep looking then. Thanks, Mayor Ascorti.}
+
+# added by phobos2077: bounty hunt
+{401}{}{What about the caravans?}
+{402}{}{I brought some of those... tattoos for you.}
+{403}{}{I think I've eliminated all those robbers.}
+{404}{}{I'm working on your robbers problem. Gotta go now.}
+{405}{}{Recently we started losing too many outgoing gold shipments. Looks like some new gang of robbers came down from the north.
+ Those bastards not only prey for caravans with little protection, but they are also brutal with their victims. This is bad for business. I want you to remove them.}
+{406}{}{I'm up for it. How many are there and where can I find them?}
+{407}{}{Sounds troublesome. What's in it for me?}
+{408}{}{I don't have time for this.}
+{410}{}{I will pay adequately when I'll see that they're gone. Also you will get $300 for each dead robber leader.}
+{411}{}{Oh? Sounds good to me. Where can I find them?}
+{412}{}{I'll pass.}
+{415}{}{From the reports it seems that several different groups are operating in the area to the north-east of here. I would say there are about 20 robbers all in all.
+ Just patrol long enough and you don't have to worry about finding them, they'll find you.}
+{416}{}{I'll start right away.}
+{417}{}{Ok.}
+# first time
+{420}{}{Oh... I forgot one thing. To get the reward for each robber leader you kill, I'll need some kind of proof. Just a matter of principle.
+ I've heard this particular gang has their members tattoo their arms... Take this knife, you know what to do...}
+{421}{}{Eh, sure, thanks.}
+{422}{}{This is getting more interesting by the minute. I'll go now.}
+# rewards
+{430}{}{Disgusting. But I guess they've got what they deserved. Here is your money.}
+{431}{}{Thanks.}
+{435}{}{So I've heard those robbers were not seen for a while now. You either got them all or got them all too scared to stick around. Either way,
+ the reward is yours. Stop by from time to time, maybe there will be more work.}
+{436}{}{Glad I helped. Goodbye.}
+{437}{}{I will.}
+{440}{}{That gang is still out there. You have to deal with them.}
+{445}{}{Everything is quite right now. Come back later.}
+{450}{}{Looks like the robbers are out in force again, and our caravans are getting hit. Will you help us out again?}
+{455}{}{You know, I don't think you're ready for this job. Come back when you get a bit more experienced.}
+{456}{}{Let me ask you something else, then.}
+{457}{}{If you say so.}
