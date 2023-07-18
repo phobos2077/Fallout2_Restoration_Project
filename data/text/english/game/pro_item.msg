@@ -41,7 +41,7 @@
 {2100}{}{Brass Knuckles}
 {2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat. Min ST: 1.}
 {2200}{}{14mm Pistol}
-{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship. Min ST: 4.}
+{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship. Large caliber provides very high penetration. Min ST: 4.}
 {2300}{}{Assault Rifle}
 {2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds. Min ST: 5.}
 {2400}{}{Plasma Pistol}
@@ -186,8 +186,8 @@
 {9301}{}{An average sized bag. Made from weaved Brahmin hairs.}
 {9400}{}{Shotgun}
 {9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. Min ST: 4.}
-{9500}{}{12 ga. Shotgun Shells}
-{9501}{}{Shotgun ammunition. This particular ammo is marked: "12-gauge shells, not for use by children under the age of 3."}
+{9500}{}{12 ga. Buckshot}
+{9501}{}{Shotgun ammunition, #00 buckshot. This particular ammo is marked: "12-gauge shells, not for use by children under the age of 3."}
 {9600}{}{Red Pass Key}
 {9601}{}{An electronic security key, color coded red.}
 {9700}{}{Blue Pass Key}
@@ -233,7 +233,7 @@
 {11700}{}{Flower}
 {11701}{}{A beautiful flower.}
 {11800}{}{Laser Rifle}
-{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range. Min ST: 6.}
+{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range. Min ST: 5.}
 {11900}{}{Necklace}
 {11901}{}{An expensive looking necklace, made from silver, gold and pressed diamonds.}
 {12000}{}{Alien Blaster}
@@ -283,7 +283,7 @@
 {14200}{}{COC Badge}
 {14201}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
 {14300}{}{Sniper Rifle}
-{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber. Min ST: 5.}
+{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Chambered for powerful 7.62 caliber. Min ST: 5.}
 {14400}{}{Super Stimpak}
 {14401}{}{An advanced healing chem. Very powerful. Superstims will cause a small amount of damage after a period of time due to the powerful nature of the chemicals used.}
 {14500}{}{Bookshelf}
@@ -467,7 +467,7 @@
 {23900}{}{Brotherhood Armor}
 {23901}{}{A superior version of Combat Armor. The Brotherhood of Steel have made many improvements over the standard version.}
 {24000}{}{Tesla Armor}
-{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy attacks.}
+{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy attacks. Superb protection against laser weapons.}
 {24100}{}{.223 Pistol}
 {24101}{}{A .223 rifle modified and cut down to a pistol. This is a one-of-a-kind firearm, obviously made with love and skill. Min ST: 5.}
 {24200}{}{Combat Shotgun}
@@ -680,11 +680,11 @@
 {34700}{}{Gravesite}
 {34701}{}{}
 {34800}{}{Advanced Power Armor}
-{34801}{}{This powered armor is composed of lightweight metal alloys, reinforced with ceramic castings at key points. The motion-assist servo-motors appear to be high quality models as well.}
+{34801}{}{This powered armor is composed of lightweight metal alloys, reinforced with ceramic castings at key points. The motion-assist servo-motors appear to be high quality models as well. The user is vulnerable to EMP attacks.}
 {34900}{}{Adv. Power Armor MKII}
 {34901}{}{This powered armor appears to be composed of entirely of lightweight ceramic composites rather than the usual combination of metal and ceramic plates. It seems as though it should give even more protection than the standard Advanced Power Armor.}
-{35000}{}{Bozar}
-{35001}{}{The ultimate refinement of the sniper's art. Although, somewhat finicky and prone to jamming if not kept scrupulously clean, the big weapon's accuracy more than makes up for its extra maintenance requirements. Min ST: 6.}
+{35000}{}{Bozar AMR}
+{35001}{}{Anti-materiel rifle. The ultimate refinement of the sniper's art. Although, somewhat finicky and prone to jamming if not kept scrupulously clean, the big weapon's accuracy more than makes up for its extra maintenance requirements. Min ST: 7.}
 {35100}{}{FN FAL}
 {35101}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. Min ST: 5.}
 {35200}{}{H&K G11}
@@ -703,14 +703,14 @@
 {35801}{}{Ammunition.}
 {35900}{}{4.7mm Caseless}
 {35901}{}{Ammunition. Caliber: 4.7mm, caseless.}
-{36000}{}{9mm}
-{36001}{}{Ammunition. Caliber: 9mm.}
+{36000}{}{9mm AP}
+{36001}{}{A collection of ancient 9x19mm rounds. Heavy grease to preserve them from the environment. Armor piercing bullets.}
 {36100}{}{HN Needler Cartridge}
 {36101}{}{Ammunition. This cartridge appears to be ammo for the HN Needler Pistol. Each 'bullet' is a small hypodermic designed to inject a target with its contents upon impact.}
 {36200}{}{HN AP Needler Cartridge}
 {36201}{}{Ammunition. This cartridge appears to be armor-piercing ammo for the HN Needler Pistol. The hypodermic tips are made of a strange alloy and are incredibly sharp.}
-{36300}{}{7.62mm}
-{36301}{}{Ammunition. Caliber: 7.62mm.}
+{36300}{}{7.62mm FMJ}
+{36301}{}{Ammunition. Caliber: 7.62mm, full metal jacket.}
 {36400}{}{Robot Motivator}
 {36401}{}{This is the drive mechanism for a robot.}
 {36500}{}{Plant Spike}
@@ -777,9 +777,9 @@
 {39900}{}{Super Cattle Prod}
 {39901}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. This model has been upgraded to increase the electrical discharge. Min ST: 4.}
 {40000}{}{Improved Flamer}
-{40001}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. This model has been modified to fire a hotter mixture which causes greater combustibility. Min ST: 6.}
+{40001}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a spray of extremely hot, flammable liquid. This model has been modified to fire a hotter mixture which causes greater combustibility at range. Min ST: 6.}
 {40100}{}{Laser Rifle (Ext. Cap.)}
-{40101}{}{This Wattz 2000 laser rifle has had its recharging system upgraded and a special recycling chip installed that reduces the drain on the micro fusion cell by 50%. Min ST: 6.}
+{40101}{}{This Wattz 2000 laser rifle has had its recharging system upgraded and a special recycling chip installed that reduces the drain on the micro fusion cell by 50%. Min ST: 5.}
 {40200}{}{Magneto-Laser Pistol}
 {40201}{}{This Wattz 1000 laser pistol has been upgraded with a magnetic field targeting system that tightens the laser emission, giving this pistol extra penetrating power. Min ST: 3.}
 {40300}{}{FN FAL (Night Sight)}
@@ -972,7 +972,7 @@
 {49900}{}{Pip-Boy Lingual Enhancer}
 {49901}{}{This Pip-Boy lingual enhancer consists of a storage holodisk, a microfilament cord, headgear, and an optical sensor that is placed over the user's right eye. When used, an optical flash transmits an entire dictionary into the user's memory, permanently improving the user's speech skills.}
 {50000}{}{FN FAL HPFA}
-{50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA is more powerful than the standard FN FAL. Min ST: 5.}
+{50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA modification has extended magazine and higher rate of fire. Min ST: 5.}
 {50100}{}{Wall Safe}
 {50200}{}{Floor Safe}
 {50300}{}{Blue Memory Module}
@@ -1028,7 +1028,7 @@
 {53200}{}{Sam Pritchard's Map}
 {53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
 {53300}{}{Fire Gecko Pelt}
-{53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}
+{53301}{}{This is the dried and cured hide of a fire gecko.}
 {53400}{}{Bucket}
 {53401}{}{A medium sized bucket used to haul water from a well.}
 {53500}{}{Scaly Fish}
