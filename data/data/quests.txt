@@ -109,6 +109,8 @@
 1503, 408, 631, 5, 6
 # GUARD BRAHMIN
 1503, 409, 107, 4, 7
+# bring hides to Balthas, GVAR_BRINGX_HIDES
+1503, 421, 647, 1, 2
 
 #####
 # Vault City Quests
@@ -270,6 +272,15 @@
 1510, 1112, 195, 3, 4
 #Wipe out Slaver Camp, GVAR_NCR_ATTACK_SLAVER_CAMP
 1510, 1113, 767, 1, 2
+# phobos2077:
+#Take down a tribal traveling around Modoc, GVAR_BOUNTY_NCR
+1510, 1120, 645, 1, 3
+#Take down a group of villains somewhere east of Broken Hills, GVAR_BOUNTY_NCR
+1510, 1121, 645, 4, 6
+#Eliminate an armed gang last seen to the east of San Francisco, GVAR_BOUNTY_NCR
+1510, 1122, 645, 7, 9
+# bring tentacles to Dr. Henry, GVAR_BRINGX_TENTACLES
+1510, 1123, 646, 1, 2
 
 #####
 # Vault 13 Quests
@@ -301,6 +312,9 @@
 1513,1402,292,1,2
 # Kill Frog Morton
 1513,1403,385,1,3
+# phobos2077:
+# eliminate robbers
+1513,1411,644,1,3
 
 #####
 # San Francisco Quests
