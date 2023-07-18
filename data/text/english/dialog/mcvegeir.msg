@@ -20,7 +20,7 @@
 {162}{}{The answer is still no.}
 {163}{}{I have decided to help you.}
 {165}{}{Thank you for helping us. You will always be welcome here. For your services, I offer this as a
- reward. [Vegeir hands you an assault rifle.]}
+ reward. [Vegeir hands you a hunting rifle.]}
 {166}{}{Thank you for helping us. You will always be welcome here.}
 {167}{}{Would it be all right to take Jonny home to his parents?}
 {168}{}{Please let me apologize for the unpleasant circumstances under which we meet. Normally, the

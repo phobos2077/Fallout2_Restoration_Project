@@ -180,3 +180,6 @@
 {2344}{}{ could always use new inventory item [Leave.]}
 {2352}{}{? 'Too rich for your blood?' [Scoffs.] Pal, you're in the wrong town.}
 {2353}{}{? 'Too rich for your blood?' [Scoffs.] Girl, you're in the wrong town.}
+
+# phobos2077
+{3000}{}{Sorry, we are out of caps. Come back later.}

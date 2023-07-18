@@ -38,11 +38,11 @@
 {233}{}{Return to the menu.}
 
 # Node  4  [Node005]
-{240}{}{Great choice! To make a Super Stimpak, please feed me: one ordinary Stimpak, one piece of Fruit and one Nuka Cola! Yum-yum!}
+{240}{}{Great choice! To make a Super Stimpak, please feed me: two ordinary Stimpaks, one piece of Fruit and one Nuka Cola! Yum-yum!}
 {241}{}{Make a Super Stimpak.}
 
 # Node  5  [Node006]
-{250}{}{Great choice! To make Psycho, please feed me: one box of Mentats, one Buffout, one piece of Fruit and one Stimpak! Yum-yum!}
+{250}{}{Great choice! To make Psycho, please feed me: one Buffout, two pieces of Fruit, one bottle of Booze and one Super Stimpak! Yum-yum!}
 {251}{}{Make a Psycho.}
 
 # Node  6  [Node007]

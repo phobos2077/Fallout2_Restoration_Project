@@ -95,3 +95,6 @@
 {302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
 
 {400}{}{Me kill Al. Me better get outta here}
+
+# by phobos2077
+{500}{}{He doesn't reply, looks tired.}
