@@ -379,7 +379,7 @@ end
 procedure Node910 begin
    ndebug("Node910");
    gfade_out(600);
-   game_time_advance(game_ticks(k*360)); //6 minutes
+   game_time_advance(6 * ONE_GAME_MINUTE);
    gfade_in(600);
    display_msg(mstr(500));
 end
@@ -387,7 +387,7 @@ end
 procedure Node912 begin
    ndebug("Node912");
    gfade_out(600);
-   game_time_advance(game_ticks(k*1080)); //18 minutes
+   game_time_advance(18 * ONE_GAME_MINUTE);
    gfade_in(600);
    display_msg(mstr(530));
 end
@@ -1054,7 +1054,7 @@ end
 procedure Node060 begin
    ndebug("Node060");
    gfade_out(600);
-   game_time_advance(game_ticks(k*360)); //6 minutes
+   game_time_advance(6 * ONE_GAME_MINUTE);
    gfade_in(600);
    Reply(640);
    NOption(650,Node999,004);
