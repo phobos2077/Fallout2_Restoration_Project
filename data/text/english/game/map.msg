@@ -243,7 +243,7 @@
 {310}{}{Vault 15: Level 3}
 # 37: Vault 15, .MAP
 {311}{}{Squatters}
-{312}{}{}
+{312}{}{Squatters}
 {313}{}{}
 # 38: Vault 15, .MAP
 {314}{}{Squatters}

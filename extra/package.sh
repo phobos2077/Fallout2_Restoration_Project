@@ -4,7 +4,7 @@ set -xeu -o pipefail
 
 export comp_dir="components"
 export dat2="wine $bin_dir/dat2.exe"
-export dat2a="wine $bin_dir/dat2.exe a -1"
+export dat2a="wine $bin_dir/dat2.exe a"
 export trans_dir="$(realpath translations)"
 export file_list="$(realpath dat2.list)"
 

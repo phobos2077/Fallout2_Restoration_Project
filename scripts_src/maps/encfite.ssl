@@ -58,11 +58,12 @@ end
 
 procedure map_enter_p_proc begin
    if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin
-      override_map_start_hex( 24502, 0, 0 );
+      override_map_start_hex(24502, 0, 0);
    end
 
    Enclave_Lighting;
-   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
+   mark_on_map(AREA_THE_ENCLAVE) // player cannot see the world map while on the oil rig
 end
 
 procedure map_update_p_proc begin
@@ -73,8 +74,8 @@ procedure map_update_p_proc begin
    check_poisoning;
 
    if global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0 then begin
-      set_exit_grids(0,MAP_SAN_FRAN_DOCK,0,13908,2);
-      door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,self_elevation,ENCLAVE_DOOR_PID2);
+      set_exit_grids(0, MAP_SAN_FRAN_DOCK, 0, 13908, 2);
+      door := tile_contains_pid_obj(ENCLAVE_DOOR_TILE2, self_elevation, ENCLAVE_DOOR_PID2);
       obj_unlock(door);
    end
 end
@@ -83,9 +84,10 @@ procedure map_exit_p_proc begin
    if (global_var(GVAR_ENCLAVE_FRANK_DEAD) == 1) then begin
       set_global_var(GVAR_ENCLAVE_FRANK_DEAD, 2);
       set_global_var(GVAR_ENCLAVE_COUNTDOWN, 0);
+      unmark_on_map(AREA_THE_ENCLAVE) // remove unreachable "Enclave" location from the world map
       gfade_out(600);
       game_time_advance(ONE_GAME_DAY); //added by killap
-      set_global_var(GVAR_ARROYO_RETURN_GECK,1);
+      set_global_var(GVAR_ARROYO_RETURN_GECK, 1);
       play_gmovie(DERRICK_MOVIE);
       endgame_slideshow;
    end

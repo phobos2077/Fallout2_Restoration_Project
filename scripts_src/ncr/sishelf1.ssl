@@ -191,16 +191,12 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    if (buster_obj != -1 and buster_obj) then begin
 
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          ndebug("first restock shelf 1");
+         variable tmp_box := move_critical_items();
          check_restock_item(PID_44_MAGNUM_JHP, 7, 10, 40)
          check_restock_item(PID_BBS, 30, 50, 10)
          check_restock_item(PID_AVENGER_MINIGUN, 0, 1, 100)
@@ -224,6 +220,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_10MM_JHP, 7, 10, 60)
          check_restock_item(PID_223_FMJ, 7, 10, 60)
          check_restock_item(PID_SHOTGUN_SHELLS, 7, 10, 55)
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (random(2,4) * ONE_GAME_DAY) + game_time);
       end
    end
