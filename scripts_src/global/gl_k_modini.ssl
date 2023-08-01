@@ -1,13 +1,35 @@
 #define SCRIPT_REALNAME "gl_k_modini"
 #include "../headers/define.h"
 #include "../sfall/sfall.h"
+#include "../sfall/define_extra.h"
+
+#define message_box_warning(text)    sfall_func4("message_box", text, MSGBOX_NORMAL, 134, 145)
+
+procedure start;
+procedure error_WorldMapSlots;
+procedure error_BoostScriptDialogLimit;
+procedure force_settings;
 
 procedure start begin
-   if is_loading_game then return;
-	if game_loaded then set_global_script_repeat(30000);
-	else begin
-      if get_ini_setting("ddraw.ini|Misc|WorldMapSlots") < 21 then begin
-         float_msg(dude_obj, "You have overwritten the RP ddraw.ini file! Revert back immediately before it's too late!", FLOAT_MSG_WARNING);
-      end
+   if (get_ini_setting("ddraw.ini|Misc|WorldMapSlots") != 21) then begin
+      call error_WorldMapSlots in 1;
    end
+
+   if (get_ini_setting("ddraw.ini|Misc|BoostScriptDialogLimit") == 0) then begin
+      call error_BoostScriptDialogLimit in 1;
+   end
+end
+
+procedure error_WorldMapSlots begin
+   message_box_warning("ERROR\nInvalid 'WorldMapSlots' value\n\nPlease close the game and set\n'WorldMapSlots=21' in ddraw.ini.");
+   ndebug("RP SETTINGS - 'WorldMapSlots' != 21 in ddraw.ini!");
+
+   signal_end_game;
+end
+
+procedure error_BoostScriptDialogLimit begin
+   message_box_warning("ERROR\n'BoostScriptDialogLimit' not enabled\n\nPlease close the game and set\n'BoostScriptDialogLimit=1' in ddraw.ini.");
+   ndebug("RP SETTINGS - 'BoostScriptDialogLimit' != 1 in ddraw.ini!");
+
+   signal_end_game;
 end

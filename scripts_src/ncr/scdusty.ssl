@@ -96,11 +96,6 @@ end
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    Only_Once:=0;
    set_self_team(TEAM_NCR);
    set_self_ai(AI_TOUGH_CITIZEN);
@@ -108,11 +103,13 @@ procedure map_enter_p_proc begin
    restock_fix
    if (local_var(LVAR_Restock_Time) < game_time) then begin
       ndebug("Should have restocked");
+      variable tmp_box := move_critical_items();
       check_restock_item(PID_BOOZE, 10, 20, 100)
       check_restock_item(PID_BEER, 20, 30, 100)
       check_restock_item(PID_NUKA_COLA, 10, 20, 100)
       check_restock_item(PID_BOTTLE_CAPS, 30, 60, 100)
       check_restock_item(PID_CIGARETTE, 1, 1, 100) //added by killap - RP
+      call restore_critical_items(tmp_box);
       set_local_var(LVAR_Restock_Time, (random(1,4) * ONE_GAME_DAY) + game_time);
    end
 end

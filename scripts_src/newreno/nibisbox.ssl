@@ -43,15 +43,11 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    new_reno_bishop_bar_box := self_obj;
    if (is_loading_game == false) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
+         variable tmp_box := move_critical_items();
          check_restock_item(PID_MUTATED_FRUIT, 1, 2, 100)
          check_restock_item(PID_JET, 2, 10, 100)
          check_restock_item(PID_BEER, 1, 5, 100)
@@ -59,6 +55,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_GAMMA_GULP_BEER, 2, 10, 100)
          check_restock_item(PID_ROENTGEN_RUM, 1, 5, 100)
          check_restock_item(PID_NUKA_COLA, 1, 5, 100)
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (random(3,7) * ONE_GAME_DAY) + game_time);
       end
    end

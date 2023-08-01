@@ -52,12 +52,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-/* Set up the door state when the player first enters the map */
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
+   /* Set up the door state when the player first enters the map */
    klam_sajag_box_obj := self_obj;
    if (local_var(LVAR_Set_Door_Status) == 0) then begin
        set_local_var(LVAR_Set_Door_Status,1);
@@ -67,6 +62,7 @@ procedure map_enter_p_proc begin
 
    restock_fix
    if (local_var(LVAR_Restock_Time) < game_time) then begin
+      variable tmp_box := move_critical_items();
       check_restock_item(PID_BOTTLE_CAPS, 125, 250, 100)
       check_restock_item(PID_LEATHER_JACKET, 1, 1, 100)
       check_restock_item(PID_KNIFE, 1, 2, 100)
@@ -81,6 +77,7 @@ procedure map_enter_p_proc begin
       check_restock_item(PID_SPEAR, 1, 2, 100)
       check_restock_item(PID_SPRINGER_RIFLE, 0, 2, 100)
       check_restock_item(PID_RADAWAY, 0, 2, 100)
+      call restore_critical_items(tmp_box);
       set_local_var(LVAR_Restock_Time, (2 * ONE_GAME_DAY) + game_time);
    end
 

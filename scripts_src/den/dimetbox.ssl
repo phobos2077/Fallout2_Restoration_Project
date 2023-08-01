@@ -42,13 +42,8 @@ procedure map_update_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-variable the_box_to_kill;
-//added by killap
-variable tmp;
-variable special_item;
-//end added
-
-/* Set up the door state when the player first enters the map */
+   variable the_box_to_kill;
+   /* Set up the door state when the player first enters the map */
    den_metzger_box_obj := self_obj;
    if (is_loading_game == false) then begin
       restock_fix
@@ -60,6 +55,7 @@ variable special_item;
             destroy_object(the_box_to_kill);
          end
 
+         variable tmp_box := move_critical_items();
          self_caps_adjust(random(5, 250) - self_caps);
          check_restock_item(PID_SPEAR, 0, 7, 100)
          check_restock_item(PID_KNIFE, 0, 11, 100)
@@ -70,6 +66,7 @@ variable special_item;
          check_restock_item(PID_HEALING_POWDER, 0, 4, 100)
          check_restock_item(PID_XANDER_ROOT, 0, 13, 100)
          check_restock_item(PID_FLOWER, 0, 7, 100)
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (random(1,5) * ONE_GAME_DAY) + game_time);
       end
    end

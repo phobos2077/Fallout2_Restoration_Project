@@ -180,7 +180,7 @@
 {309}{}{15-ös Menedék: 2. szint}
 {310}{}{15-ös Menedék: 3. szint}
 {311}{}{Foldbitorlok}
-{312}{}{}
+{312}{}{Foldbitorlok}
 {313}{}{}
 {314}{}{Foldbitorlok}
 {315}{}{}

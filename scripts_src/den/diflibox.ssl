@@ -37,16 +37,12 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
 /* Set up the door state when the player first enters the map */
    den_flick_box_obj := self_obj;
    if (is_loading_game == false) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
+         variable tmp_box := move_critical_items();
          self_caps_adjust(random(55, 61) - self_caps);
          check_restock_item(PID_JET, 0, 1, 100)
          check_restock_item(PID_CATS_PAW, 0, 1, 100)
@@ -62,6 +58,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_223_FMJ, 1, 3, 100)
          check_restock_item(PID_SHOTGUN, 1, 1, 50)
          check_restock_item(PID_SHOTGUN_SHELLS, 2, 4, 100)
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (random(2,4) * ONE_GAME_DAY) + game_time);
       end
    end
