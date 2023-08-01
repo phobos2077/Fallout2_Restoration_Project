@@ -37,7 +37,7 @@
 {127}{}{Nee, eigentlich nicht.}
 {128}{}{Aha, du schon wieder?}
 {129}{}{Ark! Uuuu! Ug ug!}
-{130}{}{Hi! HAAAALLO! Ich (Name)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Hör mal Kleiner, ich hab dir jetzt schon Geld gegeben. Fall jemand anderem auf den
  Wecker, OK?}
 {132}{}{Du schon wieder. Wieso gehst du nicht einfach mal... hmm... zur Bank? Da sind bestimmt
@@ -167,3 +167,4 @@
  wegkommen. Broken Hills hoffentlich auch.}
 {407}{}{Das hoffe ich auch. Ich hab ein paar Fragen.}
 {408}{}{Ich auch. Tschüss.}
+{1130}{}{!}

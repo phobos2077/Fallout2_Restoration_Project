@@ -34,7 +34,7 @@
 {127}{}{No. Not really.}
 {128}{}{You again, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
-{130}{}{Hi! HIIIII! Me (name)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Pal, I already gave you some money. Go bother someone else, eh?}
 {132}{}{Hi again. Why not go check out... umm... the bank in town? I'm sure there are plenty people there
  who'd love to talk to you.}
@@ -152,3 +152,4 @@
  Broken Hills.}
 {407}{}{I hope so too. I have some questions.}
 {408}{}{Me too. Bye.}
+{1130}{}{!}
