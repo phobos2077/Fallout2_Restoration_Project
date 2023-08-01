@@ -12,6 +12,8 @@ if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
     echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
     exit 1
   fi
+else
+  rm -f fs_testx
 fi
 
 if [[ ! -f master.dat ]]; then
