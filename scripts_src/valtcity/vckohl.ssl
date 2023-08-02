@@ -84,6 +84,13 @@ procedure Node022;
 procedure Node023;
 procedure Node024;
 procedure Node025;
+// by Lujo - pointer to Abbey (flow fix)
+procedure Node025a;
+procedure Node026;
+Procedure Node027;
+Procedure Node028;
+// end by Lujo
+
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -516,6 +523,7 @@ procedure Node024 begin
    gfade_in(600);
    Reply(185);
 
+   NOption(194, Node025a, 004); // by Lujo
    NOption(186, Node012, 004);
    NOption(187, Node999, 004);
 end
@@ -529,4 +537,34 @@ procedure Node025 begin
    NOption(192, Node999, 004);
 end
 
-//xxxxxxxxxxxxxxxxxxxx
+// by Lujo begin: flow fix
+procedure Node025a begin
+   Reply(195);
+
+   NOption(196, Node026, 004);
+   NOption(197, Node012, 004);
+   NOption(198, Node999, 004);
+end
+
+procedure Node026 begin
+   Reply(199);
+
+   NOption(200, Node027, 004);
+   NOption(201, Node018, 004);
+end
+
+procedure Node027 begin
+   mark_abbey_on_map
+   Reply(202);
+
+   NOption(201, Node028, 004);
+   NOption(204, Node012, 004);
+end
+
+procedure Node028 begin
+   Reply(203);
+
+   NOption(205, Node027, 004);
+   NOption(204, Node012, 004);
+end
+// end by Lujo
