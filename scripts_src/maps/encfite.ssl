@@ -29,21 +29,15 @@
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/enc.h"
-//#include "../headers/enctrp.h"
 
 #define NAME                    SCRIPT_ENCFITE
 
 #include "../headers/command.h"
 
-#define ENCLAVE_DOOR_PID1       (33556008)
-#define ENCLAVE_DOOR_PID2       (33556007)
-//#define ENCLAVE_DOOR_TILE1      (19280)
-#define ENCLAVE_DOOR_TILE1      (22701)
-#define ENCLAVE_DOOR_TILE2      (16719)
-
-//killap comments...
-//22701 - door for verti elevator...
-//pid2 is used for the above door...
+#define ENCLAVE_DOOR_PID       (33556007)
+#define ENCLAVE_DOOR_TILE      (16719)
+#define HEX_START 24502
+#define HEX_EXIT 13908
 
 procedure start;
 procedure map_enter_p_proc;
@@ -58,12 +52,12 @@ end
 
 procedure map_enter_p_proc begin
    if (global_var(GVAR_LOAD_MAP_INDEX) == 12) then begin
-      override_map_start_hex(24502, 0, 0);
+      override_map_start_hex(HEX_START, 0, 0);
    end
 
    Enclave_Lighting;
-   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
-   mark_on_map(AREA_THE_ENCLAVE) // player cannot see the world map while on the oil rig
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   mark_on_map(AREA_THE_ENCLAVE)  // player cannot see the world map while on the oil rig so it's fine
 end
 
 procedure map_update_p_proc begin
@@ -74,8 +68,8 @@ procedure map_update_p_proc begin
    check_poisoning;
 
    if global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0 then begin
-      set_exit_grids(0, MAP_SAN_FRAN_DOCK, 0, 13908, 2);
-      door := tile_contains_pid_obj(ENCLAVE_DOOR_TILE2, self_elevation, ENCLAVE_DOOR_PID2);
+      set_exit_grids(0, MAP_SAN_FRAN_DOCK, 0, HEX_EXIT, 2);
+      door := tile_contains_pid_obj(ENCLAVE_DOOR_TILE, self_elevation, ENCLAVE_DOOR_PID);
       obj_unlock(door);
    end
 end
@@ -84,9 +78,9 @@ procedure map_exit_p_proc begin
    if (global_var(GVAR_ENCLAVE_FRANK_DEAD) == 1) then begin
       set_global_var(GVAR_ENCLAVE_FRANK_DEAD, 2);
       set_global_var(GVAR_ENCLAVE_COUNTDOWN, 0);
-      unmark_on_map(AREA_THE_ENCLAVE) // remove unreachable "Enclave" location from the world map
+      unmark_on_map(AREA_THE_ENCLAVE)  // remove unreachable "Enclave" location circle from the world map
       gfade_out(600);
-      game_time_advance(ONE_GAME_DAY); //added by killap
+      game_time_advance(ONE_GAME_DAY);
       set_global_var(GVAR_ARROYO_RETURN_GECK, 1);
       play_gmovie(DERRICK_MOVIE);
       endgame_slideshow;
