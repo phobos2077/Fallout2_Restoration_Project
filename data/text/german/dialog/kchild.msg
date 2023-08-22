@@ -45,7 +45,7 @@
 {193}{}{Was hast'n da an?}
 {194}{}{Ich möchte auf 'nem Brahmin reiten!}
 {195}{}{Bist du von weit weg?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Uuuiii! Ha Ha Ha!}
 {197}{}{Geh nicht weg!}
 {198}{}{Hast du was zum Essen?}
 {199}{}{Stör ich dich?}

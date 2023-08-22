@@ -28,10 +28,8 @@
 {122}{}{Nee, mach ich nicht.}
 {123}{}{Bitte. Meine Frau...sie bedeutet mir alles. Also bitte.}
 {124}{}{Ich hab nein gesagt!}
-{125}{}{Schon gut, schon gut, lass mich nur in Ruhe.}
-{126}{}{Hier ist das Geld. Und jetzt find BITTE meine Frau und sag mir, wo sie ist. Vielleicht
- hat sie sich mit einem anderen eingelassen und hat mich verlassen...aber ich muss wissen, was los
- ist.}
+{125}{}{Schon gut, schon gut! Lass mich einfach nur in Ruhe.}
+{126}{}{Hier ist das Geld. Und jetzt find BITTE meine Frau und sag mir, wo sie ist. Vielleicht hat sie sich mit einem anderen eingelassen und hat mich verlassen...aber ich muss wissen, was los ist.}
 {127}{}{Alles klar, Mann. Wie sieht sie denn aus?}
 {128}{}{Kein Problem. Ich werd mein Bestes tun.}
 {129}{}{::schluchzt einen Augenblick lang hemmungslos:: Ich hab verstanden. Geh. Dir ist
@@ -53,8 +51,7 @@
 {142}{}{Ich hab mehrere Tote in den Tunnels unter der Stadt gefunden. Sie war auch dabei. Tut mir
  leid.}
 {143}{}{Was? Nein, sie hatte tolle Beine!}
-{144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde übel mitgespielt und
- Ihre beine sind AB. Sie ist tot und Sie litt bevor Sie starb.}
+{144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde übel mitgespielt und Ihre beine sind AB. Sie ist tot und Sie litt bevor Sie starb.}
 {145}{}{Ja, ja. Ich hab sie in den Tunnels unter der Stadt gefunden. Sie ist tot. Tut mir leid.}
 {146}{}{Danke, dass du es mir gesagt hast. Jetzt muss ich mich ausweinen.}
 {147}{}{Ja, wein ruhig, du Heulsuse.}
