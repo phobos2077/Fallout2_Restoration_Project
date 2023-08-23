@@ -348,9 +348,9 @@
 {18100}{}{Oberteil des Aufzugs}
 {18101}{}{Du siehst den Teil eines Aufzugs.}
 {18200}{}{Computerkonsole}
-{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist.}
+{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. }
 {18300}{}{Computerkonsole}
-{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist.}
+{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. }
 {18400}{}{Emblem}
 {18401}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18500}{}{Emblem}

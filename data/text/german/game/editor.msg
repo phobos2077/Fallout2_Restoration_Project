@@ -169,14 +169,14 @@
 {1001}{}{Berserker}
 {1002}{}{Champion}
 {1003}{}{Kindermörder}
-{1004}{}{Nuka-Cola-Verlangen}
-{1005}{}{Buffout-Verlangen}
-{1006}{}{Mentats-Verlangen}
-{1007}{}{Psycho-Verlangen}
-{1008}{}{RadAway-Verlangen}
-{1009}{}{Alkohol-Verlangen}
-{1010}{}{Jet-Verlangen}
-{1011}{}{Tragisches Verlangen}
+{1004}{}{Nuka-Cola-Sucht}
+{1005}{}{Buffout-Sucht}
+{1006}{}{Mentats-Sucht}
+{1007}{}{Psycho-Sucht}
+{1008}{}{RadAway-Sucht}
+{1009}{}{Alkohol-Sucht}
+{1010}{}{Jet-Sucht}
+{1011}{}{Tragic-Sucht}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperte}
 {1014}{}{Preisboxer}
@@ -197,13 +197,13 @@
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{Du bist von der Droge Buffout abhängig. Du musst es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
+{1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du musst es nehmen, sonst leidest du an Entzugserscheinungen.}
+{1107}{}{Du hast eine Drogenabhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
 {1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du musst es regelmäßig nehmen.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragischerweise bist von Tragic abhängig. Du bist ständig auf der Suche nach neuen Expansions-        möglichkeiten.}
+{1110}{}{Du hast eine Drogenabhängigkeit. Du musst regelmäßig Jet einnehmen.}
+{1111}{}{Tragischerweise bist du abhängig vom Sammeln. Du bist ständig auf der Suche nach neuen Erweiterungen.}
 {1112}{}{TEMPORÄR - Was ist das?}
 {1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, dass er mehr will.}
 {1114}{}{Du bist Schwergewichtsmeister von Nordkalifornien. Du hast Ruhm, Respekt und die Liebe Tausender erlangt...und außerdem einen Bonus für deine Härte und Schlagkraft ohne Waffen.}
@@ -245,7 +245,7 @@
 {4000}{}{Ansehen}
 {4001}{}{Abhängigkeiten}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
-{4101}{}{Dinge, von denen du nicht genug bekommen kannst.}
+{4101}{}{Dinge, von denen du abhängig bist.}
 {5000}{}{Bedaure, Drucken der }
 {5001}{}{Figur geht nur in der Vollversion.}
 {5002}{}{Bedaure, Speichern der}

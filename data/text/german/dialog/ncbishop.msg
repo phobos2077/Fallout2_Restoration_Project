@@ -38,7 +38,7 @@
 {267}{}{(Sieht dich prüfend an.) Also... woher kennst DU denn Moore? Versucht er jetzt etwa, mit den Sippen Politik zu machen? Ha! Der Junge hat seine Berufung verfehlt.}
 {268}{}{Ich hab ihn in Vault City getroffen, da hat er gerade seine Reden geschwungen. Ich hab ihm angeboten, ihm zu helfen, indem ich dir die Aktentasche bringe.}
 {269}{}{Ich bin zufällig auf meinen Reisen über ihn gestolpert. Ich hab ihm angeboten, ihm zu helfen, indem ich dir die Aktentasche bringe.}
-{275}{}{Häh... wahnsinnig menschlich von dir... mit seiner ganzen Predigerei kann der olle Tom Moore offensichtlich nicht lange genug von seiner Seifenkiste runtersteigen, um selbst mal ein bisschen Beinarbeit zu erledigen. Hä... na, damit ist er auch nicht anders als jeder andere Typ aus der NCR.}
+{275}{}{Häh... wie wahnsinnig menschlich von dir... mit seiner ganzen Predigerei kann der olle Tom Moore offensichtlich nicht lange genug von seiner Seifenkiste runtersteigen, um mal 'n bisschen Beinarbeit selbst zu erledigen. Hä... na, damit ist er auch nich' anders als jeder andere Typ aus der NCR.}
 {276}{}{Er predigt wirklich 'ne Menge. Trotzdem, er scheint auch 'ne Menge Sinnvolles zu sagen.}
 {277}{}{Er hat so 'ne gewisse... Art mit Wörtern.}
 {278}{}{Ja, naja, irgendwann muss die Arbeit ja getan werden, und ich werd gerufen, wenn was abgeliefert werden soll... wie diese Aktentasche.}

@@ -171,7 +171,7 @@
 {345}{}{Brauchst du jemanden, den du mit deiner Leine einfangen kannst Sklavenhändler?}
 {346}{}{Myron kommt ab und zu vorbei...}
 {347}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{348}{}{She ain't no Jet addict, she's a BONE addict.}
+{348}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {349}{}{Bei Cat's Paw wird dir sicher eingeheizt...}
 {350}{}{Ich bin gestern Marathon gelaufen, na ja besser gesagt vor Myron geflüchtet...}
 {351}{}{Suchst du einen Lebensabschnittsgefährten Sklavenhändler?}
@@ -364,7 +364,7 @@
 {538}{}{Was erwartet er von mir, dass ich mich bücke?}
 {539}{}{Ich denke das Reno Schild wird bald runterfallen...}
 {540}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{541}{}{She ain't no Jet addict, she's a BONE addict.}
+{541}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {542}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {543}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {544}{}{Suchst du nach Liebe Süßer?}
@@ -527,7 +527,7 @@
 {701}{}{Was erwartet er von mir, dass ich mich bücke?}
 {702}{}{Ich denke das Reno Schild wird bald runterfallen...}
 {703}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{704}{}{She ain't no Jet addict, she's a BONE addict.}
+{704}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {705}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {706}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {707}{}{Suchst du nach Liebe Süßer?}
@@ -760,7 +760,7 @@
 {934}{}{Myron ist ein echter Wirbelsturm.}
 {935}{}{AC-DC, B n' D, was auch immer.}
 {936}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{937}{}{She ain't no Jet addict, she's a BONE addict.}
+{937}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {938}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {939}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {940}{}{Suchst du nach Liebe Süßer?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron ist ein echter Wirbelsturm.}
 {1109}{}{AC-DC, B n' D, was auch immer.}
 {1110}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{1111}{}{She ain't no Jet addict, she's a BONE addict.}
+{1111}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {1112}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {1113}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {1114}{}{Suchst du nach Liebe Süßer?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron ist ein echter Wirbelsturm.}
 {1282}{}{AC-DC, B n' D, was auch immer.}
 {1283}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{1284}{}{She ain't no Jet addict, she's a BONE addict.}
+{1284}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {1285}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {1286}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {1287}{}{Suchst du nach Liebe Süßer?}

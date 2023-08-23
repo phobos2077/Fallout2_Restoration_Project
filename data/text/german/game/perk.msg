@@ -120,7 +120,7 @@
 {220}{}{Alkoholsucht}
 {221}{}{Raucher}
 {1101}{}{Mit Bewusstsein bekommst du genaue Informationen über jede Kreatur, die du untersuchst. Du siehst ihre genauen Trefferpunkte sowie Angaben zu allen Waffen, die sie bei sich trägt.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
+{1102}{}{Du kennst die geheimen Künste des Ostens, oder du schlägst einfach schneller. Auf jeden Fall kosten deine Nahkampfangriffe 1 AP weniger.}
 {1103}{}{Erfahrung im Kampf ohne Waffen verleiht dir einen Vorteil bei Verletzungen. Für jede Stufe dieses Bonus verursachst Du +2 Trefferpunkte bei Nahkampfangriffen }
 {1104}{}{Für jede Stufe der Bonus-Bewegung erhältst du pro Zug 2 APs umsonst, die nur für Bewegung eingesetzt werden können. Für jede Stufe dieses Bonus kannst du dich also bei jedem Zug um zwei Felder umsonst bewegen.}
 {1105}{}{Deine Ausbildung an Feuerwaffen und anderen Distanz- waffen hat dich zu einem tödlichen Waffenkämpfer gemacht. Für jede Stufe dieses Bonus fügst du +2 Trefferpunkte mit Distanzwaffen zu.}
@@ -195,8 +195,8 @@
 {1174}{}{Du weißt, wie man Geckos richtig häutet, um die Haut weiterzuverwenden.}
 {1175}{}{Du hast einen inneren Schutz gegen körperliche Angriffe.}
 {1176}{}{Du hast einen besonders starken inneren Schutz gegen körperliche Angriffe.}
-{1177}{}{You have inherent protection against thermal attacks.}
-{1178}{}{You have extra inherent protection against thermal attacks.}
+{1177}{}{Du hast einen natürlichen Schutz gegen Hitzeangriffe.}
+{1178}{}{Du hast einen besonders starken natürlichen Schutz gegen Hitzeangriffe.}
 {1179}{}{Du hast +10 % Resistenz gegen Gift und Strahlung erlangt.}
 {1180}{}{Mit diesem Bonus gewinnst du 1 Stärkepunkt, wenn du unter 1/2 deiner max. Trefferpunkte fällst.}
 {1181}{}{Du bist im Freien wachsamer, und Feinde können sich nicht so leicht an dich heranschleichen. Mit diesem Bonus bekommst du +3 zu deiner Wahrnehmung in Zufallsbegegnungen hinzu, wenn du die Plazierung festlegst.}

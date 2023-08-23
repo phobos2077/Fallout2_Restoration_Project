@@ -160,7 +160,10 @@
 {229}{}{Hmmm. Mich würde da noch was anderes interessieren...}
 {230}{}{So, so. Tja, ich könnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
 {231}{}{Interessant. Danke für die Information. Tschüss.}
-{232}{}{Nein, nein, nein...das ist keine Sklaverei. Diese Leute, die du in der Stadt arbeiten siehst, sind Diener... mich eingeschlossen. Wir werden hier sehr gut behandelt, lernen zu lesen und zu schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen Nahrung.}
+{232}{}{Nein, nein, nein...das ist keine Sklaverei. Die Leute, die du in der Stadt arbeiten
+ siehst, sind Diener, genau wie ich. Wir werden hier sehr gut behandelt, lernen lesen und 
+ schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen genug zu
+ essen.}
 {233}{}{Alles, außer einem: Freiheit. Stimmt's?}
 {234}{}{Wenn's einem nichts ausmacht, ist es nicht so schlimm. Vergiss die Frage einfach.}
 {235}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}

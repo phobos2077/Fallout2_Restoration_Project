@@ -51,7 +51,7 @@
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir suchen eigentlich immer Karawanenwachen, aber ich bin noch nicht fertig zum Aufbruch. Am 21. werde ich so
  weit sein. Komm dann wieder, wenn du einen Job brauchst.}
-{143}{}{Wann am 21.?}
+{143}{}{Warum am 21sten?}
 {144}{}{Was transportiert denn diese Karawane?}
 {145}{}{OK, danke. Wiedersehn.}
 {146}{}{Hey, Kumpel, man muss wissen, wann man nein sagen sollte. Und *ich* weiß es. NEIN!}
