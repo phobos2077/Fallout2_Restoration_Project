@@ -215,7 +215,7 @@ Ich LIEBE es.}
 {501}{}{Ich kann dich da unten kaum sehen, Gangster, so zu wie ich bin.}
 {502}{}{Warum gibt es zwei von euch? Ist das dein Zwilling?}
 {503}{}{Häh? du bist ein echter gemachter Mann?}
-{504}{}{Gangster,ich bin so high, dass... äh, was wollte ich sagen?}
+{504}{}{Gangster, ich bin so high, dass... äh, was wollte ich sagen?}
 {505}{}{Willste mit mir fliegen Gangster?}
 {506}{}{willst du fliegen Gangster? Sprich mit Juuuuules.}
 {507}{}{Jagged Jimmy kann dir helfen, weißt was ich mein?}
