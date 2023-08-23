@@ -197,7 +197,7 @@
 {296}{}{Wenn das hier nicht die richtige Vault ist, dann muss ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
 {297}{}{Ich muss jetzt weg. Schönen Tag noch.}
 {298}{lyn036a}{Dorf? Aber du hast doch einen Vaultanzug an... was für ein Dorf denn? Drück dich gefälligst klar aus: so langsam verliere ich die Geduld.}
-{299}{lyn036b}{Dorf? Zuerst erzählst du mir, du kommst aus einer Vault, jetzt sagst du, du kommst aus einem Dorf. Also wie jetzt?! Langsam hab ich genug von deinem Gefasel. }
+{299}{lyn036b}{Dorf? Zuerst erzählst du mir, du kommst aus einer Vault, jetzt sagst du, du kommst aus einem Dorf. Also wie jetzt?! Langsam hab ich genug von deinem Gefasel.}
 {300}{}{Moment mal, du verstehst mich falsch. Der Vaultbewohner hat mein Dorf gegründet.}
 {301}{}{Ich hab langsam genug von DIR, Frau. Hol jemanden her... jemanden, der mir helfen kann.}
 {302}{}{Ich hab langsam genug von DIR. Hol jemanden her... jemanden, der mir helfen kann.}

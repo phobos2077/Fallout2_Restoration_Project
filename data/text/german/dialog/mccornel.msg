@@ -20,7 +20,7 @@
 {178}{}{Boa! Es ist spät geworden. Ich muss gehen.}
 {179}{}{Rose ist meine Frau, ich hab den Laden nach ihr benannt. Wusstest du, dass ich verheiratet bin?}
 {180}{}{Kann ich dir noch ein paar Fragen stellen?}
-{181}{}{WARUM FRAGST DU DANN NICHT DIESEN NICHTSNUTZ FARREL! VIELLEICHT VERKAUFT ER DIR DIE UHR,DIE ER MIR GEKLAUT HAT! Wenn's dir nichts ausmacht, ich hab zu tun. Ich muss die Brahmin scheren.}
+{181}{}{WARUM FRAGST DU DANN NICHT DIESEN NICHTSNUTZ FARREL! VIELLEICHT VERKAUFT ER DIR DIE UHR, DIE ER MIR GEKLAUT HAT! Wenn's dir nichts ausmacht, ich hab zu tun. Ich muss die Brahmin scheren.}
 {182}{}{Ich leite dieses Motel. Jawoll, wenn ich nicht wäre, wär der Schuppen schon längst verfallen. Hast du schon das Klo gesehen? Ein saubereres findest du nicht. Das war ich.}
 {183}{}{Was hat Kloputzen mit der Leitung von dem Laden hier zu tun?}
 {184}{}{Rose ist meine Frau. Sie kümmert sich um die Küche. Besseres Essen als hier gibt es nirgends. Rose ist ja so schön. Eines Tages werd ich sie heiraten.}

@@ -565,7 +565,7 @@
 {5129}{}{und verursacht heftige Schmerzen, da dort kein Schutz vorhanden ist}
 {5130}{}{. Die Wunde führt zu schwerer Blindheit (als ob es noch andere gäbe...)}
 {5131}{}{. Sie wird vom Blendangriff ohnmächtig}
-{5132}{}{, leider kann sie nicht mehr zu ihren Göttern beten, bevor sie sie persönlich trifft}
+{5132}{}{. Leider kann sie nicht mehr zu ihren Göttern beten, bevor sie sie persönlich trifft}
 {5133}{}{. Sie nimmt es hin wie ein Mann. Das heißt es tut ihr weh}
 {5134}{}{und wirft sie zu Boden}
 {5135}{}{. Ihre Gebärfähigkeit ist gefährdet, als sie zu einem leblosen Haufen zusammenbricht}
