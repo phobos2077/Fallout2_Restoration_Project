@@ -30,8 +30,6 @@ for %%a in (%appearances%) do (
 :: sfall scripts
 mkdir %scripts_dir%
 move /y gl_ammomod.int %scripts_dir%\
-move /y gl_highlighting.int %scripts_dir%\
-move /y gl_partycontrol.int %scripts_dir%\
 
 del /s rpu-install.sh rpu-install.bat rpu-install.command
 echo RPU installed. Backup is in %bdir%
