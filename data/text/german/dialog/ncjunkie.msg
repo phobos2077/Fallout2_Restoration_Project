@@ -73,7 +73,7 @@
 {258}{}{Siehst du mich an?! Du siehst mich an?!! Ich töte dich!}
 {270}{}{Oh, ich würde dir gerne für deinen Sieg über die Enklave zujubeln, aber mein Kopf tut zu weh. Komme in der Nacht wieder.}
 {271}{}{::Versucht zu klatschen, trifft aber seine Hände nicht::}
-{272}{}{Noch lange nicht. Ich war zu zu, um mitzukriegen, was du gemacht hast. Aber es war bestimmt cool.}
+{272}{}{Noch lange nicht. Ich war zu zugedröhnt, um mitzukriegen, was du gemacht hast. Aber es war bestimmt cool.}
 {273}{}{Oh... Danke für unsere Rettung. Du, äh, hast du noch ein paar Chips übrig?}
 {274}{}{Ich habe auch mal die Welt gerettet. Glaube ich zumindest. Weiß es aber nicht mehr genau, ich war high.}
 {275}{}{Hatte die Enklave Jet?}
@@ -230,7 +230,7 @@ Ich LIEBE es.}
 {522}{}{Hey, Freund... teilst du dein Zeug mit mir.}
 {523}{}{Ich wollte dich gerade fragen, ob du fliegen willst, aber wie es aussieht tust du es schon.}
 {524}{}{Warum gibt es zwei von euch? Ist das dein Zwilling?}
-{525}{}{Wo hast du dein dein Zeug her?}
+{525}{}{Wo hast du dein Zeug her?}
 {530}{}{Schau jetzt nicht hin, Mann, aber da folgt dir ein Gehirn in einer Kiste.}
 {531}{}{Whoa. ich muss echt schlechtes zeug genommen haben... ich sehe Robotergehirne rumlaufen.}
 {532}{}{Wenn ich hier nochmal einen Roboter mit einem Gehirn sehe, gebe ich die Drogen für immer auf.}
