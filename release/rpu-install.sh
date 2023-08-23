@@ -12,6 +12,8 @@ if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
     echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
     exit 1
   fi
+else
+  rm -f fs_testx
 fi
 
 if [[ ! -f master.dat ]]; then
@@ -50,8 +52,6 @@ done
 mkdir -p data/scripts
 scripts="
 gl_ammomod.int
-gl_highlighting.int
-gl_partycontrol.int
 "
 for f in $scripts; do
   mv "$f" data/scripts/

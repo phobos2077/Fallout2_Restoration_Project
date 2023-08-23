@@ -22,14 +22,14 @@ end
 
 procedure error_WorldMapSlots begin
    message_box_warning("ERROR\nInvalid 'WorldMapSlots' value\n\nPlease close the game and set\n'WorldMapSlots=21' in ddraw.ini.");
-   debug_msg("RP SETTINGS - 'WorldMapSlots' != 21 in ddraw.ini!");
+   ndebug("RP SETTINGS - 'WorldMapSlots' != 21 in ddraw.ini!");
 
    signal_end_game;
 end
 
 procedure error_BoostScriptDialogLimit begin
    message_box_warning("ERROR\n'BoostScriptDialogLimit' not enabled\n\nPlease close the game and set\n'BoostScriptDialogLimit=1' in ddraw.ini.");
-   debug_msg("RP SETTINGS - 'BoostScriptDialogLimit' != 1 in ddraw.ini!");
+   ndebug("RP SETTINGS - 'BoostScriptDialogLimit' != 1 in ddraw.ini!");
 
    signal_end_game;
 end
