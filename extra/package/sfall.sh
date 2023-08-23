@@ -14,17 +14,13 @@ files="
 ddraw.dll
 ddraw.ini
 sfall.dat
-sfall-mods.ini
+sfall-readme.txt
+mods/sfall-mods.ini
 translations
 "
 for f in $files; do
   rm -rf "$f"
   7zr x sfall.7z "$f"
-done
-# sfall global scripts
-for f in gl_highlighting.int gl_partycontrol.int; do
-  rm -f $f
-  7zr e sfall.7z data/scripts/$f
 done
 rm -f sfall.7z
 
