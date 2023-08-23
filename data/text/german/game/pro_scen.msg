@@ -356,7 +356,7 @@
 {18500}{}{Emblem}
 {18501}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18600}{}{Schild der Ebene "Eins"}
-{18601}{}{Das könnte bedeuten, dass du dich auf Ebene Eins befindest.}
+{18601}{}{Das könnte wohl bedeuten, dass du dich auf Ebene Eins befindest.}
 {18700}{}{Schild der Ebene "Zwei"}
 {18701}{}{Du bist auf Ebene Zwei.}
 {18800}{}{Schild der Ebene "Drei"}
@@ -918,7 +918,7 @@
 {48200}{}{Tür}
 {48201}{}{Diese Tür ähnelt verdächtig Türen, die man in einem Lagerhaus finden würde.}
 {48300}{}{Wetterfahne}
-{48301}{}{Diese einfache Wetterfahne hilft den Bewohner des Ödlands dabei, das Wetter zu studieren.}
+{48301}{}{Mit Hilfe dieser einfachen Wetterfahne beobachten die Einwohner das Wetter.}
 {48400}{}{Altar}
 {48401}{}{Ein einfacher Altar aus bemalten Holz.}
 {48500}{}{Pult}
@@ -1136,8 +1136,8 @@
 {59501}{}{Der Metalltisch ist mit einer Art Biomasse bedeckt.}
 {59600}{}{Schwarzes Brett}
 {59601}{}{Stellenangebote sind an das Brett geheftet. Es sieht häufig gebraucht aus.}
-{59700}{}{Wachhäuschen}
-{59701}{}{Das Wachhäuschen ist über hundert Jahre alt, ist aber immer noch in ausgezeichnetem Zustand.}
+{59700}{}{Hütte}
+{59701}{}{Diese Hütte ist über hundert Jahre alt, aber noch immer in ausgezeichnetem Zustand.}
 {59800}{}{Schild}
 {59801}{}{Auf dem Schild steht: Gemischtwaren.}
 {59900}{}{Schild}
@@ -2270,7 +2270,7 @@
 {137600}{}{Fackel}
 {137601}{}{Eine brennende Fackel in einer Wandhalterung.}
 {137700}{}{Vertibird}
-{137701}{}{Ein großes Militärflugzeug.}
+{137701}{}{Ein großes militärisches Fluggerät.}
 {137800}{}{Zerstörte Tür}
 {137801}{}{Die Trümmer blockieren den Eingang vollständig.}
 {137900}{}{Zerstörte Tür}
@@ -2634,9 +2634,9 @@
 {172200}{}{Kugelsicheres Glas}
 {172300}{}{Kugelsicheres Glas}
 {172400}{}{Schwerer Lasergeschützturm}
-{172401}{}{Der Turm dreht sich auf bedrohliche Art.}
+{172401}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {172500}{}{Schwerer Lasergeschützturm}
-{172501}{}{Der Turm dreht sich auf bedrohliche Art.}
+{172501}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {172600}{}{Felsen}
 {172700}{}{Felsen}
 {172800}{}{Felsen}
@@ -3459,11 +3459,11 @@
 {229200}{}{Schwerer Laserturm}
 {229201}{}{Der Laserturm ruht auf diesem Betonturm.}
 {229300}{}{Schwerer Lasergeschützturm}
-{229301}{}{Der Turm dreht sich auf bedrohliche Art.}
+{229301}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {229400}{}{Schwerer Laserturm}
 {229401}{}{Der Laserturm ruht auf diesem Betonturm.}
 {229500}{}{Schwerer Lasergeschützturm}
-{229501}{}{Der Turm dreht sich auf bedrohliche Art.}
+{229501}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {229800}{}{Film Poster}
 {229801}{}{Ein altes Filmplakat. "Landstreicher mit einer Schrotflinte".}
 {229900}{}{Eine seltsam aussehende Kreatur}

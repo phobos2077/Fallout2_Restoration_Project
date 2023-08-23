@@ -6,8 +6,8 @@
 {105}{}{Roter Mutant!}
 {106}{}{Du hast uns alle zerstört.}
 {107}{}{Du wirst für das, was du getan hast, bezahlen.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{Du (hust), du hast den Kampf noch nicht gewonnen. Du und deine verdammten Mutantenfreunde werden mich in einem Atompilz ins Jenseits begleiten. Ich habe gerade die Selbstzerstörung ausgelöst. (heh, heh, hust, hust...) Das Werk wird vollendet werden. Ihr habt hier nichts erreicht, außer euer eigenes Todesurteil zu unterschreiben. Pflicht, (hust) Ehre... Mut... in Ewigkeiiiii...}
+{109}{ssa2}{Du (hust), du hast den Kampf noch nicht gewonnen. Du und deine verdammten Mutantenfreunde werden mich in einem Atompilz ins Jenseits begleiten. Ich habe gerade die Selbstzerstörung ausgelöst. (heh, heh, hust, hust...) Das Werk wird vollendet werden. Ihr habt hier nichts erreicht, außer euer eigenes Todesurteil zu unterschreiben. Pflicht, (hust) Ehre... Mut... in Ewigkeiiiii...}
 {110}{}{Oh je. Hier schlimm. Ich jetzt auf Schiff.}
 {111}{}{Ich mach mich lieber auf zum Schiff und haue ab.}
 {112}{ssa3alt}{Du bist viel weitergekommen als vorgesehen, aber vorher bist du ja auch noch nicht

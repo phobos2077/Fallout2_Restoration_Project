@@ -5,7 +5,7 @@
 {300}{}{Powerrüstung}
 {301}{}{Energieunabhängige High-Tech-Rüstung, die mit einem kleinen Fusionsreaktor betrieben wird. Mit Brennstoff für mehr als 100 Jahre.}
 {400}{}{Messer}
-{401}{}{Scharfe Hieb- und Stichwaffe.   Mindest-ST: 2.}
+{401}{}{Scharfe Hieb- und Stichwaffe. Mindest-ST: 2.}
 {500}{}{Schlagstock}
 {501}{}{Schlagstock aus Hartholz für Militär- oder Polizeieinsätze. Mindest-ST: 3.}
 {600}{}{Vorschlaghammer}
@@ -13,9 +13,9 @@
 {700}{}{Speer}
 {701}{}{Stab mit einer messerscharfen Spitze. Der Stab ist aus Holz und die Spitze aus bearbeitetem Stahl. Mindest-ST: 4.}
 {800}{}{10mm Pistole}
-{801}{}{Selbstlader vom Typ Colt 6520, 10mm. Bei jedem Schuss lädt die Waffe automatisch nach, bis das Magazin leer ist.  Nur Einzelschuss. Mindest-ST: 3.}
+{801}{}{Selbstlader vom Typ Colt 6520, 10mm. Bei jedem Schuss lädt die Waffe automatisch nach, bis das Magazin leer ist. Nur Einzelschuss. Mindest-ST: 3.}
 {900}{}{10mm MP}
-{901}{}{H&K MP9 - 10mm Maschinenpistole. Handfeuerwaffe mittlerer Größe für Einzelschuss oder Dauerfeuer.   Mindest-ST: 4.}
+{901}{}{H&K MP9 - 10mm Maschinenpistole. Handfeuerwaffe mittlerer Größe für Einzelschuss oder Dauerfeuer. Mindest-ST: 4.}
 {1000}{}{Jagdgewehr}
 {1001}{}{Halbautomatisches Gewehr Colt Rangemaster, Kaliber .223. Nur Einzelschuss. Mindest-ST: 5.}
 {1100}{}{Flammenwerfer}
@@ -43,15 +43,15 @@
 {2200}{}{14mm Pistole}
 {2201}{}{14mm Selbstlader vom Typ Sig-Sauer. Große Handfeuerwaffe mit Einzelschuss. Hervorragende Verarbeitung. Mindest-ST: 4.}
 {2300}{}{Sturmgewehr}
-{2301}{}{Sturmgewehr vom Typ AK-112, 5mm. Ein älteres Militärmodell, das seit der Kriegszeit nicht mehr eingesetzt wurde. Einzelschuss oder Dauerfeuer.     Mindest-ST: 5.}
+{2301}{}{Sturmgewehr vom Typ AK-112, 5mm. Ein älteres Militärmodell, das seit der Kriegszeit nicht mehr eingesetzt wurde. Einzelschuss oder Dauerfeuer. Mindest-ST: 5.}
 {2400}{}{Plasmapistole}
-{2401}{}{Plasmapistole vom Typ Glock 86, hergestellt von Gaston Glock AI. Feuert einen kleinen Strahl hocherhitzten Plasmas ab.   Mindest-ST: 4.}
+{2401}{}{Plasmapistole vom Typ Glock 86, hergestellt von Gaston Glock AI. Feuert einen kleinen Strahl hocherhitzten Plasmas ab. Mindest-ST: 4.}
 {2500}{}{Splittergranate}
 {2501}{}{Enthält eine kleine Menge hochexplosiven Sprengstoffs. Die Hülle selbst bildet die gefährlichsten Splitter. Explodiert beim Aufprall. Mindest-ST: 3.}
 {2600}{}{Plasmagranate}
 {2601}{}{Magnetisch versiegelte Plasmaeinheit mit hoch- explosivem Sprengstoff. Gibt beim Aufprall hocherhitztes Plasma frei. Mindest-ST: 4.}
 {2700}{}{Pulsgranate}
-{2701}{}{Elektromagnetische Pulsgranate, die bei der Detonation ein starkes Magnetfeld erzeugt.   Hat keine Wirkung auf biologische Lebewesen. Mit Aufprallzünder. Mindest-ST: 4.}
+{2701}{}{Elektromagnetische Pulsgranate, die bei der Detonation ein starkes Magnetfeld erzeugt. Hat keine Wirkung auf biologische Lebewesen. Mit Aufprallzünder. Mindest-ST: 4.}
 {2800}{}{Gatling-Laser}
 {2801}{}{H&K L30 Gatling-Laser. Dieser für Militärzwecke entwickelte Laser befand sich zu Kriegsbeginn im Prototypstadium. Durch die Verwendung mehrerer Läufe kommt es nicht so schnell zur Überhitzung. Mindest-ST: 6.}
 {2900}{}{10mm-TMG}
@@ -187,7 +187,7 @@
 {9400}{}{Schrotflinte}
 {9401}{}{Eine doppelläufige Winchester Widowmaker Schrotflinte, Kaliber 12. Mit kurzem Lauf und einem Mahagonischaft. Mindest-ST: 4.}
 {9500}{}{Kal.12 Schrotpatronen}
-{9501}{}{Munition für Flinten. Diese spezielle Munition trägt den Vermerk: "Patronen im Kaliber 12, nicht für Kinder unter  3 Jahren geeignet."}
+{9501}{}{Munition für Flinten. Diese spezielle Munition trägt den Vermerk: "Patronen im Kaliber 12, nicht für Kinder unter 3 Jahren geeignet."}
 {9600}{}{Rote Karte}
 {9601}{}{Elektronischer Sicherheitsschlüssel, rote Farbkodierung.}
 {9700}{}{Blaue Karte}
@@ -469,9 +469,9 @@
 {24000}{}{Tesla-Rüstung}
 {24001}{}{Diese glänzende Rüstung bietet überlegenen Schutz vor Energieangriffen. Die drei Tesla-Anziehungsspulen zerstreuen einen Großteil gerichteter Energieangriffe.}
 {24100}{}{.223 Pistole}
-{24101}{}{.223 Gewehr, modifiziert und zu einer Pistole verkürzt. Eine einmalige Waffe, offensichtlich mit Liebe und Hingabe gefertigt.     Mindest-ST: 5.}
+{24101}{}{.223 Gewehr, modifiziert und zu einer Pistole verkürzt. Eine einmalige Waffe, offensichtlich mit Liebe und Hingabe gefertigt. Mindest-ST: 5.}
 {24200}{}{Kampfgewehr}
-{24201}{}{Winchester City-Killer 12mm-Kampfgewehr in der Bullpup-Variante. Es ist in einem sehr guten Zustand und besitzt   zur Erhöhung der Zuverlässigkeit die optionale Abdichtung   für Wüstenkriege. Mindest-ST: 5.}
+{24201}{}{Winchester City-Killer 12mm-Kampfgewehr in der Bullpup-Variante. Es ist in einem sehr guten Zustand und besitzt zur Erhöhung der Zuverlässigkeit die optionale Abdichtung für Wüstenkriege. Mindest-ST: 5.}
 {24300}{}{Topf}
 {24301}{}{Ein schön gefertigter Tontopf.}
 {24400}{}{Topf}
@@ -523,7 +523,7 @@
 {26700}{}{Vics Wasserflasche}
 {26701}{}{Dieses Relikt aus der Vault enthielt früher vermutlich ein heiliges Sakrament. Die heilige Zahl 13 ist auf dieses äußerst kostbare Verbindungsstück zur Vergangenheit deines Volks und hoffentlich auch seiner Zukunft geprägt.}
 {26800}{}{H&K CAWS}
-{26801}{}{Das Gewehr CAWS (Close Assault Weapon System) ist im Nahkampf eine nützliche Waffe. Durch das kurze Bullpup- Layout hat die Waffe ein handliches Format, der Lauf ist aber trotzdem noch lang genug für Hochgeschwindigkeits- geschoße.      Mindest-ST: 6.}
+{26801}{}{Das Gewehr CAWS (Close Assault Weapon System) ist im Nahkampf eine nützliche Waffe. Durch das kurze Bullpup- Layout hat die Waffe ein handliches Format, der Lauf ist aber trotzdem noch lang genug für Hochgeschwindigkeits- geschoße. Mindest-ST: 6.}
 {26900}{}{Roboterteile}
 {26901}{}{Ein Haufen beschädigter Roboterteile.}
 {27000}{}{Robo-Raketenwerfer}
@@ -651,7 +651,7 @@
 {33100}{}{Cat's Paw Nummer 5}
 {33101}{}{Das ist die viel gesuchte Nummer 5 der Zeitschrift Cat's Paw. Abgesehen von den Bildern gibt es einen wunderbaren Bericht über Energiewaffen.}
 {33200}{}{MP M3A1 "Grease Gun"}
-{33201}{}{Diese Maschinenpistole füllte die Waffenlager der Nationalgarde, nachdem die Armee sie durch neuere Waffen ersetzt hat. Da die "Grease Gun" jedoch einfach und günstig herzustellen war, sind immer noch ziemlich viele in Gebrauch.   Mindest-ST: 4.}
+{33201}{}{Diese Maschinenpistole füllte die Waffenlager der Nationalgarde, nachdem die Armee sie durch neuere Waffen ersetzt hat. Da die "Grease Gun" jedoch einfach und günstig herzustellen war, sind immer noch ziemlich viele in Gebrauch. Mindest-ST: 4.}
 {33300}{}{Herztabletten}
 {33301}{}{Diese Tabletten werden von Menschen mit Herzproblemen eingenommen.}
 {33400}{}{Gift}
@@ -686,7 +686,7 @@
 {35000}{}{Bozar}
 {35001}{}{Schmuckstück in der Waffensammlung jedes Scharfschützen. Trotz ihrer Empfindlichkeit und häufiger Ladehemmung bei der kleinsten Ver- schmutzung kompensiert die Treffergenauigkeit dieser großen Waffe leicht den zusätzlichen Wartungsaufwand. Mindest-ST: 6.}
 {35100}{}{FN FAL}
-{35101}{}{Dieses Gewehr wurde im Lauf der Geschichte häufiger von kämpfenden Truppen eingesetzt als jedes andere. Eine zuverlässige Waffe, unabhängig von Terrain oder der taktischen Situation.     Mindest-ST: 5.}
+{35101}{}{Dieses Gewehr wurde im Lauf der Geschichte häufiger von kämpfenden Truppen eingesetzt als jedes andere. Eine zuverlässige Waffe, unabhängig von Terrain oder der taktischen Situation. Mindest-ST: 5.}
 {35200}{}{H&K G11}
 {35201}{}{Dieses Gewehr hat die Entwicklung von Kampf- waffen revolutioniert. Die hülsenlose Patrone besteht aus einer Treibladung mit innen- liegender Kugel. Diese Gewichts- und Platz- einsparung ermöglichte eine sehr hohe Magazinkapazität. Mindest-ST: 5.}
 {35300}{}{XL70E3}
@@ -749,7 +749,7 @@
 {38500}{}{Abgesägte Schrotflinte}
 {38501}{}{Jemand hat sich die Zeit genommen, die letzten paar Zentimeter vom Lauf dieser Waffe abzusägen. Dank der weiten Streuung der Patronen eignet sich diese Handfeuerwaffe jetzt hervorragend für den Nahkampfeinsatz und gegen Gruppen. Mindest-ST: 4.}
 {38600}{}{Louisville Slugger}
-{38601}{}{Dieser typisch amerikanische Baseballschläger aus Hartholz schlägt nicht nur den Ball weit übers Feld hinaus.    Mindest-ST: 4.}
+{38601}{}{Dieser typisch amerikanische Baseballschläger aus Hartholz schlägt nicht nur den Ball weit übers Feld hinaus. Mindest-ST: 4.}
 {38700}{}{M60}
 {38701}{}{Dieses recht leichte Maschinengewehr wird von Militärs weltweit für seine große Schusskraft gelobt. Das verlässliche, kampferprobte Design wurde auf Fahrzeugen montiert und zum Feuerschutz für Schwadronen verwendet. Mindest-ST: 7.}
 {38800}{}{Nadelpistole}
@@ -761,7 +761,7 @@
 {39100}{}{H&K G11E}
 {39101}{}{Dieses Gewehr hat die Entwicklung von Kampf- waffen revolutioniert. Die hülsenlose Patrone besteht aus einer Treibladung mit innen- liegender Kugel. Diese Gewichts- und Platz- einsparung ermöglichte eine sehr hohe Magazinkapazität. Mindest-ST: 6.}
 {39200}{}{Gaußgewehr M72}
-{39201}{}{Das Gewehr M72 wurde in Deutschland ent- wickelt. Ein elektro- magnetisches Feld verschießt Kugeln mit einer unglaublichen Geschwindigkeit... und  sie durchschlagen fast jedes Ziel. Reichweite, Zielgenauigkeit und Durchschlagskraft sind nahezu unerreicht. Mindest-ST: 6.}
+{39201}{}{Das Gewehr M72 wurde in Deutschland ent- wickelt. Ein elektro- magnetisches Feld verschießt Kugeln mit einer unglaublichen Geschwindigkeit... und sie durchschlagen fast jedes Ziel. Reichweite, Zielgenauigkeit und Durchschlagskraft sind nahezu unerreicht. Mindest-ST: 6.}
 {39300}{}{Phazer}
 {39301}{}{Diese mysteriöse High-Tech-Waffe hat offenbar einen Energie- generator eingebaut. Wenn dieser nicht be- schädigt wäre, könnte das die ultimative Waffe gegen jeden Feind sein. Das Speichermodul besteht aus einer kleinen Energiezelle. Mindest-ST: 3.}
 {39400}{}{Gaußpistole PPK12}
@@ -787,7 +787,7 @@
 {40400}{}{Desert Eagle (Erw. Mag.)}
 {40401}{}{Veraltetes Modell der Desert Eagle in 44er-Magnumausführung. Einsatz in Filmen des 20. Jhdts. machte die Waffe zum beliebtesten Gewehr aller Zeiten. Diese Waffe wurde mit einem längeren Magazin ausgestattet, damit der Spaß noch länger dauern kann! Mindest-ST: 4.}
 {40500}{}{Sturmgewehr (Erw. Mag.)}
-{40501}{}{Dieses Sturmgewehr hat einen erweiterten, militärtauglichen Munitionsclip. Durch die erweiterte Magazinkapazität hat man im Kampf Spaß wie nie zuvor.     Mindest-ST: 5.}
+{40501}{}{Dieses Sturmgewehr hat einen erweiterten, militärtauglichen Munitionsclip. Durch die erweiterte Magazinkapazität hat man im Kampf Spaß wie nie zuvor. Mindest-ST: 5.}
 {40600}{}{Plasmapistole (Erw. Kap.)}
 {40601}{}{Bei der Plasmapistole Glock 86 wurde die Magnetkammer neu ausgerichtet, um die Abnutzung der Energiezelle zu minimieren. Die Effizienz wird dadurch verdoppelt, so dass mit einer Batterieladung mehr Schüsse abgegeben werden können. Mindest-ST: 4.}
 {40700}{}{Superpower-Faust}
@@ -856,7 +856,7 @@
 {43900}{}{Taschenfussel}
 {43901}{}{Fussel, die du in einer Tasche gefunden hast.}
 {44000}{}{Biomed-Gel}
-{44001}{}{Eine Flasche Bio-Gel,   das in der Biomedizin eingesetzt wird.}
+{44001}{}{Eine Flasche Bio-Gel, das in der Biomedizin eingesetzt wird.}
 {44100}{}{Blondies Dogtags}
 {44101}{}{Bei diesen Marken wurde der Name des Besitzers weggekratzt und der Name "Blondie" auf die Rückseite geschmiert. Unter dem Namen steht eine "11".}
 {44200}{}{Angel-Eyes Dogtags}
@@ -914,7 +914,7 @@
 {46800}{}{Smittys Essen}
 {46801}{}{Eine Art Salat und ein Sandwich mit etwas, das wie Brahminfleisch aussieht und mit einer dicken dunkelgelben Sauce bedeckt ist. Als Beilage gibt es auch noch ein seltsam aussehendes, eingemachtes Gemüse.}
 {46900}{}{Rachenputzer}
-{46901}{}{Du beschließt, dass es sich um ein sehr starkes alkoholisches Getränk oder ein Reinigungs-   mittel handeln muss.}
+{46901}{}{Du beschließt, dass es sich um ein sehr starkes alkoholisches Getränk oder ein Reinigungsmittel handeln muss.}
 {47000}{}{Ballknebel}
 {47001}{}{Fragwürdiges Hilfsmittel für Sexspielchen. Wenn du nach dem Zweck fragen musst, willst du die Antwort gar nicht wissen.}
 {47100}{}{"The Lavender Flower"}
@@ -947,7 +947,7 @@
 {48600}{}{Veredeltes Uranerz}
 {48601}{}{Ein Stück Uranerz. Dieses Erz scheint irgendwie bearbeitet worden zu sein. Es kommt dir so schwer vor.}
 {48700}{}{Zettel von Francis}
-{48701}{}{"Zaius, Marcus tut nichts gegen diesen Mutanten-Hasser Jacob und deren Komplizen. Ich hab die geheimen Tunnel entdeckt, die sie als Treffpunkt benutzen. Wenn man da unten ein oder zwei Leichen plaziert, könnte man  das Jacob anhängen.  Lass mich wissen, wenn  du mitmachen willst."     - Unterschrift, Francis}
+{48701}{}{"Zaius, Marcus tut nichts gegen diesen Mutanten-Hasser Jacob und deren Komplizen. Ich hab die geheimen Tunnel entdeckt, die sie als Treffpunkt benutzen. Wenn man da unten ein oder zwei Leichen plaziert, könnte man das Jacob anhängen. Lass mich wissen, wenn du mitmachen willst." - Unterschrift, Francis}
 {48800}{}{K-9-Motivator}
 {48801}{}{Antriebsmechanismus für einen Roboter der Serie K-9.}
 {48900}{}{Spezielle Boxerwaffe}
@@ -968,7 +968,7 @@
 {49700}{}{Plattierte Boxhandschuhe}
 {49701}{}{Jemand hat "aus Versehen" Metallplatten in diese Boxhandschuhe geschoben. Technisch gesehen könnte das als Betrug angesehen werden, doch du wertest es als verstärkte Möglichkeit, knochensplitternde Verletzungen zuzufügen.}
 {49800}{}{Duale Plasmakanone}
-{49801}{}{Nur für Verwendung in  Geschützturm.}
+{49801}{}{Nur für Verwendung in Geschützturm.}
 {49900}{}{PIPBoy-Powerfunktion "Sprache"}
 {49901}{}{Die PIPBoy-Powerfunktion "Sprache" besteht aus einer Speicher-Holo-Disk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch ins Gedächtnis des Benutzers, so dass dessen Ausdrucksfähigkeit dauerhaft verbessert wird.}
 {50000}{}{FN FAL HPFA}

@@ -29,7 +29,7 @@
 {128}{}{Ich habe eine kleine Probe des Serums hergestellt. Diese Probe muss nun einem Probanden injiziert werden.}
 {129}{}{Von dir lass ich mich nicht mit der Nadel piken!}
 {130}{}{Das wär's dann wohl gewesen. Ich mach mich davon.}
-{131}{}{Bitte? Nein, um dich geht es auch gar nicht. Beim jetzigen Entwicklungsstand eignet sich das Serum noch nicht für den Einsatz bei niedrigen Mutagenquotienten. Es wirkt nur bei Supermutanten. Injiziere das Serum einem Supermutanten, und komm dann wieder,  um Bericht zu erstatten. So weit ich weiß, gibt es in Broken Hills massig Supermutanten.}
+{131}{}{Bitte? Nein, um dich geht es auch gar nicht. Beim jetzigen Entwicklungsstand eignet sich das Serum noch nicht für den Einsatz bei niedrigen Mutagenquotienten. Es wirkt nur bei Supermutanten. Injiziere das Serum einem Supermutanten, und komm dann wieder, um Bericht zu erstatten. So weit ich weiß, gibt es in Broken Hills massig Supermutanten.}
 {132}{}{Und wie wirkt das Serum?}
 {133}{}{Wieviel ist für mich drin?}
 {134}{}{Es soll eine Regression der genetischen Matrix bewirken, die zur Destabilisierung und Assimilierung anormaler DNA führt. Dadurch wird das mutagene Potential des Probanden aufgehoben. Wenn ich ganz sicher wäre, dass es so funktioniert, müsste ich es nicht testen.}

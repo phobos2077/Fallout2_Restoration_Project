@@ -117,9 +117,7 @@
 {198}{}{Wenn du es sagst. Sag diesem Typen Jargon, dass ich mit ihm reden möchte, klar?
  Tschüss dann.}
 {199}{}{Wenn du das meinst, was im Ödland als Alkohol gilt: Nein!}
-{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen
- bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht...
-  so genau genommen.}
+{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht... so genau genommen.}
 {201}{}{Ich glaube, ich nehm lieber doch nur ein bisschen Wasser.}
 {202}{}{Also, Moment mal. Was für synthetische Alkoholsorten gibt es denn hier?}
 {203}{}{Ich brauche ein paar Auskünfte.}

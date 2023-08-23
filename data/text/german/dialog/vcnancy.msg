@@ -61,8 +61,7 @@
 {152}{}{Man sieht hier nicht allzuoft ein neues Gesicht. Ich bin Phyllis. Wie heißt du?}
 {153}{}{Ich heiße }
 {154}{}{Ich bin }
-{155}{}{Wenn ich Lust hätte, dir meinen Namen zu sagen, hätte ich's längst getan, Syphyllis...
-  oder wie in drei Teufels Namen du auch immer heißt.}
+{155}{}{Wenn ich Lust hätte, dir meinen Namen zu sagen, hätte ich's längst getan, Syphyllis... oder wie in drei Teufels Namen du auch immer heißt.}
 {156}{}{Tut mir leid, ich hab momentan keine Zeit zum Plaudern.}
 {157}{}{Also, von allen...du bist so ziemlich das Ordinärste, was mir jemals untergekommen ist.
  Ich rate dir eins: Geh. Und zwar sofort.}

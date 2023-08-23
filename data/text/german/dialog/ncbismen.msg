@@ -13,7 +13,7 @@
 {221}{}{Hey, }
 {222}{}{Hey, }
 {225}{}{Du bist gerade in den falschen Laden hineingeplatzt, Vollidiot.}
-{226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben.  Verpiss dich Junge, bevor wir dich abknallen.}
+{226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben. Verpiss dich Junge, bevor wir dich abknallen.}
 {227}{}{Der Kerl bettelt ja förmlich nach Ärger...}
 {228}{}{Ich hörte die }
 {229}{}{Du solltest besser abhauen, }

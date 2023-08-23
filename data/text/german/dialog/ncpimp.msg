@@ -122,7 +122,7 @@
 {425}{}{Myron, Ich willd ich nicht mehr erwischen, das du wieder dieses Marschmellow Ding mir meinen Frauen machst.}
 {426}{}{Myron, ich will nicht mehr sehen, dass meine Frauen Kamel für dich spielen.}
 {427}{}{Myron, Ich will nicht mehr sehen, dass du meine Frauen wie Stahlarbeiter aus Cleveland anziehst.}
-{428}{}{Yo, Myron! Brauchst du ne Freundin  für die Nacht? Ich habe da ne echt Süße.}
+{428}{}{Yo, Myron! Brauchst du ne Freundin für die Nacht? Ich habe da ne echt Süße.}
 {429}{}{Das hier sind keine Sklaven, sondern Profis, hörste?}
 {430}{}{Myron! Junge,du schuldest mir noch was von letzter Woche!}
 {431}{}{Die Frau kann einen Golfball durch einen Gartenschlauch saugen.}

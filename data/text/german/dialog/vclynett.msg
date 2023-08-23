@@ -357,7 +357,7 @@
 {456}{}{Alles klar. Ich komm später wieder.}
 {457}{}{Na gut. Schönen Tag noch, Erstbürgerin.}
 {458}{lyn067a}{Du hast das Problem also NICHT gelöst? }
-{459}{lyn067b}{Wenn du  immer noch Bürger werden willst, kümmer dich darum.}
+{459}{lyn067b}{Wenn du immer noch Bürger werden willst, kümmer dich darum.}
 {460}{}{Wenn ich das richtig verstehe, habt ihr hier in Vault City, das nötige Ersatzteil für die Reparatur des Kraftwerks.}
 {461}{}{Alles klar. Ich komm später wieder.}
 {462}{}{Na gut. Schönen Tag noch, Erstbürgerin.}

@@ -158,7 +158,7 @@
 {212}{}{Es kann nicht genügend Vertibirds hier geben, um das Gift über die ganze Welt zu
  verteilen.}
 {213}{}{Ich mach dich zum Wirt von einigen Hochenergie-Projektilen. Fang an zu beten.}
-{214}{}{Da hast du recht. Aber wir brauchen sie auch gar nicht.   Wir entwickelten ein
+{214}{}{Da hast du recht. Aber wir brauchen sie auch gar nicht. Wir entwickelten ein
  Freisetzungssystem, welches das F.E.V.-Gift von den Behältern direkt in die Atmosphäre sprüht,
  der Jetstrom erledigt den Rest. Die weltweite Sättigung wird in höchstens zwei Wochen erreicht.}
 {215}{}{Zwei Wochen?}

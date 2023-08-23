@@ -143,7 +143,7 @@
 {1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflusst. }
 {1123}{}{Du hast andere menschliche Wesen studiert, um ihre emotionale Reaktion dir gegenüber genau einzuschätzen. Du siehst bei einem vertraulichen Gespräch den Reaktionswert der Person, mit der du gerade sprichst. }
 {1124}{}{Du bist der leibhaftige Totschläger! Bei Nahkämpfen werden aus all deinen Treffern kritische Treffer, so dass du Zerstörung und Verwüstung zurücklässt.}
-{1125}{}{Du hast die Feuer- waffe als Schmerz- quelle gemeistert. Mit diesem Bonus wird jeder erfolg- reiche Treffer im Kampf mit Waffen  zu einem kritischen Treffer aufge- wertet, wenn du zudem einen guten Wurf machst.}
+{1125}{}{Du hast die Feuerwaffe als Schmerzquelle gemeistert. Mit diesem Bonus wird jeder erfolgreiche Treffer im Kampf mit Waffen zu einem kritischen Treffer aufgewertet, wenn du zudem einen guten Wurf machst.}
 {1126}{}{Wenn du beim Schleichen eine Kreatur in den Rücken triffst, fügst du im Nahkampf doppelten Schaden zu. Dieser Bonus heißt Leiser Tod.}
 {1127}{}{Jeder Action Boy-Level (auf Wunsch auch Girl) gibt dir bei Kampfhandlungen einen zusätzlichen AP. Diese APs kannst du bei jeder beliebigen Aufgabe einsetzen.}
 {1128}{}{Mit diesem Bonus kannst du das Bewusstsein von äußeren Einflüssen abschirmen. Du musst diese Gabe von einem Guru auf der Durchreise oder bei einem ausgiebigen Aufenthalt in einer Bar gelernt haben.}

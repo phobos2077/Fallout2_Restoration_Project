@@ -21,7 +21,7 @@
  sie Bio-Gel nannten.}
 {115}{}{Und weiter?}
 {116}{}{Tschüss.}
-{117}{}{Als nächstes bin ich hier aufgewacht. Ich muss gehen!           Ich muss zurück zu meiner Einheit.}
+{117}{}{Als nächstes bin ich hier aufgewacht. Ich muss gehen! Ich muss zurück zu meiner Einheit.}
 {118}{}{Tschüss.}
 {200}{}{Wo bin ich?}
 {201}{}{Mein Kopf tut weh.}

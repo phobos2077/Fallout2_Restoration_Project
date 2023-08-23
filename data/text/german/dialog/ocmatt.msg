@@ -14,7 +14,7 @@
 {112}{}{Wer bist du?}
 {113}{}{Bist du ein Gefangener?}
 {114}{}{Ich geh dann.}
-{115}{}{Mein Name ist Matt. Ist das von  Bedeutung?}
+{115}{}{Mein Name ist Matt. Ist das von Bedeutung?}
 {116}{}{Glaub kaum.}
 {117}{}{Hmpf. Ich gehn.}
 {118}{}{OK, ich geh halt.}

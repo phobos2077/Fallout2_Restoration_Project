@@ -30,7 +30,7 @@
 {128}{}{Eindringlinge. Menschen, Deathclaws - alles. Wenn Rudel bedroht, ich angreifen.}
 {129}{}{Ah.}
 {130}{}{Ich verstehe.}
-{131}{}{Sollte mich überraschen, wenn du schlau genug wärst, Freund  und Feind zu unterscheiden.}
+{131}{}{Sollte mich überraschen, wenn du schlau genug wärst, Freund und Feind zu unterscheiden.}
 {132}{}{Mir tun die Eindringlinge leid, die dir begegnen.}
 {133}{}{Na, egal. Bis dann.}
 {134}{}{Wie ich unterscheiden? Weiß nicht. Einiges verstehen gut, anderes verstehen wenig. Vieles verstehen nicht.}

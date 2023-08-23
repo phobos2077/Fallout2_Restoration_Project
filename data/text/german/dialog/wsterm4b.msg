@@ -1,9 +1,7 @@
 {100}{}{Ein Computerterminal.}
 {101}{}{Es steuert das Vault-Tec Organentnahmegerät.}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
-{103}{}{Willkommen beim hochmodernen Organentnahmegerät von Vault-Tec. Die Bedienung ist ganz einfach:
-                         Organspender in Betriebsraum verbringen und anschließend über die entsprechenden
- Drehknöpfe Spezies des Spenders und zu entnehmendes Organ auswählen.}
+{103}{}{Willkommen beim hochmodernen Organentnahmegerät von Vault-Tec. Die Bedienung ist ganz einfach: Organspender in Betriebsraum verbringen und anschließend über die entsprechenden Drehknöpfe Spezies des Spenders und zu entnehmendes Organ auswählen.}
 {104}{}{Spezies auswählen}
 {105}{}{Organ auswählen}
 {106}{}{Beenden}
@@ -30,7 +28,7 @@
 {122}{}{Ritze das Wort "Mutant" in die Bedientafel ein.}
 {123}{}{Ritze das Wort "Deathclaw" in die Bedientafel ein.}
 {124}{}{Beenden}
-{125}{}{Momentan ausgewählt:                                                  }
+{125}{}{Momentan ausgewählt: }
 {126}{}{Spezies: }
 {127}{}{Organ: }
 {128}{}{Spezies auswählen}

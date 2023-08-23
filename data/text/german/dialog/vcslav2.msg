@@ -1,9 +1,9 @@
-{100}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr  den Boden.}
+{100}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr den Boden.}
 {101}{}{Du siehst einen Sklaven aus Vault City.}
-{102}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr  den Boden.}
-{103}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung.  Ihr Blick fixiert starr den Boden.}
+{102}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr den Boden.}
+{103}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung. Ihr Blick fixiert starr den Boden.}
 {104}{}{Du siehst einen Sklaven aus Vault City.}
-{105}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung.  Ihr Blick fixiert starr den Boden.}
+{105}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung. Ihr Blick fixiert starr den Boden.}
 {106}{}{Ich habe von Deinen mutigen Taten gehört. Du hast Vault City einen großen Dienst erwiesen...und der Welt.}
 {107}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
 {108}{}{Ich wünschte, ich könnte dir irgendwas geben... für alles, was du für uns getan hast,
@@ -37,7 +37,7 @@
 {134}{}{Ich kann nicht mit Dir sprechen. Ich habe Verpflichtungen.}
 {135}{}{Bitte geh' weg, Sklavenhändler. Ich möchte keinerlei Ärger.}
 {136}{}{Flüchten? Ich...habe niemals versucht, von hier zu flüchten. Das Leben hier ist gut.}
-{137}{}{Die Bürger haben mir gesagt, dass *ich*, wenn ich hart genug arbeite,  eines Tages ein Bürger werden könnte.}
+{137}{}{Die Bürger haben mir gesagt, dass *ich*, wenn ich hart genug arbeite, eines Tages ein Bürger werden könnte.}
 {138}{}{Die Bürger lehren uns, dass die Arbeit selbst die Belohnung ist.}
 {139}{}{Die Bürger erzählen uns, dass unser Dienst ihnen mehr Zeit für wichtigere Dinge gibt.}
 {140}{}{Ich hatte Glück, dass Vault City Diener brauchen konnte. Ich hätte in New Reno enden können.}

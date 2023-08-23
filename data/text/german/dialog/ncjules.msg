@@ -247,7 +247,7 @@
 {936}{}{Kann ja alles sein, aber WAS du da zwischen den Beinen hast, ist Miss Bishop völlig egal. Die schwingt auf wie die Tür zum Saloon.}
 {937}{}{Äh, erzähl mir doch noch was über die Familien.}
 {945}{}{Die Wrights? Hehe. Die Wrights sind die einzige Familie, die auch WIRKLICH eine Familie ist. Die anderen Familien haben alle Söldner und Rumtreiber zum Schutz angeheuert, aber die Familie Wright IST die Familie Wright, kapiert?}
-{946}{}{Ich kann dich nur warnen, wenn's um die Wrights geht, Sklavenhändler,  also, die Wrights sind nämlich die einzige Familie, die auch wirklich eine Familie IST.}
+{946}{}{Ich kann dich nur warnen, wenn's um die Wrights geht, Sklavenhändler, also, die Wrights sind nämlich die einzige Familie, die auch wirklich eine Familie IST.}
 {947}{}{Eine Familie? Wie viel gibt es denn da?}
 {960}{}{Ungefähr zwanzig oder noch mehr echte Wrights. Hundsgemein und einer hässlicher als der andere. }
 {961}{}{Ungefähr zwanzig oder noch mehr echte Wrights und sie haben alle was gegen Leute in deinem Berufszweig. Es heißt, dass sie vor langer Zeit mal eine Schwester an einen Sklavenhändler verloren haben und seitdem können sie Sklavenhändler nicht leiden.}

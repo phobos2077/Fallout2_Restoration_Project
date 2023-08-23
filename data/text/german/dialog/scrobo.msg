@@ -9,7 +9,7 @@
 {105}{}{.schwirrrrr... Ich bin kein Daggit.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
 {107}{}{Wuff! Wu-wu-wu-<klick>wuff.}
-{108}{}{<sprzzzt>  Miau...ups, Fehler}
+{108}{}{<sprzzzt> Miau...ups, Fehler}
 {109}{}{Bellbellbellbellbellbellbell!}
 {110}{}{Grrr...}
 {111}{}{Ha-wuh! <klick-klick> Ha-wuh!}

@@ -1677,7 +1677,7 @@
 {44884}{}{Von jetzt an werd ich wohl 'ne Brille brauchen!}
 {44890}{}{Bauchschüsse sind echt 'ne ganz miese Tour!}
 {44891}{}{Nicht...unter...die...Gürtellinie!}
-{44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden  treffen würde?}
+{44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden treffen würde?}
 {44893}{}{Ich HASSE Unterleibsschüsse! Umpf...}
 {44894}{}{Unterleibsschuss...wie gut, dass ich kein Mensch bin!}
 {44900}{}{Zeit, abzuhauen!}
