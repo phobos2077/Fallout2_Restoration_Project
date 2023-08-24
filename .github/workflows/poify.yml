@@ -3,6 +3,9 @@ on:
   push:
     paths:
       - "data/text/**" # tra_dir
+  pull_request:
+    paths:
+      - "data/text/**"
 
 jobs:
   build:
@@ -14,7 +17,7 @@ jobs:
       - name: Poify/Unpoify
         uses: BGforgeNet/msg2po@master
         with:
-          poify: "true"
-          unpoify: "true"
-          push: "true"
-          single_commit: "true"
+          poify: true
+          unpoify: true
+          push: true
+          single_commit: true
