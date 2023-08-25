@@ -72,7 +72,7 @@
  euch zu befreien. Wenn die Felder deaktiviert sind, lauft nach oben zu meinem Schiff, das dort
  liegt.}
 {159}{}{Wie kann ich das tun?}
-{160}{}{Daran hättet ihr denken sollen, *bevor* ihr meinen Vorfahren aus dem Vault geschmissen
+{160}{}{Daran hättet ihr denken sollen, *bevor* ihr meinen Vorfahren aus der Vault geschmissen
  habt. Hoffentlich verfault ihr alle hier. Tschüss.}
 {161}{}{Danke. Gottes Segen und viel Glück, mein Freund.}
 {162}{}{Auf Wiedersehen und viel Glück.}

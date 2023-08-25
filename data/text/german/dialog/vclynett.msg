@@ -243,7 +243,7 @@
 {342}{}{Ich weiß nicht... Ist der Bürgerschaftstest nicht eine Standardprozedur?}
 {343}{}{Ich glaub nicht, dass ich mich für so einen Job eigne... Tschüss.}
 {344}{}{Nein danke, ich geh jetzt besser. Schönen Tag noch, Erstbürgerin.}
-{345}{lyn045}{Sie waren Mörder, alle beide. Boyarsky wurde vor 10 Jahren ins Exil geschickt, und Richard Moreau kurz nachdem wir aus dem Vault kamen. Die Bürgerschaft ist ein heiliger Bund - innerhalb dieser Mauern werden keine Verbrechen geduldet.}
+{345}{lyn045}{Sie waren Mörder, alle beide. Boyarsky wurde vor 10 Jahren ins Exil geschickt, und Richard Moreau kurz nachdem wir aus der Vault kamen. Die Bürgerschaft ist ein heiliger Bund - innerhalb dieser Mauern werden keine Verbrechen geduldet.}
 {346}{}{Wenn das hier nicht die richtige Vault ist, dann muss ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
 {347}{}{Wie kann man denn Bürger werden?}
 {348}{}{Ich hab jetzt genug gehört. Ich muss gehen.}

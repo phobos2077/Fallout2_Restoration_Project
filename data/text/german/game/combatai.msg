@@ -1522,7 +1522,7 @@
 {12391}{}{Jetzt kann ich nicht mehr damit angeben, dass ich ein Paar habe.}
 {12392}{}{Hab meine Hoden verloren.}
 {12393}{}{Entschuldige mich bitte einen Moment, muss mich nur kurz übergeben.}
-{12394}{}{Großartig. 'Ne Spielerfigur mit Hodenkomplex.}
+{12394}{}{Großartig. Ein Spielercharakter mit Hodenkomplex.}
 {12395}{}{Muss mich nur 'ne Sekunde hinlegen, dann komm ich dich töten.}
 {12396}{}{In die Vollen!}
 {12400}{}{Kopf...brummt...}

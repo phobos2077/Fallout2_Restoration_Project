@@ -31,8 +31,8 @@
 {130}{}{Einen kaputten Tanker zu reparieren.}
 {131}{}{Äh...Anliegen?}
 {132}{}{Vielleicht komm ich einfach wieder, wenn du dich 'n bisschen besser fühlst.}
-{133}{}{Welche inaktive Figur aus Fallout 1 überlebte für die Folgeversion, obwohl die besagte Person jetzt wohl schon sehr alt sein dürfte?}
-{134}{}{Welche inaktive Figur aus Fallout 1 überlebte für die Folgeversion?}
+{133}{}{Welcher Nicht-Spieler-Charakter aus Fallout 1 überlebte für die Folgeversion, obwohl die besagte Person jetzt wohl schon sehr alt sein dürfte?}
+{134}{}{Welcher Nicht-Spieler-Charakter aus Fallout 1 überlebte für die Folgeversion?}
 {135}{}{Wiiie alt?}
 {136}{}{Voll-geh?}
 {137}{}{[Trotte weg]}

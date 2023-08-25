@@ -1,6 +1,6 @@
 {0}{}{Willst du das Programm wirklich beenden?}
 {1}{}{Demoversion}
-{2}{}{Standardfigur wird benutzt.}
+{2}{}{Standardcharakter wird benutzt.}
 {3}{}{Screenshot gespeichert.}
 {4}{}{Spiel erfolgreich geladen.}
 {5}{}{Spiel erfolgreich gespeichert.}
