@@ -29,7 +29,7 @@
 {128}{}{Dies sind die Auswirkungen der Auswahlmöglichkeiten, für die du dich im Spiel entscheidest.}
 {129}{}{Ein Zähler, der die Art und Anzahl der Wesen aufzeichnet, die du getötet hast, oder deren Tötung du miterlebt hast.}
 {130}{}{Fähigkeitspunkte}
-{131}{}{Mit diesen Punkten kannst du Fähig- keiten erhöhen. Je weiter bestimmte Fähigkeiten ausge- baut werden, um so mehr Punkte werden benötigt. Es kann viel Zeit und Punkte kosten, eine Fähig- keit zu beherrschen.}
+{131}{}{Mit diesen Punkten kannst du Fähigkeiten erhöhen. Je weiter bestimmte Fähigkeiten ausgebaut werden, um so mehr Punkte werden benötigt. Es kann viel Zeit und Punkte kosten, eine Fähigkeit zu beherrschen.}
 {132}{}{Höchststand.}
 {133}{}{Zuwachs nicht möglich.}
 {134}{}{Mindeststand.}
