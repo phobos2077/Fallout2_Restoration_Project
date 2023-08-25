@@ -23,7 +23,7 @@
 {170}{}{Weißt du, wer das in unser Dorf gebracht hat?}
 {171}{}{Danke. Ich muss jetzt gehn, Tschüss.}
 {172}{}{Ich hoffe, das tust du.}
-{173}{}{Dein übersteigertes Selbstvertrauen lässt uns alle leiden! Auf Wiedersehen!}
+{173}{}{Dein übersteigertes Selbstvertrauen macht uns alle krank! Tschüss.}
 {174}{}{Wiedersehn.}
 {175}{}{Warum? Sieh dich doch um, unser Dorf stirbt. Unsere Gärten verdorren und jeden Tag brechen Kinder und alte Menschen zusammen. Du musst uns Eden bringen, bevor es zu spät ist!}
 {176}{}{Ich werd mich drum kümmern. Wiedersehn.}

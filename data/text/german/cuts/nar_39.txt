@@ -1,2 +1,2 @@
-1:Deine Mission innerhalb der Kathedrale ist erfolgreich.
-2:Deine heutigen Taten werden die Außenwelt über Jahre hin verändern.
+1:Deine Mission unter der Kathedrale war ein Erfolg.
+2:Was du heute getan hast wird die Außenwelt über Jahre hin verändern.
