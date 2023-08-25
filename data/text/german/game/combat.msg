@@ -519,13 +519,13 @@
 {5021}{}{. Leider kann man sein Rückgrat jetzt ganz klar von vorne sehen}
 {5022}{}{ und fügt seinem Bein heftige Schmerzen zu}
 {5023}{}{ und wirft ihn wie einen Kegel zu Boden}
-{5024}{}{und wirft ihn über den Haufen und verstümmelt das Bein}
-{5025}{}{und bläst das Knie bis in die nächste Stadt. Er fällt}
+{5024}{}{ und wirft ihn über den Haufen und verstümmelt das Bein}
+{5025}{}{ und bläst das Knie bis in die nächste Stadt. Er fällt}
 {5026}{}{. Der intensive Schmerz des Beinverlusts lässt ihn einhalten}
-{5027}{}{und fügt zusätzliche Schmerzen zu}
-{5028}{}{und führt zu Blindheit, schade für ihn}
-{5029}{}{und verursacht heftige Schmerzen, da dort kein Schutz vorhanden ist}
-{5030}{}{und blendet ihn mit einem atemberaubenden Schlag}
+{5027}{}{ und fügt zusätzliche Schmerzen zu}
+{5028}{}{ und führt zu Blindheit, schade für ihn}
+{5029}{}{ und verursacht heftige Schmerzen, da dort kein Schutz vorhanden ist}
+{5030}{}{ und blendet ihn mit einem atemberaubenden Schlag}
 {5031}{}{. Der Verlust des Auges ist zu viel für ihn, er fällt zu Boden}
 {5032}{}{, leider lenkt ihn das Gefühl eines Luftzugs am Gehirn zu sehr davon ab, den Todeseintritt zu bemerken.}
 {5033}{}{. Autsch! Das tat bestimmt weh}
@@ -553,40 +553,40 @@
 {5117}{}{, durchdringt ihre Abwehr}
 {5118}{}{ und richtet zusätzlichen Schaden an}
 {5119}{}{ ohne Rüstung und wirft die Kämpferin zu Boden}
-{5120}{}{und raubt ihr die Luft. Sie fällt zu Boden}
+{5120}{}{ und raubt ihr die Luft. Sie fällt zu Boden}
 {5121}{}{. Leider erblicken ihre wichtigsten Organe jetzt das Tageslicht}
-{5122}{}{und fügt ihrem Bein heftige Schmerzen zu}
+{5122}{}{ und fügt ihrem Bein heftige Schmerzen zu}
 {5123}{}{, wirft sie um wie eine Puppe}
 {5124}{}{, wirft sie um und verstümmelt das Bein}
 {5125}{}{, und bläst das Knie bis in die nächste Stadt. Sie nimmt den schnellstem Weg zum Boden}
 {5126}{}{. Sie brüllt vor Schmerzen in dem gebrochenen Bein}
-{5127}{}{und fügt zusätzliche Schmerzen zu}
-{5128}{}{und führt zu Blindheit. Sie verzieht ihr Gesicht}
-{5129}{}{und verursacht heftige Schmerzen, da dort kein Schutz vorhanden ist}
+{5127}{}{ und fügt zusätzliche Schmerzen zu}
+{5128}{}{ und führt zu Blindheit. Sie verzieht ihr Gesicht}
+{5129}{}{ und verursacht heftige Schmerzen, da dort kein Schutz vorhanden ist}
 {5130}{}{. Die Wunde führt zu schwerer Blindheit (als ob es noch andere gäbe...)}
 {5131}{}{. Sie wird vom Blendangriff ohnmächtig}
 {5132}{}{. Leider kann sie nicht mehr zu ihren Göttern beten, bevor sie sie persönlich trifft}
 {5133}{}{. Sie nimmt es hin wie ein Mann. Das heißt es tut ihr weh}
-{5134}{}{und wirft sie zu Boden}
+{5134}{}{ und wirft sie zu Boden}
 {5135}{}{. Ihre Gebärfähigkeit ist gefährdet, als sie zu einem leblosen Haufen zusammenbricht}
 {5200}{}{. Das kleine Kind beginnt zu weinen}
 {5201}{}{. Ohnmächtig fällt das kleine Kind um}
 {5202}{}{. Autschie!}
 {5203}{}{. Der Schlag sitzt, und das Kind wird bewusstlos}
-{5204}{}{und schleudert das kleine Kind wie einen nassen Lappen herum}
+{5204}{}{ und schleudert das kleine Kind wie einen nassen Lappen herum}
 {5205}{}{. Der linke Arm des Kindes hat nun ein Aua}
-{5206}{}{und bringt das kleine Kind aus dem Gleichgewicht}
-{5207}{}{und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen}
-{5208}{}{und zerbricht den Arm wie eine Zuckerstange}
+{5206}{}{ und bringt das kleine Kind aus dem Gleichgewicht}
+{5207}{}{ und bricht den Arm mit einem lauten Knacken. Tränen fließen in Strömen}
+{5208}{}{ und zerbricht den Arm wie eine Zuckerstange}
 {5209}{}{. Der rechte Arm schwillt an wie ein Ballon}
-{5210}{}{und beginnt zu weinen}
+{5210}{}{ und beginnt zu weinen}
 {5211}{}{ an einem empfindlichen Punkt}
 {5212}{}{. Der Angriff auf ein wichtiges Organ schmeißt das Kind um}
-{5213}{}{und wirft das kleine Kind um wie ein Spielzeug}
+{5213}{}{ und wirft das kleine Kind um wie ein Spielzeug}
 {5214}{}{. Jetzt wird das kleine Kind nie das wahre Leben kennenlernen}
-{5215}{}{und fügt eine tiefe Wunde zu}
+{5215}{}{ und fügt eine tiefe Wunde zu}
 {5216}{}{. Der Angriff wirft das Kind um und bricht ihm das Bein}
-{5217}{}{und fügt dem kleinen Kind großen Schaden zu}
+{5217}{}{ und fügt dem kleinen Kind großen Schaden zu}
 {5218}{}{. Das kleine Kind schaut auf und beginnt zu heulen}
 {5219}{}{, was den kleinen Menschen erblinden lässt}
 {5220}{}{, und schlägt die junge Nase ein}
@@ -595,28 +595,28 @@
 {5223}{}{, was zu Blindheit führt. Das Kind fällt zu Boden}
 {5224}{}{, der Schlag fährt bis in das kleine Gehirn}
 {5225}{}{. Das Kind sieht verwirrt und mitgenommen aus}
-{5226}{}{und wirft das junge Opfer zu Boden}
-{5300}{}{und verletzt den mächtigen Mutanten}
+{5226}{}{ und wirft das junge Opfer zu Boden}
+{5300}{}{ und verletzt den mächtigen Mutanten}
 {5301}{}{, trifft einen wichtigen Punkt}
 {5302}{}{, trifft einen wichtigen Punkt und wirft den Riesen zu Boden}
 {5303}{}{. Der riesige Mutant blickt sich einen Moment lang um, dann fällt er zu Boden}
 {5304}{}{. Der Kopf explodiert wie eine riesige, blutige Wassermelone}
-{5305}{}{und verletzt den mächtigen Mutanten ernsthaft}
-{5306}{}{und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
+{5305}{}{ und verletzt den mächtigen Mutanten ernsthaft}
+{5306}{}{ und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
 {5307}{}{und trifft einen Nerv, weswegen der Riese schmerzerfüllt nach seinem Arm greift}
 {5308}{}{. Der Schlag bricht den Ellenbogen, was wahrscheinlich kein sehr schönes Gefühl ist}
 {5309}{}{, bricht den dicken Arm und vergießt Mutantenblut über den Boden}
 {5310}{}{, lässt den Riesen einen Moment lang stolpern und dann wie einen gefällten Baum umkippen}
 {5311}{}{, und Liter von Eingeweiden strömen über den Boden}
-{5312}{}{und schickt den Riesen fliegend zu Boden}
+{5312}{}{ und schickt den Riesen fliegend zu Boden}
 {5313}{}{. Der Mutant stolpert und fällt, seine Beine können ihn kaum noch halten}
-{5314}{}{und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen Bein zusammen}
+{5314}{}{ und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen Bein zusammen}
 {5315}{}{. Der Schmerz des gebrochenen Beins überwältigt den mächtigen Riesen}
-{5316}{}{und lässt den Mutanten fast erblinden}
-{5317}{}{und lässt den wütenden Mutanten erblinden}
+{5316}{}{ und lässt den Mutanten fast erblinden}
+{5317}{}{ und lässt den wütenden Mutanten erblinden}
 {5318}{}{, lässt den Mutanten fast erblinden, doch bringt ihn aus dem Gleichgewicht}
 {5319}{}{. Der geblendete Mutant taumelt rückwärts, auf den nächsten Angriff nicht vorbereitet}
-{5320}{}{und lässt den bewusstlosen Mutanten erblinden}
+{5320}{}{ und lässt den bewusstlosen Mutanten erblinden}
 {5321}{}{. Die Augen des Mutanten glühen kurz auf, dann erlischt das Licht - für immer}
 {5400}{}{. Der Ghul ist überrascht und kann sich gegen den Angriff nicht wehren}
 {5401}{}{. Der Schlag erledigt den Ghul}
@@ -627,54 +627,54 @@
 {5406}{}{. Dort trägt der Ghul keine Rüstung}
 {5407}{}{, und ohne Rüstung ist der Ghul nun blind}
 {5408}{}{, weswegen der Ghul in seinen letzten Augenblicken verblüfft schaut}
-{5500}{}{und wirft das große Ungetüm um}
+{5500}{}{ und wirft das große Ungetüm um}
 {5501}{}{, betäubt beide Hirne und fällt das riesige Biest}
 {5502}{}{. Die Mutantenkuh gibt einen lauten, fassungslosen Schrei von sich}
-{5503}{}{und bricht ein Bein des Brahmin}
-{5504}{}{und verletzt die Mutantenkuh ernsthaft}
-{5505}{}{und durchdringt ganz einfach die dicke Haut des Riesenviehs}
-{5506}{}{und durchdringt glatt beide Herzen der Mutantenkuh}
-{5507}{}{und blendet beide Augenpaare mit einem einzigen Schlag}
+{5503}{}{ und bricht ein Bein des Brahmin}
+{5504}{}{ und verletzt die Mutantenkuh ernsthaft}
+{5505}{}{ und durchdringt ganz einfach die dicke Haut des Riesenviehs}
+{5506}{}{ und durchdringt glatt beide Herzen der Mutantenkuh}
+{5507}{}{ und blendet beide Augenpaare mit einem einzigen Schlag}
 {5508}{}{, lässt beide Köpfe erblinden und betäubt die Mutantenkuh}
 {5509}{}{, lässt das Brahmin vollständig erblinden und bewusstlos werden}
 {5510}{}{, das große Mutantenrind strauchelt einen Augenblick lang}
 {5511}{}{. Das Brahmin zittert vor Wut}
 {5512}{}{. Das Brahmin schnaubt vor Schmerzen}
 {5513}{}{. Das Brahmin ist sehr aufgebracht über diesen verheerenden Angriff}
-{5600}{}{und wirft den Radskorpion auf den Rücken}
-{5601}{}{und trennt den Kopf vom Rückenpanzer}
-{5602}{}{und schädigt den Schwanz ernsthaft}
-{5603}{}{und verletzt seine Klauen schlimm}
+{5600}{}{ und wirft den Radskorpion auf den Rücken}
+{5601}{}{ und trennt den Kopf vom Rückenpanzer}
+{5602}{}{ und schädigt den Schwanz ernsthaft}
+{5603}{}{ und verletzt seine Klauen schlimm}
 {5604}{}{. Der Schlag landet zwischen den Ritzen im harten Rückenpanzer des Radskorpions}
-{5605}{}{und durchdringt den harten Rückenschild ohne Schwierigkeiten}
+{5605}{}{ und durchdringt den harten Rückenschild ohne Schwierigkeiten}
 {5606}{}{, durchschlägt die natürliche Rüstung und wirft den Radskorpion um}
 {5607}{}{. Der Radskorpion kommt mit den neuen Empfindungen, z.B. dem Fehlen der Eingeweide, nicht zurecht}
 {5608}{}{, schleudert den Skorpion durch die Luft und verstümmelt einige seiner Beine}
 {5609}{}{. Der Angriff durchschneidet ein ungeschütztes Gelenk am Bein und trennt es ab}
-{5610}{}{und verwundet und blendet das Mutantenwesen schwer}
-{5611}{}{und dringt fast bis ins Hirn vor. So ist das also, wenn man Ungeziefer zerquetscht}
-{5612}{}{und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
+{5610}{}{ und verwundet und blendet das Mutantenwesen schwer}
+{5611}{}{ und dringt fast bis ins Hirn vor. So ist das also, wenn man Ungeziefer zerquetscht}
+{5612}{}{ und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
 {5613}{}{. Der Angriff ist hinterhältig und viel zu raffiniert für so ein einfaches Wesen}
 {5614}{}{. Wäre das ein Mensch, wärst du sicher, dass er ziemlich verärgert ist}
-{5615}{}{und schlägt das arme Wesen besinnungslos}
-{5616}{}{und nagelt das Hirn an den Boden}
+{5615}{}{ und schlägt das arme Wesen besinnungslos}
+{5616}{}{ und nagelt das Hirn an den Boden}
 {5700}{}{. Der Schädel des Nagetiers gibt mehrere ungesunde Geräusche ab}
-{5701}{}{und zerquetscht den Schädel des Nagetiers wie eine nasse Papiertüte}
+{5701}{}{ und zerquetscht den Schädel des Nagetiers wie eine nasse Papiertüte}
 {5702}{}{, und die linke Pfote sieht jetzt etwas flach aus}
 {5703}{}{. Die linke Pfote der Ratte wird abgerissen}
 {5704}{}{. Die rechte Pfote ist schwer beschädigt}
-{5705}{}{und reißt die rechte Pfote ab}
+{5705}{}{ und reißt die rechte Pfote ab}
 {5706}{}{. Die Ratte wird von diesem Angriff schwer verwundet}
 {5707}{}{, verwundet die Ratte schwer und schleudert sie herum}
-{5708}{}{und verspritzt die Ratte über den Boden}
-{5709}{}{und verstümmelt das rechte Bein}
-{5710}{}{und hinterlässt ein großes Loch im linken Bein}
-{5711}{}{und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
+{5708}{}{ und verspritzt die Ratte über den Boden}
+{5709}{}{ und verstümmelt das rechte Bein}
+{5710}{}{ und hinterlässt ein großes Loch im linken Bein}
+{5711}{}{ und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
 {5712}{}{, und weist dem Wesen den Weg zum Großen Rattenfänger im Himmel}
 {5800}{}{, der Floater fällt zu Boden}
 {5801}{}{, der Floater fällt scheinbar leblos zu Boden}
 {5802}{}{mit ernsthaften Folgen für das Weiterleben des Wesens}
-{5803}{}{und betäubt das eklige Wesen}
+{5803}{}{ und betäubt das eklige Wesen}
 {5804}{}{, trifft dort eine empfindliche Stelle und betäubt den Floater}
 {5805}{}{. Der Schlag lässt den Floater in einer blutroten Wolke erschauern}
 {5806}{}{, und der Schlag bewirkt eine heftige Reaktion in dem Wesen}
@@ -682,18 +682,18 @@
 {5808}{}{, dann zuckt er wild und zittert wie Götterspeise}
 {5809}{}{, und der Schlag trifft eine empfindliche Stelle}
 {5810}{}{. Das Wesen ist offenbar aufgewühlt}
-{5900}{}{; zurückgestoßen wie ein verschmähter Liebhaber fällt der Zentaur um und ist betäubt}
+{5900}{}{. Zurückgestoßen wie ein verschmähter Liebhaber fällt der Zentaur um und ist betäubt}
 {5901}{}{ , als der Schlag eine kritische Stelle trifft}
-{5902}{}{und führt zu massiven neurologischen Störungen}
-{5903}{}{und betäubst das Wesen mit deinem heftigen Angriff}
-{5904}{}{und verstümmelt den Arm}
+{5902}{}{ und führt zu massiven neurologischen Störungen}
+{5903}{}{ und betäubst es mit deinem heftigen Angriff}
+{5904}{}{ und verstümmelt den Arm}
 {5905}{}{, trifft eine kritische Stelle und verstümmelt den Arm}
 {5906}{}{, wirft das Wesen um und verstümmelt das Bein}
-{5907}{}{und betäubt den Zentaur, der mit einem verstümmelten Bein umfällt}
-{5908}{}{und lässt einen Kopf erblinden}
-{5909}{}{und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang}
-{5910}{}{und überrascht den Zentaur. Er bricht in einem Haufen zusammen}
-{5911}{}{und überrascht den Zentaur. Er bricht zu einem Haufen Glibber zusammen}
+{5907}{}{ und betäubt den Zentaur, der mit einem verstümmelten Bein umfällt}
+{5908}{}{ und lässt einen Kopf erblinden}
+{5909}{}{ und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang}
+{5910}{}{ und überrascht den Zentaur. Er bricht in einem Haufen zusammen}
+{5911}{}{ und überrascht den Zentaur. Er bricht zu einem Haufen Glibber zusammen}
 {5912}{}{. Der Angriff war nicht so effektiv, wie es möglich gewesen wäre}
 {6000}{}{, und verursacht Strukturschäden}
 {6001}{}{, Funken fliegen, und der Roboter gerät kurzzeitig außer Kontrolle}
@@ -702,42 +702,42 @@
 {6004}{}{. Der Roboter versucht zu kompensieren}
 {6005}{}{. Der Roboter gibt sich Mühe zu kompensieren}
 {6006}{}{, trifft ein Schlüsselteil und verursacht schweren Schaden}
-{6007}{}{und verursacht schwere strukturelle Schäden}
+{6007}{}{ und verursacht schwere strukturelle Schäden}
 {6008}{}{, trifft ein kritisches Bauteil und verursacht schweren Schaden}
 {6009}{}{. Der Roboter erzittert unter dem wuchtigen Angriff}
-{6010}{}{und zerlegt den Roboter}
+{6010}{}{ und zerlegt den Roboter}
 {6011}{}{. Der Roboter versucht zu kompensieren, dies gelingt jedoch nicht, und er fällt zu Boden}
 {6012}{}{. Der Roboter hält der Belastung nicht stand und fällt zu Boden}
-{6013}{}{und zerstört die Sensorobjektive}
-{6100}{}{und wirft den Köter zu Boden}
+{6013}{}{ und zerstört die Sensorobjektive}
+{6100}{}{ und wirft den Köter zu Boden}
 {6101}{}{genau auf die Schnauze}
 {6102}{}{. Der Hund fällt um, atmet aber noch}
 {6103}{}{, das Tier hustet Blut}
 {6104}{}{und verstümmelt das Bein}
-{6105}{}{und verstümmelt das Bein. Das Tier versucht stehenzubleiben, es gelingt ihm aber nicht}
+{6105}{}{ und verstümmelt das Bein. Das Tier versucht stehenzubleiben, es gelingt ihm aber nicht}
 {6106}{}{. Das geblendete Tier heult vor Schmerz}
-{6107}{}{und kastriert das arme Tier}
-{6200}{}{und wirft das mutierte Insekt nieder}
+{6107}{}{ und kastriert das arme Tier}
+{6200}{}{ und wirft das mutierte Insekt nieder}
 {6201}{}{und bricht zusammen}
 {6202}{}{. Die Gottesanbeterin überlegt, ob sie weiterleben will}
-{6203}{}{und verstümmelt das Glied}
+{6203}{}{ und verstümmelt das Glied}
 {6204}{}{, worauf die Gottesanbeterin ihre Wunden leckt. Sie hält das Glied seltsam}
-{6205}{}{und durchdringt den Chitinpanzer}
+{6205}{}{ und durchdringt den Chitinpanzer}
 {6206}{}{. Die Gottesanbeterin kreischt und zittert auf unmenschliche Weise}
 {6207}{}{, worauf die Gottesanbeterin umfällt. Ein Glied steht seltsam ab}
-{6208}{}{und zerfetzt die Flügel}
+{6208}{}{ und zerfetzt die Flügel}
 {6209}{}{, durchdringt den Chitinpanzer und schleudert die Gottesanbeterin herum}
-{6210}{}{und lässt das Insekt mit einem präzisen Schlag erblinden}
+{6210}{}{ und lässt das Insekt mit einem präzisen Schlag erblinden}
 {6300}{}{. Sogar dieses Biest scheint von dem betäubenden Angriff verwirrt zu sein}
-{6301}{}{und umgeht die riesigen Klauen, um das Monster zu treffen. Die Deathclaw erzittert und knurrt}
+{6301}{}{ und umgeht die riesigen Klauen, um das Monster zu treffen. Die Deathclaw erzittert und knurrt}
 {6302}{}{. Das Ergebnis sind massive Schäden an den Augen der Deathclaw}
-{6400}{}{und durchbricht die Abwehr der Pflanze}
-{6401}{}{und reißt einige Blätter ab}
-{6402}{}{und bricht einige Wedel}
-{6403}{}{und schädigt ihre Chlorophyll-Aufnahme}
-{6404}{}{und schlägt ihr den Pollen aus der Blüte}
+{6400}{}{ und durchbricht die Abwehr der Pflanze}
+{6401}{}{ und reißt einige Blätter ab}
+{6402}{}{ und bricht einige Wedel}
+{6403}{}{ und schädigt ihre Chlorophyll-Aufnahme}
+{6404}{}{ und schlägt ihr den Pollen aus der Blüte}
 {6405}{}{, wodurch sie fast umgeworfen wird}
-{6406}{}{und beschädigt einige Zweige}
+{6406}{}{ und beschädigt einige Zweige}
 {6500}{}{. Morgen hast du Kopfschmerzen, wenn du das noch erlebst}
 {6501}{}{. Deine Rüstung bietet keinen Schutz vor diesem wohlgezielten Schlag}
 {6502}{}{. Einen Augenblick lang fühlst du den Schmerz, dann holt dich die Finsternis.}
@@ -748,10 +748,10 @@
 {6507}{}{und betäubt dich für einen Augenblick}
 {6508}{}{. Fühl den Schmerz}
 {6509}{}{. Der Angriff macht deinen Arm nutzlos}
-{6510}{}{und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie Reisig}
-{6511}{}{und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an der Seite}
+{6510}{}{ und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie totes Holz}
+{6511}{}{ und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an der Seite}
 {6512}{}{. Der blaue Fleck wird nett aussehen, und die Narben eignen sich vielleicht für Smalltalk}
-{6513}{}{und zerquetscht deine Eingeweide. Du kannst nur noch Blut spucken}
+{6513}{}{ und zerquetscht deine Eingeweide. Du kannst nur noch Blut spucken}
 {6514}{}{und schleudert dich kopfüber herum}
 {6515}{}{, wirft dich um und bricht dein Bein}
 {6516}{}{ und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein Knie schwer}
@@ -759,13 +759,13 @@
 {6518}{}{. Der schmerzhafte Schlag lässt dich zucken, sonst nichts}
 {6519}{}{. Leider führt dies auch zum sofortigen Verlust des Sehvermögens}
 {6520}{}{. Es dauert einen Augenblick, das Blut aus den Augen zu wischen}
-{6521}{}{und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
+{6521}{}{ und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
 {6522}{}{. Ein seltsames Gefühl steigt in deinen Kopf. Dir wird klar, dass dein Gehirntod kurz bevor steht}
-{6523}{}{und lässt dich zusammenzucken}
+{6523}{}{ und lässt dich zusammenzucken}
 {6524}{}{. Du greifst dir zwischen die Beine und fällst vor Schmerz um}
 {6525}{}{. Der Schmerz lässt dich ohnmächtig werden. Autsch}
 {6526}{}{. Es gibt im ganzen Universum keine Worte, um den Schmerz zu beschreiben, den du gerade fühlst.}
-{6700}{}{und überwindet die Abwehr der Echse}
+{6700}{}{ und überwindet die Abwehr der Echse}
 {6701}{}{, wobei Fetzen ihrer schleimigen Haut abgerissen werden}
 {6702}{}{, wobei einige ihrer Finger und Zehen gebrochen werden}
 {6703}{}{, wobei ihre Atemfunktion beeinträchtigt wird}
@@ -779,14 +779,14 @@
 {6804}{}{, wobei das eklige Innere verstreut wird}
 {6805}{}{, wodurch sie fast umgeworfen wird}
 {6806}{}{, wobei ein paar Tentakel verletzt werden}
-{6900}{}{und überwindet die Abwehr der Ameise}
+{6900}{}{ und überwindet die Abwehr der Ameise}
 {6901}{}{, wobei einige ihrer Fühler abgerissen werden}
 {6902}{}{, wobei ein paar Fühler abgebrochen werden}
 {6903}{}{, was ihrer Gesundheit beträchtlichen Schaden zufügt}
 {6904}{}{, so dass sie durch die Gegend fliegt}
 {6905}{}{, wodurch sie fast umgeworfen wird}
 {6906}{}{, wobei ihr Exoskelett ein beschädigt wird}
-{7000}{}{und überwindet die Abwehr der Ameise}
+{7000}{}{ und überwindet die Abwehr der Ameise}
 {7001}{}{, wobei einige ihrer Fühler abgerissen werden}
 {7002}{}{, wobei ein paar Fühler abgebrochen werden}
 {7003}{}{, was ihrer Gesundheit beträchtlichen Schaden zufügt}

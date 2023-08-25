@@ -81,7 +81,7 @@
 {343}{}{Verdammt heiss...}
 {344}{}{Ich habe meine Mutter eine Weile nicht gesehen. wenn du sie siehst, sag ihr nichts von den Destillen, Ok?}
 {345}{}{Keith hat letzte Woche das Klavier zerlegt und wieder zusammen gebaut. Kluger Junge.}
-{346}{}{Wir gehen in den nächsten Tagen Radscorpione jagen.}
+{346}{}{Wir gehen in den nächsten Tagen Radskorpione jagen.}
 {347}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
 {348}{}{Pass auf die Kinder auf, die hier rumlungern, sie spielen immer auf dem Boden.}
 {349}{}{Kannst du mir beibringen zu kämpfen?}
@@ -105,7 +105,7 @@
 {370}{}{Chris wird noch ausgepeitscht wenn er nicht aufhört in das Lagerhaus zu schleichen.}
 {371}{}{Verdammt heiss...}
 {372}{}{Keith hat letzte Woche das Klavier zerlegt und wieder zusammen gebaut. Kluger Junge.}
-{373}{}{Wir gehen in den nächsten Tagen Radscorpione jagen.}
+{373}{}{Wir gehen in den nächsten Tagen Radskorpione jagen.}
 {374}{}{Redest du wirklich mit Gott, wenn du Sex bei den Aufnahmen hast?}
 {375}{}{Mom sagt du wärst ein Werkzeug des Teufels.}
 {376}{}{Mom sagt du bist eine Hure. Eine dreiste Hure. Ich weiß gar nicht, was sie damit sagen will.}
