@@ -102,7 +102,7 @@
 {1101}{}{Das war nicht fair.}
 {1102}{}{Feig...ling, nngh....}
 {1103}{}{Verdammt!}
-{1104}{}{Mein Schädel schmerzt!}
+{1104}{}{Mir brummt der Schädel.}
 {1105}{}{Mein Gesicht! Mein Gesicht!}
 {1106}{}{Ich seh Sterne!}
 {1107}{}{Wer hat denn das Licht ausgeschaltet?}

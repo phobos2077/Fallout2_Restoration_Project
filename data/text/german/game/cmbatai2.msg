@@ -30,7 +30,7 @@
 {1094}{}{Ich...kann nicht...atmen...}
 {1095}{}{Diese Schmerzen, diese Schmerzen...}
 {1100}{}{Verdammt!}
-{1101}{}{Mein Schädel schmerzt!}
+{1101}{}{Mir brummt der Schädel.}
 {1102}{}{Mein Gesicht! Mein Gesicht!}
 {1110}{}{Aggghhh! Mein Arm!}
 {1111}{}{Mein Arm!}

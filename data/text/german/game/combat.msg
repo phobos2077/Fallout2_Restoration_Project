@@ -518,7 +518,7 @@
 {5020}{}{und raubt ihm die Luft, er fällt zu Boden, der Kampf ist für ihn vorbei}
 {5021}{}{. Leider kann man sein Rückgrat jetzt ganz klar von vorne sehen}
 {5022}{}{und fügt seinem Bein heftige Schmerzen zu}
-{5023}{}{und wirft ihn zu Boden, wie Kegel bei einem Punktespiel.}
+{5023}{}{und wirft ihn wie einen Kegel zu Boden}
 {5024}{}{und wirft ihn über den Haufen und verstümmelt das Bein}
 {5025}{}{und bläst das Knie bis in die nächste Stadt. Er fällt}
 {5026}{}{. Der intensive Schmerz des Beinverlusts lässt ihn einhalten}
@@ -633,7 +633,7 @@
 {5503}{}{und bricht ein Bein des Brahmin}
 {5504}{}{und verletzt die Mutantenkuh ernsthaft}
 {5505}{}{und durchdringt ganz einfach die dicke Haut des Riesenviehs}
-{5506}{}{und durchdringt beide Herzen der Mutantenkuh direkt}
+{5506}{}{und durchdringt glatt beide Herzen der Mutantenkuh}
 {5507}{}{und blendet beide Augenpaare mit einem einzigen Schlag}
 {5508}{}{, lässt beide Köpfe erblinden und betäubt die Mutantenkuh}
 {5509}{}{, lässt das Brahmin vollständig erblinden und bewusstlos werden}
@@ -644,15 +644,15 @@
 {5600}{}{und wirft den Radskorpion auf den Rücken}
 {5601}{}{und trennt den Kopf vom Rückenpanzer}
 {5602}{}{und schädigt den Schwanz ernsthaft}
-{5603}{}{und verletzt seine Klauen schmerzhaft}
+{5603}{}{und verletzt seine Klauen schlimm}
 {5604}{}{. Der Schlag landet zwischen den Ritzen im harten Rückenpanzer des Radskorpions}
 {5605}{}{und durchdringt den harten Rückenschild ohne Schwierigkeiten}
 {5606}{}{, durchschlägt die natürliche Rüstung und wirft den Radskorpion um}
 {5607}{}{. Der Radskorpion kommt mit den neuen Empfindungen, z.B. dem Fehlen der Eingeweide, nicht zurecht}
 {5608}{}{, schleudert den Skorpion durch die Luft und verstümmelt einige seiner Beine}
 {5609}{}{. Der Angriff durchschneidet ein ungeschütztes Gelenk am Bein und trennt es ab}
-{5610}{}{und verwundet und blendet das mutierte Wesen}
-{5611}{}{und dringt fast bis ins Hirn vor. Als würde man Ungeziefer zerquetschen}
+{5610}{}{und verwundet und blendet das Mutantenwesen schwer}
+{5611}{}{und dringt fast bis ins Hirn vor. So ist das also, wenn man Ungeziefer zerquetscht}
 {5612}{}{und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
 {5613}{}{. Der Angriff ist hinterhältig und viel zu raffiniert für so ein einfaches Wesen}
 {5614}{}{. Wäre das ein Mensch, wärst du sicher, dass er ziemlich verärgert ist}
@@ -693,7 +693,7 @@
 {5908}{}{und lässt einen Kopf erblinden}
 {5909}{}{und überrascht den Zentaur. Blind strauchelt er einen Augenblick lang}
 {5910}{}{und überrascht den Zentaur. Er bricht in einem Haufen zusammen}
-{5911}{}{und überrascht den Zentaur. Er fällt in einem Haufen Glibber zusammen}
+{5911}{}{und überrascht den Zentaur. Er bricht zu einem Haufen Glibber zusammen}
 {5912}{}{. Der Angriff war nicht so effektiv, wie es möglich gewesen wäre}
 {6000}{}{, und verursacht Strukturschäden}
 {6001}{}{, Funken fliegen, und der Roboter gerät kurzzeitig außer Kontrolle}
@@ -708,7 +708,7 @@
 {6010}{}{und zerlegt den Roboter}
 {6011}{}{. Der Roboter versucht zu kompensieren, dies gelingt jedoch nicht, und er fällt zu Boden}
 {6012}{}{. Der Roboter hält der Belastung nicht stand und fällt zu Boden}
-{6013}{}{und zerbricht die Sensorobjektive}
+{6013}{}{und zerstört die Sensorobjektive}
 {6100}{}{und wirft den Köter zu Boden}
 {6101}{}{genau auf die Schnauze}
 {6102}{}{. Der Hund fällt um, atmet aber noch}
@@ -748,10 +748,10 @@
 {6507}{}{und betäubt dich für einen Augenblick}
 {6508}{}{. Fühl den Schmerz}
 {6509}{}{. Der Angriff macht deinen Arm nutzlos}
-{6510}{}{und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie totes Holz}
-{6511}{}{und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an deiner Seite}
+{6510}{}{und umgeht deine Rüstung. Der Schlag bricht die Knochen deines Arms wie Reisig}
+{6511}{}{und durchdringt deine Rüstung. Dein Arm hängt nun schlaff an der Seite}
 {6512}{}{. Der blaue Fleck wird nett aussehen, und die Narben eignen sich vielleicht für Smalltalk}
-{6513}{}{und zerkleinert deine Eingeweide. Du kannst nur noch Blut spucken}
+{6513}{}{und zerquetscht deine Eingeweide. Du kannst nur noch Blut spucken}
 {6514}{}{und schleudert dich kopfüber herum}
 {6515}{}{, wirft dich um und bricht dein Bein}
 {6516}{}{und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein Knie schwer}
