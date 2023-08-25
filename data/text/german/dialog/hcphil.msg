@@ -125,4 +125,4 @@
 {1981}{}{Ein paar Bekloppte sind festgenommen worden, weil sie Hasspropaganda verbreitet haben.}
 {1982}{}{Die Luftreiniger in der Mine sind kaputt.}
 {1983}{}{In der ganzen Stadt wimmelt es von Karawanenhändlern. Das ist eigentlich normal.}
-{1984}{}{Mach weiter.}
+{1984}{}{Ja?}

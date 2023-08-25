@@ -36,7 +36,7 @@
 {135}{}{Offiziell hat Sheriff Marcus hier das Sagen. Er hat die Stadt mitgegründet und hilft uns in Krisensituationen. Aber eigentlich hat jeder in der Stadt eine eigene Stimme.}
 {136}{}{Das klingt aber unrealistisch.}
 {137}{}{Das hört sich nach einer guten Methode an, eine Stadt zu verwalten.}
-{138}{}{Mach weiter.}
+{138}{}{Ja?}
 {139}{}{Der Mitbegründer der Stadt ist immer noch Sheriff? Dann muss er aber ganz schön alt sein.}
 {140}{}{Danke. Tschüss.}
 {141}{}{Abgesehen davon, dass die Mutanten alle TOT sind und diese Stadt VERLOREN ist...}

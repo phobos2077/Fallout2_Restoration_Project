@@ -48,10 +48,10 @@
  Dreizehn und das GECK gefunden?}
 {206}{}{Nix finden. Tut leid.}
 {207}{}{Tut mir leid, Nagor. Ich suche immer noch.}
-{208}{}{Hallo, Cousin. Ich denke, du hast bestimmt schon gemerkt, dass alles den Bach runtergeht. Bitte finde
- das GECK. Wir brauchen es dringend!}
-{209}{}{Hallo, Cousin. Ich denke, du hast bestimmt schon gemerkt, dass alles den Bach runtergeht. Bitte finde
- das GECK. Wir brauchen es dringend!}
+{208}{}{Hallo, Cousin. Du hast wohl schon bemerkt das es hier den Bach runtergeht. Bitte finde
+ das GECK. Wir brauchen es dringend.}
+{209}{}{Hallo, Cousin. Du hast wohl schon bemerkt das es hier den Bach runtergeht. Bitte finde
+ das GECK. Wir brauchen es dringend.}
 {210}{}{Hi, Cousin.}
 {211}{}{Hi, Cousin.}
 {212}{}{Du hören anders an als sonst.}

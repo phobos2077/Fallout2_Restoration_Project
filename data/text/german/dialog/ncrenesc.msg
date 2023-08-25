@@ -91,7 +91,7 @@
 {413}{}{Das habe ich bemerkt. Schau, ich hatte noch ein paar Fragen...}
 {414}{}{Ah, ja... ich muss jetzt gehen.}
 {420}{}{Also, Sippling, ich bezweifle, dass du das schon bemerkt hast, aber New Reno produziert nichts Nützliches. Es ist eine große, hell erleuchtete Präriezecke draußen in der Wüste. Nun, Redding andererseits...}
-{421}{}{Mach weiter.}
+{421}{}{Ja?}
 {422}{}{...PRODUZIERT etwas Nützliches.}
 {423}{}{Ich hab genug gehört.}
 {430}{}{Ich warne dich zum ersten und letzten Mal, du Sippenwesen: Unterbrich mich verdammt noch mal nicht mitten im Satz. Ich mag keine klugscheißerischen Affen, die reden, wenn sie zuhören sollen. Kein Wunder, dass ihr alle noch Speere benutzt...}

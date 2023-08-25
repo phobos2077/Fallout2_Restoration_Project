@@ -67,7 +67,7 @@
 {165}{}{Das ist im Moment alles. Ich geh jetzt.}
 {166}{tand8}{Liegt direkt östlich von hier, eine unterirdische Vault aus dem Krieg. Die meisten Familien der NCR stammen von dort, daher gehört er rechtmäßig uns.}
 {167}{}{Erzähl mehr.}
-{168}{}{Mach weiter.}
+{168}{}{Ja?}
 {169}{tand9}{Vor ein paar Jahren haben illegale Siedler unsere Wachen vertrieben und einen Slum darüber errichtet. Sie nennen das Ganze "die Siedlung". Sie sind nichts anderes als Schmarotzer. Sie können selbst nicht in die Vault rein, aber uns halten sie auch davon fern.}
 {170}{}{Mehr Fragen.}
 {171}{}{Verstehe. Ich muss dich noch über ein paar andere Dinge ausfragen.}
@@ -118,7 +118,7 @@
 {216}{tand21}{Die meisten glauben, dass wir uns irgendwie mit New Reno arrangieren müssen. Aber Leute wie Westin und die Rancher machen New Reno für den Viehdiebstahl auf den Straßen zwischen hier und Redding verantwortlich.}
 {217}{}{Hmpf.}
 {218}{}{Wer Westin?}
-{219}{}{Ich verstehe.}
+{219}{}{Verstehe.}
 {220}{}{Wer ist den dieser Westin?}
 {221}{tand22}{Der Kongreßabgeordnete Westin? Einer der größten Brahmin-Rancher der Gegend. Sein Anwesen liegt im Westen der Stadt. Erwähn bloß New Reno nicht in seiner Nähe - das bringt ihn jedesmal auf die Palme.}
 {222}{}{Nein, danke.}

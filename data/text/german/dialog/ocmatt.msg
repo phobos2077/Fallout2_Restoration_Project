@@ -26,7 +26,7 @@
 {122}{}{OK.}
 {123}{}{Ich hier raus.}
 {124}{}{Warum?}
-{125}{}{Ich verstehe.}
+{125}{}{Verstehe.}
 {126}{}{Ich mach mich dann mal auf den Weg.}
 {127}{}{Weil ich in ihnen, im Gegensatz zu den Schafen die ebenfalls hier wohnen, eine Bedrohung
  für die Menschheit sehe. Sie wissen, wenn ich hier rauskomm, werde ich alles tun, damit sie vom

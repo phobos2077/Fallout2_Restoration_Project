@@ -59,7 +59,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
 {144}{}{Nein, bin ich nicht.}
 {145}{}{Sehr erfreut, dich kennenzulernen.}
 {146}{}{. Falls du mal meine Dienste benötigst: Du findest mich hier.}
-{147}{}{Danke. Auf Wiedersehn.}
+{147}{}{Vielen Dank. Auf Wiedersehn.}
 {148}{}{Du bist aber nicht hier in Vault City geboren, stimmt's? Ich würde mich sonst ganz
  sicher an dich erinnern. Woher stammst du?}
 {149}{}{Moment mal, du bist ein Outsider, stimmt's? Woher stammst du?}

@@ -51,7 +51,7 @@
 {139}{}{Nein, ich kann hier jederzeit weg. Ich bin immer noch hier, weil ich nicht alleine
  reisen will. Ich bin recht kräftig und kann auf mich selbst aufpassen, aber ich wäre trotzdem
  auf mich allein gestellt, wenn in der Wüste was passiert.}
-{140}{}{Ich verstehe.}
+{140}{}{Verstehe.}
 {141}{}{Ach so, zu feige, um's allein zu machen. Verstehe.}
 {142}{}{Ich reise auch nicht gern allein. Also kann ich dir keinen Vorwurf machen.}
 {143}{}{Äh... schon ein paar Monate. Ich kam vor einiger Zeit von der Küste.}
@@ -106,7 +106,7 @@
  sich für Ruinen im Westen von hier. Ich weiß aber nicht weshalb. Das ist alles.}
 {165}{}{Jede kleinste Information hilft mir weiter, ich danke dir.}
 {166}{}{Das ist zufällig sehr wichtig für mich und du lässt mich im Stich!}
-{167}{}{Ich verstehe.}
+{167}{}{Verstehe.}
 {168}{}{Ich glaube, es nennt sich FEV-Virus. Die Enklave hat sehr intensiv daran geforscht.
  Forscht vielleicht immer noch daran. Tut mir leid, aber mehr weiß ich nicht.}
 {169}{}{Das ist schon OK. Noch was anderes.}

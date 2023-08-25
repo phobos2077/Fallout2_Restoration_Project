@@ -197,7 +197,7 @@
 {682}{}{Vergiss es. Themawechsel...}
 {683}{}{Ich sehe schon, wohin das führt. Vergiss es, Myron.}
 {690}{myn109}{Naja, als ich damals zufällig die Mordino-Familie kennenlernte, bauten die Peyote-Kakteen an und versuchten, sie als das "Reno-Erlebnis" an Touristen zu verkaufen. Totaler Schwachsinn...}
-{691}{}{Mach weiter.}
+{691}{}{Ja?}
 {692}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {693}{}{Vergiss, dass ich es erwähnt habe.}
 {700}{myn110}{Ich mein, Peyote? Also echt. Das ist ja nicht mal halb so stark wie, was weiß ich, das gute alte LSD.}

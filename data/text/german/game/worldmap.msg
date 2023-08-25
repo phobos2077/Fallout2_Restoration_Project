@@ -21,7 +21,7 @@
 {240}{}{Hof}
 {241}{}{Innenstadt}
 {242}{}{Rat}
-{243}{}{Vault}
+{243}{}{(die) Vault}
 {250}{}{Siedlung}
 {251}{}{Kraftwerk}
 {252}{}{Schrottplatz}

@@ -8,7 +8,7 @@
 {107}{}{Na schön.}
 {108}{}{Dann schieß los, Brückenwächter. Ich hab keine Angst.}
 {109}{}{Vielleicht komm ich einfach später noch mal.}
-{110}{}{Wie heißt du?}
+{110}{}{Wie ist dein Name?}
 {111}{}{Hhhaa....Iiii...Jott...Kaaa...Elll...}
 {112}{}{?}
 {113}{}{Ich}
