@@ -16,7 +16,7 @@
 {115}{}{Näch. Level:}
 {116}{}{CHAR PUNKTE}
 {117}{}{FÄHIGKEITEN}
-{118}{}{Du musst alle Figurenpunkte verwenden,}
+{118}{}{Du musst alle Charakterpunkte verwenden,}
 {119}{}{um mit dem Spiel zu beginnen!}
 {120}{}{Charakterpunkte}
 {121}{}{Anzahl verfügbarer Charakterpunkte, die zu einem Grundwert hinzugefügt werden können.}

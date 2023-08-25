@@ -27,7 +27,7 @@
 {124}{}{Kapiert.}
 {125}{}{Ich arbeite als Basisarzt, doch das ist nur eine Nebenbeschäftigung. Eigentlich bin ich
  Genetiker.}
-{126}{}{Was das sein?}
+{126}{}{Was ist das?}
 {127}{}{Was ist ein Genetiker?}
 {128}{}{Ich glaube nicht, dass du über die intellektuellen Möglichkeiten verfügst, meine Arbeit
  zu verstehen, Soldat. Sagen wir, ich kann Menschen oder Tiere 'nach Bedarf' schaffen.}

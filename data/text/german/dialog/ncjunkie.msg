@@ -88,8 +88,7 @@
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
 {297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
-{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit einer Affinität zu Drogen. Wirklich! Nimm das Merkmal drogenabhängig!
-Ich LIEBE es.}
+{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit erhöhtem Stoffwechsel. Wirklich! Nimm den Perk! Ich LIEBE ihn.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}
 {301}{}{[Singt.] "We don't need another hero, we don't need to know the way home..."}
@@ -111,7 +110,7 @@ Ich LIEBE es.}
 {352}{}{Nur ein paar Chips, dann bin ich dein Sklave... Gib mir aber zuerst Jet.}
 {353}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
 {354}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
-{355}{}{Nein Mann, ich bin clean. Äh... wieso? Willst was kaufen?}
+{355}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {360}{}{Bist du der Kämpfer? Haste paar Chips, die ich leihen kann?}
 {361}{}{Komm schon nur ein paar Chips.}
 {362}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
@@ -122,7 +121,7 @@ Ich LIEBE es.}
 {367}{}{Ich brauche ein paar Chips um mir Essen zu kaufen...}
 {368}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
 {369}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
-{370}{}{Nein Mann, ich bin clean. Äh... wieso? Willst was kaufen?}
+{370}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {371}{}{Du bist ein Mitglied der }
 {372}{}{Kann ich mir ein paar Chips leihen...? Komm schon, mir kann man vertrauen.}
 {373}{}{Ich arbeite für Jet...}
@@ -131,7 +130,7 @@ Ich LIEBE es.}
 {382}{}{Brauchst du jemanden mit dem du high werden kannst?}
 {383}{}{Dad?}
 {384}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{385}{}{Nein Mann, ich bin clean. Äh... wieso? Willst was kaufen?}
+{385}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {386}{}{Psssscht. Kannst du mir was Jet besorgen?}
 {387}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
 {388}{}{Ich arbeite für Jet...}
@@ -149,7 +148,7 @@ Ich LIEBE es.}
 {400}{}{kommen Sie Miss, geben sie mir ein paar Chips.}
 {401}{}{He, äh... haste 'n bisschen Jet, Miss?}
 {402}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{403}{}{Nein, ich bin clean. Äh... wieso? Willst du was kaufen?}
+{403}{}{Nein Schwester, ich bin davon runter. Äh... wieso? Hast du was?}
 {404}{}{Mom?}
 {420}{}{He, Typ? Kannste mir fliegen helfen?}
 {421}{}{Och Mensch, nur 'n paar Chips.}
@@ -158,7 +157,7 @@ Ich LIEBE es.}
 {424}{}{Ich tue alles für ein paar Chips oder etwas Jet, wenn du was davon hast.}
 {425}{}{Ich sollte hier Schönheitskönigin in Reno sein. Ich habs noch immer drauf...}
 {426}{}{Brauchst du jemanden mit dem du high werden kannst?}
-{427}{}{Nein Mann, ich bin clean. Äh... wieso? Willst was kaufen?}
+{427}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {428}{}{Dad?}
 {429}{}{Psssscht. Kannst du mir was Jet besorgen?}
 {430}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
