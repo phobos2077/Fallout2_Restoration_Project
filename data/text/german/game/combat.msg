@@ -495,7 +495,7 @@
 {2036}{}{in die Augen}
 {2037}{}{an den Flügeln}
 {2038}{}{uncalled}
-{5000}{}{und tut wirklich weh}
+{5000}{}{ und tut wirklich weh}
 {5001}{}{. Grosser Schmerz wird zugefügt.}
 {5002}{}{ ohne Rüstungsschutz}
 {5003}{}{. Der zerstörerische Angriff macht ihn ohnmächtig}
@@ -503,22 +503,22 @@
 {5005}{}{. Der heftige Schlag an den Kopf macht ihn ohnmächtig}
 {5006}{}{. Der Angriff zerschmettert die Schläfe. Gute Nacht, Gracie}
 {5007}{}{, der Tod tritt sofort ein}
-{5008}{}{und führt zu einem heftigen Tennisarm}
-{5009}{}{und stößt den Arm zur Seite}
-{5010}{}{und hinterlässt einen großen blauen Fleck}
-{5011}{}{und verstümmelt den linken Arm}
-{5012}{}{und lässt den Arm nur noch an Hautfetzen baumeln}
+{5008}{}{ und führt zu einem heftigen Tennisarm}
+{5009}{}{ und stößt den Arm zur Seite}
+{5010}{}{ und hinterlässt einen großen blauen Fleck}
+{5011}{}{ und verstümmelt den linken Arm}
+{5012}{}{ und lässt den Arm nur noch an Hautfetzen baumeln}
 {5013}{}{. Der Arm sieht jetzt wie ein blutiger Stumpf aus}
-{5014}{}{und hinterlässt einen verstümmelten rechten Arm}
+{5014}{}{ und hinterlässt einen verstümmelten rechten Arm}
 {5015}{}{. Sein rechter Arm wird von diesem mächtigen Schlag pulverisiert}
 {5016}{}{ mit einem kraftvollen Schlag}
 {5017}{}{, durchdringt die Rüstung}
-{5018}{}{und richtet zusätzlichen Schaden an}
+{5018}{}{ und richtet zusätzlichen Schaden an}
 {5019}{}{ ohne Rüstung und wirft den Kämpfer zu Boden}
-{5020}{}{und raubt ihm die Luft, er fällt zu Boden, der Kampf ist für ihn vorbei}
+{5020}{}{ und raubt ihm die Luft, er fällt zu Boden, der Kampf ist für ihn vorbei}
 {5021}{}{. Leider kann man sein Rückgrat jetzt ganz klar von vorne sehen}
-{5022}{}{und fügt seinem Bein heftige Schmerzen zu}
-{5023}{}{und wirft ihn wie einen Kegel zu Boden}
+{5022}{}{ und fügt seinem Bein heftige Schmerzen zu}
+{5023}{}{ und wirft ihn wie einen Kegel zu Boden}
 {5024}{}{und wirft ihn über den Haufen und verstümmelt das Bein}
 {5025}{}{und bläst das Knie bis in die nächste Stadt. Er fällt}
 {5026}{}{. Der intensive Schmerz des Beinverlusts lässt ihn einhalten}
@@ -533,7 +533,7 @@
 {5035}{}{, und ohne Schutz fällt er um und stöhnt vor Schmerzen}
 {5036}{}{. Die Schmerzen sind zu viel für ihn. Er bricht zusammen wie ein Lumpen}
 {5037}{}{. Er murmelt "Mutter", während sich seine Augen verdrehen}
-{5100}{}{und tut wirklich weh}
+{5100}{}{ und tut wirklich weh}
 {5101}{}{. Grosser Schmerz wird zugefügt}
 {5102}{}{ ohne Rüstung}
 {5103}{}{. Der zerstörerische Angriff macht sie ohnmächtig}
@@ -541,17 +541,17 @@
 {5105}{}{. Der heftige Schlag an den Kopf macht sie ohnmächtig}
 {5106}{}{. Der Angriff zerschmettert ihre Schläfe. Gute Nacht, Gracie}
 {5107}{}{, der Tod tritt sofort ein}
-{5108}{}{und führt zu einem heftigen Tennisarm}
-{5109}{}{und stößt den Arm zur Seite}
-{5110}{}{und hinterlässt einen großen blauen Fleck}
-{5111}{}{und verstümmelt den linken Arm}
+{5108}{}{ und führt zu einem heftigen Tennisarm}
+{5109}{}{ und stößt den Arm zur Seite}
+{5110}{}{ und hinterlässt einen großen blauen Fleck}
+{5111}{}{ und verstümmelt den linken Arm}
 {5112}{}{. Der linke Arm ist kaum noch mit der Schulter verbunden}
 {5113}{}{. Der Arm sieht jetzt wie ein blutiger Stumpf aus}
-{5114}{}{und hinterlässt einen verstümmelten rechten Arm}
+{5114}{}{ und hinterlässt einen verstümmelten rechten Arm}
 {5115}{}{. Ihr rechter Arm wird von dem Schlag zu Hackfleisch}
 {5116}{}{ mit einem kraftvollen Schlag}
 {5117}{}{, durchdringt ihre Abwehr}
-{5118}{}{und richtet zusätzlichen Schaden an}
+{5118}{}{ und richtet zusätzlichen Schaden an}
 {5119}{}{ ohne Rüstung und wirft die Kämpferin zu Boden}
 {5120}{}{und raubt ihr die Luft. Sie fällt zu Boden}
 {5121}{}{. Leider erblicken ihre wichtigsten Organe jetzt das Tageslicht}
@@ -754,7 +754,7 @@
 {6513}{}{und zerquetscht deine Eingeweide. Du kannst nur noch Blut spucken}
 {6514}{}{und schleudert dich kopfüber herum}
 {6515}{}{, wirft dich um und bricht dein Bein}
-{6516}{}{und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein Knie schwer}
+{6516}{}{ und schmilzt durch deine Rüstung. Der Schlag wirft dich um und verletzt dein Knie schwer}
 {6517}{}{. Der Schmerz deines gebrochenen Beins lässt dich das Bewusstsein verlieren}
 {6518}{}{. Der schmerzhafte Schlag lässt dich zucken, sonst nichts}
 {6519}{}{. Leider führt dies auch zum sofortigen Verlust des Sehvermögens}

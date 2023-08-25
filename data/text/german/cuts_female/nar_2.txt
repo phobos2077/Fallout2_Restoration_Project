@@ -1,2 +1,2 @@
-1:Du wurdest wegschafft und kehrst langsam wieder zum normalen Leben im Vault zurück.
-2:Aber einen Monat später beginnt die Katastrophe.
+1:Du wurdest wegschafft und kehrst langsam wieder zum normalen Vault-Leben zurück.
+2:Doch einen Monat später bricht die Katastrophe herein.

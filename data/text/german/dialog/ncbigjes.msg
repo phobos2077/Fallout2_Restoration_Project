@@ -1,7 +1,7 @@
 {100}{}{Du siehst Big Jesus Mordino.}
 {150}{}{Du siehst einen sehr dicken Mann mit kleinen, glänzenden, schwarzen Augen. Er ist schweißgebadet und atmet schwer.}
 {151}{}{Du siehst Big Jesus Mordino. Er ist schweißgebadet und atmet schwer.}
-{200}{}{Bleib weg da.}
+{200}{}{Bleib da weg!}
 {201}{}{Das... gehört dir nicht.}
 {202}{}{Fass das noch einmal an, und du wirst... auf Golgotha sterben.}
 {210}{}{::euch::}

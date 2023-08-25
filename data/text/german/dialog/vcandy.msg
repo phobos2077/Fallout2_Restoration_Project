@@ -25,7 +25,7 @@
 {120}{}{ Hühner kosten. Wenn du das Geld hast, ist's kein Problem.}
 {121}{}{Aber natürlich gibt's keine Garantie für das, was der alte Doc im Hinterzimmer treibt...}
 {122}{}{Pflick? Pflick! Nimm Geeeeld, flick Loch.}
-{123}{}{Bye-bye.}
+{123}{}{Tschüssi!}
 {124}{}{Nich nug Geld - Winke-winke.}
 {125}{}{Also gut.}
 {126}{}{Das ist aber ganz schön teuer. Wie wär's mit }

@@ -159,7 +159,7 @@
 {333}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
 {334}{}{Dieser Sklavenhändler lässt meinen Geigerzähler durchbrennen.}
 {335}{}{Wenn du willst bin ich extra nett, dass kostet dann aber extra.}
-{336}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
+{336}{}{[Singt.] "Let's play - master and servant. Let's play - master and servant."}
 {337}{}{Willst du mit mir spielen Sklavenhändler.}
 {338}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {339}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
@@ -742,7 +742,7 @@
 {916}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
 {917}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst überzeugen.}
 {918}{}{Dieser Kerl, Fred Hatch, er wollte von mir wissen, ob es auch mollige Frauen in der Stadt gibt. Komisch.}
-{919}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
+{919}{}{[Singt.] "Let's play - master and servant. Let's play - master and servant."}
 {920}{}{Willst du Meister und Sklave spielen?}
 {921}{}{Wenn ich nachher noch etwas bleiben soll kostet das extra.}
 {922}{}{Willst du sehen wo der Bär steppt?}

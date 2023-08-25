@@ -6,7 +6,7 @@
 {105}{prs1c}{Was glaubst du eigentlich, wer du bist? Platzt hier einfach in mein Büro.}
 {106}{}{Uh?}
 {107}{}{Nö.}
-{108}{}{Bye-bye.}
+{108}{}{Tschüssi!}
 {109}{prs2a}{Oh, verstehe, Auswirkungen des Testserums. Ich hol Hilfe. Wachen!}
 {110}{prs2b}{Sieht so aus, Doktor, als wärst du mit dem FEV in Berührung gekommen. Armes Schwein, ich hol Hilfe. Wachen!}
 {111}{prs2c}{Jetzt sei ein guter Mutant und rühr dich nicht vom Fleck. Wachen!}
