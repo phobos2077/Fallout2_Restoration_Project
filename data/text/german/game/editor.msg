@@ -14,7 +14,7 @@
 {113}{}{Level:}
 {114}{}{Erf:}
 {115}{}{Näch. Level:}
-{116}{}{CHAR PUNKTE}
+{116}{}{CHARAKTERPUNKTE}
 {117}{}{FÄHIGKEITEN}
 {118}{}{Du musst alle Charakterpunkte verwenden,}
 {119}{}{um mit dem Spiel zu beginnen!}

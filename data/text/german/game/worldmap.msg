@@ -89,7 +89,7 @@
 {393}{}{Ebene 1}
 {394}{}{Ebene 2}
 {395}{}{Ebene 3}
-{396}{}{Warehouse}
+{396}{}{Lager}
 {400}{}{Die Geisterstadt}
 {401}{}{Haupthöhle}
 {402}{}{Unterirdischer See}

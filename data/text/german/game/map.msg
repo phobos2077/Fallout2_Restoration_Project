@@ -527,7 +527,7 @@
 {656}{}{Keller}
 {657}{}{enter name}
 {658}{}{enter name}
-{659}{}{Cave}
+{659}{}{Höhle}
 {660}{}{enter name}
 {661}{}{enter name}
 {662}{}{Dorf}
