@@ -193,8 +193,8 @@
 {1172}{}{Du fühlst das brennende Verlangen, noch eine Schachtel tragische Karten zu öffnen.}
 {1173}{}{Rüstung - Charisma}
 {1174}{}{Du weißt, wie man Geckos richtig häutet, um die Haut weiterzuverwenden.}
-{1175}{}{Du hast einen inneren Schutz gegen körperliche Angriffe.}
-{1176}{}{Du hast einen besonders starken inneren Schutz gegen körperliche Angriffe.}
+{1175}{}{Du hast einen natürlichen Schutz gegen körperliche Angriffe.}
+{1176}{}{Du hast einen besonders starken natürlichen Schutz gegen körperliche Angriffe.}
 {1177}{}{Du hast einen natürlichen Schutz gegen Hitzeangriffe.}
 {1178}{}{Du hast einen besonders starken natürlichen Schutz gegen Hitzeangriffe.}
 {1179}{}{Du hast +10 % Resistenz gegen Gift und Strahlung erlangt.}
