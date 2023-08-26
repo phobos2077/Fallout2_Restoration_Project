@@ -49,7 +49,7 @@
 {149}{}{Taschenkünstler}
 {150}{}{Schönredner}
 {151}{}{Gute Auffassungsgabe}
-{152}{}{Spezialkenntnis}
+{152}{}{Spezialtalent!}
 {153}{}{Mutation!}
 {154}{}{Nuka-Cola-Sucht}
 {155}{}{Buffout-Sucht}
@@ -106,11 +106,11 @@
 {206}{}{Dieb}
 {207}{}{Waffenhandhabung}
 {208}{}{Vault City-Training}
-{209}{}{Durch Alkohol erhöhte Trefferpunkte }
+{209}{}{Durch Alkohol erhöhte Trefferpunkte}
 {210}{}{Durch Alkohol erhöhte Trefferpunkte II}
 {211}{}{Durch Alkohol gesenkte Trefferpunkte}
 {212}{}{Durch Alkohol gesenkte Trefferpunkte II}
-{213}{}{Durch Autodoc erhöhte Trefferpunkte }
+{213}{}{Durch Autodoc erhöhte Trefferpunkte}
 {214}{}{Durch Autodoc erhöhte Trefferpunkte II}
 {215}{}{Durch Autodoc gesenkte Trefferpunkte}
 {216}{}{Durch Autodoc gesenkte Trefferpunkte II}
@@ -140,8 +140,8 @@
 {1119}{}{Jeder Level von Gebildet gibt dir +2 Fähigkeitspunkte, wenn du eine neue Erfahrungsebene bewältigst. Dieser Bonus funktioniert am besten, wenn du ihn schon zu einem frühen Zeitpunkt deines Abenteuers kaufst.}
 {1120}{}{Es fällt dir mit diesem Bonus leichter, andere zu heilen. Jeder Level dieses Bonus heilt 4-10 zusätzliche Trefferpunkte, wenn du die Erste-Hilfe- oder Arzt-Fähigkeiten anwendest.}
 {1121}{}{Du hast eine Begabung dafür, Geld zu finden. Du findest bei verschiedenen Zufallsbegegnungen in der Wüste noch mehr Geld.}
-{1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflusst. }
-{1123}{}{Du hast andere menschliche Wesen studiert, um ihre emotionale Reaktion dir gegenüber genau einzuschätzen. Du siehst bei einem vertraulichen Gespräch den Reaktionswert der Person, mit der du gerade sprichst. }
+{1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflusst.}
+{1123}{}{Du hast andere menschliche Wesen studiert, um ihre emotionale Reaktion dir gegenüber genau einzuschätzen. Du siehst bei einem vertraulichen Gespräch den Reaktionswert der Person, mit der du gerade sprichst.}
 {1124}{}{Du bist der leibhaftige Totschläger! Bei Nahkämpfen werden aus all deinen Treffern kritische Treffer, so dass du Zerstörung und Verwüstung zurücklässt.}
 {1125}{}{Du hast die Feuerwaffe als Schmerzquelle gemeistert. Mit diesem Bonus wird jeder erfolgreiche Treffer im Kampf mit Waffen zu einem kritischen Treffer aufgewertet, wenn du zudem einen guten Wurf machst.}
 {1126}{}{Wenn du beim Schleichen eine Kreatur in den Rücken triffst, fügst du im Nahkampf doppelten Schaden zu. Dieser Bonus heißt Leiser Tod.}

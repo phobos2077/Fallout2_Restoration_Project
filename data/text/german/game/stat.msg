@@ -89,9 +89,9 @@
 {402}{}{Erfahrung}
 {403}{}{Ansehen}
 {404}{}{Karma}
-{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
+{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder ein Spezialtalent um 2 % erhöhen.}
 {501}{}{Die allgemeine Kompetenz eines Spielercharakters. Ein Maß für deine Erfahrung und Fähigkeiten.}
 {502}{}{Eine Belohnung für die Durchführung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um höhere Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
-{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von inaktiven Figuren.}
+{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von Nicht-Spieler-Charakteren.}
 {504}{}{Die Auswirkungen deiner Handlungen. Wichtige Informationen werden angezeigt.}
 {600}{}{Du hast ein neues Level erreicht.}
