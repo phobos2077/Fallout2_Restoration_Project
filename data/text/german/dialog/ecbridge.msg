@@ -43,7 +43,7 @@
 {142}{}{Hm...Tycho?}
 {143}{}{Hm...Harold?}
 {144}{}{Was meinst du? Zählen besondere Begegnungen als Teile der Folgeversion oder werden sie als besondere Ereignisse behandelt?}
-{145}{}{Was meinst du? Inaktive Freunde oder Feinde?}
+{145}{}{Was meinst du? NSC-Freunde oder NSC-Feinde?}
 {146}{}{Wieviel Gewicht kann eine Person mit der Stärke 6 tragen, wenn sie den Bonus "Starker Rücken" hat?}
 {147}{}{Keine Ahnung.}
 {148}{}{Hm...200 Pfund?}

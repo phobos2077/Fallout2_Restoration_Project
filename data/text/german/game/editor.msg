@@ -91,7 +91,7 @@
 {318}{}{Beinverletz. (links)}
 {400}{}{Dein Charakter wurde vergiftet. Gift schadet dem Organismus eine gewisse Zeitlang, bis es neutralisiert oder ausgeschieden wird.}
 {401}{}{Dein Charakter leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
-{402}{}{Dies bedeutet, dass dein Charakter schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
+{402}{}{Dein Charakter wurde schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
 {403}{}{Der rechte Arm wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {404}{}{Der linke Arm deines Charakters wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Ist ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {405}{}{Dein Charakter hat ein verstümmeltes rechtes Bein.}
@@ -193,7 +193,7 @@
 {1025}{}{Getrennt}
 {1026}{}{Raucher}
 {1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehasst.}
-{1101}{}{Du hast ein viele Menschen getötet. Hierdurch bekannt zu werden ist im allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
+{1101}{}{Du hast viele Menschen getötet. Hierdurch bekannt zu werden ist im Allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
@@ -246,11 +246,11 @@
 {4001}{}{Abhängigkeiten}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
 {4101}{}{Dinge, von denen du abhängig bist.}
-{5000}{}{Bedaure, Drucken des }
+{5000}{}{Bedaure, Drucken des}
 {5001}{}{Charakters geht nur in der Vollversion.}
-{5002}{}{Bedaure, Speichern der}
+{5002}{}{Bedaure, Speichern des}
 {5003}{}{Charakters geht nur in der Vollversion.}
-{5004}{}{Bedaure, Laden einer gespeicherten}
+{5004}{}{Bedaure, Laden eines gespeicherten}
 {5005}{}{Charakters geht nur in der Vollversion.}
 {5006}{}{CHEATMODUS}
 {5007}{}{In der Demo nicht verfügbar.}

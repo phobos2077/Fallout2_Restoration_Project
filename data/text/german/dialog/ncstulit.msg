@@ -166,7 +166,7 @@
 {541}{}{Äh... nun, also...}
 {550}{}{Du hat mich nur EINMAL kurz angeschaut und wolltest gleich mein ganzes Leben beurteilen können. Du wärst nie darauf gekommen, dass jemand mit meiner Größe sich einen Namen im *Boxmanagement* machen könnte.}
 {551}{}{Tut mir leid, ich wollte dich nicht beleidigen.}
-{560}{}{Warum sollte ich beleidigt sein? Nur weil jeder in diesem Spiel gewohnheitsmäßig Blitzurteile über andere inaktive Figuren zu fällen scheint, die sich nur auf deren äußere Erscheinung stützen?}
+{560}{}{Warum sollte ich beleidigt sein? Nur weil jeder in diesem Spiel gewohnheitsmäßig Blitzurteile über andere NSCs zu fällen scheint, die sich nur auf deren äußere Erscheinung stützen?}
 {561}{}{Na, also ich weiß nicht, was daran ein BLITZURTEIL war...}
 {570}{}{Na, das hab ich ja mit dir zum Beispiel auch gemacht.}
 {571}{}{Ach?}

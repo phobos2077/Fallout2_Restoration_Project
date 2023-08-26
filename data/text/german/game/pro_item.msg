@@ -943,7 +943,7 @@
 {48400}{}{Ohr des Spielers}
 {48401}{}{Das ist dein Ohr. Der Beißer hat es während des Kampfes abgebissen und auf deinen bewusstlosen Körper gespuckt. Wenn du dies liest, lädst du wahrscheinlich bald neu. Vielleicht hat dieses Objekt ja auch einen besonderen Wert für dich.}
 {48500}{}{Ohr des Beißers}
-{48501}{}{Dies ist das Ohr des Beißers. Du hast es abgebissen, nachdem du ihn bewusstlos geprügelt hast. Herzlichen Glückwunsch, dass du ihn besiegt hast. Er ist einer der zähesten unter den inaktiven Figuren im Spiel, besonders dann, wenn du keine Waffen oder Rüstung hast.}
+{48501}{}{Dies ist das Ohr des Beißers. Du hast es abgebissen, nachdem du ihn bewusstlos geprügelt hast. Herzlichen Glückwunsch, dass du ihn besiegt hast. Er ist einer der zähesten unter den NSCs im Spiel, besonders dann, wenn du keine Waffen oder Rüstung hast.}
 {48600}{}{Veredeltes Uranerz}
 {48601}{}{Ein Stück Uranerz. Dieses Erz scheint irgendwie bearbeitet worden zu sein. Es kommt dir so schwer vor.}
 {48700}{}{Zettel von Francis}

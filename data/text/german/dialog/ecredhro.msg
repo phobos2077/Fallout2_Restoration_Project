@@ -12,7 +12,7 @@
 {109}{}{UND das Programmiererteam.}
 {110}{}{UND die Projektleiter. Tim lässt sich soooo leicht rumkriegen. Du zeigst 'n bisschen Haut
  und schon wird er schwach.}
-{111}{}{Also werd ich auf Eis gelegt und ende als "Inaktiver Lückenfüller" in Vault 13. Tja - so
+{111}{}{Also werd ich auf Eis gelegt und ende als "Lückenfüller-NSC" in Vault 13. Tja - so
  kann man auch 'ne Rolle kriegen.}
 {112}{}{Es wundert mich, dass sie die Schwarzhaarige überhaupt mit Klamotten in Szene bringen.}
 {113}{}{Ich mein, nicht dass sie beim Casting besonders häufig angehabt hätte.}
