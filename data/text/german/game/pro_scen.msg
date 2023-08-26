@@ -927,7 +927,7 @@
 {48700}{}{Monitor}
 {48701}{}{Ein großer Schwarz-Weiß-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, dass er ohne Antenne in einem Innenraum steht.}
 {48800}{}{Monitor}
-{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Figur in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
+{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Gestalt in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
 {48900}{}{Kraftfeld}
 {48901}{}{Dies ist ein mächtiges Energiefeld.}
 {49000}{}{Kraftfeld}
