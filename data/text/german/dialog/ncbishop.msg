@@ -113,8 +113,8 @@
 {475}{}{(Runzelt die Stirn.) Er ist ein Brahmin-Rancher. Ein Viehzüchter. Und?}
 {476}{}{Also gut. Ich hab da noch ein paar Fragen über Westin...}
 {477}{}{Nein, er ist noch etwas MEHR. Sonst hätten wir diese Unterhaltung jetzt nicht.}
-{485}{}{(Starrt dich zornig an.) Er ist auch ein Abgeordneter im Kongreß der NCR. Macht dir das ANGST, Sippenkröte? Sollte es aber nicht. Mach deine Arbeit, und du brauchst dir um nichts Sorgen zu machen. Vermassele es, und Westin ist deine geringste Sorge.}
-{488}{}{Ein "Abgeordneter im Kongreß der NCR?" Vergiss es. Such dir jemand anderen... jemand mit Todessehnsucht.}
+{485}{}{(Starrt dich zornig an.) Er ist auch ein Abgeordneter im Kongress der NCR. Macht dir das ANGST, Sippenkröte? Sollte es aber nicht. Mach deine Arbeit, und du brauchst dir um nichts Sorgen zu machen. Vermassele es, und Westin ist deine geringste Sorge.}
+{488}{}{Ein "Abgeordneter im Kongress der NCR?" Vergiss es. Such dir jemand anderen... jemand mit Todessehnsucht.}
 {495}{}{Also gut. Sei jetzt kein Frosch... ich hab immer Arbeit für jemanden, der auch Ergebnisse vorweisen kann.}
 {496}{}{Das werde ich mir merken. Wiedersehn.}
 {500}{}{Hast du Westin schon erledigt?}

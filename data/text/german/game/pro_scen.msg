@@ -2144,8 +2144,8 @@
 {125800}{}{Laden von Bobs Sohn}
 {125801}{}{Stand eines fliegenden Händlers.}
 {125900}{}{NCR-Schild}
-{126000}{}{Kongreßhallenschild}
-{126100}{}{Kongreßhallenschild}
+{126000}{}{Kongresshallenschild}
+{126100}{}{Kongresshallenschild}
 {126200}{}{NCR-Poster}
 {126300}{}{NCR-Poster}
 {126400}{}{NCR-Poster}

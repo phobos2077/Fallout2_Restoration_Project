@@ -67,7 +67,7 @@
 {158}{}{Ich weiß nicht, was das bedeutet, aber was soll's, wenn wir ein bisschen anders sind?}
 {159}{}{Oh, eure DNA ist mehr als nur ein *bisschen* anders. Sie ist ganz anders. Wenn ich wegen
  des Projekts nicht so in Eile wäre, wäre es interessant weitere Tests an deinen Leuten
- durchzuführen. Abgesehen von der Toxikologiestudie über F.E.V. Es ist wirklich faszinierend.}
+ durchzuführen. Abgesehen von der Toxikologiestudie über FEV Es ist wirklich faszinierend.}
 {160}{}{Was wolltest du wissen?}
 {161}{}{Wie unterscheidet sich unsere DNA?}
 {162}{}{Du machst Tests mit meiner Sippe?}
@@ -125,26 +125,26 @@
 {192}{}{Ich hab's versucht. Stirb, du Rassist.}
 {193}{}{Also gut, ich gehe. Einer von uns ist jenseits von Gut und Böse und ich bin's nicht.
  Tschüss.}
-{194}{}{Toxikologische Studien über die Wirkung des F.E.V.-Giftes, ja.}
-{195}{}{Das F.E.V.-Gift? Was ist das?}
+{194}{}{Toxikologische Studien über die Wirkung des FEV-Giftes, ja.}
+{195}{}{Das FEV-Gift? Was ist das?}
 {196}{}{Ich möchte dich noch etwas fragen.}
-{197}{}{Das F.E.V.-Gift. Es ist die perfekte Lösung für dieses schwierige Problem.}
-{198}{}{Was ist das F.E.V.-Gift?}
+{197}{}{Das FEV-Gift. Es ist die perfekte Lösung für dieses schwierige Problem.}
+{198}{}{Was ist das FEV-Gift?}
 {199}{}{Einen Augenblick. Ich möchte dich noch etwas fragen.}
-{200}{}{Eine unserer Patrouillen fand die Forschungsdaten und diverse Proben des F.E.V.-Virus in
+{200}{}{Eine unserer Patrouillen fand die Forschungsdaten und diverse Proben des FEV-Virus in
  einer ehemaligen militärischen Forschungsbasis, die fast vollständig zerstört war.}
 {201}{}{OK, jetzt weiß ich, wo ihr es her habt, aber wie wirkt es?}
-{202}{}{Das F.E.V. war ursprünglich als Virus gedacht, das Menschen in Supersoldaten verwandeln
+{202}{}{Das FEV war ursprünglich als Virus gedacht, das Menschen in Supersoldaten verwandeln
  sollte. Dieses Experiment muss ein kompletter Fehlschlag gewesen sein, obwohl ich eine
  modifizierte Version des Virus mit einigem Erfolg an einem unserer Geheimagenten ausprobiert
  habe.}
 {203}{}{Schön für dich, aber wie hängt das mit der Ausrottung von allen zusammen?}
-{204}{}{Ach ja, naja, ich wollte gerade erzählen... Die F.E.V.-Virusbindung ist gattungsabhängig,
+{204}{}{Ach ja, naja, ich wollte gerade erzählen... Die FEV-Virusbindung ist gattungsabhängig,
  es verbindet sich nur mit menschlichen Glycoproteinen. Es hat nur ein paar Jahre gedauert, das
- F.E.V.-Virus noch tödlicher zu machen als es schon war. Das Ergebnis war genau richtig, absolut
+ FEV-Virus noch tödlicher zu machen als es schon war. Das Ergebnis war genau richtig, absolut
  perfekt. }
 {205}{}{Perfekt? Wie das?}
-{206}{}{Ist das nicht offensichtlich, mein mutierter Freund? Das F.E.V. ist dank mir ein
+{206}{}{Ist das nicht offensichtlich, mein mutierter Freund? Das FEV ist dank mir ein
  tödliches Gift und dank eines rätselhaften Genies, der etwas dramatisch "Der Meister" genannt
  wird, wirkt es nur bei Menschen, mutiert oder nicht.}
 {207}{}{Ja?}
@@ -152,14 +152,14 @@
  den Erdball verseuchen.}
 {209}{}{Ich verstehe immer noch nicht, warum das *perfekt* ist.}
 {210}{}{Ich muss dir noch Fragen zu deinen anderen wahnsinnigen Ideen stellen.}
-{211}{}{Das F.E.V.-Gift greift nur Menschen an und lässt alles andere am Leben. Und, was noch besser
- ist, innerhalb eines Monats sind alle Mutanten tot und das F.E.V.-Gift stirbt aus, weil es keine
+{211}{}{Das FEV-Gift greift nur Menschen an und lässt alles andere am Leben. Und, was noch besser
+ ist, innerhalb eines Monats sind alle Mutanten tot und das FEV-Gift stirbt aus, weil es keine
  Wirte mehr findet.}
 {212}{}{Es kann nicht genügend Vertibirds hier geben, um das Gift über die ganze Welt zu
  verteilen.}
 {213}{}{Ich mach dich zum Wirt von einigen Hochenergie-Projektilen. Fang an zu beten.}
 {214}{}{Da hast du recht. Aber wir brauchen sie auch gar nicht. Wir entwickelten ein
- Freisetzungssystem, welches das F.E.V.-Gift von den Behältern direkt in die Atmosphäre sprüht,
+ Freisetzungssystem, welches das FEV-Gift von den Behältern direkt in die Atmosphäre sprüht,
  der Jetstrom erledigt den Rest. Die weltweite Sättigung wird in höchstens zwei Wochen erreicht.}
 {215}{}{Zwei Wochen?}
 {216}{}{Ja, zwei Wochen für die Verbreitung des Virus, circa ein weiterer Monat für sein Werk und
@@ -192,14 +192,14 @@
  und fangen woanders noch mal an.}
 {235}{}{Tut mir leid, das zu hören. Äh, Doktor, wie, meinst du, sollte die Enklave vernichtet
  werden?}
-{236}{}{Ich glaube, das beste wäre, das F.E.V.-Gift in die Luftaufbereitung einzuführen. Da die
+{236}{}{Ich glaube, das beste wäre, das FEV-Gift in die Luftaufbereitung einzuführen. Da die
  Enklave ein abgedichtetes System darstellt, sollte das alle erledigen.}
 {237}{}{Wie steht's mit meinen Leuten? Oder mir? Oder auch dir?}
 {238}{}{Ich kann das Gegenmittel in das Belüftungssystem für die Zellen einbringen. Die
  Internierungsebene wird von einem Luftsystem versorgt, das vom Rest der Enklave getrennt ist. Alle
  werden glauben, dass ich wieder einen Test mache. Dich kann ich direkt impfen, gleich hier.
  [Er kommt mit einer Spritze auf dich zu.]}
-{239}{}{Aua, danke, Doc. Was passiert, wenn das F.E.V.-Gift freigesetzt ist?}
+{239}{}{Aua, danke, Doc. Was passiert, wenn das FEV-Gift freigesetzt ist?}
 {240}{}{He, einen Augenblick, mich piekst du nicht mit dem Ding!}
 {241}{}{Kein schöner Anblick. Du solltest sofort verschwinden. Aber ich belaste mein Gewissen
  lieber mit Tausend als mit mehreren Hunderttausend. Unsere Zeit hier ist vorbei. Wir hatten
@@ -226,10 +226,10 @@
 {257}{}{Du hast keine Zeit dafür!}
 {258}{}{Geh, solange du noch kannst!}
 {259}{}{Verstehst du nicht? Ohne das bist du innerhalb weniger Stunden tot.}
-{260}{}{Naja, wenn das so ist. Rein damit, Doc. Was passiert, wenn das F.E.V.-Gift freigesetzt
+{260}{}{Naja, wenn das so ist. Rein damit, Doc. Was passiert, wenn das FEV-Gift freigesetzt
  ist?}
 {261}{}{Keine Nadeln, keine Chance, kein Nichts. Ich riskier's so.}
 {262}{}{Du schaffst es nie, deine Leute zu befreien, wenn du nicht geimpft bist. Was ist los?
  Angst vor einem kleinen Stich?}
 {263}{}{Nein, wahrscheinlich nicht. Solange ich nicht dabei zusehen muss. Autsch! Also, was
- passiert, wenn du das F.E.V.-Gift freisetzt?}
+ passiert, wenn du das FEV-Gift freisetzt?}

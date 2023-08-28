@@ -1360,7 +1360,7 @@
 {10128}{}{Gort! Klaatu Berada Nictu!}
 {10129}{}{Sssszzzzztt *POP*}
 {10130}{}{Etwas Sahne dazu, meine Dame?}
-{10131}{}{Jawohl, eine Einheit Mr. Handy, Sir.}
+{10131}{}{Jawohl, eine Mr. Handy-Einheit, Sir.}
 {10132}{}{Ich bin volltauglich.}
 {10133}{}{Aber ich bin Übersetzer.}
 {10134}{}{Nanuu-nanuu.}
@@ -1380,7 +1380,7 @@
 {10148}{}{Gort! Klaatu Berada Nictu!}
 {10149}{}{Sssszzzzztt *POP*}
 {10150}{}{Etwas Sahne dazu, meine Dame?}
-{10151}{}{Jawohl, eine Einheit Mr. Handy, Sir.}
+{10151}{}{Jawohl, eine Mr. Handy-Einheit, Sir.}
 {10152}{}{Ich bin volltauglich.}
 {10153}{}{Aber ich bin Übersetzer.}
 {10154}{}{Nanuu-nanuu.}

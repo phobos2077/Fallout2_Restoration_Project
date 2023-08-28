@@ -40,7 +40,7 @@
 {138}{}{Das klingt nicht gut. Ich möchte noch etwas fragen.}
 {139}{}{Habt ihr ein Glück. Vielleicht lernt ihr jetzt den Schmerz kennen, den mein Vorfahr, der
  Vaultbewohner, fühlte. Schmort in der Hölle. Tschüss.}
-{140}{}{Die nennen es F.E.V.-Gift. Bevor es tötet, stellt es furchtbare Sachen mit den Menschen
+{140}{}{Die nennen es FEV-Gift. Bevor es tötet, stellt es furchtbare Sachen mit den Menschen
  an. Das einzig *Gute* daran ist, dass es so schnell tötet, aber es sieht ziemlich schmerzhaft
  aus.}
 {141}{}{Das klingt ja übel. Warum verwenden die eure Leute für die Tests?}

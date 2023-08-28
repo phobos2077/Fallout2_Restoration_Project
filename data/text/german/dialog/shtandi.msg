@@ -100,12 +100,12 @@
 {198}{tand17}{Einen Gecko? Eine Art Eidechse? Ja, die gibt's hier überall.}
 {199}{}{Nein, nix Echse. Egal. Ich Fragen.}
 {200}{}{Nein nicht die blöden Echsen... ach, egal. Ich muss dich noch was fragen.}
-{201}{tand18}{New Reno? Eine absolute Jauchegrube. Da gibt's jedes Laster, das man sich nur vorstellen kann. Da müssen wir hart durchgreifen, wenn wir das Land vereinen wollen. Der Kongreß muss das endlich einsehen.}
+{201}{tand18}{New Reno? Eine absolute Jauchegrube. Da gibt's jedes Laster, das man sich nur vorstellen kann. Da müssen wir hart durchgreifen, wenn wir das Land vereinen wollen. Der Kongress muss das endlich einsehen.}
 {202}{}{Was wissen von Bishop?}
-{203}{}{Erzählen von Kongreß?}
+{203}{}{Erzählen von Kongress?}
 {204}{}{Ich mehr Fragen.}
 {205}{}{Wie steht's mit den Bishops?}
-{206}{}{Erzähl mir vom Kongreß.}
+{206}{}{Erzähl mir vom Kongress.}
 {207}{}{Verstehe. Kannst du mir noch mehr erzählen?}
 {208}{tand19}{Also, ich sprech vielleicht mit Nattern, aber in den Arm nehmen tu ich sie deswegen trotzdem nicht. Wenn du ihn siehst, kannst du ihm das gerne sagen.}
 {209}{}{Ich hören, NCR Handel mit Bishop.}
@@ -120,7 +120,7 @@
 {218}{}{Wer Westin?}
 {219}{}{Verstehe.}
 {220}{}{Wer ist den dieser Westin?}
-{221}{tand22}{Der Kongreßabgeordnete Westin? Einer der größten Brahmin-Rancher der Gegend. Sein Anwesen liegt im Westen der Stadt. Erwähn bloß New Reno nicht in seiner Nähe - das bringt ihn jedesmal auf die Palme.}
+{221}{tand22}{Der Kongressabgeordnete Westin? Einer der größten Brahmin-Rancher der Gegend. Sein Anwesen liegt im Westen der Stadt. Erwähn bloß New Reno nicht in seiner Nähe - das bringt ihn jedesmal auf die Palme.}
 {222}{}{Nein, danke.}
 {223}{tand23}{Stur wie ein Maulesel... aber ein guter Mann. Warum? }
 {224}{}{Ich wundern ob Arbeit.}
@@ -154,7 +154,7 @@
 {252}{}{Ich möchte dich noch was anderes fragen.}
 {253}{tand32}{Davon könnte ich ewig reden, aber leider habe ich keine Zeit dazu. Hier ist eine Holo-Disk über die NCR. Wir stellen sie her, um unsere frohe Botschaft zu verbreiten.}
 {254}{}{Äh, danke.}
-{255}{tand33}{Sie sind also endlich vernünftig geworden. Ich kann den Kongreß dazu bringen, Vorräte und Techniker zu entsenden. Bist du sicher, dass wir in die Vault können?}
+{255}{tand33}{Sie sind also endlich vernünftig geworden. Ich kann den Kongress dazu bringen, Vorräte und Techniker zu entsenden. Bist du sicher, dass wir in die Vault können?}
 {256}{}{Ich sicher. Penner da, aber ich hauen.}
 {257}{}{Ganz sicher. Da waren so ein paar Penner, aber denen hab ich eins über die Rübe gegeben.}
 {258}{tand34}{Ich hab immer daran geglaubt, dass gute Arbeit auch guten Lohn verdient. Mein Sekretär wird die Sache regeln.}
