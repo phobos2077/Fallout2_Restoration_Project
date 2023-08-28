@@ -49,7 +49,7 @@
 {149}{}{Taschenkünstler}
 {150}{}{Schönredner}
 {151}{}{Gute Auffassungsgabe}
-{152}{}{Spezialkenntniss!}
+{152}{}{Spezialkenntnis!}
 {153}{}{Mutation!}
 {154}{}{Nuka-Cola-Sucht}
 {155}{}{Buffout-Sucht}
@@ -170,7 +170,7 @@
 {1149}{}{Du kannst deine Ausrüstung jetzt besser packen. Es kostet dich nur 2 Aktionspunkte (statt 4), im Kampf auf dein Inventar zuzugreifen.}
 {1150}{}{Du kannst jetzt deine Dialogoptionen verbessern, ohne genau zu wissen, wovon du eigentlich redest. Mit jedem Level dieses Bonus erhöht sich deine Intelligenz für Dialogzwecke um eins (bis zu 10).}
 {1151}{}{Mit diesem Bonus hast du tatsächlich eine gute Auffassungsgabe, da du mit jedem Level weitere +5% bekommst, wenn du Erfahrungspunkte sammelst. Hiervon machst du am besten schon früh Gebrauch.}
-{1152}{}{Deine Fähigkeiten haben sich so weit entwickelt, dass du ein zusätzliches Spezialkenntniss erwerben kannst. Spezialkenntnisse verbessern sich doppelt so schnell.}
+{1152}{}{Deine Fähigkeiten haben sich so weit entwickelt, dass du ein zusätzliches Spezialkenntnis erwerben kannst. Spezialkenntnisse verbessern sich doppelt so schnell.}
 {1153}{}{Die Strahlung im Ödland hat dich verändert! Eines deiner Zusatzmerkmale ist zu etwas anderem mutiert.}
 {1154}{}{Du gierst nach einer weiteren Nuka-Cola.}
 {1155}{}{Es schüttelt dich.}

@@ -43,7 +43,7 @@
 {142}{}{Spezialkenntnisse müssen ausgewählt}
 {143}{}{um mit dem Spiel zu beginnen!}
 {144}{}{Spezialkenntnisse}
-{145}{}{Spezialkenntnisse sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jede Spezialkenntniss bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialkenntnisse aussuchen.}
+{145}{}{Spezialkenntnisse sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jede Spezialkenntnis bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialkenntnisse aussuchen.}
 {146}{}{Zusatzmerkmale}
 {147}{}{Zusatzmerkmale beschreiben deine Figur genauer. Alle Merkmale haben positive und negative Auswirkungen. Beim Erstellen kannst du bis zu zwei Merkmale wählen.}
 {148}{}{Du besitzt schon die Höchstzahl von}

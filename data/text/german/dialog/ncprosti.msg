@@ -653,7 +653,7 @@
 {827}{}{Küss mich du Enklaven zerstörender Held.}
 {828}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {829}{}{Wir vermissen Tim Cain. er kann wunderbar Brot backen. Dann hat er uns immer den Hintern versohlt, wie kleinen Kindern.}
-{830}{}{Ich weiß, ich bin nur ein NPC, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
+{830}{}{Ich weiß, ich bin nur eine Nicht-Spieler-Figur, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
 {831}{}{Die Frauen in dieser Stadt scheinen von einem sexhungrigen Nerd entworfen worden zu sein, der noch immer bei seinen Eltern im Keller wohnt.}
 {832}{}{New Reno wurde von Chris Avellone und Tom French entworfen. Beide sind in sexueller hinsicht Götter.}
 {833}{}{Feargus bekam einen finsteren Blick als er gesehn hatte, wie viel Text ich hatte. Er ist immer so ernst.}

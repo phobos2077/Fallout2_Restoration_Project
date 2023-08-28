@@ -78,7 +78,7 @@
 {274}{}{Ich habe auch mal die Welt gerettet. Glaube ich zumindest. Weiß es aber nicht mehr genau, ich war high.}
 {275}{}{Hatte die Enklave Jet?}
 {276}{}{Bist du für den großen Knall unten im Süden verantwortlich? Davon habe ich Kopfschmerzen bekommen.}
-{277}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
+{277}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen Nicht-Spieler-Figuren mit den Konsequenzen leben müssen.}
 {278}{}{Chris Avellone hat mich entwickelt und Tom French hat das Skript geschrieben. Technisch betrachtet bin ich für mein Jet benutzen also nicht verantwortlich.}
 {279}{}{Ja, ja, ist großartig, dass du das Spiel durch hast. Natürlich bedeutet das, dass du uns bald von deiner Festplatte löschen willst. vielen Dank.}
 {291}{}{Du bist das beste... äh, irgendwas. Du bist das beste IRGENDWAS!}
@@ -87,7 +87,7 @@
 {294}{}{Ich LIEBE dich! Du bist ein HELD. EIN VERDAMMTER HELD. ICH KÖNNTE DICH ZU TODE DRÜCKEN.}
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
-{297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
+{297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen Nicht-Spieler-Figuren mit den Konsequenzen leben müssen.}
 {298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Figur mit erhöhtem Stoffwechsel. Wirklich! Nimm den Bonus! Ich LIEBE ihn.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}

@@ -80,7 +80,7 @@
 {350}{}{Ich DACHTE mir doch, dass ich was verrottendes gerochen habe. Schmeiß deinen Ghuljungen hier raus.}
 {351}{}{Bring sofort diesen stinkenden Ghul hier raus.}
 {352}{}{Wenn dieser Ghul hier nich' in 'ner Minute draußen is', isser noch toter als jetz' schon.}
-{355}{}{Ich sprach für die Rolle eines wichtigen NPCs vor, aber ich bekam nur diesen kleinen NPC-Part. Ich hoffe, ich werd nicht darauf festgelegt.}
+{355}{}{Ich sprach für die Rolle einer wichtigen Nicht-Spieler-Figur vor, aber ich bekam nur diesen kleinen Part. Ich hoffe, ich werd nicht darauf festgelegt.}
 {356}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Sie sind 'n paar kranke Jungs.}
 {357}{}{He! }
 {358}{}{Verflucht und zugenäht, }

@@ -31,8 +31,8 @@
 {130}{}{Einen kaputten Tanker zu reparieren.}
 {131}{}{Äh...Anliegen?}
 {132}{}{Vielleicht komm ich einfach wieder, wenn du dich 'n bisschen besser fühlst.}
-{133}{}{Welcher Nicht-Spieler-Charakter aus Fallout 1 überlebte für die Folgeversion, obwohl die besagte Person jetzt wohl schon sehr alt sein dürfte?}
-{134}{}{Welcher Nicht-Spieler-Charakter aus Fallout 1 überlebte für die Folgeversion?}
+{133}{}{Welche Nicht-Spieler-Figur aus Fallout 1 überlebte für die Folgeversion, obwohl die besagte Person jetzt wohl schon sehr alt sein dürfte?}
+{134}{}{Welche Nicht-Spieler-Figur aus Fallout 1 überlebte für die Folgeversion?}
 {135}{}{Wiiie alt?}
 {136}{}{Voll-geh?}
 {137}{}{[Trotte weg]}
@@ -43,7 +43,7 @@
 {142}{}{Hm...Tycho?}
 {143}{}{Hm...Harold?}
 {144}{}{Was meinst du? Zählen besondere Begegnungen als Teile der Folgeversion oder werden sie als besondere Ereignisse behandelt?}
-{145}{}{Was meinst du? NSC-Freunde oder NSC-Feinde?}
+{145}{}{Was meinst du? Verbündete oder feindliche Nicht-Spieler-Figuren?}
 {146}{}{Wieviel Gewicht kann eine Person mit der Stärke 6 tragen, wenn sie den Bonus "Starker Rücken" hat?}
 {147}{}{Keine Ahnung.}
 {148}{}{Hm...200 Pfund?}
