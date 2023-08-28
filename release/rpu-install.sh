@@ -52,8 +52,6 @@ done
 mkdir -p data/scripts
 scripts="
 gl_ammomod.int
-gl_highlighting.int
-gl_partycontrol.int
 "
 for f in $scripts; do
   mv "$f" data/scripts/
