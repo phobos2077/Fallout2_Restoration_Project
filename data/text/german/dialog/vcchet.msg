@@ -10,7 +10,7 @@
 {109}{}{Mach mich zu einem gefälschtem Bürger und gib mir die Papiere.}
 {110}{}{Mach mich zu einem rausgeworfenen Bürger.}
 {111}{}{Ändere meinen Ruf.}
-{112}{}{(Funktioniert nicht) Ich brauche einen Charakter in meiner Party.}
+{112}{}{(Funktioniert nicht) Ich brauche eine Figur in meiner Party.}
 {113}{}{Nee, nichts.}
 {114}{}{Zu was?}
 {115}{}{Mach mich zum Sklavenhalter.}

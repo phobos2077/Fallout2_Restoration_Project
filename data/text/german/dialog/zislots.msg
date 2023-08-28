@@ -157,7 +157,7 @@
  ...*schnief*}
 {2346}{}{Ach, Fhallaut swei unterstützt meine 3D Fxxxx-Karte nich' und ich hab so viel *Moneten*
  dafür ausgegeben und...*schnief*}
-{2347}{}{Ich hab versucht, 'nen guten Charakter zu kriegen, aber irgendwie hab ich die Punkte alle
+{2347}{}{Ich hab versucht, 'ne gute Figur zu kriegen, aber irgendwie hab ich die Punkte alle
  *falsch* verteilt...un' jetz' hab ich 'ne Mistfigur...un'...*schnief*}
 {2348}{}{Wenn ich schon mit Spiehlautomaten red, mussich echt ziiiemlich üübel dran sein.}
 {2370}{}{*Schon gut...zerbrich dir deinen hübschen kleinen Kopf nicht länger... ich werd mich um

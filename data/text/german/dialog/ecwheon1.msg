@@ -3,7 +3,7 @@
  Sie scherzt und lacht mit den anderen, die bei ihr sind.}
 {102}{}{Du siehst eine weibliche, weiße Heldenfigur. Sie macht Witze und lacht.}
 {103}{}{Du siehst eine weibliche, weiße Heldenfigur. Sie macht Witze und lacht.}
-{104}{}{Ich wurde von einem Stealth-Charakter geführt, denke ich.}
+{104}{}{Ich wurde von einer Stealth-Figur geführt, denke ich.}
 {105}{}{Mein Spieler versuchte, jeden zu bestehlen...und es ging auch glatt, MEISTENS.}
 {106}{}{Aber oh-lala, wenn es schief ging...}
 {107}{}{Ich hab noch nie so viele Speicher- und Neuladeaktionen erlebt. Ts! Dann doch lieber 'n

@@ -645,7 +645,7 @@
 {819}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte Hände.}
 {820}{}{Die wollten schon wieder einen KRIEG? Echt! Gut das du diese Bastarde erledigt hast.}
 {821}{}{Du bist ein echter Bad Boy. Ich meine du hast als speerwerfender Wilder begonnen - ohne Erfahrung - und du gehst aus und rettest die Welt. Du trittst ihnen in den Arsch. Ende der Geschichte.}
-{822}{}{Du solltest das spiel nochmal, mit einen anderen Charakter durchspielen.}
+{822}{}{Du solltest das spiel nochmal, mit einen anderen Figur durchspielen.}
 {823}{}{Erzähl mir alles über deinen Kampf mit der Enklave...}
 {824}{}{Hey, wenn du einmal gratis ran willst, weil du die Welt gerettet hast, ich bin sicher wir werden uns einig...}
 {825}{}{Ich weiß nicht, wie du gegen diese Enklavenschweine eine Chance hattest, aber du bist die mutigste Person die ich kenne.}

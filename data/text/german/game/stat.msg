@@ -36,21 +36,21 @@
 {135}{}{Trefferpunkte}
 {136}{}{Vergiftungsgrad}
 {137}{}{Verstrahlungsgrad}
-{200}{}{Rohe körperliche Gewalt. Große Stärke ist für körperbetonte Charaktere wichtig. Beeinflusst: Trefferpunkte, Schaden im Nahkampf und Tragekapazität.}
+{200}{}{Rohe körperliche Gewalt. Große Stärke ist für körperbetonte Figuren wichtig. Beeinflusst: Trefferpunkte, Schaden im Nahkampf und Tragekapazität.}
 {201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflusst: Reaktions- und Distanzkampffaktoren.}
-{202}{}{Kondition und Belastbarkeit. Ein Charakter mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
-{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Charaktere wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von NSCs und Preise beim Handeln.}
-{204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jeden Charakter wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
-{205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist für jeden aktiven Charakter wichtig. Beeinflusst: Aktionspunkte, Rüstung, Reaktion und viele Fähigkeiten.}
-{206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf den Charakter aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück ein Charakter hat.}
-{207}{}{Die Verletzungen, die dein Charakter verkraften kann, bevor sie stirbt. Wenn du null oder weniger Trefferpunkte erreichst, bist du tot.}
-{208}{}{Die Anzahl der Aktionen, die ein Charakter durchführen kann, wenn sie am Zug ist.}
-{209}{}{Beeinflusst die Wahrscheinlichkeit, dass dieser Charakter getroffen wird.}
-{210}{}{Der zusätzliche Schaden, den dein Charakter im Nahkampf anrichten kann.}
-{211}{}{Der zusätzliche Schaden, den dein Charakter im Nahkampf anrichten kann.}
-{212}{}{Das Höchstgewicht der Ausrüstung, die dein Charakter tragen kann, angegeben in Pfund.}
-{213}{}{Legt fest, wie schnell dein Charakter im Kampf reagieren kann.}
-{214}{}{Am Ende eines jeden Tages heilt dein Charakter einen Trefferpunkt mit einem Heilungspunkt. Wenn du dich ausruhst, erfolgt die Heilung alle sechs Stunden.}
+{202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
+{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
+{204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
+{205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist für jede aktive Figur wichtig. Beeinflusst: Aktionspunkte, Rüstung, Reaktion und viele Fähigkeiten.}
+{206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat.}
+{207}{}{Die Verletzungen, die deine Figur verkraften kann, bevor sie stirbt. Wenn du null oder weniger Trefferpunkte erreichst, bist du tot.}
+{208}{}{Die Anzahl der Aktionen, die eine Figur durchführen kann, wenn sie am Zug ist.}
+{209}{}{Beeinflusst die Wahrscheinlichkeit, dass diese Figur getroffen wird.}
+{210}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
+{211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
+{212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
+{213}{}{Legt fest, wie schnell deine Figur im Kampf reagieren kann.}
+{214}{}{Am Ende eines jeden Tages heilt deine Figur einen Trefferpunkt mit einem Heilungspunkt. Wenn du dich ausruhst, erfolgt die Heilung alle sechs Stunden.}
 {215}{}{Die Wahrscheinlichkeit, im Kampf einen kritischen Treffer zu landen, wird um diesen Prozentsatz erhöht.}
 {216}{}{Bessere kritische Treffer}
 {217}{}{Verletzungsschwelle}
@@ -89,8 +89,8 @@
 {402}{}{Erfahrung}
 {403}{}{Ansehen}
 {404}{}{Karma}
-{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder ein Spezialtalent um 2 % erhöhen.}
-{501}{}{Die allgemeine Kompetenz eines Spielercharakters. Ein Maß für deine Erfahrung und Fähigkeiten.}
+{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder eine Spezialkenntniss um 2 % erhöhen.}
+{501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und Fähigkeiten.}
 {502}{}{Eine Belohnung für die Durchführung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um höhere Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
 {503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von Nicht-Spieler-Charakteren.}
 {504}{}{Die Auswirkungen deiner Handlungen. Wichtige Informationen werden angezeigt.}

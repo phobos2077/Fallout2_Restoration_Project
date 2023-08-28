@@ -14,12 +14,12 @@
 {113}{}{Level:}
 {114}{}{Erf:}
 {115}{}{Näch. Level:}
-{116}{}{CHARAKTERPUNKTE}
+{116}{}{FIGURENPUNKTE}
 {117}{}{FÄHIGKEITEN}
-{118}{}{Du musst alle Charakterpunkte verwenden,}
+{118}{}{Du musst alle Figurenpunkte verwenden,}
 {119}{}{um mit dem Spiel zu beginnen!}
-{120}{}{Charakterpunkte}
-{121}{}{Anzahl verfügbarer Charakterpunkte, die zu einem Grundwert hinzugefügt werden können.}
+{120}{}{Figurenpunkte}
+{121}{}{Anzahl verfügbarer Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
 {122}{}{Näch. Level}
 {123}{}{Die Anzahl der Erfahrungspunkte, die für den nächsten Level erforderlich sind.}
 {124}{}{Bonus}
@@ -36,16 +36,16 @@
 {135}{}{Abnahme nicht möglich.}
 {136}{}{Keine Fähigkeitspunkte mehr verfügbar.}
 {137}{}{Basis:}
-{138}{}{SPEZIALTALENTE}
+{138}{}{SPEZIALKENNTN.}
 {139}{}{ZUSATZMERKMALE}
 {140}{}{Du besitzt schon die Höchstzahl von}
-{141}{}{drei Spezialtalenten!}
-{142}{}{Spezialtalente müssen ausgewählt}
+{141}{}{drei Spezialkenntnissen!}
+{142}{}{Spezialkenntnisse müssen ausgewählt}
 {143}{}{um mit dem Spiel zu beginnen!}
-{144}{}{Spezialtalente}
-{145}{}{Spezialtalente sind Fähigkeiten, auf die sich dein Charakter spezialisiert.    Jedes Spezialtalent bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialtalente aussuchen.}
+{144}{}{Spezialkenntnisse}
+{145}{}{Spezialkenntnisse sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jede Spezialkenntniss bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialkenntnisse aussuchen.}
 {146}{}{Zusatzmerkmale}
-{147}{}{Zusatzmerkmale beschreiben deinen Charakter genauer. Alle Merkmale haben positive und negative Auswirkungen. Beim Erstellen kannst du bis zu zwei Merkmale wählen.}
+{147}{}{Zusatzmerkmale beschreiben deine Figur genauer. Alle Merkmale haben positive und negative Auswirkungen. Beim Erstellen kannst du bis zu zwei Merkmale wählen.}
 {148}{}{Du besitzt schon die Höchstzahl von}
 {149}{}{zwei Merkmalen!}
 {150}{}{Fähigkeiten}
@@ -53,12 +53,12 @@
 {152}{}{BONUS WÄHLEN}
 {153}{}{NEUES MERKMAL WÄHLEN}
 {154}{}{MERKMAL ABLEGEN}
-{155}{}{NEUES SPEZIALTALENT WÄHLEN}
+{155}{}{NEUE SPEZIALKENNTNIS WÄHLEN}
 {156}{}{MERKMALE}
 {157}{}{Alle Werte müssen zwischen 1 und 10 liegen}
 {158}{}{um mit dem Spiel zu beginnen!}
 {160}{}{Du hast den Spielernamen nicht geändert.}
-{161}{}{Soll dieser Spielercharakter dennoch verwendet werden?}
+{161}{}{Soll diese Spielerfigur dennoch verwendet werden?}
 {175}{}{Näch. Lvl:}
 {200}{}{Übel}
 {201}{}{Mies}
@@ -89,13 +89,13 @@
 {316}{}{Armverletz. (links)}
 {317}{}{Beinverletz. (rechts)}
 {318}{}{Beinverletz. (links)}
-{400}{}{Dein Charakter wurde vergiftet. Gift schadet dem Organismus eine gewisse Zeitlang, bis es neutralisiert oder ausgeschieden wird.}
-{401}{}{Dein Charakter leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
-{402}{}{Dein Charakter wurde schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
+{400}{}{Deine Figur wurde vergiftet. Gift schadet dem Organismus eine gewisse Zeitlang, bis es neutralisiert oder ausgeschieden wird.}
+{401}{}{Deine Figur leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
+{402}{}{Dies bedeutet, dass deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
 {403}{}{Der rechte Arm wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
-{404}{}{Der linke Arm deines Charakters wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Ist ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
-{405}{}{Dein Charakter hat ein verstümmeltes rechtes Bein.}
-{406}{}{Dein Charakter hat ein verstümmeltes linkes Bein.}
+{404}{}{Der linke Arm deiner Figur wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Ist ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
+{405}{}{Deine Figur hat ein verstümmeltes rechtes Bein.}
+{406}{}{Deine Figur hat ein verstümmeltes linkes Bein.}
 {500}{}{Januar}
 {501}{}{Februar}
 {502}{}{März}
@@ -114,15 +114,15 @@
 {603}{}{LÖSCHEN}
 {604}{}{[Fertig]}
 {605}{}{Bist du sicher, dass du}
-{606}{}{den aktuellen Charakter löschen willst?}
+{606}{}{die aktuelle Figur löschen willst?}
 {607}{}{ wurde gespeichert.}
 {608}{}{ wurde geladen.}
 {609}{}{existiert schon.}
 {610}{}{Überschreiben?}
 {611}{}{Fehler beim Speichern }
 {612}{}{Fehler beim Laden }
-{613}{}{Charakterdatei ungültig.}
-{614}{}{Charakterdaten ungültig.}
+{613}{}{Figurendatei ungültig.}
+{614}{}{Figurendaten ungültig.}
 {615}{}{Fehler beim Lesen der Dateiliste!}
 {616}{}{DRUCKEN}
 {617}{}{SPIELER}
@@ -246,11 +246,11 @@
 {4001}{}{Abhängigkeiten}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
 {4101}{}{Dinge, von denen du abhängig bist.}
-{5000}{}{Bedaure, Drucken des}
-{5001}{}{Charakters geht nur in der Vollversion.}
+{5000}{}{Bedaure, Drucken der }
+{5001}{}{Figur geht nur in der Vollversion.}
 {5002}{}{Bedaure, Speichern des}
-{5003}{}{Charakters geht nur in der Vollversion.}
+{5003}{}{Figur geht nur in der Vollversion.}
 {5004}{}{Bedaure, Laden eines gespeicherten}
-{5005}{}{Charakters geht nur in der Vollversion.}
+{5005}{}{Figur geht nur in der Vollversion.}
 {5006}{}{CHEATMODUS}
 {5007}{}{In der Demo nicht verfügbar.}

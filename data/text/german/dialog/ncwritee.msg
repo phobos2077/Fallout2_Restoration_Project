@@ -20,7 +20,7 @@
 {208}{}{Sie wollten einen neuen Virus freisetzen? Schweine. Ich hoffe du hast einen in meinem Namen erschossen.}
 {209}{}{Ich dachte der Präsident wäre nur ein Mythos, ein schwarzer Mann der Kinder erschrecken soll.}
 {210}{}{Du siehst aus als wärst du einmal zur Hölle und zurück gefahren. Ruhe dich ein wenig aus. Du verdienst es.}
-{211}{}{Spielst du das Spiel noch einmal mit einem anderen Charakter durch? Ich empfehle eine Art Outdoorspezialist.}
+{211}{}{Spielst du das Spiel noch einmal mit einer anderen Figur durch? Ich empfehle eine Art Outdoorspezialist.}
 {212}{}{F.E.V.? Was ist denn das?}
 {213}{}{New Reno wurde von Chris Avellone designt und wurde von Tom French gescripted. Tom spielt in einer Band. Chris spiel mit sich selber.}
 {214}{}{Ich hoffe ich werde ein Hauptcharakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein stinkt.}

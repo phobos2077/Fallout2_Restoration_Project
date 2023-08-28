@@ -9,7 +9,7 @@
 {161}{}{Du hast ganz schön Nerven, der Enklave so einzuheizen.}
 {162}{}{Du bist fast so hart wie Tommy the Balls.}
 {163}{}{Ich hab gehört was du mit der Enklave gemacht hast. Neuigkeiten verbreiten sich schnell.}
-{164}{}{Willst du das Spiel noch einmal mit einem anderen Charakter durchspielen?}
+{164}{}{Willst du das Spiel noch einmal mit einer anderen Figur durchspielen?}
 {170}{}{Musst du ein Weilchen untertauchen?}
 {171}{}{Warum die Geheimnistuerei? Sucht jemand nach dir?}
 {172}{}{Versuchst du dich unauffällig zu verhalten?}

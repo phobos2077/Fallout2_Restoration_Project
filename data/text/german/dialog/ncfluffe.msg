@@ -97,7 +97,7 @@
 {362}{}{Sie kämpften immer noch diesen KRIEG?! Mann, gut, dass du diese Mistkerle erledigt hast.}
 {363}{}{Du bist ein wirklich knallharter Bursche. Ich meine, du fängst in einem einfachen Speer werfenden 
 Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt retten. Du bist der Wahsninn.}
-{364}{}{Du solltest das spiel nochmal, mit einen anderen Charakter durchspielen.}
+{364}{}{Du solltest das spiel nochmal, mit einen anderen Figur durchspielen.}
 {365}{}{Erzähl mir alles über deinen Kampf gegen die Enklave...ich hol dir 'n kaltes Bier.}
 {366}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {370}{}{Hoppla. Mir ist da etwas in deine Hose gefallen. Lass es mich holen.}

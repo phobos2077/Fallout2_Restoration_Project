@@ -1,11 +1,11 @@
 {0}{}{Willst du das Programm wirklich beenden?}
 {1}{}{Demoversion}
-{2}{}{Standardcharakter wird benutzt.}
+{2}{}{Standardfigur wird benutzt.}
 {3}{}{Screenshot gespeichert.}
 {4}{}{Spiel erfolgreich geladen.}
 {5}{}{Spiel erfolgreich gespeichert.}
 {6}{}{Demo-Zeitlimit überschritten.}
-{7}{}{PIPBoy steht im Kampf nicht zur Verfügung!}
+{7}{}{PIPBoy im Kampf nicht verfügbar!}
 {8}{}{Fehler beim Speichern des Screenshots.}
 {9}{}{EINFÜHRUNG}
 {10}{}{NEUES SPIEL}
@@ -16,7 +16,7 @@
 {15}{}{Aktionspunkte}
 {16}{}{Trefferpk.}
 {17}{}{Der Bewegungssensor ist nicht installiert.}
-{18}{}{Der Bewegungssensor hat keine Ladung mehr übrig.}
+{18}{}{Der Bewegungssensor hat keine Ladung mehr.}
 {20}{}{Copyright(c) 1998 Interplay Productions. Alle Rechte vorbehalten.}
 {30}{}{Möchtest du weiterspielen?}
 {50}{}{Ausführung von Fallout benötigt die CD!}
