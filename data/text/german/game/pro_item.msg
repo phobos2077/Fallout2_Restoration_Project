@@ -208,8 +208,8 @@
 {10401}{}{Tonbandgerät von Wattz Electronics, Modell Play-It-For-Me. 30 Minuten Wiedergabe und Aufnahme auf den normalen High-Density-Einmal-Bändern.}
 {10500}{}{Schlüssel}
 {10501}{}{Irgendein besonderer Schlüssel}
-{10600}{}{Nuka Cola}
-{10601}{}{Flasche Nuka Cola. Erfrischungsgetränk der postnuklearen Welt. Warm und abgestanden.}
+{10600}{}{Nuka-Cola}
+{10601}{}{Flasche Nuka-Cola. Erfrischungsgetränk der postnuklearen Welt. Warm und abgestanden.}
 {10700}{}{Knochen}
 {10701}{}{Eine Sammlung seltsamer Knochen}
 {10800}{}{Knochen}

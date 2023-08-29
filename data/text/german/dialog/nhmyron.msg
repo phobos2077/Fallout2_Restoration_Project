@@ -349,7 +349,7 @@
 {1126}{}{Kannst du auch noch andere Drogen herstellen?}
 {1127}{}{Wenn du Stimpaks herstellen kannst, kannst du dann nicht auch ein paar Super-Stimpaks machen?}
 {1128}{}{Ist schon gut. Ich hätte da noch ein paar andere Fragen...}
-{1135}{myn152}{Klar könnte ich...nur ham wer nicht alles da, was ich brauche. 'N bisschen von dem mutierten Obst für die Zitronensäure...'n Spritzer Nuka Cola...und 'n normales Stimpak.}
+{1135}{myn152}{Klar könnte ich...nur ham wer nicht alles da, was ich brauche. 'N bisschen von dem mutierten Obst für die Zitronensäure...'n Spritzer Nuka-Cola...und 'n normales Stimpak.}
 {1145}{myn153a}{Sprich mir nach: Myron ist ein Genie. Wie viele willste? }
 {1146}{myn153b}{Wie wär's, wenn du dem Ärger zur Abwechslung mal aus dem Weg gehst? Naja, das Konzept ist wahrscheinlich zu hoch für dich. Wie viele diesmal?}
 {1147}{myn153c}{Myron ist dein Mann, meine Süße. Wie viele?}
