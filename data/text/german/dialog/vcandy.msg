@@ -102,7 +102,7 @@
 {186}{}{Der "alte Doc"?}
 {187}{}{Verstehe. Hör mal, ich hätt da noch ein paar andere Fragen...}
 {188}{}{Hmmm. Vielleicht komm ich wieder, wenn ich eure Dienste benötige.}
-{189}{}{Ja, der "Autodoc" im Hinterzimmer. Er ist eine Leihgabe der Stadt.}
+{189}{}{Ja, der "Auto-Doc" im Hinterzimmer. Er ist eine Leihgabe der Stadt.}
 {190}{}{Ist hin und wieder ein bisschen launisch, aber in den meisten Fällen funktioniert er ganz
  gut. In den meisten Fällen.}
 {191}{}{Läuft wie geschmiert in letzter Zeit. Daher gibt's Weniger, die noch mal zurückkommen
@@ -239,7 +239,7 @@
 {294}{}{Also gut, ich mache dich nur schnell am alten Doc hier fest...hoffe, der Behälter mit dem
  Narkosemittel ist nicht wieder verstopft...vielleicht beißt du vorsichtshalber lieber auf dieses
  Stück Brahminhaut.}
-{295}{}{Äh...okay. Äh, also, der Autodoc wird doch regelmäßig gewartet, oder? Hä-hä. Was kann
+{295}{}{Äh...okay. Äh, also, der Auto-Doc wird doch regelmäßig gewartet, oder? Hä-hä. Was kann
  schon passieren?}
 {296}{}{Weißt du was? Vergiss es. Ich will's lieber nicht riskieren, dass der "alte Doc" es nicht
  bringt.}

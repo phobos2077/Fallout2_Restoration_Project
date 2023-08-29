@@ -82,7 +82,7 @@
  zu sein. Die Menschen wurden lebend gefangen genommen, aber wer weiß, was dann mit ihnen
  passiert ist.}
 {153}{}{Hmm... Ich möchte dich noch was fragen.}
-{154}{}{Ich wusste, dass diese verdammte Deathclaws irgendwie dafür verantwortlich sind! Aber ich
+{154}{}{Ich wusste, dass diese verdammten Deathclaws irgendwie dafür verantwortlich sind! Aber ich
  brauch noch mehr Informationen.}
 {155}{}{Manchmal sind wir durch Situationen, auf die wir keinen Einfluss haben, gezwungen,
  schreckliche Dinge zu tun. Gruthar sollte lernen, sich selbst zu vergeben.}

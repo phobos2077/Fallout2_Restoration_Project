@@ -2478,7 +2478,7 @@
 {157600}{}{Tür}
 {157700}{}{Lüftungsgitter}
 {157800}{}{Auto-Doc}
-{157801}{}{Dieser Autodoc ist für die Heilung von Krankheiten und Verabreichung verschiedener Medikamente entwickelt worden.}
+{157801}{}{Dieser Auto-Doc ist für die Heilung von Krankheiten und Verabreichung verschiedener Medikamente entwickelt worden.}
 {157900}{}{Statue}
 {157901}{}{Kleine Statue des berühmten Vaultbewohners.}
 {158000}{}{Steinhaufen}

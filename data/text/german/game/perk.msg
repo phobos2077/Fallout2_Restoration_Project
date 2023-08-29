@@ -110,10 +110,10 @@
 {210}{}{Durch Alkohol erhöhte Trefferpunkte II}
 {211}{}{Durch Alkohol gesenkte Trefferpunkte}
 {212}{}{Durch Alkohol gesenkte Trefferpunkte II}
-{213}{}{Durch Autodoc erhöhte Trefferpunkte}
-{214}{}{Durch Autodoc erhöhte Trefferpunkte II}
-{215}{}{Durch Autodoc gesenkte Trefferpunkte}
-{216}{}{Durch Autodoc gesenkte Trefferpunkte II}
+{213}{}{Durch Auto-Doc erhöhte Trefferpunkte}
+{214}{}{Durch Auto-Doc erhöhte Trefferpunkte II}
+{215}{}{Durch Auto-Doc gesenkte Trefferpunkte}
+{216}{}{Durch Auto-Doc gesenkte Trefferpunkte II}
 {217}{}{Experten-Exkrementschleuder}
 {218}{}{Durch Waffen verbesserter K.o.}
 {219}{}{Verhext}
@@ -231,10 +231,10 @@
 {1210}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit noch ein wenig mehr erhöht worden.}
 {1211}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}
 {1212}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}
-{1213}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc leicht erhöht worden.}
-{1214}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc noch ein wenig mehr erhöht worden.}
-{1215}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}
-{1216}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}
+{1213}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc leicht erhöht worden.}
+{1214}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc noch ein wenig mehr erhöht worden.}
+{1215}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc ein wenig gesenkt worden.}
+{1216}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc ein wenig gesenkt worden.}
 {1217}{}{Im Schwafeln übertrifft dich so schnell keiner.}
 {1218}{}{Durch Waffen verbesserter K.o.}
 {1219}{}{Das Gute an dir ist, dass alle um dich herum mehr kritische Treffer im Kampf erleiden. Der Nachteil ist, dass das auch für dich gilt!}

@@ -86,7 +86,9 @@
 {173}{}{Wie wird synthetischer Alkohol denn hergestellt?}
 {174}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
 {175}{}{Das war's für heute. Besten Dank.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
+{176}{}{Die Auto-Docs in Vault City können ungefährliche synthetische Ersatzstoffe für
+ suchterzeugende Substanzen herstellen. Soweit ich weiß, wurden diese synthetischen Stoffe vor
+ dem Krieg als Platzebos für Drogensüchtige eingesetzt.}
 {177}{}{Du scheinst dich aber gut mit diesem synthetischen Zeug auszukennen.}
 {178}{}{Äh, habt ihr auch was Richtiges zu trinken?}
 {179}{}{Oh. Ich glaube, ich nehme dann doch lieber nur Wasser.}

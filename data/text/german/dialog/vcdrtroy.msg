@@ -153,7 +153,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
  habe.}
 {210}{}{Vergiss es. Ich möchte gern noch was anderes fragen...}
 {211}{}{Nichts. Ich muss jetzt gehen.}
-{212}{}{Wir haben hier zwar keine Endorphin-Blocker, aber ich könnte den Autodoc so
+{212}{}{Wir haben hier zwar keine Endorphin-Blocker, aber ich könnte den Auto-Doc so
  programmieren, dass er welche herstellt. Würde es dir etwas ausmachen, mir deine Theorie zu
  erläutern?}
 {213}{}{Also, ich sehe das so: Wahrscheinlich ist die körperliche Abhängigkeit bei Jet das
@@ -230,7 +230,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
  Vorhof um Essensreste betteln, wie alle anderen Außenweltler auch.}
 {269}{}{Also gut. Hier ist die erste Rate. Hoffentlich erstickst du dran.}
 {270}{}{War mir ein Vergnügen, Doktor. Du wirst mich schon sehr bald wiedersehen.}
-{271}{}{Gib lieber acht, was du sagst, sonst bist du der nächste Patient dort im Autodoc.
+{271}{}{Gib lieber acht, was du sagst, sonst bist du der nächste Patient dort im Auto-Doc.
  Verstanden?}
 {272}{}{Darüber macht man KEINE Witze, das ist eine sehr ernste Angelegenheit. Ich zahle tausend
  Dollar für das Jet, dein Stillschweigen... und du stellst keine Fragen mehr. Willst du den Job?}
@@ -262,7 +262,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
 {295}{}{Heute nicht. Schönen Tag noch, Doktor.}
 {296}{}{Sicher. Tut mir leid... Es ist einige Zeit her, dass ich die das letzte Mal verabreicht
  habe. Die meisten Bürger haben ihre Ration vor vielen, vielen Jahren gekriegt. Warte mal, ich
- stelle den Autodoc kurz darauf ein...}
+ stelle den Auto-Doc kurz darauf ein...}
 {297}{}{Also gut.}
 {298}{}{Fertig. Aber sieh dich vor: Die Impfung immunisiert nicht völlig gegen Gift
  und Strahlen, aber sie unterstützt das natürliche Abwehrsystem.}
@@ -287,9 +287,9 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
 {316}{}{Moment... Ich bin verstrahlt. Du musst mich heilen.}
 {317}{}{Das wollte ich hören. Bis bald, Doc.}
 {318}{}{So, so. Dann muss ich erst einmal deine Organfunktionen prüfen... Lehn dich zurück,
- damit ich dich an den Autodoc anschließen kann.}
-{320}{}{Hmmmm. Sieht so aus, als wäre beim Einschalten des Autodoc eine Fehlfunktion aufgetreten,
- durch die dir der Autodoc versehentlich eine Dosis Natriumtriethylen injiziert hat.}
+ damit ich dich an den Auto-Doc anschließen kann.}
+{320}{}{Hmmmm. Sieht so aus, als wäre beim Einschalten des Auto-Doc eine Fehlfunktion aufgetreten,
+ durch die dir der Auto-Doc versehentlich eine Dosis Natriumtriethylen injiziert hat.}
 {321}{}{Was? Was soll das heißen?}
 {322}{}{Das soll heißen, dass du noch knapp zehn Sekunden zu leben hast. Deine Dummheit ist
  geradezu umwerfend. Erst jemanden erpressen und ihm dann sein Leben anvertrauen... Wirklich sehr
@@ -353,7 +353,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
 {357}{}{Natürlich, Hauptmann. Mal schauen, was ich für dich und deine Freunde tun kann.}
 {358}{}{Natürlich, Hauptmann. Mal sehn, was ich für dich und deinen Freund tun kann.}
 {359}{}{Ich prüfe erst mal deine Körperfunktionen... leg dich mal hin, damit ich dich an den
- Autodoc anschließen kann...}
+ Auto-Doc anschließen kann...}
 {361}{}{Ach du liebe Zeit. Im Körper deines Mutantenfreundes hier steckten jede Menge Kugeln und
  Granatsplitter. Ist ein wahres Wunder, dass er keine Bleivergiftung hat. Jetzt habe ich sie
  endlich alle draußen. Hier ist die ganze Ladung.}
@@ -377,7 +377,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
 {378}{}{Egal. Ich hätte da ein paar andere Fragen...}
 {379}{}{Nichts. Danke, Doktor.}
 {380}{}{Schön. Ich prüfe jetzt erst mal deine Organfunktionen... leg dich mal hin, damit ich dich
- an den Autodoc anschließen kann...}
+ an den Auto-Doc anschließen kann...}
 {382}{}{Das müsste dich wieder auf die Beine bringen. Wie fühlst du dich?}
 {383}{}{Super! Kannst du meinen Freund auch behandeln?}
 {384}{}{Phantastisch! Kannst du meine Freunde auch behandeln?}
@@ -385,7 +385,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachko
 {386}{}{Viel besser, danke. Ich hätte da noch ein paar Fragen...}
 {387}{}{Klasse! Danke, Doktor.}
 {388}{}{Schön. Ich prüfe jetzt erst mal deine Organfunktionen... leg dich mal hin, damit ich dich
- an den Autodoc anschließen kann...}
+ an den Auto-Doc anschließen kann...}
 {390}{}{Das müsste dich wieder auf die Beine bringen. Wie fühlst du dich?}
 {391}{}{Viel besser, danke. Falls ich noch mal vergiftet oder verstrahlt werde: Als du mir das
  Labor gezeigt hast, hast du erwähnt, dass du einen Impfstoff hättest, der gegen Gifte und

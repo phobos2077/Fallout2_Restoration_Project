@@ -447,7 +447,7 @@
 {546}{}{Äh... sicher doch. Tut mir leid. Ich hätte da noch ein paar Fragen...}
 {547}{}{Verstanden. Ich geh jetzt.}
 {548}{}{Entschuldige bitte, Erstbürgerin. Schönen Tag noch.}
-{549}{lyn085}{*Natürlich* behandelt er nur Bürger. Es wäre ja wohl zuviel verlangt, wenn er auch noch Outsider behandeln müsste... dafür ist der Autodoc im Vorhof zuständig.}
+{549}{lyn085}{*Natürlich* behandelt er nur Bürger. Es wäre ja wohl zuviel verlangt, wenn er auch noch Outsider behandeln müsste... dafür ist der Auto-Doc im Vorhof zuständig.}
 {550}{}{Och, dich wird vielleicht interessieren, dass der Doktor mich gebeten hat, illegale Drogen für ihn in die Stadt zu schmuggeln.}
 {551}{}{Oh. Also, ich hab da noch ein paar Fragen...}
 {552}{}{Ja, wenn man sich den leisten kann... und dann ist auch nicht sicher, dass man an einem Stück wieder rauskommt.}
