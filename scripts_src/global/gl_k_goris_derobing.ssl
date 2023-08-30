@@ -20,36 +20,36 @@ procedure start begin
     if speed < min_speed then speed = min_speed;
     if speed > max_speed then speed = max_speed;
 
-      variable fs_override = check_filesystem_override;
-      if not fs_override then begin
-        ndebug("fs override disabled, aborting");
-        return false;
+    variable fs_override = check_filesystem_override;
+    if not fs_override then begin
+      ndebug("fs override disabled, aborting");
+      return;
+    end
+
+    variable frm, file, path;
+    variable fps_offset = 0x4;
+    variable fps = speed;
+    variable frms = [
+      "madethag",
+      "marobeag"
+    ];
+
+    foreach frm in frms begin
+      variable cur_frame_count;
+      path = "art\\critters\\" + frm + ".frm";
+      file = fs_copy(path, path);
+
+      fs_seek(file, frame_count_offset);
+      cur_frame_count = fs_read_short(file);
+      if cur_frame_count >= min_frame_count then begin
+        fs_seek(file, fps_offset);
+        fs_write_short(file, fps);
+        //ndebug("set fps to " + fps + " in " + path);
+      end else begin
+        ndebug("low frame count detected in " + path + ", not boosting fps");
       end
-
-      variable frm, file, path;
-      variable fps_offset = 0x4;
-      variable fps = speed;
-      variable frms = [
-        "madethag",
-        "marobeag"
-      ];
-      ndebug("initialized");
-
-      foreach frm in frms begin
-        variable cur_frame_count;
-        path = "art\\critters\\" + frm + ".frm";
-        file = fs_copy(path, path);
-
-        fs_seek(file, frame_count_offset);
-        cur_frame_count = fs_read_short(file);
-        if cur_frame_count >= min_frame_count then begin
-          fs_seek(file, fps_offset);
-          fs_write_short(file, fps);
-          ndebug("set fps to " + fps + " in " + path);
-        end else begin
-          ndebug("low frame count detected in " + path + ", not boosting fps");
-        end
-      end
+    end
+    ndebug("initialized");
 
   end
 end
