@@ -65,7 +65,7 @@ procedure get_slow_frms begin
     "nmrgngh",
     "nmrgngi",
     "nmrgngj",
-    "nmrgngk"  
+    "nmrgngk"
   ];
   return slow_walk_frms;
 end
@@ -73,31 +73,30 @@ end
 procedure start begin
   if game_loaded then begin
     enabled = upu_msetting(set_walking_speed);
-    if enabled != 0 then begin
-      variable fs_override = check_filesystem_override;
-      if not fs_override then begin
-        ndebug("fs override disabled, aborting");
-        return false;
-      end
+    if enabled == 0 then return;
 
-      variable frm, frms, file, path, cur_frame_count;
-      frms = get_slow_frms;
-      ndebug("initializing");
-      foreach frm in frms begin
-        path = "art\\critters\\" + frm + "b.frm";
-        file = fs_copy(path, path);
-        fs_seek(file, frame_count_offset);
-        cur_frame_count = fs_read_short(file);
-        if cur_frame_count > 8 then begin
-          fs_seek(file, fps_offset);
-          fs_write_short(file, cur_frame_count); // 1 step per second
-          ndebug("set fps to " + cur_frame_count + " in " + path);
-        end else begin
-          ndebug("low frame count detected in " + path + ", not boosting fps");
-        end
-      end
-      ndebug("initialized");
-
+    variable fs_override = check_filesystem_override;
+    if not fs_override then begin
+      ndebug("fs override disabled, aborting");
+      return;
     end
+
+    variable frm, frms, file, path, cur_frame_count;
+    frms = get_slow_frms;
+    foreach frm in frms begin
+      path = "art\\critters\\" + frm + "b.frm";
+      file = fs_copy(path, path);
+      fs_seek(file, frame_count_offset);
+      cur_frame_count = fs_read_short(file);
+      if cur_frame_count > 8 then begin
+        fs_seek(file, fps_offset);
+        fs_write_short(file, cur_frame_count); // 1 step per second
+        //ndebug("set fps to " + cur_frame_count + " in " + path);
+      end else begin
+        ndebug("low frame count detected in " + path + ", not boosting fps");
+      end
+    end
+    ndebug("initialized");
+
   end
 end
