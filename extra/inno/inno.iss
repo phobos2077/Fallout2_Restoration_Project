@@ -13,6 +13,7 @@ AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Restoration_Project
+VersionInfoTextVersion=2.3.3{#uversion}
 DefaultDirName=C:\Games\Fallout2
 AppendDefaultDirName=no
 DisableProgramGroupPage=yes
