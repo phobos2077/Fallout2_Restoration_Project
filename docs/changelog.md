@@ -46,7 +46,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - Vault City
   - Chief Librarian Kohl will give a [pointer to Abbey](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/220).
 - Vault Village
-  - [Changed] critter placement so one "strong peasant" does not block the desk (contain minor loot) in the "upgraded" village elevations.
+  - Changed critter placement so one "strong peasant" does not block the desk (contain minor loot) in the "upgraded" village elevations.
 
 ### Version 26
 
