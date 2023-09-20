@@ -87,6 +87,7 @@ variable laddie; //added by killap
       // if player has car, move it from Ghost farm to Modoc
       if dude_has_car and (car_current_town == AREA_GHOST_TOWN) then begin
          set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         set_car_current_town(AREA_MODOC);
          Create_Car(CAR_MODOC_HEX,CAR_MODOC_ELEV)
          if (tile_contains_pid_obj(CAR_MODOC_HEX, CAR_MODOC_ELEV, PID_DRIVABLE_CAR) != 0) then begin
             Create_Trunk(CAR_MODOC_HEX,CAR_MODOC_ELEV)
