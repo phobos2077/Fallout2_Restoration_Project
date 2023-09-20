@@ -61,7 +61,7 @@
 {307}{}{Maldito calor...}
 {308}{}{Nuevo Reno se vuelve más fea a cada día que pasa…}
 {309}{}{¿Qué estás haciendo por aquí?}
-{310}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
+{310}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {311}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
 {320}{}{Deberías jugar con los chicos con esta armadura puesta. Les encantaría.}
 {321}{}{No pises a ninguno de los pequeños con esa armadura puesta, ¿me oyes?}
@@ -83,7 +83,7 @@
 {344}{}{Hace tiempo que no veo a mamá. Si la ves, no le menciones nada sobre la destiladora, ¿vale?}
 {345}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
 {346}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
-{347}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
+{347}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {348}{}{Cuidado con los chicos por aquí, siempre están bajo los pies de uno.}
 {349}{}{¿Y me puedes enseñar a luchar?}
 {350}{}{Tú eres esa luchadora, }
@@ -98,7 +98,7 @@
 {362}{}{¿Y entonces cómo es en las películas? Mamá no me deja verlas.}
 {363}{}{No le digas a los pequeños lo que haces.}
 {364}{}{A mamá le dará un ataque si te ve. Ella es así de histriónica.}
-{365}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
+{365}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {366}{}{Nosotros, los Wright, somos la Familia más fuerte porque nosotros SOMOS familia.}
 {367}{}{Una lástima lo de mi hermanito. Era un buen muchacho, pero el Jet está por toda esta ciudad, es difícil evitarlo…}
 {368}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
@@ -110,8 +110,8 @@
 {374}{}{¿De verdad hablas con Dios cuando practicas sexo en el plató?}
 {375}{}{Mamá dice que eres un instrumento del demonio.}
 {376}{}{Mamá dice que eres una ramera. Un putón desvergonzado. No tengo ni idea de lo que quiere decir.}
-{385}{}{Usted planificación a ver a Papá acerca de los negocios? Bien, buena suerte, no creo que la contratación de cualquiera de manos ahora.}
-{386}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar. }
+{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {387}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
 {390}{}{Mejor será que te vayas… no somos amables con los esclavistas.}
 {391}{}{No CREAS que vas a raptar a nadie por aquí. Si causas un solo problema te destriparemos.}
@@ -120,7 +120,7 @@
 {394}{}{Te estoy vigilando, esclavista, así que cuidado con lo que haces, ¿me oyes?}
 {395}{}{Si tocas a uno de los chicos, esclavista, te dispararé tantas veces que volarás fuera de tus botas.}
 {396}{}{Toca a cualquiera de esos chicos, esclavista, y te mataré.}
-{397}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
+{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station... we don't sell it here.}
 {398}{}{i le haces daño a un Wright, esclavista, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
 {399}{}{¿Estás aquí para ver a papá por negocios? No creo que papá los haga con esclavista. Mejor vete.}
 {410}{}{Mejor será que te vayas… sin ánimo de ofender, pero a papá no le gustan demasiado los tribales.}
@@ -129,7 +129,7 @@
 {413}{}{Mejor será que no hayas traído drogas, o de lo contrario papá te matará. Luego, YO te mataré también.}
 {414}{}{Te estoy vigilando, así que cuidado con lo que haces, ¿me oyes?}
 {415}{}{¿De dónde eres? Hace tiempo que no veo a los de tu clase por aquí.}
-{416}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
+{416}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {417}{}{Si le haces daño a un Wright, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
 {418}{}{¿Estás aquí para ver a papá por negocios? Buena suerte, no creo que contrate a nadie ahora.}
 {425}{}{Ese necrófago no debería estar aquí. Mejor que lo envíes de vuelta a Gecko.}
