@@ -18,16 +18,13 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 ### Installation
 
 - RPU must be installed on vanilla game.
-- RPU requires starting a new game after installation.
-
-(One exception is [updating](docs/update.md) from RP or a previous RPU version).
+- RPU requires starting a new game after installation. (One exception is [updating](docs/update.md) from RP or a previous RPU version).
 
 #### Windows
 
 1. Download `rpu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) page.
 1. Launch, point the installer to the game directory, choose language and options.
-1. After installation, see `mods/rpu.ini` for various settings that can be configured.
-1. AP ammo fix is not enabled by default. See `DamageFormula` in `ddraw.ini` for options, or consider [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks#damage-mod) implementation.
+1. After installation, see `mods/upu.ini`, `mods/rpu.ini` for various settings that can be configured.
 1. Check out [recommended](#recommended) mods to add on top.
 
 #### Linux / MacOS
