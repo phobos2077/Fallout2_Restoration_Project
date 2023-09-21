@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 28](#version-28)
 - [Version 27](#version-27)
 - [Version 26](#version-26)
 - [Version 25](#version-25)
@@ -33,6 +34,12 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+### Version 28
+
+[Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/237) car disappearing if PC already has it when returning Jonny to his parents in Modoc.
+
+Introduced in v27. To hotfix, download and extract [this](https://github.com/BGforgeNet/Fallout2_Restoration_Project/files/12673833/modmain.int.zip) into `data/scripts`.
 
 ### Version 27
 
