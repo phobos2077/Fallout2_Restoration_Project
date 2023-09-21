@@ -29,7 +29,7 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 
 #### Linux / MacOS
 
-Follow the [instruction](docs/linux.md). AP ammo note from above also applies.
+Follow the [instruction](docs/linux.md).
 
 ### Additional mods
 
