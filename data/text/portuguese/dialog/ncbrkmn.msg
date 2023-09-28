@@ -26,7 +26,7 @@
 {305}{}{Aprendi que se você ler uma série específica de cartas, certificando-se de usar as inflexões corretas
  em cada letra, você pode curar alguém com autismo ou epilepsia.}
 {306}{}{Soa como um monte de hoop-la para mim, mas ei, estou falando, então deve ter algo bom nisso. De qualquer
- forma, eu te agradeço pelo fez por mim. Aqui, pegue esses stimpacks. Os encontrei quando procurava comida atrás de todos estes prédios.}
+ forma, eu te agradeço pelo fez por mim. Aqui, pegue esses stimpaks. Os encontrei quando procurava comida atrás de todos estes prédios.}
 {307}{}{Obrigado. Nos vemos.}
 {350}{}{Woof!}
 {351}{}{Woof! Woooof!}

@@ -21,7 +21,7 @@
 {209}{}{Credevo che il Presidente fosse un mito, uno spauracchio usato per spaventare i bambini.}
 {210}{}{Sei appena tornato da un viaggio all'Inferno. Riposati un po'. Te lo meriti.}
 {211}{}{Farai un'altra partita con un personaggio diverso? Io ti consiglio di interpretare un Escursionista.}
-{212}{}{F.E.V.? E cos'e'?}
+{212}{}{FEV? E cos'e'?}
 {213}{}{New Reno e' stata creata da Chris Avellone e gli script sono stati compilati da Tom French. Tom suona in una banda. Chris suona da solo.}
 {214}{}{Spero di essere uno dei personaggi principali di Fallout 3, come Tandi o Ian. Fare il teppista e' una merda.}
 {215}{}{Ho sentito che hai spazzato via quell'Enclave, giu' a sud. Sei piuttosto coraggioso...}
@@ -109,7 +109,7 @@
 {374}{}{Ma quando fai sesso sul set, parli DAVVERO con Dio?}
 {375}{}{La mamma dice che sei uno strumento del diavolo.}
 {376}{}{La mamma dice che sei una meretrice. Una sgualdrina sfacciata. Non ho la piu' pallida idea di cosa parli.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{Sei qui per parlare di affari con papa'? Beh, buona fortuna: non credo che gli servano forze fresche.}
 {386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {387}{}{Comportati bene mentre sei qui, amico. Questo e' il territorio della Famiglia Wright.}
 {390}{}{Faresti meglio a sparire... non li trattiamo bene, gli schiavisti come te.}

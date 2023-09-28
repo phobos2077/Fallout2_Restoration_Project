@@ -20,7 +20,7 @@
 {231}{}{Créer un Stimpak.}
 {232}{}{Je n'ai pas ce qu'il faut pour le moment.}
 {233}{}{[Terminé]}
-{240}{}{Pour obtenir un SuperStimpak vous avez besoin de : 1 Stimpak ordinaire, 1 fruit et 1 Nuka Cola.}
+{240}{}{Pour obtenir un SuperStimpak vous avez besoin de : 1 Stimpak ordinaire, 1 fruit et 1 Nuka-Cola.}
 {241}{}{Créer un SuperStimpak.}
 {250}{}{Pour obtenir du Psycho, vous avez besoin de : 1 mentats, 1 Buffout, 1 fruit et 1 Stimpak.}
 {251}{}{Créer du Psycho}
@@ -29,19 +29,19 @@
 {263}{}{[Quitter]}
 {270}{}{Pour obtenir une Sacoche de médecin vous avez besoin de : 1 Sac à dos, 1 Stimpak, 1 kit médical, 1 seringue hypodermique et 1 antidote.}
 {272}{}{Créer une Sacoche de médecin.}
-{280}{}{Pour obtenir un Kit de premiers secours vous avez besoin de : 1 Stimpak, 1 seringue hypodermique, 1 Antidote et 1 Anti Rad.}
+{280}{}{Pour obtenir un Kit de premiers secours vous avez besoin de : 1 Stimpak, 1 seringue hypodermique, 1 Antidote et 1 Anti-Rad.}
 {282}{}{Créer un Kit de premiers secours.}
-{290}{}{Pour obtenir du Poison, vous avez besoin de : 1 seringue hypodermique, 1 queue de radscorpion et 1 Nuka Cola.}
+{290}{}{Pour obtenir du Poison, vous avez besoin de : 1 seringue hypodermique, 1 queue de radscorpion et 1 Nuka-Cola.}
 {292}{}{Créer du Poison.}
-{300}{}{Pour obtenir des Buffouts, vous avez besoin de : 1 Kit de premiers secours, 1 bière et 1 Nuka Cola.}
+{300}{}{Pour obtenir des Buffouts, vous avez besoin de : 1 Kit de premiers secours, 1 bière et 1 Nuka-Cola.}
 {302}{}{Créer des Buffout.}
-{310}{}{Pour obtenir du Rad-X, vous avez besoin de : 1 Kit de premiers secours et 1 Nuka Cola.}
+{310}{}{Pour obtenir du Rad-X, vous avez besoin de : 1 Kit de premiers secours et 1 Nuka-Cola.}
 {312}{}{Créer un Rad-X.}
-{320}{}{Pour obtenir de l’Anti-Rad, vous avez besoin de : 1 Nuka Cola, 1 seringue hypodermique et 1 Stimpak.}
-{322}{}{Créer un Anti Rad.}
+{320}{}{Pour obtenir de l’Anti-Rad, vous avez besoin de : 1 Nuka-Cola, 1 seringue hypodermique et 1 Stimpak.}
+{322}{}{Créer un Anti-Rad.}
 {330}{}{Pour obtenir un antidote vous avez besoin de : 1 Queue de radscorpion et 1 alcool.}
 {331}{}{Créer de l’Antidote.}
-{340}{}{Quels objets spéciaux voulez-vous créer  ?}
+{340}{}{Quels objets spéciaux voulez-vous créer ?}
 {341}{}{Marijuana.}
 {342}{}{Des produits chimiques de médecin.}
 {343}{}{Mon ami Cassidy à un problème cardiaque. Peux-tu faire quelque chose pour lui ?}

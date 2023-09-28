@@ -1100,7 +1100,7 @@
 {56800}{}{zdalnie aktywowany dynamit}
 {56801}{}{W przeciwieństwie normalnego dynamitu odpalanego przez zegar, ten dynamit może być wysadzony zdalnie. Ten jest uzbrojony i gotowy do użycia.}
 {56900}{}{landrynki}
-{56901}{}{Nie otwarta paczka twardych cukierków zrobionych z cukru, laktozy (więcej cukru), syropu skrobiowego (jeszcze więcej cukru) i przypraw. Według plotki w połączeniu z pewnymi napojami jak na przykład z Nuka Colą mogą rozsadzić żołądek.}
+{56901}{}{Nie otwarta paczka twardych cukierków zrobionych z cukru, laktozy (więcej cukru), syropu skrobiowego (jeszcze więcej cukru) i przypraw. Według plotki w połączeniu z pewnymi napojami jak na przykład z Nuka-Colą mogą rozsadzić żołądek.}
 {57000}{}{butelka szamponu}
 {57001}{}{Szampon w limitowanej butelce. W przeciwieństwie do innych wiodących marek, ten szampon jest w elastycznej plastikowej butelce. Została tak zaprojektowana, że po ściśnięciu uwalnia określoną ilość szamponu - nie mniej, nie więcej. A i można nim umyć pół głowy.}
 {57100}{}{K9 Kewlar}

@@ -29,7 +29,7 @@
 {263}{}{Salir.}
 {270}{}{¡Gran elección! Para hacer una Maletín de Doctor, por favor dame de comer: un Estimulante, un Botiquín de Primeros Auxilios, una Aguja Hipodérmica Vacía y un Antídoto de Veneno. ¡Yum Yum!}
 {272}{}{Hacer un Maletín de Doctor. }
-{280}{}{¡Gran elección! Para hacer un Botiquín de Primeros Auxilios, por favor dame de comer: un Estimulante, una Aguja Hipodérmica Vacía, un Antídoto de Veneno y un Rad Away. ¡Yum Yum!}
+{280}{}{¡Gran elección! Para hacer un Botiquín de Primeros Auxilios, por favor dame de comer: un Estimulante, una Aguja Hipodérmica Vacía, un Antídoto de Veneno y un RadAway. ¡Yum Yum!}
 {282}{}{Hacer un Botiquín de Primeros Auxilios. }
 {290}{}{¡Gran elección! Para hacer Veneno, por favor dame de comer: ¡una Aguja Hipodérmica Vacía, una Cola de Escorpión y una Nuka Cola! ¡Yum Yum!}
 {292}{}{Hacer algo de veneno.}
@@ -37,8 +37,8 @@
 {302}{}{Hacer Esteroides.}
 {310}{}{¡Gran elección! Para hacer Rad-X, por favor dame de comer: ¡un Botiquín de Primeros Auxilios y una Nuka Cola! ¡Yum Yum!}
 {312}{}{Hacer Rad-X.}
-{320}{}{¡Gran elección! Para hacer Rad Away, por favor dame de comer: una Nuka Cola, una Aguja Hipodérmica Vacía y un Estimulante. ¡Yum Yum!}
-{322}{}{Hacer Rad Away.}
+{320}{}{¡Gran elección! Para hacer RadAway, por favor dame de comer: una Nuka Cola, una Aguja Hipodérmica Vacía y un Estimulante. ¡Yum Yum!}
+{322}{}{Hacer RadAway.}
 {330}{}{¡Gran elección! Para hacer un Antídoto de Veneno, por favor dame de comer: ¡una Cola de Escorpión y una Botella de Alcohol! ¡Yum Yum!}
 {331}{}{Hacer antídoto del veneno.}
 {340}{}{¡Oh chico! ¡Una solicitud especial! ¡¿Qué tipo de droga especial te gustaría que el Sr. Chemmie creara para ti hoy?!}
@@ -54,7 +54,7 @@
 {371}{}{Más Opciones.}
 {375}{}{¡Al Sr. Chemmie le encanta ayudar! ¡Puedo crear una sustancia llamada nitroglicerina, que controlará un latido cardíaco irregular y evitará ataques cardíacos!}
 {380}{}{Rad-X}
-{381}{}{Rad Away}
+{381}{}{RadAway}
 {382}{}{Algo especial}
 {383}{}{Nada.}
 {390}{}{¡Este es tu día de suerte! ¡Tengo suficientes productos químicos en mis tanques de almacenamiento para hacer un lote de ERSI! ¡¿Te gustaría que el señor Chemmie los hiciera para ti?!}

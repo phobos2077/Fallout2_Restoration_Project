@@ -1100,7 +1100,7 @@
 {56800}{}{Scharfes Dynamit}
 {56801}{}{Anders als normales Dynamit mit Timer, wird dieses hier mit einem Fernzünder ausgelößt. Es ist scharf und bereit zum zünden.}
 {56900}{}{Pop Rocks}
-{56901}{}{Eine ungeöffnete Tüte mit leckeren, kohlensäurehaltigen Süßigkeiten aus Zucker, Laktose (mehr Zucker), Maissirup (noch mehr Zucker) und Aromastoffen. Man sagt, wenn man sie zusammen mit Nuka Cola zu sich nimmt, explodiere der Magen.}
+{56901}{}{Eine ungeöffnete Tüte mit leckeren, kohlensäurehaltigen Süßigkeiten aus Zucker, Laktose (mehr Zucker), Maissirup (noch mehr Zucker) und Aromastoffen. Man sagt, wenn man sie zusammen mit Nuka-Cola zu sich nimmt, explodiere der Magen.}
 {57000}{}{Shampooflasche}
 {57001}{}{Eine Premiumshampoo- flasche. Anders als führenden Marken, kommt dieses Shampoo in einer ungewöhnlichen flexiblen Plastikflasche. Sie wurde speziel so entwickelt, dass man mit einem Druck auf die Flasche, die richtige Menge Shampoo rauspressen kann.}
 {57100}{}{K-9 Kevlar}

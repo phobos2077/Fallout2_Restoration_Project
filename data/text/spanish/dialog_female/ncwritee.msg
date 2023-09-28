@@ -21,7 +21,7 @@
 {209}{}{Pensé que el Presidente era un mito, un hombre del saco que se usaba para asustar a los niños.}
 {210}{}{Parece como si hubieras cruzado el infierno y logrado salir. Relájate un poco. Te lo mereces.}
 {211}{}{¿Vas a volver a jugar con un personaje distinto? Te recomiendo uno del tipo superviviente.}
-{212}{}{V.E.F.? ¿Qué es eso?}
+{212}{}{VEF? ¿Qué es eso?}
 {213}{}{Nuevo Reno fue diseñado por Chris Avellone y programado por Tom French. Tom toca en una banda. Chris se toca a sí mismo.}
 {214}{}{Espero convertirme en un personaje principal en Fallout 3, como Tandi o Ian. Ser un criminal es una mierda.}
 {215}{}{He oído que te cargaste a ese Enclave allá por el sur. Eres valiente.}
@@ -110,7 +110,7 @@
 {374}{}{¿De verdad hablas con Dios cuando practicas sexo en el plató?}
 {375}{}{Mamá dice que eres un instrumento del demonio.}
 {376}{}{Mamá dice que eres una ramera. Un putón desvergonzado. No tengo ni idea de lo que quiere decir.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{¿Estás aquí para ver a papá por negocios? Buena suerte, no creo que contrate a nadie ahora.}
 {386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {387}{}{Vigila tus pasos por aquí, amiga. Este es territorio de la Familia Wright.}
 {390}{}{Mejor será que te vayas… no somos amables con los esclavistas.}

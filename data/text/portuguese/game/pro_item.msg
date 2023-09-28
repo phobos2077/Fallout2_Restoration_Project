@@ -646,7 +646,7 @@
 {32801}{}{Esta esfera preta é algum tipo de dispositivo precognitivo estranho ... uma pequena janela no topo parece ser capaz de prever o futuro! A humanidade de antes da guerra devem ter sido gênios de inventar tal maravilha!}
 {32900}{}{Soro mutagênico}
 {32901}{}{Uma mistura orgânica estranha que poderia reverter a mutação em seres humanos.}
-{33000}{}{Verti-Bird Estragado}
+{33000}{}{Vertibird Estragado}
 {33001}{}{Restos de um vertibird. Parece que bateu aqui meses atrás.}
 {33100}{}{Cat's Paw Issue #5}
 {33101}{}{Este é muito difícil de se encontrar, edição #5 da revista Cat's Paw. As fotos de lado mostram que tem um maravilhoso artigo sobre armas de energia.}
@@ -1100,7 +1100,7 @@
 {56800}{}{Gatilho de dinamite ativado}
 {56801}{}{Ao contrário de uma dinamite normal que é acionada por um temporizador, esta dinamite é ativada por um gatilho.}
 {56900}{}{Pop Rocks}
-{56901}{}{Um saco fechado de um doce saboroso gaseificado feita de açúcar, lactose (mais açúcar), xarope de milho (ainda mais açúcar) e aromatizante. Há rumores de que quando misturado com a bebida Nuka Cola seu estômago poderia explodir.}
+{56901}{}{Um saco fechado de um doce saboroso gaseificado feita de açúcar, lactose (mais açúcar), xarope de milho (ainda mais açúcar) e aromatizante. Há rumores de que quando misturado com a bebida Nuka-Cola seu estômago poderia explodir.}
 {57000}{}{Frasco de Shampoo}
 {57001}{}{Um frasco prémio de shampoo. Ao contrário de outras marcas líderes, este shampoo vem em uma frasco incomum de plástico flexível. Foi projetado especialmente dessa maneira, por isso, quando a garrafa for espremida, a quantidade certa de shampoo será derramado - nem mais, nem menos. Apenas um flip da tampa, e você ja está pronto para usar.}
 {57100}{}{K9 Kevlar}

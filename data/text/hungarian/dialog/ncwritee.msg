@@ -21,7 +21,7 @@
 {209}{}{Azt hittem, az Elnök csak legenda, egy mumus, akivel a gyerekeket ijesztgetik.}
 {210}{}{Látszik, hogy megjártad a poklot. Pihenj egyet, megérdemled!}
 {211}{}{Nem akarod újra játszani a játékot egy másik karakterrel? Fektess minél nagyobb hangsúlyt a Túlélés képzettségre!}
-{212}{}{F.E.V.? Az meg mi a szösz?}
+{212}{}{FEV? Az meg mi a szösz?}
 {213}{}{New Renót Chris Avellone tervezte és Tom French szkriptelte. Tom egy zenekarban játszik, Chris meg magával játszik.}
 {214}{}{Remélem, hogy a Fallout 3-ban főszereplő leszek, mint például Tandi vagy Ian. Bűnözőket játszani tök gyíkság.}
 {215}{}{Hallottam, hogy lenyomtad délen az Enklávét. Ez bizony elég bátor tett volt!}
@@ -109,7 +109,7 @@
 {374}{}{Te TÉNYLEG Istennel beszélsz, amikor szexelsz a színpadon?}
 {375}{}{Mami azt mondja, hogy te az ördög eszköze vagy.}
 {376}{}{Mami szerint te egy ringyó vagy. Egy szemérmetlen cafka. Nem tudom, mit akar ezzel.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{Üzleti ügyben keresed aput? Hát jó szerencsét! Nem hiszem, hogy bárkit is felvenne mostanság.}
 {386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
 {387}{}{Vigyázz, hogy mit csinálsz, barátom! Ez itt a Wright család vadászterülete.}
 {390}{}{Jobb, ha továbbállsz... mi nem nagyon szíveljük a hajcsárokat.}

@@ -20,7 +20,7 @@
 {231}{}{Make a stimpak.}
 {232}{}{I don't have those right now.}
 {233}{}{Return to the menu.}
-{240}{}{Great choice! To make a Super Stimpak, please feed me: one ordinary Stimpak, one piece of Fruit and one Nuka Cola! Yum-yum!}
+{240}{}{Great choice! To make a Super Stimpak, please feed me: one ordinary Stimpak, one piece of Fruit and one Nuka-Cola! Yum-yum!}
 {241}{}{Make a Super Stimpak.}
 {250}{}{Great choice! To make Psycho, please feed me: one box of Mentats, one Buffout, one piece of Fruit and one Stimpak! Yum-yum!}
 {251}{}{Make a Psycho.}
@@ -29,16 +29,16 @@
 {263}{}{Exit}
 {270}{}{Great choice! To make a Doctor's Bag, please feed me: one Stimpak, one First Aid Kit, one Empty Hypodermic needle and one Poison Antidote! Yum-yum!}
 {272}{}{Make a Doctor's Bag.}
-{280}{}{Great choice! To make a First Aid Kit, please feed me: one Stimpak, one Empty Hypodermic needle, one Poison Antidote and one Rad Away! Yum-yum!}
+{280}{}{Great choice! To make a First Aid Kit, please feed me: one Stimpak, one Empty Hypodermic needle, one Poison Antidote and one RadAway! Yum-yum!}
 {282}{}{Make a First Aid Kit.}
-{290}{}{Great choice! To make Poison, please feed me: one Empty Hypodermic needle, one Scorpion Tail and one Nuka Cola! Yum-yum!}
+{290}{}{Great choice! To make Poison, please feed me: one Empty Hypodermic needle, one Scorpion Tail and one Nuka-Cola! Yum-yum!}
 {292}{}{Make some poison.}
-{300}{}{Great choice! To make Buffout, please feed me: one First Aid Kit, one bottle of Beer and one Nuka Cola! Yum-yum!}
+{300}{}{Great choice! To make Buffout, please feed me: one First Aid Kit, one bottle of Beer and one Nuka-Cola! Yum-yum!}
 {302}{}{Make Buffout.}
-{310}{}{Great choice! To make Rad-X, please feed me: one First Aid Kit and one Nuka Cola! Yum-yum!}
+{310}{}{Great choice! To make Rad-X, please feed me: one First Aid Kit and one Nuka-Cola! Yum-yum!}
 {312}{}{Make a Rad-X.}
-{320}{}{Great choice! To make Rad Away, please feed me: one Nuka Cola, one Empty Hypodermic needle and one Stimpak! Yum-yum!}
-{322}{}{Make a Rad Away.}
+{320}{}{Great choice! To make RadAway, please feed me: one Nuka-Cola, one Empty Hypodermic needle and one Stimpak! Yum-yum!}
+{322}{}{Make a RadAway.}
 {330}{}{Great choice! To make a Poison Antidote, please feed me: one Scorpion Tail and one bottle of Booze! Yum-yum!}
 {331}{}{Make Poison Antidote.}
 {340}{}{Oh boy! A special request! What kind of special drug would you like Mr. Chemmie to create for you today?!}

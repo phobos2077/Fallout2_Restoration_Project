@@ -1102,7 +1102,7 @@ Es la cosa más hermosa que he tenido. Nunca me separare de el"}
 {56800}{}{Gatillo activado dinamita}
 {56801}{}{A diferencia de la normal de la dinamita, la cual establece un temporizador, este dinamita es activado por un disparo. Este está armado y listo para ser activado.}
 {56900}{}{Pop Rocks}
-{56901}{}{Una bolsa sin abrir de un sabroso gaseosas dulces de azúcar, la lactosa (más azúcar), jarabe de maíz (incluso más de azúcar), y el sabor. Se rumorea que cuando se mezcla con bebidas como Nuka Cola estomago iba a explotar.}
+{56901}{}{Una bolsa sin abrir de un sabroso gaseosas dulces de azúcar, la lactosa (más azúcar), jarabe de maíz (incluso más de azúcar), y el sabor. Se rumorea que cuando se mezcla con bebidas como Nuka-Cola estomago iba a explotar.}
 {57000}{}{Botella de Champú}
 {57001}{}{Una prima de la botella de champú. A diferencia de otras marcas líderes, este champú viene en una inusual flexi-botella de plástico. Fue especialmente diseñado de esta manera, así que cuando la botella se la apretó, la cantidad adecuada de champú fue derramada - ni más, ni menos. Sólo una cara de la tapa, y usted está en su camino.}
 {57100}{}{K-9 De Kevlar}
