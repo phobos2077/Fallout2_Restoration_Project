@@ -61,7 +61,7 @@
 {307}{}{Saleté de touristes...}
 {308}{}{New Reno devient de plus en plus moche de jour en jour...}
 {309}{}{Que fais-tu par ici ?}
-{310}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{310}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {311}{}{Fais gaffe à toi ici, mon ami. C'est le territoire des Wright.}
 {320}{}{Tu devrais jouer avec les jeunes avec cette armure. Ils adoreraient.}
 {321}{}{Ne marche pas sur les petits avec cette armure, compris ?}
@@ -82,7 +82,7 @@
 {344}{}{J'ai pas vu maman depuis un moment. Si tu la vois, lui dis rien à propos de l'alambic, ok ?}
 {345}{}{Keith a démonté le piano la semaine dernière et vient de le remonter. Malin l'gamin.}
 {346}{}{On va chasser le radscorpion dans quelques jours.}
-{347}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{347}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {348}{}{Fais gaffe aux gosses par ici, ils sont toujours sous ton pied.}
 {349}{}{Tu peux m'apprendre à combattre aussi ?}
 {350}{}{T'es le boxeur, }
@@ -97,7 +97,7 @@
 {362}{}{Alors comment c'est dans tes films ? Maman me laisse pas les voir.}
 {363}{}{Ne dis pas aux petits ce que tu fais.}
 {364}{}{Maman va péter un câble si elle te voit. Elle va faire son cinoche.}
-{365}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{365}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {366}{}{Nous les Wright, on est la plus puissante des familles car on EST une famille.}
 {367}{}{C'est triste pour mon petit frère. C'était un bon gamin, mais tout ce Jet dans cette ville, C'est dur d'y échapper...}
 {368}{}{Papa a dit qu'il nous étranglerait si jamais il entendait qu'on prenait du Jet.}
@@ -110,7 +110,7 @@
 {375}{}{Maman dit que t'es l'engin du Démon.}
 {376}{}{Maman dit que t'es une prostituée. Une catin effrontée. Je n'ai aucune idée de c'que c'est.}
 {385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
-{386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{386}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {387}{}{Fais gaffe à toi ici, mon ami. C'est le territoire des Wright.}
 {390}{}{Tu ferais mieux de décamper... On reçoit pas les esclavagistes chaleureusement ici.}
 {391}{}{Ne pense même pas à kidnapper qui que ce soit ici. Tu causes un problème, on t'étripe.}
@@ -119,7 +119,7 @@
 {394}{}{J'te surveille, esclavagiste, alors fais gaffe à ce que tu fais, compris ?}
 {395}{}{Tu touches à l'un de ces gamins, esclavagiste, et je te shoote tellement fort que t'en sortiras de tes bottes.}
 {396}{}{Tu touches à l'un de ces gamins, esclavagiste, j'te tue.}
-{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station... we don't sell it here.}
+{397}{}{Si tu cherches de l'alcool, esclavagiste, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {398}{}{Tu fais du mal à un Wright, esclavagiste, et notre famille ne sera pas en paix tant que ta dépouille ne pourrira pas à Golgotha.}
 {399}{}{T'es ici pour affaire avec papa ? Je pense pas que papa traite avec des esclavagistes. T'ferais mieux d'décamper.}
 {410}{}{Tu ferais mieux de partir... C'est pas contre toi, mais papa n'aime pas trop les tribals.}
@@ -128,7 +128,7 @@
 {413}{}{T'as intérêt à pas avoir amené de drogue, ou alors papa va te tuer. Et ensuite JE te tuerai.}
 {414}{}{J'te surveille, alors fais gaffe à ce que tu fais, compris ??}
 {415}{}{T'es d'où ? J'ai vu personne de ton espèce ici depuis un moment.}
-{416}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{416}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {417}{}{Tu fais du mal à un Wright, et notre famille ne sera pas en paix tant que ta dépouille ne pourrira pas à Golgotha.}
 {418}{}{T'es là pour voir papa pour affaire ? Alors bonne chance, je pense pas qu'il embauche quelqu'un maintenant.}
 {425}{}{Cette Goule ne devrait pas être ici. Tu f'rais mieux de le renvoyer à Gecko.}

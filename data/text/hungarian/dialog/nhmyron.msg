@@ -81,19 +81,19 @@
 {456}{}{Aszondom, küldjük előre az öreg Lennyt, hogy vizsgálja át a terepet. Egyedül!}
 {457}{}{Miért nem küldjük előre az öreg Lennyt, hogy felderítse a terepet?}
 {465}{}{Köszi! Jól jön egy kis löket.}
-{466}{}{Nothing like a strict drug regimen to keep my mind limber.}
+{466}{}{Egy jó adag drog, és az agyam újra forogni kezd.}
 {467}{}{Ez ugye nem jelenti azt, hogy már házasok vagyunk?}
 {468}{}{Van valami füved?}
 {469}{}{Hadd vigyem én a stimpakkokat, oké?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Óóóóóóóhhh. Aaaaaaaaah. Mmmmmm.}
 {472}{}{Szeretem, amikor ezt csinálod.}
-{473}{}{Drugs make me feel all pixilated.}
-{485}{}{Hey, don't use that shit on me! Save it for addicts!}
+{473}{}{A drogoktól hirtelen mindent élesen látok.}
+{485}{}{Hé, vidd innen azt a szart! Hagyd meg a drogfüggőknek!}
 {486}{}{Figyi, én nem akarok repülni, és te sem akarsz. Ásd el valahol azt a szart!}
 {487}{}{Miért nem adod azt a fost inkább az orrcsontosnak?}
 {495}{}{Miért nem adod azt a fost inkább Marcus barátunknak?}
-{496}{}{Hey, don't use that shit on me! Save it for addicts!}
+{496}{}{Hé, vidd innen azt a szart! Hagyd meg a drogfüggőknek!}
 {497}{}{Ember, én nem akarok repülni, és te sem akarsz. Ásd el valahol azt a szart!}
 {498}{}{Miért nem adod azt a szart inkább Lenny barátunknak?}
 {505}{}{Rendben, rendben. Megyek, és csinálom.}
@@ -116,7 +116,7 @@
 {533}{}{Francba! Mindent megpróbáltam...}
 {534}{}{Ezzel nem tudok mit kezdeni.}
 {535}{}{Most semmire nem jutottam.}
-{536}{}{Maybe with some Mentats I could pull this off... mmmm. Mentats.}
+{536}{}{Talán egy kis mentáttal többre jutnék... mmmm. Mentát...}
 {537}{}{A képzettségem nem elég magas. Költs rám néhány képzettségpontot és akkor újra próbálom! Ha-Ha.}
 {538}{}{Nem tanultam semmit.}
 {539}{}{Ilyen körülmények között nem tudom megdobni a sikeres Tudomány használatához szükséges értéket.}
@@ -128,8 +128,8 @@
 {554}{}{Én voltam itt előbb. Persze ha úgy gondolod...}
 {560}{}{Nem kell kétszer mondanod...}
 {561}{}{El tudnék képzelni egy kis női gyógyírt. Ugye tudod, mire gondolok?}
-{562}{}{Ahhhhhhh. Good thing stimpaks aren't too addictive.}
-{563}{}{Oooooh, yeah. Good thing stimpaks aren't too addictive.}
+{562}{}{Ahhhhhh. Jó, hogy a stimpakkok nem túlságosan addiktívak.}
+{563}{}{Óóóóóh, igen. Jó dolog, hogy a stimpakkok nem túlságosan addiktívak.}
 {570}{}{Ne nyomd belém azt a szart! Teljesen jól vagyok.}
 {571}{}{Ne babusgass! Jól vagyok!}
 {572}{}{Hé, ne törd magad! Jól vagyok. Viszont hadd legyen nálam a stimpakk készlet.}

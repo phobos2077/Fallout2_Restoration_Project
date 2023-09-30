@@ -92,7 +92,7 @@
 {4601}{}{Torba średniej wielkości, wykonana z tkanego owłosienia braminy.}
 {4700}{}{Apteczkę pierwszej pomocy.}
 {4701}{}{Niewielki zestaw zawierający podstawowe środki medyczne. Plastry, bandaże, aerozol antyseptyczny i inne podobne materiały.}
-{4800}{}{AntyRad}
+{4800}{}{AntyRad.}
 {4801}{}{Roztwór chemiczny, który wiąże pierwiastki radioaktywne i wypłukuje je ze sobą z organizmu. Mija nieco czasu, nim zadziała.}
 {4900}{}{antidotum}
 {4901}{}{Butelka zawierająca domowej roboty odtrutkę na jad - przypominający mleko płyn, w którym pływają skrawki mięsa radskorpiona.}

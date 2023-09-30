@@ -149,13 +149,11 @@
 {472}{}{A Jetes köhögésedet meg az orrdörzsölésedet figyelembe véve van róla elképzelésem, mi lesz a Jet-szállítmány sorsa.}
 {473}{}{Nagy J volna az aki törődik velünk, mi? Csak a múlt héten három rabszolgát kaptam el, akik voltak olyan ostobák, hogy elszökjenek. Vajon kaptam-e jutalmat? Heh. Kaptam a szart. Itt nyugodtan megszakadhatsz. Pedig én ŐR vagyok.}
 {474}{}{Igen, nagyszerű. Mostantól jobb, ha vigyázol magadra!}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
- guards such as yourself.}
+{475}{}{Kíváncsi vagyok, Big Jesus felfogja-e, hogy az a három rabszolga simán megszökhetett volna egy ilyen élesszemű, Jet-addiktív őr jelenlétében, mint amilyen te is vagy.}
 {476}{}{Ramirez... vigyázz, hogy mit mondasz nekem, oké? Nehogy eljárjon a szád, és bajba keveredj!}
 {480}{}{(Pislog.) Ööö...? Mi van?}
 {481}{}{Semmi olyat nem mondtam, amit értenél vagy megérné megismételni. Légy résen, oké?}
-{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-addicted guards such as yourself."}
+{482}{}{Azt találtam mondani, hogy "Kíváncsi vagyok, Big Jesus felfogja-e, hogy az a három rabszolga simán megszökhetett volna egy ilyen élesszemű, Jet-addiktív őr jelenlétében, mint amilyen te is vagy."}
 {490}{}{(Pislog és zavartan mosolyog.) Öö... Igen, igen. Agyas vagyok, persze... élesszemű... ŐR vagyok, nemde?}
 {491}{}{Igen, ezt már mondtad korábban. A helyedben, Ramirez, tennék az emberiségnek egy szívességet, és egyszerre bevenném azt az egész doboz Jetet. Na, ég áldjon!}
 {492}{}{Hát barátom, jó, hogy valaki volt olyan bölcs és nem adott neked teljesen automata fegyvereket. Sokkal biztonságosabban érzem magam. Na, viszlát, Ramirez.}

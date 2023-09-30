@@ -54,7 +54,7 @@
 {371}{}{More Options.}
 {375}{}{Mr. Chemmie loves to help! I can create a substance called nitroglycerin, which will control an irregular heartbeat and prevent heart attacks!}
 {380}{}{Rad-X}
-{381}{}{Rad Away}
+{381}{}{RadAway}
 {382}{}{Something Special}
 {383}{}{Nothing}
 {390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}

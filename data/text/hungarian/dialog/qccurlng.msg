@@ -57,7 +57,7 @@
 {156}{}{Nem, nem igazán. Valójában sokban különbözünk, és a DNS változás a legkevesebb. Ez sajnos a háttérsugárzásban eltöltött évek áldásos hatása.}
 {157}{}{És mi van, ha a DNS-ünk egy kicsit különbözik, he?}
 {158}{}{Nem tudom, ez pontosan mit jelent, de akkor mi van, ha kicsit különbözünk?}
-{159}{}{Oh, your DNA is more than just a *little* different. It's quite different. If I weren't so pressed for time by the Project I'd be interested in running further tests on your people, other than the FEV toxicological study, of course. Fascinating work really.}
+{159}{}{Ha nem lennék olyan fáradt a Projekt miatt, szívesen végeznék még kísérleteket a törzse tagjain, mint pl. az FEV toxikológiai vizsgálatot. Igazán érdekes lenne.}
 {160}{}{Miről akarsz kérdezni?}
 {161}{}{Hogy van ez a DNS különbözőségével?}
 {162}{}{Maguk kísérleti nyúlnak használják a törzsemet?}

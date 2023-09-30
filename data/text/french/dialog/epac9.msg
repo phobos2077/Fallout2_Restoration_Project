@@ -54,7 +54,7 @@
 {371}{}{Plus d'options.}
 {375}{}{Je peux créer une substance appelée nitroglycérine, qui contrôlera les pulsations irrégulières et préviendra des crises cardiaques.}
 {380}{}{Rad-X}
-{381}{}{Rad-away}
+{381}{}{Anti-Rad}
 {382}{}{Quelque chose de spécial}
 {383}{}{Rien.}
 {390}{}{C'est ton jour de chance ! J'ai juste assez de produits pour faire un jeu d'ISRE ! Tu voudrais que M. Chemmie en fasse pour toi ?}

@@ -25,8 +25,8 @@
 {208}{}{Valamilyen különös oknál fogva az emberek erőszakos módon haláloznak el körülötted. Mindig a lehető legcsúnyább módját látod mások halálának.}
 {209}{}{A jó hír az, hogy körülötted mindenki többször vét kritikus hibát csatában. A rossz hír viszont az, hogy te is!}
 {210}{}{Kevés időt töltöttél harci jellegű képzettségek elsajátításával, ezek tehát alacsonyabb százalékról indulnak. Az Elsősegély, Orvos, Beszéd és Üzletelés képzettségeid viszont magasabbról.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
+{211}{}{Sokkal könnyebben leszel drogfüggő. Kétszer nagyobb az esélye, hogy függővé válsz, de hamarabb hevered ki a drogok áldatlan hatását.}
+{212}{}{A drogok csak a szokásos idő feléig hatnak rád, viszont a függőség veszélye is csak fele akkora.}
 {213}{}{Benned megvan "AZ" a valami. Az ellenkező neműek erősen vonzódnak hozzád, a veled egyneműek viszont hajlamosak féltékenykedni.}
 {214}{}{Mivel több időt töltöttél képzettségeid fejlesztésére, 5-tel több képzettség pontot kapsz szintenként. Cserébe viszont csak minden negyedik szinten kapsz új képességet.}
 {215}{}{Mivel őstehetség vagy, nem fordítottál túl sok időt a képzettségeidre. Elsődleges tulajdonsá-gaid 1 ponttal nőnek, de minden képzettsé-gedből 10%-ot vesz-tesz, és szintlépéskor 5-tel kevesebb képzettség pontot kapsz.}

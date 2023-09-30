@@ -61,7 +61,7 @@
 {307}{}{Damn hot...}
 {308}{}{New Reno diventa piu' brutta ogni giorno che passa...}
 {309}{}{Che cosa ci fai da queste parti?}
-{310}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{310}{}{Se sei in cerca di alcolici, dirigiti alla stazione dei treni nella zona nord'... qui non li vendiamo.}
 {311}{}{Comportati bene mentre sei qui, amico. Questo e' il territorio della Famiglia Wright.}
 {320}{}{Dovresti andare a giocare con i bambini, con indosso quell'armatura. Si divertirebbero un mondo.}
 {321}{}{Vedi di non schiacciare i bambini, con indosso quell'armatura, ok?}
@@ -82,7 +82,7 @@
 {344}{}{E' da un po' che non vedo la mamma. Se la vedi, non dirle nulla a proposito dei distillatori, ok?}
 {345}{}{Keith ha smontato il piano, la settimana scorsa, e poi l'ha rimontato. E' un ragazzo sveglio.}
 {346}{}{Tra qualche giorno andremo ancora a caccia di radscorpioni.}
-{347}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{347}{}{Se sei in cerca di alcolici, dirigiti alla stazione dei treni nella zona nord'... qui non li vendiamo.}
 {348}{}{Occhio ai bambini, mentre sei qui; stanno sempre in mezzo ai piedi.}
 {349}{}{Potresti insegnarmi combattere?}
 {350}{}{Tu sei quel lottatore, }
@@ -97,7 +97,7 @@
 {362}{}{Allora, cosa si prova a fare un film? La mamma non mi lascia andare a vedere i tuoi.}
 {363}{}{Non dire ai bambini quello che fai.}
 {364}{}{La mamma andra' su tutte le furie, se ti vede. Ha dei comportamenti cosi' teatrali.}
-{365}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{365}{}{Se sei in cerca di alcolici, dirigiti alla stazione dei treni nella zona nord'... qui non li vendiamo.}
 {366}{}{Noi Wright siamo la famiglia piu' forte perche' noi SIAMO una famiglia.}
 {367}{}{Mi dispiace per mio fratello. Era un bravo ragazzo, ma il Jet e' dappertutto in questa citta'... e' difficile non cadere nella rete...}
 {368}{}{Papa' dice che sarebbe pronto a strangolarci se dovesse venire a sapere che prendiamo il Jet.}
@@ -110,7 +110,7 @@
 {375}{}{La mamma dice che sei uno strumento del diavolo.}
 {376}{}{La mamma dice che sei una meretrice. Una sgualdrina sfacciata. Non ho la piu' pallida idea di cosa parli.}
 {385}{}{Sei qui per parlare di affari con papa'? Beh, buona fortuna: non credo che gli servano forze fresche.}
-{386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{386}{}{Se sei in cerca di alcolici, dirigiti alla stazione dei treni nella zona nord'... qui non li vendiamo.}
 {387}{}{Comportati bene mentre sei qui, amico. Questo e' il territorio della Famiglia Wright.}
 {390}{}{Faresti meglio a sparire... non li trattiamo bene, gli schiavisti come te.}
 {391}{}{Non PENSARE neanche per un momento di rapire qualcuno della nostra famiglia. Dacci dei problemi e noi ti sgozziamo.}
@@ -119,7 +119,7 @@
 {394}{}{Ti sto tenendo d'occhio, schiavista, quindi vedi di comportarti bene, okay?}
 {395}{}{Tocca uno di quei bambini, schiavista, e ti sparero' talmente tanti colpi da farti volar fuori dai tuoi stivali.}
 {396}{}{Tocca uno di quei bambini, schiavista, e ti uccido.}
-{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station... we don't sell it here.}
+{397}{}{Se sei in cerca di alcolici, schiavista, dirigiti alla stazione dei treni nella zona nord... qui non li vendiamo.}
 {398}{}{Fai del male ad uno Wright, schiavista, e la nostra Famiglia non si fermera' finche' la tua pelle non marcira' sul Golgotha.}
 {399}{}{Sei qui per parlare di affari con papa'? Non credo che papa' faccia affari con gli schiavisti. Faresti meglio ad andartene.}
 {410}{}{Faresti meglio a sparire... senza offesa, ma papa' non ama molto i selvaggi come te.}
@@ -128,7 +128,7 @@
 {413}{}{Spero per te che tu non abbia portato delle droghe, altrimenti papa' ti uccidera'. Poi IO ti uccidero'.}
 {414}{}{Ti tengo d'occhio, quindi vedi di comportarti bene, okay?}
 {415}{}{Da dove vieni? E' da un pezzo che non vedevo gente come te.}
-{416}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{416}{}{Se sei in cerca di alcolici, dirigiti alla stazione dei treni nella zona nord'... qui non li vendiamo.}
 {417}{}{Fai del male ad uno Wright, e la nostra Famiglia non si fermera' finche' la tua pelle non marcira' sul Golgotha.}
 {418}{}{Sei qui per parlare di affari con papa'? Beh, buona fortuna: non credo che gli servano forze fresche.}
 {425}{}{Quel ghoul non dovrebbe trovarsi qui. Faresti meglio a riportarlo a Gecko.}

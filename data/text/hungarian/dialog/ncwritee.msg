@@ -61,7 +61,7 @@
 {307}{}{Damn hot...}
 {308}{}{New Reno napról-napra szarabb hely...}
 {309}{}{Mi dolgod neked itt?}
-{310}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{310}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}
 {311}{}{Vigyázz, hogy mit csinálsz, barátom! Ez itt a Wright család vadászterülete.}
 {320}{}{Ebben a páncélban inkább a gyerekekkel kéne játszanod. Biztos odalennének tőle.}
 {321}{}{Nehogy véletlenül rálépj valamelyik pöttöm gyerekre ebben a páncélban, hallod-e!}
@@ -82,7 +82,7 @@
 {344}{}{Nem láttuk a mamit már egy ideje. Ha meglátod őt, ne említsd neki a szeszfőzdét, oké?}
 {345}{}{Keith szétszedte a zongorát a múlt héten, aztán össze is rakta. Ügyes gyerek.}
 {346}{}{We're going huntin' for radscorpions again in a few days.}
-{347}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{347}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}
 {348}{}{Vigyázz a gyerekekkel! Folyton itt lábatlankodnak.}
 {349}{}{Meg tudsz tanítani a bunyóra?}
 {350}{}{Te vagy az a bunyós, }
@@ -97,7 +97,7 @@
 {362}{}{Milyen a filmezés? A mami nem engedi, hogy megnézzük a filmjeidet.}
 {363}{}{Ne mesélj a kicsiknek a foglalkozásodról!}
 {364}{}{Mami ki fogja verni a balhét, ha meglát téged. Annyira álszent...}
-{365}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{365}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}
 {366}{}{Mi Wrightok vagyunk a legerősebb család, ugyanis ez egy IGAZI család.}
 {367}{}{Szégyen, ami a kisöcsénkkel történt. Jó gyerek volt, de a várost elárasztotta a Jet és elég nehéz elmenni mellette...}
 {368}{}{Apu azt mondta, hogy a saját kezével fojt meg minket, ha megtudja, hogy Jetezünk.}
@@ -110,7 +110,7 @@
 {375}{}{Mami azt mondja, hogy te az ördög eszköze vagy.}
 {376}{}{Mami szerint te egy ringyó vagy. Egy szemérmetlen cafka. Nem tudom, mit akar ezzel.}
 {385}{}{Üzleti ügyben keresed aput? Hát jó szerencsét! Nem hiszem, hogy bárkit is felvenne mostanság.}
-{386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{386}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}
 {387}{}{Vigyázz, hogy mit csinálsz, barátom! Ez itt a Wright család vadászterülete.}
 {390}{}{Jobb, ha továbbállsz... mi nem nagyon szíveljük a hajcsárokat.}
 {391}{}{Ne is reménykedj abban, hogy itt bárkit is be tudsz fogni! Ha balhézol, kinyúvasztunk!}
@@ -119,7 +119,7 @@
 {394}{}{Figyellek, hajcsár, szóval jól gondold meg, mit csinálsz, hallod-e!}
 {395}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, úgy belédlövök, hogy elszállsz a cipődből!}
 {396}{}{Hajcsár, ha bármelyik gyerekhez csak egy ujjal hozzányúlsz, megöllek!}
-{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station... we don't sell it here.}
+{397}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}
 {398}{}{Ha egyetlen Wrightnak is bántódása esik, hajcsár, a családomnak addig nem lesz nyugta, amíg meg nem rohadsz a Golgotán.}
 {399}{}{Üzleti ügyben jöttél apuhoz? Nem hinném, hogy apu hajcsárokkal üzletelne, szóval jobb, ha lelépsz!}
 {410}{}{Jobb, ha olajra lépsz... ne haragudj, de apu nem nagyon csípi a törzsbélieket.}
@@ -128,7 +128,7 @@
 {413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {414}{}{Figyellek, szóval jól gondold meg, mit csinálsz, hallod-e!}
 {415}{}{Honnan jöttél? Ilyeneket, mint te, már régóta nem láttam minálunk.}
-{416}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{416}{}{Ha piát akarsz, menj el az északi részen lévő vasútállomásra... itt nem árulunk ugyanis.}
 {417}{}{Ha egyetlen Wrightnak is bántódása esik, a családomnak addig nem lesz nyugta, amíg meg nem rohadsz a Golgotán.}
 {418}{}{Üzleti ügyben keresed aput? Hát jó szerencsét! Nem hiszem, hogy bárkit is felvenne mostanság.}
 {425}{}{Annak a ghoulnak kívül tágasabb! Küldd vissza Gekkóba, ahova való!}

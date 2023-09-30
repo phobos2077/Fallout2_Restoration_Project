@@ -29,7 +29,7 @@
 {263}{}{Beenden}
 {270}{}{Hervorragend! Um eine Arzttasche herzustellen, benötigen sie: Ein Stimpak, ein Ersthilfekit, eine Injektionsspritze und ein Gegengift! Lecker!}
 {272}{}{Mach eine Arzttasche.}
-{280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benötigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein Rad Away! Lecker!}
+{280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benötigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein RadAway! Lecker!}
 {282}{}{Mach einen Erste Hilfe Kasten.}
 {290}{}{Hervorragend! Um Gift herzustellen, benötigen sie: Eine Injektionsspritze, einen Skorpionschwanz und eine Nuka-Cola! Lecker!}
 {292}{}{Mach etwas Gift.}

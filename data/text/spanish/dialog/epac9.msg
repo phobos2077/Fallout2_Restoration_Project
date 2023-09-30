@@ -20,7 +20,7 @@
 {231}{}{Hacer un estimulante. }
 {232}{}{No tengo esos en este momento.}
 {233}{}{Volver al menú principal.}
-{240}{}{¡Gran elección! Para hacer un Superestimulante, por favor dame de comer: un Estimulante ordinario, una pieza de fruta y una Nuka Cola. ¡Yum Yum!}
+{240}{}{¡Gran elección! Para hacer un Superestimulante, por favor dame de comer: un Estimulante ordinario, una pieza de fruta y una Nuka-Cola. ¡Yum Yum!}
 {241}{}{Hacer un Superestimulante}
 {250}{}{¡Gran elección! Para hacer Psico, por favor dame de comer: una caja de Mentats, un Esteroide, una Fruta y un Estimulante. ¡Yum Yum!}
 {251}{}{Hacer Psico.}
@@ -31,13 +31,13 @@
 {272}{}{Hacer un Maletín de Doctor. }
 {280}{}{¡Gran elección! Para hacer un Botiquín de Primeros Auxilios, por favor dame de comer: un Estimulante, una Aguja Hipodérmica Vacía, un Antídoto de Veneno y un RadAway. ¡Yum Yum!}
 {282}{}{Hacer un Botiquín de Primeros Auxilios. }
-{290}{}{¡Gran elección! Para hacer Veneno, por favor dame de comer: ¡una Aguja Hipodérmica Vacía, una Cola de Escorpión y una Nuka Cola! ¡Yum Yum!}
+{290}{}{¡Gran elección! Para hacer Veneno, por favor dame de comer: ¡una Aguja Hipodérmica Vacía, una Cola de Escorpión y una Nuka-Cola! ¡Yum Yum!}
 {292}{}{Hacer algo de veneno.}
-{300}{}{¡Gran elección! Para hacer Esteroides, por favor dame de comer: ¡un Botiquín de Primeros Auxilios, una Botella de Cerveza y una Nuka Cola! ¡Yum Yum!}
+{300}{}{¡Gran elección! Para hacer Esteroides, por favor dame de comer: ¡un Botiquín de Primeros Auxilios, una Botella de Cerveza y una Nuka-Cola! ¡Yum Yum!}
 {302}{}{Hacer Esteroides.}
-{310}{}{¡Gran elección! Para hacer Rad-X, por favor dame de comer: ¡un Botiquín de Primeros Auxilios y una Nuka Cola! ¡Yum Yum!}
+{310}{}{¡Gran elección! Para hacer Rad-X, por favor dame de comer: ¡un Botiquín de Primeros Auxilios y una Nuka-Cola! ¡Yum Yum!}
 {312}{}{Hacer Rad-X.}
-{320}{}{¡Gran elección! Para hacer RadAway, por favor dame de comer: una Nuka Cola, una Aguja Hipodérmica Vacía y un Estimulante. ¡Yum Yum!}
+{320}{}{¡Gran elección! Para hacer RadAway, por favor dame de comer: una Nuka-Cola, una Aguja Hipodérmica Vacía y un Estimulante. ¡Yum Yum!}
 {322}{}{Hacer RadAway.}
 {330}{}{¡Gran elección! Para hacer un Antídoto de Veneno, por favor dame de comer: ¡una Cola de Escorpión y una Botella de Alcohol! ¡Yum Yum!}
 {331}{}{Hacer antídoto del veneno.}

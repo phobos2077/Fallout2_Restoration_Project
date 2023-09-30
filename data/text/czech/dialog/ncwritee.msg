@@ -61,7 +61,7 @@
 {307}{}{Damn hot...}
 {308}{}{New Reno je každým dnem hroznější a hroznější..}
 {309}{}{Co tady děláš?}
-{310}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{310}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {311}{}{Dávej si pozor, příteli. Jseš na území rodiny Wrightů.}
 {320}{}{Nechceš si hrát s děckama s tou zbrojí na sobě? Bude se jim to líbit.}
 {321}{}{Dej si pozor, ať v tý zbroji na někoho nešlápneš, slyšíš?}
@@ -82,7 +82,7 @@
 {344}{}{Kde je ta máma? Jestli ji náhodou uvidíš, neříkej jí nic o destilačce, jasný?}
 {345}{}{Keith minulej tejden rozebral piáno a pak ho zase složil dohromady. Chytrej kluk.}
 {346}{}{Za pár dní zase půjdeme lovit radškorpiony.}
-{347}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{347}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {348}{}{Dávej pozor na děcka, pletou se lidem pod nohy.}
 {349}{}{Naučíš mě bojovat?}
 {350}{}{Ty jseš ten boxer, }
@@ -97,7 +97,7 @@
 {362}{}{Jaký to je bejt ve filmu? Máma mi zakázala se na ně dívat.}
 {363}{}{Neříkej děckám, co děláš.}
 {364}{}{Máma se zblázní, jestli tě tady uvidí. Je hrozně hysterická.}
-{365}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{365}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {366}{}{My Wrightové jsme nejsilnější rodina, protože JSME rodina.}
 {367}{}{Škoda mýho malýho bratříčka. Byl to fajn kluk, ale ten Jet je všude, těžko se mu vyhýbá...}
 {368}{}{Táta říkal, že jestli se někdo z nás jenom dotkne Jetu, uškrtí nás.}
@@ -110,7 +110,7 @@
 {375}{}{Mámá říká, že jseš nástroj ďábla.}
 {376}{}{Máma říká, že jseš hampejznice a nestydatá běhna. Nemám tušení, o čem to mluví.}
 {385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
-{386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{386}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {387}{}{Dávej si pozor, příteli. Jseš na území rodiny Wrightů.}
 {390}{}{Radši zmiz... nemáme rádi otrokáře.}
 {391}{}{Ať tě ani NENAPADNE tady někoho unést. O něco se pokusíš a vykucháme tě.}
@@ -119,7 +119,7 @@
 {394}{}{Dám si na tebe pozor, otrokáři, takže radši nic nezkoušej, slyšíš?}
 {395}{}{Šáhni na nějaký děcko, otrokáři, a rozstřílím tě na malý kousíčky.}
 {396}{}{Šáhni na nějaký děcko, otrokáři, a zabiju tě.}
-{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station... we don't sell it here.}
+{397}{}{Jestli sháníš alkohol, otrokáři, tak se zastav v železniční stanici.}
 {398}{}{Udělej něco kterýmukoliv Wrightovi, otrokáři, a naše rodina ti nedá pokoj, dokud neskončíš v Golgotě.}
 {399}{}{Jdeš za tátou obchodně? Myslím, že táta neobchoduje s otrokářema. Radši zmiz.}
 {410}{}{Radši zmiz... bez urážky, ale táta nemá divochy moc v lásce.}
@@ -128,7 +128,7 @@
 {413}{}{Doufám, že sebou nemáš nějaký drogy, jinak tě táta zabije. A potom tě zabiju JÁ.}
 {414}{}{Dám si na tebe pozor, takže radši nic nezkoušej, slyšíš?}
 {415}{}{Odkud jseš? Už dlouho jsem nikoho takovýho jako ty neviděl.}
-{416}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{416}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {417}{}{Udělej něco kterýmukoliv Wrightovi a naše rodina ti nedá pokoj, dokud neskončíš v Golgotě.}
 {418}{}{Jdeš za tátou obchodně? No, tak to hodně štěstí. Myslím, že teď zrovna nikoho nepotřebuje.}
 {425}{}{Ten ghoul tu nemá co dělat. Pošli ho pryč, nejlíp zpátky do Gecka.}

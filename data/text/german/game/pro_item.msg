@@ -646,7 +646,7 @@
 {32801}{}{Diese schwarze Kugel ist ein seltsames Vorhersagegerät... Ein Fensterchen an der Oberseite scheint die Zukunft vorhersagen zu können. Die Menschen vor dem Krieg müssen wahre Genies gewesen sein!}
 {32900}{}{Mutationsserum}
 {32901}{}{Seltsam aussehendes organisches Gebräu, dass vermutlich den Mutationsfaktor in Menschen umkehren könnte.}
-{33000}{}{Vertibird-Wrack}
+{33000}{}{Abgestürzter Vertibird}
 {33001}{}{Wrack eines Vertibirds. Scheint vor Monaten hier abgestürzt zu sein.}
 {33100}{}{Cat's Paw Nummer 5}
 {33101}{}{Das ist die viel gesuchte Nummer 5 der Zeitschrift Cat's Paw. Abgesehen von den Bildern gibt es einen wunderbaren Bericht über Energiewaffen.}

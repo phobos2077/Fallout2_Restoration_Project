@@ -54,7 +54,7 @@
 {371}{}{Więcej opcji.}
 {375}{}{Pan Mały Chemik uwielbia pomagać! Mogę zsyntetyzować substancję zwaną nitrogliceryną, która ustabilizuje nieregularną pracę serca i zapobiegnie zawałowi.}
 {380}{}{Rad-X.}
-{381}{}{AntryRad.}
+{381}{}{AntyRad.}
 {382}{}{Coś specjalnego.}
 {383}{}{Na razie nic.}
 {390}{}{To twój szczęśliwy dzień! Mam wystarczająco dużo chemikaliów w swoich zbiornikach do zrobienia jednej dawki SSOŚ! Czy chcesz żeby Pan Mały Chemik go zsyntetyzował?!}

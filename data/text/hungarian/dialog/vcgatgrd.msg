@@ -104,8 +104,7 @@
  Mentats... that sort of thing.}
 {203}{}{Értem. Tiszta vagyok, kutass át csak nyugodtan!}
 {204}{}{Tulajdonképpen semmi dolgom Menedékvárosban. Viszlát!}
-{205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
- City. Ditch them then come back, all right?}
+{205}{}{Sajnálom, de a drogok és az alkohol tiltólistán vannak, ezekkel nem léphetsz be. Dobd őket az árokba, aztán gyere vissza! Rendben?}
 {206}{}{Oké.}
 {207}{}{Úgy néz ki, minden rendben van. Bemehetsz.}
 {208}{}{Kösz.}
