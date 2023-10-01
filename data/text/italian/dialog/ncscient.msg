@@ -22,8 +22,7 @@
 {170}{}{Controllate la frequenza cardiaca di questo qui. Se e' ancora entro limiti tollerabili, aumentate il dosaggio.}
 {171}{}{Perche' la schiava nel gruppo di controllo si e' uccisa? Non stavamo nemmeno conducendo dei test, su di lei!}
 {200}{}{I test stanno procedendo come da programma.}
-{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
- willing to kill each other for it.}
+{201}{}{Questa nuova miscela di Jet causa dipendenza estrema, signore. Gli schiavi sarebbero quasi disposti ad uccidersi fra di loro pur di avere una dose.}
 {202}{}{L'ultima miscela e' cosi potente che gli schiavi preferibbero assumere del Jet piuttosto che mangiare.}
 {203}{}{Chi sono queste persone con lei, Myron? Nuove cavie?}
 {204}{}{Il terzo gruppo testato sembra ottenere i migliori risultati fra tutti i gruppi, Myron, signore.}

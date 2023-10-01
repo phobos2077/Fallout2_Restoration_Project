@@ -171,7 +171,7 @@
 {8600}{}{Felderítők kézikönyve}
 {8601}{}{Egy könyv, mely a felderítés elvi és gyakorlati módszereit ismerteti. Hasznos tudnivalókat nyújt a szabadban való túléléshez.}
 {8700}{}{Buffout}
-{8701}{}{Highly advanced steroids. While in effect, they increase strength and reflexes. Very addictive.}
+{8701}{}{Fejlett szteroidkészítmény. Amikor hat, megnöveli az erőt és gyorsítja a reflexeket. Könnyen függőséget okoz.}
 {8800}{}{Karóra}
 {8801}{}{Egy értékes karóra. Nem működik, de még mindig jól néz ki.}
 {8900}{}{Motor}
@@ -647,7 +647,7 @@
 {32900}{}{Mutagén szérum}
 {32901}{}{Egy különös szerves készítmény, mely visszafordíthatja az emberi mutációt.}
 {33000}{}{Lezuhant gépmadár}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{33001}{}{Ez egy gépmadár roncsa. Pár hónapja csapódhatott be.}
 {33100}{}{A Cat's Paw 5-ös száma}
 {33101}{}{Egy Cat's Paw magazin, mégpedig a nagyon ritka 5-ös szám. A képek mellett egy rendkívül érdekes cikk található benne az energia-fegyverekről.}
 {33200}{}{M3A1 "Zsírfegyver" GPI}
@@ -1100,7 +1100,7 @@
 {56800}{}{Trigger activated dynamite}
 {56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
 {56900}{}{Pop Rocks}
-{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
+{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka-Cola one's stomach would explode.}
 {57000}{}{Bottle of Shampoo}
 {57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
 {57100}{}{K-9 Kevlar}

@@ -61,7 +61,7 @@
 {307}{}{Cholernie gorąco...}
 {308}{}{Nowe Reno z dnia na dzień robi się paskudniejsze...}
 {309}{}{Co tu robisz?}
-{310}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{310}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {311}{}{Uważaj na siebie, przyjacielu. Jesteś na terenie rodziny Wrightów.}
 {320}{}{Z taką zbroją lepiej pobaw się z dziećmi. Na pewno im się spodoba.}
 {321}{}{Tylko nie rozdepcz mi w tej zbroi jakiegoś dzieciaka, słyszysz?}
@@ -82,7 +82,7 @@
 {344}{}{Ciekawe, co porabia Mama. Jak ją zobaczysz nie mów jej o aparaturze, dobra?}
 {345}{}{W zeszłym tygodniu Keith rozłożył na części pianino, a potem poskładał je do kupy. Bystry dzieciak.}
 {346}{}{Za parę dni znów ruszamy polować na radskorpiony.}
-{347}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{347}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {348}{}{Uważaj na dzieciaki. Bez przerwy plączą się pod nogami.}
 {349}{}{Nauczysz mnie tak walczyć?}
 {350}{}{Hej jesteś }
@@ -97,7 +97,7 @@
 {362}{}{No i jak to jest w przemyśle filmowym? Mama nie pozwala mi oglądać twoich filmów.}
 {363}{}{Tylko nie mów maluchom czym się zajmujesz.}
 {364}{}{Mama się wścieknie jak cię zobaczy. Jest bardzo wyczulona na twoim punkcie.}
-{365}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{365}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {366}{}{My, Wrightowie jesteśmy najsilniejszą rodziną, bo my JESTEŚMY rodziną.}
 {367}{}{Szkoda mojego młodszego brata. To był dobry dzieciak, ale Jet zupełnie wypalił mu mózg...}
 {368}{}{Tata powiedział, że udusi nas, jeśli chociaż pomyślimy o braniu Jetu.}
@@ -110,7 +110,7 @@
 {375}{}{Mama mówi, że jesteś diabelskim nasieniem.}
 {376}{}{Mama mówi, że jesteś kurtyzaną. Zbłąkaną owieczką. Nie mam pojęcia o co jej chodzi.}
 {385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
-{386}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{386}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {387}{}{Uważaj na siebie, przyjacielu. Jesteś na terenie rodziny Wrightów.}
 {390}{}{Lepiej stąd spadaj... nie przepadamy tu za łowcami niewolników.}
 {391}{}{Nawet nie myśl o porywaniu stąd kogokolwiek. Jak będziesz sprawiać kłopoty to cię wypatroszymy.}
@@ -119,7 +119,7 @@
 {394}{}{Mam cię na oku, Łowco, więc uważaj co robisz, zrozumiano?}
 {395}{}{Trzymaj się z dala od dzieci, słyszysz? Jeden podejrzany ruch i nafaszeruję cię ołowiem.}
 {396}{}{Zbliż się tylko do dzieci, łowco, a zastrzelę cię jak psa.}
-{397}{}{If you're lookin' for alcohol, slaver, head on over to the train station... we don't sell it here.}
+{397}{}{Jeśli szukasz alkoholu, łowco, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {398}{}{Skrzywdź tylko któregoś Wrighta, Łowco, a cała rodzina będzie cię ścigać aż do śmierci.}
 {399}{}{Masz jakiś interes do Taty? On niechętnie rozmawia z łowcami niewolników, więc lepiej spadaj.}
 {410}{}{Lepiej stąd spadaj... Bez obrazy, ale Tato nie lubi dzikusów.}
@@ -128,7 +128,7 @@
 {413}{}{Mam nadzieję, że nie masz przy sobie prochów, w przeciwnym razie Tata cię załatwi albo ja to zrobię.}
 {414}{}{Mam cię na oku, więc uważaj co robisz, zrozumiano?}
 {415}{}{Skąd jesteś? Dawno tu nie było żadnych dzikusów.}
-{416}{}{If you're lookin' for alcohol, head on over to the train station... we don't sell it here.}
+{416}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {417}{}{Skrzywdź tylko któregoś Wrighta, Łowco, a cała rodzina będzie cię ścigać aż do śmierci.}
 {418}{}{Masz jakiś interes do Taty? Powodzenia, ale on raczej nie szuka nowych pomocników.}
 {425}{}{Ten ghul nie powinien się tu kręcić. Lepiej odeślij go do domu.}

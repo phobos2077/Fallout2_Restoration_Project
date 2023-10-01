@@ -646,7 +646,7 @@
 {32801}{}{Diese schwarze Kugel ist ein seltsames Vorhersagegerät... Ein Fensterchen an der Oberseite scheint die Zukunft vorhersagen zu können. Die Menschen vor dem Krieg müssen wahre Genies gewesen sein!}
 {32900}{}{Mutationsserum}
 {32901}{}{Seltsam aussehendes organisches Gebräu, dass vermutlich den Mutationsfaktor in Menschen umkehren könnte.}
-{33000}{}{Vertibird-Wrack}
+{33000}{}{Abgestürzter Vertibird}
 {33001}{}{Wrack eines Vertibirds. Scheint vor Monaten hier abgestürzt zu sein.}
 {33100}{}{Cat's Paw Nummer 5}
 {33101}{}{Das ist die viel gesuchte Nummer 5 der Zeitschrift Cat's Paw. Abgesehen von den Bildern gibt es einen wunderbaren Bericht über Energiewaffen.}
@@ -1100,7 +1100,7 @@
 {56800}{}{Scharfes Dynamit}
 {56801}{}{Anders als normales Dynamit mit Timer, wird dieses hier mit einem Fernzünder ausgelößt. Es ist scharf und bereit zum zünden.}
 {56900}{}{Pop Rocks}
-{56901}{}{Eine ungeöffnete Tüte mit leckeren, kohlensäurehaltigen Süßigkeiten aus Zucker, Laktose (mehr Zucker), Maissirup (noch mehr Zucker) und Aromastoffen. Man sagt, wenn man sie zusammen mit Nuka Cola zu sich nimmt, explodiere der Magen.}
+{56901}{}{Eine ungeöffnete Tüte mit leckeren, kohlensäurehaltigen Süßigkeiten aus Zucker, Laktose (mehr Zucker), Maissirup (noch mehr Zucker) und Aromastoffen. Man sagt, wenn man sie zusammen mit Nuka-Cola zu sich nimmt, explodiere der Magen.}
 {57000}{}{Shampooflasche}
 {57001}{}{Eine Premiumshampoo- flasche. Anders als führenden Marken, kommt dieses Shampoo in einer ungewöhnlichen flexiblen Plastikflasche. Sie wurde speziel so entwickelt, dass man mit einem Druck auf die Flasche, die richtige Menge Shampoo rauspressen kann.}
 {57100}{}{K-9 Kevlar}

@@ -49,8 +49,8 @@
 {401}{}{Voyons... J'ai des nausées... des palpitations... de la fièvre. C'est sûrement un empoisonnement.}
 {402}{}{Oh... je ne... vais... plus... tenir... longtemps... le poison... se répand...}
 {403}{}{Quelqu'un pourrait-il me sucer ce poison ?}
-{410}{}{Est-ce moi qui rayonne comme ça ? Donne-moi du RadX la prochaine fois qu'on ira dans des zones irradiées, Ok ?}
-{411}{}{J'ai besoin d'Anti Rad avant que les radiations me rongent les gonades.}
+{410}{}{Est-ce moi qui rayonne comme ça ? Donne-moi du Rad-X la prochaine fois qu'on ira dans des zones irradiées, Ok ?}
+{411}{}{J'ai besoin d'Anti-Rad avant que les radiations me rongent les gonades.}
 {412}{}{Pourquoi on boit pas directement de la substance collante radioactive la prochaine fois ? Au moins, on mourra plus vite !}
 {413}{}{Je pourrais fournir assez d'énergie à tout New Reno avec les radiations de mon corps. Tu veux voir ma prise ?}
 {414}{}{Je brille plus que New Reno à minuit. Quelqu'un aurait-il de l'Anti-Rad ?}

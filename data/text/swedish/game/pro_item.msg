@@ -646,8 +646,8 @@
 {32801}{}{This black sphere is some strange precognitive device... a small window on the top seems to be able to predict the future! Pre-war humanity must have been geniuses to invent such a wonder!}
 {32900}{}{Mutagenic Serum}
 {32901}{}{A strange organic concoction that could possibly reverse the Mutation Factor in humans.}
-{33000}{}{Crashed Verti-Bird}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{33000}{}{Crashed Vertibird}
+{33001}{}{This is wreckage from a vertibird. Looks like it crashed here months ago.}
 {33100}{}{Cat's Paw Issue #5}
 {33101}{}{This is the hard to find Issue 5 of Cat's Paw magazine. The pictures aside, this issue has a wonderful article on energy weapons.}
 {33200}{}{M3A1 "Grease Gun" SMG}
@@ -1100,7 +1100,7 @@
 {56800}{}{Trigger activated dynamite}
 {56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
 {56900}{}{Pop Rocks}
-{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
+{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka-Cola one's stomach would explode.}
 {57000}{}{Bottle of Shampoo}
 {57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
 {57100}{}{K-9 Kevlar}

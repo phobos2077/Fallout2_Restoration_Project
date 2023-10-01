@@ -76,7 +76,7 @@
 {352}{}{Elvállalom a munkát.}
 {353}{}{Nem, ez a munka nem fekszik nekem. Inkább megyek.}
 {360}{}{(Elvörösödik.) Az én fiaim tiszták, és tudják hogy távol kell tartaniuk maguktól azt a szart, különben megölném őket. Erre mi történik? Richie meghal túladagolásban... Valaki egy tonna Jetet tömött bele, olyan sokat, hogy Jet-gőz jött ki az orrán.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
+{361}{}{Hát... ez nem feltétlenül jelenti azt, hogy valaki más felelős érte. A fia is túladagolhatta magát. A Jet nagyon addiktív.}
 {362}{}{Hmmm. Elvállalom a munkát.}
 {370}{}{(Rábólint.) Rendben van. Hallgass ide: Meg kell találnod a fiam gyilkosát! Ne essen bántódása... csak gyere vissza és MONDD el a hullajelölt nevét. (Ádázul néz rád.) Onnantól majd mi intézzük a dolgokat.}
 {371}{}{Még nem beszéltünk az árról.}

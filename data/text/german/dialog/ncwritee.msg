@@ -109,7 +109,7 @@
 {374}{}{Redest du wirklich mit Gott, wenn du Sex bei den Aufnahmen hast?}
 {375}{}{Mom sagt du wärst ein Werkzeug des Teufels.}
 {376}{}{Mom sagt du bist eine Hure. Eine dreiste Hure. Ich weiß gar nicht, was sie damit sagen will.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{Du willst meinen Vater wegen dem Geschäft sehen? Nun, viel Glück, soweit ich weiß heuert er zur Zeit keine Männer an.}
 {386}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {387}{}{Pass auf, wo du hintrittst, klar? Das ist hier das Revier von den Wrights.}
 {390}{}{Geh besser, wir mögen hier keine Sklavenhändler.}

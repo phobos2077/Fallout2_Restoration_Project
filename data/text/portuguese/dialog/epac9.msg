@@ -20,7 +20,7 @@
 {231}{}{Fazer uma stimpak.}
 {232}{}{Eu não tenho esses agora.}
 {233}{}{Voltar para o menu.}
-{240}{}{Ótima escolha! Para fazer um Super Stimpak, por favor me alimente: um Stimpak comum, um pedaço de fruta e um Nuka Cola! Yum-yum!}
+{240}{}{Ótima escolha! Para fazer um Super Stimpak, por favor me alimente: um Stimpak comum, um pedaço de fruta e um Nuka-Cola! Yum-yum!}
 {241}{}{Faça uma Super Stimpak.}
 {250}{}{Ótima escolha! Para fazer Psycho, por favor me alimente: uma caixa de Mentats, um Buffout, um pedaço de Fruta e um Stimpak! Yum-yum!}
 {251}{}{Faça um Psycho.}
@@ -29,16 +29,16 @@
 {263}{}{Sair}
 {270}{}{Ótima escolha! Para fazer um saco de doutor, por favor me alimente: um Stimpak, um kit de primeiros socorros, uma agulha hipodérmica vazia e um antídoto venenoso! Yum-yum!}
 {272}{}{Fazer Saco de um Médico.}
-{280}{}{Ótima escolha! Para fazer um kit de primeiros socorros, por favor me alimente: um Stimpak, uma agulha Hypodermic vazia, um antídoto de veneno e um Rad Away! Yum-yum!}
+{280}{}{Ótima escolha! Para fazer um kit de primeiros socorros, por favor me alimente: um Stimpak, uma agulha Hypodermic vazia, um antídoto de veneno e um RadAway! Yum-yum!}
 {282}{}{Faça um Kit de Primeiros Socorros.}
-{290}{}{Ótima escolha! Para fazer Veneno, por favor me alimente: uma agulha Hypodermic vazia, uma Cauda de Escorpião e uma Nuka Cola! Yum-yum!}
+{290}{}{Ótima escolha! Para fazer Veneno, por favor me alimente: uma agulha Hypodermic vazia, uma Cauda de Escorpião e uma Nuka-Cola! Yum-yum!}
 {292}{}{Fazer algum veneno.}
-{300}{}{Grande escolha! Para fazer Buffout, por favor, me alimentar: um Kit de Primeiros Socorros, uma garrafa de Cerveja e um Nuka Cola! O Yum-yum!}
+{300}{}{Grande escolha! Para fazer Buffout, por favor, me alimentar: um Kit de Primeiros Socorros, uma garrafa de Cerveja e um Nuka-Cola! O Yum-yum!}
 {302}{}{Fazer Buffout.}
-{310}{}{Grande escolha! Para fazer Rad-X, por favor, me alimentar: um Kit de Primeiros Socorros e um Nuka Cola! O Yum-yum!}
+{310}{}{Grande escolha! Para fazer Rad-X, por favor, me alimentar: um Kit de Primeiros Socorros e um Nuka-Cola! O Yum-yum!}
 {312}{}{Fazer um Rad-X.}
-{320}{}{Grande escolha! Para fazer Rad Away, por favor, me alimentar: um Nuka Cola, uma agulha Hipodérmic Vazia e um Stimpak! O Yum-yum!}
-{322}{}{Fazer um Rad Away.}
+{320}{}{Grande escolha! Para fazer RadAway, por favor, me alimentar: um Nuka-Cola, uma agulha Hipodérmic Vazia e um Stimpak! O Yum-yum!}
+{322}{}{Fazer um RadAway.}
 {330}{}{Grande escolha! Para fazer um Antídoto do Veneno, por favor, me alimentar: uma Cauda de Escorpião e uma garrafa de Booze! O Yum-yum!}
 {331}{}{Fazer O Antídoto Do Veneno.}
 {340}{}{Oh garoto! Um pedido especial! Que tipo de droga especial você gostaria que o Sr. Chemmie criasse para você hoje ?!}
@@ -54,7 +54,7 @@
 {371}{}{Mais Opções.}
 {375}{}{O Sr. Chemmie gosta de ajudar! Eu posso criar uma substância chamada nitroglicerina, que irá controlar um batimento cardíaco irregular e prevenir ataques cardíacos!}
 {380}{}{Rad-X}
-{381}{}{Rad Away}
+{381}{}{RadAway}
 {382}{}{Algo Especial}
 {383}{}{Nada}
 {390}{}{Esse é seu dia de sorte! Tenho apenas produtos químicos suficientes em meus tanques de armazenamento para fazer um lote de ERSIs! Você gostaria que o Sr. Chemmie os fizesse por você ?!}

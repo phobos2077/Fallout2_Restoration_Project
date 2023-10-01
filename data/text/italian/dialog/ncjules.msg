@@ -141,7 +141,7 @@
 {535}{}{Ci pensano le Famiglie a far andare avanti le cose. A loro non PIACE che ci siano dei problemi a Reno, perche' non farebbero bene al turismo, e questo vorrebbe dire meno soldi per loro. Se non crei problemi e copri le tue puntate, rimarrai lontano dal Golgotha.}
 {537}{}{Golgotha?}
 {545}{}{Yeah, il cimitero fuori citta'. E' dove mettono i debitori e le persone che hanno sfidato le famiglie. Li legano a dei pali e li lasciano a morire lentamente al sole. Non e' il posto dove vorrei morire. C'e' una puzza del demonio, laggiu'.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Interessante. Ho delle altre domande...}
 {548}{}{Sembra magnifico. Grazie per l'informazione.}
 {555}{}{Beh, dunque, un'ALTRA cosa che dovresti sapere a proposito di New Reno e' che nulla e' gratuito. Se lo e', controlla bene la merce.}
 {556}{}{Beh, sai, questo tipo di informazioni non e' a buon mercato. Hai la grana? Allora hai anche la mia attenzione.}
@@ -209,15 +209,14 @@
 {810}{}{(Si avvicina.) Beh, non vorrei dilungarmi troppo sul posto meno PIACEVOLE di New Reno, ma ci sono un sacco di camici bianchi che parlano come te in questo edificio, le Stalle, a nord della citta'. E' strettamente sorvegliato dagli uomini di Mordino.}
 {811}{}{Che cosa succede li' dentro?}
 {825}{}{Si testano nuovi tipi di Jet, da quel che ho sentito. Ora, te lo dico in CONFIDENZA, amico: non andare a ficcare il naso da quelle parti... ai Mordino non piacciono i visitatori. Inoltre... Jules puo' darti tutto il Jet di cui hai bisogno.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
-{827}{}{Who do the Mordinos test the drugs on?}
+{826}{}{Perche' i Mordino continuano a testare il Jet? Sembra gia' creare abbastanza dipendenza cosi' com'e'.}
+{827}{}{Su chi testano la droga, i Mordino?}
 {828}{}{Sai per caso come potrei fare per introdurmi nelle Stalle?}
 {840}{}{Sugli schiavi, molto probabilmente. Li tengono all'interno di recinti nelle Stalle, come fossero brahmin. }
 {841}{}{I Mordino comprano un mucchio di schiavi dagli schiavisti che passano di qua. }
 {842}{}{I Mordino comprano un mucchio di schiavi dagli schiavisti come te che passano per New Reno. }
 {843}{}{E ne comprano davvero un sacco, dato che gli schiavi continuano a stare male, a scappare... o a morire. La maggior parte muore.}
-{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
- BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
+{860}{}{Solo per migliorarlo, immagino, raffinare il processo, raffinare la droga. Il Jet attuale e' buono, ma se potessero in qualche modo MIGLIORARLO... ci sarebbe la stessa differenza che c'e' tra volare con un deltaplano e volare fino alla luna, credo. }
 {880}{}{Aspetta un secondo - Se fossi in te non ci PENSEREI nemmeno, amico. I Mordino controllano quel posto come cani rabbiosi. Cavatelo dalla testa e basta.}
 {881}{}{Ci dev'essere un modo per entrare...}
 {886}{}{D'accordo, allora lasciamo perdere. Grazie dell'informazione.}

@@ -118,8 +118,7 @@
  Would you care to explain to me your theory?}
 {213}{}{Well, you see Jet's chemical addiction is probably the hardest thing to shake, so I was thinking
  that if we introduced endorphin blockers into the body we could...}
-{215}{}{I'm... speechless. That's simply the most brilliant solution I have ever heard. I've been
- experimenting with methods of curing Jet addiction for months, and came up with nothing.}
+{215}{}{Hihetetlen! Ez a legbriliánsabb megoldás, amit valaha is hallottam. Hónapokig kísérleteztem a Jet-függőség gyógyításán, de nem jutottam semmire.}
 {216}{}{Ön is az ellenanyagon dolgozik?}
 {217}{}{Igen, ezért volt szükségem egy adag Jetre.}
 {218}{}{Igen, de sikertelenül.}
@@ -141,7 +140,7 @@
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
 {233}{}{Mesélj róla!}
 {234}{}{Maybe you should loosen up a little, Doc. A little drug use never hurt anyone. Well, except for
- those super stimpacks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
+ those super stimpaks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
 {235}{}{Ezt fogom tenni.}
 {236}{}{Hajlandó vagyok ezer dollárt fizetni egy adagért... és a hallgatásáért.}
 {237}{}{Van nálam egy adag Jet.}

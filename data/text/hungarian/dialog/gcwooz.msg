@@ -57,7 +57,7 @@
 {200}{}{Van egy jó anekdotám. Nagyon mókás. Vegyünk egy fejet, rendben?}
 {201}{}{Fejet mondtál?}
 {202}{}{Öö.. asszem, már hallottam ezt korábban. Most nincs időm újra végighallgatni. Léptem...}
-{210}{}{Are you dumb? Tragic the Garnering is the most addictive thing since Jet.}
+{210}{}{Zaza vagy? A "Tragic the Garnering" a legaddiktívabb dolog a Jet mellett.}
 {211}{}{Csak ismételni tudom magam. A "Tragic the Garnering" a játékok játéka...}
 {212}{}{Mondj valamit erről a "Tragic the Garnering" izéről!}
 {213}{}{Mi az a Jet?}

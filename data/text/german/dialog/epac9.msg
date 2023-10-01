@@ -20,7 +20,7 @@
 {231}{}{Mach ein Stimpak.}
 {232}{}{Die habe ich gerade nicht bei mir.}
 {233}{}{Zurück zum Hauptmenü.}
-{240}{}{Hervorragend! Um ein Super-Stimpak herzustellen, benötigen sie: Ein ordinäres Stimpak, ein Stück Obst und eine Nuka Cola! Lecker!}
+{240}{}{Hervorragend! Um ein Super-Stimpak herzustellen, benötigen sie: Ein ordinäres Stimpak, ein Stück Obst und eine Nuka-Cola! Lecker!}
 {241}{}{Mach ein Super-Stimpak.}
 {250}{}{Hervorragend! Um Psycho herzustellen, benötigen sie: Ein Mentat, ein Buffout, ein Stück Obst und ein Stimpak! Lecker!}
 {251}{}{Mach Psycho.}
@@ -29,16 +29,16 @@
 {263}{}{Beenden}
 {270}{}{Hervorragend! Um eine Arzttasche herzustellen, benötigen sie: Ein Stimpak, ein Ersthilfekit, eine Injektionsspritze und ein Gegengift! Lecker!}
 {272}{}{Mach eine Arzttasche.}
-{280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benötigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein Rad Away! Lecker!}
+{280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benötigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein RadAway! Lecker!}
 {282}{}{Mach einen Erste Hilfe Kasten.}
-{290}{}{Hervorragend! Um Gift herzustellen, benötigen sie: Eine Injektionsspritze, einen Skorpionschwanz und eine Nuka Cola! Lecker!}
+{290}{}{Hervorragend! Um Gift herzustellen, benötigen sie: Eine Injektionsspritze, einen Skorpionschwanz und eine Nuka-Cola! Lecker!}
 {292}{}{Mach etwas Gift.}
-{300}{}{Hervorragend! Um Buffout herzustellen, benötigen sie: Einen Erste Hilfe Kasten, ein Bier und eine Nuka Cola! Lecker!}
+{300}{}{Hervorragend! Um Buffout herzustellen, benötigen sie: Einen Erste Hilfe Kasten, ein Bier und eine Nuka-Cola! Lecker!}
 {302}{}{Mach Buffout.}
-{310}{}{Hervorragend! Um Rad-X herzustellen, benötigen sie: Einen Erste Hilfe Kasten und eine Nuka Cola! Lecker!}
+{310}{}{Hervorragend! Um Rad-X herzustellen, benötigen sie: Einen Erste Hilfe Kasten und eine Nuka-Cola! Lecker!}
 {312}{}{Mach ein Rad-X.}
-{320}{}{Hervorragend! Um Rad-Away herzustellen, benötigen sie: Eine Nuka Cola, eine Injektionsspritze und ein Stimpak! Lecker!}
-{322}{}{Mach ein Rad-Away.}
+{320}{}{Hervorragend! Um RadAway herzustellen, benötigen sie: Eine Nuka-Cola, eine Injektionsspritze und ein Stimpak! Lecker!}
+{322}{}{Mach ein RadAway.}
 {330}{}{Hervorragend! Um Gegengift herzustellen, benötigen sie: Einen Skorpionschwanz und Schnapps. Lecker!}
 {331}{}{Mach Gegengift.}
 {340}{}{Oh Mann! Eine Spezialanforderung! Welches spezielle Mittel soll Mr. Chemmie heute für Sie herstellen?!}
@@ -54,7 +54,7 @@
 {371}{}{Weitere Optionen.}
 {375}{}{Mr. Chemmie liebt es zu helfen! Ich kann eine Substanz namens Nitroglyzerin herstellen, welche irreguläre Herzschläge kontrolliert und vor Herzinfarkten schützt!}
 {380}{}{Rad-X}
-{381}{}{Rad-Away}
+{381}{}{RadAway}
 {382}{}{Etwas spezielles}
 {383}{}{Nichts}
 {390}{}{Heute ist Ihr Glückstag! Ich habe genügend Chemikalien in meinem Vorratsspeicher, um einen UASH-Behälter herzustellen! Soll Mr. Chemmie einen für Sie herstellen?}

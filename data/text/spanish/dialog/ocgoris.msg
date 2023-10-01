@@ -83,7 +83,7 @@
 {165}{}{Bueno, cualquier información por pequeña que sea sirve, y te lo agradezco.}
 {166}{}{¡Resulta que este es un tema muy importante para mí y me has decepcionado!}
 {167}{}{Ya veo.}
-{168}{}{Creo que lo llaman virus V.E.F. El Enclave está, o estaba, investigándolo a fondo. Lo
+{168}{}{Creo que lo llaman virus VEF. El Enclave está, o estaba, investigándolo a fondo. Lo
  siento, pero no sé nada más.}
 {169}{}{Está bien; hablemos de otros asuntos.}
 {170}{}{Deberías avergonzarte. ¡Me dijeron que eras una fuente de conocimiento!}

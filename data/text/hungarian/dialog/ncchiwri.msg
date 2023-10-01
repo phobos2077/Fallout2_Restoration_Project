@@ -38,9 +38,7 @@
 {280}{}{Nem igazán. Bocs, hogy zavartalak.}
 {290}{}{Nem hallottál a Wright családról? Jó sokat lehettél a sivatagban! A Wright család a legnagyobb bűnszövetkezet Renóban. Mi fogjuk uralni a várost.}
 {291}{}{Valóban? Úgy tűnik, a Wright családnál vannak a legjobb lapok. Nem akarnak felbérelni senkit?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
- other families.}
+{292}{}{Igazság szerint épp arra gondoltam, hogy ők a leggyengébb család... Úgy értem, csak alkoholban utaznak, nincs kaszinó, meg drogkereskedelem, és a család létszáma is alacsonyabb, mint a többieké.}
 {293}{}{Ha már a családnál tartunk, összefutottam édesanyáddal.}
 {294}{}{Tudsz valamit mondani arról, mi történt Richard öcséddel?}
 {295}{}{Igazán? Nagyon érdekes... nos hát... most mennem kell.}
@@ -55,8 +53,7 @@
 {317}{}{Belerúgsz azzal a lábaddal, amit leköpött.}
 {318}{}{Elslattyogsz}
 {319}{}{Békén hagyod és elmész. Ezúttal...}
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Hogyismondjam... az a helyzet, hogy a Wright család... az én családom... talán tud ajánlani egy állást. Nem ígérek semmit, de menj a dél felé lévő kúriához, keresd fel Keith bátyámat, és mondd meg neki, hogy én küldtelek. A nevem Chris Wright.}
 {326}{}{Öö... Wright családot mondtál? Kik ők?}
 {327}{}{Wrightot mondtál? Összefutottam édesanyáddal.}
 {328}{}{Tudsz valamit mondani arról, mi történt Richard öcséddel?}
@@ -79,29 +76,28 @@
 {370}{}{Nem kétlem... most viszont mennem kell.}
 {380}{}{Jár-kel fel-alá és a bűnbeesésről papol, meg ilyenek, de nem tudja igazán, Apu mit csinál. Vagy ha igen, nem vesz róla tudomást.}
 {381}{}{Miért, mit csinál az édesapád?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Akkor kérdeznék valami mást.}
 {383}{}{Érdekes, viszont most mennem kell.}
 {390}{}{Alkoholt gyárt, fegyvereket ad el, kicsinál embereket, akik baszakodnak vele... tipikus családi elfoglaltságok. Anyám kiakadna, ha tudná, hogy tulajdonképpen mi folyik a háttérben. Különösen, ha itt megtalálná a szeszfőzdét.}
 {391}{}{Mennyire akadna ki?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Akkor kérdeznék valami mást.}
 {393}{}{Érdekes, viszont most mennem kell.}
 {400}{}{Annyira biztos, hogy szétverné ezt a helyet... minimum. Valszeg szétmagyarázná a fejét és néhány napig folyamatosan imádkozhatnánk. Hehe.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Érdekes. Inkább kérdezek mást...}
 {402}{}{Hmmmmm. Köszi.}
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{A Richie-t kérded? Hát tudod, úgy találtunk rá, mint a többi jet-használóra, otthagyták egy árokban. Amennyire meg tudtuk állapítani, valaki halálra pumpálta droggal.}
 {411}{}{"Valaki" túl sokat adott be neki? Miből gondolod, hogy nem saját magát adagolta túl?}
 {412}{}{Szerinted ki csinálhatta?}
 {413}{}{Ez bizony sajnálatos. Kérdezhetek még valamit?}
 {414}{}{Mocskos dolog ez. Figyu, most mennem kell.}
 {420}{}{Mert az a gyerek tiszta volt... az anyám SOKMINDENRE megtanította. Ha pedig más lenne a véleményed, itt helyben lerendezhetjük.}
 {421}{}{Nem úgy gondoltam. Bocs, hogy felhoztam a témát.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Ne vakítson el a gondolat, hogy magának csinálta. A Jet hihetetlenül addiktív.}
 {423}{}{Nézd, KÖLYÖK, ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
 {424}{}{Szerinted ki csinálhatta?}
 {425}{}{Én nem keresem a bajt. Csá...}
 {435}{}{Na, nehogy már! Ezt bármelyik Wright beszólásnak venné, szóval, ha lennél olyan szíves ne dobálózz itt a kemény szavakkal!}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{Ne vakítson el a gondolat, hogy magának csinálta. A Jet hihetetlenül addiktív.}
 {437}{}{Nézd, KISFIAM, ne szarakodj itt velem! Ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
 {438}{}{Bocs, nem akartam beszólni. Kérdeznék inkább valami mást...}
 {439}{}{Megértettem. Akkor most inkább megyek.}
