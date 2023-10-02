@@ -5,6 +5,8 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 28](#version-28)
+- [Version 27](#version-27)
 - [Version 26](#version-26)
 - [Version 25](#version-25)
 - [Version 24](#version-24)
@@ -33,20 +35,45 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
+### Version 28
+
+[Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/237) car disappearing if PC already has it when returning Jonny to his parents in Modoc.
+
+Introduced in v27. To hotfix, download and extract [this](https://github.com/BGforgeNet/Fallout2_Restoration_Project/files/12673833/modmain.int.zip) into `data/scripts`.
+
+### Version 27
+
+- New animations for Cat Jules, from [black dude](https://github.com/rotators/fallout-animations/tree/master/Male_BlackDude) set.
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/147) improved mysterious stranger causing lag in a random encounter.
+- Increased lighting in some of the darker areas.
+- Abbey
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/219) double reward for killing the small deathclaw.
+- San Francisco
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/165) stupid characters being unable to return the decomposing body to Dr. Wong.
+- Vault City
+  - Chief Librarian Kohl will give a [pointer to Abbey](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/220).
+- Vault Village
+  - Changed critter placement so one "strong peasant" does not block the desk (contain minor loot) in the "upgraded" village elevations.
+
 ### Version 26
+
 - Hero Appearance updated to version 2.6.
 - Party Orders updated to version 1.11.
 
 ### Version 25
+
 Fixed [crash in EPA](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/129) when sfall QoL features weren't selected during installation.
 
 ### Version 24
+
 Maintenance release: bugfixes from UPU, expanded Polish translation.
 
 ### Version 23
+
 Fixed Cassidy missing talking head.
 
 ### Version 22
+
 - [Animations](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/107)
   - Extended flamer animations are moved into a separated component, and updated.
   - Green ghoul "magic hands ground" animation is enabled.
@@ -58,9 +85,11 @@ Fixed Cassidy missing talking head.
   - Fixed [black screen](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108) upon entering the area in German version.
 
 ### Version 21
+
 Updated sfall to 4.3.0.1.
 
 ### Version 20
+
 - General
   - XP rewards for Kaga are [more consistent](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/78). Also, Kaga will wield more appropriate weapons at each level (2: hunting rifle instead of 14mm pistol, 3: assault rifle instead of combat shotgun, 4: super cattle prod instead of laser rifle).
   - Linux: fixed AmmoMod installation on case sensitive fs.
@@ -83,36 +112,44 @@ Updated sfall to 4.3.0.1.
     - All this also applies to plants inside EPA.
 
 ### Version 18
+
 Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
 
 ### Version 17
+
 - Kaga now has [consistent stats and HP](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/57).
 
 ### Version 16
+
 - Separated [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor) mod.
 - Added Italian and Hungarian translations.
 - Fixed a leftover from YAAM, incorrect stats for BB ammo.
 
 ### Version 14
+
 - Fixed auto installer not allowing to select a directory in some cases.
 - Fixed `AllowSoundForFloats` placement in `ddraw.ini`
 - Enabled more QoL options: `WorldMapTerrainInfo`, `ActionPointsBar`, increased `NumSoundBuffers` to 16.
 
 ### Version 13
+
 - Multiple fixes and updates from [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch).
 - Added [high quality music](https://github.com/BGforgeNet/Fallout2-HQ-music).
 
 ### Version 12
- - Fixed incorrect `WorldMapSlots` placement in `ddraw.ini`.
- - Fixed re-stocking Red 888 Guns (introduced in v11).
- - Fixed `rpu-install.command` being left out on cleanup.
+
+- Fixed incorrect `WorldMapSlots` placement in `ddraw.ini`.
+- Fixed re-stocking Red 888 Guns (introduced in v11).
+- Fixed `rpu-install.command` being left out on cleanup.
 
 ### Version 11
- - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
- - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
- - Moved more ini files into `mods` directory.
+
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
+- [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
+- Moved more ini files into `mods` directory.
 
 ### Version 10
+
 - General
   - Disabled `AIBestWeaponFix` by default, as it's not much of a fix.
   - Fixed Goris de-robing script so that it'll actually enable `UseFileSystemOverride` when necessary.
@@ -134,6 +171,7 @@ Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance
     - Badger will keep re-stocking after 7 years.
 
 ### Version 9
+
 - General
   - Allowed all Kaga versions to be knocked down, for consistency.
   - Added [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders) to release package.
@@ -153,6 +191,7 @@ Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance
 Added missing item highlight and party control mods.
 
 ### Version 7
+
 - Enabled some QoL features in sfall: `DontTurnOffSneakIfYouRun`, `NumbersInDialogue`, `WorldMapFontPatch`, `PartyMemberExtraInfo`.
 - Removed files identical to their `master.dat` versions.
 - Removed duplicate files from animations components.
@@ -185,24 +224,24 @@ Repacked into .dat file.
 ### Version 1
 
 - General
-    - Damage formula no longer erroneously defaults to YAAM.
-    - Various under the hood changes and optimizations.
+  - Damage formula no longer erroneously defaults to YAAM.
+  - Various under the hood changes and optimizations.
 - Abbey
-    - Computer desk in SW map corner gives a message when used.
-    - Both deatchclaws have correct scripts now.
-    - Fixed brother Paul not giving access to computers if the beast was killed, but the book wasn't retrieved.
+  - Computer desk in SW map corner gives a message when used.
+  - Both deatchclaws have correct scripts now.
+  - Fixed brother Paul not giving access to computers if the beast was killed, but the book wasn't retrieved.
 - Broken Hills
-    - Allowed to use lockpicks in Chad's quest.
+  - Allowed to use lockpicks in Chad's quest.
 - Den
-    - Fixed dealer's bodyguard description.
-    - Deleted 0-stack ammo pack from Metzger's desk.
-    - Bobby's floats tweaked to reflect he's packing things.
+  - Fixed dealer's bodyguard description.
+  - Deleted 0-stack ammo pack from Metzger's desk.
+  - Bobby's floats tweaked to reflect he's packing things.
 - Enclave
-    - Fixed RP NPC suffering no damage in the puzzle room.
-    - Fixed vertibird pad area being immune to meltdown countdown and FEV poisoning.
+  - Fixed RP NPC suffering no damage in the puzzle room.
+  - Fixed vertibird pad area being immune to meltdown countdown and FEV poisoning.
 - Klamath
-    - Fixed Duntons offering the job on the pastures, then telling the PC off. Also, fixed CoP check in their script.
+  - Fixed Duntons offering the job on the pastures, then telling the PC off. Also, fixed CoP check in their script.
 - Gecko
-    - Lenny: moved ammo from hands to inventory.
+  - Lenny: moved ammo from hands to inventory.
 - Hubologists' stash
-    - Added proper messages for using skills and items on the top door.
+  - Added proper messages for using skills and items on the top door.
