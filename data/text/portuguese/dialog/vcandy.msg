@@ -1,6 +1,6 @@
-{100}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutanea vermelha e clara, a qual ele esfrega frequentemente.}
+{100}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutânea vermelha e clara, a qual ele esfrega frequentemente.}
 {101}{}{Você vê o "Doutor" Andrew.}
-{102}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutanea vermelha e clara, a qual ele esfrega frequentemente.}
+{102}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutânea vermelha e clara, a qual ele esfrega frequentemente.}
 {103}{}{Parece que você presenciou uma bela de uma briga...}
 {104}{}{Opa... parece que você viu uma ação de verdade, amigão.}
 {105}{}{Puxa...parece que você esteve em uma briga séria...}
@@ -216,7 +216,7 @@
 {315}{}{Bem... tudo bem. Isso parece justo.}
 {316}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {317}{}{Apagar-se por 3 segundos}
-{318}{}{Hmmph. Parece que o Doctor esta teimando de novo. Pedaço de lixo... ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcione melhor da próxima vez.}
+{318}{}{Hmmph. Parece que o o Doctor está teimando de novo. Pedaço de lixo... ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcione melhor da próxima vez.}
 {319}{}{O qu...? Eu quero meu dinheiro de volta!}
 {320}{}{Oh, bem, espero que sim. Olha, eu preciso de mais uma coisa...}
 {321}{}{É, talvez. Estou indo.}

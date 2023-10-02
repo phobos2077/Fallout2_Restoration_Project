@@ -843,7 +843,7 @@
 {245200}{}{Piso}
 {245300}{}{Piso}
 {245400}{}{Piso}
-{245500}{}{End of Group}
+{245500}{}{Fim do grupo}
 {245600}{}{Telhado}
 {245700}{}{Telhado}
 {245800}{}{Telhado}
@@ -870,9 +870,9 @@
 {247900}{}{Telhado}
 {248000}{}{Telhado}
 {248100}{}{Telhado}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Fim do grupo}
+{249100}{}{Fim do grupo}
+{250400}{}{Fim do grupo}
 {250500}{}{Piso de madeira}
 {250600}{}{Piso de madeira}
 {250700}{}{Piso de madeira}
@@ -884,10 +884,10 @@
 {251300}{}{Piso de madeira}
 {251400}{}{Piso de madeira}
 {251500}{}{Piso de madeira}
-{251600}{}{End of Group}
+{251600}{}{Fim do grupo}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Fim do grupo}
+{318200}{}{Fim do grupo}
 {369100}{}{Telhado}
 {369200}{}{Telhado}
 {369300}{}{Telhado}
@@ -1011,4 +1011,4 @@
 {388400}{}{Telhado}
 {388500}{}{Telhado}
 {388600}{}{Telhado}
-{388700}{}{VentilaÃ§Ã£o de teto}
+{388700}{}{Ventilação de teto}

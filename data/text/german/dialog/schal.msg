@@ -16,7 +16,8 @@
  sein, dass du noch am Leben bist.}
 {114}{}{Die Rancher sind ziemlich unzufrieden - mehr als 1000 Dollar sind da nicht drin. Dumm
  gelaufen.}
-{115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
+{115}{}{Wir hatten zwischendurch ein bisschen Pech, aber das macht nichts. Hier sind 2000 Dollar,
+ wie vereinbart.}
 {116}{}{Alle Wetter, das war saubere Arbeit. Dafür gibt's noch mal 1000 Dollar extra. Das und die 2000
  Dollar Sold. Da wird's in Redding ganz schön abgehen heute nacht, hua, hua.}
 {117}{}{Du kannst jetzt gehen. Gute Reise und so.}

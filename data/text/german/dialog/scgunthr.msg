@@ -13,7 +13,7 @@
 {110}{}{Das Ganze noch mal von vorn. Du wollen helfen Tandi? Du wollen arbeiten für Tandi?}
 {111}{}{Jajajaja!}
 {112}{}{Tandi Arbeit. Ich wollen.}
-{113}{}{Was du machen?}
+{113}{}{Was du tun?}
 {114}{}{Ähhhh...ich töten. Viel töten!}
 {115}{}{Ähhhh...ich schlau. Älteste sagen ich haben Kinderhirn. Ich haben zwei Gehirn. Ich schlau}
 {116}{}{Die Arbeit der Präsident ist nichts für dich!}

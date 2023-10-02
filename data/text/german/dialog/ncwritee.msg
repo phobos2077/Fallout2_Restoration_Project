@@ -20,8 +20,8 @@
 {208}{}{Sie wollten einen neuen Virus freisetzen? Schweine. Ich hoffe du hast einen in meinem Namen erschossen.}
 {209}{}{Ich dachte der Präsident wäre nur ein Mythos, ein schwarzer Mann der Kinder erschrecken soll.}
 {210}{}{Du siehst aus als wärst du einmal zur Hölle und zurück gefahren. Ruhe dich ein wenig aus. Du verdienst es.}
-{211}{}{Spielst du das Spiel noch einmal mit einem anderen Charakter durch? Ich empfehle eine Art Outdoorspezialist.}
-{212}{}{F.E.V.? Was ist denn das?}
+{211}{}{Spielst du das Spiel noch einmal mit einer anderen Figur durch? Ich empfehle eine Art Outdoorspezialist.}
+{212}{}{FEV? Was ist denn das?}
 {213}{}{New Reno wurde von Chris Avellone designt und wurde von Tom French gescripted. Tom spielt in einer Band. Chris spiel mit sich selber.}
 {214}{}{Ich hoffe ich werde ein Hauptcharakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein stinkt.}
 {215}{}{Hab gehört, du hast die Enklave im Süden in die Luft gejagt. Ganz schön mutig.}
@@ -61,7 +61,7 @@
 {307}{}{Verdammt heiss...}
 {308}{}{New Reno wird jeden Tag hässlicher...}
 {309}{}{Was machst du hier?}
-{310}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
+{310}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {311}{}{Pass auf, wo du hintrittst, klar? Das ist hier das Revier von den Wrights.}
 {320}{}{Du solltest mit den Kindern spielen, wenn du die Rüstung anhast. Die Kinder lieben es.}
 {321}{}{Tritt mir mit dem Ding nicht auf die Füße, okay?}
@@ -81,8 +81,8 @@
 {343}{}{Verdammt heiss...}
 {344}{}{Ich habe meine Mutter eine Weile nicht gesehen. wenn du sie siehst, sag ihr nichts von den Destillen, Ok?}
 {345}{}{Keith hat letzte Woche das Klavier zerlegt und wieder zusammen gebaut. Kluger Junge.}
-{346}{}{Wir gehen in den nächsten Tagen Radscorpione jagen.}
-{347}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
+{346}{}{Wir gehen in den nächsten Tagen Radskorpione jagen.}
+{347}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {348}{}{Pass auf die Kinder auf, die hier rumlungern, sie spielen immer auf dem Boden.}
 {349}{}{Kannst du mir beibringen zu kämpfen?}
 {350}{}{Du bist dieser Kämpfer, }
@@ -97,7 +97,7 @@
 {362}{}{Wie ist es denn so beim Film? Mom lässt mich deine Filme nicht sehen.}
 {363}{}{Erzähle den kleinen nicht was du tust.}
 {364}{}{Mom wir durchdrehen, wenn sie dich sieht. Sie ist so hysterisch.}
-{365}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
+{365}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {366}{}{Wir Wrights sind die stärkste Familie, weil wir eine echte Familie sind.}
 {367}{}{Schande über meinen kleinen Bruder. Er war ein gutes Kind, aber das Jet ist überall in der Stadt, schwer ihm aus dem Weg zu gehen...}
 {368}{}{Dad sagt er erwürgt uns wenn er hört, dass einer von uns Jet nimmt.}
@@ -105,12 +105,12 @@
 {370}{}{Chris wird noch ausgepeitscht wenn er nicht aufhört in das Lagerhaus zu schleichen.}
 {371}{}{Verdammt heiss...}
 {372}{}{Keith hat letzte Woche das Klavier zerlegt und wieder zusammen gebaut. Kluger Junge.}
-{373}{}{Wir gehen in den nächsten Tagen Radscorpione jagen.}
+{373}{}{Wir gehen in den nächsten Tagen Radskorpione jagen.}
 {374}{}{Redest du wirklich mit Gott, wenn du Sex bei den Aufnahmen hast?}
 {375}{}{Mom sagt du wärst ein Werkzeug des Teufels.}
 {376}{}{Mom sagt du bist eine Hure. Eine dreiste Hure. Ich weiß gar nicht, was sie damit sagen will.}
-{385}{}{Du willst Dad geschäftlich sehen? Na dann viel Glück, ich glaube nicht, dass er zur Zeit Leute anheuert.}
-{386}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
+{385}{}{Du willst meinen Vater wegen dem Geschäft sehen? Nun, viel Glück, soweit ich weiß heuert er zur Zeit keine Männer an.}
+{386}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {387}{}{Pass auf, wo du hintrittst, klar? Das ist hier das Revier von den Wrights.}
 {390}{}{Geh besser, wir mögen hier keine Sklavenhändler.}
 {391}{}{Denke nicht einmal daran hier jemanden zu entführen. Wenn du irgendwelche Probleme machst bist du tot.}
@@ -119,7 +119,7 @@
 {394}{}{Ich hab dich im Auge Sklavenhändler, also, was willst du?}
 {395}{}{Fass eines dieser Kinder an und ich mache dich kalt bevor du überhaupt weißt was los ist.}
 {396}{}{Fass eines dieser Kinder an und ich werde dich töten.}
-{397}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
+{397}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {398}{}{Du tust einem Wright etwas zu Leide, Sklavenhändler, und deine Familie wird keine Ruhe haben, bis sie in Golgotha liegt.}
 {399}{}{Du willst Dad geschäftlich sehen? Ich glaube nicht, dass Dad Geschäfte mit Sklavenhändlern macht. Du gehst besser.}
 {410}{}{Sag besser keinen Blödsinn, mein Vater mag Wilde nicht so besonders.}
@@ -128,7 +128,7 @@
 {413}{}{Du solltest lieber keine Drogen mitnehmen, oder Dad wird dich töten. Und nachher töte ich dich nochmal.}
 {414}{}{Ich hab dich hier im Blick, also mach nichts Falsches, klar?}
 {415}{}{Von wo kommst du? Ich habe euresgleichen schon lange nicht mehr in der Gegend gesehen.}
-{416}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
+{416}{}{Wenn du nach Alkohol Ausschau hältst, dann sieh dich beim Bahnhof um... wir verkaufen hier nichts.}
 {417}{}{Du tust einem Wright etwas zu Leide und deine Familie wird keine Ruhe haben, bis sie in Golgotha liegt.}
 {418}{}{Du willst meinen Vater wegen dem Geschäft sehen? Viel Glück, soweit ich weiß heuert er zur Zeit keine Männer an.}
 {425}{}{Der Ghul gehört hier nicht hin. Schicke ihn besser sofort nach Gecko zurück.}

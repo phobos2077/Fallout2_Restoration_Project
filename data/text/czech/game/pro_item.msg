@@ -1100,7 +1100,7 @@
 {56800}{}{Dálkově řízený dynamit}
 {56801}{}{Na rozdíl od dynamitů s časovačem lze tento odpálit na dálku. Dynamit je odjištěn a připraven k odpálení.}
 {56900}{}{Pop Rocks}
-{56901}{}{Neotevřený balíček chutných bonbónů vyrobených z cukru, laktózy (více cukru), kukuřičného syrupu (ještě více cukru) a různých příchutí. Říká se, že když se smíchají s nápojem jako je Nuka Cola, může dojít k explozi žaludku.}
+{56901}{}{Neotevřený balíček chutných bonbónů vyrobených z cukru, laktózy (více cukru), kukuřičného syrupu (ještě více cukru) a různých příchutí. Říká se, že když se smíchají s nápojem jako je Nuka-Cola, může dojít k explozi žaludku.}
 {57000}{}{Láhev šampónu}
 {57001}{}{Láhev kvalitního šampónu. Na rozdíl od jiných předních značek je zabalen v neobvyklé pružné plastové láhvi. Byla takto speciálně navržena, aby po jejím zmáčknutí vyteklo jen potřebné množství šamponu. Ne více, ne méně. Stačí odklopit víčko a zmáčknout.}
 {57100}{}{K-9 Kevlar}

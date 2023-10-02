@@ -32,7 +32,7 @@
 {208}{}{Myron, enfin ! On a des nouvelles du prochain arrivage d'esclaves, chef ?}
 {209}{}{Chef, Myron, nous avons déplacé 3 esclaves du groupe témoin vers le groupe d'essai à cause des problèmes respiratoires de la semaine dernière.}
 {210}{}{Chef, Myron, nous avons dû abattre un esclave qui tentait de s'échapper. Quel gâchis.}
-{211}{}{Myron, l'hallucinogène que nous développons en ce moment est prometteur, mais il ne rend pas aussi dépendant que le Jet.}
+{211}{}{Myron... l'hallucinogène que nous développons en ce moment est prometteur, mais il ne rend pas aussi dépendant que le Jet.}
 {212}{}{Si tu as des suggestions, mets-les par écrit, et jette le papier directement dans la corbeille là-bas.}
 {213}{}{Oui, oui, quoi ?}
 {214}{}{On arrivera à rien si tu nous interromps tout le temps.}

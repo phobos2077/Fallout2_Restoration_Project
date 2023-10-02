@@ -119,8 +119,9 @@
 {181}{}{Alle Bergarbeiter hier arbeiten nur gerade so viel, dass sie sich ihren nächsten Schuss
  Jet leisten können. Die Produktion ist ganz schön zurückgegangen. Wenn das so weitergeht,
  gehört Redding bald New Reno.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
+{182}{}{Alles, was die Bergarbeiter in letzter Zeit hier tun, ist Jet nehmen. Es gräbt kaum
+ noch jemand nach Gold. Ich mach mir Sorgen, dass New Reno die Stadt bald in der Tasche hat. Ich
+ wünschte wirklich, dass es einen Weg gäbe, dieser Jet-Abhängigkeit bald ein Ende zu bereiten.}
 {183}{}{Was hat denn New Reno damit zu tun?}
 {184}{}{Woher kommt denn das Jet?}
 {185}{}{Ach so. Lass mich dich noch was fragen.}
@@ -148,16 +149,17 @@
 {200}{}{Was hat denn New Reno damit zu tun gehabt?}
 {201}{}{Bin froh, dass es funktioniert hat, Doc. Dann Tschüss.}
 {202}{}{Eine Lösung? Was meinst du?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
+{203}{}{Ich meine, dass ich ein Mittel gegen Jet habe. Es ist von Dr. Troy aus Vault City und
+ es sollte eigentlich das Jet-Problem lösen, dass ihr hier habt.}
 {204}{}{Och, nichts. Lass mich dich noch etwas fragen, Doc.}
 {205}{}{Allerdings, zuviel Jet, zu wenig Arbeit... aber wo hast du das gehört?}
 {206}{}{McClure aus Vault City hat's mir erzählt.}
 {207}{}{Ich hab nur ein Gerücht gehört, das ist alles.}
 {208}{}{Ist nicht so wichtig. Lass mich dich noch etwas fragen.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno verkauft Jet ziemlich billig. Jet macht richtig süchtig, schlimmer als alles,
+ was du je gesehen hast. Die denken sich, wenn erst mal genug Leute in einer Gegend Jet nehmen,
+ werden sie alles tun, um mehr zu bekommen. Das bedeutet, dass sie de facto die Kontrolle über so
+ eine Gegend haben - wie in Redding.}
 {210}{}{Ach so. Lass mich dich noch etwas fragen, Doc.}
 {211}{}{Wenn du also nicht möchtest, dass New Reno Redding kontrolliert, wer soll dann deiner
  Meinung nach das Ruder hier übernehmen?}

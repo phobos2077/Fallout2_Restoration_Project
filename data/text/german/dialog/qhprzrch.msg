@@ -2,11 +2,11 @@
 {101}{}{Du siehst das Oberhaupt der freien Welt, den Präsidenten der Vereinigten Staaten.}
 {102}{}{Du siehst einen dünnen, nervösen, alten Mann, der genauso müde und ausgezehrt wirkt wie sein Anzug.}
 {103}{prs1a}{Hey, du da. Was machst du vor dem Regenerierungszentrum?}
-{104}{prs1b}{Kenn ich dich? Zu welchem Projekt  gehörst du?}
+{104}{prs1b}{Kenn ich dich? Zu welchem Projekt gehörst du?}
 {105}{prs1c}{Was glaubst du eigentlich, wer du bist? Platzt hier einfach in mein Büro.}
 {106}{}{Uh?}
 {107}{}{Nö.}
-{108}{}{Bye-bye.}
+{108}{}{Tschüssi!}
 {109}{prs2a}{Oh, verstehe, Auswirkungen des Testserums. Ich hol Hilfe. Wachen!}
 {110}{prs2b}{Sieht so aus, Doktor, als wärst du mit dem FEV in Berührung gekommen. Armes Schwein, ich hol Hilfe. Wachen!}
 {111}{prs2c}{Jetzt sei ein guter Mutant und rühr dich nicht vom Fleck. Wachen!}
@@ -72,7 +72,7 @@
 {167}{}{Das hört sich gut an.}
 {168}{}{Guter Versuch, Herr Präsident.}
 {169}{prs17}{Eine Sekunde noch. (In die Sprechanlage sprechend) Äh, ich hätte gern eine Erfrischung für mich und einen
- *unerwarteten Gast*.  (Schleimig zu verrücktem Spieler) Einen sehr wichtigen - unerwarteten - Gast. Nicht wahr?}
+ *unerwarteten Gast*. (Schleimig zu verrücktem Spieler) Einen sehr wichtigen - unerwarteten - Gast. Nicht wahr?}
 {170}{}{Danke. Du bist gar nicht so übel, wie ich dachte.}
 {171}{}{Das war ein dummer Zug. Jetzt ist einer dran.}
 {172}{prs18}{Also, irgend jemand hat hier nicht mehr alle Tassen im Schrank. Oh, jaaa. Oooh jaa!}
@@ -148,7 +148,7 @@
 {230}{prs38}{Ein bedauerlicher und unvorhersehbarer Vorfall, aber ziemlich hilfreich, wie sich gezeigt hat.}
 {231}{}{Was meinst du damit?}
 {232}{prs39}{Naja, es hat sich ergeben, dass wir unverdorbene Versuchspersonen aus dem menschlichen Vorkriegsbestand
- brauchten - deine Vorfahren in Vault 13 - und dann noch ein paar frisch mutierte Exemplare - die Dorfbewohner von Arroyo.  }
+ brauchten - deine Vorfahren in Vault 13 - und dann noch ein paar frisch mutierte Exemplare - die Dorfbewohner von Arroyo.}
 {233}{}{Warum?}
 {234}{prs39a}{Für das Projekt. Es ist fast abgeschlossen. Die Rettung der Menschheit steht kurz bevor.
  Und die Vereinigten Staaten von Amerika werden der Wegbereiter dieser Wiedergeburt sein.}

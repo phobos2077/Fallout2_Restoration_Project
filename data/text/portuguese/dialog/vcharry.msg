@@ -28,29 +28,29 @@
 {127}{}{Obrigado pelo negócio. Se cuida.}
 {128}{}{Adeus.}
 {129}{}{Connar me mandou buscar as mercadorias.}
-{130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
-{131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
-{132}{}{Of course, here's the money.}
-{133}{}{But Connar only gave me five grand.}
-{134}{}{But Connar only gave me two grand.}
-{135}{}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
-{136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
-{137}{}{Excellent. But remember, you didn't buy these weapons here.}
-{138}{}{It's a deal. Bye.}
+{130}{}{[Os olhos de Harry se movem rapidamente, ele parece um pouco nervoso] Sim, claro. Um momento...}
+{131}{}{[Harry te traz os rifles.] Aqui, pegue. Vai ser dez mil, e vamos fazer isso rápido.}
+{132}{}{Claro, aqui está o dinheiro.}
+{133}{}{Mas Connar só me deu cinco mil.}
+{134}{}{Mas Connar só me deu dois mil.}
+{135}{}{Não é problema meu. Olha, meu negócio já tem problemas o suficiente. Se alguém descobrir que estou fornecendo armas a Connar, as coisas vão ficar muito feias, e bem rápido. Além disso, já estou dando um desconto para ele.}
+{136}{}{Olha, estou colocando meu pescoço em risco. . . Ah, que vá tudo pro inferno, eu não tenho tempo para discutir. É só levar. [Ele rapidamente embolsa seu dinheiro.] Agora saia daqui. E lembre-se, você não comprou nada de mim.}
+{137}{}{Excelente. Mas lembre-se, você não comprou essas armas aqui.}
+{138}{}{Temos um acordo. Tchau.}
 {139}{}{[MAIS]}
-{140}{}{Well then, wait a bit until I get the money.}
-{141}{}{Well, have you brought the money?}
-{142}{}{What if I just give you five grand?}
-{143}{}{What about two grand?}
-{144}{}{Ehmmm... ten grand?! I don't have that much money; wait a bit until I get it.}
-{145}{}{Damn! Who could possibly have turned me in?!}
-{146}{}{Hey! What was I imprisoned for?}
-{147}{}{Well, at least the food's not bad.}
+{140}{}{Bem, então espere um pouco até eu receber o dinheiro.}
+{141}{}{Bem, você trouxe o dinheiro?}
+{142}{}{E se eu te der cinco mil?}
+{143}{}{Que tal dois mil?}
+{144}{}{Ehmmm... dez mil?! Eu não tenho tanto dinheiro; espere um pouco até eu conseguir.}
+{145}{}{Droga! Quem poderia ter me denunciado?!}
+{146}{}{Ei! Por que fui preso?}
+{147}{}{Bem, pelo menos a comida não é ruim.}
 {148}{}{O que você está olhando?}
-{149}{}{What will happen to my shop now?}
-{200}{}{$500? Hey, maybe you could give me some kind of discount, I mean, you and Dave are friends, right?}
-{201}{}{To tell you the truth, I never really cared for the fella. $500 for the motor. Take it or leave it.}
-{202}{}{Fine. Here's the money.}
-{203}{}{Forget it, I'm outta here.}
-{204}{}{$500!? Forget this, I'm outta here.}
-{1288}{}{Looks like I don't have enough money. Bye.}
+{149}{}{O que acontecerá com minha loja agora?}
+{200}{}{$500? Ei, talvez você pudesse me dar um descontinho, figo, você e Dave são amigos, certo?}
+{201}{}{Para dizer a verdade, nunca me importei com o cara. $500 pelo motor. É pegar ou largar.}
+{202}{}{Certo. Aqui está o dinheiro.}
+{203}{}{Esqueça, vou sair daqui.}
+{204}{}{$500!? Esqueça isso, vou sair daqui.}
+{1288}{}{Acho que não tenho dinheiro suficiente. Tchau.}

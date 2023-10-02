@@ -23,11 +23,11 @@
 {270}{}{Você completou a tarefa para mim?}
 {271}{}{Sim, matei todas as plantas. Os solos ainda parecem infernos, mas pelo menos eles são um pouco mais seguros.}
 {272}{}{Não, ainda não. Eu vou ter que voltar para você.}
-{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
+{280}{}{Oh, muito obrigado. Por isso, eu contrato você como meu assistente de jardinagem. [Ele aponta para uma chave no chão por seus pés.] Eu consegui coaxar um dos robôs meio trabalhando para trazer isso para você. Agora você tem autorização para acessar o galpão de armazenamento. Obrigado novamente.}
 {281}{}{[Você pega a chave e guarda-a.] Não há problema. Até mais.}
 {290}{}{Você parece um pouco bagunçado. Está tudo bem?}
 {291}{}{Sim eu estou bem. Tive alguns problemas com algumas plantas mutadas no caminho para baixo, mas eu cuidei delas.}
-{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
+{300}{}{Você fez? Maravilhoso! Por isso, eu contrato você como meu assistente de jardinagem. [Ele aponta para uma chave no chão aos seus pés.] Eu consegui convencer um dos robôs trabalhando meio em trazer as chaves para mim há algum tempo - apenas no caso. Pegue-os. Agora você tem autorização para acessar o galpão de armazenamento. Obrigado novamente.}
 {301}{}{Ah não. Era tudo que eu podia fazer. Não se preocupe com isso.}
 {302}{}{Ei, obrigado! Adeus.}
 {310}{}{Ei, você me fez um bom turno para que você tome a chave e tudo o que quiser ou precisa. É minha maneira de agradecer pelo que você fez.}

@@ -1,16 +1,16 @@
-{100}{}{You see a stern-looking woman with thick glasses, wearing a Vault City jumpsuit. Judging from her bearing, she seems important.}
-{101}{}{You see First Citizen Lynette. She looks preoccupied.}
-{102}{}{You see First Citizen Lynette. She looks preoccupied.}
-{103}{}{It is late. Schedule an appointment for tomorrow morning, and I will receive you then.}
-{104}{}{As I SAID, I don't receive visitors this late. MOST Citizens have retired to bed by this time.}
-{105}{}{Schedule an appointment for tomorrow morning. I will receive you then.}
-{106}{}{I will speak with you TOMORROW.}
-{107}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.}
-{108}{}{I don't know what you intend to gain by clicking on me, but I won't tolerate it much longer.}
-{109}{}{Perhaps you find clicking on me... amusing. Perhaps you will find the Corrections Center just as humorous.}
-{110}{}{I appreciate your attention, but I really am quite dangerous when riled.}
-{111}{}{I am the First Citizen! I must have my sleep!}
-{112}{}{Leave!}
+{100}{}{Você vê uma mulher de aparência severa com óculos grossos, vestindo um macacão de Vault City. A julgar por seu porte, ela parece importante.}
+{101}{}{Você vê a Primeira Cidadã Lynette. Ela parece preocupada.}
+{102}{}{Você vê a Primeira Cidadã Lynette. Ela parece preocupada.}
+{103}{}{É tarde. Agende uma consulta para amanhã de manhã, e eu o receberei.}
+{104}{}{Como eu DISSE, não recebo visitas tão tarde. A MAIORIA dos cidadãos já se retirou para dormir a essa altura.}
+{105}{}{Agende um horário para amanhã de manhã. Eu vou te receber.}
+{106}{}{Falo com você AMANHÃ.}
+{107}{}{Não sei como passou pelos guardas e entrou em meus aposentos particulares, mas é melhor ir embora.}
+{108}{}{Não sei o que você pretende ganhar me pressionando, mas não vou tolerar por muito tempo.}
+{109}{}{Talvez você ache que clicar em mim é... divertido. Talvez você ache o Centro Correcional igualmente engraçado.}
+{110}{}{Agradeço sua atenção, mas realmente sou muito perigoso quando irritado.}
+{111}{}{Eu sou a Primeira Cidadã! Eu devo dormir!}
+{112}{}{Saia!}
 {113}{}{Cai fora!}
 {114}{}{Fora! Fora! Fora!}
 {115}{}{Admiro sua persistência. Gostaria de admirá-la à distância.}
@@ -74,45 +74,45 @@
 {162}{}{Desculpe minha ignorância, Primeira Cidadã... o título "Primeira Cidadã" significa que você é o Supervisora desta vault?}
 {163}{}{Aqui é Vault City? Por que você não mora em uma vault?}
 {164}{}{Nenhum negócio hoje. Talvez outra hora.}
-{165}{}{Nothing today. My apologies for disturbing you, First Citizen. Good day.}
-{166}{lyn012a}{Where did one such as YOU hear of a Garden of Eden Creation Kit?}
-{167}{lyn012b}{Such technology is not meant for Outsiders.}
-{168}{}{You got a PROBLEM with Outsiders, woman?}
-{169}{}{You got a PROBLEM with Outsiders?}
-{170}{}{My apologies... is there a problem in being an Outsider, First Citizen?}
-{171}{}{I am the descendant of the Vault Dweller. The GECK is needed to help my village.}
-{172}{}{I am the descendant of the Vault Dweller, First Citizen. The GECK is required to help my village.}
-{173}{}{Woman, give me the GECK now, or I shall take it by force.}
-{174}{}{Give me the GECK now, or I shall take it by force.}
-{175}{}{Then we have nothing more to discuss. Good day.}
-{176}{lyn013}{The problem IS that all Outsiders wish to join our society, which is simply not feasible.
- We would undoubtedly sink into the same anarchy which plagues the outside.}
-{177}{}{I see. I wish to speak to the Overseer of the Vault. Can you take me to him?}
-{178}{}{How does one go about becoming one of you Vault Dwellers?}
-{179}{}{If you hate the outside world so much, why do you live outside, and not in the vault?}
+{165}{}{Nada hoje. Peço desculpas por incomodá-la, Primeira Cidadã. Bom dia.}
+{166}{lyn012a}{Onde alguém como VOCÊ ouviu falar de um Kit de Criação do Jardim do Éden?}
+{167}{lyn012b}{Essa tecnologia não se destina a forasteiros.}
+{168}{}{Você tem um PROBLEMA com estranhos, mulher?}
+{169}{}{Você tem um PROBLEMA com estranhos?}
+{170}{}{Com todo respeito... há algum problema em ser um forasteiro, Primeira Cidadã?}
+{171}{}{Eu sou o descendente do Morador da Vault. O GECK é necessário para ajudar minha aldeia.}
+{172}{}{Eu sou o descendente do Morador da Vault, Primeira Cidadã. O GECK é necessário para ajudar minha aldeia.}
+{173}{}{Mulher, me dê o GECK agora, ou vou pega-lo à força.}
+{174}{}{Me dê o GECK agora, ou vou tomá-lo à força.}
+{175}{}{Então não temos mais nada a discutir. Bom dia.}
+{176}{lyn013}{O problema é que todos os estranhos desejam ingressar em nossa sociedade, o que
+ simplesmente não é viável. Sem dúvida, afundaríamos na mesma anarquia que assola o exterior.}
+{177}{}{Entendo. Desejo falar com o Supervisor da Vault. Você pode me levar até ele?}
+{178}{}{Como alguém se torna um de vocês Moradores da Vault?}
+{179}{}{Se você odeia tanto o mundo lá fora, por que você mora lá e não na vault?}
 {180}{}{Já ouvi o suficiente. Tchau.}
-{181}{}{I... understand. Thank you for your time, First Citizen.}
-{182}{lyn014}{I find ALL of you Outsiders offensive. You are uncultured and primitive, no better than
- animals! Now leave. Or I shall have you forcibly removed.}
-{183}{}{No! I'm not leaving until I get some answers!}
-{184}{}{"Forcibly removed?" TRY it. I'll like it.}
+{181}{}{Eu... entendo. Obrigado pelo seu tempo, Primeira Cidadã.}
+{182}{lyn014}{Acho TODOS vocês estranhos ofensivos. Você é inculto e primitivo, não é melhor do
+ que animais! Agora saia. Ou terei que removê-lo à força.}
+{183}{}{Não! Não vou embora até conseguir algumas respostas!}
+{184}{}{"Remover à força?" Tente. vou gostar.}
 {185}{}{Eu irei em silêncio... desta vez.}
-{186}{}{I'm leaving, I'm leaving.}
-{187}{lyn015a}{"Overseer?" Why, no. There has been no Overseer in a hundred years. How do you know of
- the Vault Overseers?}
-{188}{lyn015b}{I have told you already. Overseers are from the distant past.}
-{189}{}{I am a descendant of the first Vault Dweller. I have heard... many stories of the Overseer.}
-{190}{}{What happened to the Overseer? I must speak with him.}
-{191}{}{You are OBVIOUSLY not the one I need to be speaking to. Fetch the Overseer at once, woman.}
-{192}{}{You are OBVIOUSLY not the one I need to be speaking to. Fetch the Overseer at once.}
-{193}{}{Never mind. I must be going. Good day.}
-{194}{lyn016}{"Descendant of the Vault Dweller?" What do you mean?}
-{195}{}{I am the great grandchild of the first Vault Dweller.}
-{196}{}{Woman, I'm wasting precious time talking with you. Fetch the Overseer at once.}
-{197}{}{I'm wasting precious time talking with you. Fetch the Overseer at once.}
-{198}{}{Nothing, never mind. We'll continue this conversation later.}
-{199}{lyn017a}{You barge into my chambers and then have the audacity to insult me, Lynette, First Citizen of Vault City?!}
-{200}{lyn017b}{You barge into my chambers and then have the audacity to make demands of me, Lynette, First Citizen of Vault City?!}
+{186}{}{Eu vou embora, vou embora.}
+{187}{lyn015a}{"Supervisor?" Bem, não. Não houve Supervisor em cem anos. Como você conhece os
+ Supervisores da vault?}
+{188}{lyn015b}{Eu já te disse. Os supervisores são de um passado distante.}
+{189}{}{Eu sou um descendente do primeiro Morador da Vault. Eu ouvi... muitas histórias do Supervisor.}
+{190}{}{O que aconteceu com o Supervisor? Devo falar com ele.}
+{191}{}{Você obviamente não é aquele com quem eu preciso falar. Chame o Supervisor imediatamente, mulher.}
+{192}{}{Você obviamente não é aquele com quem eu preciso falar. Chame o Supervisor imediatamente.}
+{193}{}{Deixa para lá, devo ir. Bom dia.}
+{194}{lyn016}{"Descendente do Morador da Vault?" O que você quer dizer?}
+{195}{}{Eu sou o bisneto do primeiro Morador da Vault.}
+{196}{}{Mulher, estou perdendo um tempo precioso conversando com você. Chame o Supervisor imediatamente.}
+{197}{}{Estou perdendo um tempo precioso conversando com você. Chame o Supervisor imediatamente.}
+{198}{}{Nada, esqueça. Continuaremos esta conversa mais tarde.}
+{199}{lyn017a}{Você invade meus aposentos e então tem a audácia de me insultar, Lynette, Primeira Cidadã de Vault City?!}
+{200}{lyn017b}{Você invade meus aposentos e ainda tem a audácia de me fazer exigências, Lynette, Primeira Cidadã de Vault City?!}
 {201}{lyn017c}{Saia, você não é mais bem-vindo nesta cidade.}
 {202}{}{Eu NÃO vou embora até conseguir algumas respostas.}
 {203}{}{Eu vou... por enquanto.}
@@ -121,7 +121,7 @@
 {205}{}{Como você sabia quando era para deixar a vault? Ouvi dizer que as vaults estavam isoladas do mundo exterior.}
 {206}{}{É importante que eu fale com o Supervisor. Você pode me levar até ele?}
 {207}{}{Estou perdendo um tempo precioso conversando com você. Chame o Supervisor imediatamente, mulher.}
-{208}{}{I'm wasting precious time talking with you. Fetch the Overseer at once.}
+{208}{}{Estou perdendo um tempo precioso conversando com você. Chame o Supervisor imediatamente.}
 {209}{}{Já ouvi o suficiente. Tchau.}
 {210}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
 {211}{lyn019}{Não há "supervisor". Quando viemos à superfície, formamos um novo governo. A posição de Supervisor era supérflua.}
@@ -136,9 +136,9 @@
 {220}{}{Bem, NOSSA lenda tribal afirma que a Vault foi fechado por anos... e nenhum sinal de "tudo limpo" jamais veio.}
 {221}{}{Você mente! O tudo limpo nunca veio!}
 {222}{}{Entendo. Obrigado pela informação, bom dia.}
-{223}{lyn021}{Why... from surface monitors, I suppose. I am certain there were sensors monitoring
- the environment. How else would the Overseer have known when it was safe to leave?}
-{224}{}{Do these monitors still exist? Can I see them?}
+{223}{lyn021}{Bem... monitores de superfície, suponho. Tenho certeza de que havia sensores
+ monitorando o ambiente. De que outra forma o Supervisor saberia quando era seguro partir?}
+{224}{}{Esses monitores ainda existem? Posso vê-los?}
 {225}{}{Então... a ordem para deixar a vault veio do Supervisor?}
 {226}{}{Falando no Supervisor, onde ele está? Eu gostaria de falar com ele.}
 {227}{}{Você mente! O sinal de "tudo limpo" nunca veio!}
@@ -168,7 +168,7 @@
 {248}{lyn026}{Os arquivos são armazenados em nossa vault. Apenas Cidadãos têm acesso... eles NÃO
  são para Forasteiros.}
 {249}{}{Certo. Onde está o Supervisor? Vou perguntar a ele sobre esses arquivos.}
-{250}{}{But I am a Citizen.}
+{250}{}{Mas eu sou um Cidadão.}
 {251}{}{Como alguém se torna parte dos Moradores da Vault?}
 {252}{}{Como posso me tornar um Cidadão?}
 {253}{}{Já ouvi o suficiente. Bom dia.}
@@ -195,19 +195,19 @@
 {269}{}{Eu não moro em uma Vault. Venho de uma aldeia tribal do oeste.}
 {270}{}{Não sei... veja, estou tentando encontrar a Vault de onde meu ancestral veio.}
 {271}{}{Quando encontrar, com certeza avisarei. Bom dia.}
-{272}{lyn031}{We exited the Vault 120 years ago and, with the help of our Eden kit, began construction
- of Vault City. Ten years later, the Overseer retired and a Council of Citizens was established. The
- Council appointed the initial First Citizen.}
+{272}{lyn031}{Saímos do Vault há 120 anos e, com a ajuda de nosso Kit Éden, começamos a construção
+ de Vault City. Dez anos depois, o Supervisor se aposentou e um Conselho de Cidadãos foi estabelecido.
+ O Conselho nomeou o Primeiro Cidadão inicial.}
 {273}{}{Falando em GECK, você tem outro que poderia me dar?}
 {274}{}{Então você é o líder desta cidade?}
 {275}{}{120 anos atrás? Isso foi 70 anos antes do Morador da Vault parar o Mestre. Essa não pode ser a vault
  que estou procurando.}
 {276}{}{Estou vendo. Bom dia.}
 {277}{lyn032}{Correto... Eu sou o Primeira Cidadã de Vault City.}
-{278}{}{First Citizen, I have an urgent request: My village is in dire need of a Garden of Eden Creation
- Kit. Do you possess one that I may have?}
-{279}{}{Then you are who I seek. I have come on behalf of the people of Arroyo to claim what is
- rightfully ours: the holy GECK.}
+{278}{}{Primeira Cidadã, tenho um pedido urgente: minha vila precisa urgentemente de um Kit de
+ Criação do Jardim do Éden. Você possui um que eu possa ter?}
+{279}{}{Então você é quem eu procuro. Eu vim em nome do povo de Arroyo para reivindicar o que
+ é nosso por direito: o sagrado GECK.}
 {280}{}{Entendo. Obrigado por falar comigo, bom dia.}
 {281}{lyn033}{Corrupto?! O Supervisor era um grande homem e um líder impecável. Seus ensinamentos
  e sabedoria ainda abrangem grande parte de nossa educação.}
@@ -276,7 +276,7 @@
 {334}{}{Muito bem, então não temos mais nada a discutir. Bom dia, Primeira Cidadã.}
 {335}{lyn043}{Poderíamos verificar os computadores da Vault. Eles provavelmente teriam as informações
  que você procura. Mas apenas os cidadãos têm permissão para acessar os arquivos.}
-{336}{}{But I am a Citizen.}
+{336}{}{Mas eu sou um Cidadão.}
 {337}{}{Existe alguma maneira de eu me tornar um Cidadão?}
 {338}{}{Acho que estou sem sorte, então. Bom dia.}
 {339}{lyn044}{Em vez de fazer o teste, você pode provar seu compromisso com as Vaults de uma forma
@@ -439,91 +439,91 @@
 {478}{}{Olha, causar tanta destruição não foi fácil! Espero ALGUMA compensação...}
 {479}{}{Tudo bem, tudo bem. Estou indo embora.}
 {480}{}{Bom dia, Primeira Cidadã.}
-{481}{lyn071}{Do not toy with me, or I will make certain you never walk Vault City's streets again.}
-{482}{}{You watch yourself, "First Citizen." Goodbye.}
+{481}{lyn071}{Não brinque comigo, ou vou garantir que você nunca mais ande pelas ruas de Vault City.}
+{482}{}{Cuide de si mesma, "Primeira Cidadã". Adeus.}
 {483}{}{Bom dia, Primeira Cidadã.}
-{484}{lyn072a}{You did it! Excellent! You have performed a valuable service for Vault City. Please
- accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...}
-{485}{lyn072b}{Excellent. No more than they deserved. To think a band of RAIDERS was causing so much trouble...}
-{486}{}{Well, they weren't really a roving band of raiders... turns out they were mercenaries.}
-{487}{lyn073}{So you disabled their plant?}
-{488}{}{No, I repaired it. Councilor McClure gave me the part I needed and that was enough to get the plant running properly.}
-{489}{}{It's all taken care of.}
-{490}{lyn074}{What?! He did?! I suppose he granted you Citizenship, also! Fixing Gecko's plant won't
- solve anything. Those... creatures! They cannot be trusted! What happens when their plant starts leaking again?!}
-{491}{}{I don't know... maybe HELP them fix it?}
-{492}{}{Look, the groundwater isn't being contaminated anymore, and no one got hurt. The problem's solved.}
-{493}{}{I'll come back later when you've calmed down.}
-{494}{}{I have to leave, First Citizen. Good day.}
-{495}{lyn075}{You had better watch your step in this city, "Citizen." I'll be watching you. One misstep, and you'll be exiled.}
-{496}{}{That does it. Nobody threatens me, especially some bigoted bitch with a stick up her butt. Time to die.}
-{497}{}{Mess with me, Lynette, and Vault City will need a new First Citizen. Understand?}
-{498}{}{So? I'll just get McClure to get my Citizenship back. He seems like real First Citizen material.}
-{499}{}{I'll come back later when you've calmed down.}
+{484}{lyn072a}{Você fez! Excelente! Você prestou um serviço valioso para Vault City. Por favor, aceite
+ isso como um sinal de nosso apreço. E pensar que um bando de SAQUEADORES causavam tantos problemas...}
+{485}{lyn072b}{Excelente, nada mais do que eles mereciam. E pensar que um bando de SAQUEADORES causavam tantos problemas...}
+{486}{}{Bem, eles na verdade não eram um bando de invasores itinerantes... Acontece que eles eram mercenários.}
+{487}{lyn073}{Então você desativou a central deles?}
+{488}{}{Não, eu consertei. O conselheiro McClure me deu a peça de que eu precisava e isso foi o suficiente para fazer a central funcionar corretamente.}
+{489}{}{Está tudo resolvido.}
+{490}{lyn074}{O que?! Ele fez?! Suponho que ele também lhe concedeu a cidadania! Consertar a planta
+ do Gecko não resolve nada. Essas... criaturas! Eles não são confiáveis! O que acontecerá quando a central começar a vazar de novo?!}
+{491}{}{Não sei... AJUDÁ-LOS a consertar, talvez?}
+{492}{}{Olha, o lençol freático não está mais sendo contaminado e ninguém se machucou. O problema está resolvido.}
+{493}{}{Volto mais tarde, quando você se acalmar.}
+{494}{}{Eu tenho que sair, Primeira Cidadã. Bom dia.}
+{495}{lyn075}{É melhor você tomar cuidado com seus passos nesta cidade, "Cidadão". Eu vou estar observando você. Um passo em falso e você será exilado.}
+{496}{}{Então tá certo... Ninguém me ameaça, principalmente uma cadela preconceituosa com um pedaço de pau enfiado na bunda. Hora de morrer.}
+{497}{}{Mexa comigo, Lynette, e Vault City precisará de um novo Primeiro Cidadão. Entendeu?}
+{498}{}{E? Vou pedir a McClure para recuperar a minha cidadania. Ele parece alguém apropriado para Primeiro Cidadão.}
+{499}{}{Volto mais tarde, quando você se acalmar.}
 {500}{}{Bom dia, Primeira Cidadã.}
-{501}{lyn076a}{Excellent. You have conducted yourself as a true Vault Citizen.}
-{502}{lyn076b}{It is my pleasure to grant you Citizenship, complete with privileges and access to our facilities.}
-{503}{}{Hey, I was hoping to get some monetary compensation.}
-{504}{}{No problem. Just doing my job. Goodbye.}
-{505}{}{It was my pleasure, First Citizen. Good day.}
-{506}{}{Great, thanks. I'll go check them out now.}
-{507}{}{I appreciate all you've done for me, First Citizen. Good day.}
-{508}{lyn077ab}{You have already received much, Outsider. Citizenship is its own reward.}
-{509}{lyn077b}{Citizenship is its own reward.}
-{510}{}{Like hell! Some money better change hands right now, or Vault City's going to need a new First Citizen.}
-{511}{}{No problem... I was just curious. Goodbye.}
+{501}{lyn076a}{Excelente. Você se comportou como um verdadeiro Cidadão da Vault.}
+{502}{lyn076b}{É um prazer conceder-lhe a Cidadania, com privilégios e acesso às nossas instalações.}
+{503}{}{Ei, eu esperava receber alguma compensação monetária.}
+{504}{}{Sem problemas, apenas fazendo o meu trabalho. Adeus.}
+{505}{}{Foi um prazer, Primeira Cidadã. Bom dia.}
+{506}{}{Ótimo, obrigado. Vou verificar agora.}
+{507}{}{Agradeço tudo o que fez por mim, Primeira Cidadã. Bom dia.}
+{508}{lyn077ab}{Você já recebeu muito, Forasteiro. A cidadania é sua própria recompensa.}
+{509}{lyn077b}{A Cidadania é sua própria recompensa.}
+{510}{}{Para o inferno! É melhor algum dinheiro aparecer em mãos agora, ou Vault City vai precisar de um novo Primeiro Cidadão.}
+{511}{}{Sem problemas... Estava apenas curioso. Adeus.}
 {512}{}{Muito bem, Primeira Cidadã. Bom dia.}
-{513}{lyn077_a}{Absolutely not.}
-{514}{}{I wonder who'll take over after you're dead... in about a minute from now.}
-{515}{}{No problem... Thought I'd give it a try. Goodbye.}
-{516}{lyn078}{Dr. Troy?! What makes you say that?}
-{517}{}{He asked me to smuggle in some illegal drugs into the city.}
-{518}{}{He only administers healing to Citizens.}
-{519}{}{Nothing... I misspoke. Good day.}
-{520}{lyn079}{Who are you to be accusing a Citizen of such crimes? Guards! Escort this Outsider to the gates!}
+{513}{lyn077_a}{Absolutamente não.}
+{514}{}{Me pergunto quem vai assumir o comando depois que você morrer... daqui a um minuto.}
+{515}{}{Sem problemas... Pensei em tentar. Adeus.}
+{516}{lyn078}{Dr. Troy?! O que te faz dizer isso?}
+{517}{}{Ele me pediu para contrabandear algumas drogas ilegais para a cidade.}
+{518}{}{Ele só administra a cura aos Cidadãos.}
+{519}{}{Nada... me equivoquei. Bom dia.}
+{520}{lyn079}{Quem é você para acusar um Cidadão de tais crimes? Guardas! Escolte este Forasteiro até os portões!}
 {521}{}{Seus guardas não chegarão a tempo de salvar sua vida... "Primeira Cidadã."}
 {522}{}{Não há necessidade de guardas, irei pacificamente.}
-{523}{}{But it's the truth! You have to believe me! I have pr --!}
-{524}{lyn080}{That is a very serious accusation. Since you are a Citizen, I must take you at your word...
- but are you absolutely certain? If true, his Citizenship would be revoked, and he would be exiled.}
-{525}{}{Look, I know it's hard for you to believe, but he asked me to smuggle Jet into Vault City for him.}
-{526}{}{Isn't that a little harsh? Couldn't you just rehabilitate him and keep him on as a doctor?}
-{527}{}{Oh. Uh... I misspoke. I meant to say Dr. Troy is involved in PARALEGAL activities, not illegal ones.}
-{528}{}{Hmmmm. I'll go see if I can find anything else out.}
-{529}{lyn081}{I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
- honesty, Citizen. I will take care of this immediately.}
+{523}{}{Mas é a verdade! Você tem que acreditar em mim! Eu tenho pr --!}
+{524}{lyn080}{Essa é uma acusação muito séria. Como você é um cidadão, devo acreditar em sua palavra...
+ mas você tem certeza absoluta? Se for verdade, sua cidadania seria revogada e ele seria exilado.}
+{525}{}{Olha, eu sei que é difícil para você acreditar, mas ele me pediu para contrabandear jet para Vault City até ele.}
+{526}{}{Isso não é um pouco duro? Você não poderia simplesmente reabilitá-lo e mantê-lo como médico?}
+{527}{}{Oh. Uh... falei errado. Eu quis dizer que o Dr. Troy está envolvido em atividades PARALEGAIS, não ilegais.}
+{528}{}{Hmmmm. Vou ver se descubro mais alguma coisa.}
+{529}{lyn081}{Não acredito que um Cidadão dessa estatura se viciasse em drogas. Obrigado pela sua honestidade,
+ Cidadão. Eu cuidarei disso imediatamente.}
 {530}{}{Eu tenho mais algumas perguntas...}
-{531}{}{Great. The entire situation had me concerned. Goodbye.}
-{532}{}{Thank you, First Citizen. I only wanted to see justice carried out.}
-{533}{lyn082a}{Inform me at once if you discover anything more.}
-{534}{lyn082b}{Vault City prevails, Citizen.}
+{531}{}{Ótimo, toda essa situação me preocupava. Adeus.}
+{532}{}{Obrigado, Primeira Cidadã. Eu só queria ver a justiça sendo feita.}
+{533}{lyn082a}{Me informe imediatamente se descobrir mais alguma coisa.}
+{534}{lyn082b}{Vault City prevalece, Cidadão.}
 {535}{}{Eu tenho mais algumas perguntas...}
-{536}{}{Sure. Goodbye.}
-{537}{}{I will. Thank you, First Citizen.}
-{538}{lyn083}{The law is the law. Exceptions make us no better than the Outsiders. Again, are you
- absolutely certain of your accusations?}
-{539}{}{So bribing me to solve your Gecko situation with Citizenship papers... that's legal?}
-{540}{}{Yes. He asked me to smuggle Jet into Vault City for him.}
-{541}{}{Oh. Uh... I misspoke. I meant to say Dr. Troy is involved in PARALEGAL activities, not illegal ones.}
-{542}{}{Hmmmm. I'll go see if I can find anything else out.}
-{543}{lyn084a}{You had best watch what you say.}
-{544}{lyn084b}{You had best watch what you say, Outsider.}
-{545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
- the streets of Vault City again. Understood?}
+{536}{}{Claro. Adeus.}
+{537}{}{Eu vou. Obrigado, Primeira Cidadã.}
+{538}{lyn083}{A lei é a lei. As exceções não nos tornam melhores do que os Renegados. Mais uma vez,
+ você está absolutamente certo de suas acusações?}
+{539}{}{Então, me subornar para resolver a situação de Gecko com documentos de Cidadania... é legal?}
+{540}{}{Sim. Ele me pediu para contrabandear jet para Vault City para ele.}
+{541}{}{Oh. Uh... falei errado. Eu quis dizer que o Dr. Troy está envolvido em atividades PARALEGAIS, não ilegais.}
+{542}{}{Hmmmm. Vou ver se descubro mais alguma coisa.}
+{543}{lyn084a}{É melhor você tomar cuidado com o que diz.}
+{544}{lyn084b}{É melhor você tomar cuidado com o que diz, Forasteiro.}
+{545}{lyn084c}{Se eu ouvir falar de você criando problemas para o Dr. Troy, ou qualquer outro Cidadão,
+ você nunca mais andará pelas ruas de Vault City. Entendido?}
 {546}{}{Uh... claro. Desculpa. Eu tenho algumas perguntas...}
-{547}{}{Crystal clear. I'll just be going now.}
-{548}{}{My apologies, First Citizen. Good day.}
-{549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
- in the courtyard for that.}
-{550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
-{551}{}{Oh. Look, I had some other questions...}
-{552}{}{Yeah, for those that can pay... and that's assuming they come out of the Auto-Doc in one piece.}
-{553}{}{All right, never mind then. Goodbye.}
-{554}{}{My apologies, First Citizen. Good day.}
-{555}{lyn086}{I believe it is time you left. I suggest you make your stay in Vault City a short one.}
-{556}{}{Before I go, I had some more questions...}
+{547}{}{Claro como cristal. Eu vou indo agora.}
+{548}{}{Minhas desculpas, Primeira Cidadã. Bom dia.}
+{549}{lyn085}{CLARO que só trata dos Cidadãos, ele não tem tempo para tratar Forasteiros... temos um
+ Auto-Doc no pátio para isso.}
+{550}{}{Bem, você talvez queira saber que o Doutor me pediu para contrabandear algumas drogas ilegais para a cidade.}
+{551}{}{Oh. Olha, eu tinha outras perguntas...}
+{552}{}{Sim, para aqueles que podem pagar... e isso assumindo que saiam inteiros do Auto-Doc.}
+{553}{}{Tudo bem, não importa. Adeus.}
+{554}{}{Minhas desculpas, Primeira Cidadã. Bom dia.}
+{555}{lyn086}{Eu acredito que é hora de você sair. Eu sugiro que você tenha uma curta estadia em Vault City.}
+{556}{}{Antes de ir, tenho mais algumas perguntas...}
 {557}{}{Tudo bem. Estou saindo.}
-{558}{lyn087}{Moore? He's a troublemaker. THAT'S what he is.}
+{558}{lyn087}{Moore? Ele é um encrenqueiro. ISSO é o que ele é.}
 {559}{}{Você tem razão. Ele tem... interesses no exterior.}
 {560}{}{Por que você diz que ele é um encrenqueiro?}
 {561}{}{Posso te fazer outra pergunta?}
@@ -565,104 +565,104 @@
 {592}{}{Thomas Moore é um cidadão, e ele é o líder deste movimento.}
 {593}{}{Esta é uma nova era, é hora de mudança.}
 {594}{}{Lamento que você se sinta assim. Tchau.}
-{595}{lyn093}{No. He is not a TRUE Citizen... not anymore. When he came to us two years ago, he seemed
- everything we would want in a Citizen. But just a year later he... changed. He turned against us.}
-{596}{}{You know, that would explain a few things. Moore was probably just playing a role for a while.}
-{597}{}{Maybe it's time for a change.}
-{598}{}{I'm sorry you don't consider Moore a "true" Citizen. Maybe you should examine what it means to
- be a Citizen.}
-{599}{}{Maybe he just saw the light. Good day.}
-{600}{lyn094}{We have prospered in this world where so many others have failed, and you tell me we need
- to change? Look at the outside world! Anarchy, depravity, sickness... Vault City is a paradise!}
-{601}{}{That's exactly WHY a change is necessary. You should share your accomplishments with others.}
-{602}{}{It's a paradise for some people, maybe. I think your slaves would disagree.}
-{603}{}{I'm not going to argue this with you anymore. Goodbye.}
-{604}{lyn095}{Vault City was built through the hard work and suffering of many Citizens. The outside
- world should look to our example and follow it, not sit outside our walls and beg for handouts.}
-{605}{}{The hard work of Citizens? Everywhere I go in your city, I see the real work being done by slaves.}
-{606}{}{I'm not going to argue this with you anymore. Goodbye.}
-{607}{lyn096}{Why do we condone slavery? The system has been in place for many years, and it works
- quite well. Both parties benefit from the institution.}
-{608}{}{I see. Can I ask you another question?}
-{609}{}{I'm sure your slaves would disagree.}
-{610}{}{But... you buy and sell human beings like brahmin. Doesn't keeping slaves bother you?}
+{595}{lyn093}{Não. Ele não é um VERDADEIRO Cidadão... não mais. Quando ele veio até nós, há dois anos,
+ parecia tudo o que desejaríamos em um Cidadão. Mas apenas um ano depois ele... mudou. Ele se voltou contra nós.}
+{596}{}{Sabe, isso explicaria algumas coisas. Moore provavelmente só estava desempenhando um papel por um tempo.}
+{597}{}{Talvez seja hora de uma mudança.}
+{598}{}{Lamento que você não considere Moore um "verdadeiro" cidadão. Talvez você deva examinar o
+ que significa ser um Cidadão.}
+{599}{}{Talvez ele apenas tenha visto a luz. Bom dia.}
+{600}{lyn094}{Nós prosperamos neste mundo onde tantos outros falharam, e você me diz que precisamos
+ mudar? Olhe para o mundo lá fora! Anarquia, depravação, doença... Vault City é um paraíso!}
+{601}{}{É exatamente POR ISSO que uma mudança é necessária. Você deve compartilhar suas realizações com os outros.}
+{602}{}{É um paraíso para algumas pessoas, talvez. Acho que seus escravos discordariam.}
+{603}{}{Não vou mais discutir isso com você. Adeus.}
+{604}{lyn095}{Vault City foi construída com muito trabalho e sofrimento de muitos cidadãos. O mundo
+ exterior deve olhar para o nosso exemplo e segui-lo, não sentar do lado de fora de nossos muros e implorar por esmolas.}
+{605}{}{Trabalho árduo dos Cidadãos? Onde quer que eu vá em sua cidade, vejo o verdadeiro trabalho feito por escravos.}
+{606}{}{Não vou mais discutir isso com você. Adeus.}
+{607}{lyn096}{Por que toleramos a escravidão? O sistema existe há muitos anos e funciona muito bem.
+ Ambas as partes se beneficiam da instituição.}
+{608}{}{Entendo. Posso te fazer outra pergunta?}
+{609}{}{Tenho certeza que seus escravos discordariam.}
+{610}{}{Mas... você compra e vende seres humanos como brahmins. Manter escravos não te incomoda?}
 {611}{}{Já ouvi o suficiente. Tchau.}
 {612}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
-{613}{lyn097}{They are not slaves, they are our "servants." We have given them homes, food, clothing,
- and a purpose. We have given them a life.}
-{614}{}{Sure. Why be free when they could be laboring for you?}
-{615}{}{Look, no matter what sweet-sounding words you use to cover the stink, it's still slavery.}
-{616}{}{Uh... sure. Look, I had some other questions...}
-{617}{}{I'm not going to argue this with you anymore. Goodbye.}
-{618}{}{Hmmmm. I hadn't considered it that way before. I'll have to go think about this.}
-{619}{lyn098}{Your hypocrisy is quite remarkable. You have the mark of the Slaver's Guild, yet you disagree with slavery.}
-{620}{}{I don't disagree with slavery, I'm just pointing out they do all the real work around here.}
-{621}{}{Look, I got the mark only to get some information... I'm no slaver.}
-{622}{}{I was young... I needed the money...}
-{623}{}{I'm not going to argue this with you anymore. Goodbye.}
-{624}{lyn099}{What do you mean?}
-{625}{}{Moore's actually working for the New California Republic.}
+{613}{lyn097}{Eles não são escravos, são nossos "servos". Damos a eles casas, comida, roupas e um
+ propósito. Nós lhes demos uma vida.}
+{614}{}{Claro. Por que ser livre quando eles poderiam estar trabalhando para você?}
+{615}{}{Olha, não importa que palavras fofas você use para mascarar esse fedor, ainda é escravidão.}
+{616}{}{Uh... Claro. Olha, eu tenho outras perguntas...}
+{617}{}{Não vou mais discutir isso com você. Adeus.}
+{618}{}{Hmmmm. Eu não tinha considerado isso dessa forma antes. Vou ter que ir pensar sobre isso.}
+{619}{lyn098}{Sua hipocrisia é bastante notável. Você tem a marca da Guilda dos Escravos, mas discorda da escravidão.}
+{620}{}{Não discordo da escravidão, só estou dizendo que eles fazem todo o trabalho de verdade por aqui.}
+{621}{}{Olha, eu consegui a marca apenas para obter algumas informações... Não sou escravista.}
+{622}{}{Eu era jovem... precisava de dinheiro...}
+{623}{}{Não vou mais discutir isso com você. Adeus.}
+{624}{lyn099}{O que você quer dizer?}
+{625}{}{Na verdade, Moore está trabalhando para o República da Nova Califórnia.}
 {626}{}{Sem problemas. Eu tenho outras perguntas...}
-{627}{}{Nothing. I have to be going. Goodbye.}
-{628}{}{Nothing. I misspoke. Good day, First Citizen.}
-{629}{lyn100}{Kill him?! Murder is not in any way, shape, or form permitted in Vault City -- even if for the best. Never speak of this again.}
+{627}{}{Nada, preciso ir. Adeus.}
+{628}{}{Nada, me equivoquei. Bom dia, Primeira Cidadã.}
+{629}{lyn100}{Mate ele?! Assassinato não é permitido de forma alguma em Vault City... mesmo que seja para melhor. Nunca mais fale sobre isso.}
 {630}{}{Entendido. Posso fazer mais algumas perguntas?}
-{631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
- mauled by a brahmin... any of a number of things can happen in this dangerous world.}
+{631}{}{Olha, 'assassinato' é uma palavra tão feia. Eu poderia arranjar algum tipo de acidente... uma
+ overdose de drogas, ataque de brahmin... várias coisas podem acontecer nesse mundo perigoso.}
 {632}{}{Tudo bem. Estou saindo.}
 {633}{}{Muito bem, Primeira Cidadã. Bom dia.}
-{634}{lyn101}{This is not conduct of a Citizen! I am revoking your Citizenship. My guards will show you to the front gate.}
+{634}{lyn101}{Isso não é conduta de um Cidadão! Estou revogando sua Cidadania. Meus guardas irão te mostrar o portão da frente.}
 {635}{}{Seus guardas não chegarão a tempo de salvar sua vida... "Primeira Cidadã."}
-{636}{}{No need for the guards. I'll leave peacefully.}
-{637}{lyn102}{Although it would serve Vault City's interests, I can't... as long as he breaks no laws,
- Moore is permitted to say anything he wants.}
-{638}{}{Do you want me to... take care of him?}
-{639}{}{Oh, but he has. You see, Moore isn't just a Citizen... he's been looking out for someone else's interests.}
+{636}{}{Não há necessidade dos guardas. Vou embora em paz.}
+{637}{lyn102}{Embora sirva aos interesses de Vault City, não posso... contanto que ele não quebre
+ nenhuma lei, Moore pode dizer o que quiser.}
+{638}{}{Você quer que eu... cuide dele?}
+{639}{}{Ah, mas ele tem. Veja bem, Moore não é apenas um cidadão... ele está cuidando dos interesses de outra pessoa.}
 {640}{}{Posso te fazer outra pergunta?}
-{641}{}{Well, he'll probably bury himself at the rate he's going. Talk to you later.}
-{642}{}{I understand. Well, thanks for your time, First Citizen.}
-{643}{lyn103}{A spy for NCR? That... that... would explain a great many things. Thank you, Citizen. I
- will deal with this immediately.}
+{641}{}{Bem, ele provavelmente está se enterrando no ritmo que está indo. Nos falamos mais tarde.}
+{642}{}{Eu entendo. Bem, obrigado pelo seu tempo, Primeira Cidadã.}
+{643}{lyn103}{Um espião da NCR? Isso... isso... explicaria muitas coisas. Obrigado Cidadão. Eu vou
+ lidar com isso imediatamente.}
 {644}{}{Eu tenho mais algumas perguntas...}
-{645}{}{Great, thanks. Goodbye.}
+{645}{}{Ótimo, obrigado. Adeus.}
 {646}{}{Obrigado, Primeirã Cidadã.}
-{647}{lyn104}{They started several months ago. The laser turrets have been able to hold them off, but I
- don't know how much longer we can stop them.}
+{647}{lyn104}{Eles começaram há vários meses. As torres de laser conseguiram detê-los, mas não sei
+ quanto tempo mais poderemos detê-los.}
 {648}{}{Quem são estes raiders?}
 {649}{}{Eu tenho mais algumas perguntas...}
-{650}{}{I have to be going. Goodbye.}
-{651}{}{I'm sorry to hear that; perhaps they will go elsewhere in search of easier targets. Good day, First Citizen.}
-{652}{lyn105}{Outsider trash. For over a century, Outsiders have tried to loot our city... and have
- always failed. Eventually, we will defeat this group.}
-{653}{}{Uh... "eventually?" Why haven't you wiped them out already?}
+{650}{}{Eu tenho que ir. Adeus.}
+{651}{}{Sinto muito por ouvir isso; talvez eles vão para outro lugar em busca de alvos mais fáceis. Bom dia, Primeira Cidadã.}
+{652}{lyn105}{Lixo do exterior. Por mais de um século, Forasteiros tentaram saquear nossa cidade...
+ e sempre falharam. Eventualmente, vamos derrotar este grupo.}
+{653}{}{Uh... "eventualmente?" Por que você ainda não os derrotou?}
 {654}{}{Posso te fazer outra pergunta?}
-{655}{}{I have to be going. Goodbye.}
-{656}{}{I have to go. Good day, First Citizen.}
-{657}{lyn106}{Finding their base has proven difficult. In addition, they also have a great deal of
- firepower. Nevertheless, we have repelled every attack... with minimal casualties.}
+{655}{}{Eu tenho que ir. Adeus.}
+{656}{}{Eu tenho que ir. Bom dia, Primeira Cidadã.}
+{657}{lyn106}{Encontrar sua base provou ser difícil. Além disso, eles também têm um grande
+ poder de fogo. No entanto, repelimos todos os ataques... com o mínimo de baixas.}
 {658}{}{Posso te fazer outra pergunta?}
-{659}{}{I have to be going. Goodbye.}
-{660}{}{Thanks for your time. Good day, First Citizen.}
-{661}{lyn107}{What is it? }
-{662}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
-{663}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
-{664}{}{Information has its price.}
+{659}{}{Eu tenho que ir. Adeus.}
+{660}{}{Obrigado pelo seu tempo. Bom dia, Primeira Cidadã.}
+{661}{lyn107}{O que é? }
+{662}{}{Encontrei a base deles. Eles estão escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{663}{}{Eu os eliminei. Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{664}{}{A informação tem seu preço.}
 {665}{}{Deixa pra lá. Eu tenho que ir.}
-{666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
- Could you end the attacks? I'll pay you.}
-{667}{}{No, I'm too busy at the moment.}
+{666}{lyn108}{Você tem? Excelente! Mas os guardas da cidade já estão sobrecarregados... E você?
+ Você poderia acabar com os ataques? Eu te pagarei.}
+{667}{}{Não, estou muito ocupado no momento.}
 {668}{}{Eu vou ver o que posso fazer.}
-{669}{lyn109}{Very well. If you'll excuse me, I am also very busy. You can find your own way out.}
-{670}{}{I had some other questions I wanted to ask you first...}
+{669}{lyn109}{Muito bem. Se me der licença, também estou muito ocupada. Você pode encontrar sua própria saída.}
+{670}{}{Eu tenho algumas outras perguntas que queria te fazer...}
 {671}{}{Muito bem, estou saindo.}
 {672}{}{Muito bem. Bom dia, Primeira Cidadã.}
-{673}{lyn110a}{Mercenaries? Who hired them?}
-{674}{lyn110b}{Yes, I believe you mentioned that before. Do you know who hired them?}
-{675}{}{I'm betting it was the Bishop Family in New Reno. }
-{676}{}{The Bishop Family in New Reno.}
-{677}{}{I'm not sure yet. I'm still looking into it.}
-{678}{lyn111a}{What?! How do you know this? What evidence do you have?}
-{679}{lyn111b}{Do you have any evidence?}
+{673}{lyn110a}{Mercenários? Quem os contratou?}
+{674}{lyn110b}{Sim, acho que você mencionou isso antes. Você sabe quem os contratou?}
+{675}{}{Aposto que foi a Família Bishop em New Reno. }
+{676}{}{A Família Bishop em New Reno.}
+{677}{}{Ainda não tenho certeza. Estou investigando.}
+{678}{lyn111a}{O que?! Como você sabe disso? Que provas você tem?}
+{679}{lyn111b}{Você tem alguma evidência?}
 {680}{}{Não tenho nenhuma prova real, mas dizem em New Reno que os Bishops estão por trás disso.}
 {681}{}{Encontrei este livro de contas no cofre dos invasores, listando os pagamentos de Bishop para
  uma campanha de terror de três meses contra sua cidade... uh, com opção para extensão de um mês se vocês fossem teimosos.}
@@ -673,107 +673,107 @@
 {685}{lyn113}{Eu preferiria pedir ajuda a NCR. Se você encontrar qualquer evidência concreta do
  envolvimento de Bishop, por favor, traga para mim imediatamente.}
 {686}{}{Justo. Eu tinha algumas outras perguntas...}
-{687}{}{If I find out anything, I'll let you know.}
-{688}{}{I will, First Citizen. Good day.}
-{689}{lyn114}{I'm not surprised. Bishop visited not long ago and suggested an alliance. I refused, of
- course. We don't associate with criminals.}
-{690}{}{I think he expected that. I found this holodisc in Bishop's safe. He was hired by NCR to get
- Vault City to join the Republic. When you refused his offer, he hired the mercenaries to attack you
- so you would ask NCR for help.}
+{687}{}{Se eu descobrir alguma coisa, vou deixar você saber.}
+{688}{}{Eu irei, Primeira Cidadã. Bom dia.}
+{689}{lyn114}{Não estou surpresa. Bishop nos visitou não faz muito tempo e sugeriu uma aliança.
+ Recusei, claro. Não nos associamos a criminosos.}
+{690}{}{Acho que ele esperava. Encontrei este holodisco no cofre de Bishop, ele foi contratado pela
+ NCR para fazer com que Vault City se juntasse à República. Quando você recusou a oferta dele, ele
+ contratou os mercenários para atacá-lo para que você pedisse ajuda a NCR.}
 {691}{}{Talvez essa fosse a maneira dele de forçar uma aliança.}
-{692}{lyn115}{Possibly... but it would never work. I would sooner ask NCR for help. You have done Vault
- City a great service. Please take this as a token of our appreciation.}
+{692}{lyn115}{Possivelmente... mas nunca funcionaria, eu preferiria pedir ajuda ao NCR. Você prestou
+ um grande serviço a Vault City. Por favor, tome isso como um sinal de nosso apreço.}
 {693}{}{Obrigado. Eu tenho algumas outras questões...}
-{694}{}{If I hear anything more, I'll let you know.}
-{695}{}{My pleasure, First Citizen. Good day.}
-{696}{lyn116}{Of course. They sent mercenaries to murder my people because I wouldn't join their
- government? I... I can barely believe it.}
-{697}{}{It gets even more complicated. Thomas Moore is also involved.}
-{698}{}{Is there anything I could do to help?}
-{699}{}{It's a rough world. Anyway, about compens -- }
-{700}{lyn117}{This is not the conduct of a Citizen. But I need this information. What is your price?}
+{694}{}{Se eu ouvir mais alguma coisa, vou deixar você saber.}
+{695}{}{O prazer é meu, Primeira Cidadã. Bom dia.}
+{696}{lyn116}{Claro. Eles enviaram mercenários para matar meu povo porque eu não queria entrar
+ para o governo deles? Eu... mal posso acreditar.}
+{697}{}{Fica ainda mais complicado. Thomas Moore também está envolvido.}
+{698}{}{Há algo que eu possa fazer para ajudar?}
+{699}{}{É um mundo difícil. De qualquer forma, sobre minha recompen -- }
+{700}{lyn117}{Esta não é a conduta de um Cidadão. Mas preciso dessa informação. Qual é o seu preço?}
 {701}{}{$100}
 {702}{}{$200}
 {703}{}{$400}
 {704}{}{$500}
-{705}{}{Never mind. I'll tell you the information I have for free.}
-{706}{lyn118}{Very well, here is your money. Now tell me what you know.}
-{707}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
-{708}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
-{709}{}{Actually, I don't really know much of anything.}
-{710}{}{Thanks for the cash. I have to be going now.}
-{711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
- Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
-{712}{}{Uh... didn't you hear? Westin's dead. I mean, he had an accident. A deadly one. It's a long story.}
-{713}{}{Wait a minute. Go to NCR? Weren't they responsible for all this?}
-{714}{}{All right, I'll do it. }
-{715}{}{No thanks. I'm too busy as it is.}
-{716}{lyn120}{Roger Westin was probably the only honest man in the New Republic and a sympathetic
- to our cause... his death is a terrible loss.}
-{717}{}{Yeah, he was a tough old fella. Good guy. Lot of hit points. So... do I still get a reward for
- finding all this information out for you, or...?}
-{718}{}{Yeah, I was sorry to hear about it, too. It was like I just saw him yesterday.}
-{719}{lyn121a}{I recall already paying you for information regarding these "raiders." You have been compensated. Now leave.}
-{720}{lyn121b}{Yes, yes... you have done very well. Please... take this as a reward.}
-{721}{}{No reward?! Finding out all this political bullshit was no easy task. I think I deserve something extra, don't you?!}
-{722}{}{Hold on, I'm not done yet. I had some other questions...}
+{705}{}{Deixa para lá. Vou te contar as informações de graça.}
+{706}{lyn118}{Muito bem, aqui está o seu dinheiro. Agora me diga o que você sabe.}
+{707}{}{Encontrei a base deles. Eles estão escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{708}{}{Eu os eliminei. Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul.}
+{709}{}{Na verdade, eu realmente não sei muito sobre quase nada.}
+{710}{}{Obrigado pelo dinheiro. Preciso ir agora.}
+{711}{lyn119}{Preciso que vá imediatamente à República da Nova Califórnia e encontre o Conselheiro
+ Westin, Roger Westin. Dê a ele o holodisco. Isso deve garantir que nenhum outro "invasor" seja contratado.}
+{712}{}{Uh... você não sabia? Westin está morto. Quero dizer, ele sofreu um acidente, um mortal. É uma longa história.}
+{713}{}{Espere um minuto. Ir para NCR? Não foram eles os responsáveis por tudo isso?}
+{714}{}{Tudo bem, eu farei isso. }
+{715}{}{Não, obrigado. Estou muito ocupado.}
+{716}{lyn120}{Roger Westin foi provavelmente o único homem honesto na República e um simpatizante
+ de nossa causa... sua morte é uma perda terrível.}
+{717}{}{Sim, ele era um velho durão. Um bom cara, tinha bastante HP. Então... Vou receber uma
+ recompensa por encontrar todas essas informações para você, ou...?}
+{718}{}{Sim, também lamento saber disso. Parece que o vi ontem.}
+{719}{lyn121a}{Me lembro de já ter pago a você por informações sobre esses "assaltantes". Você já foi compensado. Agora saia.}
+{720}{lyn121b}{Sim, sim... você se saiu muito bem. Por favor... aceite isso como uma recompensa.}
+{721}{}{Nenhuma recompensa?! Descobrir toda essa treta política não foi tarefa fácil. Acho que mereço algo a mais, não é?!}
+{722}{}{Espere, ainda não terminei. Eu tinha outras perguntas...}
 {723}{}{Muito bem, estou saindo.}
 {724}{}{Obrigado. Eu tenho algumas outras questões...}
-{725}{}{Great! Thanks... I better be going now.}
+{725}{}{Ótimo! Obrigado... É melhor eu ir agora.}
 {726}{}{Obrigado, Primeirã Cidadã.}
-{727}{lyn122}{Roger Westin is probably the only honest man in the New Republic and sympathetic to our cause. }
-{728}{}{All right, I'll deliver the disk to him.}
-{729}{}{No thanks. I'm too busy right now.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
-{731}{}{Before I go, I had some other questions...}
+{727}{lyn122}{Roger Westin é provavelmente o único homem honesto na República e simpatizante de nossa causa. }
+{728}{}{Tudo bem, vou entregar o disco para ele.}
+{729}{}{Não, obrigado. Estou muito ocupado agora.}
+{730}{lyn123}{Seu patriotismo não ficará sem recompensa. Vá agora, tempo é essencial.}
+{731}{}{Antes de ir, tenho outras perguntas...}
 {732}{}{Eu estou trabalhando nisso.}
-{733}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{734}{lyn124}{Nevertheless, Vault City will prevail. You have performed a valuable service...
- please accept this token of our appreciation.}
+{733}{}{Pode contar comigo, Primeira Cidadã. Voltarei depois de entregar o disco para Westin.}
+{734}{lyn124}{No entanto, Vault City prevalecerá. Você prestou um serviço valioso... por favor,
+ aceite este sinal de nossa gratidão.}
 {735}{}{Obrigado. Eu tenho algumas outras questões...}
-{736}{}{Great! Thanks... I better be going now.}
+{736}{}{Ótimo! Obrigado... É melhor eu ir agora.}
 {737}{}{Obrigado, Primeirã Cidadã.}
-{738}{lyn125}{Have you delivered it?}
-{739}{}{No. I was wondering, what is the reward you spoke of?}
-{740}{}{No, I'm too busy to deliver the disk.}
-{741}{}{No, not yet. But I had some questions...}
-{742}{}{I delivered the disk to Counselor Westin.}
-{743}{}{Not yet. I'll be back when I do.}
-{744}{}{Not yet, First Citizen. I'll return when I've delivered it to Westin.}
-{745}{lyn126}{You will?! Excellent! Take the disk you got from Bishop and hurry. Time is of the essence.}
-{746}{}{Before I go, I had some other questions...}
+{738}{lyn125}{Você já entregou?}
+{739}{}{Não. Estava me perguntando, qual é a recompensa de que você falou?}
+{740}{}{Não, estou muito ocupado para entregar o disco.}
+{741}{}{Não, ainda não. Mas eu tinha algumas perguntas...}
+{742}{}{Entreguei o disco ao Conselheiro Westin.}
+{743}{}{Ainda não. Eu estarei de volta quando fizer.}
+{744}{}{Ainda não, Primeira Cidadã. Voltarei quando o entregar ao Westin.}
+{745}{lyn126}{Você fará?! Excelente! Pegue o disco que você pegou do Bishop e se apresse. Tempo é essencial.}
+{746}{}{Antes de ir, tenho outras perguntas...}
 {747}{}{Eu estou trabalhando nisso.}
-{748}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{749}{lyn127}{Believe me, you will not be disappointed. Now please deliver that holodisk.}
-{750}{}{Before I go, I had some other questions...}
-{751}{}{All right. I'm on it.}
-{752}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
-{753}{lyn128}{I can see that our agreement meant nothing to you. Very well then; your Vault City privileges
- are revoked. My guards will escort you to the front gate.}
-{754}{}{I'll kill those guards... after I kill you.}
-{755}{}{Okay! Here, take the disk, and I'll go. }
-{756}{lyn129}{Thank you! You have done a great service! Did Westin send back correspondence?}
-{757}{}{Yes, I'm starting to feel like the Postman. Here, he wanted me to give you this disk.}
-{758}{}{No, I lost it.}
-{759}{}{No, he never gave me one.}
-{760}{lyn130a}{Excellent. Let me scan this.}
-{761}{}{Fade out 3 seconds}
-{762}{lyn130b}{We will not have problems with NCR for a very long time. }
-{763}{}{That's good news.}
-{764}{lyn131}{Now... regarding payment: Report to Randal, the Chief Amenities Officer. Tell him I sent
- you, and he will present you with your reward. Thank you again. }
-{765}{}{Before I go, I had some other questions...}
-{766}{}{All right. Reward, here I come.}
-{767}{}{Thank you, First Citizen. Good day.}
-{768}{lyn132}{Your service has been exemplary. So much so that it is my honor to name you Captain of the
- Guard. Congratulations, Captain. You deserve it.}
-{769}{}{Uh... thanks.}
+{748}{}{Pode contar comigo, Primeira Cidadã. Voltarei depois de entregar o disco para Westin.}
+{749}{lyn127}{Acredite em mim, você não ficará desapontado. Agora, por favor, entregue o holodisco.}
+{750}{}{Antes de ir, tenho outras perguntas...}
+{751}{}{Tudo bem. Estou trabalhando nisso.}
+{752}{}{Pode contar comigo, Primeira Cidadã. Voltarei depois de entregar o disco para Westin.}
+{753}{lyn128}{Posso ver que nosso acordo não significou nada para você. Muito bem então; seus privilégios
+ de Vault City foram revogados. Meus guardas irão acompanhá-lo até o portão da frente.}
+{754}{}{Vou matar aqueles guardas... depois de matar você.}
+{755}{}{Está bem! Pegue o disco, e eu irei. }
+{756}{lyn129}{Obrigado! Você prestou um grande serviço! Westin te entregou alguma correspondência?}
+{757}{}{Sim, estou começando a me sentir como um carteiro. Aqui, ele queria que eu te desse este disco.}
+{758}{}{Não, eu perdi.}
+{759}{}{Não, ele nunca me deu nada.}
+{760}{lyn130a}{Excelente. Deixe eu digitalizar isso.}
+{761}{}{Desvanecer por 3 segundos}
+{762}{lyn130b}{Não teremos problemas com a NCR por muito tempo. }
+{763}{}{Isso é uma boa notícia.}
+{764}{lyn131}{Agora... em relação ao pagamento: Reporte a Randal, o Diretor de Serviços. Diga a ele
+ que eu o enviei, e ele lhe apresentará sua recompensa. Obrigado novamente.}
+{765}{}{Antes de ir, tenho outras perguntas...}
+{766}{}{Tudo bem. Recompensa, aqui vou eu.}
+{767}{}{Obrigado, Primeira Cidadã. Bom dia.}
+{768}{lyn132}{Seu serviço tem sido exemplar. Tanto que é uma honra nomeá-lo Capitão da Guarda. Parabéns,
+ capitão. Você merece isso.}
+{769}{}{Uh... Obrigado.}
 {770}{}{Obrigado, Primeirã Cidadã.}
-{771}{lyn133}{In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
- receive your reward. We are in your debt... Captain.}
-{772}{}{Before I go, I had some other questions...}
+{771}{lyn133}{Além disso, reporte-se a Randal, o Diretor de Serviços. Diga a ele que eu o enviei
+ e receba sua recompensa. Estamos em dívida com você... Capitão.}
+{772}{}{Antes de ir, tenho outras perguntas...}
 {773}{}{Tudo bem. Recompensa, aí vou eu!}
-{774}{}{Thank you, First Citizen. Good day.}
+{774}{}{Obrigado, Primeira Cidadã. Bom dia.}
 {775}{lyn134}{Você perdeu?! Essa correspondência era extremamente importante! Muito bem...
  aqui está o seu pagamento pela entrega do disco. Agora, se me der licença... }
 {776}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
@@ -788,8 +788,8 @@
 {784}{}{Encontrei este holodisco no cofre de Bishop. ELE foi contratado pela NCR para fazer
  com que Vault City se juntasse à República. Quando você recusou sua oferta inicial, ele contratou os
  mercenários para atacá-lo para que você pedisse ajuda ao NCR.}
-{785}{lyn099}{What do you mean?}
-{786}{}{Moore's actually working for the New California Republic.}
+{785}{lyn099}{O que você quer dizer?}
+{786}{}{Na verdade, Moore está trabalhando para o República da Nova Califórnia.}
 {787}{lyn138}{Um espião da NCR? Isso... isso... explicaria muitas coisas. Obrigado por expor isso, Cidadão.
  ESSE problema eu posso resolver imediatamente.}
 {788}{}{Sobre o problema da NCR... há algo que eu possa fazer para ajudar?}
@@ -858,48 +858,48 @@
 {847}{}{A Anciã da minha aldeia me deu um cantil de água, mas não tenho aqui comigo. Ainda assim,
  as histórias que a Anciã nos contou diziam que meu ancestral era de ums Vault.}
 {848}{}{Você quer dizer dos ghouls? Sim, descobri o que há de errado com a central deles.}
-{849}{}{The plant needs a hydro-magnet, uh, thingie to make it work. The ghouls
- said you had one here, so I just need that, and they can make the plant clean.}
-{850}{}{They need a hydroelectric magnetosphere regulator to fix the plant and
- prevent it from polluting the groundwater. They claim you have one here in Vault City. So if I could
- get the part...}
-{851}{}{Never mind. We can talk about this some other time.}
-{852}{lyn047b}{What if we do? That is only a temporary solution.}
-{853}{}{Uh, well, I don't know the specifics, but it sounds like the magneto-thingie could help both
- Gecko and Vault City. Can I get the part?}
-{854}{}{Actually, the regulator could make the plant run clean for many years. So if I could just get the part...?}
-{855}{}{Never mind. Maybe I can find someone else to help me.}
-{856}{}{You are correct, First Citizen. I'll see what I can do to handle this problem on my own.}
-{857}{}{I don't think I understand. Is there some problem with Gecko... or the ghouls?}
-{858}{}{First Citizen, please hear me out... is there some problem with getting the part? It could
- solve your problems with Gecko and help the ghouls, too...}
-{859}{}{Nevermind. Maybe I can find someone else to help me.}
-{860}{}{Sorry for disturbing you, First Citizen.}
-{861}{}{They aren't trying to hurt anyone. They just don't have the part they need to make
- the plant run cleanly. So, if you could please GIVE me the part...}
-{862}{}{Never mind. Maybe I can find someone else to help me.}
-{863}{}{Very well. Sorry to disturb you, First Citizen.}
-{864}{lyn017b}{You barge into my chambers and then have the audacity to make demands of ME, Lynette, First Citizen of Vault City?!}
+{849}{}{A planta precisa de um hidroímã, uh, coisa para fazê-la funcionar. Os ghouls
+ disseram que você tinha um aqui, então eu só preciso disso, e a central pode trabalhar normalmente.}
+{850}{}{Eles precisam de um regulador elétrico da magnetosfera para consertar
+ a usina e evitar que ela polua as águas subterrâneas. Eles afirmam que você tem um aqui em Vault
+ City. Então, se eu conseguisse essa peça...}
+{851}{}{Deixa para lá. Podemos falar sobre isso outra hora.}
+{852}{lyn047b}{E se fizermos isso? Essa é apenas uma solução temporária.}
+{853}{}{Uh, bem, eu não sei os detalhes, mas parece que o magneto pode ajudar tanto Gecko quant
+ Vault City. Posso pegar a peça?}
+{854}{}{Na verdade, o regulador poderia fazer a planta funcionar limpa por muitos anos. Então, se eu pudesse conseguir a peça...?}
+{855}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{856}{}{Você está correta, Primeira Cidadã. Vou ver o que posso fazer para lidar com esse problema.}
+{857}{}{Acho que não entendo. Há algum problema com Gecko... ou com os ghouls?}
+{858}{}{Primeira Cidadã, por favor, ouça-me... há algum problema em conseguir a peça? Poderia
+ resolver seus problemas com Gecko e ajudar os ghouls também...}
+{859}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{860}{}{Desculpe por incomodá-la, Primeira Cidadã.}
+{861}{}{Eles não estão tentando machucar ninguém. Eles simplesmente não têm a peça de
+ que precisam para fazer a fábrica funcionar de forma limpa. Então, se você puder, por favor, ME DÊ a peça...}
+{862}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{863}{}{Muito bem. Desculpe incomodá-la, Primeira Cidadã.}
+{864}{lyn017b}{Você invade meus aposentos e então tem a audácia de fazer exigências a mim, Lynette, primeira cidadã de Vault City?!}
 {865}{lyn041c}{Agora saia imediatamente, ou chamarei os guardas.}
-{866}{}{That does it. You're in bad need of a painful lesson.}
-{867}{}{Never mind. Maybe I can find someone else to help me.}
-{868}{}{Sorry for disturbing you, First Citizen.}
-{869}{}{I need a part to fix the Gecko power plant.}
-{870}{}{You delivered Westin's holodisk to Lynette.}
-{871}{}{You delivered Westin's holodisk to Lynette and became Captain of the Guard.}
-{872}{}{You have wiped out the raiders and helped Vault City.}
-{873}{}{You have exposed Moore as a spy for NCR.}
-{874}{}{You have proven that Bishop hired the raiders.}
-{875}{}{You have proven that Bishop was hired by NCR.}
-{876}{}{I'm in need of one to save my --}
-{877}{}{Hold on a second --}
-{878}{}{Forget this. I'm leaving.}
-{879}{}{It seems like I'm wasting my time with you as well. Maybe you'd better go fetch someone who CAN help me.}
-{880}{}{Sorry to bother you, then. Goodbye.}
-{881}{}{That's good to hear. So...?}
+{866}{}{Sim. Você está precisando muito de uma lição dolorosa.}
+{867}{}{Deixa para lá. Talvez eu possa encontrar alguém para me ajudar.}
+{868}{}{Desculpe por incomodá-la, Primeira Cidadã.}
+{869}{}{Preciso de uma peça para consertar a usina de Gecko.}
+{870}{}{Você entregou o holodisco de Westin para Lynette.}
+{871}{}{Você entregou o holodisco de Westin para Lynette e se tornou Capitão da Guarda.}
+{872}{}{Você eliminou os invasores e ajudou Vault City.}
+{873}{}{Você expôs Moore como um espião da NCR.}
+{874}{}{Você provou que Bishop contratou os invasores.}
+{875}{}{Você provou que Bishop foi contratado pela NCR.}
+{876}{}{Preciso de um para salvar meu --}
+{877}{}{Espere um segundo --}
+{878}{}{Esqueça isso. Vou embora.}
+{879}{}{Parece que estou perdendo meu tempo com você também. Talvez seja melhor você ir buscar alguém que POSSA me ajudar.}
+{880}{}{Desculpe incomodá-lo, então. Adeus.}
+{881}{}{Me alegra ouvir isso. Então...?}
 {882}{}{Obrigado, Primeirã Cidadã.}
-{883}{}{Uh, it was my mistake... I didn't mean to say --}
-{884}{}{My apologizes, First Citizen. I --}
+{883}{}{Uh, foi um erro meu... eu não quis dizer --}
+{884}{}{Peço desculpas, Primeira Cidadã. Eu --}
 {885}{}{Guardas!}
-{1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
-{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
+{1663}{}{Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul. Convenci o guia deles a não ajudá-los mais. Sem os guias, eles não conseguirão encontrar o caminho pelas montanhas.}
+{1708}{}{Eles estavam escondidos em uma série de cavernas no sopé das colinas ao sul. Convenci o guia deles a não ajudá-los mais. Sem os guias, eles não conseguirão encontrar o caminho pelas montanhas.}

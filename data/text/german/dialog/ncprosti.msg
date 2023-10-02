@@ -159,7 +159,7 @@
 {333}{}{Willst du einer Jungfrau helfen, ihre Jungfräulichkeit zu verlieren?}
 {334}{}{Dieser Sklavenhändler lässt meinen Geigerzähler durchbrennen.}
 {335}{}{Wenn du willst bin ich extra nett, dass kostet dann aber extra.}
-{336}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
+{336}{}{[Singt.] "Let's play - master and servant. Let's play - master and servant."}
 {337}{}{Willst du mit mir spielen Sklavenhändler.}
 {338}{}{Ich habe endlich das gepolsterte Kopfteil installiert.}
 {339}{}{Ein Hauch des Paradies? Kostet nur 10 Chips.}
@@ -171,7 +171,7 @@
 {345}{}{Brauchst du jemanden, den du mit deiner Leine einfangen kannst Sklavenhändler?}
 {346}{}{Myron kommt ab und zu vorbei...}
 {347}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{348}{}{She ain't no Jet addict, she's a BONE addict.}
+{348}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {349}{}{Bei Cat's Paw wird dir sicher eingeheizt...}
 {350}{}{Ich bin gestern Marathon gelaufen, na ja besser gesagt vor Myron geflüchtet...}
 {351}{}{Suchst du einen Lebensabschnittsgefährten Sklavenhändler?}
@@ -364,7 +364,7 @@
 {538}{}{Was erwartet er von mir, dass ich mich bücke?}
 {539}{}{Ich denke das Reno Schild wird bald runterfallen...}
 {540}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{541}{}{She ain't no Jet addict, she's a BONE addict.}
+{541}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {542}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {543}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {544}{}{Suchst du nach Liebe Süßer?}
@@ -527,7 +527,7 @@
 {701}{}{Was erwartet er von mir, dass ich mich bücke?}
 {702}{}{Ich denke das Reno Schild wird bald runterfallen...}
 {703}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{704}{}{She ain't no Jet addict, she's a BONE addict.}
+{704}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {705}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {706}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {707}{}{Suchst du nach Liebe Süßer?}
@@ -645,7 +645,7 @@
 {819}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte Hände.}
 {820}{}{Die wollten schon wieder einen KRIEG? Echt! Gut das du diese Bastarde erledigt hast.}
 {821}{}{Du bist ein echter Bad Boy. Ich meine du hast als speerwerfender Wilder begonnen - ohne Erfahrung - und du gehst aus und rettest die Welt. Du trittst ihnen in den Arsch. Ende der Geschichte.}
-{822}{}{Du solltest das spiel nochmal, mit einen anderen Charakter durchspielen.}
+{822}{}{Du solltest das spiel nochmal, mit einen anderen Figur durchspielen.}
 {823}{}{Erzähl mir alles über deinen Kampf mit der Enklave...}
 {824}{}{Hey, wenn du einmal gratis ran willst, weil du die Welt gerettet hast, ich bin sicher wir werden uns einig...}
 {825}{}{Ich weiß nicht, wie du gegen diese Enklavenschweine eine Chance hattest, aber du bist die mutigste Person die ich kenne.}
@@ -653,7 +653,7 @@
 {827}{}{Küss mich du Enklaven zerstörender Held.}
 {828}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {829}{}{Wir vermissen Tim Cain. er kann wunderbar Brot backen. Dann hat er uns immer den Hintern versohlt, wie kleinen Kindern.}
-{830}{}{Ich weiß, ich bin nur ein NPC, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
+{830}{}{Ich weiß, ich bin nur eine Nicht-Spieler-Figur, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
 {831}{}{Die Frauen in dieser Stadt scheinen von einem sexhungrigen Nerd entworfen worden zu sein, der noch immer bei seinen Eltern im Keller wohnt.}
 {832}{}{New Reno wurde von Chris Avellone und Tom French entworfen. Beide sind in sexueller hinsicht Götter.}
 {833}{}{Feargus bekam einen finsteren Blick als er gesehn hatte, wie viel Text ich hatte. Er ist immer so ernst.}
@@ -742,7 +742,7 @@
 {916}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
 {917}{}{Ja, die SIND echt und NEIN, du kannst dich nicht selbst überzeugen.}
 {918}{}{Dieser Kerl, Fred Hatch, er wollte von mir wissen, ob es auch mollige Frauen in der Stadt gibt. Komisch.}
-{919}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
+{919}{}{[Singt.] "Let's play - master and servant. Let's play - master and servant."}
 {920}{}{Willst du Meister und Sklave spielen?}
 {921}{}{Wenn ich nachher noch etwas bleiben soll kostet das extra.}
 {922}{}{Willst du sehen wo der Bär steppt?}
@@ -760,7 +760,7 @@
 {934}{}{Myron ist ein echter Wirbelsturm.}
 {935}{}{AC-DC, B n' D, was auch immer.}
 {936}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{937}{}{She ain't no Jet addict, she's a BONE addict.}
+{937}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {938}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {939}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {940}{}{Suchst du nach Liebe Süßer?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron ist ein echter Wirbelsturm.}
 {1109}{}{AC-DC, B n' D, was auch immer.}
 {1110}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{1111}{}{She ain't no Jet addict, she's a BONE addict.}
+{1111}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {1112}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {1113}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {1114}{}{Suchst du nach Liebe Süßer?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron ist ein echter Wirbelsturm.}
 {1282}{}{AC-DC, B n' D, was auch immer.}
 {1283}{}{Die Tochter von Bishop ist ein echter Betthase.}
-{1284}{}{She ain't no Jet addict, she's a BONE addict.}
+{1284}{}{Sie ist nicht Jet-süchtig, sondern Sex-süchtig.}
 {1285}{}{Ich habe gehört, dass es in Vault City nur zwei Arten von Bürgern gibt. Vielleicht war das ein Klonunfall.}
 {1286}{}{Letzte Nacht kam ich mir vor wie beim Marathon...}
 {1287}{}{Suchst du nach Liebe Süßer?}

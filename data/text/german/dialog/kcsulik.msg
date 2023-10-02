@@ -59,7 +59,7 @@
 {234}{}{Ich hab gern geholfen, Sulik. Erzähl mir was von dir.}
 {235}{}{Wie wär's, wenn du mir sagst, was in der Stadt so vor sich geht?}
 {236}{}{Ich wollte nicht, dass du noch länger ein Gefangener bleibst. Mach's gut.}
-{237}{}{Erzähl mir  von dir.}
+{237}{}{Erzähl mir von dir.}
 {240}{slk9a}{Machen wir.}
 {241}{slk9b}{Wir sein Geist von Zorn, Freund.}
 {243}{slk10a}{Jawohl, Freund.}

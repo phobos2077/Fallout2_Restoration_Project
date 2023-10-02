@@ -54,8 +54,7 @@
  möchte nicht, dass irgend jemandem was passiert. Tschüss.}
 {149}{}{Ich werde nicht das Leben der Leute hier aufs Spiel setzen. Keine Chance. }
 {150}{}{Tut mir leid für dich. Dann muss ich dich wohl umlegen. Nimm's nicht persönlich.}
-{151}{}{Wieso würde das das Leben der Leute hier aufs Spiel setzen? Wie funktioniert denn der
- Reaktor?}
+{151}{}{Wieso würde das das Leben der Leute hier aufs Spiel setzen? Wie funktioniert denn der Reaktor?}
 {152}{}{Ich muss wohl doch eine andere Möglichkeit finden, den Strom abzustellen. Bleib bloß
  ruhig, wenn ich hier weg bin. Tschüss.}
 {153}{}{Also gut. OK, äh, das hier in den grünen Bereich. [Er fummelt einige Minuten am

@@ -19,7 +19,7 @@
 {116}{}{Wo Vertibird-Pläne?}
 {118}{}{Wo Hauptbasis?}
 {119}{}{Ich wieder Dienst. Danke.}
-{120}{}{Was ist hier los?}
+{120}{}{Was geht hier vor?}
 {121}{}{Ich interessiere mich für die Vertibirds. Wenn ich mir die Pläne ansehen wollte, wo finde
  ich die denn?}
 {123}{}{Wo liegt die Enklave-Hauptbasis?}
@@ -59,7 +59,7 @@
  glaub ich. }
 {148}{}{OK.}
 {149}{}{Wo das?}
-{150}{}{Ich verstehe.}
+{150}{}{Verstehe.}
 {151}{}{Wo das?}
 {152}{}{Nordöstliche Ecke der Basis, mein Freund. Kannst es nicht verfehlen.}
 {153}{}{OK. Danke.}
@@ -77,7 +77,7 @@
 {163}{}{Nimm den Aufzug im nächsten Raum nach unten, den Flur entlang bis zur Hauptkreuzung, dann
  geradeaus. }
 {164}{}{Danke.}
-{165}{}{He, Soldat. Schön, dich wiederzusehen. Dieses Mal futtern oder reden?}
+{165}{}{He, Soldat. Schön, dich wiederzusehen. Futtern oder Tratsch diesmal?}
 {166}{}{Essen.}
 {167}{}{Quatschen.}
 {168}{}{Ich nur sagen Hallo.}

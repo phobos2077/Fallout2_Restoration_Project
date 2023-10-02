@@ -51,7 +51,7 @@
 {150}{}{Obrigado. Tchau.}
 {151}{}{Você cometeu um grande erro mexendo com o capitão e seus amigos...}
 {152}{}{Como pilota isso aqui? Bem, vejo que você já está exausto com isso. Depois de cuidar de todo o resto, basta pressionar o botão. O computador fará o resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos você não terá que se preocupar com o Enclave disparando contra você, porque você tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador em funcionamento e combustível. Moleza, hein?}
-{153}{}{Oh, sim. Você precisa fazer o computador de navegação funcionar também. Talvez você encontre peças para ele em uma daquelas vaults antigas.}
+{153}{}{Oh, sim. Você tem que fazer o computador de navegação funcionar também. Aposto que você encontraria peças para ele em uma daquelas vaults antigas.}
 {154}{}{Eai, que bom te ver. Do que precisa?}
 {155}{}{, e a menos que eu perca minha aposta, seus amigos também estão lá.}
 {156}{}{.}

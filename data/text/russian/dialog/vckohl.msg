@@ -92,18 +92,15 @@
 {191}{}{Понятно. Вы не будете возражать, если я задам вам еще несколько вопросов?}
 {192}{}{Пожалуй, пойду-ка я поищу его.}
 {193}{}{! Отлично сделано! Браво!}
-
-# by Lujo - Abbey pointer
-{194}{}{О, конечно! И мне тоже жаль, что не многие это поддерживают.}
-{195}{}{Я, безусловно, разделяю ваши чувства! Довольно давно уже никого такое не интересует. Но когда-то я знал торговца, интересовавшегося этим...}
-{196}{}{Правда? Когда-то?}
-{197}{}{Ну, приятно знать, что нас больше, чем я думал. Не возражаете, если я спрошу кое о чем еще?}
-{198}{}{Что ж, я надеюсь, что нас больше, чем мы думаем. Спасибо огромное и до свидания!}
-{199}{}{Да, он расхаживал во внутреннем дворе, продавая алкогольные напитки, но я знаю, что он пришел ко мне купить книги. Я даже не хотел взимать с него платы, но он настаивал. Сказал, что у него на родине их любят.}
-{200}{}{Ого, а это весьма обнадеживает! Где же он живет?}
-{201}{}{Почему он больше не появлялся?}
-{202}{}{Он сказал, что живет в месте, называемом Эбби, на севере отсюда. Он даже точно объяснил мне где, это прямо... здесь. Я хотел бы увидеть те края, но я даже не могу без страха выглянуть во двор.}
-{203}{}{Ну, он мог пытаться продавать спиртное в городе. Это незаконно, вы знаете.}
-{204}{}{Ах, какая досада. Ну что ж, спасибо за информацию. Не возражаете, если я спрошу вас кое о чем еще?}
-{205}{}{Вот незадача. Так откуда он, вы говорите?}
-# end by Lujo
+{194}{}{Oh, I will for sure! I whish there were more people who did, too.}
+{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
+{196}{}{Really? Used to?}
+{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
+{198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
+{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
+{200}{}{Wow, that's a very comforting thought! Where was his home?}
+{201}{}{Why doesn't he come around anymore?}
+{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
+{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
+{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
+{205}{}{Ah, pushed his luck. Where did he say he was from?}

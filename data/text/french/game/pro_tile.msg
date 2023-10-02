@@ -843,7 +843,7 @@
 {245200}{}{Plancher}
 {245300}{}{Plancher}
 {245400}{}{Plancher}
-{245500}{}{End of Group}
+{245500}{}{Fin du groupe}
 {245600}{}{Toit}
 {245700}{}{Toit}
 {245800}{}{Toit}
@@ -870,9 +870,9 @@
 {247900}{}{Toit}
 {248000}{}{Toit}
 {248100}{}{Toit}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Fin du groupe}
+{249100}{}{Fin du groupe}
+{250400}{}{Fin du groupe}
 {250500}{}{Plancher}
 {250600}{}{Plancher}
 {250700}{}{Plancher}
@@ -884,10 +884,10 @@
 {251300}{}{Plancher}
 {251400}{}{Plancher}
 {251500}{}{Plancher}
-{251600}{}{End of Group}
+{251600}{}{Fin du groupe}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Fin du groupe}
+{318200}{}{Fin du groupe}
 {369100}{}{Toit}
 {369200}{}{Toit}
 {369300}{}{Toit}

@@ -6,7 +6,7 @@
 {157}{}{Tu vois un des enfants des Wright. Elle te tire la langue.}
 {158}{}{Tu vois un des enfants des Wright. Elle a des cheveux si courts qu'elle correspond parfaitement au modèle infantile masculin par défaut.}
 {159}{}{Tu vois un des enfants des Wright. Elle te regarde.}
-{175}{}{Fallout 2 vous a été présenté par Nuka Cola.}
+{175}{}{Fallout 2 vous a été présenté par Nuka-Cola.}
 {176}{}{Hé ! }
 {177}{}{}
 {178}{}{Merci d'nous avoir sauvés, }

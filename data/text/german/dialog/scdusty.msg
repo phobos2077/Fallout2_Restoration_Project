@@ -27,7 +27,7 @@
 {120}{}{Wer ist der Große da?}
 {121}{}{Danke.}
 {122}{}{Mehr weiß ich darüber nicht. Gunther, ihr Sekretär, kann dir bestimmt mehr sagen.
- Du findest ihn in der Kongreßhalle.}
+ Du findest ihn in der Kongresshalle.}
 {123}{}{Wer ist der Große da?}
 {124}{}{Danke.}
 {125}{}{Willst du was drinken?}

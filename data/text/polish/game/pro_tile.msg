@@ -843,7 +843,7 @@
 {245200}{}{podłoga}
 {245300}{}{podłoga}
 {245400}{}{podłoga}
-{245500}{}{End of Group}
+{245500}{}{koniec grupy}
 {245600}{}{dach}
 {245700}{}{dach}
 {245800}{}{dach}
@@ -870,9 +870,9 @@
 {247900}{}{dach}
 {248000}{}{dach}
 {248100}{}{dach}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{koniec grupy}
+{249100}{}{koniec grupy}
+{250400}{}{koniec grupy}
 {250500}{}{drewniana podłoga}
 {250600}{}{drewniana podłoga}
 {250700}{}{drewniana podłoga}
@@ -884,10 +884,10 @@
 {251300}{}{drewniana podłoga}
 {251400}{}{drewniana podłoga}
 {251500}{}{drewniana podłoga}
-{251600}{}{End of Group}
+{251600}{}{koniec grupy}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{koniec grupy}
+{318200}{}{koniec grupy}
 {369100}{}{dach}
 {369200}{}{dach}
 {369300}{}{dach}

@@ -10,17 +10,17 @@
 {107}{}{Desconecte o computador.}
 {108}{}{Pressione o grande botão vermelho marcado com as letras 'OFF'.}
 {109}{}{Sair}
-{110}{}{[You can't seem to figure out how to shut the program down.]}
+{110}{}{[Você não consegue descobrir como desligar o programa.]}
 {111}{}{Sair}
-{112}{}{[Typing the word "OFF" seems to do the trick. The automated repair system is off.]}
+{112}{}{[Digitar a palavra "OFF" parece funcionar. O sistema de reparo automatizado está desativado.]}
 {113}{}{Sair}
-{114}{}{[By pure chance you notice an electrical cord going from the computer to a socket in the wall.
- The computer screen fades to black as you pull the plug.]}
+{114}{}{[Por puro acaso você percebe um fio elétrico indo do computador para uma tomada na parede.
+ A tela do computador escurece quando você desliga o plugue.]}
 {115}{}{Sair}
-{116}{}{[You boldly press the red button marked "OFF". As you suspected the computer terminal goes dark.]}
+{116}{}{[Você pressiona corajosamente o botão vermelho marcado como "OFF". Como você suspeitava, o terminal do computador fica escuro.]}
 {117}{}{Sair}
-{118}{}{[As you start to type, keys begin to pop out of the keyboard and fall to
- the floor. So much for using this terminal.]}
+{118}{}{[Conforme você começa a digitar, as teclas começam a saltar do teclado
+ e cair no chão. Tem sido demais para este terminal].}
 {119}{}{Sair}
-{120}{}{You already shut down the automated repair system.}
+{120}{}{Você já desligou o sistema de reparo automatizado.}
 {121}{}{Não consigo acessar o terminal. Alguém quebrou o teclado.}

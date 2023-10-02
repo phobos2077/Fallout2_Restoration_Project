@@ -101,7 +101,7 @@
 {246}{}{Dann bis später.}
 {247}{}{Tschüss.}
 {248}{}{Ja, was auch immer. Aber diesmal machst du hinter dir sauber, ja?}
-{249}{}{Hey, ihr alle! Ein Hoch für für Billy. Er läuft auf Hochtouren!}
+{249}{}{Hey, Leute! Einen Applaus für Billy. Er kriegt tatsächlich was ab!}
 {250}{}{Brauchst du einen Lappen?}
 {251}{}{Bis gleich.}
 {252}{}{Sheila! Pass auf die Bar auf!}

@@ -30,7 +30,6 @@
 {129}{}{Westin. Arbeit. Ich}
 {130}{}{Ich gehen.}
 {131}{}{Gut. Wenn er dir Arbeit geben will, dann sollst du Arbeit kriegen!
-
 Irgendwas oder Irgendwer töten Muh-Muhs. Kommen mit mir. Du wachen. Passen auf auf Muh-Muhs. Machen Chef froh. Okay?}
 {132}{}{OK.}
 {133}{}{Nein. Ich nix töten.}

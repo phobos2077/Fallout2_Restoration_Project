@@ -70,10 +70,10 @@
 {164}{}{Olha, é aquele que derrotou a Enclave!}
 {165}{}{Bem vindo a Vault City.}
 {166}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
-{167}{}{I heard you've traveled as far south as San Francisco. Is that true?}
-{168}{}{Is it true that the U.S. was still fighting the war?}
-{169}{}{You should catalog your travels in the Vault City computer.}
-{170}{}{You're welcome to stay in Vault City as long as you want.}
+{167}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{168}{}{É verdade que os EUA ainda estavam lutando na guerra?}
+{169}{}{Você deve catalogar suas viagens no computador de Vault City.}
+{170}{}{Você pode ficar em Vault City o tempo que quiser.}
 {171}{}{Você deve catalogar suas façanhas contra a Enclave e adicioná-las as Lista no Servidor.}
 {172}{}{Capitão.}
 {173}{}{Vault City prevails, Capitão.}

@@ -282,14 +282,14 @@
 {14501}{}{Un grosso buco e' stato creato in questa porta.}
 {14600}{}{Buco}
 {14601}{}{Un grosso buco e' stato creato in questa porta.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Vetro Presumibilmente Anti-Proiettile}
+{14701}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
+{14800}{}{Vetro Presumibilmente Anti-Proiettile}
+{14801}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
+{14900}{}{Vetro Presumibilmente Anti-Proiettile}
+{14901}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
+{15000}{}{Vetro Presumibilmente Anti-Proiettile}
+{15001}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
 {15100}{}{Porta}
 {15101}{}{Questa porta e' un esempio di costruzione ad alta tecnologia. Si apre allargandosi grazie alla rotazione dei tre pezzi che la compongono.}
 {15200}{}{Porta}
@@ -2630,12 +2630,12 @@
 {171800}{}{Parete}
 {171900}{}{Presa d'Aria}
 {172000}{}{Presa d'Aria}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Vetro Presumibilmente Anti-Proiettile}
+{172101}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
+{172200}{}{Vetro Presumibilmente Anti-Proiettile}
+{172201}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
+{172300}{}{Vetro Presumibilmente Anti-Proiettile}
+{172301}{}{Vetro presumibilmente infrangibile. Non provarci nemmeno!}
 {172400}{}{Torretta Laser Pesante}
 {172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Torretta Laser Pesante}

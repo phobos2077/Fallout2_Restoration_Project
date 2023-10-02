@@ -19,7 +19,7 @@
 {118}{}{Eu tenho mais perguntas.}
 {119}{}{De onde você é?}
 {120}{}{Ótimo. Isso é tudo por enquanto.}
-{121}{}{Eu sou de um lugar ao sul de Boneyard e ao sul de Glow. Não estamos muito longe do mar. Eu era uma babá, mas então as crianças se transformaram em monstros.}
+{121}{}{Eu sou de um lugar ao sul de Boneyard e do Glow. Não estamos muito longe do mar. Eu costumava ser babá, mas então as crianças se transformaram em monstros.}
 {122}{}{Eu tenho mais perguntas.}
 {123}{}{Como você conheceu Badger?}
 {124}{}{Fascinante. Isso é tudo por enquanto.}
@@ -33,5 +33,5 @@
 {132}{}{De onde você é?}
 {133}{}{Como você conheceu Badger?}
 {134}{}{Nada agora. Tchau.}
-{135}{}{Oh meu Deus... Badger está morto... Eu não sei o que vou fazer... Eu não tenho nenhum amigo aqui... toda a minha família morreu... Deus do céu...}
+{135}{}{Ai meu deus... Badger morreu... não sei o que vou fazer... não tenho amigos aqui... minha família toda morreu... ai meu Deus...}
 {136}{}{Obrigado pela sua ajuda. Eu vou encontrar Badger.}

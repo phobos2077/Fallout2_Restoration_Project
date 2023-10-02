@@ -43,7 +43,7 @@
 {277}{}{Pass auf, ich lass dir deine Bemerkung durchgehen... dieses eine Mal. Also, wer bist du?}
 {278}{}{Beeindruckendes Vokabular... "Luzifer". Kommst du aus der Gegend?}
 {279}{}{Vergiss es. Ich verschwinde hier.}
-{290}{}{(Funkelt dich an und schnaubt dann.) Heiße Renesco. Sag  mir einfach, was du willst, du... naja was auch immer du bist. (Blickt dich argwöhnisch an.) Du siehst aus wie einer dieser sonnenanbetenden Menschenaffen unter diesem Aufzug.}
+{290}{}{(Funkelt dich an und schnaubt dann.) Heiße Renesco. Sag mir einfach, was du willst, du... naja was auch immer du bist. (Blickt dich argwöhnisch an.) Du siehst aus wie einer dieser sonnenanbetenden Menschenaffen unter diesem Aufzug.}
 {291}{}{Ich komme aus einem Dorf im Nordwesten. Arroyo.}
 {292}{}{Was verkaufst du hier?}
 {293}{}{Was ich WILL? Ich weiß es nicht genau. Meistens ignoriere ich meine Aufgabe und gehe einfach in die Wohnungen anderer und stöbere in den Regalen der Leute herum... oooh, so wie die da drüben!}
@@ -91,7 +91,7 @@
 {413}{}{Das habe ich bemerkt. Schau, ich hatte noch ein paar Fragen...}
 {414}{}{Ah, ja... ich muss jetzt gehen.}
 {420}{}{Also, Sippling, ich bezweifle, dass du das schon bemerkt hast, aber New Reno produziert nichts Nützliches. Es ist eine große, hell erleuchtete Präriezecke draußen in der Wüste. Nun, Redding andererseits...}
-{421}{}{Mach weiter.}
+{421}{}{Ja?}
 {422}{}{...PRODUZIERT etwas Nützliches.}
 {423}{}{Ich hab genug gehört.}
 {430}{}{Ich warne dich zum ersten und letzten Mal, du Sippenwesen: Unterbrich mich verdammt noch mal nicht mitten im Satz. Ich mag keine klugscheißerischen Affen, die reden, wenn sie zuhören sollen. Kein Wunder, dass ihr alle noch Speere benutzt...}
@@ -133,7 +133,7 @@
 {546}{}{Hab ich schon erwähnt, dass Arroyo von meinem Vorfahren, dem heiligen Vaultbewohner gegründet wurde? Er unternahm eine legendäre Reise vom Süden aus, nachdem er ein großes Unheil abgewendet hatte. (Du blähst die Brust auf und blickst stolz in die Ferne.) Jetzt, bin *Ich* der Erlöser meines Stammes, auserwählt, nach dem heiligen GECK zu suchen!}
 {547}{}{OK, gut, genug der Geschichten... Ich mache mich jetzt besser auf den Weg. Gelobt sei die Vault!}
 {555}{}{(Renescos funkelnder Blick erlischt.) }
-{556}{}{GECK? Wie 'Garden Eden Creation Kit'? Wird mit einer Basisreplikationseinheit, Holo-Disk-Leser mit einer Auswahl der Kongreßbibliothek und einer kleinen Stablampe geliefert?}
+{556}{}{GECK? Wie 'Garden Eden Creation Kit'? Wird mit einer Basisreplikationseinheit, Holo-Disk-Leser mit einer Auswahl der Kongressbibliothek und einer kleinen Stablampe geliefert?}
 {557}{}{Ja, aber das ist jetzt nicht wichtig. Ich habe dir noch nicht alles über Arroyo erzählt.}
 {558}{}{Ja! Mein Dorf hat Schwierigkeiten mit der Ernte und sie brauchen das GECK, um das Dorf zu erhalten. Weißt du, wo ich eines finde?}
 {559}{}{Es heißt, es sei in Vault 13 versiegelt, zumindest in den Legenden. Kennst du diesen Ort?}
@@ -320,7 +320,7 @@
 {1041}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {1042}{}{Noch mehr solche Komplimente, Renesco, und du hast ein langes Sterben vor dir. }
 {1043}{}{DANKE, Renesco. }
-{1526}{}{Und manchmal gerät die Älteste wegen Kleinigkeiten       außer sich, wie... heh-heh ...in der einen Nacht, als ich mein Keuschheitsgelübde ignoriert habe und mit Kor-Der- Wie-Tausend-Hengste-Donnert davongeschlichen bin,            zum Canyon von Arroyo...}
+{1526}{}{Und manchmal gerät die Älteste wegen Kleinigkeiten außer sich, wie... heh-heh ...in der einen Nacht, als ich mein Keuschheitsgelübde ignoriert habe und mit Kor-Der- Wie-Tausend-Hengste-Donnert davongeschlichen bin, zum Canyon von Arroyo...}
 {1536}{}{Es ist, als wäre es gestern gewesen. Kors Körper pulsierte wie Bronze im Mondschein, als ich mich niederkniete und... he, weißt du was? Du könntest die Älteste mögen. Sie ist etwa in deinem Alter.}
 {2000}{}{Du hast Renescos Mitwirkung am Tod von Richard Wright aufgedeckt.}
 {5257}{}{ ist so groß. Ich jetzt gehn }

@@ -509,7 +509,7 @@
 {1128}{}{All right then. I had some questions...}
 
 # 152. CAN'T MAKE SUPER STIM-PACKS (143, 151)
-{1135}{myn152}{Of course I could...'cept we ain't got what I need. Some of that mutated fruit for the citric acid... a splash a' Nuka-Cola... and a normal stim pack.}
+{1135}{myn152}{Of course I could...'cept we ain't got what I need. Some of that mutated fruit for the citric acid... a splash a' Nuka-Cola... and a normal stimpak.}
 
 # 153. MAKE SUPER STIM-PACKS (143, 151)
 {1145}{myn153a}{Repeat after me: Myron's a genius. How many packs you want?}
@@ -943,3 +943,4 @@
 {5000}{}{Fuck! Fuck! I can't feel this limb anymore!}
 {5001}{}{I feel like I am fucking melting!}
 {5002}{}{I'm puking my fucking guts out over here!}
+

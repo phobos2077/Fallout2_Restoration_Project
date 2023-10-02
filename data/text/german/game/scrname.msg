@@ -868,7 +868,7 @@
 {968}{}{Maulwurfsratte}
 {969}{}{Sekretärin des Präsidenten}
 {970}{}{Tom Murray}
-{971}{}{Robuste  Tür}
+{971}{}{Robuste Tür}
 {972}{}{Stadtbewohner}
 {973}{}{Gemeindebereich von Vault City}
 {974}{}{Luftreiniger}

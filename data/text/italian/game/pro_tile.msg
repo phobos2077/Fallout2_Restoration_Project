@@ -843,7 +843,7 @@
 {245200}{}{Pavimento}
 {245300}{}{Pavimento}
 {245400}{}{Pavimento}
-{245500}{}{End of Group}
+{245500}{}{Fine del gruppo}
 {245600}{}{Tetto}
 {245700}{}{Tetto}
 {245800}{}{Tetto}
@@ -870,9 +870,9 @@
 {247900}{}{Tetto}
 {248000}{}{Tetto}
 {248100}{}{Tetto}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Fine del gruppo}
+{249100}{}{Fine del gruppo}
+{250400}{}{Fine del gruppo}
 {250500}{}{Pavimento in Legno}
 {250600}{}{Pavimento in Legno}
 {250700}{}{Pavimento in Legno}
@@ -884,10 +884,10 @@
 {251300}{}{Pavimento in Legno}
 {251400}{}{Pavimento in Legno}
 {251500}{}{Pavimento in Legno}
-{251600}{}{End of Group}
+{251600}{}{Fine del gruppo}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Fine del gruppo}
+{318200}{}{Fine del gruppo}
 {369100}{}{Tetto}
 {369200}{}{Tetto}
 {369300}{}{Tetto}

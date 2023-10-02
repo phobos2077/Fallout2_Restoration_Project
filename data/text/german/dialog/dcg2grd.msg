@@ -34,12 +34,12 @@
 {260}{}{Lass Lara wissen, wann es an der Zeit ist.}
 {270}{}{Willste beitreten?}
 {271}{}{Du willst bestimmt zu Lara, oder?}
-{272}{}{Wie läuft es?}
+{272}{}{Wie geht's.}
 {273}{}{Lara ist die, mit der du reden solltest.}
 {274}{}{Hey.}
 {275}{}{Willste zu Lara?}
 {300}{}{Hey.}
-{301}{}{Wie läuft es?}
+{301}{}{Wie geht's.}
 {302}{}{Ich hoffe, dass alles gut läuft.}
 {303}{}{Du könntest uns also raushelfen?}
 {304}{}{Gut, dich zu sehen}

@@ -102,7 +102,7 @@
 {1101}{}{Das war nicht fair.}
 {1102}{}{Feig...ling, nngh....}
 {1103}{}{Verdammt!}
-{1104}{}{Mein Schädel schmerzt!}
+{1104}{}{Mir brummt der Schädel.}
 {1105}{}{Mein Gesicht! Mein Gesicht!}
 {1106}{}{Ich seh Sterne!}
 {1107}{}{Wer hat denn das Licht ausgeschaltet?}
@@ -1360,7 +1360,7 @@
 {10128}{}{Gort! Klaatu Berada Nictu!}
 {10129}{}{Sssszzzzztt *POP*}
 {10130}{}{Etwas Sahne dazu, meine Dame?}
-{10131}{}{Jawohl, eine Einheit Mr. Handy, Sir.}
+{10131}{}{Jawohl, eine Mr. Handy-Einheit, Sir.}
 {10132}{}{Ich bin volltauglich.}
 {10133}{}{Aber ich bin Übersetzer.}
 {10134}{}{Nanuu-nanuu.}
@@ -1380,7 +1380,7 @@
 {10148}{}{Gort! Klaatu Berada Nictu!}
 {10149}{}{Sssszzzzztt *POP*}
 {10150}{}{Etwas Sahne dazu, meine Dame?}
-{10151}{}{Jawohl, eine Einheit Mr. Handy, Sir.}
+{10151}{}{Jawohl, eine Mr. Handy-Einheit, Sir.}
 {10152}{}{Ich bin volltauglich.}
 {10153}{}{Aber ich bin Übersetzer.}
 {10154}{}{Nanuu-nanuu.}
@@ -3445,7 +3445,7 @@
 {44884}{}{Von jetzt an werd ich wohl 'ne Brille brauchen!}
 {44890}{}{Bauchschüsse sind echt 'ne ganz miese Tour!}
 {44891}{}{Nicht...unter...die...Gürtellinie!}
-{44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden  treffen würde?}
+{44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden treffen würde?}
 {44893}{}{Ich HASSE Unterleibsschüsse! Umpf...}
 {44894}{}{Unterleibsschuss...wie gut, dass ich kein Mensch bin!}
 {44900}{}{Zeit, abzuhauen!}

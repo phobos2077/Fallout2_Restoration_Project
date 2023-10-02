@@ -34,7 +34,7 @@
 {127}{}{No. No mucho.}
 {128}{}{Otra vez tú, ¿eh?}
 {129}{}{¡Ork! ¡Ooo! ¡Ug ug!}
-{130}{}{Hola! ¡HOOOLA! Yo (nombre)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Colega, ya te di algo de dinero. Ve a molestar a otro, eh?}
 {132}{}{Hola otra vez. ¿Por qué no echas un vistazo al… umm… banco de la ciudad? Estoy seguro de que allí hay un montón de gente
  encantada de hablar contigo.}
@@ -152,3 +152,4 @@
  Broken Hills.}
 {407}{}{Eso espero yo también. Tengo algunas preguntas más.}
 {408}{}{Yo también. Adiós.}
+{1130}{}{!}

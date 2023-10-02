@@ -282,14 +282,14 @@
 {14501}{}{Uma grande explosão causou este buraco na porta.}
 {14600}{}{Buraco}
 {14601}{}{Uma grande explosão causou este buraco na porta.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Vidro supostamente à prova de bala}
+{14701}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{14800}{}{Vidro supostamente à prova de bala}
+{14801}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{14900}{}{Vidro supostamente à prova de bala}
+{14901}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{15000}{}{Vidro supostamente à prova de bala}
+{15001}{}{Vidro supostamente inquebrável. Não adianta tentar!}
 {15100}{}{Porta}
 {15101}{}{Este porta foi construída com peças de alta tecnologia. Ele se abre lentamente à medida que gira as três peças que compõem a Porta.}
 {15200}{}{Porta}
@@ -330,7 +330,7 @@
 {16901}{}{Uma coluna de suporte}
 {17000}{}{Coluna}
 {17001}{}{Uma coluna de suporte}
-{17100}{}{Computador de aceso.}
+{17100}{}{Computador de acesso.}
 {17101}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {17200}{}{Cartaz de Casino}
 {17201}{}{Parece que é uma propaganda para o Casino de Gizmo.}
@@ -2630,12 +2630,12 @@
 {171800}{}{Parede}
 {171900}{}{Duto de ventilação}
 {172000}{}{Duto de ventilação}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Vidro supostamente à prova de bala}
+{172101}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{172200}{}{Vidro supostamente à prova de bala}
+{172201}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{172300}{}{Vidro supostamente à prova de bala}
+{172301}{}{Vidro supostamente inquebrável. Não adianta tentar!}
 {172400}{}{Torre de Laser}
 {172401}{}{A torreta gira de forma ameaçadora.}
 {172500}{}{Torre de Laser}
@@ -3182,7 +3182,7 @@
 {210201}{}{Este grande porta é o elo entre o refúgio e o mundo exterior. Foi arrasada por uma tremenda explosão.}
 {210300}{}{Entrada da caverna}
 {210301}{}{A caverna parece se expandir para uma rede maior de cavernas.}
-{210400}{}{Computador de aceso.}
+{210400}{}{Computador de acesso.}
 {210401}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {210500}{}{Barco enferrujado}
 {210501}{}{Este barco parece não ter condições de navegar.}

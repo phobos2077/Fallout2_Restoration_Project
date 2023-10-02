@@ -1,1 +1,1 @@
-{100}{}{On the back of the painting you find a hand-drawn map showing the location of Vault 13.}
+{100}{}{Na parte de trás da pintura, você encontra um mapa desenhado à mão mostrando a localização da Vault 13.}

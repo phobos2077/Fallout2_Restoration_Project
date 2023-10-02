@@ -41,7 +41,7 @@
 {139}{}{Trink nichts von dem Wasser in der Gegend. Das bringt Geigerzähler zum Ticken.}
 {140}{}{Wenn Bürger hier vorbeigehen, sehen die an nicht an und grüßen auch nicht.}
 {141}{}{Wenn Vault City uns auch nicht mag, wenigstens beschützen sie uns.}
-{142}{}{Vorsicht mit dem Autodoc Ausschau. Der heilt dich... jedenfalls meistens. Aber fordere
+{142}{}{Vorsicht mit dem Auto-Doc Ausschau. Der heilt dich... jedenfalls meistens. Aber fordere
  dein Glück nicht heraus.}
 {143}{}{Ed, der Brahmin-Händler, musste die Preise schon wieder hochsetzen, um die monatlichen
  Zahlungen an die Wachen zusammenzukriegen.}

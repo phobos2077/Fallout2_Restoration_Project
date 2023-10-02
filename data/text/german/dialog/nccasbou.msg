@@ -75,7 +75,7 @@
 {354}{}{Du bist toll, Sippling. Ruh dich davon aus die Welt zu retten und hab etwas Spaß.}
 {355}{}{Du musst ziemliche Eier in der Hose haben um der Enklave SO in den Arsch zu treten. Naja keine richtigen "Eier" aber du weißt was ich meine.}
 {356}{}{Süße, Ich glaube die Enklave zu besiegen bedeutet das du mehr Eier in der Hose hast als alle Gangster in New Reno zusammen.}
-{357}{}{Denkst du, du könntest jemanden wie mich gebrauchen? Ich mein ich bin kein Weltrettungs Typ, aber ich habe ein ziemlich großes Herz.}
+{357}{}{Denkst du, du könntest jemanden wie mich gebrauchen? Ich mein ich bin kein Weltrettungs-Typ, aber ich habe ein ziemlich großes Herz.}
 {360}{}{Wenn dieser Ghul hier reinkommt, stirbt er zweimal.}
 {361}{}{Der Ghul bleibt draußen!}
 {362}{}{Wir lassen hier keine Ghule rein. Bring ihn zurück nach Gecko wo der Rest von seinesgleichen ist.}

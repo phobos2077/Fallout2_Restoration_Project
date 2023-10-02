@@ -1,69 +1,69 @@
-{100}{}{You see a chubby merchant with an eyepatch.}
-{101}{}{One-Eyed Roy watches you intently with his good eye as he mops sweat from his forehead.}
-{200}{}{[As you and Krom approach the meeting site, you're greeted by a chubby merchant with an eyepatch and a
- small entourage of bodyguards. Though the merchant is sweating profusely, he appears downright cheerful.]}
+{100}{}{Você vê um comerciante gordinho com um tapa-olho.}
+{101}{}{Roy Caolho observa você atentamente com seu olho bom enquanto enxuga o suor da testa.}
+{200}{}{[Conforme você e Krom se aproximam do local da reunião, você é saudado por um comerciante gordinho
+ com um tapa-olho e uma pequena comitiva de guarda-costas. Embora o comerciante esteja suando profusamente, ele parece francamente alegre.]}
 {201}{}{[MAIS]}
-{202}{}{[After the merchant gives Krom an enthusiastic greeting, he turns to you and looks you over. Though his grin
- never falters, his probing eye betrays a hint of suspicion.] So Krom here says I'm to do business with you today.
- [He shrugs.] Folks call me One-Eyed Roy, but I can't for the life of me figure out why. [He laughs heartily at his joke.]
- What's your name, friend?}
+{202}{}{[Depois que o comerciante dá a Krom uma saudação entusiástica, ele se vira e olha para você. Embora seu
+ sorriso nunca vacile, seu olhar perscrutador revela uma pitada de suspeita.] Então, Krom diz que devo fazer
+ negócios com você hoje. [Ele dá de ombros.] As pessoas me chamam de Roy Caolho, mas não consigo descobrir o
+ por que. [Ele ri muito de sua piada.] Qual é o seu nome, amigo?}
 {203}{}{Eu sou }
-{204}{}{ of Arroyo.}
-{205}{}{. Now let's get this underway.}
-{210}{}{A true pleasure to meetcha, }
-{211}{}{. If you don't mind me saying, you're a bit of an odd sort for a tribal.}
-{212}{}{I'm not your average tribal. In fact, I'm the Chosen One.}
-{213}{}{I don't know what you mean. I'm just your average Joe Tribal. Nothing odd about me at all.}
-{214}{}{Oh, because of what I'm wearing? You see, I'm trying to set a new tribal fashion trend. I'm tired of the same ol'
- brahmin hide pants with a strap across the chest. That look is *so* 2240.}
-{215}{}{Who are you calling an "odd sort", you tubby one-eyed motherfucker? [Attack.]}
-{220}{}{[His grin falters slightly and he nods.] Alright, down to business then. Tell me, friend, have you ever heard
- of a little item called... a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat
- pocket and holds it up like a wondrous artifact.]}
-{230}{}{[His eye goes wide and he lets out a low whistle.] The Chosen One, huh? Well color me impressed. Now let's say
- we get down to business. Tell me, friend, have you ever heard of a little item called... a stimpak? [As he dramatically
- speaks the last word, he produces a stimpak from his coat pocket and holds it up like a wondrous artifact.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
-{241}{}{Uh, yeah. Actually, they're pretty common.}
-{242}{}{Of course. In fact, I hoard the things. Hell, I'm practically a stimpak junkie.}
-{243}{}{[Shake your head and stare at the item in wonder.] What's... stim-pak?}
-{250}{}{[He chuckles nervously.] I wouldn't say they're *common*, but they're certainly coveted by us civilized folks.
- [He looks at Krom.] And for good reason. You see, these little guys contain magical healing powers that will *astound*
- and *amaze* you. Of course, words mean nothing without proof, so allow me to show you the wonders of the stimpak in action.}
-{251}{}{[His eye momentarily hardens, but he quickly regains his composure and looks at Krom.] You see, these little guys
- contain magical healing powers that will *astound* and *amaze* you. Of course, words mean nothing without proof, so allow
- me to show you the wonders of the stimpak in action.}
-{252}{}{An excellent question my friend! A stimpak is one of the many great marvels left to us by the Old World. You see,
- these little guys contain magical healing powers that will *astound* and *amaze* you. Of course, words mean nothing without
- proof, so allow me to show you the wonders of the stimpak in action.}
-{253}{}{This should be interesting. Let's see it.}
-{254}{}{I already know how they work, I've used them myself plenty of times.}
-{260}{}{[He grins at you and Krom, then turns to one of his bodyguards.] Warren, come give me your hand. [The guard frowns,
- but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm. Warren
- winces with pain but does not cry out. Roy grins at you.] As you can see, Warren's got quite a nasty gash here.}
+{204}{}{ de Arroyo.}
+{205}{}{. Agora vamos começar isso.}
+{210}{}{Um verdadeiro prazer em te conhecer, }
+{211}{}{. Se não se importa que eu diga, você é um tipo estranho para um tribal.}
+{212}{}{Eu não sou seu tribal médio. Na verdade, eu sou O Escolhido.}
+{213}{}{Eu não sei o que você quer dizer, eu sou só um típico Tribal médio. Tem nada de estranho em mim.}
+{214}{}{Ah, por causa do que estou vestindo? Então, estou tentando definir uma nova tendência na moda tribal. Cansei
+ das mesmas velhas calças de brahmin com uma tira no peito. Esse visual é *tão* 2240.}
+{215}{}{Quem você está chamando de "estranho", seu gordo filho da puta caolho? [Ataque.]}
+{220}{}{[Seu sorriso vacila um pouco e ele acena com a cabeça.] Tudo bem, vamos aos negócios então. Me diga, você
+ já ouviu falar de um pequeno item chamado... stimpak? [Enquanto ele fala dramaticamente a última palavra, ele
+ tira um stimpak do bolso do casaco e o segura como um artefato maravilhoso.]}
+{230}{}{[Seu olho se arregala e ele solta um assobio baixo.] O Escolhido, é? Bem, impressione. Agora, vamos direto ao
+ assunto. Me diga, você já ouviu falar de um pequeno item chamado... stimpak? [Enquanto ele fala dramaticamente
+ a última palavra, ele tira um stimpak do bolso do casaco e o segura como um artefato maravilhoso.]}
+{240}{}{O que você disser, amigo. Agora vamos ao que interessa, certo? Você já ouviu falar de um pequeno item chamado...
+ stimpak? [Enquanto ele fala dramaticamente a última palavra, ele tira um stimpak do bolso do casaco e o segura como
+ um artefato maravilhoso.]}
+{241}{}{Sim. Na verdade, eles são bem comuns.}
+{242}{}{Claro. Na verdade, eu acumulo essas coisas. Porra, eu sou praticamente viciado em stimpak.}
+{243}{}{[Balança a cabeça e olhe para o item maravilhado.] O que é... Stim-pak?}
+{250}{}{[Ele ri nervosamente.] Eu não diria que eles são *comuns*, mas certamente são cobiçados por nós, pessoas
+ civilizadas. [Ele olha para Krom.] E por um bom motivo. Veja, esses carinhas contêm poderes mágicos de cura que irão
+ *surpreender* e *maravilhar* você. Claro, as palavras não significam nada sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
+{251}{}{[Seu olho endurece momentaneamente, mas ele rapidamente recupera a compostura e olha para Krom.] Veja, esses
+ carinhas contêm poderes mágicos de cura que irão *surpreender* e *maravilhar* você. Claro, as palavras não significam nada
+ sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
+{252}{}{Uma excelente pergunta meu amigo! Um stimpak é uma das muitas grandes maravilhas deixadas para nós pelo
+ Velho Mundo. Olha, esses carinhas contêm poderes mágicos de cura que irão *surpreender* e *maravilhar* você. Claro, as
+ palavras não significam nada sem provas, então me permita mostrar as maravilhas do stimpak em ação.}
+{253}{}{Isso deve ser interessante. Vamos ver.}
+{254}{}{Eu já sei como eles funcionam, eu mesmo usei muitas vezes.}
+{260}{}{[Ele sorri para você e Krom, então se vira para um de seus guarda-costas.] Warren, venha me dar uma mão. [O guarda
+ franze a testa, mas obedece. Roy rapidamente pega uma faca e a corta no braço de Warren. Warren estremece
+ de dor, mas não grita. Roy sorri para você.] Como você pode ver, Warren tem um corte bem feio aqui.}
 {261}{}{[MAIS]}
-{262}{}{I assure you friends, the cut, and Warren's pain, are quite genuine. You can see this is no trick blade. [He hands
- the knife to Krom, who hardly glances at it before nodding and handing it back.] But now, look. [He injects the stimpak
- into Warren's arm. Almost instantly, the bleeding stops. Roy uses a dirty rag to mop away most of the blood, revealing a
- gash that's nearly healed.]}
+{262}{}{Garanto a vocês, amigos, que o corte e a dor de Warren são genuínos. Você pode ver que esta não é uma lâmina
+ de truque. [Ele entrega a faca para Krom, que mal olha para ela antes de acenar com a cabeça e devolvê-la.] Mas agora,
+ olhe. [Ele injeta o stimpak no braço de Warren. Quase instantaneamente, o sangramento para. Roy usa um pano sujo para
+ enxugar a maior parte do sangue, revelando um corte que está quase cicatrizado.]}
 {263}{}{[MAIS]}
-{264}{}{Now just imagine the advantage having stimpaks would give you over your rival tribes. And unlike that healing
- powder you fellas like to brew up, the stimpak does *not* cause drowsiness. In fact, this little wonder is completely
- *without* side effects. But I know what you're thinking, they must cost a fortune, right? Wrong. Because I *like* you,
- I'm practically giving 'em away for nothing.}
-{270}{}{[Ignoring your comment, he grins at Krom, then turns to one of his bodyguards.] Warren, come give me your hand.
- [The guard frowns, but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm.
- Warren winces with pain but does not cry out.] As you can see, Warren's got quite a nasty gash here.}
+{264}{}{Agora imagine a vantagem que os stimpaks te dariam sobre suas tribos rivais. E ao contrário daquele pó de cura
+ que vocês gostam de preparar, o stimpak *não* causa sonolência. Na verdade, esta pequena maravilha é completamente
+ *sem* efeitos colaterais. Mas eu sei o que você está pensando, eles devem custar uma fortuna, certo? Errado. Porque
+ eu *gosto* de você, estou praticamente os dando de graça.}
+{270}{}{[Ignorando seu comentário, ele sorri para Krom, então se vira para um de seus guarda-costas.] Warren, venha me
+ dar uma mão. [O guarda franze a testa, mas obedece. Roy rapidamente pega uma faca e a corta no braço de Warren.
+ Warren estremece de dor, mas não grita.] Como você pode ver, Warren tem um corte bem feio aqui.}
 {275}{}{Quanto?}
-{276}{}{Practically giving them away? How much are you asking?}
-{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks--and all I ask in return is a measly *twenty*
- golden gecko pelts. You just can't beat a deal like that.}
-{281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
-{282}{}{That's a good deal alright. Too good. What's the catch?}
-{283}{}{We'll offer you ten golden gecko skins. No more.}
-{284}{}{Let me think it over for a moment.}
+{276}{}{Praticamente nos dando? Quanto você está pedindo?}
+{280}{}{Vou te dar um caixote inteiro cheio deles, com *cinquenta* stimpaks. E tudo que peço em troca são míseras
+ *vinte* peles de gecko douradas. Você não pode achar um acordo como esse.}
+{281}{}{[Para Krom.] Ele está certo, é um bom negócio. Um ótimo, na verdade. [Para Roy.] Faremos negócio.}
+{282}{}{Isso é um bom negócio, bom demais. Qual é o problema?}
+{283}{}{Ofereceremos a você dez peles douradas de gecko. nada mais.}
+{284}{}{Me deixe pensar sobre isso por um momento.}
 {285}{}{Nenhum acordo.}
 {290}{}{[O rosto de Roy se ilumina.] Excelente escolha! Temos um acordo. [Os itens são trocados rapidamente, então
  Roy se apressa para sua próxima parada.]}
@@ -85,7 +85,7 @@
  stimpaks valem muito mais do que meras vinte peles douradas de gecko, estou sendo realista. Não posso esperar que
  sua tribo, mesmo sendo de caçadores habilidosos, o que inclui você, tenha cem peles de gecko douradas por aí, então
  estou fazendo uma oferta mais razoável. É por isso que é um bom negócio.}
-{321}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
+{321}{}{[Para Krom.] Ele está certo, é um bom negócio. Um ótimo, na verdade. [Para Roy.] Faremos negócio.}
 {322}{}{Antes de concordarmos com qualquer coisa, gostaria de dar uma olhada no resto dos produtos.}
 {330}{}{[Seu olho se estreita ligeiramente, então ele sorri.] Claro. Estão nesta caixa ao meu lado.}
 {331}{}{[FEITO]}

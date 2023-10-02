@@ -80,8 +80,7 @@
 {179}{}{Eh, jo, popřemýšlím o tom. Sbohem, doktore.}
 {180}{}{Poslední dobou tráví stále více horníků čas "létáním" na Jetu místo toho, aby těžili. Pokud to takhle půjde dál, produkce reddingského zlata se nejspíš úplně zastaví, ale zdá se, že to New Renu příliš nevadí.}
 {181}{}{Většina místních horníků pracuje jenom proto, aby si mohli zase pořádně šlehnout Jetu. Produkce zlata jde rapidně dolů. Pokud to takhle bude pokračovat, New Reno bude časem ovládat Redding.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
+{182}{}{Všichni místní horníci jen pořád fetují. Nikdo z nich už skoro vůbec netěží zlato. Obávám se, že New Reno bude mít Redding brzy pod kontrolou. Přál bych si, aby existoval způsob, jak tuhle závislost na Jetu zastavit.}
 {183}{}{Co s tím má New Reno společného?}
 {184}{}{Odkud se ten Jet bere?}
 {185}{}{Aha. Chci se ještě na něco zeptat.}
@@ -102,16 +101,13 @@
 {200}{}{Co s tím má New Reno společného?}
 {201}{}{Jsem rád, že to fungovalo, doktore. Zatím sbohem.}
 {202}{}{Opravdu? Co máte na mysli?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
+{203}{}{Mám totiž protilátku na Jet. Vyrobil ji doktor Troy z Vault City a měla by vyřešit místní problém se závislostí na Jetu.}
 {204}{}{Vlastně nic. Chci se ještě na něco zeptat.}
 {205}{}{To opravdu máme. Příliš Jetu, málo práce... odkud to víte?}
 {206}{}{McClure z Vault City mi o tom řekl.}
 {207}{}{Občas něco zaslechnu.}
 {208}{}{To není důležité. Chci se ještě na něco zeptat.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno prodává Jet hodně levně. Jet je totiž velmi návykový, v tom se mu nic nevyrovná, takže je napadlo, že pokud ho bude užívat dost lidí v jednom městě, udělají cokoliv, jen aby ho měli víc. To dává New Renu de facto kontrolu nad celou oblastí, třeba jako je Redding.}
 {210}{}{Aha. Chci se ještě na něco zeptat.}
 {211}{}{Když nechcete, aby New Reno ovládalo Redding, tak kdo by to tu podle vás měl řídit?}
 {212}{}{Díky za vysvětlení, doktore. Sbohem.}

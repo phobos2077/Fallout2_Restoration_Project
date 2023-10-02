@@ -183,8 +183,7 @@ Lasergeschütztürmen, Computermonitore, was auch immer - ich brauche nur passen
 {250}{}{Das ist ein bisschen viel für mich. Da muss ich erst mehr Geld auftreiben.}
 {251}{}{Aha, wie ich sehe, hast du dir ein paar Tricks bei meinem Vater, dem alten Geizhals
  abgeguckt. Ich brauche dafür ungefähr eine Stunde...}
-{252}{}{OK, OK. Du klingst wie mein Vater, der alte Geizkragen. Ich brauche dafür ungefähr eine
- Stunde...}
+{252}{}{OK, OK. Du klingst wie mein Vater, der alte Geizkragen. Ich brauche dafür ungefähr eine Stunde...}
 {253}{}{OK, ich brauche dafür ungefähr eine Stunde...}
 {254}{}{Also gut.}
 {255}{}{Bitte schön. Sonst noch was?}

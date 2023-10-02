@@ -18,7 +18,7 @@
 {114}{}{Marcus me disse que suspeita que Chad roubou parte do dinheiro da caravana que deveria ir para Broken Hills.
  Eu disse que investigaria.}
 {115}{}{Obrigado. Tchau.}
-{116}{}{Obrigado, estou feliz que acabou. É melhor você cuidar de suas costas.}
+{116}{}{Obrigado, estou muito feliz por isso ter acabado. É melhor você ver a sua volta.}
 {117}{}{Adeus.}
 {118}{}{Ele é um inimigo! Morra!}
 {119}{}{Oops.}

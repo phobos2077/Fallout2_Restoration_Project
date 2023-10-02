@@ -51,7 +51,7 @@
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{(die) Vault}
 {1006}{}{Auserwähltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}

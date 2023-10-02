@@ -282,14 +282,14 @@
 {14501}{}{Ein großes Loch wurde in diese Tür gesprengt.}
 {14600}{}{Loch}
 {14601}{}{Ein großes Loch wurde in diese Tür gesprengt.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Angeblich kugelsicheres Glas}
+{14701}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
+{14800}{}{Angeblich kugelsicheres Glas}
+{14801}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
+{14900}{}{Angeblich kugelsicheres Glas}
+{14901}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
+{15000}{}{Angeblich kugelsicheres Glas}
+{15001}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
 {15100}{}{Tür}
 {15101}{}{Diese Tür ist reines High-Tech. Sie öffnet sich durch Ausdehnung, wenn ihre drei Teilstücke sich drehen.}
 {15200}{}{Tür}
@@ -348,15 +348,15 @@
 {18100}{}{Oberteil des Aufzugs}
 {18101}{}{Du siehst den Teil eines Aufzugs.}
 {18200}{}{Computerkonsole}
-{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist.}
+{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. }
 {18300}{}{Computerkonsole}
-{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist.}
+{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. }
 {18400}{}{Emblem}
 {18401}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18500}{}{Emblem}
 {18501}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18600}{}{Schild der Ebene "Eins"}
-{18601}{}{Das könnte bedeuten, dass du dich auf Ebene Eins befindest.}
+{18601}{}{Das könnte wohl bedeuten, dass du dich auf Ebene Eins befindest.}
 {18700}{}{Schild der Ebene "Zwei"}
 {18701}{}{Du bist auf Ebene Zwei.}
 {18800}{}{Schild der Ebene "Drei"}
@@ -918,7 +918,7 @@
 {48200}{}{Tür}
 {48201}{}{Diese Tür ähnelt verdächtig Türen, die man in einem Lagerhaus finden würde.}
 {48300}{}{Wetterfahne}
-{48301}{}{Diese einfache Wetterfahne hilft den Bewohner des Ödlands dabei, das Wetter zu studieren.}
+{48301}{}{Mit Hilfe dieser einfachen Wetterfahne beobachten die Einwohner das Wetter.}
 {48400}{}{Altar}
 {48401}{}{Ein einfacher Altar aus bemalten Holz.}
 {48500}{}{Pult}
@@ -927,7 +927,7 @@
 {48700}{}{Monitor}
 {48701}{}{Ein großer Schwarz-Weiß-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, dass er ohne Antenne in einem Innenraum steht.}
 {48800}{}{Monitor}
-{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Figur in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
+{48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Gestalt in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
 {48900}{}{Kraftfeld}
 {48901}{}{Dies ist ein mächtiges Energiefeld.}
 {49000}{}{Kraftfeld}
@@ -1136,8 +1136,8 @@
 {59501}{}{Der Metalltisch ist mit einer Art Biomasse bedeckt.}
 {59600}{}{Schwarzes Brett}
 {59601}{}{Stellenangebote sind an das Brett geheftet. Es sieht häufig gebraucht aus.}
-{59700}{}{Wachhäuschen}
-{59701}{}{Das Wachhäuschen ist über hundert Jahre alt, ist aber immer noch in ausgezeichnetem Zustand.}
+{59700}{}{Hütte}
+{59701}{}{Diese Hütte ist über hundert Jahre alt, aber noch immer in ausgezeichnetem Zustand.}
 {59800}{}{Schild}
 {59801}{}{Auf dem Schild steht: Gemischtwaren.}
 {59900}{}{Schild}
@@ -2144,8 +2144,8 @@
 {125800}{}{Laden von Bobs Sohn}
 {125801}{}{Stand eines fliegenden Händlers.}
 {125900}{}{NCR-Schild}
-{126000}{}{Kongreßhallenschild}
-{126100}{}{Kongreßhallenschild}
+{126000}{}{Kongresshallenschild}
+{126100}{}{Kongresshallenschild}
 {126200}{}{NCR-Poster}
 {126300}{}{NCR-Poster}
 {126400}{}{NCR-Poster}
@@ -2270,7 +2270,7 @@
 {137600}{}{Fackel}
 {137601}{}{Eine brennende Fackel in einer Wandhalterung.}
 {137700}{}{Vertibird}
-{137701}{}{Ein großes Militärflugzeug.}
+{137701}{}{Ein großes militärisches Fluggerät.}
 {137800}{}{Zerstörte Tür}
 {137801}{}{Die Trümmer blockieren den Eingang vollständig.}
 {137900}{}{Zerstörte Tür}
@@ -2478,7 +2478,7 @@
 {157600}{}{Tür}
 {157700}{}{Lüftungsgitter}
 {157800}{}{Auto-Doc}
-{157801}{}{Dieser Autodoc ist für die Heilung von Krankheiten und Verabreichung verschiedener Medikamente entwickelt worden.}
+{157801}{}{Dieser Auto-Doc ist für die Heilung von Krankheiten und Verabreichung verschiedener Medikamente entwickelt worden.}
 {157900}{}{Statue}
 {157901}{}{Kleine Statue des berühmten Vaultbewohners.}
 {158000}{}{Steinhaufen}
@@ -2630,16 +2630,16 @@
 {171800}{}{Wand}
 {171900}{}{Lüftungsgitter}
 {172000}{}{Lüftungsgitter}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Angeblich kugelsicheres Glas}
+{172101}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
+{172200}{}{Angeblich kugelsicheres Glas}
+{172201}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
+{172300}{}{Angeblich kugelsicheres Glas}
+{172301}{}{Angeblich unzerbrechliches Glas. Versuch's gar nicht erst!}
 {172400}{}{Schwerer Lasergeschützturm}
-{172401}{}{Der Turm dreht sich auf bedrohliche Art.}
+{172401}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {172500}{}{Schwerer Lasergeschützturm}
-{172501}{}{Der Turm dreht sich auf bedrohliche Art.}
+{172501}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {172600}{}{Felsen}
 {172700}{}{Felsen}
 {172800}{}{Felsen}
@@ -3462,11 +3462,11 @@
 {229200}{}{Schwerer Laserturm}
 {229201}{}{Der Laserturm ruht auf diesem Betonturm.}
 {229300}{}{Schwerer Lasergeschützturm}
-{229301}{}{Der Turm dreht sich auf bedrohliche Art.}
+{229301}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {229400}{}{Schwerer Laserturm}
 {229401}{}{Der Laserturm ruht auf diesem Betonturm.}
 {229500}{}{Schwerer Lasergeschützturm}
-{229501}{}{Der Turm dreht sich auf bedrohliche Art.}
+{229501}{}{Der Geschützturm dreht sich auf bedrohliche Weise.}
 {229800}{}{Film Poster}
 {229801}{}{Ein altes Filmplakat. "Landstreicher mit einer Schrotflinte".}
 {229900}{}{Eine seltsam aussehende Kreatur}

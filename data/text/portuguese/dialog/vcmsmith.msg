@@ -1,7 +1,7 @@
-{100}{}{You see a ragged-looking farmer.}
-{101}{}{You see Smith.}
-{102}{}{Don't think I've seen you around before, stranger. The name's Smith. Help
- you with something?}
+{100}{}{Você vê um fazendeiro de aparência esfarrapada.}
+{101}{}{Você vê Smith.}
+{102}{}{Não me parece que já o vi por aí antes, Estranho. Meu nome é Smith. Posso
+ te ajudar em algo?}
 {103}{}{Gostaria de algo mais?}
 {104}{}{O que voce pode me falar sobre Vault City?}
 {105}{}{O que você faz por aqui?}
@@ -58,23 +58,23 @@
 {147}{}{Sem problemas. Eu gostaria de ajudar.}
 {148}{}{Posso pedir mais uma coisa?}
 {149}{}{Eu vou ter que pensar sobre isso. Adeus.}
-{150}{}{Well, we have about a hundred and fifty saved, if that would help. But
- we won't be able to make our next payment if we don't have the plow by next week.}
+{150}{}{Bem, temos cerca de cento e cinquenta dólares economizados, se isso
+ ajuda. Mas não podemos fazer o próximo pagamento se não tivermos o arado na semana que vem.}
 {151}{}{Eu fico com o dinheiro.}
-{152}{}{Don't worry about the money. I'll help you anyway.}
-{153}{}{Never mind... I can't help you. Goodbye.}
-{154}{}{Well, thank you kindly, stranger.}
-{155}{}{Do you know where I can find a plow?}
-{156}{}{There's one over near the Guns and Ammo store. Harry might be selling it.}
+{152}{}{Não se preocupe com o dinheiro. Eu vou te ajudar de qualquer forma.}
+{153}{}{Não importa... não posso te ajudar. Adeus.}
+{154}{}{Bem, muito obrigado, Estranho.}
+{155}{}{Você sabe onde posso encontrar um arado?}
+{156}{}{Tem um perto da loja Armas e Munições. Harry pode estar vendendo.}
 {157}{}{Esta certo, vou procurar.}
-{158}{}{Did you find a plow?}
-{159}{}{Sorry, not yet.}
-{160}{}{I don't think I'm going to be able to get one for you.}
-{161}{}{Well, we can do without for a little longer. But not much beyond that.}
-{162}{}{My Pa told me to watch out for people like you... get outta here. Go on, get!}
-{163}{}{Thank you kindly. Here's a little something my pa gave me before he
- left this world. With the guards protecting us, we don't need it... but you might be
- able to make some use of it.}
-{164}{}{Thanks very much. I'm sure this will come in handy. Take care.}
-{165}{}{Thanks for the help, stranger. Much appreciated.}
-{166}{}{You have found a plow for Mr. Smith and his family.}
+{158}{}{Você encontrou um arado?}
+{159}{}{Desculpe, ainda não.}
+{160}{}{Acho que não vou conseguir um para você.}
+{161}{}{Bem, podemos ficar sem ele por mais um tempo. Mas não muito além disso.}
+{162}{}{Meu pai me disse para tomar cuidado com pessoas como você... saia daqui. Vamos, vai!}
+{163}{}{Muitíssimo obrigada. Aqui está uma coisinha que meu pai me deu
+ antes de deixar este mundo. Com os guardas nos protegendo, não precisamos disso...
+ mas você pode fazer bom uso disso.}
+{164}{}{Muito obrigado. Tenho certeza de que vai ser útil, tome cuidado.}
+{165}{}{Obrigado pela ajuda, Estranho. Te agradeço muito.}
+{166}{}{Você encontrou um arado para o Sr. Smith e sua família.}

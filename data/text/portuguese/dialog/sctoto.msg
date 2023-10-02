@@ -1,6 +1,6 @@
-{100}{}{It's a big robot with tools and stuff.}
-{101}{}{That's Toto, Dorothy's maintenance robot.}
-{102}{}{It's a robot, maintenance model.}
-{103}{}{Bzzz... Arf, arf!...Bzzt. Click... Arf!}
+{100}{}{É um grande robô com ferramentas e equipamentos.}
+{101}{}{Esse é Toto, o robô de manutenção de Dorothy.}
+{102}{}{É um robô, modelo de manutenção.}
+{103}{}{Bzzz... Arf, arf!...Bzzt. Clique... Arf!}
 {104}{}{Woof. Woof.}
-{105}{}{(Pant, pant) Bzzt... Woof. Grrrrrr.}
+{105}{}{(Ofegante) Bzzt...Woof. Grrrrr.}

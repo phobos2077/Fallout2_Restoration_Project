@@ -1100,7 +1100,7 @@
 {56800}{}{Dynamite à détonateur activée}
 {56801}{}{Contrairement aux dynamites normales qui sont utilisées avec un compte à rebours, cette dynamite est activée par un détonateur. Celle-ci est armée et prête à être déclenchée.}
 {56900}{}{Pop Rocks}
-{56901}{}{Un sachet encore fermé de bonbons savoureux et gazéifiés composés de sucre, de lactose (sucre), de sirop de maïs (sucre), et d'agents aromatisants. La rumeur prétend que s'ils sont mélangés avec des boissons comme le Nuka Cola, cela entraîne une explosion de l'estomac.}
+{56901}{}{Un sachet encore fermé de bonbons savoureux et gazéifiés composés de sucre, de lactose (sucre), de sirop de maïs (sucre), et d'agents aromatisants. La rumeur prétend que s'ils sont mélangés avec des boissons comme le Nuka-Cola, cela entraîne une explosion de l'estomac.}
 {57000}{}{Bouteille de shampoing}
 {57001}{}{Une bouteille de shampoing. Contrairement à d'autres grandes marques, ce shampoing est contenu dans une flexi-bouteille. Il a été conçu de cette façon pour que la bonne quantité se répande à chaque pression, ni plus, ni moins. Ouvrez juste le couvercle pour en profiter !}
 {57100}{}{Kevlar de K9}

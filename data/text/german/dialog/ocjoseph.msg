@@ -36,7 +36,7 @@
 {135}{}{OK. Muss mehr wissen.}
 {136}{}{Danke. Tschüss.}
 {137}{}{Das ist sehr lobenswert von dir.}
-{138}{}{Ich verstehe.}
+{138}{}{Verstehe.}
 {139}{}{Das kann ich nicht ganz nachvollziehen, aber es ist ja dein Leben.}
 {140}{}{Ja, das kann ich und ich tu es oft. Ich muss von Zeit zu Zeit Kräuter sammeln und ich wurde noch nie behindert. Ich hab mich immer gefragt, ob die Deathclaws mir heimlich folgen und ob sie mich aufhalten würden, wenn ich versuchen würde zu fliehen. Also hab ich eines Tages die Probe aufs Exempel gemacht.}
 {141}{}{Ich verstehn. Jetzt gehn.}

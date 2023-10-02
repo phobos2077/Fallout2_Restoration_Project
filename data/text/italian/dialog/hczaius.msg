@@ -28,7 +28,7 @@
 {127}{}{Totalmente incapace.}
 {128}{}{Ancora tu, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
-{130}{}{Hi! HIIIII! Me (name)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Amico, ti ho gia' dato dei soldi. Va' a disturbare qualcun altro, eh?}
 {132}{}{Chi si rivede. Perche' non provi ad andare… umm… alla banca, giu' in citta'? Sono sicuro che c'e' un sacco di gente che non vede l'ora di parlare con te.}
 {133}{}{Beh, se mai ti dovesse venire in mente una soluzione, fammelo sapere.}
@@ -124,3 +124,4 @@
 {406}{}{Sapevo che Francis non avrebbe sopportato di essere scoperto. Conosceva bene i rischi che correva agendo in quel modo, ma credo non si aspettasse di esser beccato. Se la cavera'. Spero che lo stesso si possa dire anche di Broken Hills.}
 {407}{}{Lo spero anch'io. Ho delle domande da farti.}
 {408}{}{Anch'io. Arrivederci.}
+{1130}{}{!}

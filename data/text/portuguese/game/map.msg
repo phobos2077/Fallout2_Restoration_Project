@@ -631,11 +631,11 @@
 {1541}{}{Deposito de lixo tóxico}
 {1542}{}{Parias}
 {1543}{}{Brahmin Louco}
-{1544}{}{Caravan}
+{1544}{}{Caravana}
 {1545}{}{Vault 13}
-{1546}{}{Fake Vault 13}
-{1547}{}{Random Encounter}
-{1548}{}{Stables}
+{1546}{}{Falsa Vault 13}
+{1547}{}{Encontro aleatório}
+{1548}{}{Estábulo}
 {1549}{}{Vila}
 {1550}{}{Campo de Escravista}
 {1551}{}{Estoque Hubologista}

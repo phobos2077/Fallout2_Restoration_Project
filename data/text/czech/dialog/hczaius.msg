@@ -28,7 +28,7 @@
 {127}{}{Ne, ani ne.}
 {128}{}{Zase ty, jo?}
 {129}{}{Ork! Óó! Ehe!}
-{130}{}{Ahoj! AHOOOJ! Já (jméno)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Kámo, už jsem ti peníze dal. Běž otravovat někoho jiného, slyšíš?}
 {132}{}{Zdravím. Nechceš jít třeba do... eh... městské banky? Jsem si jistý, že se tam najde pár lidí, který si s tebou rádi popovídají.}
 {133}{}{No, tak pokud si to náhodou rozmyslíš, dej mi vědět.}
@@ -124,3 +124,4 @@
 {406}{}{Já věděl, že Francis neunese prozrazení. Věděl, jaká rizika to obnáší, ale nejspíš nepočítal s tím, že ho někdy chytí. Ale časem bude v pořádku a stejně tak doufám, že i Broken Hills.}
 {407}{}{Taky doufám. Mám další otázky.}
 {408}{}{Já taky. Nashle.}
+{1130}{}{!}

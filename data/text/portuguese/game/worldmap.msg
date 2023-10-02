@@ -165,7 +165,7 @@
 {666}{}{Montanha}
 {667}{}{Deserto}
 {668}{}{Deserto}
-{670}{}{Stables}
+{670}{}{Estábulo}
 {680}{}{Vila}
 {690}{}{Tribo Umbra}
 {700}{}{Tribo Umbra}

@@ -13,7 +13,7 @@
 {221}{}{Hey, }
 {222}{}{Hey, }
 {225}{}{Du bist gerade in den falschen Laden hineingeplatzt, Vollidiot.}
-{226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben.  Verpiss dich Junge, bevor wir dich abknallen.}
+{226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben. Verpiss dich Junge, bevor wir dich abknallen.}
 {227}{}{Der Kerl bettelt ja förmlich nach Ärger...}
 {228}{}{Ich hörte die }
 {229}{}{Du solltest besser abhauen, }
@@ -69,7 +69,7 @@
 {330}{}{Ich dachte, der Präsident wär ein Mythos, so 'n Schreckmonster, mit dem man Kindern Angst macht.}
 {331}{}{Du siehst aus als wärst du einmal zur Hölle und zurück gereist. Entspann dich ein wenig. Du verdienst es.}
 {332}{}{Sie wollten irgend einen neuen Virus freisetzen? Bastarde. Ich hoffe du hast ein paar für mich abgeknallt.}
-{333}{}{Willst du das Spiel noch einmal mit einem anderen Charakter durchspielen?}
+{333}{}{Willst du das Spiel noch einmal mit einer anderen Figur durchspielen?}
 {334}{}{Du hast ganz schön Nerven, der Enklave so einzuheizen.}
 {335}{}{Wanderst noch ein wenig umher, obwohl das Spiel fertig ist, willst wohl ein paar extra EXPs sammeln, was? Gut, aber bitte erschieß mich nicht, Ok?}
 {336}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Man munkelt, dass die beiden bald heiraten wollen.}

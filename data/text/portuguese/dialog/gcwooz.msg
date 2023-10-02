@@ -234,7 +234,7 @@ uma lembrança de tempos passados. E também um tipo de brincadeira para negocia
 {716}{}{Hmmm... Então, talvez você devesse acabar por aqui e deixar os cartões de Tragic de lado. Acho que você já jogou o suficiente por hoje.}
 {717}{}{NUNCA! TRAGA O JOGO!}
 {718}{}{MOOAHAHAHAH!!! EU SOU VITORIOSO!}
-{719}{}{NÃO!! COMO EU PUDE PERDER !? Ahhhgghhhgh.}
+{719}{}{NÃO!! COMO EU POSSO TER PERDIDO!? Ahhhhhhh.}
 {720}{}{Sim... simplesmente não consigo parar. Só mais um jogo...}
 {721}{}{Sim, cerveja trago-gamma. Você é surdo ou o que?}
 {722}{}{Isso. Uma trago-gamma chegando.}

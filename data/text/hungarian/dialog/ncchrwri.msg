@@ -73,12 +73,12 @@
 {370}{}{Nem kétlem... most viszont mennem kell.}
 {380}{}{Jár-kel fel-alá és a bűnbeesésről papol, meg ilyenek, de nem tudja igazán, Apu mit csinál. Vagy ha igen, nem vesz róla tudomást.}
 {381}{}{Miért, mit csinál az édesapád?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Akkor kérdeznék valami mást.}
 {383}{}{Érdekes, viszont most mennem kell.}
 {390}{}{Alkoholt gyárt, fegyvereket ad el, kicsinál embereket, akik baszakodnak vele... tipikus családi elfoglaltságok. Anyám kiakadna, ha tudná, hogy tulajdonképpen mi folyik a háttérben. Különösen, ha itt megtalálná a szeszfőzdét.}
 {391}{}{Mennyire akadna ki?}
 {400}{}{Annyira biztos, hogy szétverné ezt a helyet... minimum. Valszeg szétmagyarázná a fejét és néhány napig folyamatosan imádkozhatnánk. Hehe.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Érdekes. Inkább kérdezek mást...}
 {402}{}{Hmmmmm. Köszi.}
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
  someone pumped him with drugs until he was dead.}
@@ -88,7 +88,7 @@
 {414}{}{Mocskos dolog ez. Figyu, most mennem kell.}
 {420}{}{Mert az a gyerek tiszta volt... az anyám SOKMINDENRE megtanította. Ha pedig más lenne a véleményed, itt helyben lerendezhetjük.}
 {421}{}{Nem úgy gondoltam. Bocs, hogy felhoztam a témát.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Ne vakítson el a gondolat, hogy magának csinálta. A Jet hihetetlenül addiktív.}
 {423}{}{Nézd, KÖLYÖK, ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
 {425}{}{Én nem keresem a bajt. Csá...}
 {435}{}{Na, nehogy már! Ezt bármelyik Wright beszólásnak venné, szóval, ha lennél olyan szíves ne dobálózz itt a kemény szavakkal!}

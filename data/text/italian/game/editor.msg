@@ -163,20 +163,20 @@
 {653}{}{ ::: Abilita' :::                ::: Morti :::}
 {654}{}{ ::: Inventario :::}
 {655}{}{                                      Peso Totale:}
-{656}{}{ ::: Addictions :::}
+{656}{}{ ::: Dipendenze :::}
 {657}{}{ ::: Reputazione :::}
 {1000}{}{Reputazione (Generale) }
 {1001}{}{Berserker}
 {1002}{}{Eroe}
 {1003}{}{Ammazzabambini}
-{1004}{}{Nuka Cola addiction}
-{1005}{}{Buffout addiction}
-{1006}{}{Mentats addiction}
-{1007}{}{Psycho addiction}
-{1008}{}{RadAway addiction}
-{1009}{}{Alcohol addiction}
-{1010}{}{Jet addiction}
-{1011}{}{Tragic addiction}
+{1004}{}{Dipendenza da Nuka-Cola}
+{1005}{}{Dipendenza da Buffout}
+{1006}{}{Dipendenza da Mentat}
+{1007}{}{Dipendenza da Psycho}
+{1008}{}{Dipendenza da RadAway}
+{1009}{}{Dipendenza dall'Alcol}
+{1010}{}{Dipendenza da Jet}
+{1011}{}{Dipendenza da Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperto}
 {1014}{}{Campione}
@@ -197,13 +197,13 @@
 {1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}
 {1103}{}{Hai ucciso dei bambini, la gioventu' di queste lande desolate. Questa e' considerata una cosa molto malvagia. Brutto cattivaccio!}
 {1104}{}{Ti sei riempito di Nuka-Cola, la bibita del mondo post-nucleare.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{Sei dipendente dalla droga Buffout. Devi assumere questa droga regolarmente oppure soffrirai gli effetti dell'astinenza.}
+{1106}{}{Stai male a causa della dipendenza da Mentat. Devi assumere questa particolare droga oppure soffrirne le crisi d'astinenza.}
+{1107}{}{Sei tossicodipendente. Se non assumi Psycho con regolarita', soffrirai. Se l'assumi, soffriranno gli altri.}
+{1108}{}{Il tuo corpo e' diventato dipendente da RadAway. Sebbene non sia pericoloso, sei costretto ad assumerlo regolarmente.}
 {1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati dalle tue abitudini nel bere.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
+{1110}{}{Sei tossicodipendente. Devi assumere Jet con regolarita'.}
+{1111}{}{Tragicamente, sei dipendente da "L'Accozzaglia". Sei continuamente alla ricerca di nuove espansioni.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Conosci il sesso. Conosci le tecniche. Sai come far godere una persona di sesso opposto e lasciarla con una voglia matta di rifarlo.}
 {1114}{}{Sei il campione dei pesi massimi del Nord California. Hai ottenuto fama, rispetto, l'amore delle folle... e un bonus per la resistenza fisica e l'abilita' Disarmato.}
@@ -243,9 +243,9 @@
 {3007}{}{Flagello delle Lande}
 {3008}{}{Figlio del Demonio}
 {4000}{}{Reputazione}
-{4001}{}{Addictions}
+{4001}{}{Dipendenze}
 {4100}{}{Rappresenta la tua reputazione in una data locazione.}
-{4101}{}{Things you have become addicted to.}
+{4101}{}{Le cose per le quali sei diventato dipendente.}
 {5000}{}{Sorry, you can only print your}
 {5001}{}{character in the full version.}
 {5002}{}{Sorry, you can only save your}

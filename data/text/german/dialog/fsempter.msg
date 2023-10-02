@@ -242,7 +242,7 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
                                         Warning: No connection to external servers could be made.}
 {421}{}{Das ist enttäuschend...}
 {430}{}{Durchsuche lokale Laufwerke...}
-{431}{}{[FORTSETZEN]}
+{431}{}{[Weiter]}
 {440}{}{Eine zugängliche Datei gefunden. [Anscheinend sind die meisten Archivdateien beschädigt.
  Allerdings findet der Hauptrechner eine intakte Datei.]}
 {441}{}{Persönliches Tagebuch: Li Ye, Admiral, Kapitän}

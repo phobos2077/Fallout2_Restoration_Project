@@ -23,11 +23,11 @@
 {270}{}{Haben Sie die Aufgabe erfüllt?}
 {271}{}{Ja, ich hab alle Pflanzen vernichtet. Das Gebiet sieht zwar immer noch katastrophal aus, aber zumindest ist es etwas sicherer.}
 {272}{}{Noch nicht. Ich brauch noch was.}
-{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
+{280}{}{Oh, ich danke ihnen. Dafür stelle ich Sie hiermit als meinen stellvertretenden Landschaftspfleger ein. [Er zeigt auf einen Schlüsselbund auf dem Boden vor seinen Füßen.] Ich schaffte es vor einer Weile, einen der halbaktiven Roboter dazu zu überreden, das für Sie zu bringen. Damit haben Sie jetzt die Erlaubnis den Lagerschuppen zu betreten. Danke nochmals.}
 {281}{}{[Du nimmst die Schlüssel und steckst sie ein.] Nichts zu danken. Wir sehn uns.}
 {290}{}{Sie sehen ziemlich schmutzig aus. Ist alles in Ordnung mit ihnen?}
 {291}{}{Ja, mir gehts gut. Ich hatte auf dem Weg hier runter nur ein paar Probleme mit einigen mutierten Pflanzen, aber ich hab mich um sie gekümmert.}
-{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
+{300}{}{Haben Sie!? Wunderbar! Dafür stelle ich Sie hiermit als meinen stellvertretenden Landschaftspfleger ein. [Er zeigt auf einen Schlüsselbund auf dem Boden vor seinen Füßen.] Ich schaffte es vor einer Weile, einen dieser halbaktiven Roboter dazu zu überreden, mir diese Schlüssel zu bringen - nur für alle Fälle. Nehmen Sie sie. Damit haben Sie jetzt die Erlaubnis den Lagerschuppen zu betreten. Nochmals vielen Dank.}
 {301}{}{Na das war doch selbst verständlich, dass ich das tun würde.}
 {302}{}{Hey danke! Wiedersehen.}
 {310}{}{Hey, Sie haben mir einen großen Dienst erwiesen also nehmen Sie die Schlüssel und alles was sie wollen oder benötigen. Das ist meine Art, ihnen für ihre Taten zu danken.}

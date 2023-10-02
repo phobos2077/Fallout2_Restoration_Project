@@ -28,7 +28,7 @@
 {127}{}{Non. Pas vraiment.}
 {128}{}{Encore toi, hein ?}
 {129}{}{Yark ! Ouag ! Ouga ouga !}
-{130}{}{Saaalut ! SAAALUUT ! Moi (nom) !}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Camarade, je t'ai déjà donné de l'argent. Va embêter quelqu'un d'autre, d'accord ?}
 {132}{}{Re-salut. Pourquoi ne pas aller... Voyons voir... à la banque, en ville ? Sûr qu'il y a des tas de gens là-bas qui voudraient bien te parler.}
 {133}{}{Bon, si jamais tu trouves une solution, tiens-moi au courant.}
@@ -121,3 +121,4 @@
 {406}{}{Je savais bien que Francis ne pourrait pas supporter son implication. Il connaissait les risques, mais il pensait sans doute ne jamais être pris. Il s'en remettra. J'espère qu'on pourra en dire autant des Collines Brisées.}
 {407}{}{Je l'espère moi aussi. Mais dis-moi...}
 {408}{}{Moi aussi. Salut.}
+{1130}{}{ !}

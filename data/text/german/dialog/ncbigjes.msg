@@ -1,7 +1,7 @@
 {100}{}{Du siehst Big Jesus Mordino.}
 {150}{}{Du siehst einen sehr dicken Mann mit kleinen, glänzenden, schwarzen Augen. Er ist schweißgebadet und atmet schwer.}
 {151}{}{Du siehst Big Jesus Mordino. Er ist schweißgebadet und atmet schwer.}
-{200}{}{Bleib weg da.}
+{200}{}{Bleib da weg!}
 {201}{}{Das... gehört dir nicht.}
 {202}{}{Fass das noch einmal an, und du wirst... auf Golgotha sterben.}
 {210}{}{::euch::}
@@ -121,7 +121,7 @@
 {471}{}{Nein, ich hab das Paket noch nicht abgeliefert.}
 {472}{}{Ja, ich habe das Paket zu Ramirez gebracht, wie du es verlangt hast.}
 {473}{}{Ja, ich war in den Ställen und habe dein Paket abgegeben... weißt du, dass Sie Sklaven mit Jet quälen?}
-{474}{}{Ja, ich habe dein Paket dem Wachposten Ramirez gegeben... wissen Sie, dass dieser Kerl bis obenhin voll ist mit Jet? Er hat das Jet förmlich AUSGEDÜNSTET.}
+{474}{}{Ja, ich habe dein Paket dem Wachposten Ramirez gegeben... Weißt du, dass dieser Kerl bis obenhin voll ist mit Jet? Er hat das Jet förmlich AUSGEDÜNSTET.}
 {480}{}{Was... willst du dann hier? (Big Jesus wischt sich die Stirn und holt tief Luft.) WARUM hast du das Paket nicht abgegeben?}
 {481}{}{Naja, ich hatte zuerst ein paar Fragen...}
 {482}{}{Ich werde es jetzt gleich machen.}

@@ -1,91 +1,91 @@
-{100}{}{You see one of the Vault City gate guards.}
-{101}{}{You see a diligent-looking guard. The guard is wearing metal armor and carrying a powerful-looking rifle.}
+{100}{}{Você vê um dos guardas do portão de Vault City.}
+{101}{}{Você vê um guarda de aparência diligente. O guarda está vestindo uma armadura de metal e carregando um rifle potente.}
 {102}{}{Ei! Cai fora daqui!}
-{103}{}{We warned you once...}
-{104}{}{Hey! It's the one who defeated the Enclave. Open the gate.}
+{103}{}{Nós avisamos uma vez...}
+{104}{}{Ei! É aquele que derrotou a Enclave. Abram o portão.}
 {105}{}{Bom dia, Capitão.}
-{106}{}{Sir. It's good to see you, sir.}
-{107}{}{Sir, yes, sir!}
+{106}{}{Senhor. É bom vê-lo, senhor.}
+{107}{}{Senhor. Sim, senhor!}
 {108}{}{Vault City prevails, Capitão.}
-{109}{}{My apologies, Citizen, but ghouls are not permitted inside Vault City.}
-{110}{}{My apologies, Citizen, but mutants are not permitted inside Vault City.}
-{111}{}{That ghoul had better step away from the gate. Now.}
-{112}{}{That mutant had better step away from the gate. Now.}
+{109}{}{Minhas desculpas, Cidadão, mas ghouls não são permitidos dentro de Vault City.}
+{110}{}{Minhas desculpas, Cidadão, mas mutantes não são permitidos dentro de Vault City.}
+{111}{}{É melhor aquele ghoul se afastar do portão. Agora.}
+{112}{}{É melhor aquele mutante se afastar do portão. Agora.}
 {113}{}{Bom dia, Citizen.}
-{114}{}{Good to see you, Citizen.}
+{114}{}{Bom ver você, Cidadão.}
 {115}{}{Vault City prevails, Citizen.}
 {116}{}{Saia daqui.}
 {117}{}{Se perder.}
-{118}{}{Got a problem? Or are you looking for one?}
-{119}{}{I don't want to have to hurt you.}
-{120}{}{You're cleared to enter. Head on in.}
-{121}{}{Good day, traveler.}
+{118}{}{Tem algum problema? Ou está procurando um?}
+{119}{}{Eu não quero ter que te machucar.}
+{120}{}{Você está autorizado a entrar. Vá em frente.}
+{121}{}{Bom dia, viajante.}
 {122}{}{Bem vindo de volta.}
 {123}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
-{124}{}{I heard you've traveled as far south as San Francisco. Is that true?}
-{125}{}{Is it true that the U.S. was still fighting the war?}
-{126}{}{You should catalog your travels in the Vault City computer.}
-{127}{}{You're welcome to stay in Vault City as long as you want.}
-{128}{}{You should catalog your exploits against the Enclave and put it on the List Server.}
-{129}{}{No ghouls are allowed in Vault City. Get that... thing out of here. Now.}
-{130}{}{No mutants are allow in Vault City. Get that... thing out of here. Now.}
-{131}{}{Stop right there, friend. No one is allowed past this point without proper authorization.}
-{132}{}{Propa uh-zat-shun?}
+{124}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{125}{}{É verdade que os EUA ainda estavam lutando na guerra?}
+{126}{}{Você deve catalogar suas viagens no computador de Vault City.}
+{127}{}{Você pode ficar em Vault City o tempo que quiser.}
+{128}{}{Você deve catalogar suas façanhas contra o Enclave e colocá-las no Servidos de listas.}
+{129}{}{Nenhum ghoul é permitido em Vault City. Tire essa... coisa daqui. Agora.}
+{130}{}{Nenhum mutante é permitido em Vault City. Tire essa... coisa daqui. Agora.}
+{131}{}{Um momento, amigo. Ninguém é permitido além deste ponto sem a devida autorização.}
+{132}{}{Au-utorizzaçãun??}
 {133}{}{Desliga}
-{134}{}{Proper authorization?}
-{135}{}{Never mind, then.}
-{136}{}{Looks like we got another victim of the Outworlder inbreeding here... look, dim, get out of here before you get hurt, all right?}
+{134}{}{Devida autorização?}
+{135}{}{Deixa pra lá então.}
+{136}{}{Parece que temos outra vítima dos incestos dos forasteiros aqui... olha, idiota, saia daqui antes que você se machuque, certo?}
 {137}{}{MIM NÃO IR!}
 {138}{}{Desliga}
-{139}{}{Yes, "proper authorization."}
-{140}{}{If you want to get into Vault City, you need to speak to Wallace, Head of Customs. He can issue you a Day Pass.}
-{141}{}{Where can I find Wallace?}
-{142}{}{A Day Pass? What's that?}
+{139}{}{Sim, "devida autorização".}
+{140}{}{Se você quiser entrar em Vault City, precisa falar com Wallace, chefe da alfândega. Ele pode emitir um Passe Diário.}
+{141}{}{Onde posso encontrar Wallace?}
+{142}{}{Um passe diário? O que é isso?}
 {143}{}{Ok, obrigado.}
-{144}{}{Wallace is in the Customs building right over there. }
-{145}{}{Now move along. I don't have time to talk to Outworlders.}
+{144}{}{Wallace está no prédio da alfândega logo ali. }
+{145}{}{Agora siga em frente. Não tenho tempo para falar com forasteiros.}
 {146}{}{O que é um Day Pass?}
-{147}{}{Thanks for your time. Goodbye.}
-{148}{}{A Day Pass'll get you into our city... if you've got business here. }
-{149}{}{Now move along. I don't have time to talk to Outworlders.}
-{150}{}{Where can I find Wallace?}
-{151}{}{Thanks for your time. Goodbye.}
-{152}{}{You need a Day Pass to get into the city.}
-{153}{}{Get a Day Pass and I'll let you in.}
-{154}{}{Keep away from the Gate.}
+{147}{}{Obrigado pelo seu tempo. Adeus.}
+{148}{}{Um passe diário o permitirá entrar na nossa cidade... se você tiver negócios aqui. }
+{149}{}{Agora siga em frente. Não tenho tempo para falar com forasteiros.}
+{150}{}{Onde posso encontrar Wallace?}
+{151}{}{Obrigado pelo seu tempo. Adeus.}
+{152}{}{Você precisa de um passe diário para entrar na cidade.}
+{153}{}{Obtenha um passe diário e eu o deixarei entrar.}
+{154}{}{Mantenha-se afastado do Portão.}
 {155}{}{Pare de vagabundar.}
-{156}{}{Do you have a Day Pass?}
+{156}{}{Você tem um passe diário?}
 {157}{}{Não.}
-{158}{}{No, but I am a Citizen.}
-{159}{}{How *dare* you question me?! I'm a Citizen! Here are my papers!}
-{160}{}{A Citizen, huh? Let me see your papers.}
-{161}{}{Eh... I don't have them on me.}
-{162}{}{Okay, here you go.}
-{163}{}{Uh, what I meant was, how do I go about getting Citizenship?}
-{164}{}{My apologies, Citizen. I didn't mean to offend you. You have clearance to enter.}
+{158}{}{Não, mas sou Cidadão.}
+{159}{}{Como você *ousa* me questionar?! Eu sou um Cidadão! Aqui estão meus documentos!}
+{160}{}{Um Cidadão, é? Deixe-me ver seus papéis.}
+{161}{}{Eh... não estão aqui comigo.}
+{162}{}{Ok, aqui está.}
+{163}{}{Uh, o que eu quis dizer foi: o que faço para obter a cidadania?}
+{164}{}{Minhas desculpas, Cidadão. Eu não quis ofendê-lo. Você tem autorização para entrar.}
 {165}{}{Muito bem.}
-{166}{}{Look, "Citizen," you need a Day Pass to get in here, all right? Don't try to trick me again.}
+{166}{}{Olha, "Cidadão", você precisa de um Passe Diário para entrar aqui, entendeu? Não tente me enganar de novo.}
 {167}{}{(Vai embora.)}
-{168}{}{Hmmmnn... these look legit. Funny, I don't recall ever seeing you around before.}
-{169}{}{Well, perhaps you should be more observant. I have an appointment with the First Citizen, and he's expecting me.}
-{170}{}{I hope you'll remember me next time.}
-{171}{}{Why, yes, I hold Citizenship in all of the vaults.}
-{172}{}{We must have missed each other. I'm pleased to make your acquaintance.}
-{173}{}{Oh, is that so? Look, I don't know who you are, but you're no Citizen. Give me those papers and get out of here. You want in, you're going to have to get a Day Pass from Wallace like everyone else.}
-{174}{}{You want these papers? Come get them!}
-{175}{}{Where can I find Wallace?}
+{168}{}{Hmmmnn... parecem legítimos. Engraçado, não me lembro de ter visto você antes.}
+{169}{}{Bem, talvez você devesse ser mais observador. Preciso me encontrar com a Primeira Cidadã, ela está me esperando.}
+{170}{}{Espero que você se lembre de mim na próxima vez.}
+{171}{}{Ora, sim, tenho cidadania em todas as Vaults.}
+{172}{}{Devemos ter nos desencontrado. Prazer em conhecê-lo.}
+{173}{}{Oh, é assim? Olha, eu não sei quem você é, mas você não é Cidadão. Me dê esses papéis e saia daqui. Se você quiser entrar, terá que obter um Passe Diário de Wallace, como todo mundo.}
+{174}{}{Você quer esses papéis? Vem pegar!}
+{175}{}{Onde posso encontrar Wallace?}
 {176}{}{Certo. Tchau.}
-{177}{}{Well, all right, you're cleared to enter. Vault City prevails, Citizen.}
-{178}{}{Uh, yes... Vault City prevails, Citizen.}
+{177}{}{Ok, tudo bem, você está liberado para entrar. Vault City prevalece, Cidadão.}
+{178}{}{Uh, sim... Vault City prevalece, Cidadão.}
 {179}{}{Obrigado.}
-{180}{}{Day Pass, please.}
+{180}{}{Passe Diário, por favor.}
 {181}{}{Aqui está.}
-{182}{}{I don't need a Day Pass. I'm a Citizen.}
-{183}{}{I was just stopping by to see how you were doing.}
-{184}{}{I don't have time for small talk, all right? Now get out of here.}
-{185}{}{All right, all right. Just trying to be friendly...}
+{182}{}{Eu não preciso de um Passe Diário. Eu sou um Cidadão.}
+{183}{}{Só vim ver o que você estava fazendo.}
+{184}{}{Não tenho tempo para conversa fiada, está bem? Agora saia daqui.}
+{185}{}{Tudo bem, tudo bem. Só estava tentando ser amigável...}
 {186}{}{(Vai embora.)}
-{187}{}{All right. Before you go in, we have to search your belongings first.}
+{187}{}{Tudo bem. Antes de entrar, temos que revistar seus pertences primeiro.}
 {188}{}{Uh, tudo bem.}
 {189}{}{Pelo que?}
 {190}{}{Esqueça, então.}
@@ -94,7 +94,7 @@
 {193}{}{Mas eu sou um Cidadão.}
 {194}{}{Desculpe. Eu vou seguindo em frente.}
 {195}{}{Ah, então AGORA você é um Cidadão, hein? Assim como da última vez? Me dê aqueles "documentos de cidadania" e saia daqui.}
-{196}{}{You want these papers? Come get them!}
+{196}{}{Você quer esses papéis? Vem pegar!}
 {197}{}{Tudo bem, tudo certo.}
 {198}{}{Vá falar com Wallace, Chefe da Alfândega. Agora me deixa em paz.}
 {199}{}{Certo. Tchau.}

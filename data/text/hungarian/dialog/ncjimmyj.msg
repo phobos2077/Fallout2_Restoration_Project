@@ -125,7 +125,7 @@
 {510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{Ki az a Myron?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Érdekes. Inkább kérdezek mást...}
 {513}{}{Myron? Lehet találkozni ezzel a... földre szállt istennel?}
 {514}{}{Valóban? Akkor később még biztos beugrom, és veszek tőled. Kösz, Jimmy.}
 {520}{}{Ő a Mordino család aranyifja. Ő KÉSZÍTETTE a Jetet. Ha valaki Csipkés Jimmytől vásárol, olyan, mintha magától Myrontól venné. Ezért létezik az, hogy J-J-nek tiszta anyaga van. A LEGJOBB a városban.}

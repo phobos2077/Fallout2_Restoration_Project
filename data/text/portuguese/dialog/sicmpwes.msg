@@ -1,3 +1,3 @@
-{100}{}{That doesn't seem to work.}
-{101}{}{You can't seem to figure out what buttons to push.}
+{100}{}{Isso não parece funcionar.}
+{101}{}{Você não consegue descobrir quais botões apertar.}
 {102}{}{Você destruiu o computador.}

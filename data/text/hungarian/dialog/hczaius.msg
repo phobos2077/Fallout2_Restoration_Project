@@ -28,7 +28,7 @@
 {127}{}{Nem, nem igazán.}
 {128}{}{Már megint te vagy?}
 {129}{}{Ork! Úúú! Ug ug!}
-{130}{}{Helló! HEELLÓÓÓÓÓ! Én (name)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Haver, már adtam pénzt. Menj, idegesíts valaki mást, jó?}
 {132}{}{Helló! Miért nem nézed meg... ööö... a városi bankot? Biztos vagyok benne, hogy ott sok ember nagyon szívesen elbeszélgetne veled.}
 {133}{}{Hát, ha meggondolod magad, csak szólj!}
@@ -124,3 +124,4 @@
 {406}{}{Tudtam, hogy Francis nem tud majd mit kezdeni a lelepleződéssel. Tisztában volt a tettei kockázatával, de szerintem nem hitte, hogy elkaphatják. Végülis nem lesz semmi baja. Remélem, Broken Hillsnek sem.}
 {407}{}{Én is remélem. Lenne pár kérdésem.}
 {408}{}{Én is. Viszlát!}
+{1130}{}{. menet!}

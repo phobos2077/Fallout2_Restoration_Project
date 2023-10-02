@@ -1,8 +1,8 @@
-{100}{}{You see a very hyperactive little boy.}
-{101}{}{You see Little Todd.}
-{200}{}{BOOM!!! I love 'splosions!}
-{201}{}{Bam-bam! I shoot mutants!}
-{202}{}{I wish I saw more 'splosions!}
+{100}{}{Você vê um menino muito hiperativo.}
+{101}{}{Você vê o pequeno Todd.}
+{200}{}{BOOM!!! Eu amo 'explosões!}
+{201}{}{Bam-bam! Eu atiro em mutantes!}
+{202}{}{Eu gostaria de ter visto mais 'explosões!}
 {203}{}{Tudo deve explodir!}
 {300}{}{Pode explodir alguma coisa, senhor?}
 {301}{}{Quando eu crescer, vou dominar o mundo!}

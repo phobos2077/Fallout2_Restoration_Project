@@ -14,7 +14,7 @@
 {113}{}{Você não reconhece o Escolhido?}
 {114}{}{Não.}
 {115}{}{E o que isso te importa?}
-{116}{}{A razão de eu perguntar isso é porque minha esposa está desaparecida. Eu não sei onde ela está, se foi há dias. Eu perguntei pela cidade e ninguém a viu. Você pode encontrá-la para mim?}
+{116}{}{A razão pela qual pergunto, entenda, é porque minha esposa está desaparecida. Eu não sei onde ela está, já se foi há dias. Eu perguntei pela cidade, e ninguém a viu. Você poderia encontrá-la para mim?}
 {117}{}{O quê tem pra mim?}
 {118}{}{Eu vou dar uma olhada. Como ela é?}
 {119}{}{Não, estou ocupado.}
@@ -24,10 +24,10 @@
 {123}{}{Por favor, por favor. Minha esposa... ela é tudo para mim. Por favor.}
 {124}{}{Já disse que não!}
 {125}{}{Tá bom, já chega. Só pare de me encher.}
-{126}{}{Aqui está o dinheiro. Agora, por favor, POR FAVOR... encontre minha esposa e me diga onde ela está. Talvez ela esteja morando com outra pessoa, tenha me deixado... mas eu só preciso saber.}
+{126}{}{Aqui está o dinheiro. Agora, por favor, por favor, POR FAVOR... encontre minha esposa e me diga onde ela está. Talvez ela esteja com outra pessoa, talvez tenha me deixado... eu só preciso saber.}
 {127}{}{Certo, amigo. Como ela é?}
 {128}{}{Certo. Vou fazer o meu melhor.}
-{129}{}{::chora incontrolavelmente por alguns instantes:: Tudo bem, vá embora. Mas saiba que você acabou de destruir um homem.}
+{129}{}{::ele soluça incontrolavelmente por alguns instantes:: Muito bem, vá embora. E saiba que você partiu meu coração.}
 {130}{}{Até mais, perdedor.}
 {131}{}{Ela é loira, sexy e tem uma voz incrível para cantar... Eu a vi pela última vez andando por esta área. Ela não gostava de mutantes ou ghouls, então ela não estaria perto de nenhum deles. Ninguém sabe para onde ela foi... É como se simplesmente tivesse desaparecido.}
 {132}{}{Isso deve ser o suficiente.}
@@ -42,7 +42,7 @@
 {141}{}{Ela era uma tesuda sem pernas?}
 {142}{}{Encontrei um grupo de mortos nos túneis abaixo da cidade. Ela era uma delas. Eu sinto muito.}
 {143}{}{Que? Não! Ela tinha pernas lindas!}
-{144}{}{Oh, entendi. Bem, agora não tem mais as pernas lindas. Ela foi seriamente ferida e suas pernas estão decepadas. Ela está mortinha da silva, além de sofrer antes de morrer.}
+{144}{}{Oh, certo. Bem, ela não tem pernas bonitas agora. Ela foi atacada e suas pernas foram SEPARADAS. Ela está mortinha da Silva, e ainda sofreu antes de morrer.}
 {145}{}{Certo. Bem, acho que a encontrei nos túneis abaixo da cidade. Ela está morta, sinto muito.}
 {146}{}{Obrigado por me dizer, acho que agora vou chorar.}
 {147}{}{Sim, vai chorar lá, seu perdedor apaixonado.}

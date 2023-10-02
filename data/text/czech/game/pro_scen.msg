@@ -282,14 +282,14 @@
 {14501}{}{Velká díra vypálená skrz dveře.}
 {14600}{}{Díra}
 {14601}{}{Velká díra vypálená skrz dveře.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Údajně neprůstřelné sklo}
+{14701}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
+{14800}{}{Údajně neprůstřelné sklo}
+{14801}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
+{14900}{}{Údajně neprůstřelné sklo}
+{14901}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
+{15000}{}{Údajně neprůstřelné sklo}
+{15001}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
 {15100}{}{Dveře}
 {15101}{}{Tyto dveře jsou příkladem vyspělé konstrukční technologie. Skládají se ze tří pohybujících se kovových segmentů, které tvoří samotné dveře.}
 {15200}{}{Dveře}
@@ -2630,12 +2630,12 @@
 {171800}{}{Stěna}
 {171900}{}{Vzduchová ventilace}
 {172000}{}{Vzduchová ventilace}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Údajně neprůstřelné sklo}
+{172101}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
+{172200}{}{Údajně neprůstřelné sklo}
+{172201}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
+{172300}{}{Údajně neprůstřelné sklo}
+{172301}{}{Údajně nerozbitné sklo. Ani to nezkoušej!}
 {172400}{}{Těžká laserová věž}
 {172401}{}{Věž se výhružně otáčí.}
 {172500}{}{Těžká laserová věž}

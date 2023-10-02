@@ -66,7 +66,7 @@
  für Leute wie mich, die nur ihren Geschäften nachgehen wollen.}
 {151}{}{Sie arbeiten im verborgenen, besonders oben im Norden.}
 {152}{}{Heiliger Bimbam, dir muss man wohl alles haarklein auseinandersetzen! Sie überfallen die
- Sklavenhändler und schmuggeln die Ware in in Süden, in das Gebiet der NCR, wo Sklaverei verboten
+ Sklavenhändler und schmuggeln die Ware in Süden, in das Gebiet der NCR, wo Sklaverei verboten
  ist. Also, wie steht's, bist du interessiert?}
 {153}{}{Da gibt es kein "Und"! Willst du den Job, oder willst du ihn nicht?}
 {154}{}{Und?}

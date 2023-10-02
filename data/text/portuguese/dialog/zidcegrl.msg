@@ -18,21 +18,21 @@
 {165}{}{Ela cheira muito bem.}
 {175}{}{FALTAM DADOS!!!}
 {176}{}{DADOS DEMAIS!!!}
-{177}{}{The odds seem right ever since you switched the dice.}
+{177}{}{As chances parecem boas desde que você trocou os dados.}
 {178}{}{As chances não são boas.}
 {179}{}{Você não consegue calcular suas chances com certeza.}
-{185}{}{The odds seem about right.}
+{185}{}{As chances parecem boas.}
 {186}{}{Você não consegue calcular suas chances com certeza.}
 {187}{}{As chances não são boas.}
 {200}{}{::Assobios::}
 {201}{}{::Palmas::}
 {202}{}{::Assobios::}
 {203}{}{}
-{204}{}{Thought you'd forgotten about us while you were off saving the world.}
+{204}{}{Achei que você tinha se esquecido de nós enquanto estava salvando o mundo.}
 {215}{}{Olá, }
 {216}{}{Se precisar de companhia mais tarde...}
-{217}{}{Hey, you...[winks]...you looking to gamble?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{217}{}{Ei, você... [piscadela]... quer jogar?}
+{218}{}{Ele parece tão... [estremece]... perigoso.}
 {219}{}{Bem vindo ao cassino, }
 {220}{}{Fale bem de mim pro chefe, beleza?}
 {221}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
@@ -70,7 +70,7 @@
 {278}{}{Olá, Srta. Estrela de Cinema. Gostaria de apostar um dinheiro?}
 {279}{}{Quer dançar essa noite?}
 {290}{}{Ei, querida. Você quer gastar algumas tampas?}
-{291}{}{Hey, sweetie...[winks]...you looking to gamble?}
+{291}{}{Ei, querida... [pisca]... você quer jogar?}
 {292}{}{Ei, docinho... [sorri]... quer arriscar?}
 {293}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
 {294}{}{Dona Sorte está em casa esta noite... Somente vencedores!}

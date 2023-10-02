@@ -89,16 +89,16 @@
 {188}{}{AGORA, sargento.}
 {189}{}{Vamos, sargento. Acorda.}
 {190}{}{Aqui está, SENHOR.}
-{191}{}{Now I have some questions for you, Sergeant.}
-{192}{}{Very good, Sergeant. Carry on.}
-{193}{}{Yeah, he was that drunk Outworlder who struck one of my guards in that brawl in the Spittoon. He's over at the Servant Allocation Center getting... broken in. It's just down the street.}
-{194}{}{I had another question...}
-{195}{}{Hmmm. I'll head over there now.}
-{196}{}{The Vault's right outside the door... sir.}
+{191}{}{Tenho algumas perguntas para fazer, Sargento.}
+{192}{}{Muito bem, sargento. Faça isso.}
+{193}{}{Sim, ele era aquele Forasteiro bêbado que bateu em um dos meus guardas naquela briga no Spittoon. Ele está no Centro de Alocação de Servos se... acostumando. É na mesma rua.}
+{194}{}{Eu tenho outra pergunta...}
+{195}{}{Hmmm. Vou para lá agora.}
+{196}{}{A Vault está bem do outro lado da porta... senhor.}
 {197}{}{A Vault fica logo na porta. Apenas diga aos guardas que você é um Cidadão, e eles te deixarão passar.}
 {198}{}{O Vault do outro lado da porta. Só cidadãos podem entrar lá, então não quero pegar você incomodando os guardas.}
 {199}{}{Posso pedir mais uma coisa?}
-{200}{}{But I am a Citizen.}
+{200}{}{Mas eu sou um Cidadão.}
 {201}{}{Como você se torna um cidadão?}
 {202}{}{Obrigado. Adeus.}
 {203}{}{Isso mesmo? Não te reconheço, e conheço todos os Cidadãos de Vault City.}
@@ -111,27 +111,27 @@
 {210}{}{Eu NASCI cidadão. Interessado em se tornar um Cidadão? Encontre um membro do conselho.}
 {211}{}{Posso pedir mais uma coisa?}
 {212}{}{Eu vou, obrigado. Adeus.}
-{213}{}{Yeah, what about them?}
+{213}{}{Sim, o que tem eles?}
 {214}{}{Encontrei a base deles.}
 {215}{}{Eu os limpei do mapa.}
 {216}{}{Alguma ideia de onde esses invasores estão atacando?}
 {217}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {218}{}{Esqueça. Talvez a gente converse outra hora.}
 {219}{}{É sério? Onde está?}
-{220}{}{Yes, you said that before. You should tell the First Citizen if you haven't already.}
-{221}{}{Down south, in a series of caves in the mountains. Here, let me point it out...}
-{222}{}{I had some questions for you.}
-{223}{}{All right. I'll go tell her.}
-{224}{}{You wiped them out?}
-{225}{}{Yes, you said that before. You should tell the First Citizen if you haven't already.}
-{226}{}{Yeah, Vault City shouldn't have to worry about them anymore.}
-{227}{}{I had some questions for you.}
-{228}{}{All right. I'll go tell her.}
-{229}{}{Go tell the First Citizen at once. She'll want to know about this immediately.}
-{230}{}{I had some questions first.}
-{231}{}{All right. I'll go tell her.}
-{232}{}{Yeah, raiders. They've been hitting us pretty hard lately. (Frowns.) Why do you want to know about them?}
-{233}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{220}{}{Sim, você disse isso antes. Você deve contar a Primeira Cidadã se ainda não o fez.}
+{221}{}{No sul, em uma série de cavernas nas montanhas. Aqui, deixe eu apontar...}
+{222}{}{Eu tenho algumas perguntas para você.}
+{223}{}{Tudo bem. Eu vou dizer a ela.}
+{224}{}{Você os tirou do mapa?}
+{225}{}{Sim, você disse isso antes. Você deve contar a Primeira Cidadã se ainda não o fez.}
+{226}{}{Sim, Vault City não deveria mais se preocupar com eles.}
+{227}{}{Eu tenho algumas perguntas para você.}
+{228}{}{Tudo bem. Eu vou dizer a ela.}
+{229}{}{Vá contar a Primeira Cidadã imediatamente. Ela vai querer saber disso imediatamente.}
+{230}{}{Eu tenho algumas perguntas primeiro.}
+{231}{}{Tudo bem. Eu vou dizer a ela.}
+{232}{}{Sim, invasores. Eles têm nos atacado bastante ultimamente. (Carranca.) Por que você quer saber sobre eles?}
+{233}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {234}{}{Eu estava apenas curioso.}
 {235}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {236}{}{Esqueça. Talvez a gente converse outra hora.}
@@ -148,18 +148,18 @@
 {247}{}{Deixa pra lá então. Eu tinha algumas perguntas...}
 {248}{}{Esqueça. Talvez a gente converse outra hora.}
 {249}{}{Hmmm. Bem, não vou recusar nenhuma ajuda neste momento. Você encontra a base deles, ou melhor ainda, os elimine, vá contar a Primeira Cidadã.}
-{250}{}{Actually, I already found their base.}
-{251}{}{Actually, I wiped them out already.}
+{250}{}{Na verdade, eu já encontrei a base deles.}
+{251}{}{Na verdade, eu já eliminei.}
 {252}{}{Alguma ideia de onde esses invasores estão atacando?}
 {253}{}{Certo. Eu tenho outras perguntas...}
 {254}{}{Eu vou fazer isso.}
-{255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
-{256}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
-{257}{}{I don't know anything. That's why I'm asking you.}
+{255}{}{Curioso, né? Eu também. Agora, o que você sabe sobre os invasores?}
+{256}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
+{257}{}{Eu não sei nada. É por isso que estou perguntando.}
 {258}{}{Deixa para lá. Eu tinha algumas perguntas...}
 {259}{}{Esqueça. Talvez a gente converse outra hora.}
 {260}{}{Não sabe de nada? Talvez eu te deixe aqui no Centro Correcional até você LEMBRAR de algo.}
-{261}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{261}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {262}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
 {263}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
 {264}{}{Você já está com problemas. Quer piorar ainda mais?}
@@ -170,7 +170,7 @@
 {269}{}{Hei! Hei! Eu não --}
 {270}{}{Viva com isso, homem morto.}
 {271}{}{Acho que não vamos abandonar o assunto tão facilmente. Agora... o que você sabe sobre os invasores?}
-{272}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
+{272}{}{Eu gostaria de tentar encontrar a base deles, talvez eu possa parar esses ataques.}
 {273}{}{Eu estava apenas curioso.}
 {274}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
 {275}{}{Não sei, esses invasores não fazem muito sentido. SE eles são invasores.}
@@ -217,12 +217,12 @@
 {316}{}{Sem problemas. Eu já explorei a área.}
 {317}{}{Tudo bem. Voltarei quando tiver feito o reconhecimento da área.}
 {318}{}{Pensando bem, conte comigo. Adeus.}
-{319}{}{If they keep poisoning our groundwater, we may be forced to take military action.}
-{320}{}{I want to see how much damage the plant meltdown caused to the area.}
-{321}{}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again.}
-{322}{}{Now do you want the job or not?}
-{323}{}{Yes. I've already scouted out the area, though.}
-{324}{}{I'll take the job. I'll report back when I'm done.}
+{319}{}{Se eles continuarem envenenando nossas águas subterrâneas, podemos ser forçados a tomar medidas militares.}
+{320}{}{Quero ver quanto dano o colapso da usina causou na área.}
+{321}{}{Podemos ser forçados a tomar medidas militares contra eles no futuro, especialmente se eles começarem a envenenar as águas subterrâneas novamente.}
+{322}{}{Agora você quer o trabalho ou não?}
+{323}{}{Sim, eu já explorei a área.}
+{324}{}{Eu aceito o trabalho. Informarei quando terminar.}
 {325}{}{Eu aceito o trabalho. Mas eu tinha algumas perguntas primeiro...}
 {326}{}{Não, obrigado. Talvez outra hora.}
 {327}{}{Isso mesmo? Hehe. Bem... tudo bem então.}
@@ -237,10 +237,10 @@
 {335}{}{Sem problemas. Já está feito.}
 {336}{}{Basta viajar para a NCR e depois voltar?}
 {337}{}{Esqueça. Eu tinha outras perguntas...}
-{338}{}{No thanks. Goodbye.}
+{338}{}{Não, obrigado. Adeus.}
 {339}{}{Isso é tudo que preciso. Estou mais interessado na rota do que na própria República, mas ainda precisarei que você entre na cidade assim que chegar lá.}
 {340}{}{Sem problemas. Já está feito.}
-{341}{}{I'll take the job. I'll report back when I'm done.}
+{341}{}{Eu aceito o trabalho. Informarei quando terminar.}
 {342}{}{Eu aceito o trabalho. Eu tinha algumas perguntas antes de sair...}
 {343}{}{Não, obrigado. Eu tinha algumas outras perguntas...}
 {344}{}{Acho que não quero esse trabalho. Talvez outra hora.}
@@ -258,30 +258,30 @@
 {356}{}{Olá novamente, Cidadão. Algo em que posso ajudá-lo?}
 {357}{}{Você está de volta? Está perdido, ou precisa de alguma coisa?}
 {358}{}{Como o que... senhor?}
-{359}{}{Yes, Citizen. What did you want to know?}
+{359}{}{Sim, cidadão. O que você queria saber?}
 {360}{}{Como o quê?}
 {361}{}{Hep-Hep Schlep-Bep}
 {362}{}{Desliga}
-{363}{}{You got some kind of problem, Sergeant?}
+{363}{}{Tem algum tipo de problema, Sargento?}
 {364}{}{Você quem invadiu o bar de Cassidy?}
-{365}{}{Have you heard of a Servant named Joshua?}
+{365}{}{Você já ouviu falar de um servo chamado Joshua?}
 {366}{}{O que você faz aqui?}
 {367}{}{Você pode me dizer onde fica a Vault?}
-{368}{}{I surveyed the area around Gecko for you.}
-{369}{}{Got any more recon work for me?}
-{370}{}{I plotted that route to NCR for you.}
+{368}{}{Verifiquei a área ao redor de Gecko para você.}
+{369}{}{Tem mais algum trabalho de reconhecimento para mim?}
+{370}{}{Tracei aquela rota até a NCR para você.}
 {371}{}{Sobre os saqueadores...}
-{372}{}{Never mind. Goodbye.}
+{372}{}{Deixa para lá. Adeus.}
 {373}{}{Bom dia... senhora.}
-{374}{}{Vault City prevails... ma'am.}
-{375}{}{Captain. Can I help you... ma'am?}
-{376}{}{Sergeant Stark... ma'am. Did you need something?}
-{377}{}{I do YOUR job, ma'am.}
-{378}{}{I run the Corrections Center. And obey your orders, ma'am.}
-{379}{}{Permission to speak freely, ma'am.}
-{380}{}{You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... ma'am.}
-{381}{}{Understood, ma'am.}
-{382}{}{Yes, ma'am. I conducted an authorized raid on Mr. Cassidy's establishment.}
+{374}{}{Vault City prevalece... senhora.}
+{375}{}{Capitã. Posso ajudá-la... senhora?}
+{376}{}{Sargento Stark... senhora. Precisava de algo?}
+{377}{}{Faço o SEU trabalho, senhora.}
+{378}{}{Eu dirijo o Centro de Correções. E obedeço às suas ordens, senhora.}
+{379}{}{Permissão para falar livremente, senhora.}
+{380}{}{Você não MERECE o seu posto. Eu vivi em Vault City toda a minha vida. Os homens e mulheres sob o MEU comando confiam em mim e me respeitam, não você... senhora.}
+{381}{}{Entendido, senhora.}
+{382}{}{Sim, senhora. Conduzi uma batida autorizada no estabelecimento do Sr. Cassidy.}
 {383}{}{Não, Senhora. O Sr. Cassidy não pagou sua taxa de licenciamento de álcool no mês, mas ainda estava vendendo no local. Sua lista de pagamentos está registrada no computador.}
 {384}{}{Sim... Senhora.}
 {385}{}{Aqui está... Senhora.}

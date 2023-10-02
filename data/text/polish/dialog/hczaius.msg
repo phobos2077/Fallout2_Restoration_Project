@@ -28,7 +28,7 @@
 {127}{}{Niespecjalnie.}
 {128}{}{Znowu ty, co?}
 {129}{}{Ork! Uuu! Ug ug!}
-{130}{}{Cześć! CZEEEŚĆ! Ja (name)!}
+{130}{}{Hi! HIIIII! Me }
 {131}{}{Dałem ci już pieniądze. Idź poprzeszkadzać komuś innemu, co?}
 {132}{}{Witaj ponownie. Czemu nie pójdziesz... umm... do banku w mieście? Jestem pewien, że wielu ludzi z radością z tobą pogada.}
 {133}{}{Jeśli wymyślisz jakiś sposób, daj mi znać.}
@@ -123,3 +123,4 @@
 {406}{}{Wiedziałem, że Francis nie wytrzyma. Znał ryzyko swego czynu, ale chyba nigdy nie przypuszczał, że zostanie schwytany. Ale chyba będzie z nim dobrze. Mam nadzieję, że tak samo będzie z Broken Hills.}
 {407}{}{Ja też. Mam parę pytań.}
 {408}{}{Ja też. Do widzenia.}
+{1130}{}{!}

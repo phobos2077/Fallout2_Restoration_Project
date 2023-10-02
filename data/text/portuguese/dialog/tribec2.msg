@@ -1,20 +1,20 @@
 {100}{}{}
 {101}{}{Você vê um membro da tribo.}
-{102}{}{You see Marli.}
-{103}{}{You see a warrior with a scowl on his face.}
-{110}{}{Be gone. I'm seeking council with the spirits and they don't like you, outworlder. If you must speak to me, do it another time.}
-{111}{}{No need to be so rude. Bye.}
-{112}{}{Hmph. I didn't ask for your help, outworlder. I could have taken care of the well myself.}
-{113}{}{Right. No thanks required.}
-{114}{}{Whatever. Way to be ungrateful.}
+{102}{}{Você vê Marli.}
+{103}{}{Você vê um guerreiro com um rosto carrancudo.}
+{110}{}{Vá embora. Estou buscando conselho com os espíritos e eles não gostam de você, forasteiro. Se você deve falar comigo, faça isso em outra hora.}
+{111}{}{Não há necessidade de ser tão rude. Tchau.}
+{112}{}{Hmph. Não me peça sua ajuda, forasteiro. Eu poderia ter cuidado disso sozinho.}
+{113}{}{Certo. Não é necessário, obrigado.}
+{114}{}{Tanto faz. Que maneira de ser ingrato.}
 {120}{}{O que você quer?}
-{121}{}{I see you're having some trouble with that well. What's wrong, exactly?}
-{130}{}{What's wrong? I dropped the rope, that's what's wrong. [He shifts uncomfortably.] I was fastening a new rope to the well and then I looked up and saw this fine young maiden stretching in the sunlight. Spirits of lust distracted me and the rope slipped from my hands and... What's it to you anyway, outworlder? Unless you got a new rope for me, you be wasting my time.}
-{131}{}{I don't have a rope on me, but I'll see if I can come up with one. I'll get back to you.}
-{132}{}{As a matter of fact, I do. I'll see if I can fix that well for you.}
-{133}{}{Nope, I'm afraid you're just going to have to admit to the others what happened. Try to keep your spirits of lust under control next time. Bye.}
-{140}{}{So is the well fixed yet, or what?}
-{141}{}{No, not yet I'm afraid.}
+{121}{}{Vejo que está tendo problemas com esse poço. O que há de errado, exatamente?}
+{130}{}{O que está errado? Deixei cair a corda, é isso que está errado. [Ele se mexe desconfortavelmente.] Eu estava prendendo uma nova corda no poço e então olhei para cima e vi esta bela jovem se espreguiçando ao sol. Espíritos da luxúria me distraíram e a corda escorregou de minhas mãos e... O que você tem com isso, forasteiro? A menos que você tenha uma corda nova para mim, você está me fazendo perder tempo.}
+{131}{}{Não tenho uma corda comigo, mas vou ver se consigo uma. Eu voltarei aqui.}
+{132}{}{Mas eu posso fazer isso. Vou ver se consigo consertar esse poço para você.}
+{133}{}{Não, receio que você terá que contar aos outros o que aconteceu. Tente manter seu espírito de luxúria controlado da próxima vez. Tchau.}
+{140}{}{Então, o poço já está consertado ou o quê?}
+{141}{}{Não, não estou com medo.}
 {142}{}{Está olhando o que? Você está parado ao lado dessa porra, idiota.}
 {150}{}{Então, você já consertou o poço?}
 {151}{}{Claro, coloquei a corda no lugar agora. Viu?}

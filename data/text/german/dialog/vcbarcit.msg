@@ -24,7 +24,7 @@
  gereist. Stimmt das?}
 {121}{}{Vielleicht *sollte* Vault City Outsider begrüßen. }
 {122}{}{Ist das wahr? Hat die alte Weltregierung immer noch Krieg geführt?}
-{123}{}{Du solltest Deine Reisen im  Vault City-Computer festhalten, damit andere darüber lesen können.}
+{123}{}{Du solltest Deine Reisen im Vault City-Computer festhalten, damit andere darüber lesen können.}
 {124}{}{Du darfst gerne solange bleiben, wie Du möchtest, Held.}
 {125}{}{Du solltest Deine Heldentaten gegen die Enklave in einer schönen, ordentlichen Liste festhalten.}
 {126}{}{*Gähn*...hrmnnn? Ja? Was ist das?}

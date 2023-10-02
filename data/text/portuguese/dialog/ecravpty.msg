@@ -2,7 +2,7 @@
 {101}{}{Você vê a festa de bartender.}
 {102}{}{Parece que ele está avaliando algumas de suas mercadorias.}
 {103}{}{Wha ... whas ... o que eu consigo. [Caipira.]}
-{104}{}{Nuka Cola [$6]}
+{104}{}{Nuka-Cola [$6]}
 {105}{}{Cerveja [$15]}
 {106}{}{Bebida [$30]}
 {107}{}{Nada hoje. Obrigado.}
@@ -29,10 +29,9 @@
 {127}{}{Ug.}
 {128}{}{Isso é ótimo! Me dê seu dinheiro e saia para lá. Eu tenho um negócio para correr.}
 {129}{}{[Fim]}
-{130}{}{Comodizoditado. Semdinheironãoéamor. Ohssoéporsexo. Quetalsemmassanenhumgolpe.
- Voltequandoganharalgumdinheiro.}
+{130}{}{Comodizoditado. Semdinheironãoéamor. Ohssoéporsexo. Quetalsemmassanenhumgolpe. Voltequandoganharalgumdinheiro.}
 {131}{}{[Fim]}
-{132}{}{Heheheh! Parecequevocepodeusaralgunsmentats. Mede $1000.}
+{132}{}{Heheheh! Parece que você pode usar alguns mentats. Me dê $1000.}
 {133}{}{[Dar ao homem us $1000]}
 {134}{}{Eu vou.}
 {135}{}{OH SIM! Isso irá escolher o seu alto!}
