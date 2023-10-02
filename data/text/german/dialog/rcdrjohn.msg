@@ -156,9 +156,10 @@
 {206}{}{McClure aus Vault City hat's mir erzählt.}
 {207}{}{Ich hab nur ein Gerücht gehört, das ist alles.}
 {208}{}{Ist nicht so wichtig. Lass mich dich noch etwas fragen.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno verkauft Jet ziemlich billig. Jet macht richtig süchtig, schlimmer als alles,
+ was du je gesehen hast. Die denken sich, wenn erst mal genug Leute in einer Gegend Jet nehmen,
+ werden sie alles tun, um mehr zu bekommen. Das bedeutet, dass sie de facto die Kontrolle über so
+ eine Gegend haben - wie in Redding.}
 {210}{}{Ach so. Lass mich dich noch etwas fragen, Doc.}
 {211}{}{Wenn du also nicht möchtest, dass New Reno Redding kontrolliert, wer soll dann deiner
  Meinung nach das Ruder hier übernehmen?}

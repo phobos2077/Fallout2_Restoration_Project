@@ -32,7 +32,7 @@
 {208}{}{Myron, finalmente! Vi e' stato comunicato quando verrano consegnati i nuovi schiavi, signore?}
 {209}{}{Myron, signore, abbiamo spostato tre schiavi dal gruppo di controllo al gruppo testato a causa di quelle crisi respiratorie che ci sono state la settimana scorsa.}
 {210}{}{Myron, signore... abbiamo dovuto uccidere uno schiavo che cercava di scappare. Che spreco.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
+{211}{}{Myron... questo nuovo allucinogeno che lei ha sintetizzato e' molto promettente, ma la sua capacita' di creare dipendenza e' nettamente inferiore a quella del Jet...}
 {212}{}{Se hai dei suggerimenti, per favore, scrivili su un pezzo di carta e poi mettili in quel cestino della spazzatura laggiu'.}
 {213}{}{Si', si', cosa?}
 {214}{}{Non riusciremo ad ottenere dei risultati se continui ad interromperci.}
