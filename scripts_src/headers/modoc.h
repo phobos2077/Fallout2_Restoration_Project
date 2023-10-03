@@ -402,7 +402,7 @@
 #define death_claw_escape_tile                  (17145)
 #define death_claw_kill_pid(x)                  kill_critter_type(x, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf))
 #define check_kill_party_pid(x)                 if (party_member_obj(x) == 0) then death_claw_kill_pid(x)
-#define do_kill_everyone_on_map                 ndebug("\ndo_kill_everyone_on_map");            \
+#define do_kill_everyone_on_map                 ndebug("\ndo_kill_everyone_on_map");               \
                                                 check_kill_party_pid(PID_VIC);                     \
                                                 check_kill_party_pid(PID_MYRON);                   \
                                                 check_kill_party_pid(PID_MARCUS);                  \
@@ -781,7 +781,7 @@
                                                 /*obj_drop_everything(dude_obj); Disabled by Seraph */                 \
                                                 remove_armor(dude_obj); /* Seraph's Code */
 
-#define setup_wedding_stage                     gfade_out(1);                                				   \
+#define setup_wedding_stage                     gfade_out(1);                                                              \
                                                 party_no_follow_on;                                                        \
                                                 game_ui_disable;                                                           \
                                                 reg_anim_clear(dude_obj);                                                  \
@@ -813,15 +813,15 @@
                                                    if (obj_in_party(self_obj) == false) then begin          \
                                                       if (cur_map_index == MAP_GHOST_FARM) then begin       \
                                                          if (all_slags_dead) then begin                     \
-                                                            ndebug("no need for attackers");             \
+                                                            ndebug("no need for attackers");                \
                                                             check_set_obj_visiblility(self_obj, true);      \
                                                             destroy_object(self_obj);                       \
                                                          end else if (attacking_slags) then begin           \
-                                                            ndebug("showing need for attackers");        \
+                                                            ndebug("showing need for attackers");           \
                                                             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_PLAYER);    \
                                                             check_set_obj_visiblility(self_obj, false);     \
                                                          end else begin                                     \
-                                                            ndebug("hiding need for attackers");         \
+                                                            ndebug("hiding need for attackers");            \
                                                             check_set_obj_visiblility(self_obj, true);      \
                                                          end                                                \
                                                       end                                                   \

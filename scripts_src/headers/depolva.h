@@ -10,7 +10,7 @@
 #define ELEVATOR_1                  (19922)//(20517)
 #define ELEVATOR_2                  (19924)
 #define ELEVATOR_3                  (20740)//(21135)
-#define ELEVATOR_4					(22340)
+#define ELEVATOR_4                  (22340)
 
 /*#define BOT_TILE_E0T0               (21697)
 #define BOT_TILE_E0T1               (17505)
@@ -94,9 +94,9 @@
 #define Robot_Robobrain(Robot)              (Robot == PID_ROBOBRAIN)
 
 #define Move_Elevator_Obj(Who,Elevation)    if (Elevation == 0) then                          \
-                                                critter_attempt_placement(Who,ELEVATOR_1,0);                    \
+                                                critter_attempt_placement(Who,ELEVATOR_1,0);  \
                                             else if (Elevation == 1) then                     \
-                                                critter_attempt_placement(Who,ELEVATOR_2,1);                    \
+                                                critter_attempt_placement(Who,ELEVATOR_2,1);  \
                                             else                                              \
                                                 critter_attempt_placement(Who,ELEVATOR_3,2)
 
@@ -280,22 +280,22 @@
 #define EYEBALL_DIXON               (1)
 #define EYEBALL_CLIFTON             (2)
 
-#define REPAIR_BOT1_DEAD	bit_1
-#define REPAIR_BOT2_DEAD	bit_2
-#define REPAIR_BOT3_DEAD	bit_3
-#define REPAIR_BAY_DISABLED	bit_4
+#define REPAIR_BOT1_DEAD            bit_1
+#define REPAIR_BOT2_DEAD            bit_2
+#define REPAIR_BOT3_DEAD            bit_3
+#define REPAIR_BAY_DISABLED         bit_4
 
 // commands
-#define Inc_Bot(Robot,Elevation)	    	if (cur_map_index == MAP_SIERRA_4) then begin       \
-                                                if (Robot_Missile_Bot(Robot)) then begin             \
+#define Inc_Bot(Robot,Elevation)            if (cur_map_index == MAP_SIERRA_4) then begin       \
+                                                if (Robot_Missile_Bot(Robot)) then begin        \
                                                     inc_map_var(MVAR_Level4_Tough_Bots);        \
-                                                end else if (Robot_Robobrain(Robot)) then begin           \
+                                                end else if (Robot_Robobrain(Robot)) then begin \
                                                     inc_map_var(MVAR_Level4_Robobrain);         \
-                                                end else  begin                                          \
+                                                end else  begin                                 \
                                                     inc_map_var(MVAR_Level4_Eyeball);           \
-                                            	end \
-                                            end						        \
-					    					else if (Elevation == 0) then begin                 \
+                                                end                                             \
+                                            end                                                 \
+                                            else if (Elevation == 0) then begin                 \
                                                 if (Robot_Missile_Bot(Robot)) then              \
                                                     inc_map_var(MVAR_Level1_Tough_Bots);        \
                                                 else if (Robot_Robobrain(Robot)) then           \
@@ -334,9 +334,9 @@
                                         else if (map_var(MVAR_Last_Spot_0) == BOT_TILE_E0T4) then   \
                                             set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T5);            \
                                         else if (map_var(MVAR_Last_Spot_0) == BOT_TILE_E0T5) then   \
-                                        	set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T6);            \
+                                            set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T6);            \
                                         else if (map_var(MVAR_Last_Spot_0) == BOT_TILE_E0T6) then   \
-                                        	set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T7);            \
+                                            set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T7);            \
                                         else if (map_var(MVAR_Last_Spot_0) == BOT_TILE_E0T7) then   \
                                             set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T0)
 
@@ -353,59 +353,59 @@
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T4) then   \
                                             set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T5);            \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T5) then   \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T6);            \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T6);            \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T6) then   \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T7);            \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T7);            \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T7) then   \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T8);            \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T8);            \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T8) then   \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T9);            \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T9);            \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T9) then   \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T10);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T10);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T10) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T11);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T11);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T11) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T12);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T12);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T12) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T13);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T13);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T13) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T14);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T14);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T14) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T15);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T15);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T15) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T16);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T16);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T16) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T17);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T17);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T17) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T18);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T18);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T18) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T19);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T19);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T19) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T20);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T20);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T20) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T21);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T21);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T21) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T22);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T22);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T22) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T23);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T23);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T23) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T24);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T24);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T24) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T25);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T25);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T25) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T26);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T26);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T26) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T27);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T27);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T27) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T28);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T28);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T28) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T29);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T29);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T29) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T30);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T30);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T30) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T31);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T31);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T31) then  \
-                                        	set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T32);           \
+                                            set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T32);           \
                                         else if (map_var(MVAR_Last_Spot_1) == BOT_TILE_E1T32) then  \
                                             set_map_var(MVAR_Last_Spot_1,BOT_TILE_E1T0)
 
@@ -422,16 +422,16 @@
                                         else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T4) then   \
                                             set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T5);            \
                                         else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T5) then   \
-                                        	set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T6);            \
+                                            set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T6);            \
                                         else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T6) then   \
-                                        	set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T7);            \
+                                            set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T7);            \
                                         else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T7) then   \
-                                        	set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T8);            \
+                                            set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T8);            \
                                         else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T8) then   \
-                                        	set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T9);            \
+                                            set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T9);            \
                                         else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T9) then   \
-                                        	set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T10);            \
-                                        else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T10) then   \
+                                            set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T10);           \
+                                        else if (map_var(MVAR_Last_Spot_2) == BOT_TILE_E2T10) then  \
                                             set_map_var(MVAR_Last_Spot_2,BOT_TILE_E2T0)
 
 #endif // DEPOLVA_H

@@ -1,5 +1,5 @@
 /*
-  Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef DEN_H
@@ -471,16 +471,16 @@
 #define gang_1_dead_bit                            bit_10
 #define gang_2_dead_bit                            bit_11
 #define player_has_destroyed_still_bit             bit_12
-//#define becky_known_bit                          bit_13
+//#define becky_known_bit                            bit_13
 #define mom_fingered_joey_bit                      bit_14
 #define thugs_hostile_bit                          bit_15
 #define took_car_off_den_bus_1_bit                 bit_16
-#define gang_2_member_2_killed_bit	           bit_17
-#define gang_2_member_3_killed_bit		   bit_18
-#define gang_2_member_4_killed_bit		   bit_19
-#define church_cleared_speech_bit		   bit_20
-#define gang_war_dude_stray_message_bit		   bit_21
-#define returned_to_church_bit  		   bit_22
+#define gang_2_member_2_killed_bit                 bit_17
+#define gang_2_member_3_killed_bit                 bit_18
+#define gang_2_member_4_killed_bit                 bit_19
+#define church_cleared_speech_bit                  bit_20
+#define gang_war_dude_stray_message_bit            bit_21
+#define returned_to_church_bit                     bit_22
 #define at_party_fight_bit                         bit_23
 
 #define rebecca_dead                               becky_dead
@@ -848,7 +848,7 @@ variable the_follow_obj;
                                                       else if (obj_pid(self_obj) == PID_AGILE_GUARD_FEMALE) then gang_2_member_4 := self_obj;    \
                                                       else if (gang_2_member_5 == 0) then gang_2_member_5 := self_obj;                           \
                                                    end                                                                                           \
-                                                      check_set_obj_visiblility(self_obj, false);                                       \
+                                                   check_set_obj_visiblility(self_obj, false);                                          \
                                                    if (is_loading_game == false) then begin                                             \
                                                       if (cur_map_index == MAP_DEN_ENTRANCE) then begin                                 \
                                                          if ((gangwar(state_gangwar_1won)) or (gangwar(state_gangwar_2won))) then begin \

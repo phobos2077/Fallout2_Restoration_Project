@@ -64,7 +64,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define REP_TOWN_KILL_EVIL                      (2)
 
 #define inc_general_rep(x)      set_global_var(GVAR_PLAYER_REPUTATION, (global_var(GVAR_PLAYER_REPUTATION) + x));               \
-                                ndebug("Player gains "+x+" Karma Points.");                                                  \
+                                ndebug("Player gains "+x+" Karma Points.");                                                     \
                                 CheckKarma
 
 #define dec_general_rep(x)      set_global_var(GVAR_PLAYER_REPUTATION, (global_var(GVAR_PLAYER_REPUTATION) - x));               \
@@ -79,7 +79,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
                                     set_global_var(GVAR_CHILDKILLER_REPUTATION, (global_var(GVAR_CHILDKILLER_REPUTATION) +1));       \
                                     inc_general_rep(REP_BONUS_KILLED_CHILD);                                                         \
                                     set_global_var(TOWN_REP_VAR,(global_var(TOWN_REP_VAR)+REP_TOWN_KILL_CHILD));                     \
-                                    ndebug("Added "+REP_TOWN_KILL_CHILD+" to Town Rep");                                          \
+                                    ndebug("Added "+REP_TOWN_KILL_CHILD+" to Town Rep");                                             \
                                 end
 #else
 #define inc_childkiller         if (source_obj == dude_obj) then begin                                                               \
@@ -210,7 +210,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
                                     CHECK_REP_BERSERKER                                                         \
                                     inc_general_rep(REP_BONUS_KILLED_GOOD_CRITTER);                             \
                                     set_global_var(TOWN_REP_VAR,(global_var(TOWN_REP_VAR)+REP_TOWN_KILL_GOOD)); \
-                                    ndebug("Added "+REP_TOWN_KILL_GOOD+" to Town Rep");                      \
+                                    ndebug("Added "+REP_TOWN_KILL_GOOD+" to Town Rep");                         \
                                 end
 
 #define inc_inv_good_crit       if (source_obj == dude_obj) then begin                                          \
@@ -221,7 +221,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
                                     CHECK_REP_BERSERKER                                                         \
                                     inc_general_rep(REP_BONUS_KILLED_GOOD_CRITTER);                             \
                                     set_global_var(TOWN_REP_VAR,(global_var(TOWN_REP_VAR)+REP_TOWN_KILL_EVIL)); \
-                                    ndebug("Added "+REP_TOWN_KILL_GOOD+" to Town Rep");                      \
+                                    ndebug("Added "+REP_TOWN_KILL_GOOD+" to Town Rep");                         \
                                 end
 
 #else
@@ -258,7 +258,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
                                     CHECK_REP_CHAMPION                                                          \
                                     inc_general_rep(REP_BONUS_KILLED_EVIL_CRITTER);                             \
                                     set_global_var(TOWN_REP_VAR,(global_var(TOWN_REP_VAR)+REP_TOWN_KILL_EVIL)); \
-                                    ndebug("Added "+REP_TOWN_KILL_EVIL+" to Town Rep");                      \
+                                    ndebug("Added "+REP_TOWN_KILL_EVIL+" to Town Rep");                         \
                                 end
 
 #define inc_inv_evil_crit       if (source_obj == dude_obj) then begin                                          \
@@ -269,7 +269,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
                                     CHECK_REP_CHAMPION                                                          \
                                     inc_general_rep(REP_BONUS_KILLED_EVIL_CRITTER);                             \
                                     set_global_var(TOWN_REP_VAR,(global_var(TOWN_REP_VAR)+REP_TOWN_KILL_GOOD)); \
-                                    ndebug("Added "+REP_TOWN_KILL_EVIL+" to Town Rep");                      \
+                                    ndebug("Added "+REP_TOWN_KILL_EVIL+" to Town Rep");                         \
                                 end
 
 #else
