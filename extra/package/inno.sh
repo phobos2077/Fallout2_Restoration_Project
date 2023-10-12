@@ -20,6 +20,16 @@ cp -r $release_dir ./
 mkdir translations
 mv $trans_dir/*.dat translations/
 
+# move optional components
+mkdir optional
+mv ./release/mods/rpu_enhanced_worldmap.dat optional/
+mv ./release/mods/rpu_rifle_animations.dat optional/
+mv ./release/mods/rpu_wakizashi_animations.dat optional/
+mv ./release/mods/rpu_extended_flamer.dat optional/
+mv ./release/mods/cassidy_head.dat optional/
+mv ./release/mods/cassidy_voice_joey_bracken_hq.dat optional/
+mv ./release/mods/rpu_improved_mysterious_stranger.dat optional/
+
 # alternative animations, not included into manual install
 "$extra_dir"/package/animation_fixes.sh
 
