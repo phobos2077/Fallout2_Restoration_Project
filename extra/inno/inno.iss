@@ -45,7 +45,6 @@ Source: "optional\goris_fast_derobing_low_fps.dat"; DestDir: "{#mods_dir}"; Comp
 #include "ini_qol.iss"
 #include "ini_debug.iss"
 #include "ini_sound.iss"
-FileName: "{app}\mods\upu.ini"; Section: "Main"; Key: "goris_derobing_speed"; String: "0"; Components: goris\skip;
 #include "ini_ammo.iss"
 
 [Dirs]
@@ -58,6 +57,19 @@ Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 
 Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
 Name: "qol"; Description: "Enable sfall QoL features"; Types: "custom";
 
+#include "components_ammo.iss"
+
+Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
+#include "components_translations.iss"
+
+Name: "walk_speed"; Description: "Walk speed fix"; Types: "custom";
+Name: "walk_speed\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
+Name: "walk_speed\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
+
+Name: "goris"; Description: "Faster derobing for Goris"; Types: "custom";
+Name: "goris\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
+Name: "goris\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
+
 Name: "worldmap"; Description: "Visually enhanced world map"; Types: "custom";  Flags: disablenouninstallwarning
 
 Name: "wpn_anims"; Description: "Weapon animations"; Types: "custom"
@@ -68,20 +80,6 @@ Name: "wpn_anims\ext_flamer"; Description: "Extended flamer attack animations"; 
 Name: "cassidy_head"; Description: "Talking head and voice for Cassidy"; Types: "custom"; Flags: disablenouninstallwarning;
 
 Name: "imp_stranger"; Description: "Improved Mysterious Stranger"; Types: "custom";  Flags: disablenouninstallwarning
-
-Name: "walk_speed"; Description: "Walk speed fix"; Types: "custom";
-Name: "walk_speed\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
-Name: "walk_speed\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
-
-Name: "goris"; Description: "Faster derobing for Goris"; Types: "custom";
-Name: "goris\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
-Name: "goris\low_fps"; Description: "Low FPS"; Flags: exclusive disablenouninstallwarning;
-Name: "goris\skip"; Description: "Skip"; Flags: exclusive disablenouninstallwarning;
-
-#include "components_ammo.iss"
-
-Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
-#include "components_translations.iss"
 
 [Types]
 Name: "custom"; Description: "Custom Selection"; Flags: iscustom
