@@ -30,6 +30,13 @@ AlwaysShowDirOnReadyPage=yes
 [Files]
 Source: "release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
 #include "files_translations.iss"
+Source: "optional\rpu_enhanced_worldmap.dat"; DestDir: "{#mods_dir}"; Components: worldmap; Flags: ignoreversion overwritereadonly
+Source: "optional\rpu_rifle_animations.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\rifle; Flags: ignoreversion overwritereadonly
+Source: "optional\rpu_wakizashi_animations.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\wakizashi; Flags: ignoreversion overwritereadonly
+Source: "optional\rpu_extended_flamer.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\ext_flamer; Flags: ignoreversion overwritereadonly
+Source: "optional\cassidy_head.dat"; DestDir: "{#mods_dir}"; Components: cassidy_head; Flags: ignoreversion overwritereadonly
+Source: "optional\cassidy_voice_joey_bracken_hq.dat"; DestDir: "{#mods_dir}"; Components: cassidy_head; Flags: ignoreversion overwritereadonly
+Source: "optional\rpu_improved_mysterious_stranger.dat"; DestDir: "{#mods_dir}"; Components: imp_stranger; Flags: ignoreversion overwritereadonly
 Source: "optional\walk_speed_fix_low_fps.dat"; DestDir: "{#mods_dir}"; Components: walk_speed\low_fps; Flags: ignoreversion overwritereadonly
 Source: "optional\goris_fast_derobing_low_fps.dat"; DestDir: "{#mods_dir}"; Components: goris\low_fps; Flags: ignoreversion overwritereadonly
 
@@ -50,6 +57,17 @@ Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 
 [Components]
 Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
 Name: "qol"; Description: "Enable sfall QoL features"; Types: "custom";
+
+Name: "worldmap"; Description: "Visually enhanced world map"; Types: "custom";  Flags: disablenouninstallwarning
+
+Name: "wpn_anims"; Description: "Weapon animations"; Types: "custom"
+Name: "wpn_anims\rifle"; Description: "New rifle animations"; Types: "custom"; Flags: disablenouninstallwarning;
+Name: "wpn_anims\wakizashi"; Description: "New wakizashi blade animations"; Types: "custom"; Flags: disablenouninstallwarning;
+Name: "wpn_anims\ext_flamer"; Description: "Extended flamer attack animations"; Types: "custom"; Flags: disablenouninstallwarning;
+
+Name: "cassidy_head"; Description: "Talking head and voice for Cassidy"; Types: "custom"; Flags: disablenouninstallwarning;
+
+Name: "imp_stranger"; Description: "Improved Mysterious Stranger"; Types: "custom";  Flags: disablenouninstallwarning
 
 Name: "walk_speed"; Description: "Walk speed fix"; Types: "custom";
 Name: "walk_speed\high_fps"; Description: "High FPS"; Flags: exclusive disablenouninstallwarning;
