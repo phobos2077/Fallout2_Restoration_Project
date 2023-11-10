@@ -436,10 +436,10 @@ procedure Node011 begin
    set_lockout_timer
    if (dude_is_male) then begin
       Reply(300);
-      BOption(302, Node998, 004);
+      BOption(303, Node998, 004);
    end else begin
       Reply(301);
-      BOption(303, Node998, 004);
+      BOption(302, Node998, 004);
    end
    NOption(304, Node999, 004);
 end
