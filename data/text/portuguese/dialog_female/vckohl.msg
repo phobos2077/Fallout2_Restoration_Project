@@ -105,7 +105,7 @@
 {195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
 {196}{}{Really? Used to?}
 {197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
-{198}{}{Bem, eu espero que haja mais de nós por aí. Muito obrigado e adeus!}
+{198}{}{Bem, eu espero que haja mais de nós por aí. Muito obrigada e adeus!}
 {199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
 {200}{}{Wow, that's a very comforting thought! Where was his home?}
 {201}{}{Why doesn't he come around anymore?}
