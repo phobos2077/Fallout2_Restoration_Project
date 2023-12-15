@@ -16,10 +16,10 @@
 {163}{}{Lo sé, no te preocupes... lo tengo todo bajo control.}
 {164}{}{¿Por qué?}
 {165}{}{Debo irme. Adiós.}
-{166}{}{¿Los comerciantes? Vienen de Klamath cada dos meses. No vendrá ninguno más hasta dentro de un mes, pero Klamath está sólo a unos pocos días al este de aquí.}
+{166}{}{¿Los comerciantes?, vienen de Klamath cada dos meses. No vendrá ninguno más hasta dentro de un mes, pero Klamath está sólo a unos pocos días al este de aquí.}
 {167}{}{Gracias. Adiós.}
-{168}{}{¿Qué puedes contarme sobre este objeto venido del Sagrado Refugio?}
-{169}{}{Parece como una calabaza de metal. Quizás el Refugio nos la enviase como un presagio.}
+{168}{}{¿Qué puedes contarme de este objeto venido del sagrado refugio?}
+{169}{}{Parece una calabaza de agua metálica. Quizás el refugio nos la enviase como un presagio.}
 {170}{}{¿Puedes contarme quién trajo este objeto a nuestro poblado?}
 {171}{}{Gracias. Debo irme. Adiós.}
 {172}{}{Espero que así sea.}
