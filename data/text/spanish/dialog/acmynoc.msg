@@ -177,6 +177,6 @@
 {1106}{}{Eres el Elegido.}
 {1107}{}{Él nos cura con sus hierbas y magia. Está en la parte norte del poblado.}
 {1108}{}{Él nos cura con sus hierbas y magia. Está en la parte norte del poblado.}
-{1109}{}{Es un polvo mágico que te curará, pero también te dejará soñoliento.}
+{1109}{}{Es un polvo mágico que te sanará, pero también te adormecerá.}
 {1110}{}{El Gran Puente es la salida de nuestro poblado, al sur.}
 {1111}{}{Ese soy yo.}
