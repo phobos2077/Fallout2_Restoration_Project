@@ -34,7 +34,7 @@
 {127}{}{No. No mucho.}
 {128}{}{Otra vez tú, ¿eh?}
 {129}{}{¡Ork! ¡Ooo! ¡Ug ug!}
-{130}{}{Hi! HIIIII! Me }
+{130}{}{¡Hola! ¡HOOOLA! yo }
 {131}{}{Colega, ya te di algo de dinero. Ve a molestar a otro, eh?}
 {132}{}{Hola otra vez. ¿Por qué no echas un vistazo al… umm… banco de la ciudad? Estoy seguro de que allí hay un montón de gente
  encantada de hablar contigo.}

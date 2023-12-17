@@ -3502,7 +3502,7 @@
 {231500}{}{Vestidor}
 {231501}{}{Un tocador de madera.}
 {231600}{}{Escritorio}
-{231601}{}{Un escritorio genérico. Cuando has visto un escritorio, los has visto todos.}
+{231601}{}{Un escritorio genérico. Cuando has visto uno, has visto todos.}
 {231700}{}{Escritorio}
 {231701}{}{Un escritorio genérico.}
 {231800}{}{Escritorio}

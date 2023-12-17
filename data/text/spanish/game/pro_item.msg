@@ -359,7 +359,7 @@
 {18000}{}{Embalaje}
 {18001}{}{Una caja de embalaje de madera con objetos genéricos.}
 {18100}{}{Escritorio}
-{18101}{}{Un escritorio genérico. Cuando has visto un escritorio, los has visto todos.}
+{18101}{}{Un escritorio genérico. Cuando has visto uno, has visto todos.}
 {18200}{}{Escritorio}
 {18201}{}{Un escritorio genérico.}
 {18300}{}{Escritorio}
