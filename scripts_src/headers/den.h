@@ -1098,7 +1098,7 @@ variable the_follow_obj;
 #define set_metzger_ban(x)                         if (x > local_var(LVAR_METZGER_BAN)) then set_local_var(LVAR_METZGER_BAN, x)
 
 #define CHECK_LEVEL \
-   if elevation(self_obj) != elevation(dude_obj) then \
+   if not is_loading_game and (elevation(self_obj) != elevation(dude_obj)) then \
       move_to(self_obj, self_tile, elevation(dude_obj));
 
 #endif // DEN_H

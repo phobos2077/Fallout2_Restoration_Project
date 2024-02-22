@@ -183,7 +183,7 @@ end
 
 // Used for warping to the level where NCR helps out
 #define CHECK_LEVEL \
-    if elevation(self_obj) != elevation(dude_obj) then \
+    if not is_loading_game and (elevation(self_obj) != elevation(dude_obj)) then \
         move_to(self_obj, self_tile, elevation(dude_obj));
 
 #define CHECK_SQUATTERS_RUN                                    \
