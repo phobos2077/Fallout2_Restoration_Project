@@ -32,7 +32,6 @@ procedure talk_p_proc;
 procedure Node998; //combat
 procedure Node999; //end
 
-procedure Node999a;
 procedure Node999b;
 
 procedure Node001;
@@ -185,10 +184,6 @@ end
 procedure Node999 begin
 end
 
-procedure Node999a begin
-   set_map_var(MVAR_Crops_Stolen,1);
-end
-
 procedure Node999b begin
    set_map_var(MVAR_Petersons_angry,1);
 end
@@ -278,9 +273,10 @@ procedure Node010 begin
 end
 
 procedure Node010a begin
+   set_map_var(MVAR_Crops_Stolen,1);
    Reply(6061);
    NOption(608,Node005,4);
-   NOption(607,Node999a,4);
+   NOption(607,Node999,4);
    BOption(610,Node011,4);
 end
 
