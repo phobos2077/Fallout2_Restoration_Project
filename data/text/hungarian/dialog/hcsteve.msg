@@ -106,7 +106,7 @@
 {199}{}{Marcus! Nincs értelme. Boldogultok most már nélkülem is.}
 {200}{}{[TOVÁBBI LEHETŐSÉG]}
 {201}{}{Ne rontsd itt tovább a levegőt! Így is elég bajt okoztál.}
-{202}{}{[DONE]}
+{202}{}{[RENDBEN]}
 {300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{Idióta!}

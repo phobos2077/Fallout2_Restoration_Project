@@ -19,7 +19,7 @@
 {167}{}{Köszönöm. Viszlát!}
 {168}{}{Viszlát!}
 {169}{}{Áh, bazzeg...}
-{170}{}{[DONE]}
+{170}{}{[RENDBEN]}
 {171}{}{Mocskosul kivagyok...}
 {172}{}{I'll come back.}
 {173}{}{Oké.}

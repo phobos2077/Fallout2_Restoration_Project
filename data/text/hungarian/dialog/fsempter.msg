@@ -18,7 +18,7 @@
 {117}{}{::meghekkeled a számítógépet::}
 {118}{}{::távozol::}
 {119}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
-{120}{}{[DONE]}
+{120}{}{[RENDBEN]}
 {121}{}{Diagnosztikai funkciók?}
 {122}{}{Hálózati szken}
 {123}{}{Merevlemez formázása}
@@ -66,7 +66,7 @@
 {165}{}{Igen.}
 {166}{}{Nem.}
 {167}{}{Formázás... formázás... formázás kész. Az újraindítás előtt teljes telepítés szükséges. Lekapcsolás... lekapcsolás... kész...}
-{168}{}{[DONE]}
+{168}{}{[RENDBEN]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Botanika program.}
 {171}{}{Genetikai program.}
@@ -96,9 +96,9 @@
 {195}{}{(Miután temérdek ábrán és technikai értekezésen átgázoltál, felfedezed, hogy a Shik egy új típusó polimer alapú harci páncél kifejlesztésén dolgoznak, mely mind a tűznek, mind a lövedékeknek ellenáll. A befejezéstől még mindig évekre tart. Mindemellett említéseket olvasol egy bizonyos új fegyverzetről, és gyártási lehetőségekről. A Shik szemlátomást el vannak látva tervekkel a jövőt illetően.)}
 {196}{}{Vissza.}
 {197}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
-{198}{}{[DONE]}
+{198}{}{[RENDBEN]}
 {199}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
-{200}{}{[DONE]}
+{200}{}{[RENDBEN]}
 {201}{}{Fizika adatbázis: Felfedezés - Teória}
 {202}{}{Exploration.}
 {203}{}{Theory.}

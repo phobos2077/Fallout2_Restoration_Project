@@ -2,7 +2,7 @@
 {101}{}{You see Captain A. Ron Meyers.}
 {102}{}{Ez a szakadt ruhát viselő punk Kapitány-sapkát visel.}
 {103}{}{Mi a fenét akarsz? Addig nem beszélek senkivel, amíg nem a barátom, vagy nem bizonyul jó embernek. Tégy valami jót valamelyik emberemmel, és akkor gyere vissza!}
-{104}{}{[DONE]}
+{104}{}{[RENDBEN]}
 {105}{}{Hallottam, mit tettél az emberemmel. Köszönöm neked. Miben segíthetek?}
 {106}{}{Te vagyol ki?}
 {107}{}{Úgy hallottam, te vagy az, aki mindent tud erről a hajóról.}
@@ -10,7 +10,7 @@
 {109}{}{Hogy lehetne ezt a teknőt mozgásra bírni?}
 {110}{}{Semmi.}
 {111}{}{Én vagyok a Kapitány, én működtetem ezt a hajót. Ha további kérdéseid vannak, keress meg egy Shi-t vagy a Borzot, vagy akárkit! Nincs időm rád!}
-{112}{}{[DONE]}
+{112}{}{[RENDBEN]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
 {114}{}{Honnan tudsz te minderről?}
 {115}{}{Mi az az EBFR jeladó?}

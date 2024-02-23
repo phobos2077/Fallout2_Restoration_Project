@@ -13,9 +13,9 @@
 {112}{}{::bólintasz::}
 {113}{}{::megrázod a fejed::}
 {114}{}{Ezzel szolgálhatok.}
-{115}{}{[DONE]}
+{115}{}{[RENDBEN]}
 {116}{}{Nos, ennél többet nem tehetek érted. Minden jót!}
-{117}{}{[DONE]}
+{117}{}{[RENDBEN]}
 {118}{}{Lao Chou vagyok. Én vezetem ezt a vegyesboltot, a Repülő Sárkány 8-at. Olyan embernek ismernek engem, aki... információkban utazik...}
 {119}{}{Miféle információra gondoltál?}
 {120}{}{Értem. Vethetek egy pillantást a felszereléseidre?}

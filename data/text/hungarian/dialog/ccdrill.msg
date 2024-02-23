@@ -1,6 +1,6 @@
-{100}{}{You see a Drill Sergeant.}
-{101}{}{You see Sergeant Dornan.}
-{102}{}{You see a man wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
+{100}{}{A Kiképző Őrmestert látod.}
+{101}{}{Dornan Őrmester.}
+{102}{}{Egy őrt látsz, aki az erőpáncél különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
 {103}{sgnt1a}{Üdvözlöm a navarrói táborban... egy civil! Hogy a francba jutott be egy civil a bázisra?! Kicsinálok valakit... Tüntessétek el ezt a bohócot a bázis területéről!}
 {104}{sgnt1b}{Üdvözlöm a navarrói táborban... civilek! Hogy a francba jutottak be civilek a bázisra?! Kicsinálok valakit... Tüntessétek el ezeket a bázis területéről!}
 {105}{}{Várjon! Én...}
@@ -26,7 +26,7 @@
 {125}{}{Nem utalt nekem a bázis belőle. Azt mondták, majd itt kapok.}
 {126}{}{Öhm... nem utalt nekem a bázis belőle.}
 {127}{}{Nézd már, ennek a fazonnak itt van egy... Milyen szerencse, lehúzhatom a hullájáról!}
-{128}{sgnt10}{Don't have any? You expect me to believe that, maggot? The truth is you lost an expensive piece of army-issue equipment. That suit is going to come out of your pay, and you will remain in this man's army until you are five hundred and ten years old, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! Dismissed!}
+{128}{sgnt10}{Nem-e? Azt várja, hogy ezt elhigyjem, maga tinó?! Az igazság az, hogy elvesztette a méregdrága kincstári páncélját! Magára fogjuk hátékázni, és addig rohad itt, amíg le nem telik az ötszáztíz szolgálati éve, és a zsoldjából le nem vonják a kettes verziójú erőpáncél árát! Jelentkezzen a fegyvertárban, aztán jöjjön vissza hozzám! Lelépni!}
 {129}{}{Oké. Menni ruháér'.}
 {130}{}{Igen, őrmester!}
 {131}{sgnt11}{Azok az aktarágó seggfejek! Szerintük hogy tudnám vezetni ezt a bázist, ha állandóan csonkítják a készleteimet?! Húzzon le a fegyvertárba és kapjon magára egyet, aztán jöjjön vissza ide! Lelépni!}

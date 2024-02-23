@@ -52,4 +52,4 @@
 {201}{}{...igen, jobb ha húzol innen...}
 {202}{}{...ekkora tirpák köcsögöt...}
 {203}{}{...Igen, uram! Bassza meg, uram!...}
-{300}{}{Move along soldier.}
+{300}{}{Mozgás katona!}

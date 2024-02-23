@@ -22,7 +22,7 @@
 {121}{}{Nagyon jó. Mellesleg siessen - ő nagyon elfoglalt ember!}
 {122}{}{Oké.}
 {123}{}{Ez nem az a hely, ahova csak úgy, ha kedve szottyan az embernek, látogatásokat lehet tenni. Minden jót!}
-{124}{}{[DONE]}
+{124}{}{[RENDBEN]}
 {125}{}{Kiváló! Menjen csak be, menjen csak be! Beszéljen Juan Cruzzal és Vikki Goldman-el! Ők hírességek ugyan, de szóba állnak magával.}
 {126}{}{Kik ők?}
 {127}{}{Óh! Hírességek!}
@@ -55,7 +55,7 @@
 {154}{}{Kösz, hogy törődik velem. Viszlát!}
 {155}{}{Nem hinném, hogy én sérülnék meg. Minden jót!}
 {156}{}{Porig akarsz égetni? PORIG AKARSZ ÉGETNI? ŐRSÉG! MEGÖLNI A HITETLENT!}
-{157}{}{[DONE]}
+{157}{}{[RENDBEN]}
 {158}{}{Szóval... Elég ideje volt, hogy átgondolja a döntését. Csatlakozik hozzánk?}
 {159}{}{Igen.}
 {160}{}{Nem.}

@@ -44,11 +44,7 @@
 {143}{}{Az Enklávénak olcsó és feláldozható katonák kellettek. A halálkarmokra esett a választás, mert erősek és félelmet keltenek az ellenségben. Okosabb egyedek kellettek, hogy megértsék a parancsokat, de azért annyira nem, hogy az öntudatuk felszabaduljon. Tudsz követni?}
 {144}{}{Öh, igen.}
 {145}{}{Igen, eddig tudlak követni.}
-{146}{}{Well, we succeeded! We actually managed to increase their
- intelligence. However, I began to suspect that we went too far.
- That maybe they were a lot smarter than they were letting on. So
- when I was transferred here I brought one of them with me so I
- could put my theory to the test.}
+{146}{}{Szóval sikerrel jártunk! Sikerült megnövelni az intelligenciájukat. De én azt gyanítom, hogy túlságosan is jól-sikerült egyedeket produkáltunk. Sokkal okosabbak, mint amilyennek mutatják, és ezzel már el is árulták magukat. Amikor idekerültem, magammal hoztam egyet, hogy igazolhassam az elméletemet.}
 {147}{}{És?}
 {148}{}{Igazam volt! A halálkarmok hülyének tettetik magukat előttünk, miközben egyre többet tanulnak el a viselkedésünkből és a lélektanunkból. Még az emberi beszédet is tudják utánozni! Sokat beszélgettem a másik szobában lévő példánnyal.}
 {149}{}{Akárhogy is, a tény, hogy ki tudott eszelni egy szökési tervet és hogy a fajtársai lerántották a leplet egy összeesküvésről, világosan mutatja, milyen veszélyesek is valójában.}

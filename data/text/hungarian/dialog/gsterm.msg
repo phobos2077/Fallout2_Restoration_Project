@@ -214,4 +214,4 @@
 {740}{}{Oké.}
 {800}{}{Az optimalizációs procedúra sikeresen befejeződött.}
 {900}{}{Batch fájlok végrehajtása... Kérem várjon.}
-{910}{}{[DONE]}
+{910}{}{[RENDBEN]}

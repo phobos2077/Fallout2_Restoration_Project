@@ -34,7 +34,7 @@
 {133}{}{Kösz a magazint, kölök. Várj kábé egy órát és visszajövök!}
 {134}{}{Oké!}
 {135}{}{Még nem fejeztem be, kölyök! Tűnés! Egy öreg ghoulnak talán nem lehet magánélete?}
-{136}{}{[DONE]}
+{136}{}{[RENDBEN]}
 {137}{}{Milyen kincs? Pénz, kölyök, rengeteg pénz. Elegendő egy józan embernek.}
 {138}{}{Mi a pálya vele?}
 {139}{}{Nincs szükségem pénzre.}
@@ -71,7 +71,7 @@
 {170}{}{Még nem, de kérdeznék valamit.}
 {171}{}{Nem.}
 {172}{}{Hát akkor siess! Nagyon öreg ghoul vagyok, és én mondom neked, szükségem van egy kis kikapcsolódásra! Gyerünk, gyerünk, gyerünk!}
-{173}{}{[DONE]}
+{173}{}{[RENDBEN]}
 {174}{}{Hát, kölyök, ez a magazin beindított egy-két dolgot bennem, és úgy érzem azért a kincsért, amiről meséltem neked, igazán hozhatnál még néhány dolgot az öreg Typhonnak. Szerezz nekem egy felfújható gumibabát. New Renóban egészen biztos találsz egyet.}
 {175}{}{Okké! Pá!}
 {176}{}{Ne-ehm!}
@@ -81,9 +81,9 @@
 {180}{}{Rövid úton felejtsd el!}
 {181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
 {182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
-{183}{}{[DONE]}
+{183}{}{[RENDBEN]}
 {184}{}{Nem lehet egy csepp nyugalmam sem?! Tűnés! Tűnés! Mars!}
-{185}{}{[DONE]}
+{185}{}{[RENDBEN]}
 {186}{}{Eléggé kifáradtam. Hozz nekem egy üveg pálinkát és akkor mesélek a kincsről! Phil, a kocsmáros biztos tud ebben segíteni.}
 {187}{}{Rendics! Pá!}
 {188}{}{Nem!}

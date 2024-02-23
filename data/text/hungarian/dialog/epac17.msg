@@ -190,9 +190,9 @@
 {805}{}{Not interested. Bye.}
 {806}{}{Well, wait. Are you sure you won't help me with a little something?}
 {810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
-{811}{}{[DONE]}
+{811}{}{[RENDBEN]}
 {820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject...}
-{821}{}{[DONE]}
+{821}{}{[RENDBEN]}
 {830}{}{[The man looks up startled.] What the-?!}
 {831}{}{I'm still looking for your part.}
 {832}{}{Here's your tool. Piece of cake indeed.}
@@ -205,7 +205,7 @@
 {851}{}{Jól van, oké. Na, csá!}
 {852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
 {860}{}{Uh, yes, of course. Well, get to it then.}
-{861}{}{[DONE]}
+{861}{}{[RENDBEN]}
 {900}{}{*Grumbles*}
 {901}{}{*To himself* I was sure he wouldn't return.}
 {1000}{}{You return the Doctor's forgotten tool.}

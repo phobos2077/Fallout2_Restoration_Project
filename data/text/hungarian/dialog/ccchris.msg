@@ -40,7 +40,7 @@
 {139}{}{Mi a szart csinál?}
 {140}{}{Hé, már itt se vagyok.}
 {141}{}{(beleüvölt a rádióba) Riadó! Behatoló a benzinkútnál! Riadó!}
-{142}{}{[DONE]}
+{142}{}{[RENDBEN]}
 {143}{}{Nos, jó volt magával beszélgetni. Adok azonban egy tanácsot - nincs itt semmi más, csak pusztaság meg sugárzás. A civilizáció délre van. A maga helyében én arra próbálkoznék.}
 {144}{}{Kösz.}
 {145}{}{Fémmadarakat? Áh, biztos gépmadarakról beszél. De miért is kérdi?}
@@ -97,8 +97,7 @@
 {196}{}{Én gondolni komoly. Én Csatlakozni Enklávé!}
 {197}{}{Komolyan gondolom. Őket keresem.}
 {198}{}{Komolyan gondolom. Őket keresem.}
-{199}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
- replacements?}
+{199}{}{Várjon egy percet, nagyokos! Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
 {200}{}{Várjon egy percet!  Azt próbálja itt mondani, hogy maga az Enklávé bázis váltása?}
 {201}{}{Öhm, egen.}
 {202}{}{Így van!}
@@ -109,7 +108,7 @@
 {207}{}{Öhm... kíséret...}
 {208}{}{Kíséretet béreltem fel!}
 {209}{}{Hát, nem akarok durva lenni vagy valami, de ez magánterület. Ha feltétlenül el kell kolbászolnia valahova, akkor ne ide, ha lehet!}
-{210}{}{[DONE]}
+{210}{}{[RENDBEN]}
 {211}{}{Áh, visszajött! Mit tehetek magáért?}
 {212}{}{Mondani Navarro van délre! Hazudni! Visszajönni igazságért!}
 {213}{}{Azt mondta, Navarro innen dél felé van. De ezúttal az igazságot akarom hallani, tata!}
@@ -132,6 +131,6 @@
 {230}{}{Hé, már itt se vagyok.}
 {231}{}{Igen, igaz.}
 {232}{}{Bekapcsolja a rádióját. Fel fogja lármázni az egész bázist, hacsak nem tudod gyorsan elintézni!}
-{233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
+{233}{}{Oh, ne. Ember szed ki beszélő doboz. Ő beszél hozzám. Kell őt állj.}
 {800}{}{Meggyőzted Christ, hogy adja meg a jelszót.}
 {810}{}{Megölted Christ, mielőtt riaszthatta volna a bázist.}

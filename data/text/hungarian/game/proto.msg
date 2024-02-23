@@ -144,7 +144,7 @@
 {624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[DONE]}
+{650}{}{[RENDBEN]}
 {651}{}{[TOVÁBBI LEHETŐSÉG]}
 {652}{}{Tovább}
 {653}{}{[BACK]}

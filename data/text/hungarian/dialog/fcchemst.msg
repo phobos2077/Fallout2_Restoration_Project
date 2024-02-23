@@ -9,7 +9,7 @@
 {108}{}{Semmit. Itthagyom magát.}
 {109}{}{Ha elmebeteg, akkor nem idevaló. Menjen innen, mielőtt hívom az őrséget!}
 {110}{}{Úgy látszik, maga tényleg nem ért a szóból! Talán majd az őrség jobb észre téríti. Őrség! Behatoló!}
-{111}{}{[DONE]}
+{111}{}{[RENDBEN]}
 {112}{}{Jing Tie Gahng vagyok, az Acélpalota vegyi laboratóriumának vezetője... maga épp egy fontos munkafolyamatot zavart meg. Kérem, távozzon! MOST AZONNAL... mielőtt hívom az őrséget!}
 {113}{}{Hívja csak őket, vénember!}
 {114}{}{Jó, jó, már megyek is.}
@@ -40,9 +40,9 @@
 {139}{}{Ez a lehetetlen határát súrolja. Az üzemanyag tartalékaink kimerültek. Még ha akarnék is segíteni a Hubologistáknak - ami távol áll tőlem -, nem tehetnék semmit. Viszlátásra.}
 {140}{}{Oké. Viszlát!}
 {141}{}{Jó. Akkor hadd tegyem a dolgomat.}
-{142}{}{[DONE]}
+{142}{}{[RENDBEN]}
 {143}{}{Nem tudja megcsinálni? Akkor mondjon le az üzemanyagtól is! Távozzék, most dolgom van!}
-{144}{}{[DONE]}
+{144}{}{[RENDBEN]}
 {145}{}{Van magánál egy megerősített erőpáncél? Kiváló! Milyen fizetségre gondolt?}
 {146}{}{Ezért cserébe, kérem, irányítsa át az üzemanyagot a Hubologisták számára!}
 {147}{}{Irányítsa át az üzemanyagot a Hubologisták számára!}

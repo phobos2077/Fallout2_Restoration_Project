@@ -15,7 +15,7 @@
 {114}{}{Nem fontos! Üdv!}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [As you turn to look, he whips back to what he was doing and ignores you.]}
-{116}{}{[DONE]}
+{116}{}{[RENDBEN]}
 {117}{}{Dave Handy vagyok. Kanadából jöttem.}
 {118}{}{Szóval, mi a munkád itt?}
 {119}{}{Milyen megfontolásból jöttél ide olyan messziről?}

@@ -50,7 +50,7 @@
 {183}{}{Kérdezhetek valami mást?}
 {184}{}{Aha. Viszlát!}
 {185}{}{Magánál vannak a tervek? Kiváló! Most már csak üzemanyagra van szükségünk! A Shiknek van egy csomó. Tegye lehetővé, hogy egy része eljusson hozzánk. Legyen szerencséje, újonc!}
-{186}{}{[DONE]}
+{186}{}{[RENDBEN]}
 {187}{}{Akkor menjen és ne késlekedjen, jó? Most, ha megbocsát, elvtársam - folytatnom kell a hajó felkészítését epikus utazására.}
 {188}{}{Megvannak a gépmadár tervei.}
 {189}{}{Érdekel.}

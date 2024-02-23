@@ -93,7 +93,7 @@
 {212}{}{Alright. Here are the weapons.}
 {213}{}{No, I have decided not to. Goodbye.}
 {214}{}{No price too high, eh? Well, I know how economics work. Increase in demand means an increase in prices.}
-{215}{}{[DONE]}
+{215}{}{[RENDBEN]}
 {216}{}{[ATTACK]}
 {217}{}{Listen, starting a war with Vault City isn't the answer. Sure, you might be able to fend them off for months, maybe even years, but you can't hold out forever. And in the meantime, lives will be needlessly lost. But if I can just get one member of the Vault City council to see reason, then I know we can reach a peaceful agreement.}
 {218}{}{Hmm... Alright, I trust you have our best interests in mind. If you really think you can reason with one of their council members, then by all means, give it a shot. However, I think you should talk to Old Joe and see what he has to say. You can find him in or around the courtyard bar. Good luck. We're all counting on you.}
