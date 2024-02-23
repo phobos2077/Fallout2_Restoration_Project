@@ -33,7 +33,7 @@
 {200}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkező nehéz időkről beszélnek.}
 {201}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkező nehéz időkről beszélnek.}
 {202}{}{Én még keres, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Még keresem unokaöcsém.}
 {204}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
 {205}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
 {206}{}{Nem találni. Bocsánat.}

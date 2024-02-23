@@ -41,9 +41,9 @@
 {214}{}{Igenis, Morlis nagynéni.}
 {215}{}{Akkor indulj, és keresd meg az ÉLET-et! Tőled függ az életünk!}
 {216}{}{Igenis, Morlis nagynéni.}
-{300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{300}{}{Úgy tűnik valamerre elraktam a kovakövemet. De legalább megvan a porom. Most tűnj innen! Nincs időm csevegni.}
 {301}{}{Miért zavarsz, unokahúgom? Nem látod, hogy most nem érek rá?}
-{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
-{303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
-{304}{}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
-{305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{302}{}{Sehol sem találom a kovakövemet. Biztos vagyok benne, hogy elvetted mikor nem figyeltem. Egyszer már tetten értelek régebben. Most tűnj el! Nincs időm pletykálni.}
+{303}{}{Nos... Sajnálom, úgy tűnik elraktam valahová a kovakövemet. Biztonságos utat kívánok, gyermekem!}
+{304}{}{Már odaadtam neked a kovakövemet idióta. Ne fecséreld az időm, és szedd a sátorfádat!}
+{305}{}{Már odaadtam neked a kovakövemet idióta. De legalább megkaptam a poromat. Most tűnj innen! Nincs időm csevegni.}

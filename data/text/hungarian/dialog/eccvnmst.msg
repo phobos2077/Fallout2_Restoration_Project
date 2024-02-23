@@ -55,6 +55,6 @@
 {205}{}{Gekko}
 {206}{}{Merre van San Francisco?}
 {207}{}{Modoc}
-{208}{}{Klamath}
+{208}{}{Kalmath}
 {209}{}{15-os Menedek}
 {300}{}{Kösz, hogy üzletelhettünk.}

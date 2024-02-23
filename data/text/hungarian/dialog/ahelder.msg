@@ -42,8 +42,7 @@
 {146}{aeld11}{Klamath keletre található.}
 {147}{}{Van néhány dolog, amit még szeretnék megtudni.}
 {148}{}{Készen állok. Viszlát!}
-{149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
- the sound of a perilous journey. }
+{149}{aeld12}{A Szent Tizenhármas? Nem tudok segíteni. Csak a Menedéklakó tudta. Meséi veszélyes utazásokról számoltak be.}
 {150}{}{Értem. Szeretném, ha még mondana egy-két dolgot.}
 {151}{}{Minden jót, törzsfő!}
 {152}{aeld13}{Ha gyáva vagy, mind meghalunk! Te magad is... Teljesítetted a próbát a Templomban, bízunk benned. Szükségünk van rád.}
@@ -99,7 +98,7 @@
 {218}{eeld6}{Ha elpusztítod a gépet, mi megtaláljuk a hajót. Siess, már csak néhányan maradtunk! }
 {219}{}{Mi történt?}
 {220}{}{Értem.}
-{221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
+{221}{eeld7}{El kell pusztítanod a gépet, és meg kell ölni az ördögöket! Kint találkozunk! És még valamit, Kiválasztott, ha eddig nem találtad meg az ÉLET-et, keresd itt! A szabadság nem ér semmit ha képtelenek leszünk megmenteni a falunkat. Most menj!}
 {222}{}{Viszlát!}
 {223}{eeld8}{A törzsfő még mindig én vagyok. Emlékezz erre! Beszélj hozzám illendően, vagy nem segítek többé!}
 {224}{}{Elnézést, ön tényleg nem vén kurva. Mi történt?}
@@ -110,7 +109,7 @@
 {229}{}{Hová is kell mennem?}
 {230}{}{Csak meg akartam nézni, biztonságban vannak-e. Már keresem, ne aggódjon!}
 {231}{eeld11}{(sóhajt) Menj le! Ölj! Zúzd a gépeket! Indulj!}
-{232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village cannot be saved. Now go!}
+{232}{eeld12}{Ezúttal figyelj jól! Menj az alattunk lévő szintre! Keresd meg az energiatermelő gépet! Állítsd meg, és elmenekülhetünk! Az itteni emberek mind gonoszak. Ha nincs meg az ÉLET, akkor keresd itt! A szabadságunk semmit sem ér ha képtelenek vagyunk megmenteni a falunkat. Szedd a lábad!}
 {233}{}{Fogtam.}
 {234}{eeld13}{Így hívják. Tűket szúrnak a bőrünkbe, akár a stimpakk, de utána szörnyű dolog történik. Utána... (fulladozik)}
 {235}{}{És aztán?}

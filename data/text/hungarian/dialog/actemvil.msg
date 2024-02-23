@@ -63,18 +63,16 @@
 {165}{}{Nem értek veled egyet. Szerintem ezt békésen is megoldhatnánk.}
 {166}{}{Talán igazad van, }
 {167}{}{, de a mi helyzetünkben ez most nem lehetséges. Le kell győznöd engem, hogy kiálld a próbát!}
-{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other? Let's just
- end this now rather than take that chance, okay?}
+{168}{}{Nézd, nem ismerjük egymás erősségeit, és gyengeségeit. Baleset is történhet. Mi lesz például, ha valamelyikünk akaratán kívül megöli a másikat? Hagyjuk ezt a harcot, rendben?}
 {169}{}{Hmm... Értem, mire gondolsz. Nem akarom, hogy véletlenül meghalj, miközben csak a harci képességeidet tesztelném. Rendben... továbbmehetsz, Kiválasztott!}
 {170}{}{Hmm... Értem, mire gondolsz, de mindenképp harcolnunk kell. Megígérem, hogy nem fogok nagy fájdalmat okozni.}
 {171}{}{Köszönöm! Majd találkozunk a faluban.}
 {172}{}{Értem.}
 {200}{}{Mintha nem emlékeznék az utolsó harcunkra, Kiválasztott. Egész életemben csodálkozni fogok, hogyan vettél rá arra, hogy tovább engedjelek.}
 {201}{}{Nyelved akár az ezüst, Kiválasztott. Úgy bánsz a szavakkal, hogy minden bizonnyal hasznát tudod majd venni utazásod során.}
-{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
+{300}{}{Neked szintúgy, Kiválasztott. Őseink szelleme vezessen utadon!}
 {301}{}{Köszönöm, Cameron.}
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
+{302}{}{Kiválasztott, látom gyenge vagy a harcban. Így utad során csak a szavaidra számíthatsz. Ha megengeded, tanítok neked néhány harci cselt.}
 {303}{}{Igen, te tanít engem.}
 {304}{}{Nem, én nem kell ezt.}
 {305}{}{Jó, kérlek taníts meg mindenre, amit tudsz!}

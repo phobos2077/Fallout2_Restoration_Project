@@ -50,7 +50,7 @@
 {1001}{}{Alapító}
 {1002}{}{Menedéklakó}
 {1003}{}{Arroyo}
-{1004}{}{Klamath}
+{1004}{}{Kalmath}
 {1005}{}{Menedek}
 {1006}{}{Kiválasztott}
 {1007}{}{Sámán}
@@ -69,7 +69,6 @@
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
+{1109}{}{Ez egy varázspor mely gyógyít téged de ugyanakkor elálmosít.}
 {1110}{}{A Nagy Híd dél felé van a falunktól.}
-{1111}{}{He guards the bridge leading into our village.}
+{1111}{}{Ő őrzi a hidat mely a falunkba vezet.}

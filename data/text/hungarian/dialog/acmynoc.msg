@@ -21,7 +21,7 @@
 {168}{}{Mit tudsz mondani erről a tárgyról, ami a menedékből származik?}
 {169}{}{Egy acél vizespalacknak néz ki. Talán az istenek küldték előjelként.}
 {170}{}{Meg tudnád mondani, ki hozta ezt a faluba?}
-{171}{}{Thank you. I must be going. Goodbye.}
+{171}{}{Köszönöm. Mennem kell. Viszlát!}
 {172}{}{Remélem, sikerül.}
 {173}{}{A magabiztosságod miatt kell szenvednünk! Viszlát!}
 {174}{}{Viszlát!}
@@ -68,9 +68,7 @@
 {215}{}{A Törzsfő tévedett. Te gonosz ember vagy.}
 {300}{}{Az apám megtanított rá, hogyan csináljak erősebb pengéket a többinél. Hozz egy kovakövet, és megélezem a te dárdádat is. Szükséged lesz rá a vadonban.}
 {301}{}{Hol találhatnék kovakövet?}
-{302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
- ill-tempered I don't think anyone's asked her. Of course, the witch will want
- something in return.}
+{302}{}{Azt mondták, Morlis nagynénédnél van egy. Mivel olyan rossz természetű, ezért szerintem senki sem kérte el tőle. Persze, a banya majd biztosan akar valamit cserébe.}
 {303}{}{Kösz, viszlát!}
 {304}{}{Beszéltél a nagynénéddel a kovakőről?}
 {305}{}{Igen, itt van.}
@@ -88,14 +86,14 @@
 {402}{}{Nem, még nem találtam meg.}
 {403}{}{Nem vagyok olyan hangulatban, hogy válaszoljak a kérdéseidre. Viszlát!}
 {404}{}{A dolgok rosszul mennek, Kiválasztott. A szárazság egyre nagyobb, és a termés biztosan tönkremegy. Megpróbáljuk megmenteni, amit tudunk.}
-{405}{}{Why no trade with other villages?}
+{405}{}{Miért nem keresked faluval másik?}
 {406}{}{Csinálni legjobb tudásból. Megtalálni ÉLET. Visszatérni én.}
 {407}{}{Miért nem üzletelünk a többi faluval az ételért, amire szükségünk van? }
 {408}{}{Ha megtalálom az ÉLET-et, visszatérek.}
 {409}{}{Mi csak egyszerű emberek vagyunk, és kevés árunk van kereskedésre. Az a kevés város, amikkel kapcsolatban vagyunk, nem mutatnak túl nagy érdeklődést irántunk.}
 {410}{}{Érteni.}
 {411}{}{Értem.}
-{412}{}{You are our only hope, Chosen One. Please do not fail us!}
+{412}{}{Te vagy az egyetlen reménységünk, Kiválasztott. Kérlek ne bukj el!}
 {413}{}{Örülök, hogy látlak, Kiválasztott. Hogy halad a küldetés?}
 {414}{}{Én még keres.}
 {415}{}{Még keresem az ÉLET-et.}
@@ -164,7 +162,7 @@
 {1001}{}{Alapító}
 {1002}{}{Menedéklakó}
 {1003}{}{Arroyo}
-{1004}{}{Klamath}
+{1004}{}{Kalmath}
 {1005}{}{Menedek}
 {1006}{}{Kiválasztott}
 {1007}{}{Sámán}
@@ -179,8 +177,7 @@
 {1104}{}{Kereskedelmi csomópont néhány napi járóföldre keleti irányban.}
 {1105}{}{A Menedék maga a mennyország.}
 {1106}{}{TE vagy a Kiválasztott.}
-{1107}{}{He heals us with his herbs and magic. He is in the
- northern part of our village.}
+{1107}{}{Ő a növényeivel és a mágiájával gyógyít bennünket. A falu északi részében megtalálod.}
 {1108}{}{Ő a növényeivel és a mágiájával gyógyít bennünket. A falu északi részében megtalálod.}
 {1109}{}{Az egy mágikus por, amely ugyan meggyógyít, de egyúttal el is álmosít.}
 {1110}{}{A Nagy Híd dél felé van a falunktól.}
