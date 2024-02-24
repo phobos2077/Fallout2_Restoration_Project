@@ -138,6 +138,15 @@ procedure Node035;
 #define POOR_RATE        (400)
 #define HORRIBLE_RATE    (500)
 
+#define heal_party_member(Var_In_party, Var_Ptr) \
+   if (Var_In_party) then begin \
+      if (Is_Injured(Var_Ptr) or Is_Crippled(Var_Ptr)) then begin \
+         critter_heal(Var_Ptr,Injured_How_Much(Var_Ptr)); \
+         critter_uninjure(Var_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT)); \
+      end \
+   end
+
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -716,104 +725,22 @@ procedure Node009 begin
    gfade_out(600);
    gfade_in(600);
 
-   if (Vic_In_Party) then begin
-      if (Is_Injured(Vic_Ptr) or Is_Crippled(Vic_Ptr)) then begin
-         critter_heal(Vic_Ptr,Injured_How_Much(Vic_Ptr));
-         critter_uninjure(Vic_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Myron_In_Party) then begin
-      if (Is_Injured(Myron_Ptr) or Is_Crippled(Myron_Ptr)) then begin
-         critter_heal(Myron_Ptr,Injured_How_Much(Myron_Ptr));
-         critter_uninjure(Myron_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Marcus_In_Party) then begin
-      if (Is_Injured(Marcus_Ptr) or Is_Crippled(Marcus_Ptr)) then begin
-         critter_heal(Marcus_Ptr,Injured_How_Much(Marcus_Ptr));
-         critter_uninjure(Marcus_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (MacRae_In_Party) then begin
-      if (Is_Injured(MacRae_Ptr) or Is_Crippled(MacRae_Ptr)) then begin
-         critter_heal(MacRae_Ptr,Injured_How_Much(MacRae_Ptr));
-         critter_uninjure(MacRae_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Sulik_In_Party) then begin
-      if (Is_Injured(Sulik_Ptr) or Is_Crippled(Sulik_Ptr)) then begin
-         critter_heal(Sulik_Ptr,Injured_How_Much(Sulik_Ptr));
-         critter_uninjure(Sulik_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Lenny_In_Party) then begin
-      if (Is_Injured(Lenny_Ptr) or Is_Crippled(Lenny_Ptr)) then begin
-         critter_heal(Lenny_Ptr,Injured_How_Much(Lenny_Ptr));
-         critter_uninjure(Lenny_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Cyberdog_In_Party) then begin
-      if (Is_Injured(Cyberdog_Ptr) or Is_Crippled(Cyberdog_Ptr)) then begin
-         critter_heal(Cyberdog_Ptr,Injured_How_Much(Cyberdog_Ptr));
-         critter_uninjure(Cyberdog_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Doc_In_Party) then begin
-      if (Is_Injured(Doc_Ptr) or Is_Crippled(Doc_Ptr)) then begin
-         critter_heal(Doc_Ptr,Injured_How_Much(Doc_Ptr));
-         critter_uninjure(Doc_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Goris_In_Party) then begin
-      if (Is_Injured(Goris_Ptr) or Is_Crippled(Goris_Ptr)) then begin
-         critter_heal(Goris_Ptr,Injured_How_Much(Goris_Ptr));
-         critter_uninjure(Goris_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Davin_In_Party) then begin
-      if (Is_Injured(Davin_Ptr) or Is_Crippled(Davin_Ptr)) then begin
-         critter_heal(Davin_Ptr,Injured_How_Much(Davin_Ptr));
-         critter_uninjure(Davin_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Miria_In_Party) then begin
-      if (Is_Injured(Miria_Ptr) or Is_Crippled(Miria_Ptr)) then begin
-         critter_heal(Miria_Ptr,Injured_How_Much(Miria_Ptr));
-         critter_uninjure(Miria_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   //added by killap - RP
-   if (Dogmeat_In_Party) then begin
-      if (Is_Injured(Dogmeat_Ptr) or Is_Crippled(Dogmeat_Ptr)) then begin
-         critter_heal(Dogmeat_Ptr,Injured_How_Much(Dogmeat_Ptr));
-         critter_uninjure(Dogmeat_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (K9_In_Party) then begin
-      if (Is_Injured(K9_Ptr) or Is_Crippled(K9_Ptr)) then begin
-         critter_heal(K9_Ptr,Injured_How_Much(K9_Ptr));
-         critter_uninjure(K9_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Kitsune_In_Party) then begin
-      if (Is_Injured(Kitsune_Ptr) or Is_Crippled(Kitsune_Ptr)) then begin
-         critter_heal(Kitsune_Ptr,Injured_How_Much(Kitsune_Ptr));
-         critter_uninjure(Kitsune_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Dex_In_Party) then begin
-      if (Is_Injured(Dex_Ptr) or Is_Crippled(Dex_Ptr)) then begin
-         critter_heal(Dex_Ptr,Injured_How_Much(Dex_Ptr));
-         critter_uninjure(Dex_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Cat_Jules_In_Party) then begin
-      if (Is_Injured(Cat_Jules_Ptr) or Is_Crippled(Cat_Jules_Ptr)) then begin
-         critter_heal(Cat_Jules_Ptr,Injured_How_Much(Cat_Jules_Ptr));
-         critter_uninjure(Cat_Jules_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   //end added
+   heal_party_member(Vic_In_Party, Vic_Ptr)
+   heal_party_member(Myron_In_Party, Myron_Ptr)
+   heal_party_member(Marcus_In_Party, Marcus_Ptr)
+   heal_party_member(MacRae_In_Party, MacRae_Ptr)
+   heal_party_member(Sulik_In_Party, Sulik_Ptr)
+   heal_party_member(Lenny_In_Party, Lenny_Ptr)
+   heal_party_member(Cyberdog_In_Party, Cyberdog_Ptr)
+   heal_party_member(Doc_In_Party, Doc_Ptr)
+   heal_party_member(Goris_In_Party, Goris_Ptr)
+   heal_party_member(Davin_In_Party, Davin_Ptr)
+   heal_party_member(Miria_In_Party, Miria_Ptr)
+   heal_party_member(Dogmeat_In_Party, Dogmeat_Ptr)
+   heal_party_member(K9_In_Party, K9_Ptr)
+   heal_party_member(Kitsune_In_Party, Kitsune_Ptr)
+   heal_party_member(Dex_In_Party, Dex_Ptr)
+   heal_party_member(Cat_Jules_In_Party, Cat_Jules_Ptr)
 
    Reply(182);
 
