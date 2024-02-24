@@ -200,8 +200,6 @@ procedure timed_event_p_proc begin
          critter_attempt_placement( self_obj, 13093, 0 );
          move_to( dude_obj, 13695, 0 );
          critter_attempt_placement( dude_obj, 13695, 0 );
-         //move_to( self_obj, 13093, 1 );
-         //move_to( dude_obj, 13695, 1 );
          gfade_in(600);
          Death_Stage := 1;
          floater(349);
@@ -541,14 +539,13 @@ procedure Node004 begin
    gfade_in(600);
 
    set_local_var( LVAR_Used_Autodoc_Twice, 1 );
-   // if( dude_iq < 9 ) then begin // commented out by Seraph
-   if( dude_luck > 9 ) then begin // Seraph's Code - edited by killap
+   if( dude_luck > 9 ) then begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_bonus2_perk, 1 );
-      display_msg( mstr(344) ); //changed from 343 - killap
+      display_msg( mstr(344) );
    end
    else begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_bonus1_perk, 1 );
-      display_msg( mstr(343) ); //changed from 344 - killap
+      display_msg( mstr(343) );
    end
 
    Reply(147);
@@ -571,16 +568,14 @@ procedure Node005 begin
    gfade_in(600);
 
 
-   if( is_success( dude_luck < 2 ) ) then begin // Seraph's Code -edited by killap
+   if( is_success( dude_luck < 2 ) ) then begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_neg2_perk, 1 );
-      display_msg( mstr(350) ); //changed from 345 - killap
-   // Begin Seraph's Code
+      display_msg( mstr(350) );
    end
    else begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_neg1_perk, 1 );
-      display_msg( mstr(345) ); //changed from 350 - killap
+      display_msg( mstr(345) );
    end
-   // End Seraph's Code
 
    Reply(152);
 
@@ -590,7 +585,7 @@ end
 procedure Node006 begin
    Reply(154);
 
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(155, Node002, 004);
    NOption(156, Node014, 004);
    NOption(157, Node999, 004);
@@ -608,7 +603,7 @@ procedure Node007 begin
       NOption(161, Node007a, 004);
    if( (dude_caps >= Heal_Barter) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
       NOption( mstr(162) + Heal_Barter + mstr(163), Node007b, 004);
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(164, Node002, 004);
    NOption(165, Node010, 004);
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
@@ -664,7 +659,7 @@ procedure Node008 begin
       NOption(171, Node008a, 004);
    if( (dude_caps >= multBarterRate) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
       NOption( mstr(172) + multBarterRate + mstr(173), Node008b, 004);
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(174, Node002, 004);
    NOption(175, Node010, 004);
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
@@ -1037,10 +1032,10 @@ procedure Node020 begin
       Reply(240);
 
    if( dude_perk(PERK_dermal_armor_perk) ) then
-     NOption(242, Node021, 004); //killap's fix: changed from 241
-   NOption(243, Node018, 004); //killap's fix: changed from 242
-   NOption(244, Node014, 004); //killap's fix: changed from 243
-   NOption(250, Node999, 004); //killap's fix: changed from 244
+     NOption(242, Node021, 004);
+   NOption(243, Node018, 004);
+   NOption(244, Node014, 004);
+   NOption(250, Node999, 004);
 end
 
 procedure Node021 begin
@@ -1208,8 +1203,8 @@ end
 procedure Node025 begin
    if(not(dude_perk(PERK_phoenix_armor_perk))) then
       Reply( mstr(274) + " " + mstr(275) );
-   else                       //added by killap
-      Reply( mstr(274) );     //added by killap
+   else
+      Reply( mstr(274) );
 
    if(dude_perk(PERK_phoenix_armor_perk)) then
       NOption(276, Node026, 004);
