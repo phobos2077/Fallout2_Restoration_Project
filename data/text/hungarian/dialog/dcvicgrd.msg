@@ -46,7 +46,7 @@
 {306}{}{Kösz.}
 {310}{}{Hogy? Az a mániád, hogy sosem látott helyekre is beteszed a lábad? Ez itt a Rabszolga-Céh. }
 {311}{}{Aha, szóval a főnököd onnan kapta a nevét...}
-{312}{}{Oh, that's where I am? I thought I was in Kansas.}
+{312}{}{Szóval így hívják a helyet... Azt hittem, Kansas-ban vagyok.}
 {313}{}{Oké, kösz.}
 {320}{}{Hol? Nem, soha nem hallottam róla. Ez itt Rejtek. Nem tudok sokat arról a helyről, nem túl sokszor jutok ki innen. Bocs.}
 {321}{}{Idióta!}
@@ -105,9 +105,9 @@
 {481}{}{Oké.}
 {482}{}{Rendben.}
 {490}{}{Bocs, de nem.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
+{491}{}{Azt mondtam, nem! Most pedig húzz innen! Beszélned kell Metzgerrel.}
 {492}{}{Oké.}
-{500}{}{Too bad you didn't join us.}
+{500}{}{Elég baj, hogy nem csatlakoztál hozzánk.}
 {501}{}{Be kellett volna lépned a céhbe.}
 {502}{}{Őrködök... mint mindig..}
 {503}{}{Remélem, Vic beválik.}

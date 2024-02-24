@@ -1,4 +1,4 @@
-{100}{}{You see a Prospector.}
+{100}{}{Egy földkutatót látsz.}
 {101}{}{Állj csak meg, idegen! Nem szoktam ismeretleneket megállítani, de a készletem frissítésre szorul, és nem hagyhatom itt ezt a területet. Nincs kedved egy gyors csereberéhez?}
 {102}{}{Persze.}
 {103}{}{Nincs semmim, amit elcserélhetnék. Sajnálom.}

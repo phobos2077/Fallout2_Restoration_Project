@@ -44,7 +44,7 @@
 {156}{}{Most tök részeg leszek.}
 {157}{}{Menj elsülni ...máshova!}
 {158}{}{Mi lenne, ha te meg én sétálnánk egyet messze a többiektől?}
-{159}{}{Uhh, let's do it!}
+{159}{}{Öh, gyerünk, menjünk csináljuk meg!}
 {160}{}{Nee, részeg vagyok!}
 {161}{}{[Büff!] ::mosolyog::}
 {170}{}{Hé, nem akarsz velem bejönni a bokor mögé?}
@@ -65,4 +65,4 @@
 {203}{}{Ez nem frankó!}
 {204}{}{Nyugi, haver!}
 {205}{}{Pihenj, ember!}
-{210}{}{It seems she's been sampling some of her own merchandise.}
+{210}{}{Úgy tűnik, hogy ő is végigkóstolta a saját áruját.}

@@ -1,5 +1,5 @@
-{100}{}{You see a nomad.}
-{101}{}{He appears to be a nomad chieftain.}
+{100}{}{Egy nomádot látsz.}
+{101}{}{Őt egy nomád törzsfőnek nézed.}
 {102}{}{A ruhája és a viselkedése alapján valamiféle vezető lehet.}
 {103}{}{Ah, egy utazó. Légy üdvözölve szerény sátramban. Légy vendégem egy kis árnyékra a pusztaság szüntelen forróságában.}
 {104}{}{Köszönöm, szívesen elfogadom a felajánlott árnyékot.}
@@ -11,7 +11,7 @@
 {110}{}{Akkor talán máskor? Kívánom, hogy elkerüljön a veszély!}
 {111}{}{Köszönöm. Viszlát!}
 {112}{}{Milyen kár. Akkor pihenj meg, és légy üdvözölve a táborunkban!}
-{113}{}{Thank you. Bye.}
+{113}{}{Köszönöm. Viszlát.}
 {114}{}{A nap bizonyára elpárologtatta a szavakat az agyadból, de úgy illik, hogy kedves legyek a kevésbé szerencsésekhez is. Nyugodtan maradj a táborban, ameddig csak kedved tartja, egyszerű barátom!}
 {115}{}{Viszlát!}
 {116}{}{Hitetlen!}

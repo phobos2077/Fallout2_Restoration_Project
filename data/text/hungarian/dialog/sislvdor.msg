@@ -101,8 +101,8 @@
 {201}{}{ szakképzetten hatástalanította a csapdát.}
 {202}{}{ nem tudta hatástalanítani a csapdát.}
 {203}{}{Az ajtó zárva van.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Észreveszel egy csapdát az ajtón.}
+{205}{}{ észrevett egy csapdát az ajtón.}
 {206}{}{Nem tudsz csapdát helyezni az ajtóra, mert az ajtó nyitva van.}
 {207}{}{ nem tud csapdát helyezni az ajtóra, mert az ajtó nyitva van.}
 {208}{}{Tökéletes csapdát helyeztél az ajtóra.}

@@ -47,7 +47,7 @@
 {301}{}{Gyűljetek mosdatlanok! Pusztuljon a Spammer!}
 {302}{}{Halál a Spammerre!}
 {303}{}{Ezt azért kapod, mert az emberek életét fenyegeted!}
-{304}{}{Now you will die, Grim Reaper.}
+{304}{}{Most meghalsz, Nagy Kaszás!}
 {305}{}{Mehetsz vissza "délre"!}
 {306}{}{A génállomány tisztítgatásra szorul.}
 {307}{}{Most megfizetünk!}
@@ -60,16 +60,16 @@
 {314}{}{Védjük meg a Kiválasztottat a Spammerek hülyeségétől!}
 {315}{}{Kiválasztott! Csatlakozz hozzánk!}
 {316}{}{MOSDATLAN BOSSZÚ!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Soha nem leszel "Mosdatlan", te naiv bolond!}
 {318}{}{Nincs esélyed!}
 {319}{}{Még nem fejeztük be!}
 {320}{}{Hooooosszúúú ideje vártam már erre a pillanatra.}
 {400}{}{Ezt azért kapod, mert megfenyegettél!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{401}{}{Csak, hogy biztos legyek... ugye soha nem bántanál egy lányt?}
 {402}{}{"A bosszú csak hidegen felszolgálva jó."}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Buffy vagyok... légy a vendégem!}
 {405}{}{Senki sem szőrözhet Doombottal!}
-{406}{}{Grim Buster!}
+{406}{}{Sírrabló!}
 {410}{}{Csak egy ananásznak van olyan édes íze, mint a mi győzelmünknek...}
 {415}{}{A falu vidám hely, de te most nagyon-nagyon dühössé tetted.}
 {420}{}{Utoljára fenyegetted kis hazánkat gonosz tetteiddel!}

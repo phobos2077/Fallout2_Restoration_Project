@@ -218,7 +218,7 @@
 {4107}{}{Még elvagyok... de már csak alig...}
 {4200}{}{Soha nem szerettem ezt a helyet.}
 {4201}{}{Miért ilyen tiszta ez a hely?}
-{4202}{}{Do you smell something, Boss?}
+{4202}{}{Nem érzel valami szagot, főnök?}
 {4203}{}{Te tudod, főnök. Nem hiszem, hogy miután elmentünk innen, valaha is visszajönnék ide. Már nem érzem az otthonomnak.}
 {4204}{}{Határozottabban mocskosabb, mint amire emlékeztem.}
 {4205}{}{Ugye nem maradunk itt sokáig, főnök?}
@@ -230,7 +230,7 @@
 {4211}{}{Már évek óta nem jártam itt.}
 {4212}{}{Itt fogok nyugdíjba menni.}
 {4213}{}{Nyithatnék itt egy szerelőműhelyt.}
-{4300}{}{Ah, a sight for sore eyes. This is... was my place, but I guess you knew that. Right, Boss?}
+{4300}{}{Íme, a lakhelyek lakhelye. Ez volt az én kis házikóm, de erre nyilván már magad is rájöttél. Ugye, főnök?}
 {4400}{}{Sulik, ne nézz így rám!}
 {4401}{}{Főnök, Sulik már megint engem bámul!}
 {4402}{}{Aranyos kutyus.}
@@ -239,7 +239,7 @@
 {4502}{}{Várom a főnököt...}
 {4503}{}{Várom a főnökömet.}
 {4504}{}{Csak várok.}
-{4505}{}{The Boss sure wouldn't leave me behind...}
+{4505}{}{A főnök tuti nem hagyna el...}
 {4506}{}{Kopp-kopp, ki van ott? Várj! Hogy is...}
 {4507}{}{Még várok.}
 {4508}{}{Mi ez a szag?}
@@ -255,7 +255,7 @@
 {4603}{}{Egyszerűen nem pihenhetnénk helyette?}
 {4604}{}{Ne üssünk tábort?}
 {4605}{}{Ennyire rosszul lennék?}
-{4700}{}{Not too much, Boss.}
+{4700}{}{Ne sokat, főnök!}
 {4701}{}{Ha ragaszkodsz hozzá, főnök...}
 {4702}{}{Főnök, ugye nem fog szétrobbani a fejem?}
 {4703}{}{Főnök, van egy olyan érzésem, hogy kezdem megkedvelni ezt a vackot.}
@@ -264,7 +264,7 @@
 {4706}{}{Hogyne, főnök! Beadom magamnak.}
 {4707}{}{Kösz, főnök!}
 {4708}{}{Nem vészes.}
-{5000}{}{I'm a bit hungry at the moment. We'll talk again at Mom's.}
-{5500}{}{I feel like I broke a limb, Boss. You better have a look.}
-{5501}{}{I feel like I am burning up, Boss. You better have a look.}
-{5502}{}{I feel like I have been poisoned, Boss. You better have a look.}
+{5000}{}{Kezdek éhes lenni. Később beszélünk Mamánál.}
+{5500}{}{Úgy érzem mintha eltörtem volna egy végtagomat Főnök. Jobb lenne, ha vetnél rá egy pillantást.}
+{5501}{}{Ógy érzem mintha lázam lenne Főnök. Jobb lenne ha vetnél rá egy pilantást.}
+{5502}{}{Úgy érzem magam mintha megmérgeztek volna Főnök. Jobb lenne, ha megvizsgálnál.}

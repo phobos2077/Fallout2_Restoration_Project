@@ -6,8 +6,8 @@
 {105}{}{Aghhh!}
 {106}{}{Hát... nem biztos, hogy tudok segíteni. Új vagyok ezen a környéken, még csak az alábbi helyeken voltam.}
 {115}{}{Most ennyi elég is lesz. Köszönöm.}
-{116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
- Here, let me show you where it is.}
+{116}{}{New Reno - jó kis hely. Szex, drogok és szerencsejáték. Mi kellhet még?
+ Hadd mutassam meg, hol van!}
 {117}{}{Köszönöm. Viszlát!}
 {118}{}{Menedékváros - idióták városa. Ha csak egy ujjal több van a kezeden, máris úgy kezelnek, mint egy korcsot. Soha nem voltam ott, de tudom, merre található.}
 {119}{}{Köszönöm. Viszlát!}
@@ -37,19 +37,19 @@
 {140}{}{Most már igazán mennem kell. Örültem a beszélgetésnek.}
 {141}{}{Talán még találkozunk.}
 {142}{}{Még az éj beállta előtt a következő faluban szeretnék lenni. Jobb, ha indulok.}
-{143}{}{I'd better be going.}
+{143}{}{Jobb, ha megyek.}
 {144}{}{Rajtaütés!}
 {145}{}{Manapság már senkiben sem lehet megbízni.}
 {146}{}{Megszegted az utazók íratlan törvényeit!}
 {147}{}{Ideje indulnom.}
 {148}{}{Túl sokáig időztem itt.}
 {149}{}{Mennem kell.}
-{150}{}{Thanks. I need directions to some other places.}
-{1107}{}{New Reno.}
+{150}{}{Köszönöm. Igazíts el, kérlek egyéb helyek kapcsán is.}
+{1107}{}{New Reno érdekelne.}
 {1108}{}{Menedékváros.}
-{1109}{}{Redding.}
-{1110}{}{The Den.}
-{1111}{}{San Francisco.}
-{1112}{}{New California Republic.}
+{1109}{}{Hol találom Reddinget?}
+{1110}{}{Hogy jutok el Rejtekbe?}
+{1111}{}{Merre van San Francisco?}
+{1112}{}{Új Kalifornia Köztársaság}
 {1113}{}{Egy elhagyatott bánya.}
 {1114}{}{An old, abandoned facility.}

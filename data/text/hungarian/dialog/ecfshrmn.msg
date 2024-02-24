@@ -1,4 +1,4 @@
-{100}{}{You see a Fisherman.}
+{100}{}{Halász.}
 {101}{}{Épp időben érkeztél, hogy saját szemeddel lásd a Tenger Istennőjének áldását.}
 {102}{}{[TOVÁBBI LEHETŐSÉG]}
 {103}{}{}
@@ -9,12 +9,12 @@
 {108}{}{Láthatnám, mivel ajándékozott meg titeket az Istennő?}
 {109}{}{Uh!}
 {110}{}{Itt láthatod, ami a magasságos istennő ebben az évben adott nekünk. Szívesen megosztjuk veled az ő áldását, megfelelő ellenértékért.}
-{111}{}{Junk [$10]}
+{111}{}{Szemét [10 dolcsi]}
 {112}{}{Lézerpisztoly [10000]}
-{113}{}{Sharpened sticks [$40]}
-{114}{}{Fruit [$5]}
-{115}{}{Xander [$20]}
-{116}{}{Broc [$10]}
+{113}{}{Kihegyezett rudak [40 dolcsi]}
+{114}{}{Gyümölcs [5 dolcsi]}
+{115}{}{Xander gyökér [20 dolcsi]}
+{116}{}{Broc virág [10 dolcsi]}
 {117}{}{Viszlát!}
 {118}{}{[A tenger felé mutat.] Menj egyenesen előre! Az Istennő személyesen akar találkozni veled.}
 {119}{}{[Vége]}

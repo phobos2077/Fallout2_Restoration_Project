@@ -2,7 +2,7 @@
 {101}{}{Ő Dave H.}
 {102}{}{Ez itt egy kesehajú férfi, szemében reményteli csillogás.}
 {103}{}{Miért akarsz bántani minket?}
-{104}{}{How can I help you, enlightened one?}
+{104}{}{Miben segíthetek, megvilágosult?}
 {105}{}{Meg fogom környékezni Vikkit... ööö... hamarosan.}
 {106}{}{Miben segíthetek?}
 {107}{}{Mit akar?}
@@ -13,8 +13,7 @@
 {112}{}{Beszéltem Vikkivel. Azt mondta, hogy izgalmas embernek tart téged, és szeretne megkapni.}
 {113}{}{Akarod, hogy beszéljek Vikkivel az érdekedben?}
 {114}{}{Nem fontos! Üdv!}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Ööö... okééé. Tök mindegy. Szóval, mi az ott? [Ahogy megfordulsz, hogy megnézd, hova mutatott, visszatér a munkájához és ügyet sem vet rád.]}
 {116}{}{[RENDBEN]}
 {117}{}{Dave Handy vagyok. Kanadából jöttem.}
 {118}{}{Szóval, mi a munkád itt?}
@@ -30,7 +29,7 @@
 {128}{}{Nem, felejtsd el!}
 {129}{}{A Hub tagtoborzó, Vikki Goldman miatt. Láttam az egyik filmjét Kanadában és rögtön tudtam, hogy belém tudna szeretni. Ez egyelőre nem történt meg, de dolgozom rajta.}
 {130}{}{Eszembe véstem. Hadd kérdezzek még ezt-azt!}
-{131}{}{Ha ha! What a schlep you are! She's a porn star, buddy. She doesn't want you.}
+{131}{}{Haha! De nagy marha vagy! Az a nő pornósztár, haver! Le se szar téged.}
 {132}{}{Remélem, fogod, hogy Ő csak azért mutat érdeklődést irántad, hogy jó Hubologista maradj.}
 {133}{}{Tisztában vagyok vele... de megéri, ha van némi esélyem!}
 {134}{}{Ha te mondod... Na, kérdezek még valamit.}
@@ -87,17 +86,17 @@
 {185}{}{Most semmi ilyesmi nem jut eszembe. Majd tudatom, ha változik a helyzet.}
 {186}{}{Ó, mint például:}
 {187}{}{"A terminálom támogatja a 3D-s kártyákat?"}
-{188}{}{"Why can't I get multi-user hookup?"}
+{188}{}{"Miért nem vagyok képes multi-userként belépni?"}
 {189}{}{"Szerintem meg kéne változtatni a felhasználói felületet, még akkor is, ha a mostani tökéletesen megfelel!"}
 {190}{}{"Miért nem használhatok kardot vagy láncfűrészt a monitoromon?"}
 {191}{}{"Két fegyvert akarok használni. Miért nem lehet két fegyverem egyidőben?"}
-{192}{}{"The interface on my terminal is slow and clunky. I think it's your fault."}
+{192}{}{"A felhasználói felület lassú és beszaggat a terminálomon. Ez a maguk hibája".}
 {193}{}{Na, ilyesmiket.}
 {194}{}{Értem. Mulatságos fickók ezek. Na, kérdezek inkább valami mást.}
 {195}{}{Értem. Hát... viszlát!}
 {196}{}{Nem lehetetlen, de valami jó ok kéne, hogy megcsináljam. Egyelőre semmi okot nem látok. Sajnálom. Bármi egyéb?}
 {197}{}{Igen, van még néhány kérdésem.}
 {198}{}{Nem, szerintem nem.}
-{199}{}{Sorry, their system hasn't been responding for a while. There's no way for me to get into it. Anything else?}
+{199}{}{Sajnálom, a rendszerük már jó ideje elérhetetlen. Semmi esélyem, hogy belefúrjam magam. Bármi egyéb?}
 {200}{}{Rá fogok hajtani Vikkire... ööö... rövidesen. Segíthetek valamiben?}
 {201}{}{Their system hasn't been responding for a while. Looks like someone formatted their databases. Like what I'll be doing here once I'm done with you. Anything else?}
