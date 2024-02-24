@@ -18,7 +18,7 @@
 {117}{}{Óhhh, haver! Nincsen 'lég pénzed! Gyere vissza ha lesz lóvéd!}
 {118}{}{[Vége]}
 {119}{}{Elég vad kinézete van.}
-{120}{}{You see an addict.}
+{120}{}{Egy drogfüggőt látsz.}
 {121}{}{Kicsit idegesnek tűnik.}
 {122}{}{Mitakarsz? Vanmindenem!}
 {123}{}{Mentátot [$560]}

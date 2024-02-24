@@ -34,7 +34,7 @@
 {263}{}{Bármikor megnyerhetem a főnyereményt.}
 {264}{}{Ha nyerek, először neked szólok.}
 {275}{}{Működik a tervem...}
-{276}{}{Thanks for the loan! Your money's in good hands!}
+{276}{}{Kösz a kölcsönt. Jó kezekben van a pénzed.}
 {277}{}{Az asztalok meg vannak buherálva, de ne aggódj!}
 {278}{}{Neked köszönhetően egyszer még nagyot nyerek.}
 {279}{}{Bármikor nyerhetek! Érzem.}
@@ -55,7 +55,7 @@
 {320}{}{Köszönöm. Nagyon köszönöm! Hála neked, négy ugyanilyenem van.}
 {321}{}{Szóval nyertél?}
 {322}{}{Naszóval... hol a pénzem?}
-{330}{}{You don't like my threads? You know, I think you're right. I don't like them either. Time for some new ones - I can afford it!}
+{330}{}{Nem tetszik a ruhám? Igazad lehet. Én sem vagyok oda érte. Kéne egy-két újat szereznem... hisz megengedhetem magamnak!}
 {331}{}{Szóval nyertél?}
 {332}{}{Hol a pénzem?}
 {333}{}{Hmmm.}
@@ -86,7 +86,7 @@
 {394}{}{Fini.}
 {400}{}{Mi? Rendben, ha nagyon akarod. Köszönöm szépen. Vigyázz magadra!}
 {401}{}{Viszlát!}
-{410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
+{410}{}{Mi? Valami furcsa drogot szedsz? Nem úgy nézel ki, mint egy Jet-függő. Takarodj innen, te rusnyaság!}
 {411}{}{Takarodj!}
 {412}{}{Aghhh!}
 {420}{}{Miről beszélsz? Senkinek semmivel nem tartozom. Kiről beszélsz tulajdonképpen?}

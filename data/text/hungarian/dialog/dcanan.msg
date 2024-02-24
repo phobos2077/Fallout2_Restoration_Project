@@ -12,7 +12,7 @@
 {111}{}{Akkora szíved van, mint egy gyíknak.}
 {112}{}{Nekem, barátom, igazi MÚMIÁM VAN! Az egyiptomi sivatagból egyenesen a Pusztaságba! Csak hogy te magad is lásd!}
 {113}{}{Oké, felcsigáztál! Mennyibe kerül, hogy lássam azt az aszott hullát?}
-{114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
+{114}{}{(magadban) Hmm, a múmia úgy néz ki, mint egy ghoul. Oké, megnézném... mennyi?}
 {115}{}{Épp elég hullát láttam már! Viszlát!}
 {116}{}{Üdv, isten hozott, légy a vendégem! A Nagy Ananiás vagyok (kicsit meghajol hozzá, és szóvirágokkal kábít). Közeli s távoli földek misztériumait tárom a világ elé. Nem evilági misztériumokat... hanem Másvilágiakat.}
 {117}{}{Azért jöttél, hogy megismerd a Nagy Ananiás másvilági rejtélyeit?}
@@ -40,7 +40,7 @@
 {144}{}{Ez nekem nagyon úgy tűnik, mintha ghoul lenne.}
 {145}{}{Ez múmia? Nem tudom elhinni, hogy 25 dollárt fizettem hat lábnyi húsmasszáért. Viszlát!}
 {146}{}{Azta, ez csodálatos... fogjuk rá... (figyelmesen nézegeted a Múmiát egy darabig). Köszönöm, minden jót!}
-{147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
+{147}{}{(A Múmia felhorkan, erőtlenül nyújtózkodik egyet, és álmosan pislogva rád néz) Helló... (üdvözöl álmosan)}
 {148}{}{Szent szar! Ez Woody! Fuss, Woody, fuss! Na, jó, csak bicegj! Menj, Woody, menj!}
 {149}{}{Biztosítalak, hogy a múmia tényleg, teljesen hammi-siíta-tatlan.}
 {150}{}{Aligha hiszek én neked! Tegyünk egy próbát! WOODY! Hé, WOODY! Te vagy az?}

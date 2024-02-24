@@ -1,1 +1,1 @@
-{100}{}{You have a funny feeling about this place.  The enchanting smell of cow dung and rotting flesh emanates a few feet from here.}
+{100}{}{Furcsa érzésed van ezzel a hellyel kapcsolatban. Gané és rothadó hús förtelmes szagát érzed a közelből.}

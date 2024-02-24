@@ -21,7 +21,7 @@
 {169}{}{Áh, bazzeg...}
 {170}{}{[RENDBEN]}
 {171}{}{Mocskosul kivagyok...}
-{172}{}{I'll come back.}
+{172}{}{Később visszajövök.}
 {173}{}{Oké.}
 {174}{}{Te aztán szerfelett csinos vagy ám...}
 {175}{}{Távozz tőlem!}
@@ -68,7 +68,7 @@
 {321}{}{Erre talán még egyszer befizetnék.}
 {322}{}{Mmmmmm...}
 {323}{}{Nem rossz, nem rossz!}
-{324}{}{We'll have to do that again and work on our... flexibility.}
+{324}{}{Újra meg kellene próbálni, de ezúttal javítani kellene a... rugalmasságunkon.}
 {350}{}{Úgy látszik, sokat javult a kézi munkám.}
 {351}{}{Vigyázz, nehogy megtaszajtsa az ajtó a PUHA POPÓDAT kifelé menet!}
 {352}{}{Ideje lenne befejezni, amit még el se tudtál kezdeni!}

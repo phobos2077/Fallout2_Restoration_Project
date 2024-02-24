@@ -35,13 +35,13 @@
 {322}{}{Arra készülsz, hogy egy fontos üzenetet továbbíts a főbázisra.}
 {323}{}{Csakugyan? És miről szól ez az üzenet?}
 {324}{}{Ez szuper titkos. Elnézést, nem mondhatom el.}
-{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
- mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
- highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
- as there isn't a moment to spare.}
-{326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
-{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
-{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{325}{}{Elmondom neked, de alapvető fontosságú, hogy ne add tovább ezt az információt senki másnak elkerülendő a tömegpánikot.  
+Tudomásomra jutott, hogy az egyik közelmúltbeli rabszolga-szállítmányban olyan rabszolgák érkeztek akik meg voltak fertőzve egy ismeretlen és erősen halálos vírus fajtával.  
+*Muszály* eljutnom azonnal a bázisra, vagy mindannyiunk élete veszélybe kerül. 
+Most pedig ne vesztegesd tovább az időmet mivel egyetlen elvesztegetni való percem sincs. }
+{326}{}{Igen, hiszek neked. Úgy tűnik van egy behatolónk...}
+{327}{}{Bassza meg! Eh, bárhogy is. Még sosem akartak ennyi szarral megetetni itt. Menj utadra.}
+{328}{}{Basszus, az rosszul hangzik. Akkor jobb, ha indulsz, nem akarom ezt a problémát magamnak. Oh és ne aggódj, senkinek sem fogom elmondani.}
 {329}{}{[RENDBEN]}
 {400}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
  later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then

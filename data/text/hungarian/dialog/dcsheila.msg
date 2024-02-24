@@ -30,7 +30,7 @@
 {180}{}{Öhm, aligha.}
 {181}{}{[nyáladzol]}
 {182}{}{Nincs elég zsozsód. Tűnj innen, édes!}
-{183}{}{I'll come back.}
+{183}{}{Később visszajövök.}
 {184}{}{Nem éred meg a pénzem, cunci.}
 {185}{}{Bah!}
 {186}{}{Csodálatos voltál!}

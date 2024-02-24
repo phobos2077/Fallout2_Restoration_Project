@@ -19,7 +19,7 @@
 {245}{}{Kösz a segítséget!}
 {246}{}{Megcsináltuk!}
 {247}{}{Bennünket akarsz csesztetni?}
-{248}{}{Better watch your step.}
+{248}{}{Jobb lesz, ha kétszer is meggondolod, mit csinálsz...}
 {249}{}{Lara az egyetlen indok, hogy miért nem akasztunk fel.}
 {250}{}{Mit akartál elérni?}
 {251}{}{Gyáva féreg!}
@@ -29,7 +29,7 @@
 {255}{}{Készen állunk, csak add meg a jelet!}
 {256}{}{Ideje már, hogy szétrúgjuk a seggüket.}
 {257}{}{Utálok várni.}
-{258}{}{Let's go already.}
+{258}{}{Menjünk már!}
 {259}{}{Kész vagy már?}
 {260}{}{Szólj Larának, ha készen állsz!}
 {270}{}{Csatlakozni akarsz?}
@@ -45,7 +45,7 @@
 {304}{}{Örülök, hogy látlak.}
 {305}{}{Hamarosan megmutatjuk Tylernek...}
 {306}{}{Vannak új fejlemények?}
-{310}{}{Thanks for the help. Too bad about Lara.}
+{310}{}{Kösz a segítséget. Sajnálom, ami Larával történt.}
 {311}{}{Végre elkaptuk őket!}
 {312}{}{Nélküled nem sikerült volna.}
 {313}{}{Lara legalább harc közben halt meg.}

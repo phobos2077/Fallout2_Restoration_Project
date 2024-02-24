@@ -1,4 +1,4 @@
-1:Arroyo's elder lived for many years after the destruction of the Enclave.
-2:She was pleased that the ancient separation between Vault 13 and the Vault Dweller had been reconciled, and many were the times she told you that she wished the Vault Dweller were alive to have seen the reconciliation take place.
+1:Arroyo Törzsfője sok évig élt még az Enklávé elpusztítása után.
+2:Elégedettnek tűnt, hogy az ősi elkülönülés a 13-as Menedék és a Menedéklakó törzse között megszűnt. Sokszor hangoztatta, mennyire szeretné, ha a Menedéklakó is megélhette volna a kibékülést.
 3:A Törzsfő alvás közben távozott a másvilágra annak biztos tudatában, hogy az új falu biztonságban van és felvirágzik.
-4:Many of the older Arroyo residents believe that she now lives in the vault of the sky, telling the Vault Dwellers of your brave deeds.
+4:Arroyo idősebb lakosai úgy gondolják, hogy most már az égi Menedékben él, és a Menedéklakónak meséli el bátor tetteidet.

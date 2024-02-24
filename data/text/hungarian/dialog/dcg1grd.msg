@@ -1,6 +1,6 @@
 {100}{}{Egy őrt látsz.}
 {150}{}{Tyler egyik őre.}
-{151}{}{She's one of Tyler's guards.}
+{151}{}{A lány Tyler egyik őre.}
 {200}{}{Még élsz?}
 {210}{}{Megmutattuk nekik, mi?}
 {211}{}{Senki sem baszakodhat velünk!}

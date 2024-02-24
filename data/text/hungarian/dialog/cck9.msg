@@ -193,26 +193,26 @@
 {292}{}{Persze. Elég szép kutyának látszol.}
 {293}{}{Nem, kösz.}
 {300}{}{Mi lenni szomorú. Nem tudni megcsinálni.}
-{301}{}{I'm sorry; I can't fix you.}
+{301}{}{Sajnálom, de nem tudlak megjavítani.}
 {400}{}{Nagyon úgy néz ki, hogy hiányzik egy alkatrész.}
 {410}{}{Ez nem csinál semmit.}
 {420}{}{Ez nem illik bele.}
-{800}{}{You fixed K-9.}
+{800}{}{Megjavítottad K-9-et.}
 {1000}{}{Igen, gazdám?}
 {1100}{}{Minden rendszerem teljes kapacitáson működik, gazdám.}
 {1200}{}{Minden rendszerem csaknem teljes kapacitáson működik, gazdám.}
 {1300}{}{Megtettem a szükséges javításokat, de a továbbiakban külső segítségre szorulok, gazdám.}
 {1400}{}{Megtettem amit tudtam, gazdám, de a rendszerem a szétesés szélén áll, és ha nem kapok külső segítséget, le is áll.}
-{1500}{}{I will await your return, master.}
+{1500}{}{Várni fogom a visszatérésedet, gazdám.}
 {1600}{}{Do you expect me to swallow my teeth, master?}
-{1700}{}{I will follow at your heel, master.}
-{1800}{}{I will move to a medium distance, master.}
-{1900}{}{I will move to maximum acceptable range, master.}
+{1700}{}{A nyomodban leszek, gazdám.}
+{1800}{}{Kicsit lemaradva követlek majd, gazdám.}
+{1900}{}{A maximális távolságról megyek majd utánad, gazdám.}
 {2000}{}{Sajnálom, gazdám, de úgy látszik, a csapatodban nincs már hely számomra. Itt várok inkább, amíg fel nem szabadul egy.}
 {2200}{}{Ahogy parancsolod, gazdám.}
-{2300}{}{I have fur, master. I carry no other gear.}
+{2300}{}{Bundám van, gazdám. Nem viselek páncélokat.}
 {2400}{}{Nem akarom eltávolítani a bundámat, gazdám.}
 {2500}{}{Fogak, gazdám. Ezek a fényes fehér valamik, amiket a számba építettek.}
 {2700}{}{Nagyobb kretén vagy, mint Schreber. Dehogy megyek én veled!}
-{2800}{}{Very well, master. I am at your command.}
+{2800}{}{Rendben van, gazdám. Állok szolgálatodra!}
 {2900}{}{Te egy seggfej vagy. Nem megyek veled sehova. Hagyj békén!}

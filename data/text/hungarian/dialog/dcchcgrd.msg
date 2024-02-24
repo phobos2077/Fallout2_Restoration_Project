@@ -13,7 +13,7 @@
 {161}{}{Hátul hagytam az egyik őrnél. Mindjárt hozom...}
 {162}{}{Nem juthatsz be engedély nélkül.}
 {163}{}{Nesze, itt az engedélyem! Támadás!}
-{164}{}{I'll come back.}
+{164}{}{Később visszajövök.}
 {165}{}{[Kínosan] Nem igazán... ömm... rendben, menj csak be...}
 {166}{}{Köszönöm.}
 {167}{}{Ez a beszéd!}

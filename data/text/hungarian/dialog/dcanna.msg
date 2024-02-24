@@ -39,6 +39,6 @@
 {502}{}{Nagyi, már látlak...}
 {503}{}{Óh, a kedves Mr. Cain az. Örülök, hogy újra látom...}
 {550}{}{Ez a ház megtisztult.}
-{551}{}{Oog, pretti bones.}
+{551}{}{Oh, csinos csontok.}
 {560}{}{SZELLEMIRTÓ!}
 {561}{}{Aghhh!}
