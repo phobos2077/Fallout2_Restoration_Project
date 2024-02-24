@@ -849,7 +849,7 @@ procedure Node011 begin
    else
       Reply( mstr(189) + " " + mstr(191) );
 
-   if(( map_var( MVAR_Auto_Doc_Fixed ) == 1 ) and ( local_var(LVAR_Gave_Karma_Bonus) == 0 )) then //edit by killap - added ( local_var(LVAR_Gave_Karma_Bonus) == 0 )
+   if(( map_var( MVAR_Auto_Doc_Fixed ) == 1 ) and ( local_var(LVAR_Gave_Karma_Bonus) == 0 )) then
       NOption(192, Node012, 004);
    NOption(193, Node014, 004);
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
@@ -879,7 +879,7 @@ procedure Node012a begin
 end
 
 procedure Node013 begin
-   set_local_var(LVAR_Gave_Karma_Bonus,2); //added by killap
+   set_local_var(LVAR_Gave_Karma_Bonus,2);
    From_12:=1;
 
    Reply(200);
