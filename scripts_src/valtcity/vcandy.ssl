@@ -516,15 +516,6 @@ procedure Node003 begin
 
    NLowOption(138, Node003a);
    NLowOption(139, Node999);
-//begin killap comment out
-/*   If_Party_Has_Injured then begin
-      if(party_size == 2) then
-         NOption(140, Node001a, 004);
-      else if(party_size > 2) then
-         NOption(141, Node008, 004);
-   end*/
-//   NOption(142, Node010, 004); //if you are getting healed why the heck ask where you are?
-//end killap comment out
       NOption(340, Node014, 004); //added by killap
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
       NOption(143, Node001b, 004);
@@ -971,8 +962,6 @@ procedure Node018 begin
 end
 
 procedure Node019 begin
-   From_19 := 1;
-
    Reply(232);
 
    if( (dude_caps >= 7000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then
@@ -1009,6 +998,7 @@ procedure Node019a begin
       gfade_out(600);
       gfade_in(600);
 
+      From_19 := 1;
       call Node030;
    end
 end
@@ -1035,6 +1025,7 @@ procedure Node019b begin
       gfade_out(600);
       gfade_in(600);
 
+      From_19 := 1;
       call Node030;
    end
 end
@@ -1071,8 +1062,6 @@ procedure Node022 begin
 end
 
 procedure Node023 begin
-   From_23 := 1;
-
    if( dude_is_female ) then
       Reply( mstr(256) + " " + mstr(258) );
    else
@@ -1115,6 +1104,7 @@ procedure Node023a begin
       gfade_out(600);
       gfade_in(600);
 
+      From_23 := 1;
       call Node030;
    end
 end
@@ -1141,13 +1131,12 @@ procedure Node023b begin
       gfade_out(600);
       gfade_in(600);
 
+      From_23 := 1;
       call Node030;
    end
 end
 
 procedure Node024 begin
-   From_24 := 1;
-
    Reply(266);
 
    if( (dude_caps >= 10000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then
@@ -1184,6 +1173,7 @@ procedure Node024a begin
       gfade_out(600);
       gfade_in(600);
 
+      From_24 := 1;
       call Node030;
    end
 end
@@ -1210,6 +1200,7 @@ procedure Node024b begin
       gfade_out(600);
       gfade_in(600);
 
+      From_24 := 1;
       call Node030;
    end
 end
@@ -1237,8 +1228,6 @@ procedure Node026 begin
 end
 
 procedure Node027 begin
-   From_27 := 1;
-
    Reply(285);
 
    if( (dude_caps >= 50000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then
@@ -1275,6 +1264,7 @@ procedure Node027a begin
       gfade_out(600);
       gfade_in(600);
 
+      From_27 := 1;
       call Node030;
    end
 end
@@ -1301,6 +1291,7 @@ procedure Node027b begin
       gfade_out(600);
       gfade_in(600);
 
+      From_27 := 1;
       call Node030;
    end
 end
