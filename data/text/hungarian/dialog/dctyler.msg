@@ -138,7 +138,7 @@
 {702}{}{Dolgom van.}
 {710}{}{Na, visszatért az okostojás! Tényleg be akarsz menni a templomba? Miért? Nincs bent semmi érdekes.}
 {711}{}{Most meg mi a faszt akarsz?}
-{712}{}{You see this mark on my forehead? Let me in. Now!}
+{712}{}{Látod ezt a jelet a homlokomon? Engedj be! Most rögtön!}
 {713}{}{Én vagyok az új kurvája, azért. Ha nem engedsz be most rögtön, biztos lehetsz benne, hogy az elintézendő listája elején találod magad.}
 {714}{}{Figyelj, haver! Metzger megnyúz, ha nem ellenőrzök le mindent gyorsan. Tudod, hogy milyen.}
 {715}{}{Ez nem a te kibaszott dolgod. Ha a Főnök ellenőriztetni akarja ezt a szart, akkor én megcsinálom. Nem kérdezősködöm.}

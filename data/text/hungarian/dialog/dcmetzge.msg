@@ -161,9 +161,9 @@
 {545}{}{Nos, ez }
 {546}{}{Nem is volt olyan nehéz, igaz? Legközelebb ne hibázz. Itt a pénzed, }
 {547}{}{, }
-{548}{}{Come on! $}
+{548}{}{Ugyan már! }
 {549}{}{Ne feledd, vigyázzatok egymásra és csak az ellenséges egyedeket öljétek meg. Itt a pénzed, }
-{550}{}{Only $}
+{550}{}{Csak pénz}
 {551}{}{Akarsz pénzt keresni vagy nem? Kiakasztasz! Mi olyan kibaszott nehéz ebben? Nesze, itt a zsozsód, }
 {552}{}{Mi a franc volt veled? Szart se kerestél. Azért csináljuk az egészet, hogy pénzt keressünk, nem azért, hogy szarakodjunk.}
 {553}{}{Legközelebb jobb leszek.}
@@ -259,4 +259,4 @@
 {1551}{}{ dollár és kifelé!}
 {2540}{}{ dollár.}
 {2543}{}{ dollár.}
-{15401}{}{. Pretty fucking good job, }
+{15401}{}{dollár. Kibaszottul jó munka volt.}

@@ -1,4 +1,4 @@
-{100}{}{You see a drug addict.}
+{100}{}{Egy drogfüggőt látsz.}
 {110}{}{Egy Jet-kurva.}
 {111}{}{Tubby egyik Jet-kurvája.}
 {150}{}{Tubby egyik barátjának látszik. }
@@ -47,7 +47,7 @@
 {271}{}{Tudod mi volt?}
 {272}{}{Szerintem egy madár volt.}
 {273}{}{Nem... egy kutya.}
-{274}{}{But it was flying, man.}
+{274}{}{De ember ez repült!}
 {275}{}{Semmiképpen... látszott, ahogy átsuhan a föld fölött.}
 {276}{}{Te látsz valamit, ember...}
 {277}{}{Nem-nem... Ez bizony igazi volt!}
@@ -98,7 +98,7 @@
 {406}{}{Nem bizsereg tőle a bőröd?}
 {407}{}{Tubbynak van a legjobb ellátmánya a városban.}
 {408}{}{Olyan elevennek érzem magam!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Nem hallottál egy nagy durranást?}
 {421}{}{Egy ideje nem láttam már Tubbyt.}
 {422}{}{Hol van Tubby?}
 {423}{}{Láttad Tubbyt?}

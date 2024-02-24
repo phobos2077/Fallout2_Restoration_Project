@@ -32,10 +32,10 @@
 {179}{}{Sziaszia.}
 {180}{}{Attól tartok, senki. Rejtek olyan hely, ahol anarchia uralkodik és egyfajta darwini kiválasztódás érvényesül. Itt csak a legerősebb, a leggyorsabb vagy a legokosabb marad életben.}
 {181}{}{Öm, köszi.}
-{182}{}{OK. Drugs are the basis for this town's economic system, just as another 
-town may use grain or gold. Redding is another prime example of a town fueled by drugs.
- Damn miners are too high all the time to get any real work done. I have never been there myself,
- but it is a couple days south-east of here if you want to check it out.}
+{182}{}{Oké. A drogok képezik a város gazdaságának alapját épp úgy ahogy más városok esetében a gabona vagy arany.
+Redding egy másik kiváló példa egy város drogoktól hajtva.
+ Azok a kibaszott bányászok mindig inkább be vannak állva mintsem bármi hasznos munkát végezzenek.
+ Én magam sosem jártam ott, de csak néhány nap járásra van inenn dél-kelet felé ha meg akarnád nézni magad.}
 {183}{}{Kösz.}
 {184}{}{Hallottam egy Menedékváros nevű helyről, de hogy hol van pontosan, meg nem tudnám mondani magának. Nálunk nagyon kevesen tudnak elfogadható cserealappal szolgálni a menedékvárosiak által nyújtott egészségügyi ellátás fejében, így a legtöbbünk még soha nem járt ott.}
 {185}{}{Oké. Köszi.}

@@ -17,19 +17,16 @@
 {164}{}{Renden, rendben.}
 {165}{}{Bocsi, nem tudlak. Minden jót!}
 {166}{}{Hohóóó.}
-{167}{}{Oh, hi again. This darn radio isn't going to repair itself. How does
- he expect me to fix it?}
+{167}{}{Nahát, újra erre jártál? Ez a piszok rádió nem fog magától megjavulni! Hogyan is várhatná el tőlem Metzger, hogy helyre pofozzam?!}
 {168}{}{Honnan szerezhetném be az alkatrészeket?}
 {169}{}{Én talán meg tudnám javítani.}
 {170}{}{Hasznát vennéd ennek a rádiónak, amit találtam?}
 {171}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
 {172}{}{Spa pa?}
-{173}{}{I know I can do it, I just need some spare parts. There is an old radio in
- my shack back in Klamath that has exactly what I need. You been to the Dunton's?
- My shack's... well, it was just east of their place.}
+{173}{}{Tudom, hogy semmiség megcsinálni, csak kellene egy-két alkatrész. Van egy régi rádióm Klamathban, a házikóm hátsó részében. Pont olyan, amilyen kell. Ismered a Duntonék üzletét? A házikóm az övékétől keletre áll.}
 {174}{}{Erre a rádióra gondolsz?}
 {175}{}{Megyek és megkeresem!}
-{176}{}{Hmmm... I'll be back.}
+{176}{}{Hmmm... Még visszanézek!}
 {177}{}{Nagyszerű! Pillanatokon belül megjavítom a rádiót!}
 {178}{}{Oké, beszélek Metzgerrel.}
 {179}{}{Kösz.}
@@ -69,25 +66,20 @@
 {450}{}{Honnan szerezted azt a kulacsot?}
 {451}{}{Van egy kulacsom, rajta egy bazi nagy sárga tizenhármassal. Emlékszel még, honnan szerezted?}
 {500}{}{Na, ja! Emlékszem bizony. Ed-től vettem. Ő egy menedékvárosi brahminkupec.}
-{501}{}{Water Flask? Oh, wait. Yea, I had a few dozen of'm. Sold pretty well. I got'm from Ed, a
- brahmin dealer over in Vault City.}
+{501}{}{Kulacs? Óh, várj csak! Ja, van egy jó pár tucattal belőle. Elég jól el lehet passzolni. Ed-től, a menedékvárosi brahminkupectől szereztem.}
 {502}{}{Menedékvárost mondtál?!}
 {550}{}{Abbahagynád ezt a folytonos főnöközést?}
 {600}{}{Hogyne, főnök!}
-{601}{}{I mean it! STOP IT!}
+{601}{}{Azt mondtam, hogy ELÉG!}
 {602}{}{Remélem, ez megteszi.}
 {650}{}{Rendicsek, komám!}
 {651}{}{Úúg!}
 {700}{}{Legyééél a barátom!}
-{710}{}{Would you tell him I can't fix this without the parts. I don't know... wait.
- Who are you? Some new recruit? He didn't send you here to rough me up again did
- he? It's not going to make any difference. I can't fix it here.}
+{710}{}{Megmondanád neki, hogy ezt nem tudom megcsinálni pótalkatrészek nélkül. Hát nem tudom... várj! Ki vagy te? Valami új ember? Ugye azért küldött ide, hogy megint buzeráljon, mint a múltkor? Ettől még semmi nem fog megváltozni! Itt nem tudom megcsinálni!}
 {750}{}{Igazán megtennéd ezt értem? Semmit sem tudok tenni, amíg nem keveredtem ki innen. A gond csak az, hogy Metzger egy rádió megjavítása miatt zárt be ide, és nincsenek meg a szükséges pótalkatrészek.}
 {753}{}{Honnan tudnám előkeríteni azokat az alkatrészeket?}
 {754}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
-{760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
- I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
- he expect me to fix it?}
+{760}{}{Ez egy bonyolult és hosszú történet. Szerintem annyi elég lesz röviden, hogy Metzger itt tart engem, amíg meg nem javítom neki ezt a nyamvadt rádiót. A kristály kiégett, és nincs semmilyen pótalkatrészem. Így hogy a francba várhatja el tőlem, hogy megcsináljam?!}
 {761}{}{Azért jöttem, hogy kiszabadítsalak.}
 {764}{}{Nem tudom. Na, minden jót!}
 {800}{}{Meg kell szerelnem ezt a rádiót. Ha tudnál nekem segíteni ebbe, esetleg tudnánk mire hivatkozni.}
@@ -101,20 +93,20 @@
 {823}{}{Még egyszer megkérdem: hol találom Ed barátodat?}
 {830}{}{Megtenném, ha tudnám, de problémásnak tűnsz. Csak felesleges teher lennék. Most, hogy a Mama meghalt, világgá megyek. Még nem tudom, hova. Talán látjuk még egyszer egymást valamikor. Mindent köszönök, amit értem tettél!}
 {831}{}{Megtenném, ha tudnám, de problémásnak tűnsz. Látszik, hogy csak alig tudod megvédeni magad. Én meg csak púp lennék a hátadon. Majd állok és várok itt, a Mama főztje emlékeztet a volt feleségemére...}
-{832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit... until you can work things out. I haven't had her home cooking for a long time.}
+{832}{}{Szívesen megtenném, de tényleg! Szinte bármit megtennék érted. Csak mostanában nem tűnsz túl jó főnöknek. Én csak konc lennék a nyakadon. Egy kicsit visszanézek a Mamához... Amíg a dolgok tisztázódnak. Már vagy ezer éve nem ettem abból a csodálatos házi kosztból.}
 {833}{}{Sajnálom, főnök. Túl sokan vagytok. Most, hogy a Mama eltávozott, fogom magam és felszívódok. Azt sem tudom még, hogy hova... Egyszer még majd találkozunk valamikor. Köszönök mindent, amit értem tettél!}
 {834}{}{Nem férek be a csapatba, főnök. Itt várok rád, amíg megoldódnak a dolgok. A Mama főztje emlékeztet a volt nejemére... Nem vagyok benne biztos, hogy ez jót vagy rosszat jelent...}
 {835}{}{Én benne lennék, főnök, de szemlátomást kevés hely van nálad. Elmegyek a Mamához. Rég nem voltam már náluk. Majd nézz arra, ha lenne még kiadó hely a csapatodban.}
-{840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not too far from here.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{840}{}{Ed Menedékvárosban lakik. Brahminkereskedő. A számos ellátóim egyike volt. Menedékváros nincs messze innen.}
+{845}{}{Mondtam... itt van, ni! [Vic rámutat egy helyre a PipBoyodon.]}
 {900}{}{Megtudtad, hogy Vic kereskedő.}
 {1000}{}{Meg kell kérdeznem valamit.}
 {1100}{}{Teljesen fel vagyok gyógyulva, főnök. Egyéb teendő?}
 {1200}{}{Majdnem tökéletes formában vagyok, főnök.}
-{1300}{}{I'm mostly healed up, Boss, but I've been better.}
+{1300}{}{Nagyjából be vannak kötözve a sebeim, főnök, de voltam már jobban is.}
 {1400}{}{Próbáltam, főnök, de nem eszik olyan forrón a kását! Megteszek minden tőlem telhetőt.}
-{1500}{}{Whatever you say, Boss.}
-{1501}{}{Here? Right here? Okay, you're the Boss.}
+{1500}{}{Ahogy parancsolja, kedves főnök!}
+{1501}{}{Itt? Pont itt? Rendben, te vagy a főnök.}
 {1502}{}{Oké. Itt maradok, amíg vissza nem jössz, főnök. Ugye vissza fogsz jönni?}
 {1503}{}{Ameddig csak akarod. Én egy tapodtat sem mozdulok innen!}
 {1504}{}{Természetesen, főnök!}
@@ -132,7 +124,7 @@
 {1704}{}{Tapadok, mint a pióca, főnök!}
 {1705}{}{Ha így akarod, főnök.}
 {1706}{}{Óh! Okés, főnök!}
-{1800}{}{OK, I'll keep my distance, but not too far, Boss.}
+{1800}{}{Rendben, tartok némi távolságot, de nem megyek túl messzire, főnök!}
 {1801}{}{Oké, nem fogok, főnök.}
 {1802}{}{Akkor egy kicsit lemaradok, főnök.}
 {1803}{}{Naná, főnök!}
@@ -179,7 +171,7 @@
 {2700}{}{Elég jól ellátták a bajom, főnök! Szerezned kell nekem egy orvost! Nem tudom, hogy valaha tudok-e még segíteni neked...}
 {2701}{}{Orvosra van szükségem, főnök! Elég rosszul nézek ki. Nem tudom, hogy valaha tudok-e még harcolni az oldaladon.}
 {2702}{}{Szépen tropára mentem, főnök! El kell vinned Lennyhez, hogy meg tudjon vizsgálni.}
-{2800}{}{Hey, Boss. You want me to join up with you now?}
+{2800}{}{Hé, főnök! Azt akarod, hogy csatlakozzam hozzád most?}
 {2801}{}{Hé, főnök! Nem okoz gondot, hogy várni kell rád. Nagyon türelmes ember vagyok.}
 {2802}{}{Újra együtt fogunk nyomulni, főnök? Sokkal jobban fogok vigyázni.}
 {2803}{}{Féltem, hogy esetleg sosem fogsz visszajönni. Örülök, hogy újra látlak, főnök!}
@@ -196,7 +188,7 @@
 {3101}{}{Felvehetnék valami mást, főnök? Egy kicsikét aggódom.}
 {3102}{}{Okés! Nem fogsz engem itthagyni... Ugye, főnök?}
 {3103}{}{De... Értem... Természetesen, főnök! Leszakadok.}
-{3200}{}{Well, Boss... I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world... actually, it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
+{3200}{}{Nos, főnök... Elég tűrhetően bánok a kisebb fegyverekkel. Tudok lőni szinte bármilyen puskával, sörétessel, és a legtöbb kis-közepes méretű pisztollyal is. Jól "forgatom" a késeket is. Ezen kívül jól tudok dobni, de célozni már nem annyira... Mondjuk úgy, rettenetesen. Nézd el nekem, főnök! Én tényleg a legjobbat próbálom kihozni magamból.}
 {3201}{}{Ahogy már mondtam, főnök, a kisebb fegyverek kezelésében vagyok leginkább járatos. Rengeteg puskát ismerek - köztük a sörétest is - , a kis és közepes méretű pisztolyok többsége sem okoz gondot. Ha nagyon bajban lennénk, akár a kés vagy egyéb fegyverek dobásával is megpróbálkoznék.}
 {3300}{}{Alap szinten bánok a késekkel és nagyon jól tudok dobni. Mondjuk nem vagyok túl jó célzó. Igazság szerint elég szörnyű. Bocsáss meg, főnök! Minden erőmmel azon vagyok, hogy fejlesszem magam.}
 {3301}{}{Mint már említettem, főnök, forgatom a késeket is és nagyon jól tudok dobni... Csak egy picikét félre...}

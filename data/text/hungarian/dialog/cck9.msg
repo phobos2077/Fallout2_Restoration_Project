@@ -41,7 +41,7 @@
 {140}{}{Nem.}
 {141}{}{Értem.}
 {142}{}{Háááát...}
-{143}{}{You are not my master. I cannot speak to you. Good bye.}
+{143}{}{Te nem vagy a gazdám. Nem beszélek veled. Viszlát!}
 {144}{}{Oké.}
 {145}{}{Üdvözlet, gazdám! Megtaláltad már a motivátoromat?}
 {146}{}{Nem, mi még keresni.}
