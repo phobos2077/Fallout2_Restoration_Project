@@ -15,7 +15,7 @@
 {114}{}{Köszönöm, hogy meghallgattál.}
 {115}{}{Örülök, hogy újra látunk.}
 {116}{}{Jó utat!}
-{117}{}{Why hello! Nice to see a new face around here. My name's Leanne. How are you? Care to sit down?}
+{117}{}{Helló! Jó új arcokat látni a városban. Leanne vagyok. Hogy vagy? Leülsz?}
 {118}{}{Helló! Remélem, jól vagy.}
 {119}{}{Szóval, mesélj nekem a Mesterről!}
 {120}{}{Remek. Hogy mennek a dolgaid?}
@@ -31,7 +31,7 @@
 {136}{}{Igen. Én vagyok a Kiválasztott. Az ősöm mentette meg a világot a Mestertől.}
 {137}{}{Ja. Valószínűsíthető, hogy az ősöm mentette meg a világot a Mestertől.}
 {138}{}{Mennem kell.}
-{139}{}{Uh, okay. Nice to meet you Chosen One... Actually, I've heard something about a master before...}
+{139}{}{Öö. Oké. Örülök, hogy találkoztunk, Kiválasztott... Az az igazság, hogy hallottam valamit a Mesterről...}
 {140}{}{Milyen érdekes. Ez emlékeztet egy régi sztorira a Mesterről.}
 {141}{}{Igazán? Mégis mi az?}
 {142}{}{Mondd el!}

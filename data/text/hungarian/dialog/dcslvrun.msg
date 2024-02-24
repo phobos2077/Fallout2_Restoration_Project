@@ -7,7 +7,7 @@
 {130}{}{Egy rongyos ember.}
 {131}{}{Ez az ember elég erősnek látszik.}
 {140}{}{Egy toprongyos embert látsz.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Sebesen szedi a lábát.}
 {150}{}{Egy piszkos nő.}
 {151}{}{Ez a nő olyan benyomást kelt, mintha sosem fürdött volna életében.}
 {160}{}{Egy jól megtermett nőt látsz.}

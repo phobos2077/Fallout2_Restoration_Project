@@ -42,23 +42,23 @@
 {310}{}{Ez beleillik a képbe. Kösz. Itt a pénzed.}
 {311}{}{Hogyhogy?}
 {312}{}{Nem probléma. Üdv!}
-{320}{}{I've seen caravans from Vault City come in and then some of it gets picked up by caravans from New Reno.}
+{320}{}{Egy Menedékvárosból érkezett karavánt láttam bemenni, aztán a cuccok egy részét New Renóból érkező karavánok vitték el.}
 {321}{}{És? Mi ebben a nagy szám?}
 {322}{}{Ó.}
-{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
+{340}{}{New Reno a drog fővárosa. Ahhoz, hogy drogot csinálhassanak, valahonnan kapniuk kell a nyersanyagot, tiszta? Úgy látszik, hogy részben vagy egészben Menedékvárosból szerzik be.}
 {341}{}{New Reno merre van?}
 {342}{}{Oké, kösz.}
-{350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
+{350}{}{Nem tudom pontosan. Szerintem valahol délen. Még soha nem jártam arra, csak a karavánjaikat láttam egyszer régen... nagyon régen.}
 {351}{}{Ah, oké, kösz.}
 {360}{}{Nem érdekel egy újabb gyors és könnyű kereset? 50 dolcsi? Könnyű pénz.}
 {361}{}{Persze.}
 {362}{}{Fogd rövidre!}
-{370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
+{370}{}{Tudd meg nekem Metzgertől, hogy nem bánja-e, ha Tylerrel lerendezünk egy régi ügyet. Tudni fogja miről van szó.}
 {371}{}{Miért akarod, hogy éppen én kérdezzem meg?}
-{372}{}{If I get a chance.}
+{372}{}{Ha lesz rá módom.}
 {373}{}{Oké.}
 {380}{}{Mert nem akarom, hogy Tyler meglássa bármelyik emberemet, amint ki-be jár Metzgernél. Nem akarok tippeket adni.}
-{381}{}{Don't you get it? If Tyler sees me all of a sudden talking to Metzger he might catch wind of something fishy.}
+{381}{}{Nem érted? Ha Tyler meglátja, hogy hirtelenjében Metzgerrel tárgyalok, megneszeli, hogy bűzlik valami.}
 {382}{}{Meglátjuk.}
 {383}{}{Oké.}
 {390}{}{Szóval, rájöttél, hogy mi van odabenn?}
@@ -76,9 +76,7 @@
 {422}{}{Mi az?}
 {430}{}{Biztosan ki tudsz találni valamit.}
 {431}{}{Oké, mi lenne az?}
-{440}{}{We can't take them at their present strength. They have extra funding
- and slightly outnumber us. If you can find some kind of weakness we could use
- to balance out the odds or something we can exploit...}
+{440}{}{Jelenleg nem volnánk képesek legyőzni őket. Jó a felszerelésük és enyhe számbeli fölényben is vannak. Találj valami gyenge pontot, ami kiegyenlíti az esélyeket vagy amit ki tudnánk használni...}
 {441}{}{Hogyan? Találjak egy gyenge pontot? Mégis, hogy képzeled?}
 {442}{}{Mennyibe?}
 {443}{}{Tekintsd úgy, hogy már el is intéztem!}
@@ -100,7 +98,7 @@
 {492}{}{Oké, mehetünk.}
 {493}{}{Adj egy kis időt, hogy felkészüljek!}
 {494}{}{Szó sem lehet róla! Tartsd meg a pénzed! }
-{500}{}{Okay, but we've got to act soon so don't take too long or we'll ruin our chance.}
+{500}{}{Rendben, de gyorsan kell cselekednünk, szóval ne tartson soká, vagy elcsesszük az esélyeinket!}
 {501}{}{Oké.}
 {510}{}{Nem kell harcolnod. Könnyű pénz.}
 {511}{}{Nos, meggondoltad magad?}
@@ -119,7 +117,7 @@
 {532}{}{Külön köszönet neked!}
 {533}{}{Végre megfizettem Tylernek azért, amit a bátyámmal csinált.}
 {534}{}{Köszönöm még egyszer.}
-{540}{}{Now that Metzger's dead, I don't know what'll happen.}
+{540}{}{Most, hogy Metzger halott, nem tudom, mi lesz.}
 {541}{}{Talán egyszerűen csak fel kéne cuccolni.}
 {542}{}{Hallottad, hogy Metzger meghalt? Nem tudom, mit tegyek most.}
 {543}{}{Mi lesz most Rejtekből? Talán valami jobb.}
@@ -137,7 +135,7 @@
 {577}{}{Aghhh!}
 {590}{}{Azt mondtam, hogy együtt megyünk!  Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
 {591}{}{Azt mondtam, derítsd ki a gyenge pontjukat, nem azt, hogy öldd meg őket!  Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
-{592}{}{Damn it! I told you to ask Metzger, not to kill them! Since no one was there to watch the place, it got ransacked and now Metzger's madder than hell.}
+{592}{}{A francba! Azt mondtam, hogy kérdezd meg Metzgert, nem azt, hogy öldd meg őket! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pokoli dühös!}
 {593}{}{A francba! Megmondtam, hogy ne támadj rájuk! Mivel senki nem vigyázott a cuccra, valaki megfújta és Metzger most pipább, mint valaha!}
 {594}{}{Ó, igen, sajnos mennem kell.}
 {595}{}{Ez szégyen!}

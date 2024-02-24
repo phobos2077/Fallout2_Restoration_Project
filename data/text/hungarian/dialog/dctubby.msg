@@ -23,7 +23,7 @@
 {170}{}{Viszlát!}
 {171}{}{Mit szeretnél tudni?}
 {172}{}{Ki vezeti ezt a várost?}
-{173}{}{Why is everyone selling drugs?}
+{173}{}{Miért árul mindenki drogokat?}
 {174}{}{Tudja, merre van a Menedék?}
 {175}{}{Mégiscsak úgy döntöttem, hogy csereberélnék.}
 {176}{}{Semmi, szia.}

@@ -6,8 +6,8 @@
 {202}{}{Én}
 {203}{}{Hmmm. R-rendben? Nyuszi-puszi, Mama!}
 {220}{}{Már félig kiettél engem a házamból és az otthonomból! Miért nem keresel valami más helyet, ahol egész nap lebzselhetsz? Ma már amúgy is eleget ettél!}
-{221}{}{Well }
-{222}{}{ you sure do look as though you're a mite confused. I hate to see a critter suffer. Want something to eat?}
+{221}{}{Nos, }
+{222}{}{ egy kicsit bizonytalannak tűnsz. Utálom, ha Isten valamelyik jószága szenved. Kérsz valamit enni?}
 {223}{}{Én tele. Mama főzni jól! Viszlát, Mama!}
 {224}{}{Én fizet?}
 {225}{}{Én megy! Viszlát, Mama!}
@@ -89,7 +89,7 @@
 {476}{}{Addig nem fogok segíteni, amíg be nem tartod a szavad.}
 {477}{}{Pattanj hát!}
 {478}{}{Menj, vidd el Smittynek az ételt. Mozgás!}
-{479}{}{Stop your lollygagging and get that meal to Smitty.}
+{479}{}{Elég a fecsegésből! Vidd el Smittynek az ebédjét!}
 {485}{}{Ügyes voltál! Bizonyára alaposan megéheztél. Jutalomból mindent megkapsz tőlem, mi szem-szájnak ingere. Nézd csak, mid van nekem a számodra. Egy tál a legremekebb ételekből.}
 {486}{}{Ez jól hangzik! Nézzük csak!}
 {487}{}{Izé, Mama... Nem hiszem, hogy most annyira éhes lennék, de azért mindesetre kösz! Viszlát!}

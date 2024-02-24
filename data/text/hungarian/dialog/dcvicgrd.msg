@@ -10,7 +10,7 @@
 {231}{}{Na, mi van, beléptél hozzánk, mi? Frankó. Remélem, majd megyünk együtt vadászatra.}
 {232}{}{Tehát miről akarsz beszélni?}
 {233}{}{Ki van bent?}
-{234}{}{About Vic...}
+{234}{}{Vicről, a kereskedőről...}
 {235}{}{Nem panaszkodhatom, köszi.}
 {236}{}{Mennem kell.}
 {237}{}{Wuk?}

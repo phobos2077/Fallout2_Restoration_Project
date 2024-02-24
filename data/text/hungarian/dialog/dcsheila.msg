@@ -44,7 +44,7 @@
 {194}{}{Aha.}
 {195}{}{Nagyszerű!}
 {196}{}{Oké, végeztünk. Szia.}
-{197}{}{That's it?}
+{197}{}{Na, ebből elég!}
 {198}{}{Oké. Szia.}
 {199}{}{Jó volt.}
 {200}{}{Viszla.}

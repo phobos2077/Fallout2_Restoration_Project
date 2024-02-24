@@ -2,12 +2,9 @@
 {101}{}{Metzger, a rabszolga-hajcsárok főnöke.}
 {150}{}{Metzger, a Rabszolga-Céh feje.}
 {200}{}{Ezért megfizetsz!}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
-{211}{}{What the hell do you want, you ugly bitch? This is the Slaver's
- Guild, not some fucking whorehouse.}
-{212}{}{What the hell do you want, bitch? This is the Slaver's Guild, not some
- fucking whorehouse.}
+{210}{}{Mi a faszt akarsz?! Ez a Rabszolga-Céh, nem valami menedék az ilyen kibaszott narkósoknak!}
+{211}{}{Mi a francot akarsz, te ocsmány kurva? Ez a Rabszolga-Céh, nem egy kibaszott kupleráj!}
+{212}{}{Mit akarsz, te kurva? Ez a Rabszolga-Céh, nem egy kibaszott kupleráj!}
 {213}{}{Kezdesz kiakasztani! Most meg mi a fenét akarsz?}
 {214}{}{Na, mi van, a jó életbe?}
 {215}{}{Hogy mondod?}
@@ -39,8 +36,8 @@
 {248}{}{Mi van? Nem érek rá egész nap.}
 {249}{}{Na, lökjed!}
 {250}{}{Talán.}
-{255}{}{I have someone I'd like to sell.}
-{256}{}{About Vic...}
+{255}{}{Van valaki, akit el akarok adni.}
+{256}{}{Vicről, a kereskedőről...}
 {257}{}{Keresek egy kereskedőt.}
 {258}{}{Lara megbízott, hogy kérjek engedélyt tőled Tyler megtámadására.}
 {259}{}{Beléphetek a Céhbe?}
@@ -72,7 +69,7 @@
 {311}{}{Köszönöm. Viszlát!}
 {312}{}{Készen állok.}
 {313}{}{Én ölni MOSTAN!}
-{314}{}{Okey-Dokey.}
+{314}{}{Oké-zsoké.}
 {320}{}{Két emberem egész közel visz a célpontokhoz. A pénzed az általad begyűjtött rabszolgák számától függ, de figyelned kell a többiekre is. Ha valakit megölnek, keményen levonok a fizetségedből.}
 {321}{}{A francba, teljesen kifogytunk. Várni kell, hogy néhány primitív népség visszamerészkedjen a környékre. Lehet, hogy el kéne kezdeni tenyészteni őket.}
 {322}{}{Bocs, de egyszerűen nem váltál be. Túl nagy a veszteség és ez bizony üzlet. Én keresni akarok, nem ráfizetni.}
@@ -91,11 +88,11 @@
 {360}{}{Ó, igen. Egész csinos. Adok érte }
 {361}{}{Ő rendben van. Valószínűleg le tudnám csapni a kezedről némi pénzért. Legyen mondjuk }
 {362}{}{Te hülye állat! Mi a francból gondoltad, hogy vissza akarom kapni ezt a hülyét? Egy örökkévalóságig tartott, amíg megjavította azt a rohadt rádiót. Egy rádiót! Veled marad. Nem akarom, hogy bármit is tönkre tegyen itt.}
-{363}{}{I don't know, this one's pretty skinny... but a smart one? That might be worth something. I'll give you $}
+{363}{}{Hát nem is tudom... ez meglehetősen nyeszlett... okos legalább? Ez még érhet valamit. Kapsz érte }
 {364}{}{Ez egész jó harcosnak látszik. Hmmm... }
 {365}{}{Egy újabb benszülött? Fura egy szerzet... Mindegy, erősnek látszik, és ez a külső önmagában hozhat némi plussz pénzt.  Mit szólnál }
 {366}{}{Mit szólnál valami máshoz?}
-{367}{}{Well, let me ask you another question then.}
+{367}{}{Izé, hadd kérdezzek valami mást akkor.}
 {368}{}{Oké.}
 {369}{}{Rendben.}
 {370}{}{Oké.}
@@ -104,8 +101,7 @@
 {380}{}{Oké fiúk, zárjátok az ólba!}
 {381}{}{Oké fiúk, zárjátok az ólba!}
 {382}{}{Rendben, főnök.}
-{390}{}{Well don't waste my fucking time then. If you ever get someone you're
- looking to part with, come see me.}
+{390}{}{Akkor meg ne herdáld a kibaszott időmet! Akkor gyere vissza, ha eladóvá válik valaki akitől meg akarsz válni.}
 {391}{}{Szeretnék mégvalamit kérdezni.}
 {392}{}{Oké. Viszlát!}
 {400}{}{Mi a franctól izgult be ilyen nagy hirtelen? Egyszer már adtam egy esélyt annak a kurvának. Nem hiszem, hogy elég tökös lenne hozzá, hogy megpróbálja.}
@@ -131,14 +127,14 @@
 {457}{}{Hát, nagy nehezen sikerült megjavítania azt a rohadt rádiót, de ez nem jelenti azt, hogy hagyom ilyen egyszerűen elmenni.}
 {458}{}{Ettől még megpróbált átverni.}
 {459}{}{Találkozhatnék vele?}
-{460}{}{What kind of transmissions are you talking about?}
+{460}{}{Milyen adásokról beszélsz?}
 {461}{}{Oké, kösz.}
 {462}{}{Esetleg egy kis pénz segítene tisztába tenni a dolgokat?}
 {463}{}{Milyen adásokról beszéltél az előbb?}
 {475}{}{Minek? Á, bazmeg, mindegy. Csak ne zavard annak a szaros rádiónak a javításában! Jobb, ha minél előbb kész van vele. A tököm tele van, hogy egy lusta disznót kell etetnem.}
 {476}{}{Miért tartod itt?}
 {477}{}{Kösz.}
-{485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
+{485}{}{Az Enklávé és New... hé! Mi a francért érdekel? Ez üzlet. Biztos akarok lenni abban, hogy senki nem ver át. Ennél többet nem kell tudnod.}
 {486}{}{Törődj a saját dolgoddal!}
 {487}{}{Oké.}
 {495}{}{Bocsi, de ennek ára van. }
@@ -159,17 +155,16 @@
 {531}{}{Jó.}
 {540}{}{Itt van }
 {541}{}{Itt van }
-{542}{}{Good job out there. Here's $}
-{543}{}{Here's your money, }
+{542}{}{Jó munkát végeztetek. Itt a pénzed}
+{543}{}{Itt a pénzed, }
 {544}{}{, }
 {545}{}{Nos, ez }
-{546}{}{It wasn't that tough, now was it? Next time no mistakes. Here's $}
+{546}{}{Nem is volt olyan nehéz, igaz? Legközelebb ne hibázz. Itt a pénzed, }
 {547}{}{, }
 {548}{}{Come on! $}
-{549}{}{Remember, watch each other's backs and only kill the hostile slaves. Here's $}
+{549}{}{Ne feledd, vigyázzatok egymásra és csak az ellenséges egyedeket öljétek meg. Itt a pénzed, }
 {550}{}{Only $}
-{551}{}{You want to make any money or not? You're pissing me off. How fucking
- hard can it be? Now take your $}
+{551}{}{Akarsz pénzt keresni vagy nem? Kiakasztasz! Mi olyan kibaszott nehéz ebben? Nesze, itt a zsozsód, }
 {552}{}{Mi a franc volt veled? Szart se kerestél. Azért csináljuk az egészet, hogy pénzt keressünk, nem azért, hogy szarakodjunk.}
 {553}{}{Legközelebb jobb leszek.}
 {554}{}{Nesze semmi, fogd meg jól...}
@@ -181,12 +176,12 @@
 {573}{}{Nem rossz, nem rossz, lehet, hogy még csinálhatjuk máskor is.}
 {574}{}{A francba! Ez... ez a pénz aztán jó helyre ment!}
 {575}{}{A francba! Te voltál a legjobb segg, akivel valaha dolgom akadt, pedig jó sokan voltak!}
-{600}{}{YOU STUPID FUCK! How dare you abandon your fellow slavers out there? [Spits in your face] KILL HIM!}
+{600}{}{TE OSTOBA FASZ! Hogy merted cserbenhagyni a vadásztársaidat? [Szembe köp] VÉGEZZETEK VELE!}
 {601}{}{De én...}
 {602}{}{Rendben, legyen...}
 {620}{}{Hát, jó látni, hogy sikerült visszatérned.}
 {621}{}{Ja, kemény menet volt.}
-{622}{}{Thanks. Things got a little hairy out there.}
+{622}{}{Kösz. Akadt egy-két gond odakint.}
 {623}{}{Agra Moo ne!}
 {630}{}{Ó, pénzt akarsz? Azt akarod, hogy kifizesselek?}
 {631}{}{Ja.}
@@ -199,7 +194,7 @@
 {652}{}{Jaj...}
 {653}{}{Garaka!}
 {654}{}{Uh... Tank?}
-{670}{}{Oh, I'm sure. This line of work isn't to be taken lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
+{670}{}{Ó, biztos vagyok benne. Ezt a munkát nem lehet félvállról venni. Bizalom és hűség kell hozzá. Vigyázunk egymásra. Ez a helyes hozzáállás, nem gondolod?}
 {671}{}{Valahogy úgy.}
 {672}{}{Izé, mi folyik itt?}
 {673}{}{Feltétlenül.}
@@ -250,11 +245,11 @@
 {1364}{}{ dollár.}
 {1365}{}{ barátoddal?}
 {1496}{}{ dollár.}
-{1540}{}{. Pretty fucking good job.}
+{1540}{}{dollár. Kibaszottul jó munka volt.}
 {1541}{}{ dollár. Jónéhány kemény alakot is elintéztél. Csak így tovább...}
 {1542}{}{ dollár.}
 {1543}{}{. $}
-{1544}{}{ isn't something to laugh at, but you can't make a lot more than that.}
+{1544}{}{ nem olyan dolog, amin röhögni lehet, de másra nincs nagyon lehetőség..}
 {1545}{}{ dollárt ér ezúttal. Egész jó munka volt.}
 {1546}{}{ dollár.}
 {1547}{}{ dollár? Nem rossz.}
