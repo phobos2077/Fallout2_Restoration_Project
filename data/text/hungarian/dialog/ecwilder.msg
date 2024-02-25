@@ -1,4 +1,4 @@
 {100}{}{ÁÁÁIIIIJJJÉÉÉÉÉ!}
 {101}{}{::Sikít::}
-{102}{}{Ecky-Ecky-Ecky!}
+{102}{}{Jajjajj Jajjajj Jajjajj}
 {103}{}{ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍJJJJJJJJ!}

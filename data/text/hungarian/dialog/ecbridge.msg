@@ -17,7 +17,7 @@
 {116}{}{Harry}
 {117}{}{Hakuin}
 {118}{}{Testocles}
-{119}{}{Richard Grey}
+{119}{}{Richard Gray}
 {120}{}{Seymour Heine}
 {121}{}{A kiválasztott!}
 {122}{}{Talán később visszanézek.}
@@ -67,7 +67,7 @@
 {166}{}{Jojó}
 {167}{}{Óh, köszönöm... köszönöm...}
 {168}{}{Honnan tudjam én azt?!}
-{169}{}{Player is disintegrated.}
+{169}{}{Játékos atomjaira szakadt.}
 {170}{}{Hehe.}
 {171}{}{Valami rejtélyes oknál fogva az az érzésem, hogy kéne mentenem egy állást. Mégpedig egy új helyre...}
 {172}{}{mi neked név?}
@@ -78,4 +78,4 @@
 {177}{}{Hmmm... most már komolyan meg kéne fontolnom, hogy autószerelésre adom a fejem.}
 {178}{}{Úgy hallom, abban van manapság a nagy pénz.}
 {200}{}{AAAAAAAHHHHHHHHhhhhhh!}
-{1171}{}{Uh, oh. Me should save game in new slot.}
+{1171}{}{Valami rejtélyes oknál fogva az az érzésem, hogy kéne mentenem egy állást. Mégpedig egy új helyre...}

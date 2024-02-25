@@ -57,7 +57,7 @@
 {156}{}{Igen, kéne. Egyébként vissza kell térnem ehhez a vacakhoz.}
 {157}{}{Várj! Még akarok kérdezni valamit.}
 {158}{}{Köszi. Viszlát!}
-{159}{}{I think I like you enough that I can do it for you now. Who do you want me to visit?}
+{159}{}{Szerintem vagyunk annyira jóban, hogy segítsek neked. Kit látogassak meg?}
 {160}{}{A Hubologistákat.}
 {161}{}{A Shiket.}
 {162}{}{Senkit. Csak tájékozódom.}
@@ -91,7 +91,7 @@
 {190}{}{Megfogtam a Hubologistákat. Nem ügy. Segíthetek bármi egyébben?}
 {191}{}{Igen.}
 {192}{}{Nincs. Üdv!}
-{193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
+{193}{}{Nagy hibát követtél el, haver! A számítógépeken keresztül a Shiket és a Hubologistákat is neked ugrasztottam. Neked véged van, mint a botnak San-Franciscóban.}
 {194}{}{Hát, akkor asszem, most megöllek.}
 {195}{}{Adj néhány órát, hogy összeszedhessem magam!}
 {196}{}{Egy formázott számítógépbe hatoljak be? Az információnak már annyi. Rá nem veszel erre.}

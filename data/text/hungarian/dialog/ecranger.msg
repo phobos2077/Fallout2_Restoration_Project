@@ -21,7 +21,7 @@
 {120}{}{Nem.}
 {121}{}{Nagy kár... Ugyanis mi ÚKK Felderítők vagyunk. Hallottál már rólunk? Igen, mi vadászunk a rabszolga-tartókra.}
 {122}{}{Te, szarzsák! Kapjuk el, fiúk!}
-{123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}
+{123}{}{Üdv, idegen! Mi vagyunk az ÚKK Felderítői. Te ki vagy?}
 {124}{}{Semmi közöd hozzá!}
 {125}{}{Nicsak, én már hallottam ezt a nevet. Felderítő vagy, nemde?}
 {126}{}{Igen.}

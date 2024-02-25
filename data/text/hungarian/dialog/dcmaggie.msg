@@ -6,7 +6,7 @@
 {153}{}{Helló, idegen, és üdvözöllek a báromban. Én Becky vagyok.}
 {154}{}{Helló, a nevem }
 {155}{}{. Mit lehet errefelé csinálni?}
-{156}{}{Hi, I'm }
+{156}{}{Üdv, én }
 {157}{}{. Kérdezhetek pár dolgot?}
 {158}{}{Mama?}
 {159}{}{Mag gah.}

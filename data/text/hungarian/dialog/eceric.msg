@@ -1,4 +1,4 @@
-{100}{}{You see a man.}
-{101}{}{This is Eric.}
+{100}{}{Ez itt egy férfi.}
+{101}{}{Ő Erik.}
 {102}{}{Két félbevágott kókuszt ütöget össze.}
 {103}{}{Kipp! Kopp!}

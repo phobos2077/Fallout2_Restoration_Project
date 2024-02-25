@@ -312,7 +312,7 @@
 {411}{}{No, I don't think so. }
 {412}{}{Great, return when you are done.}
 {413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
-{414}{}{[DONE]}
+{414}{}{[RENDBEN]}
 {415}{}{Return when all is done.}
 {416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
 {417}{}{Wait -- You never said anything about making the villagers your servants.}

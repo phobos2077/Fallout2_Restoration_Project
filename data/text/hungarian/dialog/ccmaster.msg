@@ -3,8 +3,7 @@
 {102}{}{A fickó az erőpáncél különös verzióját viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
 {103}{}{<Skzzzt-spork> - a fegyvertárba!}
 {104}{}{Mi a - <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
- maintenance. Might have a few problems still, so take it easy. Just sign here.)}
+{105}{}{(Áh, szóval az őrmi küldött. Valami új erőpáncél kéne, mi? Szerencséd van, akad egy itt a raktárban. Régebbi verzió, van vele néhány probléma, szóval vigyázz rá! Itt írdd alá!)}
 {106}{}{Öhm... ismételni meg!}
 {107}{}{Azt hiszem, van néhány probléma a páncéloddal.}
 {108}{}{Oké. Megteszem.}
@@ -16,11 +15,11 @@
 {114}{}{Nem.}
 {115}{}{Ki maga? Mit csinál itt?}
 {116}{}{Hogy mondod?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Ühm... új vagyok itt?}
 {118}{}{Kukucs!}
 {119}{}{Ki maga? Mit csinál itt?}
 {120}{}{Hogy mondod?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Ühm... új vagyok itt?}
 {122}{}{Kukucs!}
 {123}{}{Hogy érted ezt? Jól működik, semmi baja. Na, most aláírod azokat a papírokat, vagy nem?}
 {124}{}{Nem értem egy szavadat sem...}
@@ -42,7 +41,7 @@
 {140}{}{Akarni az erőpáncél.}
 {141}{}{Kardhal.}
 {142}{}{Rendben. Egység?}
-{143}{}{Arroyo.}
+{143}{}{Arroyo}
 {144}{}{Nem.}
 {145}{}{Inkább mennék.}
 {146}{}{42.}
@@ -56,7 +55,7 @@
 {154}{}{Kardhal.}
 {155}{}{Arroy... Várj egy percet! Én már jártam ott. Egy rohadt nomád vagy! Őrség!}
 {156}{}{Nézd, te balfasz bohóc, ne csináld a balhét, különben felküldöm a fegyelemsértő seggedet az őrmihez! Csak válaszolj a kérdésre!}
-{157}{}{Arroyo.}
+{157}{}{Arroyo}
 {158}{}{42.}
 {159}{}{Jól van! Menj fel az őrmesterhez! Majd ő lecsukat. Lelépni!}
 {160}{}{A 42-esek, mi? Jó egység. Itt van a felszerelésed. Lelépni!}
@@ -80,7 +79,7 @@
 {178}{}{Jól van.}
 {179}{}{Baszd meg!}
 {180}{}{Jól van, fiam. Rendben. Egységed?}
-{181}{}{Arroyo.}
+{181}{}{Arroyo}
 {182}{}{Nem.}
 {183}{}{Inkább mennék.}
 {184}{}{42.}

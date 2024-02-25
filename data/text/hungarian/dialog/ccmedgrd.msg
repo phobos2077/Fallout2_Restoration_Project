@@ -11,7 +11,7 @@
 {110}{}{Megtámadtak bennünket! Riadó!}
 {111}{}{Behatolók! Riadó!}
 {112}{}{Biztonsági riadó! Zárjátok le a bázist!}
-{113}{}{Secure all stations! We're on alert!}
+{113}{}{Helyezzétek biztonságba az állomásokat! Riadó!}
 {114}{}{Behatolók! Vörös kód!}
 {115}{}{Szétalázunk!}
 {116}{}{Az Enklávé lesz a világ ura!}

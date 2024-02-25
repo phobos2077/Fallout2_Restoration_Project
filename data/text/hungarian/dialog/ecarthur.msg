@@ -3,7 +3,7 @@
 {102}{}{Lenn van a slicce...}
 {103}{}{Üdv néktek, utazók! Arthur vagyok, Uther Pendragon fia, az Acél Testvériségének tagja. A Szent Antiókiai Kézigránát nyomában járunk. Láttátok vala?}
 {104}{}{A szent miatúrót keresed?}
-{105}{}{Player Response}
+{105}{}{Játékos Válasza}
 {106}{}{Unga.}
 {107}{}{Nincs idő a beszédre! Szent küldetésben járunk.}
 {108}{}{A Szent Antiókiai Kézigránát nyomában járunk.}
@@ -13,11 +13,10 @@
 {112}{}{Figyelmeztetlek! Csak semmi meggondolatlan mozdulat!}
 {113}{}{Na, ami sok az sok!}
 {114}{}{A Szent Antiókiai Kézigránát a létező legjobb kézből használatos, élőerőt pusztító harci eszköz a maga nemében.}
-{115}{}{Why do you search for such a terrible weapon?}
+{115}{}{Miért keresitek ezt a szörnyű fegyvert?}
 {116}{}{Mi, az Acél Testvériségének tagjai azt a célt tűztük ki magunk elé, hogy megleljük őseink leghatásosabb fegyverét és eltüntetjük azok elől, akik csak visszaélnének az Antiókiai Szent Kézigránát erejével.}
 {117}{}{Miért?}
-{118}{}{Well... because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
- this thing could really hurt someone.}
+{118}{}{Hát... azért mert az Acél Testvériségének az a dolga, hogy a gyengéket és védteleneket oltalmazza, és az a vacak könnyen megsebesíthet valakit.}
 {119}{}{Miért?}
 {120}{}{Ööö... mert ezt diktálja a jó erkölcs.}
 {121}{}{Miért?}
@@ -26,8 +25,8 @@
 {124}{}{Nem.}
 {125}{}{Akkor miért nem ezzel kezdted? Ha elmondod, merre van, itthagyunk, és mehetsz a dolgodra!}
 {126}{}{[A hasadra ütsz, és elmutatsz valamerre...]}
-{127}{}{Right then. Thank you for your help. Something for your trouble.}
-{128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
+{127}{}{Jól van. Köszönjük a segítséget. Itt van valami a segítségért...}
+{128}{}{Várjatok! Én is egy küldetést teljesítek. A szent ÉLET-et keresem. Láttátok valahol?}
 {129}{}{Na, jó, nincs sok értelme, hogy folytassuk ezt a beszélgetést. Útnak indulunk.}
 {130}{}{[Befejezés]}
 {131}{}{Mocskos paraszt!}

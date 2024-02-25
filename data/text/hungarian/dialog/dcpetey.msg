@@ -1,4 +1,4 @@
-{100}{}{You see a drug addict.}
+{100}{}{Egy drogfüggőt látsz.}
 {101}{}{Petey.}
 {150}{}{This here is a poor drug addict.}
 {151}{}{Peteyre aztán ráférne egy kis segítség.}

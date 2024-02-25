@@ -57,7 +57,7 @@
 {202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
 {203}{}{Fine, goodbye.}
 {204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
-{205}{}{[DONE]}
+{205}{}{[RENDBEN]}
 {206}{}{Help! We have a thief on our hands here.}
 {207}{}{}
 {208}{}{What the!? Who the hell are you?}

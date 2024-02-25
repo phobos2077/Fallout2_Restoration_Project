@@ -4,7 +4,7 @@
 {103}{}{Ő Tandi. Álmodozva a távolba réved.}
 {104}{}{Üdv! Szóval te vagy a Fallout 1 hősének a leszármazottja? Nem semmi. Én Tandi vagyok! Szia!}
 {105}{}{Nem akartam kifecsegni, de a nagyapád nagyon aranyos volt! *Sóhajt*}
-{106}{}{Ian? I think he's still in Fallout 2 somewhere. Vault City, maybe?}
+{106}{}{Ian? Azt hiszem, még mindig itt van a Fallout 2-ben valahol. Menedékvárosban talán?}
 {107}{}{Tulajdonképpen azt hallottam, hogy *én magam is* a Fallout 2-ben vagyok valahol. De nem akarom megkeresni magam... mindkettőnket halálra rémítene a találkozás.}
 {108}{}{Sajnálom, hogy a harc terén nem voltam elég képzett a Fallout 1-ben. Nem sokat járok a nagyvilágban.}
 {109}{}{Mondd csak... te és Tycho szoktatok még találkozni?}

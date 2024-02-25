@@ -1,4 +1,4 @@
-{100}{}{You see a nomad.}
+{100}{}{Egy nomádot látsz.}
 {101}{}{Helló, újnak látszol a környéken.}
 {102}{}{A főnökkel kellene beszélned.}
 {103}{}{Azt hiszem, ma nincs olyan forróság, mint tegnap.}

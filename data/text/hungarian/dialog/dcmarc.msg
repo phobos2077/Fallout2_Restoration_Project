@@ -2,7 +2,7 @@
 {101}{}{Egy őrt látsz, akit Marcnak hívnak.}
 {102}{}{Marcot látod. Tyler egyik őrét.}
 {150}{}{Hé, Tyler!}
-{200}{}{What the...?}
+{200}{}{Mi a...?}
 {225}{}{Kösz a tippet. Jót mulattunk.}
 {226}{}{Tudtam, hogy elbánunk azokkal a nyápicokkal.}
 {227}{}{Kár, hogy mindet kinyírtuk. Most mit csináljunk?}

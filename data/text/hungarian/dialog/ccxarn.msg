@@ -114,5 +114,5 @@
 {800}{}{Megölted Xarn-t.}
 {810}{}{Kiszabadítottad Xarn-t.}
 {820}{}{Xarn csatlakozott hozzád.}
-{900}{}{No. Me here rescue you. Really. Me already open door for leave. You go.}
-{901}{}{Look, I really am here to rescue you! I already unlocked the other door. You are free to leave.}
+{900}{}{Nem. Én lenni itt, hogy kivigye tégedet! Én nyitottam ajtó menni. Te megy.}
+{901}{}{Nézd én tényleg azért vagyok itt, hogy megmentselek. Már ki is nyitottam a másik ajtót. Szabadon távozhatsz.}

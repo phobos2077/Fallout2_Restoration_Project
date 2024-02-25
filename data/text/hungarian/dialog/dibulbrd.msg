@@ -8,7 +8,7 @@
 {205}{}{Bárok & Szerencsejátékok}
 {206}{}{Kajálda}
 {207}{}{Üzletek}
-{225}{}{The Slaver's Guild is the best and only supplier of slaves in the wastes.}
+{225}{}{A Rabszolga-Céh az egyetlen és legjobb rabszolga-ellátó az egész pusztaságban.}
 {250}{}{Állásért, vásárlásért és eladásért, beszélj Metzgerrel!}
 {275}{}{A Rabszolga-Céh a város keleti felében található, Becky és Frankie bárjain túl.}
 {300}{}{A megnőtt kereslet miatt jelen pillanatban nem adnak el magánembereknek.}
@@ -23,7 +23,7 @@
 {475}{}{A Mama étterme egyedülálló Rejtekben. A város keleti felén, délre a Rabszolga-Céhtől megtalálod.}
 {500}{}{[Úgy tűnik, valaki megpróbálta felgyújtani. Egyik hirdetés sem olvasható.]}
 {525}{}{[Három üzlet hirdetését olvashatod.]}
-{550}{}{Tubby sells all sorts of items, but primarily drugs and ammo.}
+{550}{}{Tubby mindent árul, de legfőképp drogokat és lőszert.}
 {575}{}{Tubby a hirdetőtáblától nyugatra található. Ahogy belépsz a városba, az első épület jobbra.}
 {600}{}{Flick számtalan cuccot árul az "irodájában". A hely innen egyenesen délre van.}
 {625}{}{Smitty a helyi szerelő. Néha elad egy-két dolgot.}

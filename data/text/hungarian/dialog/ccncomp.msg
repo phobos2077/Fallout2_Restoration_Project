@@ -1,6 +1,6 @@
 {100}{}{Egy számítógépet látsz.}
 {101}{}{Egy számítógépet látsz.}
-{102}{}{You see the central computer for Navarro.}
+{102}{}{A navarrói bázis központi számítógépét látod.}
 {103}{}{Kérem, adja meg a jelszót!}
 {104}{}{Csacsifül.}
 {105}{}{Elfelejteni...}
@@ -23,7 +23,7 @@
 {122}{}{Jól van. Hol találom a szervízt?}
 {123}{}{Keresés... Bázis-tervrajzok... Adat letöltve. A szervíz a bázis felső szintjén található az észak-keleti negyedben.}
 {124}{}{Kösz.}
-{125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
+{125}{}{Keresés... Földrajzi adatok... Adat letöltve. A főparancsnokság a Csendes-óceánon található 175 tengeri mérföldre a kaliforniai partoktól. Koordináták: Északi szélesség 37,18'' Nyugati hosszúság 120,7''.}
 {126}{}{Mi szart ez jelenteni?}
 {127}{}{Mi a szart jelent ez?}
 {128}{}{Keresés... Szleng szótár... Információ feldolgozva. Ez négy dolgot jelent:

@@ -1,6 +1,6 @@
 {100}{}{Egy gengsztert látsz.}
 {101}{}{Nocsak, nocsak... mit találtunk?}
-{102}{}{Simple travelers, eh? Ain't no such thing. You need help with any of your valuables? }
+{102}{}{Egyszerű utazók, mi? Olyan nincs. Nincs szükséged segítségre valamelyik értéktárgyaddal kapcsolatban?}
 {103}{}{Vigyázz, merre mászkálsz Reno körül, különben bajod eshet! Ne kerülj az utamba!}
 {104}{}{Helló, }
 {105}{}{ dollár.}

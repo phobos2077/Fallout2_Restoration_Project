@@ -15,7 +15,7 @@
 {114}{}{Taníts!}
 {115}{}{Köfönömm.}
 {116}{}{Tanulni akarsz? Megvan, ami kell hozzá? Na, lássuk csak...}
-{117}{}{[DONE]}
+{117}{}{[RENDBEN]}
 {118}{}{Miért is kéne téged tanítanom? Túlságosan öntörvényű embernek látszol. Tűnj innen!}
 {119}{}{Mi a... ?}
 {120}{}{Ó, te szerencsétlen... nem akarok beszélni veled. Eridj innen!}
@@ -25,7 +25,7 @@
 {124}{}{Micsoda? Te gonosz ember vagy akkor?}
 {125}{}{Értem. Hadd kérdezzek még egy-két dolgot.}
 {126}{}{Gonosz? Aligha. Csak ravasz. Ha problémád van azzal, ha ennyire aggaszt a nép sorsa, eridj, beszélj a Sárkánnyal! Ő szereti a hozzád hasonló szenvelgő puhányokat.}
-{127}{}{[DONE]}
+{127}{}{[RENDBEN]}
 {128}{}{Igen, azt kéne. Sőt azt is teszem. Sajnos a Sárkány az utamban áll. Túlságosan kiegyenlítettek a harci képességeink. Szükségem van egy képzett emberre, aki segítene nekem.}
 {129}{}{Én elvállalom.}
 {130}{}{Értem. Hát... talán inkább kérdeznék valami mást.}
@@ -52,7 +52,7 @@
 {151}{}{Ez érdekes. Bizonyára kifizetődő. Kérdezhetek még?}
 {152}{}{Köszönöm. Viszlát!}
 {153}{}{Lehet, hogy egy söpredék vagyok, de azt sosem fogják rámfogni, hogy nem állok ki a népemért. Mielőtt meghalnál, fájdalmat fogok okozni neked.}
-{154}{}{[DONE]}
+{154}{}{[RENDBEN]}
 {155}{}{Akkor viszont eszetlen bolond vagy, hogy mások ugráltatnak. Nevetni fogok, amikor meghalsz.}
 {156}{}{[Attack now, with armor and weapons.]}
 {157}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
@@ -60,9 +60,9 @@
 {159}{}{[Attack now, with armor and weapons.]}
 {160}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
 {161}{}{Beee, birka, beee! Menj vissza a palástba burkolt barátaidhoz! Nincs mit mondanom számodra.}
-{162}{}{[DONE]}
+{162}{}{[RENDBEN]}
 {163}{}{Nem mondtam volna, hogy a morális aggályaiddal a Sárkányt boldogítsd? Ő majd fogja a kezed. Én nem. Most pedig távozz!}
-{164}{}{[DONE]}
+{164}{}{[RENDBEN]}
 {165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
 {166}{}{Igen. Most azonnal.}
 {167}{}{Ez nem igazán az én harcom.}

@@ -37,7 +37,7 @@
 {136}{}{Igen.}
 {137}{}{Nem. Az elmúlt hónapokban egy életre való teszten mentem keresztül.}
 {138}{}{Nem hinném, hogy az Uralkodó látni szeretné magát. Azt az utasítást kaptam, hogy tagadjam meg a belépést az illetlen és a gonosz lelkületű emberektől. Magára mindkettő ráillik, utazó. Minden jót!}
-{139}{}{[DONE]}
+{139}{}{[RENDBEN]}
 {140}{}{Az inzultusok sehova sem vezetnek, utazó, legfeljebb rövid úton eltávolítjuk az Acél Palotából. Kérem, vigyázzon tehát a nyelvére!}
 {141}{}{Rajta csak!}
 {142}{}{Rendben.}
@@ -55,7 +55,7 @@
 {154}{}{Valóban nem. A rendes nevem }
 {155}{}{Ennél több névre nincs szüksége, vénember!}
 {156}{}{Ez lehetetlen. Minden jót!}
-{157}{}{[DONE]}
+{157}{}{[RENDBEN]}
 {158}{}{Ennél azért többet is mondhatna. Tudom, hogy működik az "üzlet". Voltam már New Renóban korábban.}
 {159}{}{Oké, a nevem }
 {160}{}{Ez az igazi nevem! Most pedig hadd beszéljek az Uralkodóval!}

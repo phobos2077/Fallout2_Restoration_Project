@@ -67,7 +67,7 @@
 {164}{}{Megiszom.}
 {165}{}{Elteszem. Majd később hasznát vehetem...}
 {166}{}{Hoppá! Valamiféle toxikus gőz fejlődik! Egy szippantástól kifekszel. Nagyon szarul érzed magad.}
-{167}{}{[DONE]}
+{167}{}{[RENDBEN]}
 {168}{}{Ez a szer hatásosnak tűnik. Mit teszel vele?}
 {169}{}{Megiszom.}
 {170}{}{Elteszem későbbre.}
@@ -81,7 +81,7 @@
 {178}{}{Elfintorodsz az íze miatt, majd, ahogy halad lefelé, észreveszed, hogy éget a folyadék. Au! AU! AUUU!! Szétroncsolja a beleidet! }
 {179}{}{Kicsit kesernyés, de leerőszakolod. Különös, de jobban érzed magad tőle.}
 {180}{}{Ááá, Mi a fene?! A kinézete ellenére felhajtod a ronda löttyöt. Azonnal elkezdesz köpködni és gurgulázni. Szép adag sugárzást kaptál!}
-{181}{}{[DONE]}
+{181}{}{[RENDBEN]}
 {182}{}{Na, jó... rendben. Emlékezve arra, mi mindent ittál még kisgyermek korodban, lehúzod az üveg tartalmát. Amint leér a folyadék, a gyomrod összerándul. Úgy érzed magad, mintha épp most csípett volna meg egy radskorpió.}
 {183}{}{Hé, ez pont olyan, mintha víz lenne, szóval legalább olyan jó is, nem? Amint lenyeled, érzed, hogy nagyot hibáztál. Ez ÉGET! Nagyon nagyon sokáig fáj.}
 {184}{}{Egy kicsit ebből, egy kicsit abból... egy pillanat... miért füstöl az üveg... mit csináltam rosszul? Ó, NE! Az üveg az arcodba robban!}

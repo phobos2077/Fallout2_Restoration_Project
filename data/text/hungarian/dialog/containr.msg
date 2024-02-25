@@ -102,17 +102,17 @@
 {202}{}{ nem tudta hatástalanítani a csapdát.}
 {203}{}{Úgy néz ki, a konténer be van zárva.}
 {204}{}{Észreveszel egy csapdát a konténeren.}
-{205}{}{ notices a trap on the container jamb.}
+{205}{}{ észrevesz egy csapdát a konténeren.}
 {206}{}{Nem tudsz csapdát helyezni a konténerre, mert az nyitva van.}
 {207}{}{ nem tud csapdát helyezni a konténerre, mert az nyitva van.}
 {208}{}{Tökéletes csapdát helyeztél a konténerre.}
 {209}{}{Nem tudod rendesen felszerelni a csapdát a konténerre.}
 {210}{}{ tökéletes csapdát helyezett a konténerre.}
 {211}{}{ nem tudta rendesen felszerelni a csapdát a konténerre.}
-{212}{}{You see a refrigerator.}
+{212}{}{Hűtőszekrény.}
 {400}{}{Kinyitottad a konténert.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{601}{}{Ez nyitva van butus.}
+{610}{}{Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
+{611}{}{ Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
+{620}{}{A felismerhetetlenségig elhajlítottad a feszítővasat. Használhatatlanná vált.}
+{621}{}{ A felismerhetetlenségig elhajlítotódott a feszítővas. Használhatatlanná vált.}

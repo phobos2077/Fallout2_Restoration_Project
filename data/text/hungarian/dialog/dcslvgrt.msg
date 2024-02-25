@@ -12,12 +12,12 @@
 {219}{}{Feltennék még egy kérdést.}
 {220}{}{Kösz, úgy lesz.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Öhm... oké.}
 {230}{}{Most meghalsz!}
 {240}{}{Hülyéskedsz velem?! Rabszolgákat ejtünk foglyul és adunk el. Te is ezért vagy itt, nem? Akciót akarsz már, nemde?}
 {241}{}{Hülyéskedsz velem?! Rabszolgákat ejtünk foglyul és adunk el. Ha nem ezért jöttél, akkó minek?}
 {242}{}{Szóval te is beléptél... Ez érdekes lesz. Ha szereted az izgalmakat, jó munkát választottál. Ha nem, akkor nem fogsz sokáig élni.}
-{243}{}{I never thought I would see that tat on a woman. It looks good though. Surprised Metzger... fuck it. So what do ya need?}
+{243}{}{Nem gondoltam volna, hogy ezt a tetkót nőn is látni fogom valaha. Egyébként jól néz ki. Csodálkozom, hogy Metzger... na, mindegy, faszt se érdekel. Szóval mi kőne?}
 {244}{}{Mi kell?? Eltévedtél vagy mi?}
 {245}{}{Helló, kishölgy. Mi kéne, ha volna?}
 {246}{}{Hogy mondod?}
@@ -64,13 +64,13 @@
 {332}{}{Mondd el, mielőtt lyukat csinálok a fejedbe!}
 {333}{}{Megértem. Kérdeznék még valamit.}
 {334}{}{Oké, viszlát!}
-{340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
-{341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
+{340}{}{Ide figyelj, te kis szarkupac, ne merj megfenyegetni se engem, se mást a céhből, különben halott ember vagy! Fogtad? Halott!}
+{341}{}{Ide figylej, te kis picsa, ne merj megfenyegetni se engem, se mást a céhből, különben halott ember vagy! Fogtad? Halott!}
 {342}{}{Na, te kis Jetes, most meghalsz!}
 {343}{}{Csesszék meg a hülyeségüket!}
 {344}{}{Bocsánat, kérlek, ne bánts!}
 {345}{}{Ja, persze. Most az egyszer életben hagylak.}
-{350}{}{Oh, really? Maybe I should just blow a hole through your head right here 'n now. What do you think, hot shot?}
+{350}{}{Valóban? Valszeg itt helyben lyukat kéne durrantanom a fejedbe. Mit szólsz az ötlethez, nagyfiú?}
 {351}{}{Hozz ki magadból mindent!}
 {352}{}{Ne nevettes!}
 {353}{}{Csak vicceltem, ember.}
@@ -86,7 +86,7 @@
 {384}{}{Kérdeznék még.}
 {385}{}{Kösz, úgy lesz.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Öhm... oké.}
 {400}{}{Nem, de én megkérdezném helyedben a főnököt. Ő már biztosan járt ott.}
 {401}{}{Kérdeznék még.}
 {402}{}{Oké, rendben. Viszlát!}

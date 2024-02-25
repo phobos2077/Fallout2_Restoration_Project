@@ -95,8 +95,7 @@
 {194}{}{Sajnálom, nem.}
 {195}{}{Én segít.}
 {196}{}{Igen, segítek neked.}
-{197}{}{You must be the person who saved my daughter. I can never repay you for your kindness. Thank you.
- Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
+{197}{}{Te lehetsz az az ember, aki megmentette a lányomat. Soha nem leszek képse visszafizetni a kedvességedet. Kérlek, várj meg itt, beszélnem kell Chrissy-vel, utána veled is szeretnék szót váltani.}
 {198}{}{Megmentetted a lányomat. Soha nem leszek képes visszafizetni a kedvességedet. Kérlek, várj meg itt, beszélnem kell Chrissy-vel, utána veled is szeretnék szót váltani.}
 {199}{}{Oké.}
 {200}{}{A lányom mindent elmondott. Nagyon nehéz elhinni, hogy Darion ilyen szörnyeteg, azok után, amit értünk tett. És arra is nagyon nehéz gondolni, hogy mi segítettünk neki elrejteni a rablóbandája ügyködésének nyomait. Biztosíthatlak, hogy többé nem fogjuk védeni őket. Már beszéltem Zekével, és látni akar. Beszélned kellene vele, most azonnal.}

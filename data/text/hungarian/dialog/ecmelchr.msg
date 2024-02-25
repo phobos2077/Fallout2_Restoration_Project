@@ -9,7 +9,7 @@
 {1000}{}{SAHUHÉÉJ!}
 {1001}{}{A karmos állatkáim majd elintéznek.}
 {1002}{}{Karmoskáim, támadás!}
-{1010}{}{ABADABRA!}
+{1010}{}{ABRAKA DABRA!}
 {1011}{}{Melchior tüzes állatkákat kreál, hogy elégesse az embert.}
 {1012}{}{Pörkölgessetek oda az EM-BER-NEK!}
 {1020}{}{ZIMZOWY!}

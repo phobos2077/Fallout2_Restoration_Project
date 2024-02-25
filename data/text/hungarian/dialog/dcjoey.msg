@@ -15,7 +15,7 @@
 {162}{}{Elloptál egy medált a kísértetjárta házból?}
 {163}{}{Semmit. Felejtsd el.}
 {164}{}{Ejtsük a témát! Inkább megöllek most, a részeket meg majd később átvizsgálom.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Nem tudom, miről beszélsz.}
 {166}{}{Szerintem te voltál! Elloptad egy halott lány medálját, ezért nem tud nyugodni a szelleme.}
 {167}{}{Akkor elveszem erővel!}
 {168}{}{E-Ez k-kurva nagy hülyeség! N-Neked t-tényleg megártott a Tubby-féle szar anyag. Én még s-soha nem l-láttam szellemeket ott. CS-Csak egy kellemetlen képfoszlány volt, kurvára nem igazi.}
@@ -107,11 +107,10 @@
 {254}{}{Felejtsük el! Kérdezhetek valamit?}
 {255}{}{Oké, megveszem.}
 {256}{}{Mindegy. Viszlát!}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Menedék... Menedék... 13-as Menedék? Nem, sosem hallottam róla. Nehogy azt mondd, hogy egy új droggal jelentek meg! Semmi sem jobb a Jetnél!}
 {258}{}{Nem, te hülye.}
 {259}{}{Nem, ez egy lakóhely. Kérdezhetek valami mást?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Bizony, az egy csodálatos drog!}
 {261}{}{Nem, viszlát!}
 {262}{}{Joey nem egy kimondottan társalgós típus.}
 {300}{}{Valószínűleg nem. Csá.}

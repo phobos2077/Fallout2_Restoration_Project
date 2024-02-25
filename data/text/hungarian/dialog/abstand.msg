@@ -1,4 +1,4 @@
-{100}{}{You see a man.}
+{100}{}{Ez itt egy férfi.}
 {101}{}{You see a woman.}
 {102}{}{He is a citizen of the Abbey.}
 {103}{}{She is a citizen of the Abbey.}

@@ -26,7 +26,7 @@
 {125}{}{"Csacsifül" a barátnőm beceneve. Szerintem kedves. Ő az az őr, aki kint áll a terem mellett.}
 {126}{}{Oké, jó. Köszönni.}
 {127}{}{Ja... kedves. Köszönöm.}
-{128}{}{You're out of uniform. }
+{128}{}{Nincs rajtad egyenruha.}
 {129}{}{Jobb lenne, ha felöltöznél. A fegyvertár a terem végén van balra.}
 {130}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
 {131}{}{Kik ezek a fickók?... Behatolók! Riadó!}
