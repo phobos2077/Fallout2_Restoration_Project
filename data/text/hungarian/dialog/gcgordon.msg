@@ -13,7 +13,7 @@
 {124}{}{Mit is mondtál Gordon, mit csinálsz itt?}
 {125}{}{Szép sorban beugrom az összes barátomhoz. Örülök, hogy láttalak. Legközelebb is jövök.}
 {130}{}{Lehetőségek után kutatok.}
-{131}{}{Opportunities? Like what?}
+{131}{}{Miféle lehetőségek után?}
 {135}{}{Keresem a módját, hogyan tudnám magam a lehető legértékesebbé tenni.}
 {136}{}{Hmm, eléggé úgy hangzik, mint a kapzsiság.}
 {140}{}{Kapzsi vagyok. Sajnos a legtöbb ember félreértelmezi a kapzsiságot. A kapzsiság erős mozgatórugó. A történelem során az emberiség legnagyobb találmányait olyan embereknek köszönhetjük, akik egyre jobb pozíciókba törekedtek. Kapzsiság hajtotta őket. A kapzsiság, lévén nincs jobb szó rá, jó dolog.}
@@ -56,14 +56,13 @@
 {282}{}{Rendben, átveszem a lemezt. Biztos vagyok benne, hogy jó kezekbe kerül majd. Még találkozunk.}
 {290}{}{Hm... nem tartok igényt a segítségedre! Te csak egy törzsbéli vagy.}
 {291}{}{Hát nem hinném, hogy csak Menedékvárosban élnek korlátolt emberek, Gordon fiam. Na, ég veled.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{Az atomerőművünk még mindig csak pislákol. Úgy tűnik, még nem vitted el az információt Menedékvárosba.}
 {301}{}{Nem hinném, hogy Menedékvárosban túlságosan fogékonyak lennének a ghoul forrásból származó adatokra.}
 {302}{}{Nem, valóban nem, de ami késik, nem múlik. Viszlát!}
-{303}{}{Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power
- plant is still barely operational and needs to be fixed.}
-{304}{}{I will get right on it. Goodbye.}
-{305}{}{Yeah, maybe some other time.}
+{303}{}{Elvinni azokataz adatokat Menedékvárosba csak egy a sok minden közül amit meg kell tenni.
+ Az atomerőművünk még mindig épphogy működőképes és javítást igényel.}
+{304}{}{Rögvest nekiesek, seriff. Viszlát!}
+{305}{}{Meggondoltam magam. Talán máskor.}
 {310}{}{Köszönjük, hogy megjavítottad az erőművet. A jó öreg Gordon tervei jól haladnak. A kapzsiság csodálatos dolog. Büszke lehetnél, hogy részese vagy.}
 {311}{}{A kapzsiság valóban jó dolog, Gordon. Nekem is vannak saját terveim, amiket véghez kéne vinni. Viszlát!}
 {320}{}{Végünk. Végünk. Most már senki nem menthet meg minket. Menj el!}

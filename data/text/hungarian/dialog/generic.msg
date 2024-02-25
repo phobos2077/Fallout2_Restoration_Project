@@ -40,11 +40,11 @@
 {920}{}{Véletlenül rábukkansz Nagor maradványaira, aki meghalt, mikor meg akarta menteni a kutyáját. }
 {921}{}{Nagor meghalt, amikor vissza akarta vinni a kutyája testét a faluba.}
 {930}{}{Vaúúúúúúúú!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Egy kicsit gyakorlod a mozgásokat. A pusztakezes harci képességed 5%-al nő.}
 {951}{}{A harcoló vakondpatkány kileheli a lelkét.}
 {952}{}{A harcnak vége.}
 {1000}{}{Sikerült a Polgársági teszted.}
-{1001}{}{You reported the Jet addiction of Redding to McClure.}
+{1001}{}{Jelentetted Redding Jet-függőségét McClure-nek.}
 {1002}{}{Mostantól szabadon kereskedhetsz Reddinggel.}
 {1003}{}{Kikapcsoltad az erőtereket. }
 {1004}{}{Betörtél a számítógépbe.}

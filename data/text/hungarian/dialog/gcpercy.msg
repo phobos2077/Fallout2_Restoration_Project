@@ -8,7 +8,7 @@
 {107}{}{Hótbiztos, hogy nem akarol segíteni az öreg Percynek? Hótbiztos ám, hogy elkőne a segíccség.}
 {108}{}{Hát ezt még jobban át kéne gondolnom. Addig is van valami cserealapja?}
 {109}{}{Hát akkor miért nem mondja el még egyszer, miről van szó?}
-{110}{}{I didn't know you were going to pester me about that every time I came in. Sheesh. Goodbye.}
+{110}{}{Nem gondoltam volna, hogy akárhányszor bejövök, ezzel fog zaklatni. Elképesztő. Na, ég áldja!}
 {111}{}{Nem talá'tad még meg Woodyt? Kezdek naon aggoda'maskodni. Még sosem az életbe' nem vót távol ilyen sokára.}
 {112}{}{Sajna, még nem, de nem adtam fel. Van valamije, amit fel tudna ajánlani cserealapként?}
 {113}{}{Nem, még nem. Asszem, jobb, ha indulok is és folytatom a keresést.}

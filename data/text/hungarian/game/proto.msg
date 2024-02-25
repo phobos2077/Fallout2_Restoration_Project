@@ -147,7 +147,7 @@
 {650}{}{[RENDBEN]}
 {651}{}{[TOVÁBBI LEHETŐSÉG]}
 {652}{}{Tovább}
-{653}{}{[BACK]}
+{653}{}{[VISSZA]}
 {654}{}{Vissza}
 {655}{}{Folytasd!}
 {656}{}{Ööö...}

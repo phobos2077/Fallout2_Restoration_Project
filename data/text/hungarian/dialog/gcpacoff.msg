@@ -15,12 +15,12 @@
 {114}{powr3a}{Francot se változott ettől. Még mindig semmit sem látunk! Kivel beszélek?}
 {115}{}{Ismételje meg! Vége.}
 {116}{}{Elmondhatnám, de utána meg kéne hogy öljem...}
-{117}{}{I'm the Chosen One.}
+{117}{}{A Kiválasztott vagyok.}
 {118}{}{Hát ez nem szokatlan errefelé, ugye? Itt semmi nem működik jól többé.}
 {119}{}{Maradjunk annyiban, hogy én tudom, maga meg rájön, ha akar. Viszlát!}
 {120}{powr3b_b}{Miről beszél? Ki-ki a csoda maga?}
 {121}{}{Elmondhatnám, de utána meg kéne hogy öljem...}
-{122}{}{I'm the Chosen One.}
+{122}{}{A Kiválasztott vagyok.}
 {123}{}{Hát ez nem szokatlan errefelé, ugye? Itt semmi nem működik jól többé.}
 {124}{}{Maradjunk annyiban, hogy én tudom, maga meg rájön, ha akar. Viszlát!}
 {125}{powr4a_a}{Itt az Elnök beszél! Bizonyám...}
@@ -33,9 +33,9 @@
 {132}{}{Ajjaj, inkább a távozás mezejére lépnék... Viszlát!}
 {133}{powr5_a}{Próbáljon erősíteni!}
 {134}{}{Az ott... az megteszi... Mi más?}
-{135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
+{135}{}{Erősíteni? Mit kéne erősítenem? Jól vagyok én úgy ahogy vagyok, erősítsen a halál.}
 {136}{}{Megpróbálok később visszajönni. Viszlát!}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Valóban? A Kiválasztott? Óh, elnézést, hogy nem estem hasra őkelmed előtt, de ne rabold a drága időmet ezzel az éktelen baromsággal!}
 {138}{}{Térdepelj le előttem, és akkor meghagyom az életed. (Hmm, ennél szebben nem is mondhattam volna).}
 {139}{}{Jól van, a térdeplést elhagyhatjuk. Egy enyhe meghajlás és csók a gyűrűmre ugyanúgy megteszi.}
 {140}{}{Öö... úgy értettem, ogy engem választottak ki, hogy megjavítsam a kommunikációs egységet. Úgy tűnik itt minden bekrepált.}
@@ -48,7 +48,7 @@
 {147}{}{Hogy jön ide az elnök?}
 {148}{}{Hát mivel csak két lábam van, alaposan belefáradnék ebbe.}
 {149}{}{Na, mehetünk megszakadni. Jobban teszem, ha nyomban rendbe hozom itt a dolgokat. Viszlát!}
-{150}{powr9_a}{Yeah, that's a new one. Since my video's working you can see I'm rolling on the floor here. It does seem like everything's a damn secret though, huh? All the special ops on the mainland. I don't see how anything gets done.}
+{150}{powr9_a}{Igen, ez új. Mivel az én videóm működik, láthatja, hogy fetrengek a földön. Teljesen nyilvánvaló, hogy minden piszkosul titkos errefele, nemde? Az összes speciális egység a szárazföldön van. Nem tudom, hogy lehet itt bármit is elintézni.}
 {151}{}{A szárazföldön? Miért, maga hol van?}
 {152}{}{Hát, nekem úgy tűnik, hogy ez van mindenhol.}
 {153}{powr10_a}{Igen-igen, tudja, milyen boldogtalan lesz, ha az emberek nekiállnak panaszkodni. Személyes sértésnek veszi, mintha ennek valami köze is lenne a hűséghez. Talán ez a velejárója, ha valaki az Egyesült Államok Elnöke lesz. Illetve, ami az országból maradt.}
@@ -60,7 +60,7 @@
 {159}{}{Hát asszem, most dolgoznom kell. Meg kell még reparálnom ezt a kommunikációs csatornát. Viszlát!}
 {160}{powr12}{Az Egyesült Kibaszott Államok Elnöke. Maga szerint kiről beszélek? Egyáltalán ki a fa - Kicsoda - Mi - Úgy picsán rúglak, hogy nem állsz meg a kibaszott lábadon! Ki beszél ott?}
 {161}{}{A Kiválasztott vagyok. Csókold meg a... lábamat.}
-{162}{}{I'm the Chosen One.}
+{162}{}{A Kiválasztott vagyok.}
 {163}{}{Én pedig az Elnök, és jó nagy bajba keverte magát.}
 {164}{}{Maga nem elég fontos személy, hogy ezt az információt átadjam.}
 {165}{}{Hű, asszem, mennem kell. Egy csomó munka vár itt rám. Viszlát!}

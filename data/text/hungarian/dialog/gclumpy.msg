@@ -10,7 +10,7 @@
 {121}{}{Hát ez elég szokatlan név. Mire fel kaptad?}
 {122}{}{Mit csinálsz itt?}
 {123}{}{Ez igen, Púpos! Hát most inkább mennék.}
-{130}{}{Well, my real name's John -- but everyone here just calls me Lumpy.}
+{130}{}{Igazság szerint a rendes nevem John, de mindenki csak Púposnak hív.}
 {131}{}{Miért pont Púposnak?}
 {132}{}{Hát nem lehet őket okolni. Viszlát!}
 {140}{}{Üdv! Észrevetted már valaha is, hogy minden egyes brahminnak megvan a saját személyisége? Ha olyan sokáig nézed őket, mint én, biztos, hogy észreveszed.}
@@ -19,7 +19,7 @@
 {143}{}{Mit csinálsz itt?}
 {144}{}{Ez igazán érdekes. Ki vagy egyébként?}
 {145}{}{Érdekelne néhány dolog.}
-{146}{}{Nice to meet you. Goodbye.}
+{146}{}{Örültem, hogy találkoztunk, Púpos. Viszlát!}
 {150}{}{Üdvözlet! Gondolom Skeeterhez jöttél. A műszaki dolgok engem eléggé hidegen hagynak, én csak egyszerűen segítek itt.}
 {151}{}{Béna egy név. Hehehe.}
 {152}{}{Ki maga?}
