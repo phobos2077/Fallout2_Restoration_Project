@@ -116,6 +116,7 @@ procedure Node034;
 procedure Node034a;
 procedure Node034b;
 procedure Node035;
+procedure get_combat_armor;
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -138,6 +139,25 @@ procedure Node035;
 #define POOR_RATE        (400)
 #define HORRIBLE_RATE    (500)
 
+#define heal_party_member(Var_In_party, Var_Ptr) \
+   if (Var_In_party) then begin \
+      if (Is_Injured(Var_Ptr) or Is_Crippled(Var_Ptr)) then begin \
+         critter_heal(Var_Ptr, Injured_How_Much(Var_Ptr)); \
+         critter_uninjure(Var_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT)); \
+      end \
+   end
+
+#define dude_has_combat_armor \
+   (  ( dude_item_count(PID_COMBAT_ARMOR) > 0) \
+      or (dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) \
+      or (dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0) \
+   )
+
+/**
+ * Convince Doc Andrew to give discount for implants.
+ */
+#define haggle_check ((dude_charisma > 5) or (has_skill(dude_obj, SKILL_BARTER) >= 75))
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -157,6 +177,14 @@ variable From_23:=0;
 variable From_24:=0;
 variable From_27:=0;
 variable Death_Stage:=0;
+
+procedure get_combat_armor begin
+   variable combat_armor = 0;
+   if (dude_item(PID_COMBAT_ARMOR)) then return dude_item(PID_COMBAT_ARMOR);
+   else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then combat_armor = dude_item(PID_COMBAT_ARMOR_MK_II);
+   else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then combat_armor = dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
+   return combat_armor;
+end
 
 procedure start begin
    Andrew_Ptr := self_obj;
@@ -200,8 +228,6 @@ procedure timed_event_p_proc begin
          critter_attempt_placement( self_obj, 13093, 0 );
          move_to( dude_obj, 13695, 0 );
          critter_attempt_placement( dude_obj, 13695, 0 );
-         //move_to( self_obj, 13093, 1 );
-         //move_to( dude_obj, 13695, 1 );
          gfade_in(600);
          Death_Stage := 1;
          floater(349);
@@ -516,15 +542,6 @@ procedure Node003 begin
 
    NLowOption(138, Node003a);
    NLowOption(139, Node999);
-//begin killap comment out
-/*   If_Party_Has_Injured then begin
-      if(party_size == 2) then
-         NOption(140, Node001a, 004);
-      else if(party_size > 2) then
-         NOption(141, Node008, 004);
-   end*/
-//   NOption(142, Node010, 004); //if you are getting healed why the heck ask where you are?
-//end killap comment out
       NOption(340, Node014, 004); //added by killap
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
       NOption(143, Node001b, 004);
@@ -550,14 +567,13 @@ procedure Node004 begin
    gfade_in(600);
 
    set_local_var( LVAR_Used_Autodoc_Twice, 1 );
-   // if( dude_iq < 9 ) then begin // commented out by Seraph
-   if( dude_luck > 9 ) then begin // Seraph's Code - edited by killap
+   if( dude_luck > 9 ) then begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_bonus2_perk, 1 );
-      display_msg( mstr(344) ); //changed from 343 - killap
+      display_msg( mstr(344) );
    end
    else begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_bonus1_perk, 1 );
-      display_msg( mstr(343) ); //changed from 344 - killap
+      display_msg( mstr(343) );
    end
 
    Reply(147);
@@ -580,16 +596,14 @@ procedure Node005 begin
    gfade_in(600);
 
 
-   if( is_success( dude_luck < 2 ) ) then begin // Seraph's Code -edited by killap
+   if( is_success( dude_luck < 2 ) ) then begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_neg2_perk, 1 );
-      display_msg( mstr(350) ); //changed from 345 - killap
-   // Begin Seraph's Code
+      display_msg( mstr(350) );
    end
    else begin
       critter_add_trait( dude_obj, TRAIT_PERK, PERK_autodoc_hp_neg1_perk, 1 );
-      display_msg( mstr(345) ); //changed from 350 - killap
+      display_msg( mstr(345) );
    end
-   // End Seraph's Code
 
    Reply(152);
 
@@ -599,7 +613,7 @@ end
 procedure Node006 begin
    Reply(154);
 
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(155, Node002, 004);
    NOption(156, Node014, 004);
    NOption(157, Node999, 004);
@@ -617,7 +631,7 @@ procedure Node007 begin
       NOption(161, Node007a, 004);
    if( (dude_caps >= Heal_Barter) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
       NOption( mstr(162) + Heal_Barter + mstr(163), Node007b, 004);
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(164, Node002, 004);
    NOption(165, Node010, 004);
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
@@ -673,7 +687,7 @@ procedure Node008 begin
       NOption(171, Node008a, 004);
    if( (dude_caps >= multBarterRate) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
       NOption( mstr(172) + multBarterRate + mstr(173), Node008b, 004);
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(174, Node002, 004);
    NOption(175, Node010, 004);
    if (global_var(GVAR_IMPLANTS_KNOWN) == 1) then
@@ -730,104 +744,22 @@ procedure Node009 begin
    gfade_out(600);
    gfade_in(600);
 
-   if (Vic_In_Party) then begin
-      if (Is_Injured(Vic_Ptr) or Is_Crippled(Vic_Ptr)) then begin
-         critter_heal(Vic_Ptr,Injured_How_Much(Vic_Ptr));
-         critter_uninjure(Vic_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Myron_In_Party) then begin
-      if (Is_Injured(Myron_Ptr) or Is_Crippled(Myron_Ptr)) then begin
-         critter_heal(Myron_Ptr,Injured_How_Much(Myron_Ptr));
-         critter_uninjure(Myron_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Marcus_In_Party) then begin
-      if (Is_Injured(Marcus_Ptr) or Is_Crippled(Marcus_Ptr)) then begin
-         critter_heal(Marcus_Ptr,Injured_How_Much(Marcus_Ptr));
-         critter_uninjure(Marcus_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (MacRae_In_Party) then begin
-      if (Is_Injured(MacRae_Ptr) or Is_Crippled(MacRae_Ptr)) then begin
-         critter_heal(MacRae_Ptr,Injured_How_Much(MacRae_Ptr));
-         critter_uninjure(MacRae_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Sulik_In_Party) then begin
-      if (Is_Injured(Sulik_Ptr) or Is_Crippled(Sulik_Ptr)) then begin
-         critter_heal(Sulik_Ptr,Injured_How_Much(Sulik_Ptr));
-         critter_uninjure(Sulik_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Lenny_In_Party) then begin
-      if (Is_Injured(Lenny_Ptr) or Is_Crippled(Lenny_Ptr)) then begin
-         critter_heal(Lenny_Ptr,Injured_How_Much(Lenny_Ptr));
-         critter_uninjure(Lenny_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Cyberdog_In_Party) then begin
-      if (Is_Injured(Cyberdog_Ptr) or Is_Crippled(Cyberdog_Ptr)) then begin
-         critter_heal(Cyberdog_Ptr,Injured_How_Much(Cyberdog_Ptr));
-         critter_uninjure(Cyberdog_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Doc_In_Party) then begin
-      if (Is_Injured(Doc_Ptr) or Is_Crippled(Doc_Ptr)) then begin
-         critter_heal(Doc_Ptr,Injured_How_Much(Doc_Ptr));
-         critter_uninjure(Doc_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Goris_In_Party) then begin
-      if (Is_Injured(Goris_Ptr) or Is_Crippled(Goris_Ptr)) then begin
-         critter_heal(Goris_Ptr,Injured_How_Much(Goris_Ptr));
-         critter_uninjure(Goris_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Davin_In_Party) then begin
-      if (Is_Injured(Davin_Ptr) or Is_Crippled(Davin_Ptr)) then begin
-         critter_heal(Davin_Ptr,Injured_How_Much(Davin_Ptr));
-         critter_uninjure(Davin_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Miria_In_Party) then begin
-      if (Is_Injured(Miria_Ptr) or Is_Crippled(Miria_Ptr)) then begin
-         critter_heal(Miria_Ptr,Injured_How_Much(Miria_Ptr));
-         critter_uninjure(Miria_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   //added by killap - RP
-   if (Dogmeat_In_Party) then begin
-      if (Is_Injured(Dogmeat_Ptr) or Is_Crippled(Dogmeat_Ptr)) then begin
-         critter_heal(Dogmeat_Ptr,Injured_How_Much(Dogmeat_Ptr));
-         critter_uninjure(Dogmeat_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (K9_In_Party) then begin
-      if (Is_Injured(K9_Ptr) or Is_Crippled(K9_Ptr)) then begin
-         critter_heal(K9_Ptr,Injured_How_Much(K9_Ptr));
-         critter_uninjure(K9_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Kitsune_In_Party) then begin
-      if (Is_Injured(Kitsune_Ptr) or Is_Crippled(Kitsune_Ptr)) then begin
-         critter_heal(Kitsune_Ptr,Injured_How_Much(Kitsune_Ptr));
-         critter_uninjure(Kitsune_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Dex_In_Party) then begin
-      if (Is_Injured(Dex_Ptr) or Is_Crippled(Dex_Ptr)) then begin
-         critter_heal(Dex_Ptr,Injured_How_Much(Dex_Ptr));
-         critter_uninjure(Dex_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   if (Cat_Jules_In_Party) then begin
-      if (Is_Injured(Cat_Jules_Ptr) or Is_Crippled(Cat_Jules_Ptr)) then begin
-         critter_heal(Cat_Jules_Ptr,Injured_How_Much(Cat_Jules_Ptr));
-         critter_uninjure(Cat_Jules_Ptr, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
-      end
-   end
-   //end added
+   heal_party_member(Vic_In_Party, Vic_Ptr)
+   heal_party_member(Myron_In_Party, Myron_Ptr)
+   heal_party_member(Marcus_In_Party, Marcus_Ptr)
+   heal_party_member(MacRae_In_Party, MacRae_Ptr)
+   heal_party_member(Sulik_In_Party, Sulik_Ptr)
+   heal_party_member(Lenny_In_Party, Lenny_Ptr)
+   heal_party_member(Cyberdog_In_Party, Cyberdog_Ptr)
+   heal_party_member(Doc_In_Party, Doc_Ptr)
+   heal_party_member(Goris_In_Party, Goris_Ptr)
+   heal_party_member(Davin_In_Party, Davin_Ptr)
+   heal_party_member(Miria_In_Party, Miria_Ptr)
+   heal_party_member(Dogmeat_In_Party, Dogmeat_Ptr)
+   heal_party_member(K9_In_Party, K9_Ptr)
+   heal_party_member(Kitsune_In_Party, Kitsune_Ptr)
+   heal_party_member(Dex_In_Party, Dex_Ptr)
+   heal_party_member(Cat_Jules_In_Party, Cat_Jules_Ptr)
 
    Reply(182);
 
@@ -849,7 +781,7 @@ procedure Node011 begin
    else
       Reply( mstr(189) + " " + mstr(191) );
 
-   if(( map_var( MVAR_Auto_Doc_Fixed ) == 1 ) and ( local_var(LVAR_Gave_Karma_Bonus) == 0 )) then //edit by killap - added ( local_var(LVAR_Gave_Karma_Bonus) == 0 )
+   if(( map_var( MVAR_Auto_Doc_Fixed ) == 1 ) and ( local_var(LVAR_Gave_Karma_Bonus) == 0 )) then
       NOption(192, Node012, 004);
    NOption(193, Node014, 004);
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
@@ -879,7 +811,7 @@ procedure Node012a begin
 end
 
 procedure Node013 begin
-   set_local_var(LVAR_Gave_Karma_Bonus,2); //added by killap
+   set_local_var(LVAR_Gave_Karma_Bonus,2);
    From_12:=1;
 
    Reply(200);
@@ -897,7 +829,7 @@ procedure Node014 begin
    else
       Reply(204);
 
-   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then //added ( dude_is_crippled ) - killap
+   if( (Is_Injured(dude_obj)) or ( dude_is_crippled ) ) then
       NOption(205, Node002, 004);
    if( global_var(GVAR_HAVE_MUTATED) == 1 ) then
       NOption(206, Node033, 004);
@@ -934,7 +866,7 @@ procedure Node016 begin
 
    set_local_var(LVAR_Andrew_Knows_Implants, 1);
 
-   if( ( dude_item_count(PID_COMBAT_ARMOR) == 0) and ( dude_item_count(PID_COMBAT_ARMOR_MK_II) == 0) and ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) == 0)    )then
+   if not dude_has_combat_armor then
       NOption(216, Node017, 004);
    else
       NOption(217, Node017, 004);
@@ -971,19 +903,17 @@ procedure Node018 begin
 end
 
 procedure Node019 begin
-   From_19 := 1;
-
    Reply(232);
 
-   if( (dude_caps >= 7000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then
-      NOption(233, Node019a, 004);
-   if( (dude_caps >= 5000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
-      NOption(234, Node019b, 004);
+   if dude_has_combat_armor then begin
+      if (dude_caps >= 7000) then NOption(233, Node019a, 004);
+      if (dude_caps >= 5000) and haggle_check then NOption(234, Node019b, 004);
+   end
    NOption(235, Node018, 004);
    NOption(236, Node014, 004);
-   if(dude_caps < 7000) then
+   if (dude_caps < 7000) then
       NOption(237, Node999, 004);
-   else if( dude_item_count(PID_COMBAT_ARMOR) == 0) and ( dude_item_count(PID_COMBAT_ARMOR_MK_II) == 0) and ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) == 0)  then
+   else if not dude_has_combat_armor then
       NOption(238, Node999, 004);
    NOption(239, Node999, 004);
 end
@@ -994,21 +924,15 @@ procedure Node019a begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -7000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-7000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_19 := 1;
       call Node030;
    end
 end
@@ -1020,21 +944,15 @@ procedure Node019b begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -5000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-5000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_19 := 1;
       call Node030;
    end
 end
@@ -1046,10 +964,10 @@ procedure Node020 begin
       Reply(240);
 
    if( dude_perk(PERK_dermal_armor_perk) ) then
-     NOption(242, Node021, 004); //killap's fix: changed from 241
-   NOption(243, Node018, 004); //killap's fix: changed from 242
-   NOption(244, Node014, 004); //killap's fix: changed from 243
-   NOption(250, Node999, 004); //killap's fix: changed from 244
+     NOption(242, Node021, 004);
+   NOption(243, Node018, 004);
+   NOption(244, Node014, 004);
+   NOption(250, Node999, 004);
 end
 
 procedure Node021 begin
@@ -1071,25 +989,23 @@ procedure Node022 begin
 end
 
 procedure Node023 begin
-   From_23 := 1;
-
    if( dude_is_female ) then
       Reply( mstr(256) + " " + mstr(258) );
    else
       Reply( mstr(257) + " " + mstr(258) );
 
-   if( (dude_caps >= 40000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then begin
+   if (dude_caps >= 40000) and dude_has_combat_armor then begin
       if( (dude_iq > 8) ) then
          NOption(348, Node023a, 004);
       NOption(259, Node023a, 004);
    end
-   if( (dude_caps >= 30000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
+   if (dude_caps >= 30000) and dude_has_combat_armor then
       NOption(260, Node023b, 004);
    NOption(261, Node018, 004);
    NOption(262, Node014, 004);
    if (dude_caps < 40000) then
       NOption(263, Node999, 004);
-   else if( dude_item_count(PID_COMBAT_ARMOR) == 0) and ( dude_item_count(PID_COMBAT_ARMOR_MK_II) == 0) and ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) == 0) then
+   else if not dude_has_combat_armor then
       NOption(264, Node999, 004);
    NOption(265, Node999, 004);
 end
@@ -1100,21 +1016,15 @@ procedure Node023a begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -40000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-40000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_23 := 1;
       call Node030;
    end
 end
@@ -1126,39 +1036,31 @@ procedure Node023b begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -30000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-30000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_23 := 1;
       call Node030;
    end
 end
 
 procedure Node024 begin
-   From_24 := 1;
-
    Reply(266);
 
-   if( (dude_caps >= 10000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then
-      NOption(267, Node024a, 004);
-   if( (dude_caps >= 8000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
-      NOption(268, Node024b, 004);
+   if dude_has_combat_armor then begin
+      if (dude_caps >= 10000) then NOption(267, Node024a, 004);
+      if (dude_caps >= 8000) and haggle_check then NOption(268, Node024b, 004);
+   end
    NOption(269, Node018, 004);
    NOption(270, Node014, 004);
    if(dude_caps < 10000) then
       NOption(271, Node999, 004);
-   else if( dude_item_count(PID_COMBAT_ARMOR) == 0) and ( dude_item_count(PID_COMBAT_ARMOR_MK_II) == 0) and ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) == 0) then
+   else if not dude_has_combat_armor then
       NOption(272, Node999, 004);
    NOption(273, Node999, 004);
 end
@@ -1169,21 +1071,15 @@ procedure Node024a begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -10000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-10000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_24 := 1;
       call Node030;
    end
 end
@@ -1195,21 +1091,15 @@ procedure Node024b begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -8000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-8000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_24 := 1;
       call Node030;
    end
 end
@@ -1217,8 +1107,8 @@ end
 procedure Node025 begin
    if(not(dude_perk(PERK_phoenix_armor_perk))) then
       Reply( mstr(274) + " " + mstr(275) );
-   else                       //added by killap
-      Reply( mstr(274) );     //added by killap
+   else
+      Reply( mstr(274) );
 
    if(dude_perk(PERK_phoenix_armor_perk)) then
       NOption(276, Node026, 004);
@@ -1237,19 +1127,19 @@ procedure Node026 begin
 end
 
 procedure Node027 begin
-   From_27 := 1;
-
    Reply(285);
 
-   if( (dude_caps >= 50000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) ) then
-      NOption(286, Node027a, 004);
-   if( (dude_caps >= 40000) and (( dude_item_count(PID_COMBAT_ARMOR) > 0) or ( dude_item_count(PID_COMBAT_ARMOR_MK_II) > 0) or ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) > 0)) and ( (dude_charisma > 5) or ( has_skill(dude_obj, SKILL_BARTER) >= 75 ) ) ) then
-      NOption(287, Node027b, 004);
+   if dude_has_combat_armor then begin
+      if (dude_caps >= 50000) then
+         NOption(286, Node027a, 004);
+      if (dude_caps >= 40000) and haggle_check then
+         NOption(287, Node027b, 004);
+   end
    NOption(288, Node018, 004);
    NOption(289, Node014, 004);
    if (dude_caps < 50000) then
       NOption(290, Node999, 004);
-   else if( dude_item_count(PID_COMBAT_ARMOR) == 0) and ( dude_item_count(PID_COMBAT_ARMOR_MK_II) == 0) and ( dude_item_count(PID_BROTHERHOOD_COMBAT_ARMOR) == 0) then
+   else if not dude_has_combat_armor then
       NOption(291, Node999, 004);
    NOption(292, Node999, 004);
 end
@@ -1260,21 +1150,15 @@ procedure Node027a begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -50000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-50000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_27 := 1;
       call Node030;
    end
 end
@@ -1286,21 +1170,15 @@ procedure Node027b begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
       call Node028;
    else begin
-      dude_caps_adjust( -40000);
-      if (dude_item(PID_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR);
-      //added by killap
-      else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         combatArmor:=dude_item(PID_COMBAT_ARMOR_MK_II);
-      else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         combatArmor:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
-      //end added by killap
-      rm_obj_from_inven( dude_obj, combatArmor );
-      destroy_object( combatArmor );
+      dude_caps_adjust(-40000);
+      combatArmor = get_combat_armor();
+      rm_obj_from_inven(dude_obj, combatArmor);
+      destroy_object(combatArmor);
 
       gfade_out(600);
       gfade_in(600);
 
+      From_27 := 1;
       call Node030;
    end
 end
