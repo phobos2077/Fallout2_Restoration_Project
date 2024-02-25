@@ -46,7 +46,7 @@
 {145}{}{Igen. A Shik nevében jöttem.}
 {146}{}{Nem. Azért csinálom, mert utálom a hozzád hasonló söpredéket.}
 {147}{}{Szívós vagy, mi? Először az embereimmel fogsz harcolni, aztán majd meglátjuk, érdemes vagy-e arra, hogy kiálljak veled.}
-{148}{}{[BEGIN]}
+{148}{}{[Kezdés]}
 {149}{}{Lo Pan vagyok. A Sárkány "esküdt" ellensége. Hogy miért kell neki esküdt ellenség, fogalmam sincs. Ugyanúgy harcolok, mint ő, de szerintem ő nem elég elszánt és hagy másokat is érvényesülni. Azért vagyunk ellenségek, mert ugyanazt a stílust űzzük, és bármelyikünk is nyer, ő viszi tovább a hagyományt.}
 {150}{}{Én sem vagyok túl béna a pusztakezes harcban. Nem akarsz kipróbálni?}
 {151}{}{Ez érdekes. Bizonyára kifizetődő. Kérdezhetek még?}
@@ -55,15 +55,15 @@
 {154}{}{[RENDBEN]}
 {155}{}{Akkor viszont eszetlen bolond vagy, hogy mások ugráltatnak. Nevetni fogok, amikor meghalsz.}
 {156}{}{[Attack now, with armor and weapons.]}
-{157}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
+{157}{}{[ belépsz a szorítóba, leveszed a védőöltözéked, lerakod a fegyvereidet és puszta kézzel küzdötök ]}
 {158}{}{Jó. Legalább a magad ura vagy. Elég szívósnak érzed magad, hogy védőöltözék és fegyverek nélkül küzdj?}
 {159}{}{[Attack now, with armor and weapons.]}
-{160}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
+{160}{}{[ belépsz a szorítóba, leveszed a védőöltözéked, lerakod a fegyvereidet és puszta kézzel küzdötök ]}
 {161}{}{Beee, birka, beee! Menj vissza a palástba burkolt barátaidhoz! Nincs mit mondanom számodra.}
 {162}{}{[RENDBEN]}
 {163}{}{Nem mondtam volna, hogy a morális aggályaiddal a Sárkányt boldogítsd? Ő majd fogja a kezed. Én nem. Most pedig távozz!}
 {164}{}{[RENDBEN]}
-{165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
+{165}{}{El kell ismernem, még nálam is jobb harcművész vagy. Nem akarsz próbát tenni a Sárkánnyal?}
 {166}{}{Igen. Most azonnal.}
 {167}{}{Ez nem igazán az én harcom.}
 {168}{}{Dehogynem, viszont szeretnék még kérdezni ezt-azt.}
@@ -76,12 +76,12 @@
 {175}{}{A Sárkány meghalt... Alig hiszem el. Mostantól legalább nem kell, hogy folyton a bosszantó hagyományok határozzák meg minden egyes lépésünket. Köszönet illet.}
 {176}{}{Nagyszerű! Válaszolj néhány kérdésemre!}
 {177}{}{Nagyszerű! Viszlát!}
-{178}{}{Fine. I'll do it right now.}
-{200}{}{Lo Pan detects your advance and you slip by him.}
+{178}{}{Rendben. Most azonnal megteszem.}
+{200}{}{Lo Pan észleli közeledésedet és elgáncsol.}
 {201}{}{Nézd, nem szeretem, ha valaki ellopja a dolgaimat. Menj máshova tolvajkodni! Távozz innen!}
 {202}{}{Azt mondtam, hogy távozz, nem azt, hogy halj meg! Anyám.}
 {203}{}{Nagyon úgy tűnik, hogy tőlem te már nem tudsz semmit tanulni.}
-{204}{}{I am done training today. Return tomorrow.}
+{204}{}{A mai edzésnek vége. Gyere vissza holnap!}
 {205}{}{Khung mester vagyok, az utolsó ellenfeled.}
 {206}{}{Imbot vagyok. Készülj!}
 {207}{}{Wejungh a nevem. Légy készen!}
@@ -110,7 +110,7 @@
 {230}{}{Először is be kell bizonyítanod, hogy képes vagy megcsinálni. Ki kell állnod öt emberemmel, persze egyszerre csak egyikükkel. Ha mindegyiket legyőzöd, jöhet a végső próbatétel.}
 {231}{}{Miből áll ez?}
 {232}{}{Ez elég gázosan hangzik. Na, csá.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Le kell, hogy győzd a választott tanítványomat. Mindazonáltal egyik összecsapásnak sem kell életre-halálra menni - az embereim védelmében persze. [gúnyosan mosolyog]}
 {234}{}{Bunyóra fel!}
 {235}{}{A Sárkánnyal magadnak kell elbánni!}
 {236}{}{[Lo Pan végigmér, majd egy gyors ütéssel úgy orrba vág, hogy még reagálni sem tudsz.] Nem vagy elég jó.}

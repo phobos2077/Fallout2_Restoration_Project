@@ -67,7 +67,7 @@
 {166}{}{Nem.}
 {167}{}{Formázás... formázás... formázás kész. Az újraindítás előtt teljes telepítés szükséges. Lekapcsolás... lekapcsolás... kész...}
 {168}{}{[RENDBEN]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Megtalálandó adat: - Botanika program - Genetikai program - Xeno program}
 {170}{}{Botanika program.}
 {171}{}{Genetikai program.}
 {172}{}{Xeno program.}
@@ -80,7 +80,7 @@
 {179}{}{Botanika program.}
 {180}{}{Xeno program.}
 {181}{}{Vissza.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Az alany, amelyen oly sok ígéretes kísérletet szerettünk volna végrehajtani, eltűnt. Vagy megsemmisült, vagy ellopták a Hubologisták. A további adatszerzés nem bizonyult gyümölcsözőnek. Amíg nem tudunk újabb példányokat keríteni, ezt az adatbázist elérhetetlenné teszem." - Dr. Sheng}
 {183}{}{Botanika program.}
 {184}{}{Genetikai program.}
 {185}{}{Vissza.}
@@ -88,7 +88,7 @@
 {187}{}{Üzemanyag és származékok.}
 {188}{}{Polimerek.}
 {189}{}{Vissza.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Miután átvizsgálsz egy hatalmas vegyi képleteket és laborfeljegyzéseket felvonultató adathalmazt, arra a következtetésre jutsz, hogy a Shik növényi kivonatokból és tengeri herkentyűkből készítettek üzemanyagot. Evidens számodra, hogy rákapcsolódtak a korábban használatos csővezetékekre és képesek változatos végpontok felé irányítani az általuk előállított üzemanyagot.)}
 {191}{}{(Átvizsgálsz egy hatalmas vegyi képleteket és laborfeljegyzéseket felvonultató adathalmazt. Nem sok lövésed van róla, hogy ez a sok adat mit is jelent.)}
 {192}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
 {193}{}{Üzemanyag átirányítása a Hubologistáknak.}
@@ -100,8 +100,8 @@
 {199}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
 {200}{}{[RENDBEN]}
 {201}{}{Fizika adatbázis: Felfedezés - Teória}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Felfedezés.}
+{203}{}{Teória}
 {204}{}{Vissza.}
 {205}{}{"A gépmadár terveinek közelmúltbeli megszerzésével hatalmas lépést tettünk egy repülő jármű gyakorlati megvalósítása felé. Az év végére várjuk a működő prototípus elkészülését, két éven belül pedig megkezdődhet a tömeggyártás." - Dr. Wong}
 {206}{}{::tervek lemásolása:: Vissza.}

@@ -58,7 +58,7 @@
 {157}{}{Tudjátok, hogy lehet ezt elérni?}
 {158}{}{Volna még néhány egyéb kérdésem.}
 {159}{}{Köszönöm. Viszlát!}
-{160}{}{We're hoping that we can avoid society's mistakes. Hell, things can't get much worse.}
+{160}{}{Reméljük, elkerülhetjük a társadalom tévedéseit. Francba, a dolgok már nem lehetnek ennél rosszabbak!}
 {161}{}{Rájöttetek, hogy kell mozgatni a tankert?}
 {162}{}{Mesélj nekem a Hubologistákról!}
 {163}{}{Mesélj nekem a Shikről!}

@@ -1,5 +1,5 @@
 {100}{}{Egy jól felfegyverzett őrt látsz.}
-{101}{}{You see a Hubologist guard.}
+{101}{}{Hubologista őr.}
 {102}{}{Ez egy igen jól felfegyverzett őr. Szemében ádáz fény csillan.}
 {103}{}{Behatoló!}
 {104}{}{Kapjátok el a behatolót!}

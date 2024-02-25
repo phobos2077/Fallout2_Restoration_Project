@@ -1,5 +1,5 @@
 {100}{}{Ez egy fehér ruhás Shi.}
-{101}{}{You see a Shi lab tech.}
+{101}{}{Shi labortechnikus.}
 {102}{}{Ez egy fehér ruhás Shi a laborjában.}
 {103}{}{Barátom... Wong egy valóságos rabszolga-hajcsár.}
 {104}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}

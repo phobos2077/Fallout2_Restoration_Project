@@ -41,7 +41,7 @@
 {140}{}{Állomás deaktiválva.}
 {141}{}{Állomás aktiválása.}
 {142}{}{-kilépés-}
-{143}{}{[Your ham-fisted approach across the keys triggers the correct password... your luck is incredible!]}
+{143}{}{[Igaz ugyan, hogy favágó módjára nyúlsz a billentyűzethez, mégis sikerül elővarázsolnod a helyes jelszót... hihetetlenül szerencsés vagy!]}
 {144}{}{-tovább-}
 {145}{}{A számítógép semmilyen inputra nem reagál.}
 {146}{}{Nem találsz rajta semmilyen helyet, ahol ezt alkalmazhatnád.}
