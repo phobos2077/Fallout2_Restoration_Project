@@ -1,5 +1,5 @@
 {100}{}{Ez egy működő terminál.}
-{101}{}{You see the Reactor Maintenance and Repair Robot control terminal.}
+{101}{}{A reaktor karbantartó- és javítórobot termináljához van szerencséd.}
 {102}{}{Ez egy terminál. Működni látszik.}
 {110}{}{Üdvözöljük az RMR&RCT 3-as fejállomásán.}
 {111}{}{RMRRCT?}
@@ -15,14 +15,14 @@
 {131}{}{RMRRCT?}
 {132}{}{Ajjaj, ez egy robot... Na, nézzük, mire megyünk vele.}
 {133}{}{Kilépés.}
-{140}{}{This terminal is used to input command data for the robotic maintenance and repair unit assigned to Poseidon Oil--Reactor #5. This terminal also allows access to PoseidoNet.}
+{140}{}{Ezt a terminált abból a célból hozták létre, hogy a Poseidon Olaj--Reaktor 5 kötelékébe tartozó karbantartó- és javító egységnek műveleti parancsokat adhasson. A terminál segítségével a PoseidoNet is elérhető.}
 {141}{}{Mi a manó, egy robot?... Na, nézzük, mire megyünk vele.}
 {142}{}{Nocsak, valami hálózat is van itt... kíváncsi vagyok, fel tudok-e rá lépni.}
 {143}{}{Kilépés.}
 {150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Win21 indítása... Kérem várjon... Pear OS parancs nem azonosítható. Felkészülés a DOD HDD törlésre.}
 {151}{}{Hmmm. Rendi?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
-{160}{}{Reactor Maintenance Robot is ready for initialization/startup sequence. Functional Access Code?:}
+{160}{}{A reaktor karbantartó robot készen áll az inicializálás/indítás parancsok végrehajtására. Hozzáférési kód?:}
 {161}{}{Funkciók?}
 {162}{}{Művelet?}
 {163}{}{35C76863}
@@ -52,7 +52,7 @@
 {194}{}{Takarítási tevékenység kezdeményezése.}
 {195}{}{Javítási tevékenység kezdeményezése.}
 {196}{}{Készenléti állapot fenntartása és kilépés.}
-{200}{}{This Service Procedure is no longer in memory. Load current service procedure?}
+{200}{}{Ez a procedúra már törölve lett a memóriából. Behívjam az aktuális procedúrát?}
 {201}{}{Aktuális procedúra behívása.}
 {202}{}{Vissza.}
 {203}{}{Kilépés.}
@@ -73,7 +73,7 @@
 {241}{}{Ah, gondolom erre gondolt...}
 {242}{}{Nagyon úgy tűnik, hogy nincs nálam ilyesmi.}
 {243}{}{Kilépés.}
-{250}{}{This Terminal Is Closed For Security Reasons. Please inform PoseidoNet Supervisor.}
+{250}{}{E terminál működését biztonsági okoknál fogva felfüggesztettük. Kérem, lépjen kapcsolatba a PoseidoNet szolgáltatójával.}
 {251}{}{Hmm, nagy eséllyel nem szedek ki ebből semmit.}
 {252}{}{Hmm, kíváncsi vagyok, hogy ez az alapértelmezés dolog lokális e.}
 {300}{}{A megadott biztonsági kód hibás.}
@@ -99,7 +99,7 @@
 {325}{}{Kilépés.}
 {330}{}{A biztonsági kódsor érvényes. Üdvözli önt a PoseidoNet.}
 {331}{}{Karbantartó robot programjainak letöltése.}
-{332}{}{List other stations.}
+{332}{}{Más állomások listája.}
 {333}{}{Kilépés.}
 {340}{}{Keresés... A Karbantartó robot programjai nem elérhetők.}
 {341}{}{Hmm, talán nem itt vannak.}
@@ -107,12 +107,12 @@
 {343}{}{Kilépés.}
 {350}{}{Keresés a komlinkek között... Keresés... Vashegy... üzemen kívül, NORAD... üzemen kívül. SAC... üzemen kívül. Keresés a PoseidoNeten... --Tovább?--}
 {351}{}{Karbantartó robot programjainak letöltése.}
-{352}{}{More.}
+{352}{}{Tovább}
 {353}{}{Kilépés.}
 {360}{}{Aktív PoseidoNet Fejállomások: 5-ös számú atomreaktor, Navarrói Finomító, ENKLÁVÉ irányítóterem, ENKLÁVÉ Menedék-Kutatási Központ... Hozzáférés megtagadva.}
 {361}{}{Hát, a lámpák égnek, de senki sincs otthon...}
 {362}{}{Mindegyik le van kapcsolva, kivéve az ENKLÁVÉ Menedék-Kutatási Központ. Kíváncsi lennék, mi az.}
-{363}{}{Hmm, seems as though stuff is either offline or closed. Oh, well.}
+{363}{}{Hmm, úgy tűnik, mindegyik vagy üzemen kívül, vagy lezárva. Ez az én formám...}
 {370}{}{Kapcsolódás... Az Enklávé irányítóterem megtagadta a hozzáférést.}
 {371}{}{Újbóli kapcsolódás... Az Enklávé irányítóterem megtagadta a hozzáférést.}
 {372}{}{Újabb kapcsolódás (te kis nyomulós)... Az Enklávé irányítóterem megtagadta a hozzáférést.}
@@ -121,12 +121,12 @@
 {375}{}{Na, elég! Elegem van az állandó toszogatásból! Ha csak még egyszer megpróbálkozol, nagyon megbánod!}
 {376}{}{Nem mondhatod, hogy nem figyelmeztettelek. (Miközben ezt olvasod, a billentyűzetből elektromosság húz keresztül az ujjaidon.)}
 {377}{}{Talán újra próbálkozhatnék...}
-{378}{}{So much for that. I better get that RM&RR unit working though.}
+{378}{}{Na, ennyit erről. Működésre kéne bírni ezt az RM&RR egységet.}
 {379}{}{Francba, le kellett volna dobnia.}
 {380}{}{A javítási parancssor végrehajtásához egy hidroelektromos mangetoszféra szabályzóra van szükség.}
 {381}{}{A hűtőrendszer karbantartási munkáinak megkezdése}
 {382}{}{Kilépés.}
-{390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}
+{390}{}{Hidroelektromos magnetoszféra szabályzó ellenőrzés alatt... az alkatrész megfelel a minőségi követelményeknek... a javítórobot készen áll a feladatra... Folytatás?}
 {391}{}{Igen.}
 {392}{}{Kilépés.}
 {400}{}{A logikai áramkörök megsérültek. Vészhelyzet esetén az RM&RR egység manuálisan is irányítható.}
@@ -176,7 +176,7 @@
 {512}{}{Ha ezt már próbálta, jelezze ki az előző mozgásparancsokat. Hőmérséklet a tűréshatár 75%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16}
 {514}{}{Ha ezt már próbálta, jelezze ki az előző mozgásparancsokat. Hőmérséklet a tűréshatár 80%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17}
 {516}{}{Ha ezt már próbálta, jelezze ki az előző mozgásparancsokat. Hőmérséklet a tűréshatár 85%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18}
-{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{518}{}{Ha ezt már próbálta, jelezze ki az előző mozgásparancsokat. Hőmérséklet a tűréshatár 90%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18, MozgásVar19}
 {520}{}{Ha ezt már próbálta, jelezze ki az előző mozgásparancsokat. Hőmérséklet a tűréshatár 95%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18, MozgásVar19, MozgásVar20}
 {522}{}{Balra fordulás.}
 {524}{}{Jobbra fordulás.}

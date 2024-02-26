@@ -62,9 +62,9 @@
 {1016}{}{Hoppá, majdnem megfeledkeztem az ÉLET-ről! Szerintem van itt valahol egy.}
 {1017}{}{Az ÉLET-kódodtól kirobban az ajtó.}
 {1018}{}{Kiirtottad Hűtős Morton bandáját.}
-{1019}{}{You disable the shock plates.}
-{1020}{}{You broke up the bar brawl.}
-{1021}{}{You disabled the Robot Repair Terminal.}
+{1019}{}{Kikapcsoltad a sokkoló lapokat.}
+{1020}{}{Megakadályoztad a kocsmai verekedést.}
+{1021}{}{Kikapcsoltad a Robot Javító Állomást.}
 {1050}{}{A skorpiómérget belekevered az ellenanyagba.}
 {1051}{}{A broc virágból és a xander gyökérből gyógyító port készítesz.}
 {1099}{}{Az É.L.E.T-ed túl sokat ér a faludnak, hogy csak így eldobd.}
@@ -253,8 +253,8 @@
 {10013}{}{Tudnom kell, milyen fegyvereket tudsz használni.}
 {10100}{}{Gyerünk!}
 {20000}{}{Ez nem csinál semmit.}
-{20100}{}{There is no lock on this door.}
+{20100}{}{Ezen az ajtón nincs zár.}
 {21020}{}{húsz}
-{30000}{}{You have stolen from your own tribe.}
+{30000}{}{Loptál a saját törzsedtől.}
 {40000}{}{Slot Jinxer}
 {40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}

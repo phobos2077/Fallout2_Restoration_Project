@@ -12,8 +12,7 @@
 {111}{}{Sárgát. Így narancssárga lesz.}
 {112}{}{Áttetszőt. Így piros marad.}
 {113}{}{Megiszom.}
-{114}{}{Blue. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
- dosages.}
+{114}{}{Kéket. Így Jet lesz belőle, egy erősen addiktív amfetaminszerű drog... ha jól eltalálod az arányokat.}
 {115}{}{Sárgát. Tudós elméd felismeri, hogy ha jól kevered hozzá, sósav lesz belőle.}
 {116}{}{Áttetszőt. Gyakorlott agyad tudja, hogy így erős vitamin lesz belőle... feltéve, ha ki tudod mérni a megfelelő arányt.}
 {117}{}{Abbahagyom.}
@@ -21,8 +20,7 @@
 {119}{}{Pirosat. Így lila lesz.}
 {120}{}{Sárgát. Így zöld lesz..}
 {121}{}{Áttetszőt. Így kék marad.}
-{122}{}{Red. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
- dosages.}
+{122}{}{Pirosat. Így Jet lesz belőle, egy erősen addiktív amfetaminszerű drog... ha jól eltalálod az arányokat.}
 {123}{}{Sárgát. Mielőtt hozzákevernéd, fejben elvégzed a szükséges számításokat. Tudod jól, hogy nitroglicerin lesz belőle, egy erős robbanóanyag.}
 {124}{}{Áttetszőt. Így egy toxikus vegyületet kapsz, ami semmire nem jó a sugárzás hatásának tanulmányozásán kívül.}
 {125}{}{Megiszom.}

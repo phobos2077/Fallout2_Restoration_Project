@@ -1,4 +1,4 @@
 {100}{}{You see the courtyard well.}
-{101}{}{You could be wrong, but as you look down the well, you feel heat emanating from the darkness.}
-{102}{}{You take a big gulp of the well water. It's unusually warm.}
+{101}{}{Talán tévedsz, de ahogy lenézel a kútba úgy érzed mintha melegség áradna a sötétségből.}
+{102}{}{Nagyot kortyolsz a kút vizéből. Szokatlanul meleg.}
 {103}{}{You take a big gulp of the well water. It tastes much better than it did before.}
