@@ -47,7 +47,7 @@ procedure LoadChests;
 
 #define AREA_1 19108
 #define AREA_2 19492
-#define AREA_3 20689
+#define AREA_3 20692
 
 #define CHEST_1 21675
 #define CHEST_2 18092
