@@ -132,6 +132,15 @@ procedure map_enter_p_proc begin
 end
 
 procedure combat_p_proc begin
+   // Workaround for Frank standing idly when both his arms are crippled.
+   variable weapon;
+   weapon = self_right_hand;
+   if (weapon and (fixed_param == COMBAT_SUBTYPE_TURN)) then begin
+      if (critter_state(self_obj) bwand (DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT)) then begin
+         inven_unwield(self_obj);
+      end
+   end // end workaround.
+
    if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
        if (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) then
            script_overrides;
@@ -204,7 +213,7 @@ procedure talk_p_proc begin
    end
 
    else if (dude_iq < 4) then begin
-      inc_local_var(LVAR_Talked_Before);
+       inc_local_var(LVAR_Talked_Before);
        call final_fight_lock_doors;
        call Node001;
        set_local_var(LVAR_Hostile,2);
@@ -446,19 +455,21 @@ procedure Endgame_Info begin
    end
 
 
-// Broken Hills Endgame
+   // Broken Hills Endgame
    if (broken_hills_visible_on_map) then begin
        if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
-           set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,1);
-       else if ((global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) or (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS)) then begin
-           set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,2);
-
-           // Macus Endgame: Begin Seraph's Code - expansion
-           if ((check_general_rep >= 0) and (global_var(GVAR_MARCUS_DEAD) != 1)) then
-               set_global_var(GVAR_ENDGAME_MOVIE_MARCUS,1);
-           // End Seraph's Code
-       end else
-           set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,3);
+            set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,1);
+       else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS)
+               or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO)
+               or (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS)
+            then begin
+               set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,2);
+               // Macus Endgame: Begin Seraph's Code - expansion
+               if (check_general_rep >= 0) and (global_var(GVAR_MARCUS_DEAD) != 1) then
+                     set_global_var(GVAR_ENDGAME_MOVIE_MARCUS,1);
+               // End Seraph's Code
+            end else
+               set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,3);
    end
 
 // NCR Endgame
@@ -497,7 +508,7 @@ procedure Endgame_Info begin
    if (san_francisco_visible_on_map) then begin
       if (global_var(GVAR_SAN_FRAN_FLAGS) bwand bit_1) then //Enemy of the shi
         set_global_var(GVAR_ENDGAME_MOVIE_SAN_FRAN_SHI,1);
-      else if ((gvar_bit(GVAR_SAN_FRAN_FLAGS, bit_6)) and (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE)) then //Dr Wong Dead //edit by killap - added GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG (expansion)
+      else if (gvar_bit(GVAR_SAN_FRAN_FLAGS, bit_6) and (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_DELIVERED_SEED_SAMPLE)) then //Dr Wong Dead //edit by killap - added GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG (expansion)
         set_global_var(GVAR_ENDGAME_MOVIE_SAN_FRAN_SHI,2);
       else
         set_global_var(GVAR_ENDGAME_MOVIE_SAN_FRAN_SHI,3);
