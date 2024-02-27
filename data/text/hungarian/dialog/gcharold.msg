@@ -94,7 +94,7 @@
 {193}{hld28}{Igen, igen, valami hozzád hasonló gyógyegér ugyanezt gagyogta a Mesterről.}
 {194}{}{Jó kis történetnek hangzik. Bárcsak tovább élvezhetném, de sajnos indulnom kell.}
 {195}{}{A mestert megölte az ősöm!}
-{196}{hld29}{Nothing, huh? I'm not buyin' it. You just put us in a bind. Why don't you skedaddle while I thinka what to do.}
+{196}{hld29}{Semmit? Ezt nem veszem be. Nehéz helyzetbe hozol minket. Miért nem jársz egyet, amíg kiokumulálom, mitévők legyünk?}
 {197}{}{Bocs, sajnálom.}
 {198}{}{Hát persze. Miért nem fog bele rögtön? Atyám! Így próbáljon az ember másokon segíteni...}
 {199}{hld30}{Mi a baj ezzel? Menedékváros most már tisztában van vele, mennyire kell nekünk a Broken Hills-i urán. Elvághatják az ellátóutakat, és akkor nekünk annyi.}
@@ -180,7 +180,7 @@
 {279}{}{Hé, végül is bármi megtörténhet. Később találkozunk.}
 {280}{}{Észak felé}
 {281}{}{Észak-nyugat felé}
-{282}{}{To the west}
+{282}{}{Nyugat felé}
 {283}{}{Dél-nyugat felé}
 {284}{}{Dél felé}
 {285}{}{Dél-nyugat felé}
@@ -219,4 +219,4 @@
 {318}{}{Ezt ki kéne nyitnod.}
 {319}{}{Lehet, hogy később kéne visszajönnünk.}
 {320}{}{Nem kamuzok. Gondoskodom róla, hogy a reaktor helyrepofozódjon. Vagy így, vagy úgy. Hmm, kíváncsi vagyok, rá tudnám-e Festust venni, hogy megcsinálja nekem. Na, jó, majd még jövök.}
-{321}{}{Hey Harold, I got that part you need to fix your reactor. I am going to go and try to get it installed in the reactor. I'll report back when I am done. Bye.}
+{321}{}{Harold papa. Megvan az alkatrész, amivel megjavíthatjuk a reaktort. Megpróbálom beépíteni a reaktorba. Visszajelzek mikor kész. Viszlát.}

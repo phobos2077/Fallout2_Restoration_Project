@@ -38,7 +38,7 @@
 {137}{}{Mi lenne, ha egy fegyert dugnék az orra alá?}
 {138}{}{Nagyszerű! Hát, még kérdeznék, ha nem gond.}
 {139}{}{Hmm. Értem. Hát akkor viszlát!}
-{140}{}{Ahh, yes! Indeed. I will prepare it with fava beans and a nice Chianti.}
+{140}{}{Ahh, igen! Bizony. Szép nagy szemű babbal fogom elkészíteni, és jó Chianti-t fogok inni hozzá.}
 {141}{}{Még megvan magának? Remek. Chip már epedve várja.}
 {142}{}{Az egy emberi lép, maga beteg állat!}
 {143}{}{Azt ugye tudja, hogy ehhez májat kell felszolgálni, nem lépet?}
@@ -53,7 +53,7 @@
 {152}{}{Ennek ellenére, a hírvivő kíméletlensége miatt, azt hiszem, a megállapodáshoz fogom tartani a feleket. Kísérleteket fogok végezni azon a lépen.}
 {153}{}{Mondja el a barátjának, hogy holnapig jöjjön érte, és akkor örömmel visszaadom. Remélem, megtalálja a módját, hogy időben visszakerüljön a testébe.}
 {154}{}{Jól van.}
-{155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
+{155}{}{Haha! Igen, én is láttam azt a régi filmet. Na, várjunk... mit akar ezzel mondani? Csak nem azt, hogy...?}
 {156}{}{Igen, az bizony egy emberi lép.}
 {157}{}{Igazság szerint ellenkeznék ezzel. Maga nem bizonyult jó embernek. Azt sem tudom, miért beszélek magával egyáltalán. Minden jót!}
 {158}{}{[RENDBEN]}

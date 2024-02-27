@@ -16,7 +16,7 @@
 {118}{}{Persze.}
 {119}{}{Maga nem tartozik közénk, ezért semmi joga itt tartózkodni! Hacsak nem akar csatlakozni hozzánk - mely igényéről tájékoztatnia kell az őrhelyen álló BHK-7 elvtársunkat. Tehát vagy lemegy a lépcsőn, vagy sürgősen távozik innen!}
 {120}{}{Értem, értem. Nem kell felkapnia a vizet!}
-{121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
+{121}{}{Az a helyzet, hogy igenis van közöm hozzá. Ez az én hajóm, ezek az én őreim... szóval ki is maga, és mit csinál itt?}
 {122}{}{Én}
 {123}{}{Semmi közöd hozzá!}
 {124}{}{Szeretnék csatlakozni a Hubologistákhoz.}
@@ -29,7 +29,7 @@
 {131}{}{Semmit. Viszlát!}
 {132}{}{Nem akar együttműködni, mi? Őrség! Öljék meg a behatolót!}
 {133}{}{Az őrei mind halott emberek.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Menjen le azon a lépcsőn, és beszéljen BHK-7-el az őrhelyen. Megfelelően el fogja igazítani.}
 {135}{}{Köszönöm. Viszlát!}
 {161}{}{. Csak körbenézek.}
 {162}{}{. Csak körbenézek.}
@@ -40,10 +40,10 @@
 {173}{}{Mit csinálsz itt?}
 {174}{}{Megszereztem a tervek másolatát a Shiktől.}
 {175}{}{Megvannak a gépmadár tervei.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{A gépmadár tervei a Shiknél vannak.}
 {177}{}{Segíthetek valamiben?}
 {178}{}{Felejtse el! Üdv!}
-{179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}
+{179}{}{Harry vagyok, BHK-5, a rakétahajóval megbízott csillagtestvér. A hajót arra fogjuk használni, hogy eljussunk a Quetzel-re.}
 {180}{}{Kérdezhetek valami mást?}
 {181}{}{Aha. Viszlát!}
 {182}{}{A feladatom az, hogy felkészítsem a hajót a Csillagbéli Atyánkhoz való utazásra. Közel már a pillanat.}
@@ -66,4 +66,4 @@
 {199}{}{Tudja, mi kell nekünk? Üzemanyag. Egy rakással. A Shiknek van belőle. Járjon utána, tud-e szerezni tőlük!}
 {200}{}{Emlékezetőnek: üzemanyagot kell szereznie a nagy űrhajónkba!}
 {201}{}{Ó, persze. Üdv!}
-{300}{}{We had a breach in security and our fuel reserves have been depleted. I'm a little busy to talk right now.}
+{300}{}{Volt egy biztonsági eseményünk melynek következtében az üzemanyag tartalékunk teljesen eltfogyott. Most épp túl elfoglalt vagyok beszélgetni.}

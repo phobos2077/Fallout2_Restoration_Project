@@ -6,7 +6,7 @@
 {105}{}{Válaszolja kérdésekre?}
 {106}{}{Semmitse. Én jönni vissza később.}
 {107}{}{Kezdhetnéd azzal, hogy válaszolsz néhány kérdésemre.}
-{108}{}{Nothing for now. I'll come back later.}
+{108}{}{Most semmiben. Később még jövök.}
 {109}{}{Azt hiszem, megérdemled a válaszokat a kérdéseidre.}
 {110}{}{Miben lehetek a segítségedre?}
 {111}{}{Ti vagy kik?}
@@ -27,7 +27,7 @@
 {126}{}{A mai napig bezárólag újraaktiváltunk néhány apró előörsöt az Enklávés területek közelében. Ezekről a helyekről biztonságban megfigyelhetjük őket. Jelenleg Rejtekben, az ÚKK-ban és itt San Franciscóban vannak ilyen előörseink.}
 {127}{}{Mit tudni?}
 {128}{}{Érdekesen hangzik, mondhatom. Mit tudtatok meg róluk?}
-{129}{}{We have found that the Enclave deals heavily in drugs, weapons, and slaves. However, these are simply trivial pursuits leading up to some higher purpose, which we have failed to uncover. We are still watching them.}
+{129}{}{Rájöttünk, hogy az Enklávé kemény drogokkal, fegyverekkel, rabszolgákkal foglalkozik. Persze e triviális dolgok mögött valami magasabb cél sejthető, amiről egyelőre nincs tudomásunk. Annyit tehetünk, hogy tovább figyeljük őket.}
 {130}{}{Miért mondani eztet el?}
 {131}{}{Mielőtt továbbmennénk, miért mondod el ezt nekem?}
 {132}{}{(sóhajt) Az Enklávé kifejlesztette a Gépmadár technológiáját. Repülő gépezetekről van szó, melyek lehetővé teszik számukra, hogy mélyen behatoljanak különféle területekre. Hasonló technológia nélkül a Testvériség képtelen lenne egy Enklávé által indított támadás kivédésére. Meg kell szereznünk a gépmadár technológiáját illetve egy vele egyenértékű eszközét.}

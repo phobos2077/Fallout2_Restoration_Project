@@ -1,6 +1,6 @@
 {100}{}{Ez egy zömök Shi férfi, aki szemlátomást elég okos ember.}
 {101}{}{Ő Ken Lee, az Uralkodó tanácsadója.}
-{102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
+{102}{}{Egy zömök Shi férfihez van szerencséd. Szemüvege mellé némi mosolyt is magára erőltetett.}
 {103}{}{Mit szeretne, barátom?}
 {104}{}{Mit akar?}
 {105}{}{Segíthetek valamiben?}
@@ -81,7 +81,7 @@
 {180}{}{Az. Pedig sajnos naponta kell ilyen emberekkel találkoznom!}
 {181}{}{Hát... akkor kérdeznék még valamit.}
 {182}{}{Ó, szegény ember... Na, üdv!}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Kétségtelen, hogy maga megérdemli az üzemanyagunkat. Hiszem, hogy magára bízhatom a titkainkat is. A hátsó fertályban észreveheti, hogy a nagy számítógépet védő erőtér ki lett kapcsolva. Üsse be a "CSPDMSHR-Shih-huang-ti-X9372" jelszót és máris rácsatlakozott az Uralkodó-Számítógépre. Az Uralkodó oda fogja irányítani az üzemanyagot, ahova csak szeretné.}
 {184}{}{Kösz.}
 {185}{}{Őrség! Ide jött az ellenség egyik embere! Őrség!}
 {186}{}{Valóban? Talán meg szeretné leckéztetni őket? Megígérhetem, hogy teljes támogatásunkról biztosítjuk magát, ha megöli BHK-9-et.}
@@ -99,7 +99,7 @@
 {198}{}{Az Uralkodó egy SZÁMÍTÓGÉP?}
 {199}{}{Vettem. Kösz.}
 {200}{}{Igen. Ő tárolja a történelmünket, a kutatási anyagainkat, és a jövőbeli projektjeink terveit. Sokkal jobb, mint egy gyarló ember! Mellesleg a javaslatait a saját emberi természetünknek megfelelő tudással elegyítjük.}
-{201}{}{I ... see. Well, thanks for your time.}
+{201}{}{Értem... Kösz, hogy feltarthattalak.}
 {202}{}{Kémeink azt jelezték, hogy maga átadta a gépmadár terveit a Hubologistáknak. Lopja el tőlük, és busásan megjutalmazzuk érte!}
 {203}{}{Mérget vehet rá. Ellenben még kérdeznék.}
 {204}{}{Semmiképp.}
@@ -114,7 +114,7 @@
 {213}{}{Emlékezzen rá, hogy Dr. Wong Yi Tze-nek kell odaadnia a terveket!}
 {214}{}{Remélem, nem azért jött, hogy inzultáljon...}
 {215}{}{Ahogy azt már mondtam, tudnunk kell, hogy hívják magát.}
-{216}{}{All right, it's}
+{216}{}{Nos, a nevem}
 {217}{}{Kopjon már le a nevemről, maga idióta!}
 {218}{}{Emlékezzen, az Uralkodó várja, hogy BHK-9 meghaljon...}
 {219}{}{Sajnálom, de az üzemanyagunkat nem tudom felajánlani. Talán azért jött, hogy beszéljen az Uralkodóval?}
@@ -122,10 +122,10 @@
 {221}{}{Kérdezhetek valami mást?}
 {222}{}{Bárcsak felajánlhatnám az üzemanyagunkat, de sajnos a készleteink leapadtak. Valami módon átkerültek a Hubologistákhoz. Talán kéne találnia valakit, aki visszaszerzi nekünk.}
 {223}{}{Most akkor találkozhatok az Uralkodóval?}
-{224}{}{I respectfully remind you that unless you have given the vertibird plans to Dr. Wong Yi Tze, I cannot grant you access to the Emperor. I hope you understand.}
+{224}{}{Tiszteletteljesen emlékeztetném magát arra, hogy a Dr. Wong Yi Tze számára eljuttatott gépmadár tervek ellenére sem adhatom meg az engedélyt egy Uralkodóval való találkozásra. Remélem, megérti.}
 {500}{}{Azon nyomban távozzon, kérem, különben hívom az őrséget!}
 {501}{}{Távozzon! Ez a második figyelmeztetés!}
 {502}{}{Ez az utolsó figyelmeztetés!}
 {503}{}{Őrség!}
-{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{1430}{}{A Császár rejtve marad a vizslató tekintetek elől. A munkám az, hogy a Császár védelmeként és szürőjeként tevékenykdjek. Ugyanakkor, bebizonyította, hogy maga a Shik barátja. Mostantól magára bízhatom a titkainkat is. A hátsó fertályban észreveheti, hogy a nagy számítógépet védő erőtér ki lett kapcsolva. Üsse be a "CSPDMSHR-Shih-huang-ti-X9372" jelszót és máris rácsatlakozott az Uralkodó-Számítógépre. Remélem, ez hasznosnak bizonyul majd.}
 {2001}{}{Öö... értem. Hát köszönöm, hogy rám pazarolta az idejét. Volna még egy falu, amit meg kell mentenem.}

@@ -5,7 +5,7 @@
 {104}{}{Adja elő gyorsan, mit akar!}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Hoztam egy levelet BHK-9 számára az ÚKK-ból, a Megvilágosodottól.}
-{107}{}{I'm here to speak to Crockett about some armor.}
+{107}{}{Azért jöttem, hogy beszéljek Crockettel valami páncélzat ügyében.}
 {108}{}{Szeretnék körülnézni.}
 {109}{}{Érdekelne, hogy esetleg csatlakozzam a maguk szervezetéhez.}
 {110}{}{Ki vagy?}
@@ -28,7 +28,7 @@
 {127}{}{Óh! Hírességek!}
 {128}{}{Én BHK-7 vagyok, e komplexum helyettes vezetője. Mielőtt rákérdezne: BHK annyit tesz, hogy Behangolt Hub Kereső. Ez azt jelenti, hogy a neurodinjaim hét szintjét már eltávolították a lelkemből. Ebből következik, hogy magánál sokkal megvilágosodottabb vagyok, és közelebb állok a Nagy Kerék tengelyéhez, viszont azt is jelenti, hogy most szépen elmondja nekem, mit is keres itt. De ne kelljen ám várnom!}
 {129}{}{Hoztam egy levelet BHK-9 számára az ÚKK-ból, a Megvilágosodottól.}
-{130}{}{I'm here to speak to Crockett about some armor.}
+{130}{}{Azért jöttem, hogy beszéljek Crockettel valami páncélzat ügyében.}
 {131}{}{Szeretnék körülnézni.}
 {132}{}{Érdekelne, hogy esetleg csatlakozzam a maguk szervezetéhez.}
 {133}{}{Azért jöttem, hogy mindannyiukat megöljem!}
@@ -69,14 +69,14 @@
 {168}{}{Talán meggondolja még magát. Tudassa velem, ha így lenne! Nos, újonc, tud valamiben a Hub segíteni magának?}
 {169}{}{Naszóval... lenne néhány kérdésem.}
 {170}{}{Nem, most nem, köszönöm.}
-{171}{}{Have you thought on aiding us in our struggle against the oppressive Shi? The Star Father will bless you if you take part in our crusade.}
+{171}{}{Gondolt már arra, hogy segítő kezet nyújt nekünk az elnyomó Shik ellenében? Csillagbéli Atyánk megáldja majd magát, ha részt vesz e keresztes hadjáratban.}
 {172}{}{Még mindig nem vagyok benne biztos, hogy szeretném...}
 {173}{}{Legyen.}
 {174}{}{Talán tudok könnyíteni a problémákkal küzdő lelkén. Mire van szüksége?}
 {175}{}{Hol találhatnék üzemanyagot a Poseidon tankerbe?}
 {176}{}{Hol találom a maguk által használt fogalmak jegyzékét?}
 {177}{}{Mikor száll fel a hajó?}
-{178}{}{Where is Crockett?}
+{178}{}{Hol van Crockett?}
 {179}{}{Semmire, köszönöm. Üdv!}
 {180}{}{Ha kész van a feladattal, tudassa velünk!}
 {181}{}{Tudatni fogom. Hadd kérdezősködjek addig is!}
@@ -106,7 +106,7 @@
 {205}{}{Tudom, hogy a Shiknek van egy nagy rakás üzemanyaguk. Esetleg ellophatná tőlük.}
 {206}{}{Ez is egy elképzelés... Volna ellenben még néhány kérdésem.}
 {207}{}{Esetleg. Köszönöm.}
-{208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
+{208}{}{Használja a Juan és Vikki által adott hololemezt, és olvassa át a szójegyzéket!}
 {209}{}{Köszönöm. Még kérdezhetek?}
 {210}{}{Kösz.}
 {211}{}{Amikor BHK-9 számára megérkezik a látomás a Hub-tól, mindannyian elmegyünk és csillagközi dicsőségtől övezve csatlakozunk hozzá!}
@@ -123,7 +123,7 @@
 {222}{}{Ah, rendben van, szkenneljen csak!}
 {223}{}{Ezennel elimináltuk a legmocskosabb neurodinjait. Mostantól ön BHK-1. Készen áll, hogy csatlakozzon nemes ügyünkhöz?}
 {224}{}{Ó, igen.}
-{225}{}{Nope. Don't want to right now.}
+{225}{}{Nem. Most épp nem.}
 {226}{}{Első lecke: Ugyebár itt van az örökkévalóság. Az egyik oldalon ott van Quetzel. [ujjával mutat valahova] Itt pedig mi vagyunk. [megintcsak mutat valahova] Nem kell mást csinálnunk, hogy eljussunk oda, csak egyszerűen jó sokat járni.}
 {227}{}{Ember, temérdek cipőre lesz szükségünk!}
 {228}{}{Gondolkozhatok rajta?}

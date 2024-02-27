@@ -32,7 +32,7 @@
 {210}{}{Rendi? Ez mit akar jelenteni? Zaza vagy?}
 {211}{}{Goop?}
 {220}{}{Tűnés innen! Az Agynak nincs ideje az ilyenekre.}
-{221}{}{OK. I'll be going now.}
+{221}{}{Oké, most már megyek.}
 {230}{}{Itt nincs más semmi, csak az Agy barlangja. Barátocskám, te aztán zaza vagy a javából.}
 {231}{}{Miféle Agy?}
 {232}{}{Csak teszteltelek, és megfeleltél. Most engedj be.}

@@ -90,8 +90,8 @@
 {204}{}{A népem ellenségeit nem látom el. Mélyen sajnálom.}
 {205}{}{Igen tisztelt uram! Melegen ajánlom, hogy keresse fel a szektája orvosait!}
 {206}{}{Mit tud mondani a páncél-beültetésekről?}
-{207}{}{I helped write the article on armor implants. All it takes is my expertise and your materials. What types of implants do you desire?}
-{208}{}{What types are there?}
+{207}{}{Segítettem egy páncél-beültetésekkel foglalkozó cikk megírásában. Én adom a tudásomat, maga pedig a nyersanyagokat. Milyen implantra van szüksége?}
+{208}{}{Milyenek vannak?}
 {209}{}{A bőr alá ültethető implantokra.}
 {210}{}{A bőr alá ültethető implantok felturbózására.}
 {211}{}{A Főnix implantra.}

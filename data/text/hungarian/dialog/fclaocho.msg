@@ -28,7 +28,7 @@
 {127}{}{Egy lép nyomában kutatok.}
 {128}{}{Úgy hallottam, egy repülő alkalmatosság falusiakat hozott errefelé.}
 {129}{}{Semmit. Viszlát!}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Beszélj Crockettel, a Hubologisták bázisán! Ő ott a vezető tudós.}
 {131}{}{Köszi. Szeretnék még egy-két infót.}
 {132}{}{Köszönöm. Viszlát!}
 {133}{}{Kutakodj északon, Navarróban! A benzinkút közelében van egy titkos bázisuk.}
