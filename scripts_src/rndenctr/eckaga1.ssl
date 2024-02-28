@@ -124,22 +124,6 @@ procedure start begin
 end
 
 procedure combat_p_proc begin
-
-/* if (local_var(LVAR_Personal_Enemy)) then begin
-      if (not critter_is_fleeing(self_obj)) then begin
-         critter_set_flee_state(self_obj, 1);
-      end
-   end
-*/
-
-
-/*   if (critter_is_fleeing(self_obj)) then begin
-      call NodeFleeing;
-   end else begin
-      call NodeFighting;
-   end
-*/
-
    if (self_visible) then begin
       if (Random(1,2) == 1) then begin
          if (critter_is_fleeing(self_obj)) then begin
@@ -158,7 +142,7 @@ procedure combat_p_proc begin
       if (((not obj_on_screen(self_obj)) or (tile_distance_objs(dude_obj, self_obj) > 15)) and (critter_is_fleeing(self_obj))) then begin
          float_msg(self_obj, mstr(110), FLOAT_MSG_RED);
          set_kaga_met;
-         //destroy_object(self_obj);
+         ndebug("set invisible");
          set_self_invisible;
       end
    end
@@ -171,34 +155,20 @@ procedure do_setup begin
    variable Critter_Tile;
    variable count;
 
+   ndebug("do_setup");
    if not(local_var(LVAR_Defeated)) then begin
+      ndebug("not_defeated");
+
       count := 1;
 
       set_self_team(TEAM_RND_KAGA);
       set_self_ai(AI_KAGA);
-      //set_local_var(LVAR_Hostile, 2);
-      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
       set_kaga_1;
-      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
       set_kaga_met;
-      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
 
       check_restock_item(PID_SPEAR, 2, 3, 100)
       check_restock_item(PID_BOTTLE_CAPS, 100, 200, 100)
       check_restock_item(PID_STIMPAK, 1, 2, 100)
-
-      //Face_Critter(dude_obj, self_obj);
-      //Face_Critter(self_obj, dude_obj);
-
-      //obj := self_item(PID_SPEAR);
-
-      //move_to(dude_obj, 16099, 0);
-      //move_to(self_obj, 17880, 0);
-
-      //ndebug("ECKAGA1: tile_set_center(16494): " + tile_set_center(16494)); //screen will recenter to the right of the player as he/she walks
-      //game_ui_disable;
-
-      //wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_SPEAR));
 
       while (count > 0) do begin
          Critter:=create_object_sid(PID_MALE_CANNIBAL,0,0,SCRIPT_ECOUTCST);
@@ -255,16 +225,6 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
- /*  if (local_var(LVAR_Personal_Enemy)) then begin
-      if (obj_on_screen(self_obj)) then begin
-         if (not anim_busy(self_obj)) then begin
-            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
-         end
-      end else begin
-         set_kaga_met;
-         destroy_object(self_obj);
-      end
-   end*/
    variable rot;
 
    if (self_visible) then begin
@@ -304,35 +264,11 @@ procedure critter_p_proc begin
       end
    end
 
-   /*if ((self_cur_hits) < (self_max_hits)) then begin
-      if not(local_var(LVAR_Defeated)) then
-         set_local_var(LVAR_Defeated,1);
-      if ( ((obj_on_screen(self_obj))) or (self_can_see_dude) ) then begin
-         if (not anim_busy(self_obj)) then begin
-            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 12));
-         end
-      end else begin
-         set_kaga_met;
-         destroy_object(self_obj);
-      end
-   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
-       //set_local_var(LVAR_Hostile,1);
-       attack(dude_obj);
-   end*/
-
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
    like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
 procedure damage_p_proc begin
-
-/* If the player causes damage to this critter, then he will instantly consider the player
-   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
-   the player for his evil acts. */
-   /*if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Personal_Enemy,1);
-   end*/
-
 end
 
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
