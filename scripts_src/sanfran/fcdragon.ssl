@@ -202,8 +202,7 @@ procedure combat_p_proc begin
    end
 
    if (obj and (called == 0)) then begin
-      //if ((critter_state(obj) bwand CRITTER_IS_DEAD) or (is_critter_prone(obj))) then begin //added is_critter_prone (knock out code) - killap
-      if ( (is_critter_dead(obj)) or (is_critter_prone(obj)) or ((critter_state(obj) bwand DAM_KNOCKED_OUT)) ) then begin //changed by killap
+      if is_critter_dead(obj) or is_critter_prone(obj) or (critter_state(obj) bwand DAM_KNOCKED_OUT) then begin
          max := 4;
          cur := 0;
          ndebug("critter was dead..." + max + " cur: " + cur);
@@ -222,11 +221,11 @@ procedure combat_p_proc begin
          if (local_var(LVAR_Test_Stage) < 6) then begin
             called := 1;   //added by killap
             add_timer_event(self_obj, 2, TIMER_DOTEST);
-            ndebug("called dotest");
+            ndebug("combat_p_proc: set dotest timer");
          end else begin
             called := 1; //added by killap
             add_timer_event(self_obj, 2, TIMER_DOENDTESTPASS);
-            ndebug("called do end test pass");
+            ndebug("combat_p_proc: set do end test pass timer");
          end
       end else begin
          max := dude_max_hits;
@@ -236,6 +235,7 @@ procedure combat_p_proc begin
             called := 1;
             float_msg(self_obj, mstr(227), FLOAT_MSG_WARNING);
             add_timer_event(self_obj, game_ticks(2), TIMER_DOENDTESTFAIL);
+            ndebug("combat_p_proc: set do end test fail timer");
          end
       end
    end
@@ -249,6 +249,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_ATTACK) then begin
+      ndebug("got TIMER_ATTACK");
       if (not combat_is_initialized) then begin
          if (self_can_see_dude and tile_distance_objs(self_obj, dude_obj) < ATTACK_DIST) then begin
             floater((202));
@@ -257,14 +258,18 @@ procedure timed_event_p_proc begin
       end
    end else if (fixed_param == TIMER_DOTEST) then begin
       game_ui_enable;
+      ndebug("got TIMER_DOTEST");
       call doTest;
    end else if (fixed_param == TIMER_DOENDTESTFAIL) then begin
       game_ui_enable;
+      ndebug("got TIMER_DOENDTESTFAIL");
       call endTestFail;
    end else if (fixed_param == TIMER_DOENDTESTPASS) then begin
       game_ui_enable;
+      ndebug("got TIMER_DOENDTESTPASS");
       call endTestPass;
    end else if (fixed_param == TIMER_FIGHT) then begin
+      ndebug("got TIMER_FIGHT");
       call doFight;
    end else if (fixed_param == TIMER_LEARN1) then begin
       call learn1;
@@ -340,8 +345,7 @@ procedure critter_p_proc begin
    end
 
    if (obj and (called == 0)) then begin
-      //if ((critter_state(obj) bwand CRITTER_IS_DEAD) or (is_critter_prone(obj))) then begin //added is_critter_prone (knock out code) - killap
-      if ( (is_critter_dead(obj)) or (is_critter_prone(obj)) ) then begin //changed by killap
+      if is_critter_dead(obj) or is_critter_prone(obj) then begin
          max := 4;
          cur := 0;
          ndebug("critter was dead..." + max + " cur: " + cur);
@@ -360,11 +364,11 @@ procedure critter_p_proc begin
          if (local_var(LVAR_Test_Stage) < 6) then begin
             called := 1;   //added by killap
             add_timer_event(self_obj, 2, TIMER_DOTEST);
-            ndebug("called dotest");
+            ndebug("critter_p_proc: set dotest timer");
          end else begin
             called := 1; //added by killap
             add_timer_event(self_obj, 2, TIMER_DOENDTESTPASS);
-            ndebug("called do end test pass");
+            ndebug("critter_p_proc: set do end test pass timer");
          end
       end else begin
          max := dude_max_hits;
@@ -374,6 +378,7 @@ procedure critter_p_proc begin
             called := 1;
             float_msg(self_obj, mstr(227), FLOAT_MSG_WARNING);
             add_timer_event(self_obj, game_ticks(2), TIMER_DOENDTESTFAIL);
+            ndebug("critter_p_proc: set do end test pass timer");
          end
       end
    end
@@ -388,10 +393,7 @@ procedure damage_p_proc begin
 /* If the player causes damage to this critter, then he will instantly consider the player
    his personal enemy. In Critter_Proc or through dialog, actions will be taken against
    the player for his evil acts. */
-/*   if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Personal_Enemy,1);
-   end
-   */
+
    if (source_obj == dude_obj) then begin
       if (not local_var(LVAR_Challenge)) then begin
          set_san_fran_flag(SF_SHI_ENEMY);
@@ -903,13 +905,8 @@ end
 procedure SafeDestroy begin
    ndebug("SafeDestroy called"); // Seraph's Code
    if (local_var(LVAR_Test_Obj)) then begin
-      //if (not (is_critter_dead(local_var(LVAR_Test_Obj)))) then begin // Commented out by Seraph
-         reg_anim_clear(local_var(LVAR_Test_Obj));
-         destroy_object(local_var(LVAR_Test_Obj));
-      /* Commented out by Seraph
-      end else
-         ndebug("couldn't delete object already dead");
-      //*/
+      reg_anim_clear(local_var(LVAR_Test_Obj));
+      destroy_object(local_var(LVAR_Test_Obj));
       set_local_var(LVAR_Test_Obj, 0);
    end
 end
@@ -1018,6 +1015,7 @@ procedure DoTest begin
          fadein(1);
          game_ui_disable;
          float_msg(local_var(LVAR_Test_Obj), mstr(strnum), FLOAT_MSG_NORMAL);
+         ndebug("dotest: set fight timer");
          add_timer_event(self_obj, game_ticks(3), TIMER_FIGHT);
       end
       inc_local_var(LVAR_Test_Stage);
@@ -1029,6 +1027,7 @@ procedure DoTest begin
       end
       terminate_combat;
       add_timer_event(self_obj, 2, TIMER_DOTEST);
+      ndebug("dotest: set dotest timer");
    end
 end
 
@@ -1061,6 +1060,7 @@ procedure endTestFail begin
       end
       terminate_combat;
       add_timer_event(self_obj, 2, TIMER_DOENDTESTFAIL);
+      ndebug("endTestFail: set do end test fail timer");
    end
 end
 
@@ -1093,6 +1093,7 @@ procedure endTestPass begin
       end
       terminate_combat;
       add_timer_event(self_obj, 2, TIMER_DOENDTESTPASS);
+      ndebug("endTestPass: set do end test pass timer");
    end
 end
 
@@ -1211,14 +1212,6 @@ end
 
 procedure startSequence begin
    variable sound;
-
-/*
-   game_ui_disable;
-   set_obj_visibility(dude_obj, OBJ_INVIS);
-   lastDudeTile := dude_tile;
-   lastDudeRot  := obj_get_rot(dude_obj);
-   move_to(dude_obj, tile_num_in_direction(self_tile, 2, 2), 0);*/
-
    sound := sfx_build_char_name(self_obj, ANIM_kick_leg, snd_contact);
 
    reg_anim_clear(self_obj);
@@ -1340,15 +1333,10 @@ procedure DoTalking begin
       reg_anim_clear(i_lopan_obj);
       call checkload;
       move_to(i_lopan_obj, LOPAN_TILE, 0);
-//      move_to(dude_obj, lastDudeTile, 0);
-//      game_ui_enable;
       set_local_var(LVAR_Did_Sequence, 1);
-//      set_obj_visibility(dude_obj, OBJ_VIS);
       if (faded) then begin
          fadein(500);
       end
    end
    countTalk += 1;
 end
-
-//xxxxxxxxxxxxxxxxxxxx
