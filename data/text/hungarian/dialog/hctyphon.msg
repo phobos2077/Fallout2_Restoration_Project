@@ -79,8 +79,8 @@
 {178}{}{Rendben, de előbb válaszoljon néhány kérdésre!}
 {179}{}{Aha. Na, viszlát!}
 {180}{}{Rövid úton felejtsd el!}
-{181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
-{182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
+{181}{}{Itt van. [odaadod a gumibabát Typhonnak]}
+{182}{}{Ez az, kölyök, pont ez kell! Adj néhány órát nekem, utána beszélünk. Tűnés! [nyálcsorgatva bámulja a babát]}
 {183}{}{[RENDBEN]}
 {184}{}{Nem lehet egy csepp nyugalmam sem?! Tűnés! Tűnés! Mars!}
 {185}{}{[RENDBEN]}
@@ -88,7 +88,7 @@
 {187}{}{Rendics! Pá!}
 {188}{}{Nem!}
 {189}{}{Tess! [odaadom a pálinkát Typhonnak]}
-{190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
+{190}{}{Itt van. Tessék. [odaadod a pálinkát Typhonnak]}
 {191}{}{Meddig fog ez még tartani?}
 {192}{}{Aha. Na, viszlát!}
 {193}{}{Rövid úton felejtsd el!}
@@ -109,7 +109,7 @@
 {208}{}{Gondolom. Viszlát!}
 {209}{}{Na, mit szólsz a kincshez, kölyök?}
 {210}{}{Rossz! Kupakok!}
-{211}{}{It was all bottle caps! It's worthless!}
+{211}{}{Kupakok ezrével! Értéktelen!}
 {212}{}{Ha ha. Nagyon vicces. Lenne pár kérdésem.}
 {213}{}{Rövid úton felejtsd el!}
 {214}{}{Beee! Pá!}
