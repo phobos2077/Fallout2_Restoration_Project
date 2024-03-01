@@ -122,7 +122,7 @@
 {221}{}{Kérdezhetek valami mást?}
 {222}{}{Bárcsak felajánlhatnám az üzemanyagunkat, de sajnos a készleteink leapadtak. Valami módon átkerültek a Hubologistákhoz. Talán kéne találnia valakit, aki visszaszerzi nekünk.}
 {223}{}{Most akkor találkozhatok az Uralkodóval?}
-{224}{}{Tiszteletteljesen emlékeztetném magát arra, hogy a Dr. Wong Yi Tze számára eljuttatott gépmadár tervek ellenére sem adhatom meg az engedélyt egy Uralkodóval való találkozásra. Remélem, megérti.}
+{224}{}{Tiszteletteljesen emlékeztetném magát arra, hogy a Dr. Wong Yi Tze számára el kell juttatnia a gépmadár terveit, addig nem adhatom meg az engedélyt egy Uralkodóval való találkozásra. Remélem, megérti.}
 {500}{}{Azon nyomban távozzon, kérem, különben hívom az őrséget!}
 {501}{}{Távozzon! Ez a második figyelmeztetés!}
 {502}{}{Ez az utolsó figyelmeztetés!}

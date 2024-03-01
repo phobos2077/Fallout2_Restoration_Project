@@ -25,10 +25,10 @@
 {124}{}{Mi az?}
 {125}{}{Rövid úton felejtsd el!}
 {126}{}{Öreg vagyok, nem sok mindent tehetek már. Nincs túl sok lehetőségem egy kis izgalomra sem, ha érted, mire gondolok. Szóval nem szeretnék mást, mint egy Cat's Paw magazint. Szerezz nekem egyet!}
-{127}{}{'Ere! [Give Cat's Paw to Typhon.]}
+{127}{}{Tess'! [odaadom a Cat's Paw magazint Typhonnak]}
 {128}{}{Okké!}
 {129}{}{Nehm!}
-{130}{}{Here you go. [Give Cat's Paw to Typhon.]}
+{130}{}{Tessék. [odaadom a Cat's Paw magazint Typhonnak]}
 {131}{}{Rendben. Visszajövök még.}
 {132}{}{Rövid úton felejtsd el!}
 {133}{}{Kösz a magazint, kölök. Várj kábé egy órát és visszajövök!}
@@ -65,9 +65,9 @@
 {164}{}{Értem. Kérdeznék valami mást.}
 {165}{}{Köszönöm. Viszlát!}
 {166}{}{Nos? Hoztál nekem Cat's Paw magazint?}
-{167}{}{'Es. [Give Cat's Paw to Typhon.]}
+{167}{}{Ige'. [odaadod a Cat's Paw magazint Typhonnak]}
 {168}{}{Ne-ehm.}
-{169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
+{169}{}{Aha. Tessék. [odaadod a Cat's Paw magazint Typhonnak]}
 {170}{}{Még nem, de kérdeznék valamit.}
 {171}{}{Nem.}
 {172}{}{Hát akkor siess! Nagyon öreg ghoul vagyok, és én mondom neked, szükségem van egy kis kikapcsolódásra! Gyerünk, gyerünk, gyerünk!}
@@ -75,7 +75,7 @@
 {174}{}{Hát, kölyök, ez a magazin beindított egy-két dolgot bennem, és úgy érzem azért a kincsért, amiről meséltem neked, igazán hozhatnál még néhány dolgot az öreg Typhonnak. Szerezz nekem egy felfújható gumibabát. New Renóban egészen biztos találsz egyet.}
 {175}{}{Okké! Pá!}
 {176}{}{Ne-ehm!}
-{177}{}{Here go! [Give Blow-Up Doll to Typhon.]}
+{177}{}{Tessék! [odaadod a gumibabát Typhonnak]}
 {178}{}{Rendben, de előbb válaszoljon néhány kérdésre!}
 {179}{}{Aha. Na, viszlát!}
 {180}{}{Rövid úton felejtsd el!}

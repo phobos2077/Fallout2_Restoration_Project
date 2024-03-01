@@ -328,12 +328,12 @@
 {10100}{}{Gye'ünk, Marcus! Ideje indulni.}
 {20000}{mcs81b}{Rendben.}
 {20001}{}{Heh. Majdnem minden nagyméretű fegyvert tudok használni. Rakétavetőket, gépágyúkat és a nagy energiafegyvereket is. Nem vagyok rossz pusztakézzel sem, és állati jól célzok gránáttal. Páncélt nem hordok. Az én méretemben nem készülnek.}
-{30000}{}{No thanks, I think I've spent enough time with him for today. Bye.}
+{30000}{}{Azt hiszem, már elég időt töltöttem el vele ma. Szia.}
 {40000}{}{Guess I was right about Chad. Looks like he won't be running caravans anytime soon.}
-{40001}{}{Alright Chad, time to pay for your crimes.}
-{40002}{}{*sigh* I'm coming.}
+{40001}{}{Rendben Chad, megfizetsz a bűneidért!}
+{40002}{}{*sóhajt* Rendben, megyek már.}
 {40003}{}{You have found Chad guilty of skimming money from the caravans.}
 {40004}{}{You have found Chad guilty of skimming money from the caravans. Too bad he died.}
 {193001}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
-{193002}{}{Chad kept about $1000 from the last uranium shipment for himself. He was planning on bailing out of town, but we had a confrontation. He's dead. I have a briefcase of documents to prove his involvement.}
+{193002}{}{Chad megtartott magának egy ezrest a legutóbbi uránszállítmány árából. Tervezte, hogy elhagyja a várost, de összetalálkoztunk. Most halott. Van egy aktatáskám tele bizonyítékokkal az érintettségéről.}
 {193003}{}{Chad's admitted to the whole thing. We got into a scuffle over at the caravan center. He's given up and waiting to be brought in.}

@@ -33,8 +33,7 @@
 {132}{}{Liz elég rendes, ember létére, ő vezeti a vegyesboltot a banktól nyugatra. Egyéb kérdés?}
 {133}{}{Rendben. Viszlát!}
 {134}{}{Cameron a normális emberek vezetője. Nem szereti túlzottan a mutánsokat és a ghoulokat, de rendesen bánik velünk. Ő amolyan politikus, szóval vagy a bankban van, vagy a kocsmában. Néha a kovácsműhelyben dolgozik. Más kérdés? Amúgy hol tartottam? Ja igen... szóval... van még kérdésed?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
+{135}{}{Marcus a vezetőnk. Egyike Broken Hills alapítóinak. Többnyire a banknál vagy a börtönnél lehet megtalálni. Egyéb kérdés?}
 {136}{}{Kapzsi gané! Tudod, milyen keményen dolgozunk? Rohadj meg!}
 {137}{}{Kösz az ércet!}
 {138}{}{Nem hiszem el, hogy felrobbant a bánya. Mind éhen fogunk dögleni! A bánya tartotta fent a várost. Hmm, legalább nem kell többet dolgoznom...}
