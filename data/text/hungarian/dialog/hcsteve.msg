@@ -23,7 +23,7 @@
 {122}{}{Amit kiásunk, azt eladjuk más városoknak a környéken. Szükségük van rá. Ha el akarsz adni valamit, beszélhetsz az itteni kereskedőkkel. Nekem viszont dolgoznom kell, úgyhogy legyél jó és vigyázz magadra, oké?}
 {123}{}{Oh-ké! Pááá!}
 {124}{}{Nekem dolgoznom kell, úgyhogy legyél jó és vigyázz magadra, oké?}
-{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
+{125}{}{Megint te vagy? Tudod te, mit kell tenned: legyél jó és óvatos! Vigyázz magadra!}
 {126}{}{O-kké! Páááááá!}
 {127}{}{Tedd el a fegyvereidet, barátom! Nem válaszolok semmire, amíg így hadonászol velük!}
 {128}{}{Ez csak egy kis bányászközösség. Marcus, a seriff, és egy Jacob nevű ember alapították pár évtizede. Azért választották ezt a helyet, mert uránérc van a közeli hegyekben. Többet szeretnél hallani?}
@@ -43,7 +43,7 @@
 {142}{}{Eltekintve attól, hogy a mutánsok halottak, és a város egyetlen megélhetési forrása megsemmisült...}
 {143}{}{Eltekintve attól, hogy te egy hős vagy, amiért leleplezted a köztünk settenkedő gonoszt...}
 {144}{}{Eltekintve attól, hogy a gonosz köztünk jár, mivel Franc and Manson megszöktek...}
-{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
+{145}{}{Eltekintve Chad árulásától, és az általad szolgáltatott igazságtól... amiért mindenki hálás...}
 {146}{}{Nem túl sok. Igazán...}
 {147}{}{Mást szeretnék kérdezni.}
 {148}{}{Viszlát!}
@@ -57,9 +57,7 @@
 {156}{}{Kik élnek itt?}
 {157}{}{Hova lehet itt menni egyáltalán?}
 {158}{}{Háááát...}
-{159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
- communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
- own power. More?}
+{159}{}{A hegyekből bányászott és helyben finomított érc eladásából élünk. Többnyire Gekkóba, Menedékvárosba és az Új Kalifornia Köztársaságba szállítunk. Persze, magunknak is megtartunk belőle energiatermelésre. Mondjam tovább?}
 {160}{}{Igen.}
 {161}{}{Nem.}
 {162}{}{Mindenki egyenlő. Mi mind emberektől származunk. A külső alatt mindenkiben ott lakozik az ember. Azt mondani, hogy valaki csak azért gonosz, mert máshogy néz ki, tudatlanságra vall.}
@@ -75,8 +73,7 @@
 {172}{}{Tényleg? Azt hittem, a legtöbb így is elpusztult mostanra.}
 {173}{}{Egy mutáns a seriff, mi? Gondolom, akkor a helyiek elég törvénytisztelőek. Jól ki van ez találva...}
 {174}{}{Viszlát!}
-{175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
+{175}{}{Tehát létrehoztuk a saját kis civilizációnkat, éljük az életünket, és megpróbáljuk elkerülni, hogy Menedékváros, vagy az ÚKK fennhatósága alá kerüljünk... nincs szükségünk az ő vezetési elveikre. Ez minden.}
 {176}{}{Nagyszerű! Viszont lenne még néhány kérdésem.}
 {177}{}{Köszönöm. Viszlát!}
 {178}{}{Ha kitartasz amellett, hogy valakit meg lehet ítélni pusztán a külseje alapján, akkor igen, tagadhatatlanul tudatlan vagy.}
@@ -85,17 +82,14 @@
 {181}{}{Bárhogyis, amit mondani akartam: Légy üdvözölve Broken Hillsben!}
 {182}{}{Várj!}
 {183}{}{Viszlát!}
-{184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -- in fact, most of them are going senile now. Building a community isn't going to help them
- achieve their aims.}
+{184}{}{Ha a mutánsok bántani akartak volna minket, már réges-rég megtehették volna. Nem fognak örökké élni... igazából a többségük már kezd szenilissé válni. Egy közösség építése nem fog segíteni nekik a céljaik elérésében.}
 {185}{}{Úgy van.}
 {186}{}{Akkor is gonoszak.}
 {187}{}{Viszlát!}
 {188}{}{Minél többet beszélek veled, annál hülyébbnek érzem magam. Ilyen hozzáállással, nem leszel túl népszerű Broken Hillsben. Bocsáss meg, vár a munkám!}
 {189}{}{Seggfej!}
 {190}{}{Most meghalsz, seggfej!}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
- just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{Van egy bányánk, egy ércfinomítónk, egy kocsmánk, egy hotelünk, aminek nincs tulajdonosa, szóval az emberek ingyen lakhatnak benne... egy kórházunk, egy vegyesboltunk és egy gyógyszertárunk. Az élelmet magunk termeljük.}
 {192}{}{Rendben. Hadd kérdezzek más egyebet.}
 {193}{}{Viszlát!}
 {194}{}{Hát, sokuk valóban meghalt már. Mivel a mutánsok meddők... ahogy hallottam... kihalófélben vannak. Akik megmaradtak, azok is kezdenek szenilissé válni. Bár Marcus nem. Az ő agya most is vág, mint mindig.}
@@ -107,8 +101,7 @@
 {200}{}{[TOVÁBBI LEHETŐSÉG]}
 {201}{}{Ne rontsd itt tovább a levegőt! Így is elég bajt okoztál.}
 {202}{}{[RENDBEN]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{Marcust általában a banknál találod... ami mellékesen a szigorított börtön is... esetleg a rendes börtönnél. Néha a kocsmában van, vagy otthon, de általában dolgozik.}
 {301}{}{Idióta!}
 {302}{}{Francba!}
 {303}{}{Hurrá!}

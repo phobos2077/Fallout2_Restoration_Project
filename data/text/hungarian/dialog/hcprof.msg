@@ -42,7 +42,7 @@
 {141}{}{Értem. Csináltál már valaha bármit, ami működött?}
 {142}{}{Szeretném tesztelni magamat.}
 {143}{}{Értem. Csak ennyit akartam tudni}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
+{144}{}{Köszönöm szépen a bizalmat, igen, csináltam! Hallottál valaha a Mentátról? Én fejlesztettem ki a megfelelő eljárást a tömeggyártásához! És más gyógyszerekéhez is! Sok másikhoz!}
 {145}{}{Oké, oké. Ki szeretném próbálni a képességeimet a skorpiód ellen.}
 {146}{}{Oké, hiszek neked, de azt hiszem mennem kell.}
 {147}{}{Hogyan... hogyan ölhetted meg a skorpiómat? Olyan közel voltam már... olyan közel...}
@@ -74,7 +74,7 @@
 {401}{}{MI? Csaltál!}
 {402}{}{Kakmaty?}
 {403}{}{Nem tudsz veszteni?}
-{404}{}{And... checkmate!}
+{404}{}{És... sakkmatt!}
 {405}{}{Saaaaakkkmattt!}
 {406}{}{::klakatt:: A növény meghal! ::klikk-klakk-klikk::}
 {407}{}{Bebizonyítottad, hogy egy nálad intelligensebb radskorpiót is le tudsz győzni.}

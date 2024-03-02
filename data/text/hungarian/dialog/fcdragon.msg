@@ -94,7 +94,7 @@
 {201}{}{A Shik nem tisztelik a tolvajokat! Távozz innen!}
 {202}{}{Figyelmeztettelek, hogy távozz! Most megfizetsz!}
 {203}{}{Nagyon úgy tűnik, hogy tőlem te már nem tudsz semmit tanulni.}
-{204}{}{A gyakorlás nem csak erőnléti edzésből áll, ugribugri barátom. Gondolkodj el ezen, és gyere vissza holnap!}
+{204}{}{A gyakorlás nem csak erőnléti edzésből áll, ugribugri barátom. Gondolkodj el ezen, és gyere vissza holnap.}
 {205}{}{Ziggy Mester vagyok, az utolsó kihívód.}
 {206}{}{Zurak vagyok. Készülj!}
 {207}{}{A nevem Jimmy. Szedd össze magad!}

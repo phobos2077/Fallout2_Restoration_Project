@@ -32,8 +32,7 @@
 {131}{}{[RENDBEN]}
 {132}{}{Rendben. Adj egy napot, és már viheted is!}
 {133}{}{Nagyszerű! Viszlát!}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
- should do it. You want it or not?}
+{134}{}{Sok sikert, hogy találj egy másik finomítóhelyet! A művelet veszélyes, csak egy profi tudja rendesen megcsinálni. Akarod vagy nem?}
 {135}{}{Igen.}
 {136}{}{Nem.}
 {137}{}{Rendben. Akkor nincs itt semmi keresnivalód. Kérlek, távozz, hadd folytassuk a munkánkat!}

@@ -81,7 +81,7 @@
 {201}{}{Nézd, nem szeretem, ha valaki ellopja a dolgaimat. Menj máshova tolvajkodni! Távozz innen!}
 {202}{}{Azt mondtam, hogy távozz, nem azt, hogy halj meg! Anyám.}
 {203}{}{Nagyon úgy tűnik, hogy tőlem te már nem tudsz semmit tanulni.}
-{204}{}{A mai edzésnek vége. Gyere vissza holnap!}
+{204}{}{A mai edzésnek vége. Gyere vissza holnap.}
 {205}{}{Khung mester vagyok, az utolsó ellenfeled.}
 {206}{}{Imbot vagyok. Készülj!}
 {207}{}{Wejungh a nevem. Légy készen!}
