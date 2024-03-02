@@ -100,7 +100,7 @@ procedure GetZone begin
    if (val) then
       return ZONE_3;
 
-   INBOUNDS(700, 1400, 2400, 2700, val)
+   INBOUNDS(350, 1400, 1100, 1500, val)
    if (val) then
       return ZONE_4;
 
