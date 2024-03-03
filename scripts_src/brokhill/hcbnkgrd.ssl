@@ -144,6 +144,10 @@ end
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
 
+   // Conspiracy successul, all mutants are "dead".
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then destroy_self;
+   // TODO: probably same should be done for all mutants in Broken Hills.
+
    // Handle rotation to center of room
    if( ( anim_busy( self_obj ) == false ) and ( not( combat_is_initialized ) ) ) then begin
       if( ( self_tile == 11484) and ( self_cur_rot != 3 ) ) then begin
@@ -187,12 +191,6 @@ procedure critter_p_proc begin
       end
    end
    else if (self_can_see_dude and dude_inside_bank) then begin
-      /*if (dude_is_sneaking) then begin
-         if (local_var(LVAR_Warned) == 0) then begin
-            call Node011;
-         end
-      end
-      else */
       if (critter_is_armed(dude_obj)) then begin
          if (local_var(LVAR_Gun) == 0) then begin
             call Node012;
@@ -220,9 +218,6 @@ procedure damage_p_proc begin
    if (source_obj == dude_obj) then begin
        set_local_var(LVAR_Personal_Enemy,1);
        set_global_var( GVAR_ENEMY_BANK_GUARDS, 1 );
-       // Don't set to Enemy of Broken Hills or else Jailbreak would
-       // cause entire city to hate me.
-       //set_global_var(GVAR_ENEMY_BROKEN_HILLS,1);
    end
 
 end
@@ -257,11 +252,6 @@ procedure talk_p_proc begin
    end
    else if ( (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) and (global_var(GVAR_BH_CONSPIRACY) != CONSPIRACY_BROKEN_DOUBLECROSS) ) then //added GVAR_BH_CONSPIRACY - killap
       call Node015;
-/*
-   else if ( (dude_is_sneaking) and (global_var(GVAR_BH_JAIL) != JAIL_CHARISMA) ) then begin
-      call Node011;
-   end
-*/
    else begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -455,26 +445,10 @@ end
 
 procedure Node008 begin
    variable item;
-   //variable item2;
-   //variable itemCount;
-   //variable dummy;
-
    set_global_var(GVAR_BH_JAIL, JAIL_CHARISMA);
 
-   // Remove jail key from Guard's inventory. If there isn't
-   // one there, screw it and create a new one.
-   //itemCount := obj_is_carrying_obj_pid( self_obj, PID_CELL_DOOR_KEY );
-   //if( itemCount > 0 ) then begin
-   //   item := obj_carrying_pid_obj( self_obj, PID_CELL_DOOR_KEY );
-   //   dummy := rm_mult_objs_from_inven( self_obj, item, itemCount );
-   //   destroy_object(item); //added by killap
-   //end
-
    // Give the key to the player
-   //item2:=create_object(PID_CELL_DOOR_KEY,0,0);
-   //add_obj_to_inven(dude_obj,item2);
-
-   //changed by killap (expansion) - he no longer always gives you a key even if he is not carrying one
+   // Changed by killap (expansion) - he no longer always gives you a key even if he is not carrying one
    if ((self_item_count(PID_CELL_DOOR_KEY))) then begin
       item:=self_item(PID_CELL_DOOR_KEY);
       rm_obj_from_inven(self_obj,item);
