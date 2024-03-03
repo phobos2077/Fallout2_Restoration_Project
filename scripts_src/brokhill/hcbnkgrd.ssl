@@ -144,6 +144,10 @@ end
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
 
+   // Conspiracy successul, all mutants are "dead".
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then destroy_self;
+   // TODO: probably same should be done for all mutants in Broken Hills.
+
    // Handle rotation to center of room
    if( ( anim_busy( self_obj ) == false ) and ( not( combat_is_initialized ) ) ) then begin
       if( ( self_tile == 11484) and ( self_cur_rot != 3 ) ) then begin
