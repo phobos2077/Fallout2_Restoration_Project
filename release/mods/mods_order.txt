@@ -1,7 +1,7 @@
+rpu.dat
 cassidy_head.dat
 cassidy_voice_joey_bracken_hq.dat
 party_orders.dat
-rpu.dat
 npc_armor.dat
 rpu_enhanced_worldmap.dat
 rpu_extended_flamer.dat
