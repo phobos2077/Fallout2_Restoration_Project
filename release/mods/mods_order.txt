@@ -1,0 +1,11 @@
+cassidy_head.dat
+cassidy_voice_joey_bracken_hq.dat
+f2_res.dat
+npc_armor.dat
+party_orders.dat
+rpu.dat
+rpu_enhanced_worldmap.dat
+rpu_extended_flamer.dat
+rpu_improved_mysterious_stranger.dat
+rpu_rifle_animations.dat
+rpu_wakizashi_animations.dat
