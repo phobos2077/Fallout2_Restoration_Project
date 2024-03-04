@@ -1,6 +1,5 @@
 cassidy_head.dat
 cassidy_voice_joey_bracken_hq.dat
-f2_res.dat
 party_orders.dat
 rpu.dat
 npc_armor.dat
