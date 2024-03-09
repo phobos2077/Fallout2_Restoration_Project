@@ -112,6 +112,11 @@ variable current_userid := 0;  //added by killap
 #define BIRD    4
 //end
 
+/**
+ * Reactivate turrets on current level.
+ */
+#define TIMER_REACTIVATE 1
+
 procedure start begin
 end
 
@@ -147,7 +152,7 @@ procedure look_p_proc begin
 end
 
 procedure timed_event_p_proc begin
-   if (fixed_param == 1) then
+   if (fixed_param == TIMER_REACTIVATE) then
        call Alarm_Reactive;
 end
 
@@ -536,9 +541,9 @@ procedure Node026 begin
    Reply(251);
 
    if (hacked_system) then //added by killap
-      CompOption(252,Node020a);
+      CompOption(121,Node020a);
    else
-      CompOption(252,Node020);
+      CompOption(121,Node020);
    CompOption(253,Node026a);
 end
 
@@ -556,7 +561,7 @@ procedure Node026a begin
    else
        set_global_var(GVAR_ENCLAVE_TURRET_MAIN,TURRET_MAINTENANCE);
 
-   add_timer_event(self_obj,(random(1,3)*ONE_GAME_MINUTE),1);
+   add_timer_event(self_obj, (random(1,3)*ONE_GAME_MINUTE), TIMER_REACTIVATE);
 end
 
 procedure Node027 begin
