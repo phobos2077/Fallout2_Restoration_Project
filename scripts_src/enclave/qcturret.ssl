@@ -85,6 +85,7 @@ procedure critter_p_proc begin
         set_self_team(TEAM_LONER);
         return;
     end
+    // TODO: animate turrets "stand down" when inactive, to give player visual indication of the status.
 
     set_self_ai(AI_GUN_TURRET);
 
