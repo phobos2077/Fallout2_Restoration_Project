@@ -123,7 +123,7 @@ end
 procedure use_p_proc begin
    script_overrides;
 
-   if ((is_skill_tagged(SKILL_SCIENCE)) or (skill_success(dude_obj,SKILL_SCIENCE,-70))) then // Seraph's Fix: is_skill_tagged only takes one parameter. Thanks Rob! Also changed from SKILL_SNEAK to SKILL_SCIENCE - killap
+   if is_skill_tagged(SKILL_SCIENCE) or skill_success(dude_obj, SKILL_SCIENCE, -70) then
        Needed_IQ:=4;
    else
        Needed_IQ:=6;
