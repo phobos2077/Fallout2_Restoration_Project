@@ -37,13 +37,32 @@
 procedure start;
 procedure critter_p_proc;
 procedure map_enter_p_proc;
-procedure Security_Check(variable Security);
+procedure Security_Check;
 procedure damage_p_proc; //added by killap
+procedure get_gvar_security;
+procedure update_stance;
 
 import variable Frank_Ptr;
 variable countdown;
+variable gvar_security = GVAR_ENCLAVE_TURRET_MAIN;
+
+/**
+ * Used to track when maintenance status changes, to animate stand down/up. Nothing more.
+ * Actual behaviour is controlled by global_var(gvar_security).
+ */
+#define LVAR_maintenance 0
+
+/**
+ * Put guns down, indicating to the player that turrets are in maintenance.
+ */
+#define stand_down \
+    reg_anim_clear(self_obj); \
+    reg_anim_begin(); \
+        reg_anim_animate(self_obj,ANIM_fall_back,-1); \
+    reg_anim_end()
 
 procedure start begin
+   gvar_security = get_gvar_security;
 end
 
 procedure map_enter_p_proc begin
@@ -53,57 +72,81 @@ procedure map_enter_p_proc begin
        item:=self_item(PID_HEAVY_DUAL_MINIGUN);
        wield_obj(item);
    end
+   gvar_security = get_gvar_security;
+end
+
+/**
+ * Get turret security GVAR corresponding to current level.
+ */
+procedure get_gvar_security begin
+    variable cur_map = cur_map_index, ret;
+    switch cur_map begin
+        case MAP_ENCLAVE_DETENTION:
+          ret = GVAR_ENCLAVE_TURRET_DETENTION;
+        case MAP_ENCLAVE_PRESIDENT:
+          ret = GVAR_ENCLAVE_TURRET_PRESIDENT;
+        case MAP_ENCLAVE_BARRACKS:
+          ret = GVAR_ENCLAVE_TURRET_GUARD;
+        case MAP_ENCLAVE_REACTOR:
+          ret = GVAR_ENCLAVE_TURRET_SCIENCE;
+        default: // MAP_ENCLAVE_END_FIGHT
+          ret = GVAR_ENCLAVE_TURRET_MAIN;
+    end
+    return ret;
+end
+
+/**
+ * Animate stand up/down, visually indicating maintenance status to the player.
+ */
+procedure update_stance begin
+    if (global_var(gvar_security) == TURRET_MAINTENANCE) and (local_var(LVAR_maintenance) != true) then begin
+        set_local_var(LVAR_maintenance, true);
+        ndebug("standing down");
+        stand_down;
+    end
+    if (global_var(gvar_security) != TURRET_MAINTENANCE) and (local_var(LVAR_maintenance) == true) then begin
+        set_local_var(LVAR_maintenance, false);
+        ndebug("standing up");
+        animate_stand;
+    end
 end
 
 procedure critter_p_proc begin
-   if (cur_map_index == MAP_ENCLAVE_DETENTION) then begin
-       set_self_team(TEAM_ENCLAVE);
-       set_self_ai(AI_GUN_TURRET);
-       call Security_Check(GVAR_ENCLAVE_TURRET_DETENTION);
-   end
+    call update_stance;
 
-   else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then begin
-       set_self_team(TEAM_ENCLAVE);
-       set_self_ai(AI_GUN_TURRET);
-       call Security_Check(GVAR_ENCLAVE_TURRET_PRESIDENT);
-   end
+    // Maintenance: sleep for 1-3 minutes. See terminal qiturtrm.ssl.
+    if global_var(gvar_security) == TURRET_MAINTENANCE then begin
+        set_self_team(TEAM_LONER);
+        return;
+    end
+    // TODO: animate turrets "stand down" when inactive, to give player visual indication of the status.
 
-   else if (cur_map_index == MAP_ENCLAVE_BARRACKS) then begin
-       set_self_team(TEAM_ENCLAVE);
-       set_self_ai(AI_GUN_TURRET);
-       call Security_Check(GVAR_ENCLAVE_TURRET_GUARD);
-   end
+    set_self_ai(AI_GUN_TURRET);
 
-   else if (cur_map_index == MAP_ENCLAVE_REACTOR) then begin
-       set_self_team(TEAM_ENCLAVE);
-       set_self_ai(AI_GUN_TURRET);
-       call Security_Check(GVAR_ENCLAVE_TURRET_SCIENCE);
-   end
-
-   else if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
-       set_self_ai(AI_GUN_TURRET);
-       if (global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER) == 1) then begin
-           set_self_team(TEAM_PLAYER);
-           if (countdown == 10) then
-               attack(Frank_Ptr);
-           countdown+=1;
-       end
-       else begin
-           set_self_team(TEAM_ENCLAVE);
-//           if (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) then
-//              call Security_Check(GVAR_ENCLAVE_TURRET_MAIN);
-       end
-   end
-
-   else begin
-       set_self_team(TEAM_ENCLAVE);
-       set_self_ai(AI_GUN_TURRET);
-       call Security_Check(GVAR_ENCLAVE_TURRET_MAIN);
-   end
+    if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
+        if (global_var(GVAR_ENCLAVE_TURRET_HELP_PLAYER) == 1) then begin
+            set_self_team(TEAM_PLAYER);
+            if (countdown == 10) then
+                attack(Frank_Ptr);
+            countdown+=1;
+        end
+        else begin
+            set_self_team(TEAM_ENCLAVE);
+        end
+    end
+    else begin
+        set_self_team(TEAM_ENCLAVE);
+        call Security_Check();
+    end
 end
 
-procedure Security_Check(variable Security) begin
-   if ((global_var(Security) == TURRET_NORMAL) and (cur_map_index != MAP_ENCLAVE_END_FIGHT)) then begin
+procedure Security_Check begin
+   ndebug("security check start");
+   // Maintenance: sleep for 1-3 minutes. See terminal qiturtrm.ssl.
+   if global_var(gvar_security) == TURRET_MAINTENANCE then return;
+
+   ndebug("not in maintenance");
+   if ((global_var(gvar_security) == TURRET_NORMAL) and (cur_map_index != MAP_ENCLAVE_END_FIGHT)) then begin
        if (self_can_see_dude) then begin
            if (party_size > 1) then begin
                attack(dude_obj);
@@ -120,7 +163,8 @@ procedure Security_Check(variable Security) begin
        end
    end
 
-   else if (global_var(Security) == TURRET_ALERT) then begin
+   else if (global_var(gvar_security) == TURRET_ALERT) then begin
+       ndebug("in alert");
        if (self_can_see_dude) then
            attack(dude_obj);
    end
@@ -146,6 +190,11 @@ end
 
 //added by killap
 procedure damage_p_proc begin
+   ndebug("damaged");
+
+   // Maintenance: sleep for 1-3 minutes
+   if global_var(gvar_security) == TURRET_MAINTENANCE then return;
+
    if (cur_map_index == MAP_ENCLAVE_DETENTION) then
        set_global_var(GVAR_ENCLAVE_TURRET_DETENTION,TURRET_ALERT);
    else if (cur_map_index == MAP_ENCLAVE_BARRACKS) then
@@ -156,3 +205,10 @@ procedure damage_p_proc begin
        set_global_var(GVAR_ENCLAVE_TURRET_SCIENCE,TURRET_ALERT);
 end
 //end added
+
+procedure combat_p_proc begin
+    if (fixed_param == COMBAT_SUBTYPE_TURN) and (global_var(gvar_security) == TURRET_MAINTENANCE) then begin
+        script_overrides;
+        ndebug("I am in maintenance and won't attack!");
+    end
+end
