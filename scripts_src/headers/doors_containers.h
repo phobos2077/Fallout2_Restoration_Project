@@ -1,3 +1,6 @@
+/** @tra door.msg */
+// Also used in contaners: containr.msg
+
 #ifndef DOORS_CONTAINERS_H
 #define DOORS_CONTAINERS_H
 
@@ -293,7 +296,7 @@ end
     pry_strain = roll_critical();
     if pry_strain then begin
       critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
-      
+
       if (source_obj == dude_obj) then begin
         if (Crowbar_Strain == 1) then begin
           display_msg(my_mstr(177));
@@ -302,7 +305,7 @@ end
           display_msg(my_mstr(178)+Crowbar_Strain+my_mstr(179));
         end
       end
-      
+
       else begin
         if (is_male(source_obj)) then begin
           if (Crowbar_Strain == 1) then begin
@@ -312,7 +315,7 @@ end
             display_msg(my_mstr(183)+Crowbar_Strain+my_mstr(184));
           end
         end
-        
+
         else begin
           if (Crowbar_Strain == 1) then begin
             display_msg(my_mstr(186));
@@ -361,18 +364,18 @@ the coresponding varaibles for it.
       set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
       obj_lock(self_obj);                                      // engine unlock door
       pcnpc_display_line(source_obj, 189, 191)
-      
+
       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
         set_local_var(LVAR_Gave_Locks_XP,1);
         give_xp(Lockpick_Exp);
       end
     end
-    
+
     else begin
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(190));
       end
-      
+
       else begin
         display_msg(obj_name(source_obj)+my_mstr(192));
       end
@@ -430,38 +433,38 @@ source_object will unlock the door and display the appropriate messages
     if (is_success(Locks_Roll)) then begin
       set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
       obj_unlock(self_obj);                                    // engine unlock door
-      
+
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(170));
       end
-      
+
       else begin
         display_msg(obj_name(source_obj)+my_mstr(173));
       end
-      
+
       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
         set_local_var(LVAR_Gave_Locks_XP,1);
         give_xp(Lockpick_Exp);
       end
     end
-    
+
     else if (is_critical(Locks_Roll)) then begin
       jam_lock(self_obj);
-      
+
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(171));
       end
-      
+
       else begin
         display_msg(obj_name(source_obj)+my_mstr(174));
       end
     end
-    
+
     else begin
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(172));
       end
-      
+
       else begin
         display_msg(obj_name(source_obj)+my_mstr(175));
       end
@@ -482,29 +485,29 @@ the player or NPC set off the trap or disarms it.
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(194));
         end
-        
+
         else begin
           display_msg(my_mstr(199));
         end
-        
+
         if (local_var(LVAR_Gave_Traps_XP) == 0) then begin
           set_local_var(LVAR_Gave_Traps_XP,1);
           give_xp(Traps_Exp);
         end
       end
-      
+
       else begin
         set_local_var(LVAR_Trapped,STATE_INACTIVE);
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(196));
         end
-        
+
         else begin
           display_msg(obj_name(source_obj)+my_mstr(201));
         end
       end
     end
-    
+
     else if (is_critical(Traps_Roll)) then begin
       call Damage_Critter;
     end
@@ -527,11 +530,11 @@ will need to be closed, as all traps are set to go off if the door is openned.
   procedure Set_Trap begin
     variable Explosive;
     variable Removal_Counter;
-    
+
     /* Trap_Roll is a global variable to this script, defined at the beginning
     of the script. */
     Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Set_Bonus);
-    
+
     Explosive:=obj_being_used_with;
 
     if (obj_is_open(self_obj)) then begin
@@ -539,7 +542,7 @@ will need to be closed, as all traps are set to go off if the door is openned.
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(206));
       end
-      
+
       else begin
         display_msg(obj_name(source_obj)+my_mstr(207));
       end
@@ -563,14 +566,14 @@ will need to be closed, as all traps are set to go off if the door is openned.
           display_msg(obj_name(source_obj)+my_mstr(210));
         end
       end
-      
+
       else if (is_critical(Traps_Roll)) then begin // crit fail, explode
         call real_explosion(Explosive);
       end else begin
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(209));
         end
-        
+
         else begin
           display_msg(obj_name(source_obj)+my_mstr(211));
         end
@@ -602,88 +605,88 @@ lockpick skill and perception to notice the lock.
     variable Perception_Check;
     variable perception_critical;
     variable Locks_Check;
-    
+
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
     perception_critical = roll_critical();
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
-    
+
     if (is_success(Perception_Check)) then begin
       if perception_critical then begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(114));
           end                                              // Critical Success (Locks)
-          
+
           else begin
             display_msg(my_mstr(115));
           end                                              // Regular Success (Locks)
         end
-        
+
         else if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(116));
         end                                                  // Critical Failure (Locks)
-        
+
         else begin
           display_msg(my_mstr(117));
         end                                                  // Regular Failure (Locks)
       end                                                      // Critical Success (Stat_Pe)
-      
+
       else begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(130));
           end                                              // Critical Success (Locks)
-          
+
           else begin
             display_msg(my_mstr(131));
           end                                              // Regular Success (Locks)
         end
-        
+
         else if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(132));
         end                                                  // Critical Failure (Locks)
-        
+
         else begin
           display_msg(my_mstr(133));
         end                                                  // Regular Failure (Locks)
       end                                                      // Regular Success (Stat_pe)
     end
-    
+
     else if perception_critical then begin
       if (is_success(Locks_Check)) then begin
         if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(146));
         end                                                  // Critical Success (Locks)
-        
+
         else begin
           display_msg(my_mstr(147));
         end                                                  // Regular Success (Locks)
       end
-      
+
       else if (is_critical(Locks_Check)) then begin
         display_msg(my_mstr(148));
       end                                                      // Critical Failure (Locks)
-      
+
       else begin
         display_msg(my_mstr(149));
       end                                                      // Regular Failure (Locks)
     end                                                          // Critical Failure (Stat_pe)
-    
+
     else begin
       if (is_success(Locks_Check)) then begin
         if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(162));
         end                                                  // Critical Success (Locks)
-        
+
         else begin
           display_msg(my_mstr(163));
         end                                                  // Regular Success (Locks)
       end
-      
+
       else if (is_critical(Locks_Check)) then begin
         display_msg(my_mstr(164));
       end                                                      // Critical Failure (Locks)
-      
+
       else begin
         display_msg(my_mstr(165));
       end                                                      // Regular Failure (Locks)
@@ -700,93 +703,93 @@ traps skill and perception to notice the trap.
     variable Perception_Check;
     variable perception_critical;
     variable Traps_Check;
-    
+
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
     perception_critical = roll_critical();
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
-    
+
     if (is_success(Perception_Check)) then begin
       if perception_critical then begin
         if (is_success(Traps_Check)) then begin
           if (is_critical(Traps_Check)) then begin
             display_msg(my_mstr(104));
           end                                              // Critical Success (traps)
-          
+
           else begin
             display_msg(my_mstr(108));
           end                                              // Regular Success (Traps)
         end
-        
+
         else if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(112));
         end                                                  // Critical Failure (Traps)
-        
+
         else begin
           display_msg(my_mstr(116));
         end                                                  // Regular Failure (Traps)
       end                                                      // Critical Success (Stat_Pe)
-      
+
       else begin
         if (is_success(Traps_Check)) then begin
           if (is_critical(Traps_Check)) then begin
             display_msg(my_mstr(120));
           end                                              // Critical Success (traps)
-          
+
           else begin
             display_msg(my_mstr(124));
           end                                              // Regular Success (Traps)
         end
-        
+
         else if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(128));
         end                                                  // Critical Failure (Traps)
-        
+
         else begin
           display_msg(my_mstr(132));
         end                                                  // Regular Failure (Traps)
       end                                                      // Regular Success (Stat_pe)
     end
-    
+
     else if perception_critical then begin
       if (is_success(Traps_Check)) then begin
         if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(136));
         end                                                  // Critical Success (traps)
-        
+
         else begin
           display_msg(my_mstr(140));
         end                                                  // Regular Success (Traps)
       end
-      
+
       else if (is_critical(Traps_Check)) then begin
         display_msg(my_mstr(144));
       end                                                      // Critical Failure (Traps)
-      
+
       else begin
         display_msg(my_mstr(148));
       end                                                      // Regular Failure (Traps)
     end                                                          // Critical Failure (Stat_pe)
-    
+
     else begin
       if (is_success(Traps_Check)) then begin
         if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(152));
         end                                                  // Critical Success (traps)
-        
+
         else begin
           display_msg(my_mstr(156));
         end                                                  // Regular Success (Traps)
       end
-      
+
       else if (is_critical(Traps_Check)) then begin
         display_msg(my_mstr(160));
       end                                                      // Critical Failure (Traps)
-      
+
       else begin
         display_msg(my_mstr(164));
       end                                                      // Regular Failure (Traps)
     end                                                          // Regular Failure (Stat_Pe)
-    
+
   end
 #endif
 
@@ -800,420 +803,420 @@ on your lockpick and traps skills and perception to notice things.
     variable perception_critical;
     variable Traps_Check;
     variable Locks_Check;
-    
+
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
     perception_critical = roll_critical();
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
-    
+
     if (is_success(Perception_Check)) then begin
-      
+
       /*************************************************************************************************/
-      
+
       /* Critical Success of a Perception Check  (Start)*/
-      
+
       if perception_critical then begin
-        
+
         if (is_success(Traps_Check)) then begin
           set_local_var(LVAR_Found_Trap,1);                // player has found the trap
-          
+
           /* Critical Success of a Traps Check  (Start)*/
-          
+
           if (is_critical(Traps_Check)) then begin
-            
+
             if (is_success(Locks_Check)) then begin
               if (is_critical(Locks_Check)) then begin
                 display_msg(my_mstr(102));
               end                                      // critical success (Locks)
-              
+
               else begin
                 display_msg(my_mstr(103));
               end                                      // regular success (Locks)
             end
-            
+
             else if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(104));
             end                                          // critical Failure (Locks)
-            
+
             else begin
               display_msg(my_mstr(105));
             end                                          // end of regular failure (Locks)
           end                                              // critical success (Traps)
-          
+
           /* Success of a Traps Check  (Start)*/
-          
+
           else begin
             if (is_success(Locks_Check)) then begin
               if (is_critical(Locks_Check)) then begin
                 display_msg(my_mstr(106));
               end                                      // critical success (Locks)
-              
+
               else begin
                 display_msg(my_mstr(107));
               end                                      // regular success (Locks)
             end
-            
+
             else if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(108));
             end                                          // critical Failure (Locks)
-            
+
             else begin
               display_msg(my_mstr(109));
             end                                          // end of regular failure (Locks)
           end                                              // regular success (Traps)
         end
-        
+
         /* Critical Failure of a Traps Check  (Start)*/
-        
+
         else if (is_critical(Traps_Check)) then begin
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(110));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(111));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(112));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(113));
           end                                              // end of regular failure (Locks)
         end                                                   // critical Failure (Traps)
-        
+
         /* Failure of a Traps Check  (Start)*/
-        
+
         else begin
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(114));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(115));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(116));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(117));
           end                                              // end of regular failure (Locks)
         end                                                  // regular failure (Traps)
       end                                                      // critical success (Stat_Pe)
-      
+
       /* Critical Success of a Perception Check  (Finish)*/
-      
+
       /*************************************************************************************************/
-      
+
       /* Success of a Perception Check  (Start)*/
-      
+
       else begin
         if (is_success(Traps_Check)) then begin
           set_local_var(LVAR_Found_Trap,1);                // player has found the trap
-          
+
           /* Critical Success of a Traps Check  (Start)*/
-          
+
           if (is_critical(Traps_Check)) then begin
-            
+
             if (is_success(Locks_Check)) then begin
               if (is_critical(Locks_Check)) then begin
                 display_msg(my_mstr(118));
               end                                      // critical success (Locks)
-              
+
               else begin
                 display_msg(my_mstr(119));
               end                                      // regular success (Locks)
             end
-            
+
             else if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(120));
             end                                          // critical Failure (Locks)
-            
+
             else begin
               display_msg(my_mstr(121));
             end                                          // end of regular failure (Locks)
           end                                              // critical success (Traps)
-          
+
           /* Success of a Traps Check  (Start)*/
-          
+
           else begin
             if (is_success(Locks_Check)) then begin
               if (is_critical(Locks_Check)) then begin
                 display_msg(my_mstr(122));
               end                                      // critical success (Locks)
-              
+
               else begin
                 display_msg(my_mstr(123));
               end                                      // regular success (Locks)
             end
-            
+
             else if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(124));
             end                                          // critical Failure (Locks)
-            
+
             else begin
               display_msg(my_mstr(125));
             end                                          // end of regular failure (Locks)
           end                                              // regular success (Traps)
         end
-        
+
         /* Critical Failure of a Traps Check  (Start)*/
-        
+
         else if (is_critical(Traps_Check)) then begin
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(126));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(127));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(128));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(129));
           end                                              // end of regular failure (Locks)
         end                                                  // critical Failure (Traps)
-        
+
         /* Failure of a Traps Check  (Start)*/
-        
+
         else begin
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(130));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(131));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(132));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(133));
           end                                              // end of regular failure (Locks)
         end                                                  // regular failure (Traps)
       end                                                      // regular success (Stat_pe)
     end
-    
+
     /* Success of a Perception Check  (Finish)*/
-    
+
     /*************************************************************************************************/
-    
+
     /* Critical Failure of a Perception Check  (Start)*/
-    
+
     else if perception_critical then begin
       if (is_success(Traps_Check)) then begin
         set_local_var(LVAR_Found_Trap,1);                    // player has found the trap
-        
+
         /* Critical Success of a Traps Check  (Start)*/
-        
+
         if (is_critical(Traps_Check)) then begin
-          
+
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(134));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(135));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(136));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(137));
           end                                              // end of regular failure (Locks)
         end                                                  // critical success (Traps)
-        
+
         /* Success of a Traps Check  (Start)*/
-        
+
         else begin
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(138));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(139));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(140));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(141));
           end                                              // end of regular failure (Locks)
         end                                                  // regular success (Traps)
       end
-      
+
       /* Critical Failure of a Traps Check  (Start)*/
-      
+
       else if (is_critical(Traps_Check)) then begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(142));
           end                                              // critical success (Locks)
-          
+
           else begin
             display_msg(my_mstr(143));
           end                                              // regular success (Locks)
         end
-        
+
         else if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(144));
         end                                                  // critical Failure (Locks)
-        
+
         else begin
           display_msg(my_mstr(145));
         end                                                  // end of regular failure (Locks)
       end                                                      // critical Failure (Traps)
-      
+
       /* Failure of a Traps Check  (Start)*/
-      
+
       else begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(146));
           end                                              // critical success (Locks)
-          
+
           else begin
             display_msg(my_mstr(147));
           end                                              // regular success (Locks)
         end
-        
+
         else if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(148));
         end                                                  // critical Failure (Locks)
-        
+
         else begin
           display_msg(my_mstr(149));
         end                                                  // end of regular failure (Locks)
       end                                                      // regular failure (Traps)
     end                                                          // Critical Failure (Stat_pe)
-    
+
     /* Critical Failure of a Perception Check  (Finish)*/
-    
+
     /*************************************************************************************************/
-    
+
     /* Failure of a Perception Check  (Start)*/
-    
+
     else begin
       if (is_success(Traps_Check)) then begin
         set_local_var(LVAR_Found_Trap,1);                    // player has found the trap
-        
+
         /* Critical Success of a Traps Check  (Start)*/
-        
+
         if (is_critical(Traps_Check)) then begin
-          
+
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(150));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(151));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(152));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(153));
           end                                              // end of regular failure (Locks)
         end                                                  // critical success (Traps)
-        
+
         /* Success of a Traps Check  (Start)*/
-        
+
         else begin
           if (is_success(Locks_Check)) then begin
             if (is_critical(Locks_Check)) then begin
               display_msg(my_mstr(154));
             end                                          // critical success (Locks)
-            
+
             else begin
               display_msg(my_mstr(155));
             end                                          // regular success (Locks)
           end
-          
+
           else if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(156));
           end                                              // critical Failure (Locks)
-          
+
           else begin
             display_msg(my_mstr(157));
           end                                              // end of regular failure (Locks)
         end                                                  // regular success (Traps)
       end
-      
+
       /* Critical Failure of a Traps Check  (Start)*/
-      
+
       else if (is_critical(Traps_Check)) then begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(158));
           end                                              // critical success (Locks)
-          
+
           else begin
             display_msg(my_mstr(159));
           end                                              // regular success (Locks)
         end
-        
+
         else if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(160));
         end                                                  // critical Failure (Locks)
-        
+
         else begin
           display_msg(my_mstr(161));
         end                                                  // end of regular failure (Locks)
       end                                                      // critical Failure (Traps)
-      
+
       /* Failure of a Traps Check  (Start)*/
-      
+
       else begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(162));
           end                                              // critical success (Locks)
-          
+
           else begin
             display_msg(my_mstr(163));
           end                                              // regular success (Locks)
         end
-        
+
         else if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(164));
         end                                                  // critical Failure (Locks)
-        
+
         else begin
           display_msg(my_mstr(165));
         end                                                  // end of regular failure (Locks)
       end                                                      // regular failure (Traps)
     end                                                          // Regular Failure (Stat_pe)
-    
+
     /* Failure of a Perception Check  (Finish)*/
-    
+
   end
 #endif
 
@@ -1250,7 +1253,7 @@ unlocking do not need to be done in Mapper.
     if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
       obj_lock(self_obj);
     end
-    
+
     else begin
       obj_unlock(self_obj);
     end
@@ -1265,9 +1268,9 @@ and Repair can be added to this list to give more information about the door.
 #ifndef custom_use_skill_on_p_proc
   procedure use_skill_on_p_proc begin
     variable Skill_Used;
-    
+
     Skill_Used:=action_being_used;
-    
+
     if (Skill_Used == SKILL_LOCKPICK) then begin
       script_overrides; //added by killap
       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
@@ -1277,7 +1280,7 @@ and Repair can be added to this list to give more information about the door.
         call Set_Lock;
       end
     end                                                          // End of Skill_Lockpick
-    
+
     else if (Skill_Used == SKILL_TRAPS) then begin
       script_overrides; //added by killap
       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
@@ -1287,7 +1290,7 @@ and Repair can be added to this list to give more information about the door.
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(195));
         end
-        
+
         else begin
           display_msg(obj_name(source_obj)+my_mstr(200));
         end
