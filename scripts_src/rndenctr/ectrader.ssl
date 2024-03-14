@@ -79,8 +79,8 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   set_self_team(TEAM_RND_TRADER);
-   set_self_ai(AI_GENERIC_GUARDS);
+   set_self_team(TEAM_CARAVAN);
+   set_self_ai(AI_STORE_OWNER);
    if (not is_loading_game) then begin
       call ChooseItem;
 
