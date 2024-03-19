@@ -313,7 +313,7 @@ procedure talk_p_proc begin
       if (gang_trap(state_gang_trap_no) == false) then begin
          call Node034;
       //added by killap - expansion
-      end else if ( (cur_map_index == MAP_DEN_RESIDENTIAL) and (returned_to_church == false) ) then begin
+      end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
          start_dialog_at_node(Node045);
       //end added
       end else if (gave_money) then begin
