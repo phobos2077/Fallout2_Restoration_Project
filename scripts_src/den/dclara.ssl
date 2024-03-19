@@ -238,9 +238,6 @@ procedure critter_p_proc begin
    if not self_obj then return;
    gang_critter_p_proc
 
-   //display_msg("lara gang count: " + (global_var(GVAR_DEN_GANG_2_COUNT)));
-  // display_msg("tyler gang count: " + (global_var(GVAR_DEN_GANG_1_COUNT)));
-
    //added by killap
    if (cur_map_index == MAP_DEN_BUSINESS) then begin
       if (gangwar(state_gangwar_in_fight)) then begin
@@ -385,8 +382,7 @@ procedure Node001 begin
    set_node_1;
    NOption(202, Node006, 004);
    NOption(203, Node004, 004);
-   //if ((vic_known(state_vic_known_name) == false) and (vic_free == false)) then begin
-   if (vic_free == false) then begin //edit by killap
+   if (vic_free == false) then begin
       NOption(204, Node003, 004);
    end
    NOption(205, Node002, -003);
@@ -573,9 +569,8 @@ procedure Node033 begin
    floater_rand(540, 544);
 end
 procedure Node034 begin
-   floater(550 + dude_is_female); // Seraph: changed "self_is_female" to "dude_is_female". Part of Haenlomal's gang fixes.
-   //self_attack_dude;
-   set_hostile; // replaced the above with this since the script crashes if we attack from dialogue. -killap
+   floater(550 + dude_is_female);
+   set_hostile; // replaced self_attack_dude with this since the script crashes if we attack from dialogue. -killap
 end
 procedure Node035 begin
    set_gave_money(dude_obj);
@@ -632,7 +627,6 @@ end
 
 procedure Node041 begin
    set_local_var(LVAR_Attack_Tyler_Wait,1);
-   //flush_add_timer_event_sec(self_obj, 8, 2);
 end
 
 procedure Node042 begin
