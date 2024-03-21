@@ -311,7 +311,8 @@ procedure talk_p_proc begin
          call Node034;
       //added by killap - expansion
       end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
-         start_dialog_at_node(Node045);
+         if returned_to_church then floater(730);
+         else start_dialog_at_node(Node045);
       //end added
       end else if (gave_money) then begin
          call Node032;
