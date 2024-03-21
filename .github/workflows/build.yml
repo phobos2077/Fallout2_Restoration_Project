@@ -11,33 +11,30 @@ jobs:
     if: ${{ github.actor != 'bgforge-hive' }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Run tests
-        run: |
-          set -xeu -o pipefail
-          ./extra/tests.sh
+        run: ./extra/tests.sh
+
+      - uses: devopsx/gha-ubuntu-i386-fix@master
 
       - name: Install packages
         run: |
-          set -xeu -o pipefail
-          sudo dpkg --add-architecture i386
-          sudo apt -qq update
-          sudo apt-get install -o=Dpkg::Use-Pty=0 -y libgcc-s1:i386 libstdc++6:i386 crudini dos2unix gcc p7zip wine-stable wine32
-          wineboot
+          sudo DEBIAN_FRONTEND=noninteractive eatmydata apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip
+          WINEARCH=win32 eatmydata wineboot
 
       - name: Build and package
         run: ./extra/full.sh
 
       - name: Upload artifacts - exe
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu.exe
           path: rpu*.exe
 
       - name: Upload artifacts - translations zip
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu_translations.zip
@@ -49,7 +46,7 @@ jobs:
         run: rm -f rpu*_translations.zip
 
       - name: Upload artifacts - main zip
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu.zip
