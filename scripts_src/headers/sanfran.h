@@ -114,6 +114,9 @@
 
 #define BADGER_DEAD      (badger_flag(BADGER_DEADSHI) or badger_flag(BADGER_DEADCBT) or elron_flag(EL_ACBADGDEAD))
 
+/* TODO: This is wrong and should be checking actual bit flags.
+   Proper fix would require full San Francisco playthrough.
+*/
 #define badger_flag(x)        (global_var(GVAR_SAN_FRAN_BADGER) == x)
 #define set_badger_flag(x)    set_global_var(GVAR_SAN_FRAN_BADGER, x)
 #define badger_dead           (badger_flag(BADGER_DEADCBT) or badger_flag(BADGER_DEADSHI))
