@@ -14,14 +14,14 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run tests
-        run: |
-          set -xeu -o pipefail
-          ./extra/tests.sh
+        run: ./extra/tests.sh
 
       - uses: devopsx/gha-ubuntu-i386-fix@master
 
       - name: Install packages
-        run: sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip
+        run: |
+          sudo DEBIAN_FRONTEND=noninteractive eatmydata apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip
+          WINEARCH=win32 eatmydata wineboot
 
       - name: Build and package
         run: ./extra/full.sh
