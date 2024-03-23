@@ -127,7 +127,7 @@ Nickolas
 trisem
 Trephs
 
-@Polish Translation 
+@Polish Translation
 Mad Ivan
 Kryspin013
 szczypiorofix
@@ -182,20 +182,18 @@ Anyone else I forgot
 
 #FALLOUT 2 HIGH RESOLUTION PATCH
 
-@brought to you by 
+@brought to you by
 Mash
-
-
 
 
 #FALLOUT 2 DEVELOPMENT TEAM
 
-#PROGRAMMING
+#PROGRAMOWANIE
 
-@Lead Programmer
+@Główny programista
 Jesse Reynolds
 
-@Programmers
+@Programiści
 Chris Jones
 Nick Kesting
 Robert Hertenstein 2
@@ -203,31 +201,31 @@ Thomas French
 Chris Holland
 Dan Spitzley
 
-@Additional Programming By
+@Dodatkowe programowanie
 Tim Cain
 John Price
 Michael Bernstein
 
-@Movie Technology
+@Technologia filmowa
 Paul Edelstein
 
-@Installer/Autoplay
+@Instalator/Autoplay
 Darren Monahan
 
 
-#ART
+#GRAFIKA
 
-@Lead Artists
+@Główni graficy
 Gary Platner
 Tramell Ray Isaac
 
-@Artists
+@Graficy
 Robert Collier
 Jeff McAteer
 Brian Menze
 Scott Rodenhizer
 
-@Additional Art By
+@Dodatkowe grafiki
 Aaron Brown
 Peter Kroko
 Michael Sean McCarthy
@@ -237,7 +235,7 @@ Justin Sweet
 Vance Kovacs
 Tim Donley
 
-@Intern Artists
+@Grafiki wnętrz
 Charles M. Gregory
 Daniel Jacobs
 John Jacobs
@@ -246,20 +244,20 @@ Christopher Jones
 Benc Orpak
 Adoni Torres
 
-@Original Game Artwork By
+@Oryginalna grafika gry
 Jason Anderson
 Leonard Boyarsky
 Michael Dean
 Sharon Shellman
 
 
-#DESIGN
+#PROJEKT
 
-@Lead Designers
+@Główni projektanci
 Feargus Urquhart
 Matthew J. Norton
 
-@Designers
+@Projektanci
 Jason G. Suinn
 John Deiley
 Chris Avellone
@@ -267,57 +265,57 @@ David "Zeb" Cook
 Dave Hendee
 Colin McComb
 
-@Technical Designer
+@Projektanci techniczni
 Scott Everts
 
-@Level Designers
+@Projekty poziomów
 John Deiley
 Scott Everts
 Jason G. Suinn
 
-@Additional Design By
+@Dodatkowe projekty
 Robert Hertenstein 2
 Nick Kesting
 Fred Hatch
 
-@Design/Dialogue
+@Projekty/Dialogi
 Mark O'Green
 
-@Original Game Design By
+@Oryginalny projekt gry
 Tim Cain
 Leonard Boyarsky
 Jason Anderson
 Jason Taylor
 Scott Campbell
 
-@SPECIAL Game System Design By
+@Projekt systemu gry SPECIAL
 Chris Taylor
 Tim Cain
 Jess Heinig
 Feargus Urquhart
 
 
-#PRODUCTION
+#PRODUKCJA
 
-@Division Director
+@Dyrektor
 Feargus Urquhart
 
-@Producers
+@Producenci
 Eric Demilt
 Feargus Urquhart
 
-@Assistant Producers
+@Zastępcy producentów
 Fred Hatch
 Douglas Avery
 
-@Asst. Division Director
+@Zastępca dyrektora
 Jeremy Barnes
 
-@Lip Synch Coordinators
+@Koordynatorzy synchronizacji ruchu ust
 Jason G. Suinn
 Dave Hendee
 
-@Lip Synch Artists
+@Synchronizacja ruchu ust
 Douglas Avery
 Chris Benson
 David "Zeb" Cook
@@ -327,26 +325,26 @@ Colin McComb
 
 
 
-#QUALITY ASSURANCE
+#KONTROLA JAKOŚCI
 
-@Director of Quality Assurance
+@Kierownik kontroli jakości
 Chad Allison
 
-@QA Managers
+@Asystenci kontroli jakości
 Steve Victory
 Colin Totman
 
-@PC Version Project Supervisors
+@Nadzór wersji PC
 Greg "Moose" Baumeister
 Steve McLafferty
 Darrell Jones
 
-@PC Version Senior Testers
+@Główni testerzy wersji PC
 Dennis Presnell
 Chad Nicholas
 Dave Simon
 
-@PC Version Testers
+@Testerzy wersji PC
 Ed Hyland
 Dany Martinez
 WR Saunders
@@ -364,19 +362,19 @@ Jeremy Seely
 Henry Lee
 Scott Humphreys
 
-@I.S. Compatibility Manager
+@Kompatybilność
 Frank Pimentel
 
-@Senior I.S. Technician
+@Główny technik
 Bill Delk
 
-@I.S. Technician
+@Technik
 Tom Quast
 
-@QA Database Administrator
+@Administrator bazy danych - kompatybilność
 Steve Cabiness
 
-@Compatibility Technicians
+@Technicy kompatybilności
 Derek Gibbs
 John Parker
 Ed Robles
@@ -384,69 +382,69 @@ Louie Iturzaeta
 
 
 
-#AUDIO
+#DŹWIĘK
 
-@Audio Director
+@Reżyser dźwięku
 Charles Deenen
 
-@Audio Mastering
+@Edycja dźwięku
 Craig Duman
 
-@Voiceover Director
+@Kierownik nagrań
 Jamie Thomason
 
-@Voiceover Coordinator
+@Koordynator nagrań
 Julie Morgavi
 
-@Voiceover Supervisor
+@Nadzór nad nagraniami
 Chris Borders
 
-@Voiceover Editors
+@Edytorzy nagrań
 Frank Szick
 Kevin Frayser
 Ron Valdez
 
-@Voiceover Recorded at Marc Graue Studio
+@Nagrań głosów dokonano w Marc Graue Studio
 
-@Sound Design
+@Projekt dźwięku
 Paul Menichini
 Tim Walston
 
-@Cinematics Sound Design
+@Projekt dźwięku
 David Farmer
 
-@Cinematics Re-Recording Mixing
+@Miksowanie
 Charles Deenen
 
-@Mixed in Dolby [TM] Surround at Interplay Audio
+@Zmiksowane w systemie Dolby [TM] Surround w Interplay Audio
 
-@Audio Administrator
+@Administrator dźwięku
 Gloria Soto
 
-@Additional Sound Design by
+@Dodatkowy projekt dźwięku
 Larry Peacock
 Weddington
 EFX
 Eight Ball Sound
 Charles Deenen
 
-@Voiceover Engineers
+@Inżynierowie nagrań
 Wes Smith
 Julian Cook
 of Marc Graue Studios
 
-@Music By
+@Muzyka
 Mark Morgan
 @for
 Four Bars Intertainment
-@and by
+@oraz
 Rick Jackson
 
-@Voice Producer
+@Producent nagrań
 Fred Hatch
 
 
-@FEATURING THE VOICES OF
+@Głosów użyczyli
 
 Charlie Adler
 @Harold
@@ -464,16 +462,16 @@ Cree Summer
 @Lynette
 
 Kevin Michael Richardson
-@Com Officer
+@Oficer Com
 
 Peter Jason
-@Drill Sergeant
+@Sierżant od musztry
 
 Peter Jason
-@Gate Guard
+@Strażnik bramy
 
 Flo DiRe
-@Elder
+@Starszy
 
 Tress MacNeille
 @Tandi
@@ -488,32 +486,32 @@ Michael Dorn
 @Frank Horrigan
 
 Jeffrey Jones
-@The President
+@Prezydent
 
 
 
 "A KISS TO BUILD A DREAM ON"
-@Performed by Louie Armstrong
-@Courtesy of GRP Records
-@Under license from UNIVERSAL MUSIC SPECIAL MARKETS
+@Wykonanie: Louie Armstrong
+@Za zgodą: GRP Records
+@Na licencji UNIVERSAL MUSIC SPECIAL MARKETS
 
 "A KISS TO BUILD A DREAM ON"
-@Written by Bert Kalmer, Harry Ruby and Oscar Hammerstein II
-@(C) 1935, 1951 renewed 1963, 1979 METRO GOLDWYN MAYER, INC.
-@Rights assigned to EMI CATALOGUE PARTNERSHIP
-@All Rights Controlled and Administered by EMI MILLER CATALOG INC.
-@All Rights Reserved.  International Copyright Secured.
-@Used by Permission.
+@Napisane przez Berta Kalmera, Harry'ego Ruby'ego i Oscara Hammersteina II
+@(C) 1935, 1951 reedycja 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Prawa przypisane EMI CATALOGUE PARTNERSHIP
+@Wszelkie prawa kontrolowane i zarządzane przez EMI MILLER CATALOG INC.
+@Wszelkie prawa zastrzeżone. Chronione międzynarodowym prawem autorskim.
+@Użycie za zgodą.
 
-@WARNING: It is a violation of Federal Copyright Law
-@to copy, duplicate or reproduce this Program or any
-@portions of this Program without the express written
-@permission of the copyright owner.
+
+@OSTRZEŻENIE: Kopiowanie, powielanie lub reprodukowanie
+@tego Programu albo jakichkolwiek jego części bez pisemnej
+@zgody właściciela jest naruszeniem prawa autorskiego.
 
 
 #VIDEO
 
-@Video Services Provided by
+@Usługi Video
 Dave Cravens
 Stephen Miller
 Bill Stoudt
@@ -522,52 +520,150 @@ Dan Williams
 
 #MARKETING
 
-@Director of Marketing
+@Kierownik marketingu
 Paul Sackman
 
-@Marketing Managers
+@Managerowie marketingu
 Mike Markin
 Greg Peterson
 
-@Associate Marketing Manager
+@Współpraca
 Greg Bauman
 
 @PR Manager
 Krys Card
 
-@Traffic Managers
+@Managerowie handlowi
 Thom Dohner
 Paul Naftalis
 
 
 
 
-@Thanks to
+@Podziękowania dla:
 @(Dave H.) The Unwashed Villagers, the Dyer Family,
-@Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
-@Thuy Dang, Eileen Suh and Ma and Pa Avellone;  (t.ray)
-@my mother, my father, my son and my brother and to all
-@of my adoring fans for buying this game;  (Rob H.)
-@Becky Warner and Billie Ryder;  (Matt N.) Meine
-@DieMonika und der kater;  (Jesse R.) "To Dad,
-@you were an inspiration all my life.  I miss you
-@always."
+@Jamba Juice, The Tick, Southpark;
+@(Chris A.) mojego "kumpla" Thuy Dang, Eileen Suh
+@oraz Mamy i Taty Avellone;
+@(T.Ray) mojej mamy, mojego taty, mojego syna
+@i mojego brata oraz dla wszystkich moich fanów
+@za kupienie tej gry;
+@(Rob H.) Becky Warner i Billiego Rydera;
+@(Matt N.) Meine DieMonika und der kater;
+@(Jesse R.) "Dla Taty, byłeś dla mnie inspiracją
+@przez całe życie. Zawsze będę za Tobą tęsknił."
 
-@Special Thanks to:
-@The Members of the Fallout and Fallout 2 message boards.
-@Thanks for your comments, suggestions and other esoteria!
-@The Interplay Video Room, for processing above and beyond
-@the call of duty!
+@Specjalne podziękowania dla:
+@Członków forów Fallout and Fallout 2.
+@Dziękujemy za wasze komentarze, sugestie i inne ezoteria!
+@Pokoju Video firmy Interplay, za pracę ponad
+@i poza zewem @obowiązku!
 
-@Fallout 2 was brought to you by Interplay Productions,
-@Team Fallout 2, the letter Q and numbers 42 and 20.
-
-
-
-
+@Fallout 2 został dla was stworzony przez Interplay Productions,
+@Team Fallout 2, literkę Q oraz numerki 42 i 20.
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Dobra, spoko, skoro naprawdę musicie...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Znaleźliście wszystkie spotkania losowe?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Szukajcie dalej...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@A może znajdziecie Sokoła Maltańskiego?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Ha! Miłej zabawy...
