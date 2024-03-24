@@ -1405,7 +1405,7 @@
 {1505}{}{M. Chimie !}
 {1506}{}{Dex}
 {1507}{}{Cat Jules}
-{1508}{}{[Kitsune]}
+{1508}{}{Kitsune}
 {1509}{}{Guerrier}
 {1510}{}{Aérosol insecticide}
 {1511}{}{Prisonnier du Docteur}
