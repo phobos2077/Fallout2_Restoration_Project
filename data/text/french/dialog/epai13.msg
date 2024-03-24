@@ -45,4 +45,4 @@
 {300}{}{Choisissez un sujet : }
 {301}{}{[Sergent Christopher "Cat" Jules]}
 {302}{}{[Dexter "Dex" Patrick]}
-{303}{}{[Kitsune]}
+{303}{}{Kitsune}

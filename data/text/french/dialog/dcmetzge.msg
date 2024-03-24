@@ -29,7 +29,7 @@
 {240}{}{J'ai changé d'avis. Au revoir.}
 {241}{}{Dex}
 {242}{}{Cat Jules}
-{243}{}{[Kitsune]}
+{243}{}{Kitsune}
 {245}{}{Vas-y, continue !}
 {246}{}{Vraiment ?}
 {247}{}{Je ne suis pas ton domestique, bordel, alors dépêche-toi !}
