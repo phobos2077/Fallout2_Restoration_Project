@@ -999,7 +999,7 @@ procedure Node023 begin
          NOption(348, Node023a, 004);
       NOption(259, Node023a, 004);
    end
-   if (dude_caps >= 30000) and dude_has_combat_armor then
+   if (dude_caps >= 30000) and dude_has_combat_armor and haggle_check then
       NOption(260, Node023b, 004);
    NOption(261, Node018, 004);
    NOption(262, Node014, 004);
