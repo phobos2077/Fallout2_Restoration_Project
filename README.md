@@ -55,6 +55,7 @@ For additional QoL options, check out:
 
 - [Lossless music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
+- [Inventory Filter](https://github.com/rotators/InventoryFilter)
 
 ### Bug reports, feature requests
 
