@@ -74,18 +74,18 @@
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{Quel dommage !}
 {224}{}{Salut.}
-{225}{}{I’ll just make another one, you know.}
-{226}{}{I know.}
-{227}{}{Well, that’s good.}
+{225}{}{I'll just make another one, you know.}
+{226}{}{Je sais.}
+{227}{}{C'est une bonne chose.}
 {228}{}{Salut.}
-{232}{}{Why? Why did you destroy my still? You bitch!}
-{233}{}{Where are you, baby?}
-{234}{}{Are you coming?}
+{232}{}{Pourquoi ? Pourquoi as-tu détruit mon alambic ? Espèce de salope !}
+{233}{}{Où es-tu, bébé ?}
+{234}{}{Tu viens ?}
 {235}{}{J'attends.}
-{236}{}{I'm in here, lover.}
-{237}{}{I've got a bar to run.}
-{238}{}{Follow me, sugar.}
-{240}{}{How did you... Do that... Uhhh...}
-{241}{}{It's O.K., size doesn't really matter.}
-{242}{}{That was, ummm, nice -- I guess.}
+{236}{}{Je suis là, mon amour.}
+{237}{}{J'ai un bar à gérer.}
+{238}{}{Suis-moi, mon chou.}
+{240}{}{Comment as-tu... fait ça... Euhhh...}
+{241}{}{C'est bon, la taille n'a pas vraiment d'importance.}
+{242}{}{C'était, ummm, sympa -- je suppose.}
 {243}{}{Thanks, sweety; that was fun.}
