@@ -488,6 +488,6 @@
  points he received.
 ***************************************/
 #define give_xp(x)                              give_exp_points(x);             \
-                                                display_msg(message_str(SCRIPT_GENERIC,100)+x+message_str(SCRIPT_GENERIC,101))
+                                                display_msg(g_mstr(100) + (x + ((x * 5 / 100) * dude_perk(PERK_swift_learner))) + g_mstr(101))
 
 #endif // EXPPOINT_H
