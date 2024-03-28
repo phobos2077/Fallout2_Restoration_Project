@@ -66,11 +66,11 @@
 {214}{}{Gotta run. See ya.}
 {215}{}{Not now. Maybe later. Yes, definitely later.}
 {216}{}{Puis-je te poser une question ?}
-{217}{}{Later then.}
-{218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno gangsters.}
-{219}{}{Smart girl! I like that!}
-{220}{}{Hmm, I have to go. I’ll see you later.}
-{221}{}{Why? Why did you destroy my still? You bastard!}
+{217}{}{Au revoir.}
+{218}{}{J'ai un alambic au sous-sol. Je l'ai fabriqué moi-même. C'est mieux que de payer le triple à ces gangsters de New Reno.}
+{219}{}{Une fille intelligente ! J'aime bien ça !}
+{220}{}{Hmm, je dois y aller. Je te verrai plus tard.}
+{221}{}{Pourquoi ? Pourquoi as-tu détruit mon alambic ? Espèce de salaud !}
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{Quel dommage !}
 {224}{}{Salut.}
