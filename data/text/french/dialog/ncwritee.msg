@@ -109,7 +109,7 @@
 {374}{}{Tu parles vraiment à dieu quand tu baises ?}
 {375}{}{Maman dit que t'es l'engin du Démon.}
 {376}{}{Maman dit que t'es une prostituée. Une catin effrontée. Je n'ai aucune idée de c'que c'est.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{T'es là pour voir papa pour une affaire ? Alors bonne chance, je pense pas qu'il embauche quelqu'un maintenant.}
 {386}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {387}{}{Fais gaffe à toi ici, mon ami. C'est le territoire des Wright.}
 {390}{}{Tu ferais mieux de décamper... On reçoit pas les esclavagistes chaleureusement ici.}

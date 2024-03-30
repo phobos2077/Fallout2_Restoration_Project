@@ -1536,8 +1536,8 @@
 {152200}{}{Mur}
 {152300}{}{Mur}
 {152400}{}{Mur}
-{152500}{}{Entrée de la mine}
-{152600}{}{Entrée de la mine}
+{152500}{}{Entree de la mine}
+{152600}{}{Entree de la mine}
 {152700}{}{Embrasure de porte}
 {152800}{}{Embrasure de porte}
 {152900}{}{Embrasure de porte}

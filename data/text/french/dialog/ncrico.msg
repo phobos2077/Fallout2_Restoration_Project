@@ -9,7 +9,7 @@
 {179}{}{Klurgggg}
 {180}{}{Uurggh}
 {200}{}{Moi ami de Monte. Toi ami de Monte ?}
-{201}{}{Me hit people Monte tell me to.}
+{201}{}{Moi frapper gens que Monte me dire.}
 {202}{}{Moi frapper gens}
 {203}{}{Moi frapper comme jouer du tambour}
 {204}{}{J'aime frapper}

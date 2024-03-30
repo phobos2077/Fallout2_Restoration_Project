@@ -195,8 +195,8 @@
 {1174}{}{Tu sais comment dépouiller les geckos pour utiliser leur cuir.}
 {1175}{}{Tu possèdes une protection inhérente contre les attaques physiques.}
 {1176}{}{Tu possèdes une protection inhérente supplémentaire contre les attaques physiques.}
-{1177}{}{You have inherent protection against thermal attacks.}
-{1178}{}{You have extra inherent protection against thermal attacks.}
+{1177}{}{Tu possèdes une protection inhérente contre les attaques thermiques.}
+{1178}{}{Tu possèdes une protection inhérente supplémentaire contre les attaques physiques.}
 {1179}{}{Tu as acquis une résistance de +10 % au poison et aux radiations.}
 {1180}{}{Avec cette aptitude, tu ajoutes +1 à ta force lorsque tu descends sous la moitié du maximum de tes points d'impact.}
 {1181}{}{Tu es plus alerte à l'extérieur et tes ennemis risquent moins de te surprendre. Avec cette aptitude, tu ajoutes +3 à ta perception pour déterminer le placement (Séquence) lors des rencontres aléatoires.}
