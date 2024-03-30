@@ -105,7 +105,7 @@
 {204}{}{Désactivation de toutes les sécurités - Niveau 1}
 {205}{}{Désactivation de toutes les sécurités - Niveau 2}
 {206}{}{Désactivation de toutes les sécurités - Niveau 3}
-{207}{}{Deactivating all Security - Level 4}
+{207}{}{Désactivation de toutes les sécurités - Niveau 4}
 {306}{}{[Ce bidule pourrait être utile.]}
 {400}{}{Range ton arme.}
 {410}{}{Whrrr}

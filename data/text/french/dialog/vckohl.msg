@@ -92,15 +92,15 @@
 {191}{}{Je vois. Je pourrais te poser encore quelques questions ?}
 {192}{}{Je vais peut-être voir si je peux le trouver.}
 {193}{}{ ! Bien ! Bravo !}
-{194}{}{Oh, I will for sure! I whish there were more people who did, too.}
-{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
-{196}{}{Really? Used to?}
-{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
-{198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
-{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
-{200}{}{Wow, that's a very comforting thought! Where was his home?}
-{201}{}{Why doesn't he come around anymore?}
-{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
-{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
-{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
-{205}{}{Ah, pushed his luck. Where did he say he was from?}
+{194}{}{Oh, je le ferai sans aucun doute ! J'aimerais qu'il y ait plus de personnes comme toi dans ce monde.}
+{195}{}{Je partage certainement ce sentiment ! Cela fait longtemps que je n'ai pas vu quelqu'un qui s'intéresse un tant soit peu à la question. J'ai connu un commerçant qui partageait cette passion...}
+{196}{}{Vraiment ? Autrefois ?}
+{197}{}{C'est bien de savoir que nous sommes plus nombreux. Ça te dérange si je te demande autre chose ?}
+{198}{}{J'espère que nous serons plus nombreux. Merci beaucoup et au revoir !}
+{199}{}{Oui, il venait dans la partie extérieure de la Cité pour échanger des boissons alcoolisées, mais il venait aussi m'acheter des livres. Je ne lui faisais même pas payer, mais il insistait. Il disait que ses compatriotes les aimaient beaucoup.}
+{200}{}{Voilà une pensée bien réconfortante ! Où habitait-il ?}
+{201}{}{Pourquoi ne revient-il plus ?}
+{202}{}{Il m'a dit que c'était un endroit qu'on appelle l'Abbaye, un peu au nord d'ici. Il m'a même montré l'endroit exact, c'est juste... ici. J'aimerais bien la voir, mais la simple vue de la partie extérieure de la Cité suffit déjà à me faire paniquer.}
+{203}{}{Je crois qu'il a essayé de vendre des boissons alcoolisées à l'intérieur de la ville. C'est illégal, tu sais.}
+{204}{}{Ah, c'est bien dommage. Merci pour ces informations. Puis-je te demander autre chose ?}
+{205}{}{Ah, il a un peu forcé sa chance. D'où a-t-il dit qu'il venait ?}

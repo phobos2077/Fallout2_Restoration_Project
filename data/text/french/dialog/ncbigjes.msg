@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore est vivant. Pourquoi reviens-tu ?}
 {661}{}{[Une perle de sueur dégouline le long du visage de Mordino.] Tu as fait ce que je t'ai demandé ? Louis Salvatore est-il mort ?}
 {662}{}{Il est mort. Ta famille est vengée, Señor Mordino.}
-{663}{}{No, I shall return when I have killed him.}
+{663}{}{Non, je reviendrai quand je l'aurai tué.}
 {664}{}{Salvatore est trop bien protégé. Je vais devoir renoncer à cette mission.}
 {670}{}{Si tu... ne termines pas ce travail, je te ferai... TUER !}
 {671}{}{Si tu le prends comme ça, je reviendrai quand il sera mort.}

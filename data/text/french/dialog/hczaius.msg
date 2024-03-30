@@ -28,7 +28,7 @@
 {127}{}{Non. Pas vraiment.}
 {128}{}{Encore toi, hein ?}
 {129}{}{Yark ! Ouag ! Ouga ouga !}
-{130}{}{Hi! HIIIII! Me }
+{130}{}{Saaalut ! SAAALUUT ! Moi !}
 {131}{}{Camarade, je t'ai déjà donné de l'argent. Va embêter quelqu'un d'autre, d'accord ?}
 {132}{}{Re-salut. Pourquoi ne pas aller... Voyons voir... à la banque, en ville ? Sûr qu'il y a des tas de gens là-bas qui voudraient bien te parler.}
 {133}{}{Bon, si jamais tu trouves une solution, tiens-moi au courant.}

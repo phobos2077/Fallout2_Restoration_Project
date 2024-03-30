@@ -74,7 +74,7 @@
 {173}{}{Comment sont fabriqués ces alcools de synthèse ?}
 {174}{}{En fait, je cherchais des renseignements.}
 {175}{}{C'est tout pour aujourd'hui. Merci.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
+{176}{}{Les Autodocs de la Cité de l'Abri fabriquent des substituts synthétiques à des substances créant une dépendance. Si j'ai bien compris, ces produits de synthèse servaient de placebo pour les accros aux stimulants avant la guerre.}
 {177}{}{Tu as l'air d'en savoir long sur ces produits de synthèse.}
 {178}{}{Hum, vous n'auriez pas de vraies boissons ?}
 {179}{}{Oh. Bien, je crois que je vais prendre de l'eau.}

@@ -74,7 +74,7 @@
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{Quel dommage !}
 {224}{}{Salut.}
-{225}{}{I'll just make another one, you know.}
+{225}{}{Je vais en faire un autre, tu sais.}
 {226}{}{Je sais.}
 {227}{}{C'est une bonne chose.}
 {228}{}{Salut.}
