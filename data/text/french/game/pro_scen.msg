@@ -2613,9 +2613,9 @@
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
-{170600}{}{Pont détruit}
+{170600}{}{Pont detruit}
 {170601}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
-{170700}{}{Pont détruit}
+{170700}{}{Pont detruit}
 {170701}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
 {170800}{}{Canyon}
 {170900}{}{Porte}
@@ -2662,7 +2662,7 @@
 {174800}{}{Porte du bureau du Président}
 {174900}{}{Schéma de l'oeil}
 {175000}{}{Ruines}
-{175100}{}{Gardien de L'Eternité}
+{175100}{}{Gardien de L'Eternite}
 {175200}{}{Pancarte « En Dérangement »}
 {175300}{}{Sol effondré}
 {175400}{}{Siège de toilette}
@@ -3177,7 +3177,7 @@
 {210101}{}{Cette porte d'abri est encastrée dans la roche de la montagne. Apparemment elle a survécu à la déflagration d'une bombe atomique.}
 {210200}{}{Porte extérieure de l'Abri}
 {210201}{}{Cette grande porte est le seul lien entre l'Abri est le monde extérieur. Elle a été défoncée par une énorme explosion.}
-{210300}{}{Entrée de la grotte}
+{210300}{}{Entree de la grotte}
 {210301}{}{Cette cave s'ouvre sur un plus large réseau de caves.}
 {210400}{}{Ordinateur de la Porte d'Entrée}
 {210401}{}{Cet ordinateur contrôle la porte de l'Abri. VOus devez entrer un code spécifique pour que ça fonctionne.}

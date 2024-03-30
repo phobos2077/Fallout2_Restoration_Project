@@ -1,7 +1,7 @@
 {200}{}{Pont}
 {201}{}{Village}
-{202}{}{Entrée du temple}
-{203}{}{Désert}
+{202}{}{Entree du temple}
+{203}{}{Desert}
 {204}{}{Interieur du Temple}
 {210}{}{Quartier Ouest}
 {211}{}{Zone Est}
@@ -10,7 +10,7 @@
 {221}{}{Trapper town}
 {222}{}{Grottes aux rats}
 {223}{}{Terrains de chasse}
-{224}{}{Pâturages}
+{224}{}{Paturages}
 {225}{}{Canyon}
 {230}{}{Rue principale}
 {231}{}{Auberge}
@@ -18,23 +18,23 @@
 {233}{}{Jardin de Farrel}
 {234}{}{Grottes}
 {235}{}{Puits de la ville}
-{240}{}{Entrée}
+{240}{}{Entree}
 {241}{}{Centre-ville}
 {242}{}{Conseil}
 {243}{}{Abri}
 {250}{}{Campement}
 {251}{}{Centrale}
-{252}{}{Dépotoir}
+{252}{}{Depotoir}
 {253}{}{Tunnels}
 {260}{}{Centre-ville}
-{261}{}{Résidentiel}
+{261}{}{Residentiel}
 {270}{}{Rue de la Vierge}
-{271}{}{2ème rue}
+{271}{}{2eme rue}
 {272}{}{Rue marchande}
 {273}{}{Zone Est}
-{274}{}{A l'entrecôte}
+{274}{}{A l'entrecote}
 {275}{}{Ring de boxe}
-{276}{}{Zone d'hélicoptères}
+{276}{}{Zone d'helicopteres}
 {280}{}{Champ de bataille}
 {281}{}{Entrepot niveau 1 : Personnel}
 {282}{}{Entrepot niveau 2 : Quai de stockage}
@@ -44,16 +44,16 @@
 {291}{}{Squatters}
 {292}{}{Squatters}
 {293}{}{L'Abri 15}
-{294}{}{Entrée Est}
+{294}{}{Entree Est}
 {300}{}{Bazar}
 {301}{}{Conseil 2}
 {302}{}{Centre-ville}
-{303}{}{Hôtel de ville}
+{303}{}{Hotel de ville}
 {304}{}{Ranch de Westin}
-{305}{}{Pâturages}
-{310}{}{Entrée de la grotte}
+{305}{}{Paturages}
+{310}{}{Entree de la grotte}
 {311}{}{Abri 13}
-{320}{}{Entrée}
+{320}{}{Entree}
 {321}{}{Niveau 1}
 {322}{}{Niveau 2}
 {323}{}{Niveau 3}
@@ -61,14 +61,14 @@
 {330}{}{Centre-ville}
 {331}{}{Mine du Grand Wanamingo}
 {332}{}{Mine du Grand Wanamingo}
-{333}{}{Entrée de la mine}
+{333}{}{Entree de la mine}
 {334}{}{Tunnels du centre-ville}
 {335}{}{Tunnels de la mine}
 {340}{}{Chinatown}
 {341}{}{Quai}
 {342}{}{Tanker}
 {343}{}{Exterieur de la navette}
-{344}{}{Intérieur de la navette}
+{344}{}{Interieur de la navette}
 {345}{}{Hubologistes}
 {346}{}{Temple Shi}
 {350}{}{Station essence}
@@ -77,13 +77,13 @@
 {361}{}{Centre de detention}
 {362}{}{Boss de Fin}
 {363}{}{Caserne}
-{364}{}{Quartier présidentiel}
-{365}{}{Réacteur}
+{364}{}{Quartier presidentiel}
+{365}{}{Reacteur}
 {366}{}{Salle piegee}
-{370}{}{Entrée}
+{370}{}{Entree}
 {380}{}{Foret}
 {381}{}{Tribu}
-{390}{}{Entrée}
+{390}{}{Entree}
 {391}{}{Canalisations}
 {392}{}{Services}
 {393}{}{Niveau Un}
@@ -94,22 +94,22 @@
 {401}{}{Caverne principale}
 {402}{}{Lac souterrain}
 {410}{}{Voiture en panne}
-{420}{}{Pont détruit}
+{420}{}{Pont detruit}
 {430}{}{Grottes toxiques}
 {440}{}{Fuite des esclaves de La Fosse}
 {450}{}{Puits}
 {451}{}{Falaise}
 {452}{}{Entree de la grotte}
-{460}{}{Désert}
-{461}{}{Désert}
-{462}{}{Désert}
-{463}{}{Désert}
-{464}{}{Désert}
-{465}{}{Désert}
-{466}{}{Désert}
-{467}{}{Désert}
-{468}{}{Désert}
-{469}{}{Désert}
+{460}{}{Desert}
+{461}{}{Desert}
+{462}{}{Desert}
+{463}{}{Desert}
+{464}{}{Desert}
+{465}{}{Desert}
+{466}{}{Desert}
+{467}{}{Desert}
+{468}{}{Desert}
+{469}{}{Desert}
 {470}{}{Montagne}
 {471}{}{Caverne}
 {472}{}{Montagne}
@@ -143,37 +143,37 @@
 {520}{}{Homme en fer-blanc}
 {521}{}{Grosse Tête}
 {530}{}{Lieu du crash}
-{540}{}{Désert}
+{540}{}{Desert}
 {550}{}{Pont}
 {560}{}{Cafe des Illusions Perdues}
-{570}{}{Désert}
+{570}{}{Desert}
 {580}{}{Caverne}
-{590}{}{Gardien de L'Eternité}
+{590}{}{Gardien de L'Eternite}
 {600}{}{Decharge de produits toxiques}
-{610}{}{Désert}
+{610}{}{Desert}
 {620}{}{Troupeau de Brahmines}
-{630}{}{Désert}
+{630}{}{Desert}
 {631}{}{Montagne}
 {640}{}{Caverne de l'Abri 13}
 {650}{}{Caverne}
 {660}{}{Littoral}
 {661}{}{Littoral}
-{662}{}{Désert}
-{663}{}{Désert}
-{664}{}{Désert}
+{662}{}{Desert}
+{663}{}{Desert}
+{664}{}{Desert}
 {665}{}{Montagne}
 {666}{}{Montagne}
-{667}{}{Désert}
-{668}{}{Désert}
+{667}{}{Desert}
+{668}{}{Desert}
 {670}{}{Etables}
 {680}{}{Village}
 {690}{}{Tribu Umbra}
 {700}{}{Tribu Umbra}
 {710}{}{Tribu Umbra}
-{1000}{}{Désert}
+{1000}{}{Desert}
 {1001}{}{Montagnes}
 {1002}{}{Ville}
-{1003}{}{Côte}
+{1003}{}{Cote}
 {1004}{}{Inconnu}
 {1500}{}{Tu as gagné 10 000 points d'expérience !}
 {1501}{}{Ruines}
