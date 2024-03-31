@@ -1,58 +1,57 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+    Sierra trap template.
+
+    Purpose: This script is a spatial/scenery script any weapon to be
+        fired from any floor plate. Basically, trap will be hidden until the player
+        makes a successful stat roll (vs. Perception). Once
+        Found, the trap will become visible and the player
+        will have to try to disarm it.
 */
 
-/******************************************************************
-   Filename: SprTrp0.ssl
+/* Actual script should look like this.
 
-   Purpose: This script is a spatial/scenery script for a spear
-            trap. Basically, trap will be hidden until the player
-            makes a successful stat roll (vs. Perception). Once
-            Found, the trap will become visible and the player
-            will have to try to disarm it.
+#define SCRIPT_REALNAME     "wtpltrp"
 
-   Created: December 18, 1997   RWH2
+// This defines the corresponding msg file.
+// Many scripts use a shared value.
+// Pay attention to the actual values when refactoring.
+#define NAME                SCRIPT_SPRTRP0
 
-   Updated:
-        April 14, 1998          rwh2
-                Made the template more generic for any weapon to be
-                fired from any floor plate. All defines at the top
-                are the only things that will need to be changed
-                from now on
-******************************************************************/
-
-
-/* Include Files */
-#define SCRIPT_REALNAME "sprtrp0"
 #include "../headers/define.h"
-
-#define NAME                    SCRIPT_SPRTRP0
-#define CUR_SCRIPT              SCRIPT_SPRTRP50
-
 #include "../headers/command.h"
-#include "../headers/arcaves.h"
 
-#define TRAP_BONUS                      (0)
-#define PERCEPTION_BONUS                (0)
-#define AGILITY_BONUS                   (0)
+#include "../headers/depolvz.h"
+#define CUR_SCRIPT          SCRIPT_WTPLTRP
+#define TRAP_MVAR           MVAR_Plasma_Trap_L3_
+#define INITIAL_TILE        0       // Tile num spear is fired from
+
+// optionally
+#define PERCEPTION_BONUS    (-3)
+
+#include "../template/wtpltrp.ssl"
+*/
+
+#define TRAP_BONUS                      (-30)
+#ifndef PERCEPTION_BONUS
+    #define PERCEPTION_BONUS            (-4)
+#endif
+#define AGILITY_BONUS                   (-5)
 #define DIST_BONUS                      (2)
 
-#define TRAP_EXP                        EXP_TRAPS_NORMAL
+#define TRAP_EXP                        EXP_TRAPS_NEG_30
 #define TRAP_TIME                       (0)             // In Seconds
 
-#define MIN_DMG                         (1)
-#define MAX_DMG                         (4)
-#define DAMAGE_TYPE                     DMG_normal_dam
+#define MIN_DMG                         (20)
+#define MAX_DMG                         (40)
+#define DAMAGE_TYPE                     DMG_plasma
 
-#define INITIAL_TILE                    (27290)         // Tile num spear is fired from
 #define PROJECTILE_ROF                  (500)
-#define TRAP_MVAR                       MVAR_Arroyo_Trial_Spear00
 
-#define ART_TRAP_VISIBLE                ()
-#define ART_TRAP_EXPLODED               ()
-#define ART_TRAP_DISARMED               ()
-#define PROJECTILE_WEAPON               PID_FLYING_SPEAR                    // which image to have flying through the air
-#define PROJECTILE_CREATED              PID_SPEAR                           // 0 == No weapon created
+#define ART_TRAP_VISIBLE                (PID_METAL_FLOOR_TRAP_VISIBLE)
+#define ART_TRAP_DISARMED               (PID_METAL_FLOOR_TRAP_DISARMED)
+#define ART_TRAP_EXPLODED               (PID_METAL_FLOOR_TRAP_DEPRESSED)
+#define PROJECTILE_WEAPON               PID_FLYING_PLASMA_BLAST                         // which image to have flying through the air
+#define PROJECTILE_CREATED              (0)                                             // 0 == No weapon created
 
 procedure start;
 procedure spatial_p_proc;
@@ -121,8 +120,6 @@ procedure spatial_p_proc begin
        if ((tile_distance_objs(self_obj,source_obj) == 0) and
            (local_var(LVAR_Trap_Exploded) == 0) and (map_var(TRAP_MVAR) == 0)) then begin
 
-           game_ui_disable;
-
            ndebug("Set off the Trap!");
            Projectile:=create_object(PROJECTILE_WEAPON,INITIAL_TILE,self_elevation);
            Face_Critter(source_obj,Projectile);
@@ -133,7 +130,14 @@ procedure spatial_p_proc begin
            end
            Trap:=create_object(ART_TRAP_EXPLODED,self_tile,self_elevation);
 
-           call Check_Hit;
+           //added by killap
+           if ((source_obj == dude_obj) and (dude_perk(PERK_light_step_perk)) and (random(0,1) == 1)) then
+               ndebug("Used Light Step.");
+           else begin
+               call Check_Hit;
+           end
+           //end added by killap
+
 
            set_local_var(LVAR_Trap_Exploded,1);
            set_map_var(TRAP_MVAR,1);
@@ -152,7 +156,7 @@ procedure use_skill_on_p_proc begin
        Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,TRAP_BONUS);
        if (source_obj == dude_obj) then begin
            if (is_success(Traps_Roll)) then begin
-               Trap:=create_object_sid(ART_TRAP_DISARMED,self_tile,self_elevation,CUR_SCRIPT);
+               Trap:=create_object(ART_TRAP_DISARMED,self_tile,self_elevation);
                set_local_var(LVAR_Trap_Exploded,1);
                set_map_var(TRAP_MVAR,1);
                display_msg(g_mstr(102));
@@ -165,12 +169,7 @@ procedure use_skill_on_p_proc begin
                set_local_var(LVAR_Trap_Exploded,1);
                set_map_var(TRAP_MVAR,1);
                display_msg(g_mstr(104));
-               if (tile_contains_obj_pid(self_tile,self_elevation,ART_TRAP_VISIBLE)) then begin
-                   ndebug("Destroying Visible Trap");
-                   destroy_object(tile_contains_pid_obj(self_tile,self_elevation,ART_TRAP_VISIBLE));
-                   ndebug("Destroyed Visible Trap");
-               end
-               Trap:=create_object_sid(ART_TRAP_EXPLODED,self_tile,self_elevation,CUR_SCRIPT);
+               Trap:=create_object(ART_TRAP_EXPLODED,self_tile,self_elevation);
                call Check_Hit;
            end
            else begin
@@ -179,7 +178,7 @@ procedure use_skill_on_p_proc begin
        end
        else begin
            if (is_success(Traps_Roll)) then begin
-               Trap:=create_object_sid(ART_TRAP_DISARMED,self_tile,self_elevation,CUR_SCRIPT);
+               Trap:=create_object(ART_TRAP_DISARMED,self_tile,self_elevation);
                set_map_var(TRAP_MVAR,1);
                display_msg(obj_name(source_obj)+g_mstr(105));
                if (local_var(LVAR_Gave_Exp) == 0) then begin
@@ -191,12 +190,7 @@ procedure use_skill_on_p_proc begin
                set_local_var(LVAR_Trap_Exploded,1);
                set_map_var(TRAP_MVAR,1);
                display_msg(obj_name(source_obj)+g_mstr(107));
-               if (tile_contains_obj_pid(self_tile,self_elevation,ART_TRAP_VISIBLE)) then begin
-                   ndebug("Destroying Visible Trap");
-                   destroy_object(tile_contains_pid_obj(self_tile,self_elevation,ART_TRAP_VISIBLE));
-                   ndebug("Destroyed Visible Trap");
-               end
-               Trap:=create_object_sid(ART_TRAP_EXPLODED,self_tile,self_elevation,CUR_SCRIPT);
+               Trap:=create_object(ART_TRAP_EXPLODED,self_tile,self_elevation);
                call Check_Hit;
            end
            else begin
@@ -274,7 +268,7 @@ procedure Missile_Fired begin
 
    set_map_var(TRAP_MVAR,1);
 
-   while (tile_num(Projectile) != Final_Hex) do begin
+   while ((Counter < 10) and tile_num(Projectile) != Final_Hex) do begin //edit by killap - not sure what this code is for, but apparently it gets stuck on occasion. Added counter check to exit if it takes too long
        if ((Counter % PROJECTILE_ROF) == 0) then begin
            Cur_Tile_Num:=tile_num_in_direction(tile_num(Projectile),rotation_to_tile(tile_num(Projectile),Final_Hex),1);
            move_to(Projectile,Cur_Tile_Num,self_elevation);

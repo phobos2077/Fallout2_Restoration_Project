@@ -475,6 +475,33 @@ variable step_tile;
 #define skill_success(x,y,z)                (is_success(roll_vs_skill(x,y,z)))
 #define stat_success(x,y,z)                 (is_success(do_check(x,y,z)))
 
+/**
+ * Like `roll_vs_skill`, but for stat roll checks.
+ * Because `do_check` can't generate criticals.
+ * Returns one of the ROLL_* constants, can be used in `is_critical`.
+ * Average luck of 5 provides DnD-like 1/20 chance to upgrade success to critical.
+ * For failures, engine doesn't use mods, we follow suit.
+ * Maybe Jinxed should work here too.
+ * @arg {ObjPtr} who Critter
+ * @arg {int} stat STAT_*
+ * @arg {int} mod Difficulty mod
+ * @ret {int}
+ */
+procedure roll_vs_stat(variable who, variable stat, variable mod) begin
+   variable rnd = random(1,100);
+   variable stat_check = do_check(who, stat, mod);
+   // success
+   if stat_check then begin
+       // critical
+       if (rnd + (get_critter_stat(who, STAT_lu) - 5)) > 95 then return ROLL_CRITICAL_SUCCESS;
+       else return ROLL_SUCCESS;
+   end else begin // failure
+     // critical
+     if rnd > 95 then return ROLL_CRITICAL_FAILURE;
+   end
+   return ROLL_FAILURE;
+end
+
 #define self_can_see_dude                   obj_can_see_obj(self_obj,dude_obj)
 #define self_can_hear_dude                  obj_can_hear_obj(self_obj,dude_obj)
 #define self_distance_from_dude             tile_distance(self_tile, dude_tile)
