@@ -1210,7 +1210,7 @@ end
 
 procedure Node06a begin
    Reply(160);
-   if ((not duntons_like_dude) and (area == PASTURE)) then
+   if (not duntons_like_dude) and (area == PASTURE) then
       NOption(531,Node999,004);
    if (area != PASTURE) then
       NOption(166,Node003,004);
@@ -1463,7 +1463,6 @@ procedure Node021 begin
    GOption(333, Node964, 004);
    NOption(334, Node003, 004);
    NOption(335, Node999, 004);
-   //if ( is_success(do_check(dude_obj,STAT_pe,0)) ) then //edit by killap - expansion
    if (map_var(MVAR_Different_Brands) == 1) then
       BOption(336, Node022, 004);
 end
@@ -1573,9 +1572,8 @@ end
 procedure Node031 begin
    Reply(440);
 
-   //if (global_var(GVAR_RUSTLE_OVER) == 0) then
-      GOption(441,Node903,004);
-   if ((has_skill(dude_obj,SKILL_SPEECH) > 50)) then  //killap fix: added speech check
+   GOption(441,Node903,004);
+   if (has_skill(dude_obj,SKILL_SPEECH) > 50) then  //killap fix: added speech check
       BOption(702,Node900,004);
    NOption(442,Node999,004);
    BOption(443,Node940,004);
