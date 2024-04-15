@@ -281,7 +281,6 @@ procedure should_i_be_here begin
         //they are here
         set_self_visible;
         //active:=1; //enable all p_procs
-        add_timer_event(self_obj,game_ticks(4),2);
    end
    else begin
         //they are gone
@@ -323,13 +322,13 @@ procedure scamper begin
 //this should only be called on a failure
 //will turn off duntons on this map
    if (map_var(MVAR_Duntons_Off_Map) == 0) then begin
-      set_map_var(MVAR_Duntons_Off_Map,1);
       call rustle_status;
       gfade_out(900);
       if ( (global_var(GVAR_RUSTLE_OVER) == 1) and (cur_map_index == MAP_KLAMATH_GRAZE) ) then begin
          reg_anim_clear(self_obj);
          move_to(self_obj,0,0);
       end
+      set_map_var(MVAR_Duntons_Off_Map,1);
       call should_i_be_here;
       gfade_in(900);
    end
@@ -390,10 +389,13 @@ procedure critter_p_proc begin
            (global_var(GVAR_RUSTLE_FAIL_VIOLENT) == 1) or
            ( KILLED_ALL_SCORPS and (global_var(GVAR_RUSTLE_SUCCESS) != 1) ) ) then begin //added rustle success check - killap
          set_global_var(GVAR_RUSTLE_OVER,1);
-         dest:=tile_num_in_direction(self_tile, 5, 12);
          //lets get outta here
-         self_run_to_tile(dest);
-         add_timer_event(self_obj,game_ticks(2),1);
+         if (map_var(MVAR_Duntons_Off_Map) == 0 and anim_busy(self_obj) == false) then begin // might be a bit excessive? want to make sure it's not spamming
+            // One of Duntons is at 16315, and another is at 16715(UP)/16517(RP)
+            // so I just base the destination on the "fixed" one.
+            self_run_to_tile(13915);
+            add_timer_event(self_obj,game_ticks(2),1);
+         end
       end
    end
 
