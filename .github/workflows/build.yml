@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: ShellCheck
+        uses: ludeeus/action-shellcheck@master
+
       - name: Run tests
         run: ./extra/tests.sh
 

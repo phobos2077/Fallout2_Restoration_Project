@@ -20,3 +20,4 @@ cassidy_voice_joey_bracken_hq.dat
 rpu_improved_mysterious_stranger.dat
 walk_speed_fix_low_fps.dat
 goris_fast_derobing_low_fps.dat
+fo2tweaks.dat
