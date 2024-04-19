@@ -24,7 +24,7 @@
 {221}{}{Ez a rossz fiú könnyen megolvadhat, és belőle három vagy négy darab fém páncél készülhet. Mondjuk 3000 dollárt.}
 {222}{}{I've got enough for that.}
 {223}{}{I think I'll pass for right now. Let me ask you something else.}
-{224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
+{224}{}{Rendben. Ehhez ketten kellünk, hogy mozgassuk ezt a cuccot, szóval segítek neked felhúzni a barátodra.}
 {225}{}{[Kész]}
 {226}{}{Hey, this fits nicely!}
 {300}{}{I might know a thing or two. What would you like to know?}
