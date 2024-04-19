@@ -12,27 +12,16 @@
  myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
  as for something special... hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
  would interest your friend here.}
-{212}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special... hmm, [He glances over your party.] Sorry, I don't think I have anything special you'd find
- useful right now.}
+{212}{}{Haha, úgyhogy észrevetted, ugye? Igen, a Abbey lakói kissé el vannak ragadtatva mindennel, ami a háború előtti időkből származik, különösen, ha az technológiai jellegű. Valami furcsa vallást alakítottak köré, de én sem értem pontosan. De kedves emberek, és jó pénzt fizetnek minden háború előtti dologért, amit csak sikerül szerezni. De ami a különleges dolgot illeti... hmm, [Az illető a társaságod felé pillant.] Bocsi, de úgy tűnik, most nem rendelkezem semmivel, ami hasznos lenne számotokra.}
 {213}{}{Oh, well. Let's see what you have in stock instead.}
 {214}{}{That's alright. Let me ask you something else.}
 {215}{}{Űgymint?}
-{216}{}{You see, a caravan came through here not too long ago, claiming to have come up from the deep south. Said they'd
- been attacked by some of them vile mutants (turning to Marcus) no offense, big guy. Anyway, they did a lot of bragging
- about how they'd wasted all the muties. Claimed there'd been nearly a dozen of 'em, and I called bullshit. But it turns
- out they had some proof.}
+{216}{}{Látod, nem is olyan régen egy kereskedőkaraván érkezett ide, állítva, hogy mély délről jöttek fel. Azt mondták, hogy támadás érte őket néhány undok mutáns részéről (Marcus felé fordulva) ne vedd magadra, nagy öreg. Mindenesetre sokat hencegtek, hogy mindent elintéztek a mutánsokkal. Állították, hogy majdnem egy tucat volt belőlük, de én szóvá tettem a hülyeséget. De kiderült, hogy volt némi bizonyítékuk.}
 {217}{}{Yeah? What was that?}
-{218}{}{A hulking set of mutant armor they'd managed to salvage off one of the corpses. Of course, for all I know, they
- stole it off the bones of some long dead mutie they'd stumbled upon in the wastes, but who knows? Anyway, they weren't
- eager to keep lugging the heavy thing around, so they offered it to me for dirt cheap. I didn't know what I'd ever do
- with it, but I figured a deals a deal.}
-{219}{}{Well, I'm sure Marcus here could benefit from this. How much for it?}
-{220}{}{That's interesting. Well, Marcus here is tough enough. I don't think we'll be needing that item. Let me ask you
- something else.}
-{221}{}{Well, this bad boy could easily be melted down to make three or four sets of metal armor. Let's say $3000.}
+{218}{}{A hatalmas mutáns páncél, amit sikerült megmenteniük az egyik holttestről. Persze, lehet, hogy csak ellopták valamelyik régen elpusztult mutáns csontjairól a pusztaságban, de ki tudja? Mindenesetre nem voltak oda érte, hogy tovább cipeljék ezt a nehéz dolgot, szóval olcsón ajánlották nekem. Nem tudtam, mit kezdjek vele, de úgy gondoltam, üzlet az üzlet.}
+{219}{}{Hát, biztos vagyok benne, hogy Marcusnak jól jönne ez. Mennyiért adod?}
+{220}{}{Az érdekes. Nos, Marcus elég kemény legény. Nem hiszem, hogy szükségünk lenne erre az tárgyra. Hadd kérdezzek meg valami mást.}
+{221}{}{Ez a rossz fiú könnyen megolvadhat, és belőle három vagy négy darab fém páncél készülhet. Mondjuk 3000 dollárt.}
 {222}{}{I've got enough for that.}
 {223}{}{I think I'll pass for right now. Let me ask you something else.}
 {224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
