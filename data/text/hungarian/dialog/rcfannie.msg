@@ -100,5 +100,5 @@
 {191}{}{Got a little free time right now?}
 {192}{}{Come back anytime! Always nice to get some repeat business.}
 {193}{}{[RENDBEN]}
-{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}
+{200}{}{You slipped the Jet antidote into Fannie Mae's drink.}
 {210}{}{Alright, here's $60. How 'bout another round?}
