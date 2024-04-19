@@ -4,13 +4,25 @@ on:
   pull_request:
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: ShellCheck
         uses: ludeeus/action-shellcheck@master
 
       - name: Run tests
         run: ./extra/tests.sh
+
+      - name: Poify/Unpoify test
+        uses: BGforgeNet/msg2po@master
+        with:
+          poify: true
+          unpoify: true
+          single_commit: false
+          poify_commit: false
+          unpoify_commit: false
+          dir2msgstr: true
+          dir2msgstr_commit: false

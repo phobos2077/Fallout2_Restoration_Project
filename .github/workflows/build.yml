@@ -19,7 +19,8 @@ jobs:
       - name: Run tests
         run: ./extra/tests.sh
 
-      - uses: devopsx/gha-ubuntu-i386-fix@master
+      - name: Install wine
+        uses: devopsx/gha-ubuntu-i386-fix@master
 
       - name: Install packages
         run: |
