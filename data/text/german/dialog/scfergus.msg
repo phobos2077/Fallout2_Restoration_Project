@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen unauffälligen, ordentlich gekleideten jungen Mann.}
 {101}{}{Er ist der Portier dieses Gebäudes.}
 {102}{}{An diesem Typ ist alles normal - der Inbegriff eines Bürohengstes.}
-{103}{}{Willkommen im Kongreßgebäude. Was kann ich für dich tun?}
+{103}{}{Willkommen im Kongressgebäude. Was kann ich für dich tun?}
 {104}{}{Aha, da bist du ja wieder. Wie kann ich dir diesmal helfen?}
 {105}{}{Also, wie kann ich dir helfen?}
 {106}{}{Ähhh...}
@@ -29,7 +29,7 @@
 {128}{}{Jemand hat sie über den Tisch gezogen.}
 {129}{}{Das ist nicht dein Bier.}
 {130}{}{Ist ja rührend. Wir sind hier keine Arbeitsvermittlung. Warum versuchst du's nicht mal in der Stadt?}
-{131}{}{Das hier ist die Kongreßhalle. Hier werden die Gesetze der NCR gemacht.}
+{131}{}{Das hier ist die Kongresshalle. Hier werden die Gesetze der NCR gemacht.}
 {132}{}{(Weiter)}
 {133}{}{13? Du meinst nicht zufällig 15?}
 {134}{}{Ich sagte 13.}

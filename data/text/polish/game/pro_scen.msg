@@ -282,14 +282,14 @@
 {14501}{}{W tych drzwiach ktoś zrobił sztucznie wielką dziurę.}
 {14600}{}{dziura}
 {14601}{}{W tych drzwiach ktoś zrobił sztucznie wielką dziurę.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{podobno szkło kuloodporne}
+{14701}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
+{14800}{}{podobno szkło kuloodporne}
+{14801}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
+{14900}{}{podobno szkło kuloodporne}
+{14901}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
+{15000}{}{podobno szkło kuloodporne}
+{15001}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
 {15100}{}{drzwi}
 {15101}{}{Te drzwi to kawał solidnej technologii. Otwierają się dopiero po obróceniu swoich trzech części składowych.}
 {15200}{}{drzwi}
@@ -2630,12 +2630,12 @@
 {171800}{}{ściana}
 {171900}{}{otwór wentylacyjny}
 {172000}{}{otwór wentylacyjny}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{podobno szkło kuloodporne}
+{172101}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
+{172200}{}{podobno szkło kuloodporne}
+{172201}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
+{172300}{}{podobno szkło kuloodporne}
+{172301}{}{Podobno nietłukące się szkło. Nawet nie próbuj!}
 {172400}{}{ciężka wieżyczka laserowa}
 {172401}{}{Wieżyczka obraca się w groźny sposób.}
 {172500}{}{ciężka wieżyczka laserowa}

@@ -16,20 +16,29 @@
 {212}{}{Por los guardianes del conocimiento, cada uno de nosotros, ha sido dotado.}
 {213}{}{Ahora, por favor tomen un momento y reflexionen en lo que e dicho.}
 {224}{}{Ahora, por favor tomen un momento y reflexionen en lo que e dicho.}
-{300}{}{Saludos, amigo. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos.}
+{300}{}{Saludos, amigo. No creo que te haya visto por aquí antes. Mi nombre es el Hermano Matthew y yo ayudo
+a difundir la palabra sobre la importancia de preservar el conocimiento de los antiguos.}
 {301}{}{Es bueno conocerte Matt. Mi nombre es }
 {302}{}{ y estoy en una misión para el sagrado GECK.}
 {303}{}{Lo siento, he de irme.}
-{400}{}{Un GECK, ¿eh? Me parece recordar haber leído algo sobre eso durante una de mis sesiones de transcripción. Entonces debe estar en nuestra base de datos, pero me temo que el acceso a nuestras computadoras está restringido. Sin embargo, si hablas con el Abad, es posible que te otorgue acceso. No podría doler intentarlo, de todos modos. Ah, y siéntase libre de navegar a través de nuestra colección de sagradas reliquias de la pre-guerra. Te pediría que no dañes nada, pero me temo que todo está roto más allá de toda reparación.}
+{400}{}{Un GECK, ¿eh? Me parece recordar haber leído algo sobre eso durante una de mis sesiones de transcripción. Entonces debe
+estar en nuestra base de datos, pero me temo que el acceso a nuestras computadoras está restringido. Sin embargo, si hablas con el Abad, es
+posible que te otorgue acceso. No podría doler intentarlo, de todos modos. Ah, y siéntase libre de navegar a través de nuestra colección
+de sagradas reliquias de la pre-guerra. Te pediría que no dañes nada, pero me temo que todo está roto más allá de toda reparación.}
 {401}{}{Creo que podría hacerlo. Pero tengo algunas preguntas.}
 {402}{}{Gracias. Creo que voy a lo haré ahora.}
 {500}{}{Estoy a tu servicio. ¿Qué quieres saber?}
 {501}{}{¿Qué puedes contarme sobre este lugar?}
 {502}{}{Pareces ser muy poético en tu predicación. ¿Alguna razón para eso?}
 {503}{}{Olvídalo. Cuídate.}
-{600}{}{La Abadía es el hogar de cualquiera, siempre y cuando no causen problemas. Somos una comunidad independiente y rara vez recibimos visitantes, como usted. La mayoría de los que ves aquí descienden de los fundadores originales que se establecieron en este antiguo monasterio no mucho después del gran Diluvio de Llamas.}
+{600}{}{La Abadía es el hogar de cualquiera, siempre y cuando no causen problemas. Somos una comunidad independiente y rara vez recibimos
+visitantes, como usted. La mayoría de los que ves aquí descienden de los fundadores originales que se establecieron en
+este antiguo monasterio no mucho después del gran Diluvio de Llamas.}
 {601}{}{Continúa.}
-{602}{}{La tranquilad, cualidad pacífica de este lugar que lo ha convertido en un hogar atractivo para otros viajeros que han vagado aquí a lo largo de los años, buscando escapar del oscuro caos del Yermo. Por supuesto, el verdadero valor de este lugar yace en su vasta biblioteca. Está lleno de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a imaginarnos los cuidadores y guardianes de esa sabiduría.}
+{602}{}{La tranquilad, cualidad pacífica de este lugar que lo ha convertido en un hogar atractivo para otros viajeros que han vagado
+aquí a lo largo de los años, buscando escapar del oscuro caos del Yermo. Por supuesto, el verdadero valor de este lugar yace
+en su vasta biblioteca. Está lleno de tomos viejos, que contienen la extraña sabiduría de una edad perdida. Con el tiempo, hemos llegado a
+imaginarnos los cuidadores y guardianes de esa sabiduría.}
 {603}{}{Muy interesante. Otra pregunta}
 {604}{}{Interesante. Bien, he de irme. }
 {700}{}{[El hombre se ríe de tu pregunta] No, no hay una razón en particular. He leido mucha poesía a lo largo de mi vida

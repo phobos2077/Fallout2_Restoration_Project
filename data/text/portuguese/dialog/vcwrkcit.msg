@@ -26,7 +26,7 @@
 {123}{}{Você devia registrar suas viagens no computador de Vault City assim os outros podem ler sobre elas.}
 {124}{}{Você é bem vindo para ficar o quanto você quiser, herói.}
 {125}{}{Você deveria registrar seus feitos heróicos contra a Enclave em uma bela e ordenada lista.}
-{126}{}{*Yawn*... hrmnnn? Yes? What is it?}
+{126}{}{*Bocejo*... hrmnnn? Sim? O que é?}
 {127}{}{Está um pouco tarde para visitantes. }
 {128}{}{A MAIORIA dos Cidadãos estarão dormindo a esta hora.}
 {129}{}{Dormindo? Não, não mais.}

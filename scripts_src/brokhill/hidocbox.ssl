@@ -45,10 +45,6 @@ end
 
 procedure map_enter_p_proc begin
    variable book;
-   //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
 
    if( map_first_run ) then begin
       book := create_object( PID_FIRST_AID_BOOK, 0, 0 );
@@ -59,6 +55,7 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
+         variable tmp_box := move_critical_items();
          check_restock_item(PID_BOTTLE_CAPS, 200, 750, 100)
          check_restock_item(PID_FIRST_AID_KIT, 0, 1, 25)
          check_restock_item(PID_HEALING_POWDER, 0, 3, 40)
@@ -67,6 +64,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_SUPER_STIMPAK, 0, 3, 50)
          check_restock_item(PID_RAD_X, 2, 5, 75)
          check_restock_item(PID_RADAWAY, 3, 4, 65)
+         call restore_critical_items(tmp_box);
          set_local_var(LVAR_Restock_Time, (3 * ONE_GAME_DAY) + game_time);
       end
    end

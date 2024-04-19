@@ -62,7 +62,7 @@
 {147}{}{Sair}
 {148}{}{[Você ouve um zumbido ao mesmo tempo em que uma fumaça começa a sair do terminal. Você nota que o teclado derrete e vira uma gosma. Hmm... deve ser um daqueles vírus que você ouviu falar.]}
 {149}{}{Sair}
-{150}{}{Aqui é o Klinger do 8063º. Nós precisamos desesperadamente da parte número 102-53B. Eu tenho uma caixa de 2055 Chateau Lafayette se voce puder enviar o pedido. Faça isso o mais rápido possível.}
+{150}{}{Aqui é o Klinger do 8063º. Nós precisamos desesperadamente da parte número 102-53B. Eu consegui um case of Chateau Lafayette 2155 se você conseguir despachar o pedido. Faça isso o mais rápido possível.}
 {151}{}{Ler mais email}
 {152}{}{Sair}
 {153}{}{[Que sorte incrível! Você conseguiu adivinhar a senha correta. "Hooters"]
@@ -83,4 +83,4 @@
 {166}{}{Sair}
 {200}{}{[Esse terminal não funciona mais.]}
 {300}{}{Você desativou as placas de choque.}
-{400}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}
+{400}{}{Computador em modo de diagnóstico. Aguarde até que a rotina de diagnóstico seja concluída.}

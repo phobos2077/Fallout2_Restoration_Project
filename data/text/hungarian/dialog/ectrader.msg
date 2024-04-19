@@ -1,8 +1,7 @@
 {100}{}{Egy kereskedő.}
 {101}{}{Willy.}
 {102}{}{Egy hétköznapi, utazó kereskedő.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Üdvözöllek barátom! A nevem Willy, és nagyszerű ajánlatom van a számodra. [Úgy tűnik, hogy egy kis papírlapról olvassa, amit mond. Egy idő után csendesen elbóbiskolsz.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Nagy nehezen kinyitod a szemedet, mikor végre ráeszmélsz, hogy valaki rúgdos.] Na, most akkor érdekel vagy nem?}
 {106}{}{Mi érdekel?}

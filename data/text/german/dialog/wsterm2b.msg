@@ -72,9 +72,7 @@
  zu, wie die Tastatur wegschmilzt, bis nur noch ein unförmiger Plastikklumpen davon übrig ist.
  Hmm... das war wohl einer von diesen Viren, von denen du gehört hast.]}
 {149}{}{Beenden}
-{150}{}{Hier Klinger von der 8063. Wir benötigen dringend Teil Nummer 102-53B. Für zügige
- Beschaffung steht eine Kiste 2155er Château Lafayette bereit.                             
- Bitte um schnellstmögliche Antwort.}
+{150}{}{Hier Klinger von der 8063. Wir benötigen dringend Teil Nummer 102-53B. Für zügige Beschaffung steht eine Kiste 2155er Château Lafayette bereit. Bitte um schnellstmögliche Antwort.}
 {151}{}{Weitere E-Mails lesen}
 {152}{}{Beenden}
 {153}{}{[Was für ein unglaubliches Glück! Du schaffst es,           das Kennwort zu erraten: "Hooters".]

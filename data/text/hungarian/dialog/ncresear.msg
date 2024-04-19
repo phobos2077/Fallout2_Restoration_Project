@@ -21,7 +21,7 @@
 {227}{}{Miért lett öngyilkos az a nő a kontroll-csoportból? Még rá sem került a sor!}
 {228}{}{Az átkozott őrök tudnak vigyázni a saját seggükre...}
 {235}{}{Üdvözlet, Myron úr. A tesztek a tervek szerint haladnak.}
-{236}{}{Myron, sir, this new strain of Jet is extremely addictive. The slaves are almost willing to kill each other for it.}
+{236}{}{Ez az új Jet hihetetlenül addiktív, Myron úr. A rabszolgák meggyilkolnák egymást érte.}
 {237}{}{Myron úr, ha meglátja az eredményeket, elégedett lesz. Az új Jet ugyanis annyira ütős, hogy a rabszolgák még étel helyett is azt akarnak bevenni.}
 {238}{}{Kik ezek az emberek magával, Myron? Új tesztalanyok?}
 {239}{}{Az összes közül a harmadik tesztcsoport ígérkezik a legjobbnak, Myron úr.}
@@ -31,7 +31,7 @@
 {243}{}{Van valami hír, mikor szállítanak be új rabszolgákat, Myron úr?}
 {244}{}{Myron úr, mivel légzési zavaraik voltak a múlt héten, három rabszolgát áttettünk a kontroll-csoportból a tesztcsoportba.}
 {245}{}{Myron úr, rossz híreim vannak. Le kellett lőnünk egy menekülő rabszolgát. Nagy pazarlás ez...}
-{246}{}{Myron, this new hallucinogen you've developed is promising, but it is not as addictive as Jet...}
+{246}{}{Myron, ez az ön által kifejlesztett új hallucinogén nagyon ígéretes, viszont nem annyira addiktív, mint a Jet...}
 {250}{}{(A kopasz nő fel sem néz a jegyzettömbjéből.) Igen?}
 {251}{}{Nem!}
 {252}{}{Igeeen!}
@@ -69,15 +69,13 @@
 {346}{}{Értem. És hogy halad a kutatás?}
 {347}{}{Azt hiszem, támadt egy ötletem. Egyedül fogom szemrevételezni a tesztterület többi részét.}
 {355}{}{Nem túl rózsás. A határidők szorosak és rövid időn belül le kell tisztáznunk a Jet gyártási folyamatát.}
-{356}{}{Why? Jet seems addictive enough already.}
+{356}{}{Miért? A Jet már így is éppen elég addiktív.}
 {357}{}{Mire fel a szoros határidő?}
 {358}{}{Hát nem egyszerű feladat annyi szent. Nézze, valamit nagyon sürgősen el kell intéznem. Mindjárt visszajövök.}
-{365}{}{No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but
- there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.}
+{365}{}{Mondjuk senki nem mondott konkrétumot, de valószínűleg a reddingi Jet disztribúciónak köszönhető. A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függőséget.}
 {366}{}{Mi ez a reddingi balhé?}
 {367}{}{Hát sok szerencsét a határidők betartásához...}
-{375}{}{It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in
- Redding, and they want the addiction rate as close to 100% as we can get it. It's going to require us pulling some long hours.}
+{375}{}{A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függőséget. Olyan közel szeretnék a száz százalékhoz, amennyire csak tőlünk telik. Ehhez még jó sokat kell túlóráznunk.}
 {377}{}{Köszönöm az információt. Később még jövök.}
 {385}{}{Addict the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.}
 {386}{}{So... who does control the drugs?}

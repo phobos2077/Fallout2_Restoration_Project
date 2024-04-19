@@ -33,7 +33,7 @@
 {140}{}{Ich sollte jetzt wirklich weiter. War nett mit dir Bekanntschaft zu machen.}
 {141}{}{Vielleicht sehen wir uns wieder.}
 {142}{}{Ich möchte noch vor Sonnenuntergang in der nächsten Stadt sein. Ich geh besser.}
-{143}{}{Ich geh dann besser.}
+{143}{}{Ich solte jetzt gehen.}
 {144}{}{Hinterhalt!}
 {145}{}{Heutzutage kann man niemandem trauen.}
 {146}{}{Du hast die Regeln des Reisens gebrochen.}

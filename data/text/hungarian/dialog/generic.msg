@@ -40,11 +40,11 @@
 {920}{}{Véletlenül rábukkansz Nagor maradványaira, aki meghalt, mikor meg akarta menteni a kutyáját. }
 {921}{}{Nagor meghalt, amikor vissza akarta vinni a kutyája testét a faluba.}
 {930}{}{Vaúúúúúúúú!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Egy kicsit gyakorlod a mozgásokat. A pusztakezes harci képességed 5%-al nő.}
 {951}{}{A harcoló vakondpatkány kileheli a lelkét.}
 {952}{}{A harcnak vége.}
 {1000}{}{Sikerült a Polgársági teszted.}
-{1001}{}{You reported the Jet addiction of Redding to McClure.}
+{1001}{}{Jelentetted Redding Jet-függőségét McClure-nek.}
 {1002}{}{Mostantól szabadon kereskedhetsz Reddinggel.}
 {1003}{}{Kikapcsoltad az erőtereket. }
 {1004}{}{Betörtél a számítógépbe.}
@@ -62,9 +62,9 @@
 {1016}{}{Hoppá, majdnem megfeledkeztem az ÉLET-ről! Szerintem van itt valahol egy.}
 {1017}{}{Az ÉLET-kódodtól kirobban az ajtó.}
 {1018}{}{Kiirtottad Hűtős Morton bandáját.}
-{1019}{}{You disable the shock plates.}
-{1020}{}{You broke up the bar brawl.}
-{1021}{}{You disabled the Robot Repair Terminal.}
+{1019}{}{Kikapcsoltad a sokkoló lapokat.}
+{1020}{}{Megakadályoztad a kocsmai verekedést.}
+{1021}{}{Kikapcsoltad a Robot Javító Állomást.}
 {1050}{}{A skorpiómérget belekevered az ellenanyagba.}
 {1051}{}{A broc virágból és a xander gyökérből gyógyító port készítesz.}
 {1099}{}{Az É.L.E.T-ed túl sokat ér a faludnak, hogy csak így eldobd.}
@@ -253,8 +253,8 @@
 {10013}{}{Tudnom kell, milyen fegyvereket tudsz használni.}
 {10100}{}{Gyerünk!}
 {20000}{}{Ez nem csinál semmit.}
-{20100}{}{There is no lock on this door.}
+{20100}{}{Ezen az ajtón nincs zár.}
 {21020}{}{húsz}
-{30000}{}{You have stolen from your own tribe.}
+{30000}{}{Loptál a saját törzsedtől.}
 {40000}{}{Slot Jinxer}
 {40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}

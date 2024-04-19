@@ -158,7 +158,7 @@ procedure repair_it begin
 end
 
 procedure zamin_it begin
-   per_check:=do_check(dude_obj, STAT_pe, 0);
+   per_check = roll_vs_stat(dude_obj, STAT_pe, 0);
    if (local_var(LVAR_Part_Given) == 0) then begin //added check by killap
       if (is_success(per_check)) then begin
          if (is_critical(per_check)) then

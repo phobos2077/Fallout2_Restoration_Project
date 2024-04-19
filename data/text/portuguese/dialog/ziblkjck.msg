@@ -1,38 +1,38 @@
-{100}{}{You see a Black Jack table.}
-{101}{}{You see a Black Jack dealer.}
-{102}{}{Care to play some Black Jack? Minimum bet is $}
+{100}{}{Você vê uma mesa de Black Jack.}
+{101}{}{Você vê um croupier de Black Jack.}
+{102}{}{Gostaria de jogar um pouco de Black Jack? A aposta mínima é $}
 {103}{}{.}
 {104}{}{Com certeza.}
 {105}{}{Não, obrigado.}
-{106}{}{Wuh blak juk?}
-{107}{}{Sorry, you don't seem to have the minimum bet amount. Come back when
- you have more money.}
-{108}{}{Okey, all minimum bets are in.}
-{109}{}{[deal]}
-{110}{}{This is a Black Jack table. Minimum bet is $}
+{106}{}{Blequi jaque?}
+{107}{}{Desculpe, você não parece ter o valor mínimo de aposta. Volte quando tiver
+ mais dinheiro.}
+{108}{}{Ok, todas as apostas mínimas estão dentro.}
+{109}{}{[é distribuído]}
+{110}{}{Esta é uma mesa de Black Jack. A aposta mínima é $}
 {111}{}{.}
-{112}{}{You draw a }
+{112}{}{Você rouba um }
 {113}{}{ de }
-{114}{}{, a }
-{115}{}{ and a }
-{116}{}{ for }
+{114}{}{, um }
+{115}{}{ e um }
+{116}{}{ para }
 {117}{}{. Black Jack}
-{118}{}{. Bust}
+{118}{}{. Te passa}
 {119}{}{.}
-{120}{}{The dealer has a }
+{120}{}{O croupier tem um }
 {121}{}{[mais]}
-{122}{}{[while reshuffling] Care to play again?}
-{123}{}{Sorry, I think you've reached your limit here. I'm gonna have to ask you to leave.}
-{124}{}{You win the hand.}
-{125}{}{Dealer wins the hand.}
-{126}{}{Game is a push.}
-{127}{}{Sure, no problem.}
-{128}{}{I'll show you my limit.}
-{129}{}{You're not allowed to play here anymore. Please leave.}
-{130}{}{Ohhh, sorry.}
-{131}{}{You win $}
+{122}{}{[enquanto embaralha] Quer jogar de novo?}
+{123}{}{Desculpe, acho que você atingiu seu limite aqui. Vou ter que pedir para você sair.}
+{124}{}{Ganha a mão.}
+{125}{}{Croupier ganha a mão.}
+{126}{}{Jogo empatado.}
+{127}{}{Claro, sem problemas.}
+{128}{}{Vou te mostrar meu limite.}
+{129}{}{Você não tem mais permissão para jogar aqui. Por favor saia.}
+{130}{}{Ohhh, desculpe.}
+{131}{}{você ganha $}
 {132}{}{.}
-{201}{}{ace}
+{201}{}{as}
 {202}{}{dois}
 {203}{}{três}
 {204}{}{quatro}
@@ -42,10 +42,10 @@
 {208}{}{oito}
 {209}{}{nove}
 {210}{}{dez}
-{211}{}{jack}
-{212}{}{queen}
-{213}{}{king}
-{251}{}{Hearts}
-{252}{}{Diamonds}
-{253}{}{Spades}
-{254}{}{Clubs}
+{211}{}{valete}
+{212}{}{rainha}
+{213}{}{rei}
+{251}{}{copas}
+{252}{}{Ouros}
+{253}{}{Espada}
+{254}{}{Paus}

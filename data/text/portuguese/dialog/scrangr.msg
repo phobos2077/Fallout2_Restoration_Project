@@ -1,7 +1,7 @@
-{100}{}{You see a man dressed in combat armor.}
-{101}{}{You see a woman dressed in combat armor.}
-{102}{}{He is wearing a badge that says NCR Ranger.}
-{103}{}{She is wearing a badge that says NCR Ranger.}
+{100}{}{Você vê um homem vestido com armadura de combate.}
+{101}{}{Você vê uma mulher vestida com armadura de combate.}
+{102}{}{Ele está usando um distintivo que diz Ranger da NCR.}
+{103}{}{Ela está usando um distintivo que diz Ranger da NCR.}
 {200}{}{Olá, amigo Ranger. Quer passar a noite aqui?}
 {201}{}{Matar escravistas hoje?}
 {202}{}{Libertamos uma dúzia de escravos hoje.}
@@ -14,7 +14,7 @@
 {401}{}{Isso é propriedade privada. Não demore muito.}
 {402}{}{Você gosta de escravos? Espero que não... para o seu bem.}
 {500}{}{O que!? Escravistas? Como que conseguiram nos encontrar? Vamos nos defender. Ao ataque!}
-{501}{}{Wait! I'm on your side. I was just bringing you some target practice. (turn to the Slavers.) Sorry boys, I'm
- that kind of person. (Attack Slavers)}
-{502}{}{This will be fun! (Attack Rangers)}
-{600}{}{You wipe out the Ranger safe house.}
+{501}{}{Espere! Estou no seu lado. Eu só estava mostrando uma nova prática de tiro ao alvo. (vire-se para os escravistas.)
+ Desculpe, pessoal, eu sou desse tipo. (Ataca os escravistas)}
+{502}{}{Isto vai ser divertido! (Ataque dos Rangers)}
+{600}{}{Você acaba com o esconderijo dos Rangers.}

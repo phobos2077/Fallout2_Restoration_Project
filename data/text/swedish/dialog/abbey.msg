@@ -1,1 +1,1 @@
-{100}{}{You have encountered a monastery and a small community built around it.}
+{100}{}{Du har mött ett kloster och ett litet samhälle som byggts upp runt det.}

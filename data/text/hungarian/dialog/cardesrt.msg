@@ -1,1 +1,1 @@
-{100}{}{Your car has run out of gas. Sure hope you are carrying some spare fuel.}
+{100}{}{Az autód kifogyott az üzemanyagból. Remélhetőleg hordasz magadnál néhány tartalék energia cellát.}

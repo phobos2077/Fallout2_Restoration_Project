@@ -282,14 +282,14 @@
 {14501}{}{Uma grande explosão causou este buraco na porta.}
 {14600}{}{Buraco}
 {14601}{}{Uma grande explosão causou este buraco na porta.}
-{14700}{}{Vidro aprova de bala}
-{14701}{}{Vidro completamente inquebrável. Não adianta tentar.}
-{14800}{}{Vidro aprova de bala}
-{14801}{}{Vidro completamente inquebrável. Não adianta tentar.}
-{14900}{}{Vidro aprova de bala}
-{14901}{}{Vidro completamente inquebrável. Não adianta tentar.}
-{15000}{}{Vidro aprova de bala}
-{15001}{}{Vidro completamente inquebrável. Não adianta tentar.}
+{14700}{}{Vidro supostamente à prova de bala}
+{14701}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{14800}{}{Vidro supostamente à prova de bala}
+{14801}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{14900}{}{Vidro supostamente à prova de bala}
+{14901}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{15000}{}{Vidro supostamente à prova de bala}
+{15001}{}{Vidro supostamente inquebrável. Não adianta tentar!}
 {15100}{}{Porta}
 {15101}{}{Este porta foi construída com peças de alta tecnologia. Ele se abre lentamente à medida que gira as três peças que compõem a Porta.}
 {15200}{}{Porta}
@@ -330,7 +330,7 @@
 {16901}{}{Uma coluna de suporte}
 {17000}{}{Coluna}
 {17001}{}{Uma coluna de suporte}
-{17100}{}{Computador de aceso.}
+{17100}{}{Computador de acesso.}
 {17101}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {17200}{}{Cartaz de Casino}
 {17201}{}{Parece que é uma propaganda para o Casino de Gizmo.}
@@ -2630,9 +2630,12 @@
 {171800}{}{Parede}
 {171900}{}{Duto de ventilação}
 {172000}{}{Duto de ventilação}
-{172100}{}{Vidro aprova de bala}
-{172200}{}{Vidro aprova de bala}
-{172300}{}{Vidro aprova de bala}
+{172100}{}{Vidro supostamente à prova de bala}
+{172101}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{172200}{}{Vidro supostamente à prova de bala}
+{172201}{}{Vidro supostamente inquebrável. Não adianta tentar!}
+{172300}{}{Vidro supostamente à prova de bala}
+{172301}{}{Vidro supostamente inquebrável. Não adianta tentar!}
 {172400}{}{Torre de Laser}
 {172401}{}{A torreta gira de forma ameaçadora.}
 {172500}{}{Torre de Laser}
@@ -2920,7 +2923,7 @@
 {193500}{}{Poço do elevador}
 {193501}{}{O buraco tem uma corda pendurada na porta.}
 {193600}{}{Poço do elevador}
-{193601}{}{The shaft has a broken elevator and rope.}
+{193601}{}{O poço tem um elevador e uma corda quebrados.}
 {193700}{}{Poço do elevador}
 {193701}{}{O poço esta sem o Elevador. Muito Perigoso!}
 {193800}{}{Canos}
@@ -3179,7 +3182,7 @@
 {210201}{}{Este grande porta é o elo entre o refúgio e o mundo exterior. Foi arrasada por uma tremenda explosão.}
 {210300}{}{Entrada da caverna}
 {210301}{}{A caverna parece se expandir para uma rede maior de cavernas.}
-{210400}{}{Computador de aceso.}
+{210400}{}{Computador de acesso.}
 {210401}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {210500}{}{Barco enferrujado}
 {210501}{}{Este barco parece não ter condições de navegar.}
@@ -3470,3 +3473,63 @@
 {229901}{}{Um cadáver com o crescimento das plantas em torno dele.}
 {230000}{}{Olhando uma criatura estranha}
 {230001}{}{Um cadáver com o crescimento das plantas em torno dele.}
+{230100}{}{Smoke}
+{230200}{}{Smoke}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Pilha de pneus}
+{230501}{}{Uma pilha de pneus antigos. Eles estão vulcanizados e endurecido, provavelmente devido ao calor.}
+{230600}{}{Pilha de pneus}
+{230601}{}{Uma pilha de pneus antigos. Eles estão vulcanizados e endurecido, provavelmente devido ao calor.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Carro}
+{230901}{}{Este automóvel está em péssimas condições. Você não pode pensar em uma maneira de restaurá-lo.}
+{231000}{}{Carro}
+{231001}{}{Esta peça enferrujada de ferro-velho não pode ser restaurado.}
+{231100}{}{Carro}
+{231101}{}{Você determina que este veículo nunca vai dirigir novamente. Realmente.}
+{231200}{}{Carro}
+{231201}{}{Não há nenhuma maneira de fazer esta Sucata voltar a andar novamente.}
+{231300}{}{Escritório}
+{231301}{}{Um escritório de madeira.}
+{231400}{}{Cômoda}
+{231401}{}{Uma cômoda de madeira.}
+{231500}{}{Cômoda}
+{231501}{}{Uma cômoda de madeira.}
+{231600}{}{Escritório}
+{231601}{}{Uma mesa de escritório simples. Quem ja viu um, ja viu todos.}
+{231700}{}{Escritório}
+{231701}{}{Um simples escritório.}
+{231800}{}{Escritório}
+{231801}{}{Um simples escritório.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Barril}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Barril}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Barril}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Barril}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Duto de ventilação}
+{233200}{}{Duto de ventilação}
+{233300}{}{Duto de ventilação}
+{233400}{}{Duto de ventilação}

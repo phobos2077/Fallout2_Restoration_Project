@@ -42,14 +42,14 @@
 {971}{}{Du sprichst mit mir.}
 {972}{}{Was für eine blöde Frage. Das bin ich.}
 {980}{}{Darüber weiß ich nichts.}
-{981}{}{Tut mir leid. Keine Ahnung.}
+{981}{}{Keine Ahnung, tut mir leid}
 {982}{}{Noch nie davon gehört.}
 {1000}{}{Älteste}
 {1001}{}{Gründer}
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{(die) Vault}
 {1006}{}{Auserwähltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}

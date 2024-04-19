@@ -329,7 +329,7 @@
 {5256}{}{?}
 {5257}{}{. ¿Estás con nosotros?}
 {5271}{}{. Piérdete, anda, por la cuenta que te trae.}
-{5273}{}{ nos jode, y serás pasto de los gusanos. ¡Lárgate de aquí!}
+{5273}{}{nos jodes, y serás pasto de los gusanos. ¡Lárgate de aquí!}
 {5276}{}{? acaba de besarme el culo. Y ahora es mejor que tú también desaparezcas.}
 {5280}{}{, será mejor que te vayas.}
 {5320}{}{? Con ese gancho de derecha que tienes, deberías andar erguido.}

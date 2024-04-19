@@ -32,6 +32,14 @@
 #define NAME                    SCRIPT_QCGENGRD
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
 
+/**
+ * Alert turrets on level if they are not in maintenance.
+ */
+#define alert_turrets_level(gvar_turret_level_security) \
+    if global_var(gvar_turret_level_security) != TURRET_MAINTENANCE then \
+        set_global_var(gvar_turret_level_security, TURRET_ALERT)
+
+
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 
@@ -169,18 +177,18 @@ procedure damage_p_proc begin
 
    if (cur_map_index == MAP_ENCLAVE_BARRACKS) then begin
        set_global_var(GVAR_ENCLAVE_ENEMY_GUARD,1);
-       set_global_var(GVAR_ENCLAVE_TURRET_GUARD,TURRET_ALERT);
+       alert_turrets_level(GVAR_ENCLAVE_TURRET_GUARD);
    end else if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then begin
        set_global_var(GVAR_ENCLAVE_ENEMY_PRESIDENT,1);
-       set_global_var(GVAR_ENCLAVE_TURRET_PRESIDENT,TURRET_ALERT);
+       alert_turrets_level(GVAR_ENCLAVE_TURRET_PRESIDENT);
    end else if (cur_map_index == MAP_ENCLAVE_TRAP_ROOM) then begin
        set_global_var(GVAR_ENCLAVE_ENEMY_TRAPS,1);
    end else if (cur_map_index == MAP_ENCLAVE_REACTOR) then begin
        set_global_var(GVAR_ENCLAVE_ENEMY_REACTOR,1);
-       set_global_var(GVAR_ENCLAVE_TURRET_SCIENCE,TURRET_ALERT);
+       alert_turrets_level(GVAR_ENCLAVE_TURRET_SCIENCE);
    end else if (cur_map_index == MAP_ENCLAVE_DETENTION) then begin
        set_global_var(GVAR_ENCLAVE_ENEMY_DETENTION,1);
-       set_global_var(GVAR_ENCLAVE_TURRET_DETENTION,TURRET_ALERT);
+       alert_turrets_level(GVAR_ENCLAVE_TURRET_DETENTION);
    end
 end
 

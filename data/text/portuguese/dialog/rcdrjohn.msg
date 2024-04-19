@@ -1,215 +1,214 @@
-{100}{}{You see a thin, nervous-looking man.}
-{101}{}{You see Painless Doc Johnson, Redding's Resident Physician.}
-{102}{}{You see a cadaverous, nervous fellow with bulging eyes.}
-{103}{}{Your head is larger than I would think.}
-{104}{}{Your beetling brow confirms my suspicions.}
-{105}{}{You have a very well developed sagittal crest.}
-{106}{}{I wonder if it was long exposure to radiation that so reduced your cranial capacity.}
-{107}{}{No food here. Go away!}
-{108}{}{Shoo, shoo!}
-{109}{}{Go back to the wilderness, you savage.}
-{110}{}{If only tribals were as passive as brahmin, they could be just as useful.}
-{111}{}{Looks like you came to the right person. I'm Doc Johnson and I can patch you up.}
-{112}{}{Hello there. You brought your friend to be patched up? I'm Painless Doc Johnson, and I'll
- take care of 'em.}
-{113}{}{Looks like you fellers got caught on the short end of the stick. I'm Doc Johnson, and I can
- patch you up if you want.}
-{114}{}{Hello, I'm Doc Johnson, and my professional opinion is that you're looking a mite poorly. Need
- me to fix you up?}
-{115}{}{Hello, I'm Doc Johnson. I'll have to take a closer look at your friend if you want me to fix 'em
- up. They don't look too good.}
-{116}{}{Whatever you fellers caught, I'm sure I can fix it. I'm Doc Johnson.}
-{117}{}{Got yourself all scraped up, huh? Well, let Doc Johnson take a look at that. Easy now, I'm a
- professional.}
-{118}{}{What have you folks been getting yourselves into? Let old Doc Johnson take a look at ya.}
-{119}{}{Thanks, Doc. How much will this cost?}
-{120}{}{I just wanted to try to buy some supplies.}
-{121}{}{I don't need healing right now so much as some answers to some questions.}
-{122}{}{Nice to meet you, but I don't think any healing's needed right now. Thanks anyway, Doc. Goodbye.}
-{123}{}{It's going to cost $50 to patch you up good as new.}
-{124}{}{It'll cost you $50 to have your friend all patched up. Good as new, I guarantee it.}
-{125}{}{Here's your money, Doc.}
-{126}{}{I guess I can't afford that right now. Sorry, Doc; maybe another time.}
-{127}{}{$50, huh? Maybe I'll have that done later. Goodbye, Doc.}
-{128}{}{Tell you what; I'll give you a group rate seeing as how you're all broken up. $100 to patch up
- the lot of you.}
-{129}{}{Here's your money, Doc. Fix us up.}
-{130}{}{I guess we can't afford that right now. Sorry, Doc; maybe another time.}
+{100}{}{Você vê um homem magro e de aparência nervosa.}
+{101}{}{Você vê o Indolor Dr. Johnson, médico residente de Redding.}
+{102}{}{Você vê um sujeito cadavérico e nervoso com olhos esbugalhados.}
+{103}{}{Sua cabeça é maior do que eu pensava.}
+{104}{}{Sua testa franzida confirma minhas suspeitas.}
+{105}{}{Você tem uma crista sagital muito bem desenvolvida.}
+{106}{}{Eu me pergunto se foi uma longa exposição à radiação que reduziu tanto sua capacidade craniana.}
+{107}{}{Não tem comida aqui. Vá embora!}
+{108}{}{Xoooo, xoooo, saia!}
+{109}{}{Volte para a selva, selvagem.}
+{110}{}{Se os tribais fossem tão passivos quanto os brahmins, eles poderiam ser tão úteis quanto.}
+{111}{}{Parece que você veio para a pessoa certa. Sou o Dr. Johnson e posso te ajeitar.}
+{112}{}{Olá. Você trouxe seu amigo para ser curado? Sou o Dr. Johnson e cuidarei deles.}
+{113}{}{Parece que seus amigos foram escolhidos por causa da ponta curta da vareta. Sou o Dr.
+ Johnson e posso te ajeitar se quiser.}
+{114}{}{Olá, sou Dr. Johnson, e minha opinião profissional diz que você está parecendo um pouco mal.
+ Precisa que eu te ajeite?}
+{115}{}{Olá, sou o Dr. Johnson. Terei que dar uma olhada em seu amigo se quiser que ajeite ele. Eles
+ não parecem muito bem.}
+{116}{}{O que quer que vocês tenham pego, tenho certeza que posso consertar. Eu sou o Dr. Johnson.}
+{117}{}{Ficou todo arranhado, hein? Bem, deixe o Dr. Johnson dar uma olhada nisso. Calma agora,
+ eu sou um profissional.}
+{118}{}{No que vocês têm se metido? Deixe o velho Dr. Johnson dar uma olhada em você.}
+{119}{}{Obrigado, doutor. Quanto isso vai custar?}
+{120}{}{Eu só queria comprar alguns suprimentos.}
+{121}{}{Eu não preciso me curem tanto agora, só preciso de algumas respostas.}
+{122}{}{Prazer em conhecê-lo, mas não acho que preciso de cura agora. Obrigado mesmo assim, doutor. Adeus.}
+{123}{}{Vai custar $50 para te remendar como novo.}
+{124}{}{Vai custar $50 para remendar totalmente seu amigo. Vai ficar novinho, eu garanto.}
+{125}{}{Aqui está o seu dinheiro, Dr.}
+{126}{}{Acho que não posso pagar isso agora. Desculpe, doutor; talvez outra hora.}
+{127}{}{$50, eh? Talvez eu faça isso mais tarde. Adeus, doutor.}
+{128}{}{É o seguinte; vou te fazer um preço pelo grupo, visto que vocês estão todos estropiados. $100
+ para ajeitar todos vocês.}
+{129}{}{Aqui está o seu dinheiro, doutor. Nos ajeite.}
+{130}{}{Acho que não podemos pagar isso agora. Desculpe, doutor; talvez outra hora.}
 {131}{}{$100, eh? Talvez façamos isso mais tarde. Adeus, doutor.}
-{132}{}{Looks like you're not doing too well there. I can cure what ails you for $100. You want me to
- try?}
-{133}{}{Your pal's not doing too well. I think I can cure what ails 'em for $100. You want me to try?}
-{134}{}{I hope you can do better than try, Doc. Here's your money.}
-{135}{}{I guess I can't afford that right now. Sorry, Doc; maybe another time.}
-{136}{}{$100, huh? Maybe I'll have that done later. Goodbye, Doc.}
-{137}{}{What a bunch of sick pups. Well, I can try to fix you up and cure what ails you, but it's going
- to cost you $150. Want me to have at it?}
-{138}{}{Yes, please. Here's your money, Doc.}
-{139}{}{We can't afford that right now. Sorry, Doc; maybe another time.}
-{140}{}{$150, huh? Maybe I'll have that done later. Goodbye, Doc.}
-{141}{}{I'd sure like to help you, but you don't have enough to cover your bill. Medical supplies cost
- money.}
-{142}{}{Aww, come on, Doc. We sure need your help.}
-{143}{}{I'll come back when I have more money. Goodbye. }
-{144}{}{Well, okay. I'll do it this once - but you better have the money to pay me next time.}
-{145}{}{That worked... once. Just like I told you. This time I need the money. You aren't going to get
- anything in this world for free - my services included.}
-{146}{}{Thanks, Doc. I sure appreciate it. Next time I'll have cash. I promise.}
-{147}{}{I feel kind of guilty imposing on you like that. I better come back when I have money to pay
- you.}
-{148}{}{Okay, sorry. But before I go, let me ask you about something.}
-{149}{}{Okay, okay. I'll be on my way, then. Goodbye, Doc.}
-{150}{}{Sorry. No money, no service. I can't give meds away to everyone who asks for them. I'd be broke
- inside of a week. You'll have to come back when you've got money to pay my fee.}
-{151}{}{I don't have cash, but I have stuff to barter. Can I trade you something for your services?}
-{152}{}{Before I go, let me ask you something.}
-{153}{}{OK, I'll try to raise some cash. Goodbye.}
+{132}{}{Parece que você não está indo muito bem aí. Eu posso ajeitar seus problemas por $100. Você
+ quer que eu tente?}
+{133}{}{Seu amigo não está indo muito bem. Acho que posso ajeitar seus problemas por $100. Você quer que eu tente?}
+{134}{}{Espero que você faça e não só tente, doutor. Aqui está o seu dinheiro.}
+{135}{}{Acho que não posso pagar isso agora. Desculpe, doutor; talvez outra hora.}
+{136}{}{$ 100, eh? Talvez eu faça isso mais tarde. Adeus, doutor.}
+{137}{}{Que bando de cachorros doentes. Bem, posso tentar ajeita-lo e resolver seus problemas, mas
+ vai custar $ 50. Quer que eu faça isso?}
+{138}{}{Sim, por favor. Aqui está o seu dinheiro, doutor.}
+{139}{}{Não podemos pagar isso agora. Desculpe, doutor; talvez outra hora.}
+{140}{}{$150, eh? Talvez eu faça isso mais tarde. Adeus, doutor.}
+{141}{}{Eu gostaria de te ajudar, mas você não tem o suficiente para pagar sua conta. Suprimentos
+ médicos custam dinheiro.}
+{142}{}{Ah, vamos lá, doutor. Com certeza precisamos da sua ajuda.}
+{143}{}{Voltarei quando tiver mais dinheiro. Adeus. }
+{144}{}{Bem, tudo bem. Farei isso uma vez. Mas é melhor você ter dinheiro para me pagar da próxima vez.}
+{145}{}{Isso funcionou... uma vez, assim como eu te disse. Dessa vez eu preciso do dinheiro. Você
+ não vai conseguir nada neste mundo de graça, meus serviços estão incluídos.}
+{146}{}{Obrigado, doutor, a gradeço por isso. Da próxima vez eu vou ter o dinheiro. Prometo.}
+{147}{}{Eu me sinto meio culpado por te pressionar a isso. É melhor eu voltar quando tiver dinheiro
+ o suficiente.}
+{148}{}{OK, desculpe. Mas antes de ir, deixe eu te perguntar uma coisa.}
+{149}{}{Está bem, está bem. Vou indo, então. Adeus, doutor.}
+{150}{}{Desculpe, sem dinheiro, sem serviço. Não posso dar remédios a todos que os pedem, eu quebraria
+ em menos de uma semana. Você terá que voltar quando tiver dinheiro para pagar minha conta.}
+{151}{}{Não tenho dinheiro, mas tenho coisas para trocar. Posso trocar algo por seus serviços?}
+{152}{}{Antes de ir, deixe eu te perguntar uma coisa.}
+{153}{}{OK, vou tentar conseguir algum dinheiro. Adeus.}
 {154}{}{O que você gostaria de saber?}
 {155}{}{O que agora?}
-{156}{}{I think I have a solution for the Jet problem that you have here.}
-{157}{}{I hear that Redding has been having a problem here with its exports lately.}
-{158}{}{I could sure use some healing.}
-{159}{}{I'm just wondering about what's going on here in town.}
-{160}{}{Why do they call you Painless Doc Johnson?}
-{161}{}{Got any medical supplies I could trade for?}
-{162}{}{I was just looking around. Goodbye, Doc.}
-{163}{}{What does this look like to you? A general store? No, I don't barter for medical services. I
- just want payment in honest gold dollars, thank you very much. Come back when you have some.}
-{164}{}{All right. I get the picture. Goodbye.}
-{165}{}{I might be able to provide you with some supplies; let's see what you've got in trade.}
-{166}{}{Okay, Doc.}
-{167}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions,
- though.}
-{168}{}{Oh, I don't need anything right now. See you later, Doc.}
-{169}{}{Did you get everything you need?}
-{170}{}{Well? Did that do it for you?}
-{171}{}{Actually, let me take one more look at your stuff.}
-{172}{}{Thanks, Doc. Let me ask you something.}
-{173}{}{I sure did, Doc. Thanks. Goodbye for now.}
-{174}{}{There you go. All better. That do it for you?}
-{175}{}{Actually, I had some questions I wanted to ask you.}
-{176}{}{That'll do it. Thanks, Doc.}
-{177}{}{Wouldn't let that go too long. Some wounds fester and start oozing puss. Then there's always
- gangrene. Course, lately, I haven't used my knives as much as I'd like. Getting a bit rusty. Tell you
- what: Go ahead and let it go as long as you want. Maybe I can get some practice later on.}
-{178}{}{I see. While I'm festering, let me ask you about something.}
-{179}{}{Uh, yeah, well I'll think about that. Goodbye, Doc.}
-{180}{}{Lately, it seems as though more miners are spending their time flying on Jet than mining. If this
- keeps up, Redding's gold production will come to a halt. New Reno doesn't seem to mind, though.}
-{181}{}{All of the miners here are only working enough to get their next hit of Jet. Production here has
- really slowed down. If this keeps up, New Reno's going to own Redding.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
-{183}{}{What does New Reno have to do with it?}
+{156}{}{Acho que tenho uma solução para esse problema que você tem aqui com jet.}
+{157}{}{Ouvi dizer que Redding tem tido problemas recentes com suas exportações.}
+{158}{}{Não faria mal se eles me curassem um pouco.}
+{159}{}{Estava me perguntando o que está acontecendo aqui na cidade.}
+{160}{}{Por que eles te chamam de o "Indolor" Dr. Johnson?}
+{161}{}{Tem algum material médico que eu possa trocar?}
+{162}{}{Eu estava apenas dando uma olhada. Adeus, doutor.}
+{163}{}{O que isso parece para você? Um armazem geral? Não, eu não troco por serviços médicos.
+ Eu só quero o pagamento em dólares honestos, muito obrigado. Volte quando tiver algum.}
+{164}{}{Tudo bem, entendi. Adeus.}
+{165}{}{Talvez eu possa te fornecer alguns suprimentos; vamos ver o que você tem pra negociar.}
+{166}{}{Ok, Doutor.}
+{167}{}{Eu não quis dizer agora mesmo, só queria saber se você tem coisas para negociar. Aliás, tenho
+ algumas perguntas.}
+{168}{}{Oh, eu não preciso de nada agora. Até logo, doutor.}
+{169}{}{Você conseguiu tudo o que precisa?}
+{170}{}{Bem? Isso te serviu?}
+{171}{}{Na verdade, deixe eu dar mais uma olhada nas suas coisas.}
+{172}{}{Obrigado, doutor. Deixe me perguntar algo.}
+{173}{}{Claro que sim, doutor. Obrigado, até logo.}
+{174}{}{Ai está, tudo melhor. Isso te serviu?}
+{175}{}{Na verdade, eu tinha algumas perguntas que queria te fazer.}
+{176}{}{Servirá. Obrigado, doutor.}
+{177}{}{Não deixe isso passar muito tempo, algumas feridas infeccionam e começam a vazar pus. Então
+ acontece a gangrena. Bom, ultimamente, não tenho usado minhas facas tanto quanto gostaria,
+ estão ficando um pouco enferrujado. Vou te dizer uma coisa: vá em frente e deixe passar o tempo que quiser. Talvez eu possa praticar um pouco depois.}
+{178}{}{Entendo. Enquanto estou apodrecendo, deixe eu te perguntar uma coisa.}
+{179}{}{Uh, sim, bem, vou pensar sobre isso. Adeus, doutor.}
+{180}{}{Ultimamente, parece que os mineradores estão gastando seu tempo chapados em jet do que
+ minerando. Se isso continuar, a produção de ouro de Redding será interrompida. No entendo, New Reno não parece se importar.}
+{181}{}{Todos os mineiros aqui estão trabalhando somente o suficiente para pegar a proxima carga de
+ Jet. A produção aqui realmente desacelerou. Se isso continuar, New Reno será dono de Redding.}
+{182}{}{Tudo o que os mineiros estão fazendo aqui ultimamente é ficarem chapados, quase ninguém
+ mais está minerando ouro. Estou preocupado que New Reno seja dona desta cidade. Eu gostaria muito que houvesse uma maneira de acabar com esse vício do Jet.}
+{183}{}{O que New Reno tem a ver com isso?}
 {184}{}{De onde vem o Jet?}
-{185}{}{I see. Let me ask you about something else.}
-{186}{}{Thanks for the information. I'll see you around, Doc. Goodbye.}
-{187}{}{Hello there. I'm Painless Doc Johnson. What can I do for you?}
-{188}{}{What can old Doc Johnson do for you this time?}
-{189}{}{Hey, Doc. I just had some questions to ask you.}
-{190}{}{I was wondering if you had any meds I could trade for.}
-{191}{}{Doc, I heard about some special armor implants. Do you know anything about that?}
-{192}{}{I was just looking around, Doc. Nice to meet you. Goodbye.}
-{193}{}{Thanks to you, I'm turning this Jet problem around. That antidote of yours that I slipped into
- the Jet supply is doing a great job of grounding all those Jet Jockeys.}
-{194}{}{I'm glad it's working. Let me ask you about something else.}
-{195}{}{Aren't people suspicious about getting sick on the Jet that you sold them?}
-{196}{}{Glad it's working, Doc. I guess I'll be on my way. Goodbye.}
-{197}{}{Thanks to the antidote that you brought me, Redding's problems with Jet are at an end. It looks
- as though New Reno will have to find another way to try and take over here.}
-{198}{}{I'm happy I was able to help. Let me ask you something else.}
-{199}{}{Weren't people suspicious about getting sick on the Jet that you sold them?}
-{200}{}{What did New Reno have to do with it?}
-{201}{}{Glad it worked, Doc. Goodbye for now.}
-{202}{}{A solution? What do you mean?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
-{204}{}{Oh, nothing. Let me ask you about something else, Doc.}
-{205}{}{We sure do. Too much Jet, not enough work... but where did you hear about that?}
-{206}{}{McClure in Vault City told me.}
-{207}{}{I just heard a rumor, that's all.}
-{208}{}{It's not really important. Let me ask you about something else.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
-{210}{}{I see. Let me ask you about something else, Doc.}
-{211}{}{So if you don't want New Reno to control Redding, just who do you want in charge here?}
-{212}{}{Thanks for explaining that to me, Doc. Goodbye.}
-{213}{}{All of the Jet here in town is shipped here from the Mordino family in New Reno. It comes mostly
- in bulk packages, and then I process it into user-ampoules... so I end up selling all of it right here.}
-{214}{}{You must make a tidy profit out of that.}
-{215}{}{You must be real chummy with New Reno, then.}
-{216}{}{I see. Let me ask you about something else.}
-{217}{}{Have any Jet that I could have, then?}
-{218}{}{Not really. I guess they're so used to me processing the bulk batches of Jet into user-ampoules
- that they haven't even thought twice about it. I've been doing it for quite a while before this, and
- I've been the doctor here for a long time.}
-{219}{}{I'm glad that you're not in trouble. Let me ask you about something else, Doc.}
-{220}{}{Good. I bet things would get ugly if they ever suspected. Well, goodbye, Doc.}
-{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
- by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
-{222}{}{And who do you think that is?}
-{223}{}{The way I see it, Redding's best chance is with Vault City controlling things here. That's where
- I'm from - so I might be biased - but I really do think that Vault City can do a better job of helping
- the citizens of Redding.}
+{185}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
+{186}{}{Obrigado pela informação. Vejo você por aí, doutor. Adeus.}
+{187}{}{Olá. Eu sou o Indolor Doc Johnson. O que posso fazer por você?}
+{188}{}{O que o velho Dr. Johnson pode fazer por você desta vez?}
+{189}{}{Ei, doutor. Eu só tinha algumas perguntas para te fazer.}
+{190}{}{Eu queria saber se você tem algum remédio para negociar.}
+{191}{}{Doutor, ouvi falar de alguns implantes especiais de armadura. Você sabe alguma coisa sobre isso?}
+{192}{}{Eu só estava dando uma olhada, doutor. Prazer em conhecê-lo. Adeus.}
+{193}{}{Graças a você, estou resolvendo esse problema do jet. Aquele seu antídoto que coloquei no
+ suprimento de jet está fazendo um ótimo trabalho em acabar com todo esses viciados em jet.}
+{194}{}{Estou feliz que esteja funcionando. Deixe eu te perguntar sobre outra coisa.}
+{195}{}{As pessoas não suspeitam em passar mal com Jet que você vendeu?}
+{196}{}{Que bom que está funcionando, doutor. Acho que vou indo. Adeus.}
+{197}{}{Graças ao antídoto que você me trouxe, os problemas de Redding com jet acabaram. Parece que
+ New Reno terá que encontrar outra forma de tentar dominar aqui.}
+{198}{}{Estou feliz por ter ajudado. Deixe eu te perguntar outra coisa.}
+{199}{}{As pessoas não suspeitam de adoecer com o Jet que você vendeu?}
+{200}{}{O que New Reno tem a ver com isso?}
+{201}{}{Que bom que funcionou, doutor. Até logo.}
+{202}{}{Uma solução? O que você quer dizer?}
+{203}{}{Quero dizer que tenho um antídoto para o jet. Foi o Dr. Troy de Vault City que fez isso, e
+ deve resolver o problema do vício em jet que você tem aqui.}
+{204}{}{Oh, nada. Deixe eu te perguntar sobre outra coisa, doutor.}
+{205}{}{Com certeza. Muito Jet, pouco trabalho... mas onde você ouviu falar disso?}
+{206}{}{McClure em Vault City me contou.}
+{207}{}{Acabei de ouvir um boato, só isso.}
+{208}{}{Não é realmente importante. Deixe eu te perguntar sobre outra coisa.}
+{209}{}{New Reno vende jet bem barato. Jet é muito viciante, mais do que qualquer coisa que você
+ já viu antes. Eles imaginam que, se conseguirem viciar um número suficiente de pessoas em uma
+ área, essas pessoas farão qualquer coisa para conseguir mais. Isso lhes dá o controle total de uma área, como Redding.}
+{210}{}{Entendo. Deixe eu te perguntar sobre outra coisa, doutor.}
+{211}{}{Então, se você não quer que New Reno controle Redding, quem você quer no comando aqui?}
+{212}{}{Obrigado por me explicar isso, doutor. Adeus.}
+{213}{}{Todo o jet aqui da cidade é enviado pela família Mordino de New Reno. Ele vem normalmente em
+ embalagens a granel, e então eu o processo em ampolas individuais... então acabo vendendo tudo aqui mesmo.}
+{214}{}{Você deve ter um bom lucro com isso.}
+{215}{}{Você deve ser muito amigo de New Reno, então.}
+{216}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
+{217}{}{Então, voce tem algum jet que eu possa tomar?}
+{218}{}{Na verdade. Acho que eles estão tão acostumados comigo processando os lotes de jet em
+ ampolas individuais que nem pensaram muito sobre isso. Eu tenho feito isso por um bom tempo
+ antes disso, e eu sou o médico aqui há muito tempo.}
+{219}{}{Estou feliz que você não está com problemas. Deixe eu te perguntar sobre outra coisa, doutor.}
+{220}{}{Bom. Aposto que as coisas ficariam feias se eles suspeitassem. Bem, adeus, doutor.}
+{221}{}{Bem, todo mundo quer uma parte do ouro aqui de Redding, de uma hora ou outra seremos
+ controlados por alguém. Só quero que tenhamos alguém que fará o melhor trabalho para Redding.}
+{222}{}{E quem você acha que é?}
+{223}{}{A meu ver, a melhor chance de Redding é com Vault City controlando as coisas por aqui. É de
+ onde eu sou , posso parecer tendencioso, mas realmente acho que Vault City pode fazer um trabalho
+ melhor para ajudar os cidadãos de Redding.}
 {224}{}{Por que isso?}
-{225}{}{Because they handle Vault City in a just and humane manner. They would do the same for Redding.
- I'm sure of it.}
-{226}{}{Vault City takes care of their citizens all right, but they treat non-citizens like dirt.}
-{227}{}{I see, Doctor. That makes a certain kind of sense.}
-{228}{}{They'll realize the benefits soon enough. I'm certain that they'll welcome Vault City's
- administration with open arms, uh, eventually.}
-{229}{}{I see. Well, let me ask you about something other than politics.}
-{230}{}{Hmm, I don't know about that. Goodbye.}
-{231}{}{That's nonsense. Vault City does extend special privileges to citizens, but only because they're
- better qualified to enjoy those things than brutish non-citizens. Besides, everyone can qualify for
- Vault City citizenship if they pass the tests.}
-{232}{}{I'm not sure how the people here in Redding would react to rule by Vault City.}
-{233}{}{Yeah, no doubt. Goodbye, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
-{235}{}{What a nice guy you are, Doc. That's great. Let me ask you about something else, then.}
-{236}{}{How *noble* of you, Doctor.}
-{237}{}{That's interesting. I'll see you later, Doc. Goodbye.}
-{238}{}{I'll thank you not to use such heavy sarcasm when you say that. Call it nobility if you like; I
- prefer practicality. The mine owners pay me a stipend to keep the miners relatively healthy and able to
- work. If I let someone else work with the Jet, I'd never be able to do the job I'm paid to do.}
-{239}{}{I see. Well, let me ask you about something else, then. }
-{240}{}{Hmm, thanks for telling me that. Goodbye, Doc.}
-{241}{}{Dr. Troy? I know him. A wonderfully talented physician. We worked together when I was in Vault
- City. Tell me about this antidote.}
-{242}{}{You worked in Vault City?}
-{243}{}{Dr. Troy said that I should bring the antidote to you, and that you'd know what to do with it.}
-{244}{}{Yes, that's where I received my medical training. I'm a Vault City citizen. I found that there
- are many places in the world that needed my medical expertise more than Vault City. So here I am. Now,
- about that antidote...}
-{245}{}{Dr. Troy said that I should bring the antidote to you, and that you'd know what to do with it.}
-{246}{}{Indeed I will. Let me have it, then.}
-{247}{}{Here it is, Doc.}
-{248}{}{Not so fast Doc. What's it worth to you?}
-{249}{}{I don't think I'm ready to hand it over just yet. See you around, Doc. Goodbye.}
-{250}{}{What's it worth to me? Why, you little weasel! I oughta...}
-{251}{}{Easy there, Doc; that kind of talk makes me feel so bad that I get all shaky. I could drop
- things... like this antidote bottle.}
-{252}{}{Okay, okay. Hey, I was just kidding. Here it is.}
-{253}{}{Thank you. I'll make sure the miners get a little something *extra* with the next batch of
- Jet that they pick up.}
-{254}{}{Aren't they going to be suspicious of you, Doc?}
-{255}{}{I'm glad I could help. Let me ask you about something else, Doc.}
-{256}{}{Good. I hate seeing all those damn Jet Pilots flying around all the time. Goodbye, Doc, and
- good luck to you.}
-{257}{}{Okay, you've got me. I'll give you $2,000 for it. That's all I've got.}
-{258}{}{I guess that will have to do. Okay, here it is, Doc.}
-{259}{}{I think I'll hold on to it for a while yet. Goodbye, Doc.}
-{260}{}{You can do that, but you won't get a better price from me. That's really all I have.}
-{261}{}{Well, okay, I guess I'll take the $2,000. Here's the antidote, Doc.}
-{262}{}{We'll see. Goodbye, Doc.}
-{263}{}{I know McClure. He's on the Vault City council. What did he tell you?}
-{264}{}{That mine production is way down and gold prices are way up.}
-{265}{}{I'm not sure I should tell you.}
-{266}{}{Oh? And what did this rumor say?}
-{267}{}{That mine production is way down and gold prices are way up.}
+{225}{}{Porque eles comandam Vault City de maneira justa e humana. Eles fariam o mesmo por Redding.
+ Estou certo disso.}
+{226}{}{Vault City cuida bem de seus cidadãos, mas eles tratam os não-cidadãos como lixo.}
+{227}{}{Entendo, doutor. Isso faz um certo sentido.}
+{228}{}{Eles perceberão os benefícios em breve. Tenho certeza de que eles receberão a
+ administração de Vault City de braços abertos, uh, no final.}
+{229}{}{Entendo. Bem, deixe eu te perguntar sobre outra coisa que não seja política.}
+{230}{}{Hum, eu não sei sobre isso. Adeus.}
+{231}{}{Isso não faz sentido. Vault City estende privilégios especiais aos cidadãos, mas apenas porque
+ eles são mais qualificados para desfrutar dessas coisas do que não-cidadãos. Além disso, todos
+ podem se qualificar para a cidadania de Vault City se passarem nos testes.}
+{232}{}{Não tenho certeza de como as pessoas aqui em Redding reagiriam ao governo de Vault City.}
+{233}{}{Sim, sem dúvida. Adeus, doutor.}
+{234}{}{Eu encho as ampolas do usuário com jet e depois distribuo apenas como um serviço para
+ o povo de Redding. Não ganho lucro fazendo isso. Se eu não fizesse isso, algum outro charlatão
+ estaria preparando a droga com um equipamento enferrujado e incrustado de germes. Eu nunca poderia manter essa população longe de doenças depois disso.}
+{235}{}{Que cara legal você é, doutor, isso é ótimo. Deixe eu te perguntar sobre outra coisa, então.}
+{236}{}{Que *nobre* da sua parte, Doutor.}
+{237}{}{É interessante. Vejo você mais tarde, doutor. Adeus.}
+{238}{}{Agradeço se não usar tanto sarcasmo quando diz isso. Chame isso de nobreza, se quiser;
+ prefiro a praticidade. Os donos das minas me pagam um estipêndio para manter os mineiros relativamente
+ saudáveis e capazes de trabalhar. Se eu deixar outra pessoa trabalhar com o jet, nunca poderei fazer o trabalho para o qual sou pago.}
+{239}{}{Entendo. Bem, deixe eu te perguntar sobre outra coisa, então. }
+{240}{}{Hmm, obrigado por me dizer isso. Adeus, doutor.}
+{241}{}{Dr. Troy? Eu o conheço, um médico maravilhosamente talentoso. Trabalhamos juntos quando
+ eu estava em Vault City. Me diga sobre este antídoto.}
+{242}{}{Você trabalhou em Vault City?}
+{243}{}{Dr. Troy disse que eu deveria trazer o antídoto para você, e que você saberia o que fazer com ele.}
+{244}{}{Sim, foi lá que recebi minha formação médica. Sou cidadão de Vault City. Descobri que há
+ muitos lugares no mundo que precisam mais da minha experiência médica do que Vault City, então aqui
+ estou. Agora, sobre aquele antídoto...}
+{245}{}{Dr. Troy disse que eu deveria trazer o antídoto para você, e que você saberia o que fazer com ele.}
+{246}{}{Suponho que sim. Deixe comigo, então.}
+{247}{}{Aqui está, doutor.}
+{248}{}{Não tão rápido, doutor. Quanto isso vale para você?}
+{249}{}{Acho que ainda não estou disposto a entregá-lo. Vejo você por aí, doutor. Adeus.}
+{250}{}{Quanto vale para mim? Ora, seu pequeno crapula! eu deveria...}
+{251}{}{Calma aí, doutor; esse tipo de conversa me deixa meio mal, me da até tremedeira. As
+ vezes eu deixo cair coisas... Tipo este frasco de antídoto.}
+{252}{}{Está bem, está bem. Ei, era só pegadinha. Aqui está.}
+{253}{}{Obrigado. Vou garantir que os mineradores recebam algo *extra* com o próximo lote de
+ Jet que pegarem.}
+{254}{}{Eles não vão suspeitar de você, doutor?}
+{255}{}{Fico feliz em poder ajudar. Deixe eu te perguntar sobre outra coisa, doutor.}
+{256}{}{Bom, eu odeio ver todos aqueles noias chapados em jet o tempo todo. Adeus, doutor, e boa
+ sorte para você.}
+{257}{}{Ok, você me pegou. Te dou 2.000 dólares por ela. Isso é tudo que eu tenho.}
+{258}{}{Acho que isso vai ter que servir. Ok, aqui está, doutor.}
+{259}{}{Acho que ainda vou ficar por um tempo. Adeus, doutor.}
+{260}{}{Você pode fazer isso, mas não conseguirá um preço melhor de mim. Isso é realmente tudo que eu tenho.}
+{261}{}{Bem, ok, acho que vou ficar com os $2.000. Aqui está o antídoto, doutor.}
+{262}{}{Veremos. Adeus, doutor.}
+{263}{}{Eu conheço McClure, ele está no conselho de Vault City. O que ele te falou?}
+{264}{}{A produção da mina está muito baixa e os preços do ouro estão muito altos.}
+{265}{}{Não tenho certeza se devo contar a você.}
+{266}{}{Oh? E o que esse boato dizia?}
+{267}{}{A produção da mina está muito baixa e os preços do ouro estão muito altos.}
 {268}{}{Oh, apenas o lixo de sempre. Ei, me deixe perguntar sobre outra coisa, Doc.}
 {269}{}{Isso é verdade. Os mineiros aqui estão todos ficando chapados com jet em vez de trabalhar, portanto, as
  exportações caíram e os preços subiram. Esta situação não pode durar.}
@@ -278,42 +277,42 @@
 {307}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
 {308}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
 {309}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
-{310}{}{According to the reports, Phoenix Armor Implants give you 5% resistance to thermal damage (fire,
- laser, and plasma) - over and above any other armor you're wearing. The operation takes a few days, one
- suit of Combat Armor (for the thermal-dissipative membranes), and it will cost you $8,000. Not to worry,
- though; this operation *should* create only minimal scarring - at least that's what I read.}
-{311}{}{That sounds great, Doc. I sure won't have to worry about extra sunscreen after this.}
+{310}{}{De acordo com os relatórios, os Os Implantes de Armadura de Fenix oferecem 5% de resistência a
+ danos térmicos (fogo, laser e plasma) - além de qualquer outra armadura que você esteja usando. A operação
+ leva alguns dias, uma armadura de combate (para as membranas termo-dissipativas) e custará US$ 8.000.
+ Não se preocupe, porém; esta operação *deve* criar apenas cicatrizes mínimas - pelo menos é o que eu li.}
+{311}{}{Parece ótimo, doutor. Com certeza não terei que me preocupar com protetor solar extra depois disso.}
 {312}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
 {313}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
 {314}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
 {315}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
-{316}{}{You need to have the Phoenix Armor Implants before I can give you the Assault Enhancement. But
- I'll tell you what it should do. The Assault Enhancement should give you a total of 10% resistance to
- thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The operation
- takes a few days and it'll cost you $48,000. In addition, you're not going to be too charismatic after
- I finish. Layering all those thermal dissipaters under your skin is going to make you look a bit lumpy,
- sort of like an overstuffed burrito.}
-{317}{}{The Assault Enhancement of the Phoenix Armor Implants should give you a total of 10% resistance
- to thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The
- operation takes a few days and it'll cost you $48,000. In addition, you're not going to be too
- Charismatic after I finish. Cramming all those impact plates under your skin is going to make you look
- a bit lumpy, sort of like an overstuffed burrito. Ready to begin?}
-{318}{}{That sounds great, Doc. Let's do it.}
+{316}{}{Você precisa ter os Implantes de Armadura da Fênix antes que eu possa lhe dar o Aprimoramento
+ de Ataque. Mas eu vou te dizer o que deve fazer. O Aprimoramento de Assalto deve dar a você um total
+ de 10% de resistência a danos térmicos (fogo, laser e plasma) - além de qualquer outra armadura que você
+ esteja usando. A operação leva alguns dias e custará US$ 48.000. Além disso, você não vai ser muito
+ carismático depois que eu terminar. Colocar todos esses dissipadores térmicos em camadas sob a pele
+ fará com que você pareça um pouco irregular, como um burrito recheado demais.}
+{317}{}{O Aprimoramento de Assauto dos Implantes de Armadura da Fenix deve dar a você um total de 10%
+ de resistência a danos térmicos (fogo, laser e plasma) - além de qualquer outra armadura que você
+ esteja usando. A operação leva alguns dias e custará US$ 48.000. Além disso, você não ficará
+ muito carismático depois que eu terminar. Enfiar todas aquelas placas de impacto sob a pele vai fazer
+ você parecer um pouco irregular, como um burrito recheado demais. Pronto para começar?}
+{318}{}{Parece ótimo, doutor. Vamos fazer.}
 {319}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
 {320}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
 {321}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
 {322}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
-{323}{}{There, that should do it. The operation was a success. You shouldn't have to worry about bumps
- and bruises so much anymore. That swelling and tenderness will go down in a few days.}
-{324}{}{I wouldn't have thought that your skin could accommodate so many of those impact plates, but
- you're ready for action now. You not only look sort of like Frankenstein, but you should be as tough as
- him as well. Uh, try to stay out of the sun until most of the scabs slough off.}
-{325}{}{That turned out rather well, I think. The Phoenix Armor implanted much more neatly than I would
- have thought it would. That burning and itching feeling will probably go away in a few weeks... once your
- innards get used to the fibers.}
-{326}{}{Coming around, are we? You're just jam-packed with thermal-dissipaters and dissipative membranes.
- You won't look quite so lumpy in a few weeks, but you won't be winning any beauty pageants again,
- either. Try not to pick at the pus-crusts near the drainage incisions until they stop suppurating.}
-{327}{}{Thanks for the advice, Doc. This is great. Hey, let me ask you about something else.}
-{328}{}{Thanks for your handiwork, Doc. I better be moving on now. Goodbye.}
-{329}{}{You deliver the Jet antidote to Doc Johnson.}
+{323}{}{Pronto, deve servir. A operação foi um sucesso. Você não deveria se preocupar com solavancos
+ e certas contusões. Esse inchaço e sensibilidade diminuirão em alguns dias.}
+{324}{}{Eu não teria pensado que sua pele poderia acomodar tantas dessas placas de impacto, mas você
+ está pronto para a ação agora. Você não só se parece com Frankenstein, mas também deve ser tão duro
+ quanto ele. Uh, tente ficar longe do sol até que a maioria das crostas desapareçam.}
+{325}{}{Isso acabou muito bem, eu acho. A Armadura da Fênix foi implantada com muito mais precisão
+ do que eu pensava. Essa sensação de queimação e coceira provavelmente desaparecerá em algumas
+ semanas... assim que suas entranhas se acostumarem com as fibras.}
+{326}{}{Nós recuperamos a consciência, eh? Você está repleto de dissipadores térmicos e membranas dissipativas.
+ Você não parecerá tão irregular em algumas semanas, mas também não vai ganhar mais nenhum
+ concurso de beleza. Tente não cutucar as crostas de pus perto das incisões de drenagem até que parem de supurar.}
+{327}{}{Obrigado pelo conselho, doutor. Isso é ótimo. Ei, deixe eu te perguntar sobre outra coisa.}
+{328}{}{Obrigado pelo seu trabalho, doutor. É melhor eu seguir em frente agora. Adeus.}
+{329}{}{Você entrega o antídoto Jet para o Dr. Johnson.}

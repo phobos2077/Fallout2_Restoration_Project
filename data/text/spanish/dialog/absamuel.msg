@@ -24,8 +24,8 @@
 {404}{}{Demonios, sí lo hago. Nada me excita como un cadáver podrido.}
 {410}{}{Por qué, voy a estar al aire libre, y no hay nadie para decirle al viejo Sammy cuando ya ha tenido suficiente. Yo * sé * cuando ya he tenido suficiente ... ¡cuando ya no queda! [Él se ríe, lo que rápidamente se convierte en una horrible tos. Después de toser un pulmón o dos, él te sonríe.]}
 {411}{}{Eh, *por supuesto* eso es lo que quería decir. [Suspiro de alivio]. Sin embargo, permíteme preguntarte otra cosa.}
-{420}{}{[Sus ojos se abren por sorpresa y instantáneamente parece estar sobrio.] ¡Eso no es lo que quería decir, tú... tú ¡MONSTRUO! ¡DEMONIO!
- ¡Aléjate de mí! }
+{420}{}{[Sus ojos se abren con sorpresa y parece estar instantáneamente sobrio.] Eso no es lo que quise decir, tú... ¡ERES UN MONSTRUO! ¡MANÍACO!
+¡Aléjate de mí!}
 {421}{}{Lo que sea, viejo borracho de mierda. No sabes de lo que te estás perdiendo.}
 {430}{}{¡Demonio asqueroso! ¡Fuera!}
 {500}{}{La Abadía, bueno, este lugar * hickup * ha sido mi 'ogar por la mayor parte de mi vida. Todo mundo 'quí * hickup * es agradable, y cualquier persona es bienvenida, siempre y cuando * hickup * no cause problemas. Yo, yo mismo, no paso demasiado tiempo en el mona- * hickup * -monasterio, pero sé que nuestros lectores tienen todo tipo de información que se ha recopilado durante los últimos años. Tal vez algunos de ellos * hickup * pueden ser de alguna utilidad para usted.}

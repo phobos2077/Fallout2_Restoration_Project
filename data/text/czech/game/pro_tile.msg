@@ -843,7 +843,7 @@
 {245200}{}{Podlaha}
 {245300}{}{Podlaha}
 {245400}{}{Podlaha}
-{245500}{}{End of Group}
+{245500}{}{Konec skupiny}
 {245600}{}{Střecha}
 {245700}{}{Střecha}
 {245800}{}{Střecha}
@@ -870,9 +870,9 @@
 {247900}{}{Střecha}
 {248000}{}{Střecha}
 {248100}{}{Střecha}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Konec skupiny}
+{249100}{}{Konec skupiny}
+{250400}{}{Konec skupiny}
 {250500}{}{Dřevěná podlaha}
 {250600}{}{Dřevěná podlaha}
 {250700}{}{Dřevěná podlaha}
@@ -884,10 +884,10 @@
 {251300}{}{Dřevěná podlaha}
 {251400}{}{Dřevěná podlaha}
 {251500}{}{Dřevěná podlaha}
-{251600}{}{End of Group}
+{251600}{}{Konec skupiny}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Konec skupiny}
+{318200}{}{Konec skupiny}
 {369100}{}{Střecha}
 {369200}{}{Střecha}
 {369300}{}{Střecha}

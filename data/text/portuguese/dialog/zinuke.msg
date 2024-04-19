@@ -1,7 +1,7 @@
-{100}{}{You see a Nuka-Cola machine. You wonder if it still works.}
-{101}{}{[thunk thunk chaching... sheeew]}
-{102}{}{You get a not so fresh bottle of Nuka-Cola.}
+{100}{}{Você vê uma máquina Nuka-Cola. Você se pergunta se ainda funciona.}
+{101}{}{[tunk thunk chaching... sheeew]}
+{102}{}{Você ganha uma garrafa não tão fresca de Nuka-Cola.}
 {103}{}{Dooohhhh!}
-{104}{}{You dodge the bottle of Nuka-Cola.}
-{105}{}{ skillfully dodges a bottle of Nuka-Cola.}
-{106}{}{The machine seems to be out of stock.}
+{104}{}{Você desvia da garrafa de Nuka-Cola.}
+{105}{}{ desvia habilmente de uma garrafa de Nuka-Cola.}
+{106}{}{A máquina não parece ter estoque.}

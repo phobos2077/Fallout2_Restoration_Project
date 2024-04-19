@@ -15,5 +15,5 @@
  sich ENDLICH entschied, überhaupt zu *spielen*.}
 {110}{}{Ian war für *mich* gefährlicher als die Feinde, die wir bekämpften. Wo er auch sein mag
  - ich hoff, er ist tot.}
-{111}{}{Sieh dir mal die Muskeln an diesem Figurmodell an, das ich gekriegt hab...so übertrieben,
+{111}{}{Sieh dir mal die Muskeln an diesem Figurenmodell an, das ich gekriegt hab...so übertrieben,
  einfach lächerlich!}

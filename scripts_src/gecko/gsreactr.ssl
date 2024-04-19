@@ -38,7 +38,9 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   add_timer_event(self_obj,game_ticks(1),0);
+   if (not is_loading_game) then begin
+      add_timer_event(self_obj,game_ticks(1),0);
+   end
 end
 
 procedure timed_event_p_proc begin

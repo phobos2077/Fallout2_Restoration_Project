@@ -44,70 +44,70 @@
 {139}{}{Isso é. Mas não conseguiria sobreviver só enterrando pessoas: você poderia até dizer que o negócio estaria morto.
  Ah, era um problema sério. Então me encarreguei de montar um local para vender bebidas também.}
 {140}{}{Uh-huh. Estou quase com medo de perguntar mais alguma coisa agora. Mas acho que vou de qualquer maneira.}
-{141}{}{Uh, doesn't it throw people off their feed to see all the stiffs in here?}
-{142}{}{I don't think I can stand another pun. I'm leaving. Goodbye.}
-{143}{}{Well, it would, if they was all real. But they ain't. Not all of 'em, anyway. 'Sides, the
- miners kinda like it. Makes 'em feel lucky to be alive.}
-{144}{}{I think it's creepy. You're a very disturbed individual.}
-{145}{}{I see. Well, let me ask you something else.}
-{146}{}{I guess some people might feel that way. But I'm not one of them. It just makes me feel kind of
- queasy. Goodbye.}
-{147}{}{You call *me* creepy? Why, I hear that tribals eat their damn dead.}
-{148}{}{How else could we grok their essence?}
-{149}{}{Hey, back off. We cook them first. We're not savages, you know.}
-{150}{}{That's ridiculous. Where'd you hear that?}
-{151}{}{I dunno 'xactly. But it's a fact sure as fiddlin'. Why else would you all file your teeth into
- points? Huh? Answer me that!}
+{141}{}{Ei, ver todos aqueles cadáveres por aqui não faz as pessoas vomitarem?}
+{142}{}{Acho que não aguento outro trocadilho. Preciso ir embora. Adeus.}
+{143}{}{Sim, se todos fossem reais, mas não são. Nem todos eles, na verdade. Além disso,
+ os mineiros meio que gostam disso, faz com que se sintam sortudos por estarem vivos.}
+{144}{}{Eu acho isso repugnante. Você é um indivíduo muito perturbado.}
+{145}{}{Entendo. Bem, deixe eu perguntar outra coisa.}
+{146}{}{Acho que algumas pessoas podem se sentir assim, mas eu não sou uma delas. Isso só me faz
+ sentir meio enjoado. Adeus.}
+{147}{}{Você me chama de assustador? Ora, ouvi dizer que os tribais comem até cadaveres.}
+{148}{}{De que outra forma poderíamos absorver sua essência?}
+{149}{}{Ei, não pense muito, primeiro nós os cozinhamos. Afinal, não somos selvagens.}
+{150}{}{Isso é ridículo. Onde você ouviu isso?}
+{151}{}{Não sei exatamente, mas é o que se espalham por ai. Por que mais vocês lixariam seus
+ dentes em pontas? Huh? Me ressponda isso!}
 {152}{}{Eu não lixei meus dentes em... Oh, esquece. Deixe-me perguntar sobre outra coisa.}
-{153}{}{Thankee kindly. Anything else for you?}
-{154}{}{Actually, there was something else.}
-{155}{}{Nope, that'll do it for now. Thanks, Josh.}
-{156}{}{What do ya mean by that?}
-{157}{}{I just meant that it seems like a rather, hmm, *unusual* combination.}
-{158}{}{Nothing, nothing at all. Let me ask you something else, Josh.}
-{159}{}{I just mean that I'll be drinking someplace a little less stiff. Uh, I mean more informal, of
- course. Goodbye.}
-{160}{}{I've been spending time reburying people in the graveyard next door. Someone - or something - keeps
- diggin' 'em up. Dunno why. I mean, it ain't like they have anything valuable on 'em.}
-{161}{}{The graves are being excavated?}
-{162}{}{How do you know that they don't have anything valuable on them?}
-{163}{}{Probably just rats. Let me ask you about something else.}
-{164}{}{Well, I don't know fer certain like... Uh, um. I was just guessin'. Yeah, that's it. Hey, have a
- free beer.}
-{165}{}{I don't know what you're implyin' but I don't like it.}
-{166}{}{Thanks for the beer. What do you mean that something's digging them up?}
-{167}{}{Well, tell me what you mean when you say that something's digging them up.}
-{168}{}{Well, I ain't never seen nothin' but every week or so, one or another of the graves is all
- pawed and half dug-up like. Don't rightly know what would do that.}
-{169}{}{That's strange.}
-{170}{}{Disturbin' is what it is. Now miners are tellin' me that they'd rather rest out their final days
- here inside, rather than get planted only to be pulled back up like an overripe turnip. Hell, I wouldn't
- mind saving the cute ones inside, but not everyone. I don't know what all to do about it.}
-{171}{}{What a pleasant image that is. I'm sure that I'll wake up in cold sweat thinking about that
- one. Let me ask you something else.}
-{172}{}{It's a mystery, all right. Well, I'll see you around, Josh. Goodbye.}
-{173}{}{Well, I guess as long as you cook... Hold on a gol-darned minute. That's still cannibalism! You're
- one sick little unit, even for a tribal.}
-{174}{}{Relax, Josh. I was just kidding. Heh, heh. Heck, we just cook parts of them.}
-{175}{}{Parts, huh? Which parts 'xactly?}
-{176}{}{Who cares? (you shrug) Parts are parts.}
-{177}{}{I was just pulling your leg, Josh. Let me ask you about something else.}
-{178}{}{Yeah, well I guess that makes a kind of sense.}
-{179}{}{Sure it does. Hey, let me ask you about something else.}
-{180}{}{Speaking of which, I'm getting hungry. See you later, Josh. Goodbye.}
-{181}{}{God-damn Martians. And I mistook you for a damn tribal. Well, don't I feel stupid. Well,
- cannibals is cannibals in my book.}
-{182}{}{Hey, we cook them first. We're not savages, you know.}
-{183}{}{Let go of my leg, you cannibal! I need it for a good long while to come still. You find yourself
- another snack.}
-{184}{}{Relax, you look kind of tough and stringy anyhow. Heh, heh. Just kidding... mostly. Let me ask you
- something else, Josh.}
-{185}{}{Well, I'll look around. But if I don't find anything better, I'll be back. Goodbye... for now.}
-{186}{}{Need to buy the farm first. Planning on buying some real estate anytime soon?}
-{187}{}{Uh, not any farms anyhow. Let me ask you something else.}
-{188}{}{Might help someone else, or two, to buy a farm hereabouts. See you later, Josh.}
-{189}{}{Well, I guess you'd start by croaking someone. But I'd advise against it. Sheriff Marion isn't
- real keen on that kind of behavior.}
-{190}{}{I'll try to behave myself. Let me ask you something else, Josh.}
-{191}{}{I see... well, at least I know who to talk to if there are any unfortunate *accidents*. Goodbye,
+{153}{}{Agradeço muito. Mais alguma coisa por você?}
+{154}{}{Na verdade, havia algo mais.}
+{155}{}{Não, isso é tudo por agora. Obrigado, Josh.}
+{156}{}{O que você quer dizer com isso?}
+{157}{}{Eu só quis dizer que parece uma combinação um tanto, hmm, *incomum*.}
+{158}{}{Nada, absolutamente nada. Deixe eu te perguntar outra coisa, Josh.}
+{159}{}{Só quero dizer que vou beber em algum lugar um pouco menos forte. Uh, quero dizer
+ mais informal, claro. Adeus.}
+{160}{}{Tenho passado um tempo enterrando pessoas no cemitério ao lado. Alguém - ou algo - continua os esta
+ desenterrando. Não sei porquê. Quero dizer, que eu saiba eles não tem nada valioso com eles.}
+{161}{}{As sepulturas estão sendo violadas?}
+{162}{}{Como você sabe que eles não têm nada valioso com eles?}
+{163}{}{Provavelmente são apenas ratos. Deixe eu te perguntar sobre outra coisa.}
+{164}{}{Bem, eu não sei ao certo como... Uh, um. Eu só estava supondo. Sim, é isso. Ei, tome uma
+ cerveja grátis.}
+{165}{}{Eu não sei o que você está insinuando, mas eu não gosto disso.}
+{166}{}{Obrigado pela cerveja. O que quer dizer com algo que os está desenterrando?}
+{167}{}{Bem, me diga o que quer dizer quando fala que algo os está desenterrando.}
+{168}{}{Bem, eu nunca vi na hora, mas quase toda semana, uma ou outra sepultura é escavada
+ e um pouco desenterrada. Não sei direito quem que faria isso.}
+{169}{}{Isso é estranho.}
+{170}{}{Isso é perturbante. Agora os mineiros estão me dizendo que preferem descansar seus últimos
+ dias aqui dentro mesmo, em vez de serem enterrados só para serem puxados de volta como um nabo
+ maduro. Inferno, eu não me importaria de manter alguns lá dentro, mas não todos. Eu não sei o que fazer sobre isso.}
+{171}{}{Que imagem mais agradável, tenho certeza que vou acordar suando frio pensando nisso.
+ Deixe eu te perguntar outra coisa.}
+{172}{}{É um mistério, isso sim. Bem, te vejo por aí, Josh. Adeus.}
+{173}{}{Bem, eu acho que se cozinha-los... Ei, espere um minuto. Isso ainda é canibalismo! Você é um
+ doente mental, até mesmo para um tribal.}
+{174}{}{Relaxe, Josh. Eu estava só de brincadeira. Heh heh. Heck, nós apenas cozinhamos algumas partes.}
+{175}{}{Peças, eh? Quais partes exatamente?}
+{176}{}{Por que se importa? (você dá de ombros) Partes são partes.}
+{177}{}{Só estava brincando com você, Josh. Deixe eu te perguntar sobre outra coisa.}
+{178}{}{Sim, bem, acho que isso faz algum sentido.}
+{179}{}{Claro que sim. Ei, deixe eu te perguntar sobre outra coisa.}
+{180}{}{Falando nisso, ta me batendo uma fome. Até logo, Josh. Adeus.}
+{181}{}{Malditos marcianos. E eu te confundi com um maldito tribal. Bem, eu não me sinto
+ estúpido. No final, canibais são sempre canibais na minha opinião.}
+{182}{}{Ei, nós os cozinhamos primeiro. Não somos selvagens.}
+{183}{}{Solte minha perna, seu canibal! Eu preciso disso por um bom tempo de vida ainda. Vai encontrar
+ outro lanche.}
+{184}{}{Relaxe, você parece meio duro e pegajoso mesmo. Heh heh. Brincadeira... mais ou mesmo. Deixe eu
+ te perguntar outra coisa, Josh.}
+{185}{}{Bem, vou dar uma olhada. Mas se eu não encontrar nada melhor, volto. Até logo.}
+{186}{}{Precisa comprar a fazenda primeiro. Planejando comprar algum imóvel em breve?}
+{187}{}{Ei, nada de fazendas, de qualquer jeito. Deixe eu te perguntar outra coisa.}
+{188}{}{Pode ajudar um par de pessoas a comprar uma fazenda por aqui. Até logo, Josh.}
+{189}{}{Bem, acho que você vai começar dando o passaporte a alguém. Mas eu te aviso, o xerife
+ Marion não gosta desse tipo de comportamento.}
+{190}{}{Vou tentar me comportar. Deixe e te perguntar outra coisa, Josh.}
+{191}{}{Entendo... bem, pelo menos sei com quem falar se houver algum *acidente* infeliz. Adeus,
  Josh.}

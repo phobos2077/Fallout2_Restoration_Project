@@ -21,7 +21,7 @@
 {209}{}{Dřív jsem si myslel, že je Prezident jenom pověra na strašení malejch dětí.}
 {210}{}{Vypadáš jako někdo, kdo se právě vrátil z pekla. Odpočiň si na chvíli. Zasloužíš si to.}
 {211}{}{Budeš hrát hru znova za jinou postavu? Doporučuju zálesáka.}
-{212}{}{F.E.V.? Co je to?}
+{212}{}{FEV? Co je to?}
 {213}{}{New Reno bylo navrženo Chrisem Avellonem a naskriptováno Tomem Frenchem. Tom hraje v kapele a Chris si hraje sám se sebou.}
 {214}{}{Doufám, že ve Falloutu 3 dostanu nějakou hlavní roli jako třeba Tandi nebo Ian. Bejt gangster je o ničem.}
 {215}{}{Prej se ti podařilo zničit Enklávu. Máš velkou odvahu.}
@@ -109,7 +109,7 @@
 {374}{}{OPRAVDU mluvíš s bohem, když máš sex na place?}
 {375}{}{Mámá říká, že jseš nástroj ďábla.}
 {376}{}{Máma říká, že jseš hampejznice a nestydatá běhna. Nemám tušení, o čem to mluví.}
-{385}{}{Jdeš za tátou obchodně? No, tak to hodně štěstí. Myslím, že teď zrovna nikoho nepotřebuje.}
+{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
 {386}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {387}{}{Dávej si pozor, příteli. Jseš na území rodiny Wrightů.}
 {390}{}{Radši zmiz... nemáme rádi otrokáře.}
@@ -119,7 +119,7 @@
 {394}{}{Dám si na tebe pozor, otrokáři, takže radši nic nezkoušej, slyšíš?}
 {395}{}{Šáhni na nějaký děcko, otrokáři, a rozstřílím tě na malý kousíčky.}
 {396}{}{Šáhni na nějaký děcko, otrokáři, a zabiju tě.}
-{397}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
+{397}{}{Jestli sháníš alkohol, otrokáři, tak se zastav v železniční stanici.}
 {398}{}{Udělej něco kterýmukoliv Wrightovi, otrokáři, a naše rodina ti nedá pokoj, dokud neskončíš v Golgotě.}
 {399}{}{Jdeš za tátou obchodně? Myslím, že táta neobchoduje s otrokářema. Radši zmiz.}
 {410}{}{Radši zmiz... bez urážky, ale táta nemá divochy moc v lásce.}

@@ -29,7 +29,7 @@
 {125}{}{Auflisten (der Computer zeigt ein Liste mit Namen).}
 {126}{}{Wähle Benutzerkennung oder logge Dich aus:}
 {127}{}{(Dieser hat genehmigten Zugang.) Smith, J.}
-{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Passwort  Außerkraftsetzen der Sicherheitsfunktion .}
+{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Passwort Außerkraftsetzen der Sicherheitsfunktion .}
 {129}{}{(Dein Zugang ist besser, als ein normaler Zugang.) Murray, T.}
 {130}{}{(Dieser hat guten Zugang.) Curling, Dr. C.}
 {131}{}{(Dieser sieht aus, als ob er wirklich guten Zugang hat.) Bird, D.}
@@ -42,7 +42,7 @@
 {138}{}{Zurück zur Benutzerkennung:}
 {139}{}{Auswählen: }
 {140}{}{Sicherheitslevel: Derzeitiger Status,}
-{141}{}{Chemischer  Korps: Projektstatusreport,}
+{141}{}{Chemischer Korps: Projektstatusreport, }
 {142}{}{A. E. C.: Atomkraftwerk Operationen,}
 {143}{}{Sicherheitsstatus?}
 {144}{}{Sicherheit/Level: Derzeitiger Status}
@@ -54,7 +54,7 @@
 {150}{}{Status der Nation: Derzeitiger Status, }
 {151}{}{Wortliste, }
 {152}{}{Sicherheitslevel: Derzeitiger Status,}
-{153}{}{Chemischer  Korps: Projektstatusreport,}
+{153}{}{Chemischer Korps: Projektstatusreport, }
 {154}{}{A. E. C.: Atomkraftwerk Operationen,}
 {155}{}{Sicherheitsstatus?}
 {156}{}{Status der Nation: Derzeitiger Status}

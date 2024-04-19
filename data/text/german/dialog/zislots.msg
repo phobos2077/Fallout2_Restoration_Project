@@ -98,7 +98,7 @@
 {2200}{}{(Du hörst, dass sie dich auslacht.)}
 {2201}{}{*Hahaha, warum lässt du's nicht lieber bleiben, Kleiner.*}
 {2202}{}{*Vielleicht lässt du lieber jemand andern an meinem Hebel ziehen.*}
-{2203}{}{(Ein wahnsinniges Lachen entspringt der der Maschine).}
+{2203}{}{(Ein wahnsinniges Lachen entspringt der Maschine).}
 {2204}{}{(Du hörst, dass dich der Spielautomat auslacht.)}
 {2205}{}{(Der Spielautomat kichert.)}
 {2206}{}{*Komm schon, alter Verlierer, gib uns noch 'ne Chance.*}

@@ -16,7 +16,7 @@
 {119}{}{Estoy listo para la sagrada búsqueda.}
 {120}{}{Necesito algo más de información.}
 {121}{}{¡No voy a hacer que me maten!}
-{122}{}{¿Qué se supone que tenía que volver a hacer?}
+{122}{}{¿Qué se supone que tenía que hacer?}
 {123}{}{Me largo.}
 {124}{aeld5}{Esas son buenas noticias, pero no es suficiente para salvarnos. Debes volver pronto con el GECK o ¡nuestro pueblo morirá!}
 {125}{}{Necesito algo más de información.}
@@ -104,7 +104,7 @@
 {224}{}{Perdón, no eres una vieja zorra. Y ahora ¿qué está pasando aquí?}
 {225}{}{Como si pudieras ayudarme desde ahí. Que te jodan, muérete.}
 {226}{eeld9}{Vete. No eres mejor que estos demonios. Me arrepiento del día en que fuiste nombrada Elegida.}
-{227}{eeld10}{¿Por qué sigues aquí? Cada minuto que pierdas otro de los nuestros podría ser asesinado. ¡Y no olvides el GECK! Debemos conseguirlo.}
+{227}{eeld10}{¿Por qué sigues aquí? Cada minuto que desperdicies, más de nuestra gente puede ser aniquilada. ¡Y no olvides el GECK! Debemos conseguirlo.}
 {228}{}{¿¿Nuh??}
 {229}{}{¿A dónde se supone que debía ir?}
 {230}{}{Sólo quería cabrearte. Estoy en ello, no te preocupes.}

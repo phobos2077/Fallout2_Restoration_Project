@@ -6,8 +6,8 @@
 {122}{}{Dörk digglerr!}
 {123}{}{Te vagyol ki?}
 {124}{}{Marcus kérdezősködik felőled.}
-{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
-{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{Elég bizonyítékom van arra, hogy pénzt loptál melyet Broken Hills városának szántak. Le leszel tartóztatva. Mész a sittre!}
+{126}{}{Elég bizonyítékom van arra, hogy pénzt loptál Broken Hills városától. Le kellene tartóztassalak, de ha megkensz egy ezressel hagyom, hogy elmenekülj.}
 {127}{}{Ki vagy?}
 {128}{}{Meséljen erről a helyről!}
 {129}{}{Semmit. Viszlát!}
@@ -22,16 +22,14 @@
 {138}{}{Unalmas lehet.}
 {139}{}{Mást szeretnék kérdezni.}
 {140}{}{Köszönöm. Viszlát!}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Meséljek Broken Hillsről? Hát... Pár évvel ezelőtt jöttem ide. Munkát szereztem Billnél... ő a karavánmester... és azóta ott tartok, ahol most. Marcusnak és Billnek kell jelentenem. Én felelek a város élelmiszer-ellásátásért.}
 {142}{}{Mást szeretnék kérdezni.}
 {143}{}{Viszlát!}
 {144}{}{Úgymint?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
-{146}{}{Nothing really, Bye.}
+{146}{}{Semmi különös. Viszlát!}
 {147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
-{150}{}{I'm going to find out the truth. Bye.}
+{150}{}{Rá fogok jönni az igazságra. Viszlát.}
 {156}{}{Beszélj Billel! Ő tud segíteni.}
 {157}{}{Mást szeretnék kérdezni.}
 {158}{}{Köszönöm. Viszlát!}
@@ -57,7 +55,7 @@
 {202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
 {203}{}{Fine, goodbye.}
 {204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
-{205}{}{[DONE]}
+{205}{}{[RENDBEN]}
 {206}{}{Help! We have a thief on our hands here.}
 {207}{}{}
 {208}{}{What the!? Who the hell are you?}

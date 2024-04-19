@@ -37,14 +37,14 @@
 {321}{}{Köszönöm, Smitty. Probléma egy szál se. Viszlát!}
 {322}{}{Nos, öööö... Köszönöm, de már voltam a Mamánál, és kajáltam is, úgyhogy erre már nincs szükségem.}
 {323}{}{Hoppá, nem én vagyok a szokásos kihordó fiú. Éppen megbetegedett. Azért kaphatok néhány tapasztalati pontot?}
-{324}{}{OK, sorry about the mix-up. I hope Mom doesn't fire me! I really need this job.}
+{324}{}{Oké, elnézést a zűrzavarért. Remélem, a Mama nem fog kirúgni! Nagyon kell ez a meló.}
 {325}{}{Tudod, hogy nálunk már nem megy ez az ingyen-kaja-éjfél-után dolog, ugye?}
 {326}{}{Na, akkor megeszem én.}
 {327}{}{A Mama nem lesz túl boldog ettől.}
 {330}{}{Amint láthatod, ez az autóm, egy Chrysalis Motors Highwayman. Gyönyörű. Régen azt mondták "Semmi sem állíthat meg egy Highwaymant."  Strapabíró jószág, így tervezték őket.}
 {331}{}{Aha, és mit csináljak vele?}
 {340}{}{Azt hittem, csak egy aksi kell bele, de kiderült, hogy egy üzemanyag-cella vezérlőre van szükség. Ezek a vackok állandóan elromlanak bennük.}
-{341}{}{Well, I've got one of those.}
+{341}{}{Nos, éppen van egy olyan}
 {350}{}{Rendben? Van egy ajánlatom. 2000 dollárért tiéd az autó. Ráadásul még az üzemanyag-cella vezérlőt is beszerelem neked. Olyan lesz, mint új korában. Sőt, akár fel is töltöm néhány mikro-fúziós cellával.}
 {351}{}{Jól hangzik. Tessék, a pénz, és az alkatrész.}
 {352}{}{Azt hiszem, most még nem akarom. Hadd kérdezzek valami mást, Smitty!}

@@ -130,6 +130,9 @@ procedure Node996;
 #define karl_known                                 lvar_bit(LVAR_Flags, karl_known_bit)
 #define set_karl_known                             set_lvar_bit_on(LVAR_Flags, karl_known_bit)
 
+#define DISCOUNT_NORMAL                            (-50)
+#define DISCOUNT_HUGE                              (-75)
+
 import variable modoc_jo_box_obj;
 import variable generic_temp_box;
 import variable modoc_jo_obj;
@@ -302,6 +305,18 @@ procedure pickup_p_proc begin
    end
 end
 
+procedure start_dialog_at(variable node) begin
+   move_obj_inven_to_obj(self_obj, generic_temp_box);
+   move_obj_inven_to_obj(modoc_jo_box_obj, self_obj);
+      start_gdialog(NAME, self_obj, 4, -1, -1);
+      gSay_Start;
+         call node;
+      gSay_End;
+      end_dialogue;
+   move_obj_inven_to_obj(self_obj, modoc_jo_box_obj);
+   move_obj_inven_to_obj(generic_temp_box, self_obj);
+end
+
 procedure talk_p_proc begin
    script_overrides;
    if (slags_killed_by_townspeople) then begin
@@ -311,41 +326,20 @@ procedure talk_p_proc begin
    end else if (angry) then begin
       floater(331);
    end else if (get_ending_state == ending_state_happy) then begin
-      move_obj_inven_to_obj(self_obj,generic_temp_box);
-      move_obj_inven_to_obj(modoc_jo_box_obj,self_obj);
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            call Node090;
-         gSay_End;
-         end_dialogue;
-      move_obj_inven_to_obj(self_obj,modoc_jo_box_obj);
-      move_obj_inven_to_obj(generic_temp_box,self_obj);
+      gdialog_set_barter_mod(DISCOUNT_HUGE if shelf_unlocked else DISCOUNT_NORMAL);
+      call start_dialog_at(@Node090);
    end else if (attack_time_set) then begin
-      move_obj_inven_to_obj(self_obj,generic_temp_box);
-      move_obj_inven_to_obj(modoc_jo_box_obj,self_obj);
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            call Node003;
-         gSay_End;
-         end_dialogue;
-      move_obj_inven_to_obj(self_obj,modoc_jo_box_obj);
-      move_obj_inven_to_obj(generic_temp_box,self_obj);
+      call start_dialog_at(@Node003);
    end else begin
-      move_obj_inven_to_obj(self_obj,generic_temp_box);
-      move_obj_inven_to_obj(modoc_jo_box_obj,self_obj);
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            if ((herebefore == false) and (dude_is_married == false)) then begin
-               call Node000;
-            end else if (ghost_farm_seed_active) then begin
-               call Node002;
-            end else begin
-               call Node001;
-            end
-         gSay_End;
-         end_dialogue;
-      move_obj_inven_to_obj(self_obj,modoc_jo_box_obj);
-      move_obj_inven_to_obj(generic_temp_box,self_obj);
+      variable node;
+      if ((herebefore == false) and (dude_is_married == false)) then begin
+         node := @Node000;
+      end else if (ghost_farm_seed_active) then begin
+         node := @Node002;
+      end else begin
+         node := @Node001;
+      end
+      call start_dialog_at(node);
       set_herebefore;
    end
 end
@@ -725,7 +719,7 @@ procedure Node061 begin
 end
 procedure Node062 begin
    ndebug("Node062");
-   gdialog_set_barter_mod(-50);
+   gdialog_set_barter_mod(DISCOUNT_NORMAL);
    Reply(277);
    mark_gecko_on_map //added by killap
    NOption(278,Node063,-003);
@@ -824,7 +818,7 @@ end
 procedure Node076 begin
    ndebug("Node076");
    set_shelf_unlocked;
-   gdialog_set_barter_mod(-75);
+   gdialog_set_barter_mod(DISCOUNT_HUGE);
 //   set_ghost_farm_seeds_inactive; //not needed here - now done just once in Karl's script (last thing left for ghost quest)
    Reply(304);
    mark_gecko_on_map //added by killap

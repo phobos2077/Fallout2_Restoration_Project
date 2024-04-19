@@ -1,6 +1,6 @@
-{100}{}{You see a man strumming a lute.}
-{101}{}{This is Joshua.}
-{102}{}{He is a traveling minstrel.}
+{100}{}{Ez a férfi éppen egy lanton pötyögtet.}
+{101}{}{Ő itt Joshua.}
+{102}{}{Egy vándor kobzos.}
 {103}{}{Robin a bátor elszaladt...}
 {104}{}{Bátran elfutott, el ő...}
 {105}{}{A vész láttán, ahogy tudott, farkát behúzva elfutott.}

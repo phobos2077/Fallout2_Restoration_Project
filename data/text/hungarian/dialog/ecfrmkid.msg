@@ -6,6 +6,6 @@
 {105}{}{Vhaaa!}
 {106}{}{Anyúú!}
 {107}{}{Apuuu!}
-{200}{}{You see a young child.}
-{201}{}{It's a little boy.}
-{202}{}{It's a little girl.}
+{200}{}{Egy fiatal kislányt látsz.}
+{201}{}{Egy kisfiú.}
+{202}{}{Kislány.}

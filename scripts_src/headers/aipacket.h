@@ -211,7 +211,7 @@
 #define AI_PARTY_CATJULES_DEFENSIVE             (194)
 #define AI_PARTY_CATJULES_COWARD                (195)
 #define AI_PARTY_CATJULES_CUSTOM                (196)
-#define AI_PARTY_DEX_BERSERK               		(197)
+#define AI_PARTY_DEX_BERSERK                    (197)
 #define AI_PARTY_DEX_AGGRESSIVE                 (198)
 #define AI_PARTY_DEX_DEFENSIVE                  (199)
 #define AI_PARTY_DEX_COWARD                     (200)

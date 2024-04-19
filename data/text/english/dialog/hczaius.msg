@@ -42,7 +42,8 @@
 
 {128}{}{You again, eh?}
 {129}{}{Ork! Ooo! Ug ug!}
-{130}{}{Hi! HIIIII! Me (name)!}
+{130}{}{Hi! HIIIII! Me }
+{1130}{}{!}
 
 {131}{}{Pal, I already gave you some money. Go bother someone else, eh?}
 

@@ -51,7 +51,7 @@
 {150}{}{Perícias}
 {151}{}{As perícias são conhecimentos aprendidos. Aumentam por experiência. Quanto maior o nível, melhor você está naquela habilidade.}
 {152}{}{ESCOLHA UMA CARACTERÍSTICA}
-{153}{}{ESCOLHA UMA NOVA CARACTERISTICA}
+{153}{}{ESCOLHA UMA NOVA CARACTERÍSTICA}
 {154}{}{ELIMINE UMA CARACTERÍSTICA}
 {155}{}{ESCOLHA UMA PERÍCIA}
 {156}{}{CARACTERÍSTICAS}
@@ -169,7 +169,7 @@
 {1001}{}{Possuído}
 {1002}{}{Campeão}
 {1003}{}{Assassino de crianças}
-{1004}{}{Víciado em Nuka Cola}
+{1004}{}{Víciado em Nuka-Cola}
 {1005}{}{Víciado em Buffout}
 {1006}{}{Víciado em Mentats}
 {1007}{}{Víciado em Psycho}

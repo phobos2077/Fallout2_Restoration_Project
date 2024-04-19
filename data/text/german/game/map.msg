@@ -180,7 +180,7 @@
 {309}{}{Vault: Ebene 2}
 {310}{}{Vault: Ebene 3}
 {311}{}{Siedler}
-{312}{}{}
+{312}{}{Siedler}
 {313}{}{}
 {314}{}{Siedler}
 {315}{}{}
@@ -527,7 +527,7 @@
 {656}{}{Keller}
 {657}{}{enter name}
 {658}{}{enter name}
-{659}{}{Cave}
+{659}{}{Höhle}
 {660}{}{enter name}
 {661}{}{enter name}
 {662}{}{Dorf}

@@ -33,9 +33,7 @@
 {132}{}{Programme génétique.}
 {133}{}{Notes personnelles récentes.}
 {134}{}{[Retour]}
-{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-Dr. Long: Recently deceased via FEV serum.}
+{135}{}{Docteur Wong : Nouveau chef du projet Biologie, travaillant également dans la recherche en physique. Docteur Sheng : Chef du projet Biologie jusqu'à il y a deux mois. Depuis, mis à part un mois sabbatique à mettre sur le compte de la " désensibilisation au sérum botanique ", son absence reste inexplicable. Le Docteur Wong dirige le Programme de biologie. Docteur Long : Récemment décédé à cause du sérum FEV.}
 {136}{}{Programme botanique.}
 {137}{}{Programme génétique.}
 {138}{}{Programme Xeno.}

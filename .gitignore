@@ -17,7 +17,13 @@ release/ddraw.dll
 release/ddraw.ini
 release/sfall-mods.ini
 release/translations/
-release/mods/
+
+release/mods/*
+!release/mods/elevators.ini
+!release/mods/f2_res.dat
+!release/mods/rpu.ini
+!release/mods/upu.ini
+!release/mods/mods_order.txt
 
 extra/bin/*
 !extra/bin/dat2.exe

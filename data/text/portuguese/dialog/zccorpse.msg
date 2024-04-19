@@ -1,3 +1,3 @@
-{100}{}{You see one unlucky sonuvabitch.}
-{101}{}{This person seems to have died a very gruesome death.}
-{102}{}{That must've hurt.}
+{100}{}{Você vê um filho da puta azarado.}
+{101}{}{Esta pessoa parece ter tido uma morte muito horrível.}
+{102}{}{Isso deve ter doido.}

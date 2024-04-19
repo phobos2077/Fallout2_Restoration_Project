@@ -41,7 +41,7 @@
 {255}{}{Aighhhhhhhh... J'ai été touché...}
 {270}{}{Canigou de Fallout 1 me manque.}
 {271}{}{Tu crois qu'il va y'avoir un Fallout 3 ? J'veux être le héros dans celui-là !}
-{272}{}{Fallout 2 vous a été présenté par Nuka Cola.}
+{272}{}{Fallout 2 vous a été présenté par Nuka-Cola.}
 {273}{}{L'Enclave peut aller se faire voir. Quels abrutis.}
 {274}{}{L'Enclave était vraiment que des gueules d'abrutis, hein ? C'est clair.}
 {275}{}{T'as eu peur quand t'as rencontré le Président ? Avait-il des griffes et des grandes dents ?}

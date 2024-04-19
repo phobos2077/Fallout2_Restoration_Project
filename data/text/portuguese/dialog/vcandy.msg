@@ -1,6 +1,6 @@
-{100}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutanea vermelha e clara, a qual ele esfrega frequentemente.}
+{100}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutânea vermelha e clara, a qual ele esfrega frequentemente.}
 {101}{}{Você vê o "Doutor" Andrew.}
-{102}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutanea vermelha e clara, a qual ele esfrega frequentemente.}
+{102}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutânea vermelha e clara, a qual ele esfrega frequentemente.}
 {103}{}{Parece que você presenciou uma bela de uma briga...}
 {104}{}{Opa... parece que você viu uma ação de verdade, amigão.}
 {105}{}{Puxa...parece que você esteve em uma briga séria...}
@@ -72,7 +72,7 @@
 {171}{}{Tudo certo.}
 {172}{}{Eu não sei... Está um pouco caro. Que tal }
 {173}{}{ mangos?}
-{174}{}{Can you heal just me instead?}
+{174}{}{Você pode me curar em vez disso?}
 {175}{}{O que é este lugar?}
 {176}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
 {177}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
@@ -80,7 +80,7 @@
 {179}{}{Bem... tudo bem. Isso parece justo.}
 {180}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {181}{}{Apagar-se por 3 segundos}
-{182}{}{There, all stitched up! Knew the ol' Doctor still had some life left in 'im.}
+{182}{}{Pronto, tudo costurado! Eu sabia que o velho Doutor ainda daria pro gasto.}
 {183}{}{Valeu. Há outra coisa que eu precisava...}
 {184}{}{Apreciei bastante. Nós voltaremos algum dia.}
 {185}{}{Este é o hospital da plebe de Vault City. Entretanto eu e o ol'Doctor ali atrás também precisamos de alguns cuidados.}
@@ -216,7 +216,7 @@
 {315}{}{Bem... tudo bem. Isso parece justo.}
 {316}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {317}{}{Apagar-se por 3 segundos}
-{318}{}{Hmmph. Parece que o Doctor esta teimando de novo. Pedaço de lixo... ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcione melhor da próxima vez.}
+{318}{}{Hmmph. Parece que o o Doctor está teimando de novo. Pedaço de lixo... ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcione melhor da próxima vez.}
 {319}{}{O qu...? Eu quero meu dinheiro de volta!}
 {320}{}{Oh, bem, espero que sim. Olha, eu preciso de mais uma coisa...}
 {321}{}{É, talvez. Estou indo.}

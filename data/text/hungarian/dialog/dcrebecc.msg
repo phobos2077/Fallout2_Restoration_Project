@@ -136,15 +136,14 @@
 {471}{}{Ó.}
 {480}{}{Ja, és azt mondta, adjam ezt oda neked. Ez a Hendee család ajándéka. Remélem, ez segít neked valamicskét.}
 {481}{}{Mi az?}
-{490}{}{Oh, just a few trinkets. Here you go. [Becky hands you $1000, 5 Stimpaks,
- Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
+{490}{}{Csak pár apróság. Tessék... [Becky átad neked ezer dollárt, 5 Stimpakkot, egy fémpáncélt, egy Uzit, 5 tárat hozzá, egy plazmagránátot, és egy szál virágot]}
 {491}{}{Köszönöm!}
 {500}{}{Szívesen, csak eltettem neked pár dolgot. Jobb, ha most visszatérek a munkámhoz.}
 {501}{}{Köszönöm, viszlát!}
 {510}{}{Nem hallasz? Meghalt! Tudom, örülnem kéne, mert gonosz egy ember volt, annyi szent.}
 {511}{}{Nem mondom, jól küzdött.}
 {512}{}{Volna egy kérdésem.}
-{513}{}{Yes, he was. Goodbye.}
+{513}{}{Igen. Viszlát!}
 {514}{}{ ÖL!}
 {520}{}{Micsoda? Te? Nem is tudom, mit mondjak. Annyira gonosz ember volt...}
 {521}{}{Egy sima köszönöm bőven elég lesz.}
@@ -154,10 +153,10 @@
 {532}{}{Nagyon köszönöm.}
 {533}{}{Kösz!}
 {534}{}{Úg!}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Csodálatos ember vagy. Még akkor is, ha nem tudom neked elnézni, amiket tettél. 
+ Nagy szolgálatot tettél az emberiségnek.}
+{541}{}{Csodálatos ember vagy. Még akkor is, ha nem tudom neked elnézni, amiket tettél. 
+ Nagy szolgálatot tettél az emberiségnek.}
 {542}{}{Kösz.}
 {550}{}{Nem látunk itt szívesen. Menj el, kérlek!}
 {551}{}{Kérlek, menj el!}

@@ -1,4 +1,4 @@
-{100}{}{You see a lean, tan looking woman.}
+{100}{}{Egy szikár, napbarnított nőt látsz.}
 {101}{}{Egy farmert látsz.}
 {102}{}{A farmerekre jellemző napcserzett bőre van.}
 {200}{}{Ez a házam.}

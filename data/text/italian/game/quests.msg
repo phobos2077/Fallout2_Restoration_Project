@@ -31,7 +31,7 @@
 {405}{}{Farrel ha un problema con i roditori nel suo giardino. Rimuovi l'infestazione.}
 {406}{}{Consegna il messaggio degli Slag a Jo di Modoc.}
 {407}{}{Jo ha dei sospetti sugli Slag. Scopri l'origine dei cadaveri alla Fattoria Fantasma e scopri cos'e' successo a Karl.}
-{408}{}{Vai al Den e di' a  Karl che puo' tornare a casa.}
+{408}{}{Vai al Den e di' a Karl che puo' tornare a casa.}
 {409}{}{Fa' la guardia ai brahmin di Grisham.}
 {500}{}{Trova un aratro per Mr. Smith.}
 {501}{}{Consegna la valigetta di Moore a Mr. Bishop di New Reno.}

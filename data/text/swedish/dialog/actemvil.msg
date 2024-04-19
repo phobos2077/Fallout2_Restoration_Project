@@ -59,7 +59,7 @@
 {150}{}{Just say hello. Me go now.}
 {151}{}{I'd like to visit the temple again.}
 {152}{}{Hello, Cameron. Ready for another fight?}
-{153}{}{Just thought I'd say hi. See you later.}
+{153}{}{Jag tänkte bara säga hej. Vi ses senare.}
 {154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
  The cave entrance behind me will return you to the last chamber.}
 {155}{}{Okay, me go.}

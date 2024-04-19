@@ -28,7 +28,7 @@
 {230}{}{(Cody sigue mirándote fijamente).}
 {231}{}{Eh... ¿estás bien, Cody?}
 {239}{}{Bien, nos vemos, Cody. Cuídate.}
-{251}{}{Oye, Cody. ¿Quieres una nuka cola?}
+{251}{}{Oye, Cody. ¿Quieres una Nuka-Cola?}
 {252}{}{¿Una cervecita, chaval? Mi madre solía decir que nunca se es demasiado joven para empezar. Eh, cuando estaba sobria, claro.}
 {253}{}{Tengo algo de Jet por aquí, Cody. ¿Te apetece volar con el tío }
 {254}{}{Tengo algo de Jet por aquí, Cody. ¿Te apetece volar con la tía }
@@ -55,7 +55,7 @@
 {293}{}{Oh, DE VERAS... bien, ¿sabes qué va a pasar ahora, Cody? El hombre malo que robó el coche de }
 {294}{}{Oh, ¿de verdad? Bien, ya trataré con él más tarde. ¿Puedes llevarme hasta el coche ahora?}
 {300}{}{(Cody se encoge de hombros).}
-{301}{}{ ¿Puedes llevarme hasta el coche ahora?}
+{301}{}{¿Puedes llevarme hasta el coche ahora?}
 {302}{}{Bien, sólo era curiosidad. Adiós.}
 {310}{}{(Cody asiente de nuevo, y se larga corriendo).}
 {311}{}{(Corres tras él).}

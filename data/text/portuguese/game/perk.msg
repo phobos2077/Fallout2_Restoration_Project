@@ -55,7 +55,7 @@
 {155}{}{Viciado em buffout}
 {156}{}{Viciado em Mentats}
 {157}{}{Viciado em Psycho}
-{158}{}{Viciado em Radaway}
+{158}{}{Viciado em RadAway}
 {159}{}{Arma de longo alcance}
 {160}{}{Precisao da arma}
 {161}{}{Penetracao da arma}
@@ -98,7 +98,7 @@
 {198}{}{Anatomia Vital}
 {199}{}{Personalidade Magnetica}
 {200}{}{Negociador}
-{201}{}{Pack Rat}
+{201}{}{Acumulador}
 {202}{}{Piromaniaco}
 {203}{}{Recuperaçao Rapida}
 {204}{}{Vendedor}
@@ -189,7 +189,7 @@
 {1168}{}{Arma Lança Chamas}
 {1169}{}{Armadura Avançada I}
 {1170}{}{Armadura Avançada II}
-{1171}{}{Tudo esta se movendo tao devagar... voce precisa de mais um jet, AGORA!}
+{1171}{}{Tudo esta se movendo tão devagar... você precisa de mais um jet, AGORA!}
 {1172}{}{Voce sente um desejo forte de abrir outra caixa de cartas de Tragic.}
 {1173}{}{Armadura de Carisma}
 {1174}{}{Voce tem o conhecimento de como esfolar geckos corretamente para conseguir peles.}

@@ -1,10 +1,10 @@
-{100}{}{You see a sleazy cash tender.}
-{101}{}{He looks like he would buy just about anything to get people to gamble here.}
-{102}{}{Wah d'ya want?}
-{103}{}{I want to trade some things in.}
+{100}{}{Você vê um negociante de dinheiro desprezível.}
+{101}{}{Ele parece que compraria qualquer coisa só para levar as pessoas para jogar aqui.}
+{102}{}{Que procura?}
+{103}{}{Eu quero negociar algumas coisas.}
 {104}{}{Nada.}
-{105}{}{want shinies.}
-{106}{}{go bye-bye.}
+{105}{}{Que coisas que brilham.}
+{106}{}{Eu vou indo.}
 {107}{}{Mais alguma coisa?}
-{108}{}{I've got some more things to trade in.}
-{109}{}{want mor shinies.}
+{108}{}{Tenho mais algumas coisas para negociar.}
+{109}{}{Quero mais coisas que brilham.}

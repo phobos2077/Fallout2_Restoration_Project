@@ -236,7 +236,7 @@
 {496}{}{J'ai ressenti un grand bouleversement... Comme si les voix de centaines de bâtards sur une plateforme pétrolière avaient soudainement hurlé de terreur...
  Puis s'étaient éteintes aussitôt... Etrange.}
 {497}{}{Bravo pour avoir vaincu L'Enclave, }
-{498}{}{Fallout 2 vous a été présenté par Interplay productions, le studio Black Isle, et la compagnie Nuka Cola.}
+{498}{}{Fallout 2 vous a été présenté par Interplay productions, le studio Black Isle, et la compagnie Nuka-Cola.}
 {499}{}{Tim Cain nous manque. Il avait l'habitude de faire du délicieux pain. Et il nous donnait la fessée comme aux petits enfants.}
 {500}{}{Ouais ouais, je suis l'Avatar, moi aussi.}
 {501}{}{New Reno a été créée par Chris Avellone et Tom French. La rumeur dit qu'ils vont se marier bientôt.}

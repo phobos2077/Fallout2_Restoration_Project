@@ -25,7 +25,7 @@
 {124}{}{Uuh. Schüssi.}
 {125}{lyn004}{Ahhhh... ja, ja. Immer wenn du eine Umarmung brauchst, kommst du zu Tante Lynette, ja?}
 {126}{}{Okeee-Dokeee}
-{127}{}{Bye-bye.}
+{127}{}{Tschüssi!}
 {128}{lyn005}{Wie hinterhältig! Wie gemein! Wussten die denn nicht, was für eine Gemeinschaft wir hier aufgebaut haben?}
 {129}{}{Vielleicht ist das eine gute Lehre, Lynette. Von der Welt abgeschnitten war die Regierung bereit, euch zu zerstören, ohne sich über den Wert eurer Gemeinschaft zu kümmern. Vielleicht sollte Vault City auch noch mal einen Blick auf die restliche Welt werfen und sich Gedanken über ihren Platz darin machen.}
 {130}{}{Hinterhältig und gemein, vielleicht. Ich weiß nur, dass sie Wahnsinns-Waffen hatten. Wiedersehn, Erstbürgerin.}
@@ -56,7 +56,7 @@
 {155}{lyn011}{Sei gegrüßt, Fremdling. Ich bin die Erstbürgerin Lynette. Darf ich fragen, was dich hierher führt?}
 {156}{}{Heerführ? Heeehhrfüa?}
 {157}{}{Eer!}
-{158}{}{Bye-bye.}
+{158}{}{Tschüssi!}
 {159}{}{Ich suche ein Garden-Eden-Creation-Kit. Hast du eins?}
 {160}{}{Ich suche ein Garden-Eden-Creation-Kit, Erstbürgerin. Hat deine Stadt eins, das ich vielleicht kaufen könnte?}
 {161}{}{Bist du der... Aufseher dieser Vault?}
@@ -197,7 +197,7 @@
 {296}{}{Wenn das hier nicht die richtige Vault ist, dann muss ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
 {297}{}{Ich muss jetzt weg. Schönen Tag noch.}
 {298}{lyn036a}{Dorf? Aber du hast doch einen Vaultanzug an... was für ein Dorf denn? Drück dich gefälligst klar aus: so langsam verliere ich die Geduld.}
-{299}{lyn036b}{Dorf? Zuerst erzählst du mir, du kommst aus einer Vault, jetzt sagst du, du kommst aus einem Dorf. Also wie jetzt?! Langsam hab ich genug von deinem Gefasel. }
+{299}{lyn036b}{Dorf? Zuerst erzählst du mir, du kommst aus einer Vault, jetzt sagst du, du kommst aus einem Dorf. Also wie jetzt?! Langsam hab ich genug von deinem Gefasel.}
 {300}{}{Moment mal, du verstehst mich falsch. Der Vaultbewohner hat mein Dorf gegründet.}
 {301}{}{Ich hab langsam genug von DIR, Frau. Hol jemanden her... jemanden, der mir helfen kann.}
 {302}{}{Ich hab langsam genug von DIR. Hol jemanden her... jemanden, der mir helfen kann.}
@@ -243,7 +243,7 @@
 {342}{}{Ich weiß nicht... Ist der Bürgerschaftstest nicht eine Standardprozedur?}
 {343}{}{Ich glaub nicht, dass ich mich für so einen Job eigne... Tschüss.}
 {344}{}{Nein danke, ich geh jetzt besser. Schönen Tag noch, Erstbürgerin.}
-{345}{lyn045}{Sie waren Mörder, alle beide. Boyarsky wurde vor 10 Jahren ins Exil geschickt, und Richard Moreau kurz nachdem wir aus dem Vault kamen. Die Bürgerschaft ist ein heiliger Bund - innerhalb dieser Mauern werden keine Verbrechen geduldet.}
+{345}{lyn045}{Sie waren Mörder, alle beide. Boyarsky wurde vor 10 Jahren ins Exil geschickt, und Richard Moreau kurz nachdem wir aus der Vault kamen. Die Bürgerschaft ist ein heiliger Bund - innerhalb dieser Mauern werden keine Verbrechen geduldet.}
 {346}{}{Wenn das hier nicht die richtige Vault ist, dann muss ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
 {347}{}{Wie kann man denn Bürger werden?}
 {348}{}{Ich hab jetzt genug gehört. Ich muss gehen.}
@@ -357,7 +357,7 @@
 {456}{}{Alles klar. Ich komm später wieder.}
 {457}{}{Na gut. Schönen Tag noch, Erstbürgerin.}
 {458}{lyn067a}{Du hast das Problem also NICHT gelöst? }
-{459}{lyn067b}{Wenn du  immer noch Bürger werden willst, kümmer dich darum.}
+{459}{lyn067b}{Wenn du immer noch Bürger werden willst, kümmer dich darum.}
 {460}{}{Wenn ich das richtig verstehe, habt ihr hier in Vault City, das nötige Ersatzteil für die Reparatur des Kraftwerks.}
 {461}{}{Alles klar. Ich komm später wieder.}
 {462}{}{Na gut. Schönen Tag noch, Erstbürgerin.}
@@ -447,7 +447,7 @@
 {546}{}{Äh... sicher doch. Tut mir leid. Ich hätte da noch ein paar Fragen...}
 {547}{}{Verstanden. Ich geh jetzt.}
 {548}{}{Entschuldige bitte, Erstbürgerin. Schönen Tag noch.}
-{549}{lyn085}{*Natürlich* behandelt er nur Bürger. Es wäre ja wohl zuviel verlangt, wenn er auch noch Outsider behandeln müsste... dafür ist der Autodoc im Vorhof zuständig.}
+{549}{lyn085}{*Natürlich* behandelt er nur Bürger. Es wäre ja wohl zuviel verlangt, wenn er auch noch Outsider behandeln müsste... dafür ist der Auto-Doc im Vorhof zuständig.}
 {550}{}{Och, dich wird vielleicht interessieren, dass der Doktor mich gebeten hat, illegale Drogen für ihn in die Stadt zu schmuggeln.}
 {551}{}{Oh. Also, ich hab da noch ein paar Fragen...}
 {552}{}{Ja, wenn man sich den leisten kann... und dann ist auch nicht sicher, dass man an einem Stück wieder rauskommt.}

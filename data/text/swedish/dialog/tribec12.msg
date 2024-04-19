@@ -7,7 +7,7 @@
 {106}{}{I am on a quest for the Holy GECK. Do you know anything about this?}
 {107}{}{I am looking for a missing woman. She's the sister of my friend, Sulik.}
 {108}{}{Is there anything else that needs to be done around here?}
-{109}{}{Nevermind. Bye.}
+{109}{}{Det är inte viktigt. Hej då.}
 {110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
 {111}{}{Let me ask you something else.}
 {112}{}{That's all I need to know. Bye.}

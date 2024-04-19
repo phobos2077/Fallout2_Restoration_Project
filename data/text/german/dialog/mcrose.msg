@@ -12,7 +12,7 @@
 {158}{}{Du musst hier doch so einiges mitkriegen. Kann ich dir ein paar Fragen stellen?}
 {159}{}{[Du schmatzt die Lippen mit einem lauten PLOPP]}
 {160}{}{Wie schön, dich wiederzusehen! Was kann ich für dich tun?}
-{165}{}{Herrjeh! Du bist es! Die ganze Stadt spricht davon, wie du dein Leben riskiert hast, um das Geheimnis der Geisterfarm zu lüften. Du bist hier jederzeit willkommen und sämtliche Mahlzeiten gehen selbstverständlich aufs Haus.  Du kannst auch die Fundsachen-Kiste durchsuchen und dir was als besondere Belohnung aussuchen.}
+{165}{}{Herrjeh! Du bist es! Die ganze Stadt spricht davon, wie du dein Leben riskiert hast, um das Geheimnis der Geisterfarm zu lüften. Du bist hier jederzeit willkommen und sämtliche Mahlzeiten gehen selbstverständlich aufs Haus. Du kannst auch die Fundsachen-Kiste durchsuchen und dir was als besondere Belohnung aussuchen.}
 {166}{}{Der Held von Modoc! Willkommen zurück.}
 {167}{}{Ich hätte jetzt wirklich gern eines deiner köstlichen Omeletts.}
 {168}{}{Das hör ich gerne. So ein junger Mann muss ordentlich essen. Und ich sehe doch, dass du in letzter Zeit nichts Richtiges gegessen hast. Setz dich hin und wirf einen Blick auf die Speisekarte.}
@@ -65,7 +65,7 @@
 {215}{}{Moment, ich hab immer noch Hunger.}
 {216}{}{GECK sagst du? Nein, nicht dass ich wüsste. Ich kenne ein gutes Suppenrezept, für das man drei Geckos braucht. Aber ein GECK? Nein, hab ich noch nie gehört.}
 {217}{}{[Sie schaudert.] Halt dich von dort fern! Ich hab von Reisenden Geschichten über verwesende Leichen gehört, die an Pfählen angebunden sind und leuchtende Gestalten, die nachts durch die Felder streifen. Ich weiß nicht, wieviel davon wahr ist, aber ich weiß, dass Karl vor einer Weile dorthin gezogen ist und seitdem hat ihn keiner mehr gesehen.}
-{218}{}{Ah, du hattest das Wüsten-Omelett. Köstlich, nicht wahr?  Manche Leute behaupten, es habe heilende Wirkung. [Sie sieht sich nervös um.] Oh! Da sind Kunden. Ich komm gleich wieder. [Hmm... Sie hat deine Frage nicht beantwortet.]}
+{218}{}{Ah, du hattest das Wüsten-Omelett. Köstlich, nicht wahr? Manche Leute behaupten, es habe heilende Wirkung. [Sie sieht sich nervös um.] Oh! Da sind Kunden. Ich komm gleich wieder. [Hmm... Sie hat deine Frage nicht beantwortet.]}
 {220}{}{Unsere Burger bestehen nur aus bestem Hund, Klasse A. Das Fleisch wird durch den Wolf gedreht und zu Halbpfund-Frikadellen geformt. Und ihr einzigartiges Räucheraroma erhalten sie, indem Sie langsam über getrocknetem Brahmin-Dung gegrillt werden.}
 {221}{}{Du armes Ding. Du siehst ja halb verhungert aus. Setz dich und lass Rose dir was zu essen bringen. [Sie verschwindet und kommt mit einem riesigen Omelett zurück.] So, du rührst dich nicht von der Stelle, bis der Teller blitzblank ist.}
 {222}{}{Bedaure, wir sind ausgebucht. Eine Handelskarawane hat sämtliche Räume gemietet.}

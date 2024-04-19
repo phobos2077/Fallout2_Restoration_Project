@@ -2,9 +2,11 @@
 
 set -xeu -o pipefail
 
+# shellcheck disable=SC2154  # from env.sh
 scripts_dir="$release_dir/data/scripts"
 
 mkdir -p "$scripts_dir"
+# shellcheck disable=SC2154  # from env.sh
 7zr e "$mpack_7z" example_mods/AmmoMod/gl_ammomod.int
 mv gl_ammomod.int "$release_dir/"
 

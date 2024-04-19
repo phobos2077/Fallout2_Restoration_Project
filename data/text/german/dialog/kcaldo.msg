@@ -34,7 +34,7 @@
 {601}{}{Was ist ein Gecko?}
 {602}{}{Oh, danke, ich glaube, das reicht fürs erste.}
 {603}{}{Interessant. Ich habe allerdings noch eine andere Frage.}
-{650}{}{Ein Gecko ist eine große Echse, die von den Fallenstellern hier in der Gegend wegen ihres Fleisches  und ihrer Haut gejagt wird. Aber es ist ziemlich anstrengend, diese verdammten Viecher zu fangen und auch gefährlich. Mein Freund, ich rate dir...lass die Finger davon. Der Aufwand lohnt sich nicht.}
+{650}{}{Ein Gecko ist eine große Echse, die von den Fallenstellern hier in der Gegend wegen ihres Fleisches und ihrer Haut gejagt wird. Aber es ist ziemlich anstrengend, diese verdammten Viecher zu fangen und auch gefährlich. Mein Freund, ich rate dir...lass die Finger davon. Der Aufwand lohnt sich nicht.}
 {651}{}{Oh, danke, ich glaube, das reicht fürs erste.}
 {652}{}{Hmm. Noch eine Frage, Aldo.}
 {700}{}{Du kannst im Buckner-Haus und auch im Goldenen Gecko einkaufen und Sachen verkaufen. Manchmal gibt es dort sogar heilende Kräuter - nicht, dass ich welche für meinen (hick) Zustand kriegen würde. Die beiden Inhaber sind richtige Geizhälse. Wenn du nur ein bisschen zu spät (hick) zahlst, wirst du gleich zum Teufel gejagt.}

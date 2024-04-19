@@ -1939,6 +1939,7 @@ procedure Node093 begin
    set_local_var(LVAR_Gave_Stuff,1);
    //add sulik stuff to player inventory
    inven_unwield(self_obj);
+   art_change_fid_num(self_obj, FID_NMWARR); // reset appearance
    move_obj_inven_to_obj(self_obj, dude_obj);
    set_local_var(LVAR_At_Tribe,3);
 end

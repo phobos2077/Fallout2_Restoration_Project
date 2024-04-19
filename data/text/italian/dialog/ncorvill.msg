@@ -76,7 +76,7 @@
 {352}{}{Accetto l'incarico.}
 {353}{}{No, non e' nel mio stile. Sara' meglio che vada.}
 {360}{}{(Diventa rosso.) I miei ragazzi sono puliti, e sanno che devono starsene lontani da quella roba... altrimenti li ucciderei. Poi, di PUNTO IN BIANCO, Richie muore d'overdose. Qualcuno gli ha pompato dentro una tonnellata di Jet, talmente tanto da fargli uscire i fumi dal naso.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
+{361}{}{Beh… questo non significa che qualcuno sia il responsabile. Suo figlio potrebbe semplicemente averne preso troppo. Il Jet crea un'altissima dipendenza.}
 {362}{}{Hmmm. Accetto l'incarico.}
 {370}{}{(Annuisce.) Bene. Adesso stammi a sentire: se trovi quel pezzo di merda che ha ucciso il mio ragazzo, non toccarlo... torna qui e DIMMI il nome del condannato a morte. (Gli occhi si infiammano.) Poi me ne occupero' IO.}
 {371}{}{Non abbiamo parlato del pagamento.}

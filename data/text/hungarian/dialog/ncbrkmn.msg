@@ -26,7 +26,7 @@
 {305}{}{I learned that if you read a specific series of letters, making sure to use the correct inflections on each
  letter, you can cure someone with either autism or epilepsy.}
 {306}{}{Sounds like a bunch of hoop-la to me, but hey, I'm talking, so there must be something to it. Anyway, I really
- appreciate what you've done. Here, take these stimpacks. I found 'em when I was scavenging for food behind all these buildings.}
+ appreciate what you've done. Here, take these stimpaks. I found 'em when I was scavenging for food behind all these buildings.}
 {307}{}{Thanks. See you around.}
 {350}{}{Vaú!}
 {351}{}{Woof! Woooof!}

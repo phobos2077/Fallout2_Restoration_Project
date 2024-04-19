@@ -17,7 +17,7 @@
 {116}{}{C'est tout pour toi ?}
 {117}{}{Oui.}
 {118}{}{Non.}
-{119}{}{Later then.}
+{119}{}{Au revoir.}
 {120}{}{}
 {121}{}{Ok.}
 {122}{}{Rebonjour. T'as encore soif ?}

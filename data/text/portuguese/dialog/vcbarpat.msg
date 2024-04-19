@@ -5,7 +5,7 @@
 {104}{}{Parabéns, herói!}
 {105}{}{Ei, herói! Deixa eu comprar uma bebida, certo?}
 {106}{}{Parece que é um capitão slumming...}
-{107}{}{Bem, se não é toadie favorito do Primeiro Cidadão ...}
+{107}{}{Bem, se não é bajulador favorito da Primeira Cidadã...}
 {108}{}{Bem, se não é th '"Capitão ..."}
 {109}{}{Todo mundo esteja atento. A lei acabou de entrar.}
 {110}{}{Você slumming, Cidadão?}

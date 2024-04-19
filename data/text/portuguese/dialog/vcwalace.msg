@@ -3,8 +3,8 @@
 {102}{}{Você vê o Wallace, oficial do Vault City's Customs.}
 {103}{}{Você vê um homem magro com a cara fechada. Ele está vestindo uma Vault suit bruscamente apertada.}
 {104}{}{Nós ouvimos falar sobre suas heróicas façanhas. Por ordem do Conselho, você... e suas companhias... têm a permissão para entrar em Vault City quando quiserem.}
-{105}{}{O Alfandega fecha durante a noite. Volte pela manha.}
-{106}{}{A Alfandega fecha durante a noite. Vou voltar pra casa depois de tabelar todas estas listas.}
+{105}{}{O Escritório da Alfândega fecha durante a noite. Volte pela manhã.}
+{106}{}{O Escritório da Alfândega fecha durante a noite. Vou voltar pra casa depois de tabelar todas estas listas.}
 {107}{}{Não tenho nada a dizer para alguém que viaja com... ghouls. A espécie deve ficar em Courtyard.}
 {108}{}{Não tenho nada a dizer para alguém que viaja com... mutantes. A espécie deve ficar em Courtyard.}
 {109}{}{Olá, capitão. Há algo em que eu possa ajudar?}
@@ -16,7 +16,7 @@
 {115}{}{O que é este lugar?}
 {116}{}{Eu acredito que seu assistente, Skeev, esteja envolvido em práticas ilegais.}
 {117}{}{Nada por hoje, valeu.}
-{118}{}{Bem, acho que vou ter que conversar com os guardas de Courtyard. Eles parecem estar deixando qualquer forasteiro entrar na cidade ultimamente.}
+{118}{}{Bem, acho que vou ter que conversar com os guardas de Courtyard. Eles parecem estar deixando qualquer forasteiro entrar na cidade ultimamente. }
 {119}{}{Dayz. Daze? Daiseeee.}
 {120}{}{Desliga}
 {121}{}{Idiota.}
@@ -58,7 +58,7 @@
 {157}{}{De nada. Nem preciso disso tanto assim.}
 {158}{}{De nada então. Eu voltarei quando tiver mais algum dinheiro.}
 {159}{}{Aqui está. POR FAVOR tente manter este com você todo o tempo.Eu não quero ficar distribuindo múltiplos Day Passes pra todo mundo..}
-{160}{}{I had some other questions I wanted to ask you.}
+{160}{}{Eu tinha outras perguntas que queria te fazer.}
 {161}{}{Entendido. Valeu.}
 {162}{}{Meu nome é Wallace. Sou o oficial do Customs Office de Vault City. Eu acomodo aqueles que desejam fazer negócios conosco.}
 {163}{}{Eu gostaria de entrar em Vault City.}

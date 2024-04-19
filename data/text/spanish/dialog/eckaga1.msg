@@ -8,7 +8,7 @@
 {108}{}{¡Volverás a ver a Kaga!}
 {109}{}{¡Kaga nunca ha sido derrotado!}
 {110}{}{Kaga se dedicará en cuerpo y alma a buscar tu destrucción.}
-{150}{}{[Un alto y fornido guerrero está frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos echan a Kaga, ¿y te consideran el Elegido? ¡JA! ¿Crees que ser el nieto del Morador del Refugio te hace especial? ¿Crees que eres mejor que yo, Kaga el Grande?}
+{150}{}{[Un alto y fornido guerrero está frente a ti, sus ojos brillan con odio mientras te mira.] Entonces, ellos echan a Kaga, ¿y te consideran el Elegido? ¡JA! ¡¿Crees que ser el nieto del Morador del Refugio te hace especial?! ¡¿Crees que eres mejor que yo, Kaga el Grande?!}
 {151}{}{Bueno, yo SOY el Elegido, ¿no?}
 {152}{}{Hey ahora, espera un segundo. Nunca dije que era mejor que tú.}
 {160}{}{¡Ese título no significará nada cuando Kaga te arranque la cabeza de tus hombros!}

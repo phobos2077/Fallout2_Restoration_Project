@@ -15,7 +15,7 @@
 {240}{}{Kőne még valami?}
 {241}{}{Éppenséggel megnézném még egyszer, milyen cuccaid vannak.}
 {242}{}{Tulajdonképpen akarok valamit kérdezni.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{Egyelőre megteszi. Majd találkozunk, Flick.}
 {260}{}{Kibaszott beszerző vagyok én, mit gondósz? Én vagyok helyi jó szamuráj-itánus.}
 {261}{}{Hogy mondod?}
 {262}{}{He, öö, rendben... hadd kérdezzek valamit!}
@@ -29,7 +29,7 @@
 {301}{}{Öö, nincs.}
 {302}{}{Aha, oké. Akkor hadd kérdezzek valami mást!}
 {303}{}{Értem már. Nem akarlak ööö... kellemetlen helyzetbe hozni. Viszlát!}
-{315}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Ide hozzák cuccokat, amit talá'nak. Ici-pici dógokat. Ami má' senkinek se nem kő. Cserébe gongyukat viselem nekijjük.}
 {316}{}{Remek egyezségnek látszik.}
 {325}{}{(Flick vállat von). E'vagyunk, mint befőtt...}
 {326}{}{Akkor hadd kérdezzek valami mást!}
@@ -70,7 +70,7 @@
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
 {440}{}{Pai-san-o, tudod, kölkök. Én kölkeim.}
 {441}{}{And you have an arrangement with them?}
-{450}{}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{450}{}{Ide hozzák cuccokat, amit talá'nak. Ici-pici dógokat. Ami má' senkinek se nem kő. Cserébe gongyukat viselem nekijjük.}
 {451}{}{Remek egyezségnek látszik.}
 {460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,

@@ -42,8 +42,8 @@
  menino se confundiu de profissão.}
 {268}{}{Eu o conheci em Vault City, espalhando a palavra. Eu me ofereci para ajudá-lo entregando esta pasta para você.}
 {269}{}{Cruzei com ele durante minhas viagens. Eu me ofereci para ajudá-lo entregando esta pasta para você.}
-{275}{}{Heh... maldito humano é você... apesar de toda a sua pregação, o velho Tomcat Moore não consegue sair de seu caixote o tempo
- suficiente para tentar fazer qualquer trabalho braçal. Heh... ainda assim, isso não o torna diferente de qualquer outro garoto da NCR.}
+{275}{}{Heh... maldito humano de sua parte... apesar de toda a sua pregação, o velho Tomcat Moore parece não conseguir sair de sua
+ caixa de sabão por tempo suficiente para realmente fazer qualquer trabalho braçal. Heh... ainda assim, isso não o torna diferente de qualquer outro cara da NCR.}
 {276}{}{Ele prega muito. Ainda assim, parece fazer muito sentido.}
 {277}{}{Ele tem um certo... talento com as palavras.}
 {278}{}{Sim, bem, em algum momento um trabalho precisa ser feito, e eles me ligam para garantir que as coisas

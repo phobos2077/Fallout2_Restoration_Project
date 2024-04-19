@@ -6,8 +6,8 @@
 {121}{}{Nincs időm az oktalanságaidra. Nagyratörő terveim vannak a világ elfoglalását illetően. Ne is lássalak!}
 {122}{}{Ne zavarj! Nem akarom még egyszer mondani!}
 {123}{}{Na, jó! Zomak, öldd meg!}
-{130}{}{Renewal is at hand. But it won't get any closer unless you get moving on repairing our Atomic
- Reactor. (to himself) Humans... they're so disappointing.}
+{130}{}{A Megújulás küszöbén állunk, de amíg nem sikerül megjavítanod az atomreaktort, csak egyhelyben toporgunk. [magának] 
+ Ezek az emberek... annyira kiábrándítóak...}
 {131}{}{Javítsam meg az atomreaktort?}
 {132}{}{Ó, igen. Akkor már itt sem vagyok. Viszlát!}
 {140}{}{Kiszagoltam, hogy a talizmánjaink egyikét viseled, de nem emlékszem, hogy kaptál volna tőlünk egyet is.}
@@ -21,9 +21,8 @@
 {152}{}{Úgy érted, hogy óriási patkány legyen belőlem?}
 {153}{}{Nem akarok semmilyen formában olyan lenni, mint ti.}
 {154}{}{Most azt kérdezed magatól: kik is ezek valójában?}
-{160}{}{In order to survive, both Gecko and Vault City will need to cooperate. Vault City needs the
- power from our Atomic Reactor in order to expand, and we need Vault City's medical technology. Unless
- we cooperate, both cities will stagnate. Vault City needs to help us to repair our power plant.}
+{160}{}{A túlélés érdekében mind Gekkó, mind Menedékváros együttműködést kell, hogy tanúsítson. A fejlődés miatt Menedékvárosnak kell az áram, amit a mi atomreaktorunk termel, nekünk viszont az ő gyógyászati technológiájukra van égető szükségünk.
+ Ha nem működünk együtt, mindkét város megreked a jelenlegi szinten. Menedékvárosnak segítenie kell, hogy az erőművünk helyre jöjjön.}
 {161}{}{Mégis hogy akarjátok rávenni őket az együttműködésre?}
 {170}{}{A zsenialitásom elismeréseképp engem egyszerűen csak Agynak neveznek. Gekkóban nem sokminden kerüli el a figyelmemet.}
 {171}{}{De hát te csak egy jól megtermett patkány vagy.}
@@ -53,7 +52,7 @@
 {230}{}{A reaktor megjavítása jelentős tett volt, de nem torpanhatunk meg ennél a pontnál. Gekkó és Menedékváros túlélése érdekében még egy lépésre van szükség.}
 {231}{}{Hogyhogy még egy lépésre?}
 {232}{}{Hirtelenjében nem te lettél a mindenben illetékes polgár?}
-{233}{}{I think I've heard more than enough. Goodbye.}
+{233}{}{Szerintem máris épp eleget hallottam. Na, viszlát!}
 {234}{}{Azt nem értem, hogy egy óriáspatkányt miért foglalkoztat ennyire ez a dolog?}
 {240}{}{Jó munkát végeztél. Menedékváros és Gekkó immár joggal örvendezhet. Most, hogy a reaktorunk teljes kapacitással működik, a világuralmi terveim lassan beérnek. Most távozhatsz. Dolgom van.}
 {241}{}{Hát abban biztos lehetsz, hogy nem érted tettem. Volt szerencsém...}
@@ -64,18 +63,12 @@
 {260}{}{Illetékes polgár? Akár így is mondhatjuk. A világuralom megragadásához meg kell bizonyosodnom, hogy egyáltalán érdemes-e törnöm magam érte. Gekkó és Menedékváros segítségével erős áramtermelő központot akarok létesíteni.}
 {261}{}{Egy patkány, mint a világ ura?}
 {270}{}{Nos, annak ellenére, hogy megvan a saját véleményed egy rágcsáló világuralmát illetően, az általam kiötlött terv Gekkó és Menedékváros sokezer lakójának jelentene boldogulást. Lehet, hogy hidegen hagy a személyem és a törekvéseim, de az eredmény megéri a fáradságot.}
-{271}{}{Why don't you tell me about this last step, and I'll think about helping.}
+{271}{}{Áruld el, mi a teendő az utolsó lépés érdekében, és megfontolom, mit tehetek.}
 {272}{}{A hideg kiráz a gondolatától, hogy bizonyos fokig már eddig is segítettem rajtad. Most jött el tehát az idő, hogy sürgősen távozzak. Viszlát!}
-{280}{}{Well, they will let you if you can show them how much it benefits them. We have an economic
- report that proves that optimizing the Gecko atomic power plant will directly benefit Vault City. I'll
- let our comrades here in Gecko know of your mission.}
-{281}{}{They'll give you the Hydroelectric Magnetosphere Regulator if you can prove that doing so benefits Vault City. I have prepared
- an economic report that details just how much repairing our power plant benefits Vault City. I'll let
- our comrades here in Gecko know of your mission.}
+{280}{}{Szerintem nem fognak ellenkezni, ha bebizonyítod, milyen sok hasznuk származik belőle. Készítettünk egy gazdálkodási jelentést, amely igazolja, hogy Gekkó atomerőművének optimalizálása révén Menedékváros csak jól járhat. Küldetésed részleteit rögvest tudatom Gekkóbeli követőimmel.}
+{281}{}{Adnak neked egy hidroelektromos magnetoszféra szabályzót, ha képes vagy bebizonyítani nekik, milyen jól járnak. Előkészítettem egy gazdálkodási jelentést, amely részletesen ecseteli, hogy Gekkó atomerőművének megjavítása milyen elsőrangú hatással lesz Menedékvárosra. Gekkóbeli követőim mind tudni fognak küldetésedről.}
 {282}{}{Ez remek, de ki az a személy Menedékvárosban, aki egyáltalán kezébe venné ezt a dokumentumot?}
-{283}{}{Why don't you talk to that old windbag, that stinking sack Festus, in the power plant and
- see if he can dredge some useful information out of his rotting skull. He may know of a means of optimzing the power plant.
- I'll let our comrades here in Gecko know of your mission.}
+{283}{}{Az erőműben van egy vén trotli, egy büdösbogár, úgy hívják Festus. Beszélj vele, hátha megerőlteti azt a tök fejét és kiráncigál belőle néhány használható információt. Lehet, hogy tudja az erőmű optimalizálásának részleteit. Gekkóbeli társaim mind tudni fognak küldetésedről.}
 {284}{}{Ez használható ötletnek tűnik. Később találkozunk.}
 {290}{}{Úgy vélem McClure az egyetlen menedékvárosi tanácstag, akinek elég esze van, hogy előítéletek nélkül dönthessen. Ő biztosan segít majd megszerezni, amire szükséged van.}
 {291}{}{Nincs az az isten, hogy én a te futárod legyek!}
@@ -93,7 +86,7 @@
 {332}{}{Na, jó, ebből elég! Ezt nem bírom hallgatni. Valakinek nagyon a nyakadra kéne már lépni és ez a valaki... egész véletlenül én leszek.}
 {340}{}{Hát szerintem most jött el a pillanat, hogy nincs mit mondanunk egymásnak. Azt azonban tudnod kell, hogy hacsak nem állsz közénk, élve innen el nem mész.}
 {341}{}{Inkább meghalok, minthogy beálljak közétek.}
-{342}{}{Hmm, maybe I've been hasty in my judgment.}
+{342}{}{Hmmm... talán egy kicsit elhamarkodtam az ítéletet.}
 {343}{}{Ne kíméld, Willard!}
 {350}{}{Idióta! Zomak, nyírd ki a behatolót!}
 {360}{}{Ti emberek hihetetlenül intoleránsak vagytok. Ha a fajtátok nem jeleskedett volna a világ elpusztításában, még ma is közönséges patkány lehetnék. Sugárzás híján most nem lennék ilyen.}
@@ -101,8 +94,7 @@
 {370}{}{Most, hogy mindent elmagyaráztam, készen állsz, hogy közénk állj?}
 {371}{}{Nincs semmi kifogásom ellene.}
 {372}{}{Azt hiszem, meg vagyok győzve. Sikerült rábeszélned, hogy sürgősen tűnjek a fenébe ebből az őrültekházából.}
-{380}{}{I was just one of many normal rats in an advanced research lab. Then, one day, there were
- explosions. Our cages were broken open, and we were doused with some sort of fluid from a huge vat.}
+{380}{}{Régen magam is csak egy közönséges patkány voltam egy jól feleszerelt laboratóriumban. Aztán egy napon robbanásokat hallottunk. A ketreceink kinyíltak, és egy óriási tartályból kiömlő folyadék a nyakunkba zúdult.}
 {381}{}{És aztán?}
 {390}{}{Valahogy kijutottam. Miközben gyógyultam, észrevettem magamon a változást. Próbáltam kommunikálni az emberekkel, de azok egytől-egyig meg akartak ölni. Az emberek túlságosan erőszakosak ahhoz, hogy a saját vezetésük alatt túléljenek bármit... na de nem terelem másra a szót. Az első lépés tehát, hogy meg kell javítani a reaktort.}
 {391}{}{Meg kell javítani a reaktort?}
@@ -110,7 +102,7 @@
  then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
  themselves in the long run, as well.}
 {401}{}{Mit kell azalatt érteni, hogy magukat is tönkreteszik?}
-{402}{}{Why would Vault City give me a part for the Gecko Atomic power plant?}
+{402}{}{Mire fel adnának nekem Menedékvárosban egy alkatrészt Gekkó atomerőművéhez?}
 {410}{}{Rá kell ébresztened őket, hogy ehhez bizony erős érdekük fűződik. Az emberek könnyen manipulálhatók, ha a saját érdekükről van szó.}
 {411}{}{Nem hinném, hogy a menedékvárosi emberek csak úgy adnának nekem egy atomerőmű-tartozékot.}
 {420}{}{Ami viszont a jelent illeti, nincs egyéb dolgod?}
@@ -132,9 +124,7 @@
 {464}{}{Ha nálad van a hidroelektromos magnetoszféra szabályzó, hozd el nekünk a reaktorba. Ott megpróbálhatod meggyőzni azt a vén majom Festust, hogy cserélje ki az alkatrészt. A munkára a javítórobotot is használhatod, sőt sajátmagad is elvégezheted a műveletet. A lényeg, hogy valaki megcsinálja, és akkor már egyenesben vagyunk.}
 {465}{}{Menedékvárosban hogy jutok hozzá az alkatrészhez?}
 {466}{}{Á, értem! Kösz az információért. Majd jövök...}
-{467}{}{Festus is the geezer that runs the atomic power plant. He's old, crotchety, and cantankerous, but
- he does actually know something about running the plant. His offices are over on the far southeast part
- the plant. Bring the data disk to him and he'll know how to use it.}
+{467}{}{Festus, aki az atomerőművet vezeti, egy vén ripacs. Az idő eljárt felette, szeszélyes és könnyen kijön a sodrából, de azt meg kell hagyni, hogy az erőműhöz ért. Az irodája az erőmű dél-keleti részén túl van. Vidd el neki az adatlemezt, és tudni fogja, mi a teendő.}
 {468}{}{Megértettem, rendben. Köszönöm és legyen jó napod.}
 {500}{}{[magában elmélkedik] Annyi mindent megértem már. Nem olyan idők járnak, mint régen [sóhajt]. Sajnos az egész fajtám kipusztult már. Veszettül szívós fajta voltam, de bárcsak ne lettem volna. Reméltem, hogy még a szenilitásom ellenére is megtalálom a magam boldogságát [hozzád] Na, jó, elég a sajnálkozásból!}
 {501}{}{Öö, oké.}
@@ -155,7 +145,7 @@
 {608}{}{Hogy is van ez a reaktor dolog?}
 {609}{}{Kinek adjam?}
 {610}{}{Ó, igen. Akkor már itt sem vagyok. Viszlát!}
-{611}{}{You need to get that Hydroelectric Magnetosphere Regulator installed before the plant is operational again.}
+{611}{}{Szükségünk van egy hidroelektromos magnetoszféra szabályozóra. Minél hamarabb be kell építeni a rendszerbe, hogy a rektor ismét teljesen működőképes legyen.}
 {620}{}{A zsenialitásom elismeréseképp engem egyszerűen csak Agynak neveznek. Gekkóban nem sokminden kerüli el a figyelmemet.}
 {621}{}{De hát te csak egy jól megtermett patkány vagy.}
 {622}{}{Mintha mondtál volna valamit a hozzátok való csatlakozásról...}
@@ -200,10 +190,10 @@
 {713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
 {714}{}{Thank you! What were you saying about the optimization?}
 {715}{}{Thank you! Bye.}
-{716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
+{716}{}{Úgy tűnik Gordon már odaadta a Gekko Gazdasági Adatok Hololemezt amiről beszéltem. Vidd el Menedékvárosba amint lehet.}
 {717}{}{Hallgatom.}
-{718}{}{Umm... yeah, maybe later.}
+{718}{}{Ohh... rendben, talán később.}
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
 {720}{}{Very well, I shall help you.}
 {721}{}{No, screw you rat brain! I've had enough of this. Time to die!}
-{4211}{}{Uh, I guess I better go get that disk from Gordon. Goodbye.}
+{4211}{}{Oh, azt hiszem, jobb, ha megyek és megszerzem azt az adatlemezt Gordontól. Később találkozunk.}

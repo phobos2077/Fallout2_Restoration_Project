@@ -23,28 +23,28 @@
 {264}{}{Comerciantes.}
 {265}{}{Caverna}
 {270}{}{Entrada}
-{271}{}{Level 1}
-{272}{}{Level 2}
-{273}{}{Level 3}
-{274}{}{Level 4}
+{271}{}{Nivel 1}
+{272}{}{Nivel 2}
+{273}{}{Nivel 3}
+{274}{}{Nivel 4}
 {280}{}{Entrada}
 {281}{}{Nível de fortaleza 1}
 {282}{}{Fortaleza Nível 2}
 {283}{}{Vats Level 1}
 {284}{}{Vats Level 2}
 {290}{}{Cratera}
-{291}{}{Level 1}
+{291}{}{Nivel 1}
 {300}{}{Adytum}
 {301}{}{Centro da Cidade}
 {302}{}{Biblioteca}
 {303}{}{Fortaleza}
-{304}{}{Warehouse}
+{304}{}{Armazem}
 {310}{}{Entrada}
 {311}{}{Interior}
-{500}{}{You gained 10,000 experience points!}
+{500}{}{Você ganhou 10.000 pontos de experiência!}
 {501}{}{Ruínas}
 {1000}{}{Deserto}
 {1001}{}{Montanhas}
 {1002}{}{Cidade}
 {1003}{}{Costa}
-{1004}{}{Unknown}
+{1004}{}{Desconhecido}

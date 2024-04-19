@@ -7,7 +7,7 @@
 {155}{}{[kész]}
 {156}{}{Most meg mi van? Kezdesz rohadtul idegesíteni!}
 {157}{}{Szeretnék elnézést kérni.}
-{158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
+{158}{}{Sajnálom, be voltam nyomva korábban. Nem akartalak megbántani.}
 {159}{}{Héé, neked meg mi bajod?}
 {160}{}{Szeretnék kérdezni valamit.}
 {161}{}{Úgy tűnik, hogy van. Viszlát!}
@@ -45,17 +45,15 @@
 {193}{}{Semmit. Mennem kell.}
 {195}{}{Egy régi nyelvből származik. Háború előtti vagy micsoda.}
 {196}{}{Metzger hentest jelent. Találó, nem gondolod?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{197}{}{A dédapámat hívták így. Valahonnan a messzi keletről jött. Egy nagy rakás vizen túlról.}
 {198}{}{Olvastam egy könyvet egy Metzgerről. Elnök volt vagy micsoda.}
-{199}{}{Look who's talking tribal.}
+{199}{}{Nézzetek, ki beszél itt törzsi nyelven.}
 {200}{}{Némat, német, nemét, vagy valami ilyesmi. Ősi nyelv, már nagyon régi.}
 {201}{}{Et tu, Brutus?}
 {202}{}{Értem. Bár, volna még néhány kérdésem.}
 {203}{}{Ez a leghülyébb dolog, amit egész életemben hallottam.}
 {204}{}{Lenyűgöző... viszont mennem kell.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{A feladatunk, hogy állandó és jó minőségű munkaerőt biztosítsunk a nagyvárosoknak. Az igény egyre csak nő. Szeretnél csatlakozni hozzánk?}
 {206}{}{Persze. Jól hangzik.}
 {207}{}{Semmiképp.}
 {208}{}{Erre majd még visszaérünk. Mely városok veszik a rabszolgáitokat?}
@@ -147,6 +145,6 @@
 {328}{}{Nehéz a rabszolga-hajcsárok dolga!}
 {329}{}{Szeretném látni, hogy jobban csinálod.}
 {330}{}{Szeretnék elmenni egy rabszolga-vadászatra.}
-{331}{}{Damn it! I hate losing any guild member on a Run. Try to watch each other's back!}
+{331}{}{Picsába! Utálok céhtagokat veszíteni a vadászatokon. Próbáljatok figyelni egymásra!}
 {332}{}{Összegezve a dolgokat, jó munkát végeztél. Itt van }
 {333}{}{ dollár buzdítás gyanánt, hogy továbbra is hasonlóan jó munkát végezz.}

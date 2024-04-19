@@ -16,7 +16,7 @@
 {115}{}{Salve, sono Doc Johnson. Dovro' dare un'occhiata piu' attenta ai tuoi amici, se vuoi che li curi. Non sembrano stare molto bene.}
 {116}{}{Qualsiasi cosa voi ragazzi abbiate contratto, sono sicuro di poterla curare. Io sono Doc Johnson.}
 {117}{}{Cosa sono tutte queste sbucciature, eh? Beh, lascia che Doc Johnson ci dia un'occhiata. Calma, sono un professionista.}
-{118}{}{In quali guai vi siete cacciati, ragazzi? Lasciate che il vecchio Doc Johnson vi dia  un'occhiata.}
+{118}{}{In quali guai vi siete cacciati, ragazzi? Lasciate che il vecchio Doc Johnson vi dia un'occhiata.}
 {119}{}{Grazie, Doc. Quanto ti devo?}
 {120}{}{Volevo solo sapere se potevo comprare delle medicine.}
 {121}{}{Al momento ho piu' bisogno di risposte alle mie domande che di cure.}
@@ -80,8 +80,7 @@
 {179}{}{Uh, certo... beh, ci pensero'. Arrivederci, Doc.}
 {180}{}{Ultimamente sembra che la maggior parte dei minatori passi tutto il suo tempo a farsi di Jet piuttosto che scavare in miniera. Se la situazione non dovesse cambiare, presto la produzione d'oro a Redding si fermera'. A quelli di New Reno non sembra interessare, pero'.}
 {181}{}{Tutti i minatori della citta' lavorano solo quanto basta per comprare un'altra dose di Jet. La produzione ha subito un brusco rallentamento. Se continua cosi', New Reno presto prendera' il controllo di Redding.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
+{182}{}{Tutto quello che i minatori ultimamente fanno e' drogarsi. Praticamente non e' rimasto piu' nessuno ad estrarre l'oro. Temo che New Reno possa prendere il controllo di questa citta'. Vorrei tanto che ci fosse un modo per bloccare la dipendenza da Jet.}
 {183}{}{Cosa c'entra New Reno con questa storia?}
 {184}{}{Da dove proviene il Jet?}
 {185}{}{Capisco. Lascia che ti chieda qualcos'altro.}
@@ -102,16 +101,13 @@
 {200}{}{Cosa c'entra New Reno con questa storia?}
 {201}{}{Sono contento che abbia funzionato, Doc. Arrivederci.}
 {202}{}{Una soluzione? Cosa intendi dire?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
+{203}{}{Intendo dire che sono in possesso di un antidoto contro il Jet. Il Dr. Troy di Vault City l'ha sintetizzato e dovrebbe risolvere il problema di Jet-dipendenza che avete qui.}
 {204}{}{Oh, nulla. Lascia che ti chieda qualcos'altro, Doc.}
 {205}{}{Certo che li abbiamo. Troppo Jet, non abbastanza lavoro... ma dove l'hai sentito, questo?}
 {206}{}{E' stato McClure di Vault City, a dirmelo.}
 {207}{}{Ho solo sentito delle voci, ecco tutto.}
 {208}{}{Non ha molta importanza. Lascia che ti chieda qualcos'altro.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno vende il Jet a prezzo stracciato. Il Jet da' assuefazione rapidamente come mai s'era visto per altre droghe. Quelli di Reno pensano che, riuscendo a far diventare Jet-dipendenti un numero sufficiente di persone in una data zona, queste persone farebbero qualsiasi cosa pur di avere dell'altro Jet. Questo darebbe a New Reno il controllo "de facto" di quella zona - una zona come Redding, ad esempio.}
 {210}{}{Capisco. Lascia che ti chieda qualcos'altro, Doc.}
 {211}{}{Allora, se non vuoi che sia New Reno a controllare Redding, chi vorresti che lo facesse?}
 {212}{}{Grazie per avermelo spiegato, Doc. Arrivederci.}
@@ -233,4 +229,4 @@
 {326}{}{Ci siamo svegliati, eh? Ti ho appena imbottito di dissipatori termici e membrane dissipatrici. Tra qualche settimana non avrai piu' questo aspetto cosi' bitorzoluto, ma non vincerai mai un concorso di bellezza, questo e' certo. Cerca di non grattare le croste purulente vicino alle incisioni di drenaggio prima che abbiano smesso di suppurare.}
 {327}{}{Grazie del consiglio, Doc. Davvero grandioso. Ehi, lascia che ti chieda qualcos'altro.}
 {328}{}{Grazie del lavoro, Doc. Sara' meglio che vada, adesso. Ci vediamo.}
-{329}{}{You deliver the Jet antidote to Doc Johnson.}
+{329}{}{Consegni l'antidoto per il Jet al Doc Johnson.}

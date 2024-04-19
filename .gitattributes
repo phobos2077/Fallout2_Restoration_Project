@@ -12,3 +12,11 @@ data/text/swedish/**    working-tree-encoding=cp1252
 data/text/schinese/**   working-tree-encoding=cp936
 data/text/tchinese/**   working-tree-encoding=cp950
 data/text/ukrainian/**  working-tree-encoding=cp1251
+
+data/ai.txt             linguist-language=ini
+data/aibdymsg.txt       linguist-language=ini
+data/aigenmsg.txt       linguist-language=ini
+data/city.txt           linguist-language=ini
+data/maps.txt           linguist-language=ini
+data/party.txt          linguist-language=ini
+data/worldmap.txt       linguist-language=ini

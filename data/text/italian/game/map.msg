@@ -180,7 +180,7 @@
 {309}{}{Vault 15: Livello 2}
 {310}{}{Vault 15: Livello 3}
 {311}{}{Abusivi}
-{312}{}{}
+{312}{}{Abusivi}
 {313}{}{}
 {314}{}{Abusivi}
 {315}{}{}

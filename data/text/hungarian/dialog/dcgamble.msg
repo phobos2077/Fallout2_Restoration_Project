@@ -2,7 +2,7 @@
 {101}{}{Ez a szerencsejátékos nagyon jól boldogul itt.}
 {102}{}{Úgy látszik, nyerésben van, de minden pénzét az asztalra tette.}
 {103}{}{Úgy látszik, nyerésben van, de minden pénzét az asztalra tette.}
-{104}{}{This person doesn't seem to be winning or losing.}
+{104}{}{Nem lehet eldönteni, nyer-e vagy veszít.}
 {105}{}{Ez az ember már jó ideje nem nyert.}
 {106}{}{Úgy tűnik, mindjárt sírni kezd. Majdnem teljesen kifogyott a pénzből.}
 {107}{}{Úgy tűnik, sokat vesztett, ezért elég haragos.}
@@ -42,13 +42,13 @@
 {326}{}{Na, megint elúszott a fizetésem.}
 {327}{}{Majdnem mindenem oda lett.}
 {328}{}{Basszus! Ez tök szívás!}
-{329}{}{Why does this always happen to me?}
+{329}{}{Miért mindig velem történik ez?}
 {330}{}{Képtelen vagyok nyerni.}
 {331}{}{Utálom ezt a játékot!}
 {400}{}{Francba, a környéken csak Becky-nél lehetett játszani.}
 {401}{}{Tartsd magad távol!}
 {402}{}{Ne lőj!}
-{403}{}{Please leave us alone.}
+{403}{}{Kérlek, hagyj minket békén!}
 {500}{}{Ne állj meg ennyinél!}
 {501}{}{Ne lanyhulj!}
 {502}{}{GYERÜNK HETES!!!}
@@ -59,14 +59,14 @@
 {507}{}{Még egy jó pörgetést!}
 {508}{}{Igeeen!}
 {509}{}{Rendben!}
-{510}{}{Again, let's see that again.}
+{510}{}{Még egyszer, lássuk még egyszer!}
 {511}{}{Gyerünk!}
 {512}{}{Na, erre hajtottam...}
 {513}{}{Majdnem.}
 {514}{}{Nem vészes.}
 {515}{}{Hát ez meg hogy lehet?}
 {516}{}{Jaj...}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Ne állj meg! Ne állj meg! MOST ÁLLJ MEG!}
 {518}{}{Ez a játék aztán hű a nevéhez.}
 {519}{}{Csak egyetlen nagy nyeremény kéne...}
 {520}{}{Számokat!}

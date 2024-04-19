@@ -45,7 +45,7 @@
 {193}{}{Qu'est-ce que tu portes ?}
 {194}{}{Je veux faire un tour de Brahmine !}
 {195}{}{Est-ce que tu viens de loin ?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Wiiii ! Ha Ha Ha !}
 {197}{}{Ne pars pas !}
 {198}{}{Tu as de la nourriture ?}
 {199}{}{Est-ce que je te dérange ?}

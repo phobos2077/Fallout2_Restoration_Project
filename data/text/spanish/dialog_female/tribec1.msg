@@ -90,9 +90,9 @@
 {330}{}{[Krom irrumpe en la carcajada.] Los dioses no, chica! A pesar de que podría hacer maravillas para mi guerrero de moral, me gustaría
  odio a compartir la miel tan dulce como usted. No, No tengo mucho más mundana tarea para usted, si usted está dispuesto.}
 {331}{}{De que depende. ¿Qué necesita usted que yo haga?}
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
- yet, but I've got a feeling about our next meeting.}
+{340}{}{[Te hecha un vistazo, parece considerar algo por un momento.] Pronto me reuniré con uno de esos malditos
+ comerciantes civilizados-- un gordiflón con pinta de perro tuerto, en quien confío tanto como en un escorpión hambriento. No nos ha agraviado aún,
+ pero tengo un presentimiento acerca de nuestro próximo encuentro.}
 {341}{}{¿Y eso por qué?}
 {342}{}{No veo cómo encajo en esto. ¿Cuál es tu punto?}
 {350}{}{La última vez que hablamos, se jactó de que él sería que me trae algo verdaderamente milagroso, y que yo sería sabio para transportar todos

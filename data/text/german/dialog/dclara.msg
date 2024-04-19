@@ -52,7 +52,9 @@
  von Karawanen aus New Reno übernommen.}
 {321}{}{Ah ja? Warum ergibt das Sinn?}
 {322}{}{Oh.}
-{340}{}{New Reno ist die Drogen-Metropole hier in der Gegend. Sie müssen die Rohstoffe für ihre Drogen ja irgendwoher bekommen, richtig? Wie es aussieht, bekommen sie einen Teil oder sogar alles aus Vault City.}
+{340}{}{New Reno ist die Jet-Metropole hier in der Gegend. Sie müssen die Rohstoffe für ihr Zeug ja
+ irgendwoher bekommen, ne? Wie es aussieht, bekommen sie einen Teil oder sogar alles aus
+ Vault City.}
 {341}{}{Wo ist New Reno?}
 {342}{}{Okay, danke.}
 {350}{}{Bin mir nicht ganz sicher. Irgendwo im Süden, nehm ich an. Ich war nie dort. Ich seh nur

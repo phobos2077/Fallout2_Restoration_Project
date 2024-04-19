@@ -60,7 +60,7 @@
 {210}{}{Da gibt's nicht viel zu erzählen. Ich leite das Schlachthaus in Modoc. Willst du was geschlachtet haben, bring's mir, ich erledig's und mach das beste Schnetzelfleisch daraus, das du je kriegen wirst.}
 {211}{}{Wie steht's mit den Häuten und den anderen Tierteilen?}
 {213}{}{Sie war sogar ganz gut für mein Geschäft. Niemand schafft es, genügend Nahrung für die Brahmin anzubauen, also lassen die ihre Herden in großem Ausmaß schlachten. Aber das geht vorbei, man muss das im Zusammenhang sehen. Wenn die Brahmin weniger werden, kann mein Geschäft nur drunter leiden.}
-{215}{}{[Grisham geht um dich herum, piekst dich ein paar Mal, öffnet deinen Mund und prüft deine Zähne.] Ah! Ein gutes, gesundes Exemplar. Du bist geeignet. Ähem ...  Böse Hundis töten gute Brahmin. Geh töten böse Hundis für Freund Grisham. Grisham dir geben gute Belohnung. OK?}
+{215}{}{[Grisham geht um dich herum, piekst dich ein paar Mal, öffnet deinen Mund und prüft deine Zähne.] Ah! Ein gutes, gesundes Exemplar. Du bist geeignet. Ähem ... Böse Hundis töten gute Brahmin. Geh töten böse Hundis für Freund Grisham. Grisham dir geben gute Belohnung. OK?}
 {216}{}{Nein, ich mögen Hundis. Nur böse Männer Hundis nicht mögen. Ich gehen weg von böser Mann.}
 {217}{}{Ich mach's. Geh sofort!}
 {218}{}{Gut! Denk dran: Böse Viecher machen "Wuff! Wuff!", gute Viecher machen "Muuh". Du nicht töten gute Viecher.}
@@ -124,8 +124,8 @@
 {603}{}{Ähhhm, sie ist tot.}
 {604}{}{Miria lebte zwar noch, als ich sie verließ, aber jetzt ist sie bestimmt tot.}
 {605}{}{Davin lebte zwar noch, als ich ihn verließ, aber jetzt ist er bestimmt tot.}
-{606}{}{Davin, äh, konnte nicht mitkommen, aber ich werde ihm deine Grüße ausrichten, wenn ich ihn wiedersehe.}
-{607}{}{Miria, äh, konnte nicht mitkommen, aber ich werde ihr deine Grüße ausrichten, wenn ich sie wiedersehe.}
+{606}{}{Davin, äh, konnte nicht mitkommen, aber ich werd ihm deine Grüße ausrichten, wenn ich ihn wiedersehe.}
+{607}{}{Miria, äh, konnte nicht mitkommen, aber ich werd ihr deine Grüße ausrichten, wenn ich sie wiedersehe.}
 {700}{}{Aggghh... [Grishams Gesicht zeigt einen entsetzten Ausdruck, als er sich plötzlich an die Brust greift und zusammenbricht.]}
 {750}{}{OK, ich muss jetzt wieder an die Arbeit. Bis später mal.}
 {800}{}{Du hast Grishams Brahmin gerettet.}

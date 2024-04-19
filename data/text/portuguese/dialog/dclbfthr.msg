@@ -3,7 +3,7 @@
 {102}{}{* hickup * Eu conheço você?}
 {103}{}{São 11 horas. Você sabe onde seus filhos estão?}
 {104}{}{(Olha para você sonolento) o Que? *hickup* 11 já?}
-{105}{}{Na verdade não, não era, eu só queria dizer isso. Mas, sério, você sabe onde estão seus filhos?}
+{105}{}{Na verdade não era, eu só queria dizer isso. Mas, sério, você sabe onde estão seus filhos?}
 {106}{}{Na verdade, é sim, mas isso não é importante neste momento. Sério, porém, você sabe onde estão seus filhos?}
 {107}{}{* soluço * Eu tenho filhos? * soluço * Oh, sim, eu sei. Ele ... ou é ela ... * hickup * deveria estar por aqui em algum lugar.}
 {108}{}{Uau, você é um bêbado. Bem, é bom que eu esteja trabalhando em uma maneira de tirar seu filho daqui.}

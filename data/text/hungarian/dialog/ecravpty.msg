@@ -2,7 +2,7 @@
 {101}{}{A buli csaposát látod.}
 {102}{}{Úgy tűnik, hogy ő is végigkóstolta a saját áruját.}
 {103}{}{Mih... mija... mit adhatok? [Hukk.]}
-{104}{}{Nuka Colát [$6]}
+{104}{}{Nuka-Colát [$6]}
 {105}{}{Sört [$15]}
 {106}{}{Piát [$30]}
 {107}{}{Semmit, kösz.}
@@ -18,7 +18,7 @@
 {117}{}{Óhhh, haver! Nincsen 'lég pénzed! Gyere vissza ha lesz lóvéd!}
 {118}{}{[Vége]}
 {119}{}{Elég vad kinézete van.}
-{120}{}{You see an addict.}
+{120}{}{Egy drogfüggőt látsz.}
 {121}{}{Kicsit idegesnek tűnik.}
 {122}{}{Mitakarsz? Vanmindenem!}
 {123}{}{Mentátot [$560]}
@@ -44,7 +44,7 @@
 {156}{}{Most tök részeg leszek.}
 {157}{}{Menj elsülni ...máshova!}
 {158}{}{Mi lenne, ha te meg én sétálnánk egyet messze a többiektől?}
-{159}{}{Uhh, let's do it!}
+{159}{}{Öh, gyerünk, menjünk csináljuk meg!}
 {160}{}{Nee, részeg vagyok!}
 {161}{}{[Büff!] ::mosolyog::}
 {170}{}{Hé, nem akarsz velem bejönni a bokor mögé?}
@@ -65,4 +65,4 @@
 {203}{}{Ez nem frankó!}
 {204}{}{Nyugi, haver!}
 {205}{}{Pihenj, ember!}
-{210}{}{It seems she's been sampling some of her own merchandise.}
+{210}{}{Úgy tűnik, hogy ő is végigkóstolta a saját áruját.}

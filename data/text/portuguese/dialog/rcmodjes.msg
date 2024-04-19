@@ -1,182 +1,181 @@
-{100}{}{You see Madame Modjeska.}
-{101}{}{You see Madame Modjeska.}
-{102}{}{I want to be alone.}
-{103}{}{Please just go away.}
+{100}{}{Você vê Madame Modjeska.}
+{101}{}{Você vê Madame Modjeska.}
+{102}{}{Quero ficar sozinha.}
+{103}{}{Por favor, vá embora.}
 {104}{}{Não me incomode.}
-{105}{}{Please leave me.}
-{106}{}{I have no tolerance for the simple.}
-{107}{}{Most of the rabble are just working to get enough Jet. They need something to take their minds
- off this place.}
+{105}{}{Por favor, me deixe.}
+{106}{}{Não tenho tolerância com tontos.}
+{107}{}{A maioria da ralé só trabalha para conseguir jet suficiente. Eles precisam de algo para tirar suas
+ mentes deste lugar.}
 {108}{}{Deixe-me perguntar-lhe algo mais.}
-{109}{}{Jet? What's Jet?}
+{109}{}{Jet? O que é Jet?}
 {110}{}{Entendo, adeus.}
-{111}{}{Jet does have its uses. It tends to make one care somewhat less about the surrounding squalor.}
+{111}{}{Jet tem seus usos. Isso normalmente faz com que a pessoa se importe um pouco menos com a miséria ao redor.}
 {112}{}{Deixe-me perguntar-lhe algo mais.}
-{113}{}{Jet? What's Jet?}
+{113}{}{Jet? O que é Jet?}
 {114}{}{Entendo, adeus.}
-{115}{}{Jet is so expensive lately. It's just criminal. Speaking of which... I hear that our cherished
- Mayor Ascorti is working to get us more Jet. Always a champion of the masses, that man is.}
+{115}{}{Jet ficou tão caro ultimamente, é algo criminoso. Falando nisso... Ouvi dizer que nosso
+ querido Prefeito Ascorti está trabalhando para conseguir mais jet para nós. Esse homem é um campeão das massas.}
 {116}{}{Deixe-me perguntar-lhe algo mais.}
-{117}{}{Mayor Asctorti? Who is that exactly?}
-{118}{}{Jet? What's Jet?}
+{117}{}{Prefeito Asctorti? Quem é exatamente?}
+{118}{}{Jet? O que é Jet?}
 {119}{}{Entendo, adeus.}
-{120}{}{Seems like everyone's sick. That last batch of Jet had everyone swearing off the stuff. My
- guess is that they'll be back on Jet soon enough, though.}
+{120}{}{Parece que todos estão doentes, aquele último lote de jet fez todo mundo xingar esse material.
+ Meu palpite é que eles voltarão para o jet em breve.}
 {121}{}{Deixe-me perguntar-lhe algo mais.}
-{122}{}{Jet? What's Jet?}
+{122}{}{Jet? O que é Jet?}
 {123}{}{Entendo, adeus.}
-{124}{}{Looks like I was wrong. Most of the people who were real Jet pilots have sworn off the stuff.
- After that last bad batch, most of us can't so much as smell the stuff without getting sick to our
- stomachs.}
+{124}{}{Parece que eu estava errado. A maioria das pessoas que eram verdadeiros vidrados em jet
+ juraram nuca mais fazer isso. Depois daquele último lote terrivel, a maioria de nós não consegue
+ nem cheirar essa coisa sem ficar enjoado.}
 {125}{}{Deixe-me perguntar-lhe algo mais.}
-{126}{}{Jet? What's Jet?}
+{126}{}{Jet? O que é Jet?}
 {127}{}{Entendo, adeus.}
-{128}{}{I am... Madame Modjeska. What do you wish of me?}
+{128}{}{Eu sou... Madame Modjeska. O que você deseja de mim?}
 {129}{}{Com o que posso ajudar?}
-{130}{}{I don't have time to waste. What do you want of Madame Modjeska?}
-{131}{}{I can hardly be bothered with this now. What do you want?}
-{132}{}{Madame Modjeska feels indisposed today. What do you want of her?}
-{133}{}{My head feels as though it must surely split in twain. What do you want of me?}
-{134}{}{I'm Madame Modjeska. One time Jet user, amongst other things. Now I only dabble in other things.
- I find that Jet no longer agrees with me.}
-{135}{}{What can the Madame do for you?}
-{136}{}{What do you do here Madame Modjeska?}
-{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
-{138}{}{Hear any interesting rumors?}
-{139}{}{Why do they call you Madame Modjeska?}
+{130}{}{Não tenho tempo a perder. O que você quer de Madame Modjeska?}
+{131}{}{Eu não posso me incomodar com isso agora. O que você quer?}
+{132}{}{Madame Modjeska se sente indisposta hoje. O que você quer dela?}
+{133}{}{Minha cabeça parece que está querendo se partir em duas. O que você quer de mim?}
+{134}{}{Eu sou Madame Modjeska. Uma vez usuária de jet, entre outras coisas, mas agora só me interesso por
+ outras coisas. Acho que jet não me agrada mais.}
+{135}{}{O que a Madame pode fazer por você?}
+{136}{}{O que você faz aqui, Madame Modjeska?}
+{137}{}{Parece que muita gente aqui é usuária de drogas. O que está acontecendo na cidade ultimamente?}
+{138}{}{Ouviu algum boato interessante?}
+{139}{}{Por que eles te chamam de Madame Modjeska?}
 {140}{}{Qual é o problema com você?}
-{141}{}{What happened to you?}
-{142}{}{Lately, I don't do much at all. I used to run part of Lou's operation at the Malamute Saloon -
- but we had a falling out, so I quit.}
+{141}{}{O que aconteceu com você?}
+{142}{}{Ultimamente, eu não faço muito. Eu costumava comandar parte da operação de Lou no Salão
+ Malamute... mas tivemos um desentendimento, então pedi demissão.}
 {143}{}{Deixa eu te perguntar outra coisa, então.}
-{144}{}{I understand. Well, that's all I needed to know. Goodbye.}
-{145}{}{All I hear about are politics. That always seems to be the big stir in discussion.}
-{146}{}{Politics? What do you mean?}
-{147}{}{Of course. Let me ask you about something else.}
-{148}{}{Well, that's all I needed to know. Goodbye.}
-{149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name
- just stuck, even though I don't work there any more.}
-{150}{}{Where do you work now?}
+{144}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
+{145}{}{Só ouço falar de política. Isso sempre parece ser o grande motivo de discussão.}
+{146}{}{Política? Como assim?}
+{147}{}{É claro. Deixe eu te perguntar sobre outra coisa.}
+{148}{}{Bem, isso é tudo que eu precisava saber. Adeus.}
+{149}{}{Eu costumava trabalhar no Salão Malamute. Como parte desse trabalho, as pessoas me chamavam
+ de Madame. O nome pegou, embora eu não trabalhe mais lá.}
+{150}{}{Onde você trabalha agora?}
 {151}{}{Deixe-me perguntar-lhe algo mais.}
 {152}{}{Acho que é tudo que preciso saber. Adeus.}
-{153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
- batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
-{154}{}{Sounds bad. Let me ask you something else, then.}
-{155}{}{I understand. Well, that's all I needed to know. Goodbye.}
-{156}{}{I feel better than I look. Not by much, but enough.}
-{157}{}{What do you mean? What happened?}
-{158}{}{Have you ever seen a greased brahmin contest?}
-{159}{}{Sure I have. Uh, plenty of times. Let me ask you something else.}
-{160}{}{Nope, never heard of anything like that. Tell me about them.}
-{161}{}{I don't know what that has to do with local politics, and I don't think I want to know. Goodbye.}
-{162}{}{After that last tainted batch of Jet, I've sworn off the stuff. Maybe when I feel better I'll
- get drunk instead. (she laughs)}
-{163}{}{Well, good for you, I guess. Let me ask you something.}
-{164}{}{Interesting. Well, I'll leave you to your recovery. Goodbye.}
-{165}{}{What they do is grease up a brahmin calf, and then everyone in the crowd tries to catch the
- calf. If you can't catch it yourself, you make damn sure nobody else can, either.}
-{166}{}{I don't see what that has to do with politics.}
-{167}{}{Yeah, sure. I've heard enough, Madame Modjeska. Goodbye.}
-{168}{}{In this game, Redding is the greased brahmin - and a golden one at that. New Reno, the New
- California Republic, and Vault City are all trying to catch us... or at least keep the others from
- catching us.}
+{153}{}{Eu chapei um pouco no jet alguns dias e comecei a me sentir muito mal. Deve ter sido um todo
+ lote contaminado. Não estou afim de tentar novamente. Oh, bem, de volta à garrafa, eu acho.}
+{154}{}{Parece ruim. Deixe eu te perguntar outra coisa, então.}
+{155}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
+{156}{}{Eu me sinto melhor do que pareço. Não muito, mas já está bom.}
+{157}{}{O que você quer dizer? O que aconteceu?}
+{158}{}{Você já viu um concurso de brahmin engraxado?}
+{159}{}{Claro que sim, muitas vezes. Deixe eu te perguntar outra coisa.}
+{160}{}{Não, nunca ouvi falar de nada parecido. me conte sobre eles.}
+{161}{}{Não sei o que isso tem a ver com a política local e acho que nem quero saber. Adeus.}
+{162}{}{Depois daquele último lote contaminado de jet, acabei com essa merda. Talvez, quando
+ me sentir melhor, encho a cara. (ela ri)}
+{163}{}{Ta, bom para você, eu acho. Deixe eu te perguntar algo.}
+{164}{}{Interessante. Bem, vou te deixar com sua recuperação. Adeus.}
+{165}{}{O que eles fazem é engraxar um bezerro brahmin, e todo mundo na multidão tentam pegar
+ o bezerro. Se você não conseguir pegá-lo, tente pelo menos fazer com que ninguém consiga também.}
+{166}{}{Não vejo o que isso tem a ver com política.}
+{167}{}{Sim, claro. Já ouvi o bastante, madame Modjeska. Adeus.}
+{168}{}{Neste jogo, Redding é o brahmin engraxado, e um bem valioso. New Reno, República da Nova
+ Califórnia e Vault City estão todos tentando nos pegar... ou pelo menos evitar que os outros
+ nos peguem.}
 {169}{}{O que você quer dizer?}
-{170}{}{That's nice. Well, I better be going, Madame. Thanks for the insight. Goodbye.}
-{171}{}{Here in Redding we mine gold. Then we ship it to New Reno, the NCR, and Vault City in return for
- goods. Each of those places would like to have the gold - and the trade - all to themselves.}
-{172}{}{Why don't they just attack you and take it, then?}
-{173}{}{Who wouldn't? I think I'll try to find some of that gold myself. Thanks, and goodbye.}
-{174}{}{We're big enough, and far enough away, to make a take-over expensive as well as dangerous. Much
- more efficient to have us join willingly.}
+{170}{}{Muito interessante. Bem, é melhor eu ir, madame, obrigado pela compreensão. Adeus.}
+{171}{}{Aqui em Redding extraímos ouro. Em seguida, nós o enviamos para New Reno, NCR e Vault City
+ em troca de mercadorias. Cada um desses lugares gostaria de ter o ouro, e o comércio, mas para eles mesmos.}
+{172}{}{Por que eles simplesmente não atacam vocês e o pegam?}
+{173}{}{Quem não gostaria? Acho que vou tentar encontrar um pouco desse ouro eu mesmo. Obrigado e adeus.}
+{174}{}{Somos grandes e ficamos longe o suficiente para sermos uma aquisição bem cara e perigosa. É muito
+ mais eficiente nos juntarmos voluntariamente.}
 {175}{}{O que você quer dizer?}
-{176}{}{That makes sense. Thanks for clueing me in. Goodbye.}
-{177}{}{The three powers are trying to get Redding to choose which side to ally themselves with. They've
- all got powerful allies in town, and it looks like things are coming to a head. Soon, Redding's going to
- have to make a choice.}
-{178}{}{A choice?}
-{179}{}{Who's working for whom?}
-{180}{}{Money. Hmm. Well I've got to be going. Goodbye.}
-{181}{}{The grease on this Brahmin calf is getting a bit thin. Soon, one of the powers is going to have
- to make a major play to take Redding before the others do. When that happens, people are going to get
- hurt. A lot of people.}
-{182}{}{Who's working for whom?}
-{183}{}{Why are people going to get hurt?}
-{184}{}{Thanks for the info. Goodbye.}
-{185}{}{I'm not altogether sure, but I think the lineup's like this: Dan McGrew's all for New Reno,
- Marge LeBarge's for the NCR, Doc Johnson's for Vault City, and I don't know yet who Mayor Ascorti's for.}
-{186}{}{How can those people help a takeover?}
-{187}{}{Who's Marge LeBarge?}
-{188}{}{Who's Dan McGrew?}
+{176}{}{Isso faz sentido. Obrigado por me informar, adeus.}
+{177}{}{As três potências estão tentando fazer com que Redding escolha de qual lado se aliar. Todos eles
+ têm aliados poderosos na cidade e parece que as coisas estão chegando no limite. Em breve, Redding
+ terá que fazer uma escolha.}
+{178}{}{Uma escolha?}
+{179}{}{Quem está trabalhando para quem?}
+{180}{}{Dinheiro. Hmm, bem, eu tenho que ir. Adeus.}
+{181}{}{A graxa desse bezerro brahmin está ficando um pouco fina. Em breve, um dos grandes terá
+ que fazer uma grande jogada para capturar Redding antes que algum outro faça. Quando isso acontecer,
+ as pessoas vão se machucar. Muitas pessoas.}
+{182}{}{Quem está trabalhando para quem?}
+{183}{}{Por que as pessoas vão se machucar?}
+{184}{}{Obrigado pela informação. Adeus.}
+{185}{}{Não tenho certeza, mas acho que a escalação é assim: Dan McGrew é amiguinho de New
+ Reno, Marge LeBarge da NCR e Dr. Johnson está com Vault City. Só não sei quem o prefeito Ascorti vai favorecer.}
+{186}{}{Como essas pessoas podem tomar o poder?}
+{187}{}{Quem é Marge LeBarge?}
+{188}{}{Quem é Dan McGrew?}
 {189}{}{Quem é o Dr. Johnson?}
-{190}{}{Who's Mayor Ascorti?}
-{191}{}{Thanks for the info. Goodbye.}
-{192}{}{People are going to get hurt because this kind of change doesn't come easy. Those that think
- they're not going to get the prize get it in their mind to not let anyone else get it, either. The
- only way to avoid that is if we decide to go with one of the powers and make a quick alliance before
- the others catch on.}
+{190}{}{Quem é o prefeito Ascorti?}
+{191}{}{Obrigado pela informação. Adeus.}
+{192}{}{As pessoas vão se machucar porque esse tipo de mudança não é fácil. Aqueles que acharem
+ que não vão ganhar o prêmio colocam na cabeça que também não devem deixar ninguém
+ ganhar. A única maneira de evitar isso é se decidirmos ir com um dos grandes e fazer uma aliança
+ rápida antes que os outros percebam.}
 {193}{}{O que você acha que acontecerá?}
 {194}{}{Entendo. Obrigado, tchau.}
-{195}{}{I think that the folks here will follow Mayor Ascorti's lead. He's a crook, but people trust
- that. He'll go with whoever's strongest. You see, whatever's good for Ascorti is also going to be good
- for Redding. I think he just hasn't figured out who's closest to being on top yet. But he's got to
- choose soon.}
+{195}{}{Acho que o pessoal aqui vai seguir o exemplo do prefeito Ascorti. Ele é um vigarista, mas
+ as pessoas confiam nele, e ele vai com quem for mais forte. Veja bem, o que for bom para Ascorti
+ também será bom para Redding. Mas acho que ele ainda não descobriu quem seria o mais
+ indicado, só que ele precisa escolher logo.}
 {196}{}{Deixa eu te perguntar outra coisa.}
-{197}{}{Thanks for letting me know what's going on here. Goodbye.}
-{198}{}{Marge LeBarge is the owner of the Kokoweef Mine. It and the Morningstar Mine are the only two
- working mines left in Redding. I think that Marge's more of an NCR type. I don't think she likes their
- prudishness, but she recognizes power when she sees it.}
-{199}{}{Who's Dan McGrew?}
+{197}{}{Obrigado por me informar sobre o que está acontecendo aqui. Adeus.}
+{198}{}{Marge LeBarge é a proprietária da Mina Kokoweef. Ela e a Mina Morningstar são as únicas duas
+ minas em funcionamento que restam em Redding. Acho que Marge vai para o lado da NCR, ela nem
+ deve gostar do puritanismo deles, mas reconhece poder quando o vê.}
+{199}{}{Quem é Dan McGrew?}
 {200}{}{Quem é o Dr. Johnson?}
-{201}{}{Who's Mayor Ascorti?}
-{202}{}{How can these people help a takeover?}
-{203}{}{Thanks for the info. Goodbye.}
-{204}{}{Dangerous Dan McGrew, ah, yes. He's the owner of the Morningstar Mine. It and the Kokoweef Mine
- are the only two working mines left in Redding. I think Dan is leaning more towards New Reno, if I had
- to guess. He likes his miners doped up and happy.}
-{205}{}{Who's Marge LeBarge?}
+{201}{}{Quem é o prefeito Ascorti?}
+{202}{}{Como eles podem ajudar a tomar o poder?}
+{203}{}{Obrigado pela informação. Adeus.}
+{204}{}{O Perigoso Dan McGrew, ah, sim, ele é dono da Mina Morningstar. Ela e a Mina Kokoweef são as únicas
+ duas minas em funcionamento que restam em Redding. Acho que Dan vai mais para o lado de New Reno,
+ pelo menos o que acha. Ele gosta de seus mineiros chapados e felizes.}
+{205}{}{Quem é Marge LeBarge?}
 {206}{}{Quem é o Dr. Johnson?}
-{207}{}{Who's Mayor Ascorti?}
-{208}{}{How can these people help a takeover?}
-{209}{}{Thanks for the info. Goodbye.}
-{210}{}{Ascorti's the Mayor. He runs Ascorti's Ace downtown. He takes care of buying and selling a lot
- of stuff. He's right in the middle of all kinds o' thangs.}
+{207}{}{Quem é o prefeito Ascorti?}
+{208}{}{Como eles podem ajudar a tomar o poder?}
+{209}{}{Obrigado pela informação. Adeus.}
+{210}{}{Ascorti é o prefeito, ele comanda o Ás de Ascorti's lá no centro, ele compra e vende um monte
+ de coisas. Ele sempre está metido no meio de todo tipo de coisa.}
 {211}{}{Ascorti é o prefeito de Redding. Mas não sei direito onde ele está, faz um bom tempo que não
  o vejo por aí.}
 {212}{}{Deixa eu te perguntar outra coisa.}
 {213}{}{Acho que já ouvi você o suficiente. Adeus.}
-{214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
+{214}{}{Jet é uma droga maravilhosa que me ajuda a superar essa existência miserável, meu bem.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}
 {216}{}{Interessante. Obrigado e adeus.}
-{217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
+{217}{}{Jet é uma droga que me ajuda a me sentir verdadeiramente viva. Eu sou uma verdadeira pilota quando tenho jet.}
 {218}{}{Deixe-me perguntar-lhe algo mais.}
-{219}{}{Interesting. Thanks, and goodbye.}
-{220}{}{Mmmm, I'll tell you what Jet is. It's delicious, that's what it is. Jet has something for
- everybody.}
+{219}{}{Interessante. Obrigado e adeus.}
+{220}{}{Mmmm, vou te dizer o que é jet. É delicioso, isso que é. Jet tem alguma coisa para
+ qualquer um.}
 {221}{}{Deixe-me perguntar-lhe algo mais.}
-{222}{}{Interesting. Thanks, and goodbye.}
-{223}{}{Jet used to be the thing. Now it's turning my guts around and around like a worn-out washing
- machine. I wouldn't recommend any of the current batch. This Jet has run out of fuel and crashed,
- darling.}
-{224}{}{Sure, sorry. Let me ask you something else.}
-{225}{}{Interesting. Thanks, and goodbye.}
-{226}{}{Something was desperately wrong with the last batch of Jet that went through town. It crashed
- and burned on take-off. I think I'm through flying. Now, drinking - there's something that you can
- depend on.}
+{222}{}{Interessante. Obrigado e adeus.}
+{223}{}{Jet costumava ser o melhor, agora ele está revirando minhas entranhas como uma máquina
+ de lavar. Eu não recomendo nenhum do lote mais recente. Este jato ficou sem combustível e caiu,
+ meu bem.}
+{224}{}{Claro, desculpe. Deixe eu te perguntar outra coisa.}
+{225}{}{Interessante. Obrigado e adeus.}
+{226}{}{Algo estava totalmente errado com esse último lote de jet que veio na cidade, ele queimou e
+ caiu na decolagem. Me cansei dessa coisa de chapar, agora, só bebo, é algo que você pode confiar.}
 {227}{}{Deixe-me perguntar-lhe algo mais.}
-{228}{}{Interesting. Thanks, and goodbye.}
-{229}{}{Painless Doc Johnson's sort of a mystery man. I don't know where he came from, but he's a real
- M.D., all right. Only place he'd get training like that is Vault City. I'm betting he's been planted
- here to further their interests. He must've pissed off someone there to get the assignment, though;
- those VC'ers don't like the outside much.}
-{230}{}{Who's Marge LeBarge?}
-{231}{}{Who's Dan McGrew?}
-{232}{}{Who's Mayor Ascorti?}
-{233}{}{How can these people help a takeover?}
-{234}{}{Thanks for the info. Goodbye.}
-{235}{}{The Mayor's a man that knows how to play both sides while he's stealing the middle. He's got a
- few scruples left, but mostly he'll do what's right for Redding in order to keep his own interests safe.}
-{236}{}{Who's Marge LeBarge?}
-{237}{}{Who's Dan McGrew?}
+{228}{}{Interessante. Obrigado e adeus.}
+{229}{}{O Indolor Dr. Johnson é um tipo de homem misterioso. Não sei de onde ele veio, mas ele é um
+ médico autêntico. O único lugar onde ele teria um treinamento assim é Vault City. Aposto que
+ ele foi colocado aqui para promover seus interesses. Ele deve ter chateado alguém por lá para que
+ fosse mandado aqui; aqueles cidadãos não gostam muito do lado de fora.}
+{230}{}{Quem é Marge LeBarge?}
+{231}{}{Quem é Dan McGrew?}
+{232}{}{Quem é o prefeito Ascorti?}
+{233}{}{Como eles podem ajudar a tomar o poder?}
+{234}{}{Obrigado pela informação. Adeus.}
+{235}{}{O prefeito é um homem que sabe jogar dos dois lados enquanto rouba o meio. Ele não tem
+ muitos escrúpulos, apesar disso, fará o que é certo para Redding, o que coincide com a segurança de seus próprios interesses.}
+{236}{}{Quem é Marge LeBarge?}
+{237}{}{Quem é Dan McGrew?}
 {238}{}{Quem é o Dr. Johnson?}
-{239}{}{How can these people help a takeover?}
-{240}{}{Thanks for the info. Goodbye.}
+{239}{}{Como eles podem ajudar a tomar o poder?}
+{240}{}{Obrigado pela informação. Adeus.}

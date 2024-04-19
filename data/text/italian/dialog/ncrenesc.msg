@@ -78,7 +78,7 @@
 {378}{}{Bene, come vuoi tu. Adesso devo andare.}
 {385}{}{E allora? Nessuno OBBLIGA quegli idioti ad inalare Jet. Nessuno va in giro a ficcarlo nelle loro gole!}
 {386}{}{Posso vedere -}
-{387}{}{Ma non  -}
+{387}{}{Ma non -}
 {388}{}{Questo e' quello -}
 {395}{}{Quegli idioti spaccasassi di Redding SANNO quello che stanno prendendo, per cui non provo un millimetro di pieta' per loro! Per quello che mi interessa, il Jet spazza via quei rifiuti umani che sarebbe meglio fossero morti quando caddero le bombe!}
 {396}{}{Uh, okay. Posso vedere la tua merce?}

@@ -30,13 +30,13 @@
 {177}{}{Nem, kösz.}
 {178}{}{Nincs elég pénzed!}
 {179}{}{Ó, bocs. Kicsit leégtem.}
-{180}{}{I'll come back.}
+{180}{}{Később visszajövök.}
 {181}{}{Mit akar?}
 {182}{}{Whiskey-t.}
-{183}{}{Nothing. I'm leaving.}
+{183}{}{Semmit, inkább megyek.}
 {184}{}{Pipilni kell!}
 {185}{}{És maradj is odakint!}
-{186}{}{[EXIT]}
+{186}{}{[Távozol]}
 {187}{}{Nem tűrök ilyen embereket a báromban! Takarodj kifelé!}
 {188}{}{Rendben, megyek már.}
 {189}{}{Vááh.}
@@ -69,7 +69,7 @@
 {216}{}{Gondolkozz! Mi egyéb helyről szerezhetnél piát?}
 {217}{}{Ezt hogy érted?}
 {218}{}{Vásárold tőle a piát! Olcsóbb, mint ami New Renóból jön, így többet is keresel.}
-{219}{}{I don't want to do this.}
+{219}{}{Nem akarom ezt tenni!}
 {220}{}{Rá se ránts!}
 {221}{}{Nézd, én csak azt akarom, hogy a lepárlója tönkre menjen. Megteszed?}
 {222}{}{Rendben, megteszem.}
@@ -126,4 +126,4 @@
 {354}{}{Hát, ennél rosszabb még sosem volt.}
 {400}{}{Tudod, bébi, szexi vagy meg minden, de van még mit tanulnod.}
 {410}{}{Bébi, dolgoznom kell. Nem azért állok itt egész nap, hogy ne csináljak semmit. Na, jó, mi van, ha mégis? Szóval ezért vagyok itt.}
-{420}{}{Look, I just wanted her still destroyed and you do it. Now beat it.}
+{420}{}{Nézd, én csak azt akarom, hogy a lepárlója tönkre menjen. Megteszed?}

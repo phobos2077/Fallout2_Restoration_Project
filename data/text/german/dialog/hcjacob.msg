@@ -41,7 +41,7 @@
 {162}{}{Toll. Bis dann.}
 {163}{}{Tschüss.}
 {164}{}{Er herrscht hier schon, seit der Meister überwältigt wurde und unterwirft alle, die anders als er denken...manche verschwinden einfach. Oberflächlich betrachtet wirkt hier alles zivilisiert, aber im Grunde ist es nichts weiter als ein Schlachtfeld für blutrünstige Mutanten. Der Freund eines Freundes hatte einen Freund, der ist verschwunden, nachdem er den Mund aufgemacht hat.}
-{165}{}{Mach weiter.}
+{165}{}{Ja?}
 {166}{}{Das reicht. Du bist ja verrückt. Auf Wiedersehen.}
 {167}{}{Wir machen uns alle vor, dass wir in einer zivilisierten Stadt leben, dass es uns richtig gut geht,...aber wir leben ständig in Angst vor dem Zorn des Mutanten. Jeden Tag gibt es hier weniger Menschen.}
 {168}{}{Alle Mutanten, die ich kenne, sehen alt und gebrechlich aus.}
@@ -142,6 +142,6 @@
 {311}{}{Ich hab noch ein paar Fragen.}
 {312}{}{Nichts, vergiss es.}
 {313}{}{Danke.}
-{314}{}{[FORTSETZEN]}
+{314}{}{[Weiter]}
 {315}{}{Hallo, Freund! Danke, dass du geholfen hast, unsere Freunde aus der Patsche zu holen. Jetzt hast du was bei mir gut.}
 {316}{}{Danke.}

@@ -10,7 +10,6 @@ FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "PartyMemberExtraInfo"; Strin
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "PlayIdleAnimOnReload"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "SpeedInventoryPCRotation"; String: "800"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "SpeedInterfaceCounterAnims"; String: "2"; Components: qol;
-FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "StackEmptyWeapons"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "WorldMapFontPatch"; String: "1"; Components: qol;
 
 FileName: "{app}\ddraw.ini"; Section: "Sound"; Key: "NumSoundBuffers"; String: "32"; Components: qol;

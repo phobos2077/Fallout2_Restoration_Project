@@ -552,7 +552,6 @@ else if (local_var(LVAR_Wooz_Friend) == 2) then begin
 //I set it if player buys 3 or more round of drinks
    Reply(112);
 end
-   Reply(110);
    NOption(113,Node007,004); //edit by killap - was 001
    NOption(114,Node004,004);
    NOption(115,Node006,004);

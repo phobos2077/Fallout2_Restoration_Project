@@ -49,7 +49,7 @@
 {210}{}{Vi a Jonny jugando cerca del pozo con su perro Laddie. Qué chico más majo.}
 {211}{}{No vayas a la Granja Fantasma salvo que te hayas cansado de vivir.}
 {212}{}{Miria es una chica maja. Solíamos jugar a los médicos cuando era pequeña.}
-{213}{}{Davin es un chico majo. Me pregunto porque no se parecerá en nada a su padre.}
+{213}{}{Davin es un chico majo. Me pregunto por qué no se parecerá en nada a su padre.}
 {214}{}{Un día me senté en el retrete y un gran perro salió de la alcantarilla. Me dio un susto de muerte.}
 {215}{}{Grisham es buena gente. Nos vende los restos de los animales para alimentar a la gallina gigante.}
 {216}{}{¡Aléjate del gallinero! Casi pierdo un brazo dando de comer a esa cosa.}

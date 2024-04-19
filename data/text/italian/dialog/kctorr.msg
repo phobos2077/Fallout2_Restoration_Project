@@ -54,7 +54,7 @@
 {211}{}{Uckner Zoogy? (Grazie. Comprero' qui quello che che mi serve. Lascia che ti chieda qualcos'altro.)}
 {212}{}{Zoogy no. (Grazie del consiglio. Non credo di aver bisogno d'altro, per adesso. Ci vediamo.)}
 {220}{}{Jeannie? Gick Vic (Allora tu vuoi un GECK, eh? Non facevano parte dell'equipaggiamento base dei Vault, in origine? Non so dove tu possa trovarne uno, ma se c'e' una persona che lo sa, questa e' sicuramente Vic, il mercante. E' specializzato in oggetti pre-bellici. Vive nella zona nordest di Klamath.)}
-{221}{}{Bellows, Gick Vic?  (Grazie per la dritta. Provero' da Vic. Lascia che ti chieda qualcos'altro.)}
+{221}{}{Bellows, Gick Vic? (Grazie per la dritta. Provero' da Vic. Lascia che ti chieda qualcos'altro.)}
 {222}{}{Roger? Gick Vic, Haji! (Grazie; credo che andro' subito a cercarlo. Arrivederci.)}
 {229}{}{Torr piace }
 {230}{}{. Torr grazie. Uomi insetto cattivi, no lascia uomi insetto mangiare mu'-mu'! (Grazie mille dell'aiuto. Quegli uomini insetto mi fanno venire i brividi. Spero che riusciremo ad evitare di perdere altri brahmin.)}

@@ -1,4 +1,4 @@
-{100}{}{TÃ­tulo apagado}
+{100}{}{Título apagado}
 {200}{}{}
 {300}{}{}
 {400}{}{}
@@ -642,21 +642,21 @@
 {64200}{}{Telhado}
 {64300}{}{Telhado}
 {64400}{}{Telhado}
-{64500}{}{Telhado}
-{64600}{}{Telhado}
-{64700}{}{Telhado}
-{64800}{}{Telhado}
-{64900}{}{Telhado}
-{65000}{}{Telhado}
-{65100}{}{Telhado}
-{65200}{}{Telhado}
-{65300}{}{Telhado}
-{65400}{}{Telhado}
-{65500}{}{Telhado}
-{65600}{}{Telhado}
-{65700}{}{Telhado}
-{65800}{}{Telhado}
-{65900}{}{Telhado}
+{64500}{}{}
+{64600}{}{}
+{64700}{}{}
+{64800}{}{}
+{64900}{}{}
+{65000}{}{}
+{65100}{}{}
+{65200}{}{}
+{65300}{}{}
+{65400}{}{}
+{65500}{}{}
+{65600}{}{}
+{65700}{}{}
+{65800}{}{}
+{65900}{}{}
 {66000}{}{Telhado}
 {66100}{}{Piso}
 {66200}{}{Telhado}
@@ -811,7 +811,83 @@
 {105400}{}{Lodo}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{Pavimento em mosaico}
+{242300}{}{Piso}
+{242400}{}{Piso}
+{242500}{}{Piso}
+{242600}{}{Piso}
+{242700}{}{Piso}
+{242800}{}{Piso}
+{242900}{}{Piso}
+{243000}{}{Piso}
+{243100}{}{Piso}
+{243200}{}{Piso}
+{243300}{}{Piso}
+{243400}{}{Piso}
+{243500}{}{Piso}
+{243600}{}{Piso}
+{243700}{}{Piso}
+{243800}{}{Piso}
+{243900}{}{Piso}
+{244000}{}{Piso}
+{244100}{}{Piso}
+{244200}{}{Piso}
+{244300}{}{Piso}
+{244400}{}{Piso}
+{244500}{}{Piso}
+{244600}{}{Piso}
+{244700}{}{Piso}
+{244800}{}{Piso}
+{244900}{}{Piso}
+{245000}{}{Piso}
+{245100}{}{Piso}
+{245200}{}{Piso}
+{245300}{}{Piso}
+{245400}{}{Piso}
+{245500}{}{Fim do grupo}
+{245600}{}{Telhado}
+{245700}{}{Telhado}
+{245800}{}{Telhado}
+{245900}{}{Telhado}
+{246000}{}{Telhado}
+{246100}{}{Telhado}
+{246200}{}{Telhado}
+{246300}{}{Telhado}
+{246400}{}{Telhado}
+{246500}{}{Telhado}
+{246600}{}{Telhado}
+{246700}{}{Telhado}
+{246800}{}{Telhado}
+{246900}{}{Telhado}
+{247000}{}{Telhado}
+{247100}{}{Telhado}
+{247200}{}{Telhado}
+{247300}{}{Telhado}
+{247400}{}{Telhado}
+{247500}{}{Telhado}
+{247600}{}{Telhado}
+{247700}{}{Telhado}
+{247800}{}{Telhado}
+{247900}{}{Telhado}
+{248000}{}{Telhado}
+{248100}{}{Telhado}
+{248200}{}{Fim do grupo}
+{249100}{}{Fim do grupo}
+{250400}{}{Fim do grupo}
+{250500}{}{Piso de madeira}
+{250600}{}{Piso de madeira}
+{250700}{}{Piso de madeira}
+{250800}{}{Piso de madeira}
+{250900}{}{Piso de madeira}
+{251000}{}{Piso de madeira}
+{251100}{}{Piso de madeira}
+{251200}{}{Piso de madeira}
+{251300}{}{Piso de madeira}
+{251400}{}{Piso de madeira}
+{251500}{}{Piso de madeira}
+{251600}{}{Fim do grupo}
+{310300}{}{}
+{313100}{}{Fim do grupo}
+{318200}{}{Fim do grupo}
 {369100}{}{Telhado}
 {369200}{}{Telhado}
 {369300}{}{Telhado}
@@ -878,35 +954,35 @@
 {376200}{}{Telhado}
 {376300}{}{Telhado}
 {376400}{}{Telhado}
-{379100}{}{TubulaÃ§Ãµes do telhado}
-{379200}{}{TubulaÃ§Ãµes do telhado}
-{379300}{}{TubulaÃ§Ãµes do telhado}
-{379400}{}{TubulaÃ§Ãµes do telhado}
-{379500}{}{TubulaÃ§Ãµes do telhado}
-{379600}{}{TubulaÃ§Ãµes do telhado}
-{379700}{}{TubulaÃ§Ãµes do telhado}
-{379800}{}{TubulaÃ§Ãµes do telhado}
-{379900}{}{TubulaÃ§Ãµes do telhado}
-{380000}{}{TubulaÃ§Ãµes do telhado}
-{380100}{}{TubulaÃ§Ãµes do telhado}
-{380200}{}{TubulaÃ§Ãµes do telhado}
-{380300}{}{TubulaÃ§Ãµes do telhado}
-{380400}{}{TubulaÃ§Ãµes do telhado}
-{380500}{}{TubulaÃ§Ãµes do telhado}
-{380600}{}{TubulaÃ§Ãµes do telhado}
-{380700}{}{TubulaÃ§Ãµes do telhado}
-{380800}{}{TubulaÃ§Ãµes do telhado}
-{380900}{}{TubulaÃ§Ãµes do telhado}
-{381000}{}{TubulaÃ§Ãµes do telhado}
-{381100}{}{TubulaÃ§Ãµes do telhado}
-{381200}{}{TubulaÃ§Ãµes do telhado}
-{381300}{}{TubulaÃ§Ãµes do telhado}
-{381400}{}{TubulaÃ§Ãµes do telhado}
-{381500}{}{TubulaÃ§Ãµes do telhado}
-{381600}{}{TubulaÃ§Ãµes do telhado}
-{381700}{}{TubulaÃ§Ãµes do telhado}
-{381800}{}{TubulaÃ§Ãµes do telhado}
-{381900}{}{TubulaÃ§Ãµes do telhado}
+{379100}{}{}
+{379200}{}{}
+{379300}{}{}
+{379400}{}{}
+{379500}{}{}
+{379600}{}{}
+{379700}{}{}
+{379800}{}{}
+{379900}{}{}
+{380000}{}{}
+{380100}{}{}
+{380200}{}{}
+{380300}{}{}
+{380400}{}{}
+{380500}{}{}
+{380600}{}{}
+{380700}{}{}
+{380800}{}{}
+{380900}{}{}
+{381000}{}{}
+{381100}{}{}
+{381200}{}{}
+{381300}{}{}
+{381400}{}{}
+{381500}{}{}
+{381600}{}{}
+{381700}{}{}
+{381800}{}{}
+{381900}{}{}
 {385900}{}{Telhado}
 {386000}{}{Telhado}
 {386100}{}{Telhado}
@@ -935,4 +1011,4 @@
 {388400}{}{Telhado}
 {388500}{}{Telhado}
 {388600}{}{Telhado}
-{388700}{}{VentilaÃ§Ã£o de teto}
+{388700}{}{Ventilação de teto}

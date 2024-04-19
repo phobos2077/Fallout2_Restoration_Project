@@ -42,7 +42,7 @@
 {151}{}{tartalma aranyérc.}
 {152}{}{tartalma uráncérc.}
 {153}{}{nem más, mint egy halom mezőgazdasági termék.}
-{154}{}{drugs.}
+{154}{}{drogok.}
 {155}{}{néhány rabszolga.}
 {156}{}{csupa hasznos kis holmi.}
 {198}{}{New Reno érdekelne.}
@@ -55,6 +55,6 @@
 {205}{}{Gekko}
 {206}{}{Merre van San Francisco?}
 {207}{}{Modoc}
-{208}{}{Klamath}
+{208}{}{Kalmath}
 {209}{}{15-os Menedek}
 {300}{}{Kösz, hogy üzletelhettünk.}

@@ -2,7 +2,7 @@
 {101}{}{Você vê Harold.}
 {102}{}{Você vê um ghoul muito velho, mas com uma aparência ágil.}
 {103}{hld1a}{Preciso te dizer, o velho Harold é um pouco lento entender. Nós dois conversando não resolveríamos nada.}
-{104}{hld1b}{Ahh, você não é fofo. Só não tenho tempo para tentar entender você.}
+{104}{hld1b}{Ahh, você não é fofo. Não tenho tempo para tentar entender você agora.}
 {105}{hld1c}{Heh heh, que coisas você vê. }
 {106}{hld2a}{Olá, pele lisa. Meu nome é Harold. Eu ajudo a manter esta cidade funcionando.}
 {107}{hld2a1}{Do que precisa, jovem?}
@@ -40,7 +40,7 @@
 {139}{}{Isso soa mal.}
 {140}{hld7}{Uh, sim, isso seria ruim. Agora, eu consertei as coisas a tempo, mas chegamos perto do fim. Eles precisam de alguém para cuidar deles.}
 {141}{}{Que bom que você está aqui para ajudá-los.}
-{142}{hld8}{Quem iria pensar que eu estaria consertando as coisas? Mas se não conseguirmos um Regulador Hidrelétrico da Magnetosfera muito rápido, teremos problemas.}
+{142}{hld8}{Quem teria pensado que eu estaria fazendo as coisas direito? Mas se não conseguirmos um Regulador Hidroelétrico da Magnetosfera bem rápido, teremos problemas.}
 {143}{}{Mas que porra é um Regulador Hidrelétrico de sei lá o que?}
 {144}{}{Hmm, parece um problema real, sim. Deixe eu perguntar outra coisa.}
 {145}{}{Problema? Que tipo de problema?}
@@ -54,7 +54,7 @@
 {153}{}{Obrigado. Espero viver de acordo com meu ancestral. Deixa eu aproveitar para perguntar sobre outra coisa.}
 {154}{}{Feliz por ajudar. Deixa eu perguntar sobre outra coisa.}
 {155}{}{Bem, tudo em um dia de trabalho, na verdade. Mas eu preciso ir agora. Pessoas para salvar, monstros para matar, desastres para evitar, você sabe, esse tipo de coisa. Adeus.}
-{156}{hld14}{Você corta com o gume cego da faca, não é? Você não parece uma casca de laranja deixada no sol o dia todo. Sua pele ainda está macia e bonita. }
+{156}{hld14}{Você corta com a ponta cega da faca, né não? Você não parece uma casca de laranja deixada no sol o dia todo. Sua pele ainda é suave e macia. }
 {157}{}{Entendi. Vou tentar fazer com que minha próxima pergunta valha mais a pena.}
 {158}{}{Oh. Sim. Ei, deixe-me perguntar outra coisa.}
 {159}{}{É melhor você não ter nenhuma ideia engraçada sobre minha pele macia.}

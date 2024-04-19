@@ -64,7 +64,7 @@
 {149}{}{Wie wär's mit mir? Vielleicht kannst du ja mich empfehlen.}
 {150}{}{Hmm. Das ist kein Zuckerlecken, würd ich sagen.}
 {151}{}{Dich? Hmmm.... nein, das geht nicht. Ich kenn dich ja gar nicht - am besten wär's, wenn
- du einfach selber zu ihr hingehst. Ihr Büro ist in der Kongreßhalle.}
+ du einfach selber zu ihr hingehst. Ihr Büro ist in der Kongresshalle.}
 {152}{}{Danke. Werd ich tun.}
 {153}{}{Weißt du was von einem GECK?}
 {154}{}{Ist ja furchtbar nett von dir, Fremdling - und auch verdammt frech. Ich hab überhaupt

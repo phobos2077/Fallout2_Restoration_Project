@@ -1,11 +1,11 @@
-{100}{}{You see a someone wearing combat armor.}
+{100}{}{Você vê alguém vestindo uma armadura de combate.}
 {101}{}{Você vê um guarda.}
-{102}{}{He looks to be standing here waiting for something to happen.}
-{103}{}{Yeah, yeah. Move along.}
-{104}{}{You make sure you're nice to Mr. Buster so we don't have to waste any ammo.}
-{105}{}{I'm here to kick ass and chew bubble gum. Good thing for you I have one stick left.}
-{106}{}{What the hell you looking at? Blow.}
-{107}{}{Hey, I am not into that. Just make sure you keep a good distance from me.}
-{108}{}{Yeah, that's right come over to papa. Why don't we meet later for a drink?}
-{109}{}{Honey, I'd sleep with a brahmin before I looked at you twice.}
-{110}{}{Just buy something and get the hell out of here.}
+{102}{}{Ele parece estar parado aqui esperando algo acontecer.}
+{103}{}{Sim, sim. Adiante.}
+{104}{}{Certifique-se de ser legal com o Sr. Buster para que não tenhamos que desperdiçar munição.}
+{105}{}{Estou aqui para chutar bundas e mascar chiclete. Sua sorte é que eu ainda tenho um chiclete.}
+{106}{}{Tá olhando o que aqui? Se manda.}
+{107}{}{Ei, eu não estou nisso. Agora tente ficar a uma boa distância de mim.}
+{108}{}{Sim, isso mesmo, venha para o papai. Por que não nos encontramos mais tarde para uma bebida?}
+{109}{}{Querida, eu dormiria com um brahmin antes de te olhar de novo.}
+{110}{}{É só comprar alguma coisa e dar o fora daqui.}

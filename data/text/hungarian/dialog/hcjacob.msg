@@ -13,7 +13,7 @@
 {112}{}{Azt mondták, hogy beszéljek veled egy bizonyos mutánsokkal kapcsolatos problémáról.}
 {113}{}{Viszlát!}
 {114}{}{::arca grimaszba rándul:: Menj innen! Nincs időm az ilyenekre!}
-{115}{}{[DONE]}
+{115}{}{[RENDBEN]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
 {117}{}{Megint te? Szeretnél valamit?}
 {118}{}{Ige'!}
@@ -21,7 +21,7 @@
 {120}{}{Rendben. Lássuk, mit adhatok!}
 {121}{}{[TOVÁBBI LEHETŐSÉG]}
 {122}{}{Akkor távozz!}
-{123}{}{[DONE]}
+{123}{}{[RENDBEN]}
 {124}{}{Tessék. Megvagyunk. Kösz a borravalót. Most pedig kérlek, távozz!}
 {125}{}{Okké!}
 {148}{}{Előbb mondd el, hogy viszonyulsz a mutánsokhoz!}
@@ -100,7 +100,7 @@ tűnj el onnan! Elrendeztük, hogy a mutánsok a bányában legyenek.}
 {266}{}{Igen.}
 {267}{}{Nem, azt hiszem, mégiscsak vállalom.}
 {268}{}{Azt hiszem, megértem. Remélem, te is meg fogod érteni, amikor azt mondom, hogy tűnj a szemem elől! Áruló!}
-{269}{}{[DONE]}
+{269}{}{[RENDBEN]}
 {270}{}{Készen állsz a terv végrehajtására?}
 {272}{}{Igen. Húzzunk bele!}
 {273}{}{I've changed my mind. I don't want to do this.}

@@ -7,7 +7,7 @@
 {201}{}{Pénzt vagy életet!}
 {202}{}{Ez itt egy rablás!}
 {203}{}{Ide az összes értéktárggyal!}
-{204}{}{Don't move! This is a holdup.}
+{204}{}{Ne mozdulj! Ez egy rablótámadás.}
 {205}{}{Fel a kezekkel!}
 {206}{}{Kutassátok át őket!}
 {207}{}{Csak semmi pánik! Egy perc, és készen vagyunk.}

@@ -100,3 +100,15 @@
 {191}{}{Ya veo. ¿Te importa si te hago algunas preguntas más?}
 {192}{}{Quizá debería ir a ver si puedo encontrarlo.}
 {193}{}{! Bien hecho! Bravo!}
+{194}{}{Oh, claro que lo haré, desearía que más personas lo hicieran también.}
+{195}{}{¡Sin duda comparto el sentimiento!, ha pasado un tiempo desde que vi a alguien que estuviera mínimamente interesado. Aunque solía conocer un comerciante con quién compartía esa pasión...}
+{196}{}{¿En serio?, ¿lo hacía?}
+{197}{}{Bueno, es bueno saber que somos más. ¿Te importa si te pregunto otra cosa?}
+{198}{}{Bueno, espero que haya más de nosotros por ahí. ¡Muchas gracias y adiós!}
+{199}{}{Sí, venía al patio a comerciar bebidas alcohólicas, pero entraba a comprar libros. Ni siquiera le habría cobrado, pero insistía. Dijo que su gente en su hogar los amaba.}
+{200}{}{¡Vaya, es un idea muy reconfortante!, ¿dónde estaba su casa?}
+{201}{}{¿Por qué ya no viene?}
+{202}{}{Dijo que era un lugar que llaman la Abadía, un poco al norte de aquí. Incluso me mostró exactamente dónde, es justo... aquí. Me encantaría verlo, pero solo ver patio es suficiente para hacerme entrar en pánico.}
+{203}{}{Bueno, supongo que pudo intentar vender bebidas alcohólicas dentro de la ciudad. Es ilegal, ¿sabes?}
+{204}{}{Ah, que desafortunado. Bueno, gracias por la información. ¿Te molesta si pregunto algo más?}
+{205}{}{Ah, tentó su suerte. ¿De dónde dijo que era?}

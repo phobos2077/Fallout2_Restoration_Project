@@ -45,7 +45,7 @@
 {193}{}{Was hast'n da an?}
 {194}{}{Ich möchte auf 'nem Brahmin reiten!}
 {195}{}{Bist du von weit weg?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Uuuiii! Ha Ha Ha!}
 {197}{}{Geh nicht weg!}
 {198}{}{Hast du was zum Essen?}
 {199}{}{Stör ich dich?}
@@ -78,7 +78,7 @@
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{(die) Vault}
 {1006}{}{Auserwähltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}

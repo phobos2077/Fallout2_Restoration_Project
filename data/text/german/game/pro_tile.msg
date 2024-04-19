@@ -843,7 +843,7 @@
 {245200}{}{Boden}
 {245300}{}{Boden}
 {245400}{}{Boden}
-{245500}{}{End of Group}
+{245500}{}{Ende der Gruppe}
 {245600}{}{Dach}
 {245700}{}{Dach}
 {245800}{}{Dach}
@@ -870,9 +870,9 @@
 {247900}{}{Dach}
 {248000}{}{Dach}
 {248100}{}{Dach}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Ende der Gruppe}
+{249100}{}{Ende der Gruppe}
+{250400}{}{Ende der Gruppe}
 {250500}{}{Holzboden}
 {250600}{}{Holzboden}
 {250700}{}{Holzboden}
@@ -884,10 +884,10 @@
 {251300}{}{Holzboden}
 {251400}{}{Holzboden}
 {251500}{}{Holzboden}
-{251600}{}{End of Group}
+{251600}{}{Ende der Gruppe}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Ende der Gruppe}
+{318200}{}{Ende der Gruppe}
 {369100}{}{Dach}
 {369200}{}{Dach}
 {369300}{}{Dach}

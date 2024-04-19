@@ -92,7 +92,7 @@
 {4601}{}{Torba średniej wielkości, wykonana z tkanego owłosienia braminy.}
 {4700}{}{Apteczkę pierwszej pomocy.}
 {4701}{}{Niewielki zestaw zawierający podstawowe środki medyczne. Plastry, bandaże, aerozol antyseptyczny i inne podobne materiały.}
-{4800}{}{AntyRad}
+{4800}{}{AntyRad.}
 {4801}{}{Roztwór chemiczny, który wiąże pierwiastki radioaktywne i wypłukuje je ze sobą z organizmu. Mija nieco czasu, nim zadziała.}
 {4900}{}{antidotum}
 {4901}{}{Butelka zawierająca domowej roboty odtrutkę na jad - przypominający mleko płyn, w którym pływają skrawki mięsa radskorpiona.}
@@ -1100,7 +1100,7 @@
 {56800}{}{zdalnie aktywowany dynamit}
 {56801}{}{W przeciwieństwie normalnego dynamitu odpalanego przez zegar, ten dynamit może być wysadzony zdalnie. Ten jest uzbrojony i gotowy do użycia.}
 {56900}{}{landrynki}
-{56901}{}{Nie otwarta paczka twardych cukierków zrobionych z cukru, laktozy (więcej cukru), syropu skrobiowego (jeszcze więcej cukru) i przypraw. Według plotki w połączeniu z pewnymi napojami jak na przykład z Nuka Colą mogą rozsadzić żołądek.}
+{56901}{}{Nie otwarta paczka twardych cukierków zrobionych z cukru, laktozy (więcej cukru), syropu skrobiowego (jeszcze więcej cukru) i przypraw. Według plotki w połączeniu z pewnymi napojami jak na przykład z Nuka-Colą mogą rozsadzić żołądek.}
 {57000}{}{butelka szamponu}
 {57001}{}{Szampon w limitowanej butelce. W przeciwieństwie do innych wiodących marek, ten szampon jest w elastycznej plastikowej butelce. Została tak zaprojektowana, że po ściśnięciu uwalnia określoną ilość szamponu - nie mniej, nie więcej. A i można nim umyć pół głowy.}
 {57100}{}{K9 Kewlar}

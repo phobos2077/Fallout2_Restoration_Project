@@ -1,2 +1,2 @@
-{100}{}{You are supposed to use this on a super-mutant.}
-{101}{}{You used the Mutagenic Serum.}
+{100}{}{Você deveria usar isso em um super-mutante.}
+{101}{}{Você usou o Soro Mutagênico.}

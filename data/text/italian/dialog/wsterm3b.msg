@@ -76,7 +76,7 @@
 {175}{}{}
 {176}{}{Come posso aiutarti?}
 {177}{}{Mi dispiace. Non posso aiutarti.}
-{178}{}{Vuoi che ti aiuti dopo che hai tentato di uccidermi?           Scordatelo!}
+{178}{}{Vuoi che ti aiuti dopo che hai tentato di uccidermi? Scordatelo!}
 {179}{}{Raggiungi il Bio Deposito - Livello 4                                Recupera il Cervello Cybernetico                             Ritorna qui per ricevere ulteriori istruzioni                     -Grazie-}
 {180}{}{}
 {181}{}{}

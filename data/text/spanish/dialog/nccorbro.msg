@@ -326,7 +326,7 @@
 {5641}{}{ esté orgulloso.}
 {5712}{}{!}
 {5730}{}{! No rodamos hoy, pero vuelve por aquí pronto. }
-{5740}{}{ ¿Estás aquí para empezar otra sesión de rodaje?}
+{5740}{}{¿Estás aquí para empezar otra sesión de rodaje?}
 {5755}{}{!' ¡Y no lo olvides!}
 {5780}{}{?! ¿Cómo es que no has venido antes por aquí? ¡Una pelea genial, por cierto! ¡Genial! ¿Qué puedo hacer por ti?}
 {5810}{}{?! ¿Qué tal está }

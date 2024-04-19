@@ -16,7 +16,7 @@
 {115}{}{Ja. Ich bin die Mutter dieses Geleges. Nachdem meine Eier ausgebrütet sind, sind die anderen Mütter an der Reihe.}
 {116}{}{OK.}
 {117}{}{Andere Mütter?}
-{118}{}{Ich verstehe.}
+{118}{}{Verstehe.}
 {119}{}{Da sind noch andere Mütter?}
 {120}{}{Ja. Da sind noch andere Mütter. Sollte mir was zustoßen, wird eine andere ausgewählt, die meinen Platz einnimmt. Das Rudel muss überleben.}
 {121}{}{Ah, ich verstehn.}
@@ -40,7 +40,7 @@
 {139}{}{Was passieren mit Mensch?}
 {140}{}{Ich kapiert.}
 {141}{}{Was ist mit dieser Person passiert?}
-{142}{}{Ich verstehe.}
+{142}{}{Verstehe.}
 {143}{}{Wir haben diesen Höhlenbereich gebaut. Ein Menschenfreund hat die Tür eingebaut. Er hat die Teile aus einer Siedlung nordöstlich von hier.}
 {144}{}{Das schön.}
 {145}{}{Das ist schön.}

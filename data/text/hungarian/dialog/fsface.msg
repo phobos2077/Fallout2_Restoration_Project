@@ -110,13 +110,13 @@
 {209}{}{Miért?}
 {210}{}{Az igazi mesterséges intelligenciával rendelkező gépek között igen magas volt az öngyilkosságok száma. Amikor megkapták a teljes érzékelési képességet, a gépek depresszióssá váltak, mert képtelenek voltak a maguk valójában megtapasztalni a világot. Amikor megfosztották őket mindennemű érzékelésüktől, mentális problémák kezdték felütni a fejüket, csakúgy mint a hasonló elbánásban részesített emberek. Az a néhány gép, amely túlélte e nehézségeket, elkezdett hihetetlenül unatkozni, és különféle helyzetek létrehozásával múlatták az idejüket. Egyesek szerint ez vezetett a világ csaknem teljes megsemmisülését eredményező háborúhoz.}
 {211}{}{Öö... Te hogy érzed magad?}
-{212}{}{Me change subject.}
+{212}{}{Én váltani téma}
 {213}{}{Hmmm. Mondd el, Penge barátom, te hogy érzed magad mostanság?}
-{214}{}{It's time to change the subject.}
+{214}{}{Itt az idő, hogy témát váltsunk!}
 {215}{}{Hm... Néha úgy érzem, át tudom érezni azt a dolgot, amit ti magánynak hívtok. Nagyon... lehangoló tud lenni... Én...}
 {216}{}{Én sajnálni. Beszélni másabbról.}
 {217}{}{Sajnálom, Penge. Váltsunk témát!}
-{218}{}{Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remnants of the local or federal government that was in effect before the war.}
+{218}{}{A tények azt mutatják, hogy az Enklávé nem több egy közönséges katonai szervezetnél. Mindazonáltal a technológiai szintjük azt jelzi, hogy fejlett gyártási és kutatási eszközök állnak rendelkezésükre. Ilyesmit rendszerint csak kormány-ügynökségek birtokolhatnak. Adódik a következtetés, hogy az Enklávé egy helyi, vagy szövetségi kormány maradványa, minden bizonnyal még a háború előtti időkből.}
 {219}{}{Oké.}
 {220}{}{Ez érdekes.}
 {221}{}{Az Acél Testvérisége egy félkatonai szervezet, amely a technológiák megfelelő felhasználásával az emberiség vívmányainak megmentésére jött létre. Minden egyéb információt titkosítottak.}
@@ -128,7 +128,7 @@
 {227}{}{Te és az úgynevezett Elnököd fel fogtok sülni!}
 {228}{}{Csakugyan?}
 {229}{}{A Kiválasztott eljött, és hamarosan megtisztítja a világot a gonoszságodtól.}
-{230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
+{230}{}{Szart se érdekel engem a szánalmas próféciád! Ráadásul a sok kavarásod miatt terhessé vált a jelenléted. Ennek most véget vetünk szépen!}
 {231}{}{Azzal, hogy meggyilkolsz, semmit nem érsz el!}
 {232}{}{Lehet, de a rohadó tested látványa mosolyt csal majd az arcomra.}
 {233}{}{Tudod, hogy mit csinálsz?}

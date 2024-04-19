@@ -39,7 +39,8 @@
 {290}{}{Du hast noch nie was von der Familie Wright gehört? Du hast dich wohl zu lang draußen in der Wüste rumgetrieben, wie?
  Die Familie Wright ist die größte Mafia-Familie in Reno. Wir werden diese Stadt beherrschen}
 {291}{}{Wirklich? Klingt so, als ob die Wright-Familie alle Karten in der Hand hält. Stellt ihr jemanden ein?}
-{292}{}{Eigentlich hatte ich den Eindruck, dass ihr eine der schwächsten Familien seid... ich meine, ihr handelt nur mit Alkohol, ihr habt kein Kasino, kein Bein im Drogenhandel und ihr habt viel weniger Leute als die anderen Familien.}
+{292}{}{Eigentlich hatte ich den Eindruck, dass ihr eine der schwächsten Familien seid...ich meine, ihr handelt nur mit
+ Alkohol, ihr habt kein Kasino und kein Bein im Drogenhandel und ihr seid viel weniger Leute als in anderen Familien.}
 {293}{}{Wo wir gerade von Familie reden, ich bin deiner Ma begegnet.}
 {294}{}{Kannst du mir sagen, was deinem Bruder Richard zugestoßen ist?}
 {295}{}{Wirklich? Wie interessant... tja, hör mal, ich muss gehen.}
@@ -133,7 +134,8 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiss. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben, als Rich allein draußen war. Er hängt im Desperado rum.}
+{495}{}{Jules verkauft auch Jet, aber fast nur an Touristen. Und dann wär da noch Little Jesus Mordino: Von dem könnte
+ Richard das Zeug gekriegt haben, als er allein unterwegs war. Treibt sich im Desperado rum.}
 {496}{}{Verstehe. Sag mal, ich hab da noch ein paar Fragen...}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }

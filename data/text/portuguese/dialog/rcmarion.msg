@@ -59,78 +59,77 @@
  você é que você me entende. Para realmente *qualquer coisa* que te atrapalhe.}
 {148}{}{Parece um cara útil para se ter por perto. Onde ele está aqui na cidade?}
 {149}{}{Interessante. Deixe eu te perguntar outra coisa, Xerife Marion.}
-{150}{}{Thanks. I'll see you around. Goodbye.}
-{151}{}{Yeah, I sure could use some help with a couple of things. Just part-time like. It pays real good
- and you'd be doing a good thing for the town of Redding, too.}
-{152}{}{Real good? How good is real good?}
-{153}{}{How can I help out?}
-{154}{}{As a Ranger, I could do no less than help you out in your time of need.}
-{155}{}{I don't think I can help you out right now, Sheriff. Maybe another time. Goodbye.}
-{156}{}{I wouldn't get any bright ideas. I can still whoop any two of you, with or without a good leg.}
-{157}{}{Hey, I was just kidding. Let me ask you something else.}
-{158}{}{Yeah, you and what army?}
-{159}{}{I was just pulling your leg. Uh, what I mean to say is... uh. Goodbye, Sheriff.}
-{160}{}{The Doc's office is at the west end of downtown here. He's just about always happy to see new
- patients.}
+{150}{}{Obrigado, eu te vejo por aí. Adeus.}
+{151}{}{Sim, com certeza preciso de ajuda com algumas coisas, só por um tempo. O pagamento é bom
+ e você estaria fazendo uma boa coisa para Redding também.}
+{152}{}{Bem mesmo? O quanto é realmente bom?}
+{153}{}{Como posso ajudar?}
+{154}{}{Como um Ranger, eu não poderia fazer menos do que ajudá-lo em seu momento de necessidade.}
+{155}{}{Acho que não posso ajudá-lo agora, xerife. Talvez outra hora. Adeus.}
+{156}{}{Eu não teria nenhuma boa ideia. Mas ainda posso vencer qualquer um de vocês, com ou sem uma perna boa.}
+{157}{}{Ei, eu só estava brincando. Deixe eu te perguntar outra coisa.}
+{158}{}{Sim, você e que exército?}
+{159}{}{Eu só estava brincando com você. Uh, eu queria dizer que... uh. Adeus, xerife.}
+{160}{}{O escritório do doutor fica no extremo oeste do centro da cidade. Ele fica sempre feliz em ter
+ novos pacientes.}
 {161}{}{Eu vejo. Deixe-me perguntar-lhe algo mais.}
-{162}{}{Maybe I'll go visit with him for a while. Goodbye, Sheriff.}
-{163}{}{We all have a respect of the need for law and order, of course. And we also have some concerns
- regarding the future of Redding.}
-{164}{}{The future of Redding?}
-{165}{}{That makes sense, what with you being the Sheriff. Say, what does the Sheriff do here in town?}
-{166}{}{Sure. Redding can't stand alone forever. At some point we're going to need a friend. I just want
- to make sure we've got a friend when we need one. The *right* friend.}
-{167}{}{There are wrong friends?}
-{168}{}{You bet there are. New Reno would just gut Redding for our gold, and Vault City would keep us
- as second class citizens rather than make us real partners.}
-{169}{}{You think the NCR would be different?}
-{170}{}{I know it would be. The NCR is the future of the wastes. Working together for a bigger tomorrow.
- Just like their posters say. They want us to join them, not submit to them.}
-{171}{}{I see. How can you influence Redding, though?}
-{172}{}{Everyone's got an angle, all right. Goodbye, Sheriff.}
-{173}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to
- count on when push comes to shove. That's enough... for now.}
+{162}{}{Talvez eu faça uma visita alguma hora. Adeus, xerife.}
+{163}{}{Todos respeitamos a necessidade da lei e da ordem, é claro. E também temos algumas preocupações
+ em relação ao futuro de Redding.}
+{164}{}{O futuro de Redding?}
+{165}{}{Isso faz sentido, já que você é o xerife. Diga, o que o xerife faz aqui na cidade?}
+{166}{}{Claro, Redding não pode ficar sozinha para sempre. Em algum momento vamos precisar de um
+ amigo, só quero ter certeza de que teremos um amigo quando precisarmos. O amigo *certo*.}
+{167}{}{Existem amigos errados?}
+{168}{}{Pode apostar que existem. New Reno destruiria Redding pelo nosso ouro, e Vault City nos manteria
+ como cidadãos de segunda classe em vez de nos tornar parceiros de verdade.}
+{169}{}{Você acha que o NCR seria diferente?}
+{170}{}{Eu sei que seria, a NCR é o futuro do deserto. Trabalhando juntos para um amanhã maior, assim
+ como seus cartazes dizem. Eles querem que nos juntemos a eles, não nos submetamos a eles.}
+{171}{}{Entendo. Mas como você pode influenciar Redding?}
+{172}{}{Todo mundo tem um ponto de vista, esta bem. Adeus, xerife.}
+{173}{}{Bem, ainda não é o momento certo para uma mudança real. Mas deixo as pessoas saberem
+ com quem podem contar quando surgir uma necessidade. É o suficiente por enquanto.}
 {174}{}{Interessante. Deixe-me perguntar outra coisa.}
-{175}{}{Hmm, something to think about, anyhow. Goodbye.}
-{176}{}{I can't believe that you'd use such a corny line. You've been reading too many pulp-westerns.
- Here's one for you; You gonna slap leather and draw that smoke wagon, or you just gonna stand there and
- sweat?}
-{177}{}{Okay, Sheriff! Draw!}
+{175}{}{Hmm, algo para se pensar, de qualquer modo. Adeus.}
+{176}{}{Não acredito que você usou uma frase tão brega. Você tem visto muitos filmes de faroeste.
+ Tenho uma agora para você: Vai bater no couro e puxar aquela carroça, ou vai ficar aí parado suando?}
+{177}{}{Ok, Xerife! Empate!}
 {178}{}{Ei, eu não quis dizer nada. Eu só estava brincando. Deixe eu perguntar uma coisa.}
-{179}{}{Uh, hey... I was just kidding. I'll just sweat, thank you. Uh, goodbye, Sheriff.}
-{180}{}{Yeah. I figured you was like that.}
-{181}{}{Heh, heh. Goodbye, Sheriff Marion.}
-{182}{}{What do you know about me? That's it. You're gonna pay for that. I'm a-callin' you out.}
-{183}{}{Pay varies by the job, but I've got a simple one you could start on. Just kicking some deadbeat
- out of a squat. Pay you $100 to do it for me.}
-{184}{}{That doesn't sound too hard. Tell me more about it.}
-{185}{}{I don't think I have time for that right now, Sheriff. Goodbye.}
-{186}{}{Way to go, Ranger, good to hear it. The Widow Rooney is way behind on her rent. Her house is
- just across the alley from here, to the west. You just have to kick her out of her house - unless she
- can come up with the rent she owes Mayor Ascorti.}
-{187}{}{The Widow Rooney is way behind on her rent. Her house is just across the alley from here, to the
- west. You just have to kick her out of her house - unless she can come up with the rent she owes Mayor
+{179}{}{Uh, ei... Eu só estava brincando. Vou suar, obrigado. Uh, adeus, xerife.}
+{180}{}{Sim. Achei que fosse assim.}
+{181}{}{Heh heh. Adeus, xerife Marion.}
+{182}{}{O que você sabe sobre mim? Ja deu. Você vai pagar por isso, vá para fora.}
+{183}{}{O pagamento varia de acordo com o trabalho, agora tenho um simples que você pode começar.
+ Somente chutar um caloteiro de sua cabana. Te pago $100 para fazer isso por mim.}
+{184}{}{Isso não parece muito difícil. Me diga mais sobre isso.}
+{185}{}{Acho que não tenho tempo para isso agora, xerife. Adeus.}
+{186}{}{Muito bem, Ranger, bom ouvir isso. A Viúva Rooney está muito atrasada com o aluguel. A casa
+ dela fica do outro lado do beco daqui, a oeste. Você só precisa expulsá-la de casa, a menos que ela
+ pague o aluguel que deve ao prefeito Ascorti.}
+{187}{}{A Viúva Rooney está muito atrasada com o aluguel. A casa dela fica do outro lado do beco daqui,
+ a oeste. Você só precisa expulsá-la de casa, a menos que ela pague o aluguel que deve ao prefeito
  Ascorti.}
-{188}{}{Here we go again. The Widow Rooney is way behind on her rent. Her house is just across the alley
- from here, to the west. You just have to kick her out of her house - unless she can come up with the rent
- she owes Mayor Ascorti.}
-{189}{}{How much does she owe Mayor Ascorti?}
-{190}{}{As a bonafide Ranger, I'll be happy to help you maintain law and order. Of course I'll do the
- job for you.}
-{191}{}{Mayor Ascorti? Who's that?}
-{192}{}{That doesn't sound too bad. I'll do it.}
-{193}{}{I don't think I want to do that. Goodbye Sheriff.}
-{194}{}{Great. Thanks for your help. Just come back here when you finish, and I'll pay you and see if we
- can dig up something else for you to do.}
-{195}{}{Okay, Goodbye, Sheriff.}
-{196}{}{I don't know. But I bet she can tell you. Will you do it?}
-{197}{}{Okay, I'll do it.}
-{198}{}{Mayor Ascorti? Who's that?}
-{199}{}{I don't think I want to do that right now. Goodbye, Sheriff.}
+{188}{}{E la vamos nós de novo. A Viúva Rooney está muito atrasada com o aluguel. A casa dela fica do
+ outro lado do beco daqui, a oeste. Você só precisa expulsá-la de casa, a menos que ela pague o aluguel
+ que deve ao prefeito Ascorti.}
+{189}{}{Quanto ela deve ao prefeito Ascorti?}
+{190}{}{Como um verdadeiro Ranger, ficarei feliz em ajudá-lo a manter a lei e a ordem. Com certeza
+ farei o trabalho para você.}
+{191}{}{Prefeito Ascorti? Quem é esse?}
+{192}{}{Isso não parece tão ruim. Eu vou fazer.}
+{193}{}{Acho que não quero fazer isso. Adeus xerife.}
+{194}{}{Ótimo, obrigado pela ajuda. Somente volte aqui quando terminar, e eu vou pagar e ver se podemos
+ achar outra coisa para você fazer.}
+{195}{}{Ok, adeus, xerife.}
+{196}{}{Não sei, mas aposto que ela pode te contar. Você vai fazer isso?}
+{197}{}{Ok, eu vou fazer isso.}
+{198}{}{Prefeito Ascorti? Quem é esse?}
+{199}{}{Acho que não quero fazer isso agora. Adeus, xerife.}
 {200}{}{Ascorti é nosso prefeito em Redding. Ele administra o As de Ascorti, do outro lado da rua, ao norte de
  nós. Então, você vai me ajudar nisso?}
 {201}{}{Quanto ela deve a ele?}
-{202}{}{Okay, I'll do it.}
+{202}{}{Ok, eu vou fazer isso.}
 {203}{}{Acho que não quero ajuda-lo agora. Adeus, xerife.}
 {204}{}{Lamento ouvir isso, com certeza poderia usar a ajuda. Bem, se mudar de ideia... sabe onde me
  encontrar.}
@@ -142,116 +141,116 @@
 {210}{}{Olá. Lamento que não pode me ajudar antes. Você voltou porque mudou de ideia?}
 {211}{}{Pode ser. Me diga novamente o que preciso fazer.}
 {212}{}{Não, eu estava apenas andando pela cidade. Adeus, de novo.}
-{213}{}{Glad to see you again. You've got to take care of that Widow Rooney problem before I can pay you,
- though.}
-{214}{}{Sure thing. Uh, what was I supposed to do again?}
-{215}{}{Oh, Okay. Goodbye.}
-{216}{}{You did fine work with that Widow Rooney. Here's your $100. You ready for the next job? I can
- sure use the help.}
-{217}{}{Tell me about the next job.}
-{218}{}{I don't think so. Goodbye, Sheriff.}
-{219}{}{You did a real nice thing for the Widow Rooney. Made friends all around and kept the peace.
- Thanks. You ready for another job? I think you've got a real knack for it.}
-{220}{}{Tell me about the next job.}
-{221}{}{Not right now, Sheriff. Goodbye.}
-{222}{}{You got way out of line with the Widow Rooney. She was a little old widow lady, for chrissakes.
- Why'd you have to go and kill her for? Here's your money, but you better watch that hair-trigger on the
- next job.}
-{223}{}{Tell me about the next job.}
-{224}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{225}{}{You sure didn't do much of a job in breaking up that bar fight. Can't pay you for something you
- didn't rightly do. But I've still got a bum leg. You ready for another job?}
-{226}{}{Tell me about the next job.}
-{227}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{228}{}{Putting those Morningstar miners in jail seemed to work, but Dan McGrew, their boss, isn't going
- to be too happy about it. Here's your money. Ready for your next job?}
-{229}{}{Tell me about the next job.}
-{230}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{231}{}{Marge is gonna be real ticked off with you for putting her miners in the pokey. It worked, though.
- Here's your money. Ready for another job?}
-{232}{}{Tell me about the next job.}
-{233}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{234}{}{I'm not sure that putting every damn miner in town into my jail was the best way to solve that
- problem. I guess it worked, though. Here's your money. Ready for your next job?}
-{235}{}{Tell me about the next job.}
-{236}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{237}{}{Talk about spanking a baby with an axe. You went overboard with that one. You're only getting
- half-pay for that. Maybe it'll learn you something. Nobody needs to get killed over a bar brawl. You
- better do better on the next job. You ready?}
-{238}{}{Tell me about the next job.}
-{239}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{240}{}{Hello there. I'm sure glad that you're taking care of that bad business with one of Lou's gals
- gettin' all cut up. Come on back when you've wrapped up the case.}
-{241}{}{I'm working on it right now, Sheriff. Goodbye.}
-{242}{}{I'll make sure and do that. Yeah, right away. Goodbye.}
-{243}{}{You let that bastard who cut that girl go free? What kind of idiot are you, anyway? I'll give
- you another job, but I ain't paying you for this one.}
-{244}{}{I'll tell you about idiots, you damn tin-starred, flat-footed greenhorn!}
-{245}{}{Tell me about the next job.}
-{246}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{247}{}{Thank god you put that murdering bastard Hakeswill away. We'll show him a bit of justice - and
- then we'll hang him. Well done. Here's your money. Ready for one more job?}
-{248}{}{Tell me about the next job.}
-{249}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{250}{}{I don't doubt that the bastard that cut that gal deserved what you gave him, but you sure didn't
- make any friends with the miners by killing him. They do so enjoy seeing a good trial afore a nice
- hangin'. Still, you got the job done. Here's your money. Ready for the next job?}
-{251}{}{Tell me about the next job.}
-{252}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{253}{}{You know about Frog Morton. Well, we need to clear him out of here. He's too dangerous to let him
- set up shop right near town. I'll give you $1000 to go out to the Great Wanamingo Mine, just west of
- town, and kill Frog and his gang. He's one bad hombre, though, so watch yourself.}
-{254}{}{Sounds good to me. I'm on it.}
-{255}{}{I don't think I'm up to taking on a whole gang. Sorry, this isn't for me. Goodbye.}
-{256}{}{You did it. You killed Frog. Great job, great job. Here's $1000 in reward money. Of course his
- brothers aren't gonna be too happy with you when they hear about it - but heck, that's all part of the
- job.}
-{257}{}{Brothers? You didn't tell me that Frog had brothers.}
-{258}{}{Didn't I? Must have plum darn slipped my mind. Yup, that's what it did. Well, he's got three
- older brothers... even meaner than he was, from what I hear. Let's see... Toad, Newt and Snake Morton, if
- I remember aright. Heck, you know how tall tales can get. By the way, keep that badge I gave you. You
- earned it... Sheriff. (He smiles.)}
-{259}{}{Uh, yeah. Sure. Well, I better be moving on. I have an appointment, someplace else. Someplace
- far away from Redding. Goodbye.}
-{260}{}{Just three more notches on my gun. No problem. So long, Sheriff.}
-{261}{}{I'm sorry to hear that; I sure could use the help. Well, if you change your mind, come on back
- right away.}
-{262}{}{I'll do that, Sheriff. Goodbye.}
+{213}{}{Fico feliz em te ver novamente. Mas você tem que resolver o problema da viúva Rooney antes que eu
+ possa pagar.}
+{214}{}{Sim, claro. Uh, o que mesmo eu deveria fazer?}
+{215}{}{Oh, tudo bem. Adeus.}
+{216}{}{Você fez um bom trabalho com a viúva Rooney, aqui estão seus $100. Você está pronto para o
+ próximo trabalho? Eu com certeza poderia ter sua ajuda.}
+{217}{}{Me diga sobre o próximo trabalho.}
+{218}{}{Eu acho que não. Adeus, xerife.}
+{219}{}{Você fez uma coisa muito boa para a viúva Rooney, fez amizade em todos os lugares e manteve
+ a paz. Obrigado. Pronto para outro trabalho? Acho que você tem um talento especial para isso.}
+{220}{}{Me diga sobre o próximo trabalho.}
+{221}{}{Não agora, xerife. Adeus.}
+{222}{}{Você saiu da linha com a Viúva Rooney, ela era uma viúva velhinha já, pelo amor de Deus. Como
+ você teve coragem de ir lá e mata-la? Aqui está o seu dinheiro, mas é melhor você abaixar esse gatilho no
+ próximo trabalho.}
+{223}{}{Me diga sobre o próximo trabalho.}
+{224}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{225}{}{Com certeza não foi um bom trabalho para separando aquela briga de bar. Não posso pagar por
+ algo que você não fez corretamente. Mas minha perna continua ruim. Você está pronto para outro trabalho?}
+{226}{}{Me diga sobre o próximo trabalho.}
+{227}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{228}{}{Colocar aqueles mineiros da Morningstar na prisão parecia funcionar, mas Dan McGrew, o chefe
+ deles, não vai ficar nada feliz com isso. Aqui está o seu dinheiro. Pronto para o seu próximo trabalho?}
+{229}{}{Me diga sobre o próximo trabalho.}
+{230}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{231}{}{Marge vai ficar muito puta com você por colocar os mineiros dela naquele buraco. Mas pelo menos
+ funcionou, aqui está o seu dinheiro. Pronto para outro trabalho?}
+{232}{}{Me diga sobre o próximo trabalho.}
+{233}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{234}{}{Não sei se enfiar todos esses malditos mineiros da cidade na minha prisão foi a melhor forma
+ de resolver esse problema. Bom, mas parece que funcionou. Aqui está o seu dinheiro. Pronto para o seu próximo trabalho?}
+{235}{}{Me diga sobre o próximo trabalho.}
+{236}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{237}{}{Você deve matar moscas usando um tiro de canhão, que coisa exagerada. Vou te pagar só a metade
+ por isso, talvez aprenda alguma coisa a respeito. Ninguém precisa ser morto por causa de uma briga
+ de bar. É melhor que o próximo trabalho seja bom, esta pronto?}
+{238}{}{Me diga sobre o próximo trabalho.}
+{239}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{240}{}{Olá. Fico muito feliz por você estar cuidando desse negócio péssimo da garota de Lou que foi
+ cortada. Volte quando tiver encerrado o caso.}
+{241}{}{Estou trabalhando nisso agora, Xerife. Adeus.}
+{242}{}{Vou me certificar e fazer isso. Sim, imediatamente. Tchau.}
+{243}{}{Você deixou aquele vagabundo que cortou a garota ir embora? Mas que tipo de retardado
+ você é? Vou te dar outro trabalho, mas não vou te pagar por este.}
+{244}{}{Vou te dizer sobre esse retardado, seu maldito novato de pés chatos e com estrela de lata!}
+{245}{}{Me diga sobre o próximo trabalho.}
+{246}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{247}{}{Graças a Deus você prendeu aquele desgraçado assassino do Hakeswill. Vamos mostrar a ele um
+ pouco de justiça e depois enforcá-lo. Bom trabalho, aqui está o seu dinheiro. Pronto para mais um trabalho?}
+{248}{}{Me diga sobre o próximo trabalho.}
+{249}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{250}{}{Não duvido que o maldito que cortou aquela garota merecia o que você fez com ele, mas com
+ certeza você não ficou bem com os mineiros ao fazer isso. Eles gostam de ver um bom julgamento
+ antes de um bom enforcamento. Ainda assim, o trabalho está feito, aqui está o seu dinheiro. Pronto para o próximo trabalho?}
+{251}{}{Me diga sobre o próximo trabalho.}
+{252}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{253}{}{Você conhece Sapo Morton. Bem, precisamos tirar ele daqui. Ele é muito perigoso para que deixemos
+ ele abrir uma loja perto da cidade. Vou te dar $1000 para ir até a Mina Wanamingo, a oeste da cidade,
+ e matar Sapo e sua gangue. Ele é um homem bem ruim, então tome cuidado.}
+{254}{}{Parece bom para mim. Aceito.}
+{255}{}{Acho que não estou a fim de enfrentar uma gangue inteira. Desculpe, isso não é para mim. Adeus.}
+{256}{}{Você fez bem, matou o Sapo. Ótimo trabalho, ótimo trabalho. Aqui estão seus $1000 como
+ recompensa. claro que o irmãos dele não vão ficar muito felizes com você quando souberem disso...
+ mas, porra, isso faz parte do trabalho.}
+{257}{}{Irmãos? Você não me disse que o Sapo tinha irmãos.}
+{258}{}{Não disse? Deve ter me dado um branco aqui, acho que foi isso. Bem, ele tem três irmãos
+ mais velhos... ainda mais maus do que ele, pelo que ouvi. Tem os... Rã, Salamandra e Cobra Morton, que
+ me lembro. Ha ha, você sabe até onde essas histórias chegam. A propósito, guarde o distintivo que te
+ dei. Você merece... Xerife. (Ele sorri.)}
+{259}{}{Sim, claro. Bem, é melhor eu seguir em frente, eu tenho um compromisso em outro lugar. Em algum
+ lugar longe de Redding. Adeus.}
+{260}{}{Só mais três entalhes na minha arma, sem problemas. Adeus, xerife.}
+{261}{}{Sinto muito por ouvir isso; Eu com certeza poderia ter sua ajuda. Bem, se mudar de ideia, volte
+ aqui.}
+{262}{}{Farei isso, xerife. Adeus.}
 {263}{}{Vou pensar sobre isso. Adeus.}
-{264}{}{I hear that the miners from both the Morningstar and Kokoweef mines here in town are fixin' to
- stir up a ruckus at Lou's Malamute Saloon. I'll pay you $300 to break it up. You get over there right
- away. It's right across the street and down towards the west side of town here.}
-{265}{}{I'll get right on it, Sheriff. Goodbye.}
-{266}{}{I don't think I want to become involved in fisticuffs. I bruise easily. Goodbye, Sheriff.}
-{267}{}{Somebody cut up a whore over at Lou's Malamute Saloon. Just across the street here in downtown.
- Go find out who did it and bring them in. I'll pay you $500 for doing it. That kind of thing is bad for
- business, just bad all the way around.}
-{268}{}{I'll catch whoever did it. No problem. Goodbye, Sheriff.}
-{269}{}{Not my cup of tea, really. I'd best be moving on. Goodbye, Sheriff.}
-{270}{}{There's a bandit, name o' Frog Morton, that's taken up lodgings over in the ruins of the Great
- Wanamingo Mine just west of town. I need you to exterminate him. But be careful. He's crafty and he's
- bound to have some of his gang with him. I'll give you $1000 to get rid o' the varmint.}
+{264}{}{Ouvi dizer que os mineiros das minas Morningstar e Kokoweef aqui na cidade estão se preparando
+ para provocar um tumulto no Bar Malamute do Lou. Te pago 300 dólares para acabar com isso, vá
+ lá imediatamente. É do outro lado da rua e descendo em direção ao lado oeste da cidade aqui.}
+{265}{}{Vou cuidar disso, Xerife. Adeus.}
+{266}{}{Acho que não quero me envolver em brigas, fico machucado facilmente. Adeus, xerife.}
+{267}{}{Alguém matou uma prostituta no Bar Malamute, do outro lado da rua aqui no centro. Vá descobrir
+ quem fez isso e os traga aqui. Te pago $500 pelo serviço. Esse tipo de coisa é ruim para os negócios,
+ ruim em todos os aspectos.}
+{268}{}{Vou pegar quem fez isso, sem problemas. Adeus, xerife.}
+{269}{}{Na verdade, isso não é muito do meu interesse. É melhor eu ir, adeus, xerife.}
+{270}{}{Tem um bandido, chamado Sapo Morton, que tem um alojamento nas ruínas da Grande Mina
+ Wanamingo, a oeste da cidade. Preciso que você o elimine. Mas tenha cuidado, ele é astuto e com certeza
+ terá alguns membros de sua gangue com ele. Te dou $1000 para se livrar desse verme.}
 {271}{}{Por que esse nome idiota de Sapo Morton?}
-{272}{}{Sure thing, Sheriff.}
-{273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
-{274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}
-{275}{}{Ohhhh. Ouch. That's terrible. The pain, the pain...}
+{272}{}{Claro, xerife.}
+{273}{}{Bem, desculpe, mas esse não é o meu hobby favorito. Tchau.}
+{274}{}{O nome dele é Morton, e eles o chamam de Sapo porque ele é nojento como um. Pronto para ir atrás dele?}
+{275}{}{Ohhhh. Ai. Isso é terrível. A dor, a dor...}
 {276}{}{Eu faço.}
-{277}{}{I don't think I want to risk getting croaked, Sheriff. Goodbye.}
-{278}{}{Hey, I didn't make that one up - he did. With puns that bad, I'd say that gives you just one
- more reason to kill 'im. You up for it?}
-{279}{}{On my way, Sheriff. Will do.}
-{280}{}{Sounds a little too dangerous to me. Goodbye.}
-{281}{}{You go break up that bar brawl yet? Well, get to it. People are gonna get hurt unless you get
- your ass moving. Now git!}
-{282}{}{Uh, sure thing, Sheriff.}
-{283}{}{I'll see what I can do. Goodbye, Sheriff.}
-{284}{}{Hey there, you've got a job to do. Come on back when you've croaked that Frog for us.}
-{285}{}{I was just resupplying. I'm on it. Goodbye.}
-{286}{}{On my way out there right now, Sheriff. Goodbye.}
-{287}{}{Well, I don't know how you did it, but that's the quietest I've ever heard the Malamute Saloon.
- Here's your money. Ready for your next job?}
-{300}{}{This job may be a bit too tough for you. Come back when you've got a bit more
- experience under your belt.}
-{301}{}{Okay, Sheriff.}
-{302}{}{There is nothing more that can be done with this leg. Only time will heal it.}
+{277}{}{Acho que não lido muito bem com bichos saltitantes, xerife. Tchau.}
+{278}{}{Ei, eu não dei apelido nenhum, isso foi ele mesmo que inventou. Com apelidos tão ruins, eu
+ acredito que isso é mais um motivo para matá-lo. Está pronto para isto?}
+{279}{}{Estou a caminho, xerife. Vou fazer.}
+{280}{}{Me parece um pouco perigoso demais para mim. Adeus.}
+{281}{}{Você vai lá acabar com aquela briga de bar? Bem, vá depressa. As pessoas vão se machucar,
+ a menos que você se mexa. Agora vai!}
+{282}{}{Com certeza, xerife.}
+{283}{}{Verei o que posso fazer. Adeus, xerife.}
+{284}{}{Ei, você tem um trabalho a fazer. Volte quando tiver colado a boca daquele sapo.}
+{285}{}{Estava dando só uma reabastecida. Estou trabalhando nisso, tchau.}
+{286}{}{Estou indo para lá agora, xerife. Adeus.}
+{287}{}{Bem, não sei como você fez isso, mas esse Salão Malamute mais silencioso que já vi. Aqui está o
+ seu dinheiro. Pronto para o seu próximo trabalho?}
+{300}{}{Este trabalho pode ser um pouco mais difícil que o normal pra você. Volte quando
+ tiver um pouco mais de experiência.}
+{301}{}{Ok, xerife.}
+{302}{}{Não tem mais nada que possa ser feito com essa perna. Só o tempo pra curar.}

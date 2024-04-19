@@ -282,14 +282,14 @@
 {14501}{}{Se ha abierto un gran agujero a través de esta puerta con una explosión.}
 {14600}{}{Agujero}
 {14601}{}{Se ha abierto un gran agujero a través de esta puerta con una explosión.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Cristal supuestamente blindado}
+{14701}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
+{14800}{}{Cristal supuestamente blindado}
+{14801}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
+{14900}{}{Cristal supuestamente blindado}
+{14901}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
+{15000}{}{Cristal supuestamente blindado}
+{15001}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
 {15100}{}{Puerta}
 {15101}{}{Esta puerta es una pieza de construcción de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
 {15200}{}{Puerta}
@@ -2630,12 +2630,12 @@
 {171800}{}{Muro}
 {171900}{}{Respiradero}
 {172000}{}{Respiradero}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Cristal supuestamente blindado}
+{172101}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
+{172200}{}{Cristal supuestamente blindado}
+{172201}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
+{172300}{}{Cristal supuestamente blindado}
+{172301}{}{Cristal supuestamente irrompible. Ni siquiera lo intentes!}
 {172400}{}{Torreta pesada láser}
 {172401}{}{La torreta gira en una forma amenazante.}
 {172500}{}{Torreta pesada láser}
@@ -3502,7 +3502,7 @@
 {231500}{}{Vestidor}
 {231501}{}{Un tocador de madera.}
 {231600}{}{Escritorio}
-{231601}{}{Un escritorio genérico. Cuando has visto un escritorio, los has visto todos.}
+{231601}{}{Un escritorio genérico. Cuando has visto uno, has visto todos.}
 {231700}{}{Escritorio}
 {231701}{}{Un escritorio genérico.}
 {231800}{}{Escritorio}

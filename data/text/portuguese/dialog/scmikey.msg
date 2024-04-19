@@ -1,22 +1,22 @@
-{100}{}{You see a sharp-dressed guy hawking lizard kebabs.}
-{101}{}{It's the lizard-on-a-stick vendor.}
-{102}{}{For a lizard-on-a-stick vendor, this guy's got style. He's clean, well-dressed and runs a pretty spotless little operation.}
-{103}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
-{104}{}{What can I get you?}
-{105}{}{Gimme meat.}
-{106}{}{I'll take one.}
+{100}{}{Você vê um cara bem vestido vendendo espetinhos de iguana.}
+{101}{}{É o vendedor de espetinhos de iguana.}
+{102}{}{Para um vendedor de espetinhos de iguana, esse cara tem estilo. Ele é limpo, bem vestido e comanda um pequeno negócio impecável.}
+{103}{}{Com fome, forasteiro? Eu tenho a melhor iguana da região. Pode perguntar a qualquer um!}
+{104}{}{Com o que posso te servir?}
+{105}{}{Quero carne.}
+{106}{}{Vou levar uma.}
 {107}{}{O que você pode me dizer sobre essa cidade?}
 {108}{}{Adeus.}
-{109}{}{Enjoy, stranger!}
-{110}{}{There's mustard and onions over there.}
-{111}{}{Hey, buddy.}
-{112}{}{Yeah, bye.}
-{113}{}{Next!}
-{114}{}{Look, I got a rule. I don't say nothing about nobody. It's a good rule, because if I keep my mouth shut, I keep out of trouble. Capiche?}
-{115}{}{I don't hear nothing, I don't see nothing, and I especially don't say nothing. Now, stop bothering me about that.}
-{116}{}{Fine. Look, I'm hungry.}
-{117}{}{Do you have a GECK?}
-{118}{}{Sorry for troubling you, Christ!}
-{119}{}{A GECK? Well, that's old history, so what the hell. You mean the old Garden of Eden Kit. We had one - I mean our grandparents had one. Used it when they came out of Vault 15. Got this place started, they say. It's all used up now.}
-{120}{}{I'm still hungry.}
-{121}{}{Well, thanks for not much.}
+{109}{}{Aproveite, forasteiro!}
+{110}{}{Tem mostarda e cebola ali.}
+{111}{}{Ei, carinha.}
+{112}{}{Sim, adeus.}
+{113}{}{Próximo!}
+{114}{}{Olha, eu tenho uma regra, eu não digo nada sobre ninguém. É uma boa regra, porque se eu ficar de boca fechada, fico longe de problemas. Capiche?}
+{115}{}{Não ouvi nada, não vi nada e, principalmente, não digo nada. Agora, pare de me incomodar com isso.}
+{116}{}{Ótimo. Olha, estou com fome.}
+{117}{}{Você tem um GECK?}
+{118}{}{Meu Deus, lamento te incomodar!}
+{119}{}{UM GECK? Bem, isso é uma história das antigas. Você quer dizer o antigo Kit Jardim do Éden. Nós tínhamos um, quero dizer, nossos avós tinham um, usaram quando saíram da Vault 15. Aí começaram este lugar, é o que dizem. Está todo utilizado agora.}
+{120}{}{Continuo com fome.}
+{121}{}{Bem, obrigado por quase nada.}

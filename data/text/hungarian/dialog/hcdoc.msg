@@ -27,7 +27,7 @@
 {126}{}{Meglepődnél, ha tudnád, mi mindent mondanak az emberek fájdalmukban.}
 {127}{}{Igen? Mit mondanak?}
 {128}{}{Meggondoltam magam. Inkább valami mást kérdeznék.}
-{129}{}{That'll cost you $50.}
+{129}{}{Ez 50 dollárjába fog kerülni.}
 {130}{}{Kifizetem.}
 {131}{}{Rövid úton felejtsd el!}
 {132}{}{Ilyen komoly sebekért általában egy százast kérek.}

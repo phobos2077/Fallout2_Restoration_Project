@@ -62,7 +62,7 @@
 {160}{}{Rendben. Ha bármi kell, tudod hol találsz!}
 {161}{}{Ja. Kösz. Viszlát!}
 {162}{}{Igen? Ez egy nagyon érdekes álláspont. Kár, hogy nem zúztuk szét a faludat, amikor még mi irányítottuk a puszták életét. Tűnj a szemem elől, te féreg!}
-{200}{}{[DONE]}
+{200}{}{[RENDBEN]}
 {201}{}{Viszlát!}
 {202}{}{Köszönöm. Viszlát!}
 {203}{}{[TOVÁBBI LEHETŐSÉG]}

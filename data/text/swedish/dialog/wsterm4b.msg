@@ -5,7 +5,7 @@
 {104}{}{Select Species}
 {105}{}{Select Organ}
 {106}{}{Exit.}
-{107}{}{Arg!}
+{107}{}{Argh!}
 {108}{}{The dial has the following animals listed:
                          Canine
                                                                    Feline

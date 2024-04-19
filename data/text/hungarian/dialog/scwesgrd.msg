@@ -28,7 +28,7 @@
 {127}{}{Én köszön.}
 {128}{}{Kösz.}
 {129}{}{Mr. Westin nem beszélget csak úgy egy utcáról beesett emberrel. Ha nincs valami különleges dolga vele, akkor javaslom, addig ne jöjjön vissza, amíg nem lesz. Most pedig, kérem, távozzon!}
-{130}{}{[DONE]}
+{130}{}{[RENDBEN]}
 {131}{}{(sóhajt) Hallottam, hogy Mr. Westinnek gyengéi a magafajták. Jöjjön be!}
 {132}{}{Én köszön neked.}
 {133}{}{Jaja. Benne vagyok valaminek a közepében.}

@@ -1,5 +1,5 @@
 {100}{}{Ez itt egy savanyú képű Shi férfi.}
-{101}{}{You see Dr. Jing Tie Gahng.}
+{101}{}{Ő Dr. Jing Tie Gahng.}
 {102}{}{Egy fehér köpenyes Shi férfihez van szerencséd.}
 {103}{}{Maga kicsoda? Mit akar itt?}
 {104}{}{Mi?}
@@ -9,7 +9,7 @@
 {108}{}{Semmit. Itthagyom magát.}
 {109}{}{Ha elmebeteg, akkor nem idevaló. Menjen innen, mielőtt hívom az őrséget!}
 {110}{}{Úgy látszik, maga tényleg nem ért a szóból! Talán majd az őrség jobb észre téríti. Őrség! Behatoló!}
-{111}{}{[DONE]}
+{111}{}{[RENDBEN]}
 {112}{}{Jing Tie Gahng vagyok, az Acélpalota vegyi laboratóriumának vezetője... maga épp egy fontos munkafolyamatot zavart meg. Kérem, távozzon! MOST AZONNAL... mielőtt hívom az őrséget!}
 {113}{}{Hívja csak őket, vénember!}
 {114}{}{Jó, jó, már megyek is.}
@@ -23,7 +23,7 @@
 {122}{}{Szeretném megtudni, hogy mit csinálnak ebben a laborban.}
 {123}{}{Azért jöttem, hogy üzemanyagot szerezzek a Hubologisták számára.}
 {124}{}{Nincs. Már megyek is.}
-{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
+{125}{}{Üzemanyagot akar a tankerbe? Én meg egy megerősített erőpáncélt akarok. Tudok egy Hubologistáról, Crocketnek hívják, aki közönséges erőpáncélokat szokott felturbózni. Szerezzen nekem egy olyan öltözéket, és megkapja az üzemanyagot.}
 {126}{}{Úgy lesz.}
 {127}{}{Nem ígérhetek semmit.}
 {128}{}{Épp itt van nálam egy.}
@@ -31,7 +31,7 @@
 {130}{}{Az a helyzet, hogy érdekel a dolog. Üzemanyagot szeretnék a Poseidon Olaj Tankerbe.}
 {131}{}{Le merném fogadni, hogy a Hubologistákat érdekelné. Üzemanyagra fáj a foguk.}
 {132}{}{Egyelőre valóban nem. Később viszont lehet. Majd még jövök!}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
+{133}{}{Szóval üzemanyagot akarnak? Hát amilyen bosszantó egy népség, bizonyára megvan rá az okuk. Úgy hallottam, kifejlesztettek egy eljárást, amellyel egy közönséges erőpáncélt még ellenállóbbá tudnak tenni. Ha csinálnak nekem egy olyan páncélt, megkapják az üzemanyagukat. Gondolom a kis játék-űrhajójukba kell. Egy Crocket nevű emberrel kellene beszélnie ez ügyben.}
 {134}{}{Úgy lesz.}
 {135}{}{Nem ígérhetek semmit.}
 {136}{}{Épp itt van nálam egy.}
@@ -40,9 +40,9 @@
 {139}{}{Ez a lehetetlen határát súrolja. Az üzemanyag tartalékaink kimerültek. Még ha akarnék is segíteni a Hubologistáknak - ami távol áll tőlem -, nem tehetnék semmit. Viszlátásra.}
 {140}{}{Oké. Viszlát!}
 {141}{}{Jó. Akkor hadd tegyem a dolgomat.}
-{142}{}{[DONE]}
+{142}{}{[RENDBEN]}
 {143}{}{Nem tudja megcsinálni? Akkor mondjon le az üzemanyagtól is! Távozzék, most dolgom van!}
-{144}{}{[DONE]}
+{144}{}{[RENDBEN]}
 {145}{}{Van magánál egy megerősített erőpáncél? Kiváló! Milyen fizetségre gondolt?}
 {146}{}{Ezért cserébe, kérem, irányítsa át az üzemanyagot a Hubologisták számára!}
 {147}{}{Irányítsa át az üzemanyagot a Hubologisták számára!}
@@ -56,7 +56,7 @@
 {155}{}{Szólok. Viszlát!}
 {156}{}{Aligha. Viszlát!}
 {157}{}{Őrség! Őrség! Visszajött a kívülálló! Megölni!}
-{158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
+{158}{}{Beszélt a Crockett nevű Hubologistával a páncél ügyében? Megszerezte?}
 {159}{}{Nem, még nem.}
 {160}{}{Akkor miért zaklat folyton feleslegesen?}
 {161}{}{Azért, mert kérdezni akarok egy s mást.}

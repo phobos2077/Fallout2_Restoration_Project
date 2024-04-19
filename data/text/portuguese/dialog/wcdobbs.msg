@@ -1,27 +1,27 @@
-{100}{}{You see a man dressed in standard military combat armor.}
-{101}{}{He looks healthy, but seems quite disoriented.}
-{102}{}{Oh, my head.}
+{100}{}{Você vê um homem vestido com uma armadura de combate militar padrão.}
+{101}{}{Ele parece saudável, mas parece bastante desorientado.}
+{102}{}{Oh, minha cabeça.}
 {103}{}{Quem é você?}
 {104}{}{Ug!}
-{105}{}{I-I'm Dobbs... Private, First Class.}
-{106}{}{Can you tell me how you got here?}
+{105}{}{E-eu sou Dobbs... Soldado, Primeira Classe.}
+{106}{}{Você pode me dizer como chegou aqui?}
 {107}{}{Adeus.}
-{108}{}{I was in a battle. Yes, a battle. There was gunfire and explosions everywhere. People dying. I was scared but I had to keep on fighting. Then there was this blinding flash.}
-{109}{}{What happened next?}
-{110}{}{Bye,}
-{111}{}{The next thing I remember was seeing my body as if I was looking down at it from above. I heard the doctors say I was dead and then they threw my body onto a pile of other bodies.}
-{112}{}{And then what?}
+{108}{}{Eu estava em uma batalha. Sim, uma batalha. Houve tiros e explosões por toda parte, pessoas morrendo. Eu estava com medo, mas tinha que continuar lutando. Então houve esse flash ofuscante.}
+{109}{}{O que aconteceu depois?}
+{110}{}{Tchau,}
+{111}{}{A próxima coisa de que me lembro foi de ver meu corpo como se estivesse olhando para ele de cima. Ouvi os médicos dizerem que eu estava morto e então jogaram meu corpo em uma pilha de outros corpos.}
+{112}{}{E depois?}
 {113}{}{Adeus.}
-{114}{}{Some men came by and took my body to a laboratory. I heard them say something about trying to regenerate my body by immersing it in something called Biomed Gel.}
-{115}{}{What else?}
+{114}{}{Alguns homens passaram e levaram meu corpo para um laboratório. Eu os ouvi dizer algo sobre tentar regenerar meu corpo imergindo em algo chamado Gel Biomédico.}
+{115}{}{O que mais?}
 {116}{}{Adeus.}
-{117}{}{And then I woke up here. I have to go! I have to get back to my unit.}
+{117}{}{E então eu acordei aqui. Eu tenho que ir! Tenho que voltar para minha unidade.}
 {118}{}{Adeus.}
 {200}{}{Onde estou?}
-{201}{}{My head hurts.}
-{202}{}{Why am I covered in goo?}
-{300}{}{I have to rejoin my unit.}
-{301}{}{Oh no! I'm AWOL!}
-{302}{}{Which way to the front line?}
-{303}{}{This is for you, Jonny.}
-{400}{}{Private Dobbs experiences Post-Cryogenic Syndrome.}
+{201}{}{Minha cabeça doi.}
+{202}{}{Por que estou coberto de gosma?}
+{300}{}{Tenho de voltar à minha unidade.}
+{301}{}{Oh não! Estou AUSENTE!}
+{302}{}{Qual caminho para a linha de frente?}
+{303}{}{Isto é para voce, Johnny.}
+{400}{}{O soldado Dobbs experimenta a síndrome pós-criogênica.}

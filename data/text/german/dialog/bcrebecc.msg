@@ -52,7 +52,7 @@
 {143}{}{Erzähl von Vault.}
 {144}{}{Erzähl von Darion.}
 {145}{}{Danke. Wir reden, dein Problem?}
-{146}{}{Was ist hier los?}
+{146}{}{Was geht hier vor?}
 {147}{}{Wer hat hier das Sagen?}
 {148}{}{Ich suche Vault 13. Weißt du was darüber?}
 {149}{}{Erzähl mir über die Vault.}
@@ -61,7 +61,7 @@
 {152}{}{Wir nennen diesen Ort die "Siedlung", weil er von den Obdachlosen vieler Städte besiedelt wurde. Es ist nicht viel, aber es ist alles, was wir haben. Im Westen liegt eine Stadt die NCR heißt. Sie wussten schon länger dass wir hier sind, haben uns aber nie Hilfe angeboten oder uns behindert. Jetzt erheben sie plötzlich Ansprüche auf dieses Gebiet als die Heimat ihrer Vorfahren und wollen es zurück.}
 {153}{}{OK.}
 {154}{}{Was sie wollen?}
-{155}{}{Ich verstehe.}
+{155}{}{Verstehe.}
 {156}{}{Was gibt es denn hier, das sie unbedingt wollen?}
 {157}{}{Naja... hier ist eine Vault, ich glaub die Nummer 15. Sie wollen sie wegen irgend einer alten Technologie plündern, die wohl noch da drinnen zu finden ist.}
 {158}{}{Ah, verstehn.}
@@ -80,7 +80,7 @@
 {171}{}{Da gibt's nicht viel zu erzählen. Darion ist sehr verschlossen und verlässt die Vault nie. Wenn er was zu sagen hat, lässt er es durch Zeke mitteilen. Ich hab ihn nur einmal getroffen, und er schien ganz nett zu sein.}
 {172}{}{OK.}
 {173}{}{Nette bringen es zu nichts. Ich frage mich, was er vor hat?}
-{174}{}{Ich verstehe.}
+{174}{}{Verstehe.}
 {175}{}{Ist schon in Ordnung, du bist eine große Hilfe.}
 {176}{}{Ich hab nichts, was ich dir geben kann, außer meiner ewigen Dankbarkeit.}
 {177}{}{Das ist mehr als genug. Ich werd dir helfen.}

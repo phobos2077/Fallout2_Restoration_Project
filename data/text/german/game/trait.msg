@@ -25,8 +25,8 @@
 {208}{}{Die Ironie des Schicksals will es, dass Menschen um dich herum gewaltsam sterben und du immer Zeuge eines besonders grausamen Tods wirst.}
 {209}{}{Das Gute ist, dass alle um dich herum im Kampf böse Fehler machen. Das Schlechte ist, dass auch dir das passiert!}
 {210}{}{Du hast in deiner Jugend weniger Kampffähigkeiten erlernt, so dass du mit niedrigeren Anfangswerten beginnst. Dafür sind deine Fähigkeiten 'Erste Hilfe', 'Arzt', 'Reden' und 'Handeln' besser ausgebildet.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
+{211}{}{Du wirst leichter von den Drogen, die du einnimmst, abhängig. Die Wahrscheinlichkeit, dass du abhängig wirst, ist doppelt so hoch wie normal, dafür erholst du dich aber auch schneller von den Nebenwirkungen.}
+{212}{}{Die Drogen, die du einnimmst, wirken auf dich nur halb so lange wie normal, und die Wahrscheinlichkeit, dass du abhängig wirst, ist ebenfalls nur halb so hoch.}
 {213}{}{Du hast den Stoff, aus dem die Helden sind. Das andere Geschlecht fühlt sich zu dir hingezogen, währenddessen Leute vom selben Geschlecht ziemlich eifersüchtig auf dich sind.}
-{214}{}{Da du mehr Zeit in die Ausbildung deiner Fähigkeiten gesteckt hast, erhältst du 5 zusätzliche Fähigkeitspunkte pro Level. Im Gegenzug erhältst du weniger zusätzliche Fähigkeiten. Nur alle vier Level erhältst du einen Vorteil.}
+{214}{}{Da du mehr Zeit in die Ausbildung deiner Fähigkeiten gesteckt hast, erhältst du 5 zusätzliche Fähigkeitspunkte pro Level. Dafür erhältst du weniger zusätzliche Fähigkeiten. Nur alle vier Level erhältst du einen Bonus.}
 {215}{}{Du verfügst über mehr angeborene Fähigkeiten als andere. Daher sind alle deine Anfangswerte um einen Punkt höher, aber du verlierst am Anfang bei allen Fähigkeiten 10 % und erhältst pro Level 5 Fähigkeitspunkte weniger.}

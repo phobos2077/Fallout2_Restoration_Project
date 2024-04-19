@@ -178,7 +178,7 @@
 {355}{}{Potrei anche andare a fumarmi una sigarettina...}
 {356}{}{Mio padre mi ha dato questo nome ispirandosi a un qualche personaggio dei fumetti degli anni prima della guerra. Ha detto anche che si trattava di un gran figlio di puttana.}
 {357}{}{E' bello viaggiare di nuovo. Vivere a Vault City mi stava facendo venire l'ulcera.}
-{358}{}{Spero che il mio cuore non mi  tradisca proprio mentre stiamo viaggiando...}
+{358}{}{Spero che il mio cuore non mi tradisca proprio mentre stiamo viaggiando...}
 {359}{}{Mi farei volentieri una bevuta.}
 {360}{}{Faro' meglio a controllare di nuovo il mio equipaggiamento.}
 {361}{}{Maledetta artrite...}
@@ -212,7 +212,7 @@
 {4300}{Cas4300}{Sono quasi a posto, ma mi farebbe comodo un altro paio di stim.}
 {4400}{Cas4400}{Ho usato quello che potevo, ma sono ancora messo piuttosto male. Se hai ancora qualche stim da darmi, mi farebbero proprio comodo. Riesco ancora camminare, pero'.}
 {9999}{}{Vorrei farle alcune domande...}
-{10001}{}{Prendi degli altri stimpack e curati.}
+{10001}{}{Prendi degli altri stimpak e curati.}
 {10002}{}{Cassidy, voglio che tu rimanga qui finche' non saro' tornato.}
 {10003}{}{Metti via la tua arma.}
 {10004}{}{Stammi vicino.}

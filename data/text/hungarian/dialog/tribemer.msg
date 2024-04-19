@@ -88,7 +88,7 @@
 {321}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
 {322}{}{Before we agree to anything, I'd like to have a look at the rest of the goods.}
 {330}{}{[His eye narrows slightly, then he grins.] Of course. They're in this crate next to me.}
-{331}{}{[DONE]}
+{331}{}{[RENDBEN]}
 {340}{}{Alright, but don't take too long. We've got another stop to make before nightfall.}
 {350}{}{Alright, if you're done messing around, let's get this show on the road. I'm a busy man.}
 {351}{}{Alright. We'll accept the deal.}

@@ -282,14 +282,14 @@
 {14501}{}{Une explosion a formé un gros trou dans cette porte.}
 {14600}{}{Trou}
 {14601}{}{Une explosion a formé un gros trou dans cette porte.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Verre prétendument pare-balles}
+{14701}{}{Verre prétendument incassable. N'essaie même pas!}
+{14800}{}{Verre prétendument pare-balles}
+{14801}{}{Verre prétendument incassable. N'essaie même pas!}
+{14900}{}{Verre prétendument pare-balles}
+{14901}{}{Verre prétendument incassable. N'essaie même pas!}
+{15000}{}{Verre prétendument pare-balles}
+{15001}{}{Verre prétendument incassable. N'essaie même pas!}
 {15100}{}{Porte}
 {15101}{}{Cette porte est une pièce de construction ultra-sophistiquée. Elle s'ouvre par dilatation et fait pivoter les trois éléments qui la forment.}
 {15200}{}{Porte}
@@ -2613,9 +2613,9 @@
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
-{170600}{}{Pont détruit}
+{170600}{}{Pont detruit}
 {170601}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
-{170700}{}{Pont détruit}
+{170700}{}{Pont detruit}
 {170701}{}{Tu vois les vestiges du pont d'Arroyo. Plus moyen de regagner le village, à présent.}
 {170800}{}{Canyon}
 {170900}{}{Porte}
@@ -2630,12 +2630,12 @@
 {171800}{}{Mur}
 {171900}{}{Conduit d'aération}
 {172000}{}{Conduit d'aération}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Verre prétendument pare-balles}
+{172101}{}{Verre prétendument incassable. N'essaie même pas!}
+{172200}{}{Verre prétendument pare-balles}
+{172201}{}{Verre prétendument incassable. N'essaie même pas!}
+{172300}{}{Verre prétendument pare-balles}
+{172301}{}{Verre prétendument incassable. N'essaie même pas!}
 {172400}{}{Tourelle laser lourde}
 {172401}{}{La tourelle tourne d'une manière menaçante.}
 {172500}{}{Tourelle laser lourde}
@@ -2665,7 +2665,7 @@
 {174800}{}{Porte du bureau du Président}
 {174900}{}{Schéma de l'oeil}
 {175000}{}{Ruines}
-{175100}{}{Gardien de L'Eternité}
+{175100}{}{Gardien de L'Eternite}
 {175200}{}{Pancarte « En Dérangement »}
 {175300}{}{Sol effondré}
 {175400}{}{Siège de toilette}
@@ -3180,7 +3180,7 @@
 {210101}{}{Cette porte d'abri est encastrée dans la roche de la montagne. Apparemment elle a survécu à la déflagration d'une bombe atomique.}
 {210200}{}{Porte extérieure de l'Abri}
 {210201}{}{Cette grande porte est le seul lien entre l'Abri est le monde extérieur. Elle a été défoncée par une énorme explosion.}
-{210300}{}{Entrée de la grotte}
+{210300}{}{Entree de la grotte}
 {210301}{}{Cette cave s'ouvre sur un plus large réseau de caves.}
 {210400}{}{Ordinateur de la Porte d'Entrée}
 {210401}{}{Cet ordinateur contrôle la porte de l'Abri. VOus devez entrer un code spécifique pour que ça fonctionne.}

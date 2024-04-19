@@ -110,16 +110,16 @@
 {183}{}{Well it shore helps if'n your nose ain't to keen. Those miners ain't too fond of soap and water.}
 {184}{}{Sério? Talvez isso não sirva pra mim... Agradeço a oferta. Tchau.}
 {185}{}{I don't know how you can stand it, but then I guess you don't. Stand, that is. Goodbye.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
-{187}{}{I'll keep that in mind. Thanks, Fannie.}
-{188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
-{189}{}{Hey there! Lookin' to spend some time with Fannie? On the house, of course. (grin)}
-{190}{}{Sorry honey... I'm not feelin' too good right now. Check back later.}
-{191}{}{Got a little free time right now?}
-{192}{}{Come back anytime! Always nice to get some repeat business.}
+{186}{}{[Fannie parece como se um grande peso fosse tirado de seus ombros] Ei, é você! Lou me contou
+ o que você fez. Aquela coisa que ela me deu foi nojenta, mas não tive vontade de jet desde então. (Ela
+ te beija na bochecha) Eu não sei como poderei te agradecer... bem, eu sei *de um jeito*. Sempre que
+ estiver com vontade, venha; grátis. (piscar)}
+{187}{}{Vou me lembrar disso. Obrigado, Fanny.}
+{188}{}{Obrigada novamente. (beijo) Lembre-se, é sempre da casa para você. (pisca)}
+{189}{}{Ei! Querendo passar algum tempo com Fannie? Por conta da casa, claro. (sorriso)}
+{190}{}{Desculpa, querida... Não estou me sentindo muito bem agora. Volto mais tarde.}
+{191}{}{Tem um tempinho livre agora?}
+{192}{}{Volte quando quiser! É sempre bom repetir alguns negócios.}
 {193}{}{[FEITO]}
-{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}
-{210}{}{Alright, here's $60. How 'bout another round?}
+{200}{}{Você colocou o antídoto de jet na bebida da Fannie Mae.}
+{210}{}{Certo, aqui estão $60. Que tal outra rodada?}

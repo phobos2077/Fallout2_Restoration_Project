@@ -52,7 +52,7 @@
 {273}{}{Übrigen Eigenschaften?}
 {275}{}{Tut mir leid, dass ich gefragt habe. Ich geh dann wohl lieber mal.}
 {276}{}{Tut mir leid, Mrs. Bishop. Die Sache geht mich ja nichts an. Ich geh dann mal.}
-{280}{}{(Sie runzelt die Stirn.) Das überlasse ich deiner Phantasie.  (Sie macht einen verärgerten Eindruck.) War das *alles*?}
+{280}{}{(Sie runzelt die Stirn.) Das überlasse ich deiner Phantasie. (Sie macht einen verärgerten Eindruck.) War das *alles*?}
 {281}{}{Eigentlich hätte ich da noch ein paar andere Fragen...}
 {285}{}{Über die "Familie" Bishop gibt es wirklich nichts zu sagen. Warte mal... da gibt es noch die entferntere Verwandtschaft, alles angeheuerte Schlägertypen, Söldner, Huren, Dealer und Sklaven, aber das ist auch schon alles, was die "Familie" vorzuweisen hat.}
 {286}{}{Hört sich an, als ob dein Eheleben nicht gerade das fröhlichste ist.}

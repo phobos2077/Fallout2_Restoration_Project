@@ -1,6 +1,6 @@
-{100}{}{You see a fisherman.}
-{101}{}{You see a fisherwoman.}
-{102}{}{He is carrying a sharpened pole used for fishing.}
+{100}{}{Você vê um pescador.}
+{101}{}{Você vê uma pescadora.}
+{102}{}{Ele carrega uma vara afiada usada para pescar.}
 {103}{}{Ela parece ocupada cozinhando.}
 {104}{}{Cumprimentos.}
 {200}{}{Você não é bem vindo aqui.}
@@ -13,33 +13,33 @@
 {207}{}{Obrigado por nos ajudar.}
 {208}{}{Eu pensei que todos estranhos eram maus. Não é tão...}
 {209}{}{Não faça isso.}
-{300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
+{300}{}{Desculpe, mas você poderia me fazer um pequeno favor? Estou um pouco ocupado aqui e não sei se posso deixar esta panela sozinha.}
 {301}{}{Com certeza. O que você precisa?}
-{302}{}{I'm busy too. Perhaps a little later.}
-{303}{}{Hey, life is full of problems and I'm not here to solve them all. Bye.}
-{304}{}{I'm running low on wood for this fire. If you could collect some more for me, I'd really appreciate it. I'd do it myself, but I am afraid this pot will boil over if I leave it unattended. I'm sure some logs can be found in the nearby forest. Three bundles would be perfect.}
+{302}{}{Estou ocupado também. Talvez um pouco mais tarde.}
+{303}{}{Ei, a vida é cheia de problemas e não estou aqui para resolver todos eles. Tchau.}
+{304}{}{Estou ficando sem lenha para este fogo. Se você pudesse coletar mais algumas para mim, eu realmente agradeceria. Eu faria isso, mas tenho medo de que esta panela transborde se eu a deixar sozinha. Tenho certeza de que alguns troncos podem ser encontrados na floresta próxima. Três pacotes seriam perfeitos.}
 {305}{}{Seria um prazer.}
-{306}{}{Actually, for some crazy reason, I happen to have three bundles of logs on me right now. Here you go.}
-{307}{}{You'll help me? Great! Let me know when you've collected them.}
-{308}{}{Ah, excellent. This will help keep this fire going. Thank you for taking the time to help me. I don't really
- have anything to repay with though.}
-{309}{}{Your gratitude is enough. Take care.}
-{310}{}{Nothing to repay me? Look lady, I could have died in those woods. It's filled with all kinds of deadly creatures. I risked my neck for this fucking wood. Not to mention I think one of the logs gave me a splinter. I *hate* splinters.}
-{311}{}{Well, here, take this money. I have no real use for it here. Thank you again.}
-{312}{}{That's better. Bye.}
+{306}{}{Na verdade, por algum motivo estranho, tenho três pacotes de toras comigo agora. Pegue aqui.}
+{307}{}{Você vai me ajudar? Ótimo! Me avise quando tiver recolhido.}
+{308}{}{Excelente, isso ajudará a manter o fogo aceso. Obrigado por dedicar seu tempo para me ajudar. Eu
+ realmente não tenho nada com que retribuir.}
+{309}{}{Sua gratidão é suficiente. Tome cuidado.}
+{310}{}{Nada para me retribuir? Olha moça, eu poderia ter morrido naquela mata. Está cheia de todos os tipos de criaturas mortais. Arrisquei meu pescoço por essa porra de madeira. Sem falar que acho que uma dessas toras soltou uma lasca no meu dedo. Eu *odeio* lascas.}
+{311}{}{Bem, aqui, pegue esse dinheiro, eu não tenho nenhum uso real para isso aqui. Obrigado novamente.}
+{312}{}{Assim é melhor. Tchau.}
 {313}{}{[FEITO]}
-{314}{}{Hmmf. Go bother someone else.}
-{315}{}{Did you bring the firewood?}
-{316}{}{Yeah, I got it right here.}
-{317}{}{No, not yet. I'll be back when I get the three bundles.}
-{318}{}{Are you ready to help me?}
+{314}{}{Hmmf. Vá incomodar outra pessoa.}
+{315}{}{Você trouxe a lenha?}
+{316}{}{Sim, tenho aqui.}
+{317}{}{Não, ainda não. Voltarei quando conseguir os três pacotes.}
+{318}{}{Você está pronto para me ajudar?}
 {319}{}{Com certeza. O que você precisa?}
-{320}{}{No, I still need more time. Bye.}
-{321}{}{No, and I won't be. Deal with your own problems. Bye.}
-{330}{}{No real use for it? Then why didn't you give it to me in the first place? (mumble) Stupid bitch.}
-{400}{}{Whut you need?}
-{401}{}{Ooo! Make me favorite food!}
-{410}{}{I look.}
-{411}{}{I have wood. Heh-heh... wood.}
-{420}{}{That ok. Bye!}
-{500}{}{Vile slaver!}
+{320}{}{Não, ainda preciso de mais tempo. Tchau.}
+{321}{}{Não, e não estarei. Lide com seus próprios problemas. Tchau.}
+{330}{}{Nenhum uso real para isso? Então por que você não me deu em primeiro lugar? (murmúrio) Vadia estúpida.}
+{400}{}{Do que você precisa?}
+{401}{}{Ooo! Me faz comida favorita!}
+{410}{}{Eu vejo.}
+{411}{}{Eu tenho madeira. Heh-heh... madeira.}
+{420}{}{Está ok. Tchau!}
+{500}{}{Vil escravista!}

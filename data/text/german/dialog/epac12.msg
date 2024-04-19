@@ -163,14 +163,14 @@
  besser dran, wenn es demokratisch geführt werden würde. So wie sie es sahen
  betrogen sie nicht China selbst - sie arbeiteten gegen eine Regierung, die wie
  sie meinten nicht gut für das Land sei.}
-{326}{}{Mach weiter.}
+{326}{}{Ja?}
 {327}{}{Ich heiratete einen Beamten, der für das Verteidigungsministerium arbeitete. Ich nahm ihn, da er, im Gegensatz zu vielen anderen, bereitwillig
  über seine Arbeit sprach. So konnte ich die pflichtbewusste Hausfrau spielen, während ich hinter seinem Rücken geheime Informationen an meinem amerikanischen Kontaktmann weitergab. Aber dann wurde es etwas kompliziert.}
 {328}{}{Warum?}
 {329}{}{Dr. Raynard Muldrake, ein alter Arbeitskollege von meinem Vater aus den Staaten, bat meinem Vater um ein privates Treffen. Aber mein Vater war Gesundheitlich nicht in der Verfassung um nach Amerika zu reisen, daher sollte ich mich mit Dr. Muldrake treffen.}
 {330}{}{Was ist passiert?}
 {331}{}{Es stellte sich heraus, dass Dr. Muldrake Teil eines streng geheimen Forschungsprojektes im Süden Kaliforniens war. Dabei ging es darum einen Weg zu finden Menschen immun gegen neue Krankheiten und andere Biologischen Gefahren zu machen, aber es entwickelte sich schnell zu etwas Schrecklichem. Sie nannten es Forced Evolutionary Virus, kurz FEV.}
-{332}{}{Mach weiter.}
+{332}{}{Ja?}
 {333}{}{Das Virus kann die Stärke und den Intellekt einer Person extrem steigern, aber der Virus war gefährlich instabil und flüchtig. Trotzdem hoffte das Millitär mit Hilfe des FEV eine Armee von Supersoldaten zu erschaffen und damit China zu zerquetschen}
 {334}{}{Dr. Muldrake hatte etwas dagegen, dass seine Forschung zur Züchtung von Supersoldaten verwendet werden sollte, aber er beschwerte sich nicht da er Angst um sein Leben hatte. Doch als er hörte, dass das Militär den FEV an kleinen, ahnungslosen Städten testet wusste er dass er handeln muss. Die Welt musste die Wahrheit erfahren!}
 {335}{}{Und darum hat er deinen Vater kontaktiert...}

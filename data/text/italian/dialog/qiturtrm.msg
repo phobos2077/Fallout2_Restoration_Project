@@ -127,7 +127,7 @@
 {228}{}{Aggiornamento File della Guida Utente non disponibile per la versione trial del software PoseidoNet. Acquistando la versione completa avrete la possibilita' di scaricare tutti gli aggiornamenti futuri. Il vostro periodo di prova per l'accesso a PoseidoNet e' scaduto da 59.439 giorni.}
 {229}{}{Torna al Login.}
 {230}{}{Esci.}
-{231}{}{L'accesso ai comandi ausiliari del Sistema di Sicurezza e' consentito solamente alla persona del Presidente degli Stati Uniti. L'identita' deve essere confermata tramite tessera magnetica personale.                                               Opzioni consentite: Contro-Sommossa; Spegnimento d'Emergenza del Sistema di Sicurezza.}
+{231}{}{L'accesso ai comandi ausiliari del Sistema di Sicurezza e' consentito solamente alla persona del Presidente degli Stati Uniti. L'identita' deve essere confermata tramite tessera magnetica personale. Opzioni consentite: Contro-Sommossa; Spegnimento d'Emergenza del Sistema di Sicurezza.}
 {232}{}{(Daro' un'occhiata a questa.) Contro-Sommossa.}
 {233}{}{(Daro' un'occhiata a questa.) Spegnimento d'Emergenza del Sistema di Sicurezza.}
 {234}{}{(Forse farei meglio a provare qualcosa di meno impegnativo) Ritornare a ID utente.}
@@ -150,7 +150,7 @@
 {251}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente... Spegnimento d'Emergenza del Sistema di Sicurezza: inizializzazione in corso... Programma diagnostico approfondito: Esecuzione in corso. Alpha...Bravo...Charlie...}
 {252}{}{(Per qualche strana ragione non credo di volerlo fare adesso.) Indietro.}
 {253}{}{(Faro' meglio a sbrigarmi, intanto che questo coso sta ancora eseguendo quel programma diagnostico.) Esci.}
-{254}{}{Tessera Presidenziale di Sicurezza non riconosciuta.  Accesso negato.}
+{254}{}{Tessera Presidenziale di Sicurezza non riconosciuta. Accesso negato.}
 {255}{}{(Hmm, mi domando se, penetrando nei file d'accesso, sia possibile far credere allo scanner che io abbia la tessera. Credo che faro' un tentativo.)}
 {256}{}{(Oh beh... almeno ci ho provato.) Indietro.}
 {257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}

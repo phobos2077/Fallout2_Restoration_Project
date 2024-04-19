@@ -13,7 +13,7 @@
 {119}{}{Lenny, hallottál már valaha az Édenkert Létrehozást Elősegítő Táskáról?}
 {120}{}{Te találkoztál az ősömmel?}
 {121}{}{Csak körbejárok. Viszlát!}
-{122}{}{Can you provide healing?}
+{122}{}{Tudsz gyógyítani?}
 {125}{}{Hogyne. Mi a bajod?}
 {126}{}{Hála az égnek, most rendben vagyok.}
 {130}{}{N'nem k'kellett volna elhagyni a faludat. M'menj haza!}
@@ -47,14 +47,13 @@
 {185}{}{A barátod m'megsérült. Harminc d'dollárért összetákolom neked. A p'pénz k'kötszerre kell.}
 {186}{}{Hát ti meg mibe k'keveredtetek? R'rátok férne egy kis gyógykezelés. Hatvan dollár l'lesz összevissza.}
 {187}{}{A b'barátod fittnek tűnik.}
-{190}{}{W'well. I didn't actually m'meet the V'vault Dweller. But I saw 'em. Once. }
+{190}{}{T'tulajdonképpen nem t'találkoztam a M'menedéklakóval, de egyszer már láttam.}
 {191}{}{Láttad a Menedéklakót? Hol?}
 {192}{}{Ah, értem. Az a helyzet, hogy még egy rakás gyilkolnivalóm van. Üdv!}
 {200}{}{Hát a h'háború előtt orvos v'voltam.}
 {201}{}{A háború előtt? Az legalább százhatvan éve volt.}
 {202}{}{Hát ez megmagyarázza. Kösz. Viszlát máskor.}
-{210}{}{That's t'true. B'but the radiation seems to have g'given us g'ghouls a longer life-span.
- 'Course, it took almost everything else away.}
+{210}{}{Ez igaz, d'de a sugárzástól m'megnőtt a ghoulok élettartama. Persze m'minden egyéb r'rovására.}
 {211}{}{Hogyhogy minden egyéb rovására?}
 {212}{}{Itt már senki nem tudja, mi a jó és mi a rossz. Viszlát!}
 {220}{}{Hát p'persze. Úgy n'nézünk ki, mint valami brutális sz'szörnyszülött. Még b'bőrünk sincs, az isten szerelmére...}
@@ -71,8 +70,7 @@
 {252}{}{Sajnálattal hallom ezt. Most mennem kell.}
 {260}{}{N'nem. Az élet túl r'rövid, legalábbis a legtöbb ember sz'számára, -- he, he -- hogy érdemes legyen apróságok miatt aggódni. T'tudod mit mondok? Az egész annyi, mint a l'légypiszok. És még csak n'nem is kérek semmit a t'tanácsért.}
 {261}{}{Kösz, Lenny.}
-{270}{}{I'it w'was a long time ago. In a place called N'necropolis. A lot of us g'ghouls lived there.
- One day, I saw someone running through the city.}
+{270}{}{Régen t'történt. Egy N'nekropolisz nevű helyen. Egy csomó ghoul élt ott egy r'rakáson. Egyik nap látom, hogy valaki rohan át a v'városon.}
 {271}{}{Rohan?}
 {272}{}{Na, asszem, egy darabig elég lesz a ködös mesékből. Majd még jövök talán.}
 {280}{}{Igen, ott futott. T'tudod, mi ghoulok már nem nagyon tudunk futni. Így hát amikor m'megláttam, rögtön tudtam, hogy egy idegenről v'van szó. Olyan közel futott el, hogy m'megérinthettem volna. Bárcsak cs'csatlakoztam volna a M'menedéklakóhoz...}
@@ -106,19 +104,17 @@
 {352}{}{Kösz, Lenny. Leköteleztél. Viszlát!}
 {360}{}{Annyi ember él itt. M'megleszel a segítségem n'nélkül is. Legyen sz'szerencséd.}
 {370}{}{Sosem g'gondoltam volna, hogy megérem a n'napot, hogy sz'szégyellni fogom a tetteidet. M'megszégyeníted a Menedéklakó emlékét. Menny', menny', ne is lássalak.}
-{371}{}{Y'know, I th'thought it w'would be nice to t'travel around with y'you. But you're j'jist an
- ornery and c'cantankerous as a bull b'brahmin with a c'cactus up its ass. And you don't s'smell much
- b'better, either. B'dee-ya, b'dee-ya, goodbye.}
+{371}{}{T'tudod, aszittem, h'hogy jó lenne v'veled utazgatni. De olyan csökönyös és kötekedő v'vagy, mint a brahminbika, amikor k'kaktusz áll a seggébe. Mellesleg a szagod se j'jobb. Menny' el innét!}
 {372}{}{Sajnálom, hogy itthagysz, Lenny.}
 {373}{}{Nem bírsz ezzel mit kezdeni, mi? Jobb lenne, ha elhordanád a félig rohadt testedet, mielőtt észbekapok és végiggondolom, hogy megérsz-e egy töltényt vagy sem.}
 {374}{}{*böff* Hát persze. Nyilván van más dolgod, mint például naphosszat azon elmélkedni, milyen volt a rendes bőröd, amikor még nem úgy nézett ki, mint a három hónapos útszéli dög július tájékán. Tűnés innen, kibaszott szörnyszülött!}
 {375}{}{Oké.}
-{380}{}{Wh'what d'do you w'want me to do?}
+{380}{}{Miiit szertnél, mit tegyek?}
 {381}{}{Lenny, tudom, hogy kiteszel magadért, de légyszi menj el előlem!}
 {382}{}{Szeretném, ha másképp harcolnál, Lenny.}
 {383}{}{Szeretném, ha itt várnál rám.}
 {384}{}{Felcser, gyógyítsd tenmagad!}
-{385}{}{I need some healing, Lenny.}
+{385}{}{Gyógykezelésre van szükségem, Lenny.}
 {386}{}{Néhány barátom orvosi kezelésre szorul.}
 {387}{}{Láss el bennünket.}
 {388}{}{Hogy ityeg a fityeg, öreg rája?}
@@ -135,7 +131,7 @@
 {413}{}{Jó lenne, ha jócskán lemaradnál.}
 {414}{}{Szeretném, ha felderítést végeznél.}
 {415}{}{Rá se ránts!}
-{420}{}{Wh'what d'do you want me to d'do?}
+{420}{}{Miiit szertnél, mit tegyek?}
 {421}{}{Mostantól h'harcolj védekezve.}
 {422}{}{Mostantól h'harcolj a megszokott módon.}
 {423}{}{Mostantól h'harcolj agresszíven.}
@@ -186,7 +182,7 @@
 {533}{}{Rá se ránts!}
 {540}{}{N'nem tudok én olyat. M'már az is szép tőlem, ha egyáltalán h'harcolni tudok.}
 {541}{}{Oké. Felejtsük el...}
-{1000}{}{Wh'what d'do you w'want me to do?}
+{1000}{}{Miiit szertnél, mit tegyek?}
 {1100}{}{J'jól elvagyok.}
 {1200}{}{Van egy k'kisebb sérülésem, de oda se neki.}
 {1300}{}{Ez jó ötlet. Már azon g'gondolkodtam, mikor állunk m'meg. Sajog m'minden t'tagom.}
@@ -211,16 +207,16 @@
 {3001}{}{Nem s'segítek egy gyerekgyilkosnak. Minden jót!}
 {3002}{}{Megrémítesz a v'vérszomjaddal, ezért többé nem akarok veled t'tartani.}
 {3003}{}{Egy r'rabszolgahajcsárral nekem nincs s'semmi dolgom. Minden jót n'neked.}
-{3004}{}{You are a traitor! You destroyed our powerplant. I will not help you.}
+{3004}{}{Áruló vagy! Megsemmisítetted az erőművünket. Segítsen n'neked a halál!}
 {3005}{}{Nem akarok én tőled semmit!}
 {4000}{}{Nos, rendben, de nehogy már itt h'hagyj engem egyedül!}
 {4001}{}{Rendben, ha szerinted ez jó ötlet.}
 {4002}{}{Hát nem nagyon sz'szeretem a fegyvereket, hacsak n'nincs rájuk égető szükség. Szerintem egy k'kés nem okozna különösebb g'gondot, és tudok bánni a p'pisztollyal is, legalábbis régen tudtam. Ha nagyon r'rákényszerülnék, szerintem egy g'géppisztolytól sem jönnék zavarba. Bárcsak ne lennének olyan h'hangosak ezek a f'fegyverek. Gyógyító vagyok én, nem k'katona.}
 {4003}{}{Hát remélem, nem lesz rá szükségem!}
 {4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
-{5000}{}{I think I m'might have a b'broken limb.}
-{5001}{}{I think I m'might be r'radiated.}
-{5002}{}{I think I m'might be p'poisoned.}
+{5000}{}{Asszem eltört az eggyik tagom.}
+{5001}{}{Asszem kaptam kis rádióaktivítást.}
+{5002}{}{Asszem mérgzésem van.}
 {5100}{}{I'm f'feeling a b'bit warm now.}
 {5101}{}{That's b'better.}
 {6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}

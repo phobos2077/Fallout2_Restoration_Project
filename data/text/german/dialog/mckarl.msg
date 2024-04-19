@@ -3,7 +3,7 @@
 {102}{}{Er ist so verdreckt, dass ihm schon Blumen aus dem Haar wachsen.}
 {150}{}{Hier, nimm ein Bier.}
 {151}{}{Hier, nimm 'ne Flasche Schnaps.}
-{152}{}{Hier, nimm 'ne Nuka Cola.}
+{152}{}{Hier, nimm 'ne Nuka-Cola.}
 {153}{}{Hey.}
 {154}{}{He!}
 {155}{}{HEY!!}

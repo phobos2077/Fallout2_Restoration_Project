@@ -80,5 +80,5 @@
 {165}{}{[Ügyködésednek hála, a képernyő hirtelen az arcodba robbant.]}
 {166}{}{Befejezés}
 {200}{}{[Ez a terminál többé már nem működőképes.]}
-{300}{}{You disable the shock plates.}
+{300}{}{Kikapcsoltad a sokkoló lapokat.}
 {400}{}{A Számítógép Diagnosztikai Módban van. Kérem, várjon, amíg a Diagnosztikai Program futása befejeződik!}

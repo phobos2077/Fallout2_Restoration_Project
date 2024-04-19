@@ -48,7 +48,7 @@
 {147}{}{Esci}
 {148}{}{[Senti un leggero ronzio mentre del fumo comincia ad uscire dal terminale del computer. Ti sposti e osservi la tastiera sciogliersi in un mucchio di gelatina. Uhm... doveva trattarsi di uno dei quei virus dei quali hai sentito parlare.]}
 {149}{}{Esci}
-{150}{}{Qui e' Klinger dell'8063simo. Abbiamo disperato bisogno del componente numero 102-53B.  Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Me lo invii il piu' presto possibile.}
+{150}{}{Qui e' Klinger dell'8063simo. Abbiamo disperato bisogno del componente numero 102-53B. Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Me lo invii il piu' presto possibile.}
 {151}{}{Leggi altra posta}
 {152}{}{Esci}
 {153}{}{[Che fortuna incredibile! Sei riuscito ad azzeccare la password corretta. "Tettone"]                                       Disattivazione Piastrelle Elettrificate in corso}

@@ -282,14 +282,14 @@
 {14501}{}{Az ajtón egy óriási lyuk tátong.}
 {14600}{}{Lyuk}
 {14601}{}{Az ajtón egy óriási lyuk tátong.}
-{14700}{}{Supposedly Bullet Proof Glass}
-{14701}{}{Supposedly unbreakable glass. Don't even try!}
-{14800}{}{Supposedly Bullet Proof Glass}
-{14801}{}{Supposedly unbreakable glass. Don't even try!}
-{14900}{}{Supposedly Bullet Proof Glass}
-{14901}{}{Supposedly unbreakable glass. Don't even try!}
-{15000}{}{Supposedly Bullet Proof Glass}
-{15001}{}{Supposedly unbreakable glass. Don't even try!}
+{14700}{}{Állítólag golyóálló üveg}
+{14701}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
+{14800}{}{Állítólag golyóálló üveg}
+{14801}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
+{14900}{}{Állítólag golyóálló üveg}
+{14901}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
+{15000}{}{Állítólag golyóálló üveg}
+{15001}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
 {15100}{}{Ajtó}
 {15101}{}{Ez az ajtó nagyon modern. Tágulva nyílik ki, ahogy a három alkotórésze elfordul.}
 {15200}{}{Ajtó}
@@ -2630,12 +2630,12 @@
 {171800}{}{Fal}
 {171900}{}{Szellőztető}
 {172000}{}{Szellőztető}
-{172100}{}{Supposedly Bullet Proof Glass}
-{172101}{}{Supposedly unbreakable glass. Don't even try!}
-{172200}{}{Supposedly Bullet Proof Glass}
-{172201}{}{Supposedly unbreakable glass. Don't even try!}
-{172300}{}{Supposedly Bullet Proof Glass}
-{172301}{}{Supposedly unbreakable glass. Don't even try!}
+{172100}{}{Állítólag golyóálló üveg}
+{172101}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
+{172200}{}{Állítólag golyóálló üveg}
+{172201}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
+{172300}{}{Állítólag golyóálló üveg}
+{172301}{}{Állítólag törhetetlen üveg. Meg se próbáld!}
 {172400}{}{Nehézlézer-löveg}
 {172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Nehézlézer-löveg}

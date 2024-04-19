@@ -197,7 +197,7 @@
 {682}{}{Vergiss es. Themawechsel...}
 {683}{}{Ich sehe schon, wohin das führt. Vergiss es, Myron.}
 {690}{myn109}{Naja, als ich damals zufällig die Mordino-Familie kennenlernte, bauten die Peyote-Kakteen an und versuchten, sie als das "Reno-Erlebnis" an Touristen zu verkaufen. Totaler Schwachsinn...}
-{691}{}{Mach weiter.}
+{691}{}{Ja?}
 {692}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {693}{}{Vergiss, dass ich es erwähnt habe.}
 {700}{myn110}{Ich mein, Peyote? Also echt. Das ist ja nicht mal halb so stark wie, was weiß ich, das gute alte LSD.}
@@ -349,7 +349,7 @@
 {1126}{}{Kannst du auch noch andere Drogen herstellen?}
 {1127}{}{Wenn du Stimpaks herstellen kannst, kannst du dann nicht auch ein paar Super-Stimpaks machen?}
 {1128}{}{Ist schon gut. Ich hätte da noch ein paar andere Fragen...}
-{1135}{myn152}{Klar könnte ich...nur ham wer nicht alles da, was ich brauche. 'N bisschen von dem mutierten Obst für die Zitronensäure...'n Spritzer Nuka Cola...und 'n normales Stimpak.}
+{1135}{myn152}{Klar könnte ich...nur ham wer nicht alles da, was ich brauche. 'N bisschen von dem mutierten Obst für die Zitronensäure...'n Spritzer Nuka-Cola...und 'n normales Stimpak.}
 {1145}{myn153a}{Sprich mir nach: Myron ist ein Genie. Wie viele willste? }
 {1146}{myn153b}{Wie wär's, wenn du dem Ärger zur Abwechslung mal aus dem Weg gehst? Naja, das Konzept ist wahrscheinlich zu hoch für dich. Wie viele diesmal?}
 {1147}{myn153c}{Myron ist dein Mann, meine Süße. Wie viele?}

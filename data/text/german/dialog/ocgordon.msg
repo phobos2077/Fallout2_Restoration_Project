@@ -37,7 +37,7 @@
 {136}{}{Das ist eine lange Zeit. Beantwortest du mir weitere Fragen?}
 {137}{}{Es ist dein Leben, das du verschwendest.}
 {138}{}{Du warst also hier, als die Deathclaws hierher kamen?}
-{139}{}{Nein. Vor ein paar Monaten habe ich diesen Ort verlassen, um die Statue des Vaultbewohners zu besichtigen. Sie wurde im Zentrum der NCR  - das ist die New California Republic, östlich von hier - errichtet. Als ich zurückkam, waren die Deathclaws bereits hier. Das war natürlich ein Schock für mich. Ich bin jedoch überzeugt, dass sie nicht dafür verantwortlich sind, was mit meinen Mitbürgern geschehen ist. Wenn du noch mehr darüber wissen möchtest, wende dich an Goris in der Bibliothek.}
+{139}{}{Nein. Vor ein paar Monaten habe ich diesen Ort verlassen, um die Statue des Vaultbewohners zu besichtigen. Sie wurde im Zentrum der NCR - das ist die New California Republic, östlich von hier - errichtet. Als ich zurückkam, waren die Deathclaws bereits hier. Das war natürlich ein Schock für mich. Ich bin jedoch überzeugt, dass sie nicht dafür verantwortlich sind, was mit meinen Mitbürgern geschehen ist. Wenn du noch mehr darüber wissen möchtest, wende dich an Goris in der Bibliothek.}
 {140}{}{Okay, danke.}
 {141}{}{Okay, Tschüss.}
 {142}{}{Ich werde daran denken.}

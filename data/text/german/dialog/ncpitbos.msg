@@ -136,7 +136,7 @@
 {445}{}{[Du zählst die Einnahmen der Chips des Abends. Eine hübsche Summe.]}
 {446}{}{Das mit dem Leder kam gut. }
 {447}{}{Die Spielchen mit dem Ballknebel waren auch nicht von schlechten Eltern. }
-{448}{}{[FORTSETZEN]}
+{448}{}{[Weiter]}
 {455}{}{Ja, der stinkt nach Brahminkacke, nur noch schlimmer. Und du willst trotzdem...? [Nimmt eine skeptische Musterung
  deiner Person vor.] Zum Teufel, warum eigentlich nicht. Kann nicht schaden, so eine kleine Showeinlage. Aber mit dem
  Publikum ist nicht zu spassen. Will hoffen, dass du's drauf hast.}

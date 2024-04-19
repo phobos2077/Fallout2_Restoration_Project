@@ -29,5 +29,5 @@
 {245}{}{Chi e' il tizio con il coltello al bancone?}
 {246}{}{Per oggi niente, grazie.}
 {250}{}{Oh, intendi dire il vecchio McGee? E' innocuo. Ha speso praticamente una fortuna in quella vecchia slot machine e sono anni che non guadagna qualcosa. E' fallito, credo. Comunque... posso offrirti qualcosa, amico?}
-{260}{}{Quello e'  Lil' Jesus, il figlio di Jesus. Lui e il suo coltello sono come amici per la pelle... Gli ho visto fare delle cose davvero terribili con quello. Comunque... posso offrirti qualcosa, amico?}
+{260}{}{Quello e' Lil' Jesus, il figlio di Jesus. Lui e il suo coltello sono come amici per la pelle... Gli ho visto fare delle cose davvero terribili con quello. Comunque... posso offrirti qualcosa, amico?}
 {270}{}{Pleasure doin' business with ya.}

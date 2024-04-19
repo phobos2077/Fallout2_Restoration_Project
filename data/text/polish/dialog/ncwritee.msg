@@ -109,7 +109,7 @@
 {374}{}{Czy naprawdę rozmawiasz z Bogiem, kiedy uprawiasz seks przed kamerami?}
 {375}{}{Mama mówi, że jesteś diabelskim nasieniem.}
 {376}{}{Mama mówi, że jesteś kurtyzaną. Zbłąkaną owieczką. Nie mam pojęcia o co jej chodzi.}
-{385}{}{Masz jakiś interes do Taty? Powodzenia, ale on raczej nie szuka nowych pomocników.}
+{385}{}{Masz jakiś interes do Taty? Cóż, powodzenia, ale on raczej nie szuka nowych pomocników.}
 {386}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {387}{}{Uważaj na siebie, przyjacielu. Jesteś na terenie rodziny Wrightów.}
 {390}{}{Lepiej stąd spadaj... nie przepadamy tu za łowcami niewolników.}
@@ -119,7 +119,7 @@
 {394}{}{Mam cię na oku, Łowco, więc uważaj co robisz, zrozumiano?}
 {395}{}{Trzymaj się z dala od dzieci, słyszysz? Jeden podejrzany ruch i nafaszeruję cię ołowiem.}
 {396}{}{Zbliż się tylko do dzieci, łowco, a zastrzelę cię jak psa.}
-{397}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
+{397}{}{Jeśli szukasz alkoholu, łowco, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {398}{}{Skrzywdź tylko któregoś Wrighta, Łowco, a cała rodzina będzie cię ścigać aż do śmierci.}
 {399}{}{Masz jakiś interes do Taty? On niechętnie rozmawia z łowcami niewolników, więc lepiej spadaj.}
 {410}{}{Lepiej stąd spadaj... Bez obrazy, ale Tato nie lubi dzikusów.}

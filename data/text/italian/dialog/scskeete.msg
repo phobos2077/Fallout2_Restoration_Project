@@ -1,7 +1,7 @@
 {100}{}{Vedi un tipo magro dall'aspetto insignificante.}
 {101}{}{E' Doofus, il guardiano delle auto.}
 {102}{}{Questo tipo e' uno stecco malridotto, pieno di spasmi e tic; di sicuro e' un tossicodipendente.}
-{103}{}{Questo e' un bel mezzo, fratello, davvero bello! Oh cavoli, io sono quello che fa per te - ti guardo la macchina e tengo lontane le cimici. Cinque dollari e nessun problema.  Cinque dollari e Doofus e' in servizio! Non dorme mai - 24 ore su 24, sempre qui, fratello.}
+{103}{}{Questo e' un bel mezzo, fratello, davvero bello! Oh cavoli, io sono quello che fa per te - ti guardo la macchina e tengo lontane le cimici. Cinque dollari e nessun problema. Cinque dollari e Doofus e' in servizio! Non dorme mai - 24 ore su 24, sempre qui, fratello.}
 {104}{}{Io sono il guardiano delle auto, fratello. Tengo d'occhio le macchine - 5$. Nessuno le tocca, perche' Doofus e' in servizio. }
 {105}{}{Certo, fratello.}
 {106}{}{Allora, fratello, la vuoi la mia protezione?}

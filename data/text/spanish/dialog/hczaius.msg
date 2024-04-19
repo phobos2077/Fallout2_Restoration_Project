@@ -34,7 +34,7 @@
 {127}{}{No. No mucho.}
 {128}{}{Otra vez tú, ¿eh?}
 {129}{}{¡Ork! ¡Ooo! ¡Ug ug!}
-{130}{}{Hola! ¡HOOOLA! Yo (nombre)!}
+{130}{}{¡Hola! ¡HOOOLA! yo }
 {131}{}{Colega, ya te di algo de dinero. Ve a molestar a otro, eh?}
 {132}{}{Hola otra vez. ¿Por qué no echas un vistazo al… umm… banco de la ciudad? Estoy seguro de que allí hay un montón de gente
  encantada de hablar contigo.}
@@ -57,7 +57,7 @@
 {144}{}{¿Qué hay para mí?}
 {145}{}{Desde luego, lo haré.}
 {146}{}{¿Estás de broma? Ni hablar.}
-{147}{}{ dólares. ¿Qué tal suena?}
+{147}{}{. ¿Qué tal suena?}
 {148}{}{A tacañería, suena. Quiero más.}
 {149}{}{Me parece bien.}
 {150}{}{Olvídalo. Me largo.}
@@ -130,8 +130,8 @@
  donde yo sé, los humanos no piensan demasiado mal de nosotros. Por supuesto, eso no incluye los humanos
  de otros lugares cerca de aquí… entre ellos hay varios hijos de puta.}
 {207}{}{De acuerdo, gracias. Adiós.}
-{300}{}{ dólares. ¿Qué tal suena?}
-{301}{}{ dólares. ¿Qué tal suena?}
+{300}{}{. ¿Qué tal suena?}
+{301}{}{. ¿Qué tal suena?}
 {302}{}{¿}
 {381}{}{Soy un mujer ocupada. Aún no me he puesto a ello.}
 {382}{}{No me metas prisa. Soy una mujer ocupada. Capullo.}
@@ -152,3 +152,4 @@
  Broken Hills.}
 {407}{}{Eso espero yo también. Tengo algunas preguntas más.}
 {408}{}{Yo también. Adiós.}
+{1130}{}{!}

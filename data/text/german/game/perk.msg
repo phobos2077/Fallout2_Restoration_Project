@@ -49,7 +49,7 @@
 {149}{}{Taschenkünstler}
 {150}{}{Schönredner}
 {151}{}{Gute Auffassungsgabe}
-{152}{}{Spezialkenntnis}
+{152}{}{Spezialkenntnis!}
 {153}{}{Mutation!}
 {154}{}{Nuka-Cola-Sucht}
 {155}{}{Buffout-Sucht}
@@ -106,21 +106,21 @@
 {206}{}{Dieb}
 {207}{}{Waffenhandhabung}
 {208}{}{Vault City-Training}
-{209}{}{Durch Alkohol erhöhte Trefferpunkte }
+{209}{}{Durch Alkohol erhöhte Trefferpunkte}
 {210}{}{Durch Alkohol erhöhte Trefferpunkte II}
 {211}{}{Durch Alkohol gesenkte Trefferpunkte}
 {212}{}{Durch Alkohol gesenkte Trefferpunkte II}
-{213}{}{Durch Autodoc erhöhte Trefferpunkte }
-{214}{}{Durch Autodoc erhöhte Trefferpunkte II}
-{215}{}{Durch Autodoc gesenkte Trefferpunkte}
-{216}{}{Durch Autodoc gesenkte Trefferpunkte II}
+{213}{}{Durch Auto-Doc erhöhte Trefferpunkte}
+{214}{}{Durch Auto-Doc erhöhte Trefferpunkte II}
+{215}{}{Durch Auto-Doc gesenkte Trefferpunkte}
+{216}{}{Durch Auto-Doc gesenkte Trefferpunkte II}
 {217}{}{Experten-Exkrementschleuder}
 {218}{}{Durch Waffen verbesserter K.o.}
 {219}{}{Verhext}
 {220}{}{Alkoholsucht}
 {221}{}{Raucher}
 {1101}{}{Mit Bewusstsein bekommst du genaue Informationen über jede Kreatur, die du untersuchst. Du siehst ihre genauen Trefferpunkte sowie Angaben zu allen Waffen, die sie bei sich trägt.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
+{1102}{}{Du kennst die geheimen Künste des Ostens, oder du schlägst einfach schneller. Auf jeden Fall kosten deine Nahkampfangriffe 1 AP weniger.}
 {1103}{}{Erfahrung im Kampf ohne Waffen verleiht dir einen Vorteil bei Verletzungen. Für jede Stufe dieses Bonus verursachst Du +2 Trefferpunkte bei Nahkampfangriffen }
 {1104}{}{Für jede Stufe der Bonus-Bewegung erhältst du pro Zug 2 APs umsonst, die nur für Bewegung eingesetzt werden können. Für jede Stufe dieses Bonus kannst du dich also bei jedem Zug um zwei Felder umsonst bewegen.}
 {1105}{}{Deine Ausbildung an Feuerwaffen und anderen Distanz- waffen hat dich zu einem tödlichen Waffenkämpfer gemacht. Für jede Stufe dieses Bonus fügst du +2 Trefferpunkte mit Distanzwaffen zu.}
@@ -140,10 +140,10 @@
 {1119}{}{Jeder Level von Gebildet gibt dir +2 Fähigkeitspunkte, wenn du eine neue Erfahrungsebene bewältigst. Dieser Bonus funktioniert am besten, wenn du ihn schon zu einem frühen Zeitpunkt deines Abenteuers kaufst.}
 {1120}{}{Es fällt dir mit diesem Bonus leichter, andere zu heilen. Jeder Level dieses Bonus heilt 4-10 zusätzliche Trefferpunkte, wenn du die Erste-Hilfe- oder Arzt-Fähigkeiten anwendest.}
 {1121}{}{Du hast eine Begabung dafür, Geld zu finden. Du findest bei verschiedenen Zufallsbegegnungen in der Wüste noch mehr Geld.}
-{1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflusst. }
-{1123}{}{Du hast andere menschliche Wesen studiert, um ihre emotionale Reaktion dir gegenüber genau einzuschätzen. Du siehst bei einem vertraulichen Gespräch den Reaktionswert der Person, mit der du gerade sprichst. }
+{1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflusst.}
+{1123}{}{Du hast andere menschliche Wesen studiert, um ihre emotionale Reaktion dir gegenüber genau einzuschätzen. Du siehst bei einem vertraulichen Gespräch den Reaktionswert der Person, mit der du gerade sprichst.}
 {1124}{}{Du bist der leibhaftige Totschläger! Bei Nahkämpfen werden aus all deinen Treffern kritische Treffer, so dass du Zerstörung und Verwüstung zurücklässt.}
-{1125}{}{Du hast die Feuer- waffe als Schmerz- quelle gemeistert. Mit diesem Bonus wird jeder erfolg- reiche Treffer im Kampf mit Waffen  zu einem kritischen Treffer aufge- wertet, wenn du zudem einen guten Wurf machst.}
+{1125}{}{Du hast die Feuerwaffe als Schmerzquelle gemeistert. Mit diesem Bonus wird jeder erfolgreiche Treffer im Kampf mit Waffen zu einem kritischen Treffer aufgewertet, wenn du zudem einen guten Wurf machst.}
 {1126}{}{Wenn du beim Schleichen eine Kreatur in den Rücken triffst, fügst du im Nahkampf doppelten Schaden zu. Dieser Bonus heißt Leiser Tod.}
 {1127}{}{Jeder Action Boy-Level (auf Wunsch auch Girl) gibt dir bei Kampfhandlungen einen zusätzlichen AP. Diese APs kannst du bei jeder beliebigen Aufgabe einsetzen.}
 {1128}{}{Mit diesem Bonus kannst du das Bewusstsein von äußeren Einflüssen abschirmen. Du musst diese Gabe von einem Guru auf der Durchreise oder bei einem ausgiebigen Aufenthalt in einer Bar gelernt haben.}
@@ -170,7 +170,7 @@
 {1149}{}{Du kannst deine Ausrüstung jetzt besser packen. Es kostet dich nur 2 Aktionspunkte (statt 4), im Kampf auf dein Inventar zuzugreifen.}
 {1150}{}{Du kannst jetzt deine Dialogoptionen verbessern, ohne genau zu wissen, wovon du eigentlich redest. Mit jedem Level dieses Bonus erhöht sich deine Intelligenz für Dialogzwecke um eins (bis zu 10).}
 {1151}{}{Mit diesem Bonus hast du tatsächlich eine gute Auffassungsgabe, da du mit jedem Level weitere +5% bekommst, wenn du Erfahrungspunkte sammelst. Hiervon machst du am besten schon früh Gebrauch.}
-{1152}{}{Deine Fähigkeiten haben sich so weit entwickelt, dass du ein zusätzliches Spezialtalent erwerben kannst. Spezialtalente verbessern sich doppelt so schnell.}
+{1152}{}{Deine Fähigkeiten haben sich so weit entwickelt, dass du ein zusätzliches Spezialkenntnis erwerben kannst. Spezialkenntnisse verbessern sich doppelt so schnell.}
 {1153}{}{Die Strahlung im Ödland hat dich verändert! Eines deiner Zusatzmerkmale ist zu etwas anderem mutiert.}
 {1154}{}{Du gierst nach einer weiteren Nuka-Cola.}
 {1155}{}{Es schüttelt dich.}
@@ -193,10 +193,10 @@
 {1172}{}{Du fühlst das brennende Verlangen, noch eine Schachtel tragische Karten zu öffnen.}
 {1173}{}{Rüstung - Charisma}
 {1174}{}{Du weißt, wie man Geckos richtig häutet, um die Haut weiterzuverwenden.}
-{1175}{}{Du hast einen inneren Schutz gegen körperliche Angriffe.}
-{1176}{}{Du hast einen besonders starken inneren Schutz gegen körperliche Angriffe.}
-{1177}{}{You have inherent protection against thermal attacks.}
-{1178}{}{You have extra inherent protection against thermal attacks.}
+{1175}{}{Du hast einen natürlichen Schutz gegen körperliche Angriffe.}
+{1176}{}{Du hast einen besonders starken natürlichen Schutz gegen körperliche Angriffe.}
+{1177}{}{Du hast einen natürlichen Schutz gegen Hitzeangriffe.}
+{1178}{}{Du hast einen besonders starken natürlichen Schutz gegen Hitzeangriffe.}
 {1179}{}{Du hast +10 % Resistenz gegen Gift und Strahlung erlangt.}
 {1180}{}{Mit diesem Bonus gewinnst du 1 Stärkepunkt, wenn du unter 1/2 deiner max. Trefferpunkte fällst.}
 {1181}{}{Du bist im Freien wachsamer, und Feinde können sich nicht so leicht an dich heranschleichen. Mit diesem Bonus bekommst du +3 zu deiner Wahrnehmung in Zufallsbegegnungen hinzu, wenn du die Plazierung festlegst.}
@@ -231,10 +231,10 @@
 {1210}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit noch ein wenig mehr erhöht worden.}
 {1211}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}
 {1212}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}
-{1213}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc leicht erhöht worden.}
-{1214}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc noch ein wenig mehr erhöht worden.}
-{1215}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}
-{1216}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}
+{1213}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc leicht erhöht worden.}
+{1214}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc noch ein wenig mehr erhöht worden.}
+{1215}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc ein wenig gesenkt worden.}
+{1216}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Auto-Doc ein wenig gesenkt worden.}
 {1217}{}{Im Schwafeln übertrifft dich so schnell keiner.}
 {1218}{}{Durch Waffen verbesserter K.o.}
 {1219}{}{Das Gute an dir ist, dass alle um dich herum mehr kritische Treffer im Kampf erleiden. Der Nachteil ist, dass das auch für dich gilt!}

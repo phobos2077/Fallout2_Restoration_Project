@@ -843,7 +843,7 @@
 {245200}{}{Padló}
 {245300}{}{Padló}
 {245400}{}{Padló}
-{245500}{}{End of Group}
+{245500}{}{Csoport Vége}
 {245600}{}{Tető}
 {245700}{}{Tető}
 {245800}{}{Tető}
@@ -870,9 +870,9 @@
 {247900}{}{Tető}
 {248000}{}{Tető}
 {248100}{}{Tető}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Csoport Vége}
+{249100}{}{Csoport Vége}
+{250400}{}{Csoport Vége}
 {250500}{}{Fa Padló}
 {250600}{}{Fa Padló}
 {250700}{}{Fa Padló}
@@ -884,10 +884,10 @@
 {251300}{}{Fa Padló}
 {251400}{}{Fa Padló}
 {251500}{}{Fa Padló}
-{251600}{}{End of Group}
+{251600}{}{Csoport Vége}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Csoport Vége}
+{318200}{}{Csoport Vége}
 {369100}{}{Tető}
 {369200}{}{Tető}
 {369300}{}{Tető}

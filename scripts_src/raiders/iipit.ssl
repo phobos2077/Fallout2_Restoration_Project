@@ -72,7 +72,7 @@ procedure spatial_p_proc begin
            if (Range_Mod > PERCEPTION_BONUS) then
                Range_Mod:= PERCEPTION_BONUS;
 
-           Detection_Roll:=do_check(source_obj,STAT_pe,Range_Mod);
+           Detection_Roll = roll_vs_stat(source_obj, STAT_pe, Range_Mod);
 
            if (is_success(Detection_Roll)) then begin
 

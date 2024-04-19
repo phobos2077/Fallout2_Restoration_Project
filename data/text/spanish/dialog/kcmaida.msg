@@ -130,7 +130,7 @@
 {520}{}{¿Quieres una bebida? Serán 5 dólares por una jarra de cerveza Buckner’s Best.}
 {521}{}{Me gustaría una buena cerveza. Llénamela.}
 {522}{}{Me gustaría invitar a una ronda a todos los presentes para darme a conocer. Soy }
-{523}{}{, de Arroyo.}
+{523}{}{ de Arroyo.}
 {524}{}{No quiero una cerveza. Tan sólo algo de información.}
 {530}{}{Una ronda para todos. Vaya, vaya... eres generoso, ¿eh? Serán 30 dólares.}
 {531}{}{Una de mi cuenta, compañeros. Ahora, ¿qué tal un poco de información?}

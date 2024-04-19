@@ -11,7 +11,7 @@
 {110}{}{. Bemész a templomba. Megcsinálod a tesztet. És nem jössz vissza, amíg nem csináltad meg. Engedelmeskedsz a Törzsfőnek. Menj!}
 {111}{}{Megyek.}
 {112}{}{Bocsáss meg, }
-{113}{}{, but I cannot allow you to pass. If you wish to return to the village you may do so only by passing the trial set before you.}
+{113}{}{, de nem engedhetlek át. Ha vissza akarsz térni a faluba, először ki kell állnod a próbát a templomban.}
 {114}{}{Értem. Akkor azt hiszem, megyek is.}
 {115}{}{Feltehetnék néhány kérdést?}
 {116}{}{Egyszerűen szétrúghatnám a segged és visszajuthatnék a faluba.}

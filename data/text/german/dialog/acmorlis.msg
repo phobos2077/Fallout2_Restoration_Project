@@ -8,7 +8,7 @@
 {107}{}{Ich habe Feuerstein. Ach, und du willst welchen?}
 {108}{}{Äh, ja.}
 {109}{}{Hmm... ich will drei Portionen Heilpulver. Es kommen schlechte Zeiten und ich werd drauf vorbereitet sein. Bring mir das Heilpulver und du bekommst den Feuerstein. Na los, mach schon!}
-{110}{}{Ja, gnädige Frau!}
+{110}{}{Ja, Tante!}
 {111}{}{Verschwende nicht meine Zeit. Hast du das Pulver?}
 {112}{}{Ja, hier sind sie.}
 {113}{}{Ähm, leider nicht.}

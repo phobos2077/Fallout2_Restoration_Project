@@ -306,7 +306,7 @@ Bericht.}
  verlassen. Und jetzt los.}
 {329}{}{Darf ich dir noch eine Frage stellen, bevor ich gehe?}
 {330}{}{Wird gemacht.}
-{331}{}{Danke. Auf Wiedersehn.}
+{331}{}{Vielen Dank. Auf Wiedersehn.}
 {332}{}{Oh, äh, das übersteigt meine Kompetenzen. In solchen Angelegenheiten musst du dich an die
  Erstbürgerin wenden.}
 {333}{}{Wie war das noch mal mit der NCR?}

@@ -35,12 +35,12 @@
 {148}{}{. Ha akarsz még valamit inni, csak gyere és szólj!}
 {149}{}{Jóó!}
 {150}{}{! Csak nem inni akarsz?}
-{151}{}{Grink 'es!}
+{151}{}{Inni igen!}
 {152}{}{Inni nem!}
 {153}{}{Hé, Éne! Üdv újra! Ott a szokásos széked, csak rád vár.}
 {154}{}{Köfi!}
-{155}{}{That'll be $2.}
-{156}{}{That'll be $4.}
+{155}{}{Az ára: 2 dollár}
+{156}{}{Az ára: 4 dollár}
 {157}{}{5 dollárt kérek.}
 {158}{}{Tessék.}
 {159}{}{[Adok neki 1 dollár jattot] Tessék, Phil.}
@@ -67,7 +67,7 @@
 {192}{}{Megmondani a nevem. }
 {193}{}{Semmit, elnézést. Viszlát!}
 {194}{}{Hát, rendben! Mit adhatok?}
-{198}{}{What's been going on in town? Well...}
+{198}{}{Van valami érdekes itt a városban? Nos...}
 {199}{}{Kösz. Kérdeznék még. }
 {200}{}{Köszönöm. Viszlát!}
 {201}{}{Mit lehet itt csinálni... lássuk csak...}
@@ -78,8 +78,7 @@
 {206}{}{Nem sok.}
 {207}{}{Mást szeretnék kérdezni.}
 {208}{}{Köszi. Viszlát!}
-{209}{}{You look like burly one. I'm betting you could arm wrestle with Francis. He's the
- mutant sitting over there. Apparently he's got a prize of some sort. Interested? Go talk to Francis.}
+{209}{}{Szép erőben vagy. Szerintem megpróbálhatnád lenyomni Francist szkanderben. Ő az ott, az a mutáns. Valami díj is van a dologban. Érdekel? Menj, beszélj vele!}
 {210}{}{Kösz. Valami más?}
 {211}{}{Köszi. Viszlát!}
 {212}{}{Eltűnt pár ember. Nem tudjuk, hol lehetnek. Ha megtalálnád őket, biztos vagyok benne, hogy kapnál érte valamit. Ha érdekel a dolog, menj és beszélj Marcusszal!}

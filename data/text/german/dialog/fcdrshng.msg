@@ -42,7 +42,7 @@
 {311}{}{[Seine Augen flackern vor Wut] Töte sie, meine Kinder! Ihr Körper wird ein guter Wirt für euer neuestes Geschwisterchen sein!}
 {312}{}{[Fertig]}
 {320}{}{Ausgezeichnet! Jetzt werde ich Ihre Belohnung vorbereiten. Machen Sie es sich bequem. Es kann eine Weile dauern.}
-{321}{}{[FORTSETZEN]}
+{321}{}{[Weiter]}
 {322}{}{Behalten Sie ihre Belohnung. Ich habe keine Zeit ewig zu warten.}
 {330}{}{Ja, bringen Sie mir die Samen und Sie können die Belohnung einstreichen.}
 {331}{}{Ich komme wieder.}
@@ -95,7 +95,7 @@
 {461}{}{Helfen bei was?}
 {462}{}{Nein! Ich werde Ihnen nicht helfen, Arschloch! Seymour war echt! SEYMOUR WAR REAL!}
 {470}{}{[Er grinst und ist offensichtlich bestrebt, sein Genie zu demonstrieren.] Pflanzen haben mich schon immer fasziniert. Sie sind so bemerkenswert unterschiedlich von Tieren und doch überraschend ähnlich. Wenn Sie ein Tier betrachten, wissen Sie, dass es denken kann, dass es sich seiner Umgebung bewusst ist, Schmerzen und Angst hat. Dass es Absichten hat. Offensichtlich variiert das Ausmaß dieser Fähigkeit, aber der Punkt ist, dass ein Tier diese besitzt.}
-{471}{}{Mach weiter.}
+{471}{}{Ja?}
 {480}{}{Denken Sie das auch, wenn Sie sich eine Pflanze ansehen? Wenn Sie eine Pflanze treten, schlägt sie zurück? Reagiert sie in irgendeiner Weise auf Sie? Beeinflusst das Gespräch mit einer Pflanze ihr Wachstum? Vor dem Großen Krieg testeten einige Kulturen diese Theorien. Ein Volk, das als Deutsche bekannt ist, führte Experimente durch, bei denen es glaubte, dass Pflanzen zu Emotionen fähig sind und dass man mit Reden, Aufmerksamkeit und Zuneigung ein gesundes Wachstum fördern kann.}
 {481}{}{Aber Pflanzen haben kein Nervensystem und ohne eins ist das, was Sie vorschlagen, einfach nicht möglich.}
 {482}{}{Ich denke, alle Lebensformen nehmen auf die eine oder andere Weise Dinge wahr.}

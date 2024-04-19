@@ -14,7 +14,7 @@
 {112}{}{Wer bist du?}
 {113}{}{Bist du ein Gefangener?}
 {114}{}{Ich geh dann.}
-{115}{}{Mein Name ist Matt. Ist das von  Bedeutung?}
+{115}{}{Mein Name ist Matt. Ist das von Bedeutung?}
 {116}{}{Glaub kaum.}
 {117}{}{Hmpf. Ich gehn.}
 {118}{}{OK, ich geh halt.}
@@ -26,7 +26,7 @@
 {122}{}{OK.}
 {123}{}{Ich hier raus.}
 {124}{}{Warum?}
-{125}{}{Ich verstehe.}
+{125}{}{Verstehe.}
 {126}{}{Ich mach mich dann mal auf den Weg.}
 {127}{}{Weil ich in ihnen, im Gegensatz zu den Schafen die ebenfalls hier wohnen, eine Bedrohung
  für die Menschheit sehe. Sie wissen, wenn ich hier rauskomm, werde ich alles tun, damit sie vom

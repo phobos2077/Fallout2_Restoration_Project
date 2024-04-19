@@ -1,5 +1,5 @@
 {100}{}{Ez az ember erőpáncélt visel.}
-{101}{}{Sir Launcelot.}
+{101}{}{Sir Lancelot.}
 {102}{}{A fegyverét simogatja.}
 {103}{}{Sir Launcelot, szolgálatodra.}
 {104}{}{Húzd el a beled!}

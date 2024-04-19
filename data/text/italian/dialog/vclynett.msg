@@ -200,7 +200,7 @@
 {299}{lyn036b}{Villaggio? Prima mi dici che provieni da un vault, e adesso mi parli di un villaggio. Qual e' la verita'?! La mia pazienza si sta esaurendo nel sentire le tue menzogne.}
 {300}{}{Aspetti, ha capito male. L'Abitante del Vault e' il fondatore del mio villaggio.}
 {301}{}{La mia pazienza nei TUOI riguardi sta finendo, donna. Portami da qualcun altro... qualcuno che possa aiutarmi.}
-{302}{}{La mia pazienza nei SUOI riguardi sta finendo. Mi porti  da qualcun altro... qualcuno che possa aiutarmi.}
+{302}{}{La mia pazienza nei SUOI riguardi sta finendo. Mi porti da qualcun altro... qualcuno che possa aiutarmi.}
 {303}{}{Tornero' piu' tardi. Buona giornata.}
 {304}{lyn037}{Oh... adesso capisco. Ma che prove hai che il tuo Antenato provenisse da un Vault?}
 {305}{}{Leggende, tramandate dall'Anziana del mio villaggio.}

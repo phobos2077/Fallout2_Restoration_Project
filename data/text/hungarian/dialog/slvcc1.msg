@@ -24,7 +24,7 @@
 {311}{}{Yeah right. You're full of shit and you're wasting my time. For that, you die. [Signals to his men.] Let's waste this loser.}
 {400}{}{I'm busy. Go see Metzger in the Den if you want to do a run.}
 {450}{}{Didn't I tell you to scram? We don't take too kindly to trespassers. Time to die.}
-{500}{}{[DONE]}
+{500}{}{[RENDBEN]}
 {600}{}{Most meghalsz!}
 {601}{}{Die Ranger scum!}
 {800}{}{Umm... Give Metzger my regards.}

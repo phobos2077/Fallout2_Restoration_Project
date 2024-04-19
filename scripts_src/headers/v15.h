@@ -181,11 +181,9 @@ procedure getTimeBit begin
    if (time >= 2400 and time <= 2459) then return bit_24;
 end
 
-//Used for warping to the level where NCR helps out
+// Used for warping to the level where NCR helps out
 #define CHECK_LEVEL \
-    if is_loading_game then \
-        ndebug("error: attemmpting to use move_to in during loading"); \
-    else if elevation(self_obj) != elevation(dude_obj) then \
+    if not is_loading_game and (elevation(self_obj) != elevation(dude_obj)) then \
         move_to(self_obj, self_tile, elevation(dude_obj));
 
 #define CHECK_SQUATTERS_RUN                                    \

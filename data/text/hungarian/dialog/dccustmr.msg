@@ -64,7 +64,7 @@
 {413}{}{Látsz valami jót?}
 {414}{}{Itt semmit.}
 {415}{}{Tubbynak kellene valami jobb áruforrás.}
-{416}{}{You need drugs? Tubby is normally well stocked.}
+{416}{}{Drog kell? Tubbynál általában bőven van.}
 {430}{}{Miért kellett megölni Tubbyt?}
 {431}{}{Nem nagy veszteség, de Tubbyé volt az egyetlen valamirevaló bolt a városban.}
 {432}{}{Mit csinált Tubby, hogy így felkaptad rajta a vizet?}

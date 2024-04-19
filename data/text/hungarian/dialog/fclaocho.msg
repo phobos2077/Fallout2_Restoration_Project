@@ -13,9 +13,9 @@
 {112}{}{::bólintasz::}
 {113}{}{::megrázod a fejed::}
 {114}{}{Ezzel szolgálhatok.}
-{115}{}{[DONE]}
+{115}{}{[RENDBEN]}
 {116}{}{Nos, ennél többet nem tehetek érted. Minden jót!}
-{117}{}{[DONE]}
+{117}{}{[RENDBEN]}
 {118}{}{Lao Chou vagyok. Én vezetem ezt a vegyesboltot, a Repülő Sárkány 8-at. Olyan embernek ismernek engem, aki... információkban utazik...}
 {119}{}{Miféle információra gondoltál?}
 {120}{}{Értem. Vethetek egy pillantást a felszereléseidre?}
@@ -28,7 +28,7 @@
 {127}{}{Egy lép nyomában kutatok.}
 {128}{}{Úgy hallottam, egy repülő alkalmatosság falusiakat hozott errefelé.}
 {129}{}{Semmit. Viszlát!}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Beszélj Crockettel, a Hubologisták bázisán! Ő ott a vezető tudós.}
 {131}{}{Köszi. Szeretnék még egy-két infót.}
 {132}{}{Köszönöm. Viszlát!}
 {133}{}{Kutakodj északon, Navarróban! A benzinkút közelében van egy titkos bázisuk.}

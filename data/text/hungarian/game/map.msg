@@ -7,12 +7,12 @@
 {106}{}{Hogy jutok el Rejtekbe?}
 {107}{}{Hogy jutok el Rejtekbe?}
 {108}{}{Hogy jutok el Rejtekbe?}
-{109}{}{Klamath}
-{110}{}{Klamath}
-{111}{}{Klamath}
-{112}{}{Klamath}
-{113}{}{Klamath}
-{114}{}{Klamath}
+{109}{}{Kalmath}
+{110}{}{Kalmath}
+{111}{}{Kalmath}
+{112}{}{Kalmath}
+{113}{}{Kalmath}
+{114}{}{Kalmath}
 {115}{}{Menedékváros}
 {116}{}{Menedékváros}
 {117}{}{Menedékváros}
@@ -180,7 +180,7 @@
 {309}{}{15-ös Menedék: 2. szint}
 {310}{}{15-ös Menedék: 3. szint}
 {311}{}{Foldbitorlok}
-{312}{}{}
+{312}{}{Foldbitorlok}
 {313}{}{}
 {314}{}{Foldbitorlok}
 {315}{}{}
@@ -589,7 +589,7 @@
 {718}{}{}
 {1500}{}{Arroyo}
 {1501}{}{Hogy jutok el Rejtekbe?}
-{1502}{}{Klamath}
+{1502}{}{Kalmath}
 {1503}{}{Modoc}
 {1504}{}{Menedékváros}
 {1505}{}{Gekko}

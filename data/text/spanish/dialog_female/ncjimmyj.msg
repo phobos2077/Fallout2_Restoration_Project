@@ -44,7 +44,8 @@
 {282}{}{MARCHO DEJA MAR--}
 {283}{}{Oye, el, eh, "estilo de Jimmy J" suena genial y todo eso, y es por eso que tenía unas preg--}
 {284}{}{No, no creo que -}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{¡Sabía que volverías, lo sabía! ¿No dijo Jeta Jimmy J que sería así? Mantenlos felices y nunca te decepcionarán.
+Así que mi amigo piloto... ¿qué puede hacer Jeta Jimmy J por ti hoy?}
 {291}{}{Vaya, vaya, si es mi "amigo" piloto… ¿vuelves porque NECESITAS algo de Jeta Jimmy?}
 {292}{}{Um... olvidado lo que quería decir. Marcho.}
 {294}{}{¿Negocios con material? Yo GUSTA material.}

@@ -5,7 +5,7 @@
 {103}{}{Sei gegrüßt, Mensch}
 {104}{}{Was kann ich für dich tun?}
 {105}{}{Wer du sein?}
-{106}{}{Was du machen?}
+{106}{}{Was du tun?}
 {107}{}{Kopfschmerzen. Ich kommen später wieder.}
 {108}{}{Hallo, wer bist du?}
 {109}{}{Was machst du?}
@@ -24,7 +24,7 @@
 {121}{}{Äh... sicher.}
 {122}{}{Du sprichst komisch. Ich gehn.}
 {123}{}{Ich werd jetzt gehn, Valdis.}
-{124}{}{Ich verstehe.}
+{124}{}{Verstehe.}
 {125}{}{Du machst deine Arbeit sicherlich sehr gut.}
 {126}{}{Hast du den Grips, um zu beurteilen, wer 'befugt' ist und wer nicht?}
 {127}{}{Ja, allerdings. Ich habe auch genug Grips, um zu beurteilen, wer ein Volltrottel ist und

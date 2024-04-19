@@ -5,10 +5,10 @@
 {500}{}{Összetörted Becky lepárlóját.}
 {600}{}{Meggyőzted Frankie-t, hogy vásároljon Becky-től.}
 {700}{}{Túl vagy az első rabszolga-vadászatodon.}
-{800}{}{You paid Fred's debt off to Rebecca.}
-{900}{}{You returned Rebecca's book.}
-{1000}{}{You returned Anna's locket.}
-{1100}{}{You managed to fast talk your way inside the church.}
-{1200}{}{You delivered Smitty's meal.}
+{800}{}{Kifizetted Fred adósságát Rebeccának.}
+{900}{}{Visszajutattad Rebecca könyvét.}
+{1000}{}{Visszaadtad Anna medálját.}
+{1100}{}{Sikerült "bedumálnod" magad a templomba.}
+{1200}{}{Kiszállítottad Smitty kajáját.}
 {1300}{}{Megtaláltad Tyler bandájának gyenge pontját.}
 {1400}{}{Engedélyt szereztél Lara bandájának a támadásra.}

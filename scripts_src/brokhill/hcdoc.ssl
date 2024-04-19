@@ -645,7 +645,7 @@ procedure Node021 begin
    critter_heal(dude_obj,dude_max_hits-dude_cur_hits);
    critter_uninjure(dude_obj, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
    gfade_out(600);
-   game_time_advance(game_ticks(2*ONE_GAME_HOUR));//Heal Damage
+   game_time_advance(2*ONE_GAME_HOUR);//Heal Damage
    gfade_in(600);
    // End Seraph's Code
    Reply(170); //check doc NBK
@@ -734,7 +734,7 @@ end
 
 procedure Node029a begin
    gfade_out(600);
-   game_time_advance(game_ticks(party_size*ONE_GAME_HOUR));//Heal Injure
+   game_time_advance(party_size*ONE_GAME_HOUR);//Heal Injure
    gfade_in(600);
 
    Reply(315);
@@ -1063,9 +1063,9 @@ procedure PayDude begin
       gfade_out(600);
 
       if( Heal_Cost == 300 ) then
-         game_time_advance(game_ticks(8*ONE_GAME_HOUR));//Heal Injure
+         game_time_advance(8*ONE_GAME_HOUR);//Heal Injure
       else
-         game_time_advance(game_ticks(2*ONE_GAME_HOUR));//Heal Damage
+         game_time_advance(2*ONE_GAME_HOUR);//Heal Damage
 
       gfade_in(600);
 
@@ -1086,9 +1086,9 @@ procedure PayParty begin
       gfade_out(600);
 
       if( Heal_Cost == 300 ) then
-         game_time_advance(game_ticks(8*ONE_GAME_HOUR));//Heal Injure
+         game_time_advance(8*ONE_GAME_HOUR);//Heal Injure
       else
-         game_time_advance(game_ticks(2*ONE_GAME_HOUR));//Heal Dammage
+         game_time_advance(2*ONE_GAME_HOUR);//Heal Dammage
 
       gfade_in(600);
 

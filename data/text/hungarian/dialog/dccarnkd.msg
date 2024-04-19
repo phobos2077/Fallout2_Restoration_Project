@@ -1,4 +1,4 @@
-{100}{}{You see a child shouting corny slogans.}
+{100}{}{Egy hangzatos jelszavakat kiabáló gyerek.}
 {101}{}{Ezt a szurtos gyereket láthatóan valamilyen turistalátványosság reklámozására bérelték fel.}
 {500}{}{Nézze meg a Rejtélyes Múmiát!}
 {501}{}{Nézze meg az Ősi Csodát!}

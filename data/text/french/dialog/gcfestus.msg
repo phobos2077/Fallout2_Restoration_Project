@@ -34,7 +34,7 @@
 {181}{}{Incroyable.}
 {182}{}{Eh bien, je ne veux pas te déranger plus longtemps. Au revoir.}
 {190}{}{J'aimerais vraiment avoir un peu d'aide. Mais tu vois, personne d'autre n'est qualifié pour faire ce que je fais. Ils ne comprennent même pas les principes de base de ce que je fais.}
-{191}{}{How could anyone hope to keep up with you? You're above everyone.}
+{191}{}{Qui pourrait bien espérer rivaliser avec toi ? Tu es au-dessus de tout le monde.}
 {192}{}{T'es vraiment unique. Il n'y a pas de doute là-dessus. Au revoir.}
 {200}{}{Tu le sais très bien. Je sais que tu comprends vraiment ces choses-là. Si je n'avais pas tant à faire ici, je dirigerais Gecko et crois-moi, je le ferais bien.}
 {201}{}{Tu dirigerais aussi la ville ?}
@@ -74,7 +74,7 @@
 {340}{}{As-tu un régulateur de magnétosphère hydroélectrique sur toi ?}
 {341}{}{Tu sais de quoi il s'agit ?}
 {342}{}{Bien sûr. Peux-tu l'installer ?}
-{350}{}{Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.}
+{350}{}{Ca t'étonne ? Je t'ai dit que les centrales atomiques n'avaient pas de secrets pour moi. Tu devrais m'écouter.}
 {351}{}{Eh bien, puisque tu sais ce que c'est, tu dois savoir comment l'installer.}
 {352}{}{Je crois que je t'ai déjà trop écouté. Au revoir.}
 {360}{}{Certainement. C'est un jeu d'enfant pour quelqu'un d'aussi doué et expérimenté que moi. Je connais les régulateurs de magnétosphère depuis ma plus tendre enfance, tu sais...}

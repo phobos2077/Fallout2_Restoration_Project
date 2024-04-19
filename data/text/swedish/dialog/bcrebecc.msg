@@ -1,5 +1,5 @@
 {100}{}{You see an older woman.}
-{101}{}{You see Rebecca.}
+{101}{}{Du ser Rebecca.}
 {102}{}{You see an older woman. Although she appears to have lived a hard life, she has not lost any of
  her natural beauty.}
 {103}{}{Hi, I'm Rebecca. Can we talk privately, please?}
@@ -21,8 +21,8 @@
 {118}{}{No thanks, I don't want to get involved.}
 {119}{}{(whispering) You may think I'm crazy but I get the feeling I'm being watched all the time. It's
  rather disturbing, and I'm a bit on edge because of it.}
-{120}{}{Okay, we go private.}
-{121}{}{No time for sicky in head.}
+{120}{}{Okej, vi gå privat.}
+{121}{}{Ingen tid för sjuk i huvudet.}
 {122}{}{All right; where can we go to talk?}
 {123}{}{Sorry, I don't like the sound of this.}
 {124}{}{Thanks; we can go to my tent.}

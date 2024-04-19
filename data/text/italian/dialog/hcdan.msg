@@ -27,7 +27,7 @@
 {126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
 {127}{}{Mi hai convinto, amico. Che aspetto ha?}
 {128}{}{Certo. Faro' del mio meglio.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
+{129}{}{::singhiozza incontrollabilmente per qualche secondo:: Molto bene. Vattene. E sappi che mi hai spezzato il cuore.}
 {130}{}{Ci vediamo, cazzone.}
 {131}{}{E' bionda, sexy, e canta divinamente... L'ultima volta che l'ho vista stava camminando da queste parti. Non le piacevano i mutanti e i ghoul, percio' non si sarebbe mai avvicinata ad uno di loro. Nessuno sa dove sia andata. E' come se fosse scomparsa.}
 {132}{}{Questo dovrebbe bastare.}

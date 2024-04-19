@@ -1,164 +1,164 @@
-{100}{}{You see a short, barrel-chested man with a full, dark, beard. He's covered in rock-dust.}
-{101}{}{You see Dangerous Dan McGrew, the owner of the Morningstar Mine.}
-{102}{}{You see a heavily muscled man with a scar on his face. He looks tough and confident.}
-{103}{}{If you had a brain, I think it'd just up and die of loneliness.}
-{104}{}{I'll be damned. I guess evolution can go in reverse.}
-{105}{}{You ain't got all your dogs on one leash, do you?}
-{106}{}{I don't have time for you. I reckon you're just a few peas short of a casserole.}
-{107}{}{Just a couple of clowns short of a circus, aren't you?}
-{108}{}{Hello there. My name's Dangerous Dan McGrew. I run the Morningstar Mine here. What can I do
- for you?}
-{109}{}{What do you need from me?}
-{110}{}{What do you mine here?}
+{100}{}{Você vê um homem baixo, de peito largo, com uma barba cheia e escura. Ele está coberto de pó de pedra.}
+{101}{}{Você vê o Perigoso Dan McGrew, o dono da Mina Morningstar.}
+{102}{}{Você vê um homem musculoso com uma cicatriz no rosto. Ele parece forte e confiante.}
+{103}{}{Se você tinha um cérebro, acho que ele saiu andando e morreu sozinho.}
+{104}{}{Posso estar enganado, mas acho que a evolução pode retroceder.}
+{105}{}{Você não deixa todos os seus cachorros na mesma coleira, não é?}
+{106}{}{Eu não tenho tempo para você. Eu acho que você tem um tico e teco a menos.}
+{107}{}{Só alguns palhaços tampinhas de algum circo, não é?}
+{108}{}{Olá. Meu nome é Dan McGrew. Eu comendo essa Mina Morningstar aqui. O que posso fazer para
+ você?}
+{109}{}{O que você precisa de mim?}
+{110}{}{O que você extrai na mina aqui?}
 {111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
-{112}{}{Why do they call you *Dangerous* Dan McGrew?}
+{112}{}{Por que eles chamam você de *Perigoso* Dan McGrew?}
 {113}{}{O que está acontecendo aqui na cidade ultimamente?}
-{114}{}{I was just moving through. Goodbye.}
-{115}{}{We mine gold. Everybody wants it, too. Send it all the way to Vault City, New Reno, and even
- down to the NCR. You might say that Redding has something for everybody - that's what keeps us
- independent.}
-{116}{}{Nice to be so well liked. Let me ask you about something else.}
-{117}{}{I'd think that someone would try to control Redding.}
+{114}{}{Eu estava apenas passando. Adeus.}
+{115}{}{Nós mineramos ouro, e isso todo mundo quer. Nós enviamos para Vault City, New Reno e até
+ mesmo para a NCR. Você pode dizer que Redding tem um pouco para todos - é isso que nos mantém
+ independentes.}
+{116}{}{É bom ser tão querido. Deixe eu perguntar sobre outra coisa.}
+{117}{}{É de se supor que alguém poderia tentar controlar Redding.}
 {118}{}{Obrigado pela informação. Adeus.}
-{119}{}{What makes you think they haven't? Everybody would like to have Redding under their belt. My
- guess is that someone will get us pretty soon. About the only thing we can do is choose our master, if
- we want to survive.}
+{119}{}{E você está pensando certo, todo mundo gostaria de ter Redding em seu currículo. Meu palpite é
+ que alguém vai nos pegar logo. A única coisa que podemos fazer é escolher nosso comandante, se
+ quisermos sobreviver.}
 {120}{}{O que você quer dizer?}
-{121}{}{I guess that makes sense. Well, good-luck and goodbye.}
-{122}{}{I mean that we're going to be put under someone's thumb. Only a fool thinks otherwise. Our
- choice is to pick the lightest thumb.}
-{123}{}{Which you've done, of course.}
-{124}{}{Happy thumb hunting, then. Goodbye.}
-{125}{}{You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just
- kiss Redding goodbye. At least any type of Redding that I'd want to live in.}
+{121}{}{Acho que isso faz sentido. Bem, boa sorte e adeus.}
+{122}{}{Quero dizer que seremos colocados sob o controle de alguém, só um tonto pensa o contrário.
+ Nossa escolha é escolher a chicotada mais leve.}
+{123}{}{O que você fez, é claro.}
+{124}{}{Que caça ao chicote, então. Adeus.}
+{125}{}{Pode apostar que sim. Se não nos aliarmos a uma das famílias de New Reno, podes dizer
+ adeus ao Redding. Pelo menos algum tipo de Redding em que eu gostaria de viver.}
 {126}{}{O que você quer dizer?}
-{127}{}{I see. Well, goodbye.}
-{128}{}{If the NCR takes over, Redding's going to be put under the thumb, hard. They aren't real big on
- personal freedom. They're going to turn Redding into another splotch on the New California Republic map.
- The Redding I know will be gone forever.}
-{129}{}{Hmm, what about Vault City, then?}
-{130}{}{Interesting. Goodbye.}
-{131}{}{Vault City? (he laughs) Those bigots would turn Redding into a slave-labor camp. They don't see
- anyone who's not one of their precious Citizens as being worth a warm bucket of spit. Spending my life
- bowing and scraping to those bigots isn't my idea of any kind of life.}
-{132}{}{How's New Reno any different?}
-{133}{}{Thanks for clueing me in to what's going on here. Goodbye.}
-{134}{}{New Reno's strong enough to protect Redding from the other two. Since New Reno's divvied up
- amongst different gang-families, it's divided enough to give us our best chance for autonomy. In New
- Reno, they don't care how we run things - as long as they get their gold.}
-{135}{}{That doesn't sound so great, either.}
-{136}{}{Bummer. Later.}
-{137}{}{This ain't a perfect world, chum. Sometimes you've got to make the best of a bad situation. Just
- turns out that bad people may be best bet for Redding. Not everyone sees it that way, though.}
-{138}{}{So what do you think is going to happen?}
-{139}{}{Opinions are like assholes, Dan - everyone's got 'em and they all stink. Goodbye.}
-{140}{}{Not everyone sees it your way, huh? I can't imagine that. Goodbye, Dan.}
-{141}{}{Don't know for sure, but things are heating up. Whatever city has the strongest backers here in
- Redding is gonna get the whole pie. I'm just doing my damnedest to make sure it's New Reno that wins.
- The way I see it, that's Redding's only chance.}
-{142}{}{How can you help New Reno to take over?}
-{143}{}{Somebody wins, somebody loses. Bye, Dan.}
-{144}{}{Best thing to do is just to make my mine prosper and make sure my miners know who's paying the
- bills. The fact that they get all their happy-sauce from New Reno makes the place a lot more popular,
- too.}
-{145}{}{Happy sauce?}
-{146}{}{Everybody needs a little sunshine in their lives from time to time. Goodbye, Dan.}
-{147}{}{Booze, drugs, all sorts of chemical recreation. You name it and New Reno supplies it. It's just
- about the only thing that some of my miners work for. Be hell to pay if something ever happened to
- that.}
-{148}{}{How's your Jet supply lately?}
-{149}{}{I bet. Let me ask you about something else.}
-{150}{}{Thanks for the information. I'll see you around, Dan. Goodbye.}
-{151}{}{Right now we don't get hardly enough Jet in town to keep everyone happy. I sure hope those next
- few caravans get through all right.}
-{152}{}{Interesting. Let me ask you about something else, Dan.}
-{153}{}{I better be rambling, Dan. Goodbye.}
-{154}{}{Everyone's just about rolling in Jet lately. Seems as though most fellers just can't get enough
- of it. Makes for happy workers, though, so I can't complain. Lined up two deep in front of Doc
- Johnson's, they are. If there was much more, though, I'd start to worry.}
+{127}{}{Entendo. Bem, adeus.}
+{128}{}{Se a NCR assumir, Redding será colocado sob o controle, na base da força, eles não são muito
+ adeptos da liberdade pessoal. Vão transformar Redding em outra mancha no mapa da República da Nova
+ Califórnia. Essa Redding que conheço desaparecerá para sempre.}
+{129}{}{Hmm, e quanto a Vault City, então?}
+{130}{}{Interessante. Adeus.}
+{131}{}{Vault City? (Risada) Aqueles fanáticos transformariam Redding em um campo de trabalho escravo.
+ Eles não veem ninguém que não seja um de seus preciosos Cidadãos como digno nem de lamber o cuspe
+ deles. Passar minha vida me curvando e rastejando para aqueles fanáticos não é a minha ideia para uma vida ideal.}
+{132}{}{E como New Reno seria diferente?}
+{133}{}{Obrigado por me informar sobre o que está acontecendo aqui. Adeus.}
+{134}{}{New Reno é forte o suficiente para proteger Redding dos outros dois. Já que New Reno está dividida
+ entre diferentes famílias de gangues, é dividida o suficiente para nos dar nossa melhor chance de
+ autonomia. Em New Reno, eles não se importam como administramos as coisas, contanto que consigam seu ouro.}
+{135}{}{Isso também não parece muito bom.}
+{136}{}{Que merda hein. Até depois.}
+{137}{}{Este não é um mundo perfeito, amigo. Às vezes você precisa tirar o melhor proveito de uma situação
+ ruim. E acontece que pessoas más podem ser a melhor aposta para Redding. Mas nem todo mundo vê dessa forma.}
+{138}{}{Então, o que você acha que vai acontecer?}
+{139}{}{Opiniões são como bunda, Dan... todo mundo tem a sua e todas fedem. Adeus.}
+{140}{}{Nem todo mundo vê do seu jeito, né? Eu nem imagino porquê. Adeus, Dan.}
+{141}{}{Não sei ao certo, mas as coisas estão esquentando. Qualquer que seja a cidade que tenha mais
+ popularidade aqui em Redding, vai ficar com o bolo inteiro. Estou apenas fazendo o possível para garantir
+ que New Reno vença. A meu ver, essa é a única chance de Redding.}
+{142}{}{Como você pode ajudar New Reno a assumir o controle?}
+{143}{}{Alguém ganha, alguém perde. Tchau, Dan.}
+{144}{}{A melhor coisa a fazer é apenas fazer minha mina prosperar e garantir que meus mineiros saibam
+ quem está pagando as contas. Além disso, o fato de receberem o molho feliz de New Reno deixa o
+ lugar muito mais popular.}
+{145}{}{Molho feliz?}
+{146}{}{Todo mundo precisa de um pouco de alegria em suas vidas de vez em quando. Adeus, Dan.}
+{147}{}{Bebidas, drogas, todo tipo de divertimento químico. Você escolhe e New Reno fornece. É
+ praticamente a única coisa que alguns dos meus mineiros trabalham. Seria um inferno pagar se algo
+ acontecesse com isso.}
+{148}{}{Como está o abastecimento de Jet ultimamente?}
+{149}{}{Aposto que sim. Deixe eu te perguntar outra coisa.}
+{150}{}{Obrigado pela informação. Vejo você por aí, Dan. Adeus.}
+{151}{}{No momento, quase não temos jet suficiente na cidade para deixar todos alegres. Espero que as
+ próximas caravanas venham com eles.}
+{152}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{153}{}{É melhor eu ir andando, Dan. Até mais.}
+{154}{}{Todo mundo está se enfiando no jet ultimamente. Parece que a maioria dos caras não conseguem
+ se cansar disso. Isso os deixa felizes no trabalho, então não posso reclamar. Fazem fila na frente
+ do Dr. Johnson. Se aumentassem mais a dose, eu começaria a me preocupar.}
 {155}{}{Quem é o Dr. Johnson?}
-{156}{}{Interesting. Let me ask you about something else, Dan.}
-{157}{}{I better be moseying, Dan. Goodbye.}
-{158}{}{Damn; there's just too much Jet in this town. We're drowning in the stuff. Nobody wants to work;
- they just want to get high. I can't make my ore quotas with half my damn miners flying high on Jet.
- Goddamn that Doc Johnson.}
+{156}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{157}{}{É melhor eu ir andando, Dan. Adeus.}
+{158}{}{Droga; tem muito Jet nesta cidade, estamos nos afogando nessa coisa. Ninguém quer trabalhar;
+ eles só querem ficar chapados. Não posso fazer minhas cotas de minério com metade das merdas dos
+ mineiros se chapando totalmente em jet. Maldito seja o Doutor Johnson.}
 {159}{}{Quem é o Dr. Johnson?}
-{160}{}{Sounds like a problem. Let me ask you about something else, Dan.}
-{161}{}{I better be traveling, Dan. Goodbye.}
-{162}{}{Most of the miners that were real Jet Jockeys have crashed hard. That last batch that Doc
- Johnson sold must have been real bad, somehow.}
+{160}{}{Parece um problema. Deixe eu te perguntar sobre outra coisa, Dan.}
+{161}{}{É melhor eu ir andando, Dan. Adeus.}
+{162}{}{A maioria dos mineiros que estavam enfiados no jet. O último lote que o Dr. Johnson vendeu
+ deve ter sido muito ruim, de alguma forma.}
 {163}{}{Quem é o Dr. Johnson?}
-{164}{}{Interesting. Let me ask you about something else, Dan.}
-{165}{}{I better be hiking on, Dan. Goodbye.}
-{166}{}{I don't know what happened, but most of the Jet Jocks got real sick on that last batch - and
- now they can't go near Jet without getting sick. Doc Johnson's looking into it, I heard.}
+{164}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{165}{}{É melhor eu ir andando, Dan. Adeus.}
+{166}{}{Não sei o que aconteceu, mas a maioria dos viciados em jet ficaram muito doentes por causa
+ do último lote, e agora eles não podem chegar nem perto de jet sem passar mal. Dr. Johnson está investigando, é o que ouvi dizer.}
 {167}{}{Quem é o Dr. Johnson?}
-{168}{}{Interesting. Let me ask you about something else, Dan.}
-{169}{}{I better be Trekking, Dan. Goodbye.}
-{170}{}{Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck
- in these here parts. *Dangerous* Dan McGrew; that's me, all right.}
-{171}{}{I see; let me ask you something else, Dangerous Dan.}
-{172}{}{You don't look so damn tough to me.}
-{173}{}{Sounds like you're quite a guy. Well, I don't want to take anymore of your valuable time, Mr.
- Dangerous. Goodbye.}
-{174}{}{Them's fightin' words in these here parts. You ready to back that up?}
-{175}{}{Yes, I am. You've opened your big yap once too many times. Draw... pilgrim.}
-{176}{}{I could if I thought you'd give me enough satisfaction to pay for the ammo it'd take to kill you.}
-{177}{}{I could, if I wanted too. But I'm too busy to mess with you right now.}
-{178}{}{Yeah, that's what I thought. (pause) You're yellow.}
-{179}{}{I'll show you yellow... when I cut out your spleen. I'm a-callin' you out.}
-{180}{}{We'll just see about that, someday. Goodbye for now.}
-{181}{}{A Garden of Eden Creation Kit? Never heard of something like that. I tend to find my Eden in
- Lou's sweet arms.}
-{182}{}{Isn't Lou a guy's name?}
-{183}{}{I see. Let me ask you something else, then.}
-{184}{}{The search continues. Goodbye.}
-{185}{}{It is when it isn't short for Louisa, like my Lou's is. She runs the Malamute Saloon here in
- town. Hey, just what are you getting at, anyway?}
+{168}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{169}{}{É melhor eu sair daqui, Dan. Tchau.}
+{170}{}{Porque eu sou o maior, mais durão, mais assustador, forte e maior casca grossa por esses lados.
+ *Perigoso* Dan McGrew; sou eu, entenda.}
+{171}{}{Entendo; deixe eu perguntar outra coisa, Perigoso Dan.}
+{172}{}{Você não me parece tão durão.}
+{173}{}{Parece que você é um cara forte. Bem, não quero tomar mais do seu precioso tempo, Sr.
+ Perigoso. Adeus.}
+{174}{}{Essas são palavras ofensivas por aqui. Você está pronto para apoiar?}
+{175}{}{Sim, eu sou. Você já latiu muito por aqui. Saque a arma... peregrino.}
+{176}{}{Até faria isso, mas só se eu visse que matar você valeria o preço da munição que vou gastar.}
+{177}{}{Eu faria isso, se eu quisesse também. Mas estou muito ocupado para fazer isso com você agora.}
+{178}{}{Sim, foi o que pensei. (pausa) Você é um amarelão.}
+{179}{}{Eu vou te mostrar o amarelão... quando eu cortar você no meio. Vamos logo.}
+{180}{}{Veremos isso, algum dia. Até logo.}
+{181}{}{Um Kit de Criação do Jardim do Éden? Nunca ouvi falar de algo assim. Costumo encontrar
+ meu Éden nos doces braços de Lou.}
+{182}{}{Lou não é nome de homem?}
+{183}{}{Entendo. Deixe eu te perguntar outra coisa, então.}
+{184}{}{A busca continua. Adeus.}
+{185}{}{O nome mesmo é Louisa, a forma abreviada que é Lou. Ela comanda o Malamute Saloon aqui na
+ cidade. Ei, o que você quer insinuar, afinal?}
 {186}{}{Uh... nada, Dan. Nada. Deixe eu te perguntar outra coisa.}
-{187}{}{Nothing. Just figuring out something, that's all. Goodbye, sweet-pea.}
-{188}{}{My mistake. Well, I better be rambling along. Goodbye.}
-{189}{}{Well, one thing's for sure: I could sure use a new Control Chip for my Excavator machine.}
-{190}{}{A new Excavator Chip? What's that?}
-{191}{}{Let me ask you about something else, Dan.}
-{192}{}{I see. Well, I'll let you know If I find one. Goodbye.}
-{193}{}{Funny you of all people should ask that. There's all kinds of things going on here in town
- lately.}
-{194}{}{Like I said, you should know if anything's going on here in town if anyone does.}
-{195}{}{Do you mean the Excavator Chip for the mining machine?}
-{196}{}{Do you mean that whole thing about the cut-up whore?}
-{197}{}{Do you mean the bar brawl that I settled?}
-{198}{}{I'm just naturally active, I guess. Let me ask you something else.}
-{199}{}{I'm not sure what you mean, but I don't have time to find out right now. Goodbye.}
-{200}{}{Yeah, I mean the Excavator Chip that you sold to Marge LeBarge over at the Kokoweef Mine. That
- was a real mistake... not just for me, but for Redding.}
+{187}{}{Nada. Apenas descobrindo algumas coisas, isso é tudo. Adeus.}
+{188}{}{Erro meu. Bem, é melhor eu ir saindo. Adeus.}
+{189}{}{Bem, uma coisa eu te asseguro: eu poderia usar um novo chip de controle na minha máquina escavadeira.}
+{190}{}{Um novo chip de escavadeira? O que é isso?}
+{191}{}{Deixe eu te perguntar sobre outra coisa, Dan.}
+{192}{}{Entendo. Bem, se eu encontrar um te avisarei. Adeus.}
+{193}{}{É engraçado que todos vocês perguntem a mesma coisa. Ultimamente, todos os tipos de
+ coisas acontecem na cidade.}
+{194}{}{Como eu disse, você deve saber se está acontecendo alguma coisa na cidade.}
+{195}{}{Você quer dizer o chip da escavadeira para a máquina de mineração?}
+{196}{}{Você quer dizer aquele assunto sobre a prostituta que foi mutilada?}
+{197}{}{Você quer dizer a briga de bar que resolvi?}
+{198}{}{Eu sou naturalmente ativo, eu acho. Deixe eu te perguntar outra coisa.}
+{199}{}{Não tenho certeza do que você quer dizer, mas não tenho tempo para descobrir isso agora. Adeus.}
+{200}{}{Sim, me refiro ao Chip da Escavadeira que você vendeu para Marge LeBarge da Mina Kokoweef.
+ Isso foi um grande erro... não apenas para mim, mas para Redding.}
 {201}{}{O que você quer dizer com isso?}
-{202}{}{Those are the breaks, pal. Let me ask you about something else going on in town.}
-{203}{}{Shit happens. See you around, maybe.}
-{204}{}{I can't believe that you let that bastard Hakeswill go free. My miners seem happy about it, but
- I'm not sure I am.}
-{205}{}{It was a tough call, and I made it the best I could. Let me ask you about something else going
- on in town.}
-{206}{}{Uh, I wasn't sure he was guilty. But let me ask you about something else.}
-{207}{}{I don't really care what you think. Goodbye.}
-{208}{}{You did the right thing by putting that bastard Hakeswill in jail. He bullied and intimidated my
- miners, but they still didn't want to see him killed out of hand. It'll be better to see him hung all
- legal and proper.}
-{209}{}{It was a tough call, and I made it the best I could. Let me ask you about something else going
- on in town.}
-{210}{}{Justice must be served. Let me ask you about something else.}
-{211}{}{Things don't always happen the way you'd like them to. Goodbye.}
-{212}{}{Thanks to your killing that idiot Hakeswill, my miners are ready to go on a rampage.}
-{213}{}{It was a tough call, and I made it the best I could. Let me ask you about something else going
- on in town.}
-{214}{}{That bastard needed a good killing. Let's talk about something else.}
-{215}{}{I'm glad that I was there to do what needed to be done to that worm. Goodbye.}
-{216}{}{You know what's going on with that Excavator Chip. I want it, and I bet you're smart enough to
- realize that Marge LeBarge wants it, too. But it'd be best all the way around if you sell it to me.}
-{217}{}{How much is it worth to you?}
-{218}{}{Why's it better for me to sell it to you than her?}
-{219}{}{I'll think about it. Let me ask you about something else going on in town.}
-{220}{}{We'll just have to see about that. Goodbye.}
+{202}{}{As coisas são como elas pintam, amigo. Deixe eu te perguntar mais alguma coisa que está acontecendo na cidade.}
+{203}{}{Merdas acontecem. Vejo você por aí, talvez.}
+{204}{}{Eu não posso acreditar que você deixou aquele desgraçado do Hakeswill sair livre. Meus mineiros
+ parecem felizes com isso, mas eu não consigo ficar.}
+{205}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
+ na cidade.}
+{206}{}{Uh, eu não tinha certeza se ele era culpado. Mas deixe eu te perguntar sobre outra coisa.}
+{207}{}{Na verdade eu estou cagando para o que você pensa. Adeus.}
+{208}{}{Você fez a coisa certa colocando aquele bundão do Hakeswill na cadeia. Ele ficava intimidando
+ meus mineiros, mas eles não queriam que ele morresse assim de imediato. Será melhor vê-lo
+ enforcado de forma mais legal e adequada.}
+{209}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
+ na cidade.}
+{210}{}{A justiça deve ser feita. Deixe eu te perguntar sobre outra coisa.}
+{211}{}{As coisas nem sempre acontecem do jeito que você gostaria. Adeus.}
+{212}{}{Graças a você ter matado aquele idiota do Hakeswill, meus mineiros estão prontos para entrar com fúria.}
+{213}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
+ na cidade.}
+{214}{}{Aquele idiota precisava mesmo morrer. Vamos falar de outra coisa.}
+{215}{}{Estou feliz por ir lá fazer o que precisava ser feito com aquele verme. Adeus.}
+{216}{}{Você sabe o que está acontecendo com o Chip da Escavadeira. Eu quero, e aposto que você é
+ inteligente o suficiente para perceber que Marge LeBarge também quer. Mas seria melhor se você o vendesse para mim.}
+{217}{}{Quanto vale para você?}
+{218}{}{Por que é melhor eu vender para você do que para ela?}
+{219}{}{Vou pensar sobre isso. Deixe eu te perguntar sobre outra coisa acontecendo na cidade.}
+{220}{}{Vamos ter que ver sobre isso. Adeus.}
 {221}{}{Só quero agradecer por vender o chip para a pessoa certa.}
 {222}{}{Não é problema. Deixe eu perguntar sobre outras coisas acontecendo na cidade.}
 {223}{}{Você entendeu. Esses mil dólares foram muito convincentes. Deixe me perguntar algo.}
@@ -174,93 +174,93 @@
  acontecendo aqui na cidade.}
 {231}{}{Eles precisavam de um tempo para se acalmar, você pode recuperá-los em alguns dias.
  Deixe eu perguntar outra coisa.}
-{232}{}{I think I need to let off some steam myself. Goodbye.}
-{233}{}{Thanks for putting those Kokoweef thugs away for picking a fight with my lads. Those
- Kokoweefers need to be put away for good.}
-{234}{}{I don't know about that. They were just letting off steam. Let me ask you about something else
- going on here in town.}
-{235}{}{I think that's a bit too extreme. Just let 'em cool off for a few days. Let me ask you about
- something else.}
-{236}{}{Just keep an eye on your own miners too from now on. Goodbye.}
-{237}{}{Didja have to lock up every damn miner in town? Who the hell's gonna work my mine?}
-{238}{}{You should have thought about that before you let them get out of hand. Let me ask you about
- something else going on here in town.}
-{239}{}{They went too far this time. Maybe it's best that all of you should have some time to think
- things over. Let me ask you about something else.}
-{240}{}{Good question. Maybe I should see about going into the mining business for myself. Goodbye.}
-{241}{}{You let that tin badge go to your head. You had no call to be killing anyone over a damn bar
- fight.}
-{242}{}{Things got a little out of hand. Let me ask you about something else going on here in town.}
-{243}{}{Shit happens. Now let me ask you about something else.}
-{244}{}{They should have known better than to start a fight with me as Sheriff. Goodbye.}
-{245}{}{Selling the chip to Marge makes her backers look better. The NCR backs Marge, and if they take
- over here in Redding, we're in trouble. Much better to back me and my pals in New Reno.}
-{246}{}{Trouble? What do you mean?}
-{247}{}{I don't have time for a political lesson. Goodbye.}
-{248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
- of us, though. Let me explain the situation.}
+{232}{}{Acho que preciso desabafar um pouco. Adeus.}
+{233}{}{Obrigado por prender aqueles capangas Kokoweef por arranjarem briga com meus rapazes.
+ Esses Kokoweefers precisam sumir de uma vez.}
+{234}{}{Eu não sei sobre isso, eles só estavam desabafando. Deixe eu te perguntar sobre outra coisa
+ acontecendo aqui na cidade.}
+{235}{}{Eu acho que isso é um pouco extremo demais. Deixe eles esfriarem a cabeça alguns dias.
+ Deixe eu te perguntar sobre outra coisa.}
+{236}{}{Fique de olho apenas em seus mineradores a partir de agora. Adeus.}
+{237}{}{Você teve que prender todos as porras dos mineiros da cidade? Então quem vai trabalhar na minha mina?}
+{238}{}{Você deveria ter pensado nisso antes de deixá-los sair do controle. Deixe eu te perguntar sobre
+ outra coisa acontecendo aqui na cidade.}
+{239}{}{Eles foram longe demais desta vez. Talvez seja melhor que todos vocês tenham algum
+ tempo para pensar sobre as coisas. Deixe eu te perguntar sobre outra coisa.}
+{240}{}{Boa pergunta. Talvez eu devesse pensar em entrar no negócio de mineração por conta própria. Adeus.}
+{241}{}{Você deixou aquele distintivo de latão subir à sua cabeça. Você não tinha vocação nenhuma
+ para matar alguém por uma maldita briga de bar.}
+{242}{}{As coisas saíram um pouco do controle. Deixe eu te perguntar sobre outra coisa acontecendo aqui na cidade.}
+{243}{}{Merdas acontecem. Agora deixe eu te perguntar sobre outra coisa.}
+{244}{}{Eles deveriam ter pensado bem antes de começar uma briga comigo como xerife. Adeus.}
+{245}{}{Vender o chip para Marge melhora a imagem para seus apoiadores. A NCR apóia Marge, e se eles
+ assumirem aqui em Redding, estaremos em apuros. Muito melhor apoiar a mim e meus amigos em New Reno.}
+{246}{}{Problemas? O que você quer dizer?}
+{247}{}{Não tenho tempo para aula de política. Adeus.}
+{248}{}{Todo mundo quer o que Redding pode oferecer. Mas algumas pessoas podem ser mais legais
+ sobre como vão tirar isso de nós. Deixe eu te explicar a situação.}
 {249}{}{Vá em frente.}
 {250}{}{Já ouvi o suficiente de sua explicação. Adeus.}
-{251}{}{I'll pay you $1,000 for that Excavator Chip.}
-{252}{}{That sounds good to me. Where do I find it?}
-{253}{}{Sounds good to me. Here's your chip.}
-{254}{}{I think I'll hold on to it for now. Goodbye.}
-{255}{}{If I find one, I'll let you know. Goodbye.}
-{256}{}{It's in the Great Wanamingo Mine just west of town. Down inside the mine there's a great big
- mining machine. You can hardly miss it. The chip's in that machine. You just need to yank it out and
- bring it to me.}
-{257}{}{Let me ask you about some other stuff going on in town.}
-{258}{}{If you need it so bad, how come you haven't gone to get it yourself?}
-{259}{}{Will do. Goodbye for now.}
-{260}{}{I've got a big pre-war Excavator all ready to run, but it's got a problem. No brains.}
-{261}{}{I'd like to say that it's got plenty of company in this town, but instead I'll say: What do
- you mean?}
-{262}{}{I'm not exactly picky, but I don't like the sound of looking for *more brains*. Goodbye.}
-{263}{}{Its control chip burnt out, and it's not like I can order a new one. But I know where one is.
- Be willing to pay $1,000 for it, too.}
-{264}{}{Where is it?}
-{265}{}{If you need it so bad, how come you haven't gone to get it yourself?}
-{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
-{267}{}{Plenty of reasons, most of 'em hungry and nasty. Wanamingo mine's just chock-full of hungry
- Wanamingos.}
-{268}{}{What the hell is a Wanna-mingle?}
-{269}{}{Oh, I see. Well, that explains it then. I'll think about it. Goodbye.}
-{270}{}{It's just the orneriest, nastiest, most vicious critter I think I've ever seen. It's got teeth
- four inches long. Oh, I mean four-teen inches long. But I think you can handle it.}
-{271}{}{Yeah, right. I'll think about it. Goodbye.}
-{272}{}{That sounds scary. I don't think that's a job for me. My knees are knocking.}
-{273}{}{You do that. $1,000 isn't chump-change, pal.}
-{274}{}{Let me ask you about some other stuff going on in town.}
-{275}{}{I'll think it over. I can always use some extra cash.}
-{276}{}{I guess I was wrong when I thought you had what it takes. Get out of here; you're waistin' my time.}
-{277}{}{Ye', yes, sir. I'm leaving now, sir.}
-{278}{}{We all make mistakes, bub. Goodbye.}
-{279}{}{Heck... if I were you, I'd buy the deed to the place, clear it out, and sell it back to Mayor
- Ascorti. He's the deed-holder now.}
-{280}{}{Take care of yourself. I really need that chip.}
-{281}{}{Let me ask you about some other stuff going on in town.}
+{251}{}{Te pago $1.000 pelo Chip da Escavadeira.}
+{252}{}{Isso parece bom para mim. Onde posso encontrá-lo?}
+{253}{}{Parece bom para mim. Aqui está seu chip.}
+{254}{}{Acho que vou ficar com ele por enquanto. Adeus.}
+{255}{}{Se eu encontrar um, te avisarei. Adeus.}
+{256}{}{Fica na Grande Mina Wanamingo, a oeste da cidade. Dentro da mina tem uma grande máquina
+ de mineração, você dificilmente pode passar sem perceber, o chip está naquela máquina. Você só
+ precisa tirar e trazê-lo para mim.}
+{257}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
+{258}{}{Se você precisa tanto dele, por que não foi buscar você mesmo?}
+{259}{}{Vou fazer. Até logo.}
+{260}{}{Eu tenho uma grande escavadeira pré-guerra pronta para funcionar, mas ela tem um problema: falta o cérebro.}
+{261}{}{Eu diria que ele tem muita companhia nesta cidade, mas em vez disso direi: como
+ assim?}
+{262}{}{Não sou exatamente exigente, mas não gosto desse negócio de procurar *mais cérebros*. Adeus.}
+{263}{}{Seu chip de controle queimou e não tem como pedir um novo, mas eu sei onde tem um.
+ Eu estou disposto a pagar $ 1.000 por ele.}
+{264}{}{Onde está?}
+{265}{}{Se você precisa tanto dele, por que não foi buscar você mesmo?}
+{266}{}{Já estou cheio de trabalhos. Desculpe, amigo, tchau.}
+{267}{}{Por muitas razões, quase todas famintas e nojentas. A mina Wanamingo está lotada de wanamingos
+ famintos.}
+{268}{}{Mas que diabo é um Uana-amigo?}
+{269}{}{Oh, entendo. Bem, está explicado, vou pensar sobre isso. Adeus.}
+{270}{}{É só o bicho mais casca grossa, nojento e perverso que já vi. Tem dentes de dez centímetros
+ de comprimento. Oh, na verdade são dezoito centímetros de comprimento. Mas acho que você pode encarar isso.}
+{271}{}{Ok, certo. Vou pensar sobre isso, tchau.}
+{272}{}{Parece assustador. Acho que isso não é trabalho para mim, meus joelhos até tremem.}
+{273}{}{Deixa comigo. $1.000 não é pouca coisa, cara.}
+{274}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
+{275}{}{Vou pensar sobre isso. É sempre bom ter um dinheiro a mais.}
+{276}{}{Acho que me enganei quando achei que você tinha o que precisava. Saia daqui; você está desperdiçando meu tempo.}
+{277}{}{Sim, sim, senhor. Estou saindo agora, senhor.}
+{278}{}{Erra é humano, cara. Adeus.}
+{279}{}{Caramba... se eu fosse você, compraria a escritura desse lugar, limparia e venderia de
+ volta para o prefeito Ascorti. Ele é o titular da escritura agora.}
+{280}{}{Cuide-se. Eu realmente preciso desse chip.}
+{281}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
 {282}{}{Obrigado pela dica. Tchau.}
-{283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
- I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
- medicine and drugs that we get here in town.}
-{284}{}{He sells all of it?}
-{285}{}{I'll see you later, Dan. Goodbye.}
-{286}{}{Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampoules. Folks trust
- him to do it. Makes a big show about it being all clean and all. Simple remedies for simple minds, I say.}
-{287}{}{Ahh. Let me ask you about something else, then.}
-{288}{}{Thanks for the information, Dan. Goodbye.}
-{289}{}{Mister, you ain't getting but two things from me. Jack and shit, and Jack's left town. Now get
- out of my sight.}
-{290}{}{Little Missy, you ain't getting but two things from me. Jack and shit, and Jack's left town. Now
- get out of my sight.}
-{291}{}{Ah, come on. I'm sorry. Just tell me what I need to know.}
-{292}{}{You want some of me? Come get some.}
-{293}{}{I'm leaving, and happy to do it. Goodbye.}
-{294}{}{You should have thought about that before you made things get out of hand. Fuck you, and get
- out of my office.}
-{295}{}{You sure talk tough.}
-{296}{}{I'm leaving. Don't get all lathered up over it. Goodbye.}
-{297}{}{Nobody says that to Dan McGrew and walks away from it.}
-{298}{}{Watch me.}
-{299}{}{Yeah, I bet..."Dangerous Dan."}
-{300}{}{Sorry, Dan; I didn't mean anything by it. I was just k-kidding. Yeah, that's it. Goodbye.}
+{283}{}{O "Indolor" Dr. Johnson é o nosso charlatão local. Bem, suponho que ele saiba alguma coisa sobre
+ medicina, mas não deve saber muito. Ele fica no lado oeste de Downtown. De qualquer forma, ele costuma
+ vender todos os remédios e drogas que a gente consegue aqui na cidade.}
+{284}{}{Ele vende tudo isso?}
+{285}{}{Te vejo mais tarde, Dan. Adeus.}
+{286}{}{Sim, bem, quando recebemos jet, geralmente é enviado a granel, então ele enche as ampolas.
+ As pessoas confiam nele para fazer isso. Fala bastante sobre tudo estar muito limpo. Remédios simples para mentes simples, isso é o que eu digo.}
+{287}{}{Ahh. Deixe eu te perguntar sobre outra coisa, então.}
+{288}{}{Obrigado pela informação, Dan. Adeus.}
+{289}{}{Senhor, você só vai receber duas coisas de mim. Jack e merda, e Jack deixou a cidade. Agora
+ saia da minha frente.}
+{290}{}{Senhorita, você só vai receber duas coisas de mim. Jack e merda, e Jack deixou a cidade. Agora
+ saia da minha frente.}
+{291}{}{Ah, vamos, desculpe. Só me diga o que eu preciso saber.}
+{292}{}{Você quer algo de mim? Venha pegar um pouco.}
+{293}{}{Estou saindo, e feliz em fazer. Adeus.}
+{294}{}{Você deveria ter pensado nisso antes de fazer as coisas saírem do controle. Foda-se e saia do
+ meu escritório.}
+{295}{}{Você fala duro.}
+{296}{}{Estou indo embora. Não fique nervoso com isso. Adeus.}
+{297}{}{Ninguém diz isso para Dan McGrew e se afasta dele.}
+{298}{}{Me veja.}
+{299}{}{Sim, aposto... "Perigoso Dan."}
+{300}{}{Desculpe, Dan; Eu não quis dizer nada com isso, era só brincadeira. Sim, é isso. Adeus.}

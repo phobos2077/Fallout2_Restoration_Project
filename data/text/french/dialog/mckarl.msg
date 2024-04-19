@@ -3,7 +3,7 @@
 {102}{}{Il est tellement sale que des fleurs sauvages lui poussent dans les cheveux.}
 {150}{}{Tiens, prends une bière.}
 {151}{}{Tiens, prends cette bouteille de bibine.}
-{152}{}{Tiens, prends un nuka cola.}
+{152}{}{Tiens, prends un Nuka-Cola.}
 {153}{}{Hé !}
 {154}{}{Hé !}
 {155}{}{HE !!}

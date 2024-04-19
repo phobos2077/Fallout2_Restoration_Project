@@ -12,9 +12,9 @@
 {109}{}{Você sabe de alguma coisa?}
 {110}{}{De qualquer forma, obrigado.}
 {111}{}{(Lendo o Panfleto.) Se o Forasteiro… esse deve ser
- você… insultar você… esse deve ser eu… então o encaminhe para o Diretor
- Chefe de Boas Vindas. Oh… eu tenho que te encaminhar para a Melinda, a Diretora
- Chefe de Boas Vindas.}
+ você… insultar você… esse deve ser eu… então o encaminhe para a Chefe
+ do Escritório de Boas Vindas. Oh… eu tenho que te encaminhar para a Melinda, a chefe
+ do Escritório de Boas Vindas.}
 {112}{}{Vou falar com ela então.}
 {113}{}{Bem vindo ao Escritório de Boas Vindas. Eu sou Steve.}
 {114}{}{Desculpe, tenho que ler essa coisa.}

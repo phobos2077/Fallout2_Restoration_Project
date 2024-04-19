@@ -1,82 +1,82 @@
-{100}{}{You see a dirty but strong-looking man.}
-{101}{}{You see Connar.}
-{102}{}{Hey you! What're you doing here?!}
-{103}{}{Stay where you are for now, wanderer. What are you doing here?}
-{104}{}{I'm killing off all these mole rats.}
-{105}{}{Why, what's it to you?}
-{106}{}{Why you Yell!}
-{107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
-{108}{}{Well, it's a little late for that.}
+{100}{}{Você vê um homem sujo, mas de aparência forte.}
+{101}{}{Você vê Connar.}
+{102}{}{Ei você! O que está fazendo aqui?!}
+{103}{}{Fique onde está por enquanto, andarilho. O que você está fazendo aqui?}
+{104}{}{Estou matando todos esses ratos toupeira.}
+{105}{}{Por que, o que é isso?}
+{106}{}{Você grita muito!}
+{107}{}{Aposto que aqueles cretinos em Vault City te enviaram. Bem, é melhor você ir embora e deixar todo o resto vivo.}
+{108}{}{Bem, é um pouco tarde para isso.}
 {109}{}{Por quê?}
-{110}{}{Sorry, I have a job to do.}
-{111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
+{110}{}{Desculpe, tenho um trabalho a fazer.}
+{111}{}{Essas criaturas são a única coisa que impede Vault City de nos tornar seus chamados "servos".}
 {112}{}{Olha, eles estão me pagando para me livrar dessas feras, então é isso que vou fazer.}
 {113}{}{Eles não me disseram isso.}
 {114}{}{Eles estão me pagando para me livrar deles, e o trabalho está feito.}
 {115}{}{Seu idiota! Por que você fez isso!}
 {116}{}{Precisava do dinheiro.}
-{117}{}{They'll come for us if you do that, you know.}
-{118}{}{Not my problem.}
-{119}{}{Well I hope you choke on it. They'll be here for us soon.}
-{120}{}{I didn't know this was why they wanted the job done.}
-{121}{}{Yeah, well, I don't deal with trash like you anyway.}
-{122}{}{Well, we can't let you do that.}
-{123}{}{You gotta do what you gotta do.}
-{124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
-{125}{}{Is there anything I could do to help?}
-{126}{}{The Vault City boys aren't the bravest. You show them any kind of a fight and they run for the
- hills. If we had a few guns, I think we could hold them off.}
-{127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
-{128}{}{[He eyes you with a tentative grin.] You're serious about helping us, aren't you? Alright, if you're up for it,
- then some rifles would be ideal--that way we could start picking them off from a distance. So if you truly wanna help,
- then bring us some automatic rifles--four would do it. Oh, and a shotgun would be nice too, in case things get close and dirty.}
-{129}{}{I'll see what I can do. But like I said, guns aren't cheap, so I'm gonna need some money.}
-{130}{}{You're not wanted here. Leave now.}
-{131}{}{I changed my mind. What can I do to help?}
-{132}{}{Yeah, well, you're not going to be here for long anyway.}
-{133}{}{Like I care.}
-{134}{}{You're back! Do you have the guns for us?}
-{135}{}{What was it that you needed again?}
-{136}{}{Yep, here they are.}
-{137}{}{We need four assault rifles and a shotgun. The sooner you can get them to us, the better.}
+{117}{}{Eles virão atrás de nós se você fizer isso, entenda.}
+{118}{}{Não é problema meu.}
+{119}{}{Bem, espero que você engasgue com isso. Eles virão atrás de nós em breve.}
+{120}{}{Eu não sabia por que eles queriam que eu fizesse o trabalho.}
+{121}{}{Sim, bem, eu não costumo lidar com lixos como vocês.}
+{122}{}{Bem, não podemos deixar você fazer isso.}
+{123}{}{Você tem que fazer o que você tem que fazer.}
+{124}{}{Você acreditou neles pelo valor de cara? Você tem muito a aprender sobre o mundo, amigo.}
+{125}{}{Há algo que eu possa fazer para ajudar?}
+{126}{}{Os garotos de Vault City não são os mais corajosos. Você mostra a eles qualquer tipo de luta
+ e eles correm para as colinas. Se tivéssemos algumas armas, acho que poderíamos detê-los.}
+{127}{}{Posso te ajudar, mas armas não são baratas. Que tipo de armas você está procurando?}
+{128}{}{[Ele olha para você com um sorriso hesitante.] Você está falando sério sobre nos ajudar, não está? Tudo bem,
+ se você quiser, alguns rifles seriam ideais, assim poderíamos começar a acertá-los à distância. Então, se você realmente
+ quer ajudar, nos traga alguns rifles automáticos, quatro bastam. Ah, e uma escopeta também seria bom, caso as coisas fiquem próximas e sujas.}
+{129}{}{Verei o que posso fazer. Mas como eu disse, as armas não são baratas, vou precisar de algum dinheiro.}
+{130}{}{Você não é bem-vindo aqui. Saia agora.}
+{131}{}{Eu mudei de ideia. O que posso fazer para ajudar?}
+{132}{}{Sim, bem, você não vai ficar aqui por muito tempo de qualquer forma.}
+{133}{}{Como se eu me importasse.}
+{134}{}{Você voltou! Tem as armas para nós?}
+{135}{}{O que mesmo você precisava?}
+{136}{}{Sim, aqui estão elas.}
+{137}{}{Precisamos de quatro rifles de assalto e uma escopeta. Quanto mais cedo você puder entregá-las para nós, melhor.}
 {138}{}{Tudo bem.}
-{139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
- lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
+{139}{}{Muito bem! Com essas gracinhas, vamos conseguir fazer algo nesse lugar nos próximos meses. Muito obrigado, e
+ olha, se precisar de um lugar para descansar, será sempre bem-vindo aqui, amigo.}
 {140}{}{Você é bem-vindo.}
-{141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
-{142}{}{Hello again! Things have been going well, as you can see. Look around if you have the time.}
-{143}{}{We're still building. We're hoping to expand the walls again in the next month.}
-{144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
-{145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
-{146}{}{Just don't kill anything out there, you simpleton.}
-{147}{}{What the hell have you done?!?! You fucking traitor! I hate you!!!}
+{141}{}{Olá! As coisas estão indo bem. Vamos trabalhar na expansão da Vila no próximo mês.}
+{142}{}{Olá de novo! As coisas estão indo bem, como você pode ver. Dê uma olhada se tiver tempo.}
+{143}{}{Ainda estamos construindo. Esperamos expandir as paredes novamente no próximo mês.}
+{144}{}{Saudações! A vila se expandiu novamente, exatamente como esperávamos. Claro, você é bem-vindo como sempre.}
+{145}{}{Não temos mais nada a temer de Vault City... Parece que seremos capazes de viver aqui em paz. Obrigado novamente, andarilho.}
+{146}{}{Só não saia matando nada por aí, seu simplório.}
+{147}{}{Que tipo de merda você fez?!?! Seu maldito traidor! Te odeio!!!}
 {148}{}{Oooooops...}
-{149}{}{Let me out of here!!!}
+{149}{}{Me deixe sair daqui!!!}
 {150}{}{O que foi que eu fiz para você?}
 {151}{}{Socorro!}
-{152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
- stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
- in or around the bar. He'll know what to do.}
+{152}{}{Claro. Olha, isso é tudo que podemos pagar. [Ele te entrega $ 5.000.] Posso ser um idiota por confiar isso
+ a um estranho, mas você é a única esperança que temos de ficar livres. Fale com o Velho Joe no pátio de Vault City.
+ Ele geralmente está dentro ou ao redor do bar. Ele saberá o que fazer.}
 {153}{}{Eu estou no meu caminho.}
 {154}{}{Posso perguntar-lhe algumas perguntas?}
-{155}{}{Certainly, what's on your mind?}
-{156}{}{Where did these mole rats come from, and why aren't they aggressive?}
-{157}{}{Nothing, bye.}
-{158}{}{Well, it's kind of a strange story. You see, a bunch of ghouls came here one day, mumbling something about a "renewal",
- and giving out these funky amulets. [He shows you an Ankh shaped amulet.] These big rodents came with em, and the ghouls said
- they'd be protecting us from now on. The ghouls left--probably back up to Gecko--but the rodents stayed put, and they've
- been here ever since. Like I said, it's pretty strange stuff. It's kind of a pain to clean up after these things, but hell,
- if they keep Vault City off our ass, then I suppose I can put up with a little rat shit.}
-{159}{}{Very interesting. Do you think I could have one of those amulets?}
-{160}{}{By all means. They gave us so many, and we don't know what the hell to do with em. Here, take one.}
-{161}{}{Thanks a lot. Bye.}
-{162}{}{No, but I've got some great news: I convinced the Vault City council not to touch your village.}
-{163}{}{What? They're seriously going to just leave us alone? I don't understand... how did you that? I swear if you're bullshitting me...}
-{164}{}{It's true--trust me. I was able to pull some strings and broker a deal, but the details don't matter. The important thing is that you and your people are safe now.}
-{165}{}{Thank you from the bottom of my heart... em... By the way, I still don't know your name.}
-{166}{}{My name is - }
-{167}{}{Thank you, }
-{168}{}{, but what about the money I gave you to buy the guns?}
+{155}{}{Com certeza, o que você tem em mente?}
+{156}{}{De onde vieram esses ratos toupeira e por que eles não são agressivos?}
+{157}{}{Nada, tchau.}
+{158}{}{Bem, é uma história meio estranha. Olha, um bando de ghouls veio aqui um dia, murmurando algo sobre uma "renovação"
+ e distribuindo esses amuletos estranhos. [Ele mostra a você um amuleto em forma de Ankh.] Esses roedores grandes vieram com eles,
+ e os ghouls disseram que estariam nos protegendo a partir de agora. Os ghouls partiram, provavelmente de volta para Gecko,
+ mas os roedores ficaram parados e estão aqui desde então. Como eu disse, é uma coisa bem estranha. É meio chato
+ limpar tudo isso depois, mas, droga, se eles mantiverem Vault City longe daqui, então acho que posso aturar um pouco de merda de rato.}
+{159}{}{Muito interessante. Você acha que eu poderia ter um desses amuletos?}
+{160}{}{Claro, eles nos deram um monte, e não sabemos o que diabos fazer com eles. Aqui, pegue um.}
+{161}{}{Muito obrigado. Tchau.}
+{162}{}{Não, mas tenho ótimas notícias: convenci o conselho de Vault City a não tocar em sua vila.}
+{163}{}{O que? Eles vão mesmo nos deixar em paz? Eu não entendo... como você fez isso? Eu juro que se você estiver me enganando...}
+{164}{}{É verdade, confie em mim. Mexi alguns pauzinhos e negociei um acordo, mas os detalhes não importam. O importante é que você e seu pessoal estão seguros agora.}
+{165}{}{Obrigado do fundo do meu coração... em... A propósito, ainda não sei o seu nome.}
+{166}{}{Meu nome é - }
+{167}{}{Obrigado, }
+{168}{}{, mas e o dinheiro que te dei para comprar as armas?}
 {169}{}{Você é sempre bem vindo aqui! Adeus.}
 {170}{}{Sim, mas acho que não vai precisar deles. Pelo menos não contra Vault City. Veja, convenci o conselho de Vault City a não tocar em sua vila.}
 {171}{}{Vou fazer isso. Eu tenho algumas perguntas antes de ir embora.}
@@ -87,50 +87,50 @@
 {201}{}{Acontece que já estou carregando todas essas armas. Suponho que poderia dispensar algumas, mas você tem certeza de que esta é a melhor maneira de fazer isso?}
 {202}{}{Tenho as armas que você precisa, mas honestamente, acho que poderia haver uma maneira melhor de fazer isso. Há um homem razoável no conselho em Vault City, o membro sênior do conselho McClure. Tenho certeza de que conseguiria convencê-lo a chegar a uma solução pacífica.}
 {203}{}{Honestamente, acho que poderia haver uma maneira melhor de fazer isso. Há um homem razoável no conselho em Vault City, o membro sênior do conselho, McClure. Tenho certeza de que conseguiria convencê-lo a chegar a uma solução pacífica.}
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naive my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
-{206}{}{Ok. I'll report back when I have some news.}
-{210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}
-{211}{}{You do?! Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}
-{212}{}{Alright. Here are the weapons.}
-{213}{}{No, I have decided not to. Goodbye.}
-{214}{}{No price too high, eh? Well, I know how economics work. Increase in demand means an increase in prices.}
+{205}{}{Ha! Você realmente acha que algum desses membros importantes do conselho se importa com o que acontece conosco? Não seja tão ingênuo meu amigo, aqueles babacas de Vault City não são confiáveis. Agora, por favor, encontre Joe no pátio de Vault City. Se ele não está no bar, provavelmente não está longe dele. O velho Joe saberá o que fazer, pode confiar nele. Por favor, depressa.}
+{206}{}{OK. Voltarei aqui quando tiver novidades.}
+{210}{}{Confie em mim, nós consideramos a alternativa, mas a única coisa que esses babacas de Vault City irão responder é a violência. Agora, você vai nos dar as armas? Pago $5.000 por elas. Nenhum preço pode ser estabelecido para a liberdade.}
+{211}{}{Você faz?! Excelente. Aqui, eu te dou $5.000 por essas armas. É todo o dinheiro que temos, mas não há preço alto demais para a liberdade. Você nos prestou um grande serviço e será sempre bem-vindo aqui.}
+{212}{}{Tudo bem. Aqui estão as armas.}
+{213}{}{Não, eu decidi que não. Adeus.}
+{214}{}{Nenhum preço é muito alto, mesmo? Bem, eu sei como a economia funciona, aumento da demanda significa aumento de preços.}
 {215}{}{[FEITO]}
-{216}{}{[ATTACK]}
-{217}{}{Listen, starting a war with Vault City isn't the answer. Sure, you might be able to fend them off for months, maybe even years, but you can't hold out forever. And in the meantime, lives will be needlessly lost. But if I can just get one member of the Vault City council to see reason, then I know we can reach a peaceful agreement.}
-{218}{}{Hmm... Alright, I trust you have our best interests in mind. If you really think you can reason with one of their council members, then by all means, give it a shot. However, I think you should talk to Old Joe and see what he has to say. You can find him in or around the courtyard bar. Good luck. We're all counting on you.}
-{220}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. You know what? Forget it. We don't need the help of someone like you. Now I suggest you leave.}
-{221}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. [He sighs.] Fine, we'll throw in an extra thousand, but that leaves us with nothing. Will you give us the guns now?}
-{222}{}{Sure, pleasure doing business with you. Bye.}
-{223}{}{Actually, I think I can find a better deal elsewhere. Goodbye.}
-{225}{}{Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}
-{226}{}{Alright, take care then.}
-{300}{}{Any news on our dilemma?}
-{301}{}{Not yet. I'll report back when I find something.}
-{302}{}{Good news: I've convinced the Vault City council not to touch your village.}
-{310}{}{If you're willing to part with those weapons you're carrying, we're willing to pay you $5,000 for them.}
-{311}{}{You've got yourself a deal. Here's the weapons.}
-{312}{}{No deal. It's a dangerous world out there and I need all the guns I can get my hands on. Goodbye.}
-{400}{}{Thanks friend. With these weapons we stand a chance!}
-{401}{}{Welcome back. Thanks to you we were successful in pushing back the Vault City patrol. They won't be bothering us anymore.}
+{216}{}{[ATAQUE]}
+{217}{}{Ouça, começar uma guerra com Vault City não é a resposta. Claro, você pode afastá-los por meses, talvez até anos, mas não pode resistir para sempre. E enquanto isso, vidas serão perdidas desnecessariamente. Mas se eu conseguir que um membro do conselho de Vault City veja a razão, sei que podemos chegar a um acordo pacífico.}
+{218}{}{Hmm... Tudo bem, acredito que você tenha nossos melhores interesses em mente. Se você realmente acha que pode argumentar com um dos membros do conselho, então, por favor, tente. No entanto, acho que você deveria falar com o Velho Joe e ver o que ele tem a dizer. Você pode encontrá-lo dentro ou ao redor do bar do pátio. Boa sorte, estamos todos contando com você.}
+{220}{}{Eu deveria saber que você seria outro oportunista sem coração. É de pessoas como você que começamos esta comunidade para tentar fugir. Sabe de uma coisa? Esqueça. Não precisamos da ajuda de alguém como você, sugiro que saia.}
+{221}{}{Eu deveria saber que você seria outro oportunista sem coração. É de pessoas como você que começamos esta comunidade para tentar fugir. [Ele suspira.] Tudo bem, vamos colocar mais mil, mas isso nos deixa sem nada. Você vai nos dar as armas agora?}
+{222}{}{Certo, prazer em fazer negócios com você. Tchau.}
+{223}{}{Na verdade, acho que posso encontrar um negócio melhor em outro lugar. Adeus.}
+{225}{}{Excelente. Aqui, eu te dou $5.000 por essas armas. É todo o dinheiro que temos, mas não há preço alto demais pela liberdade. Você nos prestou um grande serviço e será sempre bem-vindo aqui.}
+{226}{}{Tudo bem, cuide-se então.}
+{300}{}{Alguma notícia sobre o nosso dilema?}
+{301}{}{Ainda não. Volto com informações quando encontrar algo.}
+{302}{}{Boas notícias: convenci o conselho de Vault City a não tocar em sua vila.}
+{310}{}{Se você estiver disposto a se livrar das armas que está levando, estamos dispostos a pagar US$ 5.000 por elas.}
+{311}{}{Você tem um acordo. Aqui estão as armas.}
+{312}{}{Sem trato. É um mundo perigoso lá fora e preciso de todas as armas que puder. Adeus.}
+{400}{}{Obrigado, amigo. Com essas armas temos uma chance!}
+{401}{}{Bem vindo de volta. Graças a você, conseguimos repelir a patrulha de Vault City. Eles não vão mais nos incomodar.}
 {500}{}{Não me incomode.}
-{600}{}{What was the name of your contact in Vault City again?}
-{601}{}{Old Joe. As the name implies, he's a real old fella. You'll either find him in the courtyard bar or wandering nearby.}
-{602}{}{Alright, thanks.}
-{603}{}{So, who exactly is he?}
-{604}{}{Old Joe's a real character, is who he is. Claims to be over a hundred years old, but I dunno if I buy it. He claims all sorts of things. Even says he helped save the world once. The guy's full of stories--I reckon most of em are bullshit, but they sure are entertaining. He keeps an eye on things in Vault City for us, and he does a damn fine job considering he's old as dirt and nearly blind.}
-{605}{}{Interesting. I must be going.}
-{606}{}{He says he helped save the world? You know, I'm kind of on a world saving quest myself--at least a quest to save *my* world.}
-{610}{}{Right. Good for you. Well, you keep at it then. Just don't forget about helping us.}
-{611}{}{Oh I won't. See you later.}
-{612}{}{I probably will, actually. I get so many quests it's hard to keep track. If it wasn't for this handy Pip-Boy, who knows where I'd be? See ya.}
-{700}{}{Oh, right. Here you go. [Hand him $5,000.]}
-{701}{}{Sorry, I had to spend it as part of the deal.}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
-{710}{}{Thanks. Here. [He hands you back $2,500.] Keep it. It's the least we could do to repay you.}
-{720}{}{Oh, I see. Well, if it bought us our freedom, then it was worth every coin. Thanks again for all you've done for us.}
-{730}{}{Tell you what--how 'bout you just pay us back half? Do you have $2,500?}
-{731}{}{Sure, here. [You give him $2,500.]}
-{732}{}{Sorry, I don't even have that much.}
-{740}{}{Thank you, }
-{741}{}{. We won't forget what you've done for us.}
-{750}{}{I see . . . well, don't worry about it. The money isn't as important as our freedom. Thank you.}
+{600}{}{Qual era mesmo o nome do seu contato em Vault City?}
+{601}{}{Velho, Joe. Como o nome indica, ele é velho de verdade. Você o encontrará no bar do pátio ou vagando por aí.}
+{602}{}{Tudo bem, obrigado.}
+{603}{}{Então, quem exatamente é ele?}
+{604}{}{O velho Joe é um personagem real, isso que ele é. Afirma ter mais de cem anos, mas não sei se acredito. Ele afirma todo tipo de coisas, até diz que ajudou a salvar o mundo uma vez. Esse cara é cheio de histórias, acho que a maioria delas são besteiras, mas com certeza são divertidas. Ele fica de olho nas coisas em Vault City para nós e faz um ótimo trabalho, considerando que está velho pra caramba e quase cego.}
+{605}{}{Interessante. Eu preciso ir.}
+{606}{}{Ele diz que ajudou a salvar o mundo? Sabe, eu mesmo estou em uma missão para salvar o mundo... pelo menos em uma missão para salvar *meu* mundo.}
+{610}{}{Certo, bom para você. Bem, continue assim. Só não se esqueça de nos ajudar.}
+{611}{}{Ah, eu não. Até mais.}
+{612}{}{Eu provavelmente, na verdade. Tenho tantas missões que é difícil acompanhar. Se não fosse por esse prático Pip-Boy (e pelo google), quem sabe onde eu estaria? Até mais.}
+{700}{}{Oh, certo. Aqui tem. [Dá a ele $5.000.]}
+{701}{}{Desculpe, tive que gastar como parte do acordo.}
+{702}{}{Merda, eu não tenho o suficiente para te pagar de volta. Devo ter gasto algum sem pensar direito. Te devolvo assim que puder.}
+{710}{}{Obrigado. Aqui. [Ele te devolve $2.500.] Fique com ele. É o mínimo que podemos fazer para recompensá-lo.}
+{720}{}{Oh, eu vejo. Bem, se comprou nossa liberdade, valeu cada moeda. Obrigado novamente por tudo que você fez por nós.}
+{730}{}{Nos diga, que tal você pagar apenas metade? Você tem $2.500?}
+{731}{}{Claro, aqui. [Você dá a ele $2.500.]}
+{732}{}{Desculpe, não tenho tanto.}
+{740}{}{Obrigado, }
+{741}{}{. Não vamos esquecer o que você fez por nós.}
+{750}{}{Entendo . . . bem, não se preocupe com isso. O dinheiro não é tão importante quanto a nossa liberdade. Obrigado.}

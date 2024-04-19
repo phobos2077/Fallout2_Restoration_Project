@@ -20,9 +20,9 @@
 o Escolhido?}
 {117}{}{Sim, Tia Morlis.}
 {118}{}{Uh, Tia Morlis, eu tenho três aqui.}
-{150}{}{Tia Morlis, eu estou em uma jornada perigosa para a salvação da nossa
- aldeia. As minhas chances de sucesso serão muito melhor se eu manter a cura em pó
- para mim e se você me der o sílex. Não concorda?}
+{150}{}{Tia Morlis, eu estou em uma jornada perigosa para a salvação da
+ nossa aldeia. As minhas chances de sucesso serão muito melhores se eu deixar
+ um pó para mim e se você me der o sílex. Não concorda?}
 {151}{}{O que você acha que você está fazendo, filho? Isto não é maneira do Escolhido agir. Agora saia da minha vista!}
 {152}{}{Se este sílex é tão importante que você está disposto a desgraçar o nome do Escolhido, então aqui. Leve
   o sílex e sai da minha vista.}

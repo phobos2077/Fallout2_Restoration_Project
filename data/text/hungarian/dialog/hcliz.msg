@@ -54,7 +54,7 @@
 {153}{}{Aha.}
 {154}{}{Nem.}
 {155}{}{Azt hiszem, akkor megyek és megtisztítom a külvárost.}
-{156}{}{[DONE]}
+{156}{}{[RENDBEN]}
 {157}{}{A boltban tilos gyilkolni. Kifelé!}
 {158}{}{Ahogy akarod. Kurva!}
 {159}{}{A Ghoulok hasznos rabszolgák. Nincs elég agyuk, hogy emberszámba vegyük őket, de megölni sem érdemes őket. Nem támogatom a ghoul-vadászatot.}
@@ -70,7 +70,7 @@
 {169}{}{Igen.}
 {170}{}{Nem.}
 {171}{}{Neked nem vagyok nyitva. Tűnj a boltomból!}
-{172}{}{[DONE]}
+{172}{}{[RENDBEN]}
 {173}{}{Zárva vagyok! Nyitás nyolckor!}
 {174}{}{Hé! Tűnj innen!}
 {175}{}{Jól van! Te akartad!}

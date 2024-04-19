@@ -92,7 +92,7 @@
 {191}{}{Pakolj föl!}
 {192}{}{Várjon, meggondoltam magam!}
 {193}{}{Túl késő, Pép! Bebizonyította, hogy nem bízhatunk magában! Most meghal!}
-{194}{}{[DONE]}
+{194}{}{[RENDBEN]}
 {195}{}{Gyermekem, vannak dolgok, amit magának nem kell tudnia. [Nyájasan mosolyog hozzá.]}
 {196}{}{Rendben. Hadd kérdezzek más egyebet.}
 {197}{}{Hm. Viszlát!}

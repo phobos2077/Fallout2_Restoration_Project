@@ -14,12 +14,12 @@
 {113}{}{Level:}
 {114}{}{Erf:}
 {115}{}{Näch. Level:}
-{116}{}{CHAR PUNKTE}
+{116}{}{FIGURENPUNKTE}
 {117}{}{FÄHIGKEITEN}
 {118}{}{Du musst alle Figurenpunkte verwenden,}
 {119}{}{um mit dem Spiel zu beginnen!}
-{120}{}{Charakterpunkte}
-{121}{}{Anzahl verfügbarer Charakterpunkte, die zu einem Grundwert hinzugefügt werden können.}
+{120}{}{Figurenpunkte}
+{121}{}{Anzahl verfügbarer Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
 {122}{}{Näch. Level}
 {123}{}{Die Anzahl der Erfahrungspunkte, die für den nächsten Level erforderlich sind.}
 {124}{}{Bonus}
@@ -29,21 +29,21 @@
 {128}{}{Dies sind die Auswirkungen der Auswahlmöglichkeiten, für die du dich im Spiel entscheidest.}
 {129}{}{Ein Zähler, der die Art und Anzahl der Wesen aufzeichnet, die du getötet hast, oder deren Tötung du miterlebt hast.}
 {130}{}{Fähigkeitspunkte}
-{131}{}{Mit diesen Punkten kannst du Fähig- keiten erhöhen. Je weiter bestimmte Fähigkeiten ausge- baut werden, um so mehr Punkte werden benötigt. Es kann viel Zeit und Punkte kosten, eine Fähig- keit zu beherrschen.}
+{131}{}{Mit diesen Punkten kannst du Fähigkeiten erhöhen. Je weiter bestimmte Fähigkeiten ausgebaut werden, um so mehr Punkte werden benötigt. Es kann viel Zeit und Punkte kosten, eine Fähigkeit zu beherrschen.}
 {132}{}{Höchststand.}
 {133}{}{Zuwachs nicht möglich.}
 {134}{}{Mindeststand.}
 {135}{}{Abnahme nicht möglich.}
 {136}{}{Keine Fähigkeitspunkte mehr verfügbar.}
 {137}{}{Basis:}
-{138}{}{SPEZIALTALENTE}
+{138}{}{SPEZIALKENNTN.}
 {139}{}{ZUSATZMERKMALE}
 {140}{}{Du besitzt schon die Höchstzahl von}
-{141}{}{drei Spezialtalenten!}
-{142}{}{Spezialtalente müssen ausgewählt}
+{141}{}{drei Spezialkenntnissen!}
+{142}{}{Spezialkenntnisse müssen ausgewählt}
 {143}{}{um mit dem Spiel zu beginnen!}
-{144}{}{Spezialtalente}
-{145}{}{Spezialtalente sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jedes Spezialtalent bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialtalente aussuchen.}
+{144}{}{Spezialkenntnisse}
+{145}{}{Spezialkenntnisse sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jede Spezialkenntnis bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialkenntnisse aussuchen.}
 {146}{}{Zusatzmerkmale}
 {147}{}{Zusatzmerkmale beschreiben deine Figur genauer. Alle Merkmale haben positive und negative Auswirkungen. Beim Erstellen kannst du bis zu zwei Merkmale wählen.}
 {148}{}{Du besitzt schon die Höchstzahl von}
@@ -53,7 +53,7 @@
 {152}{}{BONUS WÄHLEN}
 {153}{}{NEUES MERKMAL WÄHLEN}
 {154}{}{MERKMAL ABLEGEN}
-{155}{}{NEUES SPEZIALTALENT WÄHLEN}
+{155}{}{NEUE SPEZIALKENNTNIS WÄHLEN}
 {156}{}{MERKMALE}
 {157}{}{Alle Werte müssen zwischen 1 und 10 liegen}
 {158}{}{um mit dem Spiel zu beginnen!}
@@ -93,7 +93,7 @@
 {401}{}{Deine Figur leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
 {402}{}{Dies bedeutet, dass deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
 {403}{}{Der rechte Arm wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
-{404}{}{Der linke Arm deiner Figur wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
+{404}{}{Der linke Arm deiner Figur wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Ist ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {405}{}{Deine Figur hat ein verstümmeltes rechtes Bein.}
 {406}{}{Deine Figur hat ein verstümmeltes linkes Bein.}
 {500}{}{Januar}
@@ -169,14 +169,14 @@
 {1001}{}{Berserker}
 {1002}{}{Champion}
 {1003}{}{Kindermörder}
-{1004}{}{Nuka-Cola-Verlangen}
-{1005}{}{Buffout-Verlangen}
-{1006}{}{Mentats-Verlangen}
-{1007}{}{Psycho-Verlangen}
-{1008}{}{RadAway-Verlangen}
-{1009}{}{Alkohol-Verlangen}
-{1010}{}{Jet-Verlangen}
-{1011}{}{Tragisches Verlangen}
+{1004}{}{Nuka-Cola-Sucht}
+{1005}{}{Buffout-Sucht}
+{1006}{}{Mentats-Sucht}
+{1007}{}{Psycho-Sucht}
+{1008}{}{RadAway-Sucht}
+{1009}{}{Alkohol-Sucht}
+{1010}{}{Jet-Sucht}
+{1011}{}{Tragic-Sucht}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperte}
 {1014}{}{Preisboxer}
@@ -193,17 +193,17 @@
 {1025}{}{Getrennt}
 {1026}{}{Raucher}
 {1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehasst.}
-{1101}{}{Du hast ein viele Menschen getötet. Hierdurch bekannt zu werden ist im allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
+{1101}{}{Du hast viele Menschen getötet. Hierdurch bekannt zu werden ist im Allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{Du bist von der Droge Buffout abhängig. Du musst es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
+{1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du musst es nehmen, sonst leidest du an Entzugserscheinungen.}
+{1107}{}{Du hast eine Drogenabhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
 {1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du musst es regelmäßig nehmen.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragischerweise bist von Tragic abhängig. Du bist ständig auf der Suche nach neuen Expansions-        möglichkeiten.}
+{1110}{}{Du hast eine Drogenabhängigkeit. Du musst regelmäßig Jet einnehmen.}
+{1111}{}{Tragischerweise bist du abhängig vom Sammeln. Du bist ständig auf der Suche nach neuen Erweiterungen.}
 {1112}{}{TEMPORÄR - Was ist das?}
 {1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, dass er mehr will.}
 {1114}{}{Du bist Schwergewichtsmeister von Nordkalifornien. Du hast Ruhm, Respekt und die Liebe Tausender erlangt...und außerdem einen Bonus für deine Härte und Schlagkraft ohne Waffen.}
@@ -245,12 +245,12 @@
 {4000}{}{Ansehen}
 {4001}{}{Abhängigkeiten}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
-{4101}{}{Dinge, von denen du nicht genug bekommen kannst.}
+{4101}{}{Dinge, von denen du abhängig bist.}
 {5000}{}{Bedaure, Drucken der }
 {5001}{}{Figur geht nur in der Vollversion.}
-{5002}{}{Bedaure, Speichern der}
+{5002}{}{Bedaure, Speichern des}
 {5003}{}{Figur geht nur in der Vollversion.}
-{5004}{}{Bedaure, Laden einer gespeicherten}
+{5004}{}{Bedaure, Laden eines gespeicherten}
 {5005}{}{Figur geht nur in der Vollversion.}
 {5006}{}{CHEATMODUS}
 {5007}{}{In der Demo nicht verfügbar.}

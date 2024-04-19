@@ -76,7 +76,7 @@
 {301}{}{
        --  Último acceso al terminal: }
 {303}{}{Cabo Dixon}
-{304}{}{                              General Clifton}
+{304}{}{General Clifton}
 {305}{}{05 de agosto de 2077}
 {306}{}{ días atrás. }
 {307}{}{

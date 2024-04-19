@@ -18,7 +18,7 @@
 {117}{}{Milyen természetű ügyről van szó, uram?}
 {118}{}{Öö...}
 {119}{}{Picsába! Mi összezavarodni...}
-{120}{}{Never mind. Me go.}
+{120}{}{Nem lenni fontos. Mi menni.}
 {121}{}{Hát...}
 {122}{}{Öh, leszóltak a biztonságiak, hogy zárassuk el a tanker kódkártyáját. Nem akarják, hogy rossz kezekbe kerüljön. Ezért vagyok itt.}
 {123}{}{Most elmegyek.}
@@ -50,7 +50,7 @@
 {149}{}{Megtámadtak bennünket! Riadó!}
 {150}{}{Behatolók! Riadó!}
 {151}{}{Biztonsági riadó! Zárjátok le a bázist!}
-{152}{}{Secure all stations! We're on alert!}
+{152}{}{Helyezzétek biztonságba az állomásokat! Riadó!}
 {153}{}{Behatolók! Vörös kód!}
 {154}{}{Szétalázunk!}
 {155}{}{Az Enklávé lesz a világ ura!}
@@ -58,6 +58,6 @@
 {160}{}{Szóval visszajött... Magával hozta a parancsot?}
 {161}{}{Nem, még nem. Majd hozom.}
 {162}{}{Na, persze. Én mondtam neked, hogy hamarosan jönnek a takarítók, és láss csodát, hirtelen átvedlettél takarítónak! Még a folyosóról se mentél el! Azt hiszed, hülye vagyok? Tűnj innen a francba!}
-{200}{}{(speaking to self) Commander. (pause) Are you there Commander? (pause) Hmm... No response. That's not like him at all.
- I better go check on him.}
-{201}{}{(Holy shit the Commander is dead! Sound the alarms we have an intruder!!}
+{200}{}{(magadban beszélsz) Parancsnok. (szünet) Ott vagy Parancsnok? (szünet) Hmm... Nincs válasz. Ez egyáltalán nem jellemző rá.
+ Jobb ha megyek és megnézem.}
+{201}{}{Szent szar a Parancsnok halott! Risztókat be van egy behatolónk!!}

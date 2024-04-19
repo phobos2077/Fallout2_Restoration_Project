@@ -96,7 +96,7 @@
 {461}{}{Por favor, ele não vai sair do quarto. Eu prometo.}
 {462}{}{Não podemos resolver algo - financeiramente, talvez?}
 {463}{}{Tudo bem, tchau.}
-{470}{}{Bem, eu ... eu não sei. Eu acho que não faria mal apenas para você falar com ele. $ 300 e eu vou deixar você entrar.}
+{470}{}{Bem, eu... não sei. Eu acho que não faria mal apenas para você falar com ele. $300 e eu vou deixar você entrar.}
 {471}{}{Você está louco. Isso é demais!}
 {472}{}{Foda-se você, amigo!}
 {473}{}{Com certeza.}

@@ -7,11 +7,8 @@
 {122}{}{Dierk diegler!}
 {123}{}{Du wer?}
 {124}{}{Marcus hat ein paar Fragen über dich gestellt.}
-{125}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills
- bestimmt war, gestohlen hast. Du bist verloren.}
-{126}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills
- bestimmt war, gestohlen hast. Gib mir $1000, dann sorg ich dafür, dass du
- abhauen kannst.}
+{125}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills bestimmt war, gestohlen hast. Du bist verloren.}
+{126}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills bestimmt war, gestohlen hast. Gib mir $1000, dann sorg ich dafür, dass du abhauen kannst.}
 {127}{}{Wer bist du?}
 {128}{}{Erzähl mir was über diesen Ort.}
 {129}{}{Nichts. Tschüss.}

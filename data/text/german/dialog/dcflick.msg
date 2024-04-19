@@ -31,8 +31,7 @@
 {301}{}{Äh, nein.}
 {302}{}{Oh, OK. Dann möcht ich dich was anderes fragen.}
 {303}{}{Ah, ich verstehe. Nun, ich will dich nicht, äh, einschränken. Wiedersehn.}
-{315}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.
- Dafür kümmere ich mich um sie.}
+{315}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht. Dafür kümmere ich mich um sie.}
 {316}{}{Hört sich ja nach einer guten Abmachung an.}
 {325}{}{[Flick zuckt mit den Schultern.] Ich komm ganz gut zurecht.}
 {326}{}{Ich will dich dann noch was anderes fragen.}
@@ -75,8 +74,7 @@ guter Samurai-ter. Hab mich um die Kinder und das alles gekümmert. Das ging gut
 {432}{}{Du bist voll davon. Ich werd krank von solchem Abschaum wie dir, die Menschen für ihren eigenen Vorteil missbrauchen. Zeit zu sterben!}
 {440}{}{Pai-san-o, du weißt schon, die Kinder. Meine Kinder.}
 {441}{}{Und du hast eine Abmachung mit ihnen?}
-{450}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.
- Dafür kümmere ich mich um sie.}
+{450}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht. Dafür kümmere ich mich um sie.}
 {451}{}{Hört sich ja nach einer guten Abmachung an.}
 {460}{}{Ja...das Geschäft lief bis du gekommen bist. Sieh, deine Heldentat kostet mich Geld. Meine Geschäfte leiden wegen dir. Deshalb, mag ich dich nicht besonders.
  In der Tat, hasse ich dich mordsmäßig. Aber, ich bin Geschäftsmann, also wenn du Handeln willst, tu es, wenn nicht, verpiss dich.}

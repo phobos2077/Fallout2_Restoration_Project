@@ -122,7 +122,8 @@ Verklag-Sie"}
 {377}{}{"Sarah Smart: Rednerin, Autorin, Professorin, 'De Amicitia'"}
 {378}{}{"Tim Winkle - Ich kann Heuchelei nicht ertragen, außer meiner eigenen."}
 {379}{}{"Jughead - King of Queen Archie's World."}
-{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
+{380}{}{"Ruhe in Frieden Casey Donahue. Verstorben am 6.8.98. Getötet von einem mutierten
+ bösartigen Seebarsch."}
 {381}{}{"Christopher 'Nightwing' Jones: Verursacher zahlloser Blutergüsse"}
 {382}{}{"Jay 'Quadratlatsche' Nielson. Musiker. Verstarb im Alter von 104, während eines
  Trommelsolos."}

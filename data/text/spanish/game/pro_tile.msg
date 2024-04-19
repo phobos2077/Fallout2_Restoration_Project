@@ -843,7 +843,7 @@
 {245200}{}{Suelo}
 {245300}{}{Suelo}
 {245400}{}{Suelo}
-{245500}{}{End of Group}
+{245500}{}{Fin de grupo}
 {245600}{}{Tejado}
 {245700}{}{Tejado}
 {245800}{}{Tejado}
@@ -870,9 +870,9 @@
 {247900}{}{Tejado}
 {248000}{}{Tejado}
 {248100}{}{Tejado}
-{248200}{}{End of Group}
-{249100}{}{End of Group}
-{250400}{}{End of Group}
+{248200}{}{Fin de grupo}
+{249100}{}{Fin de grupo}
+{250400}{}{Fin de grupo}
 {250500}{}{Suelo de madera}
 {250600}{}{Suelo de madera}
 {250700}{}{Suelo de madera}
@@ -884,10 +884,10 @@
 {251300}{}{Suelo de madera}
 {251400}{}{Suelo de madera}
 {251500}{}{Suelo de madera}
-{251600}{}{End of Group}
+{251600}{}{Fin de grupo}
 {310300}{}{}
-{313100}{}{End of Group}
-{318200}{}{End of Group}
+{313100}{}{Fin de grupo}
+{318200}{}{Fin de grupo}
 {369100}{}{Tejado}
 {369200}{}{Tejado}
 {369300}{}{Tejado}

@@ -21,7 +21,7 @@
 {209}{}{J'croyais que le Président était un mythe, un monstre qui servait à faire peur aux enfants.}
 {210}{}{On dirait que t'as traversé l'enfer et que t'en es revenu. Détends-toi un moment. Tu le mérites.}
 {211}{}{Tu vas rejouer au jeu avec un différent personnage ? Je te recommande la caractéristique *survie en plein air*.}
-{212}{}{F.E.V. ? Qu'est-ce que c'est que ça ?}
+{212}{}{FEV ? Qu'est-ce que c'est que ça ?}
 {213}{}{New Reno a été conçue par Chris Avellone et scriptée par Tom French. Tom joue dans un groupe. Chris joue en solo.}
 {214}{}{J'espère devenir le personnage principal dans Fallout 3, comme Tandi ou Ian. Ca craint d'être un voyou.}
 {215}{}{J'ai entendu dire que t'as cramé l'Enclave au Sud. T'es pas mal courageux.}
@@ -109,7 +109,7 @@
 {374}{}{Tu parles vraiment à dieu quand tu baises ?}
 {375}{}{Maman dit que t'es l'engin du Démon.}
 {376}{}{Maman dit que t'es une prostituée. Une catin effrontée. Je n'ai aucune idée de c'que c'est.}
-{385}{}{T'es là pour voir papa pour affaire ? Alors bonne chance, je pense pas qu'il embauche quelqu'un maintenant.}
+{385}{}{T'es là pour voir papa pour une affaire ? Alors bonne chance, je pense pas qu'il embauche quelqu'un maintenant.}
 {386}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {387}{}{Fais gaffe à toi ici, mon ami. C'est le territoire des Wright.}
 {390}{}{Tu ferais mieux de décamper... On reçoit pas les esclavagistes chaleureusement ici.}
@@ -119,7 +119,7 @@
 {394}{}{J'te surveille, esclavagiste, alors fais gaffe à ce que tu fais, compris ?}
 {395}{}{Tu touches à l'un de ces gamins, esclavagiste, et je te shoote tellement fort que t'en sortiras de tes bottes.}
 {396}{}{Tu touches à l'un de ces gamins, esclavagiste, j'te tue.}
-{397}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
+{397}{}{Si tu cherches de l'alcool, esclavagiste, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
 {398}{}{Tu fais du mal à un Wright, esclavagiste, et notre famille ne sera pas en paix tant que ta dépouille ne pourrira pas à Golgotha.}
 {399}{}{T'es ici pour affaire avec papa ? Je pense pas que papa traite avec des esclavagistes. T'ferais mieux d'décamper.}
 {410}{}{Tu ferais mieux de partir... C'est pas contre toi, mais papa n'aime pas trop les tribals.}

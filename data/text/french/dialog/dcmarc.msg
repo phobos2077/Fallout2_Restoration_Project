@@ -10,7 +10,7 @@
 {229}{}{On est vraiment trop bons !}
 {230}{}{On leur a mis la pâtée ! Putain !}
 {250}{}{Il faut parler à Tyler, ma belle, pas à moi.}
-{251}{}{What's up. You need something, you gotta talk to Tyler here.}
+{251}{}{Quoi de neuf ? Va voir Tyler si tu veux quelque chose.}
 {252}{}{Que regardes-tu ?}
 {253}{}{Il faut parler à Tyler, pas à moi.}
 {255}{}{On va leur mettre la pâtée, ce soir !}

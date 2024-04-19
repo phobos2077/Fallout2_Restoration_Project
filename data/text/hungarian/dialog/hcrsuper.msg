@@ -12,9 +12,9 @@
 {111}{}{Semmi.}
 {112}{}{Felejtse el! Üdv!}
 {113}{}{Figyelj, fiam, sajnálom, hogy nincs agyad, de nem maradhatsz itt. Tűnés kifelé.}
-{114}{}{[DONE]}
+{114}{}{[RENDBEN]}
 {115}{}{Nem maradhatsz itt. Veszélyes. Menj innen!}
-{116}{}{[DONE]}
+{116}{}{[RENDBEN]}
 {117}{}{Nagyszerű! 1000 dollár lesz, alku nincs. Talán drágának találod, de ez semmi ahhoz képest, amit a végtermékért kaphatsz egy megfelelő vevőtől.}
 {118}{}{Áll az alku.}
 {119}{}{1000 dollár? Ez nevetséges. Felejtsd el!}
@@ -29,10 +29,10 @@
 {128}{}{Egy kevés uránt szeretnék.}
 {129}{}{Semmi.}
 {130}{}{Nincs nálad elég pénz. Gyere vissza, ha lesz!}
-{131}{}{[DONE]}
+{131}{}{[RENDBEN]}
 {132}{}{Rendben. Adj egy napot, és már viheted is!}
 {133}{}{Nagyszerű! Viszlát!}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional should do it. You want it or not?}
+{134}{}{Sok sikert, hogy találj egy másik finomítóhelyet! A művelet veszélyes, csak egy profi tudja rendesen megcsinálni. Akarod vagy nem?}
 {135}{}{Igen.}
 {136}{}{Nem.}
 {137}{}{Rendben. Akkor nincs itt semmi keresnivalód. Kérlek, távozz, hadd folytassuk a munkánkat!}
@@ -41,7 +41,7 @@
 {140}{}{Akkor meghaltok!}
 {141}{}{Remek. Viszlát!}
 {142}{}{Hé! Menj onnan, vagy számolnod kell a következményekkel!}
-{143}{}{Get out of my refinery. Now!}
+{143}{}{Kifelé a finomítómból! Azonnal!}
 {144}{}{Dolgozunk az érced finomításán. Kell még egy kis idő. Ez a fajta munka nem megy tapsra.}
 {145}{}{Kérdeznék pár dolgot.}
 {146}{}{Remek. Viszlát!}

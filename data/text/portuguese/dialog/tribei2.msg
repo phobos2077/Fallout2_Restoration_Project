@@ -1,10 +1,10 @@
-{100}{}{You see a crate.}
-{101}{}{A crate that appears to be full of stimpaks.}
-{102}{}{You see a crate full of useless fake stimpaks.}
-{200}{}{[After giving the crate a brief look-over, you determined that there's about fifty stimpaks in it, just like the merchant said.]}
-{201}{}{[Examine them further.]}
-{202}{}{[DONE.]}
-{203}{}{After examining them closely, you detect nothing unusual about the stimpaks.}
-{204}{}{[DONE.]}
-{205}{}{Upon closer inspection, these stimpaks look a bit odd to you. You take one and squirt a little of its fluid onto your palm. Upon sniffing the crimson liquid, you realize what it truly is: brahmin blood.}
-{206}{}{[DONE.]}
+{100}{}{Você vê um caixote.}
+{101}{}{Uma caixa que parece estar cheia de stimpaks.}
+{102}{}{Você vê uma caixa cheia de stimpaks falsos e inúteis.}
+{200}{}{[Depois de dar uma olhada rápida no caixote, você determinou que tem cerca de cinquenta stimpaks nele, exatamente como o comerciante disse.]}
+{201}{}{[Os examina melhor.]}
+{202}{}{[FEITO.]}
+{203}{}{Depois de examiná-los de perto, você não detecta nada de incomum nos stimpaks.}
+{204}{}{[FEITO.]}
+{205}{}{Após uma inspeção mais detalhada, esses stimpaks parecem um pouco estranhos para você. Você pega um e esguicha um pouco do líquido na palma da mão. Ao cheirar o líquido carmesim, você percebe o que realmente é: sangue brahmin.}
+{206}{}{[FEITO.]}

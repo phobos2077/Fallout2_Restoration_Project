@@ -1,5 +1,5 @@
 /*
-  Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef SCRIPTS_H
@@ -888,10 +888,10 @@
 #define SCRIPT_QCPRSSEC         (869)   // QCPrsSec.int    ; President's personal intern (uh sectertary)
 #define SCRIPT_QCMURRAY         (870)   // QCMurray.int    ; Tom Murray, head of AEC
 #define SCRIPT_SSCRPDOR         (871)   // SSCrpDor.int    ; Craps Table door
-#define SCRIPT_MCPEASAN         (872)   // mcPeasan.int    ; Modoc Peseant, they attack the farm
+#define SCRIPT_MCPEASAN         (872)   // mcPeasan.int    ; Modoc Peasant, they attack the farm
 #define SCRIPT_VCTYCOCL         (873)   // VCtyCocl.int    ; Map Script Vault City Council Area
 #define SCRIPT_HSPURIFY         (874)   // HSPurify.int    ; Air Purifier for Broken Hills
-#define SCRIPT_ESENTRKS         (875)  // esEntRks.int    ; Military Base Enterance Rocks
+#define SCRIPT_ESENTRKS         (875)   // esEntRks.int    ; Military Base Enterance Rocks
 #define SCRIPT_RCGAMBLE         (876)   // RCGamble.int    ; Redding Generic Gamblers
 #define SCRIPT_HTCORPSE         (877)   // HTCorpse.int    ; Spatial script for corpses in Broken Hills
 #define SCRIPT_SCCHEAT          (878)   // SCCheat.int     ; Cheat Character for NCR

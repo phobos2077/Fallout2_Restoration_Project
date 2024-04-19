@@ -1,7 +1,7 @@
-{100}{}{You see a bookcase used to store inventory.}
-{101}{}{An old bookcase stands here. It seems sturdy enough you could probably store things on its shelves.}
-{195}{}{This bookcase doesn't seem to be trapped.}
-{200}{}{ doesn't think this bookcase is trapped.}
-{206}{}{Hey, don't plant that here!}
-{207}{}{Leave the damn bookcases alone before I have to impose extreme sanctions on your ass.}
+{100}{}{Você vê uma estante de livros usada para armazenar estoque.}
+{101}{}{Uma velha estante fica aqui. Parece resistente o suficiente para que você possa armazenar coisas em suas prateleiras.}
+{195}{}{Esta estante não parece estar presa.}
+{200}{}{ não acho que esta estante está presa.}
+{206}{}{Ei, não plante isso aqui!}
+{207}{}{Deixe as malditas estantes em paz antes que eu tenha que impor sanções extremas à sua bunda.}
 {208}{}{Não faça isso.}

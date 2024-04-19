@@ -37,7 +37,7 @@
 {196}{}{Estoy emocionada. Nunca nadie ha intentado conocerme mejor. ¡Todo lo que buscan es sexo, sexo, sexo! Estoy tan cansada de tener sexo salvaje todo el tiempo. Me alegra que no seas como los demás.}
 {197}{}{¡Serás zorra! Por un momento pensé que eras alguien especial.}
 {198}{}{Sabes, sólo soy un tipo normal como cualquier otro. Mis amigos suelen decir "}
-{199}{}{, eres guay porque eres tan normal como cualquier otro tipo". Sí, así de normal soy yo.}
+{199}{}{ eres guay porque eres tan normal como cualquier otro tipo". Sí, así de normal soy yo.}
 {200}{}{Bueno, es que nunca había conocido a nadie como tú.}
 {202}{}{¿Querer qué? ¿Qué estás insinuando?}
 {203}{}{Creo que ya sabes de lo que estoy hablando, nena. Sabes que esto es lo que quieres. [Sonríes y comienzas a quitarte la ropa].}
@@ -45,7 +45,8 @@
 {205}{}{¡Como te atreves a llamarme zorra! ¡Déjame decirte que soy muy quisquillosa con la gente con la que me voy a la cama! ¡Y este mes sólo han sido 10 ó 20! ¡Esta conversación ha terminado!}
 {206}{}{Qué decepción. Eres igual que todos los demás, ¿no?}
 {208}{}{No. No lo creo. Estoy cansada de esta conversación. Adiós.}
-{209}{}{[Se sonroja] Para, vas a hacer que me ponga colorada. Eres una ricura. ¿Por qué no te acercas y te sientas aquí conmigo?}
+{209}{}{[Se sonroja] Para, vas a hacer que me ponga colorada. Eres una ricura. ¿Por qué no te acercas
+y te sientas aquí conmigo?}
 {210}{}{Creo que esto ha ido demasiado lejos. ¿No podemos simplemente hablar?}
 {211}{}{Pensé que nunca lo ibas a decir. ¿Por qué no nos ponemos un poco más cómodos?}
 {212}{}{¡Sí! Sabes lo que quiero, ¡nena!}

@@ -15,7 +15,7 @@
 {114}{}{Du kennst die Vault?}
 {115}{}{Ich nehm ein Bier.}
 {116}{}{Ich nehm einen Whisky.}
-{117}{}{Was ist hier los?}
+{117}{}{Was geht hier vor?}
 {118}{}{Heute nicht, danke. Auf Wiedersehen.}
 {119}{}{Hier? Hier passiert gar nichts. Hier ist es so langweilig, dass ich mich manchmal frage ob ich zwischendurch eingeschlafen bin ohne es zu merken.
  Warum, bist du wegen was bestimmten hier?}
@@ -36,7 +36,7 @@
 {132}{}{Hört sich so an als ob du echt genug hättest.}
 {133}{}{Das tut mir leid. Was weißt du über die Vault?}
 {134}{}{Wir machen alle Fehler... mal größere, mal kleinere. Also, was willst du?}
-{135}{}{Was ist hier los?}
+{135}{}{Was geht hier vor?}
 {136}{}{Heute nicht, danke. Auf Wiedersehen.}
 {137}{}{Ja Mann, ich wäre lieber jetzt als gleich weg von hier.}
 {138}{}{Warum haust du nicht einfach ab?}

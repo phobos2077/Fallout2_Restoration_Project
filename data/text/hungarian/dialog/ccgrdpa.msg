@@ -11,7 +11,7 @@
 {110}{}{Megtámadtak bennünket! Riadó!}
 {111}{}{Behatolók! Riadó!}
 {112}{}{Biztonsági riadó! Zárjátok le a bázist!}
-{113}{}{Secure all stations! We're on alert!}
+{113}{}{Helyezzétek biztonságba az állomásokat! Riadó!}
 {114}{}{Behatolók! Vörös kód!}
 {115}{}{Szétalázunk!}
 {116}{}{Az Enklávé lesz a világ ura!}
@@ -20,29 +20,29 @@
 {201}{}{...igen, jobb ha húzol innen...}
 {202}{}{...ekkora tirpák köcsögöt...}
 {203}{}{...Igen, uram! Bassza meg, uram!...}
-{300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
+{300}{}{Állj csak meg. Mit akarsz tenni azzal a légijárművel? Nincsenek tervezett repülések az elkövetkezendő napokban.}
 {301}{}{Nrg?}
-{302}{}{I am aware of this.}
-{303}{}{I'm sorry. I was just looking. I'll be going now.}
-{304}{}{There's been a change of plans. I'm taking this aircraft.}
-{310}{}{What? Oh, I see. Look, don't touch. Okay? Touch again and you die.}
-{311}{}{(Smile then attack.)}
+{302}{}{Tudatában vagyok.}
+{303}{}{Sajnálom. Csak nézelődtem. Már megyek is.}
+{304}{}{Változás állt be a tervekben. Én viszem ezt a madárkát.}
+{310}{}{Mi? Oh, értem. Nézd, meg se érintsd. Rendben? Ha megérinted újra meghalsz.}
+{311}{}{(Nyugodtan mosolyogsz, bólogatsz, aztán nekitámadsz.)}
 {312}{}{(Te is indulsz a dolgodra.)}
-{315}{}{Oh shit, looks like we got ourselves an intruder. Code Red! I repeat, code Red!}
-{316}{}{That sounds like a good idea. Touch the aircraft again and I'll put a bullet in your head.}
-{320}{}{Right. And therefore you are...}
-{321}{}{About to leave. Sorry to bother you.}
-{322}{}{About to deliver an important message to the main base.}
-{323}{}{Oh, really? And what does this message say.}
-{324}{}{It's super top secret. I cannot tell you.}
-{325}{}{I'll tell you, but it's absolutely essential that you don't disclose this information to anyone else, for fear of a
- mass panic. You see, it's come to my attention that one of the recent shipments of slaves is infected with an unknown, and
- highly deadly, virus strain. I *must* get to the base immediately, or all our lives could be lost. Now stop wasting my time,
- as there isn't a moment to spare.}
-{326}{}{Yeah, I believe you. Looks like we got ourselves an intruder...}
-{327}{}{Damnit! Ah, whatever. I never get told shit around here. Fine. Be on your way.}
-{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
-{329}{}{[DONE]}
+{315}{}{Óh basszameg, úgy tűnik van egy behatolónk. Vörös Riadó! Ismétlem, Vörös Riadó!}
+{316}{}{Ez jó ötletnek tűnik. Ha újra megérinted egy lövedéket eresztek a fejedbe.}
+{320}{}{Rendben. Szóval evégett te...}
+{321}{}{Távozni készülsz. Bocs, nem akartalak zavarni.}
+{322}{}{Arra készülsz, hogy egy fontos üzenetet továbbíts a főbázisra.}
+{323}{}{Csakugyan? És miről szól ez az üzenet?}
+{324}{}{Ez szuper titkos. Elnézést, nem mondhatom el.}
+{325}{}{Elmondom neked, de alapvető fontosságú, hogy ne add tovább ezt az információt senki másnak elkerülendő a tömegpánikot.  
+Tudomásomra jutott, hogy az egyik közelmúltbeli rabszolga-szállítmányban olyan rabszolgák érkeztek akik meg voltak fertőzve egy ismeretlen és erősen halálos vírus fajtával.  
+*Muszály* eljutnom azonnal a bázisra, vagy mindannyiunk élete veszélybe kerül. 
+Most pedig ne vesztegesd tovább az időmet mivel egyetlen elvesztegetni való percem sincs. }
+{326}{}{Igen, hiszek neked. Úgy tűnik van egy behatolónk...}
+{327}{}{Bassza meg! Eh, bárhogy is. Még sosem akartak ennyi szarral megetetni itt. Menj utadra.}
+{328}{}{Basszus, az rosszul hangzik. Akkor jobb, ha indulsz, nem akarom ezt a problémát magamnak. Oh és ne aggódj, senkinek sem fogom elmondani.}
+{329}{}{[RENDBEN]}
 {400}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
  later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
  turns to the others.] Holy shit! One of those mutie wastlanders stowed away in the 'bird! ALERT! We got an intruder!}

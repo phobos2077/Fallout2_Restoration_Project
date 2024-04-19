@@ -307,7 +307,7 @@
 {1306}{}{Eu nem sentir isso.}
 {1307}{}{Pelo menos você só bateu minha cabeça.}
 {1308}{}{Ouch, isso dói.}
-{1309}{}{Eu ainda tenho *alguns dentes*.}
+{1309}{}{Eu ainda tenho * alguns dentes *.}
 {1310}{}{Eu voltei!}
 {1311}{}{Posso acabar com você com apenas uma mão.}
 {1312}{}{Você quebrou meu braço, mas eu vou quebrar seu pescoço!}
@@ -634,11 +634,11 @@
 {1735}{}{Nggg! No complexo solar!}
 {1760}{}{Maldição! Minha perna!}
 {1761}{}{Eu não preciso de duas pernas para chutar sua bunda.}
-{1762}{}{Vou precisar de um stimpack para a minha perna ...}
+{1762}{}{Vou precisar de um stimpak para a minha perna ...}
 {1763}{}{Urggg ... perna se ... ferrou ...}
 {1770}{}{Maldição! Minha perna!}
 {1771}{}{* Ergg * Vai ter troco ...}
-{1772}{}{Vou precisar de um stimpack para a minha perna ...}
+{1772}{}{Vou precisar de um stimpak para a minha perna ...}
 {1773}{}{Urggg ... perna se ... ferrou ...}
 {1780}{}{Merda! Nos olhos não!}
 {1781}{}{Tentando inviabilizar minha percepção de profundidade, não é?}
@@ -655,15 +655,15 @@
 {1801}{}{O que acabou de me bater na cabeça?}
 {1802}{}{Ngggg}
 {1803}{}{Ainda bem que estou chapado de Jet, ou teria sido muito doloroso.}
-{1804}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
+{1804}{}{Owwwww! Alguém me dê um Stimpak! Ou algum Jet!}
 {1810}{}{Hey! Alguém acabou de bater no meu braço!}
 {1811}{}{Olha, meu braço é apenas para desenhar. Pare de atacá-lo.}
 {1812}{}{Nggggg}
-{1813}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
+{1813}{}{Owwwww! Alguém me dê um Stimpak! Ou algum Jet!}
 {1820}{}{Hey! Alguém acabou de bater no meu braço!}
 {1821}{}{Olha, meu braço é apenas para desenhar. Pare de atacá-lo.}
 {1822}{}{Nggggg}
-{1823}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
+{1823}{}{Owwwww! Alguém me dê um Stimpak! Ou algum Jet!}
 {1830}{}{Meu estômago!}
 {1831}{}{Ai! Owwww, meu maldito peito! Ai!}
 {1832}{}{Hey! Porque você me bateu no peito?, idiota!}
@@ -671,13 +671,13 @@
 {1834}{}{Whoa. Meu peito. Isso machucou legal.}
 {1835}{}{Nrgggg}
 {1836}{}{*hfff*}
-{1837}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
+{1837}{}{Owwwww! Alguém me dê um Stimpak! Ou algum Jet!}
 {1860}{}{Hey! Alguém acabou de bater na minha perna!}
 {1861}{}{Hey! Eu ando com a perna!}
-{1862}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
+{1862}{}{Owwwww! Alguém me dê um Stimpak! Ou algum Jet!}
 {1870}{}{Hey! Alguém acabou de bater na minha perna!}
 {1871}{}{Hey! Eu ando com a perna!}
-{1872}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
+{1872}{}{Owwwww! Alguém me dê um Stimpak! Ou algum Jet!}
 {1880}{}{Isso é como sentir uma agulha no olho ...}
 {1881}{}{Hey! Eu vejo com aquele olho!}
 {1882}{}{MEUS Olhos! MEUS Olhos! Meus olhos doem!}
@@ -833,7 +833,7 @@
 {2160}{}{Não sou tão ruim, sou?}
 {2161}{}{Eu vi mais Brahmin mais esperto que você}
 {2162}{}{Ufa!}
-{2163}{}{Eu nao sou uma presa facil.}
+{2163}{}{Eu não sou uma presa fácil.}
 {2164}{}{Graças a Deus!}
 {2165}{}{Errou!}
 {2166}{}{Você não é tão bom assim.}
@@ -882,7 +882,7 @@
 {2236}{}{Eu adoro ver como se contorce.}
 {2237}{}{Espero que este seja um desafio.}
 {2238}{}{Oh sim! Estava a muito tempo esperando por isso.}
-{2239}{}{Vamos ver do que realmente voce e feito.}
+{2239}{}{Vamos ver do que realmente você é feito.}
 {2240}{}{Tome isso!}
 {2241}{}{Você gosta disso?}
 {2242}{}{Isto é o que fazemos com vermes!}
@@ -932,7 +932,7 @@
 {2313}{}{Foi divertido, tchau.}
 {2314}{}{Whoa, esta na hora do almoço.}
 {2315}{}{Isso foi ótimo, me fez suar!}
-{2316}{}{Hora de conseguir munições e alguns stimpacks!}
+{2316}{}{Hora de conseguir munições e alguns stimpaks!}
 {2317}{}{Espere aqui, voltarei daqui a pouco.}
 {2318}{}{Eu tenho alguns amigos que vão querer se juntar nisso.}
 {2319}{}{Vamos fazer isso de novo, algum dia.}
@@ -1292,7 +1292,7 @@
 {3204}{}{Aieeeeeee! Não me machuque! Não me machuque!}
 {3205}{}{Esta alucinação esta cada vez mais real para mim ...}
 {3220}{}{Toma isso!}
-{3221}{}{Melhor você ter alguns stimpacks ... ou algum Jet.}
+{3221}{}{Melhor você ter alguns stimpaks ... ou algum Jet.}
 {3222}{}{Talvez eu possa vender seu corpo por algum Jet ...}
 {3223}{}{Vou te bater ...quando ... te... pega.}
 {3224}{}{Talvez matando você eu fique melhor..}
@@ -1406,7 +1406,7 @@
 {12027}{}{Preparados!}
 {12028}{}{Rock and roll!}
 {12029}{}{Olha quem acabou de entrar para a zona de fogo ...}
-{12030}{}{Melhor que você tenha alguns stimpacks, Zé ruéla ...}
+{12030}{}{Melhor que você tenha alguns stimpaks, Zé ruéla ...}
 {12031}{}{Contato!}
 {12032}{}{Perímetro invadido!}
 {12033}{}{Temos um intruso, rapazes!}
@@ -1423,7 +1423,7 @@
 {12045}{}{Você quer um pouco disso! Você quer um pouco disso!}
 {12046}{}{Hiyaaaaaa!!!}
 {12047}{}{Obter algum!}
-{12048}{}{Melhor que você tenha alguns stimpacks, Zé ruéla ...}
+{12048}{}{Melhor que você tenha alguns stimpaks, Zé ruéla ...}
 {12049}{}{Beijo na bunda... Beijo na sua bunda tchau ...}
 {12060}{}{Você luta como um velho idiota!}
 {12061}{}{Ha! Errou!}
@@ -1462,9 +1462,9 @@
 {12200}{}{Caralho, esta merda está ficando seria.}
 {12201}{}{Hora de ir para os outros caras ...}
 {12202}{}{Te mato da próxima vez!}
-{12203}{}{Tem sorte de eu não ter uns stimpacks...}
+{12203}{}{Tem sorte de eu não ter uns stimpaks...}
 {12204}{}{Hora de cair fora daqui.}
-{12205}{}{Preciso encontrar alguns stimpacks e rápido...}
+{12205}{}{Preciso encontrar alguns stimpaks e rápido...}
 {12220}{}{Vou te fazer de gato e sapato.}
 {12221}{}{E lá estava eu, pensando que eu não ia conseguir matar ninguém hoje ...}
 {12222}{}{Parece que Gólgota vai ter um novo ocupante...}
@@ -1509,11 +1509,11 @@
 {12335}{}{Nggg! No complexo solar!}
 {12360}{}{Maldição! Minha perna!}
 {12361}{}{*Ergg*}
-{12362}{}{Vou precisar de um stimpack para a minha perna ...}
+{12362}{}{Vou precisar de um stimpak para a minha perna ...}
 {12363}{}{Urggg ... perna se ... ferrou ...}
 {12370}{}{Maldição! Minha perna!}
 {12371}{}{*Ergg*}
-{12372}{}{Vou precisar de um stimpack para a minha perna ...}
+{12372}{}{Vou precisar de um stimpak para a minha perna ...}
 {12373}{}{Urggg ... perna se ... ferrou ...}
 {12380}{}{Meus olhos! Meus lindos olhos!}
 {12381}{}{Tentando inviabilizar minha percepção de profundidade, não é?}
@@ -1544,7 +1544,7 @@
 {12416}{}{Minha mão de pistoleiro!}
 {12417}{}{* Nfff * ... quase arrancou meu braço...!}
 {12418}{}{* Urkkk * ...ainda posso .... bater em você ... com a outra mão ...}
-{12419}{}{Vou precisar de alguns stimpacks para o meu braço. Depois de matá-lo.}
+{12419}{}{Vou precisar de alguns stimpaks para o meu braço. Depois de matá-lo.}
 {12420}{}{Meu braço! Você quebrou a porra do meu braço!}
 {12421}{}{Merda! Tiro no meu braço direito!}
 {12422}{}{Pegou no braço ... porra!}
@@ -1553,14 +1553,14 @@
 {12425}{}{Tem sangue por todo o meu braço ...!}
 {12426}{}{Minha mão de pistoleiro!}
 {12427}{}{* Nfff * ... quase arrancou meu braço...!}
-{12428}{}{Vou precisar de alguns stimpacks para o meu braço. Depois de matá-lo.}
+{12428}{}{Vou precisar de alguns stimpaks para o meu braço. Depois de matá-lo.}
 {12429}{}{* Urkkk * ...ainda posso .... bater em você ... com a outra mão ...}
 {12430}{}{Não posso... respirar...}
 {12431}{}{*Oooooffff*}
 {12432}{}{Maldição...me...deixou...sem...ar...}
 {12433}{}{*Unfffff*}
 {12434}{}{Acho que acabou de quebrar uma costela...}
-{12435}{}{Vou precisar de alguns stimpacks para o meu peito. Depois de matá-lo.}
+{12435}{}{Vou precisar de alguns stimpaks para o meu peito. Depois de matá-lo.}
 {12436}{}{Boa pontaria... Agora eu vou quebrar todas as costelas do seu corpo.}
 {12437}{}{Dê-me um segundo ... ... para recuperar o fôlego ... então eu vou te matar ...}
 {12438}{}{*Hrkkk*}
@@ -1574,7 +1574,7 @@
 {12446}{}{Vou quebrar todos os ossos do seu corpo.}
 {12447}{}{Vou arrancar seus dentes por isso...}
 {12448}{}{Meu peito está pegando fogo ...}
-{12449}{}{Alguém tem alguns stimpacks? Meu peito esta sangrando muito!}
+{12449}{}{Alguém tem alguns stimpaks? Meu peito esta sangrando muito!}
 {12450}{}{Merda ... este tribal bate como um...}
 {12451}{}{Você quebrou minhas costelas, agora eu vou quebrar seu pescoço.}
 {12452}{}{É tudo que você sabe fazer? Cai fora pobre tribal.}
@@ -1608,7 +1608,7 @@
 {12480}{}{Ahhhh, merda! A porra do meu olho!}
 {12481}{}{Erggg...Isso foi... Sorte...}
 {12482}{}{Porra..tudo esta escuro..}
-{12483}{}{Nada que... um tapa-olho ... nao vai curar ...}
+{12483}{}{Nada que... um tapa-olho ... não vai curar ...}
 {12484}{}{Vou arrancar seus dois olhos por isso... devagar.}
 {12485}{}{Estou cego! Socorro! Estou cego!}
 {12486}{}{Não posso ver... cabeça girando...}
@@ -2504,7 +2504,7 @@
 {40049}{}{Você fazer coisas má com nós.}
 {40050}{}{Nós e eu estar sofrendo coisas más.}
 {40051}{}{Nós não querer que o vermelho, vermelho, vinho sai pra fora.}
-{40052}{}{Se você nos machucar, nós machucaremos de volta.}
+{40052}{}{Você machucar nós, nós machucar você de volta.}
 {40053}{}{Aaaaaiiiiii!}
 {40054}{}{Shing-ding-ding!}
 {40055}{}{O espírito-da-sombra estar no nosso ombro.}
@@ -2674,7 +2674,7 @@
 {40844}{}{*Unfffff*}
 {40845}{}{*Unffff* Outra...maldita ferida no peito...}
 {40846}{}{* Nfff * Preciso de ajuda ... fui atingido no peito ... que dor...}
-{40847}{}{Alguém tem alguns stimpacks! Eu tomei um golpe no peito!}
+{40847}{}{Alguém tem alguns stimpaks! Eu tomei um golpe no peito!}
 {40848}{}{*Unnffff* Isso quebrou uma.... ou duas costelas...}
 {40849}{}{*Nfff*}
 {40850}{}{*Hrkkkk*}
@@ -2690,7 +2690,7 @@
 {40860}{}{Damn! Eu não levo um tiro na perna desde 1900 e bolinha.}
 {40861}{}{* NFFF * ... boa tentativa ... minha perna ja recebeu golpes piores.}
 {40862}{}{Isso abriu uma ferida na perna.}
-{40863}{}{Vou ter que proteger melhor a minha perna direita...}
+{40863}{}{Vou ter que proteger melhor a minha perna direita ...}
 {40864}{}{*Nffff*...right leg's...useless...}
 {40865}{}{Não consigo... sentir... minha perna direita...}
 {40866}{}{* Nfff * ... outra ... ferida na porra da perna. }
@@ -2723,7 +2723,7 @@
 {40900}{}{Tenho que cair fora...}
 {40901}{}{É a última vez que entro em uma briga sem uma boa armadura.}
 {40902}{}{Da próxima vez será você seu filho da puta...}
-{40903}{}{Da próxima vez vou arrumar um lançador de foguetes... e mais stimpacks.}
+{40903}{}{Da próxima vez vou arrumar um lançador de foguetes... e mais stimpaks.}
 {40904}{}{Se tivesse uns vinte anos a menos, teria ganhado essa luta.}
 {40905}{}{Os bastardos me deram uma surra de verdade...}
 {40906}{}{Pensei que essa maldita mala amarela havia sumido...}
@@ -3144,7 +3144,7 @@
 {41778}{}{Pra que esta violência sem sentido?}
 {41779}{}{Será que não podemos conviver juntos?}
 {42000}{}{ignore a dor de cabeça... ignore a dor de cabeça}
-{42001}{}{Aighh! Há sangue por toda a minha cara! Ajuda! Stimpack! Ajuda!}
+{42001}{}{Aighh! Há sangue por toda a minha cara! Ajuda! Stimpak! Ajuda!}
 {42002}{}{minha cabeça! minha cabeça! ME ACERTOU NA CABEÇA! SOCORRO! SOCORRO!}
 {42003}{}{Oooooooh. Lá se vai a alguns pontos de Inteligência.}
 {42004}{}{São pedaços do meu cérebro em minhas mãos?}
@@ -3154,7 +3154,7 @@
 {42008}{}{Ou eu fui atingido na cabeça, ou esta é a pior enxaqueca que eu já tive.}
 {42009}{}{A minha cara! Meu belo rosto cheio de espinhas de olhos esbugalhados!}
 {42010}{}{ignorar a dor em meu braço... ignorar a dor em meu braço}
-{42011}{}{Aighh! Há sangue por todo meu braço! Ajuda! Stimpack! Ajuda!}
+{42011}{}{Aighh! Há sangue por todo meu braço! Ajuda! Stimpak! Ajuda!}
 {42012}{}{Meu braço! Meu braço! ME ACERTOU NO BRAÇO! SOCORRO! SOCORRO!}
 {42013}{}{Não é o meu braço esquerdo! Esse é o meu braço forte!}
 {42014}{}{Não é a minha mão! Rosie! Rosie Palmer! Fale comigo, garota!}
@@ -3162,7 +3162,7 @@
 {42016}{}{Aieeee! Eu não posso sentir meu braço esquerdo!}
 {42017}{}{* Urkkk * ... braço esquerdo ... parece que está pegando fogo ...}
 {42020}{}{ignorar a dor em meu braço... ignorar a dor em meu braço}
-{42021}{}{Aighh! Há sangue por todo meu braço! Ajuda! Stimpack! Ajuda!}
+{42021}{}{Aighh! Há sangue por todo meu braço! Ajuda! Stimpak! Ajuda!}
 {42022}{}{Meu braço! Meu braço! ME ACERTOU NO BRAÇO! SOCORRO! SOCORRO!}
 {42023}{}{Não é a minha mão! Rosie! Rosie Palmer! Fale comigo, garota!}
 {42024}{}{Aighhh! Meu osso engraçado! Eu. .. Eu. .. Eu. .. deve manter ... de ... de rir ...}
@@ -3172,7 +3172,7 @@
 {42030}{}{ignorar a dor em meu peito... ignorar a dor em meu peito}
 {42031}{}{Meu protetor de bolso!}
 {42032}{}{* Unfff * ... hey ... era minha... última camisa limpa.}
-{42033}{}{Aighh! Há sangue por todo meu peito! Ajuda! Stimpack! Ajuda!}
+{42033}{}{Aighh! Há sangue por todo meu peito! Ajuda! Stimpak! Ajuda!}
 {42034}{}{MEU PEITO! MEU PEITO! EU FUI ATINGIDO NO PEITO! AJUDA! AJUDA!}
 {42035}{}{* Urkkk * ... peito ... parece que está pegando fogo ...}
 {42036}{}{Que diabos é esse sangue ... TA fazendo ... o que... no meu... peito ... * urkkk *}
@@ -3200,7 +3200,7 @@
 {42058}{}{Bem ... que gêiser de sangue que emana do meu peito é a prova de que tem pressão arterial elevada.}
 {42059}{}{}
 {42060}{}{ignorar a dor na minha perna... ignorar a dor na minha perna}
-{42061}{}{Aighh! Há sangue por toda parte da minha perna! Ajuda! Stimpack! Ajuda!}
+{42061}{}{Aighh! Há sangue por toda parte da minha perna! Ajuda! Stimpak! Ajuda!}
 {42062}{}{Minha perna! Minha perna! EU FUI ATINGIDO NA PERNA! AJUDA! AJUDA!}
 {42063}{}{Aieeeee! Eu não posso sentir minha perna direita!}
 {42064}{}{Owwww! Minha perna!}
@@ -3209,7 +3209,7 @@
 {42067}{}{Você vai estar recebendo um telefonema do meu podólogo!}
 {42068}{}{Aighh! Lá se vai minha perna. Eu vou ter que rastejar para fora da aqui, usando meus quadris.}
 {42070}{}{ignorar a dor na minha perna... ignorar a dor na minha perna}
-{42071}{}{Aighh! Há sangue por toda parte da minha perna! Ajuda! Stimpack! Ajuda!}
+{42071}{}{Aighh! Há sangue por toda parte da minha perna! Ajuda! Stimpak! Ajuda!}
 {42072}{}{Minha perna! Minha perna! EU FUI ATINGIDO NA PERNA! AJUDA! AJUDA!}
 {42073}{}{Aieeeee! Eu não posso sentir minha perna esquerda!}
 {42074}{}{Owwww! Minha perna!}
@@ -3219,21 +3219,21 @@
 {42078}{}{Aighh! Lá se vai minha perna. Eu vou ter que rastejar para fora da aqui, usando meus quadris.}
 {42080}{}{Yuh-yuh-lo ... me acertou no olho ...}
 {42081}{}{Meus olho! Meus olho! Ajuda! Alguém me ajude!}
-{42082}{}{Aighh! Eu não posso ver! Ajuda! Stimpack! Ajuda!}
+{42082}{}{Aighh! Eu não posso ver! Ajuda! Stimpak! Ajuda!}
 {42083}{}{Meus olho! Meus olho!}
 {42084}{}{Estou cego! Não vou poder me masturbar!}
 {42085}{}{Owwwww! Meus olho! Meus olho!}
 {42086}{}{Aieeeee! Eu fui atingido no olho! Todo mundo, olhe para mim!}
 {42087}{}{Meu olho esta sangrando! Merda!}
 {42088}{}{Grande. Lá se vai alguns pontos de Percepção.}
-{42089}{}{Alguém pode me dizer se esse foi o meu globo ocular ou apenas um tiro de na minha cabeça?}
+{42089}{}{Alguém pode me dizer se esse foi o meu globo ocular ou apenas um tiro de na minha Cabeça?}
 {42090}{}{ignorar a dor em minhas bolas... ignorar a dor em minhas bolas}
 {42091}{}{Nas bolas não!}
 {42092}{}{Aiiieeee! Levei um tiro no saco!}
 {42093}{}{Acho que cortou!}
 {42094}{}{Por favor não acerte nas partes abaixo okay.}
 {42095}{}{Ajuda! Fui atingido na virilha! Ajuda!}
-{42096}{}{Eu vou precisar de quinze stimpacks uma vez que a dor atingiu o cérebro.}
+{42096}{}{Eu vou precisar de quinze stimpaks uma vez que a dor atingiu o cérebro.}
 {42097}{}{Minha virilha! Myron ... fale comigo, amigo! Fale comigo!}
 {42098}{}{Acho que vou precisar uma prótese antes voltar a frequentar a putaria.}
 {42099}{}{Vou dar suas bolas para outras pessoas.}
@@ -3424,7 +3424,7 @@
 {44843}{}{Eu vou precisar de um período de férias.}
 {44844}{}{Yeeeouch! Isso dói!}
 {44845}{}{Isso não doeu nada}
-{44846}{}{Onde estão os stimpacks quando preciso deles?}
+{44846}{}{Onde estão os stimpaks quando preciso deles?}
 {44847}{}{Você vai ver quando eu puder me mover novamente!}
 {44848}{}{Eu sou imune à dor!}
 {44849}{}{Vou desfigurar sua cara por isso!}
@@ -3489,7 +3489,7 @@
 {44948}{}{Espero que esteja gostando tanto quanto eu!}
 {44949}{}{Esta doendo? Senão posso te golpear mais duramente.}
 {44950}{}{Temos um sangrando por aqui!}
-{44951}{}{Você vai precisar de muito mais que um stimpack pra te consertar.}
+{44951}{}{Você vai precisar de muito mais que um stimpak pra te consertar.}
 {44952}{}{Espero que tenha seguro de vida. Vai precisar.}
 {44953}{}{Um rasgo aqui...um rasgo ali...rasgado em tudo quanto é parte.}
 {44954}{}{Não interessa quem começou, EU vou de terminar!}

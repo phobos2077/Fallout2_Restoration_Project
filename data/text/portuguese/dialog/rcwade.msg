@@ -1,70 +1,70 @@
-{100}{}{You see a man dressed in a jumpsuit.}
-{101}{}{You see Ben Wade, the caravan master for the Redding-Vault City run.}
-{102}{}{You see a man dressed in a Vault Suit.}
-{103}{}{You've got nerve coming 'round here for a job. You'll never work for me again.}
-{104}{}{Get the hell out of my sight.}
-{105}{}{Let's move 'em on out. Giddy-up!}
-{106}{}{OK, let's go.}
-{107}{}{Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault
- City. I can usually use an extra guard, and we're ready to leave right now.}
-{108}{}{Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault
- City. I can usually use an extra guard or two. We leave town on the 1st of every month. If you want to
- sign on, make sure you're here then.}
+{100}{}{Você vê um homem vestido com um macacão.}
+{101}{}{Você vê Ben Wade, o mestre da caravana de Redding - Vault City.}
+{102}{}{Você vê um homem vestido com um uniforme da Vault.}
+{103}{}{Você tem coragem de vir aqui para um trabalho. Você nunca mais vai trabalhar para mim.}
+{104}{}{Saia da minha frente.}
+{105}{}{Vamos o colar para fora. Idiota!}
+{106}{}{OK, vamos lá.}
+{107}{}{Olá. Meu nome é Ben, Ben Wade. Estou encarregado das caravanas comerciais entre Redding e Vault
+ City. Normalmente posso usar uma guarda extra e estamos prontos para sair.}
+{108}{}{Olá. Meu nome é Ben, Ben Wade. Estou encarregado das caravanas comerciais entre Redding e Vault
+ City. Normalmente, posso usar uma ou duas guardas extras. Saímos da cidade no dia 1º de cada mês.
+ Se você quiser participar, certifique-se de estar aqui.}
 {109}{}{O que você quer agora?}
-{110}{}{Moo-moos?}
-{111}{}{You need a guard, huh?}
-{112}{}{What does this caravan transport?}
-{113}{}{Why are you waiting until the 1st?}
+{110}{}{Muu-muus?}
+{111}{}{Precisa de um guarda, é?}
+{112}{}{O que esta caravana transporta?}
+{113}{}{Por que você está esperando até o dia 1°?}
 {114}{}{Não acho que isso seja pra mim. Tchau.}
-{115}{}{Seems like it gets harder every trip. }
-{116}{}{Hah! They shoulda known better than to try to attack my caravan.}
-{117}{}{Good thing you're along this trip.}
-{118}{}{What a nuisance. Things just ain't what they used to be 'round here.}
-{119}{}{These wastes just aren't as safe as they used to be.}
-{120}{}{You're not a guard - you're a con-man. Get out of here, you coward.}
-{121}{}{You left the caravan. Now leave here, as well.}
-{122}{}{You're nothing but a thief. You've probably already taken your cut - now get out.}
-{123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
-{124}{}{Someday soon, you'll regret crossing me. Goodbye.}
-{125}{}{If you had done your job and guarded my caravan, then I'd have enough money to pay you. As it
- is... well, you reap what you sow. You get nothing.}
-{126}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
-{127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
-{128}{}{That was a bad trip. I can only give you $500 - and even that will leave me broke. Sorry.}
-{129}{}{Well, something is better than nothing, I guess. Goodbye.}
-{130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
-{131}{}{That caravan was a success. Here's your $1000. Pleasure working with you. Hope to see you again
- sometime.}
-{132}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
-{133}{}{That wasn't too bad at all. See you later. Goodbye.}
+{115}{}{Parece que fica mais difícil a cada viagem. }
+{116}{}{Ha! Eles deveriam ter pensado melhor antes de tentar atacar minha caravana.}
+{117}{}{Ainda bem que você está nessa viagem.}
+{118}{}{Que incômodo. As coisas não são mais como costumavam ser por aqui.}
+{119}{}{Esses resíduos não são tão seguros quanto costumavam ser.}
+{120}{}{Você não é um guarda, você é um vigarista. Saia daqui, seu covarde.}
+{121}{}{Você deixou a caravana. Agora saia daqui também.}
+{122}{}{Você não passa de um ladrão. Provavelmente até já pegou sua parte. Agora saia.}
+{123}{}{Um ladrão? É isso que eu pareço? Maldito ingrato. Vou ir embora, adeus.}
+{124}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
+{125}{}{Se você tivesse feito seu trabalho e protegido minha caravana, então eu teria dinheiro suficiente
+ para pagá-lo. Do jeito que foi... bem, você colhe o que planta. Não vai ganhar nada.}
+{126}{}{Seu safado asqueroso! Vai pagar caro por me enganar. Adeus.}
+{127}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
+{128}{}{Essa foi uma viagem ruim. Só posso te dar $500... e ainda sim vai me dar um prejuízo. Desculpe.}
+{129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
+{130}{}{Seu cretino miserável! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de não me pagar. Adeus.}
+{131}{}{Essa caravana foi um sucesso, aqui estão seus $1.000. Foi um prazer em trabalhar com você. Espero
+ te ver novamente em algum momento.}
+{132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
+{133}{}{Isso não foi tão ruim assim. Até mais.}
 {134}{}{Hoo-wee! Foi uma ótima corrida. $1.000 para você e outros $200 como bônus. Você deve ser algum tipo de amuleto
  da sorte. Volte com nós se formos ao mesmo lugar.}
-{135}{}{Nice to find someone who appreciates quality when he sees it. See you around, maybe. Goodbye.}
-{136}{}{Always glad to make some extra money. Thanks, and goodbye.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
+{136}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
 {137}{}{Difícil dizer, na verdade. Acho que depende de quanto tempo leva para reunir minério suficiente. Não
  sou mineiro, mas acho que não vai demorar mais do que algumas semanas.}
-{138}{}{Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much
- longer than a couple of weeks. Then we can go. Just keep checking back with me.}
-{139}{}{What do you usually transport?}
+{138}{}{Bem, porque não tenho certeza quanto tempo demoramos para reunir todos os suprimentos médicos. Provavelmente
+ não muito mais do que algumas semanas, então podemos ir. Pode continuar perguntando por novidades.}
+{139}{}{O que você costuma transportar?}
 {140}{}{Deixe-me perguntar-lhe algo mais.}
-{141}{}{Thanks, I'll do that. Goodbye.}
-{142}{}{We're usually looking for caravan guards, but this caravan won't be ready for a while yet. Feel
- free to check back with me, though.}
-{143}{}{When on the 1st?}
-{144}{}{What does this caravan transport?}
-{145}{}{Okay, thanks. Goodbye.}
-{146}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
+{141}{}{Obrigado, vou fazer isso. Adeus.}
+{142}{}{Normalmente procuramos por guardas de caravana, mas essa caravana não ficará pronta por
+ um tempo. Mas pode vir me perguntar quando quiser.}
+{143}{}{Que horas no dia 1°?}
+{144}{}{O que esta caravana transporta?}
+{145}{}{Ok, obrigado. Adeus.}
+{146}{}{Desculpe, amigo, já tivemos muitas experiências ruins trabalhando nesta caravana.}
 {147}{}{Ah, tudo bem.}
-{148}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for
- gold ore.}
-{149}{}{That's interesting. You said you're looking for guards?}
+{148}{}{Bem, pegamos normalmente suprimentos médicos em Vault City e os trocamos com Redding
+ por minério de ouro.}
+{149}{}{Interessante. Você disse que está procurando por guardas?}
 {150}{}{Deixe-me perguntar-lhe algo mais.}
-{151}{}{Oh, okay. Goodbye.}
-{152}{}{You came along at a good time. We're ready to go right now. The job pays $1000, but I'm only
- paying you for the job since I only need one more guard. Ready to join us?}
-{153}{}{You came along at a good time. We're ready to go right now. The job pays $1000. Ready to join us?}
-{154}{}{Sounds great. I'm ready. Let's go.}
-{155}{}{I don't think I want to be a caravan guard. I'll see you around. Goodbye.}
-{156}{}{You got safe transport and three hot meals a day. Now get out of here, you moron.}
-{157}{}{Oooo? Bye bye.}
-{158}{}{Arrrrrr! Me kill!}
+{151}{}{Oh, ok. Adeus.}
+{152}{}{Você veio em boa hora, estamos prontos para ir. Te pago $1.000 pelo trabalho. Mas estou
+ pagando apenas pelo trabalho, só preciso de mais um guarda. Gostaria de se juntar a nós?}
+{153}{}{Você veio em boa hora, estamos prontos para ir. Te pago $1000 pelo trabalho. Gostaria de se juntar a nós?}
+{154}{}{Parece bom, estou pronto. Vamos.}
+{155}{}{Não estou a fim de ser guarda de caravana. Te vejo por aí, adeus.}
+{156}{}{Você tem transporte seguro e três refeições quentes por dia. Agora saia daqui, babaca.}
+{157}{}{Bacaca? Tchau.}
+{158}{}{Arrrrrr! Eu mato!}

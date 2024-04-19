@@ -39,7 +39,7 @@
 {144}{}{Oké.}
 {145}{}{Fogtam.}
 {155}{}{Valami nudista vagy te, hogy így flangálsz? Vedd fel az egyenruhát!}
-{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{156}{}{Ha az őrmester észrevesz egyenruha nélkül, nagy bajba kerülsz.}
 {157}{}{Miért nincs magán egyenruha?}
 {158}{}{Szent szar! Megtámadtak bennünket!}
 {159}{}{Behatolók! Őrség!}

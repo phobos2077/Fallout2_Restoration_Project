@@ -18,7 +18,7 @@
 {117}{}{Ó, helló.}
 {118}{}{Ó, megint te vagy?}
 {119}{}{Mesélj nekem a macskádról.}
-{120}{}{Why the glum face?}
+{120}{}{Mért vágsz ilyen savanyú képet?}
 {121}{}{Gyakran jársz ide?}
 {122}{}{Később dumálunk. Szia.}
 {123}{}{Okké?}
@@ -36,7 +36,7 @@
 {141}{}{Sajnálom, de most nincs fölösleges 10 dollárom.}
 {142}{}{Természetesen.}
 {143}{}{Azt hiszed, vicces vagy? Magolj be jobb szöveget.}
-{144}{}{So why the glum face?}
+{144}{}{Szóval, mért vagy ilyen rosszkedvű?}
 {145}{}{Na, persze... szia.}
 {146}{}{Hallottam, hogy voltak akkorák is, mint te vagy én. Brahmin-méretű állatokkal táplálkoztak. Hát ez bizony félelmetes.}
 {147}{}{Ez semmi.}

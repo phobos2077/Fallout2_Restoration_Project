@@ -1,6 +1,6 @@
 {100}{}{Lucas.}
 {101}{}{Lucas a harcosok vezetője a törzsben.}
-{102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
+{102}{}{Hát itt vagy, Kiválasztott... Hogy haladsz a küldetéssel?}
 {103}{}{Nagyon jól.}
 {104}{}{Nem túl jól.}
 {105}{}{Mi?!}

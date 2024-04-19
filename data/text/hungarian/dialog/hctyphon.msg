@@ -25,16 +25,16 @@
 {124}{}{Mi az?}
 {125}{}{Rövid úton felejtsd el!}
 {126}{}{Öreg vagyok, nem sok mindent tehetek már. Nincs túl sok lehetőségem egy kis izgalomra sem, ha érted, mire gondolok. Szóval nem szeretnék mást, mint egy Cat's Paw magazint. Szerezz nekem egyet!}
-{127}{}{'Ere! [Give Cat's Paw to Typhon.]}
+{127}{}{Tess'! [odaadom a Cat's Paw magazint Typhonnak]}
 {128}{}{Okké!}
 {129}{}{Nehm!}
-{130}{}{Here you go. [Give Cat's Paw to Typhon.]}
+{130}{}{Tessék. [odaadom a Cat's Paw magazint Typhonnak]}
 {131}{}{Rendben. Visszajövök még.}
 {132}{}{Rövid úton felejtsd el!}
 {133}{}{Kösz a magazint, kölök. Várj kábé egy órát és visszajövök!}
 {134}{}{Oké!}
 {135}{}{Még nem fejeztem be, kölyök! Tűnés! Egy öreg ghoulnak talán nem lehet magánélete?}
-{136}{}{[DONE]}
+{136}{}{[RENDBEN]}
 {137}{}{Milyen kincs? Pénz, kölyök, rengeteg pénz. Elegendő egy józan embernek.}
 {138}{}{Mi a pálya vele?}
 {139}{}{Nincs szükségem pénzre.}
@@ -65,30 +65,30 @@
 {164}{}{Értem. Kérdeznék valami mást.}
 {165}{}{Köszönöm. Viszlát!}
 {166}{}{Nos? Hoztál nekem Cat's Paw magazint?}
-{167}{}{'Es. [Give Cat's Paw to Typhon.]}
+{167}{}{Ige'. [odaadod a Cat's Paw magazint Typhonnak]}
 {168}{}{Ne-ehm.}
-{169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
+{169}{}{Aha. Tessék. [odaadod a Cat's Paw magazint Typhonnak]}
 {170}{}{Még nem, de kérdeznék valamit.}
 {171}{}{Nem.}
 {172}{}{Hát akkor siess! Nagyon öreg ghoul vagyok, és én mondom neked, szükségem van egy kis kikapcsolódásra! Gyerünk, gyerünk, gyerünk!}
-{173}{}{[DONE]}
+{173}{}{[RENDBEN]}
 {174}{}{Hát, kölyök, ez a magazin beindított egy-két dolgot bennem, és úgy érzem azért a kincsért, amiről meséltem neked, igazán hozhatnál még néhány dolgot az öreg Typhonnak. Szerezz nekem egy felfújható gumibabát. New Renóban egészen biztos találsz egyet.}
 {175}{}{Okké! Pá!}
 {176}{}{Ne-ehm!}
-{177}{}{Here go! [Give Blow-Up Doll to Typhon.]}
+{177}{}{Tessék! [odaadod a gumibabát Typhonnak]}
 {178}{}{Rendben, de előbb válaszoljon néhány kérdésre!}
 {179}{}{Aha. Na, viszlát!}
 {180}{}{Rövid úton felejtsd el!}
-{181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
-{182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
-{183}{}{[DONE]}
+{181}{}{Itt van. [odaadod a gumibabát Typhonnak]}
+{182}{}{Ez az, kölyök, pont ez kell! Adj néhány órát nekem, utána beszélünk. Tűnés! [nyálcsorgatva bámulja a babát]}
+{183}{}{[RENDBEN]}
 {184}{}{Nem lehet egy csepp nyugalmam sem?! Tűnés! Tűnés! Mars!}
-{185}{}{[DONE]}
+{185}{}{[RENDBEN]}
 {186}{}{Eléggé kifáradtam. Hozz nekem egy üveg pálinkát és akkor mesélek a kincsről! Phil, a kocsmáros biztos tud ebben segíteni.}
 {187}{}{Rendics! Pá!}
 {188}{}{Nem!}
 {189}{}{Tess! [odaadom a pálinkát Typhonnak]}
-{190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
+{190}{}{Itt van. Tessék. [odaadod a pálinkát Typhonnak]}
 {191}{}{Meddig fog ez még tartani?}
 {192}{}{Aha. Na, viszlát!}
 {193}{}{Rövid úton felejtsd el!}
@@ -109,7 +109,7 @@
 {208}{}{Gondolom. Viszlát!}
 {209}{}{Na, mit szólsz a kincshez, kölyök?}
 {210}{}{Rossz! Kupakok!}
-{211}{}{It was all bottle caps! It's worthless!}
+{211}{}{Kupakok ezrével! Értéktelen!}
 {212}{}{Ha ha. Nagyon vicces. Lenne pár kérdésem.}
 {213}{}{Rövid úton felejtsd el!}
 {214}{}{Beee! Pá!}

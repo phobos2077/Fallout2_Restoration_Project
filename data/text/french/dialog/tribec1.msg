@@ -59,9 +59,7 @@
 {323}{}{Tu veux que je baise avec le reste de la tribu ? Pour quel genre de fille me prends-tu ?}
 {330}{}{[Krom éclate de rire d'une manière effréné.] Dieux non, fillette ! Bien que cela pourrait faire du bien au moral de mes guerriers. Je ne souhaite pas partager un miel aussi doux que toi. Non, j'ai une tâche bien plus quelconque pour toi, si ça t'intéresse .}
 {331}{}{ça dépend. Qu'as-tu besoin que je fasse ?}
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
- yet, but I've got a feeling about our next meeting.}
+{340}{}{[Il te passe en revue, semblant songer à quelque chose pendant un instant.] Je dois bientôt rencontrer un de ces satanés marchands des villes... Un homme borgne et grassouillet, à qui je fais autant confiance qu'à un radscorpion affamé. Il ne nous a pas encore causé de tort, mais j'ai un pressentiment concernant notre prochaine rencontre.}
 {341}{}{Pourquoi ça ?}
 {342}{}{Je ne vois pas ce que je viens faire là-dedans. Où veux-tu en venir ?}
 {350}{}{La dernière fois qu'on s'est parlé, il s'est vanté qu'il m'apporterait quelque chose de vraiment prodigieux, et que je serai bien avisé d'amener à la rencontre, toutes les peaux de geckos dorés que je pourrai transporter. Je ne sais pas quel est son objet miraculeux, mais c'est sûrement une de ces babioles provenant de la civilisation, et il espère que je serai assez ignorant pour payer bien plus que ce que ça vaut. C'est pourquoi j'aimerai que tu fasses l'échange.}

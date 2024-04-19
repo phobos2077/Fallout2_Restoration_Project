@@ -9,10 +9,10 @@
 {108}{}{Hínak hogy?}
 {109}{}{Viszlát!}
 {110}{}{Nem, sajnos. De ha találok valamit, azonnal szólok neked.}
-{111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
+{111}{}{Nos, éppenséggel igen. Azt hiszem, tökéletes partner lennél egy, mondjuk úgy, "közös vállalkozáshoz".}
 {112}{}{Hogy hívnak?}
 {113}{}{Rá se ránts!}
-{114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
+{114}{}{Engem? Micky vagyok, Broken Hills lelkes és kedves kincsvadásza.}
 {115}{}{Vaddász?}
 {116}{}{Viszlát!}
 {117}{}{Kincsvadász?}

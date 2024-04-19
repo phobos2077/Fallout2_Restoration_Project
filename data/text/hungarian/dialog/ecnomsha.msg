@@ -1,10 +1,10 @@
-{100}{}{You see a nomad shaman.}
+{100}{}{Egy nomád sámánt látsz.}
 {101}{}{He appears to be a nomad shaman.}
 {102}{}{A gyógynövények erős illata illik a fickó ruházatához.}
 {103}{}{Üdvözlégy, idegen! Én vagyok a törzs sámánja. Képzett vagyok a gyógyítás művészetében.}
 {104}{}{Üdv minálunk.}
 {105}{}{Szükségem lenne némi gyógyításra.}
-{106}{}{Can you combine the Xander root and the Broc flower?}
+{106}{}{Össze tudod keverni a xander gyökeret és a broc virágot?}
 {107}{}{Viszlát!}
 {108}{}{Úúga.}
 {109}{}{Maradj nyugodtan, hogy megvizsgálhassalak!}

@@ -1,5 +1,5 @@
 {100}{}{Egy még fiatalnak mondható, kopaszodó tudóssal hozott össze a sors. Eléggé belemerült a munkájába.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Ő Crockett, a Hubologista tudós.}
 {102}{}{Ő egy fiatalnak mondható, kopaszodó kutató. Tipikus toprongyos tudósfej.}
 {103}{}{Igen? Mit akar?}
 {104}{}{Ah. Öm. Dör.}
@@ -15,11 +15,11 @@
 {114}{}{Megfizetem.}
 {115}{}{Életben hagyom.}
 {116}{}{Semmi. Felejtsd el!}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Crockett vagyok. Tudós és ezermester. Visszatérhetek a dolgomhoz?}
 {118}{}{Nem. Kérdéseket akarok feltenni.}
 {119}{}{Valahogy úgy...}
 {120}{}{Új technológiák fejlesztésén dolgozom és azon vagyok, hogy néha leessen ez-az a kultistáktól, ha érti, mire gondolok.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{Szóval maga nem Hubologista?}
 {122}{}{Fogom. Volna viszont még néhány kérdésem.}
 {123}{}{Nem. Mire gondol?}
 {124}{}{Miféle új technológiákat fejlesztett eddig?}
@@ -48,7 +48,7 @@
 {147}{}{Igen.}
 {148}{}{Nem.}
 {149}{}{::Miután a szemedbe nézett, rájön, hogy csak blöffölsz:: Próbálkozz csak, tökmag! Az őrök mindjárt elhúzzák a nótádat, és sosem tudod meg, hogy kell megerősíteni a páncélodat.}
-{150}{}{Fine. Die, pencil-neck.}
+{150}{}{Remek. Most meghalsz, nyamvadék!}
 {151}{}{Francba! Maga aztán szépen kihozott a sodromból!}
 {152}{}{Maga blöfföl! Majd mindjárt megnézzük, mit szólnak ehhez az őrök.}
 {153}{}{Fenébe!}

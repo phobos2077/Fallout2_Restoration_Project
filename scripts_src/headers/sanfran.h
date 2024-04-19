@@ -114,6 +114,9 @@
 
 #define BADGER_DEAD      (badger_flag(BADGER_DEADSHI) or badger_flag(BADGER_DEADCBT) or elron_flag(EL_ACBADGDEAD))
 
+/* TODO: This is wrong and should be checking actual bit flags.
+   Proper fix would require full San Francisco playthrough.
+*/
 #define badger_flag(x)        (global_var(GVAR_SAN_FRAN_BADGER) == x)
 #define set_badger_flag(x)    set_global_var(GVAR_SAN_FRAN_BADGER, x)
 #define badger_dead           (badger_flag(BADGER_DEADCBT) or badger_flag(BADGER_DEADSHI))
@@ -353,7 +356,7 @@
       set_global_var(GVAR_SAN_FRAN_ARMOR_QST, 1)
 
 #define COMPLETE_ARMOR_QUEST                   \
-   COMP_QUEST(REP_HERO_SAN_FRAN_ARMOR, REP_BONUS_SAN_FRAN_ARMOR, EXP_ARMOR)  \
+   COMP_QUEST(REP_HERO_SAN_FRAN_ARMOR, REP_BONUS_SAN_FRAN_ARMOR, EXP_ARMOR) \
    set_global_var(GVAR_SAN_FRAN_ARMOR_QST, 2)
 
 #define SHOW_KILL_OZ9_QST           \

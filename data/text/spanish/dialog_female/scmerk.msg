@@ -165,7 +165,7 @@
 {264}{}{No, pero necesito algo de información.}
 {265}{}{Sé que la muerte de Lenny no fue ningún accidente, zorra.}
 {266}{}{Eh, ese mapa era una falsificación.}
-{267}{}{Bien, ¿y qué hay sobre el dinero que te dí?}
+{267}{}{Bien, ¿y qué hay sobre el dinero que te di?}
 {268}{}{Como ya he dicho, no tuvo éxito.}
 {269}{}{Bien, ¿y qué tal si te comes esta bala por las molestias?}
 {270}{}{Hmmphf.}

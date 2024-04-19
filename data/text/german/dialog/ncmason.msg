@@ -4,7 +4,7 @@
 {200}{}{Was machst du hier?}
 {205}{}{Muss diesen Haufen von Rindviechern wohl unter die Lupe nehmen.}
 {210}{}{Fass diese Tür noch einmal an und ich fackel dich ab.}
-{215}{}{Du kannst reingehen...     DIESES Mal.   }
+{215}{}{Du kannst reingehen... DIESES Mal.}
 {220}{}{Du bist am falschen Ort, Stammestrottel. Raus.}
 {221}{}{Das ist kein Pornostudio. Raus.}
 {222}{}{Was machst du hier, Stöpsel? Die Abzweigung zum Boxring verpasst? Raus hier.}
@@ -169,7 +169,7 @@
 {745}{}{Außerdem haben wir Salvatores... eine besondere ABMACHUNG mit Miss Kitty unten im Cat's Paw. Und mit Eldridge drüben im Waffenladen... und mit Renesco. (Zwinkert) Viel Spaß.}
 {746}{}{Danke, Mason.}
 {747}{}{Mann, Mason, danke... nur nächstes Mal nenn mich doch bitte "gnädiger Herr". Das würde mir gefallen. HA HA HA HA HA HA...}
-{748}{}{Mann, Mason, danke... nur nächstes Mal nenn mich doch bitte "gnädige  Dame". Das würde mir gefallen. HA HA HA HA HA HA...}
+{748}{}{Mann, Mason, danke... nur nächstes Mal nenn mich doch bitte "gnädige Dame". Das würde mir gefallen. HA HA HA HA HA HA...}
 {755}{}{Hallo... gnädiger Herr.}
 {756}{}{Hallo... gnädige Dame.}
 {765}{}{(Mason hält inne und hört auf etwas, was du nicht hören kannst. Einen Moment später, er hat die Zähne fest zusammengebissen.) Mr. Salvatore sagt, du kannst reinkommen, }

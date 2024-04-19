@@ -120,7 +120,7 @@
 {266}{}{Hier ist Dein Geld.}
 {267}{}{Soviel hab ich noch nicht. Tschüss.}
 {268}{}{Unser Funkgerät ist kaputt und er muss es reparieren.}
-{269}{}{Ich verstehe.}
+{269}{}{Verstehe.}
 {270}{}{Du hast das Geld nicht!}
 {271}{}{Schlecht für mich. Kann ich Dich etwas fragen?}
 {272}{}{Tut mir leid, ich komme wieder.}

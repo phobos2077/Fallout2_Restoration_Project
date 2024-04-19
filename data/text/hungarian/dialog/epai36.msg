@@ -4,12 +4,12 @@
 {152}{}{Employee Access}
 {160}{}{Please select an option below.}
 {161}{}{Lower Force Field}
-{162}{}{[BACK]}
+{162}{}{[VISSZA]}
 {170}{}{To lower force fields, please enter access password. (If password is lost or forgotten, please see Hologram 40011, Director of Public Relations.)}
 {171}{}{ABRE}
-{172}{}{[BACK]}
+{172}{}{[VISSZA]}
 {180}{}{Thank you. Force fields are now disengaged.}
-{181}{}{[DONE]}
+{181}{}{[RENDBEN]}
 {200}{}{Welcome to the EPA Petting Zoo! Here you'll have the pleasure of interacting with these unique creatures that
  look like hideously deformed humans! That's because these ugly beasts are the result of exciting experiments where our
  brilliant scientists are attempting to splice human and animal DNA!}

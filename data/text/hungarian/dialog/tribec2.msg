@@ -34,7 +34,7 @@
 {202}{}{Nice to be seeing you again.}
 {210}{}{You won't take us alive, slaver!}
 {300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}
-{301}{}{[DONE]}
+{301}{}{[RENDBEN]}
 {310}{}{[He narrows his eyes at you, then glances at the well.] No.}
 {311}{}{Then no, I guess I didn't attach it yet.}
 {320}{}{Hey, did you hear me? I asked if the well be fixed yet.}

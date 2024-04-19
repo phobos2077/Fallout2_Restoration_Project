@@ -28,7 +28,7 @@
 {270}{}{T'es revenu. As-tu trouvé quelque chose ?}
 {271}{}{J'y travaille. Je reviendrai te voir.}
 {272}{}{J'ai parlé... euh, plutôt écouté... l'esprit errant. On dirait qu'elle a été trahie puis tuée par son amant, quelqu'un qui s'appelle Thorg.}
-{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
+{280}{}{Thorg ?! C'était le shaman que je servais en tant qu'apprenti. D'accord c'était un peu un trouduc', mais je pensais pas que c'était un tueur de jeunes filles. Hmm, j'imagine que c'est la culpabilité qui l'a mené à ce bain de minuit complètement saoul qui a causé sa mort. Donc Thorg est un meurtrier... Bon sang...}
 {281}{}{Alors quoi maintenant ?}
 {290}{}{[Gros soupir...] Bon je pense que je dois l'envoyer dans les ténèbres. Je crois pouvoir y arriver, mais j'ai besoin que tu viennes avec moi. Je n'arriverai pas à lui faire face tout seul, et aucun autre des habitants ne viendra. Ils pensent que c'est un très mauvais présage pour un non-shaman de rencontrer un esprit errant.}
 {291}{}{Non. J'en ai déjà trop fait pour toi. Tu vas devoir te débrouiller seul.}

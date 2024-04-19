@@ -258,8 +258,8 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_good_critter
 
-/* Set global_variable for Enemy status*/
-   set_badger_flag(BADGER_GFRIEND1);
+   // TODO: condition should be removed when badger_flag is fixed. See define comments.
+   if not BADGER_DEAD then set_badger_flag(BADGER_GFRIEND1);
 
    i_suze_obj := -1;
 end

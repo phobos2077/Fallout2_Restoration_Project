@@ -114,8 +114,8 @@
 {601}{}{C'est ouvert, idiot.}
 {610}{}{Tu échoues lamentablement et la charge explose prématurément.}
 {611}{}{ échoue lamentablement et la charge explose prématurément.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{620}{}{Vous tordez le pied de biche avec acharnement. Il est inutile maintenant.}
+{621}{}{ tord le pied de biche avec acharnement. Il est inutile maintenant.}
 {800}{}{Tu as récupéré le passe.}
 {810}{}{Tu as récupéré les plans.}
 {820}{}{Tu as récupéré le motivateur du K-9.}

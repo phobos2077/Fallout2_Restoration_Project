@@ -2,18 +2,18 @@
 {101}{}{Você vê um camponês.}
 {102}{}{Olá.}
 {103}{}{Bom dia pra você.}
-{104}{}{Welcome to our village.}
-{105}{}{The monsters protect us.}
-{106}{}{Welcome.}
-{107}{}{We will need those rifles soon.}
-{108}{}{Please hurry and bring us those weapons.}
-{109}{}{Why did you kill the monsters? Now Vault City will come after us.}
-{110}{}{Get out and don't come back!!}
-{111}{}{Get the hell out of here!}
-{112}{}{We are safe now.}
-{113}{}{You have our gratitude.}
-{114}{}{God be with you, stranger.}
-{115}{}{Go speak to Connar.}
-{116}{}{Ha! You should have seen them run!}
-{117}{}{The City Patrol ran with their tails between their legs. Ha, we showed them!}
-{118}{}{Who'd a thought them Vault City boys would turn out to be such cowards!}
+{104}{}{Bem-vindo à nossa aldeia.}
+{105}{}{Os monstros nos protegem.}
+{106}{}{Bem-vindo.}
+{107}{}{Vamos precisar desses rifles em breve.}
+{108}{}{Por favor, se apresse e nos traga essas armas.}
+{109}{}{Por que você matou os monstros? Agora Vault City virá atrás de nós.}
+{110}{}{Saia e não volte mais!!}
+{111}{}{Saia já daqui!}
+{112}{}{Estamos a salvo agora.}
+{113}{}{Você tem nossa gratidão.}
+{114}{}{Deus te acompanhe, estranho.}
+{115}{}{Vá falar com Connar.}
+{116}{}{Ha! Você deveria tê-los visto correr!}
+{117}{}{A Patrulha da Cidade correndo com o rabo entre as pernas. Ha, nós mostramos a eles!}
+{118}{}{Quem diria que os caras de Vault City seriam tão covardes!}

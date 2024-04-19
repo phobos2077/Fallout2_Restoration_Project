@@ -23,11 +23,11 @@
 {270}{}{I jak zadanie, wykonane?}
 {271}{}{Tak, wszystkie rośliny zabite. Na powierzchni nadal wygląda jak w piekle, ale jest przynajmniej trochę bezpieczniej.}
 {272}{}{Nie, jeszcze nie. Wrócę do ciebie później.}
-{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
+{280}{}{Uf, bardzo Ci dziękuję. Ogłaszam Cię za to p.o. zarządcy gruntów. [Wskazuje klucz na podłodze u swoich stóp.] Udało mi się przekonać jednego z częściowo działających robotów do przyniesienia go tutaj. Masz teraz autoryzowany dostęp do magazynu. Jeszcze raz, dziękuję.}
 {281}{}{[Podnosisz klucz i chowasz do kieszeni.] Żaden problem. Do zobaczenia.}
 {290}{}{Wyglądasz nie najlepiej. Wszystko w porządku?}
 {291}{}{Tak, nic mi nie jest. Było trochę problemów ze zmutowanymi roślinami po drodze tutaj, ale już po kłopocie.}
-{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
+{300}{}{Naprawdę? Wyśmienicie! Dziękuję. Ogłaszam Cię za to p.o. zarządcy gruntów. [Wskazuje klucz na podłodze u swoich stóp.] Udało mi się przekonać jednego z częściowo działających robotów do przyniesienia go tutaj. Masz teraz autoryzowany dostęp do magazynu. Jeszcze raz, dziękuję.}
 {301}{}{Nie ma sprawy. Naprawdę nie trzeba. Nie przejmuj się tym.}
 {302}{}{Hej, dzięki! Do widzenia.}
 {310}{}{Hej, to była dla mnie wielka przysługa więc bierz co chcesz lub potrzebujesz. W ten sposób chcę Ci podziękować za twoją pomoc.}
