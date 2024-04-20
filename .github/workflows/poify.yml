@@ -1,14 +1,13 @@
 name: Poify/Unpoify
 on:
   push:
-    paths:
-      - "data/text/**" # tra_dir
-  pull_request:
+    branches:
+      - master
     paths:
       - "data/text/**"
 
 jobs:
-  build:
+  msg2po:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

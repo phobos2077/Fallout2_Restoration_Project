@@ -275,7 +275,7 @@
 #define SCRIPT_ECRAIDER         (256)   // ECRaider.int    ; Random Encounter Raider
 #define SCRIPT_ECPEASNT         (257)   // ECPeasnt.int    ; Random Encounter Peasant
 #define SCRIPT_ECMRCHNT         (258)   // ECMrchnt.int    ; Random Encounter Merchant
-#define SCRIPT_ECGUARD          (259)   // ECGuard.int     ; Random Encounter Gaurd
+#define SCRIPT_ECGUARD          (259)   // ECGuard.int     ; Random Encounter Guard
 #define SCRIPT_SCRAWPAT         (260)   // SCRawpat.int    ; Rawhide patrons at NCR Entrance
 #define SCRIPT_WTELFLR2         (261)   // WTElFlr2.int    ; Electric Floor on Level 2 Sierra Base
 #define SCRIPT_WTPLTRP0         (262)   // WTPlTrp0.int    ; Plasma Trap for Sierra Base(-30)
@@ -786,7 +786,7 @@
 #define SCRIPT_ECCRAZY          (767)   // ECCrazy.int     ; Crazies from Random Encounter
 #define SCRIPT_ECCLMJMP         (768)   // ECClmJmp.int    ; Random Encounter Claim Jumpers
 #define SCRIPT_ECCANBAL         (769)   // ECCanbal.int    ; Random Encounter Cannibals
-#define SCRIPT_ECNOMSHA         (770)   // ECNomsha.int    ; Random Encounter Nomad Shamon
+#define SCRIPT_ECNOMSHA         (770)   // ECNomsha.int    ; Random Encounter Nomad Shaman
 #define SCRIPT_ECMARADR         (771)   // ECMaradr.int    ; Random Encounter Marauder
 #define SCRIPT_ECROGUE          (772)   // ECRogue.int     ; Random Encounter Rogue
 #define SCRIPT_ECHERMIT         (773)   // ECHermit.int    ; Random Encounter Hermit
@@ -905,7 +905,7 @@
 #define SCRIPT_SSEMIEN1         (886)   // SSEmiEn1.int    ; Ncr emitters for ncr entrance on map 1
 #define SCRIPT_QIBSTDR1         (887)   // QIBstDr1.int    ; Blast Door for Reactor Off to remain closed
 #define SCRIPT_QIBSTDR2         (888)   // QIBstDr2.int    ; Blast Door for Reactor On to remain closed
-#define SCRIPT_VIDARBOX         (889)   // VIDarBox.int      ; Vault City Darrow Shop Box
+#define SCRIPT_VIDARBOX         (889)   // VIDarBox.int    ; Vault City Darrow Shop Box
 #define SCRIPT_HSCRLDR          (890)   // HSCrlDr.int     ; Jail cell door for Broken Hills
 #define SCRIPT_ECTLKMUT         (891)   // ecTlkMut.int    ; Military Base Conversation Mutants
 #define SCRIPT_FCCHEMST         (892)   // FCChemst.int    ; Chemist in San Francisco
