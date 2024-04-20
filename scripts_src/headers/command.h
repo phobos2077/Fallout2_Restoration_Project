@@ -488,10 +488,10 @@ variable step_tile;
  * @ret {int}
  */
 procedure roll_vs_stat(variable who, variable stat, variable mod) begin
-   variable rnd = random(1,100);
-   variable stat_check = do_check(who, stat, mod);
+   variable rnd = random(1, 100);
+   variable success = is_success(do_check(who, stat, mod));
    // success
-   if stat_check then begin
+   if success then begin
        // critical
        if (rnd + (get_critter_stat(who, STAT_lu) - 5)) > 95 then return ROLL_CRITICAL_SUCCESS;
        else return ROLL_SUCCESS;
