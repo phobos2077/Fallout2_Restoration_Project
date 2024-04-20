@@ -33,7 +33,7 @@
 {132}{}{T'aimes vraiment Franc, hein ?}
 {133}{}{Salut.}
 {134}{}{De quoi j'me mêle ? Barre-toi d'là sinon j't'en envoie une !}
-{135}{}{Autrefois, un type nous a dit qu'on devait avoir nos propres opinions. Ma maman et mon papa disaient qu'il était de la famille. Il est mort en prison, mais il m'a beaucoup marqué. On le  disait très intelligent. Je pense qu'ils avaient raison. Tiens, regarde moi !}
+{135}{}{Autrefois, un type nous a dit qu'on devait avoir nos propres opinions. Ma maman et mon papa disaient qu'il était de la famille. Il est mort en prison, mais il m'a beaucoup marqué. On le disait très intelligent. Je pense qu'ils avaient raison. Tiens, regarde moi !}
 {136}{}{Hum... Ouais. Regarde toi.}
 {137}{}{Toi ? Intelligent ? Ha !}
 {138}{}{Bien sûr. Salut.}

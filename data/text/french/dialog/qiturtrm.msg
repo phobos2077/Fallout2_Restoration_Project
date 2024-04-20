@@ -31,28 +31,28 @@
 {131}{}{[On dirait qu'il a vraiment beaucoup de droits.] Bird, D.}
 {132}{}{[J'essaierai ça plus tard.] [Déconnexion]}
 {133}{}{Sélection :}
-{134}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
-{135}{}{                Statut Sécurité ?}
+{134}{}{A. E. C. : Contrôle Centrale Nucléaire, }
+{135}{}{Statut Sécurité ?}
 {136}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {137}{}{Statut Sécurité}
 {138}{}{Retour Identification Utilisateur :}
 {139}{}{Sélection :}
-{140}{}{                Niveau Sécurité : Statut Courant,}
-{141}{}{                Corporation Chimique : Rapport d'Avancement de Projet,}
-{142}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
-{143}{}{                Statut Sécurité ?}
+{140}{}{Niveau Sécurité : Statut Courant, }
+{141}{}{Corporation Chimique : Rapport d'Avancement de Projet, }
+{142}{}{A. E. C. : Contrôle Centrale Nucléaire, }
+{143}{}{Statut Sécurité ?}
 {144}{}{Sécurité/Niveau : Statut Courant}
 {145}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
 {146}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {147}{}{Statut Sécurité}
 {148}{}{Retour Identification Utilisateur :}
 {149}{}{Sélection :}
-{150}{}{                Etat de la Nation: Statut Courant,}
-{151}{}{                (LISTE MOTS), }
-{152}{}{                Niveau Sécurité : Statut Courant,}
-{153}{}{                Corporation Chimique : Rapport d'Avancement de Projet,}
-{154}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
-{155}{}{                Statut Sécurité ?}
+{150}{}{Etat de la Nation: Statut Courant, }
+{151}{}{(LISTE MOTS), }
+{152}{}{Niveau Sécurité : Statut Courant, }
+{153}{}{Corporation Chimique : Rapport d'Avancement de Projet, }
+{154}{}{A. E. C. : Contrôle Centrale Nucléaire, }
+{155}{}{Statut Sécurité ?}
 {156}{}{Etat de la Nation : Statut Courant}
 {157}{}{Téléchargement Liste Mots}
 {158}{}{Sécurité/Niveau : Statut Courant}

@@ -180,7 +180,7 @@
 {652}{}{Revenons aux Mordino et au Jet.}
 {660}{}{Ouais... [Il se penche vers toi.] Les Mordino ont trouvé le filon, et il s'appelle Myron. C'est lui qui a CREE le Jet.}
 {662}{}{J'en sais assez sur les Mordino et les familles. Parle-moi de ce Myron...}
-{670}{}{Ils alimentent tout New Reno, déjà. Au Nord, ils vont jusqu'à La Fosse, et... [Il hésite, hausse les épaules et continue.]  On en trouve même à Redding, de nos jours, ce qui fait pas de mal à l'escarcelle des Mordino.}
+{670}{}{Ils alimentent tout New Reno, déjà. Au Nord, ils vont jusqu'à La Fosse, et... [Il hésite, hausse les épaules et continue.] On en trouve même à Redding, de nos jours, ce qui fait pas de mal à l'escarcelle des Mordino.}
 {672}{}{Parle-moi de Redding.}
 {685}{}{Bof. Une cité minière au Nord-Ouest. Il paraît que Mordino veut y avoir de l'influence, et mettre la main sur l'OR qu'ils exploitent. Il leur expédie du Jet, ils lui réexpédient de l'or, tout le monde est content.}
 {695}{}{Des calmes, ceux-là. C'est Louis Salvatore, un gangster âgé, qui les dirige. Leur territoire, c'est le quartier Ouest, et leur repaire, Chez Salvatore, un bar sur la 2ème Rue. Ne t'avise pas de chercher des ennuis là-bas.}

@@ -18,5 +18,5 @@
 {260}{}{Nouvelle recrue ? Mon cul... Les renforts sont si rares ailleurs. On dirait que t'es pas très doué. Au revoir !}
 {300}{}{Putain ! Ashton me l'a jamais demandé ! Bordel je ne sais pas ce qu'il se passe ici mais il n'y a aucun papier qui dit que t'es autorisé à être là. C'est comme si on avait un intrus. Il est temps de mourir.}
 {400}{}{Ouah, putain mais qu'est-ce que tu crois que t'es en train de foutre !? Essayer de nous voler devant mes yeux. J'y crois pas t'es vraiment un trou du cul. Il est temps de crever !}
-{401}{}{Ouah, putain mais qu'est-ce que tu crois que t'es en train de foutre !? C'est une propriété privée. PAS TOUCHE ! Et j'me répéterai pas  !}
+{401}{}{Ouah, putain mais qu'est-ce que tu crois que t'es en train de foutre !? C'est une propriété privée. PAS TOUCHE ! Et j'me répéterai pas !}
 {402}{}{Je t'avais prévenu. Essayer de nous voler devant mes yeux. J'y crois pas, t'es vraiment un trou du cul. Il est temps de crever !}

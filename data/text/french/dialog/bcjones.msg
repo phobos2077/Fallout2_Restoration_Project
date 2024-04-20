@@ -34,7 +34,7 @@
 {133}{}{Comment es-tu arrivé ici ?}
 {134}{}{Tu as dit que Darion avait un chien ?}
 {135}{}{Merci du renseignement. Je m'en vais maintenant.}
-{136}{}{Eh bien, oui et non. Ce n'est pas par choix. Je suis prisonnier ici. Darion commence à se faire vieux et il a besoin d'un médecin pour s'occuper de lui jour et nuit. C'est pour ça que les Khans m'ont gardé. Je préférerais m'occuper des gens de la ville là-haut. Ils ne disposent d'aucune aide médicale et je pourrais  faire beaucoup pour eux.}
+{136}{}{Eh bien, oui et non. Ce n'est pas par choix. Je suis prisonnier ici. Darion commence à se faire vieux et il a besoin d'un médecin pour s'occuper de lui jour et nuit. C'est pour ça que les Khans m'ont gardé. Je préférerais m'occuper des gens de la ville là-haut. Ils ne disposent d'aucune aide médicale et je pourrais faire beaucoup pour eux.}
 {137}{}{Ok. Besoin savoir plus.}
 {138}{}{Merci. Au revoir.}
 {139}{}{C'est vraiment louable de ta part.}

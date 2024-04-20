@@ -54,7 +54,7 @@
 {250}{}{Je ne sais pas vraiment si c'est la bonne pièce. Tu devrais peut-être la ramener à la Cité de l'Abri pour vérifier. Finalement je ne pense pas pouvoir t'aider.}
 {251}{}{C'est certainement la bonne pièce. J'ai totalement confiance en tes compétences.}
 {252}{}{Tu dois avoir raison. Je ferais mieux de trouver un autre moyen d'installer cette pièce.}
-{260}{}{Je ne pense pas que ces gens de la Cité de l'Abri nous aiment tant que ça. Ca ne m'étonnerait pas qu'ils aient piégé cette pièce. Ca ressemble peut-être à la bonne pièce, mais c'est peut-être une bombe ! Tu ne  me duperas pas aussi facilement. Hors de question que j'installe cette pièce !}
+{260}{}{Je ne pense pas que ces gens de la Cité de l'Abri nous aiment tant que ça. Ca ne m'étonnerait pas qu'ils aient piégé cette pièce. Ca ressemble peut-être à la bonne pièce, mais c'est peut-être une bombe ! Tu ne me duperas pas aussi facilement. Hors de question que j'installe cette pièce !}
 {261}{}{Ecoute, niveau technique, tu m'as tout l'air d'un expert, alors s'il s'agissait d'une bombe, tu t'en serais déjà aperçu. S'il te plaît, installe la pièce.}
 {262}{}{Tu dois avoir raison. Je ferais mieux de trouver un autre moyen d'installer cette pièce.}
 {270}{}{Ok, j'y suis. Mais je ne sais toujours pas avec certitude s'il s'agit de la bonne pièce ou d'un piège quelconque. Tu sais, je dois préserver mes compétences, j'ai tellement de valeur. Je devrais peut-être demander à quelqu'un d'autre de le faire... Plus tard... Bien plus tard.}

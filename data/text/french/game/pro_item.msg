@@ -226,7 +226,7 @@
 {11301}{}{Les aubes des Enfants de la Cathédrale.}
 {11400}{}{Main de Tangler}
 {11401}{}{Un manipulateur cybernétique, qui à la forme exacte d'une main. Endommagé du fait d'un manque d'expertise au démontage.}
-{11500}{}{Super Luge}
+{11500}{}{Super Marteau}
 {11501}{}{Une Super Massue, fabriquée par la Confrérie de l'Acier, utilisant les dernières technologies en matière d'armement. Comprend un mécanisme de stockage d'énergie cinétique pour renforcer les percussions. FO min. : 5.}
 {11600}{}{l'Eventreur}
 {11601}{}{Une lame vibrante Ripper(tm). Alimentée par une petite cellule énergétique, les lames entraînées par une chaîne pénètrent et déchiquettent la cible. FO min : 4.}

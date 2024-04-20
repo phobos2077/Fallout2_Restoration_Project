@@ -6,7 +6,7 @@
 {105}{}{<Fffffrrrrr...> Je suis pas Daggit.}
 {106}{}{<Grrrrrrrrrrrrrrrr...>}
 {107}{}{Ouaf ! oua-oua-oua <Clic> ouaf !}
-{108}{}{<Pchiiit>  Miaou... erreur}
+{108}{}{<Pchiiit> Miaou... erreur}
 {109}{}{Ouafouafouafouafouafouaf !}
 {110}{}{<Grrr...>}
 {111}{}{Oua-houuuuuuuuu ! <Clic-clic> Oua-houuuuuuuuu !}
