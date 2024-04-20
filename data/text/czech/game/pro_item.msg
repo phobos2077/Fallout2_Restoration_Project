@@ -69,7 +69,7 @@
 {3500}{}{5mm JHP}
 {3501}{}{Zásobník malé lehké munice. Kalibr: 5mm, plášťová expanzní střela.}
 {3600}{}{5mm AP}
-{3601}{}{Zásobník malé lehké munice. 5mm průrazná střela.}
+{3601}{}{Zásobník malé lehké munice. Kalibr: 5mm, průrazná střela.}
 {3700}{}{Raketa AP}
 {3701}{}{Raketa s malým množstvím výbušniny. Navržena k prorážení pancíře.}
 {3800}{}{Malý energetický článek}
@@ -183,7 +183,7 @@
 {9200}{}{Radškorpioní ocas}
 {9201}{}{Oddělený ocas z radškorpiona.}
 {9300}{}{Vak}
-{9301}{}{Vak průměrné velikosti. Vyroben z brahmíní kůže.}
+{9301}{}{Pytel průměrné velikosti. Utkán z brahmíní kůže.}
 {9400}{}{Brokovnice}
 {9401}{}{Dvouhlavňová brokovnice Winchester Ovdovovač ráže 12. S krátkou hlavní a mahagonovou pažbou. Min. SÍ: 4.}
 {9500}{}{Brokové náboje ráže 12}

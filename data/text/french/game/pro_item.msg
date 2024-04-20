@@ -69,7 +69,7 @@
 {3500}{}{CCM de 5mm}
 {3501}{}{Munitions légères. Calibre : 5 mm, charges creuses à manchon.}
 {3600}{}{Balles perforantes de 5mm}
-{3601}{}{Munitions de petit calibre. 5 mm perforantes.}
+{3601}{}{Munitions petites et légères. Calibre : 5 mm, perforantes.}
 {3700}{}{Roquette perforante}
 {3701}{}{Une roquette avec une charge explosive plus réduite conçue pour percer les plaques de blindage.}
 {3800}{}{Petite cellule énergétique}

@@ -69,7 +69,7 @@
 {3500}{}{5mm JHP}
 {3501}{}{Un caricatore di munizioni piccole e leggere. Calibro: 5mm, camiciate a punta cava.}
 {3600}{}{5mm AP}
-{3601}{}{Un caricatore di munizioni piccolo calibro. 5mm perfora armature.}
+{3601}{}{Un caricatore di munizioni piccole e leggere. Calibro: 5mm, perfora armature.}
 {3700}{}{Razzo AP}
 {3701}{}{Un razzo con poco esplosivo, ma progettato per perforare piastre corazzate.}
 {3800}{}{Piccola Cella d'Energia}
