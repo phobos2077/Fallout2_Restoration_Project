@@ -30,8 +30,6 @@ procedure map_exit_p_proc;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
-#define LVAR_Said_Message               (0)
-
 procedure start
 begin
 end
