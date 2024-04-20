@@ -602,14 +602,14 @@ lockpick skill and perception to notice the lock.
 *********************************************************************************/
 #ifndef custom_Look_Locks
   procedure Look_Locks begin
-    variable Perception_Check;
+    variable Perception_Roll;
     variable Locks_Check;
 
-    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0);
+    Perception_Roll = roll_vs_stat(dude_obj, STAT_pe, 0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
 
-    if (is_success(Perception_Check)) then begin
-      if is_critical(Perception_Check) then begin
+    if (is_success(Perception_Roll)) then begin
+      if is_critical(Perception_Roll) then begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(114));
@@ -650,7 +650,7 @@ lockpick skill and perception to notice the lock.
       end                                                      // Regular Success (Stat_pe)
     end
 
-    else if is_critical(Perception_Check) then begin
+    else if is_critical(Perception_Roll) then begin
       if (is_success(Locks_Check)) then begin
         if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(146));
@@ -698,14 +698,14 @@ traps skill and perception to notice the trap.
 **********************************************************************************/
 #ifndef custom_Look_Traps
   procedure Look_Traps begin
-    variable Perception_Check;
+    variable Perception_Roll;
     variable Traps_Check;
 
-    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0);
+    Perception_Roll = roll_vs_stat(dude_obj, STAT_pe, 0);
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
 
-    if (is_success(Perception_Check)) then begin
-      if is_critical(Perception_Check) then begin
+    if (is_success(Perception_Roll)) then begin
+      if is_critical(Perception_Roll) then begin
         if (is_success(Traps_Check)) then begin
           if (is_critical(Traps_Check)) then begin
             display_msg(my_mstr(104));
@@ -746,7 +746,7 @@ traps skill and perception to notice the trap.
       end                                                      // Regular Success (Stat_pe)
     end
 
-    else if is_critical(Perception_Check) then begin
+    else if is_critical(Perception_Roll) then begin
       if (is_success(Traps_Check)) then begin
         if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(136));
@@ -795,21 +795,21 @@ on your lockpick and traps skills and perception to notice things.
 *************************************************************************************/
 #ifndef custom_Look_Traps_And_Locks
   procedure Look_Traps_And_Locks begin
-    variable Perception_Check;
+    variable Perception_Roll;
     variable Traps_Check;
     variable Locks_Check;
 
-    Perception_Check = roll_vs_stat(dude_obj, STAT_pe, 0);
+    Perception_Roll = roll_vs_stat(dude_obj, STAT_pe, 0);
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
 
-    if (is_success(Perception_Check)) then begin
+    if (is_success(Perception_Roll)) then begin
 
       /*************************************************************************************************/
 
       /* Critical Success of a Perception Check  (Start)*/
 
-      if is_critical(Perception_Check) then begin
+      if is_critical(Perception_Roll) then begin
 
         if (is_success(Traps_Check)) then begin
           set_local_var(LVAR_Found_Trap,1);                // player has found the trap
@@ -1013,7 +1013,7 @@ on your lockpick and traps skills and perception to notice things.
 
     /* Critical Failure of a Perception Check  (Start)*/
 
-    else if is_critical(Perception_Check) then begin
+    else if is_critical(Perception_Roll) then begin
       if (is_success(Traps_Check)) then begin
         set_local_var(LVAR_Found_Trap,1);                    // player has found the trap
 
