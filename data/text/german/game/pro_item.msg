@@ -69,7 +69,7 @@
 {3500}{}{5mm-TMG}
 {3501}{}{Kleine, leichte Munition. Kaliber: 5mm, Teilmantelgeschoß.}
 {3600}{}{5mm-PB}
-{3601}{}{Kleinkalibrige Munition. Kaliber: 5mm, Hartkerngeschoß.}
+{3601}{}{Kleine, leichte Munition. Kaliber: 5mm, Hartkerngeschoß.}
 {3700}{}{Panzerbrechende Rakete}
 {3701}{}{Rakete mit kleinerem Sprengsatz, doch konzipiert zum Durchschlagen von Rüstungen.}
 {3800}{}{Energiezelle}
@@ -183,7 +183,7 @@
 {9200}{}{Skorpionschwanz}
 {9201}{}{Der abgetrennte Schwanz eines Radskorpions.}
 {9300}{}{Tasche}
-{9301}{}{Tasche mittlerer Größe aus gewebtem Brahminhaar.}
+{9301}{}{Tasche mittlerer Größe. Aus gewebtem Brahminhaar.}
 {9400}{}{Schrotflinte}
 {9401}{}{Eine doppelläufige Winchester Widowmaker Schrotflinte, Kaliber 12. Mit kurzem Lauf und einem Mahagonischaft. Mindest-ST: 4.}
 {9500}{}{Kal.12 Schrotpatronen}

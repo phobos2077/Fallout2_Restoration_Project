@@ -183,7 +183,7 @@
 {9200}{}{Skorpiófarok}
 {9201}{}{Egy radskorpió levágott farka.}
 {9300}{}{Zsák}
-{9301}{}{Egy átlagos méretű szütyő. Szőtt brahminszőrből készült.}
+{9301}{}{Egy teljesen hétköznapi méretű zsák, melyet brahminszőrből szőttek.}
 {9400}{}{Sörétes puska}
 {9401}{}{Egy "Özvegyítő" becenevű Winchester márkajelzésű duplacsövű sörétes puska. Rövid cső, mahagóni markolat. Min ER: 4.}
 {9500}{}{Sörétes lőszer}
