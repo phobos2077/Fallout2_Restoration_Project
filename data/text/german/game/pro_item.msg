@@ -55,21 +55,21 @@
 {2800}{}{Gatling-Laser}
 {2801}{}{H&K L30 Gatling-Laser. Dieser für Militärzwecke entwickelte Laser befand sich zu Kriegsbeginn im Prototypstadium. Durch die Verwendung mehrerer Läufe kommt es nicht so schnell zur Überhitzung. Mindest-ST: 6.}
 {2900}{}{10mm-TMG}
-{2901}{}{Munition. Kaliber: 10mm, Teilmantelgeschoß.}
+{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
 {3000}{}{10mm-PB}
 {3001}{}{Munition. Kaliber: 10mm, Hartkerngeschoß.}
 {3100}{}{.44-TMG}
-{3101}{}{Munition. .44er Magnum, Teilmantelgeschoß.}
+{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
 {3200}{}{Brennstoff für Flammenwerfer}
 {3201}{}{Zylinder mit leicht entzündbarem Flüssigbrennstoff für Flammenwerfer.}
 {3300}{}{14mm-PB}
 {3301}{}{Großkalibrige Munition. Kaliber: 14mm, Hartkerngeschoß.}
 {3400}{}{.223-VMG}
-{3401}{}{Munition. .223er Kaliber, Vollmantelgeschoß.}
+{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
 {3500}{}{5mm-TMG}
 {3501}{}{Kleine, leichte Munition. Kaliber: 5mm, Teilmantelgeschoß.}
 {3600}{}{5mm-PB}
-{3601}{}{Kleinkalibrige Munition. Kaliber: 5mm, Hartkerngeschoß.}
+{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
 {3700}{}{Panzerbrechende Rakete}
 {3701}{}{Rakete mit kleinerem Sprengsatz, doch konzipiert zum Durchschlagen von Rüstungen.}
 {3800}{}{Energiezelle}
@@ -183,7 +183,7 @@
 {9200}{}{Skorpionschwanz}
 {9201}{}{Der abgetrennte Schwanz eines Radskorpions.}
 {9300}{}{Tasche}
-{9301}{}{Tasche mittlerer Größe aus gewebtem Brahminhaar.}
+{9301}{}{Tasche mittlerer Größe. Aus gewebtem Brahminhaar.}
 {9400}{}{Schrotflinte}
 {9401}{}{Eine doppelläufige Winchester Widowmaker Schrotflinte, Kaliber 12. Mit kurzem Lauf und einem Mahagonischaft. Mindest-ST: 4.}
 {9500}{}{Kal.12 Schrotpatronen}
@@ -218,8 +218,8 @@
 {10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
 {11001}{}{Einzigartiges Präparat, das seltsame, unbekannte chemische Substanzen enthält, die vermutlich militärischen Ursprungs sind. Soll die Kampffähigkeiten eines Soldaten verbessern.}
-{11100}{}{.44-VMG}
-{11101}{}{Munition. .44er Magnum, Vollmantelgeschoß.}
+{11100}{}{.44 Magnum FMJ}
+{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
 {11200}{}{Urne}
 {11201}{}{Wunderschöne Goldurne, auf deren Vorderseite der Name "Harriet" eingraviert ist. Gefüllt mit Asche.}
 {11300}{}{Robe}
@@ -912,7 +912,7 @@
 {46700}{}{Jesses Container}
 {46701}{}{}
 {46800}{}{Smittys Essen}
-{46801}{}{Eine Art Salat und ein Sandwich mit etwas, das wie Brahminfleisch aussieht und mit einer dicken dunkelgelben Sauce bedeckt ist. Als Beilage gibt es auch noch ein seltsam aussehendes, eingemachtes Gemüse.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Rachenputzer}
 {46901}{}{Du beschließt, dass es sich um ein sehr starkes alkoholisches Getränk oder ein Reinigungsmittel handeln muss.}
 {47000}{}{Ballknebel}

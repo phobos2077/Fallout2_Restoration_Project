@@ -55,21 +55,21 @@
 {2800}{}{Laserový gatling}
 {2801}{}{Rotační laser H&K L30. Určen výhradně pro armádní použití, avšak na začátku války byl teprve ve stádiu prototypu. Větší počet hlavní umožňuje delší střelbu bez přehřívání. Napájen mikro-fúzními články. Min. SÍ: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Munice. Kalibr: 10mm, plášťová expanzní střela.}
+{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
 {3000}{}{10mm AP}
 {3001}{}{Munice. Kalibr: 10mm, průrazná střela.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{Plášťové expanzní střely, kalibr .44.}
+{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
 {3200}{}{Náplň do plamenometu}
 {3201}{}{Tlaková nádoba obsahující vysoce hořlavou tekutinu pro plamenomet.}
 {3300}{}{14mm AP}
 {3301}{}{Velkorážová munice. Průrazná 14mm.}
 {3400}{}{.223 FMJ}
-{3401}{}{Munice. Kalibr .223, celoplášťová expanzní střela.}
+{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
 {3500}{}{5mm JHP}
 {3501}{}{Zásobník malé lehké munice. Kalibr: 5mm, plášťová expanzní střela.}
 {3600}{}{5mm AP}
-{3601}{}{Zásobník malé lehké munice. 5mm průrazná střela.}
+{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
 {3700}{}{Raketa AP}
 {3701}{}{Raketa s malým množstvím výbušniny. Navržena k prorážení pancíře.}
 {3800}{}{Malý energetický článek}
@@ -183,7 +183,7 @@
 {9200}{}{Radškorpioní ocas}
 {9201}{}{Oddělený ocas z radškorpiona.}
 {9300}{}{Vak}
-{9301}{}{Vak průměrné velikosti. Vyroben z brahmíní kůže.}
+{9301}{}{Pytel průměrné velikosti. Utkán z brahmíní kůže.}
 {9400}{}{Brokovnice}
 {9401}{}{Dvouhlavňová brokovnice Winchester Ovdovovač ráže 12. S krátkou hlavní a mahagonovou pažbou. Min. SÍ: 4.}
 {9500}{}{Brokové náboje ráže 12}
@@ -218,8 +218,8 @@
 {10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
 {11001}{}{Prostředek s unikátním aplikačním systémem obsahujícím neznámé chemikálie pravděpodobně vojenského původu. Všeobecně se má za to, že jeho použití zvyšuje bojové schopnosti vojáků.}
-{11100}{}{.44 magnum FMJ}
-{11101}{}{Zásobník munice ráže .44 magnum, celoplášťová expanzní střela.}
+{11100}{}{.44 Magnum FMJ}
+{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
 {11200}{}{Urna}
 {11201}{}{Nádherná zlatá urna s nápisem "Harriet".}
 {11300}{}{Róba}
@@ -912,7 +912,7 @@
 {46700}{}{Jesseho kontejner}
 {46701}{}{}
 {46800}{}{Smittyho jídlo}
-{46801}{}{Nějaký druh salátu a sendviče vyrobeného z něčeho, o čem si myslíš, že je brahmínní maso zalité tučnou žlutou omáčkou. To vše obloženo podivnou nakládanou zeleninou.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Rot Gut}
 {46901}{}{Velmi silný likér nebo čistící prostředek. Vyber si.}
 {47000}{}{Roubík}

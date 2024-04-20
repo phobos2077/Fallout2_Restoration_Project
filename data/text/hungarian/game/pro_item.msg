@@ -55,21 +55,21 @@
 {2800}{}{Lézer gépágyú}
 {2801}{}{H&K L30-as gyorstüzelő lézerágyú. Kifejezetten katonai használatra hozták létre, a háború kirobbanásakor még csak prototípusként létezett. Az öt cső lehetővé teszi, hogy hosszabb ideig lehessen vele tüzelni a túlmelegedés előtt. Mikro-fúziós elemekkel üzemel. Min. ER: 6.}
 {2900}{}{10 mm ÜH}
-{2901}{}{10 mm kaliberű köpenyes üregeshegyű lőszer.}
+{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
 {3000}{}{10 mm PT}
 {3001}{}{10 mm-es páncéltörő lövedék.}
 {3100}{}{,44 ÜH Magnum}
-{3101}{}{Egy tár ,44-es magnum típusú, üreges hegyű lőszer.}
+{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
 {3200}{}{Lángszóró üzemanyag}
 {3201}{}{Ez a tartály lángszórókba való fokozottan gyúlékony folyadékot tartalmaz.}
 {3300}{}{14 mm PT}
 {3301}{}{Nagy kaliberű, páncéltörő lőszer.}
 {3400}{}{,223 FK}
-{3401}{}{0,223 hüvelyk átmérőjű, fémköpenyes töltény.}
+{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
 {3500}{}{5 mm ÜH}
 {3501}{}{Egy tár, mely kis kaliberű lőszert tartalmaz. 5 mm-es átmerő és köpenyelt üreges hegy jellemzi.}
 {3600}{}{5 mm PT}
-{3601}{}{Ebben a tárban kis kaliberű, 5 mm-es páncéltörő muníció van.}
+{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
 {3700}{}{PT rakéta}
 {3701}{}{Rakéta, melyben kisebb robbanótöltet van, de páncéltörő tulajdonságokkal bír.}
 {3800}{}{Kis energiacella}
@@ -183,7 +183,7 @@
 {9200}{}{Skorpiófarok}
 {9201}{}{Egy radskorpió levágott farka.}
 {9300}{}{Zsák}
-{9301}{}{Egy átlagos méretű szütyő. Szőtt brahminszőrből készült.}
+{9301}{}{Egy teljesen hétköznapi méretű zsák, melyet brahminszőrből szőttek.}
 {9400}{}{Sörétes puska}
 {9401}{}{Egy "Özvegyítő" becenevű Winchester márkajelzésű duplacsövű sörétes puska. Rövid cső, mahagóni markolat. Min ER: 4.}
 {9500}{}{Sörétes lőszer}
@@ -218,8 +218,8 @@
 {10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Pszicho}
 {11001}{}{Valószínűleg katonai eredetű, ismeretlen vegyületeket tartalmazó szer. A katonák harci potenciálját hivatott növelni.}
-{11100}{}{,44-es FK magnum}
-{11101}{}{Egy tár fémköpenyes, .44-es magnum lőszer.}
+{11100}{}{.44 Magnum FMJ}
+{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
 {11200}{}{Urna}
 {11201}{}{Gyönyörű, aranyból készült urna, melyre a "Harriet" nevet gravírozták. Hamvakat tartalmaz.}
 {11300}{}{Köpeny}
@@ -912,7 +912,7 @@
 {46700}{}{Jesse tárolóedénye}
 {46701}{}{}
 {46800}{}{Smitty ebédje}
-{46801}{}{Valamiféle saláta és egy szendvics, melyben meglátásod szerint brahminhús van sötétsárga szósszal leöntve. A tányér szélén látsz még egy furcsa zöldséget is.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Rot Gut}
 {46901}{}{Ez egy igen erős likőr vagy tisztítószer. Nem tudod eldönteni.}
 {47000}{}{Szájpecek}

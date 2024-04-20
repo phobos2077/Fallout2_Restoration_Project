@@ -55,21 +55,21 @@
 {2800}{}{Laser Gatling}
 {2801}{}{Laser Gatling H&K L30. Spécialement conçues à des fins militaires, ces armes n'étaient encore que des prototypes au début de la Guerre. Les canons multiples permettent des tirs plus longs avant la surchauffe. Alimenté par des cellules à micro fusion. FO min: 6.}
 {2900}{}{CCM 10 mm}
-{2901}{}{Munitions. Calibre : 10 mm, charges creuses à manchon.}
+{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
 {3000}{}{Balles perforantes de 10 mm}
 {3001}{}{Munitions. Calibre : 10 mm, perforantes.}
 {3100}{}{CCM .44 Magnum}
-{3101}{}{Munitions, .44 Magnum, charges creuses à manchon.}
+{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
 {3200}{}{Combustible pour lance-flammes}
 {3201}{}{Un magasin contenant un liquide combustible hautement inflammable.}
 {3300}{}{Balles perforantes de 14 mm}
 {3301}{}{Munitions de gros calibre. 14 mm, perforantes.}
 {3400}{}{MEM .223}
-{3401}{}{Boîte de munitions, calibre .223, manchon entièrement métallique.}
+{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
 {3500}{}{CCM de 5mm}
 {3501}{}{Munitions légères. Calibre : 5 mm, charges creuses à manchon.}
 {3600}{}{Balles perforantes de 5mm}
-{3601}{}{Munitions de petit calibre. 5 mm perforantes.}
+{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
 {3700}{}{Roquette perforante}
 {3701}{}{Une roquette avec une charge explosive plus réduite conçue pour percer les plaques de blindage.}
 {3800}{}{Petite cellule énergétique}
@@ -218,8 +218,8 @@
 {10901}{}{Produit anti-radiations à absorber avant toute exposition. Aucun effet secondaire connu. Sans accoutumance.}
 {11000}{}{Psycho}
 {11001}{}{Un vecteur unique rempli de produits chimiques inconnus et étranges, probablement d'origine militaire. Supposé améliorer le potentiel de combat d'un soldat.}
-{11100}{}{MEM .44 Magnum}
-{11101}{}{Munitions, calibre .44 Magnum, manchon entièrement métallique.}
+{11100}{}{.44 Magnum FMJ}
+{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
 {11200}{}{Urne}
 {11201}{}{Une magnifique urne en or, comportant le nom « Harriet » à l'extérieur et des cendres à l'intérieur.}
 {11300}{}{Aubes}
@@ -912,7 +912,7 @@
 {46700}{}{Conteneur de Jesse}
 {46701}{}{}
 {46800}{}{Repas de Smitty}
-{46801}{}{Une sorte de salade, et un sandwich à ce qui te paraît être de la viande de Brahmine recouverte d'une épaisse sauce gris-jaune et accompagnée d'un légume vert bizarre conservé dans la saumure.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Tord-boyaux}
 {46901}{}{Un alcool très fort ou du liquide de refroidissement, à toi d'en décider.}
 {47000}{}{Bâillon à boule}

@@ -55,21 +55,21 @@
 {2800}{}{Gatling láser}
 {2801}{}{Una Gatling H&K L30 láser. Diseñada para uso militar, estaba en fase de prototipo al principio de la gran guerra. Sus múltiples cañones le permiten disparar varias veces antes de sobrecalentarse. Alimentada por células MF de microfusión. Min FU: 6.}
 {2900}{}{10mm BHC}
-{2901}{}{Munición calibre: 10mm, de punta hueca y chaqueta metálica.}
+{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
 {3000}{}{10mm PB}
 {3001}{}{Munición calibre: 10mm, perforante.}
 {3100}{}{.44 mágnum BHC}
-{3101}{}{Munición calibre .44 mágnum, de punta hueca.}
+{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
 {3200}{}{Comb. Lanzallamas}
 {3201}{}{Un cilindro que contiene un líquido combustible extremadamente inflamable para lanzallamas.}
 {3300}{}{14mm PB}
 {3301}{}{Munición de gran calibre. 14mm perforante.}
 {3400}{}{.223 CM}
-{3401}{}{Una caja de munición calibre .223, con chaqueta metálica.}
+{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
 {3500}{}{5mm BHC}
 {3501}{}{Una munición pequeña y ligera. Calibre: 5mm, de punta hueca y chaqueta metálica.}
 {3600}{}{5mm PB}
-{3601}{}{Munición de pequeño calibre, 5mm perforante.}
+{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
 {3700}{}{Cohete PB}
 {3701}{}{Un cohete con explosivo de pequeña potencia pero diseñado para perforar blindajes.}
 {3800}{}{Células PE}
@@ -183,7 +183,7 @@
 {9200}{}{Cola de escorpión}
 {9201}{}{La cola cortada de un escorpión rad.}
 {9300}{}{Maleta}
-{9301}{}{Una maleta de tamaño medio. Tejida con pelo de brahmin.}
+{9301}{}{Una bolsa de tamaño medio. Hecha con tejido de pelo de brahmin.}
 {9400}{}{Escopeta}
 {9401}{}{Una escopeta Winchester Widowmaker con dos cañones y calibre 12. De cañón corto, con asa en caoba. Min FU: 4.}
 {9500}{}{Cartuchos de escopeta calibre 12}
@@ -218,8 +218,8 @@
 {10901}{}{Producto químico anti-radiación que debe tomarse antes de la exposición. No tiene efectos secundarios conocidos.}
 {11000}{}{Psico}
 {11001}{}{Un elemento especial lleno de extraños y desconocidos componentes químicos de probable origen militar. Se supone que incrementa el potencial de combate de un soldado.}
-{11100}{}{.44 mágnum CM}
-{11101}{}{Munición de calibre .44 para mágnum, con chaqueta metálica.}
+{11100}{}{.44 Magnum FMJ}
+{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
 {11200}{}{Urna}
 {11201}{}{Un bonita urna dorada con el nombre "Harriet" inscrito en la parte frontal, que contiene cenizas.}
 {11300}{}{Túnica}
@@ -912,7 +912,7 @@
 {46700}{}{Recipiente de Jesse}
 {46701}{}{}
 {46800}{}{Comida de Smitty}
-{46801}{}{Algún tipo de ensalada y un sandwich de lo que crees que es carne de brahmin, cubierto con una espesa salsa de color amarillo oscuro. También tiene en un lado un extraño vegetal encurtido verde.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Aguardiente}
 {46901}{}{Un aguardiente muy fuerte o un producto de limpieza, tú decides.}
 {47000}{}{Mordaza}
