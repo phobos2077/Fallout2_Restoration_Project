@@ -69,7 +69,7 @@
 {3500}{}{5mm JHP}
 {3501}{}{Uma munição pequena e ligeira. Calibre: 5mm, de ponta oca e jaqueta metálica.}
 {3600}{}{5mm AP}
-{3601}{}{Municões de pequeno calibre. 5mm perfurante.}
+{3601}{}{Uma munição pequena e ligeira. Calibre: 5mm, perfurante.}
 {3700}{}{Rocket AP}
 {3701}{}{Um colete com explosivo de baixa potência, desenhado para perfurar blindagens.}
 {3800}{}{Pequenas Células de Energia}
