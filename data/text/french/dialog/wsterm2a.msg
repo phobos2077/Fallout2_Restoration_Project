@@ -9,7 +9,7 @@
 {109}{}{[Tenter de désactiver l'alarme]}
 {110}{}{[Quitter]}
 {111}{}{Arhh ! [Tu tapes du poing sur le clavier de rage]}
-{113}{}{Systèmes de sécurité Skynet                                         Attention ! Intrus détecté Niveau 1                                Scanner rétinien activé                                       Analyse                                                             Recherche dans la base de données}
+{113}{}{Systèmes de sécurité Skynet}
 {114}{}{Scanner Retinien Enclenché                                           Scan...                                                              Recherche dans la base de données}
 {115}{}{[Activer le système d'alarme Niveau 2]}
 {116}{}{[Exécuter le programme automatique de diagnostic]}
