@@ -372,9 +372,6 @@ type_02=pid:16777268, If (Rand(10%)), Script:1129                           ; Ma
 type_03=pid:16777269, If (Rand(15%)), Script:1129                           ; Female Orphan
 position=cone, spacing:2
 team_num=129      ; TEAM_RND_NOMAD
-;765 - chief
-;770 - shaman
-
 
 [Encounter: ARROK_Molerats]
 type_00=ratio:85%, pid:16777326, Script:617                     ; Molerats
@@ -774,7 +771,6 @@ type_02=ratio:25%, pid:16777437, Item:9(wielded), Item:(0-20)41, Script:787     
 type_03=ratio:25%, pid:16777437, Item:352(wielded), Item:(0-20)41, Script:787                              ; Homesteader female w/ H&K G11
 type_04=pid:16777269, Script:788                                                                           ; Homesteader child - female
 type_05=pid:16777268, Script:788                                                                           ; Homesteader child - male
-
 position=huddle, spacing:2
 
 [Encounter: RDRC_Broken_Hills_Caravan]
