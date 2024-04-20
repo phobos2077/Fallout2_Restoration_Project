@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - pixote-map-update
     paths:
       - "data/text/**"
 
