@@ -42,7 +42,7 @@
 {276}{}{Il fait beaucoup de sermons. Mais tout ça n'a pas beaucoup de sens.}
 {277}{}{C'est un beau... parleur.}
 {278}{}{Ouais, mais un jour ou l'autre, le boulot doit être fait. Et on m'appelle pour être sûr que tout arrive à bon port... comme cette sacoche.}
-{285}{}{[A part :] Bien sûr, quand on fait de la politique, ce n'est pas mal de savoir haranguer les foules...  [Il t'observe d'un air suspicieux.] Tu n'es pas de la RNC, hein ? Ce coureur de jupons de Moore est le seul que je supporte en ce moment.}
+{285}{}{[A part :] Bien sûr, quand on fait de la politique, ce n'est pas mal de savoir haranguer les foules... [Il t'observe d'un air suspicieux.] Tu n'es pas de la RNC, hein ? Ce coureur de jupons de Moore est le seul que je supporte en ce moment.}
 {286}{}{Ouais, je suis de la RNC moi aussi. C'est pas le top, mais on fait aller. J'ai toute la liberté d'action.}
 {287}{}{Non, je ne suis qu'un globe-trotter. J'ai accepté d'aider Moore parce que j'avais besoin de travailler.}
 {295}{}{[Il acquiesce.] Eh bien, ça en valait la peine. A l'intérieur, il y a une petite tranche de la Cité de l'Abri, un tech précieux dont cette salope de Lynette ne veut pas se séparer... Mais, tribal, je ne t'ai pas encore payé. Voici ta part.}
@@ -199,7 +199,7 @@
 {736}{}{Ca marche. Mets-moi sur la liste... patron.}
 {740}{}{D'accord... ! Comment veux-tu qu'on t'appelle ?}
 {741}{}{<Grmmble...>}
-{745}{}{... Ca me plaît. Maintenant, si tu veux tirer profit de ta réputation, descends au bar, ou va dans la Rue  de la Vierge, au Cat's Paw. Si tu veux des armes, va à l'Armurerie de New Reno.}
+{745}{}{... Ca me plaît. Maintenant, si tu veux tirer profit de ta réputation, descends au bar, ou va dans la Rue de la Vierge, au Cat's Paw. Si tu veux des armes, va à l'Armurerie de New Reno.}
 {746}{}{Ca marche... patron.}
 {750}{}{Hé, }
 {751}{}{. Tout le monde est-il aux petits soins avec toi ?}

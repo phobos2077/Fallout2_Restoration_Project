@@ -140,7 +140,7 @@
 {1241}{}{ ?}
 {1242}{}{. Comment vont les affaires ?}
 {1245}{}{ ! Et il est armé ! Préviens les autres !}
-{1250}{}{  ! Et elle est armée ! Préviens les autres !}
-{1255}{}{  rôde par ici ! Préviens les autres !}
+{1250}{}{ ! Et elle est armée ! Préviens les autres !}
+{1255}{}{ rôde par ici ! Préviens les autres !}
 {1335}{}{ ? T'as un problème avec quelqu'un en particulier dans la ville ?}
 {1350}{}{, hein ouais ? T'es bon sur le ring, l'meilleur que j'ai vu dans cette partie.}

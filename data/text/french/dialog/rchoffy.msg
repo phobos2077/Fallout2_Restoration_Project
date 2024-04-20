@@ -38,7 +38,7 @@
 {137}{}{Ah, oui. Je comprends. Ca explique certaines choses. Beaucoup de choses. Hé, hé.}
 {138}{}{Maintenant qu'on a éclairci ce point, je vais te poser une autre question.}
 {139}{}{Ouais, je parie que oui. Au revoir.}
-{140}{}{La Cité de l'Abri hein  ?! [Jimmy crache dédaigneusement] Ouais, je vais te parler de ces fils de pute. Ces foutus salauds pensent qu'on est pas assez bons pour eux. Ils nous vendent des médicaments uniquement parce qu'ils ont besoin de notre or. Sinon, ils nous laisseraient pourrir. Si j'étais toi, je ne m'y attarderais pas. Mais si tu veux y aller, Ben Wade part d'ici le 1er de chaque mois.}
+{140}{}{La Cité de l'Abri hein ?! [Jimmy crache dédaigneusement] Ouais, je vais te parler de ces fils de pute. Ces foutus salauds pensent qu'on est pas assez bons pour eux. Ils nous vendent des médicaments uniquement parce qu'ils ont besoin de notre or. Sinon, ils nous laisseraient pourrir. Si j'étais toi, je ne m'y attarderais pas. Mais si tu veux y aller, Ben Wade part d'ici le 1er de chaque mois.}
 {141}{}{Que peux-tu me dire sur New Reno ?}
 {142}{}{Que peux-tu me dire sur la RNC ?}
 {143}{}{Merci. Puis-je te poser une question ?}

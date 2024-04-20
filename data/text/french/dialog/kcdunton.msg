@@ -152,7 +152,7 @@
 {374}{}{J'ai cru voir une paire de pinces géantes de radscorpion par là-bas. Vous savez ce que c'est ?}
 {380}{}{Que veux-tu ? T'as oublié ce que tu devais faire ?}
 {381}{}{Non, je me rappelle. Je vais m'y mettre.}
-{382}{}{Vous êtes fous  ? Ils connaissent nos projets. Je suis là pour vous prévenir qu'il faut tout arrêter. Ils nous regardent sûrement en ce moment-même.}
+{382}{}{Vous êtes fous ? Ils connaissent nos projets. Je suis là pour vous prévenir qu'il faut tout arrêter. Ils nous regardent sûrement en ce moment-même.}
 {383}{}{J'ai oublié, tu veux bien me rappeler quel est notre plan, s'il te plaît ?}
 {384}{}{J'ai cru voir une paire de pinces géantes de radscorpion par là-bas. Vous savez ce que c'est ?}
 {390}{}{Des pinces géantes de radscorpion ? Hum, heu, on n'en sait rien du tout. De quoi parles-tu ?}
@@ -161,7 +161,7 @@
 {400}{}{Alors voilà, toi, tu emmènes Torr}
 {401}{}{Ca marche pour moi.}
 {402}{}{Pas question. Ne compte pas sur moi. Salut.}
-{403}{}{Vous êtes fous  ? Ils connaissent nos projets. Je suis là pour vous prévenir qu'il faut tout arrêter. Ils nous regardent sûrement en ce moment-même.}
+{403}{}{Vous êtes fous ? Ils connaissent nos projets. Je suis là pour vous prévenir qu'il faut tout arrêter. Ils nous regardent sûrement en ce moment-même.}
 {404}{}{Quand Torr arrive, toi, tu l'emmènes}
 {405}{}{ loin d'ici pendant un moment. Tu peux lui parler ou le mettre K.O Mais ne le tue pas, sinon on risque de s'attirer des ennuis. Pendant ce temps-là, on s'occupera des Brahmines. Viens chercher ta récompense demain, au magasin.}
 {410}{}{Tu as peut-être raison. [Il regarde autour de lui.] Je n'aime pas l'idée que quelqu'un me surveille.}

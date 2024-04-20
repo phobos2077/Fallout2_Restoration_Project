@@ -62,7 +62,7 @@
 {324}{}{Gerda, ce n'est pas une femme, n'est-ce pas ? Je n'ai aucune envie de me faire gratter le dos par un drag-queen bâti comme une armoire. Je m'en vais.}
 {330}{}{C'est un choix excellent si vous n'avez pas assez de temps et d'argent.}
 {340}{}{Je crois que vous apprécierez beaucoup.}
-{350}{}{Croyez-moi, vous vous souviendrez longtemps du  bain que Jenny vous donnera.}
+{350}{}{Croyez-moi, vous vous souviendrez longtemps du bain que Jenny vous donnera.}
 {360}{}{On ne fait pas ces trucs-là ici. Allez parler à mes fils, Chuck et Buck Dunton. Leurs Brahmines ont du succès avec certaines personnes.}
 {361}{}{Vous n'avez pas assez d'argent. Revenez quand vous pourrez payer.}
 {362}{}{Vous avez les yeux plus gros que le ventre. Essayez donc un bain moins cher.}

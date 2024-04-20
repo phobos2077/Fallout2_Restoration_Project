@@ -160,7 +160,7 @@
 {461}{}{[Tu la laisses vider son sac]}
 {462}{}{Oui, Ethyl... C'est une nouvelle preuve de l'influence maléfique de l'alcool. Il peut pousser les gens à faire des choses terribles. SURTOUT quand ses frères jumeaux, l'argent et le pouvoir, s'en mêlent.}
 {463}{}{Tu as peut-être besoin de rester seule quelque temps. A plus tard.}
-{470}{}{[La haine monte.] Je lui ferai TENIR sa promesse, même si je dois détruire cet alambic de mes mains. Puis Orville et moi,  allons avoir une discussion ! On verra ce que ce petit malin aura à dire !}
+{470}{}{[La haine monte.] Je lui ferai TENIR sa promesse, même si je dois détruire cet alambic de mes mains. Puis Orville et moi, allons avoir une discussion ! On verra ce que ce petit malin aura à dire !}
 {471}{}{Ne t'inquiète pas. J'en ai déjà fait mon affaire.}
 {472}{}{Où se trouve l'alambic ? Je peux me charger de le détruire pour toi.}
 {473}{}{Non, laisse-moi m'en occuper. C'est sous la gare, n'est-ce pas ? D'accord, je vais m'en occuper.}

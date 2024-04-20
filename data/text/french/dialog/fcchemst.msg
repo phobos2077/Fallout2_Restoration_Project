@@ -31,7 +31,7 @@
 {130}{}{En fait, ça m'intéresse. J'aimerais avoir du carburant pour le pétrolier Poséidon.}
 {131}{}{Je parie que ça pourrait intéresser les Hubologistes. Ils ont besoin de carburant.}
 {132}{}{Pas maintenant, non. Mais je vais revenir.}
-{133}{}{Ils veulent du carburant, c'est ça ? Bien,  aussi énervants qu'ils soient, ils ont leur utilité. J'ai entendu dire qu'ils avaient développé un processus rendant une SuperArmure encore plus indestructible. S'ils amélioraient ainsi une armure pour moi, je transférerai du carburant via le pipeline. Je suppose que c'est pour leur joujou, la navette spatiale. Tu devras t'adresser à un dénommé Crockett.}
+{133}{}{Ils veulent du carburant, c'est ça ? Bien, aussi énervants qu'ils soient, ils ont leur utilité. J'ai entendu dire qu'ils avaient développé un processus rendant une SuperArmure encore plus indestructible. S'ils amélioraient ainsi une armure pour moi, je transférerai du carburant via le pipeline. Je suppose que c'est pour leur joujou, la navette spatiale. Tu devras t'adresser à un dénommé Crockett.}
 {134}{}{Je le ferai.}
 {135}{}{Je ne peux rien te promettre.}
 {136}{}{J'en ai une juste là.}
@@ -48,7 +48,7 @@
 {147}{}{Transfère le carburant vers le pétrolier Poséidon.}
 {148}{}{Que penses-tu d'un peu d'argent ? Je dirai $}
 {149}{}{J'ai décidé de ne pas m'en séparer.}
-{150}{}{Considère que c'est fait. Je vais faire les réglages rapidement.  Maintenant, si tu veux bien m'excuser, je dois me remettre au travail.}
+{150}{}{Considère que c'est fait. Je vais faire les réglages rapidement. Maintenant, si tu veux bien m'excuser, je dois me remettre au travail.}
 {151}{}{Merci. Au revoir.}
 {152}{}{Tant que ça ? Ah ! Mais pour une SuperArmure aussi puissante à étudier... Très bien. Voici ton argent.}
 {153}{}{Merci. A la prochaine.}

@@ -2,22 +2,16 @@
 {101}{}{Tu vois une porte en métal.}
 {102}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un piège hautement explosif placé sur l'encadrement de la porte .}
 {103}{}{Tu vois une porte solide avec un verrou et un piège hautement explosif placé sur l'encadrement de la porte.}
-{104}{}{Tu vois une porte solide sans dispositif de verrouillage apparent
-que tu devrais pouvoir forcer,
-ainsi qu'un piège hautement explosif placé dans l'encadrement.}
+{104}{}{Tu vois une porte solide sans dispositif de verrouillage apparent que tu devrais pouvoir forcer, ainsi qu'un piège hautement explosif placé dans l'encadrement.}
 {105}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un piège hautement explosif placé sur l'encadrement de la porte que tu pourrais réussir à ouvrir avec un passe-partout.}
 {106}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un piège hautement explosif placé sur l'encadrement de la porte.}
 {107}{}{Tu vois une porte solide avec un verrou et un piège placé sur l'encadrement de la porte que tu pourrais réussir à ouvrir avec un passe-partout.}
-{108}{}{Tu vois une porte solide sans dispositif de verrouillage apparent
-que tu devrais pouvoir forcer,
-et un piège placé dans l'encadrement.}
-{109}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe, which you may be able to pry open.}
+{108}{}{Tu vois une porte solide sans dispositif de verrouillage apparent que tu devrais pouvoir forcer, et un piège placé dans l'encadrement.}
+{109}{}{Tu vois une porte solide avec un vieux verrou rouillé que tu pourrais crocheter avec un passe-partout, ainsi qu'un piège placé dans l'encadrement.}
 {110}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout) et un fil sectionné dans l'encadrement de la porte.}
-{111}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe, which you may be able to pry open.}
-{112}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte que tu pourrais réussir à ouvrir avec  un passe-partout.}
-{113}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte que tu pourrais réussir à ouvrir avec  un passe-partout.}
+{111}{}{Tu vois une porte solide avec un verrou que tu pourrais crocheter avec un passe-partout ainsi qu'un fil sectionné dans l'encadrement.}
+{112}{}{Tu vois une porte solide sans dispositif de verrouillage apparent et un fil sectionné sur l'encadrement de la porte que tu pourrais réussir à ouvrir avec un passe-partout.}
+{113}{}{Tu vois une porte robuste avec un vieux verrou rouillé et un fil sectionné sur l'encadrement de la porte que tu pourrais réussir à ouvrir avec un passe-partout.}
 {114}{}{Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-partout), que tu pourrais réussir à ouvrir.}
 {115}{}{Tu vois une porte solide avec un verrou que tu pourrais réussir à ouvrir.}
 {116}{}{Tu vois une porte solide sans dispositif de verrouillage apparent que tu pourrais réussir à ouvrir.}

@@ -23,7 +23,7 @@
 {122}{}{Oh ? T'as un problème ? Qu'est-ce que c'est ?}
 {123}{}{Le problème c'est que t'es débile.}
 {124}{}{Cherche pas plus loin. Quel est le problème ?}
-{125}{}{Notre purificateur d'air est cassé. Il se trouve au dernier niveau. On n'a pas de pièces de rechange, ni d'équipement de  protection. Sans les pièces, on peut pas réparer. Sans protection, le radon ne nous laisse aucune chance. T'es habile ?}
+{125}{}{Notre purificateur d'air est cassé. Il se trouve au dernier niveau. On n'a pas de pièces de rechange, ni d'équipement de protection. Sans les pièces, on peut pas réparer. Sans protection, le radon ne nous laisse aucune chance. T'es habile ?}
 {126}{}{Je vais bien.}
 {127}{}{Non. Pas vraiment.}
 {128}{}{Encore toi, hein ?}

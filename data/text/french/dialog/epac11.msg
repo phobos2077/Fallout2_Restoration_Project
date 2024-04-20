@@ -46,7 +46,7 @@
 {391}{}{C'est parti.}
 {392}{}{Non, pas encore.}
 {400}{}{Tu as besoin de quelque chose ?}
-{401}{}{Comment le Cat peut-il t'être utile ?}
+{401}{}{Comment le Cat peut t'être utile ?}
 {402}{}{Oui ?}
 {410}{}{Que veux-tu savoir ?}
 {411}{}{Hé bien, j'ai été entraîné à utiliser le matériel militaire standard. Fusils, pistolets, SMGs et équivalents, mais je préfère les armes laser et à énergie en général. Celles-là ont du style ! Mais si tu me donnes un poing américain ou un de ces SuperPoings, je me jetterai sur n'importe quel voyou de pied-plat avant qu'il comprenne que je le cogne !}

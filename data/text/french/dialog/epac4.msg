@@ -20,7 +20,7 @@
 {250}{}{Insolence ! Une telle insolence d'un tribal comme toi. Quand j'ai commencé ma formation, l'insolence était punie. Et punis nous étions ! Ecoute-moi, tribal. Que la langue fourchue des vôtres soit un jour la cause de ta mort.}
 {251}{}{Peut-être, peut-être. Et si ce jour devait venir, je ferais avec et c'est tout. Ce qui est certain, c'est qu'il ne viendra pas de toi. Tu n'es plus rien. Tu n'as rien pour commander, c'est pourquoi tu dissimules ta tristesse par de la colère. Depuis combien de temps les robots ont-ils arrêté de te répondre ?}
 {260}{}{Bien, comme tu as pu le deviner, les robots ne fonctionnent plus ici à l'EPA. Les consoles informatiques n'enregistrent plus mes commandes vocales et je n'ai pas de corps pour activer la console. Je ne peux protéger personne désormais. Pourrais-tu réparer l'ordinateur pour moi ? J'ai besoin de pouvoir commander les robots pour... bien pour des choses.}
-{261}{}{Mhmm, pourquoi pas ?  Je vais voir ce que je peux faire.}
+{261}{}{Mhmm, pourquoi pas ? Je vais voir ce que je peux faire.}
 {262}{}{Non, je n'ai pas le temps. Au revoir.}
 {270}{}{Bien je... fais.... [Soupir.] Tu as raison. Les robots ne peuvent désormais pas comprendre ce que je dis. Les ordinateurs ont cessé de fonctionner et en tant qu'hologramme je ne peux pas manipuler les commandes. Comme je le dis depuis longtemps, le centre a besoin d'être restauré et reconstruit. [Soupir.] Peut-être qu'un jour aurai-je de nouveau la force pour le faire.}
 {271}{}{Je pourrais peut-être t'aider d'une façon ou d'une autre ? Je suis assez bon avec les ordinateurs.}

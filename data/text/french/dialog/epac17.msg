@@ -36,7 +36,7 @@
 {202}{}{Quel est ce drôle de liquide verdâtre qu'il y a tout autour d'EPA ?}
 {203}{}{D'où sors-tu tout cet équipement ?}
 {210}{}{Ceux dans la première cellule sur ce mur sont des gens qui erraient ici par erreur et je les ai capturés pour les utiliser plus tard. Les autres qui ont l'air fort sont mes propres petits soldats pour... les cas de force majeure.}
-{211}{}{...pour les utiliser plus tard ?  Que veux-tu dire ?}
+{211}{}{...pour les utiliser plus tard ? Que veux-tu dire ?}
 {212}{}{Merci. Puis-je poser une autre question ?}
 {213}{}{Ok. Merci. Je dois partir maintenant.}
 {220}{}{Des produits chimiques et des réservoirs de FEV pour la plupart. Tout était stocké dans des barils ici à l'EPA pour plus de sécurité. Malheureusement, il y a eu un accident mineur et une énorme fuite de produits chimiques a forcé tout le monde sauf ces abrutis d'hologrammes à quitter l'EPA. Un peu de produits chimiques a coulé vers les niveaux inférieurs. Je l'utilise maintenant comme produit de recherche. Aujourd'hui, cela m'a permis d'obtenir des résultats étonnants !}
@@ -68,7 +68,7 @@
 {300}{}{Drogues spéciales ? Hum, Je suis en train de cultiver des nouveaux plants de Marijuana. C'est une drogue d'avant guerre que j'ai trouvé congelée dans les entrepôts. Je les ai seulement fait fumer par les créatures mutantes que tu vois ici, ce fut plus dangereux que je ne le pensais. Le premier essai n'a pas du tout était satisfaisant, de toute façon...}
 {301}{}{Je peux avoir un peu de cette drogue ?}
 {302}{}{Pourquoi le premier essai n'a pas du tout était satisfaisant ? Que s'est-il passé ?}
-{310}{}{M Chemmie ! Il est dans la section Nord-Est du dernier niveau d'EPA. Ou peut-être au Nord-Ouest... En fait, il est au premier niveau. Oh, je ne m'en souviens plus du  tout. C'est plein de machines. Tu ne peux pas te tromper.}
+{310}{}{M Chemmie ! Il est dans la section Nord-Est du dernier niveau d'EPA. Ou peut-être au Nord-Ouest... En fait, il est au premier niveau. Oh, je ne m'en souviens plus du tout. C'est plein de machines. Tu ne peux pas te tromper.}
 {311}{}{Ok. Merci. Tu as dit que tu avais créé des drogues spéciales. Quoi par exemple ?}
 {320}{}{Facilement. Je suis un scientifique. C'est mon boulot. l'expérimentation c'est ma vie. En fait, ça c'est juste un autre genre d'expérimentation.}
 {321}{}{Tu changes des choses qui ne devraient pas être changées ! Que fais-tu si les choses tournent mal ? Que fais-tu si tes cobayes humains meurent !?}
