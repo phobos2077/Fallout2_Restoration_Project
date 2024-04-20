@@ -13,8 +13,14 @@ jobs:
       - name: ShellCheck
         uses: ludeeus/action-shellcheck@master
 
-      - name: Run tests
-        run: ./extra/tests.sh
+      - name: Fallout tests
+        uses: BGforgeNet/fallout-tests@main
+        with:
+          scripts_h: scripts_src/headers/scripts.h
+          scripts_lst: data/scripts/scripts.lst
+          scripts_dir: scripts_src
+          dialog_dir: data/text/english/dialog
+          worldmap_path: false
 
       - name: Poify/Unpoify test
         uses: BGforgeNet/msg2po@master

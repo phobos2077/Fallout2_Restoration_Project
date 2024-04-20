@@ -2,8 +2,8 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-/* Random Encounter scripts. These will be filled in more once they
-   have been designed.
+/*
+   Random Encounter slave. Usually with slavers around.
 */
 
 
@@ -14,13 +14,50 @@
 
 #include "../headers/command.h"
 
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+
 procedure start;
 procedure talk_p_proc;
+procedure slaves_attacked;
 
 procedure start begin
    set_self_team(TEAM_RND_SLAVE);
+   set_self_ai(AI_SLAVE);
 end
 
 procedure talk_p_proc begin
-   floater(random(100,104));
+   floater(random(100, 104));
+end
+
+procedure critter_p_proc begin
+   if (local_var(LVAR_Hostile) == 2) and self_can_see_dude then begin
+      call slaves_attacked;
+      set_local_var(LVAR_Hostile, 1);
+      attack(dude_obj);
+   end
+end
+
+// slavers protect their merchandise
+procedure slaves_attacked begin
+   variable who;
+   foreach who in list_as_array(LIST_CRITTERS) begin
+      if get_team(who) == TEAM_RND_SLAVER then set_team(who, TEAM_RND_SLAVE);
+   end
+end
+
+procedure damage_p_proc begin
+   if source_obj == dude_obj then begin
+      set_local_var(LVAR_Personal_Enemy, 1);
+   end
+end
+
+procedure pickup_p_proc begin
+   if source_obj == dude_obj then begin
+      set_local_var(LVAR_Hostile, 2);
+   end
+end
+
+procedure destroy_p_proc begin
+   inc_good_critter
 end
