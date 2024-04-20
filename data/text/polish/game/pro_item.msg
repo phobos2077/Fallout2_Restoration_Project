@@ -55,21 +55,21 @@
 {2800}{}{laser Gatlinga}
 {2801}{}{Laser wielolufowy Heckler & Koch L30 Gatling. Na początku Wojny znajdował się w stadium prototypowym. Wielolufowość pozwala na wolniejsze przegrzewanie się w trakcie walki. Min. SI: 6.}
 {2900}{}{amunicja 10 mm JHP}
-{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
+{2901}{}{Amunicja. Kaliber 10 mm, pociski półpłaszczowe z wydrążonym wierzchołkiem.}
 {3000}{}{amunicja 10 mm AP}
 {3001}{}{Amunicja. Pociski przeciwpancerne kaliber 10 mm.}
 {3100}{}{amunicja 0,44 cala Magnum JHP}
-{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
+{3101}{}{Pociski kaliber 0,44 Magnum, półpłaszczowe z wydrążonym wierzchołkiem.}
 {3200}{}{paliwo do miotacza ognia}
 {3201}{}{Pojemnik zawierający łatwopalną ciecz służącą jako paliwo do miotaczy ognia.}
 {3300}{}{amunicja 14 mm AP}
 {3301}{}{Amunicja wielkokalibrowa. Pociski przeciwpancerne 14 mm.}
 {3400}{}{amunicja 5,56 mm FMJ}
-{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
+{3401}{}{Amunicja kalibru 5,56 mm, pociski pełnopłaszczowe.}
 {3500}{}{amunicja 5 mm JHP}
 {3501}{}{Amunicja małokalibrowa. Pociski 5 mm typu dum-dum, półpłaszczowe z wydrążonym wierzchołkiem.}
 {3600}{}{amunicja 5 mm AP}
-{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
+{3601}{}{Amunicja małokalibrowa. Pociski przeciwpancerne 5 mm.}
 {3700}{}{przeciwpancerna rakieta kumulacyjna}
 {3701}{}{Pocisk rakietowy z mniejszą ilością materiału wybuchowego, uformowanego w ładunek kumulacyjny, zdolny do przebicia naprawdę grubego pancerza.}
 {3800}{}{małe ogniwo energetyczne}
@@ -218,8 +218,8 @@
 {10901}{}{Narkotyk antyradiacyjny (uwaga, należy stosować go PRZED wystawieniem się na promieniowanie). Brak znanych efektów ubocznych.}
 {11000}{}{Psycho.}
 {11001}{}{Unikalny system wstrzykiwania, napełniony niezidentyfikowanymi specyfikami, prawdopodobnie produkcji wojskowej. Ich zadaniem jest zwiększanie potencjału bojowego użytkownika.}
-{11100}{}{.44 Magnum FMJ}
-{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
+{11100}{}{amunicja 0,44 cala Magnum FMJ}
+{11101}{}{Amunicja kalibru 0,44 cala Magnum, pociski pełnopłaszczowe.}
 {11200}{}{urna}
 {11201}{}{Piękna, złota urna z wygrawerowanym z przodu imieniem "Harriet". Zawiera prochy.}
 {11300}{}{habit}
@@ -912,7 +912,7 @@
 {46700}{}{pojemnik Jessego}
 {46701}{}{}
 {46800}{}{posiłek Smittego}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
+{46801}{}{Wygląda to na jakąś sałatkę i kanapkę z bramininą (chyba) pokrytą gęstym, ciemnożółtym sosem. Z boku widać również dziwne, zielone warzywo konserwowe.}
 {46900}{}{Rot Gut}
 {46901}{}{Bardzo mocny alkohol lub środek czyszczący, zależnie od potrzeby.}
 {47000}{}{Knebel}

@@ -55,21 +55,21 @@
 {2800}{}{Mitra Laser}
 {2801}{}{Un mitragliatore laser H&K L30. Progettata per uso militare, tale arma era un prototipo all'inizio della Guerra. Le canne multiple consentono un volume di fuoco maggiore prima del surriscaldamento. Alimentato da Celle a Micro-Fusione. Min FZ: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
+{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava}
 {3000}{}{10mm AP}
 {3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
+{3101}{}{Un caricatore, calibro .44 magnum, punta cava.}
 {3200}{}{Gel per Lanciafiamme}
 {3201}{}{Un cilindro contenente un liquido estremamente infiammabile, usato come carburante per lanciafiamme.}
 {3300}{}{14mm AP}
 {3301}{}{Munizioni grosso calibro. 14mm, perfora armature.}
 {3400}{}{.223 FMJ}
-{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
+{3401}{}{Una scatola di munizioni, calibro .223, Full Metal Jacket.}
 {3500}{}{5mm JHP}
 {3501}{}{Un caricatore di munizioni piccole e leggere. Calibro: 5mm, camiciate a punta cava.}
 {3600}{}{5mm AP}
-{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
+{3601}{}{Un caricatore di munizioni piccole e leggere. Calibro: 5mm, perfora armature.}
 {3700}{}{Razzo AP}
 {3701}{}{Un razzo con poco esplosivo, ma progettato per perforare piastre corazzate.}
 {3800}{}{Piccola Cella d'Energia}
@@ -218,8 +218,8 @@
 {10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psichiatra}
 {11001}{}{Una fiala monodose riempita con strane sostanze chimiche di probabile origine militare. Dovrebbe aumentare il potenziale in combattimento di un soldato.}
-{11100}{}{.44 Magnum FMJ}
-{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
+{11100}{}{.44 magnum FMJ}
+{11101}{}{Un caricatore di munizioni, calibro .44 magnum, full metal jacket.}
 {11200}{}{Urna}
 {11201}{}{Una splendida urna dorata, con il nome "Harriet" inciso sul davanti e con un pugno di cenere all'interno.}
 {11300}{}{Saio}
@@ -912,7 +912,7 @@
 {46700}{}{Contenitore di Jesse}
 {46701}{}{}
 {46800}{}{Pranzo di Smitty}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
+{46801}{}{E' un qualche tipo di insalata e un sandwich fatto con quella che tu pensi essere carne di brahmin con uno spesso strato di una salsa giallo scuro. C'e' anche uno strano vegetale verde sott'aceto come contorno.}
 {46900}{}{Tritabudella}
 {46901}{}{Delle due l'una: o e' un liquore molto forte, oppure e' detersivo concentrato.}
 {47000}{}{Apribocca a Palla}

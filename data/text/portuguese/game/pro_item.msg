@@ -55,21 +55,21 @@
 {2800}{}{Gatling Laser}
 {2801}{}{Uma Gatling Laser L30 H & K. Projetado especificamente para uso militar, estava em fase de protótipo no início da guerra. Seus multiplos barris permitem mais tiros sem superaquecimento. Desenvolvido por células de Micro Fusão. Min. FO: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
+{2901}{}{Munições calibre: 10mm, ponta oca e jaqueta metálica.}
 {3000}{}{10mm AP}
 {3001}{}{Munições calibre: 10mm, perfurante.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
+{3101}{}{Munições calibre: .44 Magnum, ponta oca.}
 {3200}{}{Flamethrower Fuel}
 {3201}{}{Um cilindro contendo um combustível líquido extremamente inflamável para lança-chamas.}
 {3300}{}{14mm AP}
 {3301}{}{Munições de grande calibre. 14mm perfurante.}
 {3400}{}{.223 FMJ}
-{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
+{3401}{}{Uma caixa de munições calibre .223, com jaqueta metálica.}
 {3500}{}{5mm JHP}
 {3501}{}{Uma munição pequena e ligeira. Calibre: 5mm, de ponta oca e jaqueta metálica.}
 {3600}{}{5mm AP}
-{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
+{3601}{}{Uma munição pequena e ligeira. Calibre: 5mm, perfurante.}
 {3700}{}{Rocket AP}
 {3701}{}{Um colete com explosivo de baixa potência, desenhado para perfurar blindagens.}
 {3800}{}{Pequenas Células de Energia}
@@ -218,8 +218,8 @@
 {10901}{}{Drogas anti-radiação a devem ser tomadas antes da exposição. Sem efeitos colaterais conhecidos.}
 {11000}{}{Psycho}
 {11001}{}{Um elemento único com produtos químicos estranhos e desconhecidos, provavelmente de origem militar. Supõe-se que é para aumentar a potencial de combate de um soldado.}
-{11100}{}{.44 Magnum FMJ}
-{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
+{11100}{}{.44 magnum FMJ}
+{11101}{}{Munição de calibre .44 para magnum, com jaqueta metálica.}
 {11200}{}{Urna}
 {11201}{}{Uma bonita urna dourada com o nome de "Harriet" inscrito na parte da frente e de cor cinzas no interior.}
 {11300}{}{Robes}
@@ -912,7 +912,7 @@
 {46700}{}{Recipiente de Jesse}
 {46701}{}{}
 {46800}{}{Refeição de Smitty}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
+{46801}{}{É algum tipo de salada e um sanduíche feito do que você acha que é carne de Brahmin coberto com um molho amarelo. Há também ao lado um estanho vegetal verde em conserva.}
 {46900}{}{Aguardente}
 {46901}{}{Uma bebidas alcoólica muito forte ou fluido de limpeza, você decide.}
 {47000}{}{Mordaça}
