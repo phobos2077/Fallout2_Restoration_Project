@@ -54,12 +54,12 @@
 {153}{}{Idióta.}
 {154}{}{MICSODA?! TE LOPNI AKARSZ TŐLEM?!}
 {155}{}{HALÁL RÁD!}
-{156}{}{Disintegrate the player with plasma death animation.}
+{156}{}{Dezintegrálja a játékost egy plazma halál animációval.}
 {200}{}{(12 órával később)}
-{1129}{}{Me Chosen One.}
+{1129}{}{Én Kiválasztott.}
 {1134}{}{Me am too.}
-{1136}{}{Am too!}
+{1136}{}{Én is!}
 {1138}{}{[Bólogatsz].}
 {1140}{}{[Bólogatsz].}
 {1142}{}{De... De...}
-{1148}{}{Tankee!}
+{1148}{}{Köszkee.}

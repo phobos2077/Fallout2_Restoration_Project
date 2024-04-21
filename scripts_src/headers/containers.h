@@ -87,7 +87,7 @@ free up the space.
   procedure damage_p_proc begin
     variable Trap_Damage;
     /************ Wood Door ****************/
-    
+
     if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
       if (DOOR_STATUS == STATE_WOOD) then begin
         if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
@@ -97,16 +97,16 @@ free up the space.
           explosion(self_tile, self_elevation, Trap_Damage);
           destroy_object(self_obj);
         end
-        
+
         else begin
           set_local_var(LVAR_Trapped, STATE_INACTIVE);
           set_local_var(LVAR_Locked, STATE_INACTIVE);
           destroy_object(self_obj);
         end
       end
-      
+
       /************ Metal Door ****************/
-      
+
       else if ((DOOR_STATUS == STATE_METAL) or (DOOR_STATUS == STATE_FRIDGE)) then begin
         set_local_var(LVAR_Explosion_Attempts,local_var(LVAR_Explosion_Attempts)+1);
         if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
@@ -114,7 +114,7 @@ free up the space.
           Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
           explosion(self_tile, self_elevation, Trap_Damage);
         end
-        
+
         else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
           set_local_var(LVAR_Trapped, STATE_INACTIVE);
           set_local_var(LVAR_Locked,STATE_INACTIVE);
@@ -165,15 +165,15 @@ procedure. it will check to see if the door is trapped and locked.
   procedure use_p_proc begin
     /* Trap_Roll is a global variable to this script, defined at the beginning
     of the script. */
-    
+
     Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
-    
+
     if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
       if (is_success(Traps_Roll)) then begin
         script_overrides;
         set_local_var(LVAR_Found_Trap,1);
         reg_anim_clear(source_obj);
-        
+
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(204));
         end
@@ -181,7 +181,7 @@ procedure. it will check to see if the door is trapped and locked.
           display_msg(my_mstr(205));
         end
       end
-      
+
       else begin
         if (obj_is_locked(self_obj)) then begin
           script_overrides;
@@ -193,12 +193,12 @@ procedure. it will check to see if the door is trapped and locked.
         end
       end
     end
-    
+
     else if (obj_is_locked(self_obj)) then begin
       script_overrides;
       display_msg(my_mstr(203));
     end
   end
 #endif
-  
+
 #endif // CONTAINERS_H

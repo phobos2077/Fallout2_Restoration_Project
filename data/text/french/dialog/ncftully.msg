@@ -293,7 +293,7 @@
 {2025}{}{J'en avais, mais je l'ai bu. Whaou c'était puissant comme truc.}
 {2026}{}{Non désolé.}
 {2027}{}{Hé hé. Tu m'étonnes. Ca fait tellement longtemps que j'en ai pas bu. Je m'en ferai bien une bouteille ou deux. Il y a des chances que tu repasses par l'Abbaye, un de ces quatre ?}
-{2028}{}{Quel dommage.  Ca fait tellement longtemps que j'en ai pas bu. Je m'en ferai bien une bouteille ou deux. Il y a des chances que tu repasses par l'Abbaye, un de ces quatre ?}
+{2028}{}{Quel dommage. Ca fait tellement longtemps que j'en ai pas bu. Je m'en ferai bien une bouteille ou deux. Il y a des chances que tu repasses par l'Abbaye, un de ces quatre ?}
 {2029}{}{C'est vrai ? Ca fait tellement longtemps que j'en ai pas bu. Tu pourrais m'en donner un peu ?}
 {2030}{}{Certainement. Je vous en garde une la prochaine fois que j'y passe. A plus tard, mon Père.}
 {2031}{}{Je ne crois pas, non. Allez, salut.}

@@ -60,8 +60,7 @@
 {140}{}{Danke für die Nutzung von EnklaveNet. Abmeldung... }
 {141}{}{Fertig.}
 {142}{}{Befehl?}
-{143}{}{Unautorisierte Aktivität im Hauptcomputerkomplex entdeckt. Sicherheitsalarm.
- Sicherheitsalarm.}
+{143}{}{Unautorisierte Aktivität im Hauptcomputerkomplex entdeckt. Sicherheitsalarm. Sicherheitsalarm.}
 {144}{}{Initialisiere Willkommensprogramm.}
 {145}{}{Mist!}
 {146}{}{Sicherheitssystemabschaltung läuft.}

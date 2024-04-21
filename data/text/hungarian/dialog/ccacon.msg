@@ -1,7 +1,7 @@
 {100}{}{Egy embert látsz a hadsereg egyenruhájában.}
 {101}{}{Egy embert látsz a hadsereg egyenruhájában.}
 {102}{}{Ez az ember a hadsereg egyenruháját viseli, de inkább látszik technikusnak, mint katonának.}
-{103}{}{Hey. How's it going?}
+{103}{}{Mi a helyzet?}
 {104}{}{Képben vagy ám... viszont most épp dolgom van.}
 {105}{}{Most nem beszélhetek veled.}
 {106}{}{Nézelődni lehet, de hozzá ne nyúlj semmihez!}

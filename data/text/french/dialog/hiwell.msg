@@ -1,6 +1,6 @@
 {100}{}{Tu vois le puits des Collines Brisées.}
 {101}{}{Le puits de la ville est construit avec des briques cassées et branlantes. Une odeur nauséabonde émane de dessous.}
-{102}{}{Te souvenant ce que Typhon a dit au sujet de la cache *indispensable* du trésor, et  *qui ne serait probablement pas détruite ou labourée*, tu procèdes à une vérification minutieuse du vieux puits. Un peu plus en profondeur, tu remarques une brique mal fixée dans le mur.}
+{102}{}{Te souvenant ce que Typhon a dit au sujet de la cache *indispensable* du trésor, et *qui ne serait probablement pas détruite ou labourée*, tu procèdes à une vérification minutieuse du vieux puits. Un peu plus en profondeur, tu remarques une brique mal fixée dans le mur.}
 {103}{}{Ouaaaaaaiiis ! Le trézooor !}
 {104}{}{Super ! Je vais devenir riche !}
 {105}{}{Retirant délicatement la brique du mur, tu regardes dans l'obscurité, admirant le butin que tu as amassé.}

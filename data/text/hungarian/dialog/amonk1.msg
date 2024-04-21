@@ -1,5 +1,5 @@
 {100}{}{You see a monk.}
-{101}{}{You see a holy woman.}
+{101}{}{Egy szent nőt látsz.}
 {102}{}{You see a regular Abbey monk.}
 {103}{}{You see a regular Abbey nun.}
 {200}{}{Welcome traveler.}

@@ -464,7 +464,7 @@ variable check_still_kill;
                                                          if (x == still_status_wrecked) then begin                               \
                                                             if (get_still_status(still_status_wrecked) == false) then begin      \
                                                                inc_reno_rep(REP_NEW_RENO_DESTROY_WRIGHT_STILLS);                 \
-                                                               /*display_mstr(200);                                                */\
+                                                               /*display_mstr(200);*/                                            \
                                                                if (get_still_mission(still_mission_assigned)) then begin         \
                                                                   give_xp(EXP_NEW_RENO_DESTROY_STILL);                           \
                                                                end                                                               \
@@ -1570,7 +1570,7 @@ variable check_still_kill;
 #define round_time_over                               ((seconds_til_round_over <= 0) and (currently_fighting))
 #define set_new_round_time                            set_global_var(GVAR_NEW_RENO_ROUND_TIME, game_time + ONE_GAME_MINUTE)
 
-#define move_boxers_to_corners                        ndebug("move_boxers_to_corners: start");              \
+#define move_boxers_to_corners                        ndebug("move_boxers_to_corners: start");                 \
                                                       move_to(dude_obj, 24479, self_elevation);                \
                                                       critter_uninjure(dude_obj, DAM_KNOCKED_DOWN);            \
                                                       if ((prize_fighter_obj != 0) and (killed_opponent == false)) then begin   \
@@ -1582,7 +1582,7 @@ variable check_still_kill;
                                                       end                                                      \
                                                       animate_stand_obj(dude_obj);                             \
                                                       ndebug("move_boxers_to_corners: end");
-#define start_boxing_match                            ndebug("start boxing match: start");                  \
+#define start_boxing_match                            ndebug("start boxing match: start");                     \
                                                       gfade_out(ONE_GAME_SECOND);                              \
                                                          set_fight_is_on;                                      \
                                                          set_ui_should_be_disabled;                            \
@@ -1622,7 +1622,7 @@ variable check_still_kill;
                                                       ndebug("start boxing match: end")
 #define heal_boxer(x)                                 critter_heal(x, get_critter_stat(x, STAT_en))
 
-#define start_boxing_round                            ndebug("start boxing round: start");                  \
+#define start_boxing_round                            ndebug("start boxing round: start");                     \
                                                       gfade_out(ONE_GAME_SECOND);                              \
                                                          game_time_advance(ONE_GAME_MINUTE);                   \
                                                          check_set_obj_visiblility(announcer_obj, true);       \
@@ -1640,9 +1640,9 @@ variable check_still_kill;
                                                          gfade_out(ONE_GAME_SECOND);                                          \
                                                          check_set_obj_visiblility(announcer_obj, true);                      \
                                                          check_set_obj_visiblility(ring_girl_obj, true);                      \
-                                                         ndebug("end boxing round start");                                 \
+                                                         ndebug("end boxing round start");                                    \
                                                          set_ui_should_be_disabled;                                           \
-                                                         ndebug("combat terminated");                                      \
+                                                         ndebug("combat terminated");                                         \
                                                          set_global_var(GVAR_NEW_RENO_ROUND_TIME, 0);                         \
                                                          inc_global_var(GVAR_NEW_RENO_ROUND_NUMBER);                          \
                                                          animate_stand_obj(dude_obj);                                         \
@@ -1650,7 +1650,7 @@ variable check_still_kill;
                                                             animate_stand_obj(prize_fighter_obj);                             \
                                                          end                                                                  \
                                                          if (check_fight_status(fight_status_fighting)) then begin            \
-                                                            ndebug("check_fight_status(fight_status_fighting)");           \
+                                                            ndebug("check_fight_status(fight_status_fighting)");              \
                                                             move_boxers_to_corners                                            \
                                                             inc_dude_score(9);                                                \
                                                             inc_boxer_score(9);                                               \
@@ -1678,7 +1678,7 @@ variable check_still_kill;
                                                       gfade_in(ONE_GAME_SECOND);                                              \
                                                       ndebug("end boxing round end")
 
-#define call_fight_over                               ndebug("call fight over: start");                           \
+#define call_fight_over                               ndebug("call fight over: start");                              \
                                                       gfade_out(ONE_GAME_SECOND);                                    \
                                                          set_global_var(GVAR_NEW_RENO_ROUND_TIME, 0);                \
                                                          set_ui_should_be_disabled;                                  \
@@ -1707,7 +1707,7 @@ variable check_still_kill;
 #define win_boxing_match(x)                           set_fight_status(x);             \
                                                       call_fight_over;                 \
                                                       ndebug("win boxing match: " + self_name)
-#define cleanup_boxing_match                          ndebug("cleanup boxing match: start");                                                                                                                                  \
+#define cleanup_boxing_match                          ndebug("cleanup boxing match: start");                                                                                                                                     \
                                                       gfade_out(ONE_GAME_SECOND);                                                                                                                                                \
                                                          set_ui_should_be_disabled;                                                                                                                                              \
                                                          off_fight_is_on;                                                                                                                                                        \
@@ -1988,7 +1988,7 @@ variable hs_temp;
 #define helicopter_script_combat_p_proc
 
 #define helicopter_script_node998                                                \
-         ndebug("helicopter_script_node998");                                 \
+         ndebug("helicopter_script_node998");                                    \
          set_hostile;                                                            \
          if (get_guard_assignment(guard_assignment_none) == false) then begin    \
             set_guard_assignment(guard_assignment_failed);                       \
@@ -2027,14 +2027,14 @@ variable hs_temp;
 #define abort_mission_distance                  (5)
 #ifdef GENERIC_HS_GUARD
    #define helicopter_script_timed_event_p_proc                                                          \
-            ndebug("generic guard watching player");                                                  \
+            ndebug("generic guard watching player");                                                     \
             if (salvatore_guard_obj == self_obj) then begin                                              \
                if (get_guard_assignment(guard_assignment_assigned)) then begin                           \
                   if (tile_distance(hs_assignment_tile, dude_tile) <= safe_distance) then begin          \
-                     ndebug("you're in a safe spot, resetting said_message");                         \
+                     ndebug("you're in a safe spot, resetting said_message");                            \
                      off_said_message;                                                                   \
                   end else if (tile_distance(hs_assignment_tile, dude_tile) <= abort_mission_distance) then begin \
-                     ndebug("getting into some bad mojo now");                                        \
+                     ndebug("getting into some bad mojo now");                                           \
                      if ((said_message == false) and (salvatore_guard_obj != 0)) then begin              \
                         set_said_message;                                                                \
                         reg_anim_clear(dude_obj);                                                        \
@@ -2324,10 +2324,10 @@ variable hs_temp;
                                                                      end                                                      \
                                                                   end                                                         \
                                                                end else begin                                                 \
-                                                                  ndebug("obj_on_family_property(dude_obj, self_family)"); \
+                                                                  ndebug("obj_on_family_property(dude_obj, self_family)");    \
                                                                end                                                            \
                                                             end else begin                                                    \
-                                                               ndebug("WARNING_IGNORE_ALL_CASE == false");                 \
+                                                               ndebug("WARNING_IGNORE_ALL_CASE == false");                    \
                                                             end                                                               \
                                                          end                                                                  \
                                                          check_should_weild_weapon                                            \

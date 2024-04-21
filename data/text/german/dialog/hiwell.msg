@@ -36,7 +36,7 @@
 {135}{}{[Micky bindet den Sack an das Seil und Du ziehst es hoch. Er ist ganz schön schwer. Vielleicht irrt sich Micky.]}
 {136}{}{Gucken, gucken!}
 {137}{}{Mal sehen, was wir hier haben.}
-{138}{}{[Im vollen Genuss des Adrenalinstoßes, der Dich durchläuft, öffnest Du schwungvoll den Sack. Das Gewebe des Sacks  bricht auseinander und enthüllt .....]}
+{138}{}{[Im vollen Genuss des Adrenalinstoßes, der Dich durchläuft, öffnest Du schwungvoll den Sack. Das Gewebe des Sacks bricht auseinander und enthüllt .....]}
 {139}{}{Und, und?}
 {140}{}{Was ist es?}
 {141}{}{10000 Flaschendeckel.}

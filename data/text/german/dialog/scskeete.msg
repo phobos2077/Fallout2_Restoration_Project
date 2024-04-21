@@ -44,7 +44,7 @@
 {136}{}{Du kannst mich mal. Von mir kriegst du keine Antwort.}
 {137}{}{Was ist das für ein Ort?}
 {138}{}{Wiedersehn.}
-{139}{}{Bye-bye.}
+{139}{}{Tschüssi!}
 {140}{}{Der Wahnsinn, Gedankenübertragung! Ich erfasse Gehirnströme! Okay, ich versuch's... 
  hmmmm... hömmm...}
 {141}{}{Ja?}
@@ -78,7 +78,7 @@
 {157}{}{Sag mir alles, was du weißt.}
 {158}{}{Das reicht, mehr halt ich nicht aus.}
 {159}{}{Halt bloß dein Maul, du dummes Stück Dreck!}
-{160}{}{Bye-bye.}
+{160}{}{Tschüssi!}
 {161}{}{Ach, weißt du, manchmal hör ich so Sachen. Ich hör eine ganze Menge. Kann mir nicht immer
  alles merken.}
 {162}{}{Für 50 Hühner wird's dir schon wieder einfallen.}

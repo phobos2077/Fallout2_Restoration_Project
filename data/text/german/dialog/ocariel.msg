@@ -41,7 +41,7 @@
 {140}{}{Nein, ich kann jederzeit gehn. Die Deathclaws haben mir das ausdrücklich gesagt. Sie halten hier niemanden gegen seinen Willen fest, soweit ich weiß.}
 {141}{}{Oh, ok.}
 {142}{}{Verstanden. Ich gehn.}
-{143}{}{Ich verstehe.}
+{143}{}{Verstehe.}
 {144}{}{Ich glaub du lügst, du Ziege.}
 {145}{}{Verstehe. Wenn es dir nichts ausmacht, würd ich dir gern noch ein paar Fragen stellen.}
 {146}{}{Ja. Sie geben mir Nahrung, Wasser, Unterkunft und Schutz. Ich fühl mich hier sicher und das ist mehr, als ich verlangen kann.}

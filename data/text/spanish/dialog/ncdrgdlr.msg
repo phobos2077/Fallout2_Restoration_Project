@@ -19,7 +19,7 @@
 {215}{}{¿Así que estás buscando celebrarlo con algo de Jet, héroe? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
 {216}{}{Lo menos que puedo hacer es rebajar mis existencias para ti, héroe. Sólo es mi forma de decirte gracias por salvar nuestros culos.}
 {217}{}{Nada mejor que un poco de Jet después de patear el culo al Enclave, ¿eh? ¿Tengo razón? Todas mis existencias están a precio de ocasión para ti.}
-{218}{}{Tengo la mierda que te ayudarán a besar el cielo, el héroe. Y para usted: un buen descuento. ¿Cómo suena?}
+{218}{}{Tengo la mierda que te ayudará a besar el cielo, héroe. Y para usted: un buen descuento. ¿Cómo suena?}
 {219}{}{¿Tienes caramelos? }
 {220}{}{Te alejas}
 {221}{}{¿Qué tienes?}

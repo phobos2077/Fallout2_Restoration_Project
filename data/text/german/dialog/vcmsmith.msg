@@ -14,7 +14,7 @@
 {112}{}{Warum bist du nicht in der Stadt?}
 {113}{}{Was machst du hier?}
 {114}{}{Kann ich dich noch etwas anderes fragen?}
-{115}{}{Danke. Auf Wiedersehn.}
+{115}{}{Vielen Dank. Auf Wiedersehn.}
 {116}{}{Ich betreibe mit meiner Familie einen Bauernhof hier im Hof. Wir kommen einigermaßen
  zurecht. Aber ich weiß nicht, für wie lange noch.}
 {117}{}{Wo liegt das Problem?}
@@ -41,7 +41,7 @@
  Vault City uns wenigstens schützt.}
 {136}{}{Wie sieht dieser Schutz denn aus?}
 {137}{}{Kann ich dich noch etwas anderes fragen?}
-{138}{}{Danke. Auf Wiedersehn.}
+{138}{}{Vielen Dank. Auf Wiedersehn.}
 {139}{}{Sie schützen uns gegen Überfälle von außen, aber wir müssen kräftig dafür zahlen. Und
  ohne Pflug kommt man dabei auf keinen grünen Zweig.}
 {140}{}{Kann ich dir mit dem Pflug irgendwie helfen?}

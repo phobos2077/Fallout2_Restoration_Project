@@ -55,21 +55,21 @@
 {2800}{}{Gatling Laser}
 {2801}{}{An H&K L30 Gatling Laser. Designed specifically for military use, these were in the prototype stage at the beginning of the War. Multiple barrels allow longer firing before overheating. Powered by Micro Fusion Cells. Min ST: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-points}
+{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-point.}
 {3000}{}{10mm AP}
 {3001}{}{Ammunition. Caliber: 10mm, armor piercing.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{A brick of ammunition, .44 magnum caliber, hollow-points.}
+{3101}{}{A brick of ammunition, .44 Magnum caliber, jacketed hollow-point.}
 {3200}{}{Flamethrower Fuel}
 {3201}{}{A cylinder containing an extremely flammable liquid fuel for flamethrowers.}
 {3300}{}{14mm AP}
 {3301}{}{Large caliber ammunition. 14mm armor piercing.}
 {3400}{}{.223 FMJ}
-{3401}{}{A case of ammunition, .223 caliber, Full Metal Jacket.}
+{3401}{}{A case of ammunition, .223 caliber, full metal jacket.}
 {3500}{}{5mm JHP}
 {3501}{}{A brick of small, lightweight ammunition. Caliber: 5mm, jacketed hollow-point.}
 {3600}{}{5mm AP}
-{3601}{}{A brick of small caliber ammunition. 5mm armor piercing.}
+{3601}{}{A brick of small, lightweight ammunition. Caliber: 5mm, armor piercing.}
 {3700}{}{Rocket AP}
 {3701}{}{A rocket shell, with a smaller explosive, but designed to pierce armor plating.}
 {3800}{}{Small Energy Cell}
@@ -183,7 +183,7 @@
 {9200}{}{Scorpion Tail}
 {9201}{}{The severed tail of a radscorpion.}
 {9300}{}{Bag}
-{9301}{}{An average sized bag. Made from weaved Brahmin hairs.}
+{9301}{}{An average sized bag. Made from weaved brahmin hairs.}
 {9400}{}{Shotgun}
 {9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. Min ST: 4.}
 {9500}{}{12 ga. Shotgun Shells}
@@ -218,8 +218,8 @@
 {10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
 {11001}{}{An unique delivery system filled with strange and unknown chemicals of probably military origin. It is supposed to increase the combat potential of a soldier.}
-{11100}{}{.44 magnum FMJ}
-{11101}{}{A brick of ammunition, .44 magnum caliber, full metal jacket.}
+{11100}{}{.44 Magnum FMJ}
+{11101}{}{A brick of ammunition, .44 Magnum caliber, full metal jacket.}
 {11200}{}{Urn}
 {11201}{}{A beautiful golden urn, with the name "Harriet" inscribed on the front and ashes inside.}
 {11300}{}{Robes}
@@ -646,8 +646,8 @@
 {32801}{}{This black sphere is some strange precognitive device... a small window on the top seems to be able to predict the future! Pre-war humanity must have been geniuses to invent such a wonder!}
 {32900}{}{Mutagenic Serum}
 {32901}{}{A strange organic concoction that could possibly reverse the Mutation Factor in humans.}
-{33000}{}{Crashed Verti-Bird}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{33000}{}{Crashed Vertibird}
+{33001}{}{This is wreckage from a vertibird. Looks like it crashed here months ago.}
 {33100}{}{Cat's Paw Issue #5}
 {33101}{}{This is the hard to find Issue 5 of Cat's Paw magazine. The pictures aside, this issue has a wonderful article on energy weapons.}
 {33200}{}{M3A1 "Grease Gun" SMG}
@@ -912,7 +912,7 @@
 {46700}{}{Jesse's Container}
 {46701}{}{}
 {46800}{}{Smitty's Meal}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is Brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
+{46801}{}{It's some kind of salad and a sandwich made out of what you think is brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
 {46900}{}{Rot Gut}
 {46901}{}{A very strong liquor or cleaning fluid, you decide.}
 {47000}{}{Ball Gag}
@@ -1100,7 +1100,7 @@
 {56800}{}{Trigger activated dynamite}
 {56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
 {56900}{}{Pop Rocks}
-{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
+{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka-Cola one's stomach would explode.}
 {57000}{}{Bottle of Shampoo}
 {57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
 {57100}{}{K-9 Kevlar}

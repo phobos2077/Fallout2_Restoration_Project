@@ -114,8 +114,8 @@
 {601}{}{Es ist offen, Dummkopf.}
 {610}{}{Du versagst spektakulär und der Sprengstoff geht zu früh hoch.}
 {611}{}{ versagt spektakulär und der Sprengstoff geht zu früh hoch.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{620}{}{Du verbiegst das Brecheisen bis zur Unkenntlichkeit. Es ist jetzt unbrauchbar.}
+{621}{}{ verbiegst das Brecheisen bis zur Unkenntlichkeit. Es ist jetzt unbrauchbar.}
 {800}{}{Du hast dir den Schlüsselanhänger geholt.}
 {810}{}{Du hast dir die Pläne geholt.}
 {820}{}{Du hast dir den K-9-Motivator geholt.}

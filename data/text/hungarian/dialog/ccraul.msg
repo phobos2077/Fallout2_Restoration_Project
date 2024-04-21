@@ -19,9 +19,7 @@
 {118}{}{Jól van, sajnálom. Raulnak nem kellene így beszélnie veled, végtére is csak egy hírvivő vagy. Hé, figyelj csak, sok a dolgod most?}
 {119}{}{Nem lenni túl elfoglalt, mért?}
 {120}{}{Nem igazán, miért?}
-{121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
- Raul's going to clean the old man's clock.
- You stay here and watch Raul's birds. Ok?}
+{121}{}{Figyelj, Raul most elmegy meglátogatni Qiuncy-t. Addig te maradj itt és vigyázz Raul madárkáira, rendben?}
 {122}{}{Vigyázni rájuk.}
 {123}{}{Rendben, Raul. Megteszem.}
 {124}{}{Hé, köszike! Raul jön neked eggyel! Ne menj túl messzire, és ha valaki bántani merészelné őket, akkor seggbelövöd, rendben?}

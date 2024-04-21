@@ -502,7 +502,7 @@ procedure HealPlayer begin
       critter_uninjure(dude_obj, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT));
    end
    gfade_out(600);
-      game_time_advance(game_ticks(8*ONE_GAME_HOUR));//Heal Injure or mult npcs
+      game_time_advance(8 * ONE_GAME_HOUR); // Heal Injure or mult npcs
    gfade_in(600);
 end
 
@@ -749,7 +749,7 @@ procedure PartyFree begin
    if (k > 1) then
       Heal_Cost:=60;
    gfade_out(600);
-      game_time_advance(game_ticks(8*ONE_GAME_HOUR));//Heal Injure or mult npcs
+      game_time_advance(8 * ONE_GAME_HOUR); // Heal Injure or mult npcs
    gfade_in(600);
 end
 

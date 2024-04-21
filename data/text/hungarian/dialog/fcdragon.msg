@@ -15,7 +15,7 @@
 {114}{}{Taníts!}
 {115}{}{Köfönömm.}
 {116}{}{Akkor elkezdjük.}
-{117}{}{[DONE]}
+{117}{}{[RENDBEN]}
 {118}{}{::Jól megnéz magának:: Nem hiszem, hogy jóra használnád a tudásod. Legyen jó napod!}
 {119}{}{Grrr!}
 {120}{}{Kérlek, bocsásd meg nekem a nyers modoromat. Jelen pillanatban nem beszélhetünk.}
@@ -25,7 +25,7 @@
 {124}{}{Akkor győzedelmeskedned kell!}
 {125}{}{Értem. Hadd kérdezzek még egy-két dolgot.}
 {126}{}{Te tényleg hiszel ebben? Akkor talán el kéne bánnod Lo Pannal. Viszlát!}
-{127}{}{[DONE]}
+{127}{}{[RENDBEN]}
 {128}{}{Úgy bizony. Viszont attól tartok, egyenlőek az esélyeink. Még a követőink számában is kiegyenlítettek az erőviszonyok. Egy ember elég, hogy felboruljon az egyensúly.}
 {129}{}{Én elvállalom.}
 {130}{}{Értem. Hát... talán inkább kérdeznék valami mást.}
@@ -44,7 +44,7 @@
 {143}{}{Csak a képességeimet akarom tesztelni. Nem akarlak megölni.}
 {144}{}{Egyik sem érdekel. Felejtsd el még az ötletet is!}
 {145}{}{Erre a feladatra nem te vagy a megfelelő személy. Legyen jó napod!}
-{146}{}{[DONE]}
+{146}{}{[RENDBEN]}
 {147}{}{Gondolod? A háború és a harc eléggé rokon fogalmak. Jobb, ha szabályok szerint harcolunk, mintha belefeledkeznénk az értelmetlen pusztításba.}
 {148}{}{Bármi áron győzni fogok.}
 {149}{}{Ha az embernek harcolnia kell, a túlélésre játszik. Ha valaki megpróbál megölni, minden létező eszközt bevetek ellene.}
@@ -52,9 +52,9 @@
 {151}{}{Igen, oké. Üdv!}
 {152}{}{Nagyszerű! Lépjünk a szorítóba és addig verekedjünk, amíg valamelyikünk ott nem marad.}
 {153}{}{[Attack now, with armor and weapons.]}
-{154}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
+{154}{}{[ belépsz a szorítóba, leveszed a védőöltözéked, lerakod a fegyvereidet és puszta kézzel küzdötök ]}
 {155}{}{Ah, egy harcos. Nekieresztelek az embereimnek és megnézzük, hogy boldogulsz. Kezdjük!}
-{156}{}{[BEGIN]}
+{156}{}{[Kezdés]}
 {157}{}{Egy szabályokkal regulázott küzdelemben nem kérdés, hogy a saját jószántadból fogtál bele. Ha egyszer belementél, eldobnád a szabályokat?}
 {158}{}{Valószínűleg nem. De élet-halál kérdésben az ember bármit megtesz a túlélésért.}
 {159}{}{Nagy eséllyel.}
@@ -69,11 +69,11 @@
 {168}{}{Ez érdekes. Bizonyára kifizetődő. Kérdezhetek még?}
 {169}{}{Köszönöm. Viszlát!}
 {170}{}{Mivel megpróbáltad megszégyeníteni a népemet, most meg kell öljelek. Előre elnézésed kérem, ha fájni fog, mikor meghalsz.}
-{171}{}{[DONE]}
+{171}{}{[RENDBEN]}
 {172}{}{Ne szólj hozzám, Hubologista birka! Semmi szükségünk nincs rád!}
-{173}{}{[DONE]}
+{173}{}{[RENDBEN]}
 {174}{}{Tisztelettudásod egy disznóéval, erkölcsöd egy tüdőshaléval vetekszik. Nem óhajtok veled egy levegőt szívni.}
-{175}{}{[DONE]}
+{175}{}{[RENDBEN]}
 {176}{}{Te aztán elképesztően verekszel! Megküzdesz Lo Pannal?}
 {177}{}{Igen. Most azonnal.}
 {178}{}{Ez nem igazán az én harcom.}
@@ -94,7 +94,7 @@
 {201}{}{A Shik nem tisztelik a tolvajokat! Távozz innen!}
 {202}{}{Figyelmeztettelek, hogy távozz! Most megfizetsz!}
 {203}{}{Nagyon úgy tűnik, hogy tőlem te már nem tudsz semmit tanulni.}
-{204}{}{Lessons are more than just physical, grasshopper. Ponder this and return tomorrow.}
+{204}{}{A gyakorlás nem csak erőnléti edzésből áll, ugribugri barátom. Gondolkodj el ezen, és gyere vissza holnap.}
 {205}{}{Ziggy Mester vagyok, az utolsó kihívód.}
 {206}{}{Zurak vagyok. Készülj!}
 {207}{}{A nevem Jimmy. Szedd össze magad!}
@@ -122,7 +122,7 @@
 {230}{}{Először is be kell bizonyítanod, hogy képes vagy megcsinálni. Ki kell állnod öt emberemmel, persze egyszerre csak egyikükkel. Ha mindegyiket legyőzöd, jöhet a végső próbatétel.}
 {231}{}{Miből áll ez?}
 {232}{}{Ez elég gázosan hangzik. Na, csá.}
-{233}{}{You will be tested against my chosen apprentice. However, none of these battles will be to the death.}
+{233}{}{Egyik választott tanítványommal kell küzdened. Egyébként jó, ha tudod, hogy egyik összecsapás sem megy életre-halálra.}
 {234}{}{Oké, csapjunk bele!}
 {235}{}{Egyedül is elbánsz te Lo Pannal...}
 {236}{}{[The Dragon studies you] I regretfully cannot let one of your skill level hurt himself.}

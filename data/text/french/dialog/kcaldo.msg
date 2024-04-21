@@ -66,7 +66,7 @@
 {880}{}{Si tu me donnes $20, je serai ton ami et je ferai en sorte que tout le monde le soit aussi. Ca marche comme ça dans les grandes villes.}
 {881}{}{Viin doo-laar ? Ok ? Gran-deeu-vii-lleu ? Ok ?}
 {882}{}{Donner homme jolie feuille maintenant ?}
-{890}{}{Un J.E.K. ? Tu veux dire, un gecko. Jamais entendu parler d'un J.E.K.  mais je peux t'en dire long sur les geckos.}
+{890}{}{Un J.E.K. ? Tu veux dire, un gecko. Jamais entendu parler d'un J.E.K. mais je peux t'en dire long sur les geckos.}
 {900}{}{Des vieux trucs, hein ? <Burp> Ben, je connais... <Hic> un seul gars qui vend des vieux machins, c'est... <Hic> Vic.}
 {901}{}{Vic ? Où puis-je trouver ce Vic ?}
 {910}{}{Eh bien... <Hic> ça fait un moment que je n'ai pas vu Vic. Je ne sais pas... <Burp> où il a pu se cacher. Tu devrais demander à... <Burp> Jenny. Elle est aux Bains. Vic et Jenny étaient assez... <Hic> proches. Hé ! Hé ! Hé ! Tu piges ?!}

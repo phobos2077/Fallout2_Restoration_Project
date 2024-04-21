@@ -9,7 +9,7 @@
 {156}{}{Talán az istenek majd megvédenek az utadon.}
 {157}{}{Lenne hozzád egy kérdésem.}
 {158}{}{Viszlát, barátom!}
-{159}{}{Go see Hakunin in the northern corner of the village. He can help you.}
+{159}{}{Keresd Hakunint a sátrában! A falu északi részén megtalálod. Ő majd biztosan segít neked.}
 {160}{}{Köszönöm. Viszlát!}
 {161}{}{Ó, én nem szoktam találkozni velük. Beszélj Mynockal, a Nagy Híd őrzőjével! Ő tartja a kapcsolatot az összes kereskedővel.}
 {162}{}{Köszönöm. Viszlát!}
@@ -37,7 +37,7 @@
 {186}{}{Még egy kérdést, ha lehetne.}
 {300}{}{Üdv, Kiválasztott. Jó, hogy újra láthatlak. Imádkoztam, hogy a küldetésed jól sikerüljön. Segíthetnék valamiben?}
 {301}{}{Kiválasztott, az emberek haldokolnak. Sietned kell az ÉLET-tel! Mit tehetnék küldetésed sikerének érdekében?}
-{302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know.}
+{302}{}{Kifutunk az időből, Kiválasztott! Kérlek, fejezd be hamar a küldetésed! Már nem tudunk sokáig várni. Mondd meg, ha segíthetnék valamiben a küldetés sikerének érdekében!}
 {303}{}{Kiválasztott, a falu csaknem elpusztult... te vagy az egyetlen reménységünk. Van valami, amiben segíthetnék nehéz küldetésedben?}
 {400}{}{Is there anything you could tell me about Kaga?}
 {401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
@@ -46,7 +46,7 @@
 {1001}{}{Alapító}
 {1002}{}{Menedéklakó}
 {1003}{}{Arroyo}
-{1004}{}{Klamath}
+{1004}{}{Kalmath}
 {1005}{}{Menedek}
 {1006}{}{Kiválasztott}
 {1007}{}{Sámán}
@@ -61,11 +61,8 @@
 {1104}{}{Kereskedelmi csomópont néhány napi járóföldre keleti irányban.}
 {1105}{}{A Menedék maga a mennyország.}
 {1106}{}{TE vagy a Kiválasztott.}
-{1107}{}{He heals us with his herbs and magic. He is in the northern part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the northern part
- of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
+{1107}{}{Ő a növényeivel és a mágiájával gyógyít bennünket. A falu északi részében megtalálod.}
+{1108}{}{Ő a növényeivel és a mágiájával gyógyít bennünket. A falu északi részében megtalálod.}
+{1109}{}{Ez egy varázspor mely gyógyít téged de ugyanakkor elálmosít.}
 {1110}{}{A Nagy Híd dél felé van a falunktól.}
-{1111}{}{He guards the bridge leading into our village.}
+{1111}{}{Ő őrzi a hidat mely a falunkba vezet.}

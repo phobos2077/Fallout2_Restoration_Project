@@ -1,8 +1,8 @@
 {100}{}{Egy Kapitány-sapkát viselő egyén.}
-{101}{}{You see Captain A. Ron Meyers.}
+{101}{}{A. Ron Meyers, a Kapitány.}
 {102}{}{Ez a szakadt ruhát viselő punk Kapitány-sapkát visel.}
 {103}{}{Mi a fenét akarsz? Addig nem beszélek senkivel, amíg nem a barátom, vagy nem bizonyul jó embernek. Tégy valami jót valamelyik emberemmel, és akkor gyere vissza!}
-{104}{}{[DONE]}
+{104}{}{[RENDBEN]}
 {105}{}{Hallottam, mit tettél az emberemmel. Köszönöm neked. Miben segíthetek?}
 {106}{}{Te vagyol ki?}
 {107}{}{Úgy hallottam, te vagy az, aki mindent tud erről a hajóról.}
@@ -10,7 +10,7 @@
 {109}{}{Hogy lehetne ezt a teknőt mozgásra bírni?}
 {110}{}{Semmi.}
 {111}{}{Én vagyok a Kapitány, én működtetem ezt a hajót. Ha további kérdéseid vannak, keress meg egy Shi-t vagy a Borzot, vagy akárkit! Nincs időm rád!}
-{112}{}{[DONE]}
+{112}{}{[RENDBEN]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
 {114}{}{Honnan tudsz te minderről?}
 {115}{}{Mi az az EBFR jeladó?}
@@ -26,7 +26,7 @@
 {125}{}{Mi az az EBFR jeladó meg az FBK?}
 {126}{}{Milyen olajfúró-toronyról van szó?}
 {127}{}{Igen. Viszlát!}
-{128}{}{IFF: Identify Friend or Foe. It means that this ship is identified as a friend, so other Poseidon things - like, say, an oil rig - won't fire at you when you come into range. Oh, and a FOB is some sort of Enclave technology that lets you enter a door electronically. You'd probably find one of them at one of their bases or some such place.}
+{128}{}{EBFR: Ellenség-Barát Felismerő Rendszer. Ez azt jelenti, hogy a hajót barátként ismerik fel, ezért más Poseidon dolgok, mint - teszem azt egy olajfúró-torony - nem kezd rád lőni, amikor közel érsz hozzájuk. Az FBK egy érdekes Enklávés technológia, mely lehetővé teszi, hogy elektronikusan kinyiss egy ajtót. Az egyik bázisukon vagy valami hasonló helyen biztos lehet találni ilyesmit.}
 {129}{}{Honnan tudsz te minderről?}
 {130}{}{Milyen olajfúró-toronyról van szó?}
 {131}{}{Köszönöm. Viszlát!}
@@ -39,7 +39,7 @@
 {138}{}{Elég egyszerűen. Egy szép napon otthagytam a navarrói bázist és ide vettem az irányt. Arra gondoltam, ez az utolsó hely, amit átkutatnának utánam. Nem vagyok én annyira fontos az Enklávé számára, hogy nekiálljanak kerestetni. Kis porszem vagyok csupán.}
 {139}{}{Pontosan mi az Enklávé?}
 {140}{}{Köszönöm. Viszlát!}
-{141}{}{There's a big Poseidon oil rig left out on the water. That's the final base of the Enclave}
+{141}{}{Van egy hatalmas Poseidon olajfúró-torony a nyílt tengeren. Ez az Enklávé legutolsó bástyája,}
 {142}{}{Honnan tudsz te minderről?}
 {143}{}{Van még valami tudnivaló erről a fúrótoronyról?}
 {144}{}{Köszönöm. Viszlát!}
@@ -53,7 +53,7 @@
 {152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {153}{}{Ó, igen. A navigációs számítógépet is működésre kell bírnod. Le merném fogadni, hogy egy régi Menedékben lehet még olyan alkatrészeket találni.}
 {154}{}{Jó, hogy újra látlak. Mire van szükséged?}
-{155}{}{, and unless I miss my bet, that's where your friends are, too.}
+{155}{}{, és ha nem tévedek, a barátaidat is ott fogod megtalálni.}
 {156}{}{ dollár.}
 {200}{}{What old sub?}
 {210}{}{There's an old Chinese submarine marooned out there in the bay. Damn thing gives me the creeps, lurking out there under the water like a rusty ghost. I doubt it's still active, but if it was, its automated weapons systems could blow this tanker to hell before you even got close to that oil rig.}

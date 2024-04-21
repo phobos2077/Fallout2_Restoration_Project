@@ -12,8 +12,7 @@
 {111}{}{Sárgát. Így narancssárga lesz.}
 {112}{}{Áttetszőt. Így piros marad.}
 {113}{}{Megiszom.}
-{114}{}{Blue. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
- dosages.}
+{114}{}{Kéket. Így Jet lesz belőle, egy erősen addiktív amfetaminszerű drog... ha jól eltalálod az arányokat.}
 {115}{}{Sárgát. Tudós elméd felismeri, hogy ha jól kevered hozzá, sósav lesz belőle.}
 {116}{}{Áttetszőt. Gyakorlott agyad tudja, hogy így erős vitamin lesz belőle... feltéve, ha ki tudod mérni a megfelelő arányt.}
 {117}{}{Abbahagyom.}
@@ -21,8 +20,7 @@
 {119}{}{Pirosat. Így lila lesz.}
 {120}{}{Sárgát. Így zöld lesz..}
 {121}{}{Áttetszőt. Így kék marad.}
-{122}{}{Red. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
- dosages.}
+{122}{}{Pirosat. Így Jet lesz belőle, egy erősen addiktív amfetaminszerű drog... ha jól eltalálod az arányokat.}
 {123}{}{Sárgát. Mielőtt hozzákevernéd, fejben elvégzed a szükséges számításokat. Tudod jól, hogy nitroglicerin lesz belőle, egy erős robbanóanyag.}
 {124}{}{Áttetszőt. Így egy toxikus vegyületet kapsz, ami semmire nem jó a sugárzás hatásának tanulmányozásán kívül.}
 {125}{}{Megiszom.}
@@ -67,7 +65,7 @@
 {164}{}{Megiszom.}
 {165}{}{Elteszem. Majd később hasznát vehetem...}
 {166}{}{Hoppá! Valamiféle toxikus gőz fejlődik! Egy szippantástól kifekszel. Nagyon szarul érzed magad.}
-{167}{}{[DONE]}
+{167}{}{[RENDBEN]}
 {168}{}{Ez a szer hatásosnak tűnik. Mit teszel vele?}
 {169}{}{Megiszom.}
 {170}{}{Elteszem későbbre.}
@@ -81,7 +79,7 @@
 {178}{}{Elfintorodsz az íze miatt, majd, ahogy halad lefelé, észreveszed, hogy éget a folyadék. Au! AU! AUUU!! Szétroncsolja a beleidet! }
 {179}{}{Kicsit kesernyés, de leerőszakolod. Különös, de jobban érzed magad tőle.}
 {180}{}{Ááá, Mi a fene?! A kinézete ellenére felhajtod a ronda löttyöt. Azonnal elkezdesz köpködni és gurgulázni. Szép adag sugárzást kaptál!}
-{181}{}{[DONE]}
+{181}{}{[RENDBEN]}
 {182}{}{Na, jó... rendben. Emlékezve arra, mi mindent ittál még kisgyermek korodban, lehúzod az üveg tartalmát. Amint leér a folyadék, a gyomrod összerándul. Úgy érzed magad, mintha épp most csípett volna meg egy radskorpió.}
 {183}{}{Hé, ez pont olyan, mintha víz lenne, szóval legalább olyan jó is, nem? Amint lenyeled, érzed, hogy nagyot hibáztál. Ez ÉGET! Nagyon nagyon sokáig fáj.}
 {184}{}{Egy kicsit ebből, egy kicsit abból... egy pillanat... miért füstöl az üveg... mit csináltam rosszul? Ó, NE! Az üveg az arcodba robban!}

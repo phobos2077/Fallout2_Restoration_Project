@@ -26,7 +26,7 @@
 {125}{}{Ha ez a szerkezet itt urántöltetekkel üzemel, több mint elég az energiátok egész Broken Hills ÉS New Reno ellátására. Észre se vennétek a különbséget. Gyerünk szépen!}
 {126}{}{De... de... Eric szenved!}
 {127}{}{Szóval, nincs esély semmiféle kis átállításra?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{[Durcásan a kijelzők felé fordul és alig hallhatóan ezt mondja:] Erőszakos fráter.}
 {129}{}{Nahiszen... Viszlát!}
 {130}{}{Hé! Ne nyúlj semmihez! Ez egy finom műszer! Kifelé! Tűnés! Gyerünk! Menj haza!}
 {131}{}{Óóóh! Gombocskák!}
@@ -39,7 +39,7 @@
 {138}{}{Szuper. Viszlát!}
 {139}{}{Hát, igen, technikailag igaz, de...}
 {140}{}{Semmi de! Egyszerűen csak lusta vagy. Gyerünk!}
-{141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
+{141}{}{Nem kell ilyen erőszakosnak lenni! [Lehajtja a fejét, és elfordít egy kapcsolót] Tessék. Mondd meg neki, hogy ne panaszkodjon többet.}
 {142}{}{Csupa szív vagy, haver!}
 {143}{}{Remélem, büszke vagy magadra! Ne is várj köszönetet! Csak megnehezítetted azt, ami egyébként tök egyszerű lett volna.}
 {144}{}{Talán csak többször kellene fürdenie. Viszlát!}

@@ -157,8 +157,7 @@
 {413}{}{Ist mir egal, auch wenn du mit einem gewissen Körperteil einen 15 cm langen Nagel in ein
  Brett schlagen kannst. Hau jetzt ab.}
 {414}{}{Spaß? Nein, ich bin verheiratet und ansonsten auch nicht.}
-{415}{}{Ich verabrede mich nicht mit Weißen. Wenn du dir ein anderes Figurenmodell ausgesucht
- hättest, dann vielleicht.}
+{415}{}{Ich verabrede mich nicht mit Weißen.}
 {416}{}{Du kannst gar nicht besser sein als mein Massage-Duschkopf.}
 {417}{}{Du siehst nicht so aus, als könntest du meine Kaufsucht finanzieren.}
 {418}{}{Schätzchen, du könntest mich dir doch gar nicht leisten.}

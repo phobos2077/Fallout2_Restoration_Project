@@ -86,7 +86,7 @@
 {200}{}{Avez-vous quelque chose de spécial que vous souhaiteriez vendre et qui ne serait pas déjà sur les tablettes ?}
 {201}{}{En fait... Oui. En voyant ton vieux chien, je me rappelle de quelque chose que j'ai trouvé qui pourrait lui être d'une certaine utilité. Es-tu intéressé par cette armure ? Elle t'en coûtera $2 000.}
 {202}{}{Cela sonne bien !}
-{203}{}{Non merci, ce chien a déjà ce qu'il lui faut. Merci quand  même. Voyons ce que vous avez d'autre.}
+{203}{}{Non merci, ce chien a déjà ce qu'il lui faut. Merci quand même. Voyons ce que vous avez d'autre.}
 {204}{}{[Elle se penche sur toi et tes amis.] Non, désolée. Je ne pense pas avoir rien de spécial qui pourrait t'être utile. Ce que tu vois ici est tout ce qu'il y a à vendre.}
 {205}{}{D'accord. Voyons ce que tu as comme marchandises.}
 {206}{}{Je t'ai dit que je te la vendais pour $2 000. Reviens quand tu auras assez d'argent !}

@@ -148,7 +148,7 @@
 {247}{}{[Une petite fenêtre s'ouvre sur le terminal, accompagnée d'un Pip-Boy souriant. Alors que tu l'observes, le Pip-Boy te regarde dans les yeux, t'adresse un clin d'oeil et te fait signe que c'est bon. Une lumière rouge clignote à côté de l'emplacement de l'ordinateur.]}
 {248}{}{[Lever le pouce pour faire signe au Pip-Boy]}
 {249}{}{[Faire un doigt au Pip-Boy]}
-{250}{}{Intégration des informations sur le développement de Fallout 2 dans la base de données du Pip-Boy. Copie des fichiers...  Cité de l'Abri... New Reno... Crédits. Téléchargement terminé.}
+{250}{}{Intégration des informations sur le développement de Fallout 2 dans la base de données du Pip-Boy. Copie des fichiers... Cité de l'Abri... New Reno... Crédits. Téléchargement terminé.}
 {251}{}{Merci.}
 {252}{}{Vaudrait mieux que ce truc qui me fait perdre mon temps me rapporte quelques points de compétences supplémentaires, ou je vais vraiment m'énerver.}
 {253}{}{[Le Pip-Boy à l'écran te fait un signe d'adieu, et l'écran devient noir. Le terminal s'est éteint.]}

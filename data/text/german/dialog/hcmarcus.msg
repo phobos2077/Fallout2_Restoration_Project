@@ -381,7 +381,7 @@
  den großen Energiewaffen. Mit den Fäusten bin ich auch nicht schlecht, und mit Granaten kann ich allerhand anfangen.
  Ich trage keine Rüstung. Es gibt einfach keine, die mir passt.}
 {30000}{}{Nein Danke, Ich denke Ich hab Heute schon genug Zeit mit ihm verbracht. Tschüss.}
-{40000}{}{Schätze, Ich hatte Recht mit Chad. Sieht so als als würde er in nächster Zeit keine Karawanen mehr leiten.}
+{40000}{}{Schätze, Ich hatte Recht mit Chad. Sieht so als würde er in nächster Zeit keine Karawanen mehr leiten.}
 {40001}{}{Ok Chad, Zeit für deine Verbrechen zu büßen.}
 {40002}{}{*seufzt* Ich komme.}
 {40003}{}{Du hast Chad für schuldig befunden von den Karawanen Geld zu Unterschlagen.}

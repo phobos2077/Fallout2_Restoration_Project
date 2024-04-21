@@ -6,14 +6,14 @@
 {105}{}{Tessék? }
 {106}{}{Azért jöttem, hogy elköszönjek. Indulok szent küldetésemre. }
 {107}{}{Éppen indulok. Azt reméltem, most az egyszer hétköznapi ember módjára fog beszélni. }
-{108}{}{You are doing just way too many drugs. I'm outta here. }
+{108}{}{Túl sok drogot vett be. Na, tűnök is innen. }
 {109}{}{Megsérültem. Meg tud gyógyítani?}
 {110}{}{Néhány rakoncátlan növény megfertőzte a kertjét, de elintéztem őket.}
 {111}{hak001a}{Kérlek, tárd fel érkezésed okát! Felhős szemeim figyelnek...}
 {112}{}{Tessék? }
 {113}{}{Azért jöttem, hogy elköszönjek. Indulok szent küldetésemre. }
 {114}{}{Éppen indulok. Azt reméltem, most az egyszer hétköznapi ember módjára fog beszélni. }
-{115}{}{You are doing just way too many drugs. I'm outta here. }
+{115}{}{Túl sok drogot vett be. Na, tűnök is innen. }
 {116}{}{Néhány rakoncátlan növény megfertőzte a kertjét, de elintéztem őket.}
 {117}{hak002}{A Föld egy hatalmas bajnok híréről énekel szerte a vidéken... Netán mielőtt elmennél, megajándékoznál a kedvességeddel?}
 {118}{}{Persze. Mire van szüksége?}
@@ -131,7 +131,7 @@
 {230}{}{Mindent kihozok magamból.}
 {231}{}{Megkétszerezem az erőfeszítéseimet, szent ember. Nem hagyom cserben.}
 {232}{}{Persze, persze. Ezt már hallottam.}
-{233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
+{233}{hak030}{Kiválasztott... a falu kétségbeesetten fohászkodik. A gyermekek legyengültek az éhségtől. Kérlek, már nem bírjuk sokáig!}
 {234}{}{[Bólogatsz].}
 {235}{}{Próbálkozom. Próbálkozom! Hadd lazítsak már egy kicsit!}
 {236}{}{Megtalálom az ÉLET-et, szent ember. Megígérem!}
@@ -159,7 +159,7 @@
 {258}{}{He?}
 {259}{hak106}{Kiválasztott! Kérlek, érintsenek meg a szavaim! Indulj dél-nyugat felé! Délre és nyugatra. Mentsd meg az embereket! Mentsd meg a törzsünket!}
 {260}{}{Ah-ha...}
-{261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
+{261}{hak107}{Köszönjük az ősöknek. Lelkem most már egyesülhet az örökkévaló énekkel. Biztonságos utat, Kiválasztott!}
 {262}{}{Menni?}
 {263}{hak108}{Indulj!...}
 {264}{}{Viszla.}

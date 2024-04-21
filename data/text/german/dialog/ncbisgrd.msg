@@ -10,7 +10,7 @@
 {216}{}{? Geh rauf. Aber schleich nicht so.}
 {221}{}{? Geh rauf.}
 {225}{}{Du bist gerade in den Falschen Laden reingeplatzt, Vollidiot.}
-{226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben.  Verpiss dich Junge, bevor wir dich abknallen.}
+{226}{}{Mann, der Hurensohn hier, muss Eier aus Stahl haben. Verpiss dich Junge, bevor wir dich abknallen.}
 {227}{}{Der Kerl bettelt ja förmlich nach Ärger...}
 {228}{}{Du solltest besser abhauen, }
 {229}{}{Na, ist das nicht }

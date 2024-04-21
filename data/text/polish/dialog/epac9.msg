@@ -20,7 +20,7 @@
 {231}{}{Zrób stimpaki.}
 {232}{}{Nie mam przy sobie tych składników.}
 {233}{}{Wróć do menu.}
-{240}{}{Świetny wybór! Żeby zrobić super stimpaki,  nakarm mnie proszę: jednym zwykłym stimpakiem, jednym owocem i Nuka Colą! Mniam-mniam!}
+{240}{}{Świetny wybór! Żeby zrobić super stimpaki,  nakarm mnie proszę: jednym zwykłym stimpakiem, jednym owocem i Nuka-Colą! Mniam-mniam!}
 {241}{}{Zrób Super stimpack.}
 {250}{}{Świetny wybór! Żeby zrobić Psycho, nakarm mnie proszę: jednym pudełkiem Mentatów, jednym Wygrzewem, jednym owocem i stimpakiem! Mniam-mniam!}
 {251}{}{Zrób Psycho}
@@ -31,13 +31,13 @@
 {272}{}{Zrób torbę lekarską.}
 {280}{}{Świetny wybór! Żeby zrobić apteczkę pierwszej pomocy, nakarm mnie proszę: jednym stimpakiem, jedną pustą strzykawką, jedną odtrutką i jednym AntyRadem! Mniam-mniam!}
 {282}{}{Zrób apteczkę pierwszej pomocy.}
-{290}{}{Świetny wybór! Żeby zrobić truciznę, nakarm mnie proszę: jedną pustą strzykawką, jednym ogonem radskorpiona i jedną Nuka Colą! Mniam-mniam!}
+{290}{}{Świetny wybór! Żeby zrobić truciznę, nakarm mnie proszę: jedną pustą strzykawką, jednym ogonem radskorpiona i jedną Nuka-Colą! Mniam-mniam!}
 {292}{}{Zrób trochę trucizny.}
-{300}{}{Świetny wybór! Żeby zrobić Wygrzew, nakarm mnie proszę: jedną apteczką pierwszej pomocy, jednym piwem i jedną Nuka Colą! Mniam-mniam!}
+{300}{}{Świetny wybór! Żeby zrobić Wygrzew, nakarm mnie proszę: jedną apteczką pierwszej pomocy, jednym piwem i jedną Nuka-Colą! Mniam-mniam!}
 {302}{}{Zrób Wygrzew.}
-{310}{}{Świetny wybór! Żeby zrobić Rad-X, nakarm mnie proszę: jedną apteczką pierwszej pomocy i jedną Nuka Colą! Mniam-mniam!}
+{310}{}{Świetny wybór! Żeby zrobić Rad-X, nakarm mnie proszę: jedną apteczką pierwszej pomocy i jedną Nuka-Colą! Mniam-mniam!}
 {312}{}{Zrób Rad-X.}
-{320}{}{Świetny wybór! Żeby zrobić AntyRad, nakarm mnie proszę: jedną Nuka Colą, jedną pustą strzykawką i stimpakiem! Mniam-mniam!}
+{320}{}{Świetny wybór! Żeby zrobić AntyRad, nakarm mnie proszę: jedną Nuka-Colą, jedną pustą strzykawką i stimpakiem! Mniam-mniam!}
 {322}{}{Make a AntyRad.}
 {330}{}{Świetny wybór! Żeby zrobić odtrutkę, nakarm mnie proszę: jednym ogonem radskorpiona i butelką alkoholu! Mniam-mniam!}
 {331}{}{Zrób odtrutkę.}
@@ -54,7 +54,7 @@
 {371}{}{Więcej opcji.}
 {375}{}{Pan Mały Chemik uwielbia pomagać! Mogę zsyntetyzować substancję zwaną nitrogliceryną, która ustabilizuje nieregularną pracę serca i zapobiegnie zawałowi.}
 {380}{}{Rad-X.}
-{381}{}{AntryRad.}
+{381}{}{AntyRad.}
 {382}{}{Coś specjalnego.}
 {383}{}{Na razie nic.}
 {390}{}{To twój szczęśliwy dzień! Mam wystarczająco dużo chemikaliów w swoich zbiornikach do zrobienia jednej dawki SSOŚ! Czy chcesz żeby Pan Mały Chemik go zsyntetyzował?!}

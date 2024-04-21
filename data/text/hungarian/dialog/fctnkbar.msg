@@ -6,7 +6,7 @@
 {105}{}{Mid van?}
 {106}{}{Nem, én menni.}
 {107}{}{Információt szeretnék.}
-{108}{}{Show me what you've got.}
+{108}{}{Mutasd, mid van!}
 {109}{}{Semmit, inkább megyek.}
 {110}{}{Szóval információt? Én nem vagyok könyvtár és ez a hely nem számítógép-terem. Igyál vagy tűnj innen! Adjak piát vagy sem?}
 {111}{}{Igen.}

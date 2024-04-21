@@ -144,7 +144,7 @@
 {243}{}{Ich kann dir sagen, was passiert ist.}
 {244}{}{Jetzt haste aber genug Erinnerungen gewälzt. Ich hab da noch 'ne andere Frage.}
 {245}{hld44}{Na, das würde ich gerne hören.}
-{246}{}{Die Legende des Vaultbewohners beginnt damit, dass er aus dem Vault ausgestoßen wurde und durchs Ödland irrte... [Du erzählt Harold die Geschichte deines Vorfahren] ...und deshalb suche ich jetzt nach Vault 13.}
+{246}{}{Die Legende des Vaultbewohners beginnt damit, dass er aus der Vault ausgestoßen wurde und durchs Ödland irrte... [Du erzählt Harold die Geschichte deines Vorfahren] ...und deshalb suche ich jetzt nach Vault 13.}
 {247}{hld45}{Vielen Dank. Das hat mich die ganzen Jahre über beschäftigt. Dein Weg ist damit wohl vorgezeichnet. Hmm, weißt du...}
 {248}{}{Weiß ich was?}
 {249}{}{Jetzt habe ich dir aber genug Zeit gestohlen. Ich geh jetzt besser. Tschüss.}

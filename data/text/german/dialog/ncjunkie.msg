@@ -73,12 +73,12 @@
 {258}{}{Siehst du mich an?! Du siehst mich an?!! Ich töte dich!}
 {270}{}{Oh, ich würde dir gerne für deinen Sieg über die Enklave zujubeln, aber mein Kopf tut zu weh. Komme in der Nacht wieder.}
 {271}{}{::Versucht zu klatschen, trifft aber seine Hände nicht::}
-{272}{}{Noch lange nicht. Ich war zu zu, um mitzukriegen, was du gemacht hast. Aber es war bestimmt cool.}
+{272}{}{Noch lange nicht. Ich war zu zugedröhnt, um mitzukriegen, was du gemacht hast. Aber es war bestimmt cool.}
 {273}{}{Oh... Danke für unsere Rettung. Du, äh, hast du noch ein paar Chips übrig?}
 {274}{}{Ich habe auch mal die Welt gerettet. Glaube ich zumindest. Weiß es aber nicht mehr genau, ich war high.}
 {275}{}{Hatte die Enklave Jet?}
 {276}{}{Bist du für den großen Knall unten im Süden verantwortlich? Davon habe ich Kopfschmerzen bekommen.}
-{277}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
+{277}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen Nicht-Spieler-Figuren mit den Konsequenzen leben müssen.}
 {278}{}{Chris Avellone hat mich entwickelt und Tom French hat das Skript geschrieben. Technisch betrachtet bin ich für mein Jet benutzen also nicht verantwortlich.}
 {279}{}{Ja, ja, ist großartig, dass du das Spiel durch hast. Natürlich bedeutet das, dass du uns bald von deiner Festplatte löschen willst. vielen Dank.}
 {291}{}{Du bist das beste... äh, irgendwas. Du bist das beste IRGENDWAS!}
@@ -87,9 +87,8 @@
 {294}{}{Ich LIEBE dich! Du bist ein HELD. EIN VERDAMMTER HELD. ICH KÖNNTE DICH ZU TODE DRÜCKEN.}
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
-{297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
-{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit einer Affinität zu Drogen. Wirklich! Nimm das Merkmal drogenabhängig!
-Ich LIEBE es.}
+{297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen Nicht-Spieler-Figuren mit den Konsequenzen leben müssen.}
+{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Figur mit erhöhtem Stoffwechsel. Wirklich! Nimm den Bonus! Ich LIEBE ihn.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}
 {301}{}{[Singt.] "We don't need another hero, we don't need to know the way home..."}
@@ -149,7 +148,7 @@ Ich LIEBE es.}
 {400}{}{kommen Sie Miss, geben sie mir ein paar Chips.}
 {401}{}{He, äh... haste 'n bisschen Jet, Miss?}
 {402}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{403}{}{Nein, ich bin clean. Äh... wieso? Willst du was kaufen?}
+{403}{}{Nein Schwester, ich bin davon runter. Äh... wieso? Hast du was?}
 {404}{}{Mom?}
 {420}{}{He, Typ? Kannste mir fliegen helfen?}
 {421}{}{Och Mensch, nur 'n paar Chips.}
@@ -215,7 +214,7 @@ Ich LIEBE es.}
 {501}{}{Ich kann dich da unten kaum sehen, Gangster, so zu wie ich bin.}
 {502}{}{Warum gibt es zwei von euch? Ist das dein Zwilling?}
 {503}{}{Häh? du bist ein echter gemachter Mann?}
-{504}{}{Gangster,ich bin so high, dass... äh, was wollte ich sagen?}
+{504}{}{Gangster, ich bin so high, dass... äh, was wollte ich sagen?}
 {505}{}{Willste mit mir fliegen Gangster?}
 {506}{}{willst du fliegen Gangster? Sprich mit Juuuuules.}
 {507}{}{Jagged Jimmy kann dir helfen, weißt was ich mein?}
@@ -230,7 +229,7 @@ Ich LIEBE es.}
 {522}{}{Hey, Freund... teilst du dein Zeug mit mir.}
 {523}{}{Ich wollte dich gerade fragen, ob du fliegen willst, aber wie es aussieht tust du es schon.}
 {524}{}{Warum gibt es zwei von euch? Ist das dein Zwilling?}
-{525}{}{Wo hast du dein dein Zeug her?}
+{525}{}{Wo hast du dein Zeug her?}
 {530}{}{Schau jetzt nicht hin, Mann, aber da folgt dir ein Gehirn in einer Kiste.}
 {531}{}{Whoa. ich muss echt schlechtes zeug genommen haben... ich sehe Robotergehirne rumlaufen.}
 {532}{}{Wenn ich hier nochmal einen Roboter mit einem Gehirn sehe, gebe ich die Drogen für immer auf.}

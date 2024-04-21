@@ -39,7 +39,7 @@
 {138}{}{In der Stadt war es ziemlich ruhig, seit Dumont gewählt wurde.}
 {139}{}{Guten Tag, Fremder.}
 {140}{}{Ziemlich ruhiger Ort, den wir hier haben. Schön, nicht?}
-{141}{}{Neu in der Stadt?  Schau mal bei meinem Cousin Duppo vorbei.}
+{141}{}{Neu in der Stadt? Schau mal bei meinem Cousin Duppo vorbei.}
 {142}{}{Ich habe gehört, im Süden sind harte Zeiten. Wann wird die Regierung etwas tun?}
 {143}{}{Du bist aus dem Norden? Wir haben nicht viele aus dem Norden hier.}
 {144}{}{Ich habe gehört, jeder aus dem Ödland ist ein Mutant oder ein Wilder!}

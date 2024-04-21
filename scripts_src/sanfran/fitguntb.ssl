@@ -144,15 +144,11 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-      //added by killap
-   variable tmp;
-   variable special_item;
-   //end added
-
    if (validHandle(MERCHANTOBJ)) then begin
       restock_fix
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin
+            variable tmp_box := move_critical_items();
             check_restock_item(PID_BOTTLE_CAPS, 300, 436, 80)
             check_restock_item(PID_SPIKED_KNUCKLES, 1, 3, 80)
             check_restock_item(PID_MEGA_POWER_FIST, 1, 1, 100)
@@ -171,6 +167,7 @@ procedure map_enter_p_proc begin
                check_restock_item(PID_JET_ANTIDOTE, 1, 3, 30)
             end
             check_restock_item(PID_MEAT_JERKY, 4, 5, 45)
+            call restore_critical_items(tmp_box);
          end
          set_local_Var(LVAR_Restock_Time, game_time + (ONE_GAME_WEEK * Random(1, 2)));
       end

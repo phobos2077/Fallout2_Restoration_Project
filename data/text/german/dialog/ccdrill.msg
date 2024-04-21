@@ -5,8 +5,7 @@
 {103}{sgnt1a}{Willkommen in Camp Navarro...ein Zivilist! Ein Zivilist in dieser
  Basis? Ich muss euch mal gehörig in den Hintern treten! Entfernt diesen Zivilisten aus dem
  Bundesgebiet.}
-{104}{sgnt1b}{Willkommen in Camp Navarro...Zivilisten! Zivilisten in dieser Basis?
- Euch muss ich mal gehörig in den Hintern treten! Entfernt diese Zivilisten aus dem Bundesgebiet.}
+{104}{sgnt1b}{Willkommen in Camp Navarro...Zivilisten! Zivilisten in dieser Basis? Euch muss ich mal gehörig in den Hintern treten! Entfernt diese Zivilisten aus dem Bundesgebiet.}
 {105}{}{Warte. Ich...}
 {106}{sgnt2a}{Verflucht noch mal. Ich hab dich doch hinauseskortieren lassen und du bist schon wieder
  hier. Du bist bestimmt gar kein Zivilist, sondern ein Spion! Schlagt Alarm

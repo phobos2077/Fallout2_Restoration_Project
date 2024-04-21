@@ -87,7 +87,7 @@
 {177}{}{Was geschah mit dem GECK, das zusammenbrach?}
 {178}{}{Darf ich dir noch eine Frage stellen?}
 {179}{}{Sehr interessant. Danke, dass du dir Zeit für mich genommen hast.}
-{180}{}{Diese Ironie ist messerscharf. Vielleicht werden wir später miteinander reden, wenn ich das Blut gestoppt  habe.}
+{180}{}{Diese Ironie ist messerscharf. Vielleicht werden wir später miteinander reden, wenn ich das Blut gestoppt habe.}
 {181}{}{Er wurde auseinandergenommen, und seine Teile wurden für andere Verwendungen benutzt.}
 {182}{}{Was war in der Lieferung, die für Vault 13 gedacht war?}
 {183}{}{Darf ich dir noch eine Frage stellen?}

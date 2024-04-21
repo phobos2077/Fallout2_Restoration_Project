@@ -139,7 +139,7 @@
 {430}{}{Foudre}
 {431}{}{Jocco}
 {432}{}{la soeur d'Acier}
-{433}{}{Super Luge}
+{433}{}{Super Marteau}
 {434}{}{Apollon}
 {435}{}{Scrapiron}
 {436}{}{La Tigresse}

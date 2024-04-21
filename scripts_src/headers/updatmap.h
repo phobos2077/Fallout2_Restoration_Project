@@ -1,5 +1,5 @@
 /*
-    Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef UPDATMAP_H
@@ -154,7 +154,7 @@
 #define CAR_RND_MOUNTAIN2_HEX               (18276)  // edit by killap - was 17876
 #define CAR_RND_MOUNTAIN3_HEX               (19478)
 #define CAR_RND_MOUNTAIN4_HEX               (19099)
-#define CAR_RND_MOUNTAIN5_HEX               (20877)	 // edit by killap - was 20678
+#define CAR_RND_MOUNTAIN5_HEX               (20877)  // edit by killap - was 20678
 #define CAR_RND_MOUNTAIN6_HEX               (20073)
 
 #define CAR_RND_CAVE1_HEX                   (26508)
@@ -225,7 +225,6 @@
 
 //RP Easter Egg Map
 #define CAR_RP_EASTER_EGG_HEX               (23311)
-
 
 //Dr. Sheng Hideout
 #define CAR_SAN_FRANCISCO_DR_SHENG_HEX      (17535)

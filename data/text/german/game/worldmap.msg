@@ -21,7 +21,7 @@
 {240}{}{Hof}
 {241}{}{Innenstadt}
 {242}{}{Rat}
-{243}{}{Vault}
+{243}{}{(die) Vault}
 {250}{}{Siedlung}
 {251}{}{Kraftwerk}
 {252}{}{Schrottplatz}
@@ -89,7 +89,7 @@
 {393}{}{Ebene 1}
 {394}{}{Ebene 2}
 {395}{}{Ebene 3}
-{396}{}{Warehouse}
+{396}{}{Lager}
 {400}{}{Die Geisterstadt}
 {401}{}{Haupthöhle}
 {402}{}{Unterirdischer See}

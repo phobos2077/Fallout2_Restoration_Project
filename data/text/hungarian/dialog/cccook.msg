@@ -19,7 +19,7 @@
 {119}{}{Vissza kell nekünk most menni őrhelyre. Köszönni.}
 {120}{}{Történt valami érdekes mostanában?}
 {121}{}{A gépmadarak érdekelnének. Ha a terveket akarom megnézni, merre keressem őket?}
-{123}{}{Where's the Enclave main base located?}
+{123}{}{Hol találom az Enklávé főbázisát?}
 {124}{}{Köszönöm. Vissza kell mennem az őrhelyemre.}
 {125}{}{A pletykák érdekelnek? Hallok én mindenről, tudom, hogy mennek a dolgok a szervízben, a laborokban, vagy épp honnan fúj a szél a katonák között.}
 {126}{}{Miről akarsz hallani?}
@@ -38,7 +38,7 @@
 {139}{}{Jaja, veszem, veszem.}
 {140}{}{Az orvosi labort kisajátította egy Enklávés tojásfej, az a Schrebber. Elmehetne a kurva anyjába, nem törődik senkivel és semmivel! Valami kísérleteket végez odalent, de nem tudom miféléket. Azt viszont tudom, hogy a laborból állandóan kiszűrődő zajok úgy felbaszták a parancsnokot, hogy hangszigeteltette a szobát.}
 {141}{}{Fogtam.}
-{142}{}{That's interesting. }
+{142}{}{Ez érdekes. }
 {143}{}{Óh, románcról beszél mindenki, barátom! Az egyik számítógép-zseni beleesett a labor előtt posztoló őrbe. Mindenféle becenevet kitalál neki, "Csacsifül", meg ilyen baromságok.}
 {144}{}{Nem semmi.}
 {145}{}{Na, ennyi volt mára, de ha hallok valami újat, feltétlen tájékoztatlak. Veled igazán jókat lehet dumálni. És ezekről legalább annyira szeretek beszélni, mint amennyire hallgatni őket.}
@@ -47,7 +47,7 @@
 {148}{}{Oké.}
 {149}{}{Hol lenni?}
 {150}{}{Értem.}
-{151}{}{Where's that?}
+{151}{}{Hol lenni?}
 {152}{}{A bázis észak-keleti csücskénél, haver. Nem lehet eltéveszteni.}
 {153}{}{Oké. Kösz.}
 {156}{}{Meglep, hogy nem tudod, te biztos valami helybéli lehetsz. A főbázis ennek az istenverte óceánnak az istenverte közepén van. Nem, nem pontosan a közepén, na mindegy. Az egyetlen mód, hogy eljuss oda, ha hajóval vagy gépmadárral mész. Viszont azt a hajót faszán fel kell ám tankolni, haver! Meg valami FBK is kell hozzá.}
@@ -66,13 +66,11 @@
 {169}{}{Kösz, egyik sem. Csak benéztem.}
 {170}{}{Nesze. Döglött, főtt, és azonosíthatatlan. Jó étvágyat!}
 {171}{}{Uhm... köszi.}
-{172}{}{Son, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
+{172}{}{Barátom, szagról megérzem, hogy nem viseled a rendszeresített erőpáncélt. Ha az őrmester meglát egyenruha nélkül, neked véged! Ezt én nem szeretném. Szóval vonszold le a segged a raktárba és öltözz fel!}
+{173}{}{Kicsi hölgy, szagról megérzem, hogy nem viseled a rendszeresített erőpáncélt. Ha az őrmester meglát egyenruha nélkül, neked véged! Ezt én nem szeretném. Szóval vonszold le a segged a raktárba és öltözz fel!}
 {174}{}{Hol lenni?}
 {175}{}{Oké.}
-{176}{}{Where's that?}
+{176}{}{Hol lenni?}
 {177}{}{Majd elintézem.}
 {178}{}{Menj le a lifttel egyel lejjebb, aztán kövesd a folyosót a fő elágazásig, utána menj balra és menj be az első ajtón.}
 {179}{}{Kösz.}

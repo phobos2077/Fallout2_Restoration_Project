@@ -8,7 +8,7 @@
 {107}{}{Hótbiztos, hogy nem akarol segíteni az öreg Percynek? Hótbiztos ám, hogy elkőne a segíccség.}
 {108}{}{Hát ezt még jobban át kéne gondolnom. Addig is van valami cserealapja?}
 {109}{}{Hát akkor miért nem mondja el még egyszer, miről van szó?}
-{110}{}{I didn't know you were going to pester me about that every time I came in. Sheesh. Goodbye.}
+{110}{}{Nem gondoltam volna, hogy akárhányszor bejövök, ezzel fog zaklatni. Elképesztő. Na, ég áldja!}
 {111}{}{Nem talá'tad még meg Woodyt? Kezdek naon aggoda'maskodni. Még sosem az életbe' nem vót távol ilyen sokára.}
 {112}{}{Sajna, még nem, de nem adtam fel. Van valamije, amit fel tudna ajánlani cserealapként?}
 {113}{}{Nem, még nem. Asszem, jobb, ha indulok is és folytatom a keresést.}
@@ -47,7 +47,7 @@
 {146}{}{Merthogy...?}
 {147}{}{Hát, hiándzik. Azé. (Percy elhomályosult szemmel pislog rád) Aha, látom, tunni akarod, mi gyön le neked ebből!}
 {148}{}{Igen, általában ennél a résznél szoktam egyre növekvő érdeklődést tanúsítani. Folytassa!}
-{149}{}{Hát tudok egy helyet, ahun eccsomó békebeli anyagot halmoztak fel. Rad-X meg Radaway rakásba. Énnekem má' semmit senem ér, de egy simabőrű, mint te, tán hasznát veheti. Elvállalod akkó a munkát? Csak úgy fizetek, ha Woody épségbe' idetojja a képit.}
+{149}{}{Hát tudok egy helyet, ahun eccsomó békebeli anyagot halmoztak fel. Rad-X meg RadAway rakásba. Énnekem má' semmit senem ér, de egy simabőrű, mint te, tán hasznát veheti. Elvállalod akkó a munkát? Csak úgy fizetek, ha Woody épségbe' idetojja a képit.}
 {150}{}{Mégis mennyi az az "eccsomó"?}
 {151}{}{Rendben, elvállalom. Igyekszem mihamarabb visszajönni.}
 {152}{}{Nem, most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}

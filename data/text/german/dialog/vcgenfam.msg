@@ -25,7 +25,7 @@ Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
  gereist. Stimmt das?}
 {122}{}{Vielleicht sollte Vault City doch Outsider aufnehmen.}
 {123}{}{Ist das wahr? Hat die alte Weltregierung immer noch Krieg geführt?}
-{124}{}{Du solltest Deine Reisen im  Vault City-Computer festhalten, damit andere darüber lesen können.}
+{124}{}{Du solltest Deine Reisen im Vault City-Computer festhalten, damit andere darüber lesen können.}
 {125}{}{Du darfst gerne solange bleiben, wie Du möchtest, Held.}
 {126}{}{Du solltest Deine Heldentaten gegen die Enklave in einer schönen, ordentlichen Liste festhalten.}
 {127}{}{*Gähn*...Hmmmmm? Ja? Was gibt's?}

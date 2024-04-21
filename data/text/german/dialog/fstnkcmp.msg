@@ -14,7 +14,7 @@
 {113}{}{[ZURÜCK]}
 {114}{}{Abmelden.}
 {115}{}{FEHLER: Treibstofftanks leer.}
-{116}{}{FEHLER: Navigationscomputer nicht betriebsbereit.}
+{116}{}{FEHLER: Navigationscomputer nicht in Bereitschaft.}
 {117}{}{-Treibstofftanks: Leer- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {118}{}{-Treibstofftanks: Voll- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {119}{}{Du siehst einen PoseidoNet-Navigationscomputer.}

@@ -29,7 +29,7 @@
 {402}{}{Aus dem Hinterhalt auf Gegner schießen}
 {403}{}{Nach eigenem ermessen}
 {404}{}{Bleib, wo du bist}
-{500}{}{Wer auch immer mich angreift}
+{500}{}{Wer mich angreift}
 {501}{}{Den Stärksten}
 {502}{}{Den Schwächsten}
 {503}{}{Wen du willst}

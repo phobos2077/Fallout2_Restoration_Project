@@ -199,7 +199,7 @@
 {883}{}{Ok, marché conclu... partenaire.}
 {884}{}{Eh bien, je pense que ta connaissance des anciens m'intéresse... Marché conclu.}
 {885}{}{Je ne me crois pas que j'aurais le temps de te montrer toutes les ficelles. Je suis sûre que tu t'en sortiras très bien tout seul, *bébé*.}
-{890}{}{Je peux te dire que tu n'es pas une sainte non plus, donc je pourrais dire la même chose de toi. Mais pour répondre à ta question, je ne te tuerai pas car je serai dans la merde. Je serai honnête,  }
+{890}{}{Je peux te dire que tu n'es pas une sainte non plus, donc je pourrais dire la même chose de toi. Mais pour répondre à ta question, je ne te tuerai pas car je serai dans la merde. Je serai honnête, }
 {891}{}{, j'en rien à foutre de qui que ce soit, à part moi-même. Si le monde est aussi pourri que tu le dis, alors m'associer à toi est la meilleure chose que j'ai à faire. C'est aussi simple que ça.}
 {892}{}{C'est d'accord. Allons-y.}
 {893}{}{Je t'emmerde Dex. Je n'ai jamais eu l'intention de t'emmener avec moi. J'ai juste pensé que je pouvais m'amuser un peu avant d'enterrer ton crâne là-dedans.}

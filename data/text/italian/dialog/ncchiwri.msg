@@ -79,17 +79,16 @@
 {370}{}{Lo immagino. Beh, adesso devo andare. }
 {380}{}{Va in giro a fare delle prediche sul peccato e robe del genere, ma non sa neppure cosa fa veramente nostro padre. O non lo sa, o fa finta di non saperlo.}
 {381}{}{Cosa fa tuo padre?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Okay, avrei delle altre domande...}
 {383}{}{Interessante. Beh, adesso devo andar. }
 {390}{}{Distilla alcol, si occupa degli affari sporchi, elimina le persone che cercano di fregarlo... le solite cose da famiglia. La mamma andrebbe fuori di testa se si accorgesse di quello che succede davvero. E soprattutto si arrabbierebbe se scoprisse questa distilleria.}
 {391}{}{E quanto potrebbe arrabbiarsi?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmm. Okay, avrei delle altre domande...}
 {393}{}{Interessante. Beh, adesso devo andar. }
 {400}{}{Probabilmente abbastanza da spaccare questo posto… come minimo. Poi darebbe a tutti noi una bella strigliata e ci obbligherebbe a lunghe giornate di preghiera. Eh. }
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Interessante. Ho delle altre domande...}
 {402}{}{Hmmmmm. Grazie. }
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Rich? Aw, l'hanno trovato morto in un fosso, come uno strafatto di Jet qualsiasi. Da quel che sappiamo, qualcuno deve averlo imbottito di droghe finche' non e' morto.}
 {411}{}{'Qualcuno' gli ha dato troppa droga? Come fate a dire che non e' morto di overdose perche' LUI ha preso troppa droga?}
 {412}{}{Chi pensate possa averlo fatto?}
 {413}{}{Mi dispiace. Avrei delle altre domande...}
@@ -97,12 +96,12 @@
 {420}{}{Cause he was a clean kid…Mom taught him THAT much. And if you feel like saying any different, maybe you and I
  should settle it right here.}
 {421}{}{Non volevo insinuare nulla. Scusa se te ne ho parlato.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{Non puoi fare finta che l'idea che abbia preso la droga di sua volonta' sia campata in aria. Il Jet crea una forte dipendenza.}
 {423}{}{Ascolta, *ragazzo*, se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {424}{}{Chi pensate possa averlo fatto?}
 {425}{}{Non voglio guai. Me ne vado. }
 {435}{}{Certo... beh, vedi di stare in guardia. Discorsi del genere farebbero arrabbiare qualsiasi Wright, percio' non andare a in giro a dire simili fesserie, okay?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{Non puoi fare finta che l'idea che abbia preso la droga di sua volonta' sia campata in aria. Il Jet crea una forte dipendenza.}
 {437}{}{Senti, RAGAZZO, non cercare di metterti contro uno come me. Se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {438}{}{Scusa, non intendevo offendervi. Ascolta, avrei qualche altra domanda…}
 {439}{}{Ho capito. Sara' meglio che vada. }

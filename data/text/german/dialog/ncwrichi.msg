@@ -204,7 +204,7 @@
 {941}{}{Wheeeeeeee!}
 {942}{}{Du bist's!}
 {943}{}{Du hast Läuse!}
-{944}{}{Du siehst aus wie ein Radscorpion!}
+{944}{}{Du siehst aus wie ein Radskorpion!}
 {945}{}{Ich frage Dad ob ich eine Hure werden kann, wenn ich groß bin. Er sagt er hätte eine bitter nötig.}
 {946}{}{Ich will eine Hure werden, wenn ich groß bin. Dad meint, er braucht mehr von denen.}
 {947}{}{Ich habe eine Muschi.}

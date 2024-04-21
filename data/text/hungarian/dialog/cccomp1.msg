@@ -4,7 +4,7 @@
 {103}{}{Jó napot, katona!}
 {104}{}{Kérem, ne nyúljon semmihez!}
 {105}{}{Katonáknak nem szabadna itt lennie.}
-{106}{}{You're out of uniform. }
+{106}{}{Nincs rajtad egyenruha.}
 {107}{}{Jobb lenne, ha felöltöznél. A fegyvertár a terem végén van balra.}
 {108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
 {109}{}{Kik ezek a fickók?... Behatolók! Riadó!}

@@ -33,7 +33,7 @@
  kann ich dir sagen.}
 {127}{}{Komisch, dass ich noch nicht wie 'ne Glühbirne leuchte...}
 {128}{}{Von dem verdammten RadAway krieg ich Durchfall.}
-{129}{}{Danke, Fremdling. Ich weiß deine Hilfe zu schätzen. Den Autodoc hätt ich mir nicht
+{129}{}{Danke, Fremdling. Ich weiß deine Hilfe zu schätzen. Den Auto-Doc hätt ich mir nicht
  leisten können.}
 {130}{}{Würd mich gern revanchieren, bin aber total abgebrannt.}
 {131}{}{Das ist das letzte Mal, dass ich das verdammte Wasser in dieser Stadt getrunken habe, das

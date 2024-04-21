@@ -42,7 +42,7 @@
 {141}{}{Megtudtam, kinél van, de szerintem Dr. Wong egyszerűen megette.}
 {142}{}{Nem, még nem. De ne csüggedj!}
 {143}{}{Nem. Az a helyzet, hogy nem foglalkoztam vele.}
-{144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.}
+{144}{}{Rendben. ::liheg:: Mindenekelőtt kéne valami módot találni, hogy visszakerüljön belém. Beszélnél Dr. Funggal ez ügyben? Köszi.}
 {145}{}{Értem.}
 {146}{}{Nem.}
 {147}{}{Igazán nagyra értékelem, amit értem teszel. Soha nem fogom elfelejteni.}

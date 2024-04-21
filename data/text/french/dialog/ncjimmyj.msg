@@ -42,7 +42,7 @@
 {282}{}{MOI PARTIR TOI LAISSER MOI P --}
 {283}{}{Hé, ta, heu, *méthode à toi*, ça m'a l'air super, et justement j'ai une ques --}
 {284}{}{Non, je ne crois pas --}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Je savais que tu reviendrais, je le savais ! Jimmy J te l'avais pas dit ? Quand c'est bon, la clientèle te laisse jamais tomber ! Bon, camarade pilote, que peut faire Jimmy J pour toi, aujourd'hui ?}
 {291}{}{Hé, on dirait notre pilote. Alors, *camarade*, on revient parce qu'on a BESOIN de Jimmy J ?}
 {292}{}{Heu... moi oublier quoi moi dire. Moi partir.}
 {294}{}{Nous échanger trucs ? Moi AIMER trucs.}
@@ -140,7 +140,7 @@
 {543}{}{Je vois. J'ai d'autres questions à poser...}
 {550}{}{Ils le gardent dans un endroit qui s'appelle les *Etables*, vers le Nord, à l'extérieur de la ville. J'y suis allé qu'une fois, ils m'ont pas laissé franchir la grille, alors que je BOSSE pour la Famille !}
 {551}{}{Allons, il doit bien y avoir un moyen.}
-{554}{}{Les Etables, hein ? A l'extérieur de la ville, vers le  Nord... [Et hop, enregistré sur le Pip-Boy.] Merci du tuyau, Jimmy.}
+{554}{}{Les Etables, hein ? A l'extérieur de la ville, vers le Nord... [Et hop, enregistré sur le Pip-Boy.] Merci du tuyau, Jimmy.}
 {560}{}{J'en sais fichtre rien, camarade. Je VENDS pour lui, et je l'ai peut-être vu une fois ou deux à cent mètres de distance. Big Jésus Mordino ne laisse approcher personne qui soit pas de la famille ou tout comme.}
 {561}{}{Allez, on fait un deal.}
 {564}{}{D'accord. Merci, Jimmy. Il faut que j'y aille.}

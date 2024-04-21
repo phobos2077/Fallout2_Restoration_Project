@@ -1,4 +1,4 @@
-{100}{}{You see a bounty hunter.}
+{100}{}{Egy fejvadászt látsz.}
 {101}{}{Meg fogsz halni!}
 {102}{}{Szóval te vagy a halállistán!}
 {103}{}{Jómodort kéne tanulnod!}

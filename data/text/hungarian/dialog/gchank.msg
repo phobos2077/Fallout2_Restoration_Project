@@ -1,5 +1,5 @@
 {100}{}{Egy világító ghoult látsz, arcán az aggodalom jeleivel.}
-{101}{}{You see Hank the glowing ghoul, a worker here in the power plant.}
+{101}{}{Ő Hank, a világító ghoul. Munkás az erőműben.}
 {102}{}{Ő egy világító ghoul. Folyamatosan ellenőriz néhány mérőműszert.}
 {110}{}{Üdv, Hank vagyok. Én felügyelem a reaktormag környékét. Nem mintha túl sok mindenre kéne itt felügyelni.}
 {111}{}{Üdv, örülök, hogy megint erre jársz. Az ember olyan ellazultnak érzi magát itt a reaktormag közelében. A legtöbb simabőrű nem tudja, mit hagy ki.}
@@ -13,8 +13,8 @@
 {131}{}{A jelentés szerint a hűtőközeg szintje túl magas. Mit gondolsz, nem kéne kikapcsolni?}
 {132}{}{Remek okfejtés, Hank. Na, akkor én megyek is. Viszlát!}
 {133}{}{Most, hogy jobban végiggondolom, talán várhatnál vele egy kicsit. Hadd egyeztessek Harolddal, mielőtt lekapcsolnád a hűtést. Hamarosan jövök.}
-{140}{}{Yeah, the smoothies that built this place didn't want to fry either, so they included a robot.
- It was designed to perform maintenance tasks by remote control from that terminal over there.}
+{140}{}{Hát igen, a reaktort építő simabőrűek sem akartak megsülni, ezért rakták oda a robotot.
+ Arra tervezték, hogy távirányítással tudjon karbantartó munkákat végrehajtani abból a terminálszobából.}
 {141}{}{Remek, ezt kipróbálom!}
 {142}{}{Ezt ki kell próbálnom. Majd még jövök.}
 {150}{}{Szép kis alkatrészed van. Épp erre volt szükségünk.}

@@ -12,12 +12,12 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Slaver_Count			(0)
-#define MVAR_Attack_Slavers			(1)
-#define MVAR_Slaves_Flee			(2)
-#define MVAR_Take_Slaves			(3)
-#define MVAR_Can_Check_Slaves			(4)
-#define MVAR_Guide_Sister			(5)
+#define MVAR_Slaver_Count                       (0)
+#define MVAR_Attack_Slavers                     (1)
+#define MVAR_Slaves_Flee                        (2)
+#define MVAR_Take_Slaves                        (3)
+#define MVAR_Can_Check_Slaves                   (4)
+#define MVAR_Guide_Sister                       (5)
 #define MVAR_Came_With_Rangers                  (7)
 
 #define slaves_in_big_pen(x)     tile_in_tile_rect(15936, 15922, 18536, 18322, x)

@@ -167,16 +167,13 @@
 {761}{}{Honnan érkezik a Jet?}
 {762}{}{Jaja. Ellenben volna még néhány kérdésem...}
 {780}{}{A Jet egyenesen INNEN származik. Mi nem kutatunk az arany után, hanem egyenesen mi csináljuk. A Jet nem más, mint a folyékony arany. A bányászoknak mindent megér, és alig kerül valamibe az előállítása. Elvisszük szépen Reddingbe, ők belövik maguknak, elszállnak tőle, mi pedig elhozzuk az aranyukat. Pofonegyszerű.}
-{781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
- addictive.}
-{800}{}{You're right about that... see, we didn't always HAVE Jet. But we stumbled across this kid - he took a look at the shitty
- drugs we was selling and said he could do 'better.' And he did. Now he works for us. That simple.}
+{781}{}{Mióta folyik ez a gyakorlat? Ha a Jet annyira addiktív, akkor mostanra akár egész Észak Kaliforniát az uralmatok alá hajthattátok volna.}
+{800}{}{Ez bizony igaz... persze nem mindig volt nekünk Jetünk. Szerencsére belebotlottunk egy srácba, megnézte az általunk árult silány drogokat, és azt mondta, hogy ő jobbat tud csinálni. És lőn. Most nekünk dolgozik. Egyszerű ez, mint a karikacsapás.}
 {801}{}{Milyen srácról beszélsz, és hol található?}
 {820}{}{Úgy hívják, hogy Myron. Ami a hollétét illeti... ezt nem kötöm az orrodra.}
-{821}{}{Kid's name's Myron. We got him set up in the stables, north of town, testing new drugs. You could go over and see him if
- you want, but he's busy most of the time... either with the drugs or the women.}
+{821}{}{A gyereket Myronnak hívják. A várostól északra lévő istállóba szállásoltuk el, ott teszteli az új drogokat. Ha akarod, meglátogathatod, de az ideje nagy részében igen elfoglalt... vagy a droggal, vagy a csajokkal.}
 {822}{}{Miért nem embereled meg magad, és mondod el nekem?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Felejtsük el, ez már a múlt! Inkább kérdeznék valamit.}
 {824}{}{Szóval Myron... Jól van, Jesus. Kösz a beszélgetést.}
 {840}{}{A Desperado a szórakozóhelyek netovábbja, homes. Van Jet, játék, akció... és a puták csak arra várnak, hogy leszólítsd őket. Nedves a bugyijuk, és mindenben benne vannak. Maga a paradicsom, homes, para nélkül.}
 {841}{}{A Desperado a szórakozóhelyek netovábbja, chica. Van Jet, játék meg akció... Máshova tök fölösleges menni.}

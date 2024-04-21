@@ -80,8 +80,7 @@
 {179}{}{Ahm, ja, izé... Majd gondolkodom rajta. Viszlát, doki!}
 {180}{}{Úgy tűnik, újabban egyre több bányász élvezi a Jet hatását, ahelyett hogy dolgoznának. Ha ez továbbra is így marad, Redding aranytermelése hamarosan a nullával lesz egyenlő. Úgy látszik, ez New Renót cseppet sem izgatja.}
 {181}{}{Itt az összes bányász csak éppen annyit dolgozik, hogy meg tudja szerezni a következő adag Jetjét. A termelés ezáltal hihetetlenül lelassult. Ha nem változik a helyzet, New Reno bekebelezi Reddinget.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
+{182}{}{Az utóbbi időben a bányászok mást sem csinálnak, csak belövik magukat. Aranyat már rég nem bányászik senki. Tartok tőle, hogy hamarosan New Reno fogja uralni ezt a várost. A leghőbb vágyam, hogy valamilyen módon megszüntethessük ezt a Jet-függőséget.}
 {183}{}{Mi köze van ehhez New Renónak?}
 {184}{}{Honnan érkezik a Jet?}
 {185}{}{Értem. Hadd kérdezzek valami egyebet!}
@@ -102,16 +101,13 @@
 {200}{}{Mi köze volt ehhez New Renónak?}
 {201}{}{Jó érzés, hogy bevált, doki. Most viszlát!}
 {202}{}{Sikerült megoldanod? Mit értesz ez alatt?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
+{203}{}{Azt értem alatta, hogy van nálam egy Jet-ellenanyag. A Menedékvárosban dolgozó Troy doktor készítette, és ez minden bizonnyal megoldja Redding Jet-függőségből adódó problémáit.}
 {204}{}{Áh, semmi! Hadd kérdezzek valami mást, doki!}
 {205}{}{Hogyne. Túl sok Jet, a munka meg akadozik... de hol hallottál te erről?}
 {206}{}{McClure mondta nekem Menedékvárosban.}
 {207}{}{Csak pletyka volt, ez minden.}
 {208}{}{Ez most lényegtelen. Hadd kérdezzek valami mást!}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno nagyon olcsón árusítja a Jetet. A Jet rémisztően gyorsan függővé tesz, jobban, mint korábban bármi. Rájöttek, hogy ha egy területen elég embert meg tudnak fertőzni vele, azok az emberek bármit megtesznek majd, hogy még többet kapjanak belőle. Ez de facto ellenőrzést biztosít számukra a kérdéses terület - jelen esetben Redding - felett.}
 {210}{}{Értem. Lenne még egy-két kérdésem, doki.}
 {211}{}{Szóval, ha azt akarod, hogy ne New Reno irányítsa Reddinget, akkor szerinted kinek kéne ezt a szerepet betöltenie?}
 {212}{}{Köszönöm, hogy ezt elmagyaráztad nekem, doki. Viszlát!}

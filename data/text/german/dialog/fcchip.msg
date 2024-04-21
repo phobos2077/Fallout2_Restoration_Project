@@ -9,7 +9,7 @@
 {108}{}{Wer bist du?}
 {109}{}{Kannst du mir vielleicht Informationen über meine Leute geben?}
 {110}{}{Auaaa, mein Bauch. Ich hab Schmerzen. Bitte lass mich in Ruhe.}
-{111}{}{OK; OK.}
+{111}{}{Okey-dokey.}
 {112}{}{Was ich habe? Ich werd's dir sagen: Ich hab mich letzte Woche betrunken, angefangen, mit Lao Chou Karten zu spielen und verloren. Ich war so stockbetrunken, dass ich meine Milz gesetzt habe. Jetzt hat er sie und ich muss sie wiederhaben.}
 {113}{}{Du hast deine Milz VERKAUFT?}
 {114}{}{Dumm gelaufen.}

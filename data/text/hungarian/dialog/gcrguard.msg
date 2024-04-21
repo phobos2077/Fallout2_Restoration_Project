@@ -37,7 +37,7 @@
 {160}{}{Tartsd nyitva a szemed!}
 {161}{}{Légy üdvözölve az irányító részlegben.}
 {162}{}{Ne nyúlj semmihez!}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Ha valami tönkremegy, ne csodálkozz, ha téged veszünk elő!}
 {164}{}{Ha csak egyetlen probléma is felmerül... téged teszünk felelőssé.}
 {170}{}{Elég meglepő, hogy egy hozzád hasonló simabőrűt itt látunk.}
 {171}{}{Látom, le szeretnél barnulni itt egy kicsit.}

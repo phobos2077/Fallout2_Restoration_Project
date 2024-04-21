@@ -33,5 +33,5 @@
 {132}{}{Honnan való vagy?}
 {133}{}{Hogy találkoztál a Borzzal?}
 {134}{}{Most nincs kérdésem. Szia.}
-{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
+{135}{}{Ó, istenem... a Borz meghalt ... nem tudom, most mit csinálok... Nincs itt egyetlen barátom se... az egész családom elpusztult... ó, istenem...}
 {136}{}{Köszönök mindent. Megyek, megkeresem a Borzot.}

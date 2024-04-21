@@ -204,4 +204,4 @@
 {800}{}{Tu as donné les Cat's Paw à Miss Kitty.}
 {900}{}{Tu te sens mieux et plus en phase avec ton corps désormais.}
 {1218}{}{ allait t'envoyer... [Clin d'oeil.]}
-{1336}{}{  dollars par semaine.}
+{1336}{}{ dollars par semaine.}

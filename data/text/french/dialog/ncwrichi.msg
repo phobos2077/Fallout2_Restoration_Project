@@ -6,7 +6,7 @@
 {157}{}{Tu vois un des enfants des Wright. Elle te tire la langue.}
 {158}{}{Tu vois un des enfants des Wright. Elle a des cheveux si courts qu'elle correspond parfaitement au modèle infantile masculin par défaut.}
 {159}{}{Tu vois un des enfants des Wright. Elle te regarde.}
-{175}{}{Fallout 2 vous a été présenté par Nuka Cola.}
+{175}{}{Fallout 2 vous a été présenté par Nuka-Cola.}
 {176}{}{Hé ! }
 {177}{}{}
 {178}{}{Merci d'nous avoir sauvés, }
@@ -105,7 +105,7 @@
 {525}{}{C'est un VRAI mutant ?}
 {526}{}{Mutant ?}
 {529}{}{Pourquoi ? Oui, c'est un mutant. T'inquiète pas, il ne mord pas...}
-{530}{}{Oui, c'en est un. T'as de la chance, il n'aime pas manger les  petits enfants.}
+{530}{}{Oui, c'en est un. T'as de la chance, il n'aime pas manger les petits enfants.}
 {531}{}{Oui, c'est un mutant AFFAME. Et justement, c'est l'heure du goûter !}
 {532}{}{Oui, c'en est un. Dis, j'ai appris la nouvelle pour Richard. Tu saurais pas ce qu'il lui est arrivé ?}
 {540}{}{L'enfant s'arrête et te regarde.}

@@ -2,7 +2,7 @@
 {101}{}{Ennek a hajcsárnak jó nagy vágás van a fején.}
 {102}{}{Egy elég nagy darab rabszolga-hajcsárt látsz.}
 {150}{}{Egy rabszolga-hajcsár, aki szemlátomást élvezi a munkáját.}
-{151}{}{This slaver seems to be very strong but not too bright.}
+{151}{}{Ez a rabszolga-hajcsár nagyon erősnek látszik, viszont nem tűnik valami okosnak.}
 {152}{}{Ez a hajcsár jól felszereltnek tűnik, csakúgy, mint a társai.}
 {225}{}{Kapjuk el őket!}
 {226}{}{Csak azokat öldd meg, akik ellenállást fejtenek ki!}

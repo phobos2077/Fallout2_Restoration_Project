@@ -10,8 +10,8 @@
 {109}{}{Ca ne fait rien.}
 {110}{}{Ug.}
 {111}{}{Voici ce que j'ai.}
-{112}{}{regular gecko pelts.}
-{113}{}{golden gecko pelts.}
+{112}{}{peaux de gecko ordinaires.}
+{113}{}{peaux de gecko dorées.}
 {114}{}{Je prends le tout.}
 {115}{}{La prochaine fois peut-être. Salut.}
 {116}{}{J'aime bien faire des affaires avec toi. A un de ces jours.}
@@ -21,8 +21,8 @@
 {120}{}{On dirait que t'es un peu à court de liquide. Ecoute, ça fait LONGTEMPS que je vis dans les bois, si tu vois ce que je veux dire. Tu ne le regretteras pas.}
 {121}{}{Certainement.}
 {122}{}{Pas question. Salut.}
-{123}{}{[Miria te pardonnera... peut-être. Le côté positif, c'est que le trappeur t'a donné des  peaux.]}
-{124}{}{[Davin n'a pas l'air très frais après cette expérience. Mais il marchera normalement d'ici  quelques jours, c'est sûr.]}
+{123}{}{[Miria te pardonnera... peut-être. Le côté positif, c'est que le trappeur t'a donné des peaux.]}
+{124}{}{[Davin n'a pas l'air très frais après cette expérience. Mais il marchera normalement d'ici quelques jours, c'est sûr.]}
 {125}{}{[Tu te sens sale dans tous les sens du terme. Mais tu as eu des peaux de gecko.]}
 {126}{}{Salut.}
 {127}{}{[Il lève la main droite et dit :] Hugh. Moi trappeur courageux. Chasser gros geckos. Moi pas passer sur tes terres. Partir en paix. [Il te fait cadeau d'une peau de gecko.]}

@@ -1,5 +1,5 @@
 {100}{}{You see a very attractive young lady.}
-{101}{}{You see Rebecca.}
+{101}{}{Du ser Rebecca.}
 {150}{}{You see Rebecca, the owner of Becky's Casino Bar.}
 {200}{}{Hi there, I'm Rebecca. Can I get you something to drink? I'm sure you're thirsty
  after your trip through the wastes.}

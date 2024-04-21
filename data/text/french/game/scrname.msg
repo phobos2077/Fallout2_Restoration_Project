@@ -674,7 +674,7 @@
 {774}{}{Garde de la réserve}
 {775}{}{Script de Cart}
 {776}{}{Script de Cart}
-{777}{}{Brahmine folle}
+{777}{}{Brahmines folles}
 {778}{}{Hakeswill}
 {779}{}{Centre-ville de Redding}
 {780}{}{Script de Cart}
@@ -730,7 +730,7 @@
 {830}{}{Acheteur de bétail}
 {831}{}{Script de Cart}
 {832}{}{Etrangère mystérieuse}
-{833}{}{Brahmine folle}
+{833}{}{Brahmines folles}
 {834}{}{Membre des Yakuza}
 {835}{}{Sauvage}
 {836}{}{Chien}
@@ -933,7 +933,7 @@
 {1033}{}{Esclave}
 {1034}{}{Esclavagiste}
 {1035}{}{Chip}
-{1036}{}{Réacteur}
+{1036}{}{Reacteur}
 {1037}{}{Ordinateur du réacteur}
 {1038}{}{Caissier}
 {1039}{}{Caisse}
@@ -1405,7 +1405,7 @@
 {1505}{}{M. Chimie !}
 {1506}{}{Dex}
 {1507}{}{Cat Jules}
-{1508}{}{[Kitsune]}
+{1508}{}{Kitsune}
 {1509}{}{Guerrier}
 {1510}{}{Aérosol insecticide}
 {1511}{}{Prisonnier du Docteur}

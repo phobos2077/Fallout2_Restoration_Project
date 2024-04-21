@@ -63,7 +63,7 @@
 {154}{}{Nichts, wollte nur vorbeischauen.}
 {155}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
 {156}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
-{157}{}{Warum hast du keine Uniform?}
+{157}{}{Warum trägst du keine Uniform? }
 {158}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {159}{}{Eindringlinge! Ruft die Wache!}
 {160}{}{Wache! Eindringlinge in der Wartungsabteilung!}

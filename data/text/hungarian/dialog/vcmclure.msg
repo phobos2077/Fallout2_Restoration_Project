@@ -234,7 +234,7 @@
 {333}{}{Van itt egy reaktor-lemez. Egy gekkói ... hmmm ... technikus szerint Menedékváros számítógépe optimalizálni tudná a működését, tovább növelve a teljesítményét és stabilitását.}
 {334}{}{Őrség! Őrség !!!}
 {335}{}{}
-{336}{}{You told McClure about the Redding Jet addiction problem.}
+{336}{}{Tájékoztattad McClure-t Redding Jet-függőségével kapcsolatban.}
 {337}{}{Átadtad a gazdálkodási adatlemezt McClure számára.}
 {338}{}{Még mindig keresem a módját, hogy lehetne optimalizálni az erőmű működését.}
 {339}{}{Még mindig keresem a módját, hogy lehetne optimalizálni az erőmű működését.}
@@ -258,5 +258,5 @@
 {357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
 {358}{}{Thank you!}
 {359}{}{You solved the village problem.}
-{360}{}{This is quite interesting.}
+{360}{}{Ez érdekes lesz.}
 {370}{}{Alright. Well, I won't get in your way then.}

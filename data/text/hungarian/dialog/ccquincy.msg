@@ -1,5 +1,5 @@
 {100}{}{Egy katonai gyakorlót viselő fickó.}
-{101}{}{You see Quincy, the mechanic.}
+{101}{}{Quincy, a szerelő.}
 {102}{}{Egy fickót látsz katonai gyakorlóban. Az olajfoltokból ítélve inkább szerelő lehet, mint katona.}
 {103}{}{Quincy a nevem. Mit keresel itt?}
 {104}{}{Kell kérdezni tőled valami.}
@@ -25,7 +25,7 @@
 {124}{}{Nos... Van másolatom a tervekről, de nem adhatom oda csak úgy akárkinek. Mit akarsz velük?}
 {125}{}{Lenni barátok délen, kiknek kelleni.}
 {126}{}{Nos... öhm...}
-{127}{}{I've got some friends down south who want to get their hands on them.}
+{127}{}{Van néhány déli illetőségű barátom, akiknek kellene.}
 {128}{}{Az őrmi mondta, hogy hozzam el őket.}
 {129}{}{Délen... Szent szar! Egy kém! Őrség! Riadó!}
 {130}{}{Upsz.}

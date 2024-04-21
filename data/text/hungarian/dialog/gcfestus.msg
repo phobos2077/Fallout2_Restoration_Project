@@ -34,7 +34,7 @@
 {181}{}{Mit mondjak?... le vagyok nyűgözve...}
 {182}{}{Igazán nem akarom feltartani. Viszlát!}
 {190}{}{Hát nem mondom, hogy nem kelne el egy kis segítség, de hát láthatod, hogy senki nem elég képzett ahhoz, amit csinálok. Még az alapokat sem képesek felfogni.}
-{191}{}{How could anyone hope to keep up with you? You're above everyone.}
+{191}{}{Hogy lehetne magával akárhogyis lépést tartani? Te mindenki felett állsz.}
 {192}{}{Hát maga aztán nem semmi, ez kétségtelen. Na, ég áldja!}
 {200}{}{Hát éppen ez az! Látom, ismered a dörgést. Ha nem lenne itt annyi munkám, én lennék Gekkó vezetője is. Abban biztos lehetsz, hogy volna foganatja.}
 {201}{}{A várost is átvenné?}
@@ -58,8 +58,7 @@
 {261}{}{A maga technikai zsenijével semmi perc alatt rájönne, ha ez itt bomba lenne. Kérem építse be.}
 {262}{}{Asszem, igaza van. Jobb, ha más módot találok, hogy az alkatrész a helyére kerüljön.}
 {270}{}{Rendben, itt vagyok. De azt továbbra sem tudom, hogy ez a jó alkatrész vagy bomba netán. Az a baj, hogy túlságosan értékes vagyok, hogy csakúgy a levegőbe repüljek. Talán később megkérhetnénk valakit, hogy csinálja meg... jóval később.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Most kell megcsinálni. És maga az egyetlen ember, aki ért hozzá. Gyerünk, Gekkó közössége magától függ!}
 {272}{}{Asszem, igaza van. Jobb, ha más módot találok, hogy az alkatrész a helyére kerüljön.}
 {300}{}{Hát az tuti, hogy sok uránt eszik, és hát szivárog is valamennyire. Már kértem valakit, hogy javítsa meg, de rám sem hederítenek.}
 {301}{}{Úgy hallottam, hogy szivárog a sugárzó anyag és egyenesen a talajvizet szennyezi. Igaz ez?}
@@ -78,8 +77,7 @@
 {350}{}{Meglepődtél? Mondtam már, hogy mindent tudok az atomerőművekről. Hallgatnod kellett volna rám.}
 {351}{}{Na, ha tudja, mi az, akkor gyerekjáték üzembe helyeznie.}
 {352}{}{Azt hiszem, már eddig is túl sokat hallgattam magát. Viszlát!}
-{360}{}{Of course I do. Why, that's just plain simple for someone of my experience and talent. I was
- weaned on Magnetosphere Regulators as a pup, you know.}
+{360}{}{Hát persze. Ez pofonegyszerű, ha valaki olyan tapasztalt és tehetséges, mint én. Kölökkoromban magnetoszféra szabályozókon nőttem fel!}
 {361}{}{Ez nagyszerű. Lenne szíves üzembe helyezni?}
 {370}{}{Hát minden bizonnyal meg tudnám csinálni, minden valószínűség szerint én vagyok itt az egyetlen, aki meg tudná csinálni. A hidroelektromos magnetoszféra szabályozó trükkös kis jószág.}
 {371}{}{A szabályozó csakis magára vár. Tudtam, hogy bízhatom magában.}
@@ -109,7 +107,7 @@
 {442}{}{Kell és kész. Ugyan, jóember. Adjon egyet és nem is zavarom.}
 {443}{}{Asszem, jobban teszi, ha ad egyet. Az atomerőmű veszélyes üzem tud ám lenni. Gondolom érti, mire gondolok...}
 {444}{}{Na, jó, elmondom, szóval... hééé... annak a Fershlubiner-nek nem csúszott át a mutatója a piros mezőbe?}
-{450}{}{Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.}
+{450}{}{Rendben. Itt van egy alkatrész igénylő nyomtatvány. Gondolom, meg tudod indokolni az igénylést.}
 {451}{}{Rendben... itt van egy... Hé? Hova raktam azt a francot? Itt kell lennie valahol... Hmm, most sehol nem találom. Azért majd előkerítem.}
 {452}{}{Kösz, viszlát!}
 {453}{}{Értem, akkor majd később visszajövök. Viszlátásra.}

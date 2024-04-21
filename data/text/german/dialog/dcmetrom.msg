@@ -19,7 +19,7 @@
 {257}{}{Hey, Mann!}
 {258}{}{Du hast Glück, dass du nur bei den Jagden mitmachen musst.}
 {259}{}{Türwache ist ein langweiliger Job.}
-{260}{}{Wie läuft es?}
+{260}{}{Wie geht's.}
 {261}{}{Du bist die erste Frau, die Metzger je eingestellt hat.}
 {262}{}{Metzger muss was für dich übrig haben.}
 {263}{}{Du bist ganz alleine, junge Dame.}

@@ -357,7 +357,7 @@ procedure Node912 begin
 end
 
 procedure Node920 begin
-   NMessage(890);
+   NMessage(234);
    call Node009;
 end
 

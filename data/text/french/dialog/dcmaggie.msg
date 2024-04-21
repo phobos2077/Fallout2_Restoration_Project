@@ -66,26 +66,26 @@
 {214}{}{Gotta run. See ya.}
 {215}{}{Not now. Maybe later. Yes, definitely later.}
 {216}{}{Puis-je te poser une question ?}
-{217}{}{Later then.}
-{218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno gangsters.}
-{219}{}{Smart girl! I like that!}
-{220}{}{Hmm, I have to go. I’ll see you later.}
-{221}{}{Why? Why did you destroy my still? You bastard!}
+{217}{}{Au revoir.}
+{218}{}{J'ai un alambic au sous-sol. Je l'ai fabriqué moi-même. C'est mieux que de payer le triple à ces gangsters de New Reno.}
+{219}{}{Une fille intelligente ! J'aime bien ça !}
+{220}{}{Hmm, je dois y aller. Je te verrai plus tard.}
+{221}{}{Pourquoi ? Pourquoi as-tu détruit mon alambic ? Espèce de salaud !}
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{Quel dommage !}
 {224}{}{Salut.}
-{225}{}{I’ll just make another one, you know.}
-{226}{}{I know.}
-{227}{}{Well, that’s good.}
+{225}{}{Je vais en faire un autre, tu sais.}
+{226}{}{Je sais.}
+{227}{}{C'est une bonne chose.}
 {228}{}{Salut.}
-{232}{}{Why? Why did you destroy my still? You bitch!}
-{233}{}{Where are you, baby?}
-{234}{}{Are you coming?}
+{232}{}{Pourquoi ? Pourquoi as-tu détruit mon alambic ? Espèce de salope !}
+{233}{}{Où es-tu, bébé ?}
+{234}{}{Tu viens ?}
 {235}{}{J'attends.}
-{236}{}{I'm in here, lover.}
-{237}{}{I've got a bar to run.}
-{238}{}{Follow me, sugar.}
-{240}{}{How did you... Do that... Uhhh...}
-{241}{}{It's O.K., size doesn't really matter.}
-{242}{}{That was, ummm, nice -- I guess.}
+{236}{}{Je suis là, mon amour.}
+{237}{}{J'ai un bar à gérer.}
+{238}{}{Suis-moi, mon chou.}
+{240}{}{Comment as-tu... fait ça... Euhhh...}
+{241}{}{C'est bon, la taille n'a pas vraiment d'importance.}
+{242}{}{C'était, ummm, sympa -- je suppose.}
 {243}{}{Thanks, sweety; that was fun.}

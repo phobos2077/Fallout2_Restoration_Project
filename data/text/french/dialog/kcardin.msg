@@ -112,14 +112,14 @@
 {402}{}{Il est mort... Mangé par les geckos.}
 {403}{}{Je... l'ai vu. Il m'a dit qu'il était parti avec une autre femme. Ouah ! Regardez l'heure, faut que j'y aille !}
 {404}{}{Euh, je... En fait, je le cherche encore... Il se pointera sûrement un jour ou l'autre, pas vrai ? Au revoir.}
-{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
+{410}{}{Mangé par les geckos ? Impossible. Jamais ils attraperaient mon Souriant, il est trop bon chasseur pour ça. Il doit y avoir erreur.}
 {411}{}{Ouais, vous avez sans doute raison. Mes excuses pour la peur. Je peux vous demander quelque chose ?}
 {412}{}{Non, je l'ai vu, ou du moins ce qu'il en restait. Pas joli joli. Bon, à plus.}
 {413}{}{Ah, on peut rien vous cacher. Hé, hé, je vous mettais, hé, hé, en boîte. Ouais, c'est ça. Bon, au revoir.}
 {414}{}{Oui, as-tu découvert quelque chose ?}
 {415}{}{Je crois que les frères Dunton ont tenté de voler vos Brahmines. J'ai cru normal de vous prévenir, madame.}
 {416}{}{Euh, laissez tomber.}
-{417}{}{Quoi !? Tu en es certain ?  Quelles preuves as-tu ?}
+{417}{}{Quoi !? Tu en es certain ? Quelles preuves as-tu ?}
 {418}{}{J'ai trouvé des pinces géantes de radscorpion dans la cabane des Dunton près des pâturages. Je les ai poussés à admettre qu'ils les utilisaient pour effrayer Torr.}
 {419}{}{J'ai trouvé des pinces géantes de radscorpion dans la cabane des Dunton près des pâturages. C'est le genre de déguisement qui aurait pu effrayer Torr.}
 {420}{}{Moi qui croyais qu'ils utiliseraient un de leurs tours habituels ! Mon pauvre petit Torr, ces garçons sont vraiment de beaux petits salauds. Cela explique ce dont parlait Torr, mais nous avons aussi besoin de prouver que les Dunton ont volé le bétail. La parole d'un homme ne suffit pas, tu sais.}

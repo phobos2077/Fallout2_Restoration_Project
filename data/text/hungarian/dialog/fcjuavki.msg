@@ -68,7 +68,7 @@
 {167}{}{Volna még néhány egyéb kérdésem.}
 {168}{}{Érdekelne, hogyan csatlakozhatnék.}
 {169}{}{Értem. Hát... viszlát!}
-{170}{}{Him: Well, it's very simple. We just give you this informational holodisc. Her: ... you sit through a short movie... Him:... and then you go talk to AHS-7! Her: Easy, isn't it?}
+{170}{}{A férfi: Nos, ez igen egyszerű. Átadjuk magának ezt az információs hololemezt... A nő: ...egy rövidke filmet meg kell néznie... A férfi: ...aztán mehet és beszélhet BHK-7-el! A nő: Egyszerű, nem igaz?}
 {171}{}{Készen.}
 {172}{}{Nem hiszem, hogy készen állok erre.}
 {173}{}{A nő: Ez a maga különbejáratú joga. A férfi: Remélem, megérti, hogy nem császkálhat keresztül-kasul a bázisunkon. A nő: Ezért jobb lenne, ha távozna! Ha nagyon köti az ebet a karóhoz, az őrök valószínűleg le fogják lőni.}
@@ -88,11 +88,11 @@
 {187}{}{A nő: Nem is volt olyan rossz, ugye? A férfi: Most menjen, és beszéljen BHK-7-el! Hamarosan mindketten Hubológia-elvtársak leszünk! A nő: Úgy izgulok! A férfi: Az újoncok felvételétől mindig kanos leszek. A nő: Ó, édesem... A férfi: Ó, bébi...}
 {188}{}{Akkor talán majd később visszanéznék...}
 {189}{}{A férfi: Ez nagy kár. A nő: Most már kötelezettségei vannak.}
-{190}{}{-DONE-}
+{190}{}{-RENDBEN-}
 {191}{}{A férfi: Maga most életre szóló döntést hozott. A nő: Sajnos, rossz döntés volt. Mindketten: Őrség! Őrség!}
 {192}{}{Fenébe!}
 {193}{}{A férfi: Üdvözöljök,}
-{194}{}{So what do I do now that I'm a Hubologist?}
+{194}{}{Szóval most, hogy Hubologista vagyok, mi a teendőm?}
 {195}{}{Hogyan tudnék magukkal összekovácsolódni?}
 {196}{}{Azt hiszem, ennél többet nem akartam. Minden jót!}
 {197}{}{}
@@ -101,10 +101,10 @@
 {200}{}{Köszönöm. Hogyan tudnék magukkal összekovácsolódni?}
 {201}{}{Köszönöm. Ez minden, amit tudni akartam.}
 {202}{}{A nő: Szomorú dolog ez - mivel a Csillagbéli Atya tudja, hogy maga aranyos -, de ezt inkább mégsem kéne. A férfi: Természetesen mindketten nagyon megtisztelőnek találjuk! A nő: Esetleg valamikor mindannyian elmehetnénk New Renóba, és közösen forgathatnánk egy filmet.}
-{203}{}{Oh, all right. What else is there to do as a Hubologist?}
+{203}{}{Ó, rendben van. Mi egyebet lehet tenni Hubologistaként?}
 {204}{}{Ó, rendben. Minden jót!}
 {205}{}{A nő: A hancúrozás rosszat tesz a neurodinjainak. A férfi: Bizonyám. A nő: Ezért kell őszintének lennem, és elmondani, hogy nem találom magát vonzónak. A férfi: Ennek ellenére továbbra is szeretjük magát, mint a Hub követőjét!}
-{206}{}{Gee, thanks. So what else is there to do as a Hubologist?}
+{206}{}{Hú, köszönöm. Mi egyebet lehet tenni Hubologistaként?}
 {207}{}{Aha-aha. [mormogsz] barmok.}
 {208}{}{Üdvözletünket küldjük, újoncok!}
 {209}{}{Én Vikki Goldman vagyok!}

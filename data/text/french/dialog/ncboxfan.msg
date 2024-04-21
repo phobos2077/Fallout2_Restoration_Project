@@ -37,7 +37,7 @@
 {264}{}{::Crie:: ::Beugle:: ::Hurle::}
 {265}{}{}
 {266}{}{}
-{267}{}{Tu es plus forte que  Robin Givens !}
+{267}{}{Tu es plus forte que Robin Givens !}
 {268}{}{}
 {269}{}{}
 {270}{}{}
@@ -62,7 +62,7 @@
 {297}{}{::Crie:: ::Crie encore::}
 {298}{}{}
 {299}{}{}
-{300}{}{Tu es plus forte que  Robin Givens !}
+{300}{}{Tu es plus forte que Robin Givens !}
 {301}{}{}
 {302}{}{}
 {303}{}{}
@@ -91,7 +91,7 @@
 {362}{}{}
 {363}{}{J'ai entendu dire que tu étais un inconnu, fraîchement sorti du désert, avant de venir boxer à New Reno. D'où viens-tu ?}
 {364}{}{}
-{365}{}{Tu es plus forte que  Robin Givens !}
+{365}{}{Tu es plus forte que Robin Givens !}
 {366}{}{}
 {380}{}{Une bise pour porter chance ?}
 {381}{}{}
@@ -112,7 +112,7 @@
 {396}{}{}
 {397}{}{J'ai entendu dire que tu étais un inconnu, fraîchement sorti du désert, avant de venir boxer à New Reno. D'où viens-tu ?}
 {398}{}{}
-{399}{}{Tu es plus forte que  Robin Givens !}
+{399}{}{Tu es plus forte que Robin Givens !}
 {400}{}{}
 {1202}{}{ !}
 {1203}{}{ !}

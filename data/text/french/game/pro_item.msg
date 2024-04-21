@@ -69,7 +69,7 @@
 {3500}{}{CCM de 5mm}
 {3501}{}{Munitions légères. Calibre : 5 mm, charges creuses à manchon.}
 {3600}{}{Balles perforantes de 5mm}
-{3601}{}{Munitions de petit calibre. 5 mm perforantes.}
+{3601}{}{Munitions petites et légères. Calibre : 5 mm, perforantes.}
 {3700}{}{Roquette perforante}
 {3701}{}{Une roquette avec une charge explosive plus réduite conçue pour percer les plaques de blindage.}
 {3800}{}{Petite cellule énergétique}
@@ -226,7 +226,7 @@
 {11301}{}{Les aubes des Enfants de la Cathédrale.}
 {11400}{}{Main de Tangler}
 {11401}{}{Un manipulateur cybernétique, qui à la forme exacte d'une main. Endommagé du fait d'un manque d'expertise au démontage.}
-{11500}{}{Super Luge}
+{11500}{}{Super Marteau}
 {11501}{}{Une Super Massue, fabriquée par la Confrérie de l'Acier, utilisant les dernières technologies en matière d'armement. Comprend un mécanisme de stockage d'énergie cinétique pour renforcer les percussions. FO min. : 5.}
 {11600}{}{l'Eventreur}
 {11601}{}{Une lame vibrante Ripper(tm). Alimentée par une petite cellule énergétique, les lames entraînées par une chaîne pénètrent et déchiquettent la cible. FO min : 4.}
@@ -1100,7 +1100,7 @@
 {56800}{}{Dynamite à détonateur activée}
 {56801}{}{Contrairement aux dynamites normales qui sont utilisées avec un compte à rebours, cette dynamite est activée par un détonateur. Celle-ci est armée et prête à être déclenchée.}
 {56900}{}{Pop Rocks}
-{56901}{}{Un sachet encore fermé de bonbons savoureux et gazéifiés composés de sucre, de lactose (sucre), de sirop de maïs (sucre), et d'agents aromatisants. La rumeur prétend que s'ils sont mélangés avec des boissons comme le Nuka Cola, cela entraîne une explosion de l'estomac.}
+{56901}{}{Un sachet encore fermé de bonbons savoureux et gazéifiés composés de sucre, de lactose (sucre), de sirop de maïs (sucre), et d'agents aromatisants. La rumeur prétend que s'ils sont mélangés avec des boissons comme le Nuka-Cola, cela entraîne une explosion de l'estomac.}
 {57000}{}{Bouteille de shampoing}
 {57001}{}{Une bouteille de shampoing. Contrairement à d'autres grandes marques, ce shampoing est contenu dans une flexi-bouteille. Il a été conçu de cette façon pour que la bonne quantité se répande à chaque pression, ni plus, ni moins. Ouvrez juste le couvercle pour en profiter !}
 {57100}{}{Kevlar de K9}

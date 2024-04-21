@@ -30,7 +30,7 @@
 {181}{}{Die Suche?}
 {190}{}{Ich bin hier nur für die Zimmer zuständig. Wenn du etwas kaufen oder eintauschen willst, sprich mit meiner Tochter Maida.}
 {191}{}{Ah, verstehe. Dann erzähl mir was anderes.}
-{192}{}{Danke. Auf Wiedersehn.}
+{192}{}{Vielen Dank. Auf Wiedersehn.}
 {200}{}{Wir sind im Augenblick ziemlich ausgebucht. Tut mir leid.}
 {201}{}{Hmm, lass mal sehen. Wir haben ein Zimmer frei. Kostet $25.}
 {202}{}{Ich nehme es. Hier sind $25. Vielen Dank.}

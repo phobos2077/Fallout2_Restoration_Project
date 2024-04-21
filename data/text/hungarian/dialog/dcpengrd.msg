@@ -1,6 +1,6 @@
 {100}{}{Rabszolga-hajcsár.}
 {150}{}{Nagyon feszültnek tűnik.}
-{200}{}{Touch that again and you'll lose a limb.}
+{200}{}{Csak még egyszer nyúlj hozzá, és kezed-lábad levágom!}
 {201}{}{Na, ebből elég!}
 {210}{}{Csak a rabszolgák vannak ott hátul.}
 {211}{}{A rabszolgák nem fogadhatnak látogatókat!}

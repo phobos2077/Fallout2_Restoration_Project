@@ -101,8 +101,8 @@
 {201}{}{ szakképzetten hatástalanította a csapdát.}
 {202}{}{ nem tudta hatástalanítani a csapdát.}
 {203}{}{Az ajtó zárva van.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Észreveszel egy csapdát az ajtón.}
+{205}{}{ észrevett egy csapdát az ajtón.}
 {206}{}{Nem tudsz csapdát helyezni az ajtóra, mert az ajtó nyitva van.}
 {207}{}{ nem tud csapdát helyezni az ajtóra, mert az ajtó nyitva van.}
 {208}{}{Tökéletes csapdát helyeztél az ajtóra.}
@@ -124,8 +124,8 @@
 {501}{}{Úgy látszik, először a generátort kell elindítani.}
 {502}{}{Lift-ajtó.}
 {503}{}{Nagyon úgy tűnik, hogy a zár kinyitásához egy elektronikus szerkezet kell.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{601}{}{Ez nyitva van butus.}
+{610}{}{Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
+{611}{}{ Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
+{620}{}{A felismerhetetlenségig elhajlítottad a feszítővasat. Használhatatlanná vált.}
+{621}{}{ A felismerhetetlenségig elhajlítotódott a feszítővas. Használhatatlanná vált.}

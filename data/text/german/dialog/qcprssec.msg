@@ -5,7 +5,7 @@
 {103}{}{Ja? Was willst'n, Süßer?}
 {104}{}{Nicht schon wieder, ich hab gerade mein Kleid sauber gemacht.}
 {105}{}{Was will Mr. Wichtigtuer denn?}
-{106}{}{Man nennt ihn nicht umsonst *Dick* Richardson.}
+{106}{}{Man nennt ihn nicht umsonst den *harten* Richardson.}
 {107}{}{Ich kann auch gut tippen.}
 {108}{}{Du solltest klopfen, bevor du so reinplatzt.}
 {109}{}{Ich brauche Mundwasser.}

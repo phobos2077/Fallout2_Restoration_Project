@@ -123,6 +123,7 @@ procedure combat_p_proc begin
       if (((not obj_on_screen(self_obj)) or (tile_distance_objs(dude_obj, self_obj) > 15)) and (critter_is_fleeing(self_obj))) then begin
          float_msg(self_obj, mstr(111), FLOAT_MSG_RED);
          set_kaga_met;
+         ndebug("set invisible");
          set_self_invisible;
       end
    end
@@ -137,7 +138,9 @@ procedure do_setup begin
    variable Critter_Rotation;
    variable Critter_Tile;
 
+   ndebug("do_setup");
    if not(local_var(LVAR_Defeated)) then begin
+      ndebug("not_defeated");
       set_self_team(TEAM_RND_KAGA);
       set_self_ai(AI_KAGA);
       set_kaga_1;

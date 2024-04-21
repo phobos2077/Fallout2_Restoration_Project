@@ -6,15 +6,15 @@
 {105}{}{Roter Mutant!}
 {106}{}{Du hast uns alle zerstört.}
 {107}{}{Du wirst für das, was du getan hast, bezahlen.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{Du (hust), du hast den Kampf noch nicht gewonnen. Du und deine verdammten Mutantenfreunde werden mich in einem Atompilz ins Jenseits begleiten. Ich habe gerade die Selbstzerstörung ausgelöst. (heh, heh, hust, hust...) Das Werk wird vollendet werden. Ihr habt hier nichts erreicht, außer euer eigenes Todesurteil zu unterschreiben. Pflicht, (hust) Ehre... Mut... in Ewigkeiiiii...}
+{109}{ssa2}{Du (hust), du hast den Kampf noch nicht gewonnen. Du und deine verdammten Mutantenfreunde werden mich in einem Atompilz ins Jenseits begleiten. Ich habe gerade die Selbstzerstörung ausgelöst. (heh, heh, hust, hust...) Das Werk wird vollendet werden. Ihr habt hier nichts erreicht, außer euer eigenes Todesurteil zu unterschreiben. Pflicht, (hust) Ehre... Mut... in Ewigkeiiiii...}
 {110}{}{Oh je. Hier schlimm. Ich jetzt auf Schiff.}
 {111}{}{Ich mach mich lieber auf zum Schiff und haue ab.}
 {112}{ssa3alt}{Du bist viel weitergekommen als vorgesehen, aber vorher bist du ja auch noch nicht
  Frank Horrigan begegnet. Deine Reise ist zu Ende, Mutantchen. Zeit zum Sterben.}
 {113}{}{Ich geh an dir vorbei, ob dir das nun passt oder nicht.}
 {114}{}{Können wir darüber noch mal reden?}
-{115}{ssa4a}{Dass du unsere Luft mit dem F.E.V.-Virus verseucht hast, macht aus dir keinen
+{115}{ssa4a}{Dass du unsere Luft mit dem FEV-Virus verseucht hast, macht aus dir keinen
  Helden. Du bist nur ein weiterer Mutant, dem der Gnadenschuss versetzt werden muss.}
 {116}{ssa4b}{Wenn unser Reaktor schmilzt, wird es hier drin bald ganz schön heiß werden. Leider wirst
  du das Ganze nicht mehr erleben. Du bist kein Held, sondern eine wandelnde Leiche.}

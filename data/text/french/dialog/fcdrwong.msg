@@ -87,32 +87,32 @@
 {251}{}{Non, je ne veux... Attends une seconde, c'est le sujet du Projet Xeno ! Mon prédécesseur avait tellement investi dans... [Il remarque que tu regardes dans le vide.] Ahem. Je veux dire, merci pour le corps. Bon travail. N'en apportent pas d'autres, d'accord ? C'est assez. Salut !}
 {252}{}{Salut !}
 {253}{}{Moi faire provisions. Moi le cacher.}
-{300}{}{C'est quoi l'embrouille avec le Dr.Sheng ?}
-{310}{}{Comment connais-tu le Dr.Sheng ? Bon, je suppose que ça n'a aucune importance. Le Dr.Sheng Ming était un homme brillant, mais assez antipathique. Il travaillait pour mon prédécesseur. Il n'intéresse plus personne ici.}
+{300}{}{C'est quoi l'embrouille avec le Dr. Sheng ?}
+{310}{}{Comment connais-tu le Dr. Sheng ? Bon, je suppose que ça n'a aucune importance. Le Dr. Sheng Ming était un homme brillant, mais assez antipathique. Il travaillait pour mon prédécesseur. Il n'intéresse plus personne ici.}
 {311}{}{Eh bien si ce n'est pas intéressant pour toi, pourquoi JE devrais m'en soucier ? J'ai d'autres questions.}
 {312}{}{Que lui est-il arrivé ?}
 {320}{}{Ce qui s'est passé ? Il a perdu l'esprit, voilà tout. Au cours de ses expériences, il a découvert quelque chose qui était assez remarquable je dois admettre, mais aussi extrêmement dangereux et sans aucun rapport avec les intérêts des Shi. Il est devenu obsédé par sa création et comme ses expériences devenaient trop dangereuses, il a décidé de les faire ailleurs. Il est parti et n'est jamais revenu. C'est alors que j'ai eu une promotion et que j'ai obtenu son poste.}
-{321}{}{Quel genre d'expérience faisait le Dr.Sheng ? Et quelle était cette fameuse découverte ?}
-{322}{}{Bon et où se trouve le Dr.Sheng maintenant ?}
+{321}{}{Quel genre d'expérience faisait le Dr. Sheng ? Et quelle était cette fameuse découverte ?}
+{322}{}{Bon et où se trouve le Dr. Sheng maintenant ?}
 {330}{}{En tant qu'homme de science, je respecte ta nature curieuse. Cependant, je n'ai pas l'intention de te révéler les secrets des Shi, étranger.}
-{331}{}{Bon et où se trouve le Dr.Sheng maintenant ?}
+{331}{}{Bon et où se trouve le Dr. Sheng maintenant ?}
 {332}{}{Bien, garde tes petits secrets pour toi. J'ai les miens aussi, tu sais. Des secrets que tu n'imaginerais même pas.}
 {340}{}{[Il sourit poliment.] J'en suis certain. Maintenant, si tu veux bien m'excuser, j'ai beaucoup de travail. Au revoir.}
 {341}{}{[Terminé]}
-{350}{}{Le Dr.Sheng fut escorté à un jour d'ici au Sud. Il réside dans une maison en ruine, si ma mémoire est bonne. Il aurait dû partir environ un mois, mais ça fait beaucoup plus longtemps que nous n'avons aucune nouvelle de lui. Selon moi, je dirais qu'il a été tué par une de ses créations, ou qu'il a été victime d'un des nombreux pièges du Wasteland.}
+{350}{}{Le Dr. Sheng fut escorté à un jour d'ici au Sud. Il réside dans une maison en ruine, si ma mémoire est bonne. Il aurait dû partir environ un mois, mais ça fait beaucoup plus longtemps que nous n'avons aucune nouvelle de lui. Selon moi, je dirais qu'il a été tué par une de ses créations, ou qu'il a été victime d'un des nombreux pièges du Wasteland.}
 {351}{}{Un de tes scientifiques pourrait être mort, et tu t'en fiches ? Tu ne vas même pas chercher à savoir ce qu'il s'est passé ?}
-{352}{}{Je crois que je veux en savoir plus sur ce Dr.Sheng. Peux-tu me donner sa dernière position connue ?}
+{352}{}{Je crois que je veux en savoir plus sur ce Dr. Sheng. Peux-tu me donner sa dernière position connue ?}
 {353}{}{Ouais, d'accord. J'ai d'autres questions.}
-{360}{}{Excuse-moi si je te parais insensible à ce sujet. La vérité, c'est que le Dr.Sheng n'était pas très populaire par ici. Je crois bien qu'il ne nous manque pas le moins du monde.}
-{361}{}{Je crois que je veux en savoir plus sur ce Dr.Sheng. Peux-tu me donner sa dernière position connue ?}
+{360}{}{Excuse-moi si je te parais insensible à ce sujet. La vérité, c'est que le Dr. Sheng n'était pas très populaire par ici. Je crois bien qu'il ne nous manque pas le moins du monde.}
+{361}{}{Je crois que je veux en savoir plus sur ce Dr. Sheng. Peux-tu me donner sa dernière position connue ?}
 {362}{}{Je vois. J'aimerais te poser une autre question.}
-{370}{}{Je suppose que je pourrais... Je dois admettre que je suis un peu curieux aussi. Voilà, j'ai marqué le dernier emplacement connu du Dr.Sheng sur ta carte. Mais je dois te prévenir que cela pourrait être très dangereux. Quoi qu'il en soit, si tu trouves quelque chose d'intéressant, fais le moi savoir.}
+{370}{}{Je suppose que je pourrais... Je dois admettre que je suis un peu curieux aussi. Voilà, j'ai marqué le dernier emplacement connu du Dr. Sheng sur ta carte. Mais je dois te prévenir que cela pourrait être très dangereux. Quoi qu'il en soit, si tu trouves quelque chose d'intéressant, fais le moi savoir.}
 {371}{}{Merci, je le ferai. Salut.}
 {372}{}{Je voudrais te demander autre chose.}
-{380}{}{Le Dr.Sheng est toujours vivant et il a créé une espèce de plantes qui prend racine et qui contrôle les cadavres humains.}
+{380}{}{Le Dr. Sheng est toujours vivant et il a créé une espèce de plantes qui prend racine et qui contrôle les cadavres humains.}
 {390}{}{Donc il a réussi avec son Projet Xeno. C'est fascinant... et troublant aussi. Nous avons mis un terme à ses expériences végétales après avoir perdu un de nos techniciens. Lorsqu'il est parti pour poursuivre ses recherches, je suppose qu'il était victime d'une de ses créations. A-t-il réussi à obtenir un certain contrôle sur elles ?}
 {391}{}{Ouais, on dirait bien ses servantes. Elles l'appellent même *Maître*.}
-{400}{}{Hmm... S'il établit une armée de ces créatures végétales, cela pourrait être la fin des Shi. J'espérais ne jamais en arriver là, mais nous avons l'obligation de nous assurer que le Dr.Sheng et ses expériences soient éliminés. Puisqu'il te fait confiance, tu es le meilleur candidat. Tu serais prêt à le faire ? Tu serais récompensé bien entendu.}
+{400}{}{Hmm... S'il établit une armée de ces créatures végétales, cela pourrait être la fin des Shi. J'espérais ne jamais en arriver là, mais nous avons l'obligation de nous assurer que le Dr. Sheng et ses expériences soient éliminés. Puisqu'il te fait confiance, tu es le meilleur candidat. Tu serais prêt à le faire ? Tu serais récompensé bien entendu.}
 {401}{}{Avec plaisir. Ce type et toute son installation me foutent les jetons.}
 {402}{}{De quel genre de récompense parle-t-on, exactement ?}
 {403}{}{Pas intéressé. le Dr Sheng, c'est ton problème, tu n'as qu'à te démerder avec.}
@@ -126,12 +126,12 @@
 {431}{}{Ne compte pas trop là dessus. Salut.}
 {432}{}{Je vais y réfléchir. Salut.}
 {433}{}{On verra. J'ai d'autres questions.}
-{440}{}{J'imagine que tu n'as pas changé d'avis ? Nous aiderais-tu à éliminer le Dr.Sheng et ses créatures ?}
+{440}{}{J'imagine que tu n'as pas changé d'avis ? Nous aiderais-tu à éliminer le Dr. Sheng et ses créatures ?}
 {441}{}{Non, en fait j'avais d'autres questions.}
 {442}{}{Très bien, je vais m'occuper de lui.}
 {443}{}{Je le ferai, mais pas gratuitement. Tu parlais de récompense plus tôt, c'est bien ça ?}
-{450}{}{Nos éclaireurs nous rapportent que le Dr.Sheng et ses expériences ont été détruits. Quel gâchis pour un esprit si brillant... Néanmoins, tu peux obtenir votre récompense. Es-tu intéressé par des armes, du matériel ou du cash ?}
-{451}{}{Nos éclaireurs nous rapportent que le Dr.Sheng et ses expériences ont été détruits. Quel gâchis pour un esprit si brillant... Néanmoins, bien qu'on ne te l'ai pas demandé, nous t'en sommes reconnaissants et tu peux obtenir une récompense. Es-tu intéressé par des armes, du matériel ou du cash ?}
+{450}{}{Nos éclaireurs nous rapportent que le Dr. Sheng et ses expériences ont été détruits. Quel gâchis pour un esprit si brillant... Néanmoins, tu peux obtenir votre récompense. Es-tu intéressé par des armes, du matériel ou du cash ?}
+{451}{}{Nos éclaireurs nous rapportent que le Dr. Sheng et ses expériences ont été détruits. Quel gâchis pour un esprit si brillant... Néanmoins, bien qu'on ne te l'ai pas demandé, nous t'en sommes reconnaissants et tu peux obtenir une récompense. Es-tu intéressé par des armes, du matériel ou du cash ?}
 {452}{}{Je prendrai les armes.}
 {453}{}{J'ai toujours besoin de matériel supplémentaire.}
 {454}{}{Donne-moi l'argent.}
@@ -144,11 +144,11 @@
 {481}{}{[Terminé]}
 {490}{}{Les Shis apprécient ton aide dans cette affaire. J'ai du travail à faire. Au revoir.}
 {491}{}{[Terminé]}
-{500}{}{Avant de partir, le Dr.Sheng voulait que je t'apporte cet extrait végétal. Il dit que cela te permettra de réaliser une espèce de plante résistante aux radiations.}
-{501}{}{Le Dr.Sheng voulait que je t'apporte cet extrait végétal. Il dit que cela te permettra de réaliser une espèce de plante résistante aux radiations.}
-{502}{}{Le Dr.Sheng voulait que je t'apporte cet extrait végétal, mais je dois te prévenir, il l'a infusé avec son sérum de conscience. Je ne sais pas trop ce que ça fait, mais je pense que ça ne devrait pas être très bon pour les Shis.}
-{510}{}{Intéressant. [Il prend l'échantillon.] Mon équipe va l'examiner plus tard. J'ai dû mal à faire confiance au Dr.Sheng mais j'imagine qu'il s'agit d'un ultime moyen de se sentir utile après tout. On verra bien. S'il n'y a rien d'autre, je dois me remettre au travail.}
-{511}{}{Intéressant. [Il prend l'échantillon.] Mon équipe va l'examiner plus tard. J'ai dû mal à faire confiance au Dr.Sheng mais j'imagine qu'il s'agit d'un ultime moyen de se sentir utile après tout. On verra bien. Mais je pensais que tu devais éliminer le Dr.Sheng, pas faire le facteur pour lui ? S'il n'y a rien d'autre, je dois me remettre au travail.}
+{500}{}{Avant de partir, le Dr. Sheng voulait que je t'apporte cet extrait végétal. Il dit que cela te permettra de réaliser une espèce de plante résistante aux radiations.}
+{501}{}{Le Dr. Sheng voulait que je t'apporte cet extrait végétal. Il dit que cela te permettra de réaliser une espèce de plante résistante aux radiations.}
+{502}{}{Le Dr. Sheng voulait que je t'apporte cet extrait végétal, mais je dois te prévenir, il l'a infusé avec son sérum de conscience. Je ne sais pas trop ce que ça fait, mais je pense que ça ne devrait pas être très bon pour les Shis.}
+{510}{}{Intéressant. [Il prend l'échantillon.] Mon équipe va l'examiner plus tard. J'ai dû mal à faire confiance au Dr. Sheng mais j'imagine qu'il s'agit d'un ultime moyen de se sentir utile après tout. On verra bien. S'il n'y a rien d'autre, je dois me remettre au travail.}
+{511}{}{Intéressant. [Il prend l'échantillon.] Mon équipe va l'examiner plus tard. J'ai dû mal à faire confiance au Dr. Sheng mais j'imagine qu'il s'agit d'un ultime moyen de se sentir utile après tout. On verra bien. Mais je pensais que tu devais éliminer le Dr. Sheng, pas faire le facteur pour lui ? S'il n'y a rien d'autre, je dois me remettre au travail.}
 {512}{}{En fait, j'avais d'autres questions.}
 {513}{}{Salut.}
 {514}{}{Eh bien, j'ai eu vraiment du mal à obtenir cet échantillon pour toi. Je pense que je mérite une récompense.}
@@ -156,11 +156,11 @@
 {521}{}{En fait, j'avais d'autres questions.}
 {522}{}{Merci. Au revoir.}
 {523}{}{Vraiment ? Tu appelles ça une récompense ? Je vais te cogner jusqu'à ce que quelque chose de mieux tombe de tes oreilles.}
-{530}{}{[Il prend l'échantillon.] Merci, je vais le détruire immédiatement. [Il soupire.] Je savais que le Dr.Sheng avait perdu l'esprit, mais je ne pensais pas qu'il essaierait de tuer son propre peuple. Nous devons nous occuper de lui immédiatement.}
+{530}{}{[Il prend l'échantillon.] Merci, je vais le détruire immédiatement. [Il soupire.] Je savais que le Dr. Sheng avait perdu l'esprit, mais je ne pensais pas qu'il essaierait de tuer son propre peuple. Nous devons nous occuper de lui immédiatement.}
 {531}{}{Je suis d'accord. C'est un vrai taré.}
 {540}{}{::Attrape sa poitrine:: Wahh.}
 {541}{}{Urgh.}
 {542}{}{Dr. Wong !}
-{600}{}{Tu as éliminé le Dr.Sheng pour les Shis.}
+{600}{}{Tu as éliminé le Dr. Sheng pour les Shis.}
 {601}{}{Tu as apporté l'extrait végétal au Dr.Wong.}
 {602}{}{Tu as assassiné le Dr.Wong.}

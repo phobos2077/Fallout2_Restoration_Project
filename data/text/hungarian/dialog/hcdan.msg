@@ -23,11 +23,11 @@
 {122}{}{Sajnálom. Nem vállalom.}
 {123}{}{Kérlek, kérlek! A feleségem... ő jelent mindent számomra. Kérlek!}
 {124}{}{Azt mondtam, nem!}
-{125}{}{Fine! Fine! Just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
+{125}{}{Jól van! Jól van! Csak hagyj végre békén a sirámaiddal!}
+{126}{}{Itt a pénz. Kérlek, kérlek, KÉRLEK... találd meg a feleségem! Talán összeállt valaki mással, talán elhagyott... de tudnom kell.}
 {127}{}{Rendben, haver. Hogy néz ki?}
 {128}{}{Rendicsek. Megteszem, amit tudok.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
+{129}{}{::önkéntelenül szipog pár másodpercig:: Rendben. Menj csak! És vedd észre, hogy elvetted az utolsó reményemet is!}
 {130}{}{Viszlát, vesztes!}
 {131}{}{Szőke, szexi és csodálatos énekhangja van... utoljára errefelé látam őt. Nem szereti a mutánsokat és a ghoulokat, szóval nem hiszem, hogy közel lenne hozzájuk. Senki nem tudja, hova mehetett. Mintha egyszerűen eltűnt volna.}
 {132}{}{Ennyi elég lesz..}
@@ -42,7 +42,7 @@
 {141}{}{Ugye nem voltak lábai?}
 {142}{}{Egy rakás holttestet találtam a város alatti alagutakban. Ott volt közöttük. Nagyon sajnálom.}
 {143}{}{Mi? Nem! Szép hosszú lábai voltak!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
+{144}{}{Óh. Értem. Hát, most már nincsenek szép hosszú lábai. Brutálisan megölték, a lábait pedig LEVÁGTÁK. Tökéletesen halott és sokat szenvedett a halála előtt.}
 {145}{}{Értem. Azt hiszem, megtaláltam őt a város alatti alagútrendszerben. Meghalt. Nagyon sajnálom.}
 {146}{}{Köszönöm, hogy elmondtad. Azt hiszem, megyek és sírok egyet...}
 {147}{}{Ez az, menj csak bőgni, te szánalmas vesztes!}

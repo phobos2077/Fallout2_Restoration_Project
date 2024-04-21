@@ -86,7 +86,9 @@
 {173}{}{Wie wird synthetischer Alkohol denn hergestellt?}
 {174}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
 {175}{}{Das war's für heute. Besten Dank.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
+{176}{}{Die Auto-Docs in Vault City können ungefährliche synthetische Ersatzstoffe für
+ suchterzeugende Substanzen herstellen. Soweit ich weiß, wurden diese synthetischen Stoffe vor
+ dem Krieg als Platzebos für Drogensüchtige eingesetzt.}
 {177}{}{Du scheinst dich aber gut mit diesem synthetischen Zeug auszukennen.}
 {178}{}{Äh, habt ihr auch was Richtiges zu trinken?}
 {179}{}{Oh. Ich glaube, ich nehme dann doch lieber nur Wasser.}
@@ -117,9 +119,7 @@
 {198}{}{Wenn du es sagst. Sag diesem Typen Jargon, dass ich mit ihm reden möchte, klar?
  Tschüss dann.}
 {199}{}{Wenn du das meinst, was im Ödland als Alkohol gilt: Nein!}
-{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen
- bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht...
-  so genau genommen.}
+{200}{}{Wir haben bislang noch keinen Drang verspürt, unsere Körper mit diesen bakterienverseuchten Gebräuen zu vergiften. In der Bar im Vorhof wird das vielleicht nicht... so genau genommen.}
 {201}{}{Ich glaube, ich nehm lieber doch nur ein bisschen Wasser.}
 {202}{}{Also, Moment mal. Was für synthetische Alkoholsorten gibt es denn hier?}
 {203}{}{Ich brauche ein paar Auskünfte.}
@@ -160,7 +160,10 @@
 {229}{}{Hmmm. Mich würde da noch was anderes interessieren...}
 {230}{}{So, so. Tja, ich könnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
 {231}{}{Interessant. Danke für die Information. Tschüss.}
-{232}{}{Nein, nein, nein...das ist keine Sklaverei. Diese Leute, die du in der Stadt arbeiten siehst, sind Diener... mich eingeschlossen. Wir werden hier sehr gut behandelt, lernen zu lesen und zu schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen Nahrung.}
+{232}{}{Nein, nein, nein...das ist keine Sklaverei. Die Leute, die du in der Stadt arbeiten
+ siehst, sind Diener, genau wie ich. Wir werden hier sehr gut behandelt, lernen lesen und 
+ schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen genug zu
+ essen.}
 {233}{}{Alles, außer einem: Freiheit. Stimmt's?}
 {234}{}{Wenn's einem nichts ausmacht, ist es nicht so schlimm. Vergiss die Frage einfach.}
 {235}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}

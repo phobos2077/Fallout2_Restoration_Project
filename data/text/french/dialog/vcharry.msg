@@ -19,7 +19,7 @@
 {121}{}{Y'a pas de problème. Je vais la faire livrer tout de suite.}
 {122}{}{Tu voulais te servir, hein ? Saleté de voleur... Gardes ! Gardes !}
 {123}{}{Un marchand nommé Dave m'envoie. Je travaille avec lui sur un projet et on a besoin d'un nouveau moteur pour une pompe à eau.}
-{124}{}{Tu bosses avec Dave, hein ?  Ouais, je connais ce mec. Je crois que j'ai ce qu'il te faut, laisse-moi voir. [Harry va dans son arrière-salle et tu entends des boîtes se mélanger et se déplacer dans tous les sens. Il revient au bout d'une minute.] Ouais, je l'ai. Ca te fera $500 pour ça.}
+{124}{}{Tu bosses avec Dave, hein ? Ouais, je connais ce mec. Je crois que j'ai ce qu'il te faut, laisse-moi voir. [Harry va dans son arrière-salle et tu entends des boîtes se mélanger et se déplacer dans tous les sens. Il revient au bout d'une minute.] Ouais, je l'ai. Ca te fera $500 pour ça.}
 {125}{}{Ca marche. Voilà la monnaie.}
 {126}{}{500 ? Bon sang. J'espère que je serai remboursé. Bien, voilà le fric.}
 {127}{}{Merci pour cette affaire. Prends soin de toi.}

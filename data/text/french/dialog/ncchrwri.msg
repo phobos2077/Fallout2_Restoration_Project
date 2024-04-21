@@ -45,7 +45,7 @@
 {307}{}{La famille Wright embauche-t-elle ?}
 {308}{}{J'ai rencontré ta mère il n'y a pas longtemps. C'est une brave dame.}
 {310}{}{Non, pas d'autre question. Il faut que je parte. }
-{315}{}{[Le jeune homme te regarde de haut en bas. Ses yeux s'arrêtent au niveau de la marque sur ton front.] Alors, maintenant... [Il ricane, puis te crache  sur les pieds.] ..rends-toi donc utile, esclavagiste, lèche ça !}
+{315}{}{[Le jeune homme te regarde de haut en bas. Ses yeux s'arrêtent au niveau de la marque sur ton front.] Alors, maintenant... [Il ricane, puis te crache sur les pieds.] ..rends-toi donc utile, esclavagiste, lèche ça !}
 {316}{}{[Le jeune homme te regarde de haut en bas.] Alors, maintenant... [Il ricane, puis crache sur tes pieds.] rends-toi donc utile, lèche ça !}
 {317}{}{Espèce de pourriture !}
 {318}{}{[Tu lui donnes un coup de pied avec la chaussure sur laquelle il a craché]}

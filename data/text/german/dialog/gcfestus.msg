@@ -109,7 +109,7 @@
 {444}{}{Ich brauch eins für-... Hey, läuft da nicht der Fershlubiner-Widget-Aktivator im roten Bereich?}
 {450}{}{OK. Hier ist dein Teile-Anforderungsformular. Du wirst schon deine Gründe haben.}
 {451}{}{OK. Hier ist dein...Hey? Wo hab ich das verdammte Ding bloß hin? Es muss hier irgendwo sein.... Hmm, ich kann's im Augenblick echt nicht finden. Aber es wird schon wieder auftauchen.}
-{452}{}{Danke. Auf Wiedersehn.}
+{452}{}{Vielen Dank. Auf Wiedersehn.}
 {453}{}{Oh, naja, vielleicht komm ich dann später wieder. Tschüss.}
 {460}{}{Ist mir egal, was du willst. Diese Teile-Anforderungsformulare sind nur für offizielle Anfragen. Die kriegen nur wichtige Angestellte. Deshalb hab ich sie ja. Kapiert? Nur wichtige Angestellte. }
 {461}{}{Ja, ich hab's kapiert. Tschau.}

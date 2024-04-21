@@ -37,7 +37,7 @@
 {257}{}{Tut mir leid Kleiner. Sieht so aus, als hätte ich nichts, was ich dir geben kann.}
 {261}{}{Möchtest du ein bisschen Obst, Cody?}
 {262}{}{Möchtest du ein bisschen Leguan am Spieß, Cody? Mmmmmm lecker.}
-{263}{}{Hey, Cody. Möchtest du eine lecke... ähm , essbare... Scheibe von Duntons Dörrfleisch?  Mmmmmm... gut.}
+{263}{}{Hey, Cody. Möchtest du eine lecke... ähm , essbare... Scheibe von Duntons Dörrfleisch? Mmmmmm... gut.}
 {270}{}{(Cody nimmt das Teil und rennt weg.)}
 {271}{}{::Du murmelst leise über die Jugend von heute.::}
 {272}{}{Bitteschön, Kleiner! Keine Ursache.}
@@ -86,7 +86,7 @@
 {390}{}{(Cody blinzelt, dann nuschelt er wieder. Du kannst es kaum verstehen, aber es hört sich an wie "Danke".)}
 {391}{}{(Cody blinzelt, dann nuschelt er wieder. Du kannst es kaum verstehen, aber es hört sich an wie "Verpiss dich".)}
 {392}{}{Dankeschön Codee. Ohne EN-PEE-CEEs wie dich, wäre ich in einer SEHR langweiligen Welt.}
-{393}{}{ICH DICH TÖTEN  ICH DICH TÖTEN}
+{393}{}{ICH DICH TÖTEN ICH DICH TÖTEN}
 {394}{}{Hey, kein Problem, Cody. Die Welt zu retten liegt mir scheinbar im Blut. Pass jetzt auf, hörst du?}
 {395}{}{Du kleiner Hosenscheißer! Ich werde dich töten! Ich werde dich töten --!}
 {1204}{}{ traurig. Du gesehen }

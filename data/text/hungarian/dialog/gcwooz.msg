@@ -57,7 +57,7 @@
 {200}{}{Van egy jó anekdotám. Nagyon mókás. Vegyünk egy fejet, rendben?}
 {201}{}{Fejet mondtál?}
 {202}{}{Öö.. asszem, már hallottam ezt korábban. Most nincs időm újra végighallgatni. Léptem...}
-{210}{}{Are you dumb? Tragic the Garnering is the most addictive thing since Jet.}
+{210}{}{Zaza vagy? A "Tragic the Garnering" a legaddiktívabb dolog a Jet mellett.}
 {211}{}{Csak ismételni tudom magam. A "Tragic the Garnering" a játékok játéka...}
 {212}{}{Mondj valamit erről a "Tragic the Garnering" izéről!}
 {213}{}{Mi az a Jet?}
@@ -100,7 +100,7 @@
 {331}{}{Ghoul, zombi egyre megy. Mindannyian torzszülöttek vagytok.}
 {340}{}{Hát a "Tragic the Garnering" nem egy közönséges játék, hanem létforma. Vonatkoztass el a biológiától. Néhányan azt hiszik, hogy a játékosok élete egyszerűen tragikus lesz tőle, de ez marhaság.}
 {341}{}{Ahha.}
-{350}{}{Jet's a drug that comes from New Reno. Were you born yesterday, or are you just dumb?}
+{350}{}{A Jet egy New Renóban előállított drog. Olyan vagy, mint egy maszületett bárány, vagy csak egyszerűen megzazultál?}
 {351}{}{Ja, hogy az a Jet? Hát persze, hogy hallottam róla. Mondj még valamit erről a "Tragic the Garnering"-ről!}
 {360}{}{Nem az, tényleg! Csodálatos! Ki kéne próbálnod! Legalább egyszer. Az első pakli ingyenes. Kis ajándék tőlem, neked.}
 {361}{}{Köszi. Hé, ez tök jól néz ki. (letéped a csomagolást róla.) Mmm, hogy bírom az illatát...}
@@ -125,7 +125,7 @@
 {411}{}{Hát igen. Te nyertél. Akkor mennék is...}
 {412}{}{Micsoda meglepetés. Legalább nem kell az anekdotáidat hallgatnom. Na, üdv...}
 {420}{}{Nincs idő. Menjünk! Van egy új paklim, amit ki kell próbálnom.}
-{421}{}{Okay. Let us play then.}
+{421}{}{Rendben. Kezdjük a játékot.}
 {422}{}{Nem! Ellent kell, hogy álljak a szirén hívásának. Távozz tőlem, Kártya! Inkább kérdeznék valamit helyette.}
 {430}{}{Tudom, mire gondolsz. Bármikor abbahagyhatnám, de nem ma fogom, az ziher.}
 {431}{}{Hát te aztán nem viccelsz! Tulajdonképp, föl akartam tenni néhány kérdést.}
@@ -183,24 +183,24 @@
 {712}{}{FOSRAKÁS!!!}
 {713}{}{Hol vannak a törp nő-hegyek?}
 {714}{}{Láttál már valaha felnőtt férfit MEZTELENÜL?}
-{715}{}{Nah, maybe some other time Wooz. I got some questions though...}
-{716}{}{Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
+{715}{}{Nem kösz, talán később Wooz. Viszont feltennék néhány kérdést.}
+{716}{}{Hmmm... Talán mondhatnád azt, hogy mára elég volt és eltehetnéd a Tragic kártyákat. Azt hiszem mára már eleget játszottál.}
 {717}{}{NEVER! BRING FORTH THE GARNERING!}
-{718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
-{720}{}{Yeah... just can't seem to stop. Just one more game...}
-{721}{}{Yeah, Gamma Gulp Beer. You deaf or something?}
-{722}{}{Yeah, it is. One Gamma Gulp coming right up.}
-{723}{}{Alright, enjoy. Anything else?}
-{724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roetgen coming right up then.}
+{718}{}{JUHÉÉÉH!!! GYŐZEDELMES VAGYOK!}
+{719}{}{NEEEM!! HOGY A FENÉBE VESZÍTHETTEM!? Ahhhgghhhgh.}
+{720}{}{Aha... úgy látszik nem tudok megállni. Csak még egy játékot...}
+{721}{}{Yeah, Gamma Gulp sör. Süket vagy, vagy mi van?}
+{722}{}{Igen, ez az. Egy Gamma Gulp érkezik.}
+{723}{}{Rendben, élvezd. Bármi más?}
+{724}{}{Speciális alkalom, he? Nos lah-de-dah, nem vagyunk ma túl speciálisak. Egy Röntgen Rum érkezik.}
 {725}{}{Nem, kösz.}
-{726}{}{Yeah, what else do you have?}
-{727}{}{Whatever, I'll take one.}
+{726}{}{Megnézhetem, mi egyebed van raktáron?}
+{727}{}{Bárhogy is, kérek egyet.}
 {728}{}{Right. Let me get something else.}
-{729}{}{I think I'll be heading out now.}
-{730}{}{You have become addicted to the game of Tragic. Many sleepless nights await you.}
-{731}{}{Alright, done. Anything else?}
-{732}{}{Yeah, another round for everyone.}
+{729}{}{Azt hiszem, megyek.}
+{730}{}{A Tragic kártyajáték függőjévé váltál. Sok álmatlan éjszaka vár rád.}
+{731}{}{Rendben, kész. Bármi más?}
+{732}{}{Oks, egy újabb kört mindenkinek.}
 {740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
  business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
 {741}{}{Kösz az információt. Viszlát!}

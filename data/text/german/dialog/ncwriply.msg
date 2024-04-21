@@ -6,7 +6,7 @@
 {201}{}{Du siehst eines von Wrights Kindern mit einem Krug auf dem Kopf. Er macht *summ* Laute, wie eine Fliege.}
 {210}{}{Schaut mich an, Ich bin der Untergebene des Vaultbewohners! Huldigt die Vault!}
 {211}{}{Ich will an der Mission um Vault 13 teilnehmen!}
-{212}{}{Peng Peng! Stirb,du Enklaven-Arsch!}
+{212}{}{Peng Peng! Stirb, du Enklaven-Arsch!}
 {213}{}{Passt auf!!! Die Enklave kommt!}
 {214}{}{Peng! Peng! nimm das, ihr Enklaven-Ärsche!}
 {215}{}{Du bist IMMER der Vaultbewohner!}
@@ -199,7 +199,7 @@
 {720}{}{Hat einer von euch meine Waffe genommen, die mir dieser Kerl gegeben hat?}
 {721}{}{Wo ist meine Waffe hin?}
 {722}{}{Ich weiß, dass du mir eine Waffe gegeben hast, wo ist sie hin?}
-{723}{}{Hat einer von euch meine Waffe genommen, die die mir diese Lady hier gegeben hat?}
+{723}{}{Hat einer von euch meine Waffe genommen, die mir diese Lady hier gegeben hat?}
 {5277}{}{! Erzähl uns die Enklavengeschichte! Biiitte?}
 {5278}{}{! Jipppie!}
 {5279}{}{!}

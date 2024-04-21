@@ -464,8 +464,8 @@
 #define EXP_KILL_DR_SHENG_REWARD                (1000)
 #define EXP_KILL_DR_SHENG_NO_REWARD             (3000)
 #define EXP_DELIVER_SEEDS_TO_DR_SHENG           (1000)
-#define EXP_KILL_DR_WONG		        (1000)
-#define EXP_DELIVER_SEED_SAMPLE_TO_DR_WONG	(200)
+#define EXP_KILL_DR_WONG                        (1000)
+#define EXP_DELIVER_SEED_SAMPLE_TO_DR_WONG       (200)
 
 //Tribe
 #define EXP_TRIBE_WEAPONS                       (300)
@@ -488,6 +488,6 @@
  points he received.
 ***************************************/
 #define give_xp(x)                              give_exp_points(x);             \
-                                                display_msg(message_str(SCRIPT_GENERIC,100)+x+message_str(SCRIPT_GENERIC,101))
+                                                display_msg(g_mstr(100) + (x + ((x * 5 / 100) * dude_perk(PERK_swift_learner))) + g_mstr(101))
 
 #endif // EXPPOINT_H

@@ -529,7 +529,7 @@
 {50001}{}{e premier, et seulement, docteur à gauche dans l'EPA}
 {50100}{}{Plante à Spore de l'EPA}
 {50101}{}{Une hideuse plante à spores.}
-{50200}{}{[Kitsune]}
+{50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
 {50500}{}{Le Guerrier du Docteur}

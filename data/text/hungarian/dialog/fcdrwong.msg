@@ -38,7 +38,7 @@
 {137}{}{Mi lenne, ha egy fegyert dugnék az orra alá?}
 {138}{}{Nagyszerű! Hát, még kérdeznék, ha nem gond.}
 {139}{}{Hmm. Értem. Hát akkor viszlát!}
-{140}{}{Ahh, yes! Indeed. I will prepare it with fava beans and a nice Chianti.}
+{140}{}{Ahh, igen! Bizony. Szép nagy szemű babbal fogom elkészíteni, és jó Chianti-t fogok inni hozzá.}
 {141}{}{Még megvan magának? Remek. Chip már epedve várja.}
 {142}{}{Az egy emberi lép, maga beteg állat!}
 {143}{}{Azt ugye tudja, hogy ehhez májat kell felszolgálni, nem lépet?}
@@ -53,10 +53,10 @@
 {152}{}{Ennek ellenére, a hírvivő kíméletlensége miatt, azt hiszem, a megállapodáshoz fogom tartani a feleket. Kísérleteket fogok végezni azon a lépen.}
 {153}{}{Mondja el a barátjának, hogy holnapig jöjjön érte, és akkor örömmel visszaadom. Remélem, megtalálja a módját, hogy időben visszakerüljön a testébe.}
 {154}{}{Jól van.}
-{155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
+{155}{}{Haha! Igen, én is láttam azt a régi filmet. Na, várjunk... mit akar ezzel mondani? Csak nem azt, hogy...?}
 {156}{}{Igen, az bizony egy emberi lép.}
 {157}{}{Igazság szerint ellenkeznék ezzel. Maga nem bizonyult jó embernek. Azt sem tudom, miért beszélek magával egyáltalán. Minden jót!}
-{158}{}{[DONE]}
+{158}{}{[RENDBEN]}
 {159}{}{Aijjj! Őrség! Itt van a lao wai behatoló!}
 {160}{}{Vannak vázlatai, amit odaadna nekem?}
 {161}{}{Ken Lee mondta nekem, hogy adjam ezeket magának.}
@@ -99,7 +99,7 @@
 {331}{}{So where is Dr. Sheng now?}
 {332}{}{Fine, you keep your fancy secrets. I have secrets of my own, you know. Better secrets than you could ever possibly imagine.}
 {340}{}{[He smiles politely.] I'm sure you do. Now if you will excuse me, I have plenty of work that needs doing. Good day.}
-{341}{}{[DONE]}
+{341}{}{[RENDBEN]}
 {350}{}{Dr. Sheng was escorted a day or so to the south. He took up residence in some abandoned home, if I'm not mistaken. He was only supposed to be gone for a month, but it's been much longer and we have yet to hear from him. If I were to guess, I would say he was either destroyed by his own creations, or else fell victim to the numerous hazards of the wasteland.}
 {351}{}{One of your lead scientists could be dead, and you don't care? You're not even going to go look into it?}
 {352}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
@@ -118,7 +118,7 @@
 {402}{}{What kind of compensation are we talking here?}
 {403}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
 {410}{}{The Shi will be most grateful for this service. Once Dr. Sheng and all of his creations have been eliminated, report back to me to receive your reward.}
-{411}{}{[DONE]}
+{411}{}{[RENDBEN]}
 {420}{}{I'll leave that up to you. We could grant you weapons, supplies, or money. You may decide once the task is complete.}
 {421}{}{All right. I'll do it.}
 {422}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
@@ -138,13 +138,13 @@
 {454}{}{Just give me money.}
 {455}{}{Keep your reward. I only did it because it was the right thing to do.}
 {460}{}{Here you go. [He hands you various high powered weapons]}
-{461}{}{[DONE]}
+{461}{}{[RENDBEN]}
 {470}{}{Here you go. [He hands you various supplies]}
-{471}{}{[DONE]}
+{471}{}{[RENDBEN]}
 {480}{}{Here you go. [He hands you $5,000]}
-{481}{}{[DONE]}
+{481}{}{[RENDBEN]}
 {490}{}{The Shi appreciates your assistance. Now, I have much work to do. Good day.}
-{491}{}{[DONE]}
+{491}{}{[RENDBEN]}
 {500}{}{Before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {501}{}{Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {502}{}{Dr. Sheng wanted me to give you this plant sample as a gift, but I thought I should warn you that it's infused with his sentience serum. I don't know what it's supposed to do, but I'm pretty sure it won't be good for the Shi.}

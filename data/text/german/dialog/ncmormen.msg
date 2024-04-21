@@ -80,7 +80,7 @@
 {350}{}{Ich DACHTE mir doch, dass ich was verrottendes gerochen habe. Schmeiß deinen Ghuljungen hier raus.}
 {351}{}{Bring sofort diesen stinkenden Ghul hier raus.}
 {352}{}{Wenn dieser Ghul hier nich' in 'ner Minute draußen is', isser noch toter als jetz' schon.}
-{355}{}{Ich sprach für die Rolle eines wichtigen NPCs vor, aber ich bekam nur diesen kleinen NPC-Part. Ich hoffe, ich werd nicht darauf festgelegt.}
+{355}{}{Ich sprach für die Rolle einer wichtigen Nicht-Spieler-Figur vor, aber ich bekam nur diesen kleinen Part. Ich hoffe, ich werd nicht darauf festgelegt.}
 {356}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Sie sind 'n paar kranke Jungs.}
 {357}{}{He! }
 {358}{}{Verflucht und zugenäht, }
@@ -153,8 +153,7 @@
 {476}{}{Ramirez... pass auf, was du zu mir sagst, OK? Pass auf, dass dein Maul deinen Hintern nicht in Schwierigkeiten bringt.}
 {480}{}{(Blinzelt.) Hä...? Was sagst du?}
 {481}{}{Nichts, was du verstehst oder was ich jetzt noch mal wiederhole. Mach's gut, okay?}
-{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-addicted guards such as yourself."}
+{482}{}{Ich sagte, "Ich frage mich, ob Big Jesus darüber nachdenkt, wie drei Sklaven direkt vor der NASE von derart scharfsinnigen, Jet-süchtigen Wachen wie dir entkommen konnten".}
 {490}{}{(Blinzelt, lächelt verwirrt.) Hä? Ja, ja. Ich bin scharf, weißt du... scharf-sinnig... Ich bin 'ne WACHE, klar?}
 {491}{}{Ja, das hast du bereits erwähnt. An deiner Stelle, Ramirez, würde ich der Menschheit eine Gunst erweisen und das ganze Paket Jet auf einmal nehmen. Bis dann.}
 {492}{}{Junge, bin ich froh, dass einer so klug war, euch allen automatische Waffen zu geben. Gibt mir ein Gefühl der Sicherheit. Bis dann, Ramirez.}

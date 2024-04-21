@@ -41,6 +41,6 @@
 {150}{}{Vaú! Vaú!}
 {200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
 {201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
-{300}{}{*Wimper*}
-{301}{}{Awooooooooooo! *wimper*}
-{1110}{}{The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.}
+{300}{}{*nyüszít*}
+{301}{}{Vaúúúúúúúúúúú... *nyüszít*}
+{1110}{}{A kutya torkos módon bekebelezi a kutyakaja konzervet, utána várakozóan néz rád...}

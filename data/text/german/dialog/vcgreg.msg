@@ -13,7 +13,7 @@
 {109}{}{Vault City wird bestehen, Hauptmann.}
 {110}{}{Guten Tag, Bürger.}
 {111}{}{Vault City wird bestehen, Bürger.}
-{112}{}{Listen, Listen, Listen...wie ich Listen liebe!}
+{112}{}{Listen, Listen, Listen... wie ich Listen liebe!}
 {113}{}{Fragebogen 5632 in Listenserver kompilieren...}
 {114}{}{Liste der Listen 43A bis einschließlich 121B erstellen...anschließend in Listenarchiv
  aufnehmen...}

@@ -91,8 +91,7 @@
  Outsiderfreunden, dass du so billig davongekommen bist.}
 {172}{}{Also gut.}
 {173}{}{Gib mir einfach den verdammten Pass.}
-{174}{}{Also gut,  sie sind fertig gedruckt. Hier, bitte sehr..."Bürger". Aber erzähl keiner Menschenseele was davon, hörst
- du, besonders Wallace nicht!}
+{174}{}{Also gut, sie sind fertig gedruckt. Hier, bitte sehr..."Bürger". Aber erzähl keiner Menschenseele was davon, hörst du, besonders Wallace nicht!}
 {175}{}{Kein Problem. So was würde ich einem aufrechten Bürger wie dir niemals antun, zumal ich
  den Beweis für dein verbotenes Tun hier in meiner eigenen Tasche habe.}
 {176}{}{Verstanden. Kein Problem.}

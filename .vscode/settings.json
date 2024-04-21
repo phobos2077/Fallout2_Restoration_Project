@@ -6,7 +6,5 @@
         "**/data/city.txt": "ini",
         "**/data/maps.txt": "ini",
         "**/data/party.txt": "ini",
-        "**/data/worldmap.txt": "ini",
-
     }
 }

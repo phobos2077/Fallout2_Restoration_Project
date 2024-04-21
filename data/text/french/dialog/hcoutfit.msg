@@ -60,7 +60,7 @@
 {159}{}{J'ai encore quelques autres questions.}
 {160}{}{Je veux d'autres choses.}
 {161}{}{Super. Merci beaucoup.}
-{162}{}{Voyons voir. Il est arrivé aux Collines par le désert. Il avait pas grand-chose, mais il a de la jugeote. On aurait dit  qu'il était traqué, mais j'ai pas pu savoir par qui. Il parlait pas de son passé. Et puis... C'est vraiment un super maître de caravane. C'est tout.}
+{162}{}{Voyons voir. Il est arrivé aux Collines par le désert. Il avait pas grand-chose, mais il a de la jugeote. On aurait dit qu'il était traqué, mais j'ai pas pu savoir par qui. Il parlait pas de son passé. Et puis... C'est vraiment un super maître de caravane. C'est tout.}
 {163}{}{J'ai encore quelques autres questions.}
 {164}{}{Je veux d'autres choses.}
 {165}{}{Merci.}

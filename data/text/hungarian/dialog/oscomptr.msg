@@ -106,17 +106,17 @@
 {278}{}{Access Overseer Logs.}
 {279}{}{Kilépés.}
 {280}{}{Authorization required. Please enter password. }
-{281}{}{[BACK]}
+{281}{}{[VISSZA]}
 {282}{}{[Guess password]}
 {283}{}{[Attempt to hack into it.]}
 {284}{}{Kilépés.}
 {290}{}{Incorrect. Please enter password.}
-{291}{}{[BACK]}
+{291}{}{[VISSZA]}
 {292}{}{[Guess password]}
 {293}{}{[Attempt to hack into it.]}
 {294}{}{Kilépés.}
 {300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
-{301}{}{[BACK]}
+{301}{}{[VISSZA]}
 {302}{}{[Attempt to hack into it.]}
 {303}{}{Kilépés.}
 {310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}

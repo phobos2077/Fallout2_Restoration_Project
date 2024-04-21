@@ -1,11 +1,11 @@
-{100}{}{You see an addict.}
-{101}{}{This person is heavily drugged.}
-{102}{}{He looks like he's high on drugs.}
-{103}{}{She looks like she's high on drugs.}
-{104}{}{He's looking pretty bad. You suspect it's withdrawal from some kind of drug.}
+{100}{}{Egy drogfüggőt látsz.}
+{101}{}{Ez az egyén nagyon be van lőve.}
+{102}{}{Kemény drogosnak látszik aki épp száll.}
+{103}{}{Kemény drogosnak tűnik aki épp be van lőve.}
+{104}{}{Nagyon rosszul néz ki. Gyanítod, hogy valamilyen drog elvonásától szenved.}
 {105}{}{Jobb napokat is megélt már. Úgy tűnik, valamiféle megvonástól szenved.}
-{106}{}{This addict looks like the living dead.}
-{107}{}{You think this addict just threw up.}
+{106}{}{Ez a drogos pont olyan, mint egy élőhalott.}
+{107}{}{Ez a drogos nemrég okádott.}
 {150}{}{Nem bírom a fényt!}
 {151}{}{Szörnyek! Mindenütt!}
 {152}{}{Ez fura volt.}
@@ -57,7 +57,7 @@
 {237}{}{Talán, ha aludnék egy kicsit...}
 {238}{}{Hölgyem, nagyon reszketek.}
 {300}{}{Ez vér?}
-{301}{}{Whoa! Am I bleeding? I can't feel a thing!}
+{301}{}{Jééé! Vérzek? Nem érzek szart se!}
 {302}{}{Bizserget...}
 {303}{}{Ezt ki tette?}
 {304}{}{Mi folyik itt?}
@@ -65,7 +65,7 @@
 {306}{}{Óóó, ez fáj!}
 {307}{}{Most már tényleg kell egy löket.}
 {308}{}{Csak hagyj meghalni!}
-{350}{}{Ahhhh...}
+{350}{}{Áhhhh...}
 {351}{}{Lebegek...}
 {352}{}{Az erő velem van!}
 {353}{}{Helló, Mr. Hippi.}
@@ -84,7 +84,7 @@
 {366}{}{Hé! Hagyj békén! Óhh...}
 {367}{}{Ne csináld ezt!}
 {368}{}{Nem látok... már megint.}
-{369}{}{Need...}
+{369}{}{Keell...}
 {370}{}{Még több kell...}
 {371}{}{Oda? Nem.}
 {372}{}{Nem. Nem találom.}
@@ -96,7 +96,7 @@
 {378}{}{Hova tettem az anyagom?}
 {400}{}{Egy démon!}
 {401}{}{Itt van az ellenség!}
-{402}{}{You murderer! You killed my son!}
+{402}{}{Te gyilkos! Megölted a fiamat!}
 {403}{}{Egy szörny! Megölni!}
 {404}{}{Áh! Pargasraka!}
 {405}{}{Beleptek a patkányok! Ááá!}

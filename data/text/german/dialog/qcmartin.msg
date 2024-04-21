@@ -40,7 +40,7 @@
 {138}{}{Das klingt nicht gut. Ich möchte noch etwas fragen.}
 {139}{}{Habt ihr ein Glück. Vielleicht lernt ihr jetzt den Schmerz kennen, den mein Vorfahr, der
  Vaultbewohner, fühlte. Schmort in der Hölle. Tschüss.}
-{140}{}{Die nennen es F.E.V.-Gift. Bevor es tötet, stellt es furchtbare Sachen mit den Menschen
+{140}{}{Die nennen es FEV-Gift. Bevor es tötet, stellt es furchtbare Sachen mit den Menschen
  an. Das einzig *Gute* daran ist, dass es so schnell tötet, aber es sieht ziemlich schmerzhaft
  aus.}
 {141}{}{Das klingt ja übel. Warum verwenden die eure Leute für die Tests?}
@@ -72,7 +72,7 @@
  euch zu befreien. Wenn die Felder deaktiviert sind, lauft nach oben zu meinem Schiff, das dort
  liegt.}
 {159}{}{Wie kann ich das tun?}
-{160}{}{Daran hättet ihr denken sollen, *bevor* ihr meinen Vorfahren aus dem Vault geschmissen
+{160}{}{Daran hättet ihr denken sollen, *bevor* ihr meinen Vorfahren aus der Vault geschmissen
  habt. Hoffentlich verfault ihr alle hier. Tschüss.}
 {161}{}{Danke. Gottes Segen und viel Glück, mein Freund.}
 {162}{}{Auf Wiedersehen und viel Glück.}

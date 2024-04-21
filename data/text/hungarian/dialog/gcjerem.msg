@@ -19,12 +19,12 @@
 {151}{}{Hmm, nem éppen a legújabb modell, de megteszi. Köszi. Viszlát!}
 {160}{}{Most nem érek rá, nagyon sok dolgom van.}
 {161}{}{You see, it's all about stuff.}
-{162}{}{You see, it's all about ideas.}
-{163}{}{You see, it's all about words.}
-{164}{}{You see, it's all about Natas.}
-{165}{}{You see, it's all about bald-headed monkeys.}
-{166}{}{You see, it's all about secrets.}
-{167}{}{You see, it's all about marketing.}
+{162}{}{Látod ez ötletekről szól.}
+{163}{}{Látod ez szavakról szól.}
+{164}{}{Látod ez Natas-ról szól.}
+{165}{}{Látod mindez kopasz fejű majmokról szól.}
+{166}{}{Látod ez titkokról szól.}
+{167}{}{Látod ez reklámról szól.}
 {170}{}{Oké, oké, talán nem annyira csoda ez a raktár, de azért éppen elég fontos. Szükséged van valamire?}
 {171}{}{Kéne valami a raktárból.}
 {172}{}{Á, semmi-semmi. Csak bóklászok itt összevissza. Na, üdv...}
@@ -40,10 +40,9 @@
 {201}{}{Hát az a nagy helyzet, hogy éppen Skeeternek viszem.}
 {202}{}{Miféle Skeeterről beszélsz? Az a dolgom, hogy visszavigyek egy alkatrészt a reaktor irányítóterembe, hogy megjavítsam a... Nézd csak! Az ott nem egy patkány?}
 {203}{}{Gőzöm nincs, mit fognak csinálni azzal a vacakkal. Én csak cipelem.}
-{210}{}{I should have expected that. How the hell did Skeeter get anyone to authorize him getting a
- part, though? I just hope he doesn't blow anything up this time. Oh well. Not my business, I suppose.}
+{210}{}{Számíthattam volna rá. Hogy képes Skeeter bárkit is rávenni, hogy a nevében alkatrészeket vegyen fel? Remélem, most nem fog elbaltázni vagy felrobbantani semmit. Na, mindegy, nem az én dolgom.}
 {211}{}{Ja igen, az alkatrész! Indulnom kéne vele...}
 {220}{}{Szerezhetsz egyet akár Haroldtól a városban, vagy Festustól a fő reaktorirányító teremben. Engem hidegen hagy, honnan szerzed meg, ha megszerzed. Ha nincs igénylőlap, nincs alkatrész. Punktum. Így működnek itt a dolgok.}
 {221}{}{Megszerezted már az igénylőlapot? Anélkül nem adhatok ki semmit.}
 {222}{}{Ah, értem. Látom, akkor szereznem kell egyet. Később még jövök.}
-{300}{}{Actually, I think I'll get it later. Goodbye.}
+{300}{}{Még majd visszanézek később. Viszlát!}

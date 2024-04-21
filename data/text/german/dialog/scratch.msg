@@ -22,7 +22,7 @@
 {117}{}{Ähm - selbstverständlich.}
 {118}{}{Ich geh dann wohl besser.}
 {119}{}{Ich kann alle möglichen Sachen reparieren. Hab mir 'n Gebläse geholt, das gute Stück
- heißt Claudia, passt in praktisch jedes Auto  - die fahren damit mindestens doppelt so gut.
+ heißt Claudia, passt in praktisch jedes Auto - die fahren damit mindestens doppelt so gut.
  Kostet bloß tausend Dollar. Interessiert?}
 {120}{}{Dummkopf, darüber haben wir schon gesprochen.}
 {121}{}{Aber logisch, Claudia ist genau mein Typ von -...was auch immer.}

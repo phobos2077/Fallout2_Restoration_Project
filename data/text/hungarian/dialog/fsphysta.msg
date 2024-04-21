@@ -17,7 +17,7 @@
 {116}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
 {117}{}{-kész-}
 {118}{}{"A gépmadár terveinek közelmúltbeli megszerzésével hatalmas lépést tettünk egy repülő jármű gyakorlati megvalósítása felé. Az év végére várjuk a működő prototípus elkészülését, két éven belül pedig megkezdődhet a tömeggyártás." - Dr. Wong}
-{119}{}{::copy plans::}
+{119}{}{::tervek lemásolása::}
 {120}{}{Vissza.}
 {121}{}{"Még mindig dolgozunk egy levegőben közlekedő jármű használható modelljén. Az eddig elkészült tervek egyike sem bizonyult biztonságosnak, aerodinamikusnak. Talán ha hozzáférhetnénk az ősök terveihez..." - Dr. Wong}
 {122}{}{Vissza.}

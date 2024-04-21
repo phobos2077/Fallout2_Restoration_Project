@@ -28,7 +28,7 @@
 {602}{}{[John setzt sich auf einen Stuhl und genehmigt sich einen Schluck Whisky.] Nun, es fing alles vor ein paar Tagen an. Meine
  Frau und ich wollten gerade zu Bett gehen, als wir ein seltsames Rascheln draußen in den Feldern hörten. Ich hab mir meine Laterne geschnappt
  und bin rausgerannt um die Ursache des Geräusches herauszufinden. Aber, obwohl ich sehr schnell beim Feld eintraf, war nichts mehr zu hören.}
-{603}{}{Mach weiter.}
+{603}{}{Ja?}
 {604}{}{Tut mir leid, aber ich muss los.}
 {605}{}{Naja, in der folgenden Nacht war wir nichts mehr zu hören. Aber in der Nacht darauf war das Rascheln wieder da. Diesmal bin ich zum
  Fenster gekrochen und habe vorsichtig rausgeschaut, anstatt wieder hinaus zu stürmen. In die Dunkelheit starrend, sah ich ein schwaches Licht,

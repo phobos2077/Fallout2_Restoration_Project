@@ -11,6 +11,6 @@
 {128}{}{Ne bánts!}
 {129}{}{Nem akartam ilyen farok lenni.}
 {130}{}{Nem gondoltam komolyan azokat a fenyegtőzéseket.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Sajnálom, Buffy!}
+{132}{}{Sajnálom, Mosdatlanok! Csak fel akartam hívni magamra a figyelmet.}
 {133}{}{On-line verziót akarok!}

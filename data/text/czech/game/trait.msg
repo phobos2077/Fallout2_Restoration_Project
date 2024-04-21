@@ -25,8 +25,8 @@
 {208}{}{Nějakým podivným řízením osudu lidé kolem tebe umírají násilně. Vždy uvidíš ten nejhorší možný způsob smrti.}
 {209}{}{Ta dobrá zpráva je, že všem okolo tebe v boji častěji něco selže. Ta špatná zpráva je, že se to stává i tobě!}
 {210}{}{Během svého života ses zaměřoval především na studium nebojových dovedností. Se svými bojovými dovednostmi začínáš na nižším stupni, ale První Pomoc, Léčení, Řeč a Obchodování jsou podstatně vylepšeny.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
+{211}{}{Snadněji se stáváš závislým na chemikáliích. Tvoje šance stát se závislým jsou dvojnásobné, ale na druhé straně se podstatně rychleji zotavuješ z jejich vedlejších účinků.}
+{212}{}{Chemikálie na tvou postavu působí sice jen poloviční dobu než obvykle, ale tvá šance stát se na nich závislým je rovněž o 50% menší oproti ostatním lidem.}
 {213}{}{Máš přesně to pravé "vybavení". Pro opačné pohlaví jsi velmi přitažlivá osoba, ale příslušníci stejného pohlaví mívají tendenci poněkud žárlit.}
 {214}{}{Protože jsi věnoval zlepšování svých dovedností víc času než ostatní, obdržíš za každou novou úroveň 5 dovednostních bodů navíc. Výměnou za to získáš perk jen jednou za čtyři úrovně.}
 {215}{}{Máš více vrozených schopností než ostatní. Všechny tvé základní vlastnosti budou navýšeny o 1 bod, ale do začátku ztratíš 10% ze všech dovedností a při postupu na další úroveň obdržíš o 5 dovednostních bodů méně.}

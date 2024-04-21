@@ -69,7 +69,7 @@
 {3500}{}{5mm JHP}
 {3501}{}{Zásobník malé lehké munice. Kalibr: 5mm, plášťová expanzní střela.}
 {3600}{}{5mm AP}
-{3601}{}{Zásobník malé lehké munice. 5mm průrazná střela.}
+{3601}{}{Zásobník malé lehké munice. Kalibr: 5mm, průrazná střela.}
 {3700}{}{Raketa AP}
 {3701}{}{Raketa s malým množstvím výbušniny. Navržena k prorážení pancíře.}
 {3800}{}{Malý energetický článek}
@@ -183,7 +183,7 @@
 {9200}{}{Radškorpioní ocas}
 {9201}{}{Oddělený ocas z radškorpiona.}
 {9300}{}{Vak}
-{9301}{}{Vak průměrné velikosti. Vyroben z brahmíní kůže.}
+{9301}{}{Pytel průměrné velikosti. Utkán z brahmíní kůže.}
 {9400}{}{Brokovnice}
 {9401}{}{Dvouhlavňová brokovnice Winchester Ovdovovač ráže 12. S krátkou hlavní a mahagonovou pažbou. Min. SÍ: 4.}
 {9500}{}{Brokové náboje ráže 12}
@@ -1100,7 +1100,7 @@
 {56800}{}{Dálkově řízený dynamit}
 {56801}{}{Na rozdíl od dynamitů s časovačem lze tento odpálit na dálku. Dynamit je odjištěn a připraven k odpálení.}
 {56900}{}{Pop Rocks}
-{56901}{}{Neotevřený balíček chutných bonbónů vyrobených z cukru, laktózy (více cukru), kukuřičného syrupu (ještě více cukru) a různých příchutí. Říká se, že když se smíchají s nápojem jako je Nuka Cola, může dojít k explozi žaludku.}
+{56901}{}{Neotevřený balíček chutných bonbónů vyrobených z cukru, laktózy (více cukru), kukuřičného syrupu (ještě více cukru) a různých příchutí. Říká se, že když se smíchají s nápojem jako je Nuka-Cola, může dojít k explozi žaludku.}
 {57000}{}{Láhev šampónu}
 {57001}{}{Láhev kvalitního šampónu. Na rozdíl od jiných předních značek je zabalen v neobvyklé pružné plastové láhvi. Byla takto speciálně navržena, aby po jejím zmáčknutí vyteklo jen potřebné množství šamponu. Ne více, ne méně. Stačí odklopit víčko a zmáčknout.}
 {57100}{}{K-9 Kevlar}

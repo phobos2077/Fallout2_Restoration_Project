@@ -61,8 +61,7 @@
 {152}{}{Man sieht hier nicht allzuoft ein neues Gesicht. Ich bin Phyllis. Wie heißt du?}
 {153}{}{Ich heiße }
 {154}{}{Ich bin }
-{155}{}{Wenn ich Lust hätte, dir meinen Namen zu sagen, hätte ich's längst getan, Syphyllis...
-  oder wie in drei Teufels Namen du auch immer heißt.}
+{155}{}{Wenn ich Lust hätte, dir meinen Namen zu sagen, hätte ich's längst getan, Syphyllis... oder wie in drei Teufels Namen du auch immer heißt.}
 {156}{}{Tut mir leid, ich hab momentan keine Zeit zum Plaudern.}
 {157}{}{Also, von allen...du bist so ziemlich das Ordinärste, was mir jemals untergekommen ist.
  Ich rate dir eins: Geh. Und zwar sofort.}
@@ -163,7 +162,7 @@
 {233}{}{Ich trau mich nicht zu fragen. Aber ich tu's trotzdem.}
 {234}{}{Mehr will ich gar nicht drüber wissen. Aber ich hätte da noch ein paar andere Fragen...}
 {235}{}{Ich glaube, ich habe genug gehört.}
-{236}{}{Die männlichen Bürger "spenden" an den Autodoc hier in der Vault. Der Computer bestimmt die
+{236}{}{Die männlichen Bürger "spenden" an den Auto-Doc hier in der Vault. Der Computer bestimmt die
  günstigste genetische Kombination und besamt daraufhin den entsprechenden weiblichen Bürger.}
 {237}{}{Kann ich auch spenden?}
 {238}{}{Werden die Leute beim Geschlechtsverkehr nicht mehr schwanger? Wie ist das mit
@@ -188,7 +187,7 @@
 {250}{}{Nein, VIELEN Dank.}
 {251}{}{Es ist so, dass...ich habe mir darüber selber Gedanken gemacht in letzter Zeit.
  Offensichtlich kommt es bei den Bürgern nicht zu ungewollten Schwangerschaften. Nur die vom
- Autodoc eingeleiteten Schwangerschaften verlaufen erfolgreich.}
+ Auto-Doc eingeleiteten Schwangerschaften verlaufen erfolgreich.}
 {252}{}{Möglicherweise führt die Hintergrundstrahlung zur Unfruchtbarkeit, oder schlimmer noch,
  zu Chromosomenschäden. Es wäre interessant, das mal näher zu erforschen.}
 {253}{}{Vielleicht liegt's einfach daran, dass die Leute hier nicht allzuviel richtigen

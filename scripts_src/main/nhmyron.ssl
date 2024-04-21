@@ -69,7 +69,6 @@ procedure Node021;
 procedure Node022;
 procedure Node023;
 procedure Node024;
-procedure Node024a;
 procedure Node025;
 procedure Node026;
 procedure Node101;
@@ -679,18 +678,14 @@ procedure Node988 begin
 end
 procedure Node985 begin
    variable tmp;
-   // *** put this in only if the expansion pack --unlocked by killap
    if (EPA_visible_on_map == false) then begin
       mark_EPA_on_map
    end else if (stash_found == false) then begin
       set_stash_know;
    end else if (expand_carry_limit == false) then begin
       set_expand_carry_limit;
-      //tmp := get_critter_stat(self_obj, STAT_carry_amt) + 10;
-      tmp := get_critter_extra_stat(self_obj, STAT_carry_amt) + 10; //added by killap - requires Timeslip's compiler and dlls
-      set_critter_extra_stat(self_obj, STAT_carry_amt, tmp); //added by killap - requires Timeslip's compiler and dlls
-      //set_pc_base_stat(STAT_carry_amt, 200);
-      //set_critter_stat(self_obj, STAT_carry_amt, 10); //altered by Seraph/killap
+      tmp := get_critter_extra_stat(self_obj, STAT_carry_amt) + 10;
+      set_critter_extra_stat(self_obj, STAT_carry_amt, tmp);
    end
 end
 procedure Node984 begin
@@ -946,9 +941,6 @@ procedure Node023 begin
 end
 procedure Node024 begin
    floater_rand(590, 595);
-end
-procedure Node024a begin
-   floater_rand(596, 599);
 end
 procedure Node025 begin
    floater(600);
@@ -1330,7 +1322,6 @@ procedure Node141 begin
    prev_node := 141;
 end
 procedure Node142 begin
-   // *** put this in only if expansion pack --unlocked by killap
    if (EPA_visible_on_map == false) then begin
       Reply(1020);
    end else if (stash_found == false) then begin

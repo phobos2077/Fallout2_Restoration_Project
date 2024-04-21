@@ -69,7 +69,7 @@
 {3500}{}{5mm BHC}
 {3501}{}{Una munición pequeña y ligera. Calibre: 5mm, de punta hueca y chaqueta metálica.}
 {3600}{}{5mm PB}
-{3601}{}{Munición de pequeño calibre, 5mm perforante.}
+{3601}{}{Una munición pequeña y ligera. Calibre: 5mm, perforante.}
 {3700}{}{Cohete PB}
 {3701}{}{Un cohete con explosivo de pequeña potencia pero diseñado para perforar blindajes.}
 {3800}{}{Células PE}
@@ -183,7 +183,7 @@
 {9200}{}{Cola de escorpión}
 {9201}{}{La cola cortada de un escorpión rad.}
 {9300}{}{Maleta}
-{9301}{}{Una maleta de tamaño medio. Tejida con pelo de brahmin.}
+{9301}{}{Una bolsa de tamaño medio. Hecha con tejido de pelo de brahmin.}
 {9400}{}{Escopeta}
 {9401}{}{Una escopeta Winchester Widowmaker con dos cañones y calibre 12. De cañón corto, con asa en caoba. Min FU: 4.}
 {9500}{}{Cartuchos de escopeta calibre 12}
@@ -359,7 +359,7 @@
 {18000}{}{Embalaje}
 {18001}{}{Una caja de embalaje de madera con objetos genéricos.}
 {18100}{}{Escritorio}
-{18101}{}{Un escritorio genérico. Cuando has visto un escritorio, los has visto todos.}
+{18101}{}{Un escritorio genérico. Cuando has visto uno, has visto todos.}
 {18200}{}{Escritorio}
 {18201}{}{Un escritorio genérico.}
 {18300}{}{Escritorio}
@@ -1102,7 +1102,7 @@ Es la cosa más hermosa que he tenido. Nunca me separare de el"}
 {56800}{}{Gatillo activado dinamita}
 {56801}{}{A diferencia de la normal de la dinamita, la cual establece un temporizador, este dinamita es activado por un disparo. Este está armado y listo para ser activado.}
 {56900}{}{Pop Rocks}
-{56901}{}{Una bolsa sin abrir de un sabroso gaseosas dulces de azúcar, la lactosa (más azúcar), jarabe de maíz (incluso más de azúcar), y el sabor. Se rumorea que cuando se mezcla con bebidas como Nuka Cola estomago iba a explotar.}
+{56901}{}{Una bolsa sin abrir de un sabroso gaseosas dulces de azúcar, la lactosa (más azúcar), jarabe de maíz (incluso más de azúcar), y el sabor. Se rumorea que cuando se mezcla con bebidas como Nuka-Cola estomago iba a explotar.}
 {57000}{}{Botella de Champú}
 {57001}{}{Una prima de la botella de champú. A diferencia de otras marcas líderes, este champú viene en una inusual flexi-botella de plástico. Fue especialmente diseñado de esta manera, así que cuando la botella se la apretó, la cantidad adecuada de champú fue derramada - ni más, ni menos. Sólo una cara de la tapa, y usted está en su camino.}
 {57100}{}{K-9 De Kevlar}

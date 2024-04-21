@@ -103,11 +103,6 @@ procedure timed_event_p_proc begin
 end
 
 procedure combat_p_proc begin
-   /*if (critter_is_fleeing(self_obj)) then begin
-      call NodeFleeing;
-   end else begin
-      call NodeFighting;
-   end*/
    if (Random(1, 100) <= TAUNT_CHANCE) then
       call NodeFighting;
 end
@@ -123,28 +118,21 @@ procedure do_setup begin
    variable Critter_Rotation;
    variable Critter_Tile;
 
+   ndebug("do_setup");
+
    Only_Once:=0;
    set_self_team(TEAM_RND_KAGA);
    set_self_ai(AI_KAGA);
-   //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
    set_kaga_1;
    set_kaga_2;
    set_kaga_3;
    set_kaga_4;
    set_kaga_5;
-   //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
-   //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
    check_restock_item(PID_PLASMA_GRENADE, 3, 3, 100)
    check_restock_item(PID_STIMPAK, 5, 5, 100)
    check_restock_item(PID_MICRO_FUSION_CELL, 3, 3, 100)
    check_restock_item(PID_BOTTLE_CAPS, 5000, 5000, 100)
    check_restock_item(PID_GATLING_LASER, 1, 1, 100)
-
-   //move_to(dude_obj, 15054, 0);
-   //move_to(self_obj, 16081, 0);
-
-   //Face_Critter(dude_obj, self_obj);
-   //Face_Critter(self_obj, dude_obj);
 
    wield_obj_critter(self_obj,self_item(PID_GATLING_LASER));
 
@@ -236,14 +224,6 @@ end
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
    like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
 procedure damage_p_proc begin
-
-/* If the player causes damage to this critter, then he will instantly consider the player
-   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
-   the player for his evil acts. */
-   /*if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Personal_Enemy,1);
-   end*/
-
 end
 
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.

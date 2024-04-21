@@ -366,7 +366,6 @@ procedure Node011b begin
    if (not san_fran_flag(SF_EMPEROR_FORMATTED)) then begin  //added check by killap
       COMPLETE_TANKER_FUEL;
       unset_san_fran_flag(SF_GAS_ELRONS);
-   //   set_badger_flag(BADGER_DONESHI);  //why is badger getting the blame? - killap
       set_shihacked_flag(SHI_TRUE);
       COMP_QUEST(REP_BONUS_SAN_FRAN_TANKER_FUEL_DAVE_SHI, REP_HERO_SAN_FRAN_TANKER_FUEL_DAVE_SHI, EXP_TANKER_FUEL_DAVE_SHI)
       call Node011;
@@ -390,7 +389,6 @@ end
 
 procedure Node010 begin
    Reply(140);
-   //if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not dude_item(PID_VERTIBIRD_PLANS)) then
    if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not(local_var(LVAR_Gave_Plans))) then //edit by killap
       NOption(141, Node011a, 4);
    NOption(142, Node012a, 4);
@@ -409,7 +407,6 @@ end
 
 procedure Node011 begin
    Reply(146);
-   //if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not dude_item(PID_VERTIBIRD_PLANS)) then
    if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not(local_var(LVAR_Gave_Plans))) then //edit by killap
       NOption(147, Node011a, 4);
    if (not san_fran_flag(SF_GAS_ELRONS) and (tanker_flag(TANK_KNOWN) and not tanker_flag(TANK_FUEL))) then
@@ -448,7 +445,6 @@ procedure Node015b begin
       did_task := 1;
       unset_san_fran_flag(SF_GAS_ELRONS);
       COMPLETE_TANKER_FUEL;
-//      set_badger_flag(BADGER_DONESHI);  //why is badger getting the blame? - killap
       set_shihacked_flag(SHI_TRUE);
       COMP_QUEST(REP_BONUS_SAN_FRAN_TANKER_FUEL_DAVE_SHI, REP_HERO_SAN_FRAN_TANKER_FUEL_DAVE_SHI, EXP_TANKER_FUEL_DAVE_SHI) //added by killap
       call Node015;
@@ -467,7 +463,6 @@ end
 
 procedure Node014 begin
    Reply(158);
-   //if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not dude_item(PID_VERTIBIRD_PLANS)) then
    if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not(local_var(LVAR_Gave_Plans))) then //edit by killap
       NOption(159, Node015a, 4);
    //added 'if' by killap
@@ -481,14 +476,12 @@ procedure Node014 begin
 end
 
 procedure Node015 begin
-   //if (not dave_flag(DAVE_TOLD)) then
    if (did_task) then //edit by killap
       Reply(164);
    else
       Reply(200);
 
    NLowOption(108, Node003);
-   //if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not dude_item(PID_VERTIBIRD_PLANS)) then
    if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not(local_var(LVAR_Gave_Plans))) then //edit by killap
       NOption(165, Node015a, 4);
    //added 'if' by killap
@@ -568,7 +561,6 @@ end
 
 procedure Node023 begin
    Reply(199);
-   //if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not dude_item(PID_VERTIBIRD_PLANS)) then
    if (elron_whirly(EL_WH_GIVEN) and (SHI_WANT_PLANS or san_fran_flag(SF_BROTHER_PLANS)) and not(local_var(LVAR_Gave_Plans))) then //edit by killap
       NOption(159, Node015a, 4);
    NOption(160, Node016, 4);

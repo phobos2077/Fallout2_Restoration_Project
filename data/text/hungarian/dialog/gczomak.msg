@@ -42,7 +42,7 @@
 {242}{}{Rendben. Később találkozunk.}
 {250}{}{Igen. Az vagyok. Most pedig tűnés!}
 {251}{}{Ha maga mondja... Na, isten vele.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
+{260}{}{Ó, hehe... persze. Tudtam én. Ööö... nos... átmentem?}
 {261}{}{Át. Most pedig engedj be!}
 {262}{}{Nem mentél át, és most jelenteni fogom ezt!}
 {270}{}{Akkor rendben. Menj csak előre!}
