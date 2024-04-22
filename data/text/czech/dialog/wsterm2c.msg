@@ -20,3 +20,4 @@
 {119}{}{Konec.}
 {120}{}{Automatický Opravný systém je již mimo provoz.}
 {121}{}{Tento terminál nelze použít. Někdo rozbil klávesnici.}
+{200}{}{ nedokáže přečíst text na monitoru.}

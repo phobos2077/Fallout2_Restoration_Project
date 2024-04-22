@@ -60,3 +60,4 @@
 {149}{}{Das ist alles, was mir im Augenblick einfällt. Auf Wiedersehen.}
 {150}{}{Auf Wiedersehen.}
 {151}{}{Du bist ein Dieb, ein Mörder und ein Schurke. Ich fürchte, ich werde dich töten müssen.}
+{152}{}{Moment...}

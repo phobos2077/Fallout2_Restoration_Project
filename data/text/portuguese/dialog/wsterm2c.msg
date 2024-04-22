@@ -24,3 +24,4 @@
 {119}{}{Sair}
 {120}{}{Você já desligou o sistema de reparo automatizado.}
 {121}{}{Não consigo acessar o terminal. Alguém quebrou o teclado.}
+{200}{}{ é incapaz de ler o que está no monitor.}

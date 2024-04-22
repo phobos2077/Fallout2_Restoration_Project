@@ -50,3 +50,4 @@
 {149}{}{Questo e' tutto quello che mi viene in mente, al momento. Buona giornata.}
 {150}{}{Buona giornata.}
 {151}{}{Sei un ladro, un assassino e una canaglia. Temo di essere costretto ad ucciderti.}
+{152}{}{Aspetta...}

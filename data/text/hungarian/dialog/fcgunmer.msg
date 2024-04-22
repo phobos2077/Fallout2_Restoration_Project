@@ -50,3 +50,4 @@
 {149}{}{Jelen pillanatban más nem jut eszembe. Szép napot!}
 {150}{}{Jó napot.}
 {151}{}{Tolvaj, gyilkos, bűnöző vagy. Attól tartok, meg kell, hogy öljelek.}
+{152}{}{Folytasd!}

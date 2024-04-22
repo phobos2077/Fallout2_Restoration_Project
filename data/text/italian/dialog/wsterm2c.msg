@@ -20,3 +20,4 @@
 {119}{}{Esci}
 {120}{}{Hai gia' disattivato il sistema di riparazione automatizzata.}
 {121}{}{Non posso accedere al terminale. Qualcuno ha rotto la tastiera.}
+{200}{}{ non e' in grado di leggere quello che c'e' sul monitor.}

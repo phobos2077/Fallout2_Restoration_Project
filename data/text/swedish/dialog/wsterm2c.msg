@@ -24,3 +24,4 @@
 {119}{}{Exit}
 {120}{}{You already shut down the automated repair system.}
 {121}{}{I can't access the terminal. Someone broke the keyboard.}
+{200}{}{ is unable to read what's on the monitor.}

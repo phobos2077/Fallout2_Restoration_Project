@@ -50,3 +50,4 @@
 {149}{}{Eso es todo lo que se me ocurre en este momento. Buenos días.}
 {150}{}{Buenos días.}
 {151}{}{Eres un ladrón, un asesino, y un villano. Me temo que debo matarte.}
+{152}{}{Esperas...}

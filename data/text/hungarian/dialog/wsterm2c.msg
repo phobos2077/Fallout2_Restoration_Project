@@ -22,3 +22,4 @@
 {119}{}{Befejezés}
 {120}{}{Már kikapcsoltad az automata javító rendszert.}
 {121}{}{Nem tudok hozzáférni a terminálhoz. Valaki összetörte a billentyűzetet.}
+{200}{}{ képtelen elolvasni, mi van a képernyőn.}

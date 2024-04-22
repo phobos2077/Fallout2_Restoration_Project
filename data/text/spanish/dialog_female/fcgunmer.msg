@@ -50,3 +50,4 @@
 {149}{}{Eso es todo lo que se me ocurre en este momento. Buenos días.}
 {150}{}{Buenos días.}
 {151}{}{Eres una ladrona, una asesina, y una villana. Me temo que debo matarte.}
+{152}{}{Esperas...}
