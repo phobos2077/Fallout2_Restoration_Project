@@ -119,7 +119,7 @@
 {310}{}{Tu cherches un quoi ? Moi le seul Jardin d'Eden que je connais c'est celui de la ravissante Jenny là-bas, aux Bains. [Ha ha ha]}
 {311}{}{Heu, merci. Laisse-moi te poser une autre question.}
 {312}{}{C'est tout ce que je voulais savoir pour le moment. Au revoir.}
-{320}{}{J'ai entendu dire... [Ha ha ha] ... que des Hommeinsectes trucident des Brahmines à l'Est. Mais faut pas croire tout ce que l'on raconte. [Ha ha ha]}
+{320}{}{J'ai entendu dire que des... [Ha ha ha] ... Homme-insectes découpent les Brahmines à l'Est. Mais faut pas croire tout c'qu'on raconte. [Ha ha ha]}
 {321}{}{Oh, je vois, merci. J'aimerais savoir autre chose.}
 {322}{}{C'est tout ce que je voulais savoir pour le moment. Au revoir.}
 {330}{}{Salut. Tu viens troquer quelque chose contre notre fameuse viande séchée Dunton ?}
