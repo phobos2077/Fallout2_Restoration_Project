@@ -69,6 +69,7 @@ procedure Node021;
 procedure Node022;
 procedure Node023;
 procedure Node024;
+procedure Node024a;
 procedure Node025;
 procedure Node026;
 procedure Node101;
@@ -941,6 +942,9 @@ procedure Node023 begin
 end
 procedure Node024 begin
    floater_rand(590, 595);
+end
+procedure Node024a begin
+   floater_rand(596, 599);
 end
 procedure Node025 begin
    floater(600);
