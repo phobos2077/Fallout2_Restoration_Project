@@ -50,3 +50,4 @@
 {149}{}{C'est tout ce que je vois pour le moment. Au revoir.}
 {150}{}{Au revoir.}
 {151}{}{Enfant de démon ! Je regrette mais je dois te tuer !}
+{152}{}{Attends...}

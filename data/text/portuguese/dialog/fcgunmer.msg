@@ -50,3 +50,4 @@
 {149}{}{Isso é tudo que consigo lembrar no momento. Passar bem.}
 {150}{}{Bom dia.}
 {151}{}{Você é um ladrão, um assassino, e um canalha. Acho que eu tenho que te matar.}
+{152}{}{Aguarde...}

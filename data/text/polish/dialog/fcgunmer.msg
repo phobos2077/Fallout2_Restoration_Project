@@ -50,3 +50,4 @@
 {149}{}{To wszystko, co w tej chwili przychodzi mi do głowy. Do widzenia.}
 {150}{}{Do widzenia.}
 {151}{}{Na takich jak ty mówi się złodzieje, mordercy i łajdacy. Obawiam się, że muszę cię zabić.}
+{152}{}{Czekaj...}

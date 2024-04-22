@@ -26,3 +26,4 @@
 {119}{}{Beenden}
 {120}{}{Du hast das automatische Reparatursystem bereits heruntergefahren.}
 {121}{}{Ich komme nicht an dieses Terminal ran. Jemand hat die Tastatur ruiniert.}
+{200}{}{ kann nicht lesen, was auf dem Monitor steht.}

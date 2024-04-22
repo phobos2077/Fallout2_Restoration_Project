@@ -22,3 +22,4 @@
 {119}{}{Wyjdź.}
 {120}{}{Zautomatyzowana Stacja Napraw jest już wyłączona.}
 {121}{}{Nie mogę skorzystać z tego terminala. Ktoś zepsuł klawiaturę.}
+{200}{}{ nie może odczytać tego, co wyświetla monitor.}

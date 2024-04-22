@@ -20,3 +20,4 @@
 {119}{}{[Quitter]}
 {120}{}{Tu as déjà arrêté le système de réparation automatique.}
 {121}{}{Je ne peux pas accéder au terminal. Quelqu'un a cassé le clavier.}
+{200}{}{ est incapable de lire ce qu'affiche le moniteur.}

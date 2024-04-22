@@ -50,3 +50,4 @@
 {149}{}{Na nic dalšího si momentálně nevzpomínám. Měj se.}
 {150}{}{Hezký den.}
 {151}{}{Jsi zloděj, vrah a ničema. Obávám se, že tě budu muset zabít.}
+{152}{}{Čekat...}

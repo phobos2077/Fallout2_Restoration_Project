@@ -21,3 +21,4 @@
 {119}{}{Salir.}
 {120}{}{Ya has detenido el sistema de reparación automática.}
 {121}{}{No puedo acceder al terminal. Alguien rompió el teclado.}
+{200}{}{ es incapaz de leer lo que pone en el monitor.}
