@@ -81,7 +81,7 @@ procedure Node017;
 
 /* Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_ */
-#define LVAR_Diagnostic                 (0)
+// #define LVAR_Diagnostic                 (0)  // unused
 #define LVAR_Gave_Xp                    (1)
 #define LVAR_Last_Used                  (2)
 #define LVAR_Hack_Security              (3) // Seraph's Code
@@ -109,11 +109,7 @@ procedure use_p_proc begin
 
    script_overrides;
 
-   if (local_var(LVAR_Diagnostic) == 1) then begin
-       display_msg(mstr(200));
-   end
-
-   else if (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) then begin
+   if (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) then begin
        Damage:=random(LOW_DAMAGE,HIGH_DAMAGE);
        critter_damage(source_obj,Damage);
        display_msg(message_str(SCRIPT_WSTERM1A,300)); //was SCRIPT_WSTERM1B - killap

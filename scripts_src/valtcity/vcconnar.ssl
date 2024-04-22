@@ -960,13 +960,6 @@ procedure Node039 begin
    NOption(606, Node041, 004);
 end
 
-//not used anymore...
-procedure Node040 begin
-   Reply(607);
-   NOption(608, Node999, 004);
-   NOption(609, Node041, 004);
-end
-
 procedure Node041 begin
    Reply(610);
    NOption(611, Node999, 004);
