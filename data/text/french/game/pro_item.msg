@@ -1114,7 +1114,7 @@
 {57500}{}{Blaster}
 {57501}{}{P'tit gars, toutes ces croyances à la noix et ces armes démodées, ça vaut pas un bon pisto-laser à tes côtés. Min ST: 3}
 {57600}{}{Sabre laser}
-{57601}{}{C'est élégant, maniable, une arme noble d'une époque civilisée. Les nouveaux pisto-lasers sont bien moins précis... Il t'a été donné par l'Empereur Timeslip.  FO Min : 2.}
+{57601}{}{C'est élégant, maniable, une arme noble d'une époque civilisée. Les nouveaux pisto-lasers sont bien moins précis... Il t'a été donné par l'Empereur Timeslip. FO Min : 2.}
 {57700}{}{Conduit d'aération}
 {57701}{}{La grille de ce ventilateur semble différente.}
 {57800}{}{Conteneur en Métal}
