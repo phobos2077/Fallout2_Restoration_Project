@@ -33,7 +33,7 @@
 {1700}{}{Combat Armor}
 {1701}{}{High tech armor, made out of advanced defensive polymers.}
 {1800}{}{Desert Eagle .44}
-{1801}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. Min ST: 4.}
+{1801}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times. Min ST: 4.}
 {1900}{}{Rock}
 {1901}{}{It's a rock. The Granite-Inc. model is an upgraded version. Min ST: 1.}
 {2000}{}{Crowbar}
@@ -785,7 +785,7 @@
 {40300}{}{FN FAL (Night Sight)}
 {40301}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. This weapon has been equipped with a night sight for greater night accuracy. Min ST: 5.}
 {40400}{}{Desert Eagle (Exp. Mag.)}
-{40401}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games! Min ST: 4.}
+{40401}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games! Min ST: 4.}
 {40500}{}{Assault Rifle (Exp. Mag.)}
 {40501}{}{This Assault Rifle has an extended, military sized, ammunition clip. The expanded magazine capacity makes it more fun than ever to Spray-and-Pray. Min ST: 5.}
 {40600}{}{Plasma Pistol (Ext. Cap.)}
