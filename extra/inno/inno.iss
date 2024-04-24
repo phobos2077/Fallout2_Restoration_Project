@@ -31,7 +31,7 @@ AlwaysShowDirOnReadyPage=yes
 Source: "release\*.*"; Excludes: "\mods\mods_order.txt"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
 Source: "release\mods\mods_order.txt"; DestDir: "{#mods_dir}"; Components: core; Flags: onlyifdoesntexist
 #include "files_translations.iss"
-Source: "optional\rpu_alternative_exposions.dat"; DestDir: "{#mods_dir}"; Components: alternative_explosions; Flags: ignoreversion overwritereadonly
+Source: "optional\rpu_alternative_explosions.dat"; DestDir: "{#mods_dir}"; Components: alternative_explosions; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_enhanced_worldmap.dat"; DestDir: "{#mods_dir}"; Components: worldmap; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_rifle_animations.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\rifle; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_wakizashi_animations.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\wakizashi; Flags: ignoreversion overwritereadonly
