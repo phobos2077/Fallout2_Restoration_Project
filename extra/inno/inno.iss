@@ -31,6 +31,7 @@ AlwaysShowDirOnReadyPage=yes
 Source: "release\*.*"; Excludes: "\mods\mods_order.txt"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
 Source: "release\mods\mods_order.txt"; DestDir: "{#mods_dir}"; Components: core; Flags: onlyifdoesntexist
 #include "files_translations.iss"
+Source: "optional\rpu_alternative_exposions.dat"; DestDir: "{#mods_dir}"; Components: alternative_explosions; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_enhanced_worldmap.dat"; DestDir: "{#mods_dir}"; Components: worldmap; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_rifle_animations.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\rifle; Flags: ignoreversion overwritereadonly
 Source: "optional\rpu_wakizashi_animations.dat"; DestDir: "{#mods_dir}"; Components: wpn_anims\wakizashi; Flags: ignoreversion overwritereadonly
@@ -81,6 +82,8 @@ Name: "wpn_anims\ext_flamer"; Description: "Extended flamer attack animations"; 
 Name: "cassidy_head"; Description: "Talking head and voice for Cassidy"; Types: "custom"; Flags: disablenouninstallwarning;
 
 Name: "imp_stranger"; Description: "Improved Mysterious Stranger"; Types: "custom";  Flags: disablenouninstallwarning
+
+Name: "alternative_explosions"; Description: "Alternative explosion animations (from Tactics)"; Flags: disablenouninstallwarning
 
 [Types]
 Name: "custom"; Description: "Custom Selection"; Flags: iscustom
