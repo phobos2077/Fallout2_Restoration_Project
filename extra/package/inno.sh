@@ -26,6 +26,7 @@ mv "$trans_dir"/*.dat translations/
 
 # move optional components
 mkdir optional
+mv ./release/mods/rpu_alternative_explosions.dat optional/
 mv ./release/mods/rpu_enhanced_worldmap.dat optional/
 mv ./release/mods/rpu_rifle_animations.dat optional/
 mv ./release/mods/rpu_wakizashi_animations.dat optional/
