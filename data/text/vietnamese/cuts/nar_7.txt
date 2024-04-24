@@ -1,3 +1,3 @@
-1:The radiation has taken its toll.
-2:Your death was lingering and extremely painful.
-3:Your adventure is done.
+1:B?c x? ?ã ??n m?c c?c ?i?m.
+2:B?n ch?t trong s? ?au ??n kéo dài.
+3:Hành trình c?a b?n ?ã k?t thúc.
