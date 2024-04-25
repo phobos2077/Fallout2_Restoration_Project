@@ -13,9 +13,9 @@
 {112}{}{Klamath}
 {113}{}{Klamath}
 {114}{}{Klamath}
-{115}{}{La Cité de l'Abri}
-{116}{}{La Cité de l'Abri}
-{117}{}{La Cité de l'Abri}
+{115}{}{La Cite de l'Abri}
+{116}{}{La Cite de l'Abri}
+{117}{}{La Cite de l'Abri}
 {118}{}{error:Map Name}
 {119}{}{City Ruins}
 {120}{}{Cote}
@@ -591,7 +591,7 @@
 {1501}{}{La Fosse}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
-{1504}{}{La Cité de l'Abri}
+{1504}{}{La Cite de l'Abri}
 {1505}{}{Gecko}
 {1506}{}{Les Collines Brisées}
 {1507}{}{New Reno}
