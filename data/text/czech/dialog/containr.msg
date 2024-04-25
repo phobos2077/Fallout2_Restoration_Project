@@ -103,16 +103,18 @@
 {203}{}{Zdá se, že ten kontejner je zamčený.}
 {204}{}{Všiml sis pasti v zárubni kontejneru.}
 {205}{}{ objevil past v zárubni kontejneru.}
-{206}{}{Na tento kontejner nemůžeš umístit past, protože je otevřený.}
-{207}{}{ nemůže na tento kontejner umístit past, protože je otevřený.}
+{206}{}{Na tento kontejner nemůžeš umístit past,
+ protože je otevřený.}
+{207}{}{ nemůže na tento kontejner umístit past,
+ protože je otevřený.}
 {208}{}{Zkušeně umisťuješ past na kontejner.}
 {209}{}{Nepodařilo se ti umístit past na kontejner.}
 {210}{}{ zkušeně umisťuje past na kontejner.}
 {211}{}{ se nepodařilo umístit past na kontejner.}
 {212}{}{Vidíš ledničku.}
 {400}{}{Odemykáš kontejner.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{601}{}{Je otevřená, pitomče.}
+{610}{}{Okázale selžeš a výbušnina vybuchne předčasně.}
+{611}{}{ okázale selžeš a výbušnina vybuchne předčasně.}
+{620}{}{Páčidlo ohneš k nepoznání. Teď už je nepoužitelné.}
+{621}{}{ páčidlo ohneš k nepoznání. Teď už je nepoužitelné.}

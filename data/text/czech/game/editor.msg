@@ -13,7 +13,7 @@
 {112}{}{DOVED. BODY}
 {113}{}{Úroveň:}
 {114}{}{Zkušenost:}
-{115}{}{   Další úroveň:}
+{115}{}{Další úroveň:}
 {116}{}{CHAR. BODY}
 {117}{}{DOVEDNOSTI}
 {118}{}{Před začátkem hry musíš využít}
@@ -156,7 +156,7 @@
 {646}{}{Žena}
 {647}{}{ Úroveň:}
 {648}{}{        Zkušenosti:}
-{649}{}{   Další úroveň:}
+{649}{}{Další úroveň:}
 {650}{}{ ::: Rysy :::}
 {651}{}{ ::: Perky :::}
 {652}{}{ ::: Karma :::}
