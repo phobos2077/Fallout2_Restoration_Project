@@ -1,5 +1,5 @@
 {100}{}{Pes. Vypadá jako kólie.}
-{101}{}{Vidíš Laddie.}
+{101}{}{Vidíš Laddieho.}
 {102}{}{Tenhle pes se zdá být opravdu inteligentní a ostražitý.}
 {103}{}{Nepochybně je tento pes určitě chytřejší než ty.}
 {150}{}{Haf!}
