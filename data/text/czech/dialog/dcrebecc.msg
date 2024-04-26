@@ -153,10 +153,8 @@
 {532}{}{Mockrát děkuju.}
 {533}{}{Dík!}
 {534}{}{Uch! Cheská pani.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Jste úžasný muž. I přesto, že vám nemůžu prominout vaše činy, udělal jste pro svět velikou službu.}
+{541}{}{Jste úžasná žena. I přesto, že vám nemůžu prominout vaše činy, udělala jste pro svět velikou službu.}
 {542}{}{Díky.}
 {550}{}{Nechceme vás tu. Prosím, odejděte.}
 {551}{}{Odejděte prosím.}

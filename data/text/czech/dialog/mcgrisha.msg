@@ -148,6 +148,6 @@
 {1239}{}{Já si myslím, že jste s mým synovcem tancovali pod peřinami horizontální tango.}
 {1403}{}{Jak si dovoluješ pošpinit čest Grishamova potomka, }
 {1412}{}{daughter.}
-{1413}{}{son.}
+{1413}{}{jeho syna?}
 {1600}{}{. Doufám, že se dobře staráš o moji dcerku Miriu. Ona je světlo mého života a zlomilo by mi srdce, kdyby se jí něco stalo. Mimochodem, kde je? Doufal jsem, že ji zase uvidím.}
 {1601}{}{. Tak jak se ti zamlouvá manželskej život? Vidím, že Davin s tebou necestuje. Moc mi chybí. Vezmi ho s sebou, až přijdeš příště na návštěvu. Starýho muže to potěší, když zase uvidí svýho jedinýho synka.}

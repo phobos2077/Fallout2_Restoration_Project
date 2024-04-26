@@ -39,7 +39,7 @@
 {144}{}{Dobře.}
 {145}{}{Chápu.}
 {155}{}{Jsi normální courat se tady okolo bez uniformy? Padej se rychle převlíct!}
-{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{156}{}{Jestli tě seržant načapá bez uniformy, nakope ti prdel.}
 {157}{}{Proč na sobě nemáš uniformu?}
 {158}{}{Zatraceně! Byli jsme napadeni! Poplach!}
 {159}{}{Vetřelci! Zavolejte stráže!}
@@ -47,6 +47,6 @@
 {161}{}{Co se děje? Jsme napadeni?}
 {162}{}{Proč ten poplach? Co se stalo?}
 {163}{}{Co se to sakra zase děje?}
-{164}{}{I'm just a tech, don't shoot me!}
+{164}{}{Jsem jen technik! Nestřílej!}
 {165}{}{Já nejsem voják, vyznám se jen v technice!}
 {166}{}{Tohle je laboratorní oblek, ne zbroj! Já tu jen pracuju!}

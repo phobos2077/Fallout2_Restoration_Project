@@ -45,8 +45,7 @@
 {193}{}{Nic. Už musím jít.}
 {195}{}{Pochází ze starýho jazyka, z předválečný doby nebo tak nějak.}
 {196}{}{Metzger znamená řezník. Trefný, nemyslíš?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{197}{}{To bylo jméno mýho pradědy. Pocházel odněkud z východu, za velkou louží.}
 {198}{}{Četl jsem nějakou knihu o Metzgerovi. Byl prezident nebo něco takového.}
 {199}{}{To je mi ale náhodička, divochu.}
 {200}{}{Je to němacky, německy, nimecky nebo tak nějak. Takovej starobylej jazyk z dávný doby.}
@@ -54,8 +53,7 @@
 {202}{}{Aha. Mám ještě otázku.}
 {203}{}{To je ta nejblbější věc, kterou jsem kdy slyšel.}
 {204}{}{Fascinující. Už musím jít.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{Naším posláním je poskytovat spolehlivou a vysoce kvalitní pracovní sílu, která dokáže uspokojit stále rostoucí poptávku ve větších městech. Chceš se k nám přidat?}
 {206}{}{Jistě. Zní to skvěle.}
 {207}{}{Na to zapomeň.}
 {208}{}{Zpátky k mojí otázce. Jaká města kupují vaše otroky?}

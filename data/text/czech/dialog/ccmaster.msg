@@ -15,11 +15,11 @@
 {114}{}{Ne.}
 {115}{}{Kdo jsi? Co tady děláš?}
 {116}{}{Cože?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Eh... já tu nový?}
 {118}{}{Tramtadadaaaaa!}
 {119}{}{Kdo jsi? Co tady děláš?}
 {120}{}{Cože?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Eh... já tu nový?}
 {122}{}{Tramtadadaaaaa!}
 {123}{}{Co tím myslíš? Ten oblek je úplně v pohodě! Tak podepíšeš ty papíry nebo ne?}
 {124}{}{Nerozumím jedinému slovu.}

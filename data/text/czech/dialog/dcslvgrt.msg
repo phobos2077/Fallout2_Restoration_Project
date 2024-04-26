@@ -13,7 +13,7 @@
 {219}{}{Chci se ještě na něco zeptat.}
 {220}{}{Díky, jdu si s ním promluvit.}
 {221}{}{Medger.}
-{222}{}{Uh... kay.}
+{222}{}{Jo... jasně.}
 {230}{}{Teď chcípneš.}
 {240}{}{To si snad děláš prdel! Chytáme a prodáváme otroky. Proto jseš tady, ne?
  Hledáš nějakou akci?}
@@ -89,7 +89,7 @@
 {384}{}{Další otázka.}
 {385}{}{Díky, jdu si s ním promluvit.}
 {386}{}{Medger.}
-{387}{}{Uh... kay.}
+{387}{}{Jo... jasně.}
 {400}{}{Ne, ale bejt tebou, tak se zeptám šéfa. On byl pravděpodobně všude na tomhle zkurveným světě.}
 {401}{}{Další otázka.}
 {402}{}{Dobře, díky. Nashle.}

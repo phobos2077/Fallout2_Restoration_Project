@@ -109,7 +109,7 @@
 {834}{}{Vypadá to, že už vás je hodně, šéfe. Počkám tu na tebe, dokud si to nevyřešíš. Mámino vaření mi připomíná moji bývalou ženu... jenom si nejsem jistej, jestli je to dobře nebo špatně...}
 {835}{}{To bych hrozně rád, šéfe, ale vypadá to, že už nemáš žádný místo. Prostě půjdu k Mámě. Už jsem tam dlouho nebyl. Jestli u sebe najdeš místo, tak se pro mě zastav.}
 {840}{}{Ed je ve Vault City. Obchoduje s brahmínami. Byl jedním z mnoha mých dodavatelů. Vault City odtud není daleko.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Už jsem ti říkal, že je to tady. (Vic ukazuje místo na tvém Pip-Boyi 2000.)}
 {900}{}{Dozvídáš se o tom, že je Vic obchodník.}
 {1000}{}{Chci se tě na něco zeptat.}
 {1100}{}{Jsem úplně vyléčený, šéfe. Ještě něco?}

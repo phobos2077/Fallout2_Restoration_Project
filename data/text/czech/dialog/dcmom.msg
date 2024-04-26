@@ -122,10 +122,7 @@
 {801}{}{Ano, není to škoda? Ty ubohé děti žijí na ulici jako zvířata. Skoro všechny musí krást...většinou od cizinců... takže pokud se tě bude snažit nějaké z nich o něco obrat, slituj se nad nimi prosím. Neříkám, že je to správné, ale žijeme v krutém světě a všichni děláme to, co musíme, abychom přežili další den.}
 {802}{}{Musí být něco, co bychom pro ně mohli udělat. Říká se, že jsi jediná osoba,
  které nejsou ty děti úplně ukradené.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
+{803}{}{Samozřejmě, že mi nejsou ukradené. Děti jsou naše budoucnost. *Nemusí* z nich vyrůst feťáci závislí na jetu nebo hrdlořezi a děvky jako z většiny jejich zpropadených rodičů. Pokud jim poskytneme trochu vzdělání, lásky a péče, můžou vyrůst ve slušné lidi, které na tomhle světě tak nutně potřebujeme. Zkoušela jsem pro ně vybudovat sirotčinec, ale bohužel to nevyšlo.}
 {804}{}{Možná, že je čas na další pokus. Nechci se ve městě zdržovat moc dlouho, ale pokusím se nějak pomoct.}
 {805}{}{To je opravdu škoda. No, hezky jsme si popovídali. Nashle.}
 {806}{}{Ano, možná *můžeš* pomoct. Víš, získala jsem jednu velikou budovu na jihozápadní straně. S trochou námahy by z toho byl výborný

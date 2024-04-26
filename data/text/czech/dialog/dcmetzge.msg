@@ -2,8 +2,7 @@
 {101}{}{Vidíš Metzgera, šéfa otrokářů.}
 {150}{}{Metzger, hlava Cechu otrokářů.}
 {200}{}{Za tohle zaplatíš.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Co tu kurva chceš? Tohle je Cech otrokářů a ne nějakej úkryt pro posraný feťáky.}
 {211}{}{Co tu sakra chceš, ty hnusná děvko? Tohle je Cech otrokářů a ne nějakej posranej bordel.}
 {212}{}{Co tu sakra chceš, děvko? Tohle je Cech otrokářů a ne nějakej posranej bordel.}
 {213}{}{Začínáš mě srát. Co teď sakra chceš?}

@@ -47,7 +47,7 @@
 {271}{}{Jo. Nevíš, co to bylo?}
 {272}{}{Myslím, že to byl pták.}
 {273}{}{Ne, byl to pes.}
-{274}{}{But it was flying, man.}
+{274}{}{Ale vždyť to letělo, chlape.}
 {275}{}{To není možný... prosvištělo to u země.}
 {276}{}{Asi máš vidiny, chlape.}
 {277}{}{Nemám. Bylo to skutečný.}
@@ -98,7 +98,7 @@
 {406}{}{Nemáš z toho takový to příjemný chvění těla?}
 {407}{}{Tubby má nejlepší zboží ve městě.}
 {408}{}{Cítím se tak naživu!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Neslyšel jsi nějakou velikou ránu?}
 {421}{}{Už dlouho jsem Tubbyho neviděl.}
 {422}{}{Kde je Tubby?}
 {423}{}{Neviděl jsi Tubbyho?}

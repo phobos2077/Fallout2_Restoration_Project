@@ -44,7 +44,7 @@
 {194}{}{Jooo.}
 {195}{}{Skvělý!}
 {196}{}{Fajn, hotovo. Nashle.}
-{197}{}{That's it?}
+{197}{}{To je vše?}
 {198}{}{Dobře. Nashle.}
 {199}{}{Bylo to dobrý.}
 {200}{}{Pápá.}

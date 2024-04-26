@@ -15,7 +15,7 @@
 {240}{}{Bude to fšechno, kámo?}
 {241}{}{Vlastně se chci ještě podívat na tvoje zboží, jestli můžu.}
 {242}{}{Vlastně se chci na něco zeptat.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{To bude všechno. Zatím se měj, Flicku.}
 {260}{}{Jsem zasranej živitel, co myslíš? Jsem něco jako dobrej Samuraitán.}
 {261}{}{Co prosím?}
 {262}{}{Jo, eh, no... chci se ještě na něco zeptat.}
