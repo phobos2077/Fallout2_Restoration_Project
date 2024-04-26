@@ -29,7 +29,7 @@
 {131}{}{Nic. Nashle.}
 {132}{}{Nechceš spolupracovat, jo? Stráže! Zabijte toho vetřelce!}
 {133}{}{Tvý stráže jsou už teď mrtví.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Sejdi dolů po schodech a promluv si s AHS-7 na stráži. On už tě nasměruje.}
 {135}{}{Dík. Naskle.}
 {161}{}{. Jen se rozhlížím kolem.}
 {162}{}{. Jen se rozhlížím kolem.}
@@ -40,7 +40,7 @@
 {173}{}{Co tu děláš?}
 {174}{}{Mám kopii plánů vertibirdu od Shi.}
 {175}{}{Mám ty plány vertibirdu.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{Shi mají plány vertibirdu.}
 {177}{}{Co pro tebe mohu udělat?}
 {178}{}{Zapomeň na to. Nashle.}
 {179}{}{Jmenuji se Harry, AHS-5. Jsem hvězdný bratr, který má na starosti raketoplán. Chystáme se ho použít na cestu ke Quetzelu.}

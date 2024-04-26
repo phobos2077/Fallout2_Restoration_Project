@@ -211,9 +211,9 @@
 {3005}{}{N-nechci s tebou m-mít nic s-společného.}
 {4000}{}{No dobře, ale určitě tady nechci zůstat sám.}
 {4001}{}{Tak jo, když myslíš, že je to opravdu dobrý nápad.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{No, nerad používám zbraně, pokud opravdu nemusím, ale myslím, že bych mohl použít nůž. S pistolí umím zacházet, alespoň jsem to uměl. Kdybych opravdu musel, myslím, že bych zvládl i samopal. Jen kdyby nebyly tak hlučné. Jsem doktor, ne bojovník.}
 {4003}{}{Sákryš, snad to nebudu potřebovat.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+{4004}{}{No, nerad používám zbraně, pokud opravdu nemusím, ale myslím, že bych mohl použít nůž. S pistolí umím zacházet, alespoň jsem to uměl. Kdybych opravdu musel, myslím, že bych zvládl i samopal. Jen kdyby nebyly tak hlučné. Jsem doktor, ne bojovník.}
 {5000}{}{Myslím, že m-mám zlomenou k-končetinu.}
 {5001}{}{Myslím, že j-jsem o-ozářený.}
 {5002}{}{Myslím, že j-jsem o-otrávený.}

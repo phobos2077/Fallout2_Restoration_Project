@@ -1,5 +1,5 @@
 {100}{}{Vidíš pořádný kus stroje.}
-{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
+{101}{}{Čistička vzduchu vydává bouchající a skřípající zvuky. Asi bude rozbitá. Možná potřebuje pár náhradních dílů.}
 {102}{}{Čistička vzduchu tiše přede. Vypadá to, že je všechno v pořádku.}
 {110}{}{Tato součástka to neopraví.}
 {120}{}{Podařilo se ti opravit čističku vzduchu.}

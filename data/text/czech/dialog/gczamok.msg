@@ -32,7 +32,7 @@
 {210}{}{Coo? Co tím myslíš? Nejsi ty blbec?}
 {211}{}{Blbec?}
 {220}{}{Vypadni odsud. Brain nemá čas na takový blbečky, jako jsi ty.}
-{221}{}{OK. I'll be going now.}
+{221}{}{Dobře, tak já jdu.}
 {230}{}{Hele tam dole není nic, jenom Brainovo doupě. Chlapče, ty si vyloženě koleduješ.}
 {231}{}{Brain?}
 {232}{}{Byl to jenom takový test. Prošel jsi. No a teď mě pusť dovnitř.}

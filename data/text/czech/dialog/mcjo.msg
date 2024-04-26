@@ -48,7 +48,7 @@
 {196}{}{Skupina našich lidí byla na lovu, když jsme si všimli tý farmy. Na tom by nebylo nic divnýho, ale brzy potom se několik lidí vydalo na návštěvu našeho novýho souseda, jen aby zjistili, že tam vlastně nikdo nebydlí.}
 {197}{}{Pokračuj.}
 {198}{}{Po několika měsících neúspěšnýho kontaktování majitelů jsme došli k závěru, že farma musela bejt opuštěna chvíli po dostavení. A tak, než abysme nechali úrodu shnít, vyslali jsme tam Karla, aby tam bydlel.}
-{199}{}{Hmm... }
+{199}{}{Hmmm...}
 {200}{}{A pak se začaly dít věci. Karl začal vyprávět o divnejch světélkujících postavách, který v noci dohlížej na úrodu a krměj zvířata. Všichni jsme se jeho historkám smáli. Jednoho dne se ale Karl nevrátil do města.}
 {201}{}{Co se mu stalo? Hledali jste ho?}
 {202}{}{Samozřejmě! Hned jsme se tam vydali, jakmile jsme začali mít tušení, že je něco špatně. (Začne se divoce třást.) No hrůza a děs. Lidský těla byly všude kolem. Některý ukřižovaný, jiný zase hnijící na slunci. Každou noc se z toho pohledu budím hrůzou.}

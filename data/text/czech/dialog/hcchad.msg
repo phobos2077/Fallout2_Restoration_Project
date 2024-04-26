@@ -22,9 +22,7 @@
 {138}{}{To zní nudně.}
 {139}{}{Mám další otázky.}
 {140}{}{Dík. Naskle.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{O Broken Hills? Dobrá... přišel jsem sem před několika lety. Dostal jsem práci u vetešníka Billa a vypracoval se až tam, kde jsem teď. Zodpovídám se sice Marcusovi a Billovi, ale jsem zodpovědný za chod města.}
 {142}{}{Mám další otázky.}
 {143}{}{Nashle.}
 {144}{}{Například?}

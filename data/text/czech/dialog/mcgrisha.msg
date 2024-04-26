@@ -50,7 +50,7 @@
 {199}{}{[POTŘÁST SI RUKOU S GRISHAMEM]}
 {200}{}{Tak moment. Když o tom tak přemýšlím, ty brahmíny byly pěkně vychrtlé. Co takhle $750?}
 {201}{}{Ale ne, měním názor. Nezaplatím vám.}
-{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
+{202}{}{(Široce se na tebe usměje.) Rád vidím člověka s charakterem.}
 {203}{}{(Grisham zrudne a procedí skrz zaťaté zuby.) Dobře, tak teda $750. A teď mi dej ty prachy!}
 {204}{}{Víte, $750 je pořád trochu moc. Ty brahmíny by stejně chcíply, i kdyby je psi nesežrali. Ale nejsem úplný lakomec, dám vám $50.}
 {206}{}{FAJN! TAK MI DEJ TY PRACHY A VYPADNI!}
@@ -147,7 +147,7 @@
 {1238}{}{Já si myslím, že jste si s mojí neteří hráli na brahmíny v době páření.}
 {1239}{}{Já si myslím, že jste s mým synovcem tancovali pod peřinami horizontální tango.}
 {1403}{}{Jak si dovoluješ pošpinit čest Grishamova potomka, }
-{1412}{}{daughter.}
+{1412}{}{jeho dcery?}
 {1413}{}{jeho syna?}
 {1600}{}{. Doufám, že se dobře staráš o moji dcerku Miriu. Ona je světlo mého života a zlomilo by mi srdce, kdyby se jí něco stalo. Mimochodem, kde je? Doufal jsem, že ji zase uvidím.}
 {1601}{}{. Tak jak se ti zamlouvá manželskej život? Vidím, že Davin s tebou necestuje. Moc mi chybí. Vezmi ho s sebou, až přijdeš příště na návštěvu. Starýho muže to potěší, když zase uvidí svýho jedinýho synka.}

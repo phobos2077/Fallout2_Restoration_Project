@@ -33,9 +33,9 @@
 {132}{}{Genetický program.}
 {133}{}{Poslední záznamy posádky.}
 {134}{}{Zpět.}
-{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-Dr. Long: Recently deceased via FEV serum.}
+{135}{}{Dr. Wong: Nový vedoucí Biologického Projektu, mimo jiné i Fyzikálního Výzkumu.
+Dr. Sheng: Vedoucí Biologického Projektu až do minulých dvou měsíců. Jeden měsíc vědecké dovolené kvůli "rostlinnému séru zvyšujícím vnímavost"; další nepřítomnost je záhadou. Dr. Wong převzal řízení Biologického Programu.
+Dr. Long: Nedávno podlehl následkům FEV séra.}
 {136}{}{Botanický program.}
 {137}{}{Genetický program.}
 {138}{}{Xeno program.}

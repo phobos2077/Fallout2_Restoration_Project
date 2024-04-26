@@ -136,7 +136,7 @@
 {453}{}{Zásoby se vždycky hodí.}
 {454}{}{Dejte mi peníze.}
 {455}{}{Nechte si svoji odměnu. Udělal jsem to jen proto, protože to bylo správné.}
-{460}{}{Here you go. [He hands you various high powered weapons]}
+{460}{}{Tady máte. (Předá ti různé zbraně silného kalibru.)}
 {461}{}{[KONEC]}
 {470}{}{Tady máte. (Předá ti různé zásoby.)}
 {471}{}{[KONEC]}

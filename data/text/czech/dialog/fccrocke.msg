@@ -1,5 +1,5 @@
 {100}{}{Vidíš docela mladého plešatícího vědce. Vypadá to, že je soustředěný na svou práci.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Vidíš Crocketta, hubologistického vědce.}
 {102}{}{Vidíš poměrně mladého plešatícího vědce. Vypadá jako neupravený geek.}
 {103}{}{Jo? Co chceš?}
 {104}{}{Á. Em. Hmm.}
@@ -15,11 +15,11 @@
 {114}{}{Můžu ti za to zaplatit.}
 {115}{}{Nechám tě žít.}
 {116}{}{Žádný. Zapomeň na to.}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Jsem Crockett a jsem vědec a opravář. Můžu se zase vrátit ke svojí práci?}
 {118}{}{Ne. Mám další otázky.}
 {119}{}{Jo, jistě.}
 {120}{}{Vyvinul jsem novou technologii a na oplátku si můžu užít trochu kultistické lásky, jestli mi rozumíš.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{Takže ty nejsi Hubologista?}
 {122}{}{Chápu. Mám další otázky.}
 {123}{}{Ne. Co tím myslíš?}
 {124}{}{Jakou novou technologii jsi vyvinul?}

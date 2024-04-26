@@ -45,7 +45,7 @@
 {193}{}{Co to máš na sobě?}
 {194}{}{Chci se povozit na brahmíně!}
 {195}{}{Jseš z daleka?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Jéééé! Hahaha!}
 {197}{}{Neodcházej!}
 {198}{}{Nemáš nějaký jídlo?}
 {199}{}{Neotravuju tě?}

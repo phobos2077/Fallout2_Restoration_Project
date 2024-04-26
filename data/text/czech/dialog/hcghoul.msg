@@ -62,7 +62,7 @@
 {160}{}{Zajímalo by mě, jestli se někdy v Broken Hills srovnají vztahy mezi lidmi a mutanty.}
 {161}{}{Ti bastardi, Jacob a Aileen, mě vždycky měli za podřadného občana. Tohle je naučí.}
 {162}{}{Myslím, že se Broken Hills nikdy nevzpamatuje ze ztráty dolu...}
-{163}{}{All the mutants... dead...}
+{163}{}{Všichni mutanti ... mrtví ...}
 {164}{}{... teď už se nikdy nedozvíme, jestli by se nám podařilo dohodnout mír mezi mutanty a lidmi...}
 {165}{}{Je čas zmizet a zjistit, co nabízí okolní svět... nikdo nebude vykopávat celý důl.}
 {166}{}{Zajímalo by mě, jestli někdo v Kalifornii potřebuje horníky.}

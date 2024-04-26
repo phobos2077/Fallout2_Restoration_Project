@@ -11,6 +11,6 @@
 {128}{}{Neubližuj mně.}
 {129}{}{Nechtěl jsem být takový kretén.}
 {130}{}{Nemyslel jsem ty výhružky smrti vážně.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Promiň, Buffy!}
+{132}{}{Promiň, Humusáku! Jen jsem chtěl, aby si mě někdo všiml.}
 {133}{}{Chci online verzi!}

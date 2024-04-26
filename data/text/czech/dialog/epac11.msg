@@ -88,6 +88,6 @@
 {830}{}{Aspoň jsem nedopadl jako TY, Marcusi!}
 {2900}{}{Nejdřív se ale musím trochu oblíct. (Kocour se rozhlédne kolem a spatří skříňku, kterou otevře a podívá se dovnitř.) Tohle fakt není můj styl, ale nějak to půjde. (Rychle se obleče.) Tak a můžu vyrazit.}
 {2901}{}{[KONEC]}
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{(Chlapík se otřese ve stoje do sucha jako nějaké zvíře. Když se na tebe podívá, jeho oči se náhle velmi rozšíří a začne lapat po dechu).}
 {5001}{}{[KONEC]}
 {5002}{}{Do prdele!}

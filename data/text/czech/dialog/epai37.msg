@@ -19,7 +19,7 @@
 {414}{}{Změna účesu (Dlouhé vlasy).}
 {415}{}{Změna účesu (Pleš).}
 {416}{}{Změna účesu (Blonďaté vlasy).}
-{417}{}{Alter Hairstyle (Red Hair).}
+{417}{}{Změna účesu (zrzavé vlasy).}
 {418}{}{Když nad tím tak přemýšlím, tak na to teď vážně nemám čas. Nashle.}
 {500}{}{Tato procedura vyžaduje 4 týdny zotavování a má riziko úmrtí 50%. Přejete si začít?}
 {501}{}{Pojďme na to.}

@@ -10,7 +10,7 @@
 {109}{}{Je mi líto Chada. Kdo je tady nový šéf?}
 {110}{}{Ne, díky.}
 {111}{}{Jestli hledáš práci, tak si promluv s Billem. Je uvnitř. UVNITŘ. Možná ti bude rozumět. Hodně štěstí!}
-{112}{}{Duhhhh...}
+{112}{}{He...}
 {113}{}{To bude }
 {114}{}{Ano.}
 {115}{}{Ne.}
@@ -43,7 +43,7 @@
 {142}{}{Můžeme vyrazit?}
 {143}{}{Díky. Tady máš $500. Jestli chceš další práci, zeptej se Billa.}
 {144}{}{Ty hnusnej sráči! Teď chcípneš!}
-{145}{}{Umm...}
+{145}{}{Mmmm...}
 {150}{}{, strážce karavany.}
 {151}{}{. Jsem stražce Billových karavan. Ještě něco?}
 {152}{}{.}

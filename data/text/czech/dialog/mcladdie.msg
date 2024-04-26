@@ -8,7 +8,7 @@
 {153}{}{(Tento pes je opravdu rozrušený.)}
 {154}{}{Hezký pejsek.}
 {155}{}{Nevíš, kde je Jonny?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Zůstaň tady, Laddie.}
 {157}{}{Pojďme najít Jonnyho.}
 {158}{}{Myslíš, že se Jonny propadl do té studny, Laddie?}
 {159}{}{Copak pejsku, snažíš se mi něco říct?}

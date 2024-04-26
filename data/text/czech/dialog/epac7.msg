@@ -34,7 +34,7 @@
 {310}{}{Myslíte, že dokážete opravit osvětlení? Je pro mě nepřípustné, abych prováděla exkurze v tak slabě osvětleném komplexu. Když se vám podaří to tady víc osvětlit, dám vám to heslo. Poprosím vás, abyste si důkladně umyli ruce po prohlídce zvířecí zoo.}
 {311}{}{Dobrá. Uvidím, co se dá dělat.}
 {312}{}{Je mi to fuk. Nemám zájem.}
-{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
+{320}{}{Tento komplex stále vypadá tak nějak jednotvárně. Ale i přesto půjdete opravit ty světla, že ano? Pamatujte, návštěvníci, všechny dokumenty musí být podepsané před koncem exkurze.}
 {321}{}{Nebojte se. Pracuju na tom.}
 {322}{}{Časem se k tomu dostanu.}
 {330}{}{Kdyby byl areál čistý, měli bychom víc návštěvníků.}

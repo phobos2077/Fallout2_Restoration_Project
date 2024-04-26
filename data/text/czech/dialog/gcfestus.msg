@@ -34,7 +34,7 @@
 {181}{}{Úžasné.}
 {182}{}{No, nebudu tě zdržovat. Sbohem.}
 {190}{}{Samozřejmě by nebylo špatné, kdyby mi někdo pomohl, ale jak vidíš, nikdo jiný na tuhle práci nemá kvalifikaci. Většinou nerozumí ani základům.}
-{191}{}{How could anyone hope to keep up with you? You're above everyone.}
+{191}{}{Jak si někdo může myslet, že s tebou dokáže udržet krok? Převyšuješ všechny.}
 {192}{}{Jsi opravdu speciální, o tom není pochyb. Sbohem.}
 {200}{}{Taky že nedokáže. Vidím, že těmto věcem opravdu rozumíš. Kdybych tady neměl tolik práce, řídil bych celé Gecko. A věř tomu, že bych to dělal dobře.}
 {201}{}{Ty bys chtěl ještě řídit město?}
@@ -58,8 +58,7 @@
 {261}{}{Kdyby to byla bomba, už bys to díky svým technickým zkušenostem dávno zjistil. Prosím tě, nainstaluj tu součástku.}
 {262}{}{Asi máš pravdu. Zkusím najít jiný způsob, jak tu součástku nainstalovat.}
 {270}{}{Fajn, jsem tady. Ale stále si nejsem jistý, že je to ta správná součástka nebo že to není jenom nějaká past. Víš, jsem příliš důležitý na to, abych zemřel. Možná bych to měl nechat udělat někoho jiného... později... mnohem později.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Musí se to udělat teď hned. A ty jsi jediný člověk, který to dokáže udělat správně. No tak, celé Gecko na tobě závisí!}
 {272}{}{Asi máš pravdu. Zkusím najít jiný způsob, jak tu součástku nainstalovat.}
 {300}{}{No, je pravda, že využívá spoustu uranu, který tak trochu prosakuje. Víš, už jsem žádal o to, aby to někdo opravil, ale nikdo mě neposlouchá.}
 {301}{}{Prý ta radiace prosakuje do spodních vod. Je to pravda?}
@@ -75,7 +74,7 @@
 {340}{}{Máš u sebe hydroelektrický regulátor magnetosféry?}
 {341}{}{Ty opravdu víš, co to je?}
 {342}{}{Samozřejmě. Jsi připraven ho nainstalovat?}
-{350}{}{Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.}
+{350}{}{Překvapen? Říkal jsem ti, že o atomových elektrárnách vím všechno. Měl jsi mě poslouchat.}
 {351}{}{No, když víš, co to je, tak také určitě víš, jak ho nainstalovat.}
 {352}{}{Myslím, že už tě nebudu poslouchat. Sbohem.}
 {360}{}{Samozřejmě, že vím. Pro někoho s mými zkušenostmi a talentem je to naprostá hračka. Na regulátorech magnetosféry jsem byl odkojený, víš.}

@@ -67,7 +67,7 @@
 {166}{}{Ne.}
 {167}{}{Formátuji... formátuji... formátování dokončeno. Restart vyžaduje plnou instalaci. Vypínání. Vypnutí... počítače... dokončeno...}
 {168}{}{[KONEC]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Vyhledat data: - Botanický program  - Genetický program - Xeno program.}
 {170}{}{Botanický program.}
 {171}{}{Genetický program.}
 {172}{}{Xeno program.}
@@ -80,7 +80,7 @@
 {179}{}{Botanický program.}
 {180}{}{Xeno program.}
 {181}{}{Zpět.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{Subjekt, na kterém jsme chtěli provést sérii významných pokusů, zmizel. Předpokládá se, že byl buď zničen, nebo odcizen Hubologisty. Další výzkumy se ukázaly jako marné. Dokud neobdržíme další exempláře, tato databáze zůstane mimo provoz." - Dr. Sheng.}
 {183}{}{Botanický program.}
 {184}{}{Genetický program.}
 {185}{}{Zpět.}
@@ -88,7 +88,7 @@
 {187}{}{Paliva a deriváty.}
 {188}{}{Polymery.}
 {189}{}{Zpět.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Po prostudování složitých chemických vzorců a laboratorních zápisků docházíš k závěru, že Shi vytvořili nový druh paliva z rostlinných extraktů a mořského života. Také se údajně napojili na dříve existující potrubí, aby mohli dopravovat palivo do vícero lokací.)}
 {191}{}{(Narazil jsi na veliké množství složitých chemických vzorců a laboratorních zápisků. Nejsi si úplně jistý, co všechno znamenají.)}
 {192}{}{Převést palivo do tankeru Poseidon.}
 {193}{}{Převést palivo k Hubologistům.}
@@ -100,8 +100,8 @@
 {199}{}{Palivo převedeno dle požadavku. Skladovací nádrže = Prázdné. Ukončuji program.}
 {200}{}{[KONEC]}
 {201}{}{Fyzikální databáze: Výzkum - Teorie}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Výzkum.}
+{203}{}{Teorie.}
 {204}{}{Zpět.}
 {205}{}{"Díky nedávnému získání plánů k vertibirdu se kvantovým skokem zvýšila šance na sestrojení praktického létajícího stroje. Očekáváme, že koncem roku budeme mít funkční prototyp a do dvou let budeme moci zahájit hromadnou výrobu." -Dr. Wong}
 {206}{}{::zkopírovat plány:: Zpět.}
@@ -243,11 +243,11 @@ Upozornění! Spojení s centrálním serverem Čínské výzvědné sítě v Pe
 {410}{}{Od: Centrálního velení                                            Všechny jednotky na pozicích. Přenáším poslední potvrzovací
  kódy. Operace Youmíng má zelenou.}
 {411}{}{::zpět::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
+{420}{}{Prohledávám komunikační kanály...                                  PLA CentCom...		offline
+                                             CIN Peking...		offline
                                                    SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external servers could be made.}
+                                           SCA Eastern Dragon..	offline
+                                     Varování: Nebylo možné navázat spojení s žádným externím serverem.}
 {421}{}{To je škoda...}
 {430}{}{Prohledávám místní disky...}
 {431}{}{Pokračovat.}
@@ -283,9 +283,7 @@ Upozornění! Spojení s centrálním serverem Čínské výzvědné sítě v Pe
  jsou nízké a není jich dost, abychom vystačili na delší dobu. Posádka je neklidná.}
 {501}{}{Pokračovat.}
 {502}{}{::zpět::}
-{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
+{510}{}{2077-11-08: Císař je opět spuštěn, ale funguje jen tak tak. Stále nemáme žádnou navigaci a posádka je na pokraji vzpoury - musel jsem zastavit dva námořníky, aby nezmlátili Jinga. Naše situace je zoufalá. Obávám se, že pokud se během několika příštích dní nevynoříme na hladinu, tak se tu všichni pozabíjíme.}
 {511}{}{Pokračovat.}
 {512}{}{::zpět::}
 {520}{}{2077-11-12: Konečně! Najeli jsme na mělčinu v San Franciské zátoce. Námořníci oslavovali, dokud jsme neotevřeli

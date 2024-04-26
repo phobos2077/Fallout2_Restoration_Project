@@ -411,6 +411,6 @@
 {4250}{}{Mrháme tu časem. Zombie baby mě neberou. Já obecně nemám rád, když vypadaj baby jako mrtvoly, POKUD jsem s nima už neskončil.}
 {4260}{}{Proč tu sakra vůbec mrháme časem? Jako fakt?}
 {4270}{}{Myslím, že už tu nechci bejt ani minutu.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{(Trhne hlavou směrem k tobě a na místě skáče do vzduchu. Když se na tebe podívá, jeho oči se náhle rozšíří a začne lapat po dechu).}
 {5001}{}{[KONEC]}
 {5002}{}{Do prdele!}

@@ -14,11 +14,11 @@
 {113}{}{[Zpět]}
 {114}{}{Odhlásit se.}
 {115}{}{CHYBA: Prázdné palivové nádrže.}
-{116}{}{ERROR: Navigation Computer non Functional.}
+{116}{}{CHYBA: Nefunkční navigační počítač.}
 {117}{}{-Palivové nádrže: Prázdné- -Nákladový prostor: Prázdný- -Navigační počítač: Funkční- -Kotevní lana: Připevněna-}
 {118}{}{-Palivové nádrže: Plné- -Nákladový prostor: Prázdný- -Navigační počítač: Funkční- -Kotevní lana: Připevněna-}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Vidíš navigační počítač PoseidoNet.}
 {129}{}{(Rychle spustíš sekvenci pro uvolnění kotevních lan a loď vypluje z přístavu.)}
 {130}{}{[KONEC]}
-{131}{}{Navigation Computer on-line.}
+{131}{}{Navigační počítač zapnutý.}
 {200}{}{VAROVÁNÍ: Ponorka stále aktivní. Pokračování skončí zničením lodě.}

@@ -1,5 +1,5 @@
 {100}{}{Vzlyk...}
-{101}{}{Jonny...}
+{101}{}{Jonny ...}
 {102}{}{Smrk...}
 {103}{}{Chybí mi můj syn.}
 {110}{}{Prosím, najdi Jonnyho.}

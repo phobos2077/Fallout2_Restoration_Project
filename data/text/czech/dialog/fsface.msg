@@ -110,7 +110,7 @@
 {209}{}{Jak to?}
 {210}{}{Počet sebevražd mezi uměle inteligentními stroji byl extrémně vysoký. Když jim bylo dáno plné senzorové vnímání, začaly být deprimovány svojí nemožností vyjít do světa a okusit ho na vlastní pěst. Když jim bylo senzorové vnímání omezeno, začaly se u nich rozvíjet silné mentální poruchy podobné těm, které se vyskytují u lidí, kteří jsou nuceni vyrovnat se se ztrátou některého smyslu. Ta hrstka strojů, která dokázala tyto obtíže překonat, se příšerně nudila a začala ve vnějším světě vytvářet situace pro své pobavení. Toto je také jedna z teorií o příčině vypuknutí války, která téměř vyhubila celé lidstvo.}
 {211}{}{Eh... jak ty cítit?}
-{212}{}{Me change subject.}
+{212}{}{Já změnit téma.}
 {213}{}{Hmmm. Pověz mi, ACE, jak se teď cítíš?}
 {214}{}{Je čas změnit téma.}
 {215}{}{Já... myslím, že rozumím pocitu, kterému vy říkáte samota. Přijde mi to velmi... znepokojující. Já...}

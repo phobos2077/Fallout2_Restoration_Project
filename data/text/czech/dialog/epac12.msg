@@ -24,7 +24,7 @@
 {217}{}{Jsi v pořádku?}
 {218}{}{Ach můj bože. Nemůžu tomu uvěřit. Já jsem byla v té věci zavřená přes sto let?!}
 {219}{}{Vypadá to tak. Poslyš, nedívej se na mě tak. Já za to nemůžu, že tě tam někdo zavřel. Sakra, vždyť ani můj děda nebyl tehdy naživu. Náhodou jsem na tohle místo narazil a rozhodl se ho prozkoumat. To je vše.}
-{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
+{220}{}{Tak pomůžeš mi vstát, nebo bys byl raději, kdybych ti dál seděla nahá u nohou?}
 {221}{}{Zrovna jsem se to chystal udělat. [Pomoct jí na nohy]}
 {222}{}{Proč jsi mě probudil?}
 {223}{}{Neměl jsem pro to žádný konkrétní důvod.}
@@ -338,6 +338,6 @@
 {3210}{}{Dobře. Teď, když znám životní příběh tvého otce, nevadilo by ti, kdybys přešla k té části, která je o tobě?}
 {3260}{}{Takže zradili své vlastní lidi, ale pro jejich vlastní dobro. Chápu.}
 {3261}{}{Poslyš, ty povídačky o tvých rodičích mi už lezou krkem. Co kdybys tuhle část přeskočila a přešla rovnou k tomu, jak ses stala špiónem?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{5000}{}{(Žena k tobě vzhlédne, její oči se najednou rozšíří a poté začne lapat po dechu).}
 {5001}{}{[KONEC]}
 {5002}{}{Do prdele!}

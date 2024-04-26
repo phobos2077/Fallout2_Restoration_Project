@@ -50,8 +50,7 @@
 {149}{}{Eh... podívej. Je tady nějaká mnohonohá věc, od který se chci držet co nejdál. Můžeš si pospíšit?}
 {150}{}{Typhon určitě věděl, že už jsou dnes k ničemu, že jo?}
 {151}{}{Panebože! Leze to po mě! POMOC!}
-{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
+{152}{}{Víš, je to od něj vlastně docela milé. On si opravdu myslel, že mi pomáhá. Možná bych neměl být na starocha tak tvrdý. ::povzdech:: Holt poklad není. Mám na práci ještě jiné věci.}
 {153}{}{::Fňuk...::}
 {154}{}{Nemít už zájem o studna.}
 {155}{}{Hmmmm... mám takový divný pocit, že jsem v té studni na něco zapomněl. Co už, nemám čas.}

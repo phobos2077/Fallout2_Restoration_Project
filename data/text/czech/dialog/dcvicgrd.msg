@@ -105,9 +105,9 @@
 {481}{}{Dobře.}
 {482}{}{Fajn.}
 {490}{}{Ne, promiňte.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
+{491}{}{Řekl jsem ne. A teď vypadni. Jdi si promluvit s Metzgerem.}
 {492}{}{Dobře.}
-{500}{}{Too bad you didn't join us.}
+{500}{}{Škoda, že ses k nám nepřidal.}
 {501}{}{Měl by ses přidat k cechu.}
 {502}{}{Tak nějak hlídám.}
 {503}{}{Doufám, že ti bude Vic vyhovovat.}

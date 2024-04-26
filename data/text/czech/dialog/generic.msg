@@ -40,7 +40,7 @@
 {920}{}{Narážíš na pozůstatky Nagora, který zemřel při pokusu zachránit svého psa.}
 {921}{}{Nagor zemřel při pokusu odtáhnout tělo svého psa zpátky do vesnice.}
 {930}{}{Voooooouuuuu!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Bereš si trochu času na vyzkoušení některých pohybů. Tvoje dovednost Boj beze zbraně se zlepšila.}
 {951}{}{Bojující krtčí potkan jde zasadit konečný úder.}
 {952}{}{Zápas skončil.}
 {1000}{}{Podařilo se ti úspěšně složit test Občanství.}

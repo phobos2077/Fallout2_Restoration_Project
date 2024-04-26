@@ -1,8 +1,7 @@
 {100}{}{Obchodník.}
 {101}{}{Willy.}
 {102}{}{Otravný potulný obchodník.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Buď zdráv, příteli. Jsem Willy a mám pro tebe nabídku. (Zdá se, že čte z nějaké karty. Po chvíli usneš.)}
 {104}{}{Chrrrrrr...}
 {105}{}{(Ospale otevřeš oči a zjistíš, že do tebe někdo kope.) Tak co? Máš zájem nebo ne?}
 {106}{}{Zájem o co?}

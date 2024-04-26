@@ -30,8 +30,7 @@
 {190}{}{Přestaň mluvit, pokazíš to. Jen seď a užij si to.}
 {191}{}{Asi došlo k omylu, chci se jen na něco zeptat.}
 {192}{}{Díky za nabídku, ale raději ne. Ehm... už musím jít.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
- imagination.]}
+{193}{}{Ach bože! Vem si mě! Chci tě teď hned! (Strhne ze sebe svoje oblečení, poté tvoje... a poté... použij svojí představivost.)}
 {194}{}{(Hihňá se.) "Jsem hotovej"! Ty můžeš být příště.}
 {195}{}{(O dvě hodiny později: Zem se pohnula a tahle postel už nebude nikdy jako dřív.)}
 {196}{}{(O hodinu později a nejlepším orgasmu tvého života.)}

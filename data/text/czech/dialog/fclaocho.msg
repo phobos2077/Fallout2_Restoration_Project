@@ -28,7 +28,7 @@
 {127}{}{Hledám slezinu.}
 {128}{}{Prý tudy převáželi nějaké létající stroje náklad vesničanů.}
 {129}{}{Nic. Nashle.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Promluv si s Crockettem v základně Hubologistů. Je to jejich hlavní vědec.}
 {131}{}{Díky. Potřebuju víc informací.}
 {132}{}{Dík. Naskle.}
 {133}{}{Hledej na severu, v Navarru. Je tam skrytá základna poblíž benzínové pumpy.}

@@ -70,7 +70,7 @@
 {169}{}{Nemáš ještě něco?}
 {170}{}{Mám další otázky.}
 {171}{}{Nashle.}
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
+{172}{mcs20}{Někdo osvobodil dva blázny z vězení v bance. Najdi je, řekni mi kde jsou a já je tam strčím zpátky.}
 {173}{}{Nemáš ještě něco?}
 {174}{}{Mám další otázky.}
 {175}{}{Nashle.}

@@ -9,7 +9,7 @@
 {108}{}{Co mi můžeš říct o tomto místě?}
 {109}{}{Co mi můžeš říct o Marcusovi?}
 {110}{}{Nemám tušení, o čem to mluvíš, blbečku. Jdi mi z očí.}
-{111}{}{Oooooh...}
+{111}{}{Óóóóó}
 {112}{}{Jsem Franc. Zeptal bych se tě na jméno, ale je mi to fuk.}
 {113}{}{Aha, tak drsňák, jo?}
 {114}{}{To je v pohodě. Taky mi to je fuk.}

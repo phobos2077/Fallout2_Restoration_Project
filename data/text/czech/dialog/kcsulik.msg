@@ -401,12 +401,12 @@
 {1023}{}{My nikdy nebýti přítel se zabijákem dětí.}
 {1025}{}{Ty dělati probléma v Klamath. My odcházet.}
 {1026}{}{Ty dělati probléma v má vesnica. My odcházet.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Duchové pohybovati s námi.}
+{2301}{}{My a já se pohybovati.}
 {2302}{}{Dobře, ty brát to v pohodě.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Nestrachovat se, my a já se pohybovati.}
 {2304}{}{My myslet, že ty potřebovat občas čichnout ke květina. Dědek Kostěj říkati, že ty někdy příliš spěchati. Ty bráti života pomaleji.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{My se pohybovati a užívati.}
 {2306}{}{My a já jít teď támhletam.}
 {2307}{}{Relaxovat, štastná býti, my se teď pohybovati.}
 {3000}{}{Na sever.}
@@ -476,9 +476,9 @@
 {3082}{}{Býti dobré zase býti zpátky doma.}
 {3083}{}{Tak mnoho mladá dívka chtíti vyslechnouti o naše cestování a tak málo času.}
 {3084}{}{My potřebovala promluviti si zblízka s malá hojivá bylinka. Ať svět letí kolem okolo.}
-{3086}{}{Take care, fren.}
+{3086}{}{Opatruj se, přítela.}
 {3087}{}{My a já přát ty moc štěstí.}
-{3088}{}{Thanks again for everything, fren.}
+{3088}{}{Díky ti za všechno, přítela.}
 {3090}{}{Tady býti naša vesnica. My a já jdeme promluvit s přátela.}
 {3091}{}{My a já jdeme znova promluvit s přátela předtím, než odcházeti.}
 {3100}{}{[Více]}

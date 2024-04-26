@@ -74,7 +74,7 @@
 {401}{}{Cože? Ty jsi podváděl!}
 {402}{}{Mat?}
 {403}{}{Člověče, nezlob se.}
-{404}{}{And... checkmate!}
+{404}{}{A ... šach-mat!}
 {405}{}{Šaaach-mat!}
 {406}{}{::píp:: Zabít kytku! ::klik-klak-klik::}
 {407}{}{Podařilo se ti pokořit radškorpiona, který je chytřejší než ty.}

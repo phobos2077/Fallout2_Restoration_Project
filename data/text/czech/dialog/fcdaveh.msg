@@ -13,8 +13,8 @@
 {112}{}{Mluvila se mnou Vikki. Říkala, že jsi sexy a že po tobě občas touží.}
 {113}{}{Mám to s Vikki domluvit místo tebe?}
 {114}{}{Ale nic. Nashle.}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Ehmmm... dobře. Jak chceš. Poslyš, co je to támhle?
+(Když se otočíš na tu věc, vrátí se k činnosti, kterou dělal předtím a ignoruje tě.)}
 {116}{}{[KONEC]}
 {117}{}{Jsem Dave Handy. Jsem z Kanady.}
 {118}{}{Takže co tu děláš?}
