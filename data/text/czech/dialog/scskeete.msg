@@ -5,7 +5,7 @@
 {104}{}{Starám se o místní parkoviště, čéče. Hlídám auta za $5. Nikdo na ně ani nešáhne, protože Doofus je pořád ve službě.}
 {105}{}{Aha, jasně, čéče.}
 {106}{}{Takže, čéče, chceš využít moje služby?}
-{107}{}{Good. Do.}
+{107}{}{Dobře. Chtít.}
 {108}{}{Ne. Ty nešahat.}
 {109}{}{Neříkej mi čéče!}
 {110}{}{Co je tohle za místo?}
@@ -48,7 +48,7 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{150}{}{Správně - poslouchat obra, čéče. A tak to má bejt. Co pro tebe můžu udělat, obře?}
 {151}{}{Čéče, to je teda něco. Obře, já jsem Doofus a mám na starosti hlídání aut, co sem lidi přivezou, ale, no víš, občas... potřebuju nějaký prachy a věci, chápeš?}
 {152}{}{Jo, jasně. Občas jsem prostě švorc a mám svý potřeby, rozumíš, třeba když se cejtím pod psa, tak musím vydělat nějaký chechtáky a kvůli tomu jdu za Merkem.}
 {153}{}{Čéče, řeknu ti, Merk je správnej chlap. U něho vždycky najdeš práci i zboží. Někdy mě nechá přespat v "Nevydělaný kůži" po zavíračce. Ale pak za to ode mě vždycky něco chce.}
@@ -66,8 +66,8 @@
 {165}{}{Správně, čéče. Zajdi za Merkem. Ten má vždycky nějakou práci.}
 {166}{}{Mizím. Pápá!}
 {167}{}{Čéče, to nebylo dobrý! Merk nebude zrovna moc nadšenej až to uslyší.}
-{168}{}{Goodbye, dope-head.}
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{Sbohem, smažko.}
+{169}{}{Dobře! Hele, byli to Merkovi lidi. Včera v noci vykrádali auta. Zkus se poptat kolem a třeba se ti je podaří najít.}
 {170}{}{Ty lhát, já zabít.}
 {171}{}{Nelži mi. Vrátím se, jestli přijdu na to, že jsi mi lhal.}
 {172}{}{Jasně, už se klepu strachy.}

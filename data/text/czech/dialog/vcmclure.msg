@@ -145,12 +145,12 @@
 {244}{}{Aha. Díky za informace.}
 {245}{}{A o čem? Jakákoliv informace by mi hodně pomohla.}
 {246}{}{Co mi můžete říct o Reddingu?}
-{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{Podařilo se mi zjistit, že je většina obyvatel Reddingu závislá na droze jménem Jet. Horníci prodají většinu vydolované rudy do New Rena jen pro to, aby zůstali zásobeni.}
 {248}{}{Dr. Troy vyrobil protilátku na Jet.}
 {249}{}{Protilátka byla doručena do Reddingu.}
 {250}{}{Co je to ten "Jet", na kterém jsou všichni tak závislí?}
 {251}{}{Povím vám to, až zjistím víc.}
-{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
+{252}{}{Je to droga se 100% návykovostí a těžkými abstinenčními příznaky.}
 {253}{}{O všem mě prosím informujte.}
 {254}{}{Můžu se vás ještě na něco zeptat?}
 {255}{}{Jasně.}

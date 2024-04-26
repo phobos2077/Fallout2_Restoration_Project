@@ -5,7 +5,7 @@
 {104}{}{Zase vy? Co chcete?}
 {105}{}{Co chceš?}
 {106}{}{Ehh...}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Já hledat Vault 13. Ty pomoct?}
 {108}{}{Hledám Vault 13. Můžete mi nějak pomoct?}
 {109}{}{Ta vaše špinavá práce je hotová.}
 {110}{}{Zlá věc přijít. Já vystrašit. Bů-bůů v bezpečí.}
@@ -54,7 +54,7 @@
 {153}{}{Nevím, jestli vám mám věřit, ale... dobře, tady je odměna. Ale jestli se dozvím, že mi lžete, mí hoši si vás najdou. Také jsem vám slíbil nějaké informace, takže mě teď dobře poslouchejte. Slyšel jsem spoustu příběhů o Tandi a Zakladateli. Zdá se, že jí ještě před vznikem NCR zachránil život. Nicméně, legendy říkají, že strávil spoustu času průzkumem vaultu na východ odsud. A pokud to není onen Vault 13, pak tam možná bude alespoň stopa, která vás k němu zavede.}
 {154}{}{Já děkovat ty!}
 {155}{}{Díky.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{První Občanka? Výborně, přesně na to jsem čekal. Vy jste Občan?}
 {157}{}{Ano.}
 {158}{}{Ne.}
 {159}{}{A jsem si jist, že určitě dobrý. Vezměte si teď prosím tento holodisk a doneste ho zpět První Občance. Je to velmi důležité. Obsahuje informace, které odhalují plány mezi NCR a New Renem.}

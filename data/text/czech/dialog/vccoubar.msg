@@ -74,7 +74,7 @@
 {173}{}{Jak tyhle syntetické alkoholy vyrábíte?}
 {174}{}{Vlastně sháním nějaké informace.}
 {175}{}{Dnes už nic, díky.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
+{176}{}{Auto-Dok ve Vault City je schopen destilovat syntetické náhrady za návykové látky. Tyto látky byly před válkou používány jako placeba pro drogově závislé.}
 {177}{}{Zdá se, že o těch syntetikách hodně víte.}
 {178}{}{Eh, máte nějaké opravdové pití?}
 {179}{}{Aha. Dobře, tak si dám jen trochu vody.}

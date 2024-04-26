@@ -14,9 +14,9 @@
 {113}{}{Pardon, to bude omyl.}
 {114}{}{Vypadni odsud. Tupejch stráží už mám dost!}
 {115}{}{Blbě vidíš nebo co? Tohle je ohrada pro otroky. Jestli chceš vědět víc, promluv si s Vortisem.}
-{116}{}{Is that so? Well, I'm sending you back in a body bag.}
+{116}{}{Opravdu? No tak dobře, ale budou tě odsud odnášet v pytli na mrtvoly.}
 {117}{}{To asi hledáš Vortise, toho starýho chlápka.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
+{118}{}{Díky. Poslyš, připadáš mi jako celkem chytrý chlap. Můžeš mi odpovědět na pár otázek?}
 {119}{}{Říkáš starý chlápek, jo? Tak dobře.}
 {120}{}{No, když to řekneš takhle, tak nemůžu odmítnout. Co chceš vědět?}
 {121}{}{Díky, cizinče.}
@@ -42,7 +42,7 @@
 {141}{}{Enkláva... no, máme ve městě doktora, kterej si říká Henry. Jednu noc, když byl opilej, začal cosi blábolit o nějakejch chlápcích, kterejm říkal Enkláva.}
 {142}{}{To bylo to přesně to, co mě zajímalo. Jsi opravdu skvěle informovaný člověk.}
 {143}{}{To je všechno. Už tě nebudu obtěžovat. Díky.}
-{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
+{144}{}{No, třeba já pořád něco hledám... problém je v tom, že už nikdo nechce najímat otrokáře. Ale třeba Vortis, můj šéf, by něco určitě měl. Nebo rančeři ve Stockmanově Asociaci, ti pořád někoho nabírají. Pak třeba Dorothy v elektrárně by potřebovala pomocnou ruku, pokud na to máš dovednosti. A taky se říká, že prezidentka Tandi shání nějakýho specialistu.}
 {145}{}{Páni, víš toho opravdu hodně. Tebe by se člověk mohl ptát klidně celý den.}
 {146}{}{Díky, půjdu se jich zeptat.}
 {147}{}{Ufikni jim... však víš... pro mě, jo?}

@@ -18,10 +18,10 @@
 {117}{}{Co mi můžeš říct o Rogeru Westinovi?}
 {118}{}{Chci se sejít se starým Carlsonem. Nevíš o někom, kdo by mi s tím mohl pomoct?}
 {119}{}{Nemáš GECK?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
+{120}{}{To je sice hezký, cizinče, ale já nejsem žádná charita.}
 {121}{}{Možná. Mám tady optickej zaměřovač Triveld x10 - perfektně sedí na loveckou pušku, jestli máš zájem. Jenom za $500.}
 {122}{}{Už nic nemám.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Jasně, to beru.}
 {124}{}{Ne, díky.}
 {125}{}{NCR je New California Republic. Prezidentka Tandi a její poskoci tvrděj, že se pokoušej vrátit starý časy, ale podle mě spíš zkoušej ukrást, co se dá. Nemám s tím žádnej problém... ostatně jsem starý časy nezažil. Taky jsou trochu úzkoprsí... nemaj rádi otrokářství, hazard a tak podobně. A proto jsem se usadil tady. Nesnáším totiž nařízení... vždycky jsem je nesnášel.}
 {126}{}{Aha.}

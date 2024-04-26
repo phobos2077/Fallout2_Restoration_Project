@@ -5,7 +5,7 @@
 {104}{}{Je po šesté hodině večerní. Nejvyšší čas vrátit se na Předměstí.}
 {105}{}{Dobře. Ihned odcházím.}
 {106}{}{Dobře. Za minutku půjdu.}
-{107}{}{I got things to do. I'll go when I'm ready to go.}
+{107}{}{Musím ještě něco udělat. Půjdu, až to dokončím.}
 {108}{}{Bubu baba!?! BUBU BABA!}
 {109}{}{No, jenom se ujistím, že dojdeš na Předměstí v pořádku. Tak pojď, jdeme.}
 {110}{}{Dobrá. Tak jdeme.}

@@ -31,13 +31,13 @@
 {204}{}{Už jsem myslela, že jsi na nás zapomněl, zatímco jsi zachraňoval svět.}
 {215}{}{Ahoj, }
 {216}{}{Jestli hledáš společnost na večer...}
-{217}{}{Hey, you...[winks]...you looking to gamble?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{217}{}{Haló, vy... (mrkne na tebe.) ...nechcete si zahrát?}
+{218}{}{Vypadá tak... (zachvěje se.) ...nebezpečně.}
 {219}{}{Vítej v kasínu, }
 {220}{}{Nepřimluvíte se za mě u šéfa?}
 {221}{}{Zdravím, madam. Dejte mi vědet, až budete potřebovat s něčím pomoci.}
 {222}{}{Nechcete si zahrát, madam?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Vypadá tak... (zachvěje se.) ...nebezpečně.}
 {235}{}{Vypadáte jako někdo, kdo každodenně riskuje svůj život.}
 {236}{}{Eh, myslím, že právě vešel do špatného kasína...}
 {237}{}{Jestli neodejde dřív, než ho zahlédnou gorily...}

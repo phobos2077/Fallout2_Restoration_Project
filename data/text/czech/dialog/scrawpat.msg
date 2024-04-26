@@ -21,7 +21,7 @@
 {120}{}{A já mu říkám, "Tak podívej,"...}
 {121}{}{Zkus pečenýho krtčího potkana. Tady je maj nejlepší.}
 {122}{}{Ahoj. Jak se jmenuješ?}
-{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
+{123}{}{Jestli hledáš práci, cizinče, tak zajdi dolů do Stockmanovy Asociace.}
 {124}{}{Do prdele! Viděli jste to?}
 {125}{}{Do hajzlu, je mi nějak blbě.}
 {126}{}{Už mám dost.}

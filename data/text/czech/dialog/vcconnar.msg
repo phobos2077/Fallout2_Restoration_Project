@@ -115,7 +115,7 @@
 {612}{}{Vlastně na to nejspíš zapomenu. Mám tolik úkolů, že je těžké si je všechny pamatovat. Kdybych neměl tenhle šikovný Pip-Boy, kdo ví, kde by mě teď bylo konce? Zatím.}
 {700}{}{Jo, jasně. Tady máš. [Dát mu $5000]}
 {701}{}{Promiň, objevily se nějaké výdaje.}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
+{702}{}{Do prdele, nemám dost na vrácení. Nejspíš jsem nějaké peníze utratil, aniž bych o tom přemýšlel. Brzy ti je vrátím.}
 {710}{}{Díky. Tady. (Vrátí ti zpět $2500.) Nech si je. To je to nejmenší, čím se ti můžeme odvděčit.}
 {720}{}{Aha, chápu. No, pokud jsme si za to koupili svobodu, tak to za to stálo. Ještě jednou díky za všechno.}
 {730}{}{Něco ti povím, což takhle nám vrátit jen půlku? Máš $2500?}

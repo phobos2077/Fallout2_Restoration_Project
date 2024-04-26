@@ -12,6 +12,6 @@
 {225}{}{Karta přijata. Bezpečnostní opatření č.2 v pořádku.}
 {226}{}{Aktivovat bombu.}
 {227}{}{Odhlásit se.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
+{228}{}{Bomba aktivována a bude odpálena za T-mínus 5 minut...
+CHYBA při odpočítávání. Odpočítávání přenastaveno na T-minus 5 sekund. Prosím, ujistěte se, že se nacházíte alespoň 130 km od epicentra výbuchu. Přeji vám příjemný a ničím nerušený den.}
 {229}{}{A DO PRDELE...}

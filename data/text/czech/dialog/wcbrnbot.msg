@@ -44,7 +44,7 @@
 {143}{}{Nashle.}
 {144}{}{Eh.}
 {145}{}{Skynet se naučil všechny potřebné informace na tomto místě.}
-{146}{}{Waaaaa......tinnnnnng.}
+{146}{}{Čekááááááááám.}
 {147}{}{        (Je přesně tam, kde jsi ho nechal.)}
 {148}{}{Pojďme.}
 {149}{}{Počkej tady. Já se vrátím.}
@@ -97,7 +97,7 @@
 {196}{}{(Robot se zastavil v pohybu.)}
 {197}{}{Nashle.}
 {198}{}{Skynet bude pokračovat ve sběru dat samostatně. Skynet děkuje člověku za darovanou svobodu.}
-{199}{}{Gooooo......innnnnnng.}
+{199}{}{Jedůůůůůůůůů.}
 {200}{}{Nashle.}
 {201}{}{Skynet bude cestovat s člověkem.}
 {202}{}{Dóóóóó... břéééééé.}
@@ -105,7 +105,7 @@
 {204}{}{Deaktivace bezpečnostních systémů - Úroveň 1}
 {205}{}{Deaktivace bezpečnostních systémů - Úroveň 2}
 {206}{}{Deaktivace bezpečnostních systémů - Úroveň 3}
-{207}{}{Deactivating all Security - Level 4}
+{207}{}{Deaktivace bezpečnostních systémů - Úroveň 4}
 {306}{}{(Tahle mašinka by mohla být užitečná.)}
 {400}{}{Odlož svou zbraň.}
 {410}{}{Bzzzzz}

@@ -27,7 +27,7 @@
 {126}{}{Ne, hledám GECK.}
 {127}{}{Pomoct? Jak?}
 {128}{}{Raketomet mi poskytuje všechen duševní klid, který potřebuju, dámo.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Rozumíš" tomuhle!? (Udělat drzé gesto rukou se vztyčeným prostředníčkem.)}
 {130}{}{Merk? Co ten chce?}
 {131}{}{To je jednoduché. Chce tvoji smrt. Řekni sbohem.}
 {132}{}{Nevím, co mezi sebou máte, ale pro mě jsi jen další kontrakt.}

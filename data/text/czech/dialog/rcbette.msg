@@ -76,8 +76,8 @@
 {175}{}{Jsi chytřejší, než vypadáš. Ale to asi musíš být, když jsi pořád ještě naživu. Teď utíkej zpátky za maminkou a řekni jí, že jsme na tebe byli hrozně moc oškliví.}
 {176}{}{Tak dost. Už mám těch tvých keců až po krk. Poslední výzva. Pojď v klidu se mnou, nebo tě roztrhnu jak hada.}
 {177}{}{To možná udělám. Nechci nikomu ublížit. Sbohem.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{178}{}{Já vím, jak to chodí, ty malej sráči. Dobře, půjdu s tebou a Caminetto taky.
+(Na Caminetta) Že jo, ty můj ocásku?}
 {179}{}{Tak se mi to líbí.}
 {180}{}{Ne, už je pozdě. Udělám z vás obou žrádlo pro psy. }
 {181}{}{Myslím, že nakopu Caminettovi prdel někdy jindy.}

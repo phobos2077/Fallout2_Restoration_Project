@@ -25,7 +25,7 @@
 {124}{}{Co to má bejt? Myslíš, že jsem snad nějaká linka důvěry?}
 {125}{}{Jsem Merk. Co chceš?}
 {126}{}{Zase vy?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{Buď slušnej, ty hajzle, nebo špatně dopadneš.}
 {128}{}{Oort.}
 {129}{}{Hledám práci.}
 {130}{}{Informované zdroje říkají, že ty jsi ten správný člověk, u kterého mám hledat práci... jestli mi rozumíš.}
@@ -95,7 +95,7 @@
 {194}{}{No, jsem vzdělanej muž. Na co se chceš zeptat?}
 {195}{}{Ptej se.}
 {196}{}{Hledám Vault 13.}
-{197}{}{Ever heard of a GECK?}
+{197}{}{Neslyšel jsi někdy o GECKu?}
 {198}{}{Co víš o skupině, která si říká Rangeři?}
 {199}{}{Co mi můžeš říct o chlápkovi jménem Westin?}
 {200}{}{Sháním informace o viceprezidentovi Carlsonovi.}
@@ -107,7 +107,7 @@
 {206}{}{Jasně. Vezmu si ji.}
 {207}{}{Tomu uvěřím, až budou z nebe padat trakaře.}
 {208}{}{Možná později.}
-{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
+{209}{}{To je nějaká droga z New Rena? Nikdy jsem o ní neslyšel.}
 {210}{}{Ne, ale mám ještě nějaké otázky.}
 {211}{}{To už bude všechno.}
 {212}{}{Ti bastardi? Ať se ode mě drží dál, nebo je oddělám.}
@@ -120,7 +120,7 @@
 {219}{}{No tak nic no. Vypadá to, že se s ním nikdy nesetkám. Taky jsem o něm hodně slyšel.}
 {220}{}{To už bude všechno.}
 {221}{}{Je to všechno?}
-{222}{}{No, I've got some more questions.}
+{222}{}{Ne, mám ještě nějaké otázky.}
 {223}{}{Jo, prozatím je to všechno.}
 {224}{}{No, ale za pokus to stálo, ne? Vault 13 je tady prakticky modla. Dokonce tady postavili i sochu nějakýmu týpkovi, kterej prej odtamtud přišel. Nic víc nevím.}
 {225}{}{Prodal jsem ti mapu. Zkus ji použít.}

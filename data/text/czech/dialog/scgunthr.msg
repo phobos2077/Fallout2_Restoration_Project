@@ -27,7 +27,7 @@
 {126}{}{Prý paní prezidentka potřebuje někoho na jednu speciální práci.}
 {127}{}{Paní prezidentka už nadále neposkytuje rozhovory na téma Vault 13. Je mi líto. Je příliš zaměstnána na to, aby přijímala všechny prospektory, kteří sem zavítají.}
 {128}{}{Cože? Tomu nerozumím.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{A co GECK? Neví o něm něco?}
 {130}{}{Prý nabízí nějakou práci.}
 {131}{}{Jste k ničemu. Odcházím.}
 {132}{}{V tom případě vám doporučuji přečíst si ceduli venku. Přeji hezký den.}

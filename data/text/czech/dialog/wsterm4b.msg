@@ -1,5 +1,5 @@
 {100}{}{Počítačový terminál.}
-{101}{}{It controls the Vault-Tec organ extraction unit.}
+{101}{}{Terminál řídí extrahovací jednotku orgánů Vault-Tec.}
 {102}{}{Obrazovka je pro tebe zcela nečitelná.}
 {103}{}{Vítejte ve Vault-Tec extrahovací jednotce. Pro správnou funkci je zapotřebí, abyste umístili dárce na operační sál - poté vyberte druh a orgán určený k odebrání.}
 {104}{}{Vybrat druh.}
@@ -17,13 +17,13 @@
 {116}{}{Vybrat zemní kukačku.}
 {117}{}{Vybrat hlodavce.}
 {118}{}{Vybrat člověka.}
-{119}{}{[Scratch a new name onto console.]}
+{119}{}{(Naškrábat na konzoli nové jmého.)}
 {120}{}{Konec.}
 {121}{}{(V tvé ruce se výjimá kus ostrého plechu a pomalu začínáš uvažovat, co naškrábeš.)}
-{122}{}{Carve the word 'Mutant' onto console.}
-{123}{}{Carve the word 'Deathclaw' onto console.}
+{122}{}{Vyrýt na konzoli slovo Mutant.}
+{123}{}{Vyrýt na konzoli slovo párač.}
 {124}{}{Konec.}
-{125}{}{Current Selection: }
+{125}{}{Aktuální výběr: }
 {126}{}{- druh: }
 {127}{}{- orgán: }
 {128}{}{Vybrat druh.}
@@ -47,26 +47,26 @@
 {146}{}{Vybrat tlusté střevo.}
 {147}{}{Konec.}
 {148}{}{Zvolený dárce není přítomen v extrakční místnosti.}
-{149}{}{Extraction failed.}
-{150}{}{Extraction completed.}
-{151}{}{Extraction completed.
-                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
+{149}{}{Extrakce neúspěšná.}
+{150}{}{Extrakce proběhla úspěšně.}
+{151}{}{Extrakce hotova
+                                             Děkujeme za použití přístrojů Vault-Tec. V našem katalogu naleznete kompletní přehled Vault-Tec produktů.}
 {152}{}{}
 {153}{}{Konec.}
-{154}{}{Extraction failed-- local sensor overload.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
-{170}{}{Human }
-{171}{}{Canine }
-{172}{}{Feline }
-{173}{}{Road Runner }
-{174}{}{Rodent }
+{154}{}{Selhání extrakce -- přetížení lokálního čidla.}
+{155}{}{Selhání extrakce -- Není možno zahájit proceduru pro danou fyziologii subjektu.}
+{170}{}{Člověk }
+{171}{}{Pes }
+{172}{}{Kočka }
+{173}{}{Kukačka kohoutí }
+{174}{}{Hlodavec }
 {175}{}{Mutant }
-{176}{}{Deathclaw }
-{180}{}{Brain }
-{181}{}{Heart }
-{182}{}{Kidney }
-{183}{}{Liver }
-{184}{}{Lung }
-{185}{}{Appendix }
-{186}{}{Colon }
+{176}{}{Párač }
+{180}{}{mozek }
+{181}{}{srdce }
+{182}{}{ledvina }
+{183}{}{játra }
+{184}{}{plíce }
+{185}{}{slepé střevo }
+{186}{}{tlusté střevo}
 {200}{}{ nedokáže přečíst text na monitoru.}

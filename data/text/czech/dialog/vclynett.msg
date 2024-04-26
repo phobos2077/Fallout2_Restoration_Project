@@ -268,7 +268,7 @@
 {367}{}{Musím najít Vault, ze kterého pocházejí mí předkové.}
 {368}{}{Potřebuju GECK. Nemáte jeden?}
 {369}{}{Aha, takže teď už mě ve vašem městě vítáte, jo? Zapomeňte na to... padám odsud.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{370}{}{To si ani neumíte představit... ale o Chrámu Zkoušek vám povím někdy jindy. Sbohem.}
 {371}{lyn051}{Dávám vám příležitost, kterou dostane jen málo venkovanů. Můžete samozřejmě podstoupit test, pokud si to přejete, ale vyřešení této situace bude taktéž patřičně ohodnoceno. Rozumíte mi?}
 {372}{}{Tak dobře. Co je to za situaci?}
 {373}{}{Rozumím. Je mojí povinností splnit cokoliv si Vault žádá.}
@@ -628,7 +628,7 @@
 {727}{lyn122}{Roger Westin je pravděpodobně jediný čestný muž v té jejich republice, který nám je nakloněn.}
 {728}{}{Dobrá, doručím mu ten holodisk.}
 {729}{}{Ne, díky. Teď mám moc práce.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Vaše vlastenectví nezůstane neodměněno. A teď běžte. Času není nazbyt.}
 {731}{}{Než půjdu, chci se ještě zeptat...}
 {732}{}{Jdu na to.}
 {733}{}{Můžete se na mě spolehnout, První Občanko. Vrátím se, až ten holodisk doručím Westinovi.}

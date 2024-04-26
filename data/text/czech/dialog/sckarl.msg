@@ -22,13 +22,13 @@
 {121}{}{Je to drsný chlap, jo?}
 {122}{}{Co s ním chcete dělat?}
 {123}{}{O tobě už jsem určitě slyšel. Jo... jen samé dobré věci. Poslyš, vím o pár lidech, kterým by se tvoje dovednosti hodily. Zajdi do obchodu s auty a ptej se po Elise. Řekni jí, že ji Karl pozdravuje.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Práci? Stockmanova Asociace hledá stráže. Nájezdníci opět podnikli útok na dobytek. A také jsem slyšel, že naše prezidentka Tandi hledá někoho *speciálního*. Pomůže ti to?}
 {125}{}{Dobře, mám ještě nějaké otázky.}
 {126}{}{Trochu. Díky.}
 {127}{}{To je důstojník Jack, cizinče. Jeden z našich lidí. Ještě jsi nemluvil s Mirou, že ne?}
 {128}{}{Ano.}
 {129}{}{Kdo je Mira?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Toho SYČÁKA? Má ranč venku za městem. Najdeš ho, když půjdeš po cestě za Stockmanovou Asociací.}
 {131}{}{Ty ho asi nemáš moc rád, že?}
 {132}{}{Dobře, mám ještě nějaké otázky.}
 {133}{}{Díky.}

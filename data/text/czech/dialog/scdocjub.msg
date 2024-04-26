@@ -114,7 +114,7 @@
 {272}{}{ jednoho dne }
 {273}{}{a v žádném případě nebudu mít čas na to, abych do té doby namíchal další várku. Určitě někde najdete lékarníka, který nemá tolik práce.}
 {274}{}{Chápu. No, tak díky.}
-{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
+{280}{}{(Doktor Jubilee na tebe chvíli zírá.) Aha, vy mě vodíte za nos, že jo? Určitě mě vodíte za nos. (Opět na tebe zírá, zatřese hlavou a oddechne si.) Fíha. Nicméně, co bych to byl za doktora, kdybych vám nedal alespoň pár rad.}
 {281}{}{Mno... pro začátek bych doporučil přestat s... no, skoro se vším. Žádné pití, žádné kouření, žádné červené maso a ŽÁDNÉ léky. Pokud možno každý den cvičit v MÍRNÉ zátěži a nepřetěžovat se. Život není závod, tedy alespoň v tomhle případě není nutné být první. Abych řekl pravdu, tak tyhle řeči stejně nikdo neposlouchá, ale alespoň se mi bude dnes líp spát.}
 {282}{}{Ale důležitější je najít slušného lékárníka a říct mu, že potřebujete běžnou dávku Triproxinilu. Tri-prox-i-nil. V pustinách sice nemají tak přepychové zboží jako mám já, ale chemicky je to všechno stejné, pokud se budeme bavit o těch nejzákladnějších složkách. 30 miligramů dvakrát denně.}
 {283}{}{Taky musíte tyhle prášky zapíjet dostatečným množstvím vody. A ať vás ani nenapadne *dotknout* se prášků na potenci, co prodávají v New Renu, rozumíte? Vůbec to spolu nejde dohromady. Stačí smíchat jeden s Triproxinilem a váš Frantík nebude to jediný, co budete mít ten den tvrdý, jestli mi rozumíte.}
@@ -127,7 +127,7 @@
 {292}{}{děvče, }
 {293}{}{je to tak? Tak to jste vedle. Já jsem kvalifikovaný a pověřený profesionální zdravotník NCR a to má větší cenu než nějaká hrst drobných.}
 {294}{}{Omlouvám se. Člověk vašeho kalibru má očividně cenu sponzorského daru v hodnotě alespoň $250.}
-{295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
+{295}{}{(Sklonit hlavu.) Poslyšte, opravdu se omlouvám. Nemám v oblibě něco takového běžně dělat a rozhodně si to nedám za rámeček, ale musím se vám k něčemu přiznat: Ty pilulky zoufale potřebuju.}
 {296}{}{Omlouvám se za ty nepříjemnosti. Myslím, že raději půjdu, než to pokazím ještě víc.}
 {300}{}{(Doktor Jubilee začíná rudnout.) Asi jsem se předtím špatně vyjádřil,}
 {301}{}{ chlape, }
@@ -141,7 +141,6 @@
 {321}{}{ dní, }
 {322}{}{ jednoho dne }
 {323}{}{a v žádném případě nebudu mít čas na to, abych do té doby namíchal další várku.}
-{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
- Oh, sorry. What can I do for you today?}
+{324}{}{(Mumlá si pro sebe.) Kam jsem sakra dal ty pilulky pro pana Westina? Bez nich mu to srdce dlouho nevydrží. (Podívá se vzhůru.) Och, promiňte. Co pro vás můžu udělat?}
 {325}{}{Nedalo se nepřeslechnout vaši zmínku o pilulcích na srdce. Vlastně se vás chci na ty léky zeptat.}
-{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}
+{330}{}{(Mumlá si pro sebe.) Nemůžu uvěřit, že je pan Westin mrtvý. To nemohla být přece moje chyba, měl jsem ty pilulky nadávkované správně. (Podívá se vzhůru.) Och, promiňte. Co pro vás můžu udělat?}
