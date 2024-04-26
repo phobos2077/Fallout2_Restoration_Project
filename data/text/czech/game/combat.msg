@@ -104,73 +104,73 @@
 {511}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
 {512}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {513}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
-{514}{}{Útočník %s kriticky minul}
-{515}{}{Útočník %s minul}
-{520}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
-{521}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{522}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{523}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod}
-{524}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod}
-{525}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{526}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{527}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění}
-{528}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění}
-{533}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{534}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
+{514}{}{%s: nešikovně míjí}
+{515}{}{%s míjí}
+{520}{}{%s were critically hit for %d hit points}
+{521}{}{%s were critically hit in %s for 1 hit point}
+{522}{}{%s were hit in %s for 1 hit point}
+{523}{}{%s were hit for 1 hit point}
+{524}{}{%s were critically hit for 1 hit point}
+{525}{}{%s were critically hit in %s for no damage}
+{526}{}{%s were hit in %s for no damage}
+{527}{}{%s were hit for no damage}
+{528}{}{%s were critically hit for no damage}
+{533}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {556}{}{Ty}
 {559}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
 {561}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
 {562}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {563}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
-{564}{}{Útočník %s kriticky minul}
-{565}{}{Útočník %s minul}
-{570}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
-{571}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{572}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{573}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod}
-{574}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod}
-{575}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{576}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{577}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění}
-{578}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění}
-{583}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{584}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
-{608}{}{Jejda! %s byla zasažena namísto tebe!}
-{609}{}{Jejda! %s byla zasažena namísto cíle: %s!}
-{611}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{612}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{613}{}{%s byla zasažena a ztratila %d hit bodů}
-{614}{}{Útočník %s kriticky minul}
-{615}{}{Útočník %s minul}
-{620}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
-{621}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{622}{}{%s byla zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{623}{}{%s byla zasažena a ztratila 1 hit bod}
-{624}{}{%s byla kriticky zasažena a ztratila 1 hit bod}
-{625}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{626}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{627}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění}
-{628}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění}
-{633}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{634}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
-{708}{}{Jejda! %s byla zasažena namísto tebe!}
-{709}{}{Jejda! %s byla zasažena namísto cíle: %s!}
-{711}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{712}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{713}{}{%s byla zasažena a ztratila %d hit bodů}
-{714}{}{Útočník %s kriticky minul}
-{715}{}{Útočník %s minul}
-{720}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
-{721}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{722}{}{%s byla zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{723}{}{%s byla zasažena a ztratila 1 hit bod}
-{724}{}{%s byla kriticky zasažena a ztratila 1 hit bod}
-{725}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{726}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{727}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění}
-{728}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění}
-{733}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{734}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
+{564}{}{%s: nešikovně míjí}
+{565}{}{%s míjí}
+{570}{}{%s were critically hit for %d hit points}
+{571}{}{%s were critically hit in %s for 1 hit point}
+{572}{}{%s were hit in %s for 1 hit point}
+{573}{}{%s were hit for 1 hit point}
+{574}{}{%s were critically hit for 1 hit point}
+{575}{}{%s were critically hit in %s for no damage}
+{576}{}{%s were hit in %s for no damage}
+{577}{}{%s were hit for no damage}
+{578}{}{%s were critically hit for no damage}
+{583}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{584}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
+{608}{}{Jejda! Místo tebe zasaženo: %s!}
+{609}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
+{611}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{612}{}{Zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{613}{}{Zásah do: %s se ztrátou %d hit bodů}
+{614}{}{%s: nešikovně míjí}
+{615}{}{%s míjí}
+{620}{}{Kritický zásah do: %s se ztrátou %d hit bodů}
+{621}{}{Kritický zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{622}{}{Zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{623}{}{Zásah do: %s se ztrátou 1 hit bodu}
+{624}{}{Kritický zásah do: %s se ztrátou 1 hit bodu}
+{625}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{626}{}{Zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{627}{}{Zásah do: %s. Útok nezpůsobil žádné zranění}
+{628}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
+{633}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{634}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
+{708}{}{Jejda! Místo tebe zasaženo: %s!}
+{709}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
+{711}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{712}{}{Zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{713}{}{Zásah do: %s se ztrátou %d hit bodů}
+{714}{}{%s: nešikovně míjí}
+{715}{}{%s míjí}
+{720}{}{Kritický zásah do: %s se ztrátou %d hit bodů}
+{721}{}{Kritický zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{722}{}{Zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{723}{}{Zásah do: %s se ztrátou 1 hit bodu}
+{724}{}{Kritický zásah do: %s se ztrátou 1 hit bodu}
+{725}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{726}{}{Zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{727}{}{Zásah do: %s. Útok nezpůsobil žádné zranění}
+{728}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
+{733}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{734}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {1110}{}{hlava}
 {1111}{}{levá ruka}
 {1112}{}{pravá ruka}
