@@ -114,7 +114,7 @@
 {213}{}{N'oublie pas de remettre les plans au Docteur Wong Yi Tze.}
 {214}{}{Tu reviens m'insulter ! J'hallucine.}
 {215}{}{Comme je te l'ai expliqué, j'ai besoin de connaître ton nom.}
-{216}{}{Très bien, je m'appelle }
+{216}{}{Très bien, je m'appelle}
 {217}{}{Laisse tomber, imbécile !}
 {218}{}{Rappelle-toi que l'Empereur attend la mort de AHS-9.}
 {219}{}{Je regrette, mais je ne peux pas t'offrir notre carburant. Tu pourrais peut-être parler à l'Empereur.}

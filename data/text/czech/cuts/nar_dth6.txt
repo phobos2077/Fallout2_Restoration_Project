@@ -1,2 +1,2 @@
-1:Jsi mrtvy. Nikdy se nedozvis, co se stalo s tvou vesnici.
-2:You shall never know what happened to your kidnapped village.
+1:Zemřel jsi.
+2:Nikdy se nedozvíš, co se stalo s tvou odvlečenou vesnicí.

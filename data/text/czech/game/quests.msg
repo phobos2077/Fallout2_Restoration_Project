@@ -8,12 +8,12 @@
 {202}{}{Znič Beckyin destilátor.}
 {203}{}{Dones Smittymu součástku pro auto.}
 {204}{}{Vrať Anně její přívěšek.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{205}{}{Dostaň Rebecčiny peníze z Freda.}
+{206}{}{Získej Rebecčinu knihu od Dereka.}
 {207}{}{Dones Smittymu jídlo od Mámy.}
 {208}{}{Lara chce vědět, jaké zboží je střeženo ve starém kostele.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{209}{}{Získej od Metzgera svolení pro válku gangů.}
+{210}{}{Najdi slabinu v Tylerově gangu, který hlídá kostel.}
 {211}{}{Pomoz Laře s útokem na Tylerův gang.}
 {212}{}{Najdi způsob, jak dostat sirotky z ulice.}
 {300}{}{Přilož dřevo pod destilátor.}

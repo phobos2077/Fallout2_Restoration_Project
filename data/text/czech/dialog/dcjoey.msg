@@ -15,7 +15,7 @@
 {162}{}{Ukradl jsi z toho strašidelného domu přívěsek?}
 {163}{}{O ničem. To je jedno.}
 {164}{}{Zapomeň na to. Teď tě zabiju a pak naporcuju.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Já n-nevím, o čem to vlastně mluvíš.}
 {166}{}{Já myslím, že to moc dobře víš! Ukradl jsi té mrtvé dívce přívěsek a její duch teď nemůže odpočívat v pokoji.}
 {167}{}{Dobře, vezmu si ho tedy násilím.}
 {168}{}{T-to je k-kurva šílený! Nn-emáš v sso-bě nějakou ttu Tubb-yho ssra-čku? Já-já jsem t-tam žádnýho d-ducha neviděl, k-když jsem t-tam byl... byl jsem sjetej, t-to nebylo skutečný.}

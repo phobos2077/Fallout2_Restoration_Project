@@ -44,13 +44,19 @@
 {146}{}{Ukončení diagnostického programu.}
 {147}{}{[Více]}
 {300}{}{ - ID: }
-{301}{}{                     Poslední přístup: }
+{301}{}{
+            Poslední přístup k terminálu: }
 {303}{}{Desátník Dixon}
 {304}{}{Generál Clifton}
 {305}{}{5. Srpen, 2077}
 {306}{}{ dní.}
-{307}{}{                                             Pozor!!! Vetřelec detekován na patře }
-{308}{}{                                             Pozor!!! Vetřelec detekován na patrech: }
-{309}{}{                               }
-{310}{}{                                             }
-{311}{}{                       }
+{307}{}{
+                                             Pozor!!! Vetřelec detekován na patře }
+{308}{}{
+                                             Pozor!!! Vetřelec detekován na patrech: }
+{309}{}{
+                                       }
+{310}{}{
+                                                        }
+{311}{}{
+                              }

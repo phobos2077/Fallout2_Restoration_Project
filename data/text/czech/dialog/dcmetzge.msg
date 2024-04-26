@@ -231,9 +231,7 @@
 {911}{}{Poslyš, možná to bude trochu neobvyklý požadavek, ale chci vidět každé nové zboží jako první. Je nějaký způsob, jak se podívat na zboží v ostatních kempech? Samozřejmě zaplatím něco navíc.}
 {912}{}{Dobře, potom se na ně ještě podívám.}
 {913}{}{Dobře, ale příště mi udělej laskavost a neplýtvej mým časem, pokud nebudeš chtít vyřídit nějaký obchodní záležitosti.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
+{914}{}{Něco navíc, jo? Ta slova se mi líbí. Obvykle tu děláme obchody zde, ale snad by se dala udělat výjimka, pokud to myslíš vážně. Řeknu ti, jak se tam dostaneš, ale radši si to nech pro sebe. Přísahám, že jestli se z tebe vyklube špión těch zasraných Rangerů, tak přísahám, že si tě najdu a stáhnu tě zaživa z kůže. (Posloucháš jeho pokyny a zaznamenáváš si polohu Tábora Otrokářů do svého Pip-Boye).}
 {915}{}{Mám to. Chci se ještě na něco zeptat.}
 {916}{}{Díky. Musím odejít. Nashle.}
 {1360}{}{. Co ty na to?}
