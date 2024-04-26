@@ -1256,7 +1256,8 @@
 {3157}{}{Vidíš jednu z dívek Kočičí Packy. Prohlíží si tě jako zlatník prsten.}
 {3158}{}{Vidíš jednu z dívek Kočičí Packy. Její sporé šaty svůdně obepínají celé její tělo.}
 {3200}{}{Ach bože! Ach bože! Ach bože ach bože ach bože... ááááááách bože.}
-{3201}{}{Ano! Ano! Anoooooooooo Ano Ano Ano Ano ANO ANO ANOOOOO! A teď jdi zaplatit u pokladny.}
+{3201}{}{Ano! Ano! Anoooooooooo Ano Ano Ano Ano ANO ANO ANOOOOO!
+A teď jdi zaplatit u pokladny.}
 {3202}{}{Dělej, běží ti čas.}
 {3203}{}{Nepotřebuješ mokrej ručník?}
 {3204}{}{Udělej mi to, Fr... Ni... Sc... eh, promiň, jak že se to jmenuješ?}

@@ -179,7 +179,7 @@
 {620}{}{(Prohlédne si tě od hlavy k patě a poté kývne.) Myslím, že to by se zařídit dalo... }
 {621}{}{(Prohlédne si tvého společníka od hlavy k patě a poté kývne.) Myslím, že by se to pro vašeho přítele zařídit dalo... }
 {623}{}{(Mrkne.) Je to zadarmo, takže se o peníze nestarejte.}
-{700}{}{Jo, jo, jo!}
+{700}{}{Ano, tak.}
 {701}{}{Skvělý.}
 {702}{}{Páni. To bylo hluboko.}
 {703}{}{Páni.}

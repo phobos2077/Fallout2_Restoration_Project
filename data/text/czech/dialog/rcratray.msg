@@ -7,7 +7,7 @@
 {106}{}{Nechápu, jak můžu vydržet tu tvoji neschopnost.}
 {107}{}{Ratt litovat, Ratt chovat líp.}
 {108}{}{To doufám, jinak poletíš zpátky na ulici. Jsem na tebe až moc hodný.}
-{109}{}{Ne doktor, nevyhazovat Ratt! Ratt se polepšit. Ratt slíbit.}
+{109}{}{Ne doktor, nevyhazovat Ratt! Ratt se polepšit. Ratt slíbovat.}
 {110}{}{Dobře, tak ukaž, jak umíš uklízet. Ale varuju tě.}
 {111}{}{Ratt být hodný. Ratt nedělat žádný problém. }
 {112}{}{No dobře. A teď tady pokliď.}

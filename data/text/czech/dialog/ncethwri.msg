@@ -45,13 +45,15 @@
 {272}{}{Nejspíš si myslíte, že tahle high-tech zbroj na mě jen tak spadla z nebe. Hele, přestaňte se mnou mluvit jako s dubem, ano?}
 {273}{}{Myslíte, že tahle zbraň je nějaký kmenový talisman, který mám jen tak pro parádu? Přestaňte na mě hulákat jako na tupce, ano?}
 {274}{}{RADĚJI PŮJDU, NEŽ SE OPRAVDU NAŠTVU.}
-{280}{}{Ach! Promiňte! (Vypadá vystrašeně.) Pardon, pardon! Já jsem jenom myslela, že... že... no to je jedno, nechme to být. Co pro vás můžu udělat?}
+{280}{}{Ach! Promiňte! (Vypadá vystrašeně.) Pardon, pardon! Já jsem jenom myslela, že... že... no to je jedno, nechme to být.
+ Co pro vás můžu udělat?}
 {281}{}{Chci se zeptat na něco jiného ohledně Rena...}
 {282}{}{Už nic. Musím už jít.}
 {290}{}{(Zamžourá a zamračí se.) Prosím? G.E... cože? Ne, o takové věci jsem nikdy neslyšela, lituji.}
 {291}{}{Chci se ještě zeptat...}
 {292}{}{Tak nic, raději půjdu.}
-{300}{}{Vault 13? (Vypadá zmateně.) Ne, vážně, nikdy jsem... počkat. Teď si vzpomínám. Na severovýchodě odsud LEŽÍ Vault City. Je to to, co hledáte?}
+{300}{}{Vault 13? (Vypadá zmateně.) Ne, vážně, nikdy jsem... počkat. Teď si vzpomínám. Na severovýchodě odsud LEŽÍ Vault City.
+ Je to to, co hledáte?}
 {301}{}{Ne, to není ono. Ale možná mi pomůžete s jinými otázkami...}
 {302}{}{Možná. Můžete mi ještě s něčím pomoct...?}
 {303}{}{Možná. Sbohem... a díky za informace.}

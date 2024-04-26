@@ -36,7 +36,7 @@
 {135}{}{Trochu zasranýho volna by mi fakt bodlo.}
 {136}{}{To mám bejt v týhle smradlavý díře s tím kreténem?}
 {137}{}{Caminetto, tvoje posraný dny jsou sečteny.}
-{138}{}{Rozluč se se životem.}
+{138}{}{Za to si polib řiť a rozluč se se životem.}
 {139}{}{Dostaňte mě kurva odsud!}
 {140}{}{Hej, sráči, pust mě ven!}
 {141}{}{Hej, šerife! Když mě pustíš, tak ti ho přeblafnu.}

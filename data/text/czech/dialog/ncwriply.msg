@@ -80,7 +80,7 @@
 {352}{}{Neříkat hlupák já.}
 {353}{}{Neřvat. }
 {354}{}{Ty lhát }
-{355}{}{ zabila móc malejch řvanejch lídišek jak ty... ty chtít další býti?}
+{355}{}{ zabila móc malejch řvanejch lídišek jak ty... chtít další býti?}
 {356}{}{Odbelhat se.}
 {360}{}{E-HE. Fakt jsme ji viděli.}
 {362}{}{E-he, e-he, e-he.}
@@ -88,7 +88,7 @@
 {364}{}{[Odbelhat se a dělat "e-he" na někoho jiného]}
 {370}{}{E-he! Ukážu ti ji! Pár nás tam zase půjde, až bude POŘÁDNÁ tma. }
 {371}{}{E-he! Ukážu ti ji! Pár nás tam dneska v noci půjde. }
-{372}{}{Chceš jít s náma? (Malý človíček zamhouří očima.) Ale musíš být moc moc potichu. Fakt moc potichu!}
+{372}{}{Chceš jít s náma? (Malý človíček zamhouří očima.) Ale musíš být moc moc potichu. Fakt moc potichu.}
 {373}{}{Tak dobže. [Jít za ním]}
 {374}{}{Tak dobže, já jít... óóóó, do támhleto písek?}
 {380}{}{Nemám tě rád. Jseš velkej a blbej! (Vyplázne na tebe jazyk.) Vypadni, blbečku!}
@@ -105,7 +105,7 @@
 {405}{}{Tak dobže, já jít... óóóó, do támhleto písek?}
 {410}{}{Pár nás tam zase půjde, až bude POŘÁDNÁ tma! }
 {411}{}{Pár nás tam dneska v noci půjde. }
-{412}{}{Chceš jít s náma? (Zamhouří na tebe očima.) Ale musíš být moc moc potichu. Fakt moc potichu!}
+{412}{}{Chceš jít s náma? (Zamhouří na tebe očima.) Ale musíš být moc moc potichu. Fakt moc potichu.}
 {420}{}{To není hrnec, ty BLBEČKU! To je moje helma!}
 {421}{}{Eh, no tak promiň, strašlivý bojovníku v helmě.}
 {422}{}{Ještě JEDNOU mi řekni blbečku, ty jeden malej sráči, a uvidíme, jak tě ta tvoje 'helma' ochrání před pěstí do ksichtu.}

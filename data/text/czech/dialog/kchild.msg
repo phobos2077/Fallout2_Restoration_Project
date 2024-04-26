@@ -62,7 +62,7 @@
 {210}{}{Dáš mi to?}
 {211}{}{Co děláš?}
 {212}{}{Umím rychle utíkat. Chceš to vidět?}
-{213}{}{Dívej! Dívej!}
+{213}{}{Dívej se! Dívej se!}
 {214}{}{Maminka říká, že moc mluvím.}
 {215}{}{Kde je tvůj domov?}
 {216}{}{Héééé! Héééé!}

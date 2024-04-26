@@ -135,7 +135,7 @@
 {454}{}{Jdi do háje s takovýma kecama. Jdu pryč.}
 {460}{}{Ne, promiň, zlato, moc velký riziko... stejně by tě nejspíš nenechali zápasit. A teď se vrať domů, ano?}
 {461}{}{Ne, promiň, kámo, to by ani nebylo moc zábavný, jak by tě strašně zmasakrovali. A teď se vrať domů, ano?}
-{462}{}{Je to riziko, ale... ale, víš, Stuarte, mohla bych se v ringu trochu *svléct*. To by mohlo přitáhnout mnohem víc lidí...}
+{462}{}{Je to riziko, jistě... ale, víš, Stuarte, mohla bych se v ringu trochu *svléct*. To by mohlo přitáhnout mnohem víc lidí...}
 {463}{}{Jdi do háje s takovýma kecama. Jdu pryč.}
 {470}{}{Hmmmmm... dobře, dám ti šanci... ale nic neslibuju. Jestli to uškodí kšeftům, třeba jenom trošičku, letíš. (Dá si ruce v bok.) A beru půlku výhry, a žádný smlouvání.}
 {471}{}{Hmmmmm... dám ti šanci... ale nic neslibuju. Dělám ti laskavost, že tě beru pod svý křídla. A beru půlku výhry, a žádný smlouvání.}

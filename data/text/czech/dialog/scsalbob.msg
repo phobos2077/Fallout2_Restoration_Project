@@ -18,7 +18,7 @@
 {117}{}{Pití! Bezva!}
 {118}{}{Řííííh!}
 {119}{}{V klidu, parťáku! Jen se tak ptám, víš? Tak já tě radši nechám bejt.}
-{120}{}{(Glo, glo, glo.) Ááááách! To bylo od tebe fakt milý, cizinče! Jseš fakt fajn člověk. Takovej člověk, kterýho by měl mít každej za kámoše. (Glo.) Už jsem ti povídal o svým velkým životním úspěchu?}
+{120}{}{(Glo, glo, glo) Ááááách! To bylo od tebe fakt milý, cizinče! Jseš fakt fajn člověk. Takovej člověk, kterýho by měl mít každej za kámoše. (Glo) Už jsem ti povídal o svým velkým životním úspěchu?}
 {121}{}{Ne?}
 {122}{}{Hele, ne abys mi to všechno vychlastal!}
 {123}{}{Rahhhg!}

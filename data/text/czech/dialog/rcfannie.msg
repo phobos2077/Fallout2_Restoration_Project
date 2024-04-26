@@ -50,7 +50,8 @@
 {149}{}{Potřebuju jen $200 a můj přítel a já odsud odejdeme nezadlužení a volní. Už žádný divný, špinavý lidi, co mě osahávaj ve dne v noci. Eh, bez urážky.}
 {150}{}{V pohodě. Já tě snad neosahával, nebo jo? Nicméně, můžu tě odsud vyplatit. Tady máš $200.}
 {151}{}{To je opravdu smutné. No, asi by ses měla vrátit do práce. Sbohem.}
-{152}{}{Ach, díky, díky. A já myslela, že tak hodní lidi existujou jenom ve snech. Jseš nejlepší. Ještě jednou díky. Počkej, nechceš si to ještě jednou rozdat? Budeš to mít zadarmo.}
+{152}{}{Ach, díky, díky. A já myslela, že tak hodní lidi existujou jenom ve snech. Jseš nejlepší. Ještě jednou díky.
+Počkej, nechceš si to ještě jednou rozdat? Na účet podniku?}
 {153}{}{No, proč ne, Fannie. Rád tvou nabídku přijmu.}
 {154}{}{To opravdu není nutné, Fannie. Raději běž použít ty peníze, abys konečně skončila s tímhle životem. Sbohem.}
 {155}{}{On by opravdu chtěl, ale stěží vychází ze svýho hornickýho platu. Pořád doufáme, že se mu podaří najít pořádný ložisko zlata, ale zatím nic. A navíc na něj minulej tejden spadl trám a zlomil mu nohu, takže teď nemůže pracovat. Musím mu teď dávat těch pár peněz, co našetřím, než se uzdraví.}

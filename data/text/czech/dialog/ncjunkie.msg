@@ -128,7 +128,7 @@
 {373}{}{Kvůli Jetu budu i pracovat...}
 {380}{}{Hej, brácho? Pomůžeš mi lítat?}
 {381}{}{Udělám cokoliv budeš chtít pro pár drobnejch. Nebo Jet, jestli máš.}
-{382}{}{Nechceš se se mnou proletět?}
+{382}{}{Potřebuješ někoho, s kým by ses mohl sjet?}
 {383}{}{Tati?}
 {384}{}{Kámo, potřebuju se *proletět*, jestli mi rozumíš.}
 {385}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
@@ -157,7 +157,7 @@
 {423}{}{Jsem levnější než rodinný kurvy. Ale, eh, neříkej o mně, že jim beru kšefty.}
 {424}{}{Pro peníze udělám cokoliv... nebo pro Jet, jestli máš.}
 {425}{}{Bejvala jsem královna krásy v Renu. A ještě pořád jsem hezká...}
-{426}{}{Nechceš se se mnou proletět?}
+{426}{}{Potřebuješ někoho, s kým by ses mohl sjet?}
 {427}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {428}{}{Tati?}
 {429}{}{Psssst. Můžeš mi sehnat trochu Jetu?}
@@ -216,7 +216,7 @@
 {502}{}{Proč jste dva? To je tvoje dvojče?}
 {503}{}{Co? Ty jseš opravdovej gangster?}
 {504}{}{Gangstere, já jsem tak sjetej, že... eh, co jsem to říkal?}
-{505}{}{Nechceš se se mnou proletět, gangstere?}
+{505}{}{Nechceš se se mnou proletět, bandito?}
 {506}{}{Chceš se proletět, gangstere? Tak si promluv s Juuuulesem.}
 {507}{}{Pořezanej Jimmy J ti píchne, jestli mi rozumíš.}
 {508}{}{Jestli vybíráš pro Renesca, řekni mu, že zaplatím zítra.}

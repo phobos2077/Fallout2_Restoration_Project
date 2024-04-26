@@ -116,7 +116,7 @@
 {391}{}{Kde posiluješ?}
 {392}{}{Bacha na Ždímačku. Chutnají mu uši.}
 {393}{}{Koupil bych ti drink, ale přišel jsem o všechny peníze, když jsem vsadil na tvýho protivníka.}
-{394}{}{Chceš se se mnou muchlovat?}
+{394}{}{Chceš se pomuchlovat?}
 {395}{}{Nevypadáš zas až tak drsně, paní Levej Hák.}
 {396}{}{Můžu vidět tvoje zatnutý břišní svaly?}
 {400}{}{Slyšel jsem, že se po tobě ptala paní Bishopová. Dej si pozor, kámo.}

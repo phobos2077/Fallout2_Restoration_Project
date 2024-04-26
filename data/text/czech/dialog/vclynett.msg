@@ -264,7 +264,8 @@
 {363}{}{Vezmu si ten problém na starost. Vrátím se, až tu situaci... "vyřeším."}
 {364}{}{Vypadá to, že prokazují světu velikou službu. Najděte si jiného "venkovana" na vaši špinavou práci.}
 {365}{}{Dejte mi chvíli na rozmyšlenou. Ještě se vrátím.}
-{366}{lyn050}{Tak dobrá, ukažte mi je... jsou... jsou pravé! Neuvěřitelné... vy jste přeživší jedinec z jiného Vaultu! Vítejte v našem městě... pustina vás zcela jistě vysílila.}
+{366}{lyn050}{Tak dobrá, ukažte mi je... jsou... jsou pravé! Neuvěřitelné... vy jste přeživší jedinec z jiného Vaultu!
+Vítejte v našem městě... pustina vás zcela jistě vysílila.}
 {367}{}{Musím najít Vault, ze kterého pocházejí mí předkové.}
 {368}{}{Potřebuju GECK. Nemáte jeden?}
 {369}{}{Aha, takže teď už mě ve vašem městě vítáte, jo? Zapomeňte na to... padám odsud.}

@@ -64,7 +64,7 @@
 {335}{}{Já MAFIÁN. Já VELKÁ chlap v REEnu.}
 {336}{}{Jak může někdo někoho DOOPRAVDY znát, Jimmy? Lze něčeho takového vůbec dosáhnout na tomhle hrozném světě? Nebo je to možné až tehdy, když se osvobodíme od svých fyzických těl?}
 {337}{}{Já CHTÍT mluvit ale ty mě NENECHAT já NASKLE.}
-{338}{}{No, podařilo se mi zastavit plány Enklávy na zabití všech lidí na tomhle světě, porazit Prezidenta, vyhodit do vzduchu jejich základnu a jen tak tak uniknout smrti.}
+{338}{}{No, podařilo se mi zastavit plány Enklávy na zabití všech lidí na tomhle světě, porazit Prezidenta, vyhodit do vzduchu jejich základnu a ztěží uniknout smrti.}
 {339}{}{Možná mě znáš z boxerského ringu.}
 {340}{}{Možná mě znáš z nějakého filmu. Slyšel jsi o }
 {341}{}{Jsem blízký přítel rodiny }

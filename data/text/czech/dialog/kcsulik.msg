@@ -80,7 +80,7 @@
 {268}{slk17b}{Dědek Kostěj říkati my opustiti tahle místa.}
 {270}{slk18a}{My a já už býti na hodně špatná místech. Tohle býti horší.}
 {271}{slk18b}{Dědek Kostěj říkati tohleto býti špatná místo. Když on mluviti, já a my třeba naslouchati.}
-{280}{slk21}{Ségra jíti kšefty kšefty do jiná vesnice a nikdy nevrátiti zpět. My a já jdeme ji hledati.}
+{280}{slk21}{Ségra jíti za obchod do jiná vesnice a nikdy nevrátiti zpět. My a já jdeme ji hledati.}
 {281}{}{A co jsi zjistil?}
 {290}{slk22}{My a já věděti o otrokářách v Den. Až býti volni, podívati se tam.}
 {291}{}{Pověz mi o něčem jiném.}
@@ -140,7 +140,7 @@
 {482}{slk27nc}{Ten, co tlačiti velká ocelová stroma na oblohu, museti kmena tvého pohoupati.}
 {483}{slk27nd}{Tví lidé míti cena větší než tmavá zlata. Starati se o ně péčí ne menší.}
 {490}{}{Ti, kdož se jako duchová tvářiti, ale oni nebýti, oni tajemství mnoho míti.}
-{491}{}{Jako cibule zde mnoho mnoho vrstev, většina skrytých.}
+{491}{}{Jako cibule zde mnoho, mnoho vrstev, většina skrytých.}
 {492}{}{Zvedací stroj možno dostati ty na neočekávaná místa.}
 {500}{slk27pa}{Duchové viděti stín, který vrhati tvého stín sem z dřívějška.}
 {501}{slk27pb}{Tam býti nebezpečná osoby.}

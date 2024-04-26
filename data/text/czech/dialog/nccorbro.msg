@@ -227,7 +227,7 @@
 {769}{}{Ty nejsi můj šéf! Já chci šukat, je to moje veliká vagína, takže každej se TEĎ kurva připraví na natáčení.}
 {770}{}{Tak dobře. Vrátím se až, eh, až trochu vystřízlivým.}
 {780}{}{Korsičtí bratři, k vašim službám... (Znechuceně zvedne hlavu a poté se podívá ještě jednou.) A dopr...}
-{781}{}{Práce! Práce!}
+{781}{}{Jsem pro! Jsem pro!}
 {782}{}{Nic.}
 {783}{}{Co je tohle za místo?}
 {784}{}{Můžeš mi říct něco o tomhle studiu?}
