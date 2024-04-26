@@ -190,5 +190,5 @@
 {289}{}{A potom?}
 {290}{hak122}{Příliš mnoho let a příliš mnoho zranění, Vyvolený. Teď mě musíš poslouchat.}
 {291}{}{Tak dobře.}
-{300}{}{Ti, kteří kradou, nesou těžké břímě. Pamatuj na to, Vyvolený.}
-{301}{}{Nyní musíš zaplatit za své hříchy, Vyvolený.}
+{300}{}{Ti, kdo kradou, nesou velké břímě. Pamatuj si to, Vyvolený.}
+{301}{}{Nyní musíš pykat za své hříchy, Vyvolený.}

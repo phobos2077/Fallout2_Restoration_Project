@@ -1,4 +1,4 @@
-{100}{}{Vidíš drogového závisláka.}
+{100}{}{Vidíš závisláka.}
 {110}{}{Vidíš zfetovanou děvku.}
 {111}{}{Vidíš jednu z Tubbyho zfetovaných děvek.}
 {150}{}{Vypadá jako Tubbyho kamarád.}

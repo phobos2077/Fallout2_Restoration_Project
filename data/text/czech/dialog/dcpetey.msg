@@ -1,4 +1,4 @@
-{100}{}{Vidíš drogového závisláka.}
+{100}{}{Vidíš závisláka.}
 {101}{}{Vidíš Peteyho.}
 {150}{}{Je to chudý drogový závislák.}
 {151}{}{Tady Petey by potřeboval píchnout.}
