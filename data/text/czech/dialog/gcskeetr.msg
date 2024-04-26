@@ -153,10 +153,7 @@
 {627}{}{To je na mě moc drahé. Vrátím se, až budu mít víc peněz.}
 {630}{}{Chceš trochu posílit zbraň na boj zblízka? Můžu ji *vylepšit* za $}
 {631}{}{Jasně.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{(Skeeter vezme předmět a prozkoumá jej s podivným zábleskem v oku.) No, nebude to jednoduchý, ale myslím, že to nějak zvládnu. Na chvilku si tady v klidu sedni. (Skeeter vezme zbraň ke svému ponku a upne ji do obrovského svěráku.)}
 {641}{}{Dobře.}
 {650}{}{(Během čekání se díváš na Skeeterova záda, zatímco on pracuje na tvé zbrani. Nevíš přesně co dělá, ale jeho divný smích a podupávání tě znervózňuje.)}
 {651}{}{Čekat...}

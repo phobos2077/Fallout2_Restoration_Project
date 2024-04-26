@@ -115,7 +115,7 @@
 {215}{}{Pan Smith}
 {216}{}{Skeeve}
 {217}{}{Prokonzul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Zdravotnice Phyllis}
 {219}{}{Randal}
 {220}{}{Mazlavá hmota}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Vlk}
 {444}{}{Generátor}
 {445}{}{Dveře}
-{446}{}{Super mutant}
+{446}{}{Supermutant}
 {447}{}{Salvatorův člověk}
 {448}{}{Bishopův člověk}
 {449}{}{Mordinův člověk}
@@ -416,7 +416,7 @@
 {516}{}{Monte "Tři karty"}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bishop's Bodyguard}
+{519}{}{Bishopova stráž}
 {520}{}{John Bishop}
 {521}{}{Hrací automat}
 {522}{}{Čórkař}
@@ -503,7 +503,7 @@
 {603}{}{Squatter}
 {604}{}{Likvidátor}
 {605}{}{Překupnice s alkoholem}
-{606}{}{Super mutant}
+{606}{}{Supermutant}
 {607}{}{Rybář}
 {608}{}{Otrokář}
 {609}{}{Stopařka}
@@ -889,7 +889,7 @@
 {989}{}{Darrowův sklad}
 {990}{}{Dveře}
 {991}{}{Superhloupý mutant}
-{992}{}{Dr. Jing Tie Gahng}
+{992}{}{Dr. Jing Tie Gahnga}
 {993}{}{Grundel}
 {994}{}{Malý Melchior}
 {995}{}{Oční skener}
@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry the Rocketman}
+{1067}{}{Harry Rakeťák}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Ubytovatel}
 {1156}{}{Stráž}
 {1157}{}{K-9}
-{1158}{}{Doctor Schreber}
+{1158}{}{Doktor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}
 {1161}{}{Stráž}

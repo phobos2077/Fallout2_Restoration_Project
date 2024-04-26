@@ -68,7 +68,7 @@
 {302}{}{B...u...u...bůů?}
 {303}{}{Eh... ne. Je mi líto, to je zcela špatně.}
 {304}{}{::píp písk:: ::klik klak:: ::cvrliky::}
-{305}{}{Správně! Hodný! Hodný chlapec! Tvoje morseovka se rychle zlepšuje.}
+{305}{}{Správně! Hodný chlapec! Hodný chlapec! Tvoje morseovka se rychle zlepšuje.}
 {306}{}{Zjišťuješ, že jsi stejně vnímavý jako radškorpion.}
 {400}{}{Šach-mat ::klik::}
 {401}{}{Cože? Ty jsi podváděl!}

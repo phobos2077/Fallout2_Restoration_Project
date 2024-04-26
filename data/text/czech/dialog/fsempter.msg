@@ -238,7 +238,7 @@ Upozornění! Spojení s centrálním serverem Čínské výzvědné sítě v Pe
                                          Zhroucením aljašské fronty a posílením americké působnosti na domácí půdě
  hrozí porážka. Podle rozhodnutí 636860 Čínské komunistické strany tímto přikazuji všem
  loajálním vojenským silám započít jaderné operace proti Američanům, Misi R. Prioritní cíle jsou
- jsou obsaženy v operačních směrnicích. Nechť se naše duše navrátí na tuto Zem.}
+ obsaženy v operačních směrnicích. Nechť se naše duše navrátí na tuto Zem.}
 {401}{}{::zpět::}
 {410}{}{Od: Centrálního velení                                            Všechny jednotky na pozicích. Přenáším poslední potvrzovací
  kódy. Operace Youmíng má zelenou.}

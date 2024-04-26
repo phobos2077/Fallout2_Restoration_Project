@@ -54,7 +54,7 @@
 {274}{}{Co se týče té práce...}
 {275}{}{Nemáte pro mě nějakou další práci?}
 {276}{}{Nic. Nashle.}
-{277}{}{Whikí ňam ňam.}
+{277}{}{Whikí mňam ňam.}
 {278}{}{Maky maky?}
 {279}{}{Iho shasha.}
 {280}{}{Ee, pa.}

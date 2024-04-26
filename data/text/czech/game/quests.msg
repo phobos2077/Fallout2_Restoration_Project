@@ -29,7 +29,7 @@
 {403}{}{Jonny se ztratil. Najdi ho a přiveď ho domů k jeho otci Balthasovi.}
 {404}{}{Jonny je v jeskyních Světloplachů. Najdi způsob, jak ho přivést zpět domů k Balthasovi.}
 {405}{}{Farrelovi se přemnožili hlodavci v zahradě. Proveď tam důkladnou deratizaci.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Doruč vzkaz Světloplachů Jo do Modocu.}
 {407}{}{Jo podezírá Světloplachy. Zjisti, jak to bylo s mrtvolami na farmě Duchů a vypátrej, co se stalo s Karlem.}
 {408}{}{Jdi do Denu a řekni Karlovi, že už se může vrátit zpět domů.}
 {409}{}{Ohlídej Grishamovy brahmíny.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Přines součástky/Získej vstup do Vaultu 15.}
 {1101}{}{"Postarej" se o důstojníka Jacka pro Miru.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Dokonči brahmíní okruh.}
+{1103}{}{Získej dokumenty od doktora Henryho.}
+{1104}{}{Otestuj mutagenní sérum na supermutantovi. Zkus to v Broken Hills.}
 {1105}{}{Zlikviduj Bishopa.}
 {1106}{}{Doruč Westinův holodisk Lynette do Vault City.}
 {1107}{}{Získej od Rangerů v NCR mapu pro otrokáře Vortise.}
 {1108}{}{Osvoboď pro Rangery otroky v ohradě otrokářů.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Doruč Hubologistovu zprávu AHS-9 do San Francisca.}
 {1110}{}{Zabij pro Merka Hubologistu.}
 {1111}{}{Zastav krádeže brahmín.}
 {1112}{}{Vyhlaď úkryty Rangerů na severu pro otrokáře Vortise.}
@@ -119,7 +119,7 @@
 {1511}{}{Najdi Badgerovu přítelkyni, která se ztratila v podpalubí tankeru.}
 {1512}{}{Dragon po tobě chce odstranit Lo Pana - v boji beze zbraně.}
 {1513}{}{Lo Pan po tobě chce odstranit Dragona - nejlépe v boji beze zbraně, pokud to bude možné.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Získej zpět Chipovu slezinu.}
 {1515}{}{Získej od Crocketta tvrzenou energo zbroj.}
 {1516}{}{Přines Bratrstvu Oceli konstrukční plány vertibirdu.}
 {1517}{}{Vyřaď z provozu ponorku Shi, která ohrožuje tanker.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Zachraň Chrissy.}
 {3201}{}{Zabij Dariona.}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Sjednej spojenectví s NCR.}
+{3203}{}{Odevzdej holodisk o špionovi nejvyšším autoritám v NCR.}

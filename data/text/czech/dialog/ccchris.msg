@@ -115,7 +115,7 @@
 {214}{}{Vypadáš povědomě. Myslím, že už jsem tě někde viděl... ale ne, to není možné.}
 {215}{}{Vetřelec na stanici! Pošlete pomoc!}
 {216}{}{Poplach!}
-{217}{}{Poplach! Poplach!}
+{217}{}{Poplach, vetřelec! Poplach, vetřelec!}
 {218}{}{Chcípni, skunku!}
 {219}{}{Za tvoji smrt mě Enkláva povýší!}
 {220}{}{Chcípni, primitive!}

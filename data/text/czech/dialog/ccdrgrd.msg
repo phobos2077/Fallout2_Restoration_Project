@@ -24,7 +24,7 @@
 {123}{}{Odcházím.}
 {124}{}{Pane, tohle je poslední varování. Musím vás požádat, abyste opustil tuto zónu.}
 {125}{}{Dobře.}
-{126}{}{Hm... já na to srát. Já prostřílet cesta dovnitř. Bum. Bum.}
+{126}{}{Hm... já na to srát. Já prostřílet cesta dovnitř.}
 {127}{}{Seru na tebe. Když to nejde po dobrým, tak si cestu prostřílím.}
 {128}{}{Co? Jo tak, už rozumím. Něco jsi pohnojil a tak ti dal Dornan na starost úklid.}
 {129}{}{Jo... já pohnojit... on se zlobit... a teď muset uklízet ee věci!}

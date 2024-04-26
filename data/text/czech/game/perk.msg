@@ -120,7 +120,7 @@
 {220}{}{Alkoholik}
 {221}{}{Kuřák}
 {1101}{}{Všímáš si více detailů o lidech kolem tebe. Když někoho prozkoumáš, díky perku "Všímavost" se o něm dozvíš více podrobnějších informací. Zjistíš čím je ozbrojen i přesný počet jeho hit bodů.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
+{1102}{}{Buď jsi studoval tajná bojová umění Východu nebo prostě jen dokážeš udeřit rychleji. V každém případě tě tvoje údery při boji zblízka stojí o 1 akční bod méně.}
 {1103}{}{Tvoje zkušenosti v boji zblízka z tebe udělaly pěkně ostrého protivníka. Za každý stupeň tohoto perku způsobíš soupeři při boji beze zbraně a při boji s chladnými zbraněmi o 2 body poškození navíc.}
 {1104}{}{Za každý stupeň tohoto perku dostaneš ve svém tahu o 2 akční body víc. Tyto body ale mohou být využity pouze pro pohyb. Jinými slovy, za každou úroveň tohoto perku se ve svém tahu budeš moci pohnout o 2 hexy navíc.}
 {1105}{}{Tvůj trénink se zbraněmi v boji na dlouhou vzdálenost z tebe dělá smrtelně nebezpečného protivníka. Za každou úroveň tohoto perku způsobíš o 2 body poškození navíc.}
@@ -161,7 +161,7 @@
 {1140}{}{Pověst, která tě provází, působí na ostatní vždycky pozitivně. Máš-li vysoce zápornou reputaci, pak to bez tohoto perku vyvolává u "klaďasů" nepřátelské reakce. To samé samozřejmě platí o vlivu kladné reputace na "záporáky".}
 {1141}{}{Máš talent nacházet mnohem víc nábojů než ostatní. Tento perk zdvojnásobuje množství munice, kterou najdeš v náhodných lokacích.}
 {1142}{}{Posláním Průzkumníka je pátrat po nových a zajímavých místech. S tímto perkem máš daleko větší šanci najít speciální postavy a lokace.}
-{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
+{1143}{}{S tímto perkem máš menší pravděpodobnost, že se staneš závislým na drogách. Přesněji řečeno o 50%. Rovněž abstinenční příznaky trvají jen polovinu doby než u ostatních.}
 {1144}{}{Máš-li při svém dobrodružství Průvodce, najdeš vždy tu nejkratší cestu. S tímto perkem se tvůj cestovní čas po mapě světa Falloutu snižuje o 25% za každou jeho úroveň.}
 {1145}{}{Zvířata neútočí na jednoho ze svých přátel. Leda v případě jsou-li napadena nebo ohrožena jako první. Co ale je a co není zvíře v tomhle apokalyptickém světě, to je otázka na delší diskusi.}
 {1146}{}{Získal jsi schopnost dohlédnout i na vzdálenější lokace. Při svých cestách po mapě Falloutu odkrýváš v každém směru o jeden čtverec navíc. Máš rovněž větší šanci najít speciální lokace.}
@@ -195,8 +195,8 @@
 {1174}{}{Víš, jak správně stáhnout geckona, aby se nepoškodila jeho kůže.}
 {1175}{}{Pro zvýšení své odolnosti vůči fyzickému útoku máš voperovány podkožní implantáty.}
 {1176}{}{Pro zvýšení své odolnosti vůči fyzickému útoku máš voperovány zesílené podkožní implantáty.}
-{1177}{}{You have inherent protection against thermal attacks.}
-{1178}{}{You have extra inherent protection against thermal attacks.}
+{1177}{}{Pro zvýšení své odolnosti vůči tepelnému útoku máš voperovány podkožní implantáty.}
+{1178}{}{Pro zvýšení své odolnosti vůči tepelnému útoku máš voperovány zesílené podkožní implantáty.}
 {1179}{}{Získáváš +10% odolnost vůči jedům a radiaci.}
 {1180}{}{S tímto perkem získáváš +1 SÍLA, kdykoliv klesneš pod 1/2 svého maxima hit bodů.}
 {1181}{}{Jsi velmi opatrný a nepřátelé se k tobě nemohou nepozorovaně přiblížit. S tímto perkem získáš +3 ke svému VNÍMÁNÍ v náhodných setkáních, když se rozhoduje o rozmístění protivníků.}

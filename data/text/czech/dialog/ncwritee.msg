@@ -58,7 +58,7 @@
 {299}{}{Ať si ten tvůj mutant radši dává bacha, jasný?}
 {305}{}{Co chceš?}
 {306}{}{Potřebuješ něco?}
-{307}{}{Damn hot...}
+{307}{}{Zatracené vedro...}
 {308}{}{New Reno je každým dnem hroznější a hroznější..}
 {309}{}{Co tady děláš?}
 {310}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
@@ -78,7 +78,7 @@
 {340}{}{Táta říkal, že jestli se někdo z nás jenom dotkne Jetu, uškrtí nás.}
 {341}{}{Táta je pořád naštvanej, tak si dej pozor, až s ním budeš mluvit, slyšíš?}
 {342}{}{Chris dostane výprask, jestli bude pořád tajně chodit do bordelu.}
-{343}{}{Damn hot...}
+{343}{}{Zatracené vedro...}
 {344}{}{Kde je ta máma? Jestli ji náhodou uvidíš, neříkej jí nic o destilačce, jasný?}
 {345}{}{Keith minulej tejden rozebral piáno a pak ho zase složil dohromady. Chytrej kluk.}
 {346}{}{Za pár dní zase půjdeme lovit radškorpiony.}
@@ -103,7 +103,7 @@
 {368}{}{Táta říkal, že jestli se někdo z nás jenom dotkne Jetu, uškrtí nás.}
 {369}{}{Táta je pořád naštvanej, tak si dej pozor, až s ním budeš mluvit, slyšíš?}
 {370}{}{Chris dostane výprask, jestli bude pořád tajně chodit do bordelu.}
-{371}{}{Damn hot...}
+{371}{}{Zatracené vedro...}
 {372}{}{Keith minulej tejden rozebral piáno a pak ho zase složil dohromady. Chytrej kluk.}
 {373}{}{Za pár dní zase půjdeme lovit radškorpiony.}
 {374}{}{OPRAVDU mluvíš s bohem, když máš sex na place?}

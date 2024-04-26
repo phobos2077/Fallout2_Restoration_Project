@@ -6,7 +6,7 @@
 {105}{}{Samozřejmě.}
 {106}{}{Musím si to ještě promyslet.}
 {107}{aeld2a}{Jsem na tebe pyšná, Vyvolený. Jen odvážní dokážou překročit svůj vlastní stín. A teď k věci. Musíš najít Vault 13. Vault 13. Přines nám GECK. GECK. Tady máš blýskavou láhev. Dal nám ji Vic. Vic. Je to obchodník z Klamathu. Klamath. Jdi za Vicem. Najdi Vault 13. Najdi GECK. Přines ho sem. Snaž se, dítě.}
-{112}{aeld2b}{Musíš najít Vault. Najít Vault! Vault 13.}
+{112}{aeld2b}{Nenašel jsi Vault. Najít Vault! Vault 13.}
 {113}{}{Eh.}
 {114}{aeld3}{Vyvolený, chceš snad, abychom všichni zemřeli? Musíš najít ten Vault!}
 {115}{}{Omlouvám se, Starší. Nezklamu vás.}

@@ -47,7 +47,7 @@
 {185}{}{T-tvůj p-přítel je zraněný. D-dám ho d-dokupy za $30. P-pořebuju ty p-peníze na m-materiál.}
 {186}{}{Lidi, co jste d-dělali? V-vypadá to, že byste opravdu p-potřebovali vyléčit. Uzdravení všech tě b-bude stát $60.}
 {187}{}{Tvůj p-přítel je podle mě v pořádku.}
-{190}{}{M-mno, ve skutečnosti jsem se se Z-Zakladatelem a jeho partou přímo osobně n-nesetkal. Ale viděl jsem je. Jednou. }
+{190}{}{M-mno, ve skutečnosti jsem se se Z-zakladatelem a jeho partou přímo osobně n-nesetkal. Ale viděl jsem je. Jednou. }
 {191}{}{Ty jsi viděl Zakladatele? Kde?}
 {192}{}{Aha, chápu. No, musím někam jít, něco zabít. Sbohem.}
 {200}{}{No, p-před v-válkou jsem b-byl doktor.}

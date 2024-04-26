@@ -8,7 +8,7 @@
 {300}{}{Nech mě hádat. Je to ta součástka, kterou jsem si vyžádal, že?}
 {301}{}{Ano, tady ji máš.}
 {302}{}{Ne, jenom tě zkouším.}
-{303}{}{(Vezme si od tebe součástku.) Konečně! Konečně teď můžeme opravit tuto tiskárnu. Děkuji. Za odměnu si vezmi tuto příručku k přežití.}
+{303}{}{(Vezme si od tebe součástku.) Konečně! Teď můžeme opravit tuto tiskárnu. Děkuj, vezmi si za odměnu tuto příručku k přežití.}
 {304}{}{Díky.}
 {305}{}{Podívej, na tohle nemám čas. Máš tu součástku nebo ne?}
 {306}{}{Jo, mám ji.}

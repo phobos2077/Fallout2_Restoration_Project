@@ -77,7 +77,7 @@
 {3900}{}{Mikro-fúzní článek}
 {3901}{}{Středně veliká jednotka na výrobu energie. V podstatě miniaturní fúzní elektrárna.}
 {4000}{}{Stimpak}
-{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
+{4001}{}{Léčící prostředek. Po aplikaci okamžitě vyléčí drobná zranění.}
 {4100}{}{Peníze}
 {4101}{}{Legální platidlo postapokalyptického světa.}
 {4200}{}{Lednička}
@@ -103,7 +103,7 @@
 {5200}{}{Geigerův počítač}
 {5201}{}{Geiger-Müllerův detektor radioaktivních částic. Model Wattz Electronics C-Radz. Detekuje přítomnost a množství radioaktivních částic.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Krabička s drogou pozměňujících mozkové procesy. Zlepšuje paměť a urychluje veškeré nervové procesy. Vysoce návykové.}
 {5400}{}{Mizík}
 {5401}{}{Osobní zneviditelňovací zařízení RobCo Mizík 3001. Generuje modulující pole, které přenáší odražené světlo z jedné strany objektu na druhou. Je zapnutý.}
 {5500}{}{Vodní čip}
@@ -159,7 +159,7 @@
 {8000}{}{Příručka první pomoci}
 {8001}{}{Skripta popisující zásady první pomoci včetně praktických ukázek.}
 {8100}{}{Leguán na špejli}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Leguán opečený ve vlastní kůži.}
 {8200}{}{Klíč}
 {8201}{}{Klíč. Určitě pasuje do nějakého zámku.}
 {8300}{}{Svazek klíčů}
@@ -179,7 +179,7 @@
 {9000}{}{Batoh}
 {9001}{}{Batoh s několika kapsami.}
 {9100}{}{Doktorský kufřík}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Tato hnědá brašna obsahuje nástroje a léky, které doktoři používají při výkonu svého povolání.}
 {9200}{}{Radškorpioní ocas}
 {9201}{}{Oddělený ocas z radškorpiona.}
 {9300}{}{Vak}
@@ -191,7 +191,7 @@
 {9600}{}{Červená přístup. karta}
 {9601}{}{Bezpečnostní elektronický klíč označený červenou barvou.}
 {9700}{}{Modrá přístupová karta}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Elektronický bezpečnostní klíč označený modrou barvou.}
 {9800}{}{Haraburdí}
 {9801}{}{Haraburdí. Ode všeho trochu.}
 {9900}{}{Zlatý přívěsek}
@@ -215,7 +215,7 @@
 {10800}{}{Kosti}
 {10801}{}{Hromádka podivných kostí.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Anti-radiační přípravek určený k aplikaci před ozářením. Bez známých vedlejších účinků.}
 {11000}{}{Psycho}
 {11001}{}{Prostředek s unikátním aplikačním systémem obsahujícím neznámé chemikálie pravděpodobně vojenského původu. Všeobecně se má za to, že jeho použití zvyšuje bojové schopnosti vojáků.}
 {11100}{}{.44 magnum FMJ}
@@ -377,19 +377,19 @@
 {18900}{}{Skříňka}
 {18901}{}{Skříňka.}
 {19000}{}{FEV disk}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Holopáska obsahující lékařské záznamy. Lze z ní stáhnout informace do tvého Pip-Boye.}
 {19100}{}{Bezpečnostní disk}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Holopáska s nápisem "Bezpečnostní záznamy". Lze použít ke stažení dat do tvého Pip-Boye.}
 {19200}{}{Experiment Alpha disk}
 {19201}{}{Na holopásce stojí: "Záznam experimentu Alpha"}
 {19300}{}{Experiment Delta disk}
 {19301}{}{Na holopásce stojí: "Záznam experimentu Delta"}
 {19400}{}{Disk s experimenty Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Tato holopáska byla doplněna o nejnovější lékařské záznamy od Vree z Bratrstva Oceli. Dá se použít ke stažení informací do tvého Pip-Boye.}
 {19500}{}{Sbírka zákonů Bratrstva}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Holopáska s nahrubo vyrytým symbolem Bratrstva Oceli. Použij ji ke stažení informací do svého Pip-Boye.}
 {19600}{}{Vysílání mutantů}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Tato holopáska byla nejspíše nastavena tak, aby nahrávala zvuk z radiové komunikace. Použij ji ke stažení informací do tvého Pip-Boye.}
 {19700}{}{Bedna}
 {19800}{}{Bedna}
 {19900}{}{Bedna}
@@ -419,7 +419,7 @@
 {21400}{}{Stůl}
 {21401}{}{Stůl. Po bližším prozkoumání dojdeš k závěru, že je to opravdu jenom stůl.}
 {21500}{}{Historie Bratrstva}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Holopáska obsahující informace o Bratrstvu Oceli. Dá se použít ke stažení informací do tvého Pip-Boye 2000.}
 {21600}{}{Maxsonova historie}
 {21700}{}{Maxsonův deník}
 {21800}{}{Malé léčení}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Velmi účinný metamfetamin, který stimuluje centrální nervový systém. Počáteční euforie odezní již po několika minutách, ale během této doby je konzument naplněn přívalem síly a energie.}
 {26000}{}{Protilátka na Jet}
-{26001}{}{This antidote cures the Jet addiction.}
+{26001}{}{Tato protilátka dokáže vyléčit závislost na Jetu.}
 {26100}{}{Jonnyho vzduchovka}
 {26101}{}{Vzduchovka značky Red Ryder. Na pažbě je vyškrábané jméno 'Jonny'. Min. SÍ: 3.}
 {26200}{}{Gumové holínky}
@@ -795,7 +795,7 @@
 {40800}{}{Souprava první pomoci}
 {40801}{}{Malá souprava obsahující základní lékařské vybavení. Obinadla, náplasti, dezinfekční prostředky apod.}
 {40900}{}{Záchranářská brašna}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Tato brašna obsahuje nástroje a přípravky používané záchranáři v terénu. Obsažené nástroje jsou speciálně navrženy pro těžké úrazy a akutní případy.}
 {41000}{}{Rozšířená sada paklíčů}
 {41001}{}{Sada zámečnických nástrojů. Obsahuje paklíče a šperháky potřebné k otevření všech klasických i dozických zámků. Tato sada navíc obsahuje speciální nářadí pro zdolání složitějších mechanických zámků.}
 {41100}{}{Elektronický paklíč MKII}
@@ -917,10 +917,10 @@
 {46901}{}{Velmi silný likér nebo čistící prostředek. Vyber si.}
 {47000}{}{Roubík}
 {47001}{}{Pochybná sexuální pomůcka. Raději ani nechtěj vědět, k čemu se to používá.}
-{47100}{}{"The Lavender Flower"}
+{47100}{}{"Levandule"}
 {47101}{}{Nějaká romantická novela napsaná Dorothy Rixonovou. Na obalu je žena ležící na posteli obsypána stovkami květin.}
 {47200}{}{Hubologistický Holodisk}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{Na štítku tohoto holodisku stojí: "Hubologie: Pravda mezi horami lží". Vypadá to, že by mohl být kompatibilní s tvým Pip-Boyem.}
 {47300}{}{Zmutovaný prst}
 {47301}{}{Vidíš svůj šestý prst. Je to malá zmutovaná část tvého já. Když se tak díváš na ten malý amputovaný prst, máš z nějakého důvodu pocit hrozné ztráty.}
 {47400}{}{Petůnie}
@@ -934,7 +934,7 @@
 {47800}{}{Holodisk mise Sierra}
 {47801}{}{Na štítku stojí: "Zpráva o misi."}
 {47900}{}{Součástky NavCom}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Toto jsou počítačové součástky, které nejspíš patří dovnitř nějakého stroje. Fakt, že je na nich napsáno "Poseidon Oil" a "Navigační počítač" tě vede k závěru, že jsou určeny pro navigační počítač společnosti Poseidon Oil.}
 {48000}{}{Bonus +1 Hbitost}
 {48100}{}{Bonus +1 Inteligence}
 {48200}{}{Bonus +1 Síla}

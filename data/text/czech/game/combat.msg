@@ -99,12 +99,12 @@
 {420}{}{náhodně zasáhla}
 {421}{}{jedna z jejích končetin byla zmrzačena}
 {422}{}{byla zasypána střepinami}
-{506}{}{You}
-{509}{}{Jejda! %s Byla jsi kriticky zasažena namísto cíle: %s!}
-{511}{}{%sByla jsi kriticky zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{512}{}{%sByla jsi zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{513}{}{%sByla jsi zasažena a ztratila jsi %d hit bodů}
-{514}{}{%s kriticky minula}
+{506}{}{Ty}
+{509}{}{Jejda! Kritický zásah: %s namísto cíle: %s!}
+{511}{}{Kritický zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{512}{}{Zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{513}{}{Cíl %s byl zasažen a ztratil %d HP}
+{514}{}{%s critically missed}
 {515}{}{%s minula}
 {520}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
 {521}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
@@ -117,12 +117,12 @@
 {528}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění}
 {533}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
 {534}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
-{556}{}{You}
-{559}{}{Jejda! %s Byla jsi kriticky zasažena namísto cíle: %s!}
-{561}{}{%sByla jsi kriticky zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{562}{}{%sByla jsi zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{563}{}{%sByla jsi zasažena a ztratila jsi %d hit bodů}
-{564}{}{%s kriticky minula}
+{556}{}{Ty}
+{559}{}{Jejda! Kritický zásah: %s namísto cíle: %s!}
+{561}{}{Kritický zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{562}{}{Zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{563}{}{Cíl %s byl zasažen a ztratil %d HP}
+{564}{}{%s critically missed}
 {565}{}{%s minula}
 {570}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
 {571}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
@@ -140,7 +140,7 @@
 {611}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {612}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {613}{}{%s byla zasažena a ztratila %d hit bodů}
-{614}{}{%s kriticky minula}
+{614}{}{%s critically missed}
 {615}{}{%s minula}
 {620}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
 {621}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
@@ -158,7 +158,7 @@
 {711}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {712}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {713}{}{%s byla zasažena a ztratila %d hit bodů}
-{714}{}{%s kriticky minula}
+{714}{}{%s critically missed}
 {715}{}{%s minula}
 {720}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
 {721}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
@@ -495,9 +495,9 @@
 {2036}{}{oči}
 {2037}{}{křídla}
 {2038}{}{uncalled}
-{5000}{}{ a ošklivě ji to zabolelo}
-{5001}{}{. Serious pain is inflicted.}
-{5002}{}{, protože na sobě nemá zbroj}
+{5000}{}{. Tohle docela ublížilo.}
+{5001}{}{. Zásah způsobil vážné zranění}
+{5002}{}{ , protože na sobě nemá zbroj}
 {5003}{}{. Drtivá rána ho zcela omráčila}
 {5004}{}{. Rána ho srazila na zem}
 {5005}{}{. Silná rána do hlavy ho úplně knokautovala}
@@ -533,7 +533,7 @@
 {5035}{}{. Zlomil se v pase, upadl na zem a začal chroptět v agónii}
 {5036}{}{. Bolest ze zranění byla tak silná, že se zhroutil jako panák z hadrů}
 {5037}{}{. Zamumlal "Mami" a jeho oči se pomalu obrátily v sloup}
-{5100}{}{ a ošklivě ji to zabolelo}
+{5100}{}{. Tohle docela ublížilo.}
 {5101}{}{. Serious pain is inflicted}
 {5102}{}{, protože na sobě nemá zbroj}
 {5103}{}{. Drtivá rána ji zcela omráčila}

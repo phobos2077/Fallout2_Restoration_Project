@@ -22,7 +22,7 @@
 {169}{}{Poslyš, koupím ho od tebe.}
 {170}{}{Dej mi ho, nebo se k ní připojíš.}
 {171}{}{Když ho teď nevrátíš, tak tě bude pronásledovat. A ji nikdo nezastaví.}
-{172}{}{Cože? No jasně, jasně. Na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
+{172}{}{Cože? No jasně, jasně. N-na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
 {173}{}{Dobře, tady jsou peníze.}
 {174}{}{Tady máš $20 a buď rád, že si ho nevezmu z tvojí mrtvoly.}
 {175}{}{No, vlastně jsem si to rozmyslel. Zatím.}
