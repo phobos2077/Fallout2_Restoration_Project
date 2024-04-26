@@ -1,2 +1,2 @@
-{100}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u. Thanks for installing!}
-{101}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u. Thanks for installing!}
+{100}{}{Používáte Killapův Fallout 2 Restoration Project v češtině. Verze 2.3.3. Děkujeme za instalaci!}
+{101}{}{Používáte Killapův Fallout 2 Restoration Project v češtině. Verze 2.3.3. Děkujeme za instalaci!}

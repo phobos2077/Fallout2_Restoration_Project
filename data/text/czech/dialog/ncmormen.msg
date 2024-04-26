@@ -46,7 +46,7 @@
 {271}{}{Ten minulej zápas byl úžasnej, chica.}
 {272}{}{Kde posiluješ, hm? Nepotřebuješ pomocníka?}
 {273}{}{Dávej si bacha na Ždímačku. Chutnaj mu uši... je to pěknej zvrhlík.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hej, hej, hej! Buchto, chceš abych ti tu zbraň vzal?}
 {281}{}{Copak, chceš abych tě snad prohledal? No tak, schovej to železo, nebo ti ukážu zač je toho loket.}
 {285}{}{Co se tady sakra plazíš, }
 {290}{}{S takovým tělem se nemáš šanci proplížit kolem Mordina, chica.}

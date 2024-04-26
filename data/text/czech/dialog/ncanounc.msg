@@ -12,7 +12,7 @@
 {124}{}{Když vaše kůže málo "svítí"...}
 {125}{}{Vyberte si Gamma Gulp pivo!}
 {143}{}{...Kočičí Packa!}
-{144}{}{When you got that itch that you NEED to scratch...}
+{144}{}{Když vás svrbí a potřebujete NUTNĚ podrbat...}
 {145}{}{Zajděte do Kočičí Packy!}
 {163}{}{...Lovecké potřeby!}
 {164}{}{Když chcete někoho zabít z bezpečné vzdálenosti...}

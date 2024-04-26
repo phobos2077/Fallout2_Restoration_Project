@@ -42,7 +42,7 @@
 {281}{}{Perfektní byl film "Anální Nikita".}
 {282}{}{Perfektní byl film "Oral Hills 90210".}
 {283}{}{Jsem velkej fanoušek Řiťníků.}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Miluju film "Vault Sex-Teen." Byl hodně inspirující. Naprostý filmový majstrštyk.}
 {285}{}{::Píská::}
 {295}{}{Chceš mít snad náhrobek v Golgotě, otrokáři? Tak tu věc dej pryč.}
 {296}{}{Odlož tu zbraň, otrokáři, nebo si z tebe udělám cvičnej terč.}
@@ -116,7 +116,7 @@
 {391}{}{Kde posiluješ?}
 {392}{}{Bacha na Ždímačku. Chutnají mu uši.}
 {393}{}{Koupil bych ti drink, ale přišel jsem o všechny peníze, když jsem vsadil na tvýho protivníka.}
-{394}{}{Wanna wrestle?}
+{394}{}{Chceš se se mnou muchlovat?}
 {395}{}{Nevypadáš zas až tak drsně, paní Levej Hák.}
 {396}{}{Můžu vidět tvoje zatnutý břišní svaly?}
 {400}{}{Slyšel jsem, že se po tobě ptala paní Bishopová. Dej si pozor, kámo.}

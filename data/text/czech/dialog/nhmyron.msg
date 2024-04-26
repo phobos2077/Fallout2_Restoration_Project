@@ -198,7 +198,7 @@
 {683}{}{Tohle nikam nevede. Zapomeň na to, Myrone.}
 {690}{myn109}{Ježíš. No... když jsem kdysi dávno narazil na Mordiny, pěstovali pejotlový kaktusy a pokoušeli se to prodat turistům jako 'zážitek z Rena.' Taková hovadina.}
 {691}{}{Pokračuj.}
-{692}{}{Forget this. I had some other questions...}
+{692}{}{Zapomeňte na to. Chci se ještě na něco zeptat...}
 {693}{}{Zapomeň na to.}
 {700}{myn110}{Proč zrovna pejotl? Takovej nesmysl. Vždyť to nemá ani poloviční účinek v porovnání třeba se starým dobrým LSD.}
 {701}{}{Eh, no a co ten Jet?}
@@ -261,7 +261,7 @@
 {882}{}{Myrone, ty jsi neuvěřitelný mizera. Zabíjet lidi kvůli testování drog... to je ta největší podlost, jaká existuje.}
 {883}{}{Ty jsi zabil přes sto lidí jen kvůli otestování drogy? Nevyoperovali ti náhodou svědomí už jako malému dítěti?}
 {884}{}{To mi povídej. Ceny otroků jdou pořád nahoru. Kéž by se tak lidé množili rychleji. Nicméně, mám ještě nějaké otázky...}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{Aha. Poslyš, mám ještě nějaké otázky...}
 {886}{}{To už by stačilo, už to nebudu poslouchat.}
 {887}{}{Aha, takže je TO vlastně v pořádku. Už to nebudu poslouchat. Odcházím.}
 {890}{myn128}{Mám se snad podělat kvůli pár otrokům? Hele, museli jsme se přesvědčit, že je Jet pro naše zákazníky bezpečnej.}
@@ -322,7 +322,7 @@
 {1050}{myn145a}{Eh, nejdřív budu potřebovat pár radškorpioních jedových váčků. Ironie, že?}
 {1051}{myn145b}{No, víš, to bych moc rád, krásko, ale potřebuju radškorpioní ocasy.}
 {1052}{}{Můžeš udělat nějaké jiné drogy?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{Zapomeň na to. Mám nějaké otázky...}
 {1060}{myn146a}{Hmmm, to by nemělo bejt moc těžký. Kolik těch lahví chceš?}
 {1061}{myn146b}{Ježišimarjá. Nenapadlo tě někdy, že by bylo lehčí se těm blbejm radškorpionům radši vyhnout, Einsteine? Kolik jich chceš tentokrát?!}
 {1062}{myn146c}{Pro tebe cokoliv, krásko. Hehe. Kolik jich chceš?}
@@ -337,7 +337,7 @@
 {1085}{}{Díky. Mám ještě nějaké otázky...}
 {1086}{}{Díky, Myrone. Jsi opravdový přítel.}
 {1095}{myn148}{Promiň, nemám na to ty "suroviny", který potřebuju... a ani je nechci shánět.}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{Zapomeňte na to. Chci se ještě na něco zeptat...}
 {1098}{}{Dobře. Fakt díky, Myrone.}
 {1105}{myn149a}{To je hračka. Kolik jich chceš?}
 {1106}{myn149b}{Hele, ty Einsteine. Nenapadlo tě někdy, že by bylo lehčí si dávat větší pozor, co? No dobře, kolik?}
@@ -548,7 +548,7 @@
 {1675}{myn240}{Máš fakt spoustu blbejch otázek. Odpověď zní: Jo, možná... hele, o-odkud vlastně tohle všechno víš? Jseš snad z Vault City nebo co?}
 {1676}{}{Odpověď na tvou otázku zní: Jo... MOŽNÁ. A odkud to víš TY?}
 {1677}{}{Ne tak docela. Občas prostě někde něco pochytím. Je to docela jednoduché.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{Aha. Mám ještě nějaké otázky...}
 {1679}{}{Vault City. Kde to je?}
 {1680}{}{Nechám tě hádat. Už jsi mi stejně řekl všechno, co potřebuju vědět.}
 {1685}{myn241a}{Jo, jen buď drzej, chytráku. Cejtím z tebe ty implantáty až tady. Já jsem přírodní. Sám jsem se vypracoval. Nemám v sobě žádný ty 'čistý' sračky z Vault City, chápeš?}

@@ -71,7 +71,7 @@
 {261}{}{Nech mě prosím být, patřím někomu jinýmu.}
 {262}{}{Pomoz mi prosím: hledám dvě děti, s černými vlasy...? Před dvěma lety je odvedli jiní otrokáři na sever.}
 {263}{}{Prosím... nemám dovoleno se s nikým bavit.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Prosím, nech mě být. Můj pán se brzo vrátí.}
 {265}{}{Jestli mě můj pán chytí, zbije mě.}
 {266}{}{Já už mám paní. Nebude ráda, když se se mnou budeš vybavovat.}
 {267}{}{Nemohu s tebou mluvit. Mám povinnosti.}
@@ -88,7 +88,7 @@
 {287}{}{Jestli mě můj pán chytne, jak se s tebou bavím, zbije mě.}
 {288}{}{Můj pán je hodný. Bije mě jenom občas.}
 {289}{}{Rodina mi nechybí. Můj pán je hodný.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{Byl jsem odveden z vesnice, která leží na severu. Život tady je mnohem lepší.}
 {291}{}{Poprvý mě chytili v Denu.}
 {292}{}{Nemohu s vámi mluvit. Musím pracovat.}
 {293}{}{Musím dokončit svý povinnosti, než se vrátí můj pán.}

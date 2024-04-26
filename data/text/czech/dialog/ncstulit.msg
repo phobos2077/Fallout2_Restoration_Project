@@ -45,7 +45,7 @@
 {283}{}{Já jít pryč.}
 {290}{}{(Usměje se.) Tak fajn, domluveno. Jmenuju se Stuart, ale většina lidí mi říká Stuart Malej, protože... no to je jedno. TY potřebuješ vědět jenom to, že jsem důležitej v mnoha věcech. Máš nějaký jméno, blbečku?}
 {291}{}{Já }
-{292}{}{Me... uh... me...}
+{292}{}{Já ... ehmm ... já ... }
 {293}{}{Já Velkej Stu.}
 {296}{}{[Odejít hledat dobrodružství někam jinam]}
 {300}{}{Cože? mě-já-mi? "Mějámi... jo MIAMI!" TO SE MI LÍBÍ. Tak fajn, pojďme nakopat pár zadků.}
@@ -163,7 +163,7 @@
 {530}{}{A proč si myslíš, že jsem někdy vystupoval v cirkusu?}
 {531}{}{Eh... no, spousta lidí v New Renu se chová, jako by byli z cirkusu, takže...}
 {540}{}{Takže si myslíš, že díky mý malý postavě je cirkus jediný místo, kde bych se dokázal prosadit.}
-{541}{}{Uh... well, now...}
+{541}{}{Hmm... no...}
 {550}{}{Stačil JEDINEJ ZBĚŽNEJ pohled a hned si myslíš, že znáš celou moji kariéru. Nikdy by tě nenapadlo, že osoba mojí výšky by mohla mít vynikající kariéru třeba v *Boxerským Managementu*, co?}
 {551}{}{Promiň, neměla to být urážka.}
 {560}{}{Proč bych se měl urážet? Jenom proto, že si každej zvyknul odhadovat každou NPC v týhle hře podle toho, jak vypadá?}
@@ -176,7 +176,7 @@
 {591}{}{A možná by tě i překvapilo kolik mužů.}
 {600}{}{Vzal jsem v úvahu tvou přeplácanou fyzičku, tvý chování typu Já-chci-být-Mad-Maxx, tvoje nesmyslný rozdělení schopností a došel jsem k názoru, že jseš prostě jen obyčejnej nafoukanej moula.}
 {601}{}{Vzal jsme v úvahu tvý přepixelovaný prsa, ten pitomej způsob, kterým chodíš, tvoje nesmyslný rozdělení schopností a došel jsem k závěru, že jseš prostě někdo, kdo chce vypadat líp než Laura Kroft.}
-{602}{}{I...}
+{602}{}{já...}
 {610}{}{Nejseš nic víc než typický 'mužský model RPG hrdiny,' jeden z MNOHA stejných modelů, který zaplňují tenhle svět.}
 {611}{}{Nejseš nic víc než typický 'ženský model RPG hrdinky,' jeden z MNOHA stejných modelů, který zaplňují tenhle svět.}
 {612}{}{No...}

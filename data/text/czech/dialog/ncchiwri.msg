@@ -53,8 +53,7 @@
 {317}{}{Kopnout ho botou, na kterou ti plivl.}
 {318}{}{Odstoupit }
 {319}{}{Nechat to být a odejít. Tentokrát.}
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{No... já... teda, Wrightova rodina... moje rodina... by mohla mít volnej flek. Nic ti neslibuju, ale zajdi do toho baráku na jih odsud, najdi mýho bráchu Keitha a řekni mu, že tě posílám. Jmenuju se Chris. Chris Wright.}
 {326}{}{Eh, Wrightova rodina? To je kdo?}
 {327}{}{Wright, jo? Potkal jsem tvoji matku.}
 {328}{}{Můžeš mi říct, co se stalo tvému bratrovi Richardovi?}
@@ -77,17 +76,16 @@
 {370}{}{Hmm. No, už půjdu.}
 {380}{}{Chodí kolem a káže o hřešení a tak, ale ani neví, co vlastně táta dělá. A nebo to ignoruje.}
 {381}{}{A co tvůj táta dělá?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Dobře, chci se ještě zeptat...}
 {383}{}{Zajímavé. No, já už musím jít.}
 {390}{}{Pálí chlast, prodává kvéry, mlátí lidi, kteří s ním chtějí vymrdat...typický rodinný záležitosti. Matka by byla nasraná, kdyby se dozvěděla, co vlastně děláme. A zvlášť, kdyby našla tuhle palírnu.}
 {391}{}{Jak moc nasraná by byla?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmm. Dobře, chci se ještě zeptat...}
 {393}{}{Zajímavé. No, já už musím jít.}
 {400}{}{Dost na to, aby to tady rozkopala. A pak by nám nadávala a několik dní bysme museli poslouchat její kázání. Hehe.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Zajímavé. Mám ještě nějaké otázky...}
 {402}{}{Hmmmmm. Díky.}
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Rik? No víš, našli ho mrtvýho ve škarpě jako nějakýho feťáka. Myslíme si, že ho někdo pumpoval drogama, dokud neumřel.}
 {411}{}{'Někdo' mu dal moc? Jak víte, že se nepředávkoval sám?}
 {412}{}{Kdo myslíte, že to udělal?}
 {413}{}{To je mi líto. Chci se ještě na něco zeptat...}

@@ -204,6 +204,6 @@
 {1251}{}{. Chci se na něco zeptat ohledně New Rena...}
 {1415}{}{(Překvapeně vyskočí.) Panenko skákavá! (Zamračí se a poté se na tebe pohrdavě podívá.) Taková nestydatost! }
 {1430}{}{(Překvapeně vyskočí.) Božínku! }
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1431}{}{(Zamračí se na tebe a poté její pohled zchladne.) }
 {1480}{}{Vy ji zničíte? Já... no, tak dobře... (Nadechne se.) }
 {1530}{}{. Já už se postarám o to, aby Wrightovic rodina odteď žila čestným a spořádaným životem.}

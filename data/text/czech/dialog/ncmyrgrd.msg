@@ -94,7 +94,7 @@
 {475}{}{Myron tě očekává?}
 {477}{}{Ano. Můžu jít dovnitř? Musíme spolu něco probrat.}
 {478}{}{Ne, teď zrovna ne. Mějte se, chlapi.}
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
+{479}{}{Jasně. Můžu jít dovnitř? Musíme spolu něco "probrat", jestli mi rozumíš. (Mrkneš na hlídače.)}
 {480}{}{Hehe, myslím, že vím. Zkuste tam uvnitř nedělat moc kraválu. (Pro sebe.) Sakra, ten Myron má ale štěstí.}
 {485}{}{Myron tady není.}
 {487}{}{Můžu jít dovnitř?}

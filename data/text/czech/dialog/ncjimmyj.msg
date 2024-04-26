@@ -42,7 +42,7 @@
 {282}{}{PUSŤ JÁ CHTÍT J...}
 {283}{}{No, eh, Jimmyho styl zní sice skvěle, ale já se chci na něco ze...}
 {284}{}{Ne, myslím, že ne...}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Věděl jsem, že se vrátíš, věděl jsem to! Neříkal to snad Pořezanej Jimmy J? Dohlídni na to, aby byli šťastní a oni tě nikdy nezklamou. Takže, můj leteckej kámo... co pro tebe může dneska Pořezanej Jimmy J udělat?}
 {291}{}{Ale, jestlipak to není můj leteckej "kámoš"... POTŘEBUJEŠ snad něco od Pořezanýho Jimma?}
 {292}{}{Eh... já zapomnět co já chtít říct. Já jít.}
 {294}{}{My vyměnit věci? Já RÁD věci.}
@@ -74,7 +74,7 @@
 {360}{}{To je ono! Já VĚDĚL, že jsem tě už někde viděl! Sakra, máš to říct hned a ne aby si s tím musel Jimmy lámat hlavu...?! Co pro tebe můžu udělat?}
 {361}{}{Eh... já zapomnět. Já jít.}
 {363}{}{No, sháním nějaký Jet...}
-{364}{}{Hey, I wanted something else...}
+{364}{}{Počkej, potřebuju ještě něco jiného...}
 {365}{}{Už musím jít. Zatím, Jimmy.}
 {375}{}{(Jimmy překvapením ztichne. Asi jsi mu paralyzoval mozek.)}
 {376}{}{[Ukrást mu všechno, co má]}
@@ -122,10 +122,9 @@
 {500}{}{Dřív jsem ho měl od samotnýho boha Myrona, víš, jenže se napakoval a pak zmizel... nebo to koupil. Teďka většinou beru přímo od rodiny Mordinů.}
 {501}{}{No, DŘÍV jsem ho měl od starýho Myrona, než se napakoval a vykašlal se na to... že jo, Myrone? Ha! Teďka většinou točím fet od Mordinů.}
 {502}{}{Zajímavé. Mám ještě nějaké otázky...}
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
- MYRON.}
+{510}{}{Mám kontakty se samotným STVOŘITELEM, můj leteckej kámo. Mám Jet přímo od tý mozkovny MYRONA, živýho boha chemickejch sloučenin.}
 {511}{}{Myrona?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Zajímavé. Mám ještě nějaké otázky...}
 {513}{}{Od Myrona, jo? Můžu se setkat... s tímhle živým bohem?}
 {514}{}{Opravdu? No, tak to se musím někdy stavit a trochu si koupit. Díky, Jimmy.}
 {520}{}{Myron je zlatej kluk Mordinů. To on VYTVOŘIL Jet. Kupovat od Pořezanýho Jimma je jako brát přímo od Myrona, chápeš? A proto má J-J čistej Jet. Ten NEJLEPŠÍ Jet.}
@@ -138,7 +137,7 @@
 {534}{}{Zajímavé. Díky za informace, Jimmy.}
 {540}{}{Stráže, stráže a další stráže. A nejsilnější elektronickej bezpečnostní systém v New Renu. Když budeš mít štěstí, tak možná USLYŠÍŠ o někom, kdo Myrona viděl. Až tak dobře je hlídanej.}
 {541}{}{Je dobře hlídaný, jo? Kde přesně?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Aha. Mám ještě jiné otázky...}
 {550}{}{Maj ho schovanýho na místě zvaným "Stáje", severně od Rena. Byl jsem tam jenom jednou. Nikdy mě nenechali projít přes bránu a to pro rodinu PRACUJU.}
 {551}{}{No tak, musí být přece nějaký způsob, jak se s ním můžu setkat.}
 {554}{}{Stáje, jo? Severně od Rena... (Hned si to poznamenám do Pip-Boye.) ...díky za informace, Jimmy.}
@@ -157,13 +156,13 @@
 {592}{}{Zajímavé... poslyš, jen tak ze zvědavosti, odkud berou Mordinové ty prostitutky a jak je vybírají?}
 {600}{}{(Pokrčí rameny.) Slyšel jsem, že se jeden z Mordinovejch chlapů projde Kočičí Packou a vybere si jednu z nabídky slečny Kitty, která by se mohla Myronovi líbit... (Jimmy najednou přestane mluvit, podívá se na tebe a zamračí se.) Tak moment...}
 {601}{}{Co se děje?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Eh, zapomeňte na to. Chci se ještě na něco zeptat...}
 {603}{}{Eh, no, díky za informace, Jimmy.}
 {610}{}{Proč tě zajímaj takový sračky? Já mám Jet a to je všechno, co potřebuješ. Nepotřebuješ vědět nic o Myronovi, ani co měl k večeři, ani koho ojede, než jde spát.}
 {611}{}{Proč tě zajímaj takový sračky... (Zarazí se, poté se usměje a prohlédne si tě od hlavy k patě.) Ahá, už je mi to jasný. Chceš jít přímo ke zdroji Jetu, že jo, ségro?}
 {612}{}{Teď ne. Ukaž mi, co nabízíš, Jimmy.}
 {613}{}{Zapomeň na to. Pojďme obchodovat.}
-{614}{}{Nevermind then. I had some other questions...}
+{614}{}{No tak nic. Chci se ještě na něco zeptat...}
 {615}{}{Možná. Poslyš, chci se ještě na něco zeptat...}
 {616}{}{Ne, jsem jenom zvědavá. Díky, Jimmy. Už musím jít.}
 {617}{}{Tak dobře. Zatím, Jimmy. Už musím jít.}

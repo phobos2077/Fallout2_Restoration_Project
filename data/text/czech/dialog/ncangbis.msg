@@ -15,7 +15,7 @@
 {223}{}{Ty. Pojď sem. Hned.}
 {224}{}{Vrrrr.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well...}
+{226}{}{Ale, ale ...}
 {230}{}{NUDÍM SE.}
 {231}{}{Vypadáš jako jedna z novejch tátovejch kurev...}
 {232}{}{Další z tátovejch levnejch děvek...}
@@ -37,7 +37,7 @@
 {270}{}{To si piš. Tak už pojď.}
 {271}{}{Já jít.}
 {272}{}{Já rád hrát. Ale jen já hrát s já.}
-{280}{}{Exactly...}
+{280}{}{Přesně ...}
 {281}{}{[Jít za ní]}
 {290}{}{Ale no ták! Prosííím? Hrozně moc ti chci ukázat svůj pokoj. Zabere to jenom chviličku, slibuju.}
 {291}{}{Ne jít! Já ne jít! Ty ne donutit já jít! Ty vzít já na špatná místo! Ne!}
@@ -179,7 +179,7 @@
 {680}{}{Vidíš Angelu Bishopovou, která právě usnula. Lehce chrápe, její vlasy jsou rozcuchané a na tváři má drobný úsměv.}
 {690}{}{Vidíš mladou ženu v těsných kožených šatech, která křičí z plných plic.}
 {700}{}{Chrrrxxssnnn... ach, }
-{701}{}{Zzzzz...}
+{701}{}{Chrrrrrr...}
 {800}{}{Pomoc, chce mě znásilnit!}
 {801}{}{Pomoc, on mě napadl! Pomoc!}
 {802}{}{Chce mě znásilnit! Chce mě znásilnit!}

@@ -16,10 +16,10 @@
 {240}{}{(Muž se k tobě otočí. Vypadá, že má horečku. Pot mu stéká dolů po tváři a vytváří mokré skvrny na oblečení. }
 {241}{}{(Ignoruje tě a upřeně se dívá na Myrona. Vypadá to, že čeká, až Myron promluví.)}
 {242}{}{(Upřeně se na tebe dívá a vypadá to, že čeká, až promluvíš.)}
-{243}{}{[Stare back at him with your meanest stare.]}
-{244}{}{[Stare back at him with mild disinterest.]}
-{245}{}{[Stare back at him with a sneering gaze.]}
-{246}{}{[Stare back at him with affected disinterest.]}
+{243}{}{[Podívat se na něj svým nejzlejším pohledem.]}
+{244}{}{[Podívat se na něj s mírným nezájmem.]}
+{245}{}{[Podívat se na něj pohrdavým pohledem.]}
+{246}{}{[Podívat se na něj s předstíraným nezájmem.]}
 {247}{}{Odbelhat se.}
 {248}{}{Kdo jsi?}
 {249}{}{Vy jste Ježíš Mordino?}
@@ -116,11 +116,11 @@
 {452}{}{Tak na to zapomeňte. Odcházím.}
 {460}{}{Jdi nahoru na sever po ulici Panen, kolem kasína... a pak jdi po cestě, která vede z města. Ta tě zavede... až ke Stájím. Teď běž.}
 {461}{}{[Postupovat podle jeho instrukcí...]}
-{470}{}{Have... you done as I asked?}
+{470}{}{Udělal jsi, co jsem chtěl?}
 {471}{}{Ne, ještě jsem ten balík nedoručil.}
 {472}{}{Ano, doručil jsem ho Ramirezovi, přesně jak jste chtěl.}
 {473}{}{Ano, byl jsem ve Stájích a odevzdal jsem ten balík... víte, co tam DĚLAJÍ? Oni tam používají otroky na testování drog.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Ano, dal jsem ten balík Ramirezovi... víte, že je ten chlap závislý na Jetu? SMRDĚL výparama z Jetu.}
 {480}{}{Tak... proč jsi ještě tady? (Velkej Ježíš si utře čelo a zhluboka se sípavě nadechne.) PROČ jsi ten balík ještě nedoručil?}
 {481}{}{No, nejdřív se chci na něco zeptat...}
 {482}{}{Jdu to hned vyřídit.}
@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore je stále naživu, tak proč jsi tady?}
 {661}{}{(Kapka potu steče Mordinovi dolů po tváři.) Splnil jsi ten úkol, který jsem ti zadal? Je Louis Salvatore mrtvý?}
 {662}{}{Je mrtvý. Tvá rodina byla pomstěna, seňore Mordino.}
-{663}{}{No, I shall return when I have killed him.}
+{663}{}{Ne, až ho zabiji, vrátím se.}
 {664}{}{Salvatore je velmi dobře hlídán. O tuhle práci už nemám zájem.}
 {670}{}{Jestli... utečeš od tohohle úkolu, tak tě nechám... ZABÍT.}
 {671}{}{No, když to řeknete takhle, tak to se raději vrátím, až bude mrtvý.}
@@ -216,7 +216,7 @@
 {751}{}{Zeptám se ho. Chci se ještě zeptat...}
 {752}{}{Zeptám se ho. Díky, seňore Mordino.}
 {760}{}{Teplo... není můj přítel. Moje dýchání je... někdy obtížné. Rychle se unavím při fyzické námaze nebo když jsem ve stresu. A někdy mám strašné bolesti na prsou.}
-{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Opravdu? No, tak to je dobře, že neberete žádné metamfetaminy nebo stimulanty. Chci se ještě zeptat...}
 {762}{}{Aha. No, raději už půjdu.}
 {770}{}{Neznám tě... přijdeš si za mnou... bez jakékoliv doporučení, které by mělo nějakou... váhu. (Utře si čelo a poté se zhluboka a sípavě nadechne.) NEMÁM PRO TEBE PRÁCI.}
 {771}{}{No tak, dejte mi šanci. Dejte mi jakoukoliv práci... nebudete toho litovat.}

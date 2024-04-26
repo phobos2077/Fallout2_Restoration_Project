@@ -8,13 +8,13 @@
 {156}{}{Vidíš prostitutku. Tváří se, jako by chtěla své partnery zabít a sníst.}
 {157}{}{Vidíš prostitutku. Prohlíží si tě jako zlatník prsten.}
 {158}{}{Vidíš prostitutku. Její sporé šaty svůdně obepínají celé její tělo.}
-{175}{}{Oh my... it's him.}
+{175}{}{Ach bože... to je on. }
 {176}{}{Jseš ten největší kanec na světě.}
 {177}{}{::Omdlévá::}
 {178}{}{Jooo, }
 {179}{}{::Tleská::}
 {180}{}{::Fandí::}
-{181}{}{Oh my... it's her.}
+{181}{}{Ach bože... to je ona. }
 {182}{}{Fandím ti, holka!}
 {183}{}{::Ukáže ti vztyčený palec::}
 {190}{}{Tolik peněz nemáš, abych to s tebou dělala, když máš na sobě TOHLE.}
@@ -171,7 +171,7 @@
 {345}{}{Potřebuješ někoho, kdo ti uleví od toho svrbění v rozkroku, otrokáři?}
 {346}{}{Myron sem pořád leze...}
 {347}{}{Ta Bishopova holka je úplná nymfomanka.}
-{348}{}{She ain't no Jet addict, she's a BONE addict.}
+{348}{}{Ona není závislá na Jetu, ona je závislá na KLÁDĚ.}
 {349}{}{V Kočičí Pacce to začíná pěkně vřít...}
 {350}{}{Minulou noc jsem si zaběhla maratón, když jsem utíkala před Myronem...}
 {351}{}{Hledáš nějaký vzrůšo, otrokáři?}
@@ -283,7 +283,7 @@
 {457}{}{Nemáš oheň, otrokářko?}
 {458}{}{Ta otrokářka je docela sexy.}
 {459}{}{Když vidím tu otrokářku, začne mi pípat můj Geigerův přístroj.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
+{460}{}{Garantuju ti, že jsem v posteli lepší než ten tvůj robot.}
 {461}{}{Je ten robot PLNĚ funkční?}
 {462}{}{To je nějakej hrací automat co za tebou pořád jezdí?}
 {463}{}{To je nějakej novej hrací automat?}
@@ -364,7 +364,7 @@
 {538}{}{Co si myslí, že jako udělám? Že mu ho vykouřím?}
 {539}{}{Jestli s tím někdo něco neudělá, tak ta cedule New Reno na někoho brzo slítne...}
 {540}{}{Ta Bishopova holka je úplná nymfomanka.}
-{541}{}{She ain't no Jet addict, she's a BONE addict.}
+{541}{}{Ona není závislá na Jetu, ona je závislá na KLÁDĚ.}
 {542}{}{Ve Vault City maj prej jenom dva typy Občanů. Asi došlo k nějaký nehodě při klonování.}
 {543}{}{Cítím se jako kdybych minulou noc uběhla maratón...}
 {544}{}{Hledáš lásku, zlato?}
@@ -527,7 +527,7 @@
 {701}{}{Co si myslí, že jako udělám? Že mu ho vykouřím?}
 {702}{}{Jestli s tím někdo něco neudělá, tak ta cedule New Reno na někoho brzo slítne...}
 {703}{}{Ta Bishopova holka je úplná nymfomanka.}
-{704}{}{She ain't no Jet addict, she's a BONE addict.}
+{704}{}{Ona není závislá na Jetu, ona je závislá na KLÁDĚ.}
 {705}{}{Ve Vault City maj prej jenom dva typy Občanů. Asi došlo k nějaký nehodě při klonování.}
 {706}{}{Cítím se jako kdybych minulou noc uběhla maratón...}
 {707}{}{Hledáš lásku, zlato?}
@@ -760,7 +760,7 @@
 {934}{}{Myron je hroznej ňouma.}
 {935}{}{AC-DC, B n' D, vždyť je to fuk.}
 {936}{}{Ta Bishopova holka je úplná nymfomanka.}
-{937}{}{She ain't no Jet addict, she's a BONE addict.}
+{937}{}{Ona není závislá na Jetu, ona je závislá na KLÁDĚ.}
 {938}{}{Ve Vault City maj prej jenom dva typy Občanů. Asi došlo k nějaký nehodě při klonování.}
 {939}{}{Cítím se jako kdybych minulou noc uběhla maratón...}
 {940}{}{Hledáš lásku, zlato?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron je hroznej ňouma.}
 {1109}{}{AC-DC, B n' D, vždyť je to fuk.}
 {1110}{}{Ta Bishopova holka je úplná nymfomanka.}
-{1111}{}{She ain't no Jet addict, she's a BONE addict.}
+{1111}{}{Ona není závislá na Jetu, ona je závislá na KLÁDĚ.}
 {1112}{}{Ve Vault City maj prej jenom dva typy Občanů. Asi došlo k nějaký nehodě při klonování.}
 {1113}{}{Cítím se jako kdybych minulou noc uběhla maratón...}
 {1114}{}{Hledáš lásku, zlato?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron je hroznej ňouma.}
 {1282}{}{AC-DC, B n' D, vždyť je to fuk.}
 {1283}{}{Ta Bishopova holka je úplná nymfomanka.}
-{1284}{}{She ain't no Jet addict, she's a BONE addict.}
+{1284}{}{Ona není závislá na Jetu, ona je závislá na KLÁDĚ.}
 {1285}{}{Ve Vault City maj prej jenom dva typy Občanů. Asi došlo k nějaký nehodě při klonování.}
 {1286}{}{Cítím se jako kdybych minulou noc uběhla maratón...}
 {1287}{}{Hledáš lásku, zlato?}

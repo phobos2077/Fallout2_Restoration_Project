@@ -1,4 +1,4 @@
-{100}{}{You see... Sheb.}
+{100}{}{Vidíš... Sheba.}
 {150}{}{Vidíš vychrtlého muže oblečeného v jasně modrém oblečení. Jako by jeho oblečení nebylo dost křiklavé, tak ještě řve z plných plic.}
 {200}{}{Prdýlky, prdelky, prdelinky!}
 {201}{}{Pojďte dál, milovníci prdelek!}

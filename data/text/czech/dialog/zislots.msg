@@ -107,7 +107,7 @@
 {2280}{}{(Vidíš hrací automat. Jeho naleštěný povrch a pozlacená páka svádivě září pod blikajícími světly New Rena. Štěrbina na mince tě přitahuje a ty cítíš, jak se ti ruce chvějí nedočkavostí. Jak na ten stroj zíráš, jedno z jeho tří očí na tebe mrkne. Slyšíš jemný hlas vycházející ze štěrbiny na mince.) *A hele! Nazdááárek, zlato. Chceš se pobavit?*}
 {2281}{}{(Vidíš hrací automat. Jeho bytelná skříň a pozlacená páka září pod světly New Rena jako sluníčko. Štěrbina na mince tě přitahuje a ty cítíš, jak se ti ruce chvějí nedočkavostí. Jak na ten stroj zíráš, slyšíš drsný mužský šepot linoucí se ze štěrbiny na mince.) *Takovouhle kočku jsem tady ještě neviděl. Chceš se pobavit?*}
 {2282}{}{::Štípnout se, jestli se ti to jenom nezdá::}
-{2283}{}{Uh... hello?}
+{2283}{}{Eh ... ahoj?}
 {2284}{}{::Zhluboka se nadechnout a odejít.::}
 {2300}{}{*Jsem tu pořád, krásko.* (Automat sníží hlas.) *Tak pojď, jdeme na to... chceš si zahrát?*}
 {2301}{}{*Joo, jsem tu pořád, zlato.* (Automat sníží hlas.) *Víš, že jsi pořádnej kus chlapa? Tak pojď... nechceš do mě strčit nějaké mince?*}

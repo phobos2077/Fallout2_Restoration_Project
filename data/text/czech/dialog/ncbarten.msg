@@ -8,7 +8,7 @@
 {212}{}{Další, kamaráde?}
 {213}{}{Tady máš obvaz, pokud ho budeš potřebovat.}
 {214}{}{Nevdechuj ten Jet najednou... trochu potáhni, zhluboka se nadechni a nech ho působit.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Chceš dva pytlíky po 15 gramech, nebo nádobu?}
 {216}{}{Inhalátor Jetu je za příplatek...}
 {217}{}{Nech mě hádat: Mám ti to připsat na účet, co?}
 {218}{}{Jedna Nuka-Cola na žaludek, hned to bude.}

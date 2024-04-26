@@ -88,15 +88,15 @@
 {295}{}{Až půjdeš příště nakopat Enklávě prdel, přijď za mnou a uděláme to SPOLU.}
 {296}{}{HUSTÝ, }
 {297}{}{Já vím, že jsi zachránil svět, ale my nedůležitý herní postavy se teď musíme vypořádat s následky.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
- I LOVE that one.}
+{298}{}{Měl by sis zahrát ještě jednou za feťáka. Fakt! A hlavně si vem charakterovej rys "Narkoman"!
+ Ten MILUJU.}
 {299}{}{Díky za naši záchranu. Dal bych ti pusu, ale smrdí mi z huby.}
 {300}{}{Taky bych dokázal porazit Enklávu, kdybych si vzal dost Jetu.}
 {301}{}{[Zpívá.] "Nepotřebujeme dalšího hrdinu, nepotřebujeme znát cestu domů..."}
 {302}{}{Chris Avellone mě vymyslel a Tom French mě naskriptoval, takže technicky nejsem za svou závislost na Jetu odpovědnej.}
 {303}{}{Pojďme si dát trochu Jetu a oslavme tak tvý vítězství. Platíš.}
 {304}{}{Až smažeš tuhle hru z harddisku, budeme ještě existovat?}
-{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
+{305}{}{Eh... jaký drogy Enkláva testovala? Nebyl tam náhodou Jet zadarmo?}
 {320}{}{Jak s tou zbrojí na sobě chodíš na záchod?}
 {321}{}{Eh... to mluvíš se mnou?}
 {322}{}{Ty vole, ty absťáky jsou čím dál horší. Teď na mně mluví železní lidi.}
@@ -111,7 +111,7 @@
 {352}{}{Dej mi pár drobnejch a budu tvůj otrok... jenom si dojdu pro trochu Jetu.}
 {353}{}{Budu tvůj otrok, když mi dáš trochu Jetu.}
 {354}{}{Můžeš mě prodat do otroctví, když mi dáš trochu Jetu.}
-{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{355}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {360}{}{Ty jseš boxer? Nemáš nějaký drobný na půjčení?}
 {361}{}{No ták, stačí mi jen pár drobnejch.}
 {362}{}{Můžu si pujčit pár drobnejch? No ták, vrátím ti to.}
@@ -122,7 +122,7 @@
 {367}{}{Potřebuju jenom pár drobnejch na jídlo...}
 {368}{}{Budu tvůj otrok, když mi dáš trochu Jetu.}
 {369}{}{Můžeš mě prodat do otroctví, když mi dáš trochu Jetu.}
-{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{370}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {371}{}{Ty jseš člen rodiny }
 {372}{}{Můžu si půjčit pár drobnejch...? No ták, mě můžeš věřit.}
 {373}{}{Kvůli Jetu budu i pracovat...}
@@ -131,7 +131,7 @@
 {382}{}{Nechceš se se mnou proletět?}
 {383}{}{Tati?}
 {384}{}{Kámo, potřebuju se *proletět*, jestli mi rozumíš.}
-{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{385}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {386}{}{Psssst. Můžeš mi sehnat trochu Jetu?}
 {387}{}{Můžu si pujčit pár drobnejch...? Vrátím ti to.}
 {388}{}{Kvůli Jetu budu i pracovat...}
@@ -149,7 +149,7 @@
 {400}{}{No ták, slečno, stačí jenom pár babek.}
 {401}{}{Hele, eh... nemáte trochu Jetu, slečno?}
 {402}{}{Hele, potřebuju se *proletět*, jestli mi rozumíš.}
-{403}{}{No, I'm off drugs. Uh... why? You buying?}
+{403}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {404}{}{Mami?}
 {420}{}{Hej, brácho? Pomůžeš mi lítat?}
 {421}{}{No ták, chlapče, stačí jenom pár babek.}
@@ -158,7 +158,7 @@
 {424}{}{Pro peníze udělám cokoliv... nebo pro Jet, jestli máš.}
 {425}{}{Bejvala jsem královna krásy v Renu. A ještě pořád jsem hezká...}
 {426}{}{Nechceš se se mnou proletět?}
-{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{427}{}{Ne, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {428}{}{Tati?}
 {429}{}{Psssst. Můžeš mi sehnat trochu Jetu?}
 {430}{}{Můžu si pujčit pár drobnejch...? Vrátím ti to.}
@@ -175,7 +175,7 @@
 {441}{}{Můžu tě potěšit... jestli máš trochu Jetu.}
 {442}{}{Hej, eh... nemáš trochu Jetu, kámo?}
 {443}{}{Sestro, potřebuju se *proletět*, jestli mi rozumíš.}
-{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
+{444}{}{Ne, sestro, drogy už neberu. Eh... proč se ptáš? Chceš snad něco koupit?}
 {445}{}{Mami?}
 {450}{}{Do pr...! Kdo jsi? Nějakej robot?}
 {451}{}{Co jsi bral, že jsi skončil obalenej železem?}
@@ -206,7 +206,7 @@
 {483}{}{Pořezanej Jimmy má nejlepší fet ve městě. Po něm budeš lítat tak vysoko, že nebudeš chtít NIKDY přistát.}
 {484}{}{To mluvíš se mnou? To mluvíš se mnou?!}
 {485}{}{Chceš dostat přes hubu?! Co?}
-{486}{}{::Glares at you past drug-hazed eyes::}
+{486}{}{::Zírá na tebe přes oči omámené drogami::}
 {487}{}{Nechceš se se mnou proletět?}
 {488}{}{Nazdar, šampióne, jak je?!}
 {489}{}{Nechceš si se mnou zaboxovat? Co? No ták!}
@@ -224,7 +224,7 @@
 {510}{}{To mluvíš se mnou? To mluvíš se mnou?!}
 {511}{}{Zahráváš si se mnou, gangstere? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
 {512}{}{Chceš dostat přes hubu, gangstere?! Co?}
-{513}{}{::Glares at you past drug-hazed eyes::}
+{513}{}{::Zírá na tebe přes oči omámené drogami::}
 {520}{}{Páni... na čem to jedeš? Nechceš se podělit?}
 {521}{}{A já si myslel, že jsem v prdeli.}
 {522}{}{Hej, kámo... poděl se se mnou.}
@@ -237,7 +237,7 @@
 {533}{}{Jednou jsem se cítil jako ten tvůj robot... řekni mu, že to bude dobrý, až to přestane brát.}
 {534}{}{Co se stalo tvýmu kamarádovi s mozkem? Přišel o tělo?}
 {535}{}{ŘEKNI mi, že ten robot s mozkem není skutečnej. Prosím.}
-{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
+{536}{}{Páni, koukněte na ten mozek v robotovi. Takhle přesně vypadá sjetej mozek, jestli jsem ho kdy viděl.}
 {537}{}{Nechceš se se mnou proletět? A co tvůj kámoš robot?}
 {538}{}{Zahráváš si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL a pak i tomu robotovi!}
 {539}{}{Chceš dostat přes hubu, robotofile?! Co?}
@@ -248,7 +248,7 @@
 {544}{}{Jestli uvidíš Renesca, řekni mu, že zaplatím zítra.}
 {545}{}{Pořezanej Jimmy má nejlepší fet ve městě. Po něm budeš lítat tak vysoko, že nebudeš chtít NIKDY přistát.}
 {546}{}{To mluvíš se mnou? To mluvíš se mnou?!}
-{547}{}{::Glares at you past drug-hazed eyes::}
+{547}{}{::Zírá na tebe přes oči omámené drogami::}
 {548}{}{Radši se ani neotáčej, jde za tebou mutant.}
 {549}{}{Fíha, asi jsem si vzal nějakej fakt drsnej fet... vidím mutanty pobíhat kolem.}
 {550}{}{To jsem tak zhulenej, nebo je tvůj kámoš vysokej jako dvoupatrovej barák?}
@@ -278,7 +278,7 @@
 {575}{}{To mluvíš se mnou? To mluvíš se mnou?!}
 {576}{}{Zahráváš si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
 {577}{}{Chceš dostat přes hubu?! Co?}
-{578}{}{::Glares at you past drug-hazed eyes::}
+{578}{}{::Zírá na tebe přes oči omámené drogami::}
 {600}{}{Paráda...}
 {601}{}{Mmmm...}
 {602}{}{Jseš kámoš.}

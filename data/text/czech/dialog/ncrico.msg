@@ -9,7 +9,7 @@
 {179}{}{Klurgggg}
 {180}{}{Oog}
 {200}{}{Já kamarád Monte. TY kamarád Monte?}
-{201}{}{Me hit people Monte tell me to.}
+{201}{}{Já mlátit lidi. Monte říkat kdo.}
 {202}{}{Já mlátit lidi.}
 {203}{}{Já mlátit lidi ruky jako hrát na buben.}
 {204}{}{Já rád mlátit.}
@@ -20,7 +20,7 @@
 {209}{}{Hmmm- mmm.}
 {210}{}{Já nerad mluvit.}
 {211}{}{Ty vonět dobže...}
-{212}{}{Yoo smell like mom.}
-{213}{}{Yoo cute. Me no hit you.}
+{212}{}{Ty vonět jako máma.}
+{213}{}{Ty heská. Já nemlátit ty.}
 {214}{}{Ty líbit Rico.}
 {215}{}{Ehhh... já Rico...}

@@ -58,7 +58,7 @@
 {304}{}{Ne-e.}
 {306}{}{[Jít na věc]}
 {307}{}{Eh, ne díky. Rozmyslela jsem si to. Sbohem.}
-{320}{}{Aiight then...}
+{320}{}{Tak dobře...}
 {321}{}{Ehe-ehe-ehe.}
 {330}{}{Aha, tak ty si s T-Rayem jenom HRAJEŠ, jo? Tak dobře. Padej, ženská... mám lepší čubky, který se o mě postaraj.}
 {331}{}{Čas tikat a tikat a tikat... do budoucnost.}
@@ -77,7 +77,7 @@
 {365}{}{To zní dobře. Uvidíme se později.}
 {375}{}{Dorovnáš BISHOPOVU nabídku, jo? To je ale pořádná hromada peněz, chlape. MOC peněz. Navíc, on je jeden z nejdůležitějších lidí v Renu, víš? Když mu ten stroj prodám, dostanu... výhody v NATURÁLIÍCH.}
 {376}{}{Dorovnáš BISHOPOVU nabídku, jo? To je ale pořádná hromada peněz, ženská. MOC peněz. Navíc, on je jeden z nejdůležitějších lidí v Renu, víš? Když mu ten stroj prodám, dostanu... výhody v NATURÁLIÍCH.}
-{377}{}{I'm listening...}
+{377}{}{Poslouchám ...}
 {378}{}{Změní tvůj názor 1000 babek?}
 {379}{}{Změní tvůj názor 750 babek?}
 {380}{}{Změní tvůj názor 500 babek?}
@@ -155,7 +155,7 @@
 {631}{}{Tak dobře.}
 {632}{}{Promiň, ale jenom když jde o OBCHOD. Zatím, T-Rayi.}
 {640}{}{Sakra, děvko! Vždyť jsem tě pomiloval sotva před pěti minutama! Chceš mě ZABÍT?}
-{641}{}{Now, hold on...}
+{641}{}{Tak moment...}
 {642}{}{No tak, potřebuju vzrušení. A TY jseš jedinej, kdo mi to udělá pořádně.}
 {643}{}{Zapomeň na to. Jdu pryč.}
 {650}{}{Ne, jednu čubku už mám. A jak se tak na tebe dívám, vůbec by to nestálo za to. Všechno to příslušenství na Highwaymana můžeš mít za 500 babek.}

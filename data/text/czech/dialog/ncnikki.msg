@@ -200,7 +200,7 @@
 {510}{}{Jděte k čertu! Už vám nic neřeknu. NIKDY.}
 {511}{}{To je opravdu škoda. Mějte se, Nikki.}
 {600}{}{Podařilo se ti podplatit Nikki, aby ti řekla, kde se Lloyd pravděpodobně skrývá.}
-{1210}{}{. Can I help you with... anything?}
+{1210}{}{. Můžu ti pomoct s ... něčím?}
 {1214}{}{.}
 {1235}{}{. Nechceš utratit nějaké peníze?}
 {1239}{}{, a vyhraj nějaké peníze.}

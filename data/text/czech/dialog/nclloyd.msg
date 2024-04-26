@@ -19,7 +19,7 @@
 {233}{}{Nezajímá mě, co je podle tebe nejlepší... příteli. Co máš za problém?}
 {234}{}{Připadáš mi jako někdo, kdo má problémy. Třeba by se daly vyřešit.}
 {235}{}{Vypadáš jako někdo, kdo si cení svého soukromí. Pro někoho tak ukecaného, jako jsem já, je zapomínání dost drahá věc.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{Tak dobře. Promiň, že obtěžuju.}
 {245}{}{Problém? Problém stojí přímo přede mnou. }
 {246}{}{Už to nebudu opakovat, kámo. Odejdi.}
 {247}{}{Už to nebudu opakovat, zlato. Odejdi.}
@@ -40,7 +40,7 @@
 {284}{}{Já myslím, že MÁŠ problém. Víš, v takovém soukromí není zvenčí téměř nic slyšet. Co když tě prostě zabiju, hm?}
 {285}{}{Vypadáš jako někdo, kdo má problémy. Třeba ti můžu nějak pomoct. Co ty na to?}
 {286}{}{Vypadáš jako někdo, kdo si cení soukromí. Pro někoho tak ukecaného, jak jsem já, je zapomínání dost drahá věc.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{Tak dobře. Promiň, že obtěžuju.}
 {295}{}{Eh... hele... eh, nemusíš mluvit tímhle tónem. Možná bysme si mohli promluvit o něčem JINÉM... třeba o tom, jak ti může tvůj kámoš Lloyd pomoct.}
 {296}{}{To mě zajímá, pokračuj.}
 {297}{}{Nemám zájem, mizím odsud.}
@@ -130,7 +130,7 @@
 {615}{}{(Vypadá zadýchaně.) Když... už jsi... můj bodyguard, tak budu rád... když je vykopeš ty.}
 {616}{}{Eh...}
 {617}{}{Na tomhle světě jsou dva druhy lidí, Lloyde. Ti s nabitou zbraní a ti, co kopou.}
-{620}{}{All right then, I'll do it...}
+{620}{}{Tak dobře. Udělám to...}
 {625}{}{(Lloyd si něco zamumlá pod nosem a začne kopat.)}
 {626}{}{(Lloyd si něco zamumlá pod nosem a začne kopat... opatrně. Ani ne o minutu později vytáhne z hlíny velikou minu a položí ji vedle. Rozpačitě pokrčí rameny.)}
 {627}{}{To je ono! Jde ti to skvěle, jen tak dál. A kopej trochu rychleji.}

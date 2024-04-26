@@ -12,7 +12,7 @@
 {200}{}{::Fandí::}
 {201}{}{::Tleská::}
 {202}{}{::Píská::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Zpívá.) "Nepotřebujeme dalšího hrdinu, nepotřebujeme znát cestu domů..."}
 {204}{}{Hej! }
 {205}{}{Takhle se ničí Enkláva, }
 {206}{}{Jseš určitě drsnější než Tommy Tvrďák, jinak by to s Enklávou nedopadlo tak špatně.}
@@ -109,7 +109,7 @@
 {374}{}{OPRAVDU mluvíš s bohem, když máš sex na place?}
 {375}{}{Mámá říká, že jseš nástroj ďábla.}
 {376}{}{Máma říká, že jseš hampejznice a nestydatá běhna. Nemám tušení, o čem to mluví.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{Jdeš za tátou obchodně? No, tak to hodně štěstí. Myslím, že teď zrovna nikoho nepotřebuje.}
 {386}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
 {387}{}{Dávej si pozor, příteli. Jseš na území rodiny Wrightů.}
 {390}{}{Radši zmiz... nemáme rádi otrokáře.}

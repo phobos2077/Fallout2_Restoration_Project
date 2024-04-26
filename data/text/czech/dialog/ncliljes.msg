@@ -9,7 +9,7 @@
 {230}{}{Pěkná věcička, }
 {240}{}{Co se tady plazíš, no, }
 {250}{}{Jak to jde, }
-{251}{}{Heeey... }
+{251}{}{Nazdáár... }
 {252}{}{Kuurva to je hic.}
 {253}{}{Zdááár! Tak jak to jde, }
 {254}{}{Rád tě vidím, }
@@ -172,7 +172,7 @@
 {820}{}{Jmenuje se Myron. A co se týká toho KDE je, to tě nemusí zajímat.}
 {821}{}{Jmenuje se Myron. Je ve stájích severně od města, kde testuje nový drogy. Jestli chceš, můžeš se jít za ním podívat, ale většinou má moc práce... s fetem nebo ženskejma.}
 {822}{}{Co kdybys přestal být tak drzej a stejně mi to řekl?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Mám to. Chci se ještě na něco zeptat...}
 {824}{}{Říkáš Myron, jo? Tak dobře, Ježíši. Díky za rozhovor.}
 {840}{}{Desperado je to pravý místo, homes. Máme Jet, hazard, sex... a na ulici všechny možný putas, pěkně vlhký a povolný. Úplnej ráj, homes. RÁJ.}
 {841}{}{Desperado je to pravý místo, chica. Máme Jet, hazard a sex. Už nemusíš dál hledat.}
@@ -187,7 +187,7 @@
 {862}{}{Zkus to a uvidíš, MALEJ Ježíši.}
 {863}{}{Zkus to a já ti pořežu ksicht takovým způsobem, že budeš vypadat jako pexeso.}
 {864}{}{Uklidni se... jenom si dělám srandu.}
-{865}{}{Chill. I had some other questions...}
+{865}{}{Fíha. Chci se ještě na něco zeptat...}
 {867}{}{Odcházím. Moc hezky se mi povídalo s někým civilizovaným, jako jsi ty.}
 {880}{}{Haha! To bylo dobrý, chica. Malej Ježíš z tebe nespustí oči... teda ne, že bych si nemohl pomoct. Co pro tebe můžu udělat?}
 {881}{}{Můžeš začít tím, že si necháš oči pro sebe, MALEJ Ježíši. Raději přefiknu lavičku, než se dotknout toho tvého uhrovitého ksichtu.}
@@ -225,7 +225,7 @@
 {951}{}{Opravdu? Mordinové jsou největší distributoři Jetu v New Renu, takže jste první, na koho to svedou.}
 {952}{}{Nevěřím ti. Myslím, že jsi to udělal TY. Ty a zbytek Mordinů.}
 {953}{}{Kdo myslíte, že to udělal?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{Fajn ... podívej, mám ještě nějaké otázky...}
 {955}{}{Tak dobře. Jen se ptám.}
 {965}{}{(Oči se mu zúží.) Tak hele, se smrtí toho kluka nemám NIC společnýho. Nevím, kdo ti co nakecal, ale kdybych ho zabil já, tak bych ho určitě rozsekal na kousky a ne ho nechal předávkovat Jetem, chápeš?}
 {966}{}{No a co že to na nás svedou? Teda NE že bysme za to mohli, ale ten malej sráč si toho vzal prostě moc. Je mi putna, že je mrtvej. A jestli začne starej Wright dělat dusno, pohřbíme ho vedle jeho feťáckýho synka.}
@@ -275,7 +275,7 @@
 {1054}{}{Dám ti sto dolarů.}
 {1055}{}{Dám ti dvě stě dolarů.}
 {1056}{}{Moje milování je také umění. Nechceš si navzájem vyměnit zkušenosti?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{Vlastně se chci na něco zeptat...}
 {1059}{}{Tak snad někdy jindy... až budu mít dost peněz na to, aby sis to rozmyslel.}
 {1060}{}{Tak snad někdy jindy. Díky.}
 {1070}{}{Hmmmmm. 200 a plácnem si.}

@@ -31,7 +31,7 @@
 {247}{}{To záleží na tom... jaká je nabídka?}
 {248}{}{Chci něco speciálního pro mého kamaráda.}
 {249}{}{Chci něco speciálního pro jednoho z kamarádů. Má to... eh, narozeniny.}
-{250}{}{I'd like to ask you some questions...}
+{250}{}{Chci se na něco zeptat ...}
 {251}{}{No, vlastně raději nic. Pracovní stres a tak. Sbohem.}
 {255}{}{Lichotíte mi, ale... ne. Nemůžu.}
 {256}{}{Ale no ták. Jenom jeden drink. O nic nejde, bude sranda.}
@@ -170,7 +170,7 @@
 {596}{}{ne. Myslím, že nevyhovujete. Možná kdybyste se trochu umyla a... upravila. Lituji.}
 {597}{}{ano... ano, myslím, že budete vyhovovat. Máte zájem o práci? Všem mým děvčatům už se z něj... dělá špatně.}
 {598}{}{Jasně.}
-{599}{}{Hmmmph. I had some other questions...}
+{599}{}{Hmmm. Chci se ještě zeptat...}
 {600}{}{Ne, ale možná později. Chci se na něco zeptat...}
 {610}{}{(Kývne.) Výborně. Jeden z Mordinových poručíků by se měl brzy objevit. Posaďte se a já vás představím jako jednu z... uchazeček.}
 {611}{}{Tak dobře... počkám na něj.}
