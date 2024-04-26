@@ -100,12 +100,12 @@
 {421}{}{jedna z jejích končetin byla zmrzačena}
 {422}{}{byla zasypána střepinami}
 {506}{}{Ty}
-{509}{}{Jejda! Kritický zásah: %s namísto cíle: %s!}
-{511}{}{Kritický zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
-{512}{}{Zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
-{513}{}{Cíl %s byl zasažen a ztratil %d HP}
-{514}{}{%s critically missed}
-{515}{}{%s minula}
+{509}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
+{511}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{512}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
+{513}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
+{514}{}{Útočník %s kriticky minul}
+{515}{}{Útočník %s minul}
 {520}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
 {521}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
 {522}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
@@ -118,12 +118,12 @@
 {533}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
 {534}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
 {556}{}{Ty}
-{559}{}{Jejda! Kritický zásah: %s namísto cíle: %s!}
-{561}{}{Kritický zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
-{562}{}{Zásah cíle: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
-{563}{}{Cíl %s byl zasažen a ztratil %d HP}
-{564}{}{%s critically missed}
-{565}{}{%s minula}
+{559}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
+{561}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{562}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
+{563}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
+{564}{}{Útočník %s kriticky minul}
+{565}{}{Útočník %s minul}
 {570}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
 {571}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
 {572}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
@@ -140,8 +140,8 @@
 {611}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {612}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {613}{}{%s byla zasažena a ztratila %d hit bodů}
-{614}{}{%s critically missed}
-{615}{}{%s minula}
+{614}{}{Útočník %s kriticky minul}
+{615}{}{Útočník %s minul}
 {620}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
 {621}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
 {622}{}{%s byla zasažena a ztratila 1 hit bod. Místo zásahu: %s}
@@ -158,8 +158,8 @@
 {711}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {712}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
 {713}{}{%s byla zasažena a ztratila %d hit bodů}
-{714}{}{%s critically missed}
-{715}{}{%s minula}
+{714}{}{Útočník %s kriticky minul}
+{715}{}{Útočník %s minul}
 {720}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
 {721}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
 {722}{}{%s byla zasažena a ztratila 1 hit bod. Místo zásahu: %s}
@@ -172,8 +172,8 @@
 {733}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
 {734}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
 {1110}{}{hlava}
-{1111}{}{levý pařát}
-{1112}{}{pravý pařát}
+{1111}{}{levá ruka}
+{1112}{}{pravá ruka}
 {1113}{}{hrudník}
 {1114}{}{pravá noha}
 {1115}{}{levá noha}
@@ -204,12 +204,12 @@
 {1173}{}{konstrukce}
 {1174}{}{servo}
 {1175}{}{servo}
-{1176}{}{senzory}
+{1176}{}{čidla}
 {1177}{}{regulátor}
 {1178}{}{uncalled}
 {1180}{}{hlava}
-{1181}{}{levý pařát}
-{1182}{}{pravý pařát}
+{1181}{}{levá ruka}
+{1182}{}{pravá ruka}
 {1183}{}{hrudník}
 {1184}{}{pravá noha}
 {1185}{}{levá noha}
@@ -226,8 +226,8 @@
 {1197}{}{genitálie}
 {1198}{}{uncalled}
 {1210}{}{hlava}
-{1211}{}{levý pařát}
-{1212}{}{pravý pařát}
+{1211}{}{levá ruka}
+{1212}{}{pravá ruka}
 {1213}{}{hrudník}
 {1214}{}{pravá noha}
 {1215}{}{levá noha}
@@ -236,7 +236,7 @@
 {1218}{}{uncalled}
 {1220}{}{hlava}
 {1221}{}{ocas}
-{1222}{}{klepeta}
+{1222}{}{klepeto}
 {1223}{}{krunýř}
 {1224}{}{přední nohy}
 {1225}{}{zadní nohy}
@@ -262,8 +262,8 @@
 {1247}{}{genitálie}
 {1248}{}{uncalled}
 {1250}{}{hlava}
-{1251}{}{levý pařát}
-{1252}{}{pravý pařát}
+{1251}{}{levá ruka}
+{1252}{}{pravá ruka}
 {1253}{}{trup}
 {1254}{}{pravá noha}
 {1255}{}{levá noha}
@@ -271,8 +271,8 @@
 {1257}{}{genitálie}
 {1258}{}{uncalled}
 {1270}{}{hlava}
-{1271}{}{levý pařát}
-{1272}{}{pravý pařát}
+{1271}{}{levá ruka}
+{1272}{}{pravá ruka}
 {1273}{}{hrudník}
 {1274}{}{pravá noha}
 {1275}{}{levá noha}
@@ -280,8 +280,8 @@
 {1277}{}{genitálie}
 {1278}{}{uncalled}
 {1460}{}{hlava}
-{1461}{}{levý pařát}
-{1462}{}{pravý pařát}
+{1461}{}{levá ruka}
+{1462}{}{pravá ruka}
 {1463}{}{hrudník}
 {1464}{}{pravá noha}
 {1465}{}{levá noha}
@@ -289,8 +289,8 @@
 {1467}{}{genitálie}
 {1468}{}{uncalled}
 {1490}{}{hlava}
-{1491}{}{levý pařát}
-{1492}{}{pravý pařát}
+{1491}{}{levá ruka}
+{1492}{}{pravá ruka}
 {1493}{}{hrudník}
 {1494}{}{pravá noha}
 {1495}{}{levá noha}
@@ -307,8 +307,8 @@
 {1507}{}{CPU}
 {1508}{}{uncalled}
 {1510}{}{hlava}
-{1511}{}{levý pařát}
-{1512}{}{pravý pařát}
+{1511}{}{levá ruka}
+{1512}{}{pravá ruka}
 {1513}{}{hrudník}
 {1514}{}{pravá noha}
 {1515}{}{levá noha}
@@ -318,7 +318,7 @@
 {1520}{}{hlava}
 {1521}{}{přední noha}
 {1522}{}{přední noha}
-{1523}{}{krunýř}
+{1523}{}{břicho}
 {1524}{}{nohy}
 {1525}{}{křídla}
 {1526}{}{oči}
@@ -330,7 +330,7 @@
 {1533}{}{konstrukce}
 {1534}{}{servo}
 {1535}{}{servo}
-{1536}{}{senzory}
+{1536}{}{čidla}
 {1537}{}{regulátor}
 {1538}{}{uncalled}
 {1540}{}{CPU}
@@ -339,7 +339,7 @@
 {1543}{}{konstrukce}
 {1544}{}{servo}
 {1545}{}{servo}
-{1546}{}{senzory}
+{1546}{}{čidla}
 {1547}{}{regulátor}
 {1548}{}{uncalled}
 {1550}{}{hlava}
@@ -351,18 +351,18 @@
 {1556}{}{oči}
 {1557}{}{genitálie}
 {1558}{}{uncalled}
-{1580}{}{skořápka}
-{1581}{}{skořápka}
-{1582}{}{skořápka}
-{1583}{}{skořápka}
-{1584}{}{skořápka}
-{1585}{}{skořápka}
-{1586}{}{skořápka}
-{1587}{}{skořápka}
+{1580}{}{krunýř}
+{1581}{}{krunýř}
+{1582}{}{krunýř}
+{1583}{}{krunýř}
+{1584}{}{krunýř}
+{1585}{}{krunýř}
+{1586}{}{krunýř}
+{1587}{}{krunýř}
 {1588}{}{uncalled}
 {1590}{}{hlava}
 {1591}{}{ocas}
-{1592}{}{klepeta}
+{1592}{}{klepeto}
 {1593}{}{krunýř}
 {1594}{}{přední nohy}
 {1595}{}{zadní nohy}
@@ -370,8 +370,8 @@
 {1597}{}{mozek}
 {1598}{}{uncalled}
 {1600}{}{hlava}
-{1601}{}{levý pařát}
-{1602}{}{pravý pařát}
+{1601}{}{levá ruka}
+{1602}{}{pravá ruka}
 {1603}{}{hrudník}
 {1604}{}{pravá noha}
 {1605}{}{levá noha}
@@ -393,7 +393,7 @@
 {1663}{}{trup}
 {1664}{}{pravá noha}
 {1665}{}{levá noha}
-{1666}{}{senzory}
+{1666}{}{čidla}
 {1667}{}{kloub}
 {1668}{}{uncalled}
 {1670}{}{hlava}
@@ -421,11 +421,11 @@
 {1804}{}{pravá noha}
 {1805}{}{levá noha}
 {1806}{}{oči?}
-{1807}{}{pohlavní orgány}
+{1807}{}{tříselná jamka}
 {1808}{}{uncalled}
 {1850}{}{hlava}
-{1851}{}{levý pařát}
-{1852}{}{pravý pařát}
+{1851}{}{levá ruka}
+{1852}{}{pravá ruka}
 {1853}{}{hrudník}
 {1854}{}{pravá noha}
 {1855}{}{levá noha}
@@ -439,7 +439,7 @@
 {1864}{}{pravá noha}
 {1865}{}{levá noha}
 {1866}{}{oči?}
-{1867}{}{pohlavní orgány}
+{1867}{}{tříselná jamka}
 {1868}{}{uncalled}
 {1900}{}{CPU}
 {1901}{}{zbraň}
@@ -447,21 +447,21 @@
 {1903}{}{konstrukce}
 {1904}{}{servomotor}
 {1905}{}{servomotor}
-{1906}{}{senzory}
+{1906}{}{čidla}
 {1907}{}{regulátor}
 {1908}{}{uncalled}
 {1970}{}{hlava}
 {1971}{}{levá přední noha}
 {1972}{}{pravá přední noha}
-{1973}{}{krunýř}
+{1973}{}{břicho}
 {1974}{}{pravá zadní noha}
 {1975}{}{levá zadní noha}
 {1976}{}{tykadla}
 {1977}{}{kladélko}
 {1978}{}{uncalled}
 {1990}{}{hlava}
-{1991}{}{levý pařát}
-{1992}{}{pravý pařát}
+{1991}{}{levá ruka}
+{1992}{}{pravá ruka}
 {1993}{}{hrudník}
 {1994}{}{pravá noha}
 {1995}{}{levá noha}
@@ -469,8 +469,8 @@
 {1997}{}{genitálie}
 {1998}{}{uncalled}
 {2000}{}{hlava}
-{2001}{}{levý pařát}
-{2002}{}{pravý pařát}
+{2001}{}{levá ruka}
+{2002}{}{pravá ruka}
 {2003}{}{hrudník}
 {2004}{}{pravá noha}
 {2005}{}{levá noha}
@@ -483,7 +483,7 @@
 {2013}{}{konstrukce}
 {2014}{}{servomotor}
 {2015}{}{servomotor}
-{2016}{}{senzory}
+{2016}{}{čidla}
 {2017}{}{regulátor}
 {2018}{}{uncalled}
 {2030}{}{hlava}

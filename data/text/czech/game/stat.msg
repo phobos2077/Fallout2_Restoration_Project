@@ -42,7 +42,7 @@
 {203}{}{Kombinace fyzického vzhledu a osobního kouzla. Vysoká hodnota CHARISMA je důležitá pro postavy, které chtějí ovlivňovat své okolí nenásilně, tj. řečí. Ovlivňuje: Reakce NPC, ceny v obchodech a množství společníků.}
 {204}{}{Znalosti, moudrost a schopnost bystrého uvažování. Vysoká hodnota INTELIGENCE je důležitá pro všechny postavy. Ovlivňuje: Počet nově přidělených dovednostních bodů za úroveň, bohatost volby dialogu s NPC a mnoho dovedností.}
 {205}{}{Svalová koordinace a schopnost rychlého pohybu. Vysoká hodnota HBITOSTI je důležitá pro všechny aktivní postavy. Ovlivňuje: Počet akčních bodů, třídu zbroje, postřeh a mnoho dovedností.}
-{206}{}{Osud. Karma. Extremně vysoká nebo nízká hodnota ŠTĚSTÍ postavu nějakým způsobem ovlivní. Události a jejich následky se změní podle toho, jakou má vaše postava kliku nebo smůlu. Ovlivňuje: Šanci na kritický zásah, hod virtuální kostkou a hazard.}
+{206}{}{Osud. Karma. Extrémně vysoká nebo nízká hodnota ŠTĚSTÍ postavu nějakým způsobem ovlivní. Události a jejich následky se změní podle toho, jakou má vaše postava kliku nebo smůlu. Ovlivňuje: Šanci na kritický zásah, hod virtuální kostkou a hazard.}
 {207}{}{Hit body (HB). Určují, kolik zásahů vydrží tvá postava než zemře. Pokud dosáhneš 0 a méně hit bodů, je po tobě.}
 {208}{}{Akční body (AB). Počet akcí, které může tvá postava v boji během svého tahu učinit. Různé akce samozřejmě spotřebovávají i různé množství akčních bodů.}
 {209}{}{Třída zbroje (TZ). Ovlivňuje šanci, že bude tvá postava v boji zasažena. Čím vyšší je třída zbroje, tím vyšší je šance, že nepřítel tvou postavu nezasáhne.}
