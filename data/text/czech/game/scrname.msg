@@ -197,7 +197,7 @@
 {297}{}{Modocká studna}
 {298}{}{NCR Zóna 2}
 {299}{}{Zahrady Arroya}
-{300}{}{Gecka}
+{300}{}{Gecko}
 {301}{}{Květina Broc}
 {302}{}{Kořen Xander}
 {303}{}{Brahmína}
@@ -1355,7 +1355,7 @@
 {1455}{}{Mapa kmene 2}
 {1456}{}{Mapa kmene 2 - spacial 1}
 {1457}{}{Mapa kmene 2 - spacial 2}
-{1458}{}{Gecka}
+{1458}{}{Gecko}
 {1459}{}{Strážce jeskyně}
 {1460}{}{Mrtvola}
 {1461}{}{Les spacial}

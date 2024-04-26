@@ -89,7 +89,7 @@
 {288}{}{Můj pán je hodný. Bije mě jenom občas.}
 {289}{}{Rodina mi nechybí. Můj pán je hodný.}
 {290}{}{Byl jsem odveden z vesnice, která leží na severu. Život tady je mnohem lepší.}
-{291}{}{Poprvý mě chytili v Denu.}
+{291}{}{Poprvé mě chytili v Denu.}
 {292}{}{Nemohu s vámi mluvit. Musím pracovat.}
 {293}{}{Musím dokončit svý povinnosti, než se vrátí můj pán.}
 {294}{}{Mluvení je proti pravidlům.}

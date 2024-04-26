@@ -41,7 +41,7 @@
 {304}{}{Skladiště}
 {310}{}{Vchod}
 {311}{}{Vnitřek}
-{500}{}{Získal jsi 10.000 zkušenostních bodů!}
+{500}{}{Získal jsi 10 000 zkušenostních bodů!}
 {501}{}{Ruiny}
 {1000}{}{Poušť}
 {1001}{}{Hory}
