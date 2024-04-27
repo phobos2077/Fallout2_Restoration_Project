@@ -68,7 +68,7 @@
 {167}{}{Nic. Já říct ahoj.}
 {168}{}{Jste si jistý, že je tahle místnost zvukotěsná?}
 {169}{}{Chci se vás ještě na něco zeptat.}
-{170}{}{Nic. Tak zase někdy nashle.}
+{170}{}{Nic. Jen jsem chtěl zase říci 'ahoj'.}
 {171}{}{Samozřejmě, že jsem si jistý. Velitel to nechal udělat. Proč se ptáte?}
 {172}{}{Jen tak.}
 {173}{}{Já nechtít aby slyšet tvůj křik až já tě zabít!}

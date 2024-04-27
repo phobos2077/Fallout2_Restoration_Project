@@ -63,6 +63,6 @@
 {233}{}{Propána! Žádný div, že tě naše malé triky nevyděsily. Jsi příliš hloupý na to, než aby tě něco takového vyděsilo. Nerad se spoléhám na takto mentálně zaostalé jedince, ale potřebujeme tvoje služby. Doruč tuto zprávu do Modocu. Předej ji vůdci Modocu a zkus se při tom neztratit.}
 {300}{}{Už půjdu.}
 {301}{}{Co ode mně chcete?}
-{302}{}{Nashle.}
+{302}{}{Čau.}
 {303}{}{Duchové?}
 {400}{}{Zpráva byla přijata kladně. Obyvatelé Modocu chtějí obchodovat s tvými lidmi.}

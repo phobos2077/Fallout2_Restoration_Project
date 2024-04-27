@@ -115,4 +115,4 @@
 {235}{}{Vyřiď si to s Dragonem sám.}
 {236}{}{(Lo Pan tě chvíli pozoruje a poté najednou rychle vymrští svoji pěst, která tě udeří do nosu ještě dřív, než stihneš vůbec zareagovat.) Nejsi dost dobrý.}
 {237}{}{Dobře, ale můžu se na něco zeptat?}
-{238}{}{Fajn. Nashle.}
+{238}{}{Fajn. Čau.}

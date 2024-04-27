@@ -3,17 +3,17 @@
 {102}{}{Co pro tebe můžu udělat?}
 {103}{}{Kam máš namířeno?}
 {104}{}{Co vezete?}
-{105}{}{Nashle.}
+{105}{}{Čau.}
 {106}{}{Eh.}
 {107}{}{Právě jsem vyzvedl zásilku z }
 {108}{}{ a mám namířeno do }
 {109}{}{.}
 {110}{}{Co vezete?}
-{111}{}{Nashle.}
+{111}{}{Čau.}
 {112}{}{Vezeme }
 {113}{}{Myslíš, že bysme spolu mohli obchodovat?}
 {114}{}{Kam máš namířeno?}
-{115}{}{Nashle.}
+{115}{}{Čau.}
 {116}{}{No, proč ne. Uvážím-li, že jsi nám pomohl, když bylo nejhůř a tak. Jasně, proč ne. Tady je moje nabídka.}
 {117}{}{[Obchodovat]}
 {118}{}{Rozmyslel jsem si to.}
@@ -24,10 +24,10 @@
 {123}{}{Počkej chvilku! Už jsem o tobě slyšel. Ty jsi ten dobrodinec, co chodí kolem, zachraňuje lidi a pomáhá jim. Nemáme rádi lidi, jako jsi ty, takže odpal!}
 {124}{}{Slyšel jsem hodně dobrého o člověku, který vypadá jako ty. Myslím, že spolu můžeme vyměnit nějaké zboží. Tady je moje nabídka.}
 {125}{}{[Obchodovat]}
-{126}{}{Nashle.}
+{126}{}{Čau.}
 {127}{}{Už jsem o tobě slyšel. Takže ty jsi ten parchant, který tu všude kolem dělá ten binec. Chtěl jsem se s tebou setkat a potřást ti rukou. Jenom myšlenka na všechny ty špatnosti, které se o tobě povídají, mi vhání slzy do očí. Bude mi ctí s tebou obchodovat.}
 {128}{}{[Obchodovat]}
-{129}{}{Nashle}
+{129}{}{Čau}
 {130}{}{Říká se, že někdo tobě podobný dělá v poslední době problémy. S takovými lidmi neobchoduju. Je mi líto.}
 {131}{}{Nevím, proč tě hledají a popravdě řečeno mě to ani moc nezajímá. S takovými lidmi neobchodujeme.}
 {132}{}{Co takhle jít... 'konat dobro' někam jinam?}
@@ -35,7 +35,7 @@
 {134}{}{Čím se zabýváš?}
 {135}{}{Kam máš namířeno?}
 {136}{}{Co vezete?}
-{137}{}{Nashle.}
+{137}{}{Čau.}
 {138}{}{Eh.}
 {139}{}{To je... fajn. Tak se měj. }
 {150}{}{léky.}

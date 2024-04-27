@@ -13,15 +13,15 @@
 {112}{}{Dík?}
 {113}{}{Jmenuju se Marc. Jsem místní chytrák a vím úplně všecko. ::usmívá se::}
 {114}{}{Aha. Mám další otázky.}
-{115}{}{Nashle.}
+{115}{}{Čau.}
 {116}{}{Tohle je Poseidon Marine Vessel Valdez - známej taky jako PMV Valdez. Jestli chceš o něm vědět víc, tak se jdi zeptat kapitána.}
 {117}{}{Kapitán? Kdo to je?}
 {118}{}{Mám další otázky.}
-{119}{}{Nashle.}
+{119}{}{Čau.}
 {120}{}{Na starosti? Nemáme žádnýho šéfa.}
 {121}{}{Odkud jste všichni přišli?}
 {122}{}{V tom případě mám na tebe další otázky.}
-{123}{}{Nashle.}
+{123}{}{Čau.}
 {124}{}{Kapitán je starej drsnej voják. Sedí v horním patře a pozoruje okolí. Hodně toho o týhle lodi ví.}
 {125}{}{Díky. Mám další otázky.}
 {126}{}{Dík. Měj se.}
@@ -43,17 +43,17 @@
 {142}{}{Jaké?}
 {143}{}{Kde najdu toho kapitána?}
 {144}{}{Chci se zeptat na něco jiného.}
-{145}{}{Nashle.}
+{145}{}{Čau.}
 {146}{}{Jsou to blázni. Vůbec jim nevěř... teda pokud nejseš mentálně postiženej nebo máš rád, když tě někdo využívá. Je zajímaj jenom tvý peníze a duše. Kvůli tomu jsou schopný zničit jeden druhýho. Už mockrát jsem viděl, jak se to stalo.}
 {147}{}{Přišli jste na to jak zprovoznit tanker?}
 {148}{}{Pověz mi něco o Shi.}
 {149}{}{Mám další otázky.}
-{150}{}{Nashle.}
+{150}{}{Čau.}
 {151}{}{To jsou dobrý lidi. Sice moc nedůvěřujou cizincům, ale to není až tak špatná vlastnost v týhle době. Maj zvláštní zvyky a mluví srandovně, ale jinak jsou v pohodě.}
 {152}{}{Přišli jste na to jak zprovoznit tanker?}
 {153}{}{Pověz mi něco o Hubologistech.}
 {154}{}{Mám další otázky.}
-{155}{}{Nashle.}
+{155}{}{Čau.}
 {156}{}{Chceš vědět jaký máme plány? Chceme najít místo, který by nebylo postižený lidskou chamtivostí a pak se pokusíme vytvořit lepší společnost.}
 {157}{}{A už víte, jak to uděláte?}
 {158}{}{Mám další otázky.}

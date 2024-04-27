@@ -11,9 +11,9 @@
 {110}{}{Tak snad někdy jindy. Ať jsou tvé cesty prosty nebezpečí.}
 {111}{}{Dík. Měj se.}
 {112}{}{Jaká škoda. Odpočiň si tedy a vítej v našem táboře.}
-{113}{}{Díky. Naschle.}
+{113}{}{Díky. Nashle.}
 {114}{}{Vidím, že moje nabídka stínu přišla příliš pozdě. Slunce ti už nejspíš vypálilo mozek. Musím být přívětivý k těm, kteří v životě nemají tolik štěstí. Zůstaň v mém táboře, jak dlouho budeš chtít, zabedněnče.}
-{115}{}{Nashle.}
+{115}{}{Čau.}
 {116}{}{Nevěřící!}
 {117}{}{Proč na nás útočíš?}
 {118}{}{Budu bránit svůj kmen do poslední kapky krve!}

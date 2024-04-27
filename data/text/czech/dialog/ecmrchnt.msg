@@ -12,5 +12,5 @@
 {252}{}{Jo. Já mít zboží!}
 {253}{}{Já jít.}
 {260}{}{Bylo fajn s tebou obchodovat. Ať tě na tvejch cestách doprovází štěstí.}
-{261}{}{Nashle.}
+{261}{}{Čau.}
 {270}{}{Vítej zpátky. Chceš se podívat, co nabízím?}

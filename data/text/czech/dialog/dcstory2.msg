@@ -60,5 +60,5 @@
 {165}{}{To je mi líto.}
 {166}{}{Och...}
 {167}{}{Bolí mě srdce, když si na to vzpomenu...}
-{168}{}{Nashle.}
+{168}{}{Čau.}
 {169}{}{Stacy ti pověděla příběh o své roztomilé kočce Kuličce.}

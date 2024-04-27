@@ -9,7 +9,7 @@
 {108}{}{Kdo jsi?}
 {109}{}{Mám přítele, kterému chybí slezina. Můžete mu pomoct?}
 {110}{}{Co mi můžeš říct o tomto místě?}
-{111}{}{Nashle.}
+{111}{}{Čau.}
 {112}{}{Ukažte, podívám se na to. Hmm... ano. Budete mi muset zaplatit, samozřejmě.}
 {113}{}{Kolik za to?}
 {114}{}{Zapomeň na to.}

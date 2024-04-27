@@ -68,7 +68,7 @@
 {167}{}{Potřebuju získat palivo pro Hubologisty.}
 {168}{}{Nic. Promiňte.}
 {169}{}{Jsme bez paliva. S ničím jiným vám teď nemohu pomoci. Jsem příliš zaměstnán tou zbrojí. Hezký den.}
-{170}{}{Nashle.}
+{170}{}{Čau.}
 {171}{}{. Jen se rozhlížím kolem.}
 {172}{}{, potřebujete něco?}
 {173}{}{ by mohlo stačit.}

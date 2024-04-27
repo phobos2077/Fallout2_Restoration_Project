@@ -13,7 +13,7 @@
 {112}{}{[Více]}
 {113}{}{Skvělé, skvělé. Díky za obchod. Přijď zas!}
 {114}{}{Další otázky!}
-{115}{}{Nashle!}
+{115}{}{Čau!}
 {116}{}{Ne, to není dost dobré. Lituju. Možná něco jiného?}
 {117}{}{Další otázky.}
 {118}{}{Ne. Nashle.}

@@ -4,7 +4,7 @@
 {200}{}{Ahoj. Co pro tebe mohu udělat?}
 {201}{}{Mám něco od Elaine...}
 {202}{}{Co je tohle za místo?}
-{203}{}{Nashle.}
+{203}{}{Čau.}
 {300}{}{Nech mě hádat. Je to ta součástka, kterou jsem si vyžádal, že?}
 {301}{}{Ano, tady ji máš.}
 {302}{}{Ne, jenom tě zkouším.}

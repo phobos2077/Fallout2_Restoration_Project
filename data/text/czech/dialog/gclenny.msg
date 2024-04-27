@@ -17,7 +17,7 @@
 {125}{}{Ano. Co potřebuješ?}
 {126}{}{Myslím, že teď nepotřebuju nic.}
 {130}{}{O-opouštět svoji v-vesnici byla chyba. Teď j-jdi domů.}
-{131}{}{Domů? Naskle.}
+{131}{}{Domů? Pa.}
 {140}{}{B-běž radši domů.}
 {141}{}{N-nemám na tebe čas.}
 {142}{}{P-padej. Jdi pryč!}

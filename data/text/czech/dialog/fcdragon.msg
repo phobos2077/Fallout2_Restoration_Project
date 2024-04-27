@@ -127,4 +127,4 @@
 {235}{}{Vyřiď si to s Lo Panem sám.}
 {236}{}{(Dragon tě studuje.) S lítostí ti oznamuji, že nedovolím, aby sis ublížil.}
 {237}{}{Dobře, ale můžu se na něco zeptat?}
-{238}{}{Fajn. Nashle.}
+{238}{}{Fajn. Čau.}

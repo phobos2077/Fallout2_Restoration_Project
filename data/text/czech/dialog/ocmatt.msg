@@ -34,7 +34,7 @@
 {133}{}{Ano.}
 {134}{}{Ne.}
 {135}{}{Áááá! Jseš hlupák, že jim věříš. Pokud změníš názor, vrať se.}
-{136}{}{Nashle.}
+{136}{}{Čau.}
 {137}{}{Tak už sis to rozmyslel? Pomůžeš mi odsud?}
 {138}{}{Ano.}
 {139}{}{Ne.}

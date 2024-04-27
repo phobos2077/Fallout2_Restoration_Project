@@ -62,7 +62,7 @@
 {161}{}{Samozřejmě. Díky. Nashle.}
 {162}{}{Opravdu? To je úchvatný názor. Škoda že jsme nerozdrtili tvoji vesnici, když jsme ještě ovládali pustinu. Zmiz mi z očí, červe.}
 {200}{}{[KONEC]}
-{201}{}{Nashle.}
+{201}{}{Čau.}
 {202}{}{Dík. Měj se.}
 {203}{}{[Více]}
 {204}{}{Samozřejmě. Díky. Nashle.}

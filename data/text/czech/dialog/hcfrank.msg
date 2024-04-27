@@ -30,7 +30,7 @@
 {129}{}{Samozřejmě.}
 {130}{}{Nic to dokazovat nemusím, ubožáku.}
 {131}{}{Táhni k čertu, kreténe! Nebejt ve vězení, tak tě zabiju!}
-{132}{}{Nashle.}
+{132}{}{Čau.}
 {133}{}{Tenhle systém je založenej na lásce k mutantům. Nenávidíš je?}
 {134}{}{Ano.}
 {135}{}{Ne.}

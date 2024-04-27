@@ -20,7 +20,7 @@
 {119}{}{Poctivějšími lidmi? Tihle?}
 {120}{}{Co je přesně Enkláva?}
 {121}{}{Jak tuhle věc uvedeš do pohybu?}
-{122}{}{Nashle.}
+{122}{}{Čau.}
 {123}{}{Jak se tahle bárka ovládá? Nejdřív ji naplníš palivem - zkus to u Hubologistů nebo u Shi - a až budeš mít všechno ostatní hotový, zmáčkneš knoflík a počítač se postará o všechno ostatní, teda jestli to bude ještě fungovat. Loď popluje přímo k ropný plošině, pokud tě nesejme ta stará ponorka. Ale aspoň se nebudeš muset obávat, že po tobě bude střílet Enkláva, protože máš IFF rušičku. Hlavně se ujisti, že máš všechno, co potřebuješ k přístupu: FOB, funkční navigační počítač a palivo. Jasný jako facka, ne?}
 {124}{}{Jasně. Jak tohle všechno víš?}
 {125}{}{Co je to IFF radarová rušička a ten FOB?}

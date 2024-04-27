@@ -39,7 +39,7 @@
 {138}{}{Někdo volat já. Muset jít.}
 {139}{}{Aha. Tak to zkusíme jinak. Ahoj, já jsem Valdis. Jak se jmenuješ ty?}
 {140}{}{Já}
-{141}{}{Nashle.}
+{141}{}{Čau.}
 {142}{}{Neoprávněná osoba, to znamená 'člověk, co tu nemá co pohledávat.'}
 {143}{}{Dobře. Rozumět.}
 {144}{}{Já mít zase bolehlav. Já teď jít.}

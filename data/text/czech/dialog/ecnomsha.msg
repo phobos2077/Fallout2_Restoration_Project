@@ -5,7 +5,7 @@
 {104}{}{Zdravím.}
 {105}{}{Potřebuju vyléčit.}
 {106}{}{Umíš smíchat kořen Xanderu s květinou Broc?}
-{107}{}{Nashle.}
+{107}{}{Čau.}
 {108}{}{Ooga.}
 {109}{}{Stůj klidně a já tě vyšetřím.}
 {110}{}{[Pokračovat]}
@@ -15,7 +15,7 @@
 {114}{}{Dostaň jed z mého těla, prosím.}
 {115}{}{Prosím, uzdrav mě.}
 {116}{}{Podívej se, jestli dokážeš něco udělat s tou zlomeninou.}
-{117}{}{Nashle.}
+{117}{}{Čau.}
 {118}{}{Tvá zranění byla vyléčena.}
 {119}{}{Tvá zranění byla vyléčena.}
 {120}{}{Tvá zranění byla vyléčena.}
@@ -29,7 +29,7 @@
 {128}{}{Smíchej pro mě prosím tyto dvě rostliny.}
 {129}{}{Možná později. Nashle.}
 {130}{}{(Díváš se, jak opatrně drtí a smíchá dvě rostliny a poté ti podá přesně odměřené dávky prášku.)}
-{131}{}{Nashle.}
+{131}{}{Čau.}
 {132}{}{Zdá se, že nemáš dost peněz. Vrať se, až bude tvoje peněženka naditější.}
 {133}{}{[KONEC]}
 {134}{}{Nemám čas na takové hlouposti. Odejdi!}

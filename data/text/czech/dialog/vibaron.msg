@@ -42,14 +42,14 @@
 {305}{}{Vlastně, zapomeň na to. Nashle.}
 {310}{}{To je přesně to, co jsem měl na mysli! Dobře, platí. (Nenasytně popadne peníze a potřese ti rukou.)}
 {311}{}{Bylo mi potěšením s tebou obchodovat. Nashle.}
-{312}{}{Nashle.}
+{312}{}{Čau.}
 {320}{}{$500? To mi za to nestojí. Dej mi $1 000 a plácneme si.}
 {321}{}{Tolik nemám. Nashle.}
 {322}{}{Tak jo, dobře. $1000.}
 {323}{}{Ani náhodou. Sbohem.}
 {330}{}{To je přesně to, co jsem měl na mysli! Dobře, platí. (Nenasytně popadne peníze a potřese ti rukou.)}
 {331}{}{Bylo mi potěšením s tebou obchodovat. Nashle.}
-{332}{}{Nashle.}
+{332}{}{Čau.}
 {340}{}{Ty mi vyhrožuješ? Kdokoliv mě zkusí vyhrožovat, chcípne! (křičí na své strážce) Sejměte toho zmrda!}
 {341}{}{Tak pojďte!}
 {350}{}{Poslyš, nechci žádné problémy. Jestli potřebuješ, abych s nimi začal obchodovat, dobře. O nic nejde. Sakra, vždyť to ani není moc daleko od mojí trasy. Žádný problém.}
@@ -72,7 +72,7 @@
 {390}{}{(Obchodník se na tebe směje, zatímco si zapíná pásek.) No do prdele, ty zatraceně dobře víš, jak se má smlouvat. Jestli budeš někdy potřebovat přemluvit nějakého obchodníka, určitě mě vyhledej. Ale teď už musím jít. Bylo mi potěšením s tebou obchodovat.}
 {391}{}{[Oklepat se zhnusením] Jednou mi to stačilo až až. Nashle.}
 {392}{}{Kdykoliv. Nashle.}
-{393}{}{Nashle.}
+{393}{}{Čau.}
 {400}{}{(Prohlédne si Miriu odshora dolů a poté se zeširoka usměje.) Myslím, že jsme se právě dohodli. (Potřese ti rukou, poté si Miriu přitáhne k sobě a odvede ji někam do soukromí.)}
 {401}{}{[Při čekání si podupávat nohou]}
 {402}{}{[Při čekání si pískat]}
@@ -81,6 +81,6 @@
 {410}{}{(O hodinu později vidíš Roberta Barona a Miriu, celí zpocení a neupravení po skončení sexuálního dovádění, jak jdou zpátky k tobě. Všimneš si, že Miria trošku kulhá.) No do prdele, ty zatraceně dobře víš, jak se má smlouvat. Pokud budeš někdy potřebovat přemluvit obchodníka kvůli něčemu jinému, určitě mě vyhledej. Ale teď už musím jít. Bylo mi potěšením s tebou obchodovat.}
 {411}{}{Nevadí. Nashle.}
 {412}{}{Kdykoliv. Nashle.}
-{413}{}{Nashle.}
+{413}{}{Čau.}
 {500}{}{Podařilo se ti přesvědčit obchodníka, aby přidal vesnici ke své obchodní trase.}
 {510}{}{Zabil jsi obchodníka, takže jsi způsobil, že vesnice nebude moct obchodovat.}

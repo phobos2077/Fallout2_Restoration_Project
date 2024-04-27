@@ -8,7 +8,7 @@
 {107}{}{Kdo jsi?}
 {108}{}{Hledám nějaké vybavení.}
 {109}{}{Sháním nějaké informace.}
-{110}{}{Nashle.}
+{110}{}{Čau.}
 {111}{}{Chceš něco koupit?}
 {112}{}{::kývnout hlavou::}
 {113}{}{::zavrtět hlavou::}
@@ -75,7 +75,7 @@
 {174}{}{Kdo jsi?}
 {175}{}{Hledám nějaké vybavení.}
 {176}{}{Sháním nějaké informace.}
-{177}{}{Nashle.}
+{177}{}{Čau.}
 {178}{}{Už jsi je dal Hubologistům. Nebo ne?}
 {179}{}{A jo... eh... můžu se zeptat na něco jiného?}
 {180}{}{A jo... nashle.}
@@ -149,4 +149,4 @@
 {481}{}{Fajn. Tady je tvých $10000.}
 {482}{}{Tvoji nabídku odmítáme.}
 {490}{}{Tvoje mínus. Myslím, že už se nemáme spolu o čem bavit. Sbohem.}
-{491}{}{Nashle.}
+{491}{}{Čau.}

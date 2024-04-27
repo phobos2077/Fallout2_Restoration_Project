@@ -26,7 +26,7 @@
 {353}{}{Pokračovat.}
 {354}{}{[BOJ]}
 {355}{}{[Dát peníze]}
-{375}{}{Nashle.}
+{375}{}{Čau.}
 {376}{}{Sbohem.}
 {400}{}{Umíráš díky smrtelné injekci doktora Troye.}
 {450}{}{Vzduch je čistý. Pojďme odsud!}

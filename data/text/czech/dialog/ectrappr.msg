@@ -15,7 +15,7 @@
 {114}{}{Vezmu si všechno co máš.}
 {115}{}{Možná příště. Nashle.}
 {116}{}{Bylo mi potěšením s tebou obchodovat. Zatím.}
-{117}{}{Nashle.}
+{117}{}{Čau.}
 {118}{}{Vypadá to, že jseš bez peněz. Co kdybych si na 5 minut půjčil tvoji ženu? Nebudeš toho litovat.}
 {119}{}{Vypadá to, že jseš bez peněz. Co kdybych si na 5 minut půjčil tvýho muže? Však víš, co myslím. Výměnou za to ti dám pár kůží.}
 {120}{}{Vypadá to, že jseš bez peněz. Něco ti povím, už jsem v těhlech lesích pěkně DLOUHO sám, jestli mi rozumíš. Nebudeš toho litovat.}
@@ -24,7 +24,7 @@
 {123}{}{(Miria ti odpustí... časem. Ale na druhou stranu ti dal lovec několik kůží.)}
 {124}{}{(Po tomto zážitku se zdá, že Davin není vůbec unavený.)}
 {125}{}{(Cítíš se špinavý a tvé pocity se nedají popsat slovy... ale máš několik kůží geckonů.)}
-{126}{}{Nashle.}
+{126}{}{Čau.}
 {127}{}{(Zvedne nahoru svoji pravou ruku a řekne.) Vítat. Já mocný lovec. Lovit velké geckony. Já nechtít vstoupit na tvoje země. Odejít v míru. (Dá ti geckoní kůži jako dar.)}
 {128}{}{[KONEC]}
 {129}{}{Už s tebou nechci obchodovat.}

@@ -76,7 +76,7 @@
 {223}{}{Ne, neudělám. Sbohem.}
 {224}{}{Možná máš pravdu. Promluvím si s ní. Díky.}
 {225}{}{Na co by jinak byli přátelé?}
-{226}{}{Nashle.}
+{226}{}{Čau.}
 {227}{}{Nemám žádnou informaci.}
 {228}{}{Opravdu? A co třeba to, že jsou drinky U Becky o tolik levnější než ty tvoje?}
 {229}{}{Myslel jsem, že barmani vědí všechno.}
@@ -96,7 +96,7 @@
 {244}{}{Jsi ta nejlepší, kterou jsem kdy měl. Opravdu. Myslím to vážně.}
 {245}{}{Nenávidím takové rychlovky, ale...}
 {246}{}{No, uvidíme se později.}
-{247}{}{Nashle.}
+{247}{}{Čau.}
 {248}{}{Jo, jasně. Aspoň si po sobě tentokrát ukliď, ano?}
 {249}{}{Hej, všichni! A teď jednu na Billyho. Konečně si zase zapíchá!}
 {250}{}{Potřebuješ mop?}

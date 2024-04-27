@@ -10,7 +10,7 @@
 {158}{}{Promiň, předtím jsem byl zfetovanej. Nemyslel jsem to tak.}
 {159}{}{Hele, co máš za problém?}
 {160}{}{Chci se na něco zeptat.}
-{161}{}{Už to tak vypadá. Nashle.}
+{161}{}{Už to tak vypadá. Nachle.}
 {162}{}{Coo?}
 {163}{}{No, tak na to už je moc pozdě. Vypadni.}
 {164}{}{Prosím, prosím, prosím, omlouvám se.}
@@ -21,7 +21,7 @@
 {169}{}{Jsem rád, že jsme si to vyříkali. Uvidíme se později.}
 {170}{}{Zdravím. Rád tě vidím.}
 {171}{}{Ahoj, Metzgere. Musíme si promluvit.}
-{172}{}{Nápodobně. Nashle.}
+{172}{}{Nápodobně. Nachle.}
 {173}{}{Škyt.}
 {174}{}{Jsem Metzger, šéf Cechu otrokářů. Co potřebuješ?}
 {175}{}{Ano, mám nějaké otázky.}

@@ -4,7 +4,7 @@
 {200}{}{Zdravím!}
 {201}{}{Ahoj, jak se jmenuješ?}
 {202}{}{Co mi můžeš říct o Opatství?}
-{203}{}{Nashle.}
+{203}{}{Čau.}
 {300}{}{Jestli se chceš o našem řádu dozvědět víc, promluv si s Opatem. Najdeš ho ve třetím patře.}
 {301}{}{Rozumím. Ještě se chci zeptat...}
 {400}{}{Jistě, co chceš vědět?}
@@ -22,7 +22,7 @@
 {700}{}{Já }
 {701}{}{. Kdo ty?}
 {710}{}{Hehe. To hezké jméno.}
-{711}{}{Nashle!}
+{711}{}{Čau!}
 {720}{}{Ty jsi ale milý klučík, že? Udělal bys mi VELKOU laskavost a byl dnes mým zvláštním pomocníkem?}
 {721}{}{Ty jsi ale milá děvenka, že? Udělala bys mi VELKOU laskavost a byla dnes mým zvláštním pomocníkem?}
 {722}{}{Já zvláštní. Já pomoct.}

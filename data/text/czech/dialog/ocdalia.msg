@@ -26,7 +26,7 @@
 {125}{}{Díky, promluvíme si později.}
 {126}{}{Ne, nejsem. Jsem tu ze své vlastní vůle a líbí se mi tu. Myslím, že tohle je bezpečné místo, takže tu chvíli zůstanu.}
 {127}{}{Dobře.}
-{128}{}{Nashle.}
+{128}{}{Čau.}
 {129}{}{Tak dobře.}
 {130}{}{Aha. No, už půjdu.}
 {131}{}{Jo, řekli mi, že můžu zůstat, nebo kdykoliv odejít. Prozatím zůstávám.}
@@ -45,7 +45,7 @@
 {144}{}{Teď už jsi v bezpečí, Dalio. Nemusíš se obávat žádné odplaty.}
 {145}{}{Díky,}
 {146}{}{To být v pořádku.}
-{147}{}{Nashle.}
+{147}{}{Čau.}
 {148}{}{Není zač.}
 {149}{}{Zatím.}
 {150}{}{Ahoj.}

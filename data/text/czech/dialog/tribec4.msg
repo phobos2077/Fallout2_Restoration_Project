@@ -67,7 +67,7 @@
 {631}{}{Jo, všechno mám tady.}
 {632}{}{Stále hledám. Nashle.}
 {640}{}{Ukaž... no výborně. Ty budou skvělé. Tady máš za to nějaké léčivé prášky.}
-{641}{}{Díky. Naschle.}
+{641}{}{Díky. Nashle.}
 {1000}{}{Podařilo se ti oprostit vesnického šamana od jeho problémů.}
 {2000}{}{Donesl jsi šamanovi bylinky.}
 {3000}{}{Já věděl, že jsi velký hrdina... duchové mi to řekli.}

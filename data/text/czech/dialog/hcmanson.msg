@@ -31,7 +31,7 @@
 {130}{}{To je pravda! Měli bysme... ehh... myslet sami za sebe! To říká Franc a Jacob!}
 {131}{}{Páni, ty to těm dvoum opravdu žereš, co? Co kdybys někdy zkusil myslet sám za sebe, místo toho abys jen papouškoval, co ti ostatní řeknou?}
 {132}{}{Ty máš Franca opravdu rád, co?}
-{133}{}{Nashle.}
+{133}{}{Čau.}
 {134}{}{Co ty o tom víš, kreténe? Vypadni odsud, než se ti něco stane!}
 {135}{}{Kdysi dávno tady byl člověk, co nás naučil myslet sami za sebe. Moje matka a otec mi říkali, že jsem s ním byl příbuznej. Zemřel ve vězení, ale stejně měl na mě velkej vliv. Říká se, že byl fakt chytrej a myslím, že je to pravda. Však se na mě podívej!}
 {136}{}{Eh... jasně. Dívám se na tebe.}

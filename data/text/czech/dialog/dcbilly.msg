@@ -17,7 +17,7 @@
 {165}{}{Tak fajn! Teď jdi pěkně tady s Billym, zlatíčko.}
 {166}{}{Teď odejdi.}
 {167}{}{Dík. Měj se.}
-{168}{}{Nashle.}
+{168}{}{Čau.}
 {169}{}{Ou, sakra.}
 {170}{}{[KONEC]}
 {171}{}{Jsem úplně vyčerpanej.}
@@ -35,7 +35,7 @@
 {183}{}{Neotravuj mě. Vyhlížím nějakou fajnovou kost.}
 {184}{}{Hodně štěstí. Budeš ho potřebovat.}
 {185}{}{Jsem snad sekaný játra nebo co?}
-{186}{}{Nashle.}
+{186}{}{Čau.}
 {187}{}{Ó. Dobře. Nashle.}
 {188}{}{(Prohlédne si tě odshora dolů.) Ne. Já mám rád sekaný játra.}
 {189}{}{Tak si to udělej sám, dědku!}

@@ -15,7 +15,7 @@
 {114}{}{Ovoce [$5]}
 {115}{}{Kořen Xander [$20]}
 {116}{}{Květina Broc [$10]}
-{117}{}{Nashle.}
+{117}{}{Čau.}
 {118}{}{(Ukáže směrem na moře.) Pokračuj dál. Bohyně si přeje s tebou setkat osobně.}
 {119}{}{[Konec]}
 {120}{}{Nechť tě provází požehnání Bohyně moře.}

@@ -36,7 +36,7 @@
 {183}{}{Gwah.}
 {184}{}{Já ti dám vypadnout.}
 {185}{}{Co takhle nejdřív jedna rychlá otázka?}
-{186}{}{Nashle.}
+{186}{}{Čau.}
 {187}{}{Panák whiskey je za $5. Platí se předem.}
 {188}{}{He?}
 {189}{}{Tady jsou peníze.}
@@ -73,11 +73,11 @@
 {221}{}{Proč? Proč jsi zničil můj destilátor? Ty bastarde!}
 {222}{}{Nic osobního. Dostal jsem za to zaplaceno.}
 {223}{}{To je mi líto.}
-{224}{}{Nashle.}
+{224}{}{Čau.}
 {225}{}{Postavím si jiný, abys věděl.}
 {226}{}{Já vím.}
 {227}{}{No, dobře ti tak.}
-{228}{}{Nashle.}
+{228}{}{Čau.}
 {232}{}{Proč? Proč jsi zničila můj destilátor? Ty děvko!}
 {233}{}{Kde jsi, miláčku?}
 {234}{}{Už jdeš?}

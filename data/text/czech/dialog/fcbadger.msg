@@ -22,7 +22,7 @@
 {121}{}{Byla vůbec dobrá?}
 {122}{}{Dík. Měj se.}
 {123}{}{Dobře.}
-{124}{}{Nashle!}
+{124}{}{Čau!}
 {125}{}{O tom si promluv s Marcem nebo s kapitánem.}
 {126}{}{Kde najdu Marca?}
 {127}{}{Kde najdu toho kapitána?}

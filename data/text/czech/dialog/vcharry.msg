@@ -23,7 +23,7 @@
 {125}{}{Jistě. Tady jsou peníze.}
 {126}{}{$500? Sakra. Doufám, že se mi to vyplatí. Fajn, tady jsou peníze.}
 {127}{}{Díky za obchod. Měj se.}
-{128}{}{Nashle.}
+{128}{}{Čau.}
 {129}{}{Connar mě posílá pro nějaké zboží.}
 {130}{}{(Harryho oči mihotají kolem a vypadá trochu nervózně.) Ano, jistě. Jenom chviličku...}
 {131}{}{(Harry ti přinese pušky.) Tady, vezmi si je. Bude to deset tisíc, ale rychle.}

@@ -41,7 +41,7 @@
 {140}{}{No dobře... počkám tu, dokud se nerozhodneš.}
 {141}{}{Beru.}
 {142}{}{Dobře... nemám z tvého rozhodnutí radost, ale je to tvá volba. Pokud si to rozmyslíš, budu tady čekat.}
-{143}{}{Nashle.}
+{143}{}{Čau.}
 {144}{}{Sbohem.}
 {145}{}{Chci se tě na něco zeptat. Pomůžeš mi odtud utéct?}
 {146}{}{Jo, já pomoct.}

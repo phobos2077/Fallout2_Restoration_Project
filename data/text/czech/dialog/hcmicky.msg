@@ -7,7 +7,7 @@
 {106}{}{Dnezka žádná poklat.}
 {107}{}{Jo. Potřebovat tvoje pomoc.}
 {108}{}{Kdo ty?}
-{109}{}{Nashle.}
+{109}{}{Čau.}
 {110}{}{Ne, dneska ne, ale jestli na něco narazím, dám ti vědět.}
 {111}{}{No, vlastně jo. Myslím, že bys mohl být dobrý partner pro něco jako "společné dobrodružství".}
 {112}{}{Jak se jmenuješ?}

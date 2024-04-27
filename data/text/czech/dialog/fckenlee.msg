@@ -14,10 +14,10 @@
 {113}{}{Nic. Díky. Nashle.}
 {114}{}{Jsem Ken Lee, Císařův poradce. A ty, můj příteli, vypadáš, že jsi trochu pomalejší, takže si toto zapamatuj: Jestli hledáš Enklávu, musíš použít tanker Poseidon Oil. Budeš do něho potřebovat palivo. Máš mé požehnání.}
 {115}{}{Díky!}
-{116}{}{Jsem Ken Lee, Císařův poradce. Císař mi poradil, abych s tebou nehovořil, takže nebudu. Nashle, hlupáku.}
+{116}{}{Jsem Ken Lee, Císařův poradce. Císař mi poradil, abych s tebou nehovořil, takže nebudu. Měj se, hlupáku.}
 {117}{}{Grrr!}
 {118}{}{Ach, cestovateli, nemohu ti pomoci. Možná najdeš odpověď na svůj úkol i jiným způsobem. Nashle.}
-{119}{}{Naskle!}
+{119}{}{'brej!}
 {120}{}{Jsem Ken Lee, poradce Císaře Shi. Šířím Císařovu moudrost. A kdo jsi ty?}
 {121}{}{Chci vidět Císaře.}
 {122}{}{Jsem}
@@ -36,14 +36,14 @@
 {135}{}{Ne každý může vidět Císaře. Nejprve musíš dokázat, že si to zasloužíš. Přeješ si to dokázat?}
 {136}{}{Ano.}
 {137}{}{Ne. Měl jsem za posledních pár měsíců už dost testů a to mi vystačí až do konce života.}
-{138}{}{Nevěřím, že by tě Císař rád viděl. Bylo mi řečeno, abych zakázal vstup všem, kteří mě urazí nebo těm, ze kterých je cítít zlo. Ty splňuješ obojí, cestovateli. Nashle.}
+{138}{}{Nevěřím, že by tě Císař rád viděl. Bylo mi řečeno, abych zakázal vstup všem, kteří mě urazí nebo těm, ze kterých je cítit zlo. Ty splňuješ obojí, cestovateli. Nashle.}
 {139}{}{[KONEC]}
 {140}{}{Urážky ti nijak nepomohou, cestovateli, kromě vyhození z Ocelového Paláce. Ovládej laskavě svůj jazyk.}
 {141}{}{Přinuť mě.}
 {142}{}{Fajn.}
 {143}{}{Císař zůstává skryt před zvídavými pohledy. Jelikož je mým úkolem zastávat funkci Císařovy pravé ruky, nemohu a nepovím ti kde je.}
 {144}{}{Mám další otázky.}
-{145}{}{Nashle.}
+{145}{}{Čau.}
 {146}{}{Provádíme výzkum, který změní svět. Jestli chceš víc odpovědí na své otázky, vyhledej Dr. Wong Yi Tzea.}
 {147}{}{To udělám. Mám další otázky.}
 {148}{}{Ano. Nashle.}

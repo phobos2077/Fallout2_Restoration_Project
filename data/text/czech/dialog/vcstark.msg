@@ -296,7 +296,7 @@
 {395}{}{Promyslím si to. Můžu se vás na něco zeptat?}
 {396}{}{Ne, takovouhle práci dělat nebudu. Sbohem.}
 {397}{}{Výborně. Ukážu vám, kde ta vesnice přesně leží. (Stark ti vyznačí místo na mapě ve tvém Pip-Boyi.) Zaplatím vám za to $750, takže se pak vraťte zpátky, až to bude hotové. A ještě jedna věc... jestli to nevyřídíte do měsíce, pošlu tam jednotku, která odstraní ty monstra... a jakoukoliv jinou hrozbu.}
-{398}{}{Nashle.}
+{398}{}{Čau.}
 {399}{}{Proč? (Na chvíli váhá a poté se zamračí.) Nemusím vám prozrazovat své důvody. Já vydávám rozkazy a vy je plníte, tak už to chodí. Jestli tu práci nechcete, pošlu místo toho nějakou jednotku... jenže když dám mužům víc prostoru, tak se občas něco "zvrtne".}
 {400}{}{Chápu. Tu práci beru.}
 {401}{}{Je vyčištěná. Co je vlastně s tou vesnicí?}

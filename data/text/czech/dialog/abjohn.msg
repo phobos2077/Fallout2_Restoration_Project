@@ -4,7 +4,7 @@
 {300}{}{Zdravím, mladíku.}
 {301}{}{Kdo jsi?}
 {302}{}{Slyšel jsi někdy něco o GECKu nebo Vaultu 13?}
-{303}{}{Nashle.}
+{303}{}{Čau.}
 {400}{}{Jmenuji se John a jsem zde jedním z nejstarších mnichů.}
 {401}{}{Takže, co tu děláš?}
 {402}{}{Chápu, sbohem.}
@@ -15,7 +15,7 @@
  se takové léky špatně shánějí.}
 {407}{}{Možná mám řešení na tvoje srdeční problémy...}
 {408}{}{To mě mrzí, sbohem.}
-{410}{}{Nashle.}
+{410}{}{Čau.}
 {411}{}{Opravdu? Chceš mi snad říct, že MÁŠ u sebe pilulky na srdce?}
 {412}{}{Ano, mám. A bude mi potěšením ti je dát.}
 {413}{}{Jo, mám pilulky na srdce. Můžeš je mít za $400.}

@@ -15,7 +15,7 @@
 {114}{}{Marcus mi řekl, že podezřívá Chada z ulévání části peněz, které jsou určené pro Broken Hills. Řekl jsem mu, že se na to podívám.}
 {115}{}{Dík. Měj se.}
 {116}{}{Díky. Jsem opravdu rád, že je to vyřízené. Ale měl by sis teď hlídat záda.}
-{117}{}{Nashle.}
+{117}{}{Čau.}
 {118}{}{Nepřítel! Chcípni!}
 {119}{}{A sakra.}
 {120}{}{(Ztiší hlas a rozhlédne se kolem.) To bude ono. Na posledním uranovém svozu do Gecka jsem pracoval jako strážce a zaslechl jsem, jak se Chad hádá s jejich ghoulím zástupcem. Podle všeho Broken Hills nedávno zvýšilo cenu uranu a ten ghoul z toho neměl radost. Potom jsem slyšel, jak mu Chad vysvětluje, že naše zásoby uranu docházejí kvůli nedávné stávce horníků, jenomže žádná stávka nikdy neproběhla.}

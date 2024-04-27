@@ -43,7 +43,7 @@
 {142}{}{Ty jsi tak hodnej, chlape.}
 {143}{}{Tak s tím jdi tam, kam slunce nesvítí. Fakt děkuju za to, že jsi to udělal ještě těžší, než to muselo být.}
 {144}{}{Možná by se měl jen častěji koupat. Hezký den.}
-{145}{}{Nashle.}
+{145}{}{Čau.}
 {146}{}{Ne, bojím se, že ne. Potřeby města daleko převyšují potřeby jednotlivce.}
 {147}{}{V tom případě mám další otázky.}
 {148}{}{To je od tebe velmi prospěšné. Dám mu vědět, že není důležitý. Sbohem.}

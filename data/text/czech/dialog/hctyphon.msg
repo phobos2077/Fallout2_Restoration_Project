@@ -6,7 +6,7 @@
 {105}{}{Ghoulském domově důchodců?}
 {106}{}{Kdo jsi?}
 {107}{}{Poslyš, neslyšel jsi někdy o GECKu?}
-{108}{}{Nashle.}
+{108}{}{Čau.}
 {109}{}{Další dítě pustiny, co? Poslyš, prcku, chceš slyšet tajemství?}
 {110}{}{Jo!}
 {111}{}{Ne-e.}
@@ -17,9 +17,9 @@
 {115}{}{Co je to za poklad?}
 {116}{}{Jakou laskavost?}
 {117}{}{Chci se ještě na něco zeptat.}
-{118}{}{Nashle!}
+{118}{}{Čau!}
 {119}{}{Hehe. No dobře. V tom případě pro tebe nic nemám, takže vypadni.}
-{120}{}{Nashle.}
+{120}{}{Čau.}
 {121}{}{Nejdřív mě musíš prokázat laskavost, dítě.}
 {122}{}{Dobže!}
 {123}{}{Ne-e!}

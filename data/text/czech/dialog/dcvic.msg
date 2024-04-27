@@ -32,7 +32,7 @@
 {177}{}{To je skvělý! Hned to rádio opravím.}
 {178}{}{Dobře, promluvím si s Metzgerem.}
 {179}{}{Díky.}
-{180}{}{Nashle.}
+{180}{}{Čau.}
 {181}{}{Cože? Je mi líto, ale nerozumím.}
 {182}{}{Hurm.}
 {183}{}{Děkuju ti! Jsem navěky tvým dlužníkem. Jak ti to můžu oplatit?}
@@ -98,7 +98,7 @@
 {803}{}{Tak to pochybuju. Hodně štěstí.}
 {810}{}{Proč jsi zabil chudinku Mámu... asi jsi pro to měl důvod... promiň, šéfe. Nejsem tu od toho, abych se vyptával. Tohle je hodně blbý město. Jsem si jistej, že udělala něco hodně škaredýho.}
 {811}{}{Hej, šéfe. Dík, že se ti podařilo mě dostat z tý šlamastiky s Metzgerem. Nepotřebuješ něco? Máma byla tak hodná, že mi dávala jídlo, když jsi byl pryč. Já ji tu pomáhám...}
-{812}{}{Nashle.}
+{812}{}{Čau.}
 {813}{}{Oooh.}
 {814}{}{Čaaauua.}
 {823}{}{Kde že je ten tvůj přítel Ed?}

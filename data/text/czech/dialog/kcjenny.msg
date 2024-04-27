@@ -24,7 +24,7 @@
 {291}{}{Pověz mi o lovcích kožešin.}
 {292}{}{Hledám obchodníka. Nevíš o někom, kdo obchoduje se starými věcmi? Mám teď na mysli věci z předválečné éry.}
 {293}{}{Nevíš náhodou, jak se odsud dostanu do Denu?}
-{294}{}{Nashle.}
+{294}{}{Čau.}
 {295}{}{Jenny, neslyšela jsi někdy o věci zvané GECK?}
 {300}{}{No, nevím, co bych ti tak mohla říct o lovcích kožešin. Loví geckony kvůli jejich kůžím...někdy mají štěstí a narazí na zlaté geckony...no a pak přijdou sem, aby si odpočinuli. Jenom na chvíli. Nechtějí nic složitého... a přesně tak to mám ráda.}
 {301}{}{To bude nejspíš všechno.}

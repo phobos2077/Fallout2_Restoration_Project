@@ -8,7 +8,7 @@
 {301}{}{Co mi můžeš říct o vašem řádu?}
 {302}{}{Slyšel jste někdy o zařízení zvaném GECK?}
 {303}{}{Nevíš, kde se nachází Vault 13?}
-{304}{}{Nashle.}
+{304}{}{Čau.}
 {400}{}{Co chceš vědět?}
 {401}{}{Dobře. Chci vědět něco jiného.}
 {402}{}{Hmm... to *zní* dost povědomě. Ano, vzpomínám si, že bratr Thomas se o něčem takovém nedávno zmiňoval. Bohužel si nevzpomínám, co přesně říkal.}

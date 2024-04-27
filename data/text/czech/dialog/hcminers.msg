@@ -19,7 +19,7 @@
 {118}{}{Jsem jeden z horníků. Chceš něco důležitýho?}
 {119}{}{Ano.}
 {120}{}{Ne.}
-{121}{}{Nashle.}
+{121}{}{Čau.}
 {122}{}{Hlavní osoby v tomhle městě jsou Marcus, on je něco jako starosta a šerif, Zaius, hlavní důlmistr, a Chad, kterej řídí karavany. Barman Phil je šéf ghoulů, aspoň myslím... jestli vůbec maj nějakýho vůdce. Kde jsme to skončili?}
 {123}{}{Kde najdu Marcuse?}
 {124}{}{Kde najdu Zaiuse?}
