@@ -15,7 +15,7 @@
 {115}{}{Ostrostřelec}
 {116}{}{Tichošlápek}
 {117}{}{Mistr v přežití}
-{118}{}{Mistr obchodnice}
+{118}{}{Mistr kupec}
 {119}{}{Vzdělanec}
 {120}{}{Léčitel}
 {121}{}{Zlatokop}

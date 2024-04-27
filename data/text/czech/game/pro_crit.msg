@@ -64,12 +64,12 @@
 {5300}{}{Dívka}
 {5400}{}{Ubožačka}
 {5500}{}{Ubožačka}
-{5600}{}{Špatná obchodnice}
-{5700}{}{Špatná obchodnice}
-{5800}{}{Tuctová obchodnice}
-{5900}{}{Tuctová obchodnice}
-{6000}{}{Mistr obchodnice}
-{6100}{}{Mistr obchodnice}
+{5600}{}{Mizerný kupec}
+{5700}{}{Mizerný kupec}
+{5800}{}{Průměrný kupec}
+{5900}{}{Průměrný kupec}
+{6000}{}{Mistr kupec}
+{6100}{}{Mistr kupec}
 {6200}{}{Vic}
 {6300}{}{Hubená farmářka}
 {6400}{}{Hubená farmářka}
@@ -155,8 +155,8 @@
 {13900}{}{Stráž NCR. Specialista na chladné zbraně}
 {14000}{}{Hlídač otroků}
 {14100}{}{Dozorce otroků}
-{14200}{}{Obchodnice - velmistryně}
-{14300}{}{Obchodnice - velmistryně}
+{14200}{}{Velmistr kupec}
+{14300}{}{Velmistr kupec}
 {14400}{}{Tandi}
 {14500}{}{Merc}
 {14600}{}{Ratch}

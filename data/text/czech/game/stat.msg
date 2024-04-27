@@ -12,7 +12,7 @@
 {111}{}{Boj zblízka}
 {112}{}{Nosnost}
 {113}{}{Postřeh}
-{114}{}{Rychlost uzdravování}
+{114}{}{Uzdravování}
 {115}{}{Šance na kritický zásah}
 {116}{}{Lepší kritický zásah}
 {117}{}{Práh odolnosti}
