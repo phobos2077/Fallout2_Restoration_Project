@@ -317,7 +317,7 @@
 {935}{}{Ruined. We're ruined.}
 {936}{}{Without that cube... ruined.}
 {937}{}{Oh, cruel, cruel sex gods! What offense did we give you that caused you to take the cube from us?}
-{938}{}{::Sigh:: With the cube gone, maybe I should take up macramé.}
+{938}{}{::Sigh:: With the cube gone, maybe I should take up macramÃ©.}
 {1000}{}{Me feel sicky-sick in belly.}
 {1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
 {1100}{}{Ack! ::spit, spit:: That SUCKED!}

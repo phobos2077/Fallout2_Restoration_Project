@@ -1,31 +1,31 @@
 1:War.
 2:War never changes.
-3:Th? gi?i k?t thúc g?n gi?ng v?i nh?ng gì mà chúng ta ?ã d? ?oán.
-4:Có quá nhi?u ng??i, không ?? không gian hay tài nguyên ?? duy trì cu?c s?ng.
-5:M?i chi ti?t ??u là th?a thãi. Lı do luôn là vì các nhu c?u c?a con ng??i.
+3:Th? gi?i k?t thÃºc g?n gi?ng v?i nh?ng g? mÃ  chÃºng ta Ä‘? d? Ä‘oÃ¡n.
+4:CÃ³ quÃ¡ nhi?u ngÆ°?i, khÃ´ng Ä‘? khÃ´ng gian hay tÃ i nguyÃªn Ä‘? duy tr? cu?c s?ng.
+5:M?i chi ti?t Ä‘?u lÃ  th?a th?i. L? do luÃ´n lÃ  v? cÃ¡c nhu c?u c?a con ngÆ°?i.
 6:In 2077, the earth was nearly wiped clean of human life.
-7:M?t cu?c thanh t?y l?n, m?i l?a nguyên t? b?t ngu?n t? bàn tay con ng??i, nhanh chóng bùng cháy v??t ra kh?i t?m ki?m soát.
-8:M?a l?a h?t nhân r?c cháy c? b?u tr?i.
-9:Các châu l?c b? ng?n l?a tham lam nu?t g?n và chìm vào ??i d??ng sôi sùng s?c.
+7:M?t cu?c thanh t?y l?n, m?i l?a nguyÃªn t? b?t ngu?n t? bÃ n tay con ngÆ°?i, nhanh chÃ³ng bÃ¹ng chÃ¡y vÆ°?t ra kh?i t?m ki?m soÃ¡t.
+8:MÆ°a l?a h?t nhÃ¢n r?c chÃ¡y c? b?u tr?i.
+9:CÃ¡c chÃ¢u l?c b? ng?n l?a tham lam nu?t g?n vÃ  ch?m vÃ o Ä‘?i dÆ°Æ¡ng sÃ´i sÃ¹ng s?c.
 10:Humanity was almost extinguished, their spirits becoming part of the background radiation that blanketed the earth.
-11:?êm ?en t?nh l?ng bao trùm c? hành tinh, kéo dài su?t nhi?u n?m.
-12:Ch? m?t s? ít s?ng sót sau th?m h?a.
-13:M?t s? ?? may m?n ??n ???c n?i an toàn, ?n thân trong nh?ng h?m trú ?n kh?ng l? trong lòng ??t.
+11:ÄÃªm Ä‘en t?nh l?ng bao trÃ¹m c? hÃ nh tinh, kÃ©o dÃ i su?t nhi?u nÄƒm.
+12:Ch? m?t s? Ã­t s?ng sÃ³t sau th?m h?a.
+13:M?t s? Ä‘? may m?n Ä‘?n Ä‘Æ°?c nÆ¡i an toÃ n, ?n thÃ¢n trong nh?ng h?m trÃº ?n kh?ng l? trong l?ng Ä‘?t.
 14:When the great darkness passed, these vaults opened, and their inhabitants emerged to begin their lives again.
-15:M?t trong nh?ng b? l?c ph??ng B?c t? nh?n mình là con cháu c?a m?t Vault nh? v?y.
+15:M?t trong nh?ng b? l?c phÆ°Æ¡ng B?c t? nh?n m?nh lÃ  con chÃ¡u c?a m?t Vault nhÆ° v?y.
 16:They hold that their founder and ancestor, one known the "Vault Dweller," once saved the world from a great evil.
-17:Theo truy?n thuy?t c?a h?, ??i ác nhân này n?i lên t? ph??ng Nam xa xôi.
-18:H?n h?y ho?i t?t c? nh?ng gì h?n ch?m vào, bóp méo b?n ch?t con ng??i, bi?n h? thành quái v?t.
-19:Ch? nh? có s? d?ng c?m c?a C? dân Vault m?i có th? tiêu di?t ???c ác nhân.
+17:Theo truy?n thuy?t c?a h?, Ä‘?i Ã¡c nhÃ¢n nÃ y n?i lÃªn t? phÆ°Æ¡ng Nam xa xÃ´i.
+18:H?n h?y ho?i t?t c? nh?ng g? h?n ch?m vÃ o, bÃ³p mÃ©o b?n ch?t con ngÆ°?i, bi?n h? thÃ nh quÃ¡i v?t.
+19:Ch? nh? cÃ³ s? d?ng c?m c?a CÆ° dÃ¢n Vault m?i cÃ³ th? tiÃªu di?t Ä‘Æ°?c Ã¡c nhÃ¢n.
 20:But in so doing, he lost many of his friends and suffered greatly, sacrificing much of himself to save the world.
-21:?? r?i ??n cu?i cùng khi tr? v? nhà, n?i mà ông ?ã chi?n ??u h?t mình ?? b?o v?, ông b? ??y ra ngoài.
+21:Ä? r?i Ä‘?n cu?i cÃ¹ng khi tr? v? nhÃ , nÆ¡i mÃ  Ã´ng Ä‘? chi?n Ä‘?u h?t m?nh Ä‘? b?o v?, Ã´ng b? Ä‘?y ra ngoÃ i.
 22:Tr?c xu?t.
 23:In confronting that which they feared, he had become something else in their eyes... and no longer their champion.
-24:B? chính nh?ng ng??i ??ng bào b? r?i, ông b??c vào vùng ??t hoang.
-25:Ông ti?n xa theo ph??ng B?c, cho ??n khi ??n khu h?m núi l?n.
-26:T?i ?ây, ông l?p ra m?t ngôi làng nh?, Arroyo, và s?ng h?t ph?n còn l?i c?a cu?c ??i.
+24:B? chÃ­nh nh?ng ngÆ°?i Ä‘?ng bÃ o b? rÆ¡i, Ã´ng bÆ°?c vÃ o vÃ¹ng Ä‘?t hoang.
+25:Ã”ng ti?n xa theo phÆ°Æ¡ng B?c, cho Ä‘?n khi Ä‘?n khu h?m nÃºi l?n.
+26:T?i Ä‘Ã¢y, Ã´ng l?p ra m?t ngÃ´i lÃ ng nh?, Arroyo, vÃ  s?ng h?t ph?n c?n l?i c?a cu?c Ä‘?i.
 27:And so, for a generation since its founding, Arroyo has lived in peace, its canyons sheltering it from the outside world.
-28:?ây là nhà. Nhà c?a b?n.
+28:ÄÃ¢y lÃ  nhÃ . NhÃ  c?a b?n.
 29:But in the world outside, the scars left by the war have not yet healed.
 30:The wounds run deep, and now they are being felt in Arroyo.
 31:Life in Arroyo is about to change...

@@ -17,7 +17,7 @@
 {240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill... perhaps I could find a use for you after all. }
 {241}{}{Huh?}
 {242}{}{No, I think I'll just scavenge some more and go. Bye!}
-{250}{}{Insolence! Such insolence from a Blˆdes Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
+{250}{}{Insolence! Such insolence from a Bl√∂des Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
 {251}{}{Maybe it will, maybe it will. And if that day were ever to come, I shall deal with it then and there. What is certain, is it will not come from you. You're a nobody. You have nothing left to rule over, which is why you cover up your sadness with anger. How long have the robots failed to respond to you?}
 {260}{}{Well, as you may already have guessed, the robots no longer work here at the EPA. The computer consoles no longer register my verbal commands and I don't have a body to activate the console. I... I can't properly secure anything. Could you fix the robot control computer for me? I need the ability to command the robots for... well, for things.}
 {261}{}{Well why not? I'll see what I can do.}
@@ -54,7 +54,7 @@
 {344}{}{If I was in charge, things would actually get done around here!}
 {345}{}{Halt die Schnauze!}
 {400}{}{Arrest me? You're a hologram. You can't even touch me.}
-{401}{}{I see I got a goddamn Klugscheiﬂer on my hands! You think I can't beat the piss out of a Warmduscher like you? Well, maybe I can't, but that's what the damn robots are for! Now I'm running out of patience real fast. You best start explaining yourself. How do I know you're not a Chinese spy?}
+{401}{}{I see I got a goddamn Klugschei√üer on my hands! You think I can't beat the piss out of a Warmduscher like you? Well, maybe I can't, but that's what the damn robots are for! Now I'm running out of patience real fast. You best start explaining yourself. How do I know you're not a Chinese spy?}
 {410}{}{You the one that brought the robot control computer back online?}
 {411}{}{That's right.}
 {412}{}{Uh... maybe.}
