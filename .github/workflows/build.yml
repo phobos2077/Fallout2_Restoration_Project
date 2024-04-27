@@ -1,6 +1,8 @@
 name: build
 
-on: [push]
+on:
+  push:
+  pull_request:
 
 env:
   sfall_version: 4.4.3.1
@@ -8,7 +10,7 @@ env:
 
 jobs:
   build:
-    if: ${{ github.actor != 'bgforge-hive' }}
+    if: github.actor != 'bgforge-hive' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
