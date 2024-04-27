@@ -4,7 +4,7 @@
 {103}{}{NCR nemá rádo zběhy. Zmiz odsud.}
 {104}{}{Ty moc dobře víš, co si o tobě myslím. Zmiz mi z očí.}
 {105}{}{Hajá! Do nich!}
-{106}{}{Okay, let's go.}
+{106}{}{Dobře, můžeme vyrazit.}
 {107}{}{Jsem Stanwell. Starám se o provoz karavany Redding - NCR. Vyměňujeme zlato za brahmíny. Hodila by se nám další stráž. Odjíždíme hned teď.}
 {108}{}{Lidé mi říkají Stanwell. Starám se o provoz karavany Redding - NCR. Vyměňujeme zlato za brahmíny. Často sháním další stráže. Vyjíždíme odsud každý měsíc 11., takže se stav, pokud budeš mít zájem.}
 {109}{}{Co pro tebe můžu udělat?}

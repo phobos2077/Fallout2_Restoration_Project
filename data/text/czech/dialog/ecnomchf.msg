@@ -11,7 +11,7 @@
 {110}{}{Tak snad někdy jindy. Ať jsou tvé cesty prosty nebezpečí.}
 {111}{}{Dík. Naskle.}
 {112}{}{Jaká škoda. Odpočiň si tedy a vítej v našem táboře.}
-{113}{}{Děkuju. Sbohem.}
+{113}{}{Díky. Naschle.}
 {114}{}{Vidím, že moje nabídka stínu přišla příliš pozdě. Slunce ti už nejspíš vypálilo mozek. Musím být přívětivý k těm, kteří v životě nemají tolik štěstí. Zůstaň v mém táboře, jak dlouho budeš chtít, zabedněnče.}
 {115}{}{Nashle.}
 {116}{}{Nevěřící!}
@@ -21,8 +21,8 @@
 {120}{}{Zmiz!}
 {121}{}{Nech nás na pokoji.}
 {122}{}{Jsme mírumilovný kmen.}
-{200}{}{Á, poutník. Omlouvám se, ale nemáme žádný stan, v jehož stínu můžeš spočinout a ulevit si od nekonečného vedra. Odpočiň si na chvíli a poté si promluvíme.}
-{201}{}{Děkuju ti. S vděčností přijímám tvoji nabídku.}
-{202}{}{Jaká škoda. Odpočiň si tedy a vítej v našem táboře.}
-{203}{}{Doufám, že jsi nalezl to, co jsi potřeboval. Ještě něco?}
-{204}{}{Dnes ne. Už musím jít.}
+{200}{}{Á, poutník. Omlouvám se, že nemáme pro tebe žádný stan, ve kterém by jsi si mohl ulevit od spalujícího vedra. Posečkej chvilku, abychom si mohli promluvit.}
+{201}{}{Děkuju. S povděkem přijímám Tvoji nabídku.}
+{202}{}{Jaká škoda. Odpočiň si tedy, jsi zde vítán.}
+{203}{}{Doufám, že jsi nalezl to co jsi potřeboval. Ještě něco jiného?}
+{204}{}{Ne dnes. Já teď jít.}

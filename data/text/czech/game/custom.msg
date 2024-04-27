@@ -3,7 +3,7 @@
 {2}{}{Volba druhu zbraně}
 {3}{}{Vzdálenost}
 {4}{}{Útoč na}
-{5}{}{Drug Use}
+{5}{}{Užít drogu}
 {10}{}{KONEC}
 {11}{}{Zrušit}
 {99}{}{Nelze použít.}

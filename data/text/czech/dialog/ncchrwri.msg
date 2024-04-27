@@ -73,12 +73,12 @@
 {370}{}{Hmm. No, už půjdu.}
 {380}{}{Chodí kolem a káže o hříchu a tak, ale vůbec neví, co vlastně táta dělá. A nebo to ignoruje.}
 {381}{}{A co tvůj táta dělá?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Dobře, chci se ještě zeptat...}
 {383}{}{Zajímavé. No, já už musím jít.}
 {390}{}{Pálí chlast, prodává kvéry, mlátí lidi, kteří s ním chtěj vymrdat... typický rodinný záležitosti. Matka by byla nasraná, kdyby se dozvěděla, co vlastně děláme. Obzvlášť kdyby našla naši palírnu.}
 {391}{}{Jak moc nasraná by byla?}
 {400}{}{Dost na to, aby to tady rozmlátila. A pak by nám nadávala a několik dní bysme museli poslouchat to její kázání. Hehe. }
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Zajímavé. Mám ještě nějaké otázky...}
 {402}{}{Hmmmmm. Díky.}
 {410}{}{Richard? Našli jsme ho mrtvýho ve škarpě jako nějakýho feťáka. Myslíme si, že ho někdo napumpoval drogama, dokud neumřel.}
 {411}{}{'Někdo' mu toho dal moc? Jak víš, že se nepředávkoval SÁM?}

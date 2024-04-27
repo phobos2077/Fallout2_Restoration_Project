@@ -4,7 +4,7 @@
 {103}{}{Boj beze zbraně}
 {104}{}{Chladné zbraně}
 {105}{}{Vrhací zbraně}
-{106}{}{First Aid}
+{106}{}{První pomoc}
 {107}{}{Léčení}
 {108}{}{Plížení}
 {109}{}{Páčení zámků}

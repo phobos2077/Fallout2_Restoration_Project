@@ -66,7 +66,7 @@
 {514}{}{To není špatný.}
 {515}{}{Jak se to stalo?}
 {516}{}{A sakra.}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Tak už tam padni, dělej. Stop!}
 {518}{}{No, už chápu, proč se ta hra tak jmenuje.}
 {519}{}{Potřebuju jenom jednu velkou výhru.}
 {520}{}{No jasně!}
@@ -86,4 +86,4 @@
 {601}{}{Proč jsi to udělal?}
 {602}{}{Pusť mě!}
 {603}{}{Přestaň s tím, jsem křehký.}
-{604}{}{I wouldn't do that to you.}
+{604}{}{To bych ti nikdy neudělal.}

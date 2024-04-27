@@ -42,7 +42,7 @@
 {242}{}{Dobře. Sbohem.}
 {250}{}{Joo. Jsem si naprosto jistej. A teď odsud vypadni.}
 {251}{}{No, když to říkáš. Sbohem.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
+{260}{}{Aha, hehe .. já to věděl. Noo, takže, eh, prošel jsem? }
 {261}{}{Samozřejmě, že jsi prošel. A teď mě pusť dovnitř.}
 {262}{}{Ne, neprošel jsi a proto to teď musím nahlásit.}
 {270}{}{Tak dobře. Můžeš vstoupit.}

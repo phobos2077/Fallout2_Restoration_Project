@@ -47,7 +47,7 @@
 {301}{}{Povstaňte, humusáci! Zničte Spammera!}
 {302}{}{Smrt Spammerovi!}
 {303}{}{Tady máš za ohrožování lidí!}
-{304}{}{Now you will die, Grim Reaper.}
+{304}{}{Teď zemřeš, Smrťáku.}
 {305}{}{Vrátíš se 'pod zem'!}
 {306}{}{Genová líheň potřebuje trochu chlóru.}
 {307}{}{Čas odplaty!}
@@ -60,14 +60,14 @@
 {314}{}{Ochraňte Vyvoleného před Spammerovou pošetilostí!}
 {315}{}{Vyvolený! Připoj se k nám!}
 {316}{}{ODPLATA HUMUSÁKŮ!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Nikdy nebudeš 'Humusák', dětinský pošetilče!}
 {318}{}{Nemáš šanci!}
 {319}{}{Ještě jsme neskončili!}
 {320}{}{Na tento den jsem čekal stráááášně dlouho.}
 {400}{}{Tady máš za vyhrožování!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{401}{}{Jsem si jistá, že bys neublížil holce, že ne?}
 {402}{}{'Odplata je nejlepší, když to nečekáš.'}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Jsem Buffy... a ty jseš v pytli.}
 {405}{}{Nikdo nebude vyhrožovat Doombot!}
 {406}{}{Krotitelka Grimů!}
 {410}{}{Jenom graviola se může chuťově srovnávat s tímhle vítězstvím...}

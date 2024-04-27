@@ -35,8 +35,8 @@
 {131}{}{[KONEC]}
 {132}{}{Dobře. Dej nám den, dva a budeš to mít hotový.}
 {133}{}{Výborně. Nashle.}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
- should do it. You want it or not?}
+{134}{}{V tom případě přeju hodně štěstí někde jinde. Ten proces je totiž nebezpečnej...
+ a měl by to dělat jen profesionál. Chceš to nebo ne?}
 {135}{}{Ano.}
 {136}{}{Ne.}
 {137}{}{Fajn, v tom případě tu nemáš co dělat. Odejdi prosím, mám ještě nějakou práci.}

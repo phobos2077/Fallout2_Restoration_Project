@@ -31,7 +31,7 @@
 {130}{}{Za vyprovokování rvačky z tebe teď nadělám karbanátky.}
 {131}{}{Blbečku.}
 {132}{}{Nemůžeš tohle dělat a očekávat, že to přežiješ.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{133}{}{Nastal čas vyřadit tvůj vzorek z genofondu lidstva.}
 {134}{}{To nebylo chytrý.}
 {135}{}{Je mi líto, že k tomu muselo dojít.}
 {136}{}{Ubožáku.}
@@ -42,7 +42,7 @@
 {141}{}{Teď ti ukážeme, zač je toho loket.}
 {142}{}{Tohle bude opravdu bolet... ale tebe.}
 {143}{}{Radši zastrč tu pistolku, kamaráde.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
+{144}{}{Nechceme tu žádný problémy, příteli. Dej to pryč.}
 {145}{}{Radši dej tu věcičku pryč.}
 {146}{}{Nech to pěkně v pouzdře, chlape.}
 {147}{}{Schovej tu zbraň.}

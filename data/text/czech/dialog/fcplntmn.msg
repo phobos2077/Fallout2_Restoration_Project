@@ -15,7 +15,7 @@
 {320}{}{Vůdce ti zodpoví veškeré otázky. A teď pojď.}
 {321}{}{Ne-e!}
 {322}{}{Tak dobře. Setkám se s tím vaším vůdcem.}
-{400}{}{Uuuhhhhh...}
+{400}{}{Ehhh...}
 {401}{}{Grrraaah!}
 {402}{}{Hheesssss...}
 {403}{}{Ohhh...}

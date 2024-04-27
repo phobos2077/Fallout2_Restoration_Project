@@ -35,7 +35,7 @@
 {134}{}{Tak a... teď už by to mělo jít. Je to lepší?}
 {135}{}{Příjem? Co je s příjmem? Mám dost práce, takže můj příjem není špatný.}
 {136}{}{Zkusím to později. Sbohem.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Vyvolený, jo? No, tak promiňte, že vám zrovna nelezu do zadku, ale mám teď moc práce, vaše výsosti.}
 {138}{}{Poklekni přede mnou a já možná ušetřím tvůj život. Ježíš, to se dobře poslouchá.}
 {139}{}{Netrvám na tom, abys přede mnou poklekl, ale myslím, že malá poklona a políbení mého prstenu bude stačit.}
 {140}{}{Eh, chtěl jsem říct, že jsem *vyvolený* k tomu, abych opravil komunikační jednotku. Zdá se, že už tady nic nefunguje.}

@@ -35,13 +35,15 @@
 {137}{}{Děkuji. Vault City vždy zvítězí, Kapitáne.}
 {138}{}{Vault City vždy zvítězí, Občane.}
 {139}{}{Zdravíčko, Občane.}
-{140}{}{Tohle? Tohle je koloniál B, který má na starosti skladování a distribuci léků ve Vault City. Jsem úředník Holden. Mohu vám s něčím pomoci, Občane?}
+{140}{}{Tohle? Tohle je koloniál B, který má na starosti skladování a distribuci léků ve Vault City.
+Jsem úředník Holden. Mohu vám s něčím pomoci, Občane?}
 {141}{}{Tohle je koloniál B... staráme se o distribuci léčiv ve Vault City. Hledáte snad něco jiného?}
 {142}{}{Můžu vidět, co máš na skladě?}
 {143}{}{Ne, tohle je přesně to, co hledám. Můžu vidět co máte na skladě?}
 {144}{}{Dnes nic, díky.}
 {145}{}{Asi ano. Sbohem.}
-{150}{}{Tohle? Tohle je koloniál B, který ma na starosti skladování a distribuci léčiv ve Vault City. Jsem úředník Holden. Mohu vám s něčím pomoci, kapitáne?}
+{150}{}{Tohle? Tohle je koloniál B, který ma na starosti skladování a distribuci léčiv ve Vault City. 
+Jsem úředník Holden. Mohu vám s něčím pomoci, kapitáne?}
 {151}{}{Hej! Nesahejte na to!}
 {152}{}{Tak a dost! Vypadněte odsud!}
 {153}{}{Díky.}

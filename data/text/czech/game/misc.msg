@@ -5,7 +5,7 @@
 {4}{}{Hra byla úspěšně načtena.}
 {5}{}{Hra byla úspěšně uložena.}
 {6}{}{Časový limit demoverze vypršel.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{Během souboje není Pip-Boy přístupný!}
 {8}{}{Chyba při ukládání screenshotu.}
 {9}{}{ÚVOD}
 {10}{}{NOVÁ HRA}
@@ -43,7 +43,7 @@
 {5001}{}{nemá náboje pro zbraň:}
 {5002}{}{nabíjí zbraň:}
 {6000}{}{Zeptat se na co?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Nemáš u sebe Pip-Boy!}
 {8000}{}{Neseš toho příliš mnoho.}
 {8001}{}{%s nese příliš mnoho.}
 {8500}{}{Získáváš %d zkušenostních bodů za úspěšné použití schopnosti "Přežití v pustině".}

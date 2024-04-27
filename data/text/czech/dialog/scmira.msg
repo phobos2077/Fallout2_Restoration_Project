@@ -7,7 +7,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{To je jedno, dám si třeba místní specialitu.}
-{109}{}{Gimme a beer.}
+{109}{}{Dej mi pivo.}
 {110}{}{Informace.}
 {111}{}{Hledám práci.}
 {112}{}{A hele, to jsi ty! Takové jako ty mám ráda.}

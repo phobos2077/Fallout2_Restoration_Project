@@ -1,5 +1,5 @@
 {100}{}{Pes. Vypadá jako kólie.}
-{101}{}{Vidíš Laddie.}
+{101}{}{Vidíš Laddieho.}
 {102}{}{Tenhle pes se zdá být opravdu inteligentní a ostražitý.}
 {103}{}{Nepochybně je tento pes určitě chytřejší než ty.}
 {150}{}{Haf!}
@@ -8,7 +8,7 @@
 {153}{}{(Tento pes je opravdu rozrušený.)}
 {154}{}{Hezký pejsek.}
 {155}{}{Nevíš, kde je Jonny?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Zůstaň tady, Laddie.}
 {157}{}{Pojďme najít Jonnyho.}
 {158}{}{Myslíš, že se Jonny propadl do té studny, Laddie?}
 {159}{}{Copak pejsku, snažíš se mi něco říct?}

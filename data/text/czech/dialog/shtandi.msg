@@ -74,7 +74,7 @@
 {173}{}{Potřebovat vědět víc.}
 {174}{}{Další otázky, prosím.}
 {175}{tand11}{Pospěš si. Nemohu si s tebou povídat celý den.}
-{176}{}{Ok, me hurry.}
+{176}{}{Dobře, já spěchat.}
 {177}{}{Pokusím se to urychlit.}
 {178}{tand12}{Řekla bych, že s tou kombinézou, co máš na sobě, to už dávno víš.}
 {179}{}{Kombinéza být ve vesnice dlouho. Patřit Zakladatel, zakladatel kmene.}
@@ -168,7 +168,7 @@
 {267}{}{Ještě jedna věc. Co když vám řeknu, že se mi podařilo najít Vault 13?}
 {268}{}{Půjdu si s ním promluvit. Nashle.}
 {269}{tand36}{Všechno je obchod, že? Fajn. Pět set až to bude hotové. A žádné smlouvání... ber, nebo nech být.}
-{270}{}{Me take but me need ask questions.}
+{270}{}{Já brát, ale já mít otázky.}
 {271}{}{Já nezajímat.}
 {272}{}{Beru to, ale potřebuju nějaké informace.}
 {273}{}{Nemám zájem.}

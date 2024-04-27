@@ -169,8 +169,7 @@
 {268}{}{Díky, ale chci se ještě na něco zeptat.}
 {269}{}{Možná tam zajdu a promluvím si s nimi. Díky, starosto. Sbohem.}
 {270}{}{V poslední době se naše vývozy zlata začínají zpožďovat, protože horníci tráví moc času "lítáním" na Jetu.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
+{271}{}{Skoro všichni horníci tráví víc času "lítáním" na Jetu než těžbou zlata... a tak naše ceny rostou a naše vývozy jdou dolů. Obojí je pro obchod špatné.}
 {272}{}{Všichni "lítají" na Jetu, takže je těžba neefektivní. Naše pravidelné vývozy zlata klesly takřka na desetinu a díky tomu jsme museli zvednout ceny. Tohle nemůže dlouho vydržet.}
 {273}{}{Vypadá to, že všichni dostali nějakou špatnou dávku Jetu. Všichni, kdo pravidelně užívali Jet, teď prochází nějakou masivní detoxikací. Zdá se, že v té dodávce něco bylo. Nevím sice co, ale myslím, že se teď všechno obrátí k lepšímu.}
 {274}{}{Všechno už je skoro tak jako dřív. Všichni, kdo byli závislí na Jetu, se už z toho dostali. Naše těžba a plán dodávek je už taky jako kdysi. Vypadá to, že to nejhorší je už za náma.}

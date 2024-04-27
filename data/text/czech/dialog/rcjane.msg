@@ -5,7 +5,7 @@
 {104}{}{Fůůůj. Chlupatá.}
 {105}{}{Pěkná chlupy.}
 {106}{}{Á, už chápu. Ty jsi ve městě nový, že? No, tak já ti něco povím. Jsem Jackpot Jane a uzavírám sázky týkající se zítřejších zápasů. Chceš si vsadit?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{([Přikývnout) Jo, jo. (Vytáhnout peněženku)}
 {108}{}{Béé? Gaga. Pápá, chlupatá paní.}
 {109}{}{Dobrý nápad. Přijď zítra a jestli tvůj favorit vyhraje zápas, dám ti tvoji výhru. Platí?}
 {110}{}{Dobrý tah. Zaručím ti opravdu dobrý kurz. Uvidíme se později.}

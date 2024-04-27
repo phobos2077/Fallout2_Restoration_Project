@@ -106,8 +106,8 @@
 {343}{}{(Monte používá svoji normální sadu! Pro dokončení výměny musíš ukrást i jeho druhou sadu.)}
 {344}{}{Ty dát karta do rukáva ty nehrát fér.}
 {345}{}{Eh... Lucka levačka.}
-{346}{}{Uh... Middle of th'road}
-{347}{}{Uh... Rightie tightie}
+{346}{}{Eh ... zlatý střed.}
+{347}{}{Eh ... přesně pravá.}
 {348}{}{Ty zatracenej PODVODNÍKU, tu kartu jsi vytáhl. Vrať mi moje peníze, nebo tě zabiju přímo tady na ulici.}
 {349}{}{Je to ta ve tvém rukávu.}
 {350}{}{Eh, je to ta nalevo.}
@@ -159,7 +159,7 @@
 {431}{}{Tak dobře, Monte. Jsme si kvit.}
 {435}{}{(Monte se na tebe zamračí.) Poslyš, dneska už žádný hry, jasný? Odpal.}
 {436}{}{Můžu si koupit ten balíček karet, co jsi mi předtím ukázal?}
-{437}{}{I wanted some information...}
+{437}{}{Chci nějaké informace.}
 {438}{}{Tak dobře, Monte. Odejdu... pro tentokrát.}
 {440}{}{Ne. Ten ti nedám. Tečka. Je to PRAVÁ předválečná památka... kousek historie. Prostě NE.}
 {441}{}{Děláš mi DALŠÍ nabídku? Podívej, řekl jsem ti, že ho neprodám.}

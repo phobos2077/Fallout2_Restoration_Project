@@ -94,7 +94,7 @@
 {362}{}{Ty máš koukám odpověď na všechno, co? Doufám, že máš odpověď i na to, co je po životě, protože tě tam pošlu... právě teď.}
 {363}{}{O tom budu muset popřemýšlet. Zatím sbohem.}
 {370}{}{Vidím, že máš dost dobrou soupravu nářadí. To je Snapp-off, ne? Vyměním ji s tebou za tenhle regulátor přívodu energie.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{371}{}{Zdravím! Vidím, že jsi zpátky s mým nářadím. Mmm, Snap-off ...ty jsou nejlepší. Chceš to vyměnit?}
 {372}{}{Dohodnuto.}
 {373}{}{Teď ne. Ještě si ji chvíli nechám. Sbohem.}
 {380}{}{To je fakt dobrej obchod. Stačí ho jen zapojit a auto by mělo jet.}
@@ -153,14 +153,9 @@
 {627}{}{To je na mě moc drahé. Vrátím se, až budu mít víc peněz.}
 {630}{}{Chceš trochu posílit zbraň na boj zblízka? Můžu ji *vylepšit* za $}
 {631}{}{Jasně.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{(Skeeter vezme předmět a prozkoumá jej s podivným zábleskem v oku.) No, nebude to jednoduchý, ale myslím, že to nějak zvládnu. Na chvilku si tady v klidu sedni. (Skeeter vezme zbraň ke svému ponku a upne ji do obrovského svěráku.)}
 {641}{}{Dobře.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{(Během čekání se díváš na Skeeterova záda, zatímco on pracuje na tvé zbrani. Nevíš přesně co dělá, ale jeho divný smích a podupávání tě znervózňuje.)}
 {651}{}{Čekat...}
 {660}{}{(Stále si podupává a uchechtává...)}
 {661}{}{(Potichu si pískáš a děláš na stěně Skeeterovy dílny stínohru...)}

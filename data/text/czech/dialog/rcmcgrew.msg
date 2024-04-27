@@ -5,7 +5,7 @@
 {104}{}{No to mě podrž, nevěděl jsem, že může jít evoluce pozpátku.}
 {105}{}{Máš o kolečko míň, co?}
 {106}{}{Nemám na tebe čas. Řekl bych, že nejseš o moc chytřejší než houpací kůň.}
-{107}{}{Just a couple of clowns short of a circus, aren't you?}
+{107}{}{Nespadla ti v dětství na hlavu cihlička?}
 {108}{}{Zdravím. Jsem Nebezpečný Dan McGrew a vlastním důl Morningstar. Co pro tebe můžu udělat?}
 {109}{}{Co ode mě potřebuješ?}
 {110}{}{Co se tady těží?}
@@ -148,7 +148,7 @@
 {247}{}{Nemám čas na kecy o politice. Sbohem.}
 {248}{}{Každej by chtěl to, co má Redding. A některý lidi jsou schopný zajít opravdu daleko. Vysvětlím ti to.}
 {249}{}{Pokračuj.}
-{250}{}{I've heard enough of your explanation already. Goodbye.}
+{250}{}{Už to nehodlám poslouchat. Sbohem.}
 {251}{}{Zaplatím ti za ten kontrolní čip $1000.}
 {252}{}{To zní dobře. Kde ho najdu?}
 {253}{}{To zní dobře. Tady ho máš.}
@@ -164,7 +164,7 @@
 {263}{}{Jde o to, že vyhořel kontrolní čip a novej si jen tak někde neobjednám. Ale vím, kde se jeden nachází. Zaplatím ti za něj $1000.}
 {264}{}{Kde je?}
 {265}{}{Když ten čip tak nutně potřebuješ, tak proč si pro něj nedojdeš sám?}
-{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
+{266}{}{Už takhle mám moc úkolů, takže promiň, kámo. Sbohem.}
 {267}{}{Ze spousty důvodů, většinou hladovejch a ošklivejch. Důl Wanamingo je totiž plnej hladovejch Wanamingos.}
 {268}{}{Co to ksakru jsou ty Wannamingles?}
 {269}{}{Aha, už chápu. Tím se to vysvětluje. Budu o tom přemýšlet. Sbohem.}

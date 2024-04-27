@@ -45,7 +45,7 @@
 {140}{}{Tak teď už opravdu budu muset jít. Bylo fajn si s tebou povídat.}
 {141}{}{Třeba se ještě někdy potkáme.}
 {142}{}{Chci se dostat do nejbližšího města ještě před setměním. Raději vyrazím.}
-{143}{}{Raději půjdu.}
+{143}{}{Raději už půjdu.}
 {144}{}{Přepadení!}
 {145}{}{Dneska už nemůžeš věřit nikomu.}
 {146}{}{Porušil jsi nepsaný zákon pocestného.}

@@ -97,10 +97,10 @@
 {196}{}{Chci se ještě na něco zeptat.}
 {197}{}{Díky. Uvidíme se později.}
 {198}{}{Máš zranění? Tak ukaž, ošetřím tě.}
-{199}{}{Umm...}
+{199}{}{Mmmm...}
 {200}{}{Díky. Nashle!}
 {201}{}{Kdo má zranění? Aha, tak se postavte do řady a já se na vás podívám.}
-{202}{}{One more thing...}
+{202}{}{Ještě jednu věc...}
 {203}{}{Diky! Nashle!}
 {204}{}{Překvapivě málo. Promiň, ale když se soustředím na něčí léčbu, nevěnuji obvykle pozornost jeho nejintimnějším tajemstvím.}
 {205}{}{Aha. Můžu se ještě na něco zeptat?}

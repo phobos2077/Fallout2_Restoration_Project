@@ -1,5 +1,5 @@
-{100}{}{Vidíš drogového dealera.}
-{101}{}{Vidíš drogového dealera.}
+{100}{}{Vidíš distributora drog.}
+{101}{}{Vidíš distributora drog.}
 {102}{}{Jestli hledáš nějakej matroš, tak bych něco měl.}
 {103}{}{Jasně, ukaž co máš.}
 {104}{}{Možná někdy příště.}

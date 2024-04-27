@@ -99,81 +99,81 @@
 {420}{}{náhodně zasáhla}
 {421}{}{jedna z jejích končetin byla zmrzačena}
 {422}{}{byla zasypána střepinami}
-{506}{}{You}
-{509}{}{Jejda! %s Byla jsi kriticky zasažena namísto cíle: %s!}
-{511}{}{%sByla jsi kriticky zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{512}{}{%sByla jsi zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{513}{}{%sByla jsi zasažena a ztratila jsi %d hit bodů}
-{514}{}{%s kriticky minula}
-{515}{}{%s minula}
-{520}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
-{521}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{522}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{523}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod}
-{524}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod}
-{525}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{526}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{527}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění}
-{528}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění}
-{533}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{534}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
-{556}{}{You}
-{559}{}{Jejda! %s Byla jsi kriticky zasažena namísto cíle: %s!}
-{561}{}{%sByla jsi kriticky zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{562}{}{%sByla jsi zasažena. Místo zásahu: %s. Ztratila jsi %d hit bodů}
-{563}{}{%sByla jsi zasažena a ztratila jsi %d hit bodů}
-{564}{}{%s kriticky minula}
-{565}{}{%s minula}
-{570}{}{%sByla jsi kriticky zasažena a ztratila jsi %d hit bodů}
-{571}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{572}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod. Místo zásahu: %s}
-{573}{}{%sByla jsi zasažena a ztratila jsi 1 hit bod}
-{574}{}{%sByla jsi kriticky zasažena a ztratila jsi 1 hit bod}
-{575}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{576}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění. Místo zásahu: %s}
-{577}{}{%sByla jsi zasažena, ale útok ti nezpůsobil žádné zranění}
-{578}{}{%sByla jsi kriticky zasažena, ale útok ti nezpůsobil žádné zranění}
-{583}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{584}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
-{608}{}{Jejda! %s byla zasažena namísto tebe!}
-{609}{}{Jejda! %s byla zasažena namísto cíle: %s!}
-{611}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{612}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{613}{}{%s byla zasažena a ztratila %d hit bodů}
-{614}{}{%s kriticky minula}
-{615}{}{%s minula}
-{620}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
-{621}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{622}{}{%s byla zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{623}{}{%s byla zasažena a ztratila 1 hit bod}
-{624}{}{%s byla kriticky zasažena a ztratila 1 hit bod}
-{625}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{626}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{627}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění}
-{628}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění}
-{633}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{634}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
-{708}{}{Jejda! %s byla zasažena namísto tebe!}
-{709}{}{Jejda! %s byla zasažena namísto cíle: %s!}
-{711}{}{%s byla kriticky zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{712}{}{%s byla zasažena. Místo zásahu: %s. Ztratila %d hit bodů}
-{713}{}{%s byla zasažena a ztratila %d hit bodů}
-{714}{}{%s kriticky minula}
-{715}{}{%s minula}
-{720}{}{%s byla kriticky zasažena a ztratila %d hit bodů}
-{721}{}{%s byla kriticky zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{722}{}{%s byla zasažena a ztratila 1 hit bod. Místo zásahu: %s}
-{723}{}{%s byla zasažena a ztratila 1 hit bod}
-{724}{}{%s byla kriticky zasažena a ztratila 1 hit bod}
-{725}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{726}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění. Místo zásahu %s}
-{727}{}{%s byla zasažena, ale útok jí nezpůsobil žádné zranění}
-{728}{}{%s byla kriticky zasažena, ale útok jí nezpůsobil žádné zranění}
-{733}{}{%s kriticky minula a navíc se zranila za 1 hit bod}
-{734}{}{%s kriticky minula a navíc se zranila za %d hit bodů}
+{506}{}{Ty}
+{509}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
+{511}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{512}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
+{513}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
+{514}{}{%s: nešikovně míjí}
+{515}{}{%s míjí}
+{520}{}{%s were critically hit for %d hit points}
+{521}{}{%s were critically hit in %s for 1 hit point}
+{522}{}{%s were hit in %s for 1 hit point}
+{523}{}{%s were hit for 1 hit point}
+{524}{}{%s were critically hit for 1 hit point}
+{525}{}{%s were critically hit in %s for no damage}
+{526}{}{%s were hit in %s for no damage}
+{527}{}{%s were hit for no damage}
+{528}{}{%s were critically hit for no damage}
+{533}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
+{556}{}{Ty}
+{559}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
+{561}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{562}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
+{563}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
+{564}{}{%s: nešikovně míjí}
+{565}{}{%s míjí}
+{570}{}{%s were critically hit for %d hit points}
+{571}{}{%s were critically hit in %s for 1 hit point}
+{572}{}{%s were hit in %s for 1 hit point}
+{573}{}{%s were hit for 1 hit point}
+{574}{}{%s were critically hit for 1 hit point}
+{575}{}{%s were critically hit in %s for no damage}
+{576}{}{%s were hit in %s for no damage}
+{577}{}{%s were hit for no damage}
+{578}{}{%s were critically hit for no damage}
+{583}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{584}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
+{608}{}{Jejda! Místo tebe zasaženo: %s!}
+{609}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
+{611}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{612}{}{Zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{613}{}{Zásah do: %s se ztrátou %d hit bodů}
+{614}{}{%s: nešikovně míjí}
+{615}{}{%s míjí}
+{620}{}{Kritický zásah do: %s se ztrátou %d hit bodů}
+{621}{}{Kritický zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{622}{}{Zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{623}{}{Zásah do: %s se ztrátou 1 hit bodu}
+{624}{}{Kritický zásah do: %s se ztrátou 1 hit bodu}
+{625}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{626}{}{Zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{627}{}{Zásah do: %s. Útok nezpůsobil žádné zranění}
+{628}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
+{633}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{634}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
+{708}{}{Jejda! Místo tebe zasaženo: %s!}
+{709}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
+{711}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{712}{}{Zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
+{713}{}{Zásah do: %s se ztrátou %d hit bodů}
+{714}{}{%s: nešikovně míjí}
+{715}{}{%s míjí}
+{720}{}{Kritický zásah do: %s se ztrátou %d hit bodů}
+{721}{}{Kritický zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{722}{}{Zásah do: %s se ztrátou 1 hit bodu. Místo zásahu: %s}
+{723}{}{Zásah do: %s se ztrátou 1 hit bodu}
+{724}{}{Kritický zásah do: %s se ztrátou 1 hit bodu}
+{725}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{726}{}{Zásah do: %s. Útok nezpůsobil žádné zranění. Místo zásahu %s}
+{727}{}{Zásah do: %s. Útok nezpůsobil žádné zranění}
+{728}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
+{733}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
+{734}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {1110}{}{hlava}
-{1111}{}{levý pařát}
-{1112}{}{pravý pařát}
+{1111}{}{levá ruka}
+{1112}{}{pravá ruka}
 {1113}{}{hrudník}
 {1114}{}{pravá noha}
 {1115}{}{levá noha}
@@ -204,12 +204,12 @@
 {1173}{}{konstrukce}
 {1174}{}{servo}
 {1175}{}{servo}
-{1176}{}{senzory}
+{1176}{}{čidla}
 {1177}{}{regulátor}
 {1178}{}{uncalled}
 {1180}{}{hlava}
-{1181}{}{levý pařát}
-{1182}{}{pravý pařát}
+{1181}{}{levá ruka}
+{1182}{}{pravá ruka}
 {1183}{}{hrudník}
 {1184}{}{pravá noha}
 {1185}{}{levá noha}
@@ -226,8 +226,8 @@
 {1197}{}{genitálie}
 {1198}{}{uncalled}
 {1210}{}{hlava}
-{1211}{}{levý pařát}
-{1212}{}{pravý pařát}
+{1211}{}{levá ruka}
+{1212}{}{pravá ruka}
 {1213}{}{hrudník}
 {1214}{}{pravá noha}
 {1215}{}{levá noha}
@@ -236,7 +236,7 @@
 {1218}{}{uncalled}
 {1220}{}{hlava}
 {1221}{}{ocas}
-{1222}{}{klepeta}
+{1222}{}{klepeto}
 {1223}{}{krunýř}
 {1224}{}{přední nohy}
 {1225}{}{zadní nohy}
@@ -262,8 +262,8 @@
 {1247}{}{genitálie}
 {1248}{}{uncalled}
 {1250}{}{hlava}
-{1251}{}{levý pařát}
-{1252}{}{pravý pařát}
+{1251}{}{levá ruka}
+{1252}{}{pravá ruka}
 {1253}{}{trup}
 {1254}{}{pravá noha}
 {1255}{}{levá noha}
@@ -271,8 +271,8 @@
 {1257}{}{genitálie}
 {1258}{}{uncalled}
 {1270}{}{hlava}
-{1271}{}{levý pařát}
-{1272}{}{pravý pařát}
+{1271}{}{levá ruka}
+{1272}{}{pravá ruka}
 {1273}{}{hrudník}
 {1274}{}{pravá noha}
 {1275}{}{levá noha}
@@ -280,8 +280,8 @@
 {1277}{}{genitálie}
 {1278}{}{uncalled}
 {1460}{}{hlava}
-{1461}{}{levý pařát}
-{1462}{}{pravý pařát}
+{1461}{}{levá ruka}
+{1462}{}{pravá ruka}
 {1463}{}{hrudník}
 {1464}{}{pravá noha}
 {1465}{}{levá noha}
@@ -289,8 +289,8 @@
 {1467}{}{genitálie}
 {1468}{}{uncalled}
 {1490}{}{hlava}
-{1491}{}{levý pařát}
-{1492}{}{pravý pařát}
+{1491}{}{levá ruka}
+{1492}{}{pravá ruka}
 {1493}{}{hrudník}
 {1494}{}{pravá noha}
 {1495}{}{levá noha}
@@ -307,8 +307,8 @@
 {1507}{}{CPU}
 {1508}{}{uncalled}
 {1510}{}{hlava}
-{1511}{}{levý pařát}
-{1512}{}{pravý pařát}
+{1511}{}{levá ruka}
+{1512}{}{pravá ruka}
 {1513}{}{hrudník}
 {1514}{}{pravá noha}
 {1515}{}{levá noha}
@@ -318,7 +318,7 @@
 {1520}{}{hlava}
 {1521}{}{přední noha}
 {1522}{}{přední noha}
-{1523}{}{krunýř}
+{1523}{}{břicho}
 {1524}{}{nohy}
 {1525}{}{křídla}
 {1526}{}{oči}
@@ -330,7 +330,7 @@
 {1533}{}{konstrukce}
 {1534}{}{servo}
 {1535}{}{servo}
-{1536}{}{senzory}
+{1536}{}{čidla}
 {1537}{}{regulátor}
 {1538}{}{uncalled}
 {1540}{}{CPU}
@@ -339,7 +339,7 @@
 {1543}{}{konstrukce}
 {1544}{}{servo}
 {1545}{}{servo}
-{1546}{}{senzory}
+{1546}{}{čidla}
 {1547}{}{regulátor}
 {1548}{}{uncalled}
 {1550}{}{hlava}
@@ -351,18 +351,18 @@
 {1556}{}{oči}
 {1557}{}{genitálie}
 {1558}{}{uncalled}
-{1580}{}{skořápka}
-{1581}{}{skořápka}
-{1582}{}{skořápka}
-{1583}{}{skořápka}
-{1584}{}{skořápka}
-{1585}{}{skořápka}
-{1586}{}{skořápka}
-{1587}{}{skořápka}
+{1580}{}{krunýř}
+{1581}{}{krunýř}
+{1582}{}{krunýř}
+{1583}{}{krunýř}
+{1584}{}{krunýř}
+{1585}{}{krunýř}
+{1586}{}{krunýř}
+{1587}{}{krunýř}
 {1588}{}{uncalled}
 {1590}{}{hlava}
 {1591}{}{ocas}
-{1592}{}{klepeta}
+{1592}{}{klepeto}
 {1593}{}{krunýř}
 {1594}{}{přední nohy}
 {1595}{}{zadní nohy}
@@ -370,8 +370,8 @@
 {1597}{}{mozek}
 {1598}{}{uncalled}
 {1600}{}{hlava}
-{1601}{}{levý pařát}
-{1602}{}{pravý pařát}
+{1601}{}{levá ruka}
+{1602}{}{pravá ruka}
 {1603}{}{hrudník}
 {1604}{}{pravá noha}
 {1605}{}{levá noha}
@@ -393,7 +393,7 @@
 {1663}{}{trup}
 {1664}{}{pravá noha}
 {1665}{}{levá noha}
-{1666}{}{senzory}
+{1666}{}{čidla}
 {1667}{}{kloub}
 {1668}{}{uncalled}
 {1670}{}{hlava}
@@ -421,11 +421,11 @@
 {1804}{}{pravá noha}
 {1805}{}{levá noha}
 {1806}{}{oči?}
-{1807}{}{pohlavní orgány}
+{1807}{}{tříselná jamka}
 {1808}{}{uncalled}
 {1850}{}{hlava}
-{1851}{}{levý pařát}
-{1852}{}{pravý pařát}
+{1851}{}{levá ruka}
+{1852}{}{pravá ruka}
 {1853}{}{hrudník}
 {1854}{}{pravá noha}
 {1855}{}{levá noha}
@@ -439,7 +439,7 @@
 {1864}{}{pravá noha}
 {1865}{}{levá noha}
 {1866}{}{oči?}
-{1867}{}{pohlavní orgány}
+{1867}{}{tříselná jamka}
 {1868}{}{uncalled}
 {1900}{}{CPU}
 {1901}{}{zbraň}
@@ -447,21 +447,21 @@
 {1903}{}{konstrukce}
 {1904}{}{servomotor}
 {1905}{}{servomotor}
-{1906}{}{senzory}
+{1906}{}{čidla}
 {1907}{}{regulátor}
 {1908}{}{uncalled}
 {1970}{}{hlava}
 {1971}{}{levá přední noha}
 {1972}{}{pravá přední noha}
-{1973}{}{krunýř}
+{1973}{}{břicho}
 {1974}{}{pravá zadní noha}
 {1975}{}{levá zadní noha}
 {1976}{}{tykadla}
 {1977}{}{kladélko}
 {1978}{}{uncalled}
 {1990}{}{hlava}
-{1991}{}{levý pařát}
-{1992}{}{pravý pařát}
+{1991}{}{levá ruka}
+{1992}{}{pravá ruka}
 {1993}{}{hrudník}
 {1994}{}{pravá noha}
 {1995}{}{levá noha}
@@ -469,8 +469,8 @@
 {1997}{}{genitálie}
 {1998}{}{uncalled}
 {2000}{}{hlava}
-{2001}{}{levý pařát}
-{2002}{}{pravý pařát}
+{2001}{}{levá ruka}
+{2002}{}{pravá ruka}
 {2003}{}{hrudník}
 {2004}{}{pravá noha}
 {2005}{}{levá noha}
@@ -483,7 +483,7 @@
 {2013}{}{konstrukce}
 {2014}{}{servomotor}
 {2015}{}{servomotor}
-{2016}{}{senzory}
+{2016}{}{čidla}
 {2017}{}{regulátor}
 {2018}{}{uncalled}
 {2030}{}{hlava}
@@ -495,9 +495,9 @@
 {2036}{}{oči}
 {2037}{}{křídla}
 {2038}{}{uncalled}
-{5000}{}{ a ošklivě ji to zabolelo}
-{5001}{}{. Serious pain is inflicted.}
-{5002}{}{, protože na sobě nemá zbroj}
+{5000}{}{. Tohle docela ublížilo.}
+{5001}{}{. Zásah způsobil vážné zranění}
+{5002}{}{ , protože na sobě nemá zbroj}
 {5003}{}{. Drtivá rána ho zcela omráčila}
 {5004}{}{. Rána ho srazila na zem}
 {5005}{}{. Silná rána do hlavy ho úplně knokautovala}
@@ -533,7 +533,7 @@
 {5035}{}{. Zlomil se v pase, upadl na zem a začal chroptět v agónii}
 {5036}{}{. Bolest ze zranění byla tak silná, že se zhroutil jako panák z hadrů}
 {5037}{}{. Zamumlal "Mami" a jeho oči se pomalu obrátily v sloup}
-{5100}{}{ a ošklivě ji to zabolelo}
+{5100}{}{. Tohle docela ublížilo.}
 {5101}{}{. Serious pain is inflicted}
 {5102}{}{, protože na sobě nemá zbroj}
 {5103}{}{. Drtivá rána ji zcela omráčila}

@@ -24,5 +24,4 @@
 {290}{}{Při hledání pasti na sejfu se ti omylem podařilo spustit výbušninu.}
 {291}{}{Při odstraňování výbušniny se ti podařilo omylem vytáhnout špatný drát.}
 {300}{}{O patro výš uslyšíš tlumený výbuch.}
-{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+{400}{}{Otevřeš malou desku na dně sejfu. Asi by se ti ji nepodařilo najít, kdyby ti o ní paní Bishopová neřekla. Uvnitř je podivná elektronická periférie k Pip-Boyi.}

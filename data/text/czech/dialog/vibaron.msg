@@ -43,7 +43,7 @@
 {310}{}{To je přesně to, co jsem měl na mysli! Dobře, platí. (Nenasytně popadne peníze a potřese ti rukou.)}
 {311}{}{Bylo mi potěšením s tebou obchodovat. Nashle.}
 {312}{}{Nashle.}
-{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
+{320}{}{$500? To mi za to nestojí. Dej mi $1 000 a plácneme si.}
 {321}{}{Tolik nemám. Nashle.}
 {322}{}{Tak jo, dobře. $1000.}
 {323}{}{Ani náhodou. Sbohem.}

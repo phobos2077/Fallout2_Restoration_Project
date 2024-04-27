@@ -71,7 +71,7 @@
 {169}{}{Jo, tady je. [Dát Typhonovi Kočičí Packu]}
 {170}{}{Ještě ne. Mám další otázky.}
 {171}{}{Ne.}
-{172}{}{No tak si pospěš! Jsem starý ghoul a říkám ti, že potřebuju odpočinek! Tak běž, běž, běž!}
+{172}{}{No tak si pospěš! Jsem starý ghoul a říkám ti, že potřebuju odpočinek! Tak už jdi!}
 {173}{}{[KONEC]}
 {174}{}{Dítě, ten časák mi pěkně rozproudil krev v žilách, takže myslím, že od tebe budu potřebovat ještě něco, než ti řeknu o tom pokladu. Přines mi nafukovací pannu. Určitě nějakou najdeš v New Renu.}
 {175}{}{Tak jo! Naskle!}

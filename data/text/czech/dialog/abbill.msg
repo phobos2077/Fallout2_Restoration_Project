@@ -5,7 +5,8 @@
 {202}{}{Pojďme obchodovat.}
 {203}{}{Bylo mi řečeno, že jsi ten pravý, se kterým si můžu promluvit ohledně karavan.}
 {204}{}{Ale nic. Nashle.}
-{210}{}{Vidím, že je zde v Opatství nashromážděno hodně starých předmětů a vybavení. Nenašel jsi tu za dobu svého pobytu něco... speciálního?}
+{210}{}{Vidím, že je zde v Opatství nashromážděno hodně starých předmětů a vybavení.
+Nenašel jsi tu za dobu svého pobytu něco... speciálního?}
 {211}{}{Jo, máš pravdu. Lidé z Opatství mají velký zájem o cokoliv z doby před válkou, obzvlášť pokud to má něco společného s technikou. Vytvořili na tom jakési praštěné náboženství. Já sám to tak úplně nechápu, ale jsou to milí lidé a platí slušné peníze za cokoliv předválečného, co se mi dostane do rukou. Ale abych se vrátil k tvé otázce ohledně něčeho speciálního... hmm. (Upře svůj zrak na Marcuse.) Ještě že se ptáš, možná tu mám něco, co by mohlo zajímat tady tvého přítele.}
 {212}{}{Jo, máš pravdu. Lidé z Opatství mají velký zájem o cokoliv z doby před válkou, obzvlášť pokud to má něco společného s technikou. Vytvořili na tom jakési praštěné náboženství. Já sám to tak úplně nechápu, ale jsou to milí lidé a platí slušné peníze za cokoliv předválečného, co se mi dostane do rukou. Ale abych se vrátil k tvé otázce ohledně něčeho speciálního... hmm. (Upře svůj zrak na tvoji partu.) Je mi líto, ale myslím, že tu pro tebe momentálně nic speciálního nemám.}
 {213}{}{Dobrá. Raději se podívám, co máš na skladě.}

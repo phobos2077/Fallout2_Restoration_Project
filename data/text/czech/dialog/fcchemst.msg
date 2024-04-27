@@ -23,7 +23,7 @@
 {122}{}{Chci vědět, co tady děláte.}
 {123}{}{Potřebuju získat palivo pro Hubologisty.}
 {124}{}{Ne. Právě odcházím.}
-{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
+{125}{}{Vy chcete palivo pro tanker? A já chci zase tvrzenou energo zbroj. Vím, že jeden z Hubologistů, Crockett, zná postup, kterým dokáže vylepšit běžnou energo zbroj. Sežeňte mi tu vylepšenou zbroj a já vám převedu palivo kam budete chtít.}
 {126}{}{Samozřejmě.}
 {127}{}{Nemůžu nic slíbit.}
 {128}{}{Jednu mám zrovna u sebe.}
@@ -31,7 +31,7 @@
 {130}{}{Vlastně mě to zajímá. Chci palivo pro Poseidon Oil Tanker.}
 {131}{}{Vsadím se, že to bude zajímat Hubologisty. Ti chtějí palivo.}
 {132}{}{Zatím ne. Ale ještě se vrátím.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
+{133}{}{Oni chtějí palivo? No, jsou sice nesnesitelní, ale občas bývají užiteční. Slyšel jsem, že vyvinuli postup, kterým udělají energo zbroj ještě silnější. Pokud mi vylepší jednu takovou zbroj, pošlu jim palivo naším potrubím. Předpokládám, že je to pro jejich vesmírnou loď. Promluvte si s Crockettem, to on vám pomůže.}
 {134}{}{Samozřejmě.}
 {135}{}{Nemůžu nic slíbit.}
 {136}{}{Jednu mám zrovna u sebe.}
@@ -56,7 +56,7 @@
 {155}{}{Ano. Nashle.}
 {156}{}{Ani náhodou. Nashle.}
 {157}{}{Stráže! Stráže! Ten cizinec je zpátky! Zabijte ho! }
-{158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
+{158}{}{Už jste mluvil s Hubologistou, který si říká Crockett, a získal jste od něj tu zbroj?}
 {159}{}{Ne, ještě ne.}
 {160}{}{Tak proč se sem stále vracíte a otravujete mě?}
 {161}{}{Protože mám nějaké otázky.}

@@ -19,7 +19,7 @@
 {300}{}{"Zde leží Chris Avellone, Král parketu."}
 {301}{}{"Chris Jones. Noční pták."}
 {302}{}{"Christopher Michael Holland, neboli 'Chris Holland', neboli 'Chris': Ke čtení tohoto náhrobku jsou dva a půl důvodu... obvykle se čeká, že budou ty důvody uvedeny."}
-{303}{}{"Colin McComb: Another pointless life."}
+{303}{}{"Colin McComb: Další nesmyslný život."}
 {304}{}{"David Hendee: Nejhlasitější mezi mrtvými. Ať odpočívá v pokoji, a tiše."}
 {305}{}{"Ed Hyland. Řekl světu, ať mu políbí..."}
 {306}{}{"Eric Demilt. OPRAVDOVÝ bojovný hoch."}
@@ -36,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Vyhnán z Vault City."}
 {318}{}{"Rupert Dinkos, zemřel v zimě '00."}
 {319}{}{"Matt Norton. Mohl být někdo. Mohl být boss a ne takový pobuda... kterým přesně byl."}
-{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
+{320}{}{"Nick Kesting." (Leží tu malý kyblík s měděnými kroužky proti slimákům.)}
 {321}{}{"Robert Collier. Tichý. Smrtelný. Chmaták."}
 {322}{}{"Robert Hertenstein 2. Jeho doktor mu to chtěl říct, ale on trval na tom, že 'To je na mě moc informací.'"}
 {323}{}{"Scott Cambell. Polévku ne."}
@@ -44,16 +44,16 @@
 {325}{}{"Scott Rodenhizer. Vytvořil 3D hlavy."}
 {326}{}{"Thomas French: Zemřel při pokusu ovládnout Flying Quillotine."}
 {327}{}{"Tim Cain. Zakladatel, Milenec, Bojovník, Programátor."}
-{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
-{329}{}{"Zeb -- Still Older Than Dirt."}
+{328}{}{"Tramell Ray Isaac: Zde leží jeden z nejpilnějších lidí v branži. Neobyčejný animátor. Aspoň myslím. Odpočívej v pokoji, T. Ray."}
+{329}{}{"Zeb -- starší než hlína sama."}
 {330}{}{"Dennis Presnell. Jako bychom ho teď slyšeli říkat: 'Tomu říkáte pohřeb?! Vždyť stál za hovno! Chlapi, vy jste hrozní k!@oti! Už radši nikdy nezemřu! Bla bla bla...'" Pod tím je načmáráno: "Odpočívej 'ubrečený' Dennisi, a drž hubu."}
-{331}{}{"Rupert Diukos, died 9/24/96."}
-{332}{}{"Sal De Ban, died 9/24/96."}
-{333}{}{"Greg Zeschule, Fall '99."}
-{334}{}{"Ray Muzyka, Summer '98."}
+{331}{}{"Rupert Diukos, zemřel 24.9.1996."}
+{332}{}{"Sal De Ban, zemřel 24.9.1996."}
+{333}{}{"Greg Zeschule, podzim '99."}
+{334}{}{"Ray Muzyka, léto '98."}
 {335}{}{"Evan Chantland, 74-??: Nebyl paranoidní, opravdu po něm šli."}
 {336}{}{"Zde leží Moose, studený a mrtvý. Našli jsme ho tu... bez hlavy."}
-{337}{}{"Amy Presnell."}
+{337}{}{"Amy Presnell"}
 {338}{}{"Stephen Bokkes, věk 25. V mládí se nechal prostřílet a probodat šípy od té ohavné štěstěny." }
 {339}{}{"Odpočívej v pokoji. Doug "Lebkoun" Finch (Datum není důležité) Zabit za kouření ve French Market. Jeho poslední slova: Aby vás osel nakop!'"}
 {340}{}{"Zde leží Donnie Cornwell, dobrý a mrtvý muž. Ve speciální rakvi, do které se vešla jeho supervelká makovice."}
@@ -61,14 +61,14 @@
 {342}{}{"T. D. Hamilton: Zde leží ten parchant, který měl umřít mnohem, mnohem dřív. Odpočívej v Pekle, KRETÉNE!"}
 {343}{}{"Další z obětí uzávěrky."}
 {344}{}{"Pes je mrtev. Ať žije Pes."}
-{345}{}{"Kris Snider: Too competitive."}
+{345}{}{"Kris Snider: Příliš soutěživý."}
 {346}{}{"Děláš ve svém životě taky něco užitečného?"}
 {347}{}{"Proč se prostě rovnou nezabiješ a neušetříš tím někomu práci?"}
 {348}{}{"Charles Cuevas: Jednou řekl: 'Chci hokej nebo smrt!' Hokej nedostal."}
-{349}{}{"William Lebus."}
+{349}{}{"William Lebus"}
 {350}{}{"Reg Arnedo: na chodbách stále slyšíme jeho hlas."}
-{351}{}{"Shanna SanPaolo."}
-{352}{}{"Brahmin Wrangler."}
+{351}{}{"Shanna SanPaolo"}
+{352}{}{"Honák brahmín."}
 {353}{}{"Josh Walters, 1971-2011. Zemřel na následek komplikací při páté transplantaci jater."}
 {354}{}{"Doug Avery. Nesnášel válku za to, že zničila jeho životní styl obytných přívěsů stojících v parku."}
 {355}{}{"Zde leží Ezekial Aikle, věk 102. Dobří lidé umírají mladí."}
@@ -89,15 +89,15 @@
 {370}{}{"Tom Daleký je dnes tak daleko, že už se nevrátí."}
 {371}{}{"Na památku malého Chrise Woody: Och, jak je nám líto Woody. Dali jsme ti tvoje chůdy, ať netrpí tvoje údy. Škoda, že jsi spadl z té půdy.}
 {372}{}{"Zde pod drnem a pod stromy leží tělo Viléma Pohromy. Za života to byl klasa. Bůh je nyní jeho spása."}
-{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
+{373}{}{"Neznámý muž - zcela spálen 21. března 1870 po explozi lampy naplněné "R.E. Danforthovým, nevýbušným, hořícím roztokem."}
 {374}{}{"Narozen 1903 -- zemřel 1942. Díval se do výtahové šachty, aby zjistil, jestli už jede dolů kabina. Jela."}
 {375}{}{"Zde leží ateista. Celý vystrojený a nemá kam jít."}
-{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
+{376}{}{"Vilém Mucha: Vystudoval práva na W&M univerzitě. Zemřel jako Vilém Mrcha."}
 {377}{}{"Sarah Smart: Řečník, Autorka, Profesorka. Znala cenu přátelství."}
-{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
-{379}{}{"Jughead - King of Queen Archie's World."}
-{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
-{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
+{378}{}{"Tim Winkle - Neuznávám žádného pokrytectví kromě svého."}
+{379}{}{"Dutohlav - Král Světa královny Pavoučnatky."}
+{380}{}{"R.I.P Casey Donahue zemřel 6.8.1998 Byl zabit zmutovaným a nevrlým mořským okounem."}
+{381}{}{"Christopher 'Noční pták' Jones: správce modřin po úderu penisem."}
 {382}{}{"Jay "Bramborová noha" Nielson. Hudebník. Zemřel ve věku 104 let, při bubnovém sólu."}
 {383}{}{"Nitsa - příčina toho, proč Charles nikdy nepochopil hokej."}
 {384}{}{"Thuy Dang. Bůh se smiluj nad jeho jménem."}

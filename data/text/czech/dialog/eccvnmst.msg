@@ -45,16 +45,16 @@
 {154}{}{drogy.}
 {155}{}{otroky.}
 {156}{}{různé věci.}
-{198}{}{New Rena}
-{199}{}{Denu}
+{198}{}{New Reno}
+{199}{}{Den}
 {200}{}{Arroyo}
-{201}{}{Reddingu}
+{201}{}{Redding}
 {202}{}{Vault City}
 {203}{}{NCR}
 {204}{}{Broken Hills}
-{205}{}{Gecka}
-{206}{}{San Francisca}
-{207}{}{Modocu}
+{205}{}{Gecko}
+{206}{}{San Francisco}
+{207}{}{Modoc}
 {208}{}{Klamath}
 {209}{}{Vaultu 15}
 {300}{}{Díky za obchod.}

@@ -4,9 +4,9 @@
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
-{106}{}{Denu}
-{107}{}{Denu}
-{108}{}{Denu}
+{106}{}{Den}
+{107}{}{Den}
+{108}{}{Den}
 {109}{}{Klamath}
 {110}{}{Klamath}
 {111}{}{Klamath}
@@ -588,20 +588,20 @@
 {717}{}{- Jeskyně}
 {718}{}{}
 {1500}{}{Arroyo}
-{1501}{}{Denu}
+{1501}{}{Den}
 {1502}{}{Klamath}
-{1503}{}{Modocu}
+{1503}{}{Modoc}
 {1504}{}{Vault City}
-{1505}{}{Gecka}
+{1505}{}{Gecko}
 {1506}{}{Broken Hills}
-{1507}{}{New Rena}
+{1507}{}{New Reno}
 {1508}{}{Armadni sklad Sierra}
 {1509}{}{Vaultu 15}
 {1510}{}{New California Republic}
 {1511}{}{Vault 13}
 {1512}{}{Vojenska zakladna}
-{1513}{}{Reddingu}
-{1514}{}{San Francisca}
+{1513}{}{Redding}
+{1514}{}{San Francisco}
 {1515}{}{Navarro}
 {1516}{}{Enklava}
 {1517}{}{Opatstvi}

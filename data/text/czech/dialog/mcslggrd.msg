@@ -24,6 +24,6 @@
 {242}{}{[Všechny pozabíjet a nechat jejich těla na pospas bohům]}
 {250}{}{Promiň, ale tudy nemůžeš jít.}
 {251}{}{Tenhle vstup je jenom pro dělníky.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
+{252}{}{Kvůli jednomu člověku se nevyplatí přistavovat žebřík.}
 {253}{}{Jestli chceš odejít, zeptej se nejdřív Vegeira.}
 {260}{}{Dobže.}

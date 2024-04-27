@@ -88,7 +88,7 @@
 {1013}{}{To je fajn. Musím jít.}
 {1020}{}{Pouhou myšlenkou dokážu natvrdo změnit zakódované věci do Zdrojáku a tím určit osud celých vesmírů! Celá legie mých nejlepších oprav všelijakých much na tebe stále ještě čeká. Já jsem paní Temné Strany Zdrojáku.}
 {1021}{}{Ticho! Roky práce v temnotě mohly pokřivit můj vzhled, ale v této mysli je ukryta síla boha! S pomocí Zdrojáku vytvářím počasí ovládající celé světy a vylepšuji to, co již nemůže být vylepšeno! Byla jsem to já, kdo umožnil Zlé Beth ovládnout svět RPG díky mým modifikacím. Vše, co se stalo, se stalo podle MÝCH představ.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
+{1022}{}{Zbrojáku? Jakého zbrojáku? Chceš mi říct, že klíčem k ovládnutí vesmíru je udělat si zbrojní průkaz? No jak myslíš.}
 {1023}{}{Jo, jo. Jak myslíš. Myslím, že půjdu pryč.}
 {1024}{}{Eh, tak jo. To je skvělé. No, už musím jít... ehm... zalít kytky...}
 {1030}{}{Nevychovaný hlupáku. Tvá arogance je zároveň i tvoje slabina a moje víra v tvé přátele je... noo... moje. *vypadá zmateně* Kliď se mi z očí!}

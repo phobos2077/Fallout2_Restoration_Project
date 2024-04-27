@@ -79,9 +79,7 @@
 {291}{}{Povídej dál.}
 {300}{}{Jeden opravdu dobrý lovec jménem Smiley šel někam na sever hledat, odkud vlastně pocházejí. Byl přesvědčený, že všichni pocházejí z jednoho místa. Jenomže o něm nikdo už několik měsíců neslyšel.}
 {301}{}{Co myslíš, že se mu stalo?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
+{310}{}{Možná našel to místo, odkud pocházejí, a geckoni ho sežrali. (hehehe) Ale jedno ti řeknu, paní Bucknerové málem puklo srdce, když se nevrátil. Byl to její milenec. Paní Bucknerová provozuje Bucknerův dům.}
 {311}{}{Zajímavé. Pověz mi ještě o něčem jiném.}
 {312}{}{To bude prozatím všechno. Sbohem.}
 {320}{}{Ano, máme tu velké množství nejrůznějších aut. Čekají tu na své majitele, až se vrátí z nákupů, jenže to se nikdy nestane. Ani jedno z nich není pojízdné. Kousek odsud na východ je skutečně nádherný Highwayman od Chrysalis Motors, ale zatím jsem nepřišel na to, jak se tam dostat.}

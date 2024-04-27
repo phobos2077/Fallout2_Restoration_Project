@@ -28,7 +28,7 @@
 {127}{}{Ne, ani ne.}
 {128}{}{Zase ty, jo?}
 {129}{}{Ork! Óó! Ehe!}
-{130}{}{Hi! HIIIII! Me }
+{130}{}{Ahoj! AHOOOJ! Já }
 {131}{}{Kámo, už jsem ti peníze dal. Běž otravovat někoho jiného, slyšíš?}
 {132}{}{Zdravím. Nechceš jít třeba do... eh... městské banky? Jsem si jistý, že se tam najde pár lidí, který si s tebou rádi popovídají.}
 {133}{}{No, tak pokud si to náhodou rozmyslíš, dej mi vědět.}
@@ -104,10 +104,7 @@
 {203}{}{Půjdu se jich tedy zeptat.}
 {204}{}{Musím říct, že to jde dobře. Ale... vždycky může být líp.}
 {205}{}{Hehe. Díky za informace.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
+{206}{}{No, jelikož mutanti nestárnou a nejsou senilní... díky tomu plynu jsou totiž mladí nebo tak něco... tak musím říct, že se máme fajn. Chci říct, už nechceme všechny pozabíjet a pokud vím, lidé už o nás smýšlejí docela dobře. To samé se ale nedá říct o lidech z jiných měst... to jsou totiž pěkní parchanti.}
 {207}{}{Dobře, díky. Nashle.}
 {300}{}{. Co říkáš?}
 {301}{}{. Co říkáš?}

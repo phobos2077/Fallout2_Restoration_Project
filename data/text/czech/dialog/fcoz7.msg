@@ -5,7 +5,7 @@
 {104}{}{Ty, co tady chceš?}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Mám dopis pro AHS-9 od Osvícené z NCR.}
-{107}{}{I'm here to speak to Crockett about some armor.}
+{107}{}{Potřebuju si promluvit s Crockettem o nějaké zbroji.}
 {108}{}{Chci se tu porozhlédnout.}
 {109}{}{Mám zájem se k vám možná přidat.}
 {110}{}{Kdo jsi?}
@@ -28,7 +28,7 @@
 {127}{}{Ó! Celebrity!}
 {128}{}{Jsem AHS-7, druhý vůdce této základny. Než se zeptáš: AHS znamená Srovnaný Hledač Hubu, což znamená, že jsem očistil sedm úrovní neurodynů ze své duše. Díky tomu jsem osvícenější a jsem blíže středu pohybu Velkého Kruhu, než jsi ty. A to znamená, že mi řekneš, co tu chceš. Hned teď.}
 {129}{}{Mám dopis pro AHS-9 od Osvícené z NCR.}
-{130}{}{I'm here to speak to Crockett about some armor.}
+{130}{}{Potřebuju si promluvit s Crockettem o nějaké zbroji.}
 {131}{}{Chci se tu porozhlédnout.}
 {132}{}{Mám zájem se k vám možná přidat.}
 {133}{}{Přišel jsem vás všechny zabít.}
@@ -76,7 +76,7 @@
 {175}{}{Kde získám palivo pro tanker Poseidon?}
 {176}{}{Kde najdu popis všech výrazů, o kterých jsi mluvil?}
 {177}{}{Kdy odlétá raketoplán?}
-{178}{}{Where is Crockett?}
+{178}{}{Kde je Crockett?}
 {179}{}{Nic, díky. Nashle.}
 {180}{}{Dej nám vědět, až ten úkol splníš.}
 {181}{}{Dám. Mám ještě otázky.}

@@ -46,7 +46,7 @@
 {271}{}{Ten minulej zápas byl úžasnej, chica.}
 {272}{}{Kde posiluješ, hm? Nepotřebuješ pomocníka?}
 {273}{}{Dávej si bacha na Ždímačku. Chutnaj mu uši... je to pěknej zvrhlík.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hej, hej, hej! Buchto, chceš abych ti tu zbraň vzal?}
 {281}{}{Copak, chceš abych tě snad prohledal? No tak, schovej to železo, nebo ti ukážu zač je toho loket.}
 {285}{}{Co se tady sakra plazíš, }
 {290}{}{S takovým tělem se nemáš šanci proplížit kolem Mordina, chica.}
@@ -151,13 +151,13 @@
 {474}{}{Jo, bezva. Tak se měj.}
 {475}{}{Zajímalo by mě, jestli bude mít Velkej Ježíš pochopení pro to, jak ti tři otroci mohli utéct přímo pod NOSEM tak všímavému a na Jetu závislému strážnému, jako jsi ty.}
 {476}{}{Ramirezi... dej si bacha na to, co říkáš, rozumíš? Ten tvůj jazyk by tě mohl jednou dostat do maléru.}
-{480}{}{(Mrkne.) Co...? Co říkáš?}
+{480}{}{(Mrkne) Co...? Co říkáš?}
 {481}{}{Nic, čemu bys rozuměl nebo co budu opakovat. Dávej na sebe pozor, rozumíš?}
 {482}{}{Říkal jsem, "Zajímalo by mě, jestli bude mít Velkej Ježíš pochopení pro to, jak ti tři otroci mohli utéct pod NOSEM tak všímavému a na Jetu závislému strážnému, jako jsi ty."}
 {490}{}{(Zamrká a zmateně se usměje.) Co? Jo, jo. Jsem bdělej a... os-ostražitej... jsem přece STRÁŽ, jasný?}
 {491}{}{Jo, to už jsi říkal. Myslím, že bys prokázal lidstvu velkou laskavost, Ramirezi, kdybys celej ten balík Jetu vyšňupal najednou. Měj se.}
 {492}{}{Jsem opravdu moc rád, že měl někdo tolik rozumu, aby vám všem dal automatické zbraně. Dává mi to pocit jistoty. Měj se, Ramirezi.}
-{493}{}{(Mrkne.) Co...? Co říkáš?}
+{493}{}{(Mrkne) Co...? Co říkáš?}
 {494}{}{Zapomeň na to. Strč si do tlamy pistoli a zmáčkni spoušť, jo?}
 {495}{}{Ale nic. Myslím, že bys prokázal lidstvu velkou laskavost, Ramirezi, kdybys celou tu krabici Jetu vyšňupal najednou. Měj se.}
 {496}{}{[Odejít]}

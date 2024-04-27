@@ -6,7 +6,7 @@
 {105}{}{Už mám těch brahmín plný zuby.}
 {106}{}{Prej maj Bishopovi spadeno na našeho šéfa.}
 {107}{}{Jestli si chceš s někým popovídat, tak jdi za naším předákem Felixem.}
-{108}{}{You ain't with the Bishops, are you?}
+{108}{}{Nejseš jeden z Bishopů, že ne?}
 {109}{}{Víme, že to byla vražda. A až toho hada chytíme, zabijeme ho pomalu.}
 {110}{}{Felix přísahá, že je za tím Bishop. Říká, že na tom někdo pěkně vydělal.}
 {111}{}{No, je načase jít dál. Všechno tu jde do háje.}

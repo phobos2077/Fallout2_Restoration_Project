@@ -31,7 +31,7 @@
 {130}{}{Vetřelec! Poplach!}
 {131}{}{Utíkejte! Primitivové jsou na svobodě!}
 {132}{}{Stráže! Pomóóóóóóc!}
-{133}{}{Poplach! Poplach!}
+{133}{}{Poplach, vetřelec! Poplach, vetřelec!}
 {134}{}{Vypnout? Přeskočilo vám snad? Nikdo nebude vypínat *můj* reaktor.}
 {135}{}{Ano, přeskočilo. Buď mi řeknete, jak se ten reaktor vypíná, nebo vypnu já vás... nadobro.}
 {136}{}{Řekl jsem vypnout? Promiňte, já chtěl jen vědět, jak ten reaktor funguje.}

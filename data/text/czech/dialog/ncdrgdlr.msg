@@ -1,5 +1,5 @@
 {150}{}{Vidíš chlapíka v pomačkaném oblečení. Mne si nos a nenápadně se rozhlíží kolem.}
-{151}{}{Vidíš drogového dealera.}
+{151}{}{Vidíš distributora drog.}
 {152}{}{Vidíš drogového dealera. Vypadá to, že čeká na zákazníka.}
 {200}{}{Nazdar, hrdino! Nechceš oslavit svoje vítězství nad Enklávou trochou toho nejlepšího Jetu? Jsem tvůj člověk!}
 {201}{}{Takhle se Enklávě nakopává prdel, hrdino! Nechceš toho zachraňování světa na chvíli nechat a oslavit to trochou Jetu?}

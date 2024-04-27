@@ -28,7 +28,7 @@
 {270}{}{Vítej zpět. Podařilo se ti zjistit něco o tom ztraceném duchovi?}
 {271}{}{Pracuju na tom. Ještě se vrátím.}
 {272}{}{Mluvil jsem s... eh, vyslyšel jsem... toho ducha. Zdá se, že ji zradil a zavraždil její milenec, nějaký Thorg.}
-{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
+{280}{}{Thorg?! To je ten šaman, pod kterým jsem sloužil. Věděl jsem, že je tak trochu kretén, ale netušil jsem, že je z něj zabiják hezkých, mladých děvčat. Hmm, tím se vysvětluje, proč si chtěl ožralý zaplavat, což nakonec skončilo jeho smrtí... měl výčitky svědomí. Takže Thorg je vrah... kdo by to byl řekl...}
 {281}{}{Takže co teď?}
 {290}{}{(Hluboce povzdechne.) Teď myslím, že bych ji měl zavést do mlhy. Myslím, že to dokážu, ale musíš jít se mnou. V žádném případě nebudu schopen ji čelit sám a nikdo jiný z vesnice se mnou nepůjde... věří, že setkání se ztraceným duchem je pro ne-šamana předzvěst něčeho špatného.}
 {291}{}{Nee. Už jsem pro tebe udělal dost. Je to jen na tobě.}
@@ -67,7 +67,7 @@
 {631}{}{Jo, všechno mám tady.}
 {632}{}{Stále hledám. Nashle.}
 {640}{}{Ukaž... no výborně. Ty budou skvělé. Tady máš za to nějaké léčivé prášky.}
-{641}{}{Děkuju. Sbohem.}
+{641}{}{Díky. Naschle.}
 {1000}{}{Podařilo se ti oprostit vesnického šamana od jeho problémů.}
 {2000}{}{Donesl jsi šamanovi bylinky.}
 {3000}{}{Já věděl, že jsi velký hrdina... duchové mi to řekli.}

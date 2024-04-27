@@ -14,9 +14,7 @@
 {215}{}{Kdo je u tebe "zvláštní typ", ty tlustej jednookej zmrde? [Zaútočit]}
 {220}{}{(Jeho škleb lehce ochabne a poté přikývne.) Dobře, přejděme tedy k obchodu. Pověz mi, příteli, říká ti něco malý předmět zvaný... Stimpak? (Během svého dramatického projevu vytáhne Stimpak z kapsy svého kabátu a drží ho jako nějaký zázračný artefakt.)}
 {230}{}{(Zůstane stát v údivu a vypustí ze sebe slabé hvízdnutí.) Tak Vyvolený, jo? To jsem tedy nečekal. Přejděme k obchodu. Pověz mi, příteli, říká ti něco malý předmět zvaný... Stimpak? (Během svého dramatického projevu vytáhne Stimpak z kapsy svého kabátu a drží ho jako nějaký zázračný artefakt.)}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
+{240}{}{Jak myslíš, příteli. Přejděme tedy k obchodu, ano? Říká ti něco malý předmět zvaný... Stimpak? (Během svého dramatického projevu vytáhne Stimpak z kapsy svého kabátu a drží ho jako nějaký zázračný artefakt.)}
 {241}{}{Ehm, jo. Vlastně jsou docela běžné.}
 {242}{}{Samozřejmě. Hromadím je. Sakra, vždyť já v podstatě ujíždím na Stimpacích.}
 {243}{}{[Zakroutit hlavou a zírat na předmět v úžasu] Co je to... Stim-pak?}

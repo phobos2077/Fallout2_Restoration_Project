@@ -112,7 +112,8 @@
 {410}{}{Zapomeň na to. Omlouvám se za obtěžování.}
 {415}{}{}
 {416}{}{}
-{417}{}{Skoro pět let... jsem si jistej, že se ten mat brzo rozbije a až se to STANE... bude výplata! Ha ha ha!}
+{417}{}{Skoro pět let... jsem si jistej, že se ten mat brzo rozbije a až se to STANE...
+ Bude výplata! Ha ha ha!}
 {418}{}{Eh, tak hodně štěstí.}
 {419}{}{Jasněěěě. Promluvíme si později.}
 {425}{}{}

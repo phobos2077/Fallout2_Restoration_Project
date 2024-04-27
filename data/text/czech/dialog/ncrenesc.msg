@@ -56,7 +56,7 @@
 {309}{}{Neprodal jsi drogy synovi pana Wrighta?}
 {310}{}{Můžeš se vrátit ke svojí práci.}
 {320}{}{(Renesco na tebe zírá. Vypadá to, jako by tě v duchu svlékal a pak tě kousek po kousku trhal.)}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{No, nevadí. Chci se ještě zeptat...}
 {322}{}{No, nevadí.}
 {330}{}{(Renesco se na tebe zamračeně podívá.) Ano. V OBCHODĚ. Tohle není 20. století, kdy drogy prodávali dealeři na rohu ulice, kteří žili neustále ve strachu před zákonem.}
 {331}{}{Dobrá, takže...}
@@ -163,7 +163,7 @@
 {632}{}{Mluvíš jako vzdělaný muž. Neslyšel jsi někdy o GECKu nebo místě zvaném Vault 13?}
 {634}{}{Nic, zapomeň na to.}
 {640}{}{(Renesco chňapne po tvých brýlích a nasadí si je. Jeho oči se rozšíří.) Panejo! Tak TAKHLE ten zatracenej obchod vlastně vypadá. (Svraští čelo.) Takovej bordel... a co je to na těch policích? Vypadá to jak brahmíní hovno.}
-{641}{}{You're welcome...}
+{641}{}{Nemáš zač ...}
 {642}{}{Užij si je.}
 {650}{}{Hmmmm! Já... hmmm... eh... odkud je máš?}
 {651}{}{No, víš, byl jeden malý radškorpion a jeden vědec, který ho trénoval a... víš ty co? Ani já tomu vlastně nevěřím. Nech si je, ano?}
@@ -175,7 +175,7 @@
 {672}{}{Za málo... a užij si je ve zdraví, ano? Mám ještě nějaké otázky...}
 {673}{}{Jednou, a ten den možná nikdy nenastane, tě požádám o pomoc. Do té doby přijmi tyhle brýle jako svatební dar pro mou dceru.}
 {680}{}{Ehhh...}
-{681}{}{Errr...}
+{681}{}{Eh...}
 {682}{}{No...}
 {683}{}{Dobře! Dobře! Dám ti slevu! Hmphhh.}
 {684}{}{No ták. Jenom malou slevu. No ták...}

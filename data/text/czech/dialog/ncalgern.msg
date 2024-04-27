@@ -61,5 +61,5 @@
 {291}{}{Nechceš se mrknout na tuhle náplň do plamenometu?}
 {292}{}{Tady máš náplň do plamenometu. Můžeš s tím něco udělat?}
 {301}{}{Dát mu svůj elektrický obušek. Eh... až se ujistíš, že ho vezme za držadlo.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{302}{}{Tvoji energo pěst "Ranař" od firmy BeatCo.}
 {400}{}{Já zabít Al. Já jít někam jinam.}

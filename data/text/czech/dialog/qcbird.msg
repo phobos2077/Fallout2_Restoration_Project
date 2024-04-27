@@ -60,7 +60,7 @@
 {159}{}{Já nejsem žádná část problému. Jsem Republikán.}
 {160}{}{Jak říkám, jste část problému.}
 {161}{}{No, jak možná víte, už dlouho přemýšlíme o tom, že je načase, aby lidská rasa vstoupila do sluneční soustavy.}
-{162}{}{Aren't we already in the... Uh, to go *where*?}
+{162}{}{Copak už nejsme v... eh, *kam* že to máme jít?}
 {163}{}{Jak toho chcete dosáhnout?}
 {164}{}{Myslím, že takový Mars by mohl být ideální, protože je v podstatě na stejné oběžné dráze... je přibližně ve stejné vzdálenosti od Slunce, což je velmi důležité. Viděli jsme obrázky, na kterých jsou stopy po kanálech a věříme, že i po vodě. Pokud je tam voda, znamená to, že je tam i kyslík. A pokud je tam kyslík, znamená to, že tam můžeme dýchat.}
 {165}{}{To byla nečekaně, eh, "vyčerpávající" odpověď.}

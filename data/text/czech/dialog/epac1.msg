@@ -12,5 +12,5 @@
 {208}{}{Život. Nemluv mi o životě.}
 {209}{}{Myslím, že bys měl vědět, že jsem velice nešťastný.}
 {210}{}{Odpusť, že dýchám, což... vlastně nedělám, takže ani nevím, proč tě obtěžuji svými slovy. Ó Bože, jsem tak smutný.}
-{500}{}{Yeah, just push me over a cliff.}
+{500}{}{Jo, prostě mě hoď z útesu.}
 {501}{}{***bzzt Přestaň s tím! *** bzzt}

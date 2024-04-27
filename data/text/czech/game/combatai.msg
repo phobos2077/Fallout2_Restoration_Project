@@ -3343,7 +3343,7 @@
 {44436}{}{Porucha systému.}
 {44437}{}{Detekovány fluktuace v napájecím okruhu. Aktivuji záložní baterie.}
 {44438}{}{Integrita trupu kompromitována. Vnitřní obvody bez ochrany.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Energetický článek poškozen. Výkon omezen na 75%.}
 {44460}{}{Pravý motivátor zasažen. Škody minimální.}
 {44461}{}{Pravý kloub vychýlen.}
 {44462}{}{Pravé kolo poškozeno.}

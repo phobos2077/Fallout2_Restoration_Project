@@ -22,7 +22,7 @@
 {169}{}{Poslyš, koupím ho od tebe.}
 {170}{}{Dej mi ho, nebo se k ní připojíš.}
 {171}{}{Když ho teď nevrátíš, tak tě bude pronásledovat. A ji nikdo nezastaví.}
-{172}{}{Cože? No jasně, jasně. Na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
+{172}{}{Cože? No jasně, jasně. N-na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
 {173}{}{Dobře, tady jsou peníze.}
 {174}{}{Tady máš $20 a buď rád, že si ho nevezmu z tvojí mrtvoly.}
 {175}{}{No, vlastně jsem si to rozmyslel. Zatím.}
@@ -107,11 +107,10 @@
 {254}{}{Zapomeň na to. Můžu se ještě na něco zeptat?}
 {255}{}{Dobře, koupím ho.}
 {256}{}{Ale nic. Nashle.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Vault... Vault... Vault 13? O tom jsem určitě nikdy neslyšel. Neříkej mi, že přišli s další novou drogou! Nic nemůže být lepší než Jet!}
 {258}{}{Ne, ty debile.}
 {259}{}{Ne, to je místo. Můžu se ještě na něco zeptat?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Ano, je to skvělá droga.}
 {261}{}{Ne, nashle.}
 {262}{}{Tady Joey toho moc nenakecá.}
 {300}{}{Pravděpodobně ne. Nashle.}

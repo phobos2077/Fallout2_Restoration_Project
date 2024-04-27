@@ -110,7 +110,7 @@
 {230}{}{Nejprve musíš prokázat, že to dokážeš. Postavím tě proti svým pěti bojovníkům -  postupně. Když je porazíš, čeká na tebe tvoje poslední zkouška.}
 {231}{}{Co to máš?}
 {232}{}{To zní moc obtížně. Nashle.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Budeš muset porazit mého vybraného žáka. Nicméně žádný z těchto soubojů nebude na smrt... samozřejmě kvůli bezpečí mých mužů. (zachechtá se)}
 {234}{}{Jdeme na to!}
 {235}{}{Vyřiď si to s Dragonem sám.}
 {236}{}{(Lo Pan tě chvíli pozoruje a poté najednou rychle vymrští svoji pěst, která tě udeří do nosu ještě dřív, než stihneš vůbec zareagovat.) Nejsi dost dobrý.}

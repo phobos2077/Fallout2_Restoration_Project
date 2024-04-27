@@ -45,7 +45,7 @@
 {193}{}{Co to máš na sobě?}
 {194}{}{Chci se povozit na brahmíně!}
 {195}{}{Jseš z daleka?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Jéééé! Hahaha!}
 {197}{}{Neodcházej!}
 {198}{}{Nemáš nějaký jídlo?}
 {199}{}{Neotravuju tě?}
@@ -62,7 +62,7 @@
 {210}{}{Dáš mi to?}
 {211}{}{Co děláš?}
 {212}{}{Umím rychle utíkat. Chceš to vidět?}
-{213}{}{Dívej! Dívej!}
+{213}{}{Dívej se! Dívej se!}
 {214}{}{Maminka říká, že moc mluvím.}
 {215}{}{Kde je tvůj domov?}
 {216}{}{Héééé! Héééé!}

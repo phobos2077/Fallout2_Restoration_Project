@@ -3,7 +3,7 @@
 {102}{}{Blond vlasy, modré oči, no prostě typicky americké dítě.}
 {150}{}{Áááááá!}
 {151}{}{Já chci zpátky svýho pejska!}
-{152}{}{Whimper... }
+{152}{}{Fňukání ...}
 {153}{}{Cizinec!}
 {154}{}{Laddie! Chyběl jsi mi, chlapče. Díky moc za jeho přivedení.}
 {155}{}{Zdravím, vás jsem tu ještě neviděl.}

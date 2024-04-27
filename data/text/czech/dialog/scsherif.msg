@@ -53,8 +53,8 @@
 {152}{}{Díky. Zastavím se tam.}
 {153}{}{Nevíš něco o věci zvané GECK?}
 {154}{}{Hmm, to je od tebe sice zatraceně hezké, cizinče, ale taky zatraceně drzé. Ani nevím, jestli vůbec pocházíš z Adama a Evy a navíc se mi ani trochu nelíbí tvůj pohled! Nikomu tě doporučovat nebudu. A teď mám nějakou práci.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+{155}{}{No, zkus se zeptat Duppa ve Stockmanově Asociaci. Najímá na brahmíní okruhy. A pak je tady pan Westin. Jestli s ním budeš mluvit, řekni mu, že tě posílám. A dokonce i prezidentka Tandi někoho hledá.}
+{156}{}{Duppo ve Stockmanově Asociaci shání lidi na brahmíní okruhy. Zkus se ho zeptat.}
 {157}{}{Westin?}
 {158}{}{Prezidentka Tandi?}
 {159}{}{Musím jít.}
@@ -75,6 +75,6 @@
 {174}{}{Tandi?}
 {175}{}{Beru na vědomí.}
 {176}{}{Nevím o žádné další práci.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{177}{}{Duppo ve Stockmanově Asociaci shání lidi na brahmíní okruhy a prezidentka Tandi se shání po nějakém šikovném člověku.}
 {178}{}{Kdokoliv jiný s tvou reputací by raději opustil tohle město, natož aby tady ještě hledal práci.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo ve Stockmanově Asociaci shání lidi na brahmíní okruhy. Zkus se ho zeptat. A pak je tady pan Westin. Jestli s ním budeš mluvit, řekni mu, že tě posílám.}

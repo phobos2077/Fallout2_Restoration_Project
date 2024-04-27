@@ -26,7 +26,7 @@
 {125}{}{Jestli ten stroj funguje na uranové články, tak máte dost výkonu pro tohle město a JEŠTĚ New Reno a ani si toho nevšimnete. Přidej mu.}
 {126}{}{Ale... ale... on trpí.}
 {127}{}{Takže není vůbec žádná šance, že bys mohl udělat pár úpraviček?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{(Podívá se mrzutě na svoje ciferníky a pronese slabým hlasem.) Jsi zlý.}
 {129}{}{Jo. Nashle!}
 {130}{}{Hej! Ničeho se nedotýkej! To je citlivé zařízení! Ven! Vypadni! Běž pryč! Běž domů!}
 {131}{}{Ooooch! Butunz!}

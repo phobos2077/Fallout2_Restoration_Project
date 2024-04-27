@@ -86,7 +86,7 @@
 {613}{}{Tři, vyhrává.}
 {614}{}{Dvanáct, remíza.}
 {620}{}{Prop sázka na 7}
-{621}{}{Prop bet double 3s}
+{621}{}{Opakovaná sázka na dvě 3}
 {622}{}{Prop sázka na dvě čtyřky}
 {623}{}{Prop sázka na dvě pětky}
 {624}{}{Prop sázka na dvě dvojky}

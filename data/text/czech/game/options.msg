@@ -26,7 +26,7 @@
 {120}{}{VÝCHOZÍ}
 {121}{}{ZRUŠIT}
 {122}{}{Zrychlení hráčovy postavy při boji}
-{123}{}{Pip-Boy speech}
+{123}{}{Pip-Boy řeč}
 {201}{}{Zap}
 {202}{}{Vyp}
 {203}{}{Jednoduchá}

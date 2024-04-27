@@ -175,7 +175,7 @@
 {1002}{}{Město}
 {1003}{}{Pobřeží}
 {1004}{}{Neprozkoumané místo}
-{1500}{}{Získal jsi 10.000 zkušenostních bodů!}
+{1500}{}{Získal jsi 10 000 zkušenostních bodů!}
 {1501}{}{Ruiny}
 {1502}{}{Baterie auta je vybitá.}
 {1503}{}{Toto je auto. Nevypadá, že by bylo funkční.}

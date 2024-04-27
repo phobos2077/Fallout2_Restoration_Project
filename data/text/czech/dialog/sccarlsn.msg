@@ -1,4 +1,4 @@
-{100}{}{You see an elderly, frail man.}
+{100}{}{Vidíš staršího, útlého muže.}
 {101}{}{Vidíš viceprezidenta Carlsona.}
 {102}{}{Ačkoliv fyzicky sláb, jeho oči prozrazují velkou morální sílu. Je to odhodlaný člověk.}
 {103}{}{Co tady děláte? Stráže!}

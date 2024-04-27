@@ -1,5 +1,5 @@
 {100}{}{Vidíš přátelsky vypadajícího muže s obličejem spáleným od slunce.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{101}{}{Vidíš Duppa. Provozuje Stockmanovu Asociaci.}
 {102}{}{Je zavalitý, má neustále rudý obličej a jemné světlé vlasy. Lehce kulhá.}
 {103}{}{Zdravím, cizinče. Tebe jsem tady ještě neviděl, takže to určitě znamená, že nejseš rančer, že ne? Hledáš práci, nebo chceš něco koupit?}
 {104}{}{Co to bude, cizinče?}

@@ -37,7 +37,7 @@
 {160}{}{Dávej si tady pozor.}
 {161}{}{Vítej v kontrolní oblasti.}
 {162}{}{Ničeho se tu nedotýkej.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Jestli se tam něco stane, najdeme si tě.}
 {164}{}{Jestli něco zaviníš, tak tě nepozná ani vlastní máma.}
 {170}{}{Jsem překvapenej, že tu vidím hezouna, jako jsi ty.}
 {171}{}{Vypadá to, že tu pomalu chytáš bronz.}

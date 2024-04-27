@@ -23,7 +23,7 @@
 {122}{}{To, co vykopeme, prodáváme ostatním městům v okolí. Potřebují to. Jestli chceš něco prodat, můžeš si promluvit se spoustou zdejších obchodníků. Nicméně já už se musím vrátit do práce. Měj se a dávej na sebe pozor, ano?}
 {123}{}{Dobře! Naskle!}
 {124}{}{Musím se vrátit do práce. Měj se hezky a dávej na sebe pozor, ano?}
-{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
+{125}{}{Zase ty? Víš, co máš dělat ... nezlobit a být opatrný. Měj se!}
 {126}{}{Dobře! Pápááááá!}
 {127}{}{Schovej tu zbraň, kamaráde. Dokud budeš mít prst na spoušti, tak ode mě žádné informace nedostaneš.}
 {128}{}{Jsme malá těžební komunita. Tohle místo založil před mnoha lety náš šerif Marcus, společně s mužem jménem Jacob. Vybrali si tohle místo, protože je to blízko ložisek uranu. Chceš o tom slyšet víc?}
@@ -43,7 +43,7 @@
 {142}{}{Kromě toho, že jsou všichni mutanti MRTVÍ a náš jediný zdroj živobytí zničen...}
 {143}{}{Kromě toho, že ses stal hrdinou za to, že jsi mezi námi odhalil korupci...}
 {144}{}{Kromě toho, že máme teď mezi sebou rakovinu jménem Franc a Manson, kteří utekli...}
-{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
+{145}{}{Kromě toho, že Chad zradil celé město a ty jsi ho předvedl před spravedlnost -- za což jsme ti vděční --}
 {146}{}{Momentálně se neděje nic zvláštního.}
 {147}{}{Mám další otázky.}
 {148}{}{Nashle.}
@@ -73,8 +73,7 @@
 {172}{}{Vážně? Mám takový pocit, že většina z nich už musí být po smrti.}
 {173}{}{Mutant a šerif, jo? To musí fungovat skvěle. Vsadím se, že tu většina lidí dodržuje zákon.}
 {174}{}{Nashle.}
-{175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
+{175}{}{Přežíváme díky tvrdé práci, vytváříme si vlastní formu civilizace a snažíme se ze všech sil, abychom se vyhnuli Vault City nebo NCR. Nepotřebujeme jejich způsob vlády. A to je asi tak všechno.}
 {176}{}{Super. Mám další otázky.}
 {177}{}{Dík. Naskle.}
 {178}{}{Pokud stále trváš na tom, že můžeš někoho soudit podle jeho vzhledu, tak ano. Potom jsi nepochybně ignorant.}
@@ -83,17 +82,14 @@
 {181}{}{Tak to je asi tak všechno, co jsem ti chtěl říct. Vítej v Broken Hills.}
 {182}{}{Čekat.}
 {183}{}{Nashle.}
-{184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -- in fact, most of them are going senile now. Building a community isn't going to help them
- achieve their aims.}
+{184}{}{Pokud by nám chtěli mutanti ublížit, už by to dávno udělali. Nikdo z nich tu totiž nebude věčně. Ve skutečnosti je většina z nich už senilní. Založení vlastní společnosti jim v jejich cílech nijak nepomůže.}
 {185}{}{To máš pravdu.}
 {186}{}{Pořád jsou ale zlí.}
 {187}{}{Nashle.}
 {188}{}{Kámo, čím víc s tebou mluvím, tím hloupější si připadám. S takovými názory v Broken Hills dlouho nevydržíš. A teď mě omluv, mám ještě nějakou práci.}
 {189}{}{Kreténe.}
 {190}{}{Je čas zemřít, kreténe.}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
- just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{Máme tu důl, rafinérii, hospodu, hotel, který je teď mimochodem bez majitele, takže v něm necháváme lidi zadarmo, nemocnici, obchod a chemika. A taky si pěstujeme vlastní jídlo.}
 {192}{}{Tak dobře. Mám další otázky.}
 {193}{}{Nashle.}
 {194}{}{No, většina z nich taky je, jelikož jsou mutanti neplodní... tedy alespoň co já vím... takže pomalu vymírají. Ti, co zbyli, jsou už senilní. Kromě Marcuse, ten je na tom pořád jako zamlada.}
@@ -105,8 +101,7 @@
 {200}{}{[Více]}
 {201}{}{Kámo, nejsi tu vítán. Už jsi toho pokazil dost.}
 {202}{}{[KONEC]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{Obvykle ho najdeš někde poblíž banky... která taky slouží něco jako přísnější vězení... nebo v samotném vězení. Někdy taky bývá v hospodě nebo doma, ale většinou spíš pracuje.}
 {301}{}{A sakra!}
 {302}{}{Zatraceně!}
 {303}{}{Huráá!}

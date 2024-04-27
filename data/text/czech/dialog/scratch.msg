@@ -14,7 +14,7 @@
 {113}{}{Dobře... jsi opravdu zvláštní! Asi se poohlédnu po nějakém jiném obchodu.}
 {114}{}{Ještě jednou se podívám co máš.}
 {115}{}{Myslím, že já a Edna už půjdeme.}
-{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
+{116}{}{Díky bohu, že tě ten cizinec nevzal, mé dítě... moje zboží jsou jako moje děti, víš?}
 {117}{}{Ehh, jasně.}
 {118}{}{No, myslím, že už půjdu.}
 {119}{}{Umím vylepšit spoustu věcí. Mám tady třeba kompresor, říkám mu Claudia, kterej pasuje do většiny aut. Podstatně mu tím zvýší výkon. Jenom za $1000. Máš zájem?}

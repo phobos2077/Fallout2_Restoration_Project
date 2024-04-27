@@ -104,7 +104,7 @@
 {463}{}{Já hledat... eh. Já zase zapomnět.}
 {464}{}{Odbelhat se.}
 {465}{}{Fajn. Můžeš mi pomoct?}
-{466}{}{Well, I had some questions...}
+{466}{}{Dobře, chci se na něco zeptat ...}
 {467}{}{Julesi, nevíš co se stalo synovi pana Wrighta?}
 {468}{}{Julesi, neviděl jsi moje auto? Bylo támhle zaparkovaný a teď je pryč.}
 {469}{}{Poslyš... "Jules", ano? Nejspíš se touhle konverzací snažíš něco získat, takže na rovinu: O co se tu snažíš?}
@@ -140,7 +140,7 @@
 {535}{}{O to se staraj samotný rodiny. Nemaj RÁDI problémy v Renu, pač to narušuje turistickej ruch a to znamená míň peněz pro všechny. Nedělej problémy, plať svý dluhy a neskončíš v Golgotě.}
 {537}{}{Golgotě?}
 {545}{}{No, to je hřbitov za městem. Tam odpočívaj lidi, co se dostali do křížku s některou z rodin. Přivážou je na kůly a nechaj je pomalu umřít na slunci. Nechtěl bych takhle umřít. A taky to tam strašně smrdí.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Zajímavé. Mám ještě nějaké otázky...}
 {548}{}{Paráda. Díky za informace.}
 {555}{}{No a DALŠÍ věc, kterou musíš o Renu vědět je to, že nic není zadarmo. A pokud jo, tak si to radši pořádně prověř.}
 {556}{}{No, takový informace nejsou levný. Máš prachy? Pak máš moji pozornost.}
@@ -277,7 +277,7 @@
 {1120}{}{No, tak to abych šla.}
 {1121}{}{Krásně řečeno. Když mluvíš, je to jako poezie... díky slovu "mrkvička" si to dokážu parádně představit. DÍKY.}
 {1130}{}{Možná kdybys byl hezká ženská, ale jinak potřebuješ povolení od Mordinů. A ani jedno není moc pravděpodobný.}
-{1132}{}{I see. Say, I had some other questions...}
+{1132}{}{Aha. Mám ještě jiné otázky...}
 {1145}{}{Pokud chceš zbraně, tak zajdi za mým kámošem Eldridgem do Obchodní čtvrti. Má bouchačky, který zabijou člověka dřív, než tě vůbec UVIDÍ. Řekni mu, že tě posílám.}
 {1146}{}{Rozumím, brácho, rozumím. Jestli chceš to nejlepší, tak zajdi za mým kámošem Eldridgem do Obchodní čtvrti. Má bouchačky, který zabijou člověka dřív, než tě vůbec UVIDÍ. Řekni mu, že tě posílám.}
 {1147}{}{Rozumím, ségro, rozumím. Jestli chceš to nejlepší, tak zajdi za mým kámošem Eldridgem do Obchodní čtvrti. Má bouchačky, který zabijou člověka dřív, než tě vůbec UVIDÍ. Řekni mu, že tě posílám.}
@@ -344,7 +344,7 @@
 {1362}{}{...viděl jsem nějaký chlápky, jak ho před chvíli odtáhli. Bylo jich moc, abych je zastavil, víš, a...}
 {1363}{}{Drž hubu a zaveď mě k nim. HNED.}
 {1364}{}{Nevadí, podívám se po nich i bez tebe.}
-{1375}{}{Okay, okay...}
+{1375}{}{Dobrá, dobrá ...}
 {1376}{}{Mimochodem... Julesi... jestli se jenom špatně PODÍVÁŠ na toho kluka přes ulici, vrátím se zpátky a zabiju tě tolikrát, že budeš potřebovat několik závětí. Jasné? A teď jdi.}
 {1377}{}{Ještě jedna věc, Julesi: Jestli uslyším, že něco zkoušíš na Codyho, tak tě zabiju. A teď mě zaveď k mému autu.}
 {1378}{}{[Jít za ním]}
@@ -378,6 +378,6 @@
 {1486}{}{A "Pořezanej Jimmy J?" Kde najdu jeho?}
 {1487}{}{Dobře... poslyš, chci se ještě na něco zeptat...}
 {1500}{}{Řekni tomu hajzlovi, že jestli ještě někdy řekne takovou sračku, tak ho ZABIJU dřív, než to udělá starej Wright. Víš, kdo takhle kecá? Takhle kecá někdo, kdo je posranej STRACHY.}
-{1501}{}{I see... say, I had some other questions...}
+{1501}{}{Aha... mám ještě nějaké otázky...}
 {1502}{}{Rozumím. Půjdu se za ním podívat.}
 {2000}{}{To je AUTO? Sákryš.}

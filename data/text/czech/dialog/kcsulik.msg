@@ -80,7 +80,7 @@
 {268}{slk17b}{Dědek Kostěj říkati my opustiti tahle místa.}
 {270}{slk18a}{My a já už býti na hodně špatná místech. Tohle býti horší.}
 {271}{slk18b}{Dědek Kostěj říkati tohleto býti špatná místo. Když on mluviti, já a my třeba naslouchati.}
-{280}{slk21}{Ségra jíti kšefty kšefty do jiná vesnice a nikdy nevrátiti zpět. My a já jdeme ji hledati.}
+{280}{slk21}{Ségra jíti za obchod do jiná vesnice a nikdy nevrátiti zpět. My a já jdeme ji hledati.}
 {281}{}{A co jsi zjistil?}
 {290}{slk22}{My a já věděti o otrokářách v Den. Až býti volni, podívati se tam.}
 {291}{}{Pověz mi o něčem jiném.}
@@ -140,7 +140,7 @@
 {482}{slk27nc}{Ten, co tlačiti velká ocelová stroma na oblohu, museti kmena tvého pohoupati.}
 {483}{slk27nd}{Tví lidé míti cena větší než tmavá zlata. Starati se o ně péčí ne menší.}
 {490}{}{Ti, kdož se jako duchová tvářiti, ale oni nebýti, oni tajemství mnoho míti.}
-{491}{}{Jako cibule zde mnoho mnoho vrstev, většina skrytých.}
+{491}{}{Jako cibule zde mnoho, mnoho vrstev, většina skrytých.}
 {492}{}{Zvedací stroj možno dostati ty na neočekávaná místa.}
 {500}{slk27pa}{Duchové viděti stín, který vrhati tvého stín sem z dřívějška.}
 {501}{slk27pb}{Tam býti nebezpečná osoby.}
@@ -401,12 +401,12 @@
 {1023}{}{My nikdy nebýti přítel se zabijákem dětí.}
 {1025}{}{Ty dělati probléma v Klamath. My odcházet.}
 {1026}{}{Ty dělati probléma v má vesnica. My odcházet.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Duchové pohybovati s námi.}
+{2301}{}{My a já se pohybovati.}
 {2302}{}{Dobře, ty brát to v pohodě.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Nestrachovat se, my a já se pohybovati.}
 {2304}{}{My myslet, že ty potřebovat občas čichnout ke květina. Dědek Kostěj říkati, že ty někdy příliš spěchati. Ty bráti života pomaleji.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{My se pohybovati a užívati.}
 {2306}{}{My a já jít teď támhletam.}
 {2307}{}{Relaxovat, štastná býti, my se teď pohybovati.}
 {3000}{}{Na sever.}
@@ -476,9 +476,9 @@
 {3082}{}{Býti dobré zase býti zpátky doma.}
 {3083}{}{Tak mnoho mladá dívka chtíti vyslechnouti o naše cestování a tak málo času.}
 {3084}{}{My potřebovala promluviti si zblízka s malá hojivá bylinka. Ať svět letí kolem okolo.}
-{3086}{}{Take care, fren.}
+{3086}{}{Opatruj se, přítela.}
 {3087}{}{My a já přát ty moc štěstí.}
-{3088}{}{Thanks again for everything, fren.}
+{3088}{}{Díky ti za všechno, přítela.}
 {3090}{}{Tady býti naša vesnica. My a já jdeme promluvit s přátela.}
 {3091}{}{My a já jdeme znova promluvit s přátela předtím, než odcházeti.}
 {3100}{}{[Více]}

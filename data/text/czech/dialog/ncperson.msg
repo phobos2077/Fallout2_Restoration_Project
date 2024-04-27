@@ -251,16 +251,16 @@
 {517}{}{Eh, zdravím, pane... madam... nebo co vlastně jste.}
 {518}{}{Nějakej problém, pane... madam... eh, nebo co vlastně jste.}
 {519}{}{Ty jseš nějakej novej chodící hrací automat?}
-{520}{}{Ty jseš nějaká nová konzole?}
-{521}{}{Ne, NEBUDU ti mazat klouby.}
+{520}{}{Jste snad nějaká nová chodící arkádová hra?}
+{521}{}{Jste jedním z těch nových konzolí, které vycházejí?}
 {522}{}{Vypadáš jako ti roboti z Mechwarriora.}
-{523}{}{You look like you were on your way to one of those battle-mech PC games and got lost.}
+{523}{}{Vypadáš, jako bys byl na cestě do jedné z těch pc her s bojovými stroji a ztratil se.}
 {524}{}{Jó jó, taky tě zdravím - 'vrrrr-bzzzzz-vrrrr'.}
 {525}{}{Jestli si myslíš, že mě ta tvoje zbroj nahání hrůzu, tak máš pravdu.}
 {540}{}{Jseš na prodej?}
 {541}{}{Můžu koupit tvý oblečení? Myslím teď hned?}
 {542}{}{Já VĚDĚL, že jsem se měl dneska oholit.}
-{543}{}{Nechceš se stavit na kus řeči, kočko?}
+{543}{}{Pojď si se mnou na chvíli popovídat, zlato.}
 {544}{}{Hej, puso... pojď ke mě.}
 {545}{}{Jseš moc pěkná potvůrka.}
 {546}{}{Kvůli tobě bych se i umyl.}
@@ -298,7 +298,7 @@
 {608}{}{Tohle město je skvělý... až na ty turisty.}
 {609}{}{Tohle město je skvělý... až na ty otrokáře.}
 {610}{}{Tohle město je skvělý... až na ty pasáky a děvky.}
-{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{611}{}{Na sever od New Rena prý testujou drogy na otrocích.}
 {612}{}{Golgota je v poušti, na jih od New Rena.}
 {613}{}{Možná mám málo peněz, ale moje osobnost to vynahrazuje.}
 {614}{}{Nejsem chudej, jenom jsem měl poslední dobou pech.}
@@ -338,7 +338,7 @@
 {659}{}{Tohle město je skvělý... až na ty turisty.}
 {660}{}{Tohle město je skvělý... až na ty otrokáře.}
 {661}{}{Tohle město je skvělý... až na ty pasáky a děvky.}
-{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{662}{}{Na sever od New Rena prý testujou drogy na otrocích.}
 {663}{}{Golgota je v poušti, na jih od New Rena.}
 {664}{}{Možná mám málo peněz, ale moje osobnost to vynahrazuje.}
 {665}{}{Nejsem chudej, jenom jsem měl poslední dobou pech.}
@@ -377,7 +377,7 @@
 {700}{}{Dneska večer si pořádně užiju!}
 {701}{}{Najdi si děvku a dej mi pokoj.}
 {702}{}{Paní Bishopová má parádní zadek.}
-{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{703}{}{Na sever od New Rena prý testujou drogy na otrocích.}
 {704}{}{Golgota je v poušti, na jih od New Rena.}
 {705}{}{Možná mám málo peněz, ale moje osobnost to vynahrazuje.}
 {706}{}{Nejsem chudej, jenom jsem měl poslední dobou pech.}

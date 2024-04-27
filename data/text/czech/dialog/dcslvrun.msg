@@ -7,7 +7,7 @@
 {130}{}{Vidíš bídně vypadajícího muže.}
 {131}{}{Tenhle vypadá docela silně.}
 {140}{}{Vidíš muže v otrhaných šatech.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Pohybuje se velmi rychle.}
 {150}{}{Vidíš velmi špinavou ženu.}
 {151}{}{Nevypadá to, že by se někdy koupala.}
 {160}{}{Vidíš velikou ženu.}

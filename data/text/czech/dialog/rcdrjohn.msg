@@ -29,7 +29,7 @@
 {128}{}{Něco vám řeknu: když vidím, jak na tom jste, nabídnu vám skupinovou slevu. Vyléčím vás všechny za pouhopouhých $100.}
 {129}{}{Tady máte peníze, doktore. Dejte nás do pořádku.}
 {130}{}{Bohužel si to teď nemůžu dovolit. Promiňte, doktore, možná někdy jindy.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, jo? Možná někdy jindy. Sbohem, doktore.}
 {132}{}{Vypadá to, že na tom nejste zrovna nejlépe. Vyléčím vás všechny za $100. Mám se o to pokusit?}
 {133}{}{Váš přítel nevypadá zrovna nejlépe. Vyléčím ho za $100. Mám se o to pokusit?}
 {134}{}{Doufám, že dokážete i víc než se o to jen pokusit. Tady jsou peníze.}
@@ -132,9 +132,7 @@
 {231}{}{To je nesmysl. Vault City sice zajišťuje občanům zvláštní privilegia, ale jenom proto, že jsou k tomu způsobilejší než necivilizovaní lidé. A navíc, každý se může stát občanem, pokud úspěšně složí zkoušky občanství.}
 {232}{}{No nevím, jak budou zdejší lidé reagovat na vládu Vault City.}
 {233}{}{Jo, jasně. Sbohem, doktore.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+{234}{}{Plním ampulky s Jetem a pak je prodávám místním lidem. Nemám z toho žádný zisk. Kdybych to nedělal já, dělal by to nějaký šarlatán s nesterilními či dokonce rezavými nástroji a pak bych tohle město už nikdy úplně nevyléčil.}
 {235}{}{Vy jste ale hodný, doktore. Opravdu. Chci se ještě na něco zeptat.}
 {236}{}{To je od vás opravdu *ušlechtilé*, doktore.}
 {237}{}{Zajímavé. Uvidíme se později, doktore. Sbohem.}

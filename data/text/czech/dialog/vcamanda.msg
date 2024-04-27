@@ -45,7 +45,7 @@
 {144}{}{Chceš, aby manžela pustili nebo ne? On se to nikdy nemusí dozvědět.}
 {145}{}{To nic. Zkusím promluvit s někým v Centru rozdělovaní služebníků.}
 {146}{}{To je mi moc líto. Vypadá to, že tvůj manžel už se nikdy na svobodu nedostane. Sbohem.}
-{147}{}{Když slíbíš, že ho osvobodí, já... já... dobře. Já... zavřu stanový vchod. Myslím, že si syn hraje venku... takže by nás tu neměl rušit.}
+{147}{}{Když slíbíš, že ho osvobodí, já... já... dobře. Já... zavřu vchod stanu. Myslím, že si syn hraje venku,takže by nás tu neměl rušit.}
 {148}{}{Bez obav, tvého muže osvobodím. Až dostanu svoji odměnu.}
 {149}{}{Zapomeň na to. Zkusím promluvit s někým v Centru rozdělovaní služebníků.}
 {150}{}{Kašli na to. Zapomeň, že jsme se potkali.}

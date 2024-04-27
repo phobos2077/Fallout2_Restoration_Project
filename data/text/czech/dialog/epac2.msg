@@ -18,7 +18,7 @@
 {250}{}{(Tentokrát už se ti podařilo zprávu rozluštit mnohem rychleji: "Restartuj mě!") Aha, no jistě. (Zrestartuješ holografický projektor. Zatímco systém zdlouhavě nabíhá, pískáš si z nudy.)}
 {251}{}{[Více]}
 {260}{}{U Hawkinga, tobě se to podařilo! Můj hlasový program byl zaseklý v binárním módu už celé *roky*. Už je to tak dávno, co jsem si naposled mohl užít inteligentní konverzaci. Člověk by řekl, že za ta léta mohl mít aspoň jeden z mých kolegů hologramů tolik slušnosti, aby se naučil základy dvojkové soustavy, ale to ne.}
-{261}{}{No prob--}
+{261}{}{Žádný prob--}
 {270}{}{Neměli na mě čas. Ne, oni se raději zabývali těmi svými byrokratickými nesmysly. Vzájemně se svazovali směrnicemi a hašteřili se jako hlupáci. A jen se podívej, kam se dostali: teď jsou v té své konferenční místnosti zaseklí v nekonečné smyčce. Ha! Dobře jim tak.}
 {271}{}{Oni jsou zaseklí ve smyčce?}
 {272}{}{Popravdě řečeno, už je to opravené. Už zaseklí nejsou.}

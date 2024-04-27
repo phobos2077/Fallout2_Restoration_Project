@@ -33,7 +33,7 @@
 {200}{}{Ahoj, sestřenko...ehm, vlastně Vyvolená. Doufám, že už jsi našla GECK. Hodně se mluví o zlých časech, které nás čekají.}
 {201}{}{Ahoj, sestřenko...ehm, vlastně Vyvolená. Doufám, že už jsi našla GECK. Hodně se mluví o zlých časech, které nás čekají.}
 {202}{}{Já stále hledat, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Stále ho ještě hledám, bratranče}
 {204}{}{Vítej domů, sestřenko. Poslední dobou to tu jde od deseti k pěti. Už jsi našla svatý Vault 13 a GECK?}
 {205}{}{Vítej domů, sestřenko. Poslední dobou to tu jde od deseti k pěti. Už jsi našla svatý Vault 13 a GECK?}
 {206}{}{Já ho ještě nenajít. Velká lítost.}

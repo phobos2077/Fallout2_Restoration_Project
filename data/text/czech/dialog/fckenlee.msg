@@ -81,7 +81,7 @@
 {180}{}{To tedy ano. A já s těmito lidmi jednám každý den. Bohužel!}
 {181}{}{Dobře, mám další otázky.}
 {182}{}{Jo no, chudáku. Nashle.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Jsi vskutku vhodný příjemce našeho paliva. Myslím, že ti teď mohu svěřit naše tajemství. V zadní místnosti najdeš silové pole k velikému počítači, který byl vypnut. Zadej heslo "CSPDMSHR-Shih-huang-ti-X9372" a tím získáš přístup k počítači Císaře. Císař bude poté schopen převést naše palivo tam, kam ho potřebuješ.}
 {184}{}{Díky.}
 {185}{}{Stráže! Je mezi námi nepřítel! Stráže!}
 {186}{}{Opravdu? Nechceš jít raději proti nim? Slibuji ti naši pomoc, pokud souhlasíš, že zabiješ AHS-9. }

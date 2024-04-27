@@ -5,8 +5,8 @@
 {152}{}{[MLUVIT]}
 {153}{}{Dobrý den, cizinče. Vítej v mém salónu. Já jsem Becky.}
 {154}{}{Dobrý den, já jsem }
-{155}{}{. What's there to do around here?}
-{156}{}{Hi, I'm }
+{155}{}{. Je tu nějaká práce?}
+{156}{}{Ahoj. Já jsem}
 {157}{}{. Můžu ti položit několik otázek?}
 {158}{}{Mami?}
 {159}{}{Mag gah.}

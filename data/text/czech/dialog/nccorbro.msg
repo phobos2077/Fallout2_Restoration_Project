@@ -221,13 +221,13 @@
 {758}{}{Ignorovat ho a odbelhat se.}
 {759}{}{Uklidni se. Dneska prostě na točení nemám náladu, ano? Ježiš. Vrátím se, až se trochu uklidníš.}
 {760}{}{Jděte do hajzlu. Takovýhle kecy nemám zapotřebí. Já jsem hvězda! Velká jasná zářící hvězda!}
-{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
+{765}{}{Hej... jseš v pořádku? Vypadáš, že jseš trochu mimo. Nejseš na fetu, že ne? Protože v takovým stavu s tebou točit NEBUDU.}
 {766}{}{Já chtít točit TEĎ malá člověk.}
 {768}{}{Ty nejsi můj šéf! Já chci šukat, je to moje veliký péro, takže každej se TEĎ kurva připraví na natáčení.}
 {769}{}{Ty nejsi můj šéf! Já chci šukat, je to moje veliká vagína, takže každej se TEĎ kurva připraví na natáčení.}
 {770}{}{Tak dobře. Vrátím se až, eh, až trochu vystřízlivým.}
 {780}{}{Korsičtí bratři, k vašim službám... (Znechuceně zvedne hlavu a poté se podívá ještě jednou.) A dopr...}
-{781}{}{Práce! Práce!}
+{781}{}{Jsem pro! Jsem pro!}
 {782}{}{Nic.}
 {783}{}{Co je tohle za místo?}
 {784}{}{Můžeš mi říct něco o tomhle studiu?}

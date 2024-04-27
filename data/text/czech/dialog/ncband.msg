@@ -60,7 +60,7 @@
 {921}{}{A má představivost si ten moment představí...}
 {923}{}{Dej mi to, co mi můžeš dát}
 {925}{}{::Trumpeta::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Budu s tebooou}
 {933}{}{Ááách}
 {935}{}{Rty aspoň na chvíli}
 {937}{}{Si ten moment představí}

@@ -9,7 +9,7 @@
 {108}{}{**Prrrrrrdddddd**}
 {109}{}{Zaius říkal, že by pro mě příští měsíc mohl mít práci.}
 {110}{}{Tady je bordel jak v tanku! Kdy se chystáš uklízet, ženská?}
-{111}{}{You got a real smart mouth on ya', woman!}
+{111}{}{Ženská, ty jseš chytrá jak rádio!}
 {112}{}{Miluju tě, kočko.}
 {113}{}{Mám ti nafackovat, krávo?}
 {140}{}{Upeč si ten zatracenej koláč sám, ty lenochu!}

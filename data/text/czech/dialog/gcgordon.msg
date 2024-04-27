@@ -56,8 +56,7 @@
 {282}{}{Dobře, vezmu si ten holodisk. Určitě ho předám do správných rukou. Sbohem.}
 {290}{}{Pche, tvoji pomoc nepotřebuju. Jsi jen divoch.}
 {291}{}{No, tak se mi zdá, že pánbíčkáři nežijí jenom ve Vault City, že jo, Gordie, ty starej brachu? Sbohem.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{Naše atomová elektrárna ztěží pracuje. Zatím nesmíš doručit do Vault City žádnou informaci.}
 {301}{}{Myslím, že Vault City nebude příliš důvěřovat datům od ghoulů.}
 {302}{}{Ne, vždyť ne... ale doručím. Sbohem.}
 {303}{}{Doručení těch dat do Vault City je jen jeden z mnoha kroků, které musíš učinit. Naše atomová elektrárna v současné chvíli sotva běží a potřebuje opravit.}

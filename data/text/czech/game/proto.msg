@@ -54,7 +54,7 @@
 {450}{}{Muži}
 {451}{}{Ženy}
 {452}{}{Děti}
-{453}{}{Super mutants}
+{453}{}{Supermutanti}
 {454}{}{Ghoulové}
 {455}{}{Brahmína}
 {456}{}{Radškorpioni}
@@ -64,7 +64,7 @@
 {460}{}{Roboti}
 {461}{}{Psi}
 {462}{}{Mantisové}
-{463}{}{Deathclaws}
+{463}{}{Párači}
 {464}{}{Rostlina}
 {465}{}{Tato řádka ukazuje, kolik mužů jsi během své cesty zabil.}
 {466}{}{Tato řádka ukazuje, kolik žen jsi během svého putování zabil.}
@@ -192,7 +192,7 @@
 {1460}{}{Roboti}
 {1461}{}{Psi}
 {1462}{}{Mantisové}
-{1463}{}{Deathclaws}
+{1463}{}{Párači}
 {1464}{}{Rostliny}
 {1465}{}{Geckoni}
 {1466}{}{Alieni}

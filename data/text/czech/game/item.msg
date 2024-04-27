@@ -1,7 +1,7 @@
 {1}{}{Získáváš %d %s.}
 {2}{}{Ztrácíš %d %s.}
 {3}{}{Cítíš se lépe.}
-{4}{}{You suffer a fatal heart attack from drug overdose.}
+{4}{}{Postihl tě prudký srdeční záchvat z předávkování drogami.}
 {5}{}{%s už není čím nabít.}
 {6}{}{%s je zapnut.}
 {7}{}{%s je vypnut.}
@@ -10,7 +10,7 @@
 {10}{}{Nic se nestalo.}
 {50}{}{Vypadá to, že se nic nestalo.}
 {500}{}{K nabití zbraně tu není dost světla.}
-{600}{}{%s succumbs to the adverse effects of drugs.}
+{600}{}{%s podléhá nepříznivému účinku drog.}
 {800}{Weapon Damage}{Lehké}
 {801}{}{Střední}
 {802}{}{Těžké}

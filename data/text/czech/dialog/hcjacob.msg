@@ -29,8 +29,7 @@
 {150}{}{Nevím.}
 {151}{}{Jsou úžasní!}
 {152}{}{V tom případě ti řeknu pravdu.}
-{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
- and forced everyone under his rule. }
+{153}{}{Člověk, který se jmenoval Jacob, byl jsem pojmenován po něm, založil tohle místo. Pak přišel mutant Marcus a začal každému nutit svoje zákony.}
 {154}{}{To stačí. Jsi blázen. Sbohem.}
 {155}{}{Povídej dál.}
 {156}{}{Možná, když ti řeknu pravdu, změníš názor.}
@@ -69,7 +68,7 @@
 {189}{}{Žádný problém, stejně jsou tam jen mutanti. Ale pokus se to udělat tiše.}
 {190}{}{Chápu. Mám další otázky.}
 {191}{}{Jasně. Zatím.}
-{192}{}{More questions?}
+{192}{}{Další otázky?}
 {193}{}{Mám nějakou rudu, kterou chci rafinovat a nechci platit ceny v rafinérii.}
 {194}{}{Co mi můžete říct o Broken Hills?}
 {195}{}{Chci něco namíchat.}

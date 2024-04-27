@@ -9,8 +9,8 @@
 {108}{}{Krvák}
 {109}{}{Poznamenaný}
 {110}{}{Dobrák}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Narkoman}
+{112}{}{Abstinent}
 {113}{}{Přitažlivý}
 {114}{}{Zkušený}
 {115}{}{Talentovaný}

@@ -241,13 +241,13 @@
 {340}{}{Díky za pomoc. Poslyšte, potřebuju ještě něco jiného...}
 {341}{}{Doufám, že to znovu nevyroste. Opravdu.}
 {342}{}{Mockrát děkuju. Možná se ještě vrátím.}
-{343}{}{Získáváš +2 Max HB navíc.}
-{344}{}{Získáváš +4 Max HB navíc.}
-{345}{}{Ztrácíš -2 Max HB.}
+{343}{}{Získáváš +2 max bodů zdraví navíc.}
+{344}{}{Získáváš +2 max bodů zdraví navíc.}
+{345}{}{Ztrácíš -2 max bodů zdraví.}
 {346}{}{Eh, no, dobře... ale varoval jsem vás, že to nemusí být bezpečné.}
 {347}{}{ babek za vás všechny a můžeme si plácnout. A nebude to fungovat na robotický mozek, příteli. Tak co vy na to?}
 {348}{}{Paráda! Vždycky jsem chtěl vypadat jako Kryton! Tady jsou peníze a kevlarová zbroj.}
 {349}{}{Tak dobře. Jdeme na to.}
-{350}{}{Ztrácíš -4 Max HB.}
+{350}{}{Ztrácíš -4 max bodů zdraví.}
 {351}{}{Cooo? Já pořád necítit dobrá. Já teď jít spát.}
 {352}{}{Ehhhh... dobře. Pá pá.}

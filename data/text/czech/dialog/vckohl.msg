@@ -92,15 +92,15 @@
 {191}{}{Aha. Nebude vám vadit, když se ještě na něco zeptám?}
 {192}{}{Asi se po něm půjdu podívat.}
 {193}{}{! Výborně! Bravo!}
-{194}{}{Oh, I will for sure! I whish there were more people who did, too.}
-{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
-{196}{}{Really? Used to?}
-{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
-{198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
-{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
-{200}{}{Wow, that's a very comforting thought! Where was his home?}
-{201}{}{Why doesn't he come around anymore?}
-{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
-{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
-{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
-{205}{}{Ah, pushed his luck. Where did he say he was from?}
+{194}{}{Oh, zajisté budu! Kéž by na světě bylo více takových kteří by to dělali také.}
+{195}{}{Rozhodně sdílím tento pocit! Už dlouho jsem neviděl někoho, kdo by se o to alespoň trochu zajímal. Kdysi jsem ale znal jednoho obchodníka, který tu vášeň sdílel...}
+{196}{}{Vážně? Jak?}
+{197}{}{Je pěkné větět že je nás více. Nevadilo by ti kdybych se na zeptal na něco jiného?}
+{198}{}{No, doufám, že je nás venku více. Moc děkuji a na shledanou!}
+{199}{}{Ano, prodával alkoholické nápoje, ale kupoval si ode mě knihy. Ani jsem po něm nechtěl peníze, ale trval na tom. Říkal, že jeho lidé doma je zbožnují.}
+{200}{}{Páni, to je velmi potěšující zpráva! Odkud přišel?}
+{201}{}{Proč sem nechodíš častějc?}
+{202}{}{Říkal, že je to místo, kterému se říká Opatství, kousek na sever odtud. Dokonce mi ukázal, kde přesně, je to přímo... tady. Rád bych se tam podíval, ale stačí mi pohled na předměstí, abych zpanikařil.}
+{203}{}{No, myslím si, že zkoušel prodávat alkohol ve městě. Víš, to je zde nelegální.}
+{204}{}{To je velmi nemilé. Děkuji za informace. Můžu se vás ještě na něco zeptat?}
+{205}{}{Aha, pokoušel štěstí. Okud říkal že byl?}

@@ -47,7 +47,7 @@
 {185}{}{T-tvůj p-přítel je zraněný. D-dám ho d-dokupy za $30. P-pořebuju ty p-peníze na m-materiál.}
 {186}{}{Lidi, co jste d-dělali? V-vypadá to, že byste opravdu p-potřebovali vyléčit. Uzdravení všech tě b-bude stát $60.}
 {187}{}{Tvůj p-přítel je podle mě v pořádku.}
-{190}{}{M-mno, ve skutečnosti jsem se se Z-Zakladatelem a jeho partou přímo osobně n-nesetkal. Ale viděl jsem je. Jednou. }
+{190}{}{M-mno, ve skutečnosti jsem se se Z-zakladatelem a jeho partou přímo osobně n-nesetkal. Ale viděl jsem je. Jednou. }
 {191}{}{Ty jsi viděl Zakladatele? Kde?}
 {192}{}{Aha, chápu. No, musím někam jít, něco zabít. Sbohem.}
 {200}{}{No, p-před v-válkou jsem b-byl doktor.}
@@ -211,9 +211,9 @@
 {3005}{}{N-nechci s tebou m-mít nic s-společného.}
 {4000}{}{No dobře, ale určitě tady nechci zůstat sám.}
 {4001}{}{Tak jo, když myslíš, že je to opravdu dobrý nápad.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{No, nerad používám zbraně, pokud opravdu nemusím, ale myslím, že bych mohl použít nůž. S pistolí umím zacházet, alespoň jsem to uměl. Kdybych opravdu musel, myslím, že bych zvládl i samopal. Jen kdyby nebyly tak hlučné. Jsem doktor, ne bojovník.}
 {4003}{}{Sákryš, snad to nebudu potřebovat.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+{4004}{}{No, nerad používám zbraně, pokud opravdu nemusím, ale myslím, že bych mohl použít nůž. S pistolí umím zacházet, alespoň jsem to uměl. Kdybych opravdu musel, myslím, že bych zvládl i samopal. Jen kdyby nebyly tak hlučné. Jsem doktor, ne bojovník.}
 {5000}{}{Myslím, že m-mám zlomenou k-končetinu.}
 {5001}{}{Myslím, že j-jsem o-ozářený.}
 {5002}{}{Myslím, že j-jsem o-otrávený.}
