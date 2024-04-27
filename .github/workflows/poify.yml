@@ -1,8 +1,10 @@
 name: Poify/Unpoify
+
 on:
   push:
-    branches:
-      - master
+    paths:
+      - "data/text/**"
+  pull_request:
     paths:
       - "data/text/**"
 
@@ -10,10 +12,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Poify/Unpoify
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Poify/Unpoify run
+        if: github.ref == 'refs/heads/master' && github.event_name == 'push'
         uses: BGforgeNet/msg2po@master
         with:
           poify: true
           unpoify: true
+          dir2msgstr: true
           single_commit: true
+
+      - name: Poify/Unpoify test
+        if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
+        uses: BGforgeNet/msg2po@master
+        with:
+          poify: true
+          unpoify: true
+          dir2msgstr: true
+          push: false
