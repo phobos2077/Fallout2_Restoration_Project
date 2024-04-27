@@ -25,7 +25,7 @@
 {204}{}{Ne, díky.}
 {205}{}{V tom případě si promluv s Billem, vetešníkem v Broken Hills. Je tady v tý budově.}
 {206}{}{Mám ještě nějaké otázky.}
-{207}{}{Dík. Naskle.}
+{207}{}{Dík. Měj se.}
 {208}{}{Ty máš otázky, já mám odpovědi. Co chceš vědět?}
 {209}{}{Jaký je?}
 {210}{}{Je důvěryhodný?}

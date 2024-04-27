@@ -64,7 +64,7 @@
 {162}{}{Sakra. Nashle.}
 {163}{}{"Pěknej hajzl" je pro něj docela trefný přirovnání. Řeknu ti, i když ho radiace změnila na ghoula, jeho smysl pro humor a autoritu se skoro nezměnil. Ale samozřejmě tak trochu pozměnila ostatní. Myslím, že jsem to měl trochu lehčí, když jsem vyrůstal jako ghoul.}
 {164}{}{Aha. Mám další otázky.}
-{165}{}{Dík. Naskle.}
+{165}{}{Dík. Měj se.}
 {166}{}{Tak co, máš pro mě Kočičí Packu?}
 {167}{}{Jo. [Dát Typhonovi Kočičí Packu]}
 {168}{}{Ne-e.}

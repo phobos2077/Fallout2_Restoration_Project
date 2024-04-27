@@ -98,7 +98,7 @@
 {197}{}{Hm. Nashle.}
 {198}{}{ESS Quetzel odstartuje, až budou hvězdy ve správné konstelaci. }
 {199}{}{Dobře. Mám další otázky.}
-{200}{}{Dík. Naskle.}
+{200}{}{Dík. Měj se.}
 {201}{}{Tvá narušená aura mi říká, že zde nemáš čestné úmysly. Pověz mi, mé dítě, chceš svým riskováním něco získat?}
 {202}{}{Ano.}
 {203}{}{Ne.}

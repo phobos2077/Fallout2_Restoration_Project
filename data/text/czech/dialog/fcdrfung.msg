@@ -75,7 +75,7 @@
 {189}{}{[Více]}
 {190}{}{Stavěli jsme z materiálu, který jsme měli po ruce a díky vědcům a technologiím, které by nám mohl závidět celý svět, budujeme novou civilizaci, ale ne takovou, jakou před námi vytvořil ten šílený Vůdce.}
 {191}{}{Chápu. Mám další otázky.}
-{192}{}{Dík. Naskle.}
+{192}{}{Dík. Měj se.}
 {193}{}{Samozřejmě že ano. A poněvadž znáte Doc Hollidaye... udělám to čistě z přátelství. Řekněte svému kamarádovi bez sleziny, ať sem přijde a já mu ji dám zpět.}
 {194}{}{Díky! Mám další otázky.}
 {195}{}{Díky!}

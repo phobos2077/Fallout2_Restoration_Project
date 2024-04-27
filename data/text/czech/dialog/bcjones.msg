@@ -36,7 +36,7 @@
 {135}{}{Díky za informace. Už musím jít.}
 {136}{}{Ano i ne. Nevybral jsem si to. Jsem tu vězeň. Darion je tu už dlouho a potřeboval nějakého doktora, který by se o něj staral. Khanové mě tu drží pro svou potřebu. Ale raději bych pracoval pro lidi z té komunity nahoře. Nemají tam žádnou lékařskou péči a myslím, že bych jim mohl opravdu hodně pomoci.}
 {137}{}{Dobře. Potřebovat vědět víc.}
-{138}{}{Dík. Naskle.}
+{138}{}{Dík. Měj se.}
 {139}{}{To je od tebe velmi chvályhodné.}
 {140}{}{Aha. Už musím jít.}
 {141}{}{Vždyť jsou to jen bezdomovci! Ať si klidně chcípnou. Ty se raději starej o svůj vlastní krk.}

@@ -32,13 +32,13 @@
 {131}{}{Jsme společnost lidí, mutantů a ghoulů. Nemáme proti sobě žádné rasové předsudky jako třeba ve Vault City. U nás jsou si všichni rovni.}
 {132}{}{Žijete dohromady s mutanty? Copak nevíte, že jsou zlí?}
 {133}{}{Rovni?}
-{134}{}{Dík. Naskle.}
+{134}{}{Dík. Měj se.}
 {135}{}{Šerif Marcus to tady řídí. Pomohl tohle místo založit a taky nám pomohl s našimi problémy. Ale ve skutečnosti může každý ve městě prosadit svůj názor.}
 {136}{}{To mi přijde nereálné.}
 {137}{}{To zní jako dobrý způsob, jak něco řídit.}
 {138}{}{Pokračuj.}
 {139}{}{Mutant, který pomohl založit tohle město, ho pořád řídí? Ale to musí být opravdu velmi starý.}
-{140}{}{Dík. Naskle.}
+{140}{}{Dík. Měj se.}
 {141}{}{Kromě toho, že jsou všichni mutanti MRTVÍ a tohle město je odsouzeno k ZÁNIKU...}
 {142}{}{Kromě toho, že jsou všichni mutanti MRTVÍ a náš jediný zdroj živobytí zničen...}
 {143}{}{Kromě toho, že ses stal hrdinou za to, že jsi mezi námi odhalil korupci...}
@@ -75,7 +75,7 @@
 {174}{}{Nashle.}
 {175}{}{Přežíváme díky tvrdé práci, vytváříme si vlastní formu civilizace a snažíme se ze všech sil, abychom se vyhnuli Vault City nebo NCR. Nepotřebujeme jejich způsob vlády. A to je asi tak všechno.}
 {176}{}{Super. Mám další otázky.}
-{177}{}{Dík. Naskle.}
+{177}{}{Dík. Měj se.}
 {178}{}{Pokud stále trváš na tom, že můžeš někoho soudit podle jeho vzhledu, tak ano. Potom jsi nepochybně ignorant.}
 {179}{}{Táhni k čertu, kámo. SÁM jsi ignorant.}
 {180}{}{Aha, no dobře. Máš pravdu.}

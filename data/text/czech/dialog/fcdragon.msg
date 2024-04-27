@@ -67,7 +67,7 @@
 {166}{}{Jsem Dragon, ochránce lidí a úhlavní nepřítel Lo Pana. On a já jsme posledními mistry našeho bojového umění.}
 {167}{}{Nejsem úplně nejhorší v pěstním souboji. Nechceš si mě vyzkoušet?}
 {168}{}{Zajímavé. To musí být opravdu prospěšné. Mám další otázky.}
-{169}{}{Dík. Naskle.}
+{169}{}{Dík. Měj se.}
 {170}{}{Pokusil ses zneuctít můj lid, takže tě teď musím zabít. Omlouvám se za případnou bolest při umírání.}
 {171}{}{[KONEC]}
 {172}{}{Nemluv na mě, ty ovce Hubu. Nemám pro tebe žádné využití.}

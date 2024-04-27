@@ -40,7 +40,7 @@
 {139}{}{No, víš, ví to celé město, takže už to moc tajemství není.}
 {140}{}{Neboj se, nikomu to neřeknu. Mám to od spolehlivého zdroje.}
 {141}{}{Co třeba zkusit jeskyně nebo oblast kolem domů? Myslím, že tam nějaké příšery jsou.}
-{142}{}{Dík. Naskle.}
+{142}{}{Dík. Měj se.}
 {143}{}{Tak humanoidy, jo? A jaké máš na mysli?}
 {144}{}{Lidi.}
 {145}{}{Ghouly.}

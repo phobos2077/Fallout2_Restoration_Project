@@ -16,7 +16,7 @@
 {164}{}{Ne.}
 {165}{}{Tak fajn! Teď jdi pěkně tady s Billym, zlatíčko.}
 {166}{}{Teď odejdi.}
-{167}{}{Dík. Naskle.}
+{167}{}{Dík. Měj se.}
 {168}{}{Nashle.}
 {169}{}{Ou, sakra.}
 {170}{}{[KONEC]}

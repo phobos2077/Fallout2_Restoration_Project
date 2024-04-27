@@ -15,7 +15,7 @@
 {114}{}{Kde je ten salón?}
 {115}{}{Kde najdu někoho od karavan?}
 {116}{}{Kde je ten obchod?}
-{117}{}{Dík. Naskle.}
+{117}{}{Dík. Měj se.}
 {118}{}{Jsem jeden z horníků. Chceš něco důležitýho?}
 {119}{}{Ano.}
 {120}{}{Ne.}
@@ -26,7 +26,7 @@
 {125}{}{Kde najdu Camerona?}
 {126}{}{Kde najdu Chada?}
 {127}{}{Kde najdu Phila?}
-{128}{}{Dík. Naskle.}
+{128}{}{Dík. Měj se.}
 {129}{}{Jestli si myslíš, že nám můžeš pomoct s opravou dolu, tak si promluv se Zaiusem. Většinou je ve svý chýši poblíž dolu. Ale má špatnou náladu, protože nefunguje čistička vzduchu. Ještě něco?}
 {130}{}{Phil je ghoul a patří mu salón. Je něco jako místní ghoulí šéf. Najdeš ho na východ od banky. Ještě něco?}
 {131}{}{Chad řídí chod karavan a najdeš ho na jihozápadě města. Ještě něco?}

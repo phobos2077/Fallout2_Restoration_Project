@@ -9,7 +9,7 @@
 {108}{}{Co máš k obchodování?}
 {109}{}{Nemám nic ke směnění. Je mi líto.}
 {110}{}{Tak snad někdy jindy. Ať jsou tvé cesty prosty nebezpečí.}
-{111}{}{Dík. Naskle.}
+{111}{}{Dík. Měj se.}
 {112}{}{Jaká škoda. Odpočiň si tedy a vítej v našem táboře.}
 {113}{}{Díky. Naschle.}
 {114}{}{Vidím, že moje nabídka stínu přišla příliš pozdě. Slunce ti už nejspíš vypálilo mozek. Musím být přívětivý k těm, kteří v životě nemají tolik štěstí. Zůstaň v mém táboře, jak dlouho budeš chtít, zabedněnče.}

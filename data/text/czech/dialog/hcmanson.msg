@@ -43,7 +43,7 @@
 {142}{}{Franc je jen pytel sraček a chce tě zatáhnout do každého maléru.}
 {143}{}{Jo, potkal jsem ho. Je to dobrý chlap.}
 {144}{}{Neměl jsem příležitost se s ním seznámit, takže nemůžu soudit.}
-{145}{}{Dík. Naskle.}
+{145}{}{Dík. Měj se.}
 {146}{}{Takže co ještě potřebuješ?}
 {147}{}{Kdo jsi?}
 {148}{}{Proč jsi ve vězení?}

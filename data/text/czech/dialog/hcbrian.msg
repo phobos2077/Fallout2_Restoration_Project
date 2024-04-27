@@ -33,7 +33,7 @@
 {132}{}{No, není. Ani ne. Většinou tady jen sedím a dávám pozor na ciferníky, aby se držely ve správných hodnotách. Sem tam něco upravím a občas něco přepnu. A to je asi tak všechno. Zvládl by to každý.}
 {133}{}{Takže, mohl bys přidat víc energie do Erikova domu?}
 {134}{}{Každý, jo? Mám další otázky.}
-{135}{}{Dík. Naskle.}
+{135}{}{Dík. Měj se.}
 {136}{}{No, díky našemu uranovému dolu a atomové energii, která je energií budoucnosti, je jen v pořádku, že držíme krok s dobou. Možná jsme malí, ale pokrokoví.}
 {137}{}{Hmm. Tak dobře. Mám další otázky.}
 {138}{}{Jasně. Nashle.}

@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Nádherná zlatá urna s nápisem "Harriet".}
 {11300}{}{Róba}
-{11301}{}{Obnošené roucho.}
+{11301}{}{Opotřebovaně vypadající roucha.}
 {11400}{}{Tanglerova ruka}
 {11401}{}{Robotický manipulátor ve tvaru a podobě ruky. Byl poškozen při neodborném pokusu o rozebrání.}
 {11500}{}{Super Kladivo}

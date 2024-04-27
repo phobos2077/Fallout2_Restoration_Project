@@ -30,11 +30,11 @@
 {129}{}{Změní svět? Jak?}
 {130}{}{Co se ještě děje ve městě?}
 {131}{}{Hmm. Zajímavé. Mám další otázky.}
-{132}{}{Dík. Naskle.}
+{132}{}{Dík. Měj se.}
 {133}{}{To nevím. Oni svoje tajemství nevyzrazují.}
 {134}{}{Aha. Co se ještě děje ve městě?}
 {135}{}{Chápu. Mám další otázky.}
-{136}{}{Dík. Naskle.}
+{136}{}{Dík. Měj se.}
 {137}{}{Máme tu dva rivaly ve válečných uměních. Jsou to Lo Pan, člověk zamilovaný sám do sebe, a Dragon, který miluje ostatní. Říká se, že kdo zvítězí, ten rozhodne o budoucnosti válečných umění.}
 {138}{}{Aha. Co se ještě děje ve městě?}
 {139}{}{Chápu. Mám další otázky.}
@@ -42,11 +42,11 @@
 {141}{}{Je tu gang tuláků, kteří se přestěhovali do tankeru Poseidon Oil v přístavu. Uvnitř žily nějaké příšery, ale tuláci je zavřeli do nižšího podpalubí. A ačkoliv jsou to cizinci, jsme jim za to vděční.}
 {142}{}{Nějaké jiné novinky?}
 {143}{}{Chápu. Mám další otázky.}
-{144}{}{Dík. Naskle.}
+{144}{}{Dík. Měj se.}
 {145}{}{Vědci tvrdí, že se někdo dostal přes jejich počítačovou ochranu a ukradl jejich tajemství.}
 {146}{}{Nějaké jiné novinky?}
 {147}{}{Chápu. Mám další otázky.}
-{148}{}{Dík. Naskle.}
+{148}{}{Dík. Měj se.}
 {149}{}{Na nic dalšího si momentálně nevzpomínám. Měj se.}
 {150}{}{Hezký den.}
 {151}{}{Jsi zloděj, vrah a ničema. Obávám se, že tě budu muset zabít.}

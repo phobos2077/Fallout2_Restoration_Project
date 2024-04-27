@@ -87,7 +87,7 @@
 {236}{}{V žádném případě! Chci dvojnásobek!}
 {237}{}{Jsi pěknej vydřiduch. Tady jsou peníze!}
 {238}{}{Díky. Mám další otázky.}
-{239}{}{Dík. Naskle.}
+{239}{}{Dík. Měj se.}
 {240}{}{Ještě něco?}
 {241}{}{Ano, mám otázku.}
 {242}{}{Ne. Nashle.}

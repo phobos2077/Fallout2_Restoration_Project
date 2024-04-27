@@ -34,7 +34,7 @@
 {133}{}{Díky za informace. Už musím jít.}
 {134}{}{Ne, nejsem vězeň. Zůstávám tu, protože jsem potřebný. Naučil jsem se přijmout fakt, že mnozí moji pacienti jsou párači.}
 {135}{}{Dobře. Potřebovat vědět víc.}
-{136}{}{Dík. Naskle.}
+{136}{}{Dík. Měj se.}
 {137}{}{To je od tebe velmi chvályhodné.}
 {138}{}{Aha.}
 {139}{}{Sice je to rozhodnutí se kterým nesouhlasím, ale je to tvůj život.}

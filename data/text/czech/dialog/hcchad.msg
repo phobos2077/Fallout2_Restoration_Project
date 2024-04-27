@@ -21,7 +21,7 @@
 {137}{}{To zní skvěle.}
 {138}{}{To zní nudně.}
 {139}{}{Mám další otázky.}
-{140}{}{Dík. Naskle.}
+{140}{}{Dík. Měj se.}
 {141}{}{O Broken Hills? Dobrá... přišel jsem sem před několika lety. Dostal jsem práci u vetešníka Billa a vypracoval se až tam, kde jsem teď. Zodpovídám se sice Marcusovi a Billovi, ale jsem zodpovědný za chod města.}
 {142}{}{Mám další otázky.}
 {143}{}{Nashle.}
@@ -32,7 +32,7 @@
 {150}{}{Jdu zjistit, jak to doopravdy je. Sbohem.}
 {156}{}{Promluv si s Billem. On ti pomůže.}
 {157}{}{Mám další otázky.}
-{158}{}{Dík. Naskle.}
+{158}{}{Dík. Měj se.}
 {159}{}{Jo, taky že je. Asi by tě to ani nenapadlo, ale docela cestuju po světě... a řekl bych, že přispívám tomuhle městu. Je to dobrej život.}
 {160}{}{To zní skvěle. Taková práce by se mi líbila.}
 {161}{}{No, ve skutečnosti to zní jako pěkná nuda.}

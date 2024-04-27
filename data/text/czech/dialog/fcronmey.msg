@@ -15,7 +15,7 @@
 {114}{}{Jak tohle všechno víš?}
 {115}{}{Co je to IFF radarová rušička?}
 {116}{}{Jak tuhle věc uvedeš do pohybu?}
-{117}{}{Dík. Naskle.}
+{117}{}{Dík. Měj se.}
 {118}{}{Kdysi jsem sloužil Enklávě. Pak jsem přišel na to, že jsem vlastně nebojoval za USA, ale za ty bohatý starý bastardy, kteří se nechtěli vzdát svý moci. Dezertoval jsem a teď žiju tady mezi poctivějšími lidmi.}
 {119}{}{Poctivějšími lidmi? Tihle?}
 {120}{}{Co je přesně Enkláva?}
@@ -29,7 +29,7 @@
 {128}{}{IFF: Identifikuj Přítele nebo Nepřítele. To znamená, že je tahle loď identifikována jako přátelská, takže ostatní zařízení Poseidonu jako třeba ropná plošina, na tebe nebudou střílet, když se dostaneš na dostřel. Jo a FOB je druh Enklávský technologie, která ti umožňuje otevřít dveře elektronicky. Nejspíš se nachází v jedný z jejich základen nebo na podobnejch místech.}
 {129}{}{Jak tohle všechno víš?}
 {130}{}{Jaká ropná plošina?}
-{131}{}{Dík. Naskle.}
+{131}{}{Dík. Měj se.}
 {132}{}{Ano. U těhlech lidí přesně víš, na čem jsi. Na nic si totiž nehrajou. Enkláva byla jako smečka hyen - ve vteřině ti vrazili kudlu do zad.}
 {133}{}{Co je přesně Enkláva?}
 {134}{}{Jak ses sem dostal?}
@@ -38,17 +38,17 @@
 {137}{}{Jaká plošina?}
 {138}{}{Docela lehce. Prostě jsem jednoho dne opustil základnu Navarro a zamířil sem dolů. Domníval jsem se, že je tohle poslední místo, kde mě budou hledat. A navíc nejsem pro Enklávu dost důležitej na to, aby mě vůbec hledali - jsem pro ně prostě ztracenej.}
 {139}{}{Co je přesně Enkláva?}
-{140}{}{Dík. Naskle.}
+{140}{}{Dík. Měj se.}
 {141}{}{V oceánu stojí osamocená velká ropná plošina Poseidonu. Je to poslední základna Enklávy}
 {142}{}{Jak tohle všechno víš?}
 {143}{}{Co se na té plošině ještě děje?}
-{144}{}{Dík. Naskle.}
+{144}{}{Dík. Měj se.}
 {145}{}{Říká se to.}
 {146}{}{Aha. Co se na té plošině ještě děje?}
 {147}{}{Aha. Nashle.}
 {148}{}{Co já vím? Byl jsem v Navarru technik, ne operátor plošiny. Mluvili jsme spolu přes komunikátory a to bylo naše jediný spojení.}
 {149}{}{Aha. Jakže se tahle loď ovládá?}
-{150}{}{Dík. Naskle.}
+{150}{}{Dík. Měj se.}
 {151}{}{Udělal jsi chybu zahrávat si s kapitánem a jeho přáteli...}
 {152}{}{Jak se tahle bárka ovládá? Koukám, že už je naplněná palivem. Až budeš mít všechno ostatní hotový, zmáčkni knoflík. Počítač se postará o všechno ostatní, teda jestli to ještě bude fungovat. Loď popluje přímo k ropný plošině, pokud tě nesejme ta stará ponorka. Ale alespoň se nebudeš muset obávat, že po tobě bude střílet Enkláva, protože máš IFF rušičku. Ujisti se, že máš všechno, co potřebuješ k přístupu: FOB, funkční navigační počítač a palivo. Jasný jako facka, ne?}
 {153}{}{Jo a musíš ještě zprovoznit navigační počítač. Vsadím se, že pro něj najdeš nějaký součástky v jednom z těch starejch vaultů.}

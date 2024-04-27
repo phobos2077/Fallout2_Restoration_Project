@@ -133,7 +133,7 @@
 {273}{}{Když tě to tak potěšilo, co takhle nějaká malá finanční odměna?}
 {274}{}{Bylo mi potěšením. Mohla bys mi teď říct, kdo jste?}
 {280}{}{Nemáme moc peněz nazbyt, ale prokázal jsi nám opravdu velkou službu, takže myslím, že ti můžeme něco dát. Tady je $1000.}
-{281}{}{Dík. Naskle.}
+{281}{}{Dík. Měj se.}
 {282}{}{Díky. Mohla bys mi teď říct, kdo jste?}
 {290}{}{Já jsem Elise a tohle je Gond. Jsme členové protiotrokářské skupiny zvané New California Rangers. Hodil by se nám někdo jako ty. Pokud máš zájem se k nám připojit, mám pro tebe úkol.}
 {291}{}{Poslouchám.}

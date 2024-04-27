@@ -69,7 +69,7 @@
 {194}{}{Dobře, tak jo! Co to bude?}
 {198}{}{Co se děje ve městě? Inu...}
 {199}{}{Díky. Mám další otázky. }
-{200}{}{Dík. Naskle.}
+{200}{}{Dík. Měj se.}
 {201}{}{Práce, práce... asi tohle...}
 {202}{}{[Pokračovat]}
 {203}{}{Někdo osvobodil ty blázny z vězení!}

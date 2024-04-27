@@ -24,7 +24,7 @@
 {123}{}{Nashle.}
 {124}{}{Kapitán je starej drsnej voják. Sedí v horním patře a pozoruje okolí. Hodně toho o týhle lodi ví.}
 {125}{}{Díky. Mám další otázky.}
-{126}{}{Dík. Naskle.}
+{126}{}{Dík. Měj se.}
 {127}{}{No, tak různě. Hodně jsme slyšeli o San Franciscu od našich starších. Někteří tu totiž žili před Velkou válkou. Chceš vědět víc?}
 {128}{}{Ano.}
 {129}{}{Ne, ale chci se zeptat na něco jiného.}
@@ -38,7 +38,7 @@
 {137}{}{Pověz mi něco o Hubologistech.}
 {138}{}{Pověz mi něco o Shi.}
 {139}{}{Mám další otázky.}
-{140}{}{Dík. Naskle.}
+{140}{}{Dík. Měj se.}
 {141}{}{Myslím, že náš kapitán na to přišel... ale nejdřív potřebujem pár věcí. Abych řekl pravdu, už jsme to v podstatě vzdali... máme teď jiný plány.}
 {142}{}{Jaké?}
 {143}{}{Kde najdu toho kapitána?}
@@ -57,12 +57,12 @@
 {156}{}{Chceš vědět jaký máme plány? Chceme najít místo, který by nebylo postižený lidskou chamtivostí a pak se pokusíme vytvořit lepší společnost.}
 {157}{}{A už víte, jak to uděláte?}
 {158}{}{Mám další otázky.}
-{159}{}{Dík. Naskle.}
+{159}{}{Dík. Měj se.}
 {160}{}{Doufáme, že se vyhneme chybám společností. Nemůže to bejt už o moc horší než teď.}
 {161}{}{Přišli jste na to jak zprovoznit tanker?}
 {162}{}{Pověz mi něco o Hubologistech.}
 {163}{}{Pověz mi něco o Shi.}
 {164}{}{Mám další otázky.}
-{165}{}{Dík. Naskle.}
+{165}{}{Dík. Měj se.}
 {166}{}{Neviděl jsi tu někde Badgerovu přítelkyni?}
 {167}{}{Myslím, že jsem ji viděl jít dolů. Na severní straně týhle paluby je díra.}

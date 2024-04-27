@@ -10,10 +10,10 @@
 {109}{}{::smrk::}
 {110}{}{Jsem Max, jeden ze strážců karavan.}
 {111}{}{Co mi můžeš říct o Chadovi?}
-{112}{}{Dík. Naskle.}
+{112}{}{Dík. Měj se.}
 {113}{}{Upřímně, nezáleží mi na něm. Poslední dobou rozhazuje dost peněz. Teda jo, je správce karavan, takže si samozřejmě bere větší podíl, to chápu, ale není možný, že by byl až *tak* ve vatě. Myslím, že by bylo *opravdu* zajímavý nahlédnout do jeho záznamů.}
 {114}{}{Marcus mi řekl, že podezřívá Chada z ulévání části peněz, které jsou určené pro Broken Hills. Řekl jsem mu, že se na to podívám.}
-{115}{}{Dík. Naskle.}
+{115}{}{Dík. Měj se.}
 {116}{}{Díky. Jsem opravdu rád, že je to vyřízené. Ale měl by sis teď hlídat záda.}
 {117}{}{Nashle.}
 {118}{}{Nepřítel! Chcípni!}

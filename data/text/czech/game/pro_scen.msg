@@ -2270,7 +2270,7 @@
 {137600}{}{Pochodeň}
 {137601}{}{Do železného kruhu připevněného na zdi je zasazena hořící pochodeň.}
 {137700}{}{Vertibird}
-{137701}{}{Veliký vojenský létající prostředek.}
+{137701}{}{Velké vojenské letadlo.}
 {137800}{}{Zničené dveře}
 {137801}{}{Suť zcela blokuje vstup.}
 {137900}{}{Zničené dveře}
@@ -2634,9 +2634,9 @@
 {172200}{}{Neprůstřelné sklo}
 {172300}{}{Neprůstřelné sklo}
 {172400}{}{Těžká laserová věž}
-{172401}{}{Věž se výhružně otáčí.}
+{172401}{}{Věž se hrozivě otáčí.}
 {172500}{}{Těžká laserová věž}
-{172501}{}{Věž se výhružně otáčí.}
+{172501}{}{Věž se hrozivě otáčí.}
 {172600}{}{Kameny}
 {172700}{}{Kameny}
 {172800}{}{Kameny}
@@ -3459,11 +3459,11 @@
 {229200}{}{Těžká laserová věž}
 {229201}{}{Laserová věž postavená na betonové věži.}
 {229300}{}{Těžká laserová věž}
-{229301}{}{Věž se výhružně otáčí.}
+{229301}{}{Věž se hrozivě otáčí.}
 {229400}{}{Těžká laserová věž}
 {229401}{}{Laserová věž postavená na betonové věži.}
 {229500}{}{Těžká laserová věž}
-{229501}{}{Věž se výhružně otáčí.}
+{229501}{}{Věž se hrozivě otáčí.}
 {229800}{}{Filmový plakát}
 {229801}{}{Starý otrhaný plakát s filmem "Somrák s brokárnou".}
 {229900}{}{Podivně vypadající tvor}

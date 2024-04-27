@@ -67,7 +67,7 @@
 {166}{}{No tak dobře. Udělám to.}
 {167}{}{Ztracení vesničané? O ničem takovém nic nevím. Možná o nich ví Císař.}
 {168}{}{Mám další otázky.}
-{169}{}{Dík. Naskle.}
+{169}{}{Dík. Měj se.}
 {170}{}{Musíš splnit druhý test: Hubologisté jsou našimi nepřáteli. Jejich vůdce, AHS-9, unáší a vymývá mozky našim dětem. Zabij ho pro dobro Shi a já ti řeknu, jak se dostat k Císařovi.}
 {171}{}{Jako by už byl mrtvej.}
 {172}{}{Ne. Myslím, že ne.}

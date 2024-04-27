@@ -43,7 +43,7 @@
 {189}{}{Vault 13? Na východ odtud je Vault City.
  Občas tam chodím obchodovat.}
 {190}{}{Chceš tam jít se mnou?}
-{191}{}{Dík. Naskle.}
+{191}{}{Dík. Měj se.}
 {192}{}{Jasně, rád se k tobě přidám! Tenhle prďola má před sebou ještě jedno velký dobrodružství, tím jsem si jistej! A taky jsem docela dobrej v opravování věcí, ať si Metzger říká, co chce.}
 {193}{}{Skvěle, můžeme vyrazit.}
 {194}{}{Vítej na palubě.}

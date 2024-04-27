@@ -534,7 +534,7 @@
 {5036}{}{. Bolest ze zranění byla tak silná, že se zhroutil jako panák z hadrů}
 {5037}{}{. Zamumlal "Mami" a jeho oči se pomalu obrátily v sloup}
 {5100}{}{. Tohle docela ublížilo.}
-{5101}{}{. Serious pain is inflicted}
+{5101}{}{. Zásah způsobil vážné zranění}
 {5102}{}{, protože na sobě nemá zbroj}
 {5103}{}{. Drtivá rána ji zcela omráčila}
 {5104}{}{. Rána ji srazila k zemi}

@@ -57,13 +57,13 @@
 {156}{}{Ne, ani ne.}
 {157}{}{Já si upřímně myslím, že vy mutanti jste šmejdi a lidi, co s vámi spolupracují, jsou zrádci.}
 {158}{}{Někdy mám tady o ty lidi starost... pro některý je hrozně těžký překonat strach. Říká se, že je na spadnutí nějakej průser, ale asi je to jenom blábol.}
-{159}{}{Dík. Naskle.}
+{159}{}{Dík. Měj se.}
 {160}{}{Tak dobře. No, až budeš chtít zase nějaký informace, tak víš, kde mě najdeš.}
 {161}{}{Samozřejmě. Díky. Nashle.}
 {162}{}{Opravdu? To je úchvatný názor. Škoda že jsme nerozdrtili tvoji vesnici, když jsme ještě ovládali pustinu. Zmiz mi z očí, červe.}
 {200}{}{[KONEC]}
 {201}{}{Nashle.}
-{202}{}{Dík. Naskle.}
+{202}{}{Dík. Měj se.}
 {203}{}{[Více]}
 {204}{}{Samozřejmě. Díky. Nashle.}
 {300}{}{Kámo, nejsem si jistej, jestli dokážeš pochopit moji nabídku. Vrať se, až budeš mít víc zkušeností.}

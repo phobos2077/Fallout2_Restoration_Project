@@ -50,7 +50,7 @@
 {149}{}{Jsem Lo Pan. Jsem také "úhlavní nepřítel" Dragona. Nechápu proč trvá na tom, aby měl úhlavního nepřítele. Bojuji stejně dobře jako on a myslím si, že je slabomyslný a umožňuje ostatním žít ve svém stínu. Jsme nepřátelé, protože bojujeme stejným stylem a ten, kdo zvítězí, převezme tradici.}
 {150}{}{Nejsem úplně nejhorší v pěstním souboji. Nechceš si mě vyzkoušet?}
 {151}{}{Zajímavé. To musí být opravdu prospěšné. Mám další otázky.}
-{152}{}{Dík. Naskle.}
+{152}{}{Dík. Měj se.}
 {153}{}{Možná jsem hajzl, ale nikdo nemůže říct, že se nezastávám svých lidí. Teď tě to bude pořádně bolet.}
 {154}{}{[KONEC]}
 {155}{}{Potom jsi hlupák a mizera, který skáče jak někdo jiný píská. Budu se smát až zemřeš.}

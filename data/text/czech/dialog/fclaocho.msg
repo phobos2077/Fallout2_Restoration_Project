@@ -30,13 +30,13 @@
 {129}{}{Nic. Nashle.}
 {130}{}{Promluv si s Crockettem v základně Hubologistů. Je to jejich hlavní vědec.}
 {131}{}{Díky. Potřebuju víc informací.}
-{132}{}{Dík. Naskle.}
+{132}{}{Dík. Měj se.}
 {133}{}{Hledej na severu, v Navarru. Je tam skrytá základna poblíž benzínové pumpy.}
 {134}{}{Díky. Potřebuju víc informací.}
-{135}{}{Dík. Naskle.}
+{135}{}{Dík. Měj se.}
 {136}{}{Co se zkusit podívat do starých Vaultů? Slyšel jsem, že je uvnitř spousta informací a starobylých technologií.}
 {137}{}{Díky. Potřebuju víc informací.}
-{138}{}{Dík. Naskle.}
+{138}{}{Dík. Měj se.}
 {139}{}{Slezinu? Haha! Ano, Chip z Valdezu prohrál svoji slezinu v kartách. Prodal jsem ji Dr. Wongovi. Fascinovala ho.}
 {140}{}{Dr. Wong? Kde ho najdu?}
 {141}{}{Jak se dá prohrát slezina?}
@@ -45,7 +45,7 @@
 {144}{}{Dr. Wong je hlavní vědec v Ocelovém Paláci. Tam ho zastihneš.}
 {145}{}{Jak se dá prohrát slezina?}
 {146}{}{Díky. Potřebuju víc informací.}
-{147}{}{Dík. Naskle.}
+{147}{}{Dík. Měj se.}
 {148}{}{Byl opilý. Velmi, velmi opilý. Celý večer se chlubil svojí slezinou a pak ji vsadil.}
 {149}{}{Takže ty jsi mu vzal jeho SLEZINU?}
 {150}{}{Chápu. No, mám další otázky.}
@@ -63,13 +63,13 @@
 {162}{}{Díky za "pomoc". Raději se poohlédnu po nějaké opravdové radě.}
 {163}{}{...ledaže by se ti podařilo zprovoznit ten starý tanker v přístavu. Je to sice stará loď, ale kdyby se na ní udělalo pár oprav, tak bude možná ještě fungovat. Zeptej se tuláků v tankeru, řeknou ti toho víc.}
 {164}{}{Díky. Potřebuju víc informací.}
-{165}{}{Dík. Naskle.}
+{165}{}{Dík. Měj se.}
 {166}{}{Slyšel jsem, že Hubologisté nedávno přišli k velkému množství paliva. Domluv se s nimi.}
 {167}{}{Díky. Potřebuju víc informací.}
-{168}{}{Dík. Naskle.}
+{168}{}{Dík. Měj se.}
 {169}{}{Zkus se zeptat nějakého vědce Shi v Ocelovém Paláci. Možná by ti s tím palivem mohli pomoct.}
 {170}{}{Díky. Potřebuju víc informací.}
-{171}{}{Dík. Naskle.}
+{171}{}{Dík. Měj se.}
 {172}{}{Jsi nepřítel mého lidu. Chcípni!}
 {173}{}{Náš lid je ti za zabití AHS-9 velmi vděčný. Doufám, že ti budu moct nějak pomoct.}
 {174}{}{Kdo jsi?}

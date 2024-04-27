@@ -19,7 +19,7 @@
 {166}{}{Můžu se na něco zeptat?}
 {167}{}{Dám si panáka!}
 {168}{}{Hmm, tyhle drinky jsou docela levné. Zkusím jeden.}
-{169}{}{Dík. Naskle.}
+{169}{}{Dík. Měj se.}
 {170}{}{Vault 13? Tak o tom jsem určitě neslyšela.}
 {171}{}{Hmm, můžu se ještě na něco zeptat?}
 {172}{}{Zatraceně, budu ho muset najít. Nashle.}
@@ -31,7 +31,7 @@
 {178}{}{Máma provozuje malou restauraci na druhé straně města.}
 {179}{}{Máma! Máma!}
 {180}{}{Ještě jeden dotaz.}
-{181}{}{Dík. Naskle.}
+{181}{}{Dík. Měj se.}
 {182}{}{Vypadni.}
 {183}{}{Gwah.}
 {184}{}{Já ti dám vypadnout.}

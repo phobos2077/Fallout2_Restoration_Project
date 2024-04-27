@@ -83,7 +83,7 @@
 {230}{}{Tak to jsem asi na špatném místě. Nashle.}
 {231}{}{Jdi si promluvit se Sheilou. Hej, Sheilo, máš tady zákazníka!}
 {232}{}{Počkej, to nechci!}
-{233}{}{Dík. Naskle.}
+{233}{}{Dík. Měj se.}
 {234}{}{Jo, to se vsadím. Trvá ti asi zatraceně dlouho dostat nějakýho chlapa. Zkus štěstí někde jinde, sestřičko. Nedělám pro charitu.}
 {235}{}{Fajn! Tak tedy něco jiného.}
 {236}{}{Ty malej...}
