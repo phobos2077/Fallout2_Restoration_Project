@@ -75,7 +75,7 @@
 {174}{}{}
 {175}{}{Vypadni, grázle! Nechci s tebou nic mít.}
 {176}{}{Táhni, děvko! Nemám ti co říct.}
-{177}{}{Nashle.}
+{177}{}{Čau.}
 {178}{}{.}
 {179}{}{. Ano, jsem tu teprve chvíli.}
 {180}{}{Držela jsem Sandy za zády, aby byla co nejdál od toho monstra, co zastřelilo Randa. Stál hned vedle jeho mrtvoly a začal se smát, když mi namířil svoji zbraň na hlavu. Náhle se ze tmy vynořil obrovský pařát, chytil ho zezadu a... no, díky bohu, že Sandy neviděla, co se stalo potom. Každopádně, nájezdníci byli vyhlazeni skupinou těchto páračů. Ten, co zachránil mě i Sandy, stál vedle mě a mluvil se mnou. Neustále mě ujišťoval, že jsem v bezpečí a že je mu líto, že nemohli přijít dřív, aby nám pomohli. Potom nás vzali sem.}

@@ -49,7 +49,7 @@
 {148}{}{Co takhle nějaké peníze? Takových $}
 {149}{}{Myslím, že si ji raději nechám.}
 {150}{}{Považujte to za hotové. Úpravy udělám brzy. A teď mě omluvte, rád bych se vrátil ke své práci.}
-{151}{}{Dík. Naskle.}
+{151}{}{Dík. Měj se.}
 {152}{}{Tolik? Hmm, ale budu moci zkoumat tu silnou energo zbroj... tak dobře. Tady jsou vaše peníze.}
 {153}{}{Díky. Zatím.}
 {154}{}{Vy si ji chcete nechat? Tak dobře. Pokud si to rozmyslíte, dejte mi vědět.}
@@ -68,7 +68,7 @@
 {167}{}{Potřebuju získat palivo pro Hubologisty.}
 {168}{}{Nic. Promiňte.}
 {169}{}{Jsme bez paliva. S ničím jiným vám teď nemohu pomoci. Jsem příliš zaměstnán tou zbrojí. Hezký den.}
-{170}{}{Nashle.}
+{170}{}{Čau.}
 {171}{}{. Jen se rozhlížím kolem.}
 {172}{}{, potřebujete něco?}
 {173}{}{ by mohlo stačit.}

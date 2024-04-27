@@ -36,7 +36,7 @@
 {135}{}{Díky za informace. Už musím jít.}
 {136}{}{Ano i ne. Nevybral jsem si to. Jsem tu vězeň. Darion je tu už dlouho a potřeboval nějakého doktora, který by se o něj staral. Khanové mě tu drží pro svou potřebu. Ale raději bych pracoval pro lidi z té komunity nahoře. Nemají tam žádnou lékařskou péči a myslím, že bych jim mohl opravdu hodně pomoci.}
 {137}{}{Dobře. Potřebovat vědět víc.}
-{138}{}{Dík. Naskle.}
+{138}{}{Dík. Měj se.}
 {139}{}{To je od tebe velmi chvályhodné.}
 {140}{}{Aha. Už musím jít.}
 {141}{}{Vždyť jsou to jen bezdomovci! Ať si klidně chcípnou. Ty se raději starej o svůj vlastní krk.}
@@ -74,7 +74,7 @@
 {204}{}{Co ty dělat?}
 {205}{}{No, myslím, že nemá cenu, abych se vracel ke svému dřívějšímu životu. Místní komunita nemá žádnou lékařskou pomoc, takže si myslím, že jim prostě pomůžu. Ještě jednou děkuji za mé vysvobození.}
 {206}{}{Samozřejmě. Nashledanou.}
-{207}{}{Nashle!}
+{207}{}{Čau!}
 {210}{}{Ještě si potřebuji zabalit nějaké věci. Uvidíme se venku.}
 {220}{}{Ahoj. Rád tě zase vidím! Všichni tady si moc váží toho, co jsi pro ně udělal. Já osobně jsem rád, že jsem se odtamtud konečně dostal. Pracovat pro Dariona byla jedna velká noční můra.}
 {221}{}{Rádo se stalo. Co kdybys mi o sobě řekl víc?}
@@ -82,6 +82,6 @@
 {230}{}{Dobře. Tady je můj příběh: Pocházím z New California Republic. Velmi brzy jsem si uvědomil, že mám nadání na všechno, co se týká lékařské praxe. Takže jsem se napřed učil pod dohledem doktorů v NCR a až jsem se naučil všechno, co jsem se naučit mohl, rozhodl jsem se, že se ještě více zdokonalím a tak jsem se vydal do Vault City. Měl jsem to štěstí se setkat s doktorem Troyem, který ošetřoval nemocného pacienta mimo Vault. Abych to zkrátil. Souhlasil s tím, abych mohl dokončit svůj trénink ve Vault City. Když jsem poté výcvik dokončil a chystal se, že si na chvíli odpočinu a vstřebám získané zkušenosti, zajal mě Darion a zbytek už znáš.}
 {231}{}{To je hrozné. Doufám, že se ti teď bude už jen dařit.}
 {240}{}{To také doufám. Myslím, že mé lékařské dovednosti tady budou k užitku.}
-{241}{}{Nashle.}
+{241}{}{Čau.}
 {250}{}{Ještě jednou díky za všechno.}
 {251}{}{Je to dobrý pocit zase pomáhat civilizovaným lidem.}

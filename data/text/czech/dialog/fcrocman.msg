@@ -30,7 +30,7 @@
 {132}{}{Nechceš spolupracovat, jo? Stráže! Zabijte toho vetřelce!}
 {133}{}{Tvý stráže jsou už teď mrtví.}
 {134}{}{Sejdi dolů po schodech a promluv si s AHS-7 na stráži. On už tě nasměruje.}
-{135}{}{Dík. Naskle.}
+{135}{}{Dík. Měj se.}
 {161}{}{. Jen se rozhlížím kolem.}
 {162}{}{. Jen se rozhlížím kolem.}
 {163}{}{. Jen se rozhlížím kolem.}

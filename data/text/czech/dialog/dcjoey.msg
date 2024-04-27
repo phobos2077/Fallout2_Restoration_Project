@@ -102,7 +102,7 @@
 {249}{}{Jestli nemáš peníze, tak přijď, až si to budeš moct dovolit. Ne abych tě viděl, že kupuješ od někoho jinýho, nebo ti nakopu tu tvoji zasranou prdel. Já jedinej mám čistý neříznutý svinstvo, dovezený přímo z New Rena.}
 {250}{}{Počkej, koupím ho.}
 {251}{}{Můžu se ještě na něco zeptat?}
-{252}{}{Nashle.}
+{252}{}{Čau.}
 {253}{}{Dobře, snížím cenu na $350, ale to je maximum! To je moje konečná nabídka. Platíš velký prachy za dobrej fet. Nekupuj od Tubbyho nebo od jinejch jemu podobnejch zoufalců. Ti maj fet ředěnej. Já jsem jedinej na míle daleko, kterej může nabídnout ten nejlepší materiál.}
 {254}{}{Zapomeň na to. Můžu se ještě na něco zeptat?}
 {255}{}{Dobře, koupím ho.}

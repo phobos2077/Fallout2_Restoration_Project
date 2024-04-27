@@ -12,7 +12,7 @@
 {222}{}{Chjo.}
 {230}{}{To jméno mi nic neříká, ale lidi přichází a odchází. Já je nehlídám. Zkus to u Becky. Tam se ukážou skoro všichni. Třeba tam někdo něco ví.}
 {231}{}{Nemáš nějakou práci?}
-{232}{}{Dík. Naskle.}
+{232}{}{Dík. Měj se.}
 {240}{}{Jestli tu nemáš co na práci, tak radši odejdi. Není to tady moc bezpečný.}
 {241}{}{Aha, dobře.}
 {242}{}{Nemáš nějakou práci?}
@@ -70,7 +70,7 @@
 {402}{}{Na.}
 {410}{}{Skvělý. V to jsem doufala. Slyšela jsem, že si na něj v poslední době stěžoval. Tady jsou prachy.}
 {411}{}{Předpokládám, že máš ještě něco.}
-{412}{}{Dík. Naskle.}
+{412}{}{Dík. Měj se.}
 {420}{}{Mám pro tebe ještě jednu práci. Nejsem si jistá, jak to uděláš, ale když už se ti podařilo dostat dovnitř, tak ti asi věří.}
 {421}{}{Bez plížení to nešlo.}
 {422}{}{Co to je?}

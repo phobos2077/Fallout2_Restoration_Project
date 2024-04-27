@@ -233,7 +233,7 @@
 {775}{slk46}{Geckoni. Ty malé potvůrky nekousat hodně. Ale ti zlatí... oni překousnouti ti nohu jako stará stéblo trávy.}
 {776}{slk47}{Obchodník Vic měl tady býti. On říkati, že věděla o otrokářách. My ukázati, neviděti ho, tak býti pořádně naštvaná.}
 {777}{}{Vic je se mnou, ale myslím, že toho moc o otrocích neví. Tedy až na to, že byl v Denu jedním z nich. Pověz mi o něčem jiném.}
-{778}{}{Nashle.}
+{778}{}{Čau.}
 {779}{slk48a}{Otrokáři unésti ségra naši. Mysleti, že Vic míti informace. My ho neviděti, pořádně se nasrati a píti jako ryba žíznivá. Duchové Hněv a Chaos si s námi zahráti a teď my muset zaplatiti za škody.}
 {780}{slk48b}{My zkoušeti zjistiti cestu, kterou hledati otrokáře, co unést naša ségra. Snad jih.}
 {781}{slk48c}{Chtíti jít hledati ségra. Mysleti, že býti někde na jih, ale nemíti jistota. Chtíti společnost?}

@@ -12,7 +12,7 @@
 {128}{}{Pověz mi něco o tomhle místě.}
 {129}{}{Nic. Nashle.}
 {130}{}{Podívejte, co nám sem pustina donesla! Promiň kámo, ale nemůžu ti pomoct.}
-{131}{}{Naskle!}
+{131}{}{Razim!}
 {132}{}{Jsem Chad.}
 {133}{}{Podívej, mám moc práce. Běž prosím otravovat někoho jiného.}
 {134}{}{Jsem správce karavan tohohle města. Starám se o výměnu na druhém konci obchodních cest. Posledních pár dní jsem se zaměřoval hlavně na Gecko.}
@@ -21,10 +21,10 @@
 {137}{}{To zní skvěle.}
 {138}{}{To zní nudně.}
 {139}{}{Mám další otázky.}
-{140}{}{Dík. Naskle.}
+{140}{}{Dík. Měj se.}
 {141}{}{O Broken Hills? Dobrá... přišel jsem sem před několika lety. Dostal jsem práci u vetešníka Billa a vypracoval se až tam, kde jsem teď. Zodpovídám se sice Marcusovi a Billovi, ale jsem zodpovědný za chod města.}
 {142}{}{Mám další otázky.}
-{143}{}{Nashle.}
+{143}{}{Čau.}
 {144}{}{Například?}
 {145}{}{Má podezření, že si pro sebe uléváš peníze, které jsou určené pro Broken Hills.}
 {146}{}{Vlastně na nic. Sbohem.}
@@ -32,12 +32,12 @@
 {150}{}{Jdu zjistit, jak to doopravdy je. Sbohem.}
 {156}{}{Promluv si s Billem. On ti pomůže.}
 {157}{}{Mám další otázky.}
-{158}{}{Dík. Naskle.}
+{158}{}{Dík. Měj se.}
 {159}{}{Jo, taky že je. Asi by tě to ani nenapadlo, ale docela cestuju po světě... a řekl bych, že přispívám tomuhle městu. Je to dobrej život.}
 {160}{}{To zní skvěle. Taková práce by se mi líbila.}
 {161}{}{No, ve skutečnosti to zní jako pěkná nuda.}
 {162}{}{Mám další otázky.}
-{163}{}{Nashle.}
+{163}{}{Čau.}
 {164}{}{Určitě je to podstatně víc vzrušující než to, co děláš se svým životem ty, kokote.}
 {165}{}{No jasně, jak myslíš. Mám další otázky.}
 {166}{}{Hahahaha! Jasně. Zatím, pako.}

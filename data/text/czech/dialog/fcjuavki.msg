@@ -15,7 +15,7 @@
 {114}{}{Ahoj!}
 {115}{}{Opravdu to pomohlo!}
 {116}{}{On: Pokud nechceš přijmout naši pomoc... Ona: ...pak ti nemůžeme pomoci. Sbohem.}
-{117}{}{Nashle!}
+{117}{}{Čau!}
 {118}{}{On: Vidíš? Vědomosti Hubu opět předvedly svoji cenu!}
 {119}{}{Mám nějaké otázky.}
 {120}{}{Diky! Nashle!}
@@ -56,8 +56,8 @@
 {155}{}{Jasně. No, už musím běžet.}
 {156}{}{Ona: Ty se opovažuješ nazývat Huba (Ať žije jeho vize.) magorem? Tady? V pevnosti oddané jeho učení? On: Vypadni odsud. Jestli s někým odsud po cestě promluvíš, nebudeme mít slitování. Nevěřící. Oba: O dalšího nevěřícího méně.}
 {157}{}{V tom případě udělám první krok já. Vždycky jsem totiž nenáviděl vaše filmy. Uvidíme, jak umíte zahrát mrtvé scény.}
-{158}{}{Vaše filmy jsou pěknej brak. Nashle.}
-{159}{}{Nashle.}
+{158}{}{Vaše filmy jsou pěknej brak. Sbohem.}
+{159}{}{Čau.}
 {160}{}{Ona: Neurodyny jsou podstatou duší zničených ve Velké Válce, které znečišťují tvou duševní podstatu a snaží se tě svést z cesty. On: Jestli chceš vědět více o naší výuce, budeš muset navštívit náš kostel.}
 {161}{}{Ano, to zní úžasně.}
 {162}{}{Slyšel jsem, že je tohle jen sci-fi, ale nevěděl jsem jak moc. Hub musel být opravdu magor.}
@@ -81,7 +81,7 @@
 {180}{}{Něco zlého se brzy stane VÁM.}
 {181}{}{Ne. Myslím, že to risknu. Zatím.}
 {182}{}{On: Udělali jsme pro tebe vše, co jsme mohli. Ona: Hodně štěstí na cestách.}
-{183}{}{Nashle!}
+{183}{}{Čau!}
 {184}{}{Ona: Dave? Ten počítačový geek? On: Haha! Taková nicka! Vikki je moje, jen moje... v žádném případě se... promiň, čelím negativní energii. Mám nejspíš znečištěné neurodyny. Ona: (Šeptá ti.) Myslím, že je Dave roztomilý, ale nic s ním nemůžu mít, když je Juan poblíž. On: Uf. Neurodyny už jsou zase čisté.}
 {185}{}{Dobře, mám další otázky.}
 {186}{}{To už bude všechno. Nashle.}

@@ -7,7 +7,7 @@
 {300}{}{Ahoj, jak ti mohu pomoci?}
 {301}{}{Co mi můžeš říct o vašem řádu?}
 {302}{}{Pojďme obchodovat.}
-{303}{}{Nashle.}
+{303}{}{Čau.}
 {400}{}{Naším svatým posláním je sbírat a chránit posvátné relikvie dávno zapomenutých časů. Každý je u nás vítán, pokud nic nezničí.}
 {401}{}{Kdo je váš představený?}
 {402}{}{Jaké relikvie?}

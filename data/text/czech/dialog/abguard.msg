@@ -19,14 +19,14 @@
 {402}{}{Díky, nashle.}
 {500}{}{Pokud je někdo natolik chudý nebo chamtivý, že musí kopat hroby, je to jeho věc. Mrtvým ty pohřbené věci jsou už stejně k ničemu. Není to můj problém... nebudu z toho mít těžké spaní.}
 {501}{}{Chci se ještě na něco zeptat.}
-{502}{}{Nashle.}
+{502}{}{Čau.}
 {600}{}{Ano a navíc je bratr Thomas nezvěstný. Byl to chytrý muž, ale trochu nerozumný. Nevím, co tam dole je, ale myslím, že to není jen pár krys a radškorpionů.}
 {601}{}{Ano a navíc je bratr Thomas nezvěstný. Nevím, co tam dole je, ale myslím, že to není jen pár krys a radškorpionů. Co takhle se tam jít podívat, tvrďáku?}
 {602}{}{Tak proč se tam nejdeš podívat?}
 {603}{}{Ty jsi tady tvrďák nebo ne? Co kdybys pohnul tím svým zadkem a šel se tam podívat?}
 {610}{}{Je to trochu trapné, ale strávil jsem v pustině tolik času s karavany, že se pokaždé začnu třást, když vstoupím do podzemí. Zdi se začnou přibližovat a špatně se mi dýchá... nechceš tam jít místo mě a zjistit, co se stalo bratru Thomasovi?}
 {611}{}{Uvidím, co se dá dělat. Mezitím se tě chci na něco zeptat.}
-{612}{}{Nashle.}
+{612}{}{Čau.}
 {613}{}{Já jsem tady drsňák a přesně proto ti teď nakopu prdel.}
 {700}{}{Chceš vědět ještě něco?}
 {800}{}{Rád tě opět vidím.}

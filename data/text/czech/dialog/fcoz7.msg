@@ -99,7 +99,7 @@
 {198}{}{Vlastně tě teď zabiju taky.}
 {199}{}{Teď, když je raketoplán naplněn palivem, čekáme pouze na pokyn od Velikého a Strašlivého AHS-9 a poté můžeme odstartovat.}
 {200}{}{To určitě můžeme. Mám nějaké otázky.}
-{201}{}{Dík. Naskle.}
+{201}{}{Dík. Měj se.}
 {202}{}{O žádném nevím, kromě vzácného paliva, které potřebujeme k odletu našich hvězdných bratrů na planetu Quetzel. Možná mají nějaké Shi?}
 {203}{}{Eh. Mám další otázky.}
 {204}{}{Jo, možná.}

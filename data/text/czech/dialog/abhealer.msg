@@ -5,7 +5,7 @@
 {301}{}{Mám zranění, můžeš mě vyléčit?}
 {302}{}{[Začít slintat]}
 {303}{}{Co děláš tady v Opatství?}
-{304}{}{Nashle.}
+{304}{}{Čau.}
 {400}{}{Hotovo!}
 {401}{}{Díky.}
 {402}{}{Přestaň s tím!}

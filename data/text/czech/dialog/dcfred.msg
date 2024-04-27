@@ -45,7 +45,7 @@
 {297}{}{Jdu vybrat peníze, co někomu dlužíš.}
 {298}{}{Zapomeň na to.}
 {299}{}{Uk!}
-{300}{}{Nashle.}
+{300}{}{Čau.}
 {310}{}{HEJ! Tady jsi! Všude jsem tě hledal! Mrkni na ty hadry!}
 {311}{}{Ještě jednou díky.}
 {312}{}{Vypadá to moc pěkně.}
@@ -85,7 +85,7 @@
 {393}{}{Ani ne, ale vezmu si to.}
 {394}{}{Vrrrr.}
 {400}{}{Cože? Tak dobře, když na tom trváš. Opravdu ti moc děkuju. Dávej na sebe pozor.}
-{401}{}{Nashle.}
+{401}{}{Čau.}
 {410}{}{Co? Jsi na nějakých drogách? Nevypadáš na feťáka. Táhni ode mě, magore.}
 {411}{}{Vypadni!}
 {412}{}{Eh.}

@@ -65,7 +65,7 @@
 {302}{}{Mám další otázku.}
 {303}{}{Aha, dobře. Nashle.}
 {310}{}{No vida, a ani to moc nebolelo. Jsem na tebe fakt pyšnej... vlastně ti to tetování docela sekne. Pak na mě zařvi, až budeš chtít vyrazit na hon otroků.}
-{311}{}{Dík. Naskle.}
+{311}{}{Dík. Měj se.}
 {312}{}{Jsem připravený právě teď.}
 {313}{}{Já ZABÍJET TEĎ!}
 {314}{}{Dobře.}

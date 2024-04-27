@@ -39,7 +39,7 @@
 {273}{}{Dobře.}
 {280}{}{To je fuk, otrokáři. Tak jdi dovnitř. Myslí si snad, že se to samo zvedne a odejde po svejch? Kdo by ty sračky chtěl?}
 {281}{}{Seru na to. Běž dovnitř. Myslí si snad, že se to samo zvedne a odejde po svejch? Kdo by ty sračky chtěl?}
-{282}{}{Nashle.}
+{282}{}{Čau.}
 {290}{}{Tak jo kurva. Je mi to jedno. Určitě dobře víš, co s těma sračkama dělat.}
 {291}{}{Grrrr.}
 {292}{}{Díky.}
@@ -84,7 +84,7 @@
 {393}{}{Rozumím, díky. Dobře se bav.}
 {394}{}{Zatím.}
 {400}{}{Na to vem jed! Zlijeme se do němoty!}
-{401}{}{Nashle.}
+{401}{}{Čau.}
 {410}{}{Co ti je kurva do toho. Vypadni.}
 {411}{}{Ale jo, ujde to.}
 {412}{}{Snažíš se mě nasrat?}

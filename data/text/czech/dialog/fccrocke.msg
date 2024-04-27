@@ -39,7 +39,7 @@
 {138}{}{Pak se vrátím pro tu zbroj.}
 {139}{}{Když ji nemáš, tak na ní nemůžu pracovat. Vrať se, až ji budeš mít.}
 {140}{}{Mám další otázky.}
-{141}{}{Nashle.}
+{141}{}{Čau.}
 {142}{}{::krčí kameny:: Chceš tu zbroj nebo ne? Bude to $10 000 a ani o dolar méně.}
 {143}{}{Ještě se vrátím.}
 {144}{}{Fajn. Tady máš.}
@@ -62,7 +62,7 @@
 {161}{}{Chci se tě na něco zeptat.}
 {162}{}{Jsem tu pro tu zbroj.}
 {163}{}{Příliš pozdě.}
-{164}{}{Nashle.}
+{164}{}{Čau.}
 {165}{}{Ještě to není hotové. Musíš mi dát čas!}
 {166}{}{Fajn. Mám nějaké otázky.}
 {167}{}{Fajn. Ještě se vrátím.}

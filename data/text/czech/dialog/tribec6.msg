@@ -2,7 +2,7 @@
 {101}{}{Jo, zajímalo by mě, koho tady hlídáš.}
 {102}{}{Já? Ne ne, já nic nepotřebuju. Nashle.}
 {103}{}{Koho ty hlídat?}
-{104}{}{Nashle!}
+{104}{}{Čau!}
 {110}{}{Já hlídati svatého náčelníka kmene. On kráčeti s duchy. Hlídati ho velká čest. Nepouštěti dovnitř nechtěné jako ty. Teď odejdi.}
 {111}{}{[KONEC]}
 {120}{}{Já říkati odejít, ale ty neposlouchati. Já vypustiti hrozný řev, když lidé neposlouchati. Navrhovati, aby ty rychle odejít. Teď.}

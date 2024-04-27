@@ -159,9 +159,9 @@
 {831}{}{Já najít.}
 {832}{}{Já pořád hledat.}
 {840}{}{(Krom rychle prohlédne zbraně, poté se usměje a poplácá tě po zádech.) Dobrá práce. Děkuju ti. Teď běž a do ničeho se nemíchej.}
-{841}{}{Nashle!}
+{841}{}{Čau!}
 {850}{}{(Krom ti pročechrá vlasy.) Á, to je můj zvláštní pomocník. Teď běž a do ničeho se nemíchej.}
-{851}{}{Nashle!}
+{851}{}{Čau!}
 {860}{}{Pokoušíš své štěstí, že jo?}
 {861}{}{Ne, jdu ti nakopat prdel.}
 {862}{}{Ne, chci se ti jen omluvit za tu urážku.}

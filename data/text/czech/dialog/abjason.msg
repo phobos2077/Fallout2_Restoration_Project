@@ -80,7 +80,7 @@
 {370}{}{(Po příchodu do Gecka představuješ Woozovi mladého mnicha. Ihned si padli do noty a začali porovnávat své balíčky karet. Už chceš odejít, když v tom se bratr Jason na chvíli odtrhne od Tragicu, aby si s tebou promluvil.)}
 {371}{}{[Více]}
 {372}{}{Ty krávo, Wooz má Black Dahliu! Už jenom díky tomu ta cesta stála za to. Jasně, ghoulové jsou strašně ohavní, ale když si sundám brýle, tak docela ujdou. Každopádně díky moc, že jsem s tebou mohl jít. Tady, já, eh, tohle jsem si "půjčil" z Memorabilia v Opatství. Je to jedna z mála technických relikvií, která jako zázrakem stále funguje. (Podá ti Mizík.) Měj se.}
-{373}{}{Dík. Naskle.}
+{373}{}{Dík. Měj se.}
 {374}{}{Hlavně, že už nemusím dál poslouchat ty tvoje kecy. Nashle.}
 {380}{}{Ty krávo, Wooz má Black Dahliu! Už jenom díky tomu ta cesta stála za to. Jasně, ghoulové jsou strašně ohavní, ale když si sundám brýle, tak docela ujdou. Každopádně díky moc, že jsem s tebou mohl jít. Tady, (Šátrá v kapse a poté se zamračí.) Co to sakra? Přísahám, že jsem ho měl. Eh, promiň, ale vypadá to, že jsem ztratil tvoji odměnu, takže se budeš smířit s prostým díky. Měj se.}
 {381}{}{Och, eh, s tím si nelam hlavu. Když můžu, pomůžu. Nashle.}

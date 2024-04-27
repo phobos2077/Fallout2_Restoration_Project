@@ -66,14 +66,14 @@
 {304}{}{Proč jsou tvoje drinky tak levné?}
 {305}{}{Dyer?}
 {306}{}{Můžu se na něco zeptat?}
-{307}{}{Nashle.}
+{307}{}{Čau.}
 {308}{}{Whikí.}
 {309}{}{Urka.}
 {320}{}{Och, to je rodinné jméno. Jméno Dyer je v barovém byznysu už léta... samozřejmě ještě z předválečné doby.}
 {321}{}{Jak jsem řekla, je to mé rodné příjmení. Kdysi byly Dyerovy hospody, salóny a podobně, po celém světě.}
 {322}{}{Dám si drink.}
 {323}{}{Můžu se ještě na něco zeptat?}
-{324}{}{Nashle.}
+{324}{}{Čau.}
 {330}{}{No, jelikož jste tak dobrý zákazník, svěřím se vám s malým tajemstvím. Je to opravdu jednoduché. Mám destilátor a přítel ze sousedního města mě naučil, jak pálit whiskey. Takže, dáte si ještě jednu?}
 {331}{}{Nezlobte se, ale to je obchodní tajemství a navíc vás až tak dobře neznám. Nechci, aby se to Frankie dozvěděl, už tak dělá dost problémů. Chcete ještě jednu? Je opravdu vynikající.}
 {332}{}{Jasně, dám si ještě jednu.}
@@ -92,7 +92,7 @@
 {355}{}{V čem je háček?}
 {356}{}{Povídej dál.}
 {357}{}{Můžu se tě na něco zeptat?}
-{358}{}{Nashle.}
+{358}{}{Čau.}
 {370}{}{Háček? No, kdo nezná Freda, nepochopí. Už pěkně dlouho mi dluží peníze. Odepsala bych to jako ztrátu, ale pokud to z něho dostanete, budu překvapená... a vděčná. Vím určitě, že je někde tady ve městě.}
 {371}{}{Ta kniha se jmenuje "Levandule". Derek by se měl vyskytovat někde u Mámy ve východní části.}
 {372}{}{Uvidím, co se dá dělat.}

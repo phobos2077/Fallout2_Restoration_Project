@@ -12,8 +12,8 @@
 {111}{}{Boj zblízka}
 {112}{}{Nosnost}
 {113}{}{Postřeh}
-{114}{}{Rychlost uzdravování}
-{115}{}{Šance na kritický zásah}
+{114}{}{Uzdravování}
+{115}{}{Kritičák (šance)}
 {116}{}{Lepší kritický zásah}
 {117}{}{Práh odolnosti}
 {118}{}{Práh odolnosti vůči laseru}

@@ -9,7 +9,7 @@
 {108}{}{Kdo jsi?}
 {109}{}{Mám přítele, kterému chybí slezina. Můžete mu pomoct?}
 {110}{}{Co mi můžeš říct o tomto místě?}
-{111}{}{Nashle.}
+{111}{}{Čau.}
 {112}{}{Ukažte, podívám se na to. Hmm... ano. Budete mi muset zaplatit, samozřejmě.}
 {113}{}{Kolik za to?}
 {114}{}{Zapomeň na to.}
@@ -75,7 +75,7 @@
 {189}{}{[Více]}
 {190}{}{Stavěli jsme z materiálu, který jsme měli po ruce a díky vědcům a technologiím, které by nám mohl závidět celý svět, budujeme novou civilizaci, ale ne takovou, jakou před námi vytvořil ten šílený Vůdce.}
 {191}{}{Chápu. Mám další otázky.}
-{192}{}{Dík. Naskle.}
+{192}{}{Dík. Měj se.}
 {193}{}{Samozřejmě že ano. A poněvadž znáte Doc Hollidaye... udělám to čistě z přátelství. Řekněte svému kamarádovi bez sleziny, ať sem přijde a já mu ji dám zpět.}
 {194}{}{Díky! Mám další otázky.}
 {195}{}{Díky!}

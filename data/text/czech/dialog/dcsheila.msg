@@ -51,14 +51,14 @@
 {201}{}{Za tohle mi platí málo.}
 {202}{}{Tak tohle teda za ty prachy vůbec nestálo.}
 {203}{}{Budu ti chybět.}
-{204}{}{Nashle.}
+{204}{}{Čau.}
 {205}{}{Ztratil ses?}
 {206}{}{Zastav se zase někdy.}
 {207}{}{Dobře. Nashle.}
 {208}{}{Jo, dobře.}
 {209}{}{Jehee!}
 {210}{}{Zatím.}
-{211}{}{Nashle.}
+{211}{}{Čau.}
 {212}{}{Pápá.}
 {213}{}{Stojí to $}
 {214}{}{ za číslo. Nejdřív zaplať.}

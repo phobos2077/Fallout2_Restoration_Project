@@ -11,6 +11,6 @@
 {125}{}{S těmito dveřmi ani nehneš.}
 {126}{}{ s těmito dveřmi ani nehne.}
 {130}{}{Nepodařilo se ti odemknout tyto dveře.}
-{131}{}{ se nepodařilo odemknout tyto dveře.}
+{131}{}{ selhal při pokusu odemknout dveře.}
 {135}{}{Podařilo se ti otevřít tyto dveře.}
-{136}{}{ se nepodařilo otevřít tyto dveře.}
+{136}{}{ otevřel tyto dveře.}

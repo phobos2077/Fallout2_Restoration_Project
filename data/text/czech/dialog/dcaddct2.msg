@@ -37,7 +37,7 @@
 {310}{}{Hele, fakt díky, že jsi to pro nás zařídil. Budeme tvrdě makat.}
 {311}{}{To byste měli. A taky dohlédněte na to, aby se děti nedostaly do problémů.}
 {312}{}{Budeme se snažit.}
-{313}{}{Nashle.}
+{313}{}{Čau.}
 {350}{}{Kamkoliv, jen ne sem. Den je velké město, takže si určitě dokážete najít i jiné místo. No tak, to vážně chcete, aby ty děti žily na ulici?}
 {351}{}{Hmmm, máš pravdu, to fakt pro děcka není dobrý. Tak dobře, sbalíme si věci a odejdeme. Tenhle barák má stejně děravou střechu.}
 {352}{}{Díky. Bude to pro ně hodně znamenat. Mějte se.}

@@ -24,7 +24,7 @@
 {130}{}{Děkuji ti, mé dítě, ale já jsem spokojený. Je však možné, že ostatní ne. Poptej se po vesnici.}
 {140}{}{Já hledat GECK.}
 {141}{}{Já hledat chybějící žena. Ona sestra kámoš Sulik.}
-{142}{}{Nashle.}
+{142}{}{Čau.}
 {150}{}{Já ptát víc.}
 {160}{}{On přímo tady. Sulik, náčerník chtít pokec.}
 {161}{}{On dobrý. Čekat na já.}

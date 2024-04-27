@@ -11,7 +11,7 @@
 {110}{}{Máš nějaké novinky?}
 {111}{}{Chci ti říct něco důležitého.}
 {112}{}{Nechtěl bys se mnou cestovat?}
-{113}{}{Nashle.}
+{113}{}{Čau.}
 {114}{mcs3}{Jo, jsem ošklivý mutant. A taky to tady řídím. Máš s tím snad problém?}
 {115}{}{Uch!}
 {116}{}{Ne-e.}
@@ -25,7 +25,7 @@
 {124}{mcs7}{Jsem Marcus. Pomohl jsem to tady postavit. A teď tu dělám šerifa.}
 {125}{}{Ty jsi to tady pomohl postavit? To muselo být hodně dávno...}
 {126}{}{Hovno. Tak dlouho tu přece nemůžeš být nebo jo?}
-{127}{}{Nashle.}
+{127}{}{Čau.}
 {128}{mcs8}{To je dlouhý příběh. Chceš slyšet celou nebo zkrácenou verzi?}
 {129}{}{Zajímala by mě ta krátká.}
 {130}{}{Co už, stejně nemám co na práci. Poslechnu si to celé.}
@@ -60,7 +60,7 @@
 {159}{}{A co nejdřív nějaké otázky, než si to rozmyslím?}
 {160}{}{Popřemýšlím o tom. Nashle.}
 {161}{mcs17}{To je pro tebe málo? Tak vypadni.}
-{162}{}{Nashle.}
+{162}{}{Čau.}
 {163}{mcs18}{Máme tady menší problém s dolem. Jestli nám s tím chceš pomoct, zajdi za důlmistrem Zaiusem.}
 {164}{}{Kde ho najdu?}
 {165}{}{Ještě něco?}
@@ -69,17 +69,17 @@
 {168}{mcs19}{Většinou poblíž dolu. Občas taky bývá v salonu.}
 {169}{}{Nemáš ještě něco?}
 {170}{}{Mám další otázky.}
-{171}{}{Nashle.}
+{171}{}{Čau.}
 {172}{mcs20}{Někdo osvobodil dva blázny z vězení v bance. Najdi je, řekni mi kde jsou a já je tam strčím zpátky.}
 {173}{}{Nemáš ještě něco?}
 {174}{}{Mám další otázky.}
-{175}{}{Nashle.}
+{175}{}{Čau.}
 {176}{mcs21}{Co vlastně chceš? Dobrá. Pár lidí zmizelo. Netuším, co se stalo. Najdi je a dostaneš $500.}
 {177}{}{Udělám to zadarmo.}
 {178}{}{$500? To zní dobře.}
 {179}{}{Nemám čas.}
 {180}{}{Mám další otázky.}
-{181}{}{Nashle.}
+{181}{}{Čau.}
 {182}{mcs22}{Výborně. Dej mi vědět, až něco najdeš, ano?}
 {183}{}{Jistě. Mám další otázky.}
 {184}{}{Dám. Nashle.}
@@ -113,17 +113,17 @@
 {212}{}{Ne, teď ještě ne.}
 {213}{mcs31}{No, zrovna teď je tu moc práce. Až se to tu trochu uklidní, tak možná.}
 {214}{}{Jasně. Mám další otázky.}
-{215}{}{Nashle.}
+{215}{}{Čau.}
 {216}{mcs32}{To si piš. Nejlepší přítel, kterého jsem kdy měl.}
 {217}{}{No jasně, nechal bys ho namočit stejně jako všechny ostatní.}
-{218}{}{Nashle.}
+{218}{}{Čau.}
 {219}{mcs33}{To si piš, že jo. Byl by z něj opravdu skvělý mutant.}
 {220}{}{Myslím, že by se mu nelíbilo, kdyby tě tohle slyšel říkat.}
-{221}{}{Nashle.}
+{221}{}{Čau.}
 {222}{mcs34}{(Zasměje se) O tomhle jsme se spolu vždycky přeli. (Povzdechne si) Ten paličák mi fakt chybí.}
 {223}{}{A co Vůdcova nenávist k lidem?}
 {224}{}{Stejně si myslím, že je osud někdy pěkná svině.}
-{225}{}{Nashle.}
+{225}{}{Čau.}
 {226}{mcs35}{Mluvíš o starých časech. Svět se změnil. Chceš slyšet dávnou historii?}
 {227}{}{Určitě.}
 {228}{}{Teď ne, ale chci se zeptat na něco jiného.}

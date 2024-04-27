@@ -16,7 +16,7 @@
 {115}{}{Vyvolený chtít mluvit.}
 {116}{}{Dobře, já jít.}
 {117}{}{Chci si s tebou promluvit.}
-{118}{}{Nashle.}
+{118}{}{Čau.}
 {119}{}{Jak už jsem řekla, jmenuju se Dalia. Podívej se, nechci být nezdvořilá, ale nechci teď s nikým mluvit. Ano?}
 {120}{}{Dobře, nashle.}
 {121}{}{Jen ještě něco.}

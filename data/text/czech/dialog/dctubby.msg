@@ -6,7 +6,7 @@
 {153}{}{Bude lepší, když půjdete obchodovat někam jinam.}
 {154}{}{Jsi obchodník, pojďme tedy obchodovat.}
 {155}{}{Můžu se na něco zeptat?}
-{156}{}{Nashle.}
+{156}{}{Čau.}
 {157}{}{Jsem rád, že vás zase vidím. Co pro vás můžu udělat?}
 {158}{}{Pojďme obchodovat.}
 {159}{}{Můžu se na něco zeptat?}
@@ -20,7 +20,7 @@
 {167}{}{Potřebuju nějaké informace.}
 {168}{}{Sbohem.}
 {169}{}{Bude lepší, když odejdete.}
-{170}{}{Nashle.}
+{170}{}{Čau.}
 {171}{}{Co potřebujete vědět?}
 {172}{}{Kdo tohle město řídí?}
 {173}{}{Proč tu všichni prodávají drogy?}

@@ -22,7 +22,7 @@
 {121}{}{Zapomeň na to. Uvidíme se později.}
 {122}{}{Já? Jsem }
 {123}{}{Tobě je líto Chada? Ha! Dobře jsi na něm vydělal, co? Novým šéfem je }
-{124}{}{Nashle.}
+{124}{}{Čau.}
 {125}{}{V tom případě si promluv s Billem, obchodníkem z Broken Hills. On ti pomůže.}
 {126}{}{Díky.}
 {127}{}{Dobře. Tak zatím.}

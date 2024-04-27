@@ -28,7 +28,7 @@
 {290}{}{Zdravím. Jsem momentálně trochu zaneprázdněna připravou nového programu exkurzí pro nadcházející sezónu. Můžete přijít později, prosím?}
 {291}{}{Můžu, ale docela spěchám. Víte, *opravdu* potřebuju to heslo ke dveřím. Dáte mi ho prosím?}
 {300}{}{Ještě jednou díky za vaši pomoc a buďte prosím s tím heslem opatrný. Pamatujte, že je to naše malé tajemství. Děkujeme, že jste navštívili komplex EPA a doufáme, že se vám tu líbilo.}
-{301}{}{Dík. Naskle.}
+{301}{}{Dík. Měj se.}
 {302}{}{Někdy nás zase navštivte.}
 {303}{}{Nezapomeňte navštívit stánek se suvenýry komplexu EPA.}
 {310}{}{Myslíte, že dokážete opravit osvětlení? Je pro mě nepřípustné, abych prováděla exkurze v tak slabě osvětleném komplexu. Když se vám podaří to tady víc osvětlit, dám vám to heslo. Poprosím vás, abyste si důkladně umyli ruce po prohlídce zvířecí zoo.}

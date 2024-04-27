@@ -11,7 +11,7 @@
 {303}{}{Pověz mi něco o vašem představeném.}
 {304}{}{Nemáte nějaké informace o GECKu?}
 {305}{}{Nevíš, kde se nachází Vault 13?}
-{306}{}{Nashle.}
+{306}{}{Čau.}
 {307}{}{Nutně potřebuju jisté informace.}
 {308}{}{Jako třeba?}
 {400}{}{Ano, máme. Podle mě až příliš. Je to dost otrava zálohovat takovou spoustu souborů každý den. Tolik informací k zachování, ale někdo to samozřejmě udělat musí.}

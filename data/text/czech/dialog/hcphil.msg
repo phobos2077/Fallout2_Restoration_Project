@@ -59,7 +59,7 @@
 {180}{}{Nějaké novinky?}
 {181}{}{Žádný. Zapomeň na to.}
 {182}{}{Na mol, jo? Škoda. Můžeš tu zůstat, ale neotravuj hosty. Mám ještě práci. Zatím.}
-{183}{}{Nashle!}
+{183}{}{Čau!}
 {184}{}{Zdravím! Vítej zpátky. Co to bude?}
 {185}{}{Vítej zpátky, kámo. Co to bude?}
 {186}{}{Zase ty? Co to bude?}
@@ -69,7 +69,7 @@
 {194}{}{Dobře, tak jo! Co to bude?}
 {198}{}{Co se děje ve městě? Inu...}
 {199}{}{Díky. Mám další otázky. }
-{200}{}{Dík. Naskle.}
+{200}{}{Dík. Měj se.}
 {201}{}{Práce, práce... asi tohle...}
 {202}{}{[Pokračovat]}
 {203}{}{Někdo osvobodil ty blázny z vězení!}

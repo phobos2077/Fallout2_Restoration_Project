@@ -21,7 +21,7 @@
 {120}{}{Pojedu s karavanou do NCR.}
 {121}{}{Chci do Vault City.}
 {122}{}{Myslím, že ani jedno. Chci něco jiného.}
-{123}{}{Nashle!}
+{123}{}{Čau!}
 {124}{}{Jo? Co chceš koupit?}
 {125}{}{Zajímá tě Chad? A co chceš vědět?}
 {126}{}{Neulévá si pro sebe nějaké peníze?}
@@ -34,7 +34,7 @@
 {133}{}{Nemáš zájem? Dobrá. Přijď, až pro tebe budu moct něco udělat.}
 {134}{}{Tak jo!}
 {135}{}{No, vlastně mě zajímá něco jiného.}
-{136}{}{Nashle.}
+{136}{}{Čau.}
 {137}{}{Dobrá, vybral sis Gecko. Přijď první den v měsíci a můžeš se vydat na cestu. Chceš ještě něco?}
 {138}{}{Ano.}
 {139}{}{Ne.}
@@ -66,7 +66,7 @@
 {165}{}{Díky.}
 {166}{}{Teď nejsem ve službě. Přijď, až budu v obchodě.}
 {167}{}{Že si o to říkal? Ty hovado, kvůli penězům se nezabíjí. Vypadni z mýho obchodu.}
-{168}{}{Nashle.}
+{168}{}{Čau.}
 {169}{}{Jestli má nějaké problémy, může si za ně sám. Škoda... byl to opravdu dobrý správce karavan. Chceš ještě něco?}
 {170}{}{Vypadni z mýho obchodu. Nejsi vítán.}
 {171}{}{Můžeme vyrazit do Vault City?}

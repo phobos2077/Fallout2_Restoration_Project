@@ -78,16 +78,16 @@
 {177}{}{Teď zrovna nic, díky. Nashle.}
 {178}{}{Promluv si s kapitánem. Bydlí nahoře v kapitánský kanceláři.}
 {179}{}{Díky. Další otázky...}
-{180}{}{Dík. Naskle.}
+{180}{}{Dík. Měj se.}
 {181}{}{Říká se, že je unesli na západ, přes oceán. Tvojí nejlepší nadějí, jak se tam dostat, je rozběhnout tenhle škopek.}
 {182}{}{Díky. Další otázky...}
-{183}{}{Dík. Naskle.}
+{183}{}{Dík. Měj se.}
 {184}{}{Práce na počítači? Když to nedokážeš získat od Shi nebo od Hubologistů, tak si promluv s Badgerem. Je to machr.}
 {185}{}{Díky. Další otázky...}
-{186}{}{Dík. Naskle.}
+{186}{}{Dík. Měj se.}
 {187}{}{Do prdele. Promluv si s Hubologisty nebo Shi. Když je teď Badger mrtvej, tak mě nic jinýho nenapadá.}
 {188}{}{Díky. Další otázky...}
-{189}{}{Dík. Naskle.}
+{189}{}{Dík. Měj se.}
 {190}{}{Parchante.}
 {191}{}{Budeš potřebovat prášky na bolest.}
 {192}{}{Hovado. Já ti ukážu.}

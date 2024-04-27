@@ -20,15 +20,15 @@
 {119}{}{Do čeho v počítačích děláš?}
 {120}{}{Vsadím se, že ta vaše kapela stála za prd.}
 {121}{}{Byla vůbec dobrá?}
-{122}{}{Dík. Naskle.}
+{122}{}{Dík. Měj se.}
 {123}{}{Dobře.}
-{124}{}{Nashle!}
+{124}{}{Čau!}
 {125}{}{O tom si promluv s Marcem nebo s kapitánem.}
 {126}{}{Kde najdu Marca?}
 {127}{}{Kde najdu toho kapitána?}
 {128}{}{Jsem místní počítačový génius.}
 {129}{}{Do čeho v počítačích děláš?}
-{130}{}{Dík. Naskle.}
+{130}{}{Dík. Měj se.}
 {131}{}{Neotravuj. ::Prdí:: Pracuju na tom, stačí?}
 {132}{}{Dobře, dobře. Dej mi vědět, až to bude.}
 {133}{}{Řekněme, že jsem specialista na obnovu informací.}

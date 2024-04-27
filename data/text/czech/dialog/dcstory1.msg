@@ -57,6 +57,6 @@
 {162}{}{Díky za příběh.}
 {163}{}{No, už je pozdě. Nashle.}
 {164}{}{Bylo mi potěšením. Nashle.}
-{165}{}{Nashle.}
+{165}{}{Čau.}
 {166}{}{Zapomeň na to.}
 {167}{}{Leanne ti řekla příběh o Vůdci.}

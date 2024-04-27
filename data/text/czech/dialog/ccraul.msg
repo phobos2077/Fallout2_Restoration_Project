@@ -6,7 +6,7 @@
 {105}{}{Jo... jasně.}
 {106}{}{Eh, Quincy tebe chtít vidět. Já mít za úkol to ty vyřídit.}
 {107}{}{Doktor chce opravit svého psa. Posílá mě pro chybějící součástku.}
-{108}{}{Fajn. Nashle.}
+{108}{}{Fajn. Čau.}
 {109}{}{Raule, Quincy tě chce vidět.}
 {110}{}{Quincy, jo? No, ale Raul nechce vidět jeho. Raul má už dost těch jeho blbejch keců, víš?}
 {111}{}{Dobře.}

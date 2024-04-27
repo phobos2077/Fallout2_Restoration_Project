@@ -38,7 +38,7 @@
 {270}{}{Zdravím.}
 {271}{}{Kde je Beckyina kniha?}
 {272}{}{Hej, co takhle kousek toho chleba?}
-{273}{}{Nashle.}
+{273}{}{Čau.}
 {280}{}{Ha! Já taky. Už jsem ti říkal, jakej jsem skvělej kuchař? Becky mě ale z nějakýho důvodu nechce zaměstnat. Říká, že jsem prej labilní.}
 {281}{}{Nejspíš má pravdu.}
 {282}{}{Hledám Beckyinu knihu.}
@@ -57,7 +57,7 @@
 {310}{}{Co? Posmíváš se mi! Jdi do hajzlu! Nejsem labilní! Umím vařit! Nemám žádný hlasy v hlavě!}
 {311}{}{Chystám se... do prdele! Kurva! Zatraceně! Přestaň s tím. Buď zticha! Co?... dobře.}
 {312}{}{Hej! Pře... dělat... kurva.}
-{313}{}{Nashle.}
+{313}{}{Čau.}
 {314}{}{No nic.}
 {320}{}{Hej! Vypadni ode mě!}
 {321}{}{Nedotýkej se mě!}

@@ -6,7 +6,7 @@
 {105}{}{Ghoulském domově důchodců?}
 {106}{}{Kdo jsi?}
 {107}{}{Poslyš, neslyšel jsi někdy o GECKu?}
-{108}{}{Nashle.}
+{108}{}{Čau.}
 {109}{}{Další dítě pustiny, co? Poslyš, prcku, chceš slyšet tajemství?}
 {110}{}{Jo!}
 {111}{}{Ne-e.}
@@ -17,9 +17,9 @@
 {115}{}{Co je to za poklad?}
 {116}{}{Jakou laskavost?}
 {117}{}{Chci se ještě na něco zeptat.}
-{118}{}{Nashle!}
+{118}{}{Čau!}
 {119}{}{Hehe. No dobře. V tom případě pro tebe nic nemám, takže vypadni.}
-{120}{}{Nashle.}
+{120}{}{Čau.}
 {121}{}{Nejdřív mě musíš prokázat laskavost, dítě.}
 {122}{}{Dobže!}
 {123}{}{Ne-e!}
@@ -64,7 +64,7 @@
 {162}{}{Sakra. Nashle.}
 {163}{}{"Pěknej hajzl" je pro něj docela trefný přirovnání. Řeknu ti, i když ho radiace změnila na ghoula, jeho smysl pro humor a autoritu se skoro nezměnil. Ale samozřejmě tak trochu pozměnila ostatní. Myslím, že jsem to měl trochu lehčí, když jsem vyrůstal jako ghoul.}
 {164}{}{Aha. Mám další otázky.}
-{165}{}{Dík. Naskle.}
+{165}{}{Dík. Měj se.}
 {166}{}{Tak co, máš pro mě Kočičí Packu?}
 {167}{}{Jo. [Dát Typhonovi Kočičí Packu]}
 {168}{}{Ne-e.}

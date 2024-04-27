@@ -15,18 +15,18 @@
 {114}{}{Kde je ten salón?}
 {115}{}{Kde najdu někoho od karavan?}
 {116}{}{Kde je ten obchod?}
-{117}{}{Dík. Naskle.}
+{117}{}{Dík. Měj se.}
 {118}{}{Jsem jeden z horníků. Chceš něco důležitýho?}
 {119}{}{Ano.}
 {120}{}{Ne.}
-{121}{}{Nashle.}
+{121}{}{Čau.}
 {122}{}{Hlavní osoby v tomhle městě jsou Marcus, on je něco jako starosta a šerif, Zaius, hlavní důlmistr, a Chad, kterej řídí karavany. Barman Phil je šéf ghoulů, aspoň myslím... jestli vůbec maj nějakýho vůdce. Kde jsme to skončili?}
 {123}{}{Kde najdu Marcuse?}
 {124}{}{Kde najdu Zaiuse?}
 {125}{}{Kde najdu Camerona?}
 {126}{}{Kde najdu Chada?}
 {127}{}{Kde najdu Phila?}
-{128}{}{Dík. Naskle.}
+{128}{}{Dík. Měj se.}
 {129}{}{Jestli si myslíš, že nám můžeš pomoct s opravou dolu, tak si promluv se Zaiusem. Většinou je ve svý chýši poblíž dolu. Ale má špatnou náladu, protože nefunguje čistička vzduchu. Ještě něco?}
 {130}{}{Phil je ghoul a patří mu salón. Je něco jako místní ghoulí šéf. Najdeš ho na východ od banky. Ještě něco?}
 {131}{}{Chad řídí chod karavan a najdeš ho na jihozápadě města. Ještě něco?}

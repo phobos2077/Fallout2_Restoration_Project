@@ -6,7 +6,7 @@
 {105}{}{Rrr?}
 {106}{}{Promiňte, ale to mluví ta květina?}
 {107}{}{Nemáš nějaké společného s tím vědcem?}
-{108}{}{Nashle.}
+{108}{}{Čau.}
 {109}{}{Ano, umím mluvit. Dokonce lépe než někteří lidé. Usmála bych se na tebe, ale nemám žádná ústa. (Zasměje se.) Poslyš, můžeš mi prokázat laskavost?}
 {110}{}{Jo.}
 {111}{}{Ne-e.}
@@ -21,7 +21,7 @@
 {120}{}{Tak dobře. Takže, eh... počkám tu na tebe. Stejně nemůžu dělat nic jiného. Naviděnou!}
 {121}{}{Nashle!}
 {122}{}{Jestli náhodou změníš názor, víš, kde mě najdeš. Zapustila jsem tady totiž kořeny. Hahaha! Jen trocha květinového humoru. No, nebudu tě zdržovat. Naviděnou!}
-{123}{}{Nashle.}
+{123}{}{Čau.}
 {124}{}{Hezky řečeno, opravdu hezky! Je úžasné vidět homo sapiens vyžívat plnou kapacitu svého mozku. Můj drahý příteli, nechceš mi prokázat laskavost?}
 {125}{}{Jo.}
 {126}{}{Ne-e!}
@@ -44,7 +44,7 @@
 {143}{}{Á, příteli, vidím, že jsi zpátky. Tohle místo je prostě skvělé. Je tu perfektní stín a společnost je tu jednoduše oslňující. Ten Typhon je ale šprýmař! Nenechá moje myšlenkové mízy na pokoji!}
 {144}{}{Šachy?}
 {145}{}{Co jsi to říkala o šachách?}
-{146}{}{Nashle.}
+{146}{}{Čau.}
 {147}{}{No, mluvila jsem o tom, jak porazit profesorova radškorpiona v šachách. Můj příteli, je to jednoduché jako facka. Ten degenerovaný požírač brouků vždycky skočí na Útok letících jater. Přímo do něj napochoduje a poté už se z něj nedostane. Garantuju ti 100% úspěch.}
 {148}{}{Dík moc! Pápá!}
 {149}{}{Díky moc! Nashle!}
@@ -69,7 +69,7 @@
 {168}{}{Jasně.}
 {169}{}{Myslím, že ne.}
 {170}{}{Bohužel to vypadá, že nemáš u sebe lopatu. Dokud nějakou nenajdeš, nemůžeš mě přesadit. Budu na tebe čekat se zaťatým pestíkem.}
-{171}{}{Nashle.}
+{171}{}{Čau.}
 {172}{}{Psst! Halo! Halo, příteli! Tady!}
 {173}{}{Pojď blíž! Slibuji, že ti neublížím.}
 {174}{}{Ale no tak! Snad se nebojíš květiny?}

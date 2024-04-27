@@ -30,7 +30,7 @@
 {250}{}{Znáš muže jménem Vic?}
 {251}{}{Hledám obchodníka.}
 {252}{}{Slyšel jsi někdy o Vaultu 13?}
-{253}{}{Nashle.}
+{253}{}{Čau.}
 {254}{}{Práce.}
 {255}{}{Jídlo.}
 {256}{}{Zabíjet.}

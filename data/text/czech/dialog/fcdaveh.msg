@@ -19,7 +19,7 @@
 {117}{}{Jsem Dave Handy. Jsem z Kanady.}
 {118}{}{Takže co tu děláš?}
 {119}{}{Co tě sem přivedlo?}
-{120}{}{Dík. Naskle.}
+{120}{}{Dík. Měj se.}
 {121}{}{Ukazuju lidem, jak přemístit svoje data a odpovídám celý den na pitomé otázky.}
 {122}{}{Dokázal bys hacknout databázi Shi?}
 {123}{}{Jaké pitomé otázky?}

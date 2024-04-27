@@ -2770,7 +2770,7 @@
 {40964}{}{Ty míříš pro potěšení, já střílím pro zabíjení.}
 {40965}{}{Nemáš odvahu mě sundat.}
 {40966}{}{Vypadá to, že jseš blbej A ještě slepej!}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Tak tohle bylo jen o vlásek.}
 {40968}{}{Musíš bejt asi pěkně šilhavej zkurvysyn.}
 {40969}{}{Nějak ti to míření nejde. Dej si bacha, aby to příště neodnesla tvoje vlastní hlava.}
 {40970}{}{Sakra, ze mě je už páprda a stejně mířím líp než ty.}

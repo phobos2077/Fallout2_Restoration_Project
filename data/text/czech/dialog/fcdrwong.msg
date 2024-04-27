@@ -12,7 +12,7 @@
 {111}{}{Aha!}
 {112}{}{Jmenuji se Dr. Wong a jsem hlavní vědec tohoto zařízení.}
 {113}{}{Další otázky, prosím.}
-{114}{}{Dík. Naskle.}
+{114}{}{Dík. Měj se.}
 {115}{}{Dohlížím na vědecké pokusy, jenž se zde provádějí. Jsem také zodpovědný za počítačovou síť.}
 {116}{}{Co plánujete?}
 {117}{}{Jak získám přístup do počítačové sítě?}
@@ -20,7 +20,7 @@
 {119}{}{Aha. Nashle.}
 {120}{}{Hm, když vám řeknu naše plány, tak je poté bude znát každý. Obávám se, že jsou prozatím tajné.}
 {121}{}{Dobře, dobře. Mám další otázky.}
-{122}{}{Dík. Naskle.}
+{122}{}{Dík. Měj se.}
 {123}{}{A co když vám strčím pistoli pod rypák a přinutím vás mi to říct?}
 {124}{}{Hm, někdo se naučí, jak se do ní hacknout a někdo se spřátelí s jedním z mých podřízených. O tom hackování samozřejmě žertuji. Pokud se o to pokusíte, pošlu někoho, aby vás zabil. (Usměje se, aby dokázal, že to nemyslí vážně.)}
 {125}{}{Vy byste mě opravdu nechal zabít?}
@@ -154,7 +154,7 @@
 {514}{}{Ve skutečnosti nebylo tak úplně jednoduché pro vás ten vzorek získat. Myslím, že by si to zasloužilo odměnu.}
 {520}{}{Opravdu? Shi po vás ten vzorek nepožadovali, ale pokud si myslíte, že si vaše skutky zaslouží odměnu, tak myslím, že bychom toto mohli postrádat. (Předá ti Super Stimpak.) A teď už se opravdu musím vrátit zpět ke své práci.}
 {521}{}{Vlastně se vás chci ještě na něco zeptat.}
-{522}{}{Dík. Naskle.}
+{522}{}{Dík. Měj se.}
 {523}{}{Opravdu? Tomu říkáte odměna? Budu vás mlátit tak dlouho, dokud z vás nevypadne něco cenného.}
 {530}{}{(Vezme si semeno.) Děkuji vám, ihned se toho zbavím. (Povzdechne si.) Věděl jsem, že se Dr. Sheng pomátl, ale netušil jsem, že zajde až tak daleko a pokusí se zabít své vlastní lidi. S tím se musí okamžitě něco udělat.}
 {531}{}{Souhlasím. Je to úplný blázen.}

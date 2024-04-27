@@ -76,7 +76,7 @@
 {175}{}{Ha! To říká dědek, kterýmu je 70!}
 {176}{}{Hele dědku, stejně si od tebe žádný sračky nevezmu.}
 {177}{}{Ehmmm... jasně. Chci se zeptat.}
-{178}{}{Nashle.}
+{178}{}{Čau.}
 {179}{}{Vyhrožovat jedinému doktorovi ve městě není moc dobrý nápad. ::kašle:: Příteli, jestli ode mě něco chceš, tak se mnou mluv slušně. Jinak táhni z týhle nemocnice.}
 {180}{}{Polib si, dědku. Připrav se zemřít.}
 {181}{}{Jo, jasně.}
