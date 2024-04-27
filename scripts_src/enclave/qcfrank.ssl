@@ -132,15 +132,6 @@ procedure map_enter_p_proc begin
 end
 
 procedure combat_p_proc begin
-   // Workaround for Frank standing idly when both his arms are crippled.
-   variable weapon;
-   weapon = self_right_hand;
-   if (weapon and (fixed_param == COMBAT_SUBTYPE_TURN)) then begin
-      if (critter_state(self_obj) bwand (DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT)) then begin
-         inven_unwield(self_obj);
-      end
-   end // end workaround.
-
    if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
        if (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) then
            script_overrides;
