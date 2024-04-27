@@ -73,7 +73,7 @@
 {172}{}{Nepodařilo se ti kontejner odemknout.}
 {173}{}{ úspěšně odemyká zámek kontejneru.}
 {174}{}{ nezkušeností způsobí zaseknutí zámku kontejneru.}
-{175}{}{ se nepodařilo dveře zamknout.}
+{175}{}{ selhal při pokusu odemknout tento kontejner.}
 {176}{}{Podařilo se ti vypáčit zámek kontejneru.}
 {177}{}{Při páčení zámku sis poranil záda a to ti způsobilo jeden bod poškození.}
 {178}{}{Při páčení zámku sis poranil záda a to ti způsobilo poškození za }

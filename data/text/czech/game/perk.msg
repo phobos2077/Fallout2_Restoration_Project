@@ -127,7 +127,7 @@
 {1106}{}{Tento perk ti umožní zmáčknout spoušť o něco rychleji a přesto střílet stejně přesně jako předtím. Používání zbraní pro boj na dlouhou vzdálenost tě stojí o jeden akční bod méně.}
 {1107}{}{V boji jsi schopen reagovat rychleji než tvoji nepřátelé, protože tvůj Postřeh je +2 za každý stupeň tohoto perku.}
 {1108}{}{S každým stupněm tohoto perku obdržíš +2 bonus ke své schopnosti Uzdravování. Čili se uzdravuješ rychleji.}
-{1109}{}{Pokud máš tento perk, máš větší šanci způsobit v boji soupeři kritický zásah. Každý stupeň ti přidá +5% šanci na kritický zásah. To docela ujde, ne?}
+{1109}{}{Pokud máš tento perk, máš větší šanci způsobit v boji soupeři kritický zásah. Každá úroveň perku ti přidá +5% šanci na kritický zásah. To docela ujde, ne?}
 {1110}{}{S tímto perkem vidíš ve tmě lépe. Tento perk zredukuje okolní temnotu o 20%.}
 {1111}{}{Vzbuzuješ pozornost jen tím, že vejdeš do místnosti. Úvodní reakce okolních NPC se navyšují o 10% za každou úroveň tohoto perku.}
 {1112}{}{Lépe odoláváš radioaktivitě a jejím zhoubným následkům. Každá úroveň tohoto perku ti přidá 15% na Odolnosti vůči radiaci.}
