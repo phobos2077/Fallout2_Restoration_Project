@@ -104,7 +104,7 @@
 {463}{}{Já hledat... eh. Já zase zapomnět.}
 {464}{}{Odbelhat se.}
 {465}{}{Fajn. Můžeš mi pomoct?}
-{466}{}{Dobře, chci se na něco zeptat ...}
+{466}{}{Jo, chtěl bych se zeptat na...}
 {467}{}{Julesi, nevíš co se stalo synovi pana Wrighta?}
 {468}{}{Julesi, neviděl jsi moje auto? Bylo támhle zaparkovaný a teď je pryč.}
 {469}{}{Poslyš... "Jules", ano? Nejspíš se touhle konverzací snažíš něco získat, takže na rovinu: O co se tu snažíš?}
