@@ -40,6 +40,10 @@ if [[ -f f2_res.dat ]]; then
     mv f2_res.dat "$bdir"/
 fi
 
+if [[ -f data/data/vault13.gam ]]; then
+    mv data/data/vault13.gam "$bdir"/
+fi
+
 # keep savegames, character files, sound
 # shellcheck disable=SC2010  # Don't have non-alphanumeric filenames.
 for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
