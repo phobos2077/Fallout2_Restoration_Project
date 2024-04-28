@@ -857,7 +857,7 @@ position=double_line, spacing:3
 
 
 [Encounter: FRAN_Mercenaries]
-type_00=ratio:25%, pid:16777470, Item:24(wielded), Item:(0-50)41, Script:486                              ; Mercenary male w/ Solar Scorcher
+type_00=ratio:25%, pid:16777470, Item:24(wielded), Item:(0-50)41, Script:486                              ; Mercenary male w/ Plasma Pistol
 type_01=ratio:25%, pid:16777470, Item:388(wielded), Item:(0-50)41, Script:486                              ; Mercenary male w/ Needler Pistol
 type_02=ratio:25%, pid:16777471, Item:(4-8)26(wielded), Item:(0-50)41, Script:486                               ; Merceneary female w/ Plasma Grenade
 type_03=ratio:25%, pid:16777471, Item:116(wielded), Item:(0-50)41, Script:486                              ; Merceneary female w/ Ripper
