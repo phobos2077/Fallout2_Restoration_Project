@@ -151,12 +151,12 @@
 {250}{}{Nepochybuju o tom, že ten bastard dostal, co si zasloužil, ale jeho zabitím sis mezi horníky moc přátel neudělal. Moc rádi totiž nejdřív někoho odsoudí, než ho pověsí. Nicméně jsi odvedl dobrou práci, tady máš peníze. Máš zájem o další práci?}
 {251}{}{Pověz mi o té další práci.}
 {252}{}{Myslím, že už o další práci nemám zájem. Sbohem, šerife.}
-{253}{}{Možná jsi už slyšel o Frogu Mortonovi. Potřebujeme se ho zbavit. Nemůžeme dopustit, aby se zdržoval poblíž našeho města. Dám ti rovných $1000 za to, že zajdeš do Velkého Wanamigo dolu na západ odsud a zabiješ Froga a jeho bandu. Je to pěkně drsnej chlapík, takže si dávej pozor.}
+{253}{}{Možná jsi už slyšel o Žabáku Mortonovi. Potřebujeme se ho zbavit. Nemůžeme dopustit, aby se zdržoval poblíž našeho města. Dám ti rovných $1000 za to, že zajdeš do Velkého Wanamigo dolu na západ odsud a zabiješ Žabáka a jeho bandu. Je to pěkně drsnej chlapík, takže si dávej pozor.}
 {254}{}{To je něco pro mě. Jdu do toho.}
 {255}{}{Myslím, že celý gang nezvládnu. Promiň, ale tohle není nic pro mě. Sbohem.}
-{256}{}{Ty jsi to zvládl, zabil jsi Froga! Skvělá práce, opravdu skvělá práce. Tady máš $1000. Jeho bratři sice asi nebudou moc rádi, až se dozví, že jsi ho zabil, ale to už je holt součástí téhle práce.}
-{257}{}{Bratři? Neřekl jsi mi, že má Frog bratry.}
-{258}{}{Ne? Tak jsem na to asi zapomněl. Já už jsem holt takový. No, Frog měl tři starší bratry... a podle toho, co jsem slyšel, to jsou ještě větší mizerové než on. Jestli si to ještě správně pamatuju, jsou to Ropucha, Mlok a Had Mortonovi. Rád bych je všechny dostal. Mimochodem, nech si ten odznak, co jsem ti dal. Zasloužíš si ho... šerife. (Usměje se.)}
+{256}{}{Ty jsi to zvládl, zabil jsi Žabáka! Skvělá práce, opravdu skvělá práce. Tady máš $1000. Jeho bratři sice asi nebudou moc rádi, až se dozví, že jsi ho zabil, ale to už je holt součástí téhle práce.}
+{257}{}{Bratři? Neřekl jsi mi, že má Žabák bratry.}
+{258}{}{Ne? Tak jsem na to asi zapomněl. Já už jsem holt takový. No, Žabák měl tři starší bratry... a podle toho, co jsem slyšel, to jsou ještě větší mizerové než on. Jestli si to ještě správně pamatuju, jsou to Ropucha, Mlok a Had Mortonovi. Rád bych je všechny dostal. Mimochodem, nech si ten odznak, co jsem ti dal. Zasloužíš si ho... šerife. (Usměje se.)}
 {259}{}{Eh, jasně. No, raději už půjdu. Mám důležitou schůzku... v jiném městě. Daleko od Reddingu. Sbohem.}
 {260}{}{No, jsou to jen další tři zářezy na mojí pažbě, takže žádný problém. Sbohem, šerife.}
 {261}{}{To nerad slyším. Hodila by se mi tvoje pomoc. No nic, pokud si to rozmyslíš, víš, kde mě najdeš.}
