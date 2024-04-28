@@ -3,9 +3,6 @@ set "scripts_dir=data\scripts"
 
 if not exist %bdir% mkdir %bdir%
 
-if exist data\data\vault13.gam (
-  move data\data\vault13.gam %bdir%\
-)
 if exist patch000.dat (
   move patch000.dat %bdir%\
 )
