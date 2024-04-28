@@ -474,5 +474,5 @@ EG_PRES.FRM    ; Endgame Sequence - President
 EG_HUBO.FRM    ; Endgame Sequence - Hubologists
 WM_RAID.FRM    ; Worldmap Raider's Base TownMarker
 TWNABBEY.FRM   ; Abbey map
-TWNEPA.FRM	   ; EPA map
+TWNEPA.FRM     ; EPA map
 TWNTRIBE.FRM   ; Umbra Tribe (Primitive Tribe)

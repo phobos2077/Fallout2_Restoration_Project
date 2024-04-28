@@ -123,7 +123,7 @@ SMOOTHTK.FRM  ; Smooth Talker
 SWFTLERN.FRM  ; Swift Learner
 TAG.FRM       ; Tag
 MUTATE.FRM    ; Mutate
-BETRAY.FRM    ; Betrayer  <<< NEW FOR FALLOUT 2 
+BETRAY.FRM    ; Betrayer  <<< NEW FOR FALLOUT 2
 BUFFOUTS.FRM  ; Buffout Addiction
 DEFENDER.FRM  ; Defender Rep
 DEMON.FRM     ; Demon Rep
@@ -174,4 +174,4 @@ VCINNOC.FRM   ; Vault City Inoculations
 WEPNHAND.FRM  ; Weapon Handling
 DIVORCED.FRM  ; Divorced/Widowed
 SMOKER.FRM    ; Smoker Addiction
-SAVIOR.FRM	  ; Savior Rep
+SAVIOR.FRM    ; Savior Rep
