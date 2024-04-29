@@ -1054,7 +1054,7 @@
 {1154}{}{Quincy}
 {1155}{}{Intendant}
 {1156}{}{Garde}
-{1157}{}{Chien cybernétique}
+{1157}{}{K-9}
 {1158}{}{Tu as tué le Docteur Schreber.}
 {1159}{}{Technicien}
 {1160}{}{Technicien}
