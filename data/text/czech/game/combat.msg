@@ -60,11 +60,11 @@
 {304}{}{jeho levá ruka byla zmrzačena}
 {305}{}{jeho pravá ruka byla zmrzačena}
 {306}{}{byla oslepena}
-{307}{}{byl(a) zabita}
+{307}{}{byl zabit}
 {308}{}{byla zasažena}
 {309}{}{kriticky}
 {310}{}{v palbě}
-{311}{}{rána prošla jeho zbrojí}
+{311}{}{rána prošla zbrojí}
 {312}{}{jeho zbraň vybuchla}
 {313}{}{jeho zbraň byla zničena}
 {314}{}{jeho zbraň mu upadla}
@@ -83,7 +83,7 @@
 {404}{}{její levá ruka byla zmrzačena}
 {405}{}{její pravá ruka byla zmrzačena}
 {406}{}{byla oslepena}
-{407}{}{byl(a) zabita}
+{407}{}{byl zabit}
 {408}{}{byla zasažena}
 {409}{}{kriticky}
 {410}{}{v palbě}
