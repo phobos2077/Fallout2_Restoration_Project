@@ -89,7 +89,7 @@
 {218}{}{Westseite}
 {219}{}{}
 {220}{}{}
-{221}{}{East Side}
+{221}{}{Ostseite}
 {222}{}{}
 {223}{}{}
 {224}{}{Wohngegend}
@@ -239,7 +239,7 @@
 {368}{}{Commercial Row}
 {369}{}{New Reno Waffenkeller}
 {370}{}{}
-{371}{}{East Side}
+{371}{}{Ostseite}
 {372}{}{Bahnhof}
 {373}{}{}
 {374}{}{Chop Shop}
@@ -607,7 +607,7 @@
 {1517}{}{Abbey}
 {1518}{}{Umbra Stamm}
 {1519}{}{EPA}
-{1520}{}{Geister Farm}
+{1520}{}{Geisterfarm}
 {1521}{}{Auto ohne Energie}
 {1522}{}{Arroyo}
 {1523}{}{Gifthöhlen}

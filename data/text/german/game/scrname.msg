@@ -188,7 +188,7 @@
 {288}{}{Speerfalle}
 {289}{}{Geisterhöhle Eins}
 {290}{}{Geisterhöhle Zwei}
-{291}{}{Geister Farm}
+{291}{}{Geisterfarm}
 {292}{}{Brahminweide in Modoc}
 {293}{}{Garten in Modoc}
 {294}{}{Wirtshaus in Modoc}
