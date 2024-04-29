@@ -129,7 +129,7 @@
 {522}{}{Na to zapomeň.}
 {530}{}{Počkej! Už vím. Uděláme to takhle. Já ti dám $100, ty mi $100 půjčíš a vrátíme to Becky. Brzo ti to splatím.}
 {531}{}{No tak dobře.}
-{532}{}{Tvoji nabídku odmítáme.}
+{532}{}{Tak to se nedohodneme.}
 {540}{}{Jenom $50. Prosím! Všechno je to součást mého mistrovského plánu!}
 {541}{}{Tak dobře.}
 {542}{}{Ale to budu mít jenom $50 na zaplacení tvého dluhu $200.}

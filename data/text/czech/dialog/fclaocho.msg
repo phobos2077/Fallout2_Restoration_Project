@@ -140,13 +140,13 @@
 {450}{}{To záleží na tom, jestli náhodou nemáš $10000 k zajištění pokračující prosperity mého obchodu.}
 {451}{}{Tady je tvých $10000.}
 {452}{}{To je přehnaná cena za jedno blbé heslo. Nemůžu jít výš než $5000.}
-{453}{}{Tvoji nabídku odmítáme.}
+{453}{}{Tak to se nedohodneme.}
 {460}{}{Vážím si toho. Heslo je XY8QIV2SHI. Je možné, že mě potom bude někdo sledovat, takže to heslo nezapomeň. A pokud se o tom budeme někdy opět bavit, tak počítej s ještě více penězi na úplatky.}
 {461}{}{Díky. Sbohem.}
 {470}{}{Máš talent na smlouvání, to se musí nechat. Fajn. Přijímám tvoji nabídku. Heslo je XY8QIV2SHI. A nezapomeň ho, jinak si ho budeš muset koupit znovu.}
 {471}{}{Díky. Sbohem.}
 {480}{}{Tak malá nabídka mě jen uráží. $10000. Ber, nebo nech být.}
 {481}{}{Fajn. Tady je tvých $10000.}
-{482}{}{Tvoji nabídku odmítáme.}
+{482}{}{Tak to se nedohodneme.}
 {490}{}{Tvoje mínus. Myslím, že už se nemáme spolu o čem bavit. Sbohem.}
 {491}{}{Čau.}

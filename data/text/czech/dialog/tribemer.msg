@@ -36,7 +36,7 @@
 {282}{}{To je opravdu dobrá nabídka. Příliš dobrá. V čem je háček?}
 {283}{}{Nabízíme ti deset kůží zlatého geckona. Ne víc.}
 {284}{}{Musím si to promyslet.}
-{285}{}{Tvoji nabídku odmítáme.}
+{285}{}{Tak to se nedohodneme.}
 {290}{}{(Royův obličej se rozzáří.) Skvělá volba! Platí. (Rychle si vyměníte zboží a Roy se poté rychle vydá na svoji další zastávku.)}
 {300}{}{(Roy se zasměje, podívá se na své bodyguardy a poté se podívá zpět na tebe.) Podívejte, jediný Stimpak má větší cenu než jedna zlatá kůže. Takže jak vidíte, už takhle vám je nabízím za nehoráznou slevu. Chtít po mě víc by byla zlodějna. Dvacet kůží, nebo navštívím kmen, který má více rozumu.}
 {301}{}{Tak dobře. Bereme to.}
@@ -54,7 +54,7 @@
 {340}{}{Dobře, ale ať ti to netrvá moc dlouho. Musíme před soumrakem udělat ještě jednu zastávku.}
 {350}{}{Dobrá, tak pokud už jste skončili s mrháním času, tak to vyklopte. Jsem zaneprázdněný muž.}
 {351}{}{Dobře. Přijímáme nabídku.}
-{352}{}{Tvoji nabídku odmítáme.}
+{352}{}{Tak to se nedohodneme.}
 {353}{}{Musím si to ještě promyslet.}
 {354}{}{Mám pro tebe novou nabídku: dej nám ty Stimpaky a necháme tě naživu.}
 {360}{}{Tak zaneprázdněny muž, jo? A taky lhář a podvodník.}

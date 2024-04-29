@@ -81,7 +81,7 @@
 {393}{}{Noch nicht.}
 {400}{}{Und, hast du schon mit ihm gesprochen? Was hat er gesagt?}
 {401}{}{Er hat ja gesagt. Wenn du gewinnst, kannst du ihren Job haben, genau wie vorher.}
-{402}{}{NNö.}
+{402}{}{Nö.}
 {410}{}{Super. Genau das habe ich gehofft. Ich habe gehört, dass er sich in letzter Zeit über sie
  beklagt hat. Hier ist dein Geld.}
 {411}{}{Ich vermute, da ist jetzt noch etwas anderes?}
@@ -110,7 +110,7 @@
 {471}{}{Ja. Heute Abend lassen sie eine Party steigen.}
 {472}{}{Noch nicht. Ich sag dir dann Bescheid.}
 {473}{}{Gra.}
-{474}{}{NNö.}
+{474}{}{Nö.}
 {480}{}{Ausgezeichnet. Sie lassen bestimmt nur eine Notbesetzung zurück. Das sind doch gute
  Aussichten. Um die auf der Party kümmern wir uns, nachdem wir die Kirche erledigt haben.}
 {481}{}{Und mein Geld?}

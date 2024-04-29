@@ -52,7 +52,7 @@
 {261}{}{Ich würde gern bei einer Sklavenjagd mitmachen.}
 {262}{}{Macht nichts. Tschüss.}
 {263}{}{ will töten.}
-{264}{}{NNö.}
+{264}{}{Nö.}
 {265}{}{Ich hab mir die Sklaven angesehen, die du dahinten hast, aber weißt du, ich habe einen sehr, äh... *speziellen* Geschmack, und keiner von denen ist das, was ich suche. Sind das alle Sklaven die du zu bieten hast?}
 {270}{}{Kommst du damit klar? Ich nehme nicht jeden auf...aber was soll's. Wenn du Mist baust,
  verkauf ich dich. Du musst dich auf der Stirn tätowieren lassen, damit du für jeden als

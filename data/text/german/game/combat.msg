@@ -534,7 +534,7 @@
 {5036}{}{. Die Schmerzen sind zu viel für ihn. Er bricht zusammen wie ein Lumpen}
 {5037}{}{. Er murmelt "Mutter", während sich seine Augen verdrehen}
 {5100}{}{ und tut wirklich weh}
-{5101}{}{. Grosser Schmerz wird zugefügt}
+{5101}{}{. Großer Schmerz wird zugefügt}
 {5102}{}{ ohne Rüstung}
 {5103}{}{. Der zerstörerische Angriff macht sie ohnmächtig}
 {5104}{}{. Der Schlag reißt sie zu Boden}
