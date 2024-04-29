@@ -452,7 +452,7 @@ Du bist auf die allein gestellt, "Kumpel". Aber keine Sorge, ich bin sciher, du 
 {1105}{}{Komm schon. Ich war über 150 Jahre eingefroren. Natürlich bin ich bereit zu gehen.}
 {1106}{}{Ich werde langsam ungeduldig.}
 {1110}{}{Bist du bereit mich mitzunehmen?}
-{1111}{}{Dann lass uns mal Tyler kalt stellen.}
+{1111}{}{Lass uns gehen.}
 {1112}{}{Nein, noch nicht.}
 {1200}{}{Also, was kannst du mir über die Vault sagen?}
 {1201}{}{Also, kannst du dich an irgendetwas erinnern, was du mir über die Vault erzählen kannst?}

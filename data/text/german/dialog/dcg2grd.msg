@@ -59,6 +59,6 @@
 {500}{}{Scheisse, Ich kann nicht glauben das wir Lara verloren haben. Wir haben uns um die Minimalbesatzung hier gekümmert, aber Tyler und seine Gang leben noch.
  Wenn wir jetzt angreifen während die ihre Party feiern können wir sie sicher mit heruntergelassenen Hosen erwischen. Beenden wir das. Bist du noch dabei?}
 {501}{}{Ich möchte mich ein wenig ausruhen. Ich sag dir Bescheid, wenn ich soweit bin.}
-{502}{}{Dann lass uns mal Tyler kalt stellen.}
+{502}{}{Lass uns gehen.}
 {510}{}{Bist du bereit Tyler und seine Kumpels zu töten?}
 {520}{}{Hey, geh nicht zu weit weg. Wir müssen das diese Nacht beenden.}

@@ -253,7 +253,7 @@
 {461}{}{Vielleicht wenn du ein wenig Platz in deiner Gruppe gemacht hast. Ich mag
  keine Menschenaufläufe.}
 {462}{}{Bist du bereit mich mitzunehmen?}
-{463}{}{Dann lass uns mal Tyler kalt stellen.}
+{463}{}{Lass uns gehen.}
 {464}{}{Nein, noch nicht.}
 {470}{}{Jesus, du siehst aus wie der Sensenmann. Du solltest dich mal untersuchen lassen.}
 {480}{}{Kein Problem. Ohne sie bin ich leichter zu Fuß.}

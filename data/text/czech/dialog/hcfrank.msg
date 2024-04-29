@@ -20,7 +20,7 @@
 {119}{}{To je zajímavé. Co mi můžeš říct o Broken Hills?}
 {120}{}{Jaaaaasně. Co mi můžeš říct o Marcusovi?}
 {121}{}{Tak jo. Nashle.}
-{122}{}{Tohle místo bylo kdysi ráj, ale pak přišli mutanti a šlo to do sraček. Takže teď se musíme tvářit jako kdyby minulost neexistovala a žít s nima v míru. Ale já ne! Já chci žít svobodně, nebo zemřít!}
+{122}{}{Tohle místo bylo kdysi ráj, ale pak přišli mutanti a šlo to do sraček. Takže teď se musíme tvářit jako kdyby minulost neexistovala a žít s nimi v míru. Ale já ne! Já chci žít svobodně, nebo zemřít!}
 {123}{}{To sice není to, co chci vědět, ale stejně díky. Co mi můžeš říct o Marcusovi?}
 {124}{}{Eh, tak jo. Nashle.}
 {125}{}{Marcus všem vykládá, že pomohl založit tohle město, ale to není pravda. První tu byli lidé. On sem jen přitáhl s tou svojí bandou, převzal to tady a chce, abysme mutantům líbali zadky. To on je šéfem celýho tohodle cirkusu.}

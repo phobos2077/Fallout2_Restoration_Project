@@ -93,7 +93,7 @@
 {178}{}{Bleib dicht bei mir.}
 {179}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {180}{}{Wir sollten uns ein bisschen verteilen.}
-{181}{}{Dann lass uns mal Tyler kalt stellen.}
+{181}{}{Lass uns gehen.}
 {182}{}{Das wär's dann vorerst mal.}
 {183}{}{Alle Systeme funktionieren mit voller Leistung, Meister.}
 {184}{}{Meine Systeme funktionieren mit fast voller Leistung, Meister.}
@@ -112,7 +112,7 @@
 {196}{}{Bleib dicht bei mir.}
 {197}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {198}{}{Wir sollten uns ein bisschen verteilen.}
-{199}{}{Dann lass uns mal Tyler kalt stellen.}
+{199}{}{Lass uns gehen.}
 {200}{}{Das wär's dann vorerst mal.}
 {201}{}{Ich warte hier auf deine Rückkehr, Meister.}
 {202}{}{Du heilen dich selbst.}
@@ -127,7 +127,7 @@
 {211}{}{Bleib dicht bei mir.}
 {212}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {213}{}{Wir sollten uns ein bisschen verteilen.}
-{214}{}{Dann lass uns mal Tyler kalt stellen.}
+{214}{}{Lass uns gehen.}
 {215}{}{Das wär's dann vorerst mal.}
 {216}{}{Waffe zurückgezogen, Meister.}
 {217}{}{Du heilen dich selbst.}
@@ -142,7 +142,7 @@
 {226}{}{Bleib dicht bei mir.}
 {227}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {228}{}{Wir sollten uns ein bisschen verteilen.}
-{229}{}{Dann lass uns mal Tyler kalt stellen.}
+{229}{}{Lass uns gehen.}
 {230}{}{Das wär's dann vorerst mal.}
 {231}{}{Abstand zwischen uns verringert sich, Meister.}
 {232}{}{Du heilen dich selbst.}
@@ -157,7 +157,7 @@
 {241}{}{Leg deine Waffe weg.}
 {242}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {243}{}{Wir sollten uns ein bisschen verteilen.}
-{244}{}{Dann lass uns mal Tyler kalt stellen.}
+{244}{}{Lass uns gehen.}
 {245}{}{Das wär's dann vorerst mal.}
 {246}{}{Abstand zwischen uns wächst, Meister.}
 {247}{}{Du heilen dich selbst.}
@@ -172,7 +172,7 @@
 {256}{}{Leg deine Waffe weg.}
 {257}{}{Bleib dicht bei mir.}
 {258}{}{Wir sollten uns ein bisschen verteilen.}
-{259}{}{Dann lass uns mal Tyler kalt stellen.}
+{259}{}{Lass uns gehen.}
 {260}{}{Das wär's dann vorerst mal.}
 {261}{}{Abstand auf Maximum vergrößert, Meister.}
 {262}{}{Du heilen dich selbst.}
@@ -187,7 +187,7 @@
 {271}{}{Leg deine Waffe weg.}
 {272}{}{Bleib dicht bei mir.}
 {273}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
-{274}{}{Dann lass uns mal Tyler kalt stellen.}
+{274}{}{Lass uns gehen.}
 {275}{}{Das wär's dann vorerst mal.}
 {276}{}{Tut mir leid, Meister, doch in deiner Truppe scheint kein Platz für mich zu sein. Ich
  warte hier, bis ein Platz frei wird.}

@@ -63,8 +63,7 @@
 {140}{}{Danke. Also, was hast du über die süße Wissenschaft gesagt?}
 {141}{}{Von Dir nehme ich kein Bier. Ich weiß schon mehr, als du mir je beibringen könntest, du
  alter Säufer. Wiedersehen.}
-{142}{}{Nun, dann lass uns mal raus gehen und sehen, was ich Dir beibringen kann. Du wirst sehen,
- das Wichtigste ist, dass Dein Körper so schnell wie eine Peitsche wird...}
+{142}{}{Nun, lass uns rausgehen und sehen, was ich dir beibringen kann. Es geht darum, deinen ganzen Körper wie eine Peitsche schnalzen zu lassen...}
 {143}{}{Aha, aha.}
 {144}{}{Ich habe dafür jetzt keine Zeit. Wiedersehen.}
 {145}{}{(Viele verschwitzte Stunden später) Siehst du nun, was du falsch gemacht hast?}

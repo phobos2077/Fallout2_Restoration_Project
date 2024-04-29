@@ -43,7 +43,7 @@
 {313}{}{Bitteschön. Das sollte dir dabei helfen, den Mutanten, die dir über den Weg laufen einzuheizen.}
 {314}{}{Danke.}
 {390}{}{Bist du bereit mich mitzunehmen?}
-{391}{}{Dann lass uns mal Tyler kalt stellen.}
+{391}{}{Lass uns gehen.}
 {392}{}{Nein, noch nicht.}
 {400}{}{Brauchst du etwas?}
 {401}{}{Wie kann Cat dir behilflich sein?}

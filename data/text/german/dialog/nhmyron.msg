@@ -61,7 +61,7 @@
 {427}{}{Reich mir mal das Buffout. Ich hab das Gefühl, ich werde es bald brauchen.}
 {428}{}{Toller Ort. Wirklich ganz toll. Wie wär's, wenn wir unsern Aufenthalt hier kurz halten?}
 {429}{}{Oh, das ist VIEL besser als die Weltkarte.}
-{430}{}{Lass uns reingehen und wieder raus, OK?}
+{430}{}{Rein und wieder raus, in Ordnung?}
 {431}{}{Wie wär's, wenn wir später hierher zurückkommen?}
 {432}{}{Was zum Teufel wollen wir hier?}
 {433}{}{Dieser Ort hebt meine Stimmung nicht gerade.}
@@ -74,7 +74,7 @@
 {449}{}{Zum Glück hab ich die ganzen Jahre über D&D gespielt und dadurch gelernt, was Mut bedeutet.}
 {450}{}{Toller Ort. Wirklich ganz toll. Wie wär's, wenn wir unsern Aufenthalt hier kurz halten?}
 {451}{}{Oh, das ist VIEL besser als die Weltkarte.}
-{452}{}{Lass uns reingehen und wieder raus, OK?}
+{452}{}{Rein und wieder raus, in Ordnung?}
 {453}{}{Wie wär's, wenn wir später hierher zurückkommen?}
 {454}{}{Was zum Teufel wollen wir hier?}
 {455}{}{Dieser Ort hebt meine Stimmung nicht gerade.}
@@ -605,7 +605,7 @@
 {1845}{}{Wenn es nur dein Geruch wäre, könnte ich es ja noch ertragen. Lass uns gehen.}
 {1860}{myn232a}{Also gut.}
 {1863}{}{Kleiner, dein Ego hat gerade versprochen, was dein Körper nie halten kann. Bereite dich schon mal aufs Sterben vor.}
-{1866}{}{Dann lass uns mal Tyler kalt stellen.}
+{1866}{}{Lass uns gehen.}
 {1870}{}{Ich fühlen urks.}
 {1875}{}{Du hast Myron davon überzeugt, dass es ein Heilmittel geben könnte.}
 {1880}{}{Das ist das Grab, in dem Big Jesus die Extrakröten gebunkert hat.}
