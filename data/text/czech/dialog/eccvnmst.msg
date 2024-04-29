@@ -56,5 +56,5 @@
 {206}{}{San Francisco}
 {207}{}{Modoc}
 {208}{}{Klamath}
-{209}{}{Vaultu 15}
+{209}{}{Vault 15}
 {300}{}{Díky za obchod.}
