@@ -13,7 +13,7 @@
 {112}{}{Nosnost}
 {113}{}{Postřeh}
 {114}{}{Uzdravování}
-{115}{}{Kritičák (šance)}
+{115}{}{Kritický zásah}
 {116}{}{Lepší kritický zásah}
 {117}{}{Práh odolnosti}
 {118}{}{Práh odolnosti vůči laseru}
