@@ -42,4 +42,4 @@
 {140}{}{Würdest du das auch so bei dir zu Hause im, ähm, Zelt machen?}
 {141}{}{Lass mich bitte in Ruhe.}
 {142}{}{Ich weiß zwar nicht, was du willst, aber ich wünschte, du würdest mich in Ruhe lassen.}
-{143}{}{Man hat uns in die Falle gelockt! Wir haben die Leute in den Tunnels nicht umgebracht!}
+{143}{}{Man hat uns in die Falle gelockt! Wir haben die Leute in den Tunneln nicht umgebracht!}

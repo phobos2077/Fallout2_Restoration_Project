@@ -51,8 +51,7 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {171}{}{Unterirdisch gefangen zu sein...}
 {172}{}{Ich hab ja schon immer gesagt, "Jacob und Aileen machen uns noch mal Schwierigkeiten.
  Genau wie Franc und Manson", hab ich gesagt. Und hat jemand drauf gehört? Natürlich nicht!}
-{173}{}{Tunnel, soso. Ich hab ja schon immer gewusst, dass diese Typen eigentlich Ratten und Würmer
- sind.}
+{173}{}{Tunnel, soso. Ich hab ja schon immer gewusst, dass diese Typen eigentlich Ratten und Würmer sind.}
 {174}{}{Dann kam der Gestank wohl von den Leichen, was?}
 {175}{}{Warum willst du uns verletzen?}
 {176}{}{Menschen haben mir nie getraut.}

@@ -119,8 +119,7 @@
 {530}{}{Weiter so, Francis!}
 {531}{}{Hast noch was vor Dir, Francis!}
 {532}{}{Boa! Das hab ich ja noch nie gesehen!}
-{599}{}{Ich hab einen Zettel in den Tunnels gefunden, auf dem die Namen Francis und Zaius stehen.
- Sieht so aus, als hättet ihr was verbrochen.}
+{599}{}{Ich hab einen Zettel in den Tunneln gefunden, auf dem die Namen Francis und Zaius stehen. Sieht so aus, als hättet ihr was verbrochen.}
 {600}{}{Verdammt noch mal. Zaius hat schon wieder Zettel rumliegen lassen, was? Also hör mal zu:
  Ich weiß, dass in dieser Stadt ein paar Menschen die Mutanten umbringen wollen und ich weiß auch,
  dass Marcus sie nur verhaften wird, wenn er Beweise hat. Ich wollte das Ganze nur ohne großes
