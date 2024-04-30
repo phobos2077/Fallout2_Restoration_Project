@@ -1,8 +1,17 @@
 {100}{}{Počítačový terminál.}
 {101}{}{Je aktivní spořič obrazovky.}
-{103}{}{Skynet - Bezpečnostní systémy                                  Vetřelec Patro 2                                                   Aktivování protiopatření Patro 2                                  Protiopatření: konec přenosu!                                  Aktivování automatického opravného systému}
-{104}{}{Skynet - Bezpečnostní systémy                                  Vetřelec Patro 2                                                   Aktivování protiopatření Patro 2                                  Pokus o přesměrování energie do generátoru silových polí}
-{105}{}{Skynet - Bezpečnostní systémy                                  Vetřelec Patro 2                                                   Aktivování protiopatření Patro 2}
+{103}{}{Skynet - Bezpečnostní systémy
+                                  Vetřelec Patro 2
+                                  Aktivování protiopatření Patro 2
+                                  Protiopatření: konec přenosu!
+                                  Aktivování automatického opravného systému}
+{104}{}{Skynet - Bezpečnostní systémy
+                                  Vetřelec Patro 2
+                                  Aktivování protiopatření Patro 2
+                                  Pokus o přesměrování energie do generátoru silových polí}
+{105}{}{Skynet - Bezpečnostní systémy
+                                  Vetřelec Patro 2
+                                  Aktivování protiopatření Patro 2}
 {106}{}{Ukončit poplach na Patře 2 - planý poplach.}
 {107}{}{(Všímáš si klávesy s nápisem "HELP".) Stisknout ji.}
 {108}{}{Hacknout se do systému.}
@@ -20,13 +29,17 @@
 {120}{}{Skynet - Bezpečnostní systémy
                                   Přístup k tomuto terminálu zakázán}
 {122}{}{Konec.}
-{124}{}{Chyba!                                                               Žádné programy nejsou dostupné                            Prosím restartujte}
+{124}{}{Chyba!
+                                                               Žádné programy nejsou dostupné
+                            Prosím restartujte}
 {126}{}{Konec.}
 {127}{}{Analyzuji příkaz, prosím čekejte...
                               Obcházím uživatelský příkaz
                                           Přístup odepřen}
 {128}{}{[Více]}
-{129}{}{K deaktivaci poplachu stiskněte 1                                    Pro diagnostický program stiskněte 2                             Pro ukončení stiskněte 3}
+{129}{}{K deaktivaci poplachu stiskněte 1
+Pro diagnostický program stiskněte 2
+Pro ukončení stiskněte 3}
 {130}{}{Stisknout 1.}
 {131}{}{Stisknout 2.}
 {132}{}{Stisknout 3.}
