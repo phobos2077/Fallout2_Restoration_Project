@@ -10,7 +10,9 @@
 {110}{}{Konec.}
 {111}{}{Áááááá! [Zuřivě mlátit do klávesnice]}
 {113}{}{Skynet - Bezpečnostní systémy}
-{114}{}{Skener sítnice aktivován                                            Skenování...                                                            Prohledávám databázi...}
+{114}{}{Skener sítnice aktivován
+                                            Skenování...
+                                                            Prohledávám databázi...}
 {115}{}{Aktivace poplašného systému - Patro 2.}
 {116}{}{Spustit autodiagnostický program.}
 {117}{}{Konec.}

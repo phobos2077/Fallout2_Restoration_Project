@@ -9,7 +9,13 @@
 {108}{}{Hacknout se do systému.}
 {109}{}{Konec.}
 {110}{}{Ááááá! [Zuřivě mlátit do klávesnice]}
-{112}{}{Skynet - Bezpečnostní systémy                                   Zjištěn vetřelec - vnější oblast                       Aktivování Automatického opravného systému                  Hlavní dveře - porucha                                      Znovuzavedení...                                                 Jistící mechanismus hlavních dveří stále na místě          Návrat do úsporného režimu}
+{112}{}{Skynet - Bezpečnostní systémy
+                                       Zjištěn vetřelec - vnější oblast
+                       Aktivování Automatického opravného systému
+                                Hlavní dveře - porucha
+                                Znovuzavedení...
+                                                 Jistící mechanismus hlavních dveří stále na místě
+                       Návrat do úsporného režimu}
 {113}{}{Aktivovat poplach - patro 1.}
 {114}{}{Spustit autodiagnostický program.}
 {115}{}{Konec.}
@@ -30,7 +36,12 @@
 {134}{}{Konec.}
 {135}{}{Ukončení všech procesů                                        Ukončení bezpečnostního programu - patro 1                   Čas poslední analýzy: 15. Srpen 1990                       Analyzuji systém...                                             Odhadovaný čas do konce operace: 99:24:60:60}
 {136}{}{(Tak tohle asi jen tak hotové nebude.) Konec.}
-{137}{}{Přístup zamítnut                                                 Přístup zamítnut                                                 Prrosup tamitnut                                                 Pppppup zammmnut                                                 Přístup povolen                                                 Ukončení poplašných systémů - patro 1}
+{137}{}{Přístup zamítnut
+                                                 Přístup zamítnut
+                                                 Prrosup tamitnut
+                                                 Pppppup zammmnut
+                                                 Přístup povolen
+                                                 Ukončení poplašných systémů - patro 1}
 {138}{}{Konec.}
 {139}{}{Neověřený přístup                                            Inicializuji bezpečnostní odstavení vzdáleného terminálu                  Přístup k tomuto terminálu byl UKONČEN}
 {140}{}{Konec.}

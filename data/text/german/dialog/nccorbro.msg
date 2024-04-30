@@ -69,7 +69,7 @@
 {329}{}{Das ist keine MP. Das ist eine *YP.*}
 {330}{}{20 Minuten, Baby.}
 {331}{}{Lass mal sehen: (Prüft Skript.) Auftritt Randy, er und Sylvia gehen ran... Christy geht ins Badezimmer, Peter hinterher, sie gehen ran. Auftritt Ron...}
-{345}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut ärgerlich hoch, sieht noch ein zweites Mal hin.) Hey... du warst doch vorhin schon mal da - du wolltest mit uns drehen, richtig?}
+{345}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut ärgerlich hoch, sieht noch ein zweites Mal hin.) Hey... du warst doch vorhin schon mal da - du wolltest mit uns fluffen, richtig?}
 {346}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du schon wieder. Hör zu, biste nun interessiert an der Rolle als Fluffer oder nicht?}
 {347}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch, sieht noch ein zweites Mal hin.) Bist DU der neue Fluffer?}
 {348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Bist der neue Fluffer?}
