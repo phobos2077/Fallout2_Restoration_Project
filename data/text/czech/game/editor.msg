@@ -35,7 +35,7 @@
 {134}{}{Na minimální úrovni.}
 {135}{}{Nelze snížit.}
 {136}{}{Nemáš dost dovednostních bodů.}
-{137}{}{Výchozí:}
+{137}{}{Base:}
 {138}{}{TALENTY}
 {139}{}{CHARAKTEROVÉ RYSY}
 {140}{}{Tvá postava může mít maximálně}
