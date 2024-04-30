@@ -52,7 +52,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/267) Sulik's appearance after parting ways with him in his tribe.
 - San Francisco
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/252) the submarine quest activating again after killing the dock guard.
-  - Fixed Dr. Wong's assasination sequence.
+  - Fixed Dr. Wong's assassination sequence.
 - Vault City
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/260) intermittent crash when entering Vault City.
 
