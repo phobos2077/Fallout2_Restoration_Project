@@ -5,7 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
-- [Version 29](#version-29) (WIP)
+- [Version 29](#version-29)
 - [Version 28](#version-28)
 - [Version 27](#version-27)
 - [Version 26](#version-26)
