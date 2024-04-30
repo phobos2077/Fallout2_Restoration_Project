@@ -1583,9 +1583,9 @@
 {82500}{}{Wand}
 {82600}{}{Banktür}
 {82601}{}{Eine sehr solide Tresortür. Die Tür sieht sehr sicher aus.}
-{82700}{}{Leicht}
+{82700}{}{Leuchte}
 {82701}{}{Eine Sicherheitsleuchte.}
-{82800}{}{Leicht}
+{82800}{}{Leuchte}
 {82801}{}{Eine Sicherheitsleuchte.}
 {82900}{}{Pfeiler}
 {82901}{}{Pfeiler.}
@@ -1717,9 +1717,9 @@
 {90501}{}{In diesem Bett gibt es eine eingebaute Anzeige, die den Gesundheitszustand des Patienten anzeigt.}
 {90600}{}{Powerrüstungsteile}
 {90601}{}{Dies sind Teile einer Powerrüstung.}
-{90700}{}{Leicht}
+{90700}{}{Leuchte}
 {90701}{}{Diese Sicherheitsleuchte blinkt momentan grellrot.}
-{90800}{}{Leicht}
+{90800}{}{Leuchte}
 {90801}{}{Diese Sicherheitsleuchte blinkt momentan grellrot.}
 {90900}{}{Symbol}
 {91000}{}{Symbol}
@@ -2281,7 +2281,7 @@
 {138300}{}{Wand}
 {138400}{}{Wand}
 {138500}{}{Wand}
-{138600}{}{Leicht}
+{138600}{}{Leuchte}
 {138700}{}{Tür}
 {138800}{}{Tür}
 {138900}{}{Tür}
