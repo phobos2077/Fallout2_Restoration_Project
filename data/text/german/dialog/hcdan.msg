@@ -48,11 +48,10 @@
 {139}{}{Ich wollte sie eigentlich nicht mehr suchen.}
 {140}{}{Du hast sie also gefunden? ::mit leuchtenden Augen:: Wo?}
 {141}{}{War sie ziemlich scharf und hatte keine Beine?}
-{142}{}{Ich hab mehrere Tote in den Tunnels unter der Stadt gefunden. Sie war auch dabei. Tut mir
- leid.}
+{142}{}{Ich hab mehrere Tote in den Tunneln unter der Stadt gefunden. Sie war auch dabei. Tut mir leid.}
 {143}{}{Was? Nein, sie hatte tolle Beine!}
 {144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde übel mitgespielt und Ihre beine sind AB. Sie ist tot und Sie litt bevor Sie starb.}
-{145}{}{Ja, ja. Ich hab sie in den Tunnels unter der Stadt gefunden. Sie ist tot. Tut mir leid.}
+{145}{}{Ja, ja. Ich hab sie in den Tunneln unter der Stadt gefunden. Sie ist tot. Tut mir leid.}
 {146}{}{Danke, dass du es mir gesagt hast. Jetzt muss ich mich ausweinen.}
 {147}{}{Ja, wein ruhig, du Heulsuse.}
 {148}{}{Tut mir leid, Mann.}

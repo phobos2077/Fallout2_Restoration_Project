@@ -81,7 +81,7 @@
 {393}{}{Noch nicht.}
 {400}{}{Und, hast du schon mit ihm gesprochen? Was hat er gesagt?}
 {401}{}{Er hat ja gesagt. Wenn du gewinnst, kannst du ihren Job haben, genau wie vorher.}
-{402}{}{NNö.}
+{402}{}{Nö.}
 {410}{}{Super. Genau das habe ich gehofft. Ich habe gehört, dass er sich in letzter Zeit über sie
  beklagt hat. Hier ist dein Geld.}
 {411}{}{Ich vermute, da ist jetzt noch etwas anderes?}
@@ -110,7 +110,7 @@
 {471}{}{Ja. Heute Abend lassen sie eine Party steigen.}
 {472}{}{Noch nicht. Ich sag dir dann Bescheid.}
 {473}{}{Gra.}
-{474}{}{NNö.}
+{474}{}{Nö.}
 {480}{}{Ausgezeichnet. Sie lassen bestimmt nur eine Notbesetzung zurück. Das sind doch gute
  Aussichten. Um die auf der Party kümmern wir uns, nachdem wir die Kirche erledigt haben.}
 {481}{}{Und mein Geld?}
@@ -186,9 +186,9 @@ Bewachung da war, haben sie den Laden geplündert und jetzt ist Metzger rasend v
 {700}{}{Yeeah, wir haben uns um diese Lumpen hier in der Kirche gekümmert, aber Tyler und seine Kumpels sind immer noch auf der Party im Wohngebiet.
  Mittlerweile sollten sie zwar ziemlich besoffen sein, sodass wir sie leicht überwältigen könnten, aber bist du auch bereit es zu Ende zu bringen?}
 {701}{}{Ich möchte mich ein wenig ausruhen. Ich sag dir Bescheid, wenn ich soweit bin.}
-{702}{}{Dann lass uns mal Tyler kalt stellen.}
+{702}{}{Lass uns gehen.}
 {710}{}{Bist du bereit Tyler und seine Kumpels zu töten?}
 {720}{}{Nun, geh nicht zu weit weg. Wir müssen das diese Nacht beenden oder wir werden es ohne dich machen.}
 {721}{}{Ich bin gleich wieder da.}
-{722}{}{Dann lass uns mal Tyler kalt stellen.}
+{722}{}{Lass uns gehen.}
 {730}{}{Wir haben sie Platt gemacht. Ich kann es kaum glauben! Wir gehen besser zurück zur Kirche, bevor sie jemand anderes übernimmt. Wir treffen uns dann da, damit du abkassieren kannst.}

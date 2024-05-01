@@ -49,7 +49,7 @@
 {600}{}{Résous le problème de la centrale énergétique de Gecko.}
 {601}{}{Répare la centrale.}
 {602}{}{Optimise la centrale.}
-{603}{}{Récupère le disque sur l'économie et donne le à McClure à la Cité de l'Abri.}
+{603}{}{Récupère le disque de données économiques et donne le à McClure à la Cité de l'Abri.}
 {604}{}{Trouve un super-kit de réparation pour Skeeter.}
 {605}{}{Trouve le laser plasma à 3 crans pour Skeeter.}
 {606}{}{Trouve Woody la Goule pour le compte de Percy. Essaie à la Fosse.}

@@ -43,7 +43,7 @@
 {290}{}{Squat}
 {291}{}{- Squatteři}
 {292}{}{- Squatteři}
-{293}{}{Vaultu 15}
+{293}{}{Vault 15}
 {294}{}{- Východní vstup}
 {300}{}{- Tržiště}
 {301}{}{Kongres}

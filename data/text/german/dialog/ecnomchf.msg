@@ -23,9 +23,8 @@
 {120}{}{Verschwinde!}
 {121}{}{Hau ab.}
 {122}{}{Wir sind ein friedlicher Stamm.}
-{200}{}{Ah, ein Reisender. Verzeiht dass wir kein Zelt haben, was wir dir als Schatten vor der endlosen Hitze des Landes
- anbieten können. Raste für einen Moment damit wir vielleicht miteinander sprechen können.}
-{201}{}{Danke; wohlwollend nehme ich euer Angebot an.}
-{202}{}{Wie Schade. Dann Ruhe dich aus; sei unter uns willkommen.}
-{203}{}{Ich hoffe du hast das gefunden was du brauchst. Sonst noch was?}
-{204}{}{Nich Heute. Ich muss gehen.}
+{200}{}{Ah, ein Reisender. Es tut mir leid, dass wir kein Zelt haben, in dem du Schatten vor der unendlichen Hitze des Landes finden könntest. Ruhe dich einen Moment aus, damit wir uns unterhalten können.}
+{201}{}{Danke. Wohlwollend nehme ich euer Angebot an.}
+{202}{}{Wie Schade. Ruh dich aus und sei bei uns willkommen.}
+{203}{}{Ich hoffe, du hast alles, was du brauchst. Sonst noch was?}
+{204}{}{Heute nicht. Ich muss jetzt gehen.}

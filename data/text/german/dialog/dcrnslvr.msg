@@ -48,7 +48,7 @@
 {310}{}{Hauen wir ab, das ist Mist hier.}
 {320}{}{Nicht schlecht.}
 {321}{}{Hoffentlich haben wir genug. Ich muss meinen Jet-Vorrat auffüllen.}
-{322}{}{Dann lass uns mal Tyler kalt stellen.}
+{322}{}{Lass uns gehen.}
 {323}{}{Ich habe schon bessere gesehen, aber Geld ist Geld.}
 {324}{}{Metzger müsste mit denen eigentlich zufrieden sein.}
 {325}{}{Ganz gut.}

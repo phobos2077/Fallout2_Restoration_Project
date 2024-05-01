@@ -197,7 +197,7 @@
 {1010}{}{Du solltest dich jetzt selber heilen.}
 {1011}{}{Du musst hier warten, bis ich wieder da bin.}
 {1012}{}{Keine Waffen im Anschlag, OK?}
-{1016}{}{Dann lass uns mal Tyler kalt stellen.}
+{1016}{}{Lass uns gehen.}
 {1017}{}{Du bist eine Deathclaw? Gibt es einen Grund, warum du das nicht vorher gesagt hast?}
 {1018}{}{Das wär's dann vorerst mal.}
 {1019}{}{Ich bin geheilt und bereit zu gehn,}

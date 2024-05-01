@@ -62,7 +62,7 @@
 {161}{}{OK, ich mach's auf eure Art.}
 {162}{}{Auf keinen Fall. Vergiss es.}
 {163}{}{Hervorragend. Dann zeig mal, ob dein Können ausreicht, um gegen Lo Pan zu kämpfen.}
-{164}{}{Dann lass uns mal Tyler kalt stellen.}
+{164}{}{Lass uns gehen.}
 {165}{}{Nicht jetzt. Ich werde später darauf zurückkommen.}
 {166}{}{Ich bin der Drache, der Beschützer des Volkes und der eingeschworene Feind Lo Pans. Er und ich sind die letzten Meister unserer Zunft.}
 {167}{}{Ich bin gar nicht so schlecht im unbewaffneten Kampf. Willst du's mal probieren?}

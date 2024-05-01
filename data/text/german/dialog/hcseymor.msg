@@ -76,7 +76,7 @@
  geblüht? Bist du bereit für den Umzug? Ich schon!}
 {151}{}{Ja!}
 {152}{}{Äh, nee! Kein Umzug!}
-{153}{}{Dann lass uns mal Tyler kalt stellen.}
+{153}{}{Lass uns gehen.}
 {154}{}{Ich habe es mir anders überlegt, ich möchte dir nicht helfen.}
 {155}{}{Ich bin so aufgeregt, dass ich eine ganze Wolke von Sprossen über mich ergießen könnte!
  Los geht's!}

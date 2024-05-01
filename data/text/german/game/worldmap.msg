@@ -4,7 +4,7 @@
 {203}{}{Wildnis}
 {204}{}{Tempelinnenräume}
 {210}{}{Westseite}
-{211}{}{East Side}
+{211}{}{Ostseite}
 {212}{}{Wohnbereich von Den}
 {220}{}{Downtown}
 {221}{}{Trapperstadt}
@@ -31,7 +31,7 @@
 {270}{}{Virgin Street}
 {271}{}{2nd Street}
 {272}{}{Commercial Row}
-{273}{}{East Side}
+{273}{}{Ostseite}
 {274}{}{Chop Shop}
 {275}{}{Boxarena}
 {276}{}{Vertibird Bereich}

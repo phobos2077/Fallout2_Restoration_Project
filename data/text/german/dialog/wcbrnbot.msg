@@ -49,7 +49,7 @@
 {145}{}{Skynet hat alle benötigten Informationen zu dieser Umgebung erfasst.}
 {146}{}{Waaaaar.....tennnnnnn.}
 {147}{}{        [Er ist noch genau dort, wo du ihn zurückgelassen hast.]}
-{148}{}{Dann lass uns mal Tyler kalt stellen.}
+{148}{}{Lass uns gehen.}
 {149}{}{Bleib hier, ich komm zurück.}
 {150}{}{Skynet ist erfreut, diesen Menschen wiederzusehen.}
 {151}{}{Geeeee.....hennnnnnnnn}

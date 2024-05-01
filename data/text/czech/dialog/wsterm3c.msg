@@ -13,10 +13,10 @@
 {111}{}{Konec.}
 {112}{}{Eh...}
 {113}{}{Prosím čekejte...
-                                                      Robot - OK
-                                  Bio-Med gel nádrže - Plné
-                                         Organické paměťové centrum - Odezva OK
-                   Připraveno k aktivaci}
+Robot - OK
+Bio-Med gel nádrže - Plné
+Organické paměťové centrum - Odezva OK
+Připraveno k aktivaci}
 {114}{}{Prosím čekejte...
                                                       Robot - OK
                                   Bio-Med gel nádrže - Plné

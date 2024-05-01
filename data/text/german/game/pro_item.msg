@@ -583,7 +583,7 @@
 {29700}{}{Metallstab}
 {29701}{}{Das ist ein langer Metallstab. Was hattest du denn gedacht?}
 {29800}{}{Trapperstadtschlüssel}
-{29801}{}{Ein gewöhnlicher Schlüssel, den du in der Nähe von Vault 15 gefunden hast.}
+{29801}{}{Ein gewöhnlicher Schlüssel.}
 {29900}{}{Rohrgewehr}
 {29901}{}{Dies ist ein handgefertigtes Gewehr für einen Schuss. Mindest-ST: 5.}
 {30000}{}{Zip-Pistole}
@@ -595,7 +595,7 @@
 {30300}{}{Reaktor-Holo-Disk}
 {30301}{}{Die Beschriftung auf diesem Holoband lautet: "Reaktorleistungsdaten Gecko." Auf dieser Disk befindet sich eine Reihe von Zahlen, mit denen du nichts anfangen kannst. Bestimmt enthält die Disk wichtige Informationen, die irgend jemandem sehr viel bedeuten.}
 {30400}{}{Kartenspiel "Tragic"}
-{30401}{}{Dies ist ein Päckchen Sammelkarten. Könnte wohl ein teueres Hobby sein, wenn man mal angebissen hat.}
+{30401}{}{Dies ist ein Päckchen Sammelkarten. Könnte wohl ein teures Hobby sein, wenn man mal angebissen hat.}
 {30500}{}{Gelbe Reaktorkarte}
 {30501}{}{Elektronischer Sicherheitsschlüssel, gelbe Farbkodierung.}
 {30600}{}{Rote Reaktorkarte}
@@ -805,7 +805,7 @@
 {41300}{}{Stall-Kennmarke}
 {41301}{}{Temporärer Ausweis mit rotem Streifen, der vermutlich angibt, dass du ein "Forscher der Ställe" bist.}
 {41400}{}{Barackenschlüssel}
-{41401}{}{Ein gewöhnlicher Schlüssel, den du in der Nähe von Vault 15 gefunden hast.}
+{41401}{}{Ein gewöhnlicher Schlüssel.}
 {41500}{}{Brille}
 {41501}{}{Brille zur Korrektur von Sehfehlern.}
 {41600}{}{Leerer Jet-Kanister}

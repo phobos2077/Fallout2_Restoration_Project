@@ -204,7 +204,7 @@
 {2807}{}{Brauchst du Unterstützung?}
 {2808}{}{Du hast was zu reparieren, nicht wahr? Ich bin dein Mann, Boss!}
 {2809}{}{Keine Sorge, Boss. Sulik und ich werden uns verstehen, ehrlich.}
-{2810}{}{Dann lass uns mal Tyler kalt stellen.}
+{2810}{}{Lass uns gehen.}
 {2811}{}{Bleib hier. Ich bin gleich wieder da.}
 {2812}{}{Ich gehen.}
 {3100}{}{Was? Äh...na gut, Boss. Wie du meinst.}

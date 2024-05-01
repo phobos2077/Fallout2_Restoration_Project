@@ -151,8 +151,7 @@
 {382}{}{Jetzt hetz mich nicht. Ich hab viel zu tun. Idiot.}
 {383}{}{Tut mir leid, Frau Hochwohlgeboren, aber das Überleben der Stadt ist wohl doch etwas
  wichtiger. Jetzt mach endlich, ist das klar?}
-{400}{}{Ich hab hier einen Zettel mit deinem Namen drauf. Den hatte eine tote Frau in den Tunneln
- bei sich. Hast du dazu was zu sagen?}
+{400}{}{Ich hab hier einen Zettel mit deinem Namen drauf. Den hatte eine tote Frau in den Tunneln bei sich. Hast du dazu was zu sagen?}
 {401}{}{He, ich hab den Zettel gerade bekommen. Sprich da mit Francis drüber, OK? Er hat ihn
  geschrieben.}
 {402}{}{Wenn du etwas mit dem Tod dieser Leute zu tun hast, möchte ich das wissen.}

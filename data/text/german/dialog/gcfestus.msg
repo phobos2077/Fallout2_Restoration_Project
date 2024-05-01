@@ -145,7 +145,7 @@
 {810}{}{An den Stadtrat McClure muss man sich halten. OK, danke für den Hinweis. Ich denke, dann mach ich 's.}
 {811}{}{Klar, ich hab natürlich wahnsinnig Bock drauf, in Vault City als Mutie-Sympathisant eingebuchtet zu werden. Nein danke, Festus. Damit musst du selber fertig werden. Mach 's gut.}
 {812}{}{Das ist die richtige Einstellung! Hab gehofft, dass du das sagen würdest. Gigantisch. Diese Disk hier musst du auf dem Zentralcomputer von Vault City anwenden und dann wieder hierher zurückbringen. Wir nehmen weniger Uran. Dann wird die Verschmutzung geringer, und Vault City hat keinen Grund mehr herzukommen, um uns zu vernichten.}
-{813}{}{Ich möchte wirklich nicht, dass Gecko zerstört wird. Ich werd 's tun.}
+{813}{}{Ich möchte wirklich nicht, dass Gecko zerstört wird. Ich werd's tun.}
 {814}{}{Glaub nicht, dass ich das hinkrieg. Tut mir leid, Festus. Mach's gut.}
 {815}{}{Ich wünschte, ich hätte Zeit, selber zu gehen, aber es geht nicht. Darum kann ich nur eins sagen: Danke, Kumpel. Du tust uns allen hier einen großen Gefallen. (Schnief, schnief) Ich bin so stolz auf dich!}
 {816}{}{Ich denke, ich geh jetzt besser mal. Tschüss, Festus. Ich bin so bald ich kann mit den Daten, die du brauchst, zurück.}

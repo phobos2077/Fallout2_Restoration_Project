@@ -251,7 +251,7 @@
 {10011}{}{Ach, eigentlich ist es gar nicht nötig, irgendwas über deine Ausrüstung zu erfahren.}
 {10012}{}{Ich möchte, dass du deine Rüstung ablegst.}
 {10013}{}{Ich möchte wissen, mit was für Waffen du umgehen kannst.}
-{10100}{}{Dann lass uns mal Tyler kalt stellen.}
+{10100}{}{Lass uns gehen.}
 {20000}{}{Nichts passiert.}
 {20100}{}{Es ist kein Schloss an der Tür.}
 {21020}{}{zwanzig}

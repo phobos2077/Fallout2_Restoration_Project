@@ -50,7 +50,7 @@
 {199}{}{[SCHÜTTEL GRISHAMS HAND]}
 {200}{}{Moment mal. Wenn ich so drüber nachdenke, die Brahmin sahen recht dünn aus. Wie wär's mit $750?}
 {201}{}{Ich hab's mir überlegt, ich will dich nicht bezahlen.}
-{202}{}{[Zeigt dir ein grosses breites Grinsen] Schön zu sehen, dass du eine Person von Charakter bist.}
+{202}{}{[Zeigt dir ein großes breites Grinsen] Schön zu sehen, dass du eine Person mit Charakter bist.}
 {203}{}{[Grisham bekommt einen hochroten Kopf und spricht durch zusammengebissene Zähne.] OK, $750. Gib mir das Geld!}
 {204}{}{Also weißt du, $750 ist immer noch ziemlich teuer. Die Brahmin wären auch gestorben, wenn die Hunde sie nicht erwischt hätten. Aber ich bin kein Egoist, ich geb dir $50.}
 {206}{}{GUT! GIB MIR DAS GELD UND HAU AB!}

@@ -496,7 +496,7 @@
 {2037}{}{an den Flügeln}
 {2038}{}{uncalled}
 {5000}{}{ und tut wirklich weh}
-{5001}{}{. Grosser Schmerz wird zugefügt.}
+{5001}{}{. Großer Schmerz wird zugefügt}
 {5002}{}{ ohne Rüstungsschutz}
 {5003}{}{. Der zerstörerische Angriff macht ihn ohnmächtig}
 {5004}{}{. Der Schlag reißt ihn zu Boden}
@@ -534,7 +534,7 @@
 {5036}{}{. Die Schmerzen sind zu viel für ihn. Er bricht zusammen wie ein Lumpen}
 {5037}{}{. Er murmelt "Mutter", während sich seine Augen verdrehen}
 {5100}{}{ und tut wirklich weh}
-{5101}{}{. Grosser Schmerz wird zugefügt}
+{5101}{}{. Großer Schmerz wird zugefügt}
 {5102}{}{ ohne Rüstung}
 {5103}{}{. Der zerstörerische Angriff macht sie ohnmächtig}
 {5104}{}{. Der Schlag reißt sie zu Boden}

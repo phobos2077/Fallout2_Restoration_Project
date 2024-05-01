@@ -596,7 +596,7 @@
 {1506}{}{Broken Hills}
 {1507}{}{New Reno}
 {1508}{}{Armadni sklad Sierra}
-{1509}{}{Vaultu 15}
+{1509}{}{Vault 15}
 {1510}{}{New California Republic}
 {1511}{}{Vault 13}
 {1512}{}{Vojenska zakladna}

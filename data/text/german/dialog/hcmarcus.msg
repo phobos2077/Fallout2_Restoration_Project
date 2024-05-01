@@ -101,8 +101,7 @@
 {183}{}{Sicher. Ich habe noch weitere Fragen.}
 {184}{}{Wird gemacht. Tschüss.}
 {185}{mcs23}{So? Was denn?}
-{186}{}{Du hast mich doch mit der Suche nach den Vermissten beauftragt. Ich hab ein paar Tunnel
- unter der Stadt gefunden. Da könnten sie sein.}
+{186}{}{Du hast mich doch mit der Suche nach den Vermissten beauftragt. Ich hab ein paar Tunnel unter der Stadt gefunden. Da könnten sie sein.}
 {187}{}{Ich hab die Vermissten gefunden. Sie sind in den Tunneln unter der Stadt.}
 {188}{}{Die zwei ausgebrochenen Verbrecher? Die stecken doch mit Jacob und Aileen unter einer
  Decke und verstecken sich in Jacobs Alchemistenladen.}
@@ -116,8 +115,7 @@
 {193}{}{Chad hat ungefähr $1000 von der letzten Uranlieferung für sich behalten. Er will sich demnächst absetzen. 
  Ich hab hier eine Aktentasche mit Aufzeichnungen darüber.}
 {194}{}{Nichts, vergiss es.}
-{195}{mcs24}{Tunnel unter der Stadt? Das ist bei den Minen hier wohl nicht verwunderlich. Konzentrier
- du dich nur darauf, diese Leute zu finden, okay? }
+{195}{mcs24}{Tunnel unter der Stadt? Das ist bei den Minen hier wohl nicht verwunderlich. Konzentrier du dich nur darauf, diese Leute zu finden, okay?}
 {196}{}{Okay.}
 {197}{mcs25a}{Sie sind tot? Verdammt... Ich werde die Familien selbst benachrichtigen. }
 {198}{mcs25b}{Hier ist deine Belohnung. 500 Dollar. Danke für deine Hilfe.}
