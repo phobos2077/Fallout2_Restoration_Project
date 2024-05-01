@@ -39,7 +39,7 @@
 {138}{}{Ganz einfach. Ich hab die Navarro-Basis eines Tages verlassen und bin hier runter gekommen, weil ich dachte, das ist bestimmt der letzte Ort, wo man mich suchen wird. Außerdem bin ich nicht wichtig genug, als dass die Enklave nach mir suchen würde. Ich bin nur ein kleiner Fisch. }
 {139}{}{Was genau ist eigentlich die Enklave?}
 {140}{}{Danke. Tschüss.}
-{141}{}{Es gibt noch eine große Poseidon-Bohrinsel draußen auf dem Wasser. Sie ist die letzte Basis der Enklave.}
+{141}{}{Es gibt noch eine große Poseidon-Bohrinsel draußen auf dem Wasser. Sie ist die letzte Basis der Enklave}
 {142}{}{Woher weißt du das alles?}
 {143}{}{Was passiert sonst noch da draußen auf der Bohrinsel?}
 {144}{}{Danke. Tschüss.}
@@ -53,7 +53,7 @@
 {152}{}{Wie du diesen Kahn steuerst? Wie ich sehe, hast du ihn schon vollgetankt. Wenn du alles andere erledigt hast, musst du nur auf den Knopf drücken. Den Rest macht der Computer, wenn er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern - falls ihn das alte U-Boot nicht in die Luft jagt. Aber zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du musst nur dafür sorgen, dass du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
 {153}{}{Oh ja. Du musst auch den Navigationscomputer funktionstüchtig machen. Ich wette du findest in den alten Vaults die Teile.}
 {154}{}{Schön, dich wiederzusehen, Was brauchst du?}
-{155}{}{, und ich Wette, das deine Freunde auch dort sind.}
+{155}{}{und ich wette, dass deine Freunde auch dort sind.}
 {156}{}{.}
 {200}{}{Was für ein altes U-Boot?}
 {210}{}{Ein altes chinesisches U-Boot treibt da draußen in der Bucht. Von dem verdammten Ding krieg ich eine Gänsehaut, es lauert da draußen unter dem Wasser wie ein rostiger Geist. Ich bezweifle, dass es immer noch aktiv ist, aber wenn, dann könnten seine automatisierten Waffensysteme diesen Tanker in die Luft jagen, bevor du die Bohrinsel auch nur zu Gesicht bekommst.}

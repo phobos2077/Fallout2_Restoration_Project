@@ -139,7 +139,7 @@
 {306}{}{Jackelope}
 {307}{}{Zabiják}
 {308}{}{Šéf}
-{310}{}{Cisterna}
+{310}{}{Tanker}
 {311}{}{Muttley}
 {312}{}{Rýč}
 {313}{}{Larry}
