@@ -368,8 +368,8 @@ type_00=ratio:10%, pid:16777424, Item:273, Item:4, Item:(0-10)41, Script:765    
 type_01=ratio:10%, pid:16777424, Item:273, Item:4, Item:(0-10)41, Script:770               ; Nomad Shaman
 type_02=ratio:40%, pid:16777424, Item:49, Item:284, Item:7, Item:(0-10)41, Script:622      ; Male Nomad w/ Antidote, Meat Jerky, and Spear
 type_03=ratio:40%, pid:16777426, Item:273, Item:4, Item:(0-10)41, Script:622               ; Female Nomad w/ Healing Powder and  Knife
-type_02=pid:16777268, If (Rand(10%)), Script:1129                           ; Male Orphan
-type_03=pid:16777269, If (Rand(15%)), Script:1129                           ; Female Orphan
+type_04=pid:16777268, If (Rand(10%)), Script:1129                           ; Male Orphan
+type_05=pid:16777269, If (Rand(15%)), Script:1129                           ; Female Orphan
 position=cone, spacing:2
 team_num=129      ; TEAM_RND_NOMAD
 
