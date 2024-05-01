@@ -53,7 +53,7 @@ Q: I don't like some of the options I chose in the installer. Can I go back and 
 A: Many of the options you picked in the installer can be changed at any time. Go to your Fallout 2 directory and look for a file called ddraw.ini. Look through it for any options you wish to modify. "EnableHeroAppearanceMod=", "DamageFormula=" and "NPCAutoLevel=" are some of the options you could have set via the RP installer. The file is well documented, so it is pretty easy to tell what each option will do to your game. However, I suggest only making changes to this file if you really know what you're doing or were told to make a specific change.
 
 Q: I'm stuck on this one quest. Help me!
-A: Morticia and others have compiled a detailed walkthrough for my work. You can access it here: http://hem.bredband.net/darek1/f2rp_wt.htm
+A: Morticia and others have compiled a detailed walkthrough for my work. You can access it here: https://f2rp.bgforge.net/
 
 
 =================

@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 29](#version-29)
 - [Version 28](#version-28)
 - [Version 27](#version-27)
 - [Version 26](#version-26)
@@ -34,6 +35,26 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+### Version 29
+
+- Enhanced worldmap: visible city ruins are now present on tiles set as the "city" terrain type, by Lexx.
+- Installer
+  - More components are optional.
+
+- Abbey
+  - PC now always [notes](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/266) Peterson's complaints about crops.
+- Den
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/138) Lara giving out duplicate reward in residential area.
+- NCR
+  - Fixed Merk's warning float about the stairs.
+- Primitive Tribe
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/267) Sulik's appearance after parting ways with him in his tribe.
+- San Francisco
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/252) the submarine quest activating again after killing the dock guard.
+  - Fixed Dr. Wong's assassination sequence.
+- Vault City
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/260) intermittent crash when entering Vault City.
 
 ### Version 28
 
