@@ -101,12 +101,12 @@
 {422}{}{byla zasypána střepinami}
 {506}{}{Ty}
 {509}{}{Jejda! %s byl zasažen namísto cíle %s!}
-{511}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{511}{}{%s byl kriticky zasažen namísto %s a ztratil %d bodů zdraví}
 {512}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {513}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
 {514}{}{%s: nešikovně míjí}
 {515}{}{%s míjí}
-{520}{}{%s were critically hit for %d hit points}
+{520}{}{%s byl kriticky zasažen a ztratil %d hit bodů}
 {521}{}{%s were critically hit in %s for 1 hit point}
 {522}{}{%s were hit in %s for 1 hit point}
 {523}{}{%s were hit for 1 hit point}
@@ -119,12 +119,12 @@
 {534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {556}{}{Ty}
 {559}{}{Jejda! %s byl zasažen namísto cíle %s!}
-{561}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
+{561}{}{%s byl kriticky zasažen namísto %s a ztratil %d bodů zdraví}
 {562}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {563}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
 {564}{}{%s: nešikovně míjí}
 {565}{}{%s míjí}
-{570}{}{%s were critically hit for %d hit points}
+{570}{}{%s byl kriticky zasažen a ztratil %d hit bodů}
 {571}{}{%s were critically hit in %s for 1 hit point}
 {572}{}{%s were hit in %s for 1 hit point}
 {573}{}{%s were hit for 1 hit point}

@@ -2,7 +2,7 @@
 {101}{}{Vidíš Chrise, obsluhu čerpací stanice.}
 {102}{}{Vidíš starce oblečeného ve špinavém fialovém rouchu.}
 {103}{}{Zdravím tě, cizinče. Och! Podívejme se na to krásný auto. Už léta jsem žádné neviděl. Co pro tebe může starý Chris udělat?}
-{104}{}{Zdravím tě, cizinče. Nikdy jsem tě v těhlech končinách neviděl. Co pro tebe může starý Chris udělat?}
+{104}{}{Zdravím tě, cizinče. Nikdy jsem tě v těchto končinách neviděl. Co pro tebe může starý Chris udělat?}
 {105}{}{Co být tohle za místo?}
 {106}{}{Hledat Navarro. To být tady?}
 {107}{}{Vidět ty letět tady ocelové ptáky?}

@@ -65,9 +65,9 @@
 {164}{}{Vidíš starý kontejner bez zjevného odemykacího zařízení.}
 {165}{}{Vidíš starý kontejner se starým, rezavým zámkem.}
 {166}{}{Aktivuješ past a ta tě zasáhla za }
-{167}{}{ hit bodů.}
+{167}{}{ bodů poškození.}
 {168}{}{ aktivuje past a byl zasažen za }
-{169}{}{ hit bodů.}
+{169}{}{ bodů poškození.}
 {170}{}{Úspěšně odemykáš zámek kontejneru.}
 {171}{}{Díky své nešikovnosti se zámek kontejneru zasekl.}
 {172}{}{Nepodařilo se ti kontejner odemknout.}
@@ -77,16 +77,16 @@
 {176}{}{Podařilo se ti vypáčit zámek kontejneru.}
 {177}{}{Při páčení zámku sis poranil záda a to ti způsobilo jeden bod poškození.}
 {178}{}{Při páčení zámku sis poranil záda a to ti způsobilo poškození za }
-{179}{}{ hit bodů.}
+{179}{}{ bodů poškození.}
 {180}{}{Na vypáčení tohoto zámku nemáš dostatečnou sílu.}
 {181}{}{ se podařilo vypáčit zámek kontejneru.}
 {182}{}{ si poranil záda, když se pokoušel vypáčit zámek, což mu způsobilo jeden bod poškození.}
 {183}{}{ si poranil záda, když se pokoušel vypáčit zámek, což mu způsobilo poškození za }
-{184}{}{ hit bodů.}
+{184}{}{ bodů poškození.}
 {185}{}{ nemá na vypáčení zámku dostatečnou sílu.}
 {186}{}{ si poranila záda, když se pokoušela vypáčit zámek, což jí způsobilo jeden bod poškození.}
 {187}{}{ si poranila záda, když se pokoušela vypáčit zámek, což jí způsobilo poškození za }
-{188}{}{ hit bodů.}
+{188}{}{ bodů poškození.}
 {189}{}{Úspěšně zamykáš kontejner.}
 {190}{}{Nepodařilo se ti kontejner zamknout.}
 {191}{}{ úspěšně zamyká kontejner.}

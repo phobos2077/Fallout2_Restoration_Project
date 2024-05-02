@@ -50,4 +50,4 @@
 {300}{}{Vypadá to, že je v počítači nějaký obranný mechanismus.}
 {301}{}{Dostáváš ránu a ztrácíš }
 {302}{}{ dostává ránu a ztrácí }
-{303}{}{ hit bodů.}
+{303}{}{ bodů poškození.}

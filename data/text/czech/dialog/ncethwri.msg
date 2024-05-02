@@ -162,7 +162,8 @@
 {461}{}{::Nechat ji vyzpovídat se.::}
 {462}{}{Ano, Ethyl... další důkaz toho, jak je alkohol ďábelský. Nutí lidi dělat hrozné věci. OBZVLÁŠŤ pokud se to týká dvou ďáblů v podobě peněz a moci.}
 {463}{}{Asi chcete být teď chvíli sama... vrátím se později.}
-{470}{}{(Zhluboka se nadechne.) Ale já ho DONUTÍM dodržet slib, i kdybych tu palírnu měla zničit vlastníma rukama. A pak si s Orvillem pěkně popovídám! Uvidíme, co na to ten malej syčák řekne!}
+{470}{}{(Zhluboka se nadechne.) Ale já ho DONUTÍM dodržet slib, i kdybych tu palírnu měla zničit vlastníma rukama.
+ A pak si s Orvillem pěkně popovídám! Uvidíme, co na to ten malej syčák řekne!}
 {471}{}{Netrapte se tím, paní Wrightová. Už je o to postaráno.}
 {472}{}{Kde je ta palírna? Zničím ji za vás.}
 {473}{}{Ne, nechte to na mně. Je pod železniční stanicí, že ano? Postarám se o ni.}

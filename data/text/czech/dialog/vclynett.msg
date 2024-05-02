@@ -616,7 +616,8 @@ Vítejte v našem městě... pustina vás zcela jistě vysílila.}
 {714}{}{Tak dobře, udělám to. }
 {715}{}{Díky, ale ne. Nemám na to čas.}
 {716}{lyn120}{Roger Westin byl pravděpodobně jediný čestný muž v té jejich republice, který nám byl nakloněn... jeho smrt je pro nás strašnou ztrátou.}
-{717}{}{Jo, byl to docela drsnej stařík. Dobrej chlap. Spousta hit bodů. Takže... dostanu odměnu za všechny ty informace, co jsem pro vás získal, nebo...?}
+{717}{}{Jo, byl to docela drsnej stařík. Dobrej chlap. Měl tuhej kořínek. Takže... dostanu odměnu
+ za všechny ty informace, co jsem pro vás získal, nebo...?}
 {718}{}{Jo, taky je mi to líto. Je to jako bych ho viděl včera.}
 {719}{lyn121a}{Myslím, že už jsem vám zaplatila za vyřízení "nájezdníků." Jsme vyrovnáni. Teď odejděte.}
 {720}{lyn121b}{Ano, ano... velmi dobrá práce. Prosím... přijměte toto jako svoji odměnu.}
