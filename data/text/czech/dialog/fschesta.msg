@@ -4,7 +4,7 @@
 {103}{}{Zdravím. Prosím zadejte heslo pro ověření totožnosti.}
 {104}{}{? Já nerozumět velká slova.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
-{106}{}{::hacknout se do počítače::}
+{106}{}{Nabourej se do počítače.}
 {107}{}{Odhlásit se.}
 {108}{}{Chemická databáze: -Paliva a deriváty- -Polymery-}
 {109}{}{Paliva a deriváty.}
@@ -12,7 +12,7 @@
 {111}{}{Deaktivovat pracovní stanici.}
 {112}{}{Odhlásit se.}
 {113}{}{Prosím, obraťte se na správce systému. Nashledanou.}
-{114}{}{::hacknout se do počítače::}
+{114}{}{Nabourej se do počítače.}
 {115}{}{Odejít.}
 {116}{}{Zaznamenán nepovolený přístup. Automatické vypnutí. Přeji hezký den.}
 {117}{}{[KONEC]}
@@ -34,6 +34,6 @@
 {133}{}{[Více]}
 {134}{}{Počítač nereaguje na žádnou klávesu.}
 {135}{}{Nemáš tušení kam to vložit.}
-{136}{}{::hádat heslo::}
+{136}{}{Zkus uhádnout heslo.}
 {137}{}{Převést palivo potrubím.}
 {138}{}{Vyžadován cíl.}

@@ -180,7 +180,7 @@
 {1502}{}{Baterie auta je vybitá.}
 {1503}{}{Toto je auto. Nevypadá, že by bylo funkční.}
 {2998}{}{Setkáváš se:}
-{2999}{}{Chceš se setkat}
+{2999}{}{Chceš se setkat:}
 {3000}{}{s tlupou nájezdníků.}
 {3001}{}{se skupinou radškorpionů.}
 {3002}{}{s obřími krysami.}

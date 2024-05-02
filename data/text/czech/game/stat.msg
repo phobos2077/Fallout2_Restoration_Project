@@ -83,7 +83,7 @@
 {307}{}{Bezva}
 {308}{}{Skvělé}
 {309}{}{Super}
-{310}{}{Úžasné}
+{310}{}{Super}
 {400}{}{Nespotřebované dovednostní body}
 {401}{}{Úroveň}
 {402}{}{Zkušenost}

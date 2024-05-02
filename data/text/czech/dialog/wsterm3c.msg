@@ -66,7 +66,7 @@ Připraveno k aktivaci}
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{Zahajuji startovací sekvenci:}
+{164}{}{Zahajuji startovací sekvenci}
 {165}{}{                                   Výkon - nominální}
 {166}{}{                                              Synchronizace - 75%}
 {167}{}{                                             Jednotka provozuschopná}

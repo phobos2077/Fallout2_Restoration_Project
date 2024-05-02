@@ -39,9 +39,9 @@
 {3002}{}{Cítíš se o trochu lépe.}
 {3003}{}{Cítíš se lépe.}
 {4000}{}{Kvůli tvému neodbornému zacházení výbušnina předčasně explodovala.}
-{5000}{}{používá:}
-{5001}{}{nemá náboje pro zbraň:}
-{5002}{}{nabíjí zbraň:}
+{5000}{}{používá}
+{5001}{}{nemá náboje pro}
+{5002}{}{nabíjí}
 {6000}{}{Zeptat se na co?}
 {7000}{}{Nemáš u sebe Pip-Boy!}
 {8000}{}{Neseš toho příliš mnoho.}

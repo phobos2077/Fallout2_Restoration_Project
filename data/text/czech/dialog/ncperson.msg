@@ -107,7 +107,7 @@
 {329}{}{Zatracená smůla...}
 {330}{}{Prý má dorazit nová karavana otroků.}
 {331}{}{V bordelu maj prej novou várku otroků.}
-{332}{}{::Odplivne si::}
+{332}{}{Pozor jdou k vám kuřátka.}
 {333}{}{Dneska to tady celý vyberu.}
 {334}{}{Ožrat se jako prase někdy nepomáhá.}
 {335}{}{Zatracený všudybylové v kasínech...}
@@ -156,7 +156,7 @@
 {397}{}{Zatracený turisti.}
 {398}{}{Zatracená smůla...}
 {399}{}{Prý má dorazit nová karavana otroků.}
-{400}{}{::Odplivne si::}
+{400}{}{Pozor jdou k vám kuřátka.}
 {401}{}{Dneska to tady celý vyberu.}
 {402}{}{Ožrat se jako prase někdy nepomáhá.}
 {403}{}{Zatracený všudybylové v kasínech...}
@@ -200,7 +200,7 @@
 {458}{}{Zatracený turisti.}
 {459}{}{Zatracená smůla...}
 {460}{}{Prý má dorazit nová karavana otroků.}
-{461}{}{::Odplivne si::}
+{461}{}{Pozor jdou k vám kuřátka.}
 {462}{}{Dneska to tady celý vyberu.}
 {463}{}{Ožrat se jako prase někdy nepomáhá.}
 {464}{}{Zatracený všudybylové v kasínech...}
@@ -306,7 +306,7 @@
 {616}{}{Do hajzlu! No jen si to představ, už jsem byl v plusu 53 babek a najednou...}
 {617}{}{Dávej si tady radši pozor, nebo skončíš v Golgotě.}
 {618}{}{New Reno by nebylo tak špatný místo, nebejt všech těch zatracenejch turistů.}
-{619}{}{::Odplivne si::}
+{619}{}{Pozor jdou k vám kuřátka.}
 {620}{}{Dneska to tady celý vyberu.}
 {621}{}{Ožrat se jako prase někdy nepomáhá.}
 {622}{}{Zatracený všudybylové v kasínech...}
@@ -346,7 +346,7 @@
 {667}{}{Do hajzlu! No jen si to představ, už jsem byl v plusu 53 babek a najednou...}
 {668}{}{Dávej si tady radši pozor, nebo skončíš v Golgotě.}
 {669}{}{New Reno by nebylo tak špatný místo, nebejt všech těch zatracenejch turistů.}
-{670}{}{::Odplivne si::}
+{670}{}{Pozor jdou k vám kuřátka.}
 {671}{}{Dneska to tady celý vyberu.}
 {672}{}{Ožrat se jako prase někdy nepomáhá.}
 {673}{}{Zatracený všudybylové v kasínech...}
@@ -390,7 +390,7 @@
 {713}{}{New Reno by nebylo tak špatný místo, nebejt všech těch zatracenejch turistů.}
 {714}{}{Prý má dorazit nová karavana otroků.}
 {715}{}{V bordelu maj prej novou várku otroků.}
-{716}{}{::Odplivne si::}
+{716}{}{Pozor jdou k vám kuřátka.}
 {717}{}{Dneska to tady celý vyberu.}
 {718}{}{Ožrat se jako prase někdy nepomáhá.}
 {719}{}{Zatracený všudybylové v kasínech...}

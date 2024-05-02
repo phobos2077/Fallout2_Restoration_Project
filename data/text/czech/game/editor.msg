@@ -68,8 +68,8 @@
 {205}{}{Dobré}
 {206}{}{Bezva}
 {207}{}{Skvělé}
-{208}{}{Skvělé}
-{209}{}{Úžasné}
+{208}{}{Úžasné}
+{209}{}{Super}
 {300}{editor}{Hit body}
 {301}{}{Akční body}
 {302}{editor}{Třída zbroje}
