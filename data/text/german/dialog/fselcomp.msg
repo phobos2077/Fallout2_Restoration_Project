@@ -1,7 +1,6 @@
 {100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst einen Hubologen-Computer.}
-{102}{}{Du siehst einen Computer. Er ist zwar recht primitiv, scheint aber funktionsfähig zu
- sein.}
+{102}{}{Du siehst einen Computer. Er ist zwar recht primitiv, scheint aber funktionsfähig zu sein.}
 {103}{}{Dieses Gerät akzeptiert keine Befehle. Auf Wiedersehen.}
 {104}{}{[Was immer du auch versuchst, du kannst den Code des Computers nicht knacken.]}
 {105}{}{Abmelden.}

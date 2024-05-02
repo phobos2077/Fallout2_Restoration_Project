@@ -66,7 +66,7 @@
 {335}{}{Dulni chodby}
 {340}{}{- Čínská čtvrť}
 {341}{}{- Přístav}
-{342}{}{Cisterna}
+{342}{}{Tanker}
 {343}{}{Pristavaci draha}
 {344}{}{- Vnitřek raketoplánu}
 {345}{}{Zakladna Hubologistu}

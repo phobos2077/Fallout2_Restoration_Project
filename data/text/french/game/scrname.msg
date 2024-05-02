@@ -1439,7 +1439,7 @@
 {1539}{}{Porte}
 {1540}{}{Ordinateur}
 {1541}{}{Champ de force}
-{1542}{}{Dynamite (Minuterie activée)}
+{1542}{}{Dynamite}
 {1543}{}{Détonateur Dynamite}
 {1544}{}{Trucs sur un Bureau}
 {1545}{}{Placard}

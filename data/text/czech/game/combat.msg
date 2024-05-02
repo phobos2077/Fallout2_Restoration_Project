@@ -22,9 +22,9 @@
 {212}{}{zbraň ti vybuchla v rukou}
 {213}{}{tvá zbraň byla zničena}
 {214}{}{zbraň ti upadla na zem}
-{215}{}{ztratila jsi svůj další tah}
+{215}{}{další tah se bude vzpamatovávat.}
 {216}{}{zasáhla jsi sama sebe}
-{217}{}{ztratila jsi zbytek munice}
+{217}{}{se ztrátou zbývající munice}
 {218}{}{vystřelila naprázdno}
 {219}{}{zranila jsi sama sebe}
 {220}{}{náhodně zasáhla}
@@ -45,9 +45,9 @@
 {262}{}{zbraň ti vybuchla v rukou}
 {263}{}{tvá zbraň byla zničena}
 {264}{}{zbraň ti upadla na zem}
-{265}{}{ztratila jsi svůj další tah}
+{265}{}{další tah se bude vzpamatovávat.}
 {266}{}{zasáhla jsi sama sebe}
-{267}{}{ztratila jsi zbytek munice}
+{267}{}{se ztrátou zbývající munice}
 {268}{}{vystřelila naprázdno}
 {269}{}{zranila jsi sama sebe}
 {270}{}{náhodně zasáhla}

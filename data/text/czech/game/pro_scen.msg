@@ -2490,21 +2490,21 @@
 {158301}{}{Energetické pole blokující cestu.}
 {158400}{}{Silové pole}
 {158401}{}{Energetické pole blokující cestu.}
-{158500}{}{Cisterna}
-{158600}{}{Cisterna}
-{158700}{}{Cisterna}
-{158800}{}{Cisterna}
-{158900}{}{Cisterna}
-{159000}{}{Cisterna}
-{159100}{}{Cisterna}
-{159200}{}{Cisterna}
-{159300}{}{Cisterna}
-{159400}{}{Cisterna}
-{159500}{}{Cisterna}
-{159600}{}{Cisterna}
-{159700}{}{Cisterna}
-{159800}{}{Cisterna}
-{159900}{}{Cisterna}
+{158500}{}{Tanker}
+{158600}{}{Tanker}
+{158700}{}{Tanker}
+{158800}{}{Tanker}
+{158900}{}{Tanker}
+{159000}{}{Tanker}
+{159100}{}{Tanker}
+{159200}{}{Tanker}
+{159300}{}{Tanker}
+{159400}{}{Tanker}
+{159500}{}{Tanker}
+{159600}{}{Tanker}
+{159700}{}{Tanker}
+{159800}{}{Tanker}
+{159900}{}{Tanker}
 {160000}{}{Stěna}
 {160100}{}{Stěna}
 {160200}{}{Propadlina}
