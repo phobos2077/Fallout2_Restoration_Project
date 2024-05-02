@@ -100,7 +100,7 @@
 {421}{}{jedna z jejích končetin byla zmrzačena}
 {422}{}{byla zasypána střepinami}
 {506}{}{Ty}
-{509}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
+{509}{}{Jejda! %s byl zasažen namísto cíle %s!}
 {511}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
 {512}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {513}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
@@ -118,7 +118,7 @@
 {533}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {556}{}{Ty}
-{559}{}{Jejda! Kritický zásah do: %s. Zamýšlený cíl: %s!}
+{559}{}{Jejda! %s byl zasažen namísto cíle %s!}
 {561}{}{Kritický zásah do: %s. Místo zásahu: %s. Ztráta %d bodů zdraví}
 {562}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {563}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
@@ -135,7 +135,7 @@
 {578}{}{%s were critically hit for no damage}
 {583}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {584}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
-{608}{}{Jejda! Místo tebe zasaženo: %s!}
+{608}{}{Jejda! %s byl zasažen místo tebe!}
 {609}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
 {611}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
 {612}{}{Zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
@@ -153,7 +153,7 @@
 {628}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
 {633}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {634}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
-{708}{}{Jejda! Místo tebe zasaženo: %s!}
+{708}{}{Jejda! %s byl zasažen místo tebe!}
 {709}{}{Jejda! Mířeno do: %s. Zasaženo: %s!}
 {711}{}{Kritický zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}
 {712}{}{Zásah do: %s. Trefeno: %s. Ztráta %d hit bodů}

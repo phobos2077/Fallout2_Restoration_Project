@@ -80,7 +80,7 @@
 {307}{}{Odol. v. radiaci}
 {308}{editor}{Postřeh}
 {309}{editor}{Uzdravování}
-{310}{editor}{Šance na kritický zásah}
+{310}{editor}{Kritický zásah}
 {311}{editor}{Nosnost}
 {312}{}{Otrava}
 {313}{}{Ozáření}
