@@ -101,7 +101,7 @@
 {422}{}{byla zasypána střepinami}
 {506}{}{Ty}
 {509}{}{Jejda! %s byl zasažen namísto cíle %s!}
-{511}{}{%s byl kriticky zasažen namísto %s a ztratil %d bodů zdraví}
+{511}{}{%s byl kriticky zasažen %s a ztratil %d bodů zdraví}
 {512}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {513}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
 {514}{}{%s: nešikovně míjí}
@@ -119,7 +119,7 @@
 {534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {556}{}{Ty}
 {559}{}{Jejda! %s byl zasažen namísto cíle %s!}
-{561}{}{%s byl kriticky zasažen namísto %s a ztratil %d bodů zdraví}
+{561}{}{%s byl kriticky zasažen %s a ztratil %d bodů zdraví}
 {562}{}{Zásah do: %s. Zasaženo: %s. Ztráta %d bodů zdraví}
 {563}{}{Cíl %s byl zasažen a ztratil %d bodů zdraví}
 {564}{}{%s: nešikovně míjí}
@@ -176,16 +176,16 @@
 {1112}{}{pravá ruka}
 {1113}{}{hrudník}
 {1114}{}{pravá noha}
-{1115}{}{levá noha}
+{1115}{}{do levý nohy}
 {1116}{}{oči}
 {1117}{}{genitálie}
 {1118}{}{uncalled}
 {1150}{}{hlava}
-{1151}{}{levá zadní noha}
+{1151}{}{do levý zadní nohy}
 {1152}{}{pravá zadní noha}
 {1153}{}{hrudník}
 {1154}{}{pravá přední noha}
-{1155}{}{levá přední noha}
+{1155}{}{do levý přední nohy}
 {1156}{}{oči}
 {1157}{}{vemeno}
 {1158}{}{uncalled}
@@ -212,7 +212,7 @@
 {1182}{}{pravá ruka}
 {1183}{}{hrudník}
 {1184}{}{pravá noha}
-{1185}{}{levá noha}
+{1185}{}{do levý nohy}
 {1186}{}{oči}
 {1187}{}{genitálie}
 {1188}{}{uncalled}
@@ -221,7 +221,7 @@
 {1192}{}{pravá tlapa}
 {1193}{}{trup}
 {1194}{}{pravá noha}
-{1195}{}{levá noha}
+{1195}{}{do levý nohy}
 {1196}{}{oči}
 {1197}{}{genitálie}
 {1198}{}{uncalled}
@@ -230,7 +230,7 @@
 {1212}{}{pravá ruka}
 {1213}{}{hrudník}
 {1214}{}{pravá noha}
-{1215}{}{levá noha}
+{1215}{}{do levý nohy}
 {1216}{}{oči}
 {1217}{}{genitálie}
 {1218}{}{uncalled}
@@ -257,7 +257,7 @@
 {1242}{}{pravá tlapa}
 {1243}{}{trup}
 {1244}{}{pravá noha}
-{1245}{}{levá noha}
+{1245}{}{do levý nohy}
 {1246}{}{oči}
 {1247}{}{genitálie}
 {1248}{}{uncalled}
@@ -266,7 +266,7 @@
 {1252}{}{pravá ruka}
 {1253}{}{trup}
 {1254}{}{pravá noha}
-{1255}{}{levá noha}
+{1255}{}{do levý nohy}
 {1256}{}{oči}
 {1257}{}{genitálie}
 {1258}{}{uncalled}
@@ -275,7 +275,7 @@
 {1272}{}{pravá ruka}
 {1273}{}{hrudník}
 {1274}{}{pravá noha}
-{1275}{}{levá noha}
+{1275}{}{do levý nohy}
 {1276}{}{oči}
 {1277}{}{genitálie}
 {1278}{}{uncalled}
@@ -284,7 +284,7 @@
 {1462}{}{pravá ruka}
 {1463}{}{hrudník}
 {1464}{}{pravá noha}
-{1465}{}{levá noha}
+{1465}{}{do levý nohy}
 {1466}{}{oči}
 {1467}{}{genitálie}
 {1468}{}{uncalled}
@@ -293,7 +293,7 @@
 {1492}{}{pravá ruka}
 {1493}{}{hrudník}
 {1494}{}{pravá noha}
-{1495}{}{levá noha}
+{1495}{}{do levý nohy}
 {1496}{}{oči}
 {1497}{}{genitálie}
 {1498}{}{uncalled}
@@ -311,7 +311,7 @@
 {1512}{}{pravá ruka}
 {1513}{}{hrudník}
 {1514}{}{pravá noha}
-{1515}{}{levá noha}
+{1515}{}{do levý nohy}
 {1516}{}{oči}
 {1517}{}{genitálie}
 {1518}{}{uncalled}
@@ -347,7 +347,7 @@
 {1552}{}{pravá tlapa}
 {1553}{}{trup}
 {1554}{}{pravá noha}
-{1555}{}{levá noha}
+{1555}{}{do levý nohy}
 {1556}{}{oči}
 {1557}{}{genitálie}
 {1558}{}{uncalled}
@@ -374,7 +374,7 @@
 {1602}{}{pravá ruka}
 {1603}{}{hrudník}
 {1604}{}{pravá noha}
-{1605}{}{levá noha}
+{1605}{}{do levý nohy}
 {1606}{}{oči}
 {1607}{}{genitálie}
 {1608}{}{uncalled}
@@ -392,7 +392,7 @@
 {1662}{}{gatling}
 {1663}{}{trup}
 {1664}{}{pravá noha}
-{1665}{}{levá noha}
+{1665}{}{do levý nohy}
 {1666}{}{čidla}
 {1667}{}{kloub}
 {1668}{}{uncalled}
@@ -401,7 +401,7 @@
 {1672}{}{pravá pracka}
 {1673}{}{trup}
 {1674}{}{pravá noha}
-{1675}{}{levá noha}
+{1675}{}{do levý nohy}
 {1676}{}{oči}
 {1677}{}{genitálie}
 {1678}{}{uncalled}
@@ -410,7 +410,7 @@
 {1682}{}{pravá pracka}
 {1683}{}{trup}
 {1684}{}{pravá noha}
-{1685}{}{levá noha}
+{1685}{}{do levý nohy}
 {1686}{}{oči}
 {1687}{}{genitálie}
 {1688}{}{uncalled}
@@ -419,7 +419,7 @@
 {1802}{}{pravé tykadlo}
 {1803}{}{trup}
 {1804}{}{pravá noha}
-{1805}{}{levá noha}
+{1805}{}{do levý nohy}
 {1806}{}{oči?}
 {1807}{}{tříselná jamka}
 {1808}{}{uncalled}
@@ -428,7 +428,7 @@
 {1852}{}{pravá ruka}
 {1853}{}{hrudník}
 {1854}{}{pravá noha}
-{1855}{}{levá noha}
+{1855}{}{do levý nohy}
 {1856}{}{oči}
 {1857}{}{genitálie}
 {1858}{}{uncalled}
@@ -437,7 +437,7 @@
 {1862}{}{pravé tykadlo}
 {1863}{}{trup}
 {1864}{}{pravá noha}
-{1865}{}{levá noha}
+{1865}{}{do levý nohy}
 {1866}{}{oči?}
 {1867}{}{tříselná jamka}
 {1868}{}{uncalled}
@@ -451,11 +451,11 @@
 {1907}{}{regulátor}
 {1908}{}{uncalled}
 {1970}{}{hlava}
-{1971}{}{levá přední noha}
+{1971}{}{do levý přední nohy}
 {1972}{}{pravá přední noha}
 {1973}{}{břicho}
 {1974}{}{pravá zadní noha}
-{1975}{}{levá zadní noha}
+{1975}{}{do levý zadní nohy}
 {1976}{}{tykadla}
 {1977}{}{kladélko}
 {1978}{}{uncalled}
@@ -464,7 +464,7 @@
 {1992}{}{pravá ruka}
 {1993}{}{hrudník}
 {1994}{}{pravá noha}
-{1995}{}{levá noha}
+{1995}{}{do levý nohy}
 {1996}{}{oči}
 {1997}{}{genitálie}
 {1998}{}{uncalled}
@@ -473,7 +473,7 @@
 {2002}{}{pravá ruka}
 {2003}{}{hrudník}
 {2004}{}{pravá noha}
-{2005}{}{levá noha}
+{2005}{}{do levý nohy}
 {2006}{}{oči}
 {2007}{}{genitálie}
 {2008}{}{uncalled}

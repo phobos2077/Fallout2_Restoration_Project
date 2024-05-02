@@ -1,7 +1,7 @@
 {100}{}{Vidíš mutanta s unavenýma očima.}
 {101}{}{Vidíš Elma, opilého mutanta.}
 {102}{}{Vidíš mutanta, který se na tebe stěží soustředí.}
-{103}{}{Au, bolí mě hlava.}
+{103}{}{Au, bolí mě palice.}
 {104}{}{Proč se vždycky musím vzbudit ve vězení?}
 {105}{}{Zastavte někdo tu místnost, ať se netočí...}
 {106}{}{Myslím, že budu blejt.}

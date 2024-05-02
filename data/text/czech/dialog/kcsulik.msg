@@ -6,7 +6,8 @@
 {105}{}{Eh?}
 {107}{slk2a}{Ach ne. S ty nechtíti mluvila. Taková jako ty, nám ségra naše vzíti. Špatná pověst... ty mít.}
 {108}{slk2b}{Ach ne. My nebaviti s otrokář!}
-{109}{slk3}{Mnoho lidí míti ducha zlého v sobě. Ty? Ty míti hloupá ducha. Za šaman ty choditi, šaman on udělati díra do hlava... velká díra... velmi moc velká... obrovská.}
+{109}{slk3}{Mnoho lidí míti ducha zlého v sobě. Ty? Ty míti hloupá ducha.
+ Za šaman ty choditi, šaman on udělati díra do hlava... velká díra... velmi moc velká... obrovská.}
 {110}{}{Ee?}
 {111}{}{E-he!}
 {112}{}{Gug! (tvářit se, že tě to zajímá)}

@@ -101,7 +101,9 @@
 {200}{}{Počkej chvíli. Snažíš se mi říct, že jsi jeden z těch vojáků, kteří sem byli přeloženi?}
 {201}{}{Hmm... jo tak.}
 {202}{}{Přesně tak.}
-{203}{}{Sákryš. Promiň mi to lhaní. Chodí nám sem spousta nováčků a mým úkolem je oddělit zrno od plev. Jdi nahoru k bráně, projdi skrz stromy a řekni jim heslo. Je to 'Ovčí hlava.' Jo a neuhýbej z té cesty!}
+{203}{}{Sákryš. Promiň mi to lhaní.
+ Chodí nám sem spousta nováčků a mým úkolem je oddělit zrno od plev.
+ Jdi nahoru k bráně, projdi skrz stromy a řekni jim heslo. Je to 'Ovčí hlava.' Jo a neuhýbej z té cesty!}
 {204}{}{Díky!}
 {205}{}{Počkej chvíli, blbečku. Snažíš se mi říct, že jsi jeden z těch vojáků, kteří sem byli přeloženi? Proč tedy nejsi sám?}
 {206}{}{Počkej chvíli. Snažíš se mi říct, že jsi jeden z těch vojáků, kteří sem byli přeloženi? Proč tedy nejsi sám?}

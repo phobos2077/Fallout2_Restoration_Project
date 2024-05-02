@@ -1,7 +1,9 @@
 {100}{}{Vidíš velký kamenný monument. Zdá se, že... si pro sebe něco mumlá?}
-{101}{}{Vidíš kamenný monument v podobě hlavy Zakladatele. Podoba je docela věrná, i když pochybuješ, že jeho hlava byla tak veliká.}
+{101}{}{Vidíš kamenný monument v podobě hlavy Zakladatele. Podoba je docela věrná,
+ i když pochybuješ, že jeho hlava byla tak veliká.}
 {102}{}{Vidíš velký kamenný monument.}
-{103}{}{Vidíš kamenný monument v podobě hlavy Zakladatele. Podoba je docela věrná, i když pochybuješ, že jeho hlava byla tak veliká.}
+{103}{}{Vidíš kamenný monument v podobě hlavy Zakladatele. Podoba je docela věrná,
+ i když pochybuješ, že jeho hlava byla tak veliká.}
 {104}{}{Zatracení turisti...}
 {105}{}{"Jsem Vyvolený"}
 {106}{}{Být tebou, Vyvolený, zmizel bych odsud.}
@@ -15,7 +17,8 @@
 {114}{}{Ti kamenožraví mravenci tady jistě každou chvíli budou a sežerou mě.}
 {115}{}{"Staň se velikou kamennou hlavou! Uvidíš svět!" Takové kecy.}
 {116}{}{Nemám nejmenší tušení, jak jsem se ocitl uprostřed téhle pouště.}
-{117}{}{Pořád nechápu, proč musím být tady uprostřed pouště, zatímco ta druhá hlava si spokojeně hoví ve vesnici.}
+{117}{}{Pořád nechápu, proč musím být tady uprostřed pouště, zatímco ta druhá hlava
+ si spokojeně hoví ve vesnici.}
 {118}{}{Tím chci říct, že ji uctívají, čistí, lidé se k ní modlí... a já se můžu akorát tak celý den dívat na písek.}
 {119}{}{Slyšel jsem, že se ti kluci na Velikonočních ostrovech nemají špatně.}
 {120}{}{Vsadím se, že má Stonehenge větší návštěvnost než já.}

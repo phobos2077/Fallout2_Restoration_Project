@@ -45,7 +45,8 @@
 {144}{}{Bude se cítit jako znovuzrozený... ::sípavě:: za směšných $50.}
 {145}{}{Zaplatím.}
 {146}{}{Zapomeň na to.}
-{147}{}{Dostali jste se do pěkné šlamastiky, že? Také jsem byl v mládí horká hlava a pár jich koupil. Tohle neštěstí tě přijde na $100.}
+{147}{}{Dostali jste se do pěkné šlamastiky, že? Také jsem byl v mládí horká hlava a pár jich koupil.
+ Tohle neštěstí tě přijde na $100.}
 {148}{}{Zaplatím.}
 {149}{}{Zapomeň na to.}
 {150}{}{Poslyš, dáváš vůbec pozor na svoje přátele? ::zakašlání:: Jestli chceš, abych se o toho kamaráda postaral, tak mi zaplať $150.}

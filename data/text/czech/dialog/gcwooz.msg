@@ -156,7 +156,8 @@
 {521}{}{Ze stromu? Mám pocit, že se v té tvojí hatmatilce ztrácím... chlape. Eh, chci se ještě na něco zeptat.}
 {530}{}{Jo, je to hlava. A není připojená k tělu. Vidíš, je useknutá.}
 {531}{}{Useknutá hlava. To vidím. A kdy to začne být vtipné?}
-{540}{}{Už brzo. Tahle useknutá hlava, víš, je v Pekle. (haha) A lítá všude kolem, víš, v Pekle. A naráží tam do různých známých lidí... (hohoho)}
+{540}{}{Už brzo. Tahle useknutá hlava, víš, je v Pekle. (haha) A lítá všude kolem, víš, v Pekle.
+ A naráží tam do různých známých lidí... (hohoho)}
 {541}{}{Počkej, useknutá hlava je v Pekle a lítá kolem... a co dělá?}
 {550}{}{No, dělá různé věci. (hehe) Vždyť víš. Dělá věci, které chce dělat, nebo možná věci, které musí dělat. Pointa je v tom, že dělá věci, víš, tam v Pekle. Ach Bože, (hahaha) nemůžu to vydržet!}
 {551}{}{Nejsi tím tak trochu posedlý? Hmm. Nebyli jste si s matkou příliš blízcí? Neměl jsi problémy s pomočováním?}
