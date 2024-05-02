@@ -18,7 +18,10 @@
 {117}{}{Chci jen vědět, kdo jsi a co se tady děje.}
 {118}{}{Opravdu? Skvělé! Tak jdeme.}
 {119}{}{Dobře.}
-{120}{}{V krátkosti, jmenuju se Chrissy a jsem ze Squatu. Byla jsem minulý týden venku na průzkumu a našla jsem tu nějaký vchod. Myslela jsem si, že by to mohl být třeba starý opuštěný důl nebo tak něco. Rozhodla jsem se to zjistit. No a není to důl, je to tajný vstup do Vaultu 15. Vault používá banda nájezdníků jako svoji základnu. Říkají si Khanové. Chytili mě, když jsem čmuchala kolem a jejich vůdce, Darion, mě tady zamknul.}
+{120}{}{V krátkosti, jmenuju se Chrissy a jsem ze Squatu. Byla jsem minulý týden venku na průzkumu a našla jsem tu nějaký vchod.
+ Myslela jsem si, že by to mohl být třeba starý opuštěný důl nebo tak něco. Rozhodla jsem se to zjistit.
+ No a není to důl, je to tajný vstup do Vaultu 15. Vault používá banda nájezdníků jako svoji základnu.
+ Říkají si Khanové. Chytili mě, když jsem čmuchala kolem a jejich vůdce, Darion, mě tady zamknul.}
 {121}{}{Tak jo. Já vzít ty domů.}
 {122}{}{Tak dobře, vezmu tě domů.}
 {123}{}{No to mě podrž. Dneska musí být můj šťastný den. Čemu vděčím za to, že tě zase vidím?}

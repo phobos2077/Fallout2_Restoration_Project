@@ -47,7 +47,8 @@
 {146}{}{Kolik ještě musíš zaplatit Lou?}
 {147}{}{A to ti s těmi penězi nemůže pomoct tvůj přítel?}
 {148}{}{To je opravdu smutný příběh, ale podle mě ty peníze brzy seženeš. Stačí když budeš pořádně roztahovat nohy. Sbohem.}
-{149}{}{Potřebuju jen $200 a můj přítel a já odsud odejdeme nezadlužení a volní. Už žádný divný, špinavý lidi, co mě osahávaj ve dne v noci. Eh, bez urážky.}
+{149}{}{Potřebuju jen $200 a můj přítel a já odsud odejdeme nezadlužení a volní.
+ Už žádný divný, špinavý lidi, co mě osahávaj ve dne v noci. Eh, bez urážky.}
 {150}{}{V pohodě. Já tě snad neosahával, nebo jo? Nicméně, můžu tě odsud vyplatit. Tady máš $200.}
 {151}{}{To je opravdu smutné. No, asi by ses měla vrátit do práce. Sbohem.}
 {152}{}{Ach, díky, díky. A já myslela, že tak hodní lidi existujou jenom ve snech. Jseš nejlepší. Ještě jednou díky.

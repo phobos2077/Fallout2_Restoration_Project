@@ -78,7 +78,7 @@
 {365}{}{Ich muss jetzt gehen. Wir sehen uns später, Jimmy.}
 {375}{}{(Jimmy wird plötzlich ganz still. Vielleicht hast du sein Gehirn gelähmt.)}
 {376}{}{(Stiehl alles, was er bei sich hat.)}
-{377}{}{ Arbeit hier ist getan.}
+{377}{}{ , Arbeit hier ist getan.}
 {385}{}{Jagged Jimmy J hat viel Liebe für die Welt übrig, Pilot, aber die Welt liebt Jagged Jimmy J nicht immer zurück, kapiert?}
 {386}{}{Ich hab dich verstanden. Ich hab's kapiert.}
 {387}{}{Wem sagst du das. Manchmal kann die Welt grausam sein.}

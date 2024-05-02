@@ -171,32 +171,32 @@
 {728}{}{Kritický zásah do: %s. Útok nezpůsobil žádné zranění.}
 {733}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {734}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
-{1110}{}{hlava}
-{1111}{}{levá ruka}
-{1112}{}{pravá ruka}
-{1113}{}{hrudník}
-{1114}{}{pravá noha}
+{1110}{}{do hlavy}
+{1111}{}{do levý ruky}
+{1112}{}{do pravý ruky}
+{1113}{}{do hrudníku}
+{1114}{}{do pravý nohy}
 {1115}{}{do levý nohy}
-{1116}{}{oči}
-{1117}{}{genitálie}
+{1116}{}{do očí}
+{1117}{}{mezi nohy}
 {1118}{}{uncalled}
-{1150}{}{hlava}
+{1150}{}{do hlavy}
 {1151}{}{do levý zadní nohy}
-{1152}{}{pravá zadní noha}
-{1153}{}{hrudník}
-{1154}{}{pravá přední noha}
+{1152}{}{do pravý zadní nohy}
+{1153}{}{do hrudníku}
+{1154}{}{do pravý přední nohy}
 {1155}{}{do levý přední nohy}
-{1156}{}{oči}
-{1157}{}{vemeno}
+{1156}{}{do očí}
+{1157}{}{do vemena}
 {1158}{}{uncalled}
-{1160}{}{hlava}
-{1161}{}{zadní noha}
-{1162}{}{zadní noha}
+{1160}{}{do hlavy}
+{1161}{}{do zadní nohy}
+{1162}{}{do zadní nohy}
 {1163}{}{trup}
-{1164}{}{přední noha}
-{1165}{}{přední noha}
-{1166}{}{oči}
-{1167}{}{genitálie}
+{1164}{}{do přední nohy}
+{1165}{}{do přední nohy}
+{1166}{}{do očí}
+{1167}{}{mezi nohy}
 {1168}{}{uncalled}
 {1170}{}{CPU}
 {1171}{}{manipulátor}
@@ -207,121 +207,121 @@
 {1176}{}{čidla}
 {1177}{}{regulátor}
 {1178}{}{uncalled}
-{1180}{}{hlava}
-{1181}{}{levá ruka}
-{1182}{}{pravá ruka}
-{1183}{}{hrudník}
-{1184}{}{pravá noha}
+{1180}{}{do hlavy}
+{1181}{}{do levý ruky}
+{1182}{}{do pravý ruky}
+{1183}{}{do hrudníku}
+{1184}{}{do pravý nohy}
 {1185}{}{do levý nohy}
-{1186}{}{oči}
-{1187}{}{genitálie}
+{1186}{}{do očí}
+{1187}{}{mezi nohy}
 {1188}{}{uncalled}
-{1190}{}{hlava}
-{1191}{}{levá tlapa}
-{1192}{}{pravá tlapa}
+{1190}{}{do hlavy}
+{1191}{}{do levý tlapy}
+{1192}{}{do pravý tlapy}
 {1193}{}{trup}
-{1194}{}{pravá noha}
+{1194}{}{do pravý nohy}
 {1195}{}{do levý nohy}
-{1196}{}{oči}
-{1197}{}{genitálie}
+{1196}{}{do očí}
+{1197}{}{mezi nohy}
 {1198}{}{uncalled}
-{1210}{}{hlava}
-{1211}{}{levá ruka}
-{1212}{}{pravá ruka}
-{1213}{}{hrudník}
-{1214}{}{pravá noha}
+{1210}{}{do hlavy}
+{1211}{}{do levý ruky}
+{1212}{}{do pravý ruky}
+{1213}{}{do hrudníku}
+{1214}{}{do pravý nohy}
 {1215}{}{do levý nohy}
-{1216}{}{oči}
-{1217}{}{genitálie}
+{1216}{}{do očí}
+{1217}{}{mezi nohy}
 {1218}{}{uncalled}
-{1220}{}{hlava}
-{1221}{}{ocas}
+{1220}{}{do hlavy}
+{1221}{}{do ocasu}
 {1222}{}{klepeto}
-{1223}{}{krunýř}
-{1224}{}{přední nohy}
-{1225}{}{zadní nohy}
-{1226}{}{oči}
-{1227}{}{mozek}
+{1223}{}{do krunýře}
+{1224}{}{do předních nohou}
+{1225}{}{do zadních nohou}
+{1226}{}{do očí}
+{1227}{}{do mozku}
 {1228}{}{uncalled}
-{1230}{}{hlava}
+{1230}{}{do hlavy}
 {1231}{}{tlama}
 {1232}{}{horní tlama}
 {1233}{}{trup}
 {1234}{}{zásobní vak}
-{1235}{}{ocas}
+{1235}{}{do ocasu}
 {1236}{}{uzlina}
 {1237}{}{kladélko}
 {1238}{}{uncalled}
-{1240}{}{hlava}
-{1241}{}{levá tlapa}
-{1242}{}{pravá tlapa}
+{1240}{}{do hlavy}
+{1241}{}{do levý tlapy}
+{1242}{}{do pravý tlapy}
 {1243}{}{trup}
-{1244}{}{pravá noha}
+{1244}{}{do pravý nohy}
 {1245}{}{do levý nohy}
-{1246}{}{oči}
-{1247}{}{genitálie}
+{1246}{}{do očí}
+{1247}{}{mezi nohy}
 {1248}{}{uncalled}
-{1250}{}{hlava}
-{1251}{}{levá ruka}
-{1252}{}{pravá ruka}
+{1250}{}{do hlavy}
+{1251}{}{do levý ruky}
+{1252}{}{do pravý ruky}
 {1253}{}{trup}
-{1254}{}{pravá noha}
+{1254}{}{do pravý nohy}
 {1255}{}{do levý nohy}
-{1256}{}{oči}
-{1257}{}{genitálie}
+{1256}{}{do očí}
+{1257}{}{mezi nohy}
 {1258}{}{uncalled}
-{1270}{}{hlava}
-{1271}{}{levá ruka}
-{1272}{}{pravá ruka}
-{1273}{}{hrudník}
-{1274}{}{pravá noha}
+{1270}{}{do hlavy}
+{1271}{}{do levý ruky}
+{1272}{}{do pravý ruky}
+{1273}{}{do hrudníku}
+{1274}{}{do pravý nohy}
 {1275}{}{do levý nohy}
-{1276}{}{oči}
-{1277}{}{genitálie}
+{1276}{}{do očí}
+{1277}{}{mezi nohy}
 {1278}{}{uncalled}
-{1460}{}{hlava}
-{1461}{}{levá ruka}
-{1462}{}{pravá ruka}
-{1463}{}{hrudník}
-{1464}{}{pravá noha}
+{1460}{}{do hlavy}
+{1461}{}{do levý ruky}
+{1462}{}{do pravý ruky}
+{1463}{}{do hrudníku}
+{1464}{}{do pravý nohy}
 {1465}{}{do levý nohy}
-{1466}{}{oči}
-{1467}{}{genitálie}
+{1466}{}{do očí}
+{1467}{}{mezi nohy}
 {1468}{}{uncalled}
-{1490}{}{hlava}
-{1491}{}{levá ruka}
-{1492}{}{pravá ruka}
-{1493}{}{hrudník}
-{1494}{}{pravá noha}
+{1490}{}{do hlavy}
+{1491}{}{do levý ruky}
+{1492}{}{do pravý ruky}
+{1493}{}{do hrudníku}
+{1494}{}{do pravý nohy}
 {1495}{}{do levý nohy}
-{1496}{}{oči}
-{1497}{}{genitálie}
+{1496}{}{do očí}
+{1497}{}{mezi nohy}
 {1498}{}{uncalled}
-{1500}{}{hlava}
+{1500}{}{do hlavy}
 {1501}{}{???}
 {1502}{}{???}
 {1503}{}{konstrukce}
 {1504}{}{???}
 {1505}{}{???}
-{1506}{}{oči}
+{1506}{}{do očí}
 {1507}{}{CPU}
 {1508}{}{uncalled}
-{1510}{}{hlava}
-{1511}{}{levá ruka}
-{1512}{}{pravá ruka}
-{1513}{}{hrudník}
-{1514}{}{pravá noha}
+{1510}{}{do hlavy}
+{1511}{}{do levý ruky}
+{1512}{}{do pravý ruky}
+{1513}{}{do hrudníku}
+{1514}{}{do pravý nohy}
 {1515}{}{do levý nohy}
-{1516}{}{oči}
-{1517}{}{genitálie}
+{1516}{}{do očí}
+{1517}{}{mezi nohy}
 {1518}{}{uncalled}
-{1520}{}{hlava}
+{1520}{}{do hlavy}
 {1521}{}{přední noha}
 {1522}{}{přední noha}
 {1523}{}{břicho}
 {1524}{}{nohy}
 {1525}{}{křídla}
-{1526}{}{oči}
+{1526}{}{do očí}
 {1527}{}{kladélko}
 {1528}{}{uncalled}
 {1530}{}{CPU}
@@ -342,41 +342,41 @@
 {1546}{}{čidla}
 {1547}{}{regulátor}
 {1548}{}{uncalled}
-{1550}{}{hlava}
-{1551}{}{levá tlapa}
-{1552}{}{pravá tlapa}
+{1550}{}{do hlavy}
+{1551}{}{do levý tlapy}
+{1552}{}{do pravý tlapy}
 {1553}{}{trup}
-{1554}{}{pravá noha}
+{1554}{}{do pravý nohy}
 {1555}{}{do levý nohy}
-{1556}{}{oči}
-{1557}{}{genitálie}
+{1556}{}{do očí}
+{1557}{}{mezi nohy}
 {1558}{}{uncalled}
-{1580}{}{krunýř}
-{1581}{}{krunýř}
-{1582}{}{krunýř}
-{1583}{}{krunýř}
-{1584}{}{krunýř}
-{1585}{}{krunýř}
-{1586}{}{krunýř}
-{1587}{}{krunýř}
+{1580}{}{skořápka}
+{1581}{}{skořápka}
+{1582}{}{skořápka}
+{1583}{}{skořápka}
+{1584}{}{skořápka}
+{1585}{}{skořápka}
+{1586}{}{skořápka}
+{1587}{}{skořápka}
 {1588}{}{uncalled}
-{1590}{}{hlava}
-{1591}{}{ocas}
+{1590}{}{do hlavy}
+{1591}{}{do ocasu}
 {1592}{}{klepeto}
-{1593}{}{krunýř}
-{1594}{}{přední nohy}
-{1595}{}{zadní nohy}
-{1596}{}{oči}
-{1597}{}{mozek}
+{1593}{}{do krunýře}
+{1594}{}{do předních nohou}
+{1595}{}{do zadních nohou}
+{1596}{}{do očí}
+{1597}{}{do mozku}
 {1598}{}{uncalled}
-{1600}{}{hlava}
-{1601}{}{levá ruka}
-{1602}{}{pravá ruka}
-{1603}{}{hrudník}
-{1604}{}{pravá noha}
+{1600}{}{do hlavy}
+{1601}{}{do levý ruky}
+{1602}{}{do pravý ruky}
+{1603}{}{do hrudníku}
+{1604}{}{do pravý nohy}
 {1605}{}{do levý nohy}
-{1606}{}{oči}
-{1607}{}{genitálie}
+{1606}{}{do očí}
+{1607}{}{mezi nohy}
 {1608}{}{uncalled}
 {1650}{}{tlama}
 {1651}{}{stonek}
@@ -387,59 +387,59 @@
 {1656}{}{smyslové úponky}
 {1657}{}{podstava}
 {1658}{}{uncalled}
-{1660}{}{hlava}
+{1660}{}{do hlavy}
 {1661}{}{raketomet}
 {1662}{}{gatling}
 {1663}{}{trup}
-{1664}{}{pravá noha}
+{1664}{}{do pravý nohy}
 {1665}{}{do levý nohy}
 {1666}{}{čidla}
 {1667}{}{kloub}
 {1668}{}{uncalled}
-{1670}{}{hlava}
+{1670}{}{do hlavy}
 {1671}{}{levá pracka}
 {1672}{}{pravá pracka}
 {1673}{}{trup}
-{1674}{}{pravá noha}
+{1674}{}{do pravý nohy}
 {1675}{}{do levý nohy}
-{1676}{}{oči}
-{1677}{}{genitálie}
+{1676}{}{do očí}
+{1677}{}{mezi nohy}
 {1678}{}{uncalled}
-{1680}{}{hlava}
+{1680}{}{do hlavy}
 {1681}{}{levá pracka}
 {1682}{}{pravá pracka}
 {1683}{}{trup}
-{1684}{}{pravá noha}
+{1684}{}{do pravý nohy}
 {1685}{}{do levý nohy}
-{1686}{}{oči}
-{1687}{}{genitálie}
+{1686}{}{do očí}
+{1687}{}{mezi nohy}
 {1688}{}{uncalled}
-{1800}{}{hlava}
+{1800}{}{do hlavy}
 {1801}{}{levé tykadlo}
 {1802}{}{pravé tykadlo}
 {1803}{}{trup}
 {1804}{}{pravá noha}
 {1805}{}{do levý nohy}
 {1806}{}{oči?}
-{1807}{}{tříselná jamka}
+{1807}{}{do pohlavních žláz}
 {1808}{}{uncalled}
-{1850}{}{hlava}
-{1851}{}{levá ruka}
-{1852}{}{pravá ruka}
-{1853}{}{hrudník}
-{1854}{}{pravá noha}
+{1850}{}{do hlavy}
+{1851}{}{do levý ruky}
+{1852}{}{do pravý ruky}
+{1853}{}{do hrudníku}
+{1854}{}{do pravý nohy}
 {1855}{}{do levý nohy}
-{1856}{}{oči}
-{1857}{}{genitálie}
+{1856}{}{do očí}
+{1857}{}{mezi nohy}
 {1858}{}{uncalled}
-{1860}{}{hlava}
+{1860}{}{do hlavy}
 {1861}{}{levé tykadlo}
 {1862}{}{pravé tykadlo}
 {1863}{}{trup}
 {1864}{}{pravá noha}
 {1865}{}{do levý nohy}
 {1866}{}{oči?}
-{1867}{}{tříselná jamka}
+{1867}{}{do pohlavních žláz}
 {1868}{}{uncalled}
 {1900}{}{CPU}
 {1901}{}{zbraň}
@@ -450,32 +450,32 @@
 {1906}{}{čidla}
 {1907}{}{regulátor}
 {1908}{}{uncalled}
-{1970}{}{hlava}
+{1970}{}{do hlavy}
 {1971}{}{do levý přední nohy}
-{1972}{}{pravá přední noha}
+{1972}{}{do pravý přední nohy}
 {1973}{}{břicho}
-{1974}{}{pravá zadní noha}
+{1974}{}{do pravý zadní nohy}
 {1975}{}{do levý zadní nohy}
-{1976}{}{tykadla}
+{1976}{}{do tykadel}
 {1977}{}{kladélko}
 {1978}{}{uncalled}
-{1990}{}{hlava}
-{1991}{}{levá ruka}
-{1992}{}{pravá ruka}
-{1993}{}{hrudník}
-{1994}{}{pravá noha}
+{1990}{}{do hlavy}
+{1991}{}{do levý ruky}
+{1992}{}{do pravý ruky}
+{1993}{}{do hrudníku}
+{1994}{}{do pravý nohy}
 {1995}{}{do levý nohy}
-{1996}{}{oči}
-{1997}{}{genitálie}
+{1996}{}{do očí}
+{1997}{}{mezi nohy}
 {1998}{}{uncalled}
-{2000}{}{hlava}
-{2001}{}{levá ruka}
-{2002}{}{pravá ruka}
-{2003}{}{hrudník}
-{2004}{}{pravá noha}
+{2000}{}{do hlavy}
+{2001}{}{do levý ruky}
+{2002}{}{do pravý ruky}
+{2003}{}{do hrudníku}
+{2004}{}{do pravý nohy}
 {2005}{}{do levý nohy}
-{2006}{}{oči}
-{2007}{}{genitálie}
+{2006}{}{do očí}
+{2007}{}{mezi nohy}
 {2008}{}{uncalled}
 {2010}{}{CPU}
 {2011}{}{zbraň}
@@ -486,13 +486,13 @@
 {2016}{}{čidla}
 {2017}{}{regulátor}
 {2018}{}{uncalled}
-{2030}{}{hlava}
+{2030}{}{do hlavy}
 {2031}{}{žihadlo}
 {2032}{}{tykadla}
 {2033}{}{hrudník}
-{2034}{}{přední nohy}
-{2035}{}{zadní nohy}
-{2036}{}{oči}
+{2034}{}{do předních nohou}
+{2035}{}{do zadních nohou}
+{2036}{}{do očí}
 {2037}{}{křídla}
 {2038}{}{uncalled}
 {5000}{}{. Tohle docela ublížilo.}

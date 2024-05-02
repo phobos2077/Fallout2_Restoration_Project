@@ -1025,7 +1025,7 @@
 {52900}{}{Minen-Grabungsmaschine}
 {53000}{}{Messer "End Boss"}
 {53100}{}{Plasmagewehr "End Boss"}
-{53200}{}{Sam Pritchard's Karte}
+{53200}{}{Sam Pritchards Karte}
 {53201}{}{Diese schlampig gezeichnete Karte zeigt die Gegend um New Reno. Sieht ganz so aus, als sein eine art Militärbasis im Norden.}
 {53300}{}{Feuergeckohaut}
 {53301}{}{Die getrocknete und präparierte Haut eines Feuergeckos. Sie ist stark verbrannt und hat deshalb wenig Wert.}

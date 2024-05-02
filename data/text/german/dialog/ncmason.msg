@@ -41,7 +41,7 @@
 {306}{}{Oh, ich geh schon rein. Nachdem ich dich umgelegt habe.}
 {307}{}{Danke, Pickelfresse. Ich werde Mr. Salvatore gegenüber deine Manieren hervorheben.}
 {308}{}{Also gut.}
-{315}{}{(Mason hält dich auf.) Hör zu... (beugt sich her, senkt die Stimme) ...ein paar Grundregeln, Junge.}
+{315}{}{(Mason hält dich auf.) Hör zu... (beugt sich her, senkt die Stimme) ...ein paar Grundregeln, Junge. }
 {316}{}{Hör zu... (beugt sich her, senkt die Stimme) ...ein paar Grundregeln, Mädchen.}
 {317}{}{Verschwende Mr. Salvatores Zeit nicht und erzähl ihm nicht irgendeinen Mist, sonst kriegst du's mit mir zu tun.}
 {318}{}{Verstanden.}
