@@ -98,7 +98,7 @@
 {4901}{}{Un flacon contenant un antidote de fabrication artisanale contre le poison. Liquide laiteux avec des morceaux flottants de chair de radscorpion.}
 {5000}{}{Objet réservé}
 {5001}{}{Ceci est un objet réservé. NE PAS UTILISER.}
-{5100}{}{Dynamite (Minuterie activée)}
+{5100}{}{Dynamite}
 {5101}{}{Un explosif puissant, composé de nitroglycérine mélangée avec de la substance absorbante à base de kiselguhr. Comprend une minuterie.}
 {5200}{}{Compteur Geiger (Activé)}
 {5201}{}{Un compteur Geiger Wattz Electronics, modèle C-Radz. Cet appareil détecte et indique le taux des radiations.}
@@ -166,7 +166,7 @@
 {8301}{}{Clés multiples.}
 {8400}{}{Des passe-partouts.}
 {8401}{}{Un jeu d'outils de serrurerie. Comprend tous les pics et clés à enrouleur nécessaires pour ouvrir les serrures à gorge ou à broche conventionnelles.}
-{8500}{}{Plastic (Minuterie activée)}
+{8500}{}{Plastic}
 {8501}{}{Un morceau de Cordex, une marque militaire d'explosifs au plastic. Très stable, très dévastateur. Comprend une minuterie.}
 {8600}{}{Guide de l'Eclaireur}
 {8601}{}{Un livre sur les méthodes de reconnaissance. Comporte des informations très pratiques pour la vie au grand air.}
@@ -400,13 +400,13 @@
 {20400}{}{Boîte}
 {20500}{}{Fusée éclairante (Allumée)}
 {20501}{}{Une fusée éclairante. Produit de la lumière pour une courte période. Le carton est un peu écorné, mais elle est en bon état. Elle est allumée.}
-{20600}{}{Dynamite (Minuterie activée)}
+{20600}{}{Dynamite}
 {20601}{}{Un explosif puissant, composé de nitroglycérine mélangée avec de la substance absorbante à base de kiselguhr. Comprend une minuterie, qui est activée.}
 {20700}{}{Compteur Geiger (Activé)}
 {20701}{}{Un compteur Geiger Wattz Electronics, modèle C-Radz. Cet appareil détecte et indique le taux des radiations. Il est activé.}
 {20800}{}{Détecteur de mouvements (Activé)}
 {20801}{}{Un détecteur de mouvements Wattz Electronics, modèle C-U. Détecte les mouvements des créatures biologiques sur plusieurs mètres à la ronde grâce à un radar spécialement conçu. Il est activé.}
-{20900}{}{Plastic (Minuterie activée)}
+{20900}{}{Plastic}
 {20901}{}{Un morceau de Cordex, une marque militaire d'explosifs au plastic. Très stable, très dévastateur. Comprend une minuterie, qui est activée.}
 {21000}{}{Homme invisible (Activé)}
 {21001}{}{Appareil de furtivité personnel Homme Invisible 3001 de RobCo. Génère un champ de modulation transmettant la lumière réfléchie d'un côté à l'autre d'un objet, ce qui rend son porteur beaucoup plus difficile à voir.}
