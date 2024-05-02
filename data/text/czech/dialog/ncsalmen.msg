@@ -68,7 +68,7 @@
 {275}{}{Radši zmiz, nebo budeš mít problémy.}
 {276}{}{Jestli máš aspoň špetku rozumu, tak odsud vypadni, nebo si tě podáme.}
 {277}{}{Jestli se tady budeš ještě chvíli ochomejtat, tak si koleduješ o malér.}
-{278}{}{Nevím, co tady chceš,  }
+{278}{}{Nevím, co tady chceš, }
 {279}{}{Nevím, o co se tu snažíš, }
 {280}{}{Doporučuju ti opustit tohle místo. Rychle.}
 {285}{}{Kdo tě učil boxovat? Jseš smrtící.}

@@ -95,7 +95,7 @@
 {487}{}{Na zdraví!}
 {488}{}{Ahoj.}
 {500}{}{Jak jsi jenom mohl ublížit chudince Mámě?}
-{501}{}{Znám...  chci říct, znal jsem Mámu celej svůj život.}
+{501}{}{Znám... chci říct, znal jsem Mámu celej svůj život.}
 {502}{}{Co ti kdy udělala?}
 {503}{}{Vrahu! Chudák Máma...}
 {504}{}{Proč jsi to jenom musel udělat?}

@@ -8,9 +8,9 @@
 {501}{}{Malý zmutovaný škorpion.}
 {600}{}{Radškorpion}
 {601}{}{Zmutovaný škorpion.}
-{700}{}{párač                                                         }
+{700}{}{Párač}
 {701}{}{Mládě párače.}
-{800}{}{párač                                                         }
+{800}{}{Párač}
 {801}{}{Mládě párače.}
 {900}{}{Pes}
 {901}{}{Vypadá to na nějaké smíšené plemeno.}
@@ -93,7 +93,7 @@
 {8200}{}{Zdivočelé plemeno psa.}
 {8201}{}{Zdivočelé plemeno psa.}
 {8300}{}{Zlatý geckon}
-{8400}{}{párač                                                         }
+{8400}{}{Párač}
 {8500}{}{Líhně páračů}
 {8600}{}{Odolný zlatý geckon}
 {8700}{}{Lynette}

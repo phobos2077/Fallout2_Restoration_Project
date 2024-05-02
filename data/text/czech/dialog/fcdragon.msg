@@ -119,7 +119,7 @@
 {226}{}{VYHRÁL jsi!}
 {227}{}{PROHRÁL jsi!}
 {228}{}{Další protivník!}
-{230}{}{Nejprve musíš prokázat, že to dokážeš. Postavím tě proti svým pěti bojovníkům -  postupně. Když je porazíš, čeká na tebe tvoje poslední zkouška.}
+{230}{}{Nejprve musíš prokázat, že to dokážeš. Postavím tě proti svým pěti bojovníkům - postupně. Když je porazíš, čeká na tebe tvoje poslední zkouška.}
 {231}{}{Co to máš?}
 {232}{}{To zní moc obtížně. Nashle.}
 {233}{}{Budeš muset porazit mého vybraného žáka. Nicméně žádný z těchto soubojů nebude na smrt.}

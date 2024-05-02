@@ -33,7 +33,7 @@
 {182}{}{Šel na východ?}
 {183}{}{Šel na západ?}
 {186}{}{HAF?}
-{187}{}{Dobře, dobře...  možná někde jinde?}
+{187}{}{Dobře, dobře... možná někde jinde?}
 {190}{}{Hrál si na kovboje a indiány a přitom náhodou spadl do studny a ty po mně chceš, abych sehnal lano a spustil se dolů pro něj. Dobře, tak pojď, Laddie. (Úžasné!)}
 {191}{}{Hrál si na kovboje a indiány a přitom náhodou spadl do studny a ty po mně chceš, abych použil lano a spustil se dolů pro něj. Dobře, tak pojď, Laddie. (Úžasné!)}
 {195}{}{Dobře, seženu lano a slezu dolů pro Jonnyho.}

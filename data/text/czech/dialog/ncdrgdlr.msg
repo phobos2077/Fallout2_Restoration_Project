@@ -18,7 +18,7 @@
 {214}{}{Řekni mi, jak ti můžu pomoct, hrdino. Řekni mi, co chceš a já ti dám takovou cenu, jakou ti nedá nikdo jinej široko daleko.}
 {215}{}{Chceš oslavit to vítězství trochou Jetu, hrdino? Tak to jseš na správným místě. PRO TEBE je všechno se slevou.}
 {216}{}{To nejmenší, co pro tebe můžu udělat, je dát ti slevu na všechno, hrdino. Je to můj způsob, jak ti poděkovat za záchranu našich zadků.}
-{217}{}{Není nic lepšího, než si dát trochu Jetu po  zaslouženým vítězství nad Enklávou, co říkáš? Nemám pravdu? Všechen můj matroš je se slevou.}
+{217}{}{Není nic lepšího, než si dát trochu Jetu po zaslouženým vítězství nad Enklávou, co říkáš? Nemám pravdu? Všechen můj matroš je se slevou.}
 {218}{}{Mám matroš, po kterým se budeš cítit jako v sedmým nebi, hrdino. A speciálně pro tebe mám parádní slevu. Co tomu říkáš?}
 {219}{}{Ty mít dobroty? }
 {220}{}{Odbelhat se.}

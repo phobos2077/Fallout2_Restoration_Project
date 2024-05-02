@@ -67,7 +67,7 @@
 {166}{}{Ne.}
 {167}{}{Formátuji... formátuji... formátování dokončeno. Restart vyžaduje plnou instalaci. Vypínání. Vypnutí... počítače... dokončeno...}
 {168}{}{[KONEC]}
-{169}{}{Vyhledat data: - Botanický program  - Genetický program - Xeno program.}
+{169}{}{Vyhledat data: - Botanický program - Genetický program - Xeno program.}
 {170}{}{Botanický program.}
 {171}{}{Genetický program.}
 {172}{}{Xeno program.}

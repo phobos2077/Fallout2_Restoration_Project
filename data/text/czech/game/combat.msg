@@ -107,14 +107,14 @@
 {514}{}{%s: nešikovně míjí}
 {515}{}{%s míjí}
 {520}{}{%s byl kriticky zasažen a ztratil %d hit bodů}
-{521}{}{%s were critically hit in %s for 1 hit point}
-{522}{}{%s were hit in %s for 1 hit point}
-{523}{}{%s were hit for 1 hit point}
-{524}{}{%s were critically hit for 1 hit point}
-{525}{}{%s were critically hit in %s for no damage}
-{526}{}{%s were hit in %s for no damage}
-{527}{}{%s were hit for no damage}
-{528}{}{%s were critically hit for no damage}
+{521}{}{%s byla kriticky zasažena %s a ztratila 1 bod zdraví}
+{522}{}{%s byl zasažen %s a ztratila 1 bod zdraví}
+{523}{}{%s byl zasažen a ztratil 1 bod zdraví}
+{524}{}{%s byl kriticky zasažen a ztratil 1 bod zdraví}
+{525}{}{%s byl kriticky zasažen %s, ale útok nezpůsobil žádná zranění}
+{526}{}{% byl zasažen %s, ale útok nezpůsobil žádná zranění}
+{527}{}{%s byl zasažen, ale útok nezpůsobil žádná zranění}
+{528}{}{%s byl kriticky zasažen, ale útok nezpůsobil žádná zranění}
 {533}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {534}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {556}{}{Ty}
@@ -125,14 +125,14 @@
 {564}{}{%s: nešikovně míjí}
 {565}{}{%s míjí}
 {570}{}{%s byl kriticky zasažen a ztratil %d hit bodů}
-{571}{}{%s were critically hit in %s for 1 hit point}
-{572}{}{%s were hit in %s for 1 hit point}
-{573}{}{%s were hit for 1 hit point}
-{574}{}{%s were critically hit for 1 hit point}
-{575}{}{%s were critically hit in %s for no damage}
-{576}{}{%s were hit in %s for no damage}
-{577}{}{%s were hit for no damage}
-{578}{}{%s were critically hit for no damage}
+{571}{}{%s byla kriticky zasažena %s a ztratila 1 bod zdraví}
+{572}{}{%s byl zasažen %s a ztratila 1 bod zdraví}
+{573}{}{%s byl zasažen a ztratil 1 bod zdraví}
+{574}{}{%s byl kriticky zasažen a ztratil 1 bod zdraví}
+{575}{}{%s byl kriticky zasažen %s, ale útok nezpůsobil žádná zranění}
+{576}{}{% byl zasažen %s, ale útok nezpůsobil žádná zranění}
+{577}{}{%s byl zasažen, ale útok nezpůsobil žádná zranění}
+{578}{}{%s byl kriticky zasažen, ale útok nezpůsobil žádná zranění}
 {583}{}{%s nešikovně míjí a navíc se zraněním za1 hit bod}
 {584}{}{%s nešikovně míjí a navíc se zraněním za %d hit bodů}
 {608}{}{Jejda! %s byl zasažen místo tebe!}
@@ -236,7 +236,7 @@
 {1218}{}{uncalled}
 {1220}{}{do hlavy}
 {1221}{}{do ocasu}
-{1222}{}{klepeto}
+{1222}{}{do klepet}
 {1223}{}{do krunýře}
 {1224}{}{do předních nohou}
 {1225}{}{do zadních nohou}
@@ -318,11 +318,11 @@
 {1520}{}{do hlavy}
 {1521}{}{přední noha}
 {1522}{}{přední noha}
-{1523}{}{břicho}
+{1523}{}{do břicha}
 {1524}{}{nohy}
-{1525}{}{křídla}
+{1525}{}{do křídel}
 {1526}{}{do očí}
-{1527}{}{kladélko}
+{1527}{}{do kladélka}
 {1528}{}{uncalled}
 {1530}{}{CPU}
 {1531}{}{manipulátor}
@@ -362,7 +362,7 @@
 {1588}{}{uncalled}
 {1590}{}{do hlavy}
 {1591}{}{do ocasu}
-{1592}{}{klepeto}
+{1592}{}{do klepet}
 {1593}{}{do krunýře}
 {1594}{}{do předních nohou}
 {1595}{}{do zadních nohou}
@@ -397,8 +397,8 @@
 {1667}{}{kloub}
 {1668}{}{uncalled}
 {1670}{}{do hlavy}
-{1671}{}{levá pracka}
-{1672}{}{pravá pracka}
+{1671}{}{do levý pracky}
+{1672}{}{do pravý pracky}
 {1673}{}{trup}
 {1674}{}{do pravý nohy}
 {1675}{}{do levý nohy}
@@ -406,8 +406,8 @@
 {1677}{}{mezi nohy}
 {1678}{}{uncalled}
 {1680}{}{do hlavy}
-{1681}{}{levá pracka}
-{1682}{}{pravá pracka}
+{1681}{}{do levý pracky}
+{1682}{}{do pravý pracky}
 {1683}{}{trup}
 {1684}{}{do pravý nohy}
 {1685}{}{do levý nohy}
@@ -415,8 +415,8 @@
 {1687}{}{mezi nohy}
 {1688}{}{uncalled}
 {1800}{}{do hlavy}
-{1801}{}{levé tykadlo}
-{1802}{}{pravé tykadlo}
+{1801}{}{do levýho tykadla}
+{1802}{}{do pravýho tykadla}
 {1803}{}{trup}
 {1804}{}{pravá noha}
 {1805}{}{do levý nohy}
@@ -433,8 +433,8 @@
 {1857}{}{mezi nohy}
 {1858}{}{uncalled}
 {1860}{}{do hlavy}
-{1861}{}{levé tykadlo}
-{1862}{}{pravé tykadlo}
+{1861}{}{do levýho tykadla}
+{1862}{}{do pravýho tykadla}
 {1863}{}{trup}
 {1864}{}{pravá noha}
 {1865}{}{do levý nohy}
@@ -453,11 +453,11 @@
 {1970}{}{do hlavy}
 {1971}{}{do levý přední nohy}
 {1972}{}{do pravý přední nohy}
-{1973}{}{břicho}
+{1973}{}{do břicha}
 {1974}{}{do pravý zadní nohy}
 {1975}{}{do levý zadní nohy}
 {1976}{}{do tykadel}
-{1977}{}{kladélko}
+{1977}{}{do kladélka}
 {1978}{}{uncalled}
 {1990}{}{do hlavy}
 {1991}{}{do levý ruky}
@@ -487,13 +487,13 @@
 {2017}{}{regulátor}
 {2018}{}{uncalled}
 {2030}{}{do hlavy}
-{2031}{}{žihadlo}
-{2032}{}{tykadla}
-{2033}{}{hrudník}
+{2031}{}{do žihadla}
+{2032}{}{do tykadel}
+{2033}{}{do hrudníku}
 {2034}{}{do předních nohou}
 {2035}{}{do zadních nohou}
 {2036}{}{do očí}
-{2037}{}{křídla}
+{2037}{}{do křídel}
 {2038}{}{uncalled}
 {5000}{}{. Tohle docela ublížilo.}
 {5001}{}{. Zásah způsobil vážné zranění}

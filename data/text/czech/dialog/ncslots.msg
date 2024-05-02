@@ -46,9 +46,9 @@
 {230}{}{Vidíš hrací automat. Jeho lesklý povrch a zlatá páka lákavě září v odlescích světel New Rena. Štěrbina na mince tě přitahuje a ty cítíš, jak se ti ruce chvějí nedočkavostí.}
 {231}{}{(Ruka se ti třepe, když saháš do kapsy pro peníze. Stroj ti stále něco šeptá.) *Tak pojď, zlato... to je ono... jen do toho... neostýchej se...*}
 {232}{}{(Ruka se ti třepe, když saháš do kapsy pro peníze. Stroj ti stále něco šeptá.) *Tak pojď, zlato... to je ono... popadni tu páku... pořádně ji stiskni... jen do toho...*}
-{233}{}{Zbývá ti  }
+{233}{}{Zbývá ti }
 {234}{}{ dolarů. Chceš riskovat všechno?}
-{235}{}{Zbývá ti  }
+{235}{}{Zbývá ti }
 {236}{}{ dolarů. Vsadit }
 {237}{}{ dolarů?}
 {238}{}{Vsadit }
@@ -60,7 +60,7 @@
 {247}{}{(Stroj se na tebe zašklebí.) *Tak a mám všechno, co jsem chtěl. Promiň, zlato. A dej si pozor, ať nezakopneš, až půjdeš pryč. Ha ha ha ha ha ha.*}
 {248}{}{Máš }
 {249}{}{ dolarů. Pokusit se vyhrát ztracené peníze a hrát dál?}
-{250}{}{Zbývá ti  }
+{250}{}{Zbývá ti }
 {251}{}{ dolarů. Chceš riskovat všechno?}
 {252}{}{Jsi na dně. Musíš pro dnešek skončit.}
 {253}{}{Jsi na dně. Musíš pro dnešek skončit.}
@@ -133,13 +133,13 @@
 {373}{}{*Jsi asi jediný hrdina v tomhle hrozném světě zlodějů a vrahů, }
 {374}{}{. Ty... ty... dávej na sebe pozor, ano zlato?* (Otočí se.) *Raději už jdi, než začnu plakat.*}
 {375}{}{Ahooooj.}
-{380}{}{Vidíš vysokosázkový hrací automat  - minimální sázka je }
+{380}{}{Vidíš vysokosázkový hrací automat - minimální sázka je }
 {381}{}{ dolarů. Jeho lesklý povrch a zlatá páka lákavě září v odlescích světel New Rena. Štěrbina na mince tě přitahuje a ty cítíš, jak se ti ruce chvějí nedočkavostí.}
 {382}{}{(Ruka se ti třepe, když saháš do kapsy pro peníze. Stroj ti stále něco šeptá.) *Tak pojď, zlato... to je ono... jen do toho... neostýchej se...*}
 {383}{}{(Ruka se ti třepe, když saháš do kapsy pro peníze. Stroj ti stále něco šeptá.) *Tak pojď, zlato... to je ono... popadni tu páku... pořádně ji stiskni... jen do toho...*}
-{384}{}{Zbývá ti  }
+{384}{}{Zbývá ti }
 {385}{}{ dolarů. Chceš riskovat všechno?}
-{386}{}{Zbývá ti  }
+{386}{}{Zbývá ti }
 {387}{}{ dolarů. Vsadit }
 {388}{}{ dolarů?}
 {389}{}{Vsadit }
@@ -151,7 +151,7 @@
 {402}{}{(Stroj se na tebe zašklebí.) *Tak a mám všechno, co jsem chtěl. Promiň, zlato. A dej si pozor, ať nezakopneš, až půjdeš pryč. Ha ha ha ha ha ha.*}
 {403}{}{Máš }
 {404}{}{ dolarů. Pokusit se vyhrát ztracené peníze a hrát dál?}
-{405}{}{Zbývá ti  }
+{405}{}{Zbývá ti }
 {406}{}{ dolarů. Chceš riskovat všechno?}
 {407}{}{Jsi na mizině. Pro dnešek toho musíš nechat.}
 {408}{}{Jsi na mizině. Pro dnešek toho musíš nechat.}

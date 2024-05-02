@@ -50,7 +50,7 @@
 {296}{}{[Odejít hledat dobrodružství někam jinam]}
 {300}{}{Cože? mě-já-mi? "Mějámi... jo MIAMI!" TO SE MI LÍBÍ. Tak fajn, pojďme nakopat pár zadků.}
 {301}{}{(Zamračí se.) Hraješ si na chytráka, co? Hmmf... v tomhle městě už mě nikdo nerespektuje. (Pokrčí rameny.) Tak fajn, pojďme nakopat pár zadků.}
-{302}{}{, jo? Tak fajn,  }
+{302}{}{, jo? Tak fajn, }
 {305}{}{[Utéct a schovat se]}
 {310}{}{(Rozhořčeně zafuní.) Hele, jenom proto, že svou výškou nesplňuju požadavky armády pro odvod, neznamená, že si život neužívám naplno.}
 {311}{}{Opravdu?}

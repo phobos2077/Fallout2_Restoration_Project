@@ -50,7 +50,10 @@
 {149}{}{To je úžasné. Jsi nejspíš velmi vzdělaný. Můžu se ještě na něco zeptat?}
 {150}{}{Hmm... dobře.}
 {151}{}{::vzdech:: Byli zajati Enklávou. Gruthar a jeho smečka byli donuceni pomáhat při jejich zajetí. Neměli na vybranou, protože tou dobou byli zotročeni. Od té doby tíží osud těchto lidí Grutharovo svědomí. Nikdy si neodpustil, že se účastnil této události. Lidé byli zajati živí, ale kdo ví, co se s nimi od té doby stalo?}
-{152}{}{(Vzdech) Byli zajati skupinou zvanou 'Enkláva.' Gruthar a jeho smečka byli donuceni pomáhat při jejich zajetí. Neměli na vybranou, protože tou dobou byli zotročeni.  Od té doby tíží osud těchto lidí Grutharovo svědomí. Nikdy si neodpustil, že se účastnil této události. Lidé byli zajati živí, ale kdo ví, co se s nimi od té doby stalo?}
+{152}{}{(Vzdech) Byli zajati skupinou zvanou 'Enkláva.' Gruthar a jeho smečka byli donucení pomáhat při jejich
+ zajetí. Neměli na vybranou, protože tou dobou byli zotročeni. Od té doby tíží osud těchto lidí
+ Grutharovo svědomí. Nikdy si neodpustil, že se na tom podílel.
+ Lidé byli zajati živí, ale kdo ví co se jim pak stalo.}
 {153}{}{Hmm... chci se ještě na něco zeptat.}
 {154}{}{Takže ti zatracení párači jsou za to přeci jen zodpovědní! Potřebuju další informace.}
 {155}{}{Někdy se situace vymkne z rukou a my jsme nuceni dělat nepříjemné věci. Gruthar by se měl naučit odpustit sám sobě.}

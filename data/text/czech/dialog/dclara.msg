@@ -135,7 +135,7 @@
 {577}{}{Eh.}
 {590}{}{Řekla jsem ti, že půjdeme spolu. A protože to tam nikdo nehlídal, tak to někdo vyloupil a Metzger se teď fakt nasral.}
 {591}{}{Řekla jsem ti najdi slabinu, ne sejmi je! A protože to tam nikdo nehlídal, tak to někdo vyloupil a Metzger se teď fakt nasral.}
-{592}{}{Do hajzlu! Řekla jsem ti promluv s Metzgerem a ne sejmi je!  A protože to tam nikdo nehlídal, tak to někdo vyloupil a Metzger se teď fakt nasral.}
+{592}{}{Do hajzlu! Řekla jsem ti promluv s Metzgerem a ne sejmi je! A protože to tam nikdo nehlídal, tak to někdo vyloupil a Metzger se teď fakt nasral.}
 {593}{}{Do hajzlu! Řekla jsem bez bitky! A protože to tam nikdo nehlídal, tak to někdo vyloupil a Metzger se teď fakt nasral.}
 {594}{}{Aha, no, už musím jít.}
 {595}{}{To je ale smůla.}

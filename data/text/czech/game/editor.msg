@@ -35,7 +35,7 @@
 {134}{}{Na minimální úrovni.}
 {135}{}{Nelze snížit.}
 {136}{}{Nemáš dost dovednostních bodů.}
-{137}{}{Base:}
+{137}{}{:}
 {138}{}{TALENTY}
 {139}{}{CHARAKTEROVÉ RYSY}
 {140}{}{Tvá postava může mít maximálně}
@@ -161,10 +161,10 @@
 {651}{}{ ::: Perky :::}
 {652}{}{ ::: Karma :::}
 {653}{}{ ::: Dovednosti :::                ::: Zářezy :::}
-{654}{}{  ::: Inventář :::}
+{654}{}{ ::: Inventář :::}
 {655}{}{  Celková váha:}
 {656}{}{ ::: Závislosti :::}
-{657}{}{   ::: Reputace :::}
+{657}{}{ ::: Reputace :::}
 {1000}{}{Reputace (Obecně) }
 {1001}{}{Berserk}
 {1002}{}{Šampión}

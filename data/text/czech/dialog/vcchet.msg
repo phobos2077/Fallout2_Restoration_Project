@@ -6,7 +6,7 @@
 {105}{}{Ještě něco jiného?}
 {106}{}{Ukonči hru, Chete. Se vším jsem již hotov.}
 {107}{}{Udělej ze mě Kapitána stráží. Hned.}
-{108}{}{Jestli tě můžu poprosit,  tak ze mě udělej Občana.}
+{108}{}{Jestli můžu prosit, udělej ze mě Občana.}
 {109}{}{Udělej ze mě falešného občana a dej mi doklady.}
 {110}{}{Udělej ze mě vyhostěného občana.}
 {111}{}{Pozměň mou reputaci.}
