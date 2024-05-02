@@ -51,7 +51,6 @@ variable Only_Once := 0;
 
 procedure start
 begin
-  add_timer_event(self_obj, game_ticks(random(4, 7)), 3);
 end
 
 procedure combat_p_proc
@@ -222,6 +221,9 @@ end
 procedure map_enter_p_proc
 begin
   Only_Once := 0;
+  if (not is_loading_game) then begin
+    flush_add_timer_event_sec(self_obj, random(4, 7), 3);
+  end
 end
 
 procedure timed_event_p_proc
@@ -232,7 +234,7 @@ begin
     if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
     begin
       float_msg(self_obj, mstr(random(336, 345)), FLOAT_MSG_RED);
-      add_timer_event(self_obj, game_ticks(random(5, 7)), 3);
+      flush_add_timer_event_sec(self_obj, random(5, 7), 3);
     end
   end
 end
