@@ -101,15 +101,20 @@
 {191}{}{Entendo. Você se importa se eu fizer outras perguntas?}
 {192}{}{Acho que vou ver se consigo encontrá-lo.}
 {193}{}{! Bom trabalho! Bravo!}
-{194}{}{Oh, I will for sure! I whish there were more people who did, too.}
-{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
-{196}{}{Really? Used to?}
-{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
-{198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
-{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
-{200}{}{Wow, that's a very comforting thought! Where was his home?}
-{201}{}{Why doesn't he come around anymore?}
-{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
-{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
-{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
-{205}{}{Ah, pushed his luck. Where did he say he was from?}
+{194}{}{Ah, eu vou com certeza! Eu gostaria que houvesse mais pessoas como você neste mundo.
+}
+{195}{}{Eu certamente compartilho do sentimento! Já faz um tempo que não vejo alguém que esteja minimamente interessado. Eu conhecia um comerciante que compartilhava a mesma paixão...
+}
+{196}{}{Sério? Como?}
+{197}{}{Bem, é bom saber que tem mais de nós. Se importa se eu perguntar sobre outra coisa?}
+{198}{}{Bom, eu espero que tenha mais da gente por ai, muito obrigado e adeus!}
+{199}{}{Sim, ele vinha pelo pátio para trocar bebidas alcóolicas, mas ele vinha para comprar livros de mim. Eu nem cobraria ele, mas ele insistia. Ele dizia que as pessoas em seu lar amavam eles.}
+{200}{}{Uau, isso é um pensamento reconfortante! Onde era a casa dele?}
+{201}{}{Por que você não vem aqui com mais frequência?}
+{202}{}{Ele disse que era um local que chamavam de Abbey, um pouco ao norte daqui. Ele até me mostrou exatamente onde, bem... aqui. Eu adoraria ver, mas a vista do pátio é o suficiente para me causar pânico.
+}
+{203}{}{Bem, suponho que ele possa ter tentado vender álcool dentro da cidade. É ilegal, sabe.
+}
+{204}{}{Ah, que azar. Bem, agradeço pela informação. Se importa se eu perguntar algo mais?}
+{205}{}{Ah, forçou a barra. De onde ele disse que era?
+}

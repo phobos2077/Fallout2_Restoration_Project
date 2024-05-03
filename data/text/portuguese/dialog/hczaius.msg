@@ -33,7 +33,7 @@
 {127}{}{Não, não muito.}
 {128}{}{Você de novo, é?}
 {129}{}{Ork! Ooo! Ug ug!}
-{130}{}{Hi! HIIIII! Me }
+{130}{}{Oi! OIIII! Eu (nome)!}
 {131}{}{Colega, eu já te dei um dinheiro. Vá incomodar outra pessoa, beleza?}
 {132}{}{Oi de novo. Por que você não dá uma olhada... umm... no banco da cidade? Tenho certeza de que tem
  algumas pessoas lá que gostariam falar com você.}

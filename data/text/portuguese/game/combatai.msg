@@ -2504,7 +2504,7 @@
 {40049}{}{Você fazer coisas má com nós.}
 {40050}{}{Nós e eu estar sofrendo coisas más.}
 {40051}{}{Nós não querer que o vermelho, vermelho, vinho sai pra fora.}
-{40052}{}{Você machucar nós, nós machucar você de volta.}
+{40052}{}{Você machucar nós, vamos machucar você de volta.}
 {40053}{}{Aaaaaiiiiii!}
 {40054}{}{Shing-ding-ding!}
 {40055}{}{O espírito-da-sombra estar no nosso ombro.}

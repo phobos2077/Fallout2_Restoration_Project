@@ -29,7 +29,7 @@
 {127}{}{Ug.}
 {128}{}{Isso é ótimo! Me dê seu dinheiro e saia para lá. Eu tenho um negócio para correr.}
 {129}{}{[Fim]}
-{130}{}{Comodizoditado. Semdinheironãoéamor. Ohssoéporsexo. Quetalsemmassanenhumgolpe. Voltequandoganharalgumdinheiro.}
+{130}{}{Comodizoditado. Semdinheironãoéamor. Oh issoéporsexo. Quetalsemmassanenhumgolpe. Voltequandoganharalgumdinheiro.}
 {131}{}{[Fim]}
 {132}{}{Heheheh! Parece que você pode usar alguns mentats. Me dê $1000.}
 {133}{}{[Dar ao homem us $1000]}
