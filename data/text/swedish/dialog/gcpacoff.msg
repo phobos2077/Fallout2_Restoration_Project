@@ -33,7 +33,7 @@
 {132}{}{Well, I, uh, I've got to be going. Goodbye.}
 {133}{powr5_a}{Try the gain.}
 {134}{}{There... that should do it. Any better?}
-{135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
+{135}{}{Gain? What am I supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{I'll just try back later. Goodbye.}
 {137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
 {138}{}{Kneel before me and I may spare your life. Gee, I like the sound of that.}

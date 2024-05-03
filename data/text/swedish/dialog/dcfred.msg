@@ -103,7 +103,7 @@
 {450}{}{Right! That'll be the day. Becky wouldn't hurt a fly. She sure is pretty though.}
 {451}{}{Well, you're wrong, asshole.}
 {452}{}{Maybe it was someone else.}
-{460}{}{Damn. I think your right, but - I'm almost broke. I can't afford that kind of money! I've got to eat you know.}
+{460}{}{Damn. I think you're right, but - I'm almost broke. I can't afford that kind of money! I've got to eat you know.}
 {461}{}{Förlåt.}
 {462}{}{Tough luck.}
 {470}{}{Oh, damn it. I can barely afford $100. Could you spot me half? I promise I'll pay you back!}

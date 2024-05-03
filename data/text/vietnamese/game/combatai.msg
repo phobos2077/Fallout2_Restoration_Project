@@ -3262,7 +3262,7 @@
 {42124}{}{I think I'd rather be rear tactical observer.}
 {42125}{}{I'm ready to rock and roll. Whatever that means.}
 {42126}{}{I'm gonna rip off your head and... uh... crap, I forget the rest.}
-{42127}{}{Let' see: I'm going to rip off your neck, shit down your head... crap. That's not right, either.}
+{42127}{}{Let's see: I'm going to rip off your neck, shit down your head... crap. That's not right, either.}
 {42128}{}{You're going down like a two chip whore.}
 {42129}{}{Anybody covering me? Anybody?!}
 {42130}{}{Hiiiiiyaaaaaa!!!}

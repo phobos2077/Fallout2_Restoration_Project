@@ -496,7 +496,7 @@
 {2037}{}{nas asas}
 {2038}{}{lugar indefinido}
 {5000}{}{. Essa doeu}
-{5001}{}{. Um ferimento grave é inflingido}
+{5001}{}{. Um ferimento sério é inflingido}
 {5002}{}{ sem a proteção da armadura}
 {5003}{}{. Ele foi nocauteado pelo violento ataque}
 {5004}{}{. Ele cai no chão, nocauteado pelo golpe}

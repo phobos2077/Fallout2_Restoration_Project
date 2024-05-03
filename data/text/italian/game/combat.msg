@@ -496,7 +496,7 @@
 {2037}{}{alle ali}
 {2038}{}{uncalled}
 {5000}{}{. Fa veramente male}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Serious pain is inflicted}
 {5002}{}{ in un punto non protetto dall'armatura}
 {5003}{}{. Il violento colpo lo fa cadere senza sensi al suolo}
 {5004}{}{. Il colpo lo manda al tappeto}

@@ -496,7 +496,7 @@
 {2037}{}{a szárnyain}
 {2038}{}{ismeretlen helyen}
 {5000}{}{. That really hurts}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Serious pain is inflicted}
 {5002}{}{. Ott nem védi a páncél}
 {5003}{}{ és összeesett}
 {5004}{}{. A lövés padlóra küldi}

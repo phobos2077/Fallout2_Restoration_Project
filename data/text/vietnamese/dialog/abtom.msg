@@ -18,7 +18,7 @@
 {211}{}{Tom, you're in a graveyard, you've got mud all over you, and it's past midnight. Why, even Torr could draw a
  conclusion from this. It's time to start giving me some answers, Tom. Why are you digging up these graves?}
 {212}{}{[He puts down the shovel and sighs.] Alright, I'll tell you. My body ain't what it used to be. I've got no job,
- and no real means to get food. I know grave diggin ain't something that folks smile upon, but it's been a way for me to
+ and no real means to get food. I know grave digging ain't something that folks smile upon, but it's been a way for me to
  bring in some money. I'm just trying to survive... I don't mean no harm.}
 {213}{}{I don't think that digging graves is a good thing for a man in your condition. Tell you what. You just mosey on
  out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?}
@@ -33,7 +33,7 @@
 {220}{}{Wait, no need for any of that. The Petersons own the farm here and they're extremely nice people. Mr. Peterson
  even offered to talk with whoever was taking his crops and come to a reasonable agreement. Go talk with him.
  I'm sure he can help you out somehow.}
-{221}{}{(The old man's eyes light up.) That doesn't sound like a bad idea at all. Hey, thanks. Maybe this world aint as
+{221}{}{(The old man's eyes light up.) That doesn't sound like a bad idea at all. Hey, thanks. Maybe this world ain't as
  cruel as I thought it was.}
 {222}{}{You take care then, Tom. I'll check with you later and see how things are going.}
 {223}{}{I sure hope that Peterson fella is as friendly as you say he is.}
@@ -49,7 +49,7 @@
 {306}{}{[END]}
 {307}{}{Hello again. Thanks for everything!}
 {308}{}{*Whistle*}
-{400}{}{You youngins never learn. You aint the boss of me. I think I'll just kill you instead.}
+{400}{}{You youngins never learn. You ain't the boss of me. I think I'll just kill you instead.}
 {450}{}{Listen, I've dug up my share of graves too. I'm a bit of a kleptomaniac. What's your reason?}
 {451}{}{I'm not unfamiliar to grave digging, Tom. Every man has his own enjoyment. Now you be on your way.}
 {1000}{}{You figure out who is digging up the graves and set Tom towards a new life.}
