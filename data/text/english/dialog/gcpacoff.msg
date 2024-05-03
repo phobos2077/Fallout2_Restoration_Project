@@ -40,7 +40,7 @@
 
 {133}{powr5_a}{Try the gain.}
 {134}{}{There... that should do it. Any better?}
-{135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
+{135}{}{Gain? What am I supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{I'll just try back later. Goodbye.}
 
 {137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}

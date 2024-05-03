@@ -149,7 +149,7 @@
 {452}{}{Maybe it was someone else.}
 
 # 22. Remembers money (From 19, 33-35)
-{460}{}{Damn. I think your right, but - I'm almost broke. I can't afford that kind of money! I've got to eat you know.}
+{460}{}{Damn. I think you're right, but - I'm almost broke. I can't afford that kind of money! I've got to eat you know.}
 {461}{}{Sorry.}
 {462}{}{Tough luck.}
 
