@@ -1,7 +1,7 @@
 {100}{}{Armes légères}
 {101}{}{Armes lourdes}
 {102}{}{Armes à énergie}
-{103}{}{Corps à corps.}
+{103}{}{Corps à corps}
 {104}{}{Armes de Mêlée}
 {105}{}{Projectiles}
 {106}{}{Secourisme}

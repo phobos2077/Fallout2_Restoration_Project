@@ -23,7 +23,7 @@
 {302}{}{De Rixe plutôt que longue portée.}
 {303}{}{Longue portée plutôt que de Rixe.}
 {304}{}{Longue portée.}
-{305}{}{Corps à corps.}
+{305}{}{Corps à corps}
 {400}{}{Reste près de moi.}
 {401}{}{A l'attaque !}
 {402}{}{Canarde l'ennemi à distance.}
