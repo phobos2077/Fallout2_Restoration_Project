@@ -203,7 +203,7 @@
 {303}{}{Brahmína}
 {304}{}{Balthasova žena}
 {305}{}{Brahmína}
-{306}{}{Zdivočelé plemeno psa.}
+{306}{}{Zdivočelé plemeno psa}
 {307}{}{Kameny}
 {308}{}{Kameny}
 {309}{}{Nástěnný sejf}
@@ -629,7 +629,7 @@
 {729}{}{Zuřivec}
 {730}{}{Kudlanka}
 {731}{}{Brahmína}
-{732}{}{Zdivočelé plemeno psa.}
+{732}{}{Zdivočelé plemeno psa}
 {733}{}{Počítač}
 {734}{}{Počítač}
 {735}{}{Počítačový terminál}

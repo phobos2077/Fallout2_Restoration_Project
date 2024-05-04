@@ -90,7 +90,7 @@
 {7900}{}{Kyborg}
 {8000}{}{Malý geckon}
 {8100}{}{Odolný malý geckon}
-{8200}{}{Zdivočelé plemeno psa.}
+{8200}{}{Zdivočelé plemeno psa}
 {8201}{}{Zdivočelé plemeno psa.}
 {8300}{}{Zlatý geckon}
 {8400}{}{Párač}
@@ -577,7 +577,7 @@
 {54400}{}{Matka alienů}
 {54500}{}{Masožravý plevel z EPA}
 {54501}{}{Ohavně zmutovaná masožravá rostlina.}
-{54600}{}{Zdivočelé plemeno psa.}
+{54600}{}{Zdivočelé plemeno psa}
 {54601}{}{Zdivočelé plemeno psa.}
 {54700}{}{Strážný robot Mark II}
 {54800}{}{Starej Joe}
