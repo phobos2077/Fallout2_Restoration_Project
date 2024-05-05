@@ -546,7 +546,7 @@
 {27801}{}{Une pierre utilisée pour aiguiser les armes.}
 {27900}{}{Interface neuronale}
 {27901}{}{Ressemble à un jeu d'électrodes intégrées à une unité cérébrale et disposant d'un connecteur informatique standard.}
-{28000}{}{Lance}
+{28000}{}{Lance aiguisée}
 {28001}{}{Une perche avec un bout tranchant comme un rasoir. Le manche est en bois et le bout est en acier aiguisé. FO min. : 4.}
 {28100}{}{Oeil de Dixon}
 {28101}{}{Un petit bocal renfermant un oeil humain en suspension dans un liquide non identifié. Caporal Dixon est inscrit sur une étiquette.}
