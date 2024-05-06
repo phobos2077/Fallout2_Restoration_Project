@@ -16,7 +16,7 @@
 {115}{}{Moi partir.}
 {116}{}{Je dois partir.}
 {117}{}{C'est un plaisir de te rencontrer, Thearn. Je suis}
-{118}{}{Moi comprendre.}
+{118}{}{Compris.}
 {119}{}{Maintenant que j'y pense, j'en ai rien à foutre de savoir qui tu es.}
 {120}{}{Moi garder hall. Objectif, sécurité de la meute.}
 {121}{}{Oh... Euh...}

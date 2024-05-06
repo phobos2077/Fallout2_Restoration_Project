@@ -110,7 +110,7 @@
 {230}{}{Je voulais juste t'embêter un peu. Je contrôle la situation. Ne t'inquiète pas.}
 {231}{eeld11}{Toi descendre. Tuer. Détruire machines. Maintenant !}
 {232}{eeld12}{Ecoute cette fois-ci ! Va aux niveaux inférieurs. Trouve la machine qui fabrique l'énergie. Arrête-la pour qu'on s'échappe. Les hommes qui sont ici ne méritent pas l'Abri. Ils sont démoniaques. Et si tu n'as pas encore trouvé le J.E.K, cherche-le ici. Notre liberté ne vaut rien si le village ne peut-être sauvé. Vas-y maintenant !!}
-{233}{}{Moi comprendre.}
+{233}{}{Compris.}
 {234}{eeld13}{C'est comme ça qu'ils l'ont appelé. Ils nous enfoncent des aiguilles sous la peau, tout comme des Stimpaks, puis des choses terribles arrivent. Puis...}
 {235}{}{Et puis ?}
 {236}{}{Ca va me rendre malade, pas vrai ?}

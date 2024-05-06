@@ -58,7 +58,7 @@
 {157}{}{Eh bien... Il y a un abri ici. Je pense qu'il s'agit du numéro 15. Ils veulent le piller pour retrouver l'ancienne technologie qui pourrait y être enfouie.}
 {158}{}{Ah. Moi comprendre.}
 {159}{}{Je me disais bien qu'il devait y avoir autre chose pour les motiver.}
-{160}{}{Moi comprendre.}
+{160}{}{Compris.}
 {161}{}{Ca explique beaucoup de choses. Merci pour ton aide. J'ai encore quelques questions à te poser.}
 {162}{}{Ce serait Zeke. Il dirige tout ici. Tu peux le trouver dans le bâtiment là-bas. (désignant le Nord-Est)}
 {163}{}{Merci. Demander plus.}

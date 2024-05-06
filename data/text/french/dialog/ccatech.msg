@@ -35,7 +35,7 @@
 {140}{}{Merci.}
 {141}{}{Les plans des hélicos... Je ne vois pas pourquoi tu as besoin de savoir ça. Je te conseille de discuter avec la maintenance de la porte d'à côté.}
 {142}{}{Ok.}
-{143}{}{Moi comprendre.}
+{143}{}{Compris.}
 {153}{}{As-tu perdu la tête pour te promener sans uniforme ? Mets-toi en tenue !}
 {154}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {155}{}{Que fais-tu sans uniforme ? }

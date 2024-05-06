@@ -31,7 +31,7 @@
 {130}{}{Comment puis-je me rendre là-bas ?}
 {131}{}{Recherche en cours... Accès au répertoire des transports... Acquisition des données terminée. Les fichiers de transport indiquent qu'il existe 1257 méthodes de se rendre aux quartiers généraux de l'Enclave. Cependant, les registres indiquent aussi que seules 2 de ces méthodes sont actuellement disponibles. <Suite> Le transport par hélicoptère est possible à l'avant-poste de Navarro. Le transport par bateau est possible du port de San Francisco. Notez que le transport par bateau a été déclaré inaccessible par l'acte de sécurité 9837-334-27A. Le bateau a été désactivé et ne peut être réactivé qu'à l'aide d'un passe. Le Commandant de la base, à l'avant-poste de Navarro, possède actuellement ce passe.}
 {132}{}{Ok.}
-{133}{}{Moi comprendre.}
+{133}{}{Compris.}
 {134}{}{Recherche en cours... Accès aux fichiers de l'architecture de base... Acquisition des données terminée. L'armurerie se situe sous terre, au quadrant Nord-Ouest de la base.}
 {135}{}{Moi comprendre.}
 {136}{}{Ouais, j'ai compris.}

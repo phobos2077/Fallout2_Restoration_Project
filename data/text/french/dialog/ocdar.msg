@@ -17,7 +17,7 @@
 {116}{}{Moi }
 {117}{}{Je vois. Bon, je dois partir maintenant.}
 {118}{}{Je suis}
-{119}{}{Moi comprendre.}
+{119}{}{Compris.}
 {120}{}{Guerrier ! Ah, c'te bonne blague ! T'en as d'autres des comme ça ?}
 {121}{}{Dar garder hall et préserver paix. Rien d'autre.}
 {122}{}{Moi entendre ça avant.}
@@ -31,7 +31,7 @@
 {130}{}{Doyenne du village faire pareil avec moi.}
 {131}{}{Ah.}
 {132}{}{Gruthar a raison, vous devriez tous essayer de vous instruire.}
-{133}{}{Moi comprendre.}
+{133}{}{Compris.}
 {134}{}{Alors t'es tellement stupide que t'as besoin que d'autres t'obligent à apprendre ?! Chapeau !}
 {135}{}{Bonjour. Toi ami meute.}
 {136}{}{Grrrrrrrrr ! Argggggghhhh.}

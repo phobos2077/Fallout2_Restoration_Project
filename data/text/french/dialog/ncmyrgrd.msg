@@ -79,7 +79,7 @@
 {411}{}{Moi non plus...}
 {412}{}{Défends-toi.}
 {425}{}{Ah ouais ? Voyons voir. Hummm... [Vérifie le badge et hausse les épaules.] Très bien, mais ne fais pas de bruit. Myron est occupé et il n'aime pas être dérangé.}
-{426}{}{Moi comprendre.}
+{426}{}{Compris.}
 {435}{}{[Ses yeux te regardent de bas en haut.] Ouais, pour le moment... Hé hé... Mais c'est possible que j'en redemande plus tard, c'est-à-dire quand tu auras terminé.}
 {436}{}{Je... m'en souviendrai. Je peux entrer alors ?}
 {437}{}{On verra, d'accord ?}

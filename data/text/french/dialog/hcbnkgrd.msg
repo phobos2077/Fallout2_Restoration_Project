@@ -15,7 +15,7 @@
 {114}{}{Oh. D'accord.}
 {115}{}{On peut aider tous ceux qui viennent ici pour une bonne raison. Si on peut pas t'aider, tu dois partir. Alors vas-y avant qu'on t'aide.}
 {116}{}{Tu ferais pas ça ?}
-{117}{}{Moi comprendre.}
+{117}{}{Compris.}
 {118}{}{Tu es là pour leur parler, hein ? Eh bien, tu peux nous parler à nous. Qu'as-tu à dire ?}
 {119}{}{As-tu réalisé que tu les retiens de manière illégale ?}
 {120}{}{Avale ça, sale mutant !}

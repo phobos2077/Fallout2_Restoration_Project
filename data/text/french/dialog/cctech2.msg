@@ -37,7 +37,7 @@
 {142}{}{Merci.}
 {143}{}{Ils sont à la maintenance, près de la tour de contrôle.}
 {144}{}{Ok.}
-{145}{}{Moi comprendre.}
+{145}{}{Compris.}
 {155}{}{As-tu perdu la tête pour te promener sans uniforme ? Mets-toi en tenue !}
 {156}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {157}{}{Que fais-tu sans uniforme ?}

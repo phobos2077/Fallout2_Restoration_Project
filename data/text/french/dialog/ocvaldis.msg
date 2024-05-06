@@ -16,7 +16,7 @@
 {115}{}{Hé, c'est moi qui pose les questions ici.}
 {116}{}{Je dois partir.}
 {117}{}{Tout le plaisir est pour moi, je suis }
-{118}{}{Moi comprendre.}
+{118}{}{Compris.}
 {119}{}{J'empêche toutes les personnes non autorisées d'entrer dans cette zone de l'abri.}
 {120}{}{Euh... pair sonne nono torisé ?}
 {121}{}{Euh... Sûr.}

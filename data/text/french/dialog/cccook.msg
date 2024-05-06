@@ -37,7 +37,7 @@
 {138}{}{Ok.}
 {139}{}{Ouais, je te comprends.}
 {140}{}{Le Labo Médical a été repris par un intello de l'Enclave appelé Schreber. C'est un vrai fils de &$@§; il se fout de tout et de tout le monde. Il a effectué des expériences sur les Griffemorts ici, mais je sais pas exactement quoi. En tout cas, il faisait un barouf pas possible jusqu'à ce que le Commandant ordonne de faire insonoriser la pièce.}
-{141}{}{Moi comprendre.}
+{141}{}{Compris.}
 {142}{}{C'est intéressant.}
 {143}{}{Ha ! Pour le côté amourettes, il semblerait que l'un des fanas d'informatique soit amoureux de l'une des bidasses, le garde du Labo Médical. Il lui a même donné un petit nom. Il l'appelle sa snookie d'amour.}
 {144}{}{C'est mignon.}
