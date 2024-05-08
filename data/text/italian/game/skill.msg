@@ -4,7 +4,7 @@
 {103}{}{Disarmato}
 {104}{}{Armi da mischia}
 {105}{}{Lanciare}
-{106}{}{First Aid}
+{106}{}{Pronto Soccorso}
 {107}{}{Dottore}
 {108}{}{Movimento Furtivo}
 {109}{}{Scassinare}

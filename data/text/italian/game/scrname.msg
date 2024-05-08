@@ -1545,7 +1545,7 @@
 {1645}{}{una Guardia}
 {1646}{}{vertibird}
 {1647}{}{spatial}
-{1648}{}{serum}
+{1648}{}{siero}
 {1649}{}{Old Caravan Guard}
 {1650}{}{Dr. Sheng}
 {1651}{}{Plant Creature}

@@ -1108,7 +1108,7 @@
 {4918}{}{Una carovana.}
 {4919}{}{Un uomo a guardia di un ponte.}
 {4920}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{4921}{}{A band of angry raiders.}
+{4921}{}{Una banda di predoni arrabbiati.}
 {4950}{}{Discarica di rifiuti tossici.}
 {4951}{}{Un cane solitario.}
 {4952}{}{Una mandria di brahmin.}
@@ -1138,7 +1138,7 @@
 {4976}{}{I cavalieri di Re Artu'.}
 {4977}{}{Un boscaiolo di latta.}
 {4978}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-{4979}{}{A band of angry raiders.}
+{4979}{}{Una banda di predoni arrabbiati.}
 {5000}{}{Una banda di predoni che guida alcuni lupi.}
 {5001}{}{Alcune piante sporigene e alcuni lupi.}
 {5002}{}{Una banda di predoni.}
@@ -1156,7 +1156,7 @@
 {5014}{}{Un branco di lupi che combattono contro alcuni predoni.}
 {5015}{}{Un uomo a guardia di un ponte.}
 {5016}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{5017}{}{A band of angry raiders.}
+{5017}{}{Una banda di predoni arrabbiati.}
 {5050}{}{Discarica di rifiuti tossici.}
 {5051}{}{Un cane solitario.}
 {5052}{}{Una mandria di brahmin.}
@@ -1182,7 +1182,7 @@
 {5072}{}{I cavalieri di Re Artu'.}
 {5073}{}{Un boscaiolo di latta.}
 {5074}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-{5075}{}{A band of angry raiders.}
+{5075}{}{Una banda di predoni arrabbiati.}
 {5100}{}{Discarica di rifiuti tossici.}
 {5101}{}{Un cane solitario.}
 {5102}{}{Una mandria di brahmin.}
@@ -1255,7 +1255,7 @@
 {5276}{}{Un boscaiolo di latta.}
 {5277}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {5278}{}{Il Caffe' dei Sogni Infranti.}
-{5279}{}{A gathering of important looking individuals.}
+{5279}{}{Un gruppo di persone dall'aspetto importante.}
 {5300}{}{Alcuni alieni e deathclaw.}
 {5301}{}{Un manipolo di fluttuanti e centauri.}
 {5302}{}{Alcuni gecki di fuoco.}
@@ -1276,7 +1276,7 @@
 {5317}{}{Uno sciame di fluttuanti.}
 {5318}{}{Un uomo a guardia di un ponte.}
 {5319}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{5320}{}{A gathering of important looking individuals.}
+{5320}{}{Un gruppo di persone dall'aspetto importante.}
 {5350}{}{Alcuni alieni e deathclaw.}
 {5351}{}{Un manipolo di fluttuanti e centauri.}
 {5352}{}{Alcuni gecki di fuoco.}
@@ -1295,7 +1295,7 @@
 {5365}{}{Alcuni alieni.}
 {5366}{}{Un branco di centauri.}
 {5367}{}{Uno sciame di fluttuanti.}
-{5368}{}{A gathering of important looking individuals.}
+{5368}{}{Un gruppo di persone dall'aspetto importante.}
 {5400}{}{Discarica di rifiuti tossici.}
 {5401}{}{Un cane solitario.}
 {5402}{}{Una mandria di brahmin.}
@@ -1319,7 +1319,7 @@
 {5420}{}{Un boscaiolo di latta.}
 {5421}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {5422}{}{Il Caffe' dei Sogni Infranti.}
-{5423}{}{A gathering of important looking individuals.}
+{5423}{}{Un gruppo di persone dall'aspetto importante.}
 {5450}{}{Un branco di gecki di fuoco.}
 {5451}{}{Un branco di gecki di fuoco.}
 {5452}{}{Un grosso branco di gecki dorati.}
@@ -1334,7 +1334,7 @@
 {5461}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
 {5462}{}{Un uomo a guardia di un ponte.}
 {5463}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{5464}{}{A gathering of important looking individuals.}
+{5464}{}{Un gruppo di persone dall'aspetto importante.}
 {5500}{}{Un branco di gecki di fuoco.}
 {5501}{}{Un branco di gecki di fuoco.}
 {5502}{}{Un grosso branco di gecki dorati.}
@@ -1347,7 +1347,7 @@
 {5509}{}{Alcuni cacciatori di taglie.}
 {5510}{}{Alcuni cacciatori di taglie.}
 {5511}{}{Una banda di canaglie guidata da uno dei Fratelli Morton.}
-{5512}{}{A gathering of important looking individuals.}
+{5512}{}{Un gruppo di persone dall'aspetto importante.}
 {5550}{}{Discarica di rifiuti tossici.}
 {5551}{}{Un cane solitario.}
 {5552}{}{Una mandria di brahmin.}
@@ -1523,7 +1523,7 @@
 {5915}{}{Hubologisti che respingono una squadra di arruolamento.}
 {5916}{}{Hubologisti.}
 {5917}{}{A band of angry mercenaries.}
-{5918}{}{A gathering of important looking individuals.}
+{5918}{}{Un gruppo di persone dall'aspetto importante.}
 {5950}{}{Una banda di mercenari.}
 {5951}{}{Una squadra di arruolamento.}
 {5952}{}{Una mandria di deathclaw.}
@@ -1544,7 +1544,7 @@
 {5967}{}{Un uomo a guardia di un ponte.}
 {5968}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
 {5969}{}{A band of angry mercenaries.}
-{5970}{}{A gathering of important looking individuals.}
+{5970}{}{Un gruppo di persone dall'aspetto importante.}
 {6000}{}{Una banda di mercenari.}
 {6001}{}{Una squadra di arruolamento.}
 {6002}{}{Una mandria di deathclaw.}
@@ -1563,7 +1563,7 @@
 {6015}{}{Hubologisti che respingono una squadra di arruolamento.}
 {6016}{}{Hubologisti.}
 {6017}{}{A band of angry mercenaries.}
-{6018}{}{A gathering of important looking individuals.}
+{6018}{}{Un gruppo di persone dall'aspetto importante.}
 {6050}{}{Discarica di rifiuti tossici.}
 {6051}{}{Un cane solitario.}
 {6052}{}{Una mandria di brahmin.}
@@ -1593,7 +1593,7 @@
 {6076}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6077}{}{Il Caffe' dei Sogni Infranti.}
 {6078}{}{A band of angry mercenaries.}
-{6079}{}{A gathering of important looking individuals.}
+{6079}{}{Un gruppo di persone dall'aspetto importante.}
 {6100}{}{Discarica di rifiuti tossici.}
 {6101}{}{Un cane solitario.}
 {6102}{}{Una mandria di brahmin.}
