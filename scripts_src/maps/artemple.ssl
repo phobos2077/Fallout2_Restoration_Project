@@ -46,12 +46,13 @@ end
 
 procedure map_enter_p_proc begin
    if (map_first_run) then begin
-       call Initial_Inven;
+      call Initial_Inven;
+      set_global_var(GVAR_DUDE_VIRGIN, 1); // added by killap - expansion pack
    end
 
    Lighting;
    override_map_start_hex(17488, 0, 5);
-   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
 end
 
 procedure map_update_p_proc begin
@@ -61,7 +62,7 @@ end
 
 procedure Initial_Inven begin
    variable item;
-   item:=create_object(PID_SPEAR,0,0);
-   add_mult_objs_to_inven(dude_obj,item,1);
+   item := create_object(PID_SPEAR, 0, 0);
+   add_mult_objs_to_inven(dude_obj, item, 1);
    script_overrides;
 end
