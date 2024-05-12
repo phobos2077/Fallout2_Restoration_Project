@@ -230,7 +230,7 @@
 {11501}{}{Vorschlaghammer, von der Brotherhood of Steel nach dem neuesten Stand der Waffentechnik hergestellt. Enthält ein Speichergerät für kinetische Energie, um die Wirkung beim Aufprall zu verstärken. Mindest-ST: 5.}
 {11600}{}{Ripper}
 {11601}{}{Ripper(tm)-Kettensäge. Schneidet und bohrt sich in ihr Ziel. Mindest-ST: 4.}
-{11700}{}{Flower}
+{11700}{}{Blume}
 {11701}{}{Eine wunderschöne Blume.}
 {11800}{}{Lasergewehr}
 {11801}{}{Leistungsstarkes Wattz 2000-Lasergewehr mit verlängertem Lauf für eine größere Reichweite. Mindest-ST: 6.}

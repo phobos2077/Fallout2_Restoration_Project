@@ -127,7 +127,7 @@
 {486}{}{Was ist mit dem Überlebenden geschehen?}
 {487}{}{Hmmmm. Dann muss ich vorsichtig sein. Ich nehme den Job an.}
 {488}{}{Vergiss es. Niemand hat erwähnt, dass es gefährlich sein würde.}
-{495}{}{Oh, der alte Sam Pritchard? Traurige Geschichte. Hat sich eines Nachts besoffen, hat meinem Sohn Keith gegenüber erwähnt, dasser die Basis gefunden hat, und bevor du weißt, was Sache ist, zeichnet er mir diese Karte und STIRBT. Er schläft jetzt in Golgotha.}
+{495}{}{Oh, der alte Sam Pritchard? Traurige Geschichte. Hat sich eines Nachts besoffen, hat meinem Sohn Keith gegenüber erwähnt, dass er die Basis gefunden hat, und bevor du weißt, was Sache ist, zeichnet er mir diese Karte und STIRBT. Er schläft jetzt in Golgotha.}
 {496}{}{Reno scheint die Tage ja voller trauriger Geschichten zu sein. Ich nehm den Job.}
 {497}{}{Weißte, solche Geschichten machen mir deutlich, dass ich den Job wirklich nicht annehmen kann. Bis dann, Wright.}
 {505}{}{(Schüttelt den Kopf.) Zu schade. Komm wieder und sag es mir, wenn du deine Meinung änderst.}

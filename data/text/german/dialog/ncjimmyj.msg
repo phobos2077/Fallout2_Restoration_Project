@@ -180,7 +180,7 @@
 {646}{}{OK, OK. Jetzt sei mal ganz ruhig --}
 {648}{}{Ist ja schon gut. Hör mal, ich hatte da noch ein paar Fra--}
 {655}{}{Du hörst mir jetzt zu und zwar RICHTIG. Wenn ich mitkrieg, dassde rumerzählst, ich hätt was mit dem Tod von dem kleinen Wright zu tun, dann sorg ich dafür, dass du ein Grab direkt neben ihm in Golgotha bekommst.}
-{656}{}{Renesco hat gesagt, dass du Jet mit Arsen verlängerst.}
+{656}{}{Renesco hat gesagt, du verkaufst mit Arsen versetztes Jet.}
 {659}{}{Kein Problem. Hör mal, ich hatte da noch ein paar Fragen...}
 {660}{}{Tot, was? Wie Richard?}
 {661}{}{Jetzt versuch bloß nicht, mir zu DROHEN, du mieser kleiner Heckenpenner. Wenn du mir Ärger machst, bring ich dich so oft um, dass du dich für Lazarus hältst.}
