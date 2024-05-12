@@ -1,1 +1,1 @@
-{100}{}{You have entered the small town of Broken Hills.}
+{100}{}{B?n đ? đ?n th? tr?n Broken Hills nh? bé.}

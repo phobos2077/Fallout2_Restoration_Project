@@ -22,7 +22,7 @@
 {121}{}{A friend of mine needs to be healed.}
 {122}{}{I see. Thanks. Bye.}
 {123}{}{Holliday? Yes! I taught him all he knows! Where is he now?}
-{124}{}{He's living in Broken Hills.}
+{124}{}{Ông ?y đang s?ng ? Broken Hills.}
 {125}{}{He went home, did he. I hope he has found peace there.}
 {126}{}{I think he has. I have more questions.}
 {127}{}{Probably. I have to go. Bye.}

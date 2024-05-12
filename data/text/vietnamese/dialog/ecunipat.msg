@@ -10,4 +10,4 @@
 {109}{}{Treat our people with respect.}
 {110}{}{Don't break the law.}
 {111}{}{If you're thinking of causing trouble, remember us. Act nice and Marcus will act nice.}
-{112}{}{We're peaceable people in Broken Hills, but we know how to fight.}
+{112}{}{Chúng tôi là nh?ng ngư?i yêu hoà b?nh ? Broken Hills, nhưng chúng tôi bi?t chi?n đ?u.}

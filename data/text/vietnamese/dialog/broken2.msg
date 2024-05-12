@@ -1,1 +1,1 @@
-{100}{}{You have entered the East side of Broken Hills.}
+{100}{}{B?n đ? đ?n phía Đông c?a Broken Hills.}
