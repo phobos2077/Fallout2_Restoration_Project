@@ -29,8 +29,8 @@
  ein paar Jahren mit einem Cola-Lastwagen etwas weiter südlich die Straße runter. Mann, das
  hättest Du sehen sollen! Überall lagen Flaschendeckel verstreut!}
 {125}{}{Aaahhh. Luuustig!}
-{126}{}{Wow! Stell dir vor, jemand würde so in der Wüste herum laufen! Sie würden ein Vermögen
- damit machen}
+{126}{}{Wow! Stell dir vor, jemand würde so in der Wüste herumlaufen! Sie würden ein Vermögen
+ damit machen!}
 {127}{}{Darauf kannst Du warten. Grrr! Oww! Ich setze zwar nur äußerst ungerne einen Dämpfer auf
  unser Gespräch, aber ich wäre Dir sehr verbunden, wenn Du mir jetzt unter dieser Stoßstange
  hervor helfen könntest.}
