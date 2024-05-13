@@ -40,7 +40,7 @@
 {282}{}{Depot Level 2: Storage Bay}
 {283}{}{Depot Level 3: Robotics Lab}
 {284}{}{Depot Level 4: Bio Research Lab}
-{290}{}{The Squat}
+{290}{}{? mư?n}
 {291}{}{Squatters}
 {292}{}{Squatters}
 {293}{}{Vault 15}
