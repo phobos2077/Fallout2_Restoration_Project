@@ -47,7 +47,6 @@ end
 procedure map_enter_p_proc begin
    if (map_first_run) then begin
       call Initial_Inven;
-      set_global_var(GVAR_DUDE_VIRGIN, 1); // added by killap - expansion pack
    end
 
    Lighting;
