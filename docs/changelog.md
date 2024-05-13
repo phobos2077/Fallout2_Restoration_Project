@@ -39,7 +39,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 ### Version 30 (WIP)
 
 - Fix: new PCs properly get Virgin of the Wastes title (broken in v29).
-- [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer be prevented from using Lockpick skill when wearing Power Armor.
+- [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer prevented from using Lockpick skill when wearing Power Armor.
 
 ### Version 29
 
