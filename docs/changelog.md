@@ -36,6 +36,11 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
+### Version 30 (WIP)
+
+- Fix: new PCs properly get Virgin of the Wastes title (broken in v29).
+- [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer be prevented from using Lockpick skill when wearing Power Armor.
+
 ### Version 29
 
 - Enhanced worldmap: visible city ruins are now present on tiles set as the "city" terrain type, by Lexx.
