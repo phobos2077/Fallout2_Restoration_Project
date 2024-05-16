@@ -71,7 +71,7 @@
 {152}{}{Ich hätt es getan, wirklich.}
 {153}{}{Verdammte Mira, jetzt bekommt sie, was sie verdient.}
 {154}{}{Jetzt wissen die Leute, mit wem sie's bei Jack zu tun haben, soviel ist sicher.}
-{155}{}{Geh doch zurück ! Ich will dich nicht verletzen!}
+{155}{}{Geh doch zurück! Ich will dich nicht verletzen!}
 {156}{}{Das geht dich nichts an!}
 {157}{}{Mach schon, bring mich um. Was kümmerts mich noch?}
 {158}{}{Das ist nicht dein Kampf. Lass mich allein.}

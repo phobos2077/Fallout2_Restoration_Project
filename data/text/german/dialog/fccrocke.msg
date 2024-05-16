@@ -28,7 +28,7 @@
 {127}{}{Ja.}
 {128}{}{Nein.}
 {129}{}{Gut. Das macht 10.000 Dollar, sofort zu zahlen, kein Gefeilsche. Ich brauche ein paar neue Ausrüstungsteile.}
-{130}{}{10.000 Dollar? Das ist ja Wucher! Soviel Geld hab ich nicht !}
+{130}{}{10.000 Dollar? Das ist ja Wucher! Soviel Geld hab ich nicht!}
 {131}{}{OK. Da hast du's.}
 {132}{}{Ich denk drüber nach.}
 {133}{}{[Er sieht belustigt aus] Du drohst mir allen Ernstes deswegen?}

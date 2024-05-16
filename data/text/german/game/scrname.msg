@@ -556,7 +556,7 @@
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
-{659}{}{Geheime Eingangskarte für B15}
+{659}{}{Geheime Eingangskarte für V15}
 {660}{}{Rebecca}
 {661}{}{Tür}
 {662}{}{Deathclaw}

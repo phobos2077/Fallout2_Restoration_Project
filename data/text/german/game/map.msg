@@ -18,8 +18,8 @@
 {117}{}{Vault City}
 {118}{}{Fehler:Kartenname}
 {119}{}{Stadtruinen}
-{120}{}{Coast}
-{121}{}{Coast}
+{120}{}{Küste}
+{121}{}{Küste}
 {122}{}{Desert}
 {123}{}{Desert}
 {124}{}{Fehler:Kartenname}
@@ -296,12 +296,12 @@
 {425}{}{Im Ödland}
 {426}{}{Im Ödland}
 {427}{}{Im Ödland}
-{428}{}{Coast}
-{429}{}{Coast}
-{430}{}{Coast}
-{431}{}{Coast}
-{432}{}{Coast}
-{433}{}{Coast}
+{428}{}{Küste}
+{429}{}{Küste}
+{430}{}{Küste}
+{431}{}{Küste}
+{432}{}{Küste}
+{433}{}{Küste}
 {434}{}{Downtown}
 {435}{}{Keller}
 {436}{}{Unbenutzt}
@@ -323,27 +323,27 @@
 {452}{}{Desert}
 {453}{}{Desert}
 {454}{}{Desert}
-{455}{}{Coast}
-{456}{}{Coast}
-{457}{}{Coast}
-{458}{}{Coast}
-{459}{}{Coast}
-{460}{}{Coast}
-{461}{}{Coast}
-{462}{}{Coast}
-{463}{}{Coast}
-{464}{}{Coast}
-{465}{}{Coast}
-{466}{}{Coast}
-{467}{}{Coast}
-{468}{}{Coast}
-{469}{}{Coast}
-{470}{}{Coast}
-{471}{}{Coast}
-{472}{}{Coast}
-{473}{}{Coast}
-{474}{}{Coast}
-{475}{}{Coast}
+{455}{}{Küste}
+{456}{}{Küste}
+{457}{}{Küste}
+{458}{}{Küste}
+{459}{}{Küste}
+{460}{}{Küste}
+{461}{}{Küste}
+{462}{}{Küste}
+{463}{}{Küste}
+{464}{}{Küste}
+{465}{}{Küste}
+{466}{}{Küste}
+{467}{}{Küste}
+{468}{}{Küste}
+{469}{}{Küste}
+{470}{}{Küste}
+{471}{}{Küste}
+{472}{}{Küste}
+{473}{}{Küste}
+{474}{}{Küste}
+{475}{}{Küste}
 {476}{}{Raider-Lager}
 {477}{}{Raider-Lager}
 {478}{}{Raider-Lager}
@@ -616,7 +616,7 @@
 {1526}{}{Desert}
 {1527}{}{Im Ödland}
 {1528}{}{Im Ödland}
-{1529}{}{Coast}
+{1529}{}{Küste}
 {1530}{}{Golgotha}
 {1531}{}{Gestrandeter Wal}
 {1532}{}{Blechmann}

@@ -20,7 +20,7 @@
 {119}{}{Ich wäre gern stärker.}
 {120}{}{Ich wäre gern schlauer.}
 {121}{}{Ich wäre gern aufmerksamer.}
-{122}{}{Ich hätte gern mehr Charisma.}
+{122}{}{Ich wäre gern charismatischer.}
 {123}{}{Im Augenblick brauche ich eigentlich nichts.}
 {124}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Der Heilungsprozess dauert 5 Minuten.}
 {125}{}{OK.}

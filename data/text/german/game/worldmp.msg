@@ -46,5 +46,5 @@
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{City}
-{1003}{}{Coast}
+{1003}{}{Küste}
 {1004}{}{Unbekannt}
