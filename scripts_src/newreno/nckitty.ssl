@@ -17,6 +17,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "nckitty"
 #include "../headers/define.h"
+#include "../sfall/define_extra.h"
 #define NAME                    SCRIPT_NCKITTY
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
 #include "../headers/command.h"
@@ -122,7 +123,7 @@ procedure Node031;
 #define know_kitty                     herebefore
 #define set_know_kitty                 set_herebefore
 
-#define possible_sex_partners          (true_party_size - Cyberdog_In_Party - Goris_In_Party - Dogmeat_In_Party - K9_In_Party - Pariah_Dog_In_Party - Robobrain_Abnormal_In_Party - Robobrain_Chimp_In_Party - Laddie_In_Party)
+#define possible_sex_partners          (true_party_size - Cyberdog_In_Party - Goris_In_Party - Dogmeat_In_Party - K9_In_Party - Pariah_Dog_In_Party - Robobrain_Human_In_Party - Robobrain_Abnormal_In_Party - Robobrain_Chimp_In_Party - Laddie_In_Party)
 
 #define sex_blow_job                   (700)
 #define sex_sex                        (701)
@@ -363,7 +364,13 @@ procedure Node988 begin
          call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_INTELLIGENCE);
       end else if (sex_type == sex_strange_sex) then begin
          game_time_advance(have_sex_time * 2);
-         call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
+         if (sex_partner_obj == Robobrain_Ptr) then begin
+            set_proto_data(PID_BRAINBOT, PROTO_CR_BODY_TYPE, CR_BODY_BIPED); // hack for sex drug
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
+            set_proto_data(PID_BRAINBOT, PROTO_CR_BODY_TYPE, CR_BODY_ROBOTIC); // reset
+         end else begin
+            call create_and_use_itempid_on(sex_partner_obj, PID_KITTY_SEX_DRUG_STRENGTH);
+         end
       end else begin
          game_time_advance(have_sex_time_obj(sex_partner_obj));
          if (sex_partner_obj != dude_obj) then begin
