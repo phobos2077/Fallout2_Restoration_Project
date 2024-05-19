@@ -1,6 +1,6 @@
-{100}{}{Du siehst einen PoseidoNet- Computer.}
-{101}{}{Du siehst einen PoseidoNet- Computer.}
-{102}{}{Du siehst einen PoseidoNet- Computer.}
+{100}{}{Du siehst einen PoseidoNet-Computer.}
+{101}{}{Du siehst einen PoseidoNet-Computer.}
+{102}{}{Du siehst einen PoseidoNet-Computer.}
 {103}{}{::Piep:: Terminal-Störung. NavComp-Installation erforderlich. ::Piep::}
 {104}{}{[Fertig]}
 {105}{}{Willkommen bei PoseidoNet. Dieses Terminal überträgt nur Daten zwischen dem Tanker PHS Valdez und dem Dockturm. Befehl?}

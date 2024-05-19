@@ -7,7 +7,7 @@
 {220}{}{Hab dir doch gesagt, es ist ein Kinderspiel.}
 {221}{}{Das war wie Schafe zur Schlachtbank führen.}
 {222}{}{Die elende Schlampe ist endlich tot.}
-{223}{}{Danke für den Tip, das war süß.}
+{223}{}{Danke für den Tipp, das war süß.}
 {230}{}{Wo zum Teufel warst du?}
 {231}{}{Lass mich! Verdammter Lügner.}
 {232}{}{Ich sollte dich jetzt sofort ausweiden.}

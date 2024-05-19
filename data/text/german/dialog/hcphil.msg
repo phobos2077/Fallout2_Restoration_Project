@@ -120,7 +120,7 @@
 {305}{}{Hey, }
 {306}{}{Du schon wieder, }
 {307}{}{Kein Problem, Mann. Hier ist dein Drink. Kann ich sonst noch was für dich tun?}
-{308}{}{Danke für die ganzen Tips, Mann. Ich geb dir auch einen: Ich hab gehört, dass Liz vom Gemischtwarenladen ein Waffenlager im Keller hat. Das weißt du aber nicht von mir, klar?}
+{308}{}{Danke für die ganzen Tipps, Mann. Ich geb dir auch einen: Ich hab gehört, dass Liz vom Gemischtwarenladen ein Waffenlager im Keller hat. Das weißt du aber nicht von mir, klar?}
 {309}{}{Vielen Dank, Phil. Ich behalt das mal für mich, OK?}
 {1981}{}{Ein paar Bekloppte sind festgenommen worden, weil sie Hasspropaganda verbreitet haben.}
 {1982}{}{Die Luftreiniger in der Mine sind kaputt.}

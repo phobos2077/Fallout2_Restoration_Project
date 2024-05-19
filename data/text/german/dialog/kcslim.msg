@@ -111,7 +111,7 @@
 {372}{}{Ich glaub, ich geh dann mal. Wiedersehn.}
 {380}{}{Also, ich glaub, du hast jetzt ein paar Sachen über die große weite Natur gelernt. Hoffe bloß, du kannst was damit anfangen. Denk an die Tierköttel.}
 {381}{}{Du hast recht. Alte Tierköttel schmecken lang nicht so wie frische. Danke, Slim. Jetzt erzähl mir mehr von diesen Geckos.}
-{382}{}{Danke für die ganzen Tips, Slim, aber ich denk, es reicht schon, die Köttel zu riechen. Aber ich hab mich noch was andres gefragt.}
+{382}{}{Danke für die ganzen Tipps, Slim, aber ich denk, es reicht schon, die Köttel zu riechen. Aber ich hab mich noch was andres gefragt.}
 {383}{}{Danke für die Info, Slim. Ich werd jetzt gehn und ein bisschen üben. Wiedersehn.}
 {390}{}{Erzähl mir mal was über diese Ratten.}
 {400}{}{Die Biester hasse färtich gemacht.}

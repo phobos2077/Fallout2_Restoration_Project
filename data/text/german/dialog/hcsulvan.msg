@@ -37,7 +37,7 @@
  eingehandelt. Möchte was über Feen und Kobolde und so was hören. (Hooo, haah, haah- er
  überschlägt sich vor Lachen) Hier, Mädel, trink einen auf meine Kosten, das ist Deine
  Eintrittskarte in die Welt der Feen.}
-{126}{}{Alles was ich brauche, ist ein Getränk? Das ist ja toll. Danke für den Hinweis.}
+{126}{}{Alles, was ich brauche, ist ein Getränk? Das ist ja toll. Danke für den Hinweis.}
 {127}{}{Irgendwie habe ich das Gefühl, dass du mich auf den Arm nehmen willst.}
 {128}{}{Nun, das Getränk ist nur der Anfang. Du musst einen Feenhügel finden. (Winkt den
  umstehenden Patronen zu)}

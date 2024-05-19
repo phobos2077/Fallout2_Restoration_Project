@@ -57,7 +57,7 @@
 {1011}{}{Du hast den Reaktor zerstört.}
 {1012}{}{WARNUNG! Völlige Reaktor-KERNSCHMELZE!}
 {1013}{}{WARNUNG! GIFTSTOFFE in Belüftungskanäle freigesetzt.}
-{1014}{}{Du verlässt die Wanamingo-Mine.}
+{1014}{}{Du hast die Wanamingo-Mine gesäubert.}
 {1015}{}{Du hast den Rätselraum überlebt.}
 {1016}{}{Hoppla, beinahe hätte ich das GECK vergessen. Frage mich, ob hier irgendwo eins ist.}
 {1017}{}{Die Tür springt mit deinem GECK-Code auf.}

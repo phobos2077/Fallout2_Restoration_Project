@@ -22,7 +22,7 @@
 {121}{}{[Mehr]}
 {122}{}{Dann geh jetzt.}
 {123}{}{[Fertig]}
-{124}{}{Na also, fertig. Danke für den Tip. Jetzt geh bitte.}
+{124}{}{Na also, fertig. Danke für den Tipp. Jetzt geh bitte.}
 {125}{}{OK!}
 {148}{}{Warum sagst du mir nicht erst mal, was du von Mutanten hältst?}
 {149}{}{Ich hasse sie.}

@@ -46,7 +46,7 @@
 {226}{}{Nein, ich wollte nur mal hallo sagen. Wir sehn uns später, Smiley. Wiedersehn.}
 {230}{}{Ich schulde dir was dafür, dass du meinen Arsch gerettet hast. Da kann ich dir im Gegenzug wenigstens was beibringen.}
 {231}{}{Beibringen?}
-{232}{}{Danke Smiley. Ich kann alle Tips und Tricks gebrauchen.}
+{232}{}{Danke Smiley. Ich kann alle Tipps und Tricks gebrauchen.}
 {240}{}{Da die Geckos mir fast das Fell über die Ohren gezogen haben, zeig ich dir, wie man das bei ihnen macht. So werden sie gehäutet. (Smiley demonstriert eine Häutung) ...und wenn du sie tötest, kannst du ihnen die Haut abziehen und sie verkaufen. Klar?}
 {241}{}{Urk. Hübsch heh heh heh. Verkauf. Heh heh heh. Schüß.}
 {242}{}{Danke. Das kann ich sicher mal brauchen. Aber jetzt erzähl mir was andres.}
