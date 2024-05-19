@@ -18,8 +18,7 @@
 {114}{}{Da ist ein schreckliches Antlitz, das Dich anstarrt. Oh, warte, dieser Terminal ist aus.}
 {115}{}{Hinter diesem Fenster wartet eine dunkle Dimension jenseits von Zeit und Raum.}
 {116}{}{Dieser Terminal enthält eine Nachricht: "Fenestra '98 laden". Der Terminal ist mit einer dicken Staubschicht bedeckt.}
-{117}{}{Dieser Terminal scheint ein Terminal der Marke Aprikose zu sein. Auf ihm läuft etwas, das Fallout 2 heißt. Wow, es
- sieht nach Mehrfachspieler-Funktion und 3D aus.}
+{117}{}{Dieser Terminal scheint ein Terminal der Marke Aprikose zu sein. Auf ihm läuft etwas, das Fallout 3 heißt. Wow, es sieht aus, als hat es Mehrspieler und 3D.}
 {118}{}{Benutzerkennung eingeben:}
 {119}{}{(Lass' mich das versuchen) Liste die Benutzer auf.}
 {120}{}{(Ich bin gespannt, ob das funktionieren wird?) Smith, J.}

@@ -16,12 +16,12 @@
 {157}{}{Du begegnest einer Patrouille, die gegen Goldene Geckos kämpft.}
 {158}{}{Du begegnest einer Patrouille, die gegen wilde Hunde kämpft.}
 {159}{}{Du begegnest einer Patrouille.}
-{200}{}{Du wirst von Gangstern überfallen.}
+{200}{}{Du wirst von Raiders überfallen.}
 {201}{}{Du begegnest Wölfen.}
-{202}{}{Du begegnest einer Karawane, die sich gegen Gangster verteidigt.}
-{203}{}{Du begegnest einer Karawane, die sich gegen Gangster verteidigt.}
-{204}{}{Du begegnest einer Karawane, die sich gegen Gangster verteidigt.}
-{205}{}{Du begegnest einer Karawane, die sich gegen Gangster verteidigt.}
+{202}{}{Du begegnest einer Karawane, die sich gegen Raiders verteidigt.}
+{203}{}{Du begegnest einer Karawane, die sich gegen Raiders verteidigt.}
+{204}{}{Du begegnest einer Karawane, die sich gegen Raiders verteidigt.}
+{205}{}{Du begegnest einer Karawane, die sich gegen Raiders verteidigt.}
 {206}{}{Du begegnest einer Karawane.}
 {207}{}{Du begegnest einer Karawane.}
 {208}{}{Du begegnest einer Karawane.}

@@ -3,7 +3,7 @@
 {102}{}{Tötet die Eindringlinge!}
 {103}{}{Schützt die Stadt!}
 {104}{}{Los! Los! Los!}
-{105}{}{Schau dort! Gangster!}
+{105}{}{Schau dort! Raiders!}
 {106}{}{Wir sollten besser verschwinden!}
 {107}{}{Oh Mann...grad als ich dachte, wir wären in Sicherheit! Es reicht! Es reicht!}
 {108}{}{Lauf um dein Leben!}

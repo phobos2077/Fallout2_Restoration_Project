@@ -167,7 +167,7 @@
 {560}{}{Gib ihm 100 Chips.}
 {561}{}{Ich hatte auch noch ein paar Fragen, äh.. die nichts mit den Familien zu tun haben.}
 {562}{}{Sieht so aus, als könnte ich mir im Moment keine Informationen leisten. Ich komm wieder, wenn ich ein paar Chips hab.}
-{563}{}{Ich werd dran denken. Danke für den Tip, Jules.}
+{563}{}{Ich werd dran denken. Danke für den Tipp, Jules.}
 {575}{}{(Jules steckt die Chips so schnell ein, dass du schwören könntest, sie hätten sich in Luft aufgelöst.) Also... welche nette Familie interessiert dich denn heute?}
 {576}{}{(Jules steckt die Chips ein.) Also... über welche Familie musst du denn was wissen?}
 {577}{}{Erzähl mir was über die Mordinos.}
@@ -202,10 +202,10 @@
 {685}{}{Gibt nicht VIEL zu sagen. Kleine Bergwerksstadt nordwestlich von hier. Es heißt, dass Mordino da ein bisschen mehr Einfluss möchte und an das GOLD ran will, das sie in Redding ausgraben. Er liefert ihnen also Jet und sie liefern ihm Gold, da sind alle zufrieden.}
 {695}{}{Ruhige Leute. Werden von Louis Salvatore angeführt, ein echter Gangster, der es zu was gebracht hat. Ihr Gebiet ist im Westen der Stadt. Sie hängen immer in der Bar namens Salvatore's auf der 2nd Street ab. Mach da bloß keinen Ärger.}
 {696}{}{Wieso nicht?}
-{710}{}{Ein Gratistip: Wenn du einen Salvatore siehst, verhalt dich ruhig und halt die Klappe, sonst zerlegen die dich. Haben die besten Waffen in dieser Ecke von Kalifornien, deswegen legt sich auch keiner mit ihnen an, der noch etwas Hirn im Schädel hat. Kapiert?}
+{710}{}{Ein Gratistipp: Wenn du einen Salvatore siehst, verhalt dich ruhig und halt die Klappe, sonst zerlegen die dich. Haben die besten Waffen in dieser Ecke von Kalifornien, deswegen legt sich auch keiner mit ihnen an, der noch etwas Hirn im Schädel hat. Kapiert?}
 {711}{}{Welche Art "Waffen" haben die Salvatores denn?}
 {712}{}{Hört sich nach einem ganz schönen Arsenal an. Was ist das denn im einzelnen?}
-{715}{}{Gut zu wissen... danke für den Tip.}
+{715}{}{Gut zu wissen... danke für den Tipp.}
 {725}{}{Pistolen... aber die schießen mit LICHT. Reno ist zwar eine Stadt voller Lichter, aber das Licht DIESER Pistolen schneidet dich in Stücke...*Schwuppp*... (Er macht eine schneidende Handbewegung.) Schneidet dich glatt in zwei Hälften, so ein Ding.}
 {726}{}{Mit Licht schießen die? Heißen die Pistolen vielleicht "Laserpistolen?"}
 {727}{}{Dann bin ich mal lieber vorsichtig. Kannst du mir auch was über die anderen Familien erzählen?}
@@ -290,7 +290,7 @@
 {1116}{}{(Grinst anzüglich.) Weil du GUT aussiehst, meine Süße. Und Myron hat gern Frauen, die GUT aussehen. }
 {1117}{}{Der Typ ist wie ein Karnickel und IMMER auf der Suche nach dem nächsten Kohlbeet.}
 {1118}{}{Was hast du da von Golgotha erzählt?}
-{1119}{}{Äh, ist ja toll. Danke für den Tip, Jules. Ach, und ich hatte da noch ein paar Fragen...}
+{1119}{}{Äh, ist ja toll. Danke für den Tipp, Jules. Ach, und ich hatte da noch ein paar Fragen...}
 {1120}{}{Tja, in diesem Fall gehe ich jetzt wohl besser.}
 {1121}{}{Wie eloquent von dir. Deine Rede ist reine Poesie und wenn du von einem "Kohlbeet" sprichst, erstehen wunderbare Bilder vor meinem inneren Auge. VIELEN Dank auch.}
 {1130}{}{Vielleicht ja, wenn du eine gutaussehende Frau wärst. Ansonsten brauchst du erst die Erlaubnis der Mordinos. Und das ist beides nicht sehr wahrscheinlich.}
@@ -299,19 +299,19 @@
 {1146}{}{Ich hab dich gut verstanden, Mann. Wenn du das Beste willst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, dass du von mir kommst.}
 {1147}{}{Ich hab dich ganz gut verstanden, Schwester. Wenn du das Beste willst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, dass du von mir kommst.}
 {1148}{}{Süße, dein Körper IST schon eine ganz nette Waffe. Aber wenn du noch mehr brauchst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, dass du von mir kommst.}
-{1150}{}{Danke für den Tip. Und jetzt geh ich mal besser.}
+{1150}{}{Danke für den Tipp. Und jetzt geh ich mal besser.}
 {1165}{}{Vorräte brauchst du? Also, du KANNST zu Renesco im Westend gehen... aber der Laden hat einen Haken: Kauf ihm bloß kein Zeug ab, die sind nämlich nicht SICHER. Er hat gute Vorräte, aber für das Zeug wendest du dich lieber an mich.}
 {1166}{}{Ich werd dran denken. Hör mal, ich hatte da noch ein paar Fragen...}
-{1167}{}{Was, sein Zeug ist nicht sicher? Na, dann danke für den Tip. Ich geh jetzt mal besser.}
+{1167}{}{Was, sein Zeug ist nicht sicher? Na, dann danke für den Tipp. Ich geh jetzt mal besser.}
 {1175}{}{Ich hab dich schon verstanden, Mann. Also, die meisten TOURISTEN wandern ja die Virgin Street entlang und werden von einer billigen Dirne aufgegabelt, die es für 2 Chips oder so macht. Du siehst aber ein bisschen anspruchsvoller aus, geh doch mal zur Cat's Paw gegenüber. Und sag ihnen, dass du von Jules kommst.}
 {1176}{}{Ich hab dich schon verstanden, Schwester. Also, die meisten TOURISTEN wandern ja die Virgin Street entlang und landen da bei so einem Glitzer-Boy. Du siehst aber ein bisschen anspruchsvoller aus, geh doch mal zur Cat's Paw gegenüber. Und sag ihnen, dass du von Jules kommst.}
 {1177}{}{(Lächelt und breitet die Arme aus.) Deine Suche ist zu Ende, meine Süße. Jules steht dir zur Verfügung!}
 {1178}{}{Äh, danke Jules, aber vielleicht lieber nicht. Hör mal, ich hatte da noch ein paar Fragen...}
-{1180}{}{Na, dann danke für den Tip. Ich geh jetzt mal besser.}
+{1180}{}{Na, dann danke für den Tipp. Ich geh jetzt mal besser.}
 {1181}{}{Tja dann, trotzdem vielen Dank. Ich geh jetzt mal besser.}
 {1190}{}{Du meinst Vault City, oder? Das liegt im Nordosten von hier. Kannst du gar nicht verfehlen, alle Karawanenwege führen da hin.}
 {1191}{}{Alles klar. Hör mal, ich hatte da noch ein paar Fragen...}
-{1192}{}{Danke für den Tip. Und jetzt geh ich mal besser.}
+{1192}{}{Danke für den Tipp. Und jetzt geh ich mal besser.}
 {1200}{}{Was für ein Garten? Ist das eine Art Jet? Was kann dieses "Gartendings" denn so? Kann man davon fliegen?}
 {1201}{}{Nein, da ist... ach egal. Ich hatte noch ein paar Fragen...}
 {1202}{}{Macht nichts. Ich geh jetzt wirklich besser.}

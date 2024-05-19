@@ -23,7 +23,7 @@
 {211}{}{Spielst du das Spiel noch einmal mit einer anderen Figur durch? Ich empfehle eine Art Outdoorspezialist.}
 {212}{}{FEV? Was ist denn das?}
 {213}{}{New Reno wurde von Chris Avellone designt und wurde von Tom French gescripted. Tom spielt in einer Band. Chris spiel mit sich selber.}
-{214}{}{Ich hoffe ich werde ein Hauptcharakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein stinkt.}
+{214}{}{Ich hoffe, ich werde ein Hauptcharakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein, ist beschissen.}
 {215}{}{Hab gehört, du hast die Enklave im Süden in die Luft gejagt. Ganz schön mutig.}
 {225}{}{Wie gehst du denn mit dem Ding aufs Klo?}
 {230}{}{Zeigt die Waffe nicht vor den Kindern rum, Okay?}

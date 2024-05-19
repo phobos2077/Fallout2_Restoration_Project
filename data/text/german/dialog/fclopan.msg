@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen arroganten Shi-Gangster.}
 {101}{}{Du siehst Lo Pan, einen herrschsüchtigen, rücksichtslosen Kerl.}
-{102}{}{Du siehst einen Shi-Gangster in seidenen Kleidern. Seine Hände sind rauh und voller Schwielen. Er wirkt gefährlich wie eine Giftschlange.}
+{102}{}{Du siehst einen Shi-Gangster in seidenen Kleidern. Seine Hände sind rau und voller Schwielen. Er wirkt gefährlich wie eine Giftschlange.}
 {103}{}{Was willst du?}
 {104}{}{Daggel aggel aggel!}
 {105}{}{Wer du?}

@@ -105,8 +105,7 @@
  dich lieber bedeckt, kapiert?}
 {190}{}{Äh, OK. Da wäre noch was...}
 {191}{}{Oh. Vielen Dank für den Hinweis.}
-{192}{}{Also zuerst mal: Red hier in der Gegend besser nicht von "Sklaverei", wenn du nicht eine
- Menge Ärger an den Hals kriegen willst. Man nennt sie "Diener", nicht Sklaven. Das nur als Tip.}
+{192}{}{Also zuerst mal: Red hier in der Gegend besser nicht von "Sklaverei", wenn du nicht eine Menge Ärger an den Hals kriegen willst. Man nennt sie "Diener", nicht Sklaven. Das nur als Tipp.}
 {193}{}{Hab schon kapiert. Aber ich möchte noch was andres wissen...}
 {194}{}{Danke. Ich werde es im Auge behalten.}
 {195}{}{Nicht viel. Der meiste Kontakt mit Outsidern, den wir haben, ist mit Händlern, die mit

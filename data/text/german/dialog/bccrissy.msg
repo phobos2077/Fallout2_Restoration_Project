@@ -18,7 +18,7 @@
 {117}{}{Ich würd gern wissen, wer du bist und was hier los ist.}
 {118}{}{Wirklich? Wahnsinn! Lass uns abhauen.}
 {119}{}{OK.}
-{120}{}{Kurz gesagt, ich bin Chrissy. Ich bin aus der illegalen Siedlung. Letzte Woche fand ich beim Erkunden der Gegend diesen Eingang da draußen. Ich dachte, es wär eine verlassene Mine oder so was, also wollte ich es näher betrachten. Aber es war keine Mine, sondern ein geheimer Eingang in Vault 15. Die Vault wird von einer Bande Gangster, den Khans, als Unterschlupf genutzt. Sie haben mich erwischt, als ich mich hier umsah, und ihr Anführer Darion hat mich dann hier einsperren lassen.}
+{120}{}{Kurz gesagt, ich bin Chrissy. Ich bin aus der illegalen Siedlung. Letzte Woche fand ich beim Erkunden der Gegend diesen Eingang da draußen. Ich dachte, es wär eine verlassene Mine oder so was, also wollte ich es näher betrachten. Aber es war keine Mine, sondern ein geheimer Eingang in Vault 15. Die Vault wird von einer Bande Raiders, den Khans, als Unterschlupf genutzt. Sie haben mich erwischt, als ich mich hier umsah, und ihr Anführer Darion hat mich dann hier einsperren lassen.}
 {121}{}{OK. Ich dich Hause bringen.}
 {122}{}{OK, ich bring dich nach Hause.}
 {123}{}{Hol mich der Teufel. Heute muss mein Glückstag sein. Womit habe ich das verdient, dich wiederzusehen?}

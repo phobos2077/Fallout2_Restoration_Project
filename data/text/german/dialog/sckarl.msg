@@ -32,7 +32,7 @@
 {123}{}{Hab ich nicht von dir gehört? Ich glaub schon und das klang gar nicht übel. Ich kenne da
  ein paar Leute, die garantiert Verwendung für jemanden wie dich hätten. Geh einfach zum
  Autohändler rüber und frag nach Elise. Sag ihr, Karl hat dich geschickt und grüß sie von mir.}
-{124}{}{Arbeit? Der Viehzüchter-Verband braucht dringend Wachleute. Die Gangster haben bei den
+{124}{}{Arbeit? Der Viehzüchter-Verband braucht dringend Wachleute. Die Raiders haben bei den
  Viehtrieben wieder ziemlich heftig zugeschlagen. Und ich hab gehört, dass Präsidentin Tandi
  jemand "Findigen" sucht, wie sie das ausdrückt. Ist dir damit geholfen?}
 {125}{}{Ja, ich hätte da schon noch ein paar Fragen.}
@@ -60,7 +60,7 @@
  würde zusehen, dass ich mich da raushalte. Im Grunde genommen ist Jack schwer in Ordnung. Die
  ganze Sache hat ihn völlig aus dem Lot gebracht.}
 {140}{}{Okay, wechseln wir das Thema.}
-{141}{}{Besten Dank für den Tip, Hilfssheriff.}
+{141}{}{Besten Dank für den Tipp, Hilfssheriff.}
 {142}{}{Seine Ex, das ist alles. Wenn er nicht hier ist, ist er vielleicht drüben im Kraftwerk.
  Er hat da seit einiger Zeit einen Nebenjob für Dorothy.}
 {143}{}{Ja, ich hätte da schon noch ein paar Fragen.}

@@ -3,7 +3,7 @@
 {150}{}{Du siehst einen älteren Mann. Er sieht ärgerlich aus und murmelt vor sich hin.}
 {151}{}{Du siehst den Alten McGee. Er sieht ärgerlich aus und murmelt vor sich hin.}
 {200}{}{Idiot! Has' mir mein Glück versaut!}
-{201}{}{Ich bring dich um! Nimm das, du Gangster!}
+{201}{}{Ich bring dich um! Nimm das, du Raider!}
 {202}{}{Glaubste, ich hab den Schneid nicht, Möchtegern? Komm schon!}
 {203}{}{Hund! Hundesohn!}
 {204}{}{Ich werd dir die Luft rauslassen, wieder reinlassen un' wieder aus dir rausprügeln.}

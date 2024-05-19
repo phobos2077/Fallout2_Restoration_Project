@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen Khan-Gangster.}
+{100}{}{Du siehst einen Khan-Raider.}
 {101}{}{Du siehst Phil, einen Khan-Wächter.}
 {102}{}{Du siehst einen rauhbeinigen, jungen Mann in einer Metallrüstung. Er ist schwer bewaffnet.}
 {103}{}{Ich sollte dich erschießen, aber ich bin neugierig, was du mir zu sagen hast.}

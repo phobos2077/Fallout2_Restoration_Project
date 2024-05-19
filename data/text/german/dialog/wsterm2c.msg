@@ -20,7 +20,7 @@
 {116}{}{[Du drückst ganz unerschrocken auf den roten Knopf mit der Aufschrift "OFF". Du hattest
  richtig vermutet: Das Computerterminal schaltet sich ab.]}
 {117}{}{Beenden}
-{118}{}{[Du hast kaum zu Tippen anfangen, da löst sich auch schon die Tastatur in ihre
+{118}{}{[Du hast kaum zu tippen anfangen, da löst sich auch schon die Tastatur in ihre
  Einzelteile auf und die Tasten fallen auf den Boden. Dieses Terminal ist zu nichts mehr zu
  gebrauchen.]}
 {119}{}{Beenden}

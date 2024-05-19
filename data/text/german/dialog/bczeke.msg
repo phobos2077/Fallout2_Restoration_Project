@@ -17,12 +17,12 @@
 {116}{}{Im Moment nichts, danke.}
 {117}{}{Was willst du wissen?}
 {118}{}{Du arbeitest für Darion?}
-{119}{}{Was macht ihr gegen Gangster?}
+{119}{}{Was macht ihr gegen Raiders?}
 {120}{}{Wo Vaulttür?}
 {121}{}{Hier sonst noch abgehn?}
 {122}{}{Ich gehn.}
 {123}{}{Arbeitest du für Darion?}
-{124}{}{Was willst du gegen die Gangster tun?}
+{124}{}{Was willst du gegen die Raiders tun?}
 {125}{}{Wo ist der Vaulteingang?}
 {126}{}{Passiert hier sonst noch was in der Gegend?}
 {127}{}{Das ist alles, denk ich. Ich werd jetzt gehn.}

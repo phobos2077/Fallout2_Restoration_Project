@@ -69,12 +69,12 @@
 {346}{}{Du bist toll, Sippling. Ruh dich davon aus die Welt zu retten und hab etwas Spaß.}
 {347}{}{Ich habe gehört Tommy the Balls sucht dich. Pass auf.}
 {350}{}{Du hast ja wirklich Mut, dass du's der Enklave so gezeigt hast.}
-{351}{}{Ich glaube die Enklave zu besiegen bedeutet das du mehr Eier in der Hose hast als alle Gangster in New Reno zusammen.}
+{351}{}{Ich glaube, die Enklave zu besiegen bedeutet, dass du mehr Eier in der Hose hast als alle Gangster in New Reno zusammen.}
 {352}{}{Die Enklave zu besiegen heißt, du bist schlimmer als Tommy the Balls.}
 {353}{}{Ich hab grad kein Bock zu plaudern, aber ich freu mich das du der Enklave in den Arsch getreten hast.}
 {354}{}{Du bist toll, Sippling. Ruh dich davon aus die Welt zu retten und hab etwas Spaß.}
 {355}{}{Du musst ziemliche Eier in der Hose haben um der Enklave SO in den Arsch zu treten. Naja keine richtigen "Eier" aber du weißt was ich meine.}
-{356}{}{Süße, Ich glaube die Enklave zu besiegen bedeutet das du mehr Eier in der Hose hast als alle Gangster in New Reno zusammen.}
+{356}{}{Süße, ich glaube, die Enklave zu besiegen bedeutet, dass du mehr Eier in der Hose hast als alle Gangster in New Reno zusammen.}
 {357}{}{Denkst du, du könntest jemanden wie mich gebrauchen? Ich mein ich bin kein Weltrettungs-Typ, aber ich habe ein ziemlich großes Herz.}
 {360}{}{Wenn dieser Ghul hier reinkommt, stirbt er zweimal.}
 {361}{}{Der Ghul bleibt draußen!}

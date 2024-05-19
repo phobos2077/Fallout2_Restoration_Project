@@ -192,7 +192,7 @@
 {252}{}{Trotzdem danke. Dann mache ich mich wohl mal lieber auf den Weg. Wiedersehn.}
 {253}{}{Ich hab gehört, dass Sheriff Earl Marion jemanden sucht, der ihm hilft, bis sein schlechtes
  Bein wieder verheilt ist. Du kannst ja mal mit ihm reden. Sein Büro ist südlich von hier, über die Straße.}
-{254}{}{Danke für den Tip. Aber bevor ich gehe, lass mich dich noch was anderes fragen.}
+{254}{}{Danke für den Tipp. Aber bevor ich gehe, lass mich dich noch was anderes fragen.}
 {255}{}{Hey, erzähl mir was über die Minenbesitzer.}
 {256}{}{Dann schau ich da vielleicht mal rein. Danke.}
 {257}{}{Tja, da ist einmal der Sheriff und dann die Minenbesitzer, die nach irgendso einem Ersatzteil für

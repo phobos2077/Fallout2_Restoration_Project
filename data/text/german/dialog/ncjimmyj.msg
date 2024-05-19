@@ -175,7 +175,7 @@
 {636}{}{Nein, ich wollte nur fra--}
 {637}{}{Alles klar, macht nichts. Machen wir einen Handel?}
 {638}{}{Hör mal, ich hatte da noch ein paar Fragen --}
-{639}{}{Danke für den Tip, Jimmy. Ich mach mich besser auf --}
+{639}{}{Danke für den Tipp, Jimmy. Ich mach mich besser auf --}
 {645}{}{Du MISTKERL! Ich verkaufe SAUBERES Zeug! Wenn du wissen willst, wer den kleinen Wright vergiftet hat, frag doch den alten Trottel Renesco oder die falsche Schlange Jules, mal sehen, was die zu sagen haben!}
 {646}{}{OK, OK. Jetzt sei mal ganz ruhig --}
 {648}{}{Ist ja schon gut. Hör mal, ich hatte da noch ein paar Fra--}
@@ -194,7 +194,7 @@
 {686}{}{Irgendeine Vorstellung, wo das herkommen könnte?}
 {695}{}{Nee, keine Ahnung... hör mal, jetzt erzähl nicht groß rum, dass er mir gehört, ja? An deiner Stelle würde ich mal Jules und Renesco fragen... aber das hast du nicht von mir gehört, klar?}
 {696}{}{Na dann. Ich hätte da noch ein paar Fragen...}
-{697}{}{Renesco und Jules, soso. Ich frag sie mal. Danke für den Tip.}
+{697}{}{Renesco und Jules, soso. Ich frag sie mal. Danke für den Tipp.}
 {705}{}{Überrascht mich gar nicht.}
 {706}{}{Was sagst du da?}
 {707}{}{Ach so. Ich hab da noch ein paar andere Fragen...}
@@ -202,7 +202,7 @@
 {715}{}{Ja, NATÜRLICH sagt er das, weil er nämlich ALLES darüber weiß.}
 {716}{}{Was meinst du damit?}
 {725}{}{Was ich damit meine? Ich mein, dass Jimmy seine Kunden am liebsten glücklich und LEBENDIG sieht. Renesco macht da keinen Unterschied zwischen... jetzt kannst du deine EIGENEN Schlüsse ziehen, Pilot.}
-{727}{}{Danke für den Tip, Jimmy. Ich geh dann besser.}
+{727}{}{Danke für den Tipp, Jimmy. Ich geh dann besser.}
 {800}{}{Du hast entdeckt, dass Richard Wright vergiftet wurde.}
 {5200}{}{! Hier hast du ein bisschen Jet auf Kosten des Hauses von J-J...}
 {5201}{}{! Wenn du mit ein bisschen Jet was feiern möchtest, red mal mit Jimmy J...}

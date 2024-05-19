@@ -135,7 +135,7 @@
 {440}{}{Ach ja? Ich auch. Was glaubst du denn, was meine Einladung ist? Eine Art Vorspiel zum Ehebruch? Komm schon, sei kein Frosch. Was ist, kommst du endlich?}
 {441}{}{OK. Auf einen Drink, also.}
 {443}{}{Tut mir leid, aber ich kann nicht, Mrs. Bishop. Ich muss jetzt wirklich los.}
-{445}{}{Oh, ja... der raffinierte Versuch meines Mannes, andere dazu zu zwingen, seine Geste des guten Willens anzunehmen. Ich hatte eigentlich gehofft, diese Gangster, die Raiderbande wären durch die Laserkanonen von Vault City eingeäschert worden.}
+{445}{}{Oh, ja... der raffinierte Versuch meines Mannes, andere dazu zu zwingen, seine Geste des guten Willens anzunehmen. Ich hatte eigentlich gehofft, diese Raiders wären durch die Laserkanonen von Vault City eingeäschert worden.}
 {446}{}{"Geste des guten Willens"?}
 {447}{}{Ach so. Ich hab da noch ein paar andere Fragen...}
 {448}{}{Interessant... danke erst mal für die Informationen. Wiedersehn.}
@@ -150,9 +150,9 @@
 {470}{}{(Runzelt die Stirn.) Nein. Sollte ich? (Mustert dich vorsichtig und lächelt dann süffisant.) }
 {471}{}{(Runzelt die Stirn.) Nein. Sollte ich? (Mustert dich vorsichtig und lächelt dann wieder süffisant.) }
 {472}{}{Du stellst aber viele gefährliche Fragen über die Geschäfte meines Mannes. Ich an deiner Stelle wäre *äußerst* vorsichtig.}
-{473}{}{Äh, danke für den Tip. Ich hätte da noch ein paar andere, weniger gefährliche Fragen...}
+{473}{}{Äh, danke für den Tipp. Ich hätte da noch ein paar andere, weniger gefährliche Fragen...}
 {474}{}{Ich werd's mir merken. Wiedersehn.}
-{475}{}{Vielen Dank für alles... auch für den Tip, Mrs. Bishop.}
+{475}{}{Vielen Dank für alles... auch für den Tipp, Mrs. Bishop.}
 {480}{}{*Seufz*}
 {481}{}{Wieder so ein SCHÖNER Tag in Reno. Der Teufel muss vor Freude ganz aus dem Häuschen sein.}
 {482}{}{Dem Auflauf im Kasino nach zu urteilen wurde wohl noch mehr menschlicher Abschaum in Reno angeschwemmt...}
@@ -233,7 +233,7 @@
 {616}{}{Ha! Ich kann dir garantieren, dass John und ich einander nicht lieben. Das bisschen Liebe, dass es einmal zwischen uns gab, hat sich in eine gesunde Portion Gehässigkeit verwandelt. Er hat seine Frauen, und ich habe meine... Vergnügungen.}
 {617}{}{Aber ihr liebt euch doch sicher noch, wenigstens ein bisschen.}
 {618}{}{Was ist mit ihm und der NCR?}
-{619}{}{Was ist mit ihm und diesen "Raider-Gangstern", von denen ich gehört habe?}
+{619}{}{Was ist mit ihm und diesen "Raiders", von denen ich gehört habe?}
 {620}{}{Kennst du die Kombination für Bishops Safe?}
 {621}{}{Lass uns lieber über was anderes reden...}
 {625}{}{(Runzelt die Stirn.) Das überlasse ich deiner Phantasie. Könnten wir *bitte* das Thema wechseln? Lass uns über was anderes reden.}
@@ -244,8 +244,8 @@
 {638}{}{Ich wollte noch mehr über die Dinge wissen, die John so geplant hat...}
 {645}{}{(Rollt sich auf die andere Seite.) John hat ein paar Söldner nach Osten geschickt, in die Nähe von Vault City, um die Stadt "weichzukochen". Er will versuchen, sie unter Druck zu setzen, damit sie die NCR um Hilfe bitten.}
 {646}{}{Die *NCR* um Hilfe bitten? Wieso?}
-{650}{}{Mmmmm... tja... also... (Dreht sich um.) John hat der NCR versprochen, ihnen Vault City zu überlassen. Deshalb hat er einige seiner Männer ausgesandt und ihnen befohlen, sich wie Gangster zu verhalten, bis Vault City kapituliert.}
-{651}{}{Weißt du, wo sich diese Gangster aufhalten?}
+{650}{}{Mmmmm... tja... also... (Dreht sich um.) John hat der NCR versprochen, ihnen Vault City zu überlassen. Deshalb hat er einige seiner Männer ausgesandt und ihnen befohlen, sich wie Raiders zu verhalten, bis Vault City kapituliert.}
+{651}{}{Weißt du, wo sich diese Raiders aufhalten?}
 {652}{}{Äh... gibt es dafür irgendwo einen BEWEIS?}
 {655}{}{Nein... John hat wahrscheinlich hier irgendwo eine Karte, auf der ihr Versteck eingezeichnet ist... (Schnieft etwas, reibt sich die Nase.) Mmmmm...}
 {657}{}{Lass uns lieber über was anderes reden...}

@@ -30,7 +30,7 @@
 {128}{}{Die Menschen sind stinksauer über das mit Chad.}
 {129}{}{Die Mutanten sollten vorsichtig sein...die Menschen wollen Chad bestimmt rächen.}
 {130}{}{Wer würde so was Schreckliches tun?}
-{131}{}{Ohne die Mutanten sind wir völlig wehrlos gegen Gangster.}
+{131}{}{Ohne die Mutanten sind wir völlig wehrlos gegen Raiders.}
 {132}{}{Marcus...Zaius...Francis...die anderen...alle weg...}
 {133}{}{Die Zukunft sieht düster aus.}
 {134}{}{Haben die Menschen das getan? Cameron?}

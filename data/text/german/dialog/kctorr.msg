@@ -52,7 +52,7 @@
 {203}{}{Zzzzz Nein Torr. (Ich will jetzt nicht schlafen. Aber danke für dein großzügiges Angebot. Erstmal auf Wiedersehen, mein Freund.)}
 {210}{}{Uckner! Sugie (Ich glaube, bei meiner Familie bekommst du die besten Preise. Im Goldenen Gecko wirst du nur ausgelacht.)}
 {211}{}{Uckner Sugie? (Danke, ich werde hier einkaufen. Ich möchte dich noch etwas fragen.)}
-{212}{}{Sugie nein. (Guter Tip. Aber ich glaube, ich brauche im Augenblick nichts mehr. Wiedersehen.)}
+{212}{}{Sugie nein. (Guter Tipp. Aber ich glaube, ich brauche im Augenblick nichts mehr. Wiedersehen.)}
 {220}{}{Jeannie? Gick Vic (Du willst also ein GECK, he? Sind die nicht ursprünglich an den Vaults ausgegeben worden? Ich weiß nicht, wo du eins finden kannst, aber wenn dir jemand helfen kann, dann Vic, der Händler. Er hat sich auf Vorkriegssachen spezialisiert. Er lebt im Nordosten von Klamath.)}
 {221}{}{Bell, Gick Vic? (Danke für die Information. Ich werd's bei Vic versuchen. Ich hätte da noch eine Frage.)}
 {222}{}{Roger? Gick Vic, Haji! (Danke; ich werde mal nach ihm suchen. Wiedersehn.)}

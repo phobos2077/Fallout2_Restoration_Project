@@ -63,7 +63,7 @@
 {162}{}{Harte Umstellung. Man sieht sich.}
 {163}{}{Sowas passiert, Leute sterben nun mal. Meistens, wenn ich in der Nähe bin.}
 {164}{}{Ich hab dir bereits von dem Überfall erzählt. Da ist es passiert.}
-{165}{}{Mein Mann und ich waren mit der Karawane auf dem Weg in die New California Republic. Wir wollten mit unserer Tochter Sandy ein neues Leben beginnen. Eines Nachts wurde die Karawane jedoch von Gangstern überfallen. Sie waren unglaublich brutal. Sie haben alles getötet, Männer, Frauen und Kinder. Rand, mein Mann, starb, als er mich und Sandy beschützen wollte. Wir wären auch gestorben, wäre nicht ein Wunder geschehen...}
+{165}{}{Mein Mann und ich waren mit der Karawane auf dem Weg in die New California Republic. Wir wollten mit unserer Tochter Sandy ein neues Leben beginnen. Eines Nachts wurde die Karawane jedoch von Raiders überfallen. Sie waren unglaublich brutal. Sie haben alles getötet, Männer, Frauen und Kinder. Rand, mein Mann, starb, als er mich und Sandy beschützen wollte. Wir wären auch gestorben, wäre nicht ein Wunder geschehen...}
 {166}{}{Oh... wow.}
 {167}{}{Froh, du und Kleine OK.}
 {168}{}{Ich verschwinden. Tschüss.}
@@ -82,7 +82,7 @@
  zu schützen. Er stand neben der Leiche meines Mannes und lachte, als er die Waffe auf meinen
  Kopf richtete. Plötzlich kam diese riesige Kralle aus der Dunkelheit, griff ihn von hinten
  und... ja, Gott sei Dank hat Sandy nicht gesehen, was dann geschah. Jedenfalls wurden die
- Gangster von dieser Gruppe Deathclaws unschädlich gemacht. Die Deathclaw, die Sandy und mich
+ Raiders von dieser Gruppe Deathclaws unschädlich gemacht. Die Deathclaw, die Sandy und mich
  gerettet hatte, stand neben mir und redete mit mir. Sie versicherte mir immer wieder, dass wir
- in Sicherheit wären und das es ihr leid tue, dass sie nicht früher gekommen waren, um uns zu
+ in Sicherheit wären und dass es ihr leidtue, dass sie nicht früher gekommen waren, um uns zu
  helfen. Anschließend brachten uns die Deathclaws hierher.}

@@ -238,12 +238,12 @@
 {811}{}{Oh, das ICH! ICH! Ich war!}
 {812}{}{Ja, das war ich.}
 {813}{}{Was ich dazu zu sagen habe? Nichts. Warum?}
-{814}{}{Die Wüste is' groß, da gibt's 'ne Menge Gangster. Du könntest dich irren.}
+{814}{}{Die Wüste is' groß, da gibt's 'ne Menge Raiders. Du könntest dich irren.}
 {815}{}{Die Wüste is' groß, da gibt's 'ne Menge Heldenfiguren wie mich. Du könntest dich irren.}
 {820}{}{Naja, du musst schon ein ziemlicher Brocken sein, dass du all die Jungs ganz alleine so fertigmachst. }
 {821}{}{Naja, du musst schon 'n ziemliches Früchtchen sein, dass du all die Jungs ganz alleine so fertigmachst. }
 {822}{}{Könnte ja sein, dass mir nicht GEFÄLLT, was du da unten gemacht hast. KÖNNTE sein, dass ich 'n paar meiner besten Leute in dem Lager da hatte.}
-{823}{}{Könnte sein, du findest bald SELBST raus, was den Gangstern da unten passiert ist, wenn hier gleich die Kugeln fliegen.}
+{823}{}{Könnte sein, du findest bald SELBST raus, was den Raiders da unten passiert ist, wenn hier gleich die Kugeln fliegen.}
 {824}{}{Vielleicht hättest du sie besser ausbilden sollen. Das war, wie 'n Rudel Geckos zu erschießen. BETRUNKENE Geckos.}
 {825}{}{Ich wusste nicht, dass die für dich arbeiten. Die waren nicht gerade aufs Reden aus.}
 {835}{}{Tatsächlich? Ich glaube, du warst da. Ich glaube, du bist verantwortlich. }

@@ -22,7 +22,7 @@
 {179}{}{Kann ich dir noch ein paar Fragen stellen?}
 {180}{}{Also, ich äh... ich meine, ich... ich pass auf und kümmer mich und so. Ich bin ja der Sohn vom Besitzer. Ich erb den Laden ja mal, wenn mein Papa ins Gras beißt.}
 {182}{}{Gelogen. Nachts geh ich nur in den Stall, um... nachzusehen, ob alles verriegelt ist. Weißt schon, mit den wilden Tieren hier und so.}
-{184}{}{Papa leitet das Schlachthaus. Als Vater ist er OK. Ein Tip, wenn du Geschäfte mit ihm machst. An seinen Geschäften ist normalerweise mehr dran, als er zugibt.}
+{184}{}{Papa leitet das Schlachthaus. Als Vater ist er OK. Ein Tipp, wenn du Geschäfte mit ihm machst. An seinen Geschäften ist normalerweise mehr dran, als er zugibt.}
 {186}{}{Komm doch wieder zu mir, wenn du mal wieder... reden willst.}
 {187}{}{Wow, ich hätte nie gedacht, dass eine so schöne Frau versuchen würde, mich zu verführen. Was! Du bist gar keine Frau! Macht nichts, du bist so hübsch, ich sag nichts, wenn du nichts sagst.}
 {188}{}{Ich muss träumen. Ich glaub nicht, dass so eine schöne Frau versucht, mich zu verführen. Du versuchst doch, mich zu verführen, oder?}

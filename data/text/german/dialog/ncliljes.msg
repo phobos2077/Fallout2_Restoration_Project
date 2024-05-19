@@ -180,7 +180,7 @@
 {843}{}{Klingt gut, aber ich hab jetzt keine zehn Sekunden für deine Liebe übrig, Little Jesus.}
 {844}{}{Ich bin geschmeichelt, aber nein danke. Sag, ich hatte noch ein paar Fragen...}
 {846}{}{Ich suche einen Job. Weißt du, wo sie Leute einstellen?}
-{847}{}{Danke für den Tip, danke.}
+{847}{}{Danke für den Tipp, danke.}
 {848}{}{Warum fängst du nicht ohne mich an? Ich muss gehen.}
 {860}{}{Äh? Wovon redest d--? (Versteht.) Du verdammtes Miststück! Beweg deinen dreckigen Hintern hier raus, sonst schneid ich dich in so viele Stücke, dass dich deine eigene Mutter nicht wiedererkennt.}
 {861}{}{Äh? Wovon redest d--? (Versteht.) Du bewegst besser deinen Hintern hier raus, Mann, sonst werd ich dir mit meinem Messer ein zweites Lächeln in den Hals schnitzen.}

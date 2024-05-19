@@ -50,7 +50,7 @@
 {281}{}{Was, ich soll dich durchsuchen und so? Komm schon, nimm das Eisen weg, bevor ich handgreiflich werden muss.}
 {285}{}{Was zum Teufel schnüffelst du hier herum, }
 {290}{}{Mit der Figur schleichst du so schnell an keinem Mordino vorbei, Chica.}
-{295}{}{Dein Film war nicht schlecht, aber offensichtlich brauchst du noch ein paar Tips von mir.}
+{295}{}{Dein Film war nicht schlecht, aber offensichtlich brauchst du noch ein paar Tipps von mir.}
 {296}{}{Erwähn mich mal bei den Brüdern, in Ordnung?}
 {297}{}{Hey, }
 {298}{}{Ich bin bereit und verfügbar - besorg mir ne Rolle beim Film, okay? Wir reden von einem Kassenschlager, }

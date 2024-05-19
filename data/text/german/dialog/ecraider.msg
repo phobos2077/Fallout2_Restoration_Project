@@ -1,5 +1,5 @@
 {100}{}{Du siehst eine fies aussehende Person.}
-{101}{}{Du siehst einen Gangster.}
+{101}{}{Du siehst einen Raider.}
 {200}{}{Du hast unser Land widerrechtlich betreten. Dafür musste sterben!}
 {201}{}{Wie kannst du's wagen, unaufgefordert hierher zu kommen!}
 {202}{}{Stirb, Penner!}

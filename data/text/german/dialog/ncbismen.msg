@@ -73,7 +73,7 @@
 {334}{}{Du hast ganz schön Nerven, der Enklave so einzuheizen.}
 {335}{}{Wanderst noch ein wenig umher, obwohl das Spiel fertig ist, willst wohl ein paar extra EXPs sammeln, was? Gut, aber bitte erschieß mich nicht, Ok?}
 {336}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Man munkelt, dass die beiden bald heiraten wollen.}
-{337}{}{Ich hoffe ich werde mal ein wichtiger Charakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein stinkt mir.}
+{337}{}{Ich hoffe, ich werde mal ein wichtiger Charakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein, ist beschissen.}
 {338}{}{Ich bin mal mit Tandi ausgegangen. Als sie noch jung war natürlich.}
 {339}{}{Lynette müsste man es mal wieder richtig besorgen, oder?}
 {340}{}{Hab gehört, dass du die Enklave im Süden unten hochgenommen hast. Ganz schön mutig.}

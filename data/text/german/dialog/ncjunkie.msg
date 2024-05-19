@@ -215,14 +215,14 @@
 {502}{}{Warum gibt es zwei von euch? Ist das dein Zwilling?}
 {503}{}{Häh? du bist ein echter gemachter Mann?}
 {504}{}{Gangster, ich bin so high, dass... äh, was wollte ich sagen?}
-{505}{}{Willste mit mir fliegen Gangster?}
-{506}{}{willst du fliegen Gangster? Sprich mit Juuuuules.}
+{505}{}{Willste mit mir fliegen, Gangster?}
+{506}{}{Willst du fliegen, Gangster? Sprich mit Juuuuules.}
 {507}{}{Jagged Jimmy kann dir helfen, weißt was ich mein?}
 {508}{}{Wenn du für Renesco arbeitest, sag ihm er bekommt sein Geld morgen.}
 {509}{}{Jagged Jimmys Stoff ist der Beste. Außer er kann dich nicht leiden.}
 {510}{}{Du redest mit mir? Du redest mit mir?!}
 {511}{}{Willste dich mit mir anlegen, Gangster? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
-{512}{}{willst du was davon Gangster?! Häh?}
+{512}{}{Willst du was davon, Gangster?! Häh?}
 {513}{}{::Sieht dich mit einem durch Drogen getrübten Blick an::}
 {520}{}{Puhh... wo bist DU denn drauf? Kann ich was abhaben?}
 {521}{}{Und ich hab gedacht, *ich* wär fertig.}

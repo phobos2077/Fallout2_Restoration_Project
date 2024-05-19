@@ -1,5 +1,5 @@
-{100}{}{Du siehst einen Khan-Gangster.}
-{101}{}{Du siehst einen Khan-Gangster.}
+{100}{}{Du siehst einen Khan-Raider.}
+{101}{}{Du siehst einen Khan-Raider.}
 {102}{}{Du siehst eine brutal aussehende Person in einer Rüstung, mit Waffen und finsterer Mine. Es muss ein Khan sein.}
 {103}{}{Was zum... Ich kenn dich nicht. Wer zum Teufel bist du?}
 {104}{}{Ich kann mich ausweisen. Warte, ich zeig's dir.}

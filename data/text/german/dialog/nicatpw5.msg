@@ -1,1 +1,1 @@
-{100}{}{Du hast ein paar wertvolle Tips zum Umgang mit Energiewaffen erhalten.}
+{100}{}{Du hast ein paar wertvolle Tipps zum Umgang mit Energiewaffen erhalten.}

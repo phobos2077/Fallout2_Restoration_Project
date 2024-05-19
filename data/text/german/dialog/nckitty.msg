@@ -70,7 +70,7 @@
 {352}{}{Also gut. (Lächelt) Für die Antworten musst du aber vielleicht bezahlen...}
 {353}{}{Klar doch. Was willst du denn wissen?}
 {354}{}{Ich habe gehört, einige deiner Mädchen wurden ausgesucht, um Myron zu... besuchen.}
-{355}{}{Jules hat mir den Tip gegeben, hierher zu kommen, wenn ich etwas... Action brauche.}
+{355}{}{Jules hat mir den Tipp gegeben hierher zu kommen, wenn ich etwas... Action brauche.}
 {361}{}{Ich geh dann wohl besser mal.}
 {375}{}{Sieht so aus, als ob wir was für dich hätten. Du wünschst also...?}
 {376}{}{Ich möchte, dass meine Partnerin einen Vaultoverall anzieht, mich den "Vaultbewohner" nennt und ich dann ihre "Vault" finden muss.}
