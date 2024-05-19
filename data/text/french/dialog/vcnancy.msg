@@ -71,7 +71,7 @@
 {170}{}{Peux-tu me dire où se trouve l'ordinateur central ?}
 {171}{}{J'ai besoin de soins médicaux.}
 {172}{}{Qu'est-ce tu fais ici ?}
-{173}{}{Vous pouvez me parler de la Cité de l'Abri ?}
+{173}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {174}{}{Bon, tant pis. Merci quand même.}
 {175}{}{Oh, le Dr Troy est parfois sévère mais, en fin de compte, c'est un homme bon. La Cité de l'Abri a de la chance de l'avoir.}
 {176}{}{Eh bien, il m'a demandé de passer des stupéfiants en fraude dans la Cité pour lui.}

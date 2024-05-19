@@ -102,8 +102,8 @@
 {520}{}{Du bist: %s}
 {521}{}{%s %s.}
 {522}{}{Er ist: %s}
-{523}{}{Sie ist %s}
-{524}{}{Es ist %s}
+{523}{}{Sie ist: %s}
+{524}{}{Es ist: %s}
 {525}{}{%s hat %d/%d Trefferpunkte.}
 {526}{}{Es hat %d/%d Schuss %s.}
 {530}{}{und hat schwer verletzte Gliedmaßen.}

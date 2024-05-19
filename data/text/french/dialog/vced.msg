@@ -11,7 +11,7 @@
 {110}{}{Mon ami Vic, là, dit qu'il t'a acheté une fiole d'eau.}
 {111}{}{Te rappelles-tu par hasard l'endroit où tu as trouvé cette fiole d'eau ?}
 {112}{}{Je recherche l'Abri.}
-{113}{}{Vous pouvez me parler de la Cité de l'Abri ?}
+{113}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {114}{}{Que fais-tu dans le coin ?}
 {115}{}{Salut.}
 {116}{}{Vic ?}
@@ -49,7 +49,7 @@
 {148}{}{Mon ami Vic, là, dit qu'il t'a acheté une fiole d'eau.}
 {149}{}{Te rappelles-tu par hasard l'endroit où tu as trouvé cette fiole d'eau ?}
 {150}{}{Je recherche l'Abri.}
-{151}{}{Vous pouvez me parler de la Cité de l'Abri ?}
+{151}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {152}{}{Que fais-tu dans le coin ?}
 {153}{}{Salut.}
 {154}{}{Ben... Il y a cet Abri, à l'intérieur de la Cité. L'as-tu déjà vu ? Ca pourrait être celui que tu cherches.}

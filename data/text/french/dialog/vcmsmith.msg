@@ -2,7 +2,7 @@
 {101}{}{Tu vois Smith.}
 {102}{}{J'crois pas que tu sois du coin. Mon nom, c'est Smith. Puis-je t'aider ?}
 {103}{}{Voulais-tu autre chose ?}
-{104}{}{Vous pouvez me parler de la Cité de l'Abri ?}
+{104}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {105}{}{Que fais-tu dans le coin ?}
 {106}{}{Je recherche l'Abri.}
 {107}{}{Je vais t'aider pour cette charrue.}

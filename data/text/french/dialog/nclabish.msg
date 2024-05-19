@@ -76,7 +76,7 @@
 {326}{}{Où puis-je trouver ce Jardin d'Eden en Kit ?}
 {328}{}{Bon, tant pis... Merci quand même.}
 {330}{}{[Elle a un sourire fugace, comme au souvenir de jours heureux.] Tu connais la Cité de l'Abri ? C'est au Nord-Est de New Reno... Ils avaient un de ces kits... il y a bien longtemps. Mais ils s'en sont servi quand ils ont quitté leur abri pour remonter à la surface.}
-{331}{}{Vous pouvez me parler de la Cité de l'Abri ?}
+{331}{}{Peux-tu me parler de la Cité de l'Abri ?}
 {332}{}{Je peux vous poser d'autres questions ?}
 {333}{}{J'irai voir là-bas, alors. Merci du renseignement.}
 {335}{}{[Son sourire s'efface, et elle prend un air distant.] Il n'y a pas grand-chose à en dire. Je crois que tu risques d'y trouver le climat très... différent. Bon, c'est tout ?}
