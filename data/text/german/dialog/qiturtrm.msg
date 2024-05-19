@@ -28,7 +28,7 @@
 {125}{}{Auflisten (der Computer zeigt ein Liste mit Namen).}
 {126}{}{Wähle Benutzerkennung oder logge Dich aus:}
 {127}{}{(Dieser hat genehmigten Zugang.) Smith, J.}
-{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Passwort Außerkraftsetzen der Sicherheitsfunktion .}
+{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Schlüssel Sicherheitsüberbrückung.}
 {129}{}{(Dein Zugang ist besser, als ein normaler Zugang.) Murray, T.}
 {130}{}{(Dieser hat guten Zugang.) Curling, Dr. C.}
 {131}{}{(Dieser sieht aus, als ob er wirklich guten Zugang hat.) Bird, D.}
@@ -132,17 +132,13 @@
  Vollversion um die aktuellen Updates zu erhalten. Die Frist für diese Software ist vor 59.439 Tagen abgelaufen.}
 {229}{}{Zurück zum Einloggen.}
 {230}{}{Beende die Sitzung}
-{231}{}{Außerkraftsetzung der Sicherheit erfordert das Präsidenten-Passwort. Erlaubte Optionen: Aufstandsgegenmaßnahmen, Notfall
- Verteidigungssystem Stillegung.}
-{232}{}{(Ich werde mir das anschauen.) Gegenaufstand.}
-{233}{}{(Ich werde mir das anschauen.) Notfall Verteidigungssystem Stillegung.}
+{231}{}{Außerkraftsetzung der Sicherheit erfordert den Präsidenten-Schlüssel. Erlaubte Optionen: Bekämpfung von Aufständen, Notabschaltung der Verteidigungssysteme.}
+{232}{}{(Ich werde mir das anschauen.) Bekämpfung von Aufständen.}
+{233}{}{(Ich werde mir das anschauen.) Notabschaltung der Verteidigungssysteme.}
 {234}{}{(Vielleicht sollte ich etwas weniger Auffälliges versuchen) Zurück zur Benutzerkennung.}
 {235}{}{(Ich glaube nicht, dass ich mich jetzt darauf einlassen möchte.) Ausloggen}
-{236}{}{Aufstandsgegenmaßnahmen. In dem Fall einer bewaffneten Rebellion ermöglicht es die Präsidenten-Sicherheits-Schlüsselkarte, die
- Verteidigungssysteme auf alle, vorher treuen und jetzt bedrohenden Einheiten aus einem Gebiet anzuwenden. Verteidigungssysteme
- sind darauf programmiert, die gefährlichsten Feinde zuerst anzugreifen. Warnung! Derzeitiges Operations-Level - nur
- Eingangslevel!}
-{237}{}{(Das hört sich nützlich an.) Aktiviere Aufstandsgegenmaßnahmen.}
+{236}{}{Bekämpfung von Aufständen. Im Fall einer bewaffneten Rebellion ermöglicht der Präsidenten-Schlüssel die Aktivierung von Verteidigungssystemen für alle bisher loyalen, aber nun bedrohlichen Einheiten in einem Gebiet. Verteidigungssysteme sind darauf programmiert, die gefährlichsten Feinde zuerst anzugreifen. Warnung! Derzeitige operative Ebene: nur Eingangsebene!}
+{237}{}{(Das hört sich nützlich an.) Aktiviere Bekämpfung von Aufständen.}
 {238}{}{(Vielleicht werde ich das ein anderes Mal versuchen.) Zurück.}
 {239}{}{(Ich möchte gerade nicht mehr mit dem Computer spielen.) Ausloggen.}
 {240}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet.
