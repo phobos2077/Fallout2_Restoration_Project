@@ -1,2 +1,2 @@
-1:You have died.
-2:Your village is lost, doomed to die of starvation.
+1:B?n đ? ch?t.
+2:Ngôi làng c?a b?n ph?i cam ch?u s? ph?n ch?t đói.

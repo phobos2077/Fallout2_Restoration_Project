@@ -1,2 +1,2 @@
-1:You have died.
-2:Your quest to find the Garden of Eden and return it to your village has failed.
+1:B?n đ? ch?t.
+2:Nhi?m v? t?m Vư?n Đ?a Đàng và quay v? ngôi làng c?a b?n đ? th?t b?i.
