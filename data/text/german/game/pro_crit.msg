@@ -252,8 +252,8 @@
 {23500}{}{Schmuggler}
 {23600}{}{Goldsucher}
 {23700}{}{Goldsucher}
-{23800}{}{Gangster}
-{23900}{}{Gangster}
+{23800}{}{Raider}
+{23900}{}{Raider}
 {24000}{}{Feuergecko}
 {24100}{}{Zäher Feuergecko}
 {24200}{}{Alien}

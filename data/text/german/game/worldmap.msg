@@ -181,12 +181,12 @@
 {1503}{}{Ein Auto. Es sieht nicht so aus, als ob es funktionieren würde.}
 {2998}{}{Du begegnest:}
 {2999}{}{Du möchtest begegnen:}
-{3000}{}{Einem Gangstertrupp.}
+{3000}{}{Einem Trupp Raiders.}
 {3001}{}{Einigen Radskorpionen.}
 {3002}{}{Riesenratten.}
 {3003}{}{Einer Händlergruppe.}
 {3004}{}{<Spezial>}
-{3050}{}{Einem Gangstertrupp.}
+{3050}{}{Einem Trupp Raiders.}
 {3051}{}{Einigen Gottesanbeterinnen.}
 {3052}{}{Einer Gruppe Geckos.}
 {3053}{}{Einer Gruppe Maulwurfsratten.}
@@ -194,14 +194,14 @@
 {3055}{}{Einer Gruppe Riesenratten.}
 {3056}{}{Einer Händlergruppe.}
 {3057}{}{<Spezial>}
-{3100}{}{Einem Gangstertrupp.}
+{3100}{}{Einem Trupp Raiders.}
 {3101}{}{Einer Gruppe Radskorpione.}
 {3102}{}{Einer Gruppe Riesenratten.}
 {3103}{}{Einer Händlergruppe.}
 {3104}{}{<Spezial>}
-{3150}{}{Einem Gangstertrupp.}
-{3200}{}{Einem Gangstertrupp.}
-{3250}{}{Einem Gangstertrupp.}
+{3150}{}{Einem Trupp Raiders.}
+{3200}{}{Einem Trupp Raiders.}
+{3250}{}{Einem Trupp Raiders.}
 {3300}{}{Einer Kriegertruppe.}
 {3301}{}{Einer Gruppe Kannibalen.}
 {3302}{}{Einer Gruppe Sporenpflanzen und einigen Silbergeckos.}
@@ -1087,10 +1087,10 @@
 {4868}{}{Einigen Maulwurfsratten im Kampf gegen Radskorpione.}
 {4869}{}{Einem Mann, der eine Brücke bewacht.}
 {4870}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-{4900}{}{Einer Gangsterbande.}
+{4900}{}{Einer Raiderbande.}
 {4901}{}{Einigen Wölfen.}
-{4902}{}{Einer Karawane, die sich gegen Gangster wehrt.}
-{4903}{}{Einer Karawane, die sich gegen Gangster wehrt.}
+{4902}{}{Einer Karawane, die sich gegen Raiders wehrt.}
+{4903}{}{Einer Karawane, die sich gegen Raiders wehrt.}
 {4904}{}{Ein paar Kopfgeldjägern.}
 {4905}{}{Ein paar Kopfgeldjägern.}
 {4906}{}{Ein paar Kopfgeldjägern.}
@@ -1100,8 +1100,8 @@
 {4910}{}{Ein paar Kopfgeldjägern.}
 {4911}{}{Ein paar Kopfgeldjägern.}
 {4912}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{4913}{}{Einer Karawane, die sich gegen Gangster wehrt.}
-{4914}{}{Einer Karawane, die sich gegen Gangster wehrt.}
+{4913}{}{Einer Karawane, die sich gegen Raiders wehrt.}
+{4914}{}{Einer Karawane, die sich gegen Raiders wehrt.}
 {4915}{}{Einer Karawane.}
 {4916}{}{Einer Karawane.}
 {4917}{}{Einer Karawane.}
@@ -1112,7 +1112,7 @@
 {4950}{}{Einer Giftmülldeponie.}
 {4951}{}{Einem einsamen überlebenden Hund.}
 {4952}{}{Einer Herde Brahmin.}
-{4953}{}{Einer Gangsterbande.}
+{4953}{}{Einer Raiderbande.}
 {4954}{}{Ein paar Kopfgeldjägern.}
 {4955}{}{Ein paar Kopfgeldjägern.}
 {4956}{}{Ein paar Kopfgeldjägern.}
@@ -1123,10 +1123,10 @@
 {4961}{}{Ein paar Kopfgeldjägern.}
 {4962}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4963}{}{Einigen Wölfen.}
-{4964}{}{Einer Karawane, die sich gegen Gangster wehrt.}
-{4965}{}{Einer Karawane, die sich gegen Gangster wehrt.}
-{4966}{}{Einer Karawane, die sich gegen Gangster wehrt.}
-{4967}{}{Einer Karawane, die sich gegen Gangster wehrt.}
+{4964}{}{Einer Karawane, die sich gegen Raiders wehrt.}
+{4965}{}{Einer Karawane, die sich gegen Raiders wehrt.}
+{4966}{}{Einer Karawane, die sich gegen Raiders wehrt.}
+{4967}{}{Einer Karawane, die sich gegen Raiders wehrt.}
 {4968}{}{Einer Karawane.}
 {4969}{}{Einer Karawane.}
 {4970}{}{Einer Karawane.}
@@ -1139,9 +1139,9 @@
 {4977}{}{Dem Blechmann.}
 {4978}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4979}{}{Einer irren Gangsterbande.}
-{5000}{}{Einer Gangsterbande, die einige Wölfe anführt.}
+{5000}{}{Einer Raiderbande, die einige Wölfe anführt.}
 {5001}{}{Einigen Sporenpflanzen und Wölfen.}
-{5002}{}{Einer Gangsterbande.}
+{5002}{}{Einer Raiderbande.}
 {5003}{}{Einem Rudel Wölfe.}
 {5004}{}{Ein paar Kopfgeldjägern.}
 {5005}{}{Ein paar Kopfgeldjägern.}
@@ -1153,14 +1153,14 @@
 {5011}{}{Ein paar Kopfgeldjägern.}
 {5012}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5013}{}{Einem Rudel Radskorpione.}
-{5014}{}{Einem Rudel Wölfe im Kampf gegen Gangster.}
+{5014}{}{Einem Rudel Wölfe im Kampf gegen Raiders.}
 {5015}{}{Einem Mann, der eine Brücke bewacht.}
 {5016}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5017}{}{Einer irren Gangsterbande.}
 {5050}{}{Einer Giftmülldeponie.}
 {5051}{}{Einem einsamen überlebenden Hund.}
 {5052}{}{Einer Herde Brahmin.}
-{5053}{}{Einer Gangsterbande, die einige Wölfe anführt.}
+{5053}{}{Einer Raiderbande, die einige Wölfe anführt.}
 {5054}{}{Ein paar Kopfgeldjägern.}
 {5055}{}{Ein paar Kopfgeldjägern.}
 {5056}{}{Ein paar Kopfgeldjägern.}
@@ -1171,10 +1171,10 @@
 {5061}{}{Ein paar Kopfgeldjägern.}
 {5062}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5063}{}{Einigen Sporenpflanzen und Wölfen.}
-{5064}{}{Einer Gangsterbande.}
+{5064}{}{Einer Raiderbande.}
 {5065}{}{Einem Rudel Wölfe.}
 {5066}{}{Einem Rudel Radskorpione.}
-{5067}{}{Einem Rudel Wölfe im Kampf gegen Gangster.}
+{5067}{}{Einem Rudel Wölfe im Kampf gegen Raiders.}
 {5068}{}{Den Überresten eines Wals.}
 {5069}{}{Einem riesigen Steinkopf.}
 {5070}{}{Einem abgestürzten Shuttle.}

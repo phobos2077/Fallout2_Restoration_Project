@@ -148,7 +148,7 @@
  zu.}
 {214}{}{Kein Zweifel. Danke.}
 {215}{}{Kein Problem. Hier hast du noch ein paar Splittergranaten, die gehen auf meine Kappe. Als
- Dank dafür, dass du diese Gangster beseitigt hast.}
+ Dank dafür, dass du diese Raiders beseitigt hast.}
 {216}{}{Spitze. Kann ich mir ansehen, was du sonst noch am Lager hast?}
 {217}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {218}{}{Danke. Ich werd sie bestimmt gebrauchen können.}

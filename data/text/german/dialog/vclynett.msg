@@ -290,8 +290,8 @@
 {389}{}{Wie wird man denn ein Bürger von Vault City?}
 {390}{}{Ich hab mir das mal überlegt, mit deinem Angebot, Bürger von Vault City zu werden.}
 {391}{}{Wegen dem Kraftwerk in Gecko...}
-{392}{}{Ich habe die Gangster gefunden, die die Stadt angegriffen haben.}
-{393}{}{Ich habe mehr über die Gangster herausgefunden, die die Stadt angegriffen haben.}
+{392}{}{Ich habe die Raiders gefunden, die die Stadt angegriffen haben.}
+{393}{}{Ich habe mehr über die Raiders herausgefunden, die die Stadt angegriffen haben.}
 {394}{}{Ich hab etwas in Bishops Safe gefunden, das dich interessieren könnte.}
 {395}{}{Dr. Troy ist da glaub ich in eine illegale Sache verwickelt.}
 {396}{}{Ich muss mal mit dir über die Übergabe der Holo-Disk reden.}
@@ -299,7 +299,7 @@
 {398}{}{Tut mir leid, dass ich euch gestört habe.}
 {399}{lyn054a}{Natürlich. Wie kann ich dir helfen, Bürger?}
 {400}{lyn054b}{Natürlich. Wie kann ich dir helfen, Hauptmann?}
-{401}{}{Was kannst du mir über diese Gangsterangriffe auf unsere Stadt erzählen?}
+{401}{}{Was kannst du mir über diese Raiderangriffe auf unsere Stadt erzählen?}
 {402}{}{Ich hab in der Stadt diesen Bürger Thomas Moore getroffen. Wer ist das eigentlich?}
 {403}{}{Hast du ein GECK?}
 {404}{}{Ich bin auf der Suche nach Vault 13.}
@@ -321,7 +321,7 @@
 {420}{}{Macht nichts.}
 {421}{}{Entschuldige bitte, Erstbürgerin. Tut mir leid, wenn ich dich gestört habe.}
 {422}{lyn057}{Was denn? Hattest du dich nicht darum gekümmert?}
-{423}{}{Das ist nicht so einfach. Weißt du, das sind nicht einfach irgendwelche Gangster... es sind Söldner.}
+{423}{}{Das ist nicht so einfach. Weißt du, das sind nicht irgendwelche umherziehende Raiders... es sind Söldner.}
 {424}{}{Vergiss es. Tschüss.}
 {425}{lyn058}{Ich kann mich nicht an deine Einführung erinnern. Zeig mir mal deine Papiere.}
 {426}{}{Hier. Die sollten eigentlich in Ordnung sein.}
@@ -382,9 +382,9 @@
 {481}{lyn071}{Versuch keine Spielchen mit mir, oder ich sorge dafür, dass du nie wieder einen Fuß in Vault City setzt.}
 {482}{}{Pass gut auf dich auf, "Erstbürgerin". Wiedersehen.}
 {483}{}{Einen schönen Tag, Erstbürgerin.}
-{484}{lyn072a}{Du hast es geschafft! Hervorragend! Du hast Vault City einen wertvollen Dienst erwiesen, bitte nimm dies als Zeichen unserer Anerkennung. Dass eine Gruppe von *Gangstern* soviel Unruhe stiften konnte . . . }
-{485}{lyn072b}{Hervorragend. Das geschieht ihnen recht. Dass eine Gruppe von *Gangstern* soviel Unruhe stiften konnte...}
-{486}{}{Naja, es waren nicht einfach irgendwelche Gangster. Es waren Söldner.}
+{484}{lyn072a}{Du hast es geschafft! Hervorragend! Du hast Vault City einen wertvollen Dienst erwiesen, bitte nimm dies als Zeichen unserer Anerkennung. Dass eine Gruppe von *Raiders* soviel Unruhe stiften konnte...}
+{485}{lyn072b}{Hervorragend. Das geschieht ihnen recht. Dass eine Gruppe von *Raiders* soviel Unruhe stiften konnte...}
+{486}{}{Naja, es waren nicht einfach irgendwelche Raiders. Es waren Söldner.}
 {487}{lyn073}{Du hast ihr Kraftwerk also abgeschaltet?}
 {488}{}{Nein, ich hab's repariert. Stadtrat McClure hat mir das fehlende Ersatzteil gegeben, und damit hab ich das Kraftwerk zum Laufen gebracht.}
 {489}{}{Ist alles unter Kontrolle.}
@@ -546,7 +546,7 @@
 {645}{}{Super, danke. Wiedersehen.}
 {646}{}{Vielen Dank, Erstbürgerin.}
 {647}{lyn104}{Bisher haben die Lasertürme ihren Angriffen standgehalten, aber ich weiß nicht, wie lange wir sie noch aufhalten können.}
-{648}{}{Wer sind denn diese Gangster?}
+{648}{}{Wer sind denn diese Raiders?}
 {649}{}{Ich hab da noch ein paar Fragen...}
 {650}{}{Ich muss jetzt gehen. Wiedersehen.}
 {651}{}{Tut mir leid, das zu hören; vielleicht suchen sie sich ja woanders leichtere Beute. Schönen Tag noch, Erstbürgerin.}
@@ -579,7 +579,7 @@
 {678}{lyn111a}{Was?! Woher weißt du das? Kannst du das beweisen?}
 {679}{lyn111b}{Kannst du das beweisen?}
 {680}{}{Ich hab zwar keine handfesten Beweise, aber in New Reno sagt man, dass die Bishops dahinterstecken.}
-{681}{}{Ich habe dieses Rechnungsbuch im Safe der Gangster gefunden. Darin sind Zahlungen von Bishop eingetragen - für eine dreimonatige Terrorkampagne gegen Vault City... äh, eventuell monatsweise zu verlängern, wenn ihr auf stur schaltet.}
+{681}{}{Ich habe dieses Rechnungsbuch im Safe der Raiders gefunden. Darin sind Zahlungen von Bishop eingetragen - für eine dreimonatige Terrorkampagne gegen Vault City... äh, eventuell monatsweise zu verlängern, wenn ihr auf stur schaltet.}
 {682}{}{Ich hab immer noch keine stichhaltigen Beweise. Aber ich bleib dran.}
 {683}{lyn112}{Das würde mich nicht überraschen. Bishop war vor kurzem in Vault City und schlug eine Allianz vor, was ich natürlich abgelehnt habe. Wir verbünden uns doch nicht mit Kriminellen.}
 {684}{}{Vielleicht wollte er dich auf diese Weise zu einem Bündnis zwingen.}
@@ -617,7 +617,7 @@
 {716}{lyn120}{Roger Westin war wahrscheinlich der einzig ehrliche Mann in der Neuen Republik, und er hat sich für unsere Sache eingesetzt... sein Tod ist ein schwerer Verlust.}
 {717}{}{Jaja, ein zäher alter Bursche. Guter Mann. Viele Trefferpunkte. Also, krieg ich noch meine Belohnung für die Informationsbeschaffung, oder...?}
 {718}{}{Ja, tat mir auch leid. Es war, als hätte ich ihn erst gestern noch gesehen.}
-{719}{lyn121a}{Ich hab dich doch bereits für Informationen über diese "Gangster" bezahlt. Du bist genug belohnt worden. Und jetzt verschwinde.}
+{719}{lyn121a}{Ich hab dich doch bereits für Informationen über diese "Raiders" bezahlt. Du bist genug belohnt worden. Und jetzt verschwinde.}
 {720}{lyn121b}{Ja, ja... das hast du sehr gut gemacht. Bitte... nimm das als Belohnung.}
 {721}{}{Keine Belohnung?! War gar nicht so leicht, diesen ganzen politischen Mist rauszufinden. Da hab ich mir doch wohl was verdient, findest du nicht auch?!}
 {722}{}{Moment, ich bin noch nicht fertig. Ich hab da noch ein paar Fragen... }
@@ -770,9 +770,9 @@
 {869}{}{Ich brauche ein Ersatzteil, um das Kraftwerk in Gecko zu reparieren.}
 {870}{}{Du hast Westins Holo-Disk bei Lynette abgeliefert.}
 {871}{}{Du hast Westins Holo-Disk bei Lynette abgeliefert und bist Hauptmann der Wache geworden.}
-{872}{}{Du hast die Gangster erledigt und Vault City geholfen.}
+{872}{}{Du hast die Raiders erledigt und Vault City geholfen.}
 {873}{}{Du hast Moore als einen NCR-Spion entlarvt.}
-{874}{}{Du hast bewiesen, dass Bishop die Gangster bezahlt hat.}
+{874}{}{Du hast bewiesen, dass Bishop die Raiders bezahlt hat.}
 {875}{}{Du hast bewiesen, dass Bishop von der NCR bezahlt wurde.}
 {876}{}{Ich brauche einen, um mein --}
 {877}{}{Moment mal --}

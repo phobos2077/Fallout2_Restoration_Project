@@ -665,7 +665,7 @@
 {33800}{}{Westins Holo-Disk}
 {33801}{}{Das ist die Holo-Disk, die du von Westin bekommen hast.}
 {33900}{}{NCR-Spion-Holo-Disk}
-{33901}{}{Diese Holo-Disk enthält Berichte über die Termine der NCR-Karawane sowie Sicherheitsinformationen. Sie ist an Darion adressiert und mit "F" abgezeichnet. Es ist klar, wie die Gangster mit dieser Info ihrer Gefangennahme aus dem Weg gehen konnten.}
+{33901}{}{Diese Holo-Disk enthält Berichte über die Termine der NCR-Karawane sowie Sicherheitsinformationen. Sie ist an Darion adressiert und mit "F" abgezeichnet. Es ist klar, wie die Raiders mit dieser Info ihrer Gefangennahme aus dem Weg gehen konnten.}
 {34000}{}{Arztpapiere}
 {34001}{}{Mehrere äußerst detailgenaue Pläne für eine Wacheinheit mit kybernetischen Hunden. Damit und den geeigneten Instrumenten kann jemand eventuell einen Robodog bauen.}
 {34100}{}{Präsidentenpass}
@@ -863,8 +863,8 @@
 {44201}{}{Besitzer ist laut Marken "Angel-Eyes". Unter dem Namen steht eine "16."}
 {44300}{}{Tucos Dogtags}
 {44301}{}{Besitzer dieser stinkenden Marken ist "Tuco Benedicto Pacifico Juan Maria Ramirez", dahinter steht eine "27."}
-{44400}{}{Gangsterkarte}
-{44401}{}{Zerknitterte Karte Nordkaliforniens aus der Zeit vor dem Krieg. Reno und die umliegenden Karawanenwege sind rot markiert. Weit östlich von Reno ist ein rotes "X" eingezeichnet, unter das "Gangster" gekritzelt wurde.}
+{44400}{}{Raiderkarte}
+{44401}{}{Zerknitterte Karte Nordkaliforniens aus der Zeit vor dem Krieg. Reno und die umliegenden Karawanenwege sind rot markiert. Weit östlich von Reno ist ein rotes "X" eingezeichnet, unter das "Raiders" gekritzelt wurde.}
 {44500}{}{Sheriffstern}
 {44501}{}{Abzeichen, das der Sheriff einer Stadt trägt.}
 {44600}{}{Vertibird-Pläne}

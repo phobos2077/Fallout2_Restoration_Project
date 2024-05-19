@@ -253,7 +253,7 @@
 {353}{}{Regal}
 {354}{}{Regal}
 {355}{}{Regal}
-{356}{}{Gangster}
+{356}{}{Raider}
 {357}{}{Bauer}
 {358}{}{Händler}
 {359}{}{Wächter}
@@ -478,14 +478,14 @@
 {578}{}{Karawanenmeister}
 {579}{}{Karawanentreiber}
 {580}{}{Karawanenwache}
-{581}{}{Gangster}
+{581}{}{Raider}
 {582}{}{Gangster}
 {583}{}{Jäger}
 {584}{}{Jäger}
 {585}{}{Ranger}
 {586}{}{Söldner}
 {587}{}{Söldner}
-{588}{}{Gangster}
+{588}{}{Raider}
 {589}{}{Karawanentreiber}
 {590}{}{Karawanenwache}
 {591}{}{Patrouillenwache}
@@ -793,7 +793,7 @@
 {893}{}{}
 {894}{}{Enklaven-Patrouille}
 {895}{}{Hauptmann der Söldner}
-{896}{}{Söldnergangster}
+{896}{}{Söldner-Raider}
 {897}{}{"Laufender Schatten"}
 {898}{}{Safe}
 {899}{}{}
@@ -1094,7 +1094,7 @@
 {1194}{}{Hinweis}
 {1195}{}{Hundefleisch}
 {1196}{}{Cat's Paw-Ausgabe Nr. 5}
-{1197}{}{Gangsterkarte}
+{1197}{}{Raiderkarte}
 {1198}{}{Pariah-Hund}
 {1199}{}{Klaxon}
 {1200}{}{Mine}

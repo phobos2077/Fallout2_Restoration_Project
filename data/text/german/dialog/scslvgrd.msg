@@ -8,5 +8,5 @@
 {106}{}{Du machst uns Probleme, darum bin ich hier. Verstanden?}
 {107}{}{Wir haben hier einen Eindringling.}
 {108}{}{Schlag Alarm. Hier ist ein Eindringling!}
-{109}{}{Mr. Vortis - Gangster!}
+{109}{}{Mr. Vortis - Raiders!}
 {110}{}{Oh, du machst da einen großen Fehler.}

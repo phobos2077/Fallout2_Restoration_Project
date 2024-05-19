@@ -201,8 +201,8 @@
 {251}{}{Skeev, dein Assistent, begeht ungesetzliche Handlungen.}
 {252}{}{Kann ich einen neuen Tagesausweis bekommen?}
 {253}{}{Ich habe herausgefunden, warum die Lieferungen aus Redding nachlassen.}
-{254}{}{Ich habe das Lager der Gangster gefunden.}
-{255}{}{Ich habe das Lager der Gangster gefunden und sie beseitigt.}
+{254}{}{Ich habe das Lager der Raiders gefunden.}
+{255}{}{Ich habe das Lager der Raiders gefunden und sie beseitigt.}
 {256}{}{Was kannst du mir über eure Anführerin erzählen?}
 {257}{}{Heute nichts, danke.}
 {258}{}{Das war's für heute. Besten Dank.}
@@ -262,9 +262,9 @@ Bericht.}
 {298}{}{Und das wäre?}
 {299}{}{Sie hat unsere Stadt vor den verderblichen Einflüssen der Außenwelt geschützt. Sie hat
  unsere Unabhängigkeit und Stärke bewahrt, obwohl die NCR uns drängt, der Republik beizutreten
- und wir unter Angriffen von Gangstern leiden. Und jetzt gibt es Probleme mit Gecko...}
+ und wir unter Raiderangriffen leiden. Und jetzt gibt es Probleme mit Gecko...}
 {300}{}{Was ist die NCR?}
-{301}{}{Wer sind denn diese Gangster?}
+{301}{}{Wer sind denn diese Raiders?}
 {302}{}{Was gibt es denn für Probleme mit Gecko?}
 {303}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {304}{}{Wie bedauerlich. Vielleicht erfahre ich ja ein andermal mehr darüber.}
@@ -276,26 +276,26 @@ Bericht.}
 {308}{}{Selbst wenn sie es ehrlich meinen: Warum sollten wir das, was wir uns aufgebaut haben,
  mit den Dieben und Halsabschneidern teilen, die wir bislang so erfolgreich aus der Stadt
  herausgehalten haben? Uns wäre damit ganz sicher nicht gedient.}
-{309}{}{Ich verstehe. Du hattest vorhin Gangster erwähnt. Was ist damit?}
+{309}{}{Ich verstehe. Du hattest vorhin Raiders erwähnt. Was ist damit?}
 {310}{}{Was für Probleme hat Vault City mit Gecko?}
 {311}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {312}{}{Das ist mehr, als ich eigentlich wissen wollte. Mach's gut.}
 {313}{}{Wir hatten es in letzter Zeit mit einer ganzen Reihe besonders brutaler Überfälle durch
- Gangster zu tun. Gelegentliche Überfälle gab es ja schon vorher, aber so was haben wir noch nie
- erlebt. Ich fürchte, diese Gangster schaffen es am Ende noch, unsere Verteidigungsanlagen und
+ Raiders zu tun. Gelegentliche Überfälle gab es ja schon vorher, aber so was haben wir noch nie
+ erlebt. Ich fürchte, diese Raiders schaffen es am Ende noch, unsere Verteidigungsanlagen und
  Laserkanonen zu überwinden.}
-{314}{}{Ihr braucht euch keine Sorgen mehr wegen der Gangster zu machen. Ich hab sie beseitigt.}
-{315}{}{Kannst du mir sonst noch etwas über diese Gangster erzählen?}
+{314}{}{Ihr braucht euch keine Sorgen mehr wegen der Raiders zu machen. Ich hab sie beseitigt.}
+{315}{}{Kannst du mir sonst noch etwas über diese Raiders erzählen?}
 {316}{}{Oh, das ist sehr bedauerlich. Wie war das mit der NCR?}
 {317}{}{Was für Probleme hat Vault City mit Gecko?}
 {318}{}{Klingt, als hättet ihr's da mit einem echten Problem zu tun. Viel Glück.}
 {319}{}{Nicht viel. Es gelingt uns einfach nicht herauszufinden, wo sie ihre Basis haben. Unser
  Bürger Sergeant Stark weiß vielleicht mehr, aber der ist in der städtischen Besserungsanstalt.}
-{320}{}{Wenn ich diese Gangster aufspüre, lässt du mich dann in die Stadt?}
+{320}{}{Wenn ich diese Raiders aufspüre, lässt du mich dann in die Stadt?}
 {321}{}{Ich hab da noch ein paar Fragen...}
-{322}{}{Mal sehen, was ich über diese Gangster rausfinden kann. Ich mach mich gleich auf den Weg.}
+{322}{}{Mal sehen, was ich über diese Raiders rausfinden kann. Ich mach mich gleich auf den Weg.}
 {323}{}{Danke für die Auskunft.}
-{324}{}{Sicher. Wenn du das Basislager der Gangster findest, bekommst du einen Tagesausweis von
+{324}{}{Sicher. Wenn du das Basislager der Raiders findest, bekommst du einen Tagesausweis von
  mir.}
 {325}{}{Mal sehen, was sich da machen lässt. Aber zuerst hätte ich da noch ein weitere Fragen...}
 {326}{}{Abgemacht. Bis dann.}
@@ -310,7 +310,7 @@ Bericht.}
 {332}{}{Oh, äh, das übersteigt meine Kompetenzen. In solchen Angelegenheiten musst du dich an die
  Erstbürgerin wenden.}
 {333}{}{Wie war das noch mal mit der NCR?}
-{334}{}{Du hattest vorhin Gangster erwähnt. Was ist damit?}
+{334}{}{Du hattest vorhin Raiders erwähnt. Was ist damit?}
 {335}{}{Äh, gut... darf ich dir noch ein paar Fragen stellen?}
 {336}{}{Ich verstehe. Also, danke für die Auskunft.}
 {337}{}{Ein GECK? Was soll das sein? Mir sagt das überhaupt nichts... und wenn mir das nichts

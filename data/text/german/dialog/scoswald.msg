@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen Mann mit dreckigen, blutbefleckten Kleidern.}
-{101}{}{Es ist ein gefangengenommener Gangster.}
+{101}{}{Es ist der Siedler, den sie gefangen haben.}
 {102}{}{Sein Gesicht und seine Arme sind über und über mit vernarbten Messerschnitten bedeckt
  und in seinem Blick liegt etwas Wahnsinniges, wie man das bei Raufbolden und Banditen häufiger
  sieht.}

@@ -134,8 +134,8 @@
 {219}{}{Danke, dass du dir Zeit für mich genommen hast. Mach's gut.}
 {220}{}{Es waren harte Zeiten in den letzten zwei Jahre. Die NCR wurde aggressiver in deren Bemühungen, Vault City dazu
  bringen, sich mit der Republik zu vereinigen.}
-{221}{}{Sie sagten uns, dass, falls wir uns mit ihnen vereinigen würden, es ihnen möglich wäre, uns vor den Gangsterangriffen
- in unserer Stadt zu beschützen. In letzter Zeit sind diese Gangsterangriffe brutaler geworden.}
+{221}{}{Sie sagten uns, dass, falls wir uns mit ihnen vereinigen würden, es ihnen möglich wäre, uns vor den Raiderangriffen
+ in unserer Stadt zu beschützen. In letzter Zeit sind diese Raiderangriffe brutaler geworden.}
 {222}{}{Und zusätzlich zu all dem haben wir Ghuls, die unser Grundwasser verschmutzen.}
 {223}{}{Wo ist Gecko?}
 {224}{}{Was ist Gecko?}

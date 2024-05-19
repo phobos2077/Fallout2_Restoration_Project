@@ -53,15 +53,14 @@
 {148}{}{Nichts. Entschuldige die Störung.}
 {149}{}{Ich mache DEINE Arbeit, Mister.}
 {150}{}{Ich leite die Besserungsanstalt. Und gehorche deinen Befehlen, Mister.}
-{151}{}{Ich leite die Besserungsanstalt hier. Bring den Außenweltlern Manieren bei. Sorge dafür,
- dass die Diener spuren. Organisiere Streifengänge. Seh zu, dass die Stadt vor Gangstern sicher
- ist.}
+{151}{}{Ich leite die Besserungsanstalt hier. Bring den Außenweltlern Manieren bei. Sorge dafür, dass 
+die Diener spuren. Organisiere Streifengänge. Seh zu, dass die Stadt vor den Raiders sicher ist.}
 {152}{}{Hast du ein Problem, Sergeant?}
 {153}{}{Warst du das mit Cassidys Bar?}
 {154}{}{Hast du von einem Diener namens Joshua gehört?}
 {155}{}{Streifengänge?}
-{156}{}{Gangster?}
-{157}{}{Wegen diesen Gangstern...}
+{156}{}{Raiders?}
+{157}{}{Wegen dieser Raiders...}
 {158}{}{Kann ich dir einige Fragen stellen?}
 {159}{}{Vielen Dank. Auf Wiedersehn.}
 {160}{}{Was immer du willst. Nur zu.}
@@ -162,7 +161,7 @@
  interessieren.}
 {230}{}{Ich hätte da zuerst mal ein paar Fragen.}
 {231}{}{Na gut. Ich geh zu ihr.}
-{232}{}{Ja, Gangster. Sie haben uns in letzter Zeit ziemlich übel mitgespielt.
+{232}{}{Ja, Raiders. Sie haben uns in letzter Zeit ziemlich übel mitgespielt.
  (Runzelt die Stirn) Warum interessiert dich das eigentlich?}
 {233}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
  setzen.}
@@ -178,7 +177,7 @@
 {242}{}{Vergiss es. Vielleicht unterhalten wir uns ein andermal.}
 {243}{}{Willst du hier den Klugscheißer spielen, oder was?}
 {244}{}{So, so. Ich weiß nicht, ob du dir da nicht ein bisschen viel vornimmst. Mit einer
- Gangsterbande ist nicht zu spassen.}
+ Raiderbande ist nicht zu spaßen.}
 {245}{}{Nein, aber wenn du Hilfe brauchst, kannst du auf mich zählen.}
 {246}{}{Ich würde trotzdem gerne irgendwie behilflich sein.}
 {247}{}{Na, egal. Ich hätte da ein paar Fragen...}
@@ -190,7 +189,7 @@
 {252}{}{Hast du irgendeine Ahnung, wo sie ihre Basis haben?}
 {253}{}{In Ordnung. Ich hätte da ein paar andere Fragen...}
 {254}{}{Werd ich tun.}
-{255}{}{Neugierig, wie? Mir geht's nichts anders. Also, was weißt du über diese Gangster?}
+{255}{}{Neugierig, wie? Mir geht's nichts anders. Also, was weißt du über diese Raiders?}
 {256}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
  setzen.}
 {257}{}{Ich weiß überhaupt nichts. Darum frag ich dich.}
@@ -200,27 +199,26 @@
  Weilchen hier in der Besserungsanstalt behalte.}
 {261}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
  setzen.}
-{262}{}{Du hast mich überführt. Klarer Fall, ich bin mit den Gangstern verbündet. Verhafte mich.}
+{262}{}{Du hast mich überführt. Klarer Fall, ich bin mit den Raiders verbündet. Verhafte mich.}
 {263}{}{Ich dreh mich jetzt um und geh hinaus. Wenn du auch nur die leisesten Anstalten machst,
  mich aufzuhalten, gibt's Zoff.}
 {264}{}{Du steckst sowieso schon bis zum Hals in der Tinte. Auf diese Weise machst du's nur noch
  schlimmer.}
 {265}{}{Nein, ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen
  ein Ende bereiten.}
-{266}{}{Du hast mich überführt. Klarer Fall, ich bin mit den Gangstern verbündet. Verhafte mich.}
+{266}{}{Du hast mich überführt. Klarer Fall, ich bin mit den Raiders verbündet. Verhafte mich.}
 {267}{}{Ich gehe. Du willst mich aufhalten? Versuch's nur!}
 {268}{}{In Ordnung also...}
 {269}{}{Aufhören! Aufhören! Ich hab doch gar --}
 {270}{}{Dann mal los, Leiche.}
 {271}{}{Ich finde nicht, dass wir dieses Thema einfach so unter den Tisch kehren sollten. Also,
- wie ist das mit diesen Gangstern?}
+ was weißt du über die Raiders?}
 {272}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
  setzen.}
 {273}{}{Nur neugierig.}
 {274}{}{Ich dreh mich jetzt um und geh hinaus. Wenn du auch nur die leisesten Anstalten machst,
  mich aufzuhalten, gibt's Zoff.}
-{275}{}{Ich weiß nicht. Ich werde aus diesen Gangstern nicht recht schlau. Wenn es denn Gangster
- sind.}
+{275}{}{Ich weiß nicht. Ich werde aus diesen Raiders nicht recht schlau. WENN sie Raiders sind.}
 {276}{}{Was meinst du damit?}
 {277}{}{Ich hab da noch ein paar Fragen...}
 {278}{}{Ich muss jetzt weg.}
@@ -237,9 +235,9 @@
 {284}{}{Hast du eine Ahnung, woher sie kommen?}
 {285}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}
 {286}{}{Interessant. Ich muss gehen.}
-{287}{}{Nein. Genau das ist es, was mich am meisten ärgert. Sie ziehen sich jedesmal Richtung
+{287}{}{Nein. Genau das ist es, was mich am meisten ärgert. Sie ziehen sich jedes Mal Richtung
  Süden zurück. Ich habe keine Leute übrig, die ich als Kundschafter hinschicken könnte. Wenn du
- mich fragst, haben die Gangster einen Helfer aus der Gegend, der sie durch die südlichen
+ mich fragst, haben die Raiders einen Helfer aus der Gegend, der sie durch die südlichen
  Canyons führt.}
 {288}{}{Was ist denn da im Süden?}
 {289}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}
@@ -345,7 +343,7 @@
 {368}{}{Ich hab die Gegend um Gecko für dich inspiziert.}
 {369}{}{Hast du noch mehr Sondierungsarbeit für mich?}
 {370}{}{Ich hab die Route in die NCR für dich rausgefunden.}
-{371}{}{Wegen diesen Gangstern...}
+{371}{}{Wegen dieser Raiders...}
 {372}{}{Vergiss es. Mach's gut.}
 {373}{}{Guten Tag...Madame.}
 {374}{}{Vault City lebe hoch...Madame.}
