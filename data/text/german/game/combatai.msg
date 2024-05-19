@@ -3197,7 +3197,7 @@
 {42055}{}{Äh...ich hab 'n Gefühl, als hätte mir jemand den Brustkorb aufgerissen...oh-oh.}
 {42056}{}{Wo zu Teufel kommt denn dieses klaffende Loch in meiner Brust her?}
 {42057}{}{*Röchel*...bringt...mir...einen...Erste-...Hilfe-...Kasten...}
-{42058}{}{Hmmm...an der Blutfontäne, die da aus meiner Brust schießt, kann man sehen, dass ich Bluthochdruck habe.}
+{42058}{}{Nun... an der Blutfontäne, die da aus meiner Brust schießt, kann man sehen, dass ich Bluthochdruck habe.}
 {42059}{}{}
 {42060}{}{hab keine Schmerzen im Bein hab keine Schmerzen im Bein}
 {42061}{}{Igitt! Mein Bein ist voller Blut! Hilfe! Stimpak! Hilfe!}

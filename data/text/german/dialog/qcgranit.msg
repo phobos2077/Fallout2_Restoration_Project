@@ -53,8 +53,7 @@
 {146}{}{Leid? Du solltest für dich selber jammern. Der Steuercomputer für euer Kraftwerk ist
  verbrutzelt und bald gibt's eine Kernschmelze. Ihr seid alle tot, außer...}
 {147}{}{Dein Mitleid brauch ich nicht. Ich brauch dich tot.}
-{148}{}{Ich hab noch was vor. Ihr seid sowieso alle tot. Genießt eure letzten Minuten noch.
- Raucht 'ne letzte Zigarette. Tschüss.}
+{148}{}{Ich hab noch was vor. Ihr seid sowieso alle tot. Genießt eure letzten Minuten noch. Raucht 'ne letzte Zigarette. Tschüss.}
 {149}{}{Außer was?!?}
 {150}{}{Außer ihr helft mir, an Horrigan vorbei zu meinem Schiff zu kommen.}
 {151}{}{Egal. Ich hab keine Zeit für Diskussionen. Tschüss.}

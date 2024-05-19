@@ -167,7 +167,7 @@
 {613}{}{Sie ist wahrscheinlich einfach drüber gestolpert. Das Glück der Dummen, kein Zweifel! Ich glaub kaum, dass es ihr jemand erzählt hat, oh nein. Sehr unwahrscheinlich.}
 {614}{}{Tja, diese alten Maschinen gehen doch alle Nase lang kaputt. Ich glaub kaum, dass das jemand absichtlich getan hat. Sehr unwahrscheinlich.}
 {615}{}{Tja, könnte sicher nichts mit Radskorpiongift zu tun haben, dass von einem abgetrennten Radskorpion-Schwanz ausläuft, der in eines der Fässer gefallen ist. Das würde ich nie glauben.}
-{620}{}{Seltsam, dass du fragst. Mein Sohn hat von irgendwoher ein Gewehr bekommen...ich glaube ja, dass es eine der anderen Familien war, die versucht haben zu erreichen, dass er entweder sich selbst oder seinen alten Herrn erschießt. Wenn ich den Mistkerl erwische...}
+{620}{}{Seltsam, dass du fragst. Mein Sohn hat von irgendwoher ein Gewehr bekommen... Ich glaube ja, dass es eine der anderen Familien war, die versucht haben zu erreichen, dass er entweder sich selbst oder seinen alten Herrn erschießt. Wenn ich den Mistkerl erwische...}
 {621}{}{Äh, ein Gewehr? Wirklich? Du hast ganz recht, weißt du, wahrscheinlich hat ihm das jemand von einer der anderen Familie gegeben. Wird sicher schwierig, den zu finden, wer immer das war. Ich würd es lassen.}
 {625}{}{(Nickt.) Hmmm. Naja...}
 {626}{}{Sicher. Naja, ich hab bloß mal vorbeigeschaut, Mr. Wright. Alles Gute, dann.}

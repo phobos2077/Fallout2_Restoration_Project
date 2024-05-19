@@ -248,10 +248,10 @@
 {261}{}{Na gut, OK, dann nehme ich eben die $2000. Hier ist das Gegenmittel, Doc.}
 {262}{}{Wir werden sehen. Wiedersehn, Doc.}
 {263}{}{Ich kenne McClure. Er ist im Stadtrat von Vault City. Was hat er dir erzählt?}
-{264}{}{Dass die Produktion der Goldminen zurückgeht und der Goldpreis dafür nach oben schießt.}
+{264}{}{Die Minenproduktion ist stark zurückgegangen und die Goldpreise sind stark gestiegen.}
 {265}{}{Ich weiß nicht so recht, ob ich dir das sagen soll.}
 {266}{}{Oh? Und was besagt dieses Gerücht?}
-{267}{}{Dass die Produktion der Goldminen zurückgeht und der Goldpreis dafür nach oben schießt.}
+{267}{}{Die Minenproduktion ist stark zurückgegangen und die Goldpreise sind stark gestiegen.}
 {268}{}{Ach, nur den üblichen Mist. Hey, lass mich dich noch etwas fragen, Doc.}
 {269}{}{Das ist wahr. Die Bergarbeiter nehmen nur noch Jet und arbeiten deshalb kaum. Das
  bedeutet, dass der Export im Keller ist und die Preise in den Wolken sind. Diese Situation kann

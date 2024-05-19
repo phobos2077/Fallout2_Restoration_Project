@@ -141,7 +141,7 @@
 {355}{}{Nach einem langen Tag im Brahmin-Verschlag haben wir auch 1A-Dreck an den Stiefeln, den wir dann als Gewürz verwenden.}
 {356}{}{Ja, es ist eine von uns selbst kreierte Sauce, wenn du weißt, was ich meine, die dem Fleisch diesen unnachahmlichen Geschmack verleiht. }
 {357}{}{Es wird aus über 6 Monate altem Rindfleisch gemacht. Wird besonders zart durch feinste Maden von Pferdebremsen.}
-{358}{}{Unglaublich. Hört sich so an, als ob ihr tatsächlich euer eigenes Dörrfleisch eßt. Ich meine natürlich, wer würde das nicht? Mjamjam.}
+{358}{}{Unglaublich. Hört sich so an, als ob ihr tatsächlich euer eigenes Dörrfleisch esst. Ich meine natürlich, wer würde das nicht? Mjamjam.}
 {359}{}{Wirklich? Das ist ja faszinierend. Ich will mehr darüber wissen.}
 {360}{}{Ich glaube, das genügt mir für den Augenblick. Wiedersehn.}
 {361}{}{Wenn ich am Verhungern wäre, würde ich noch lieber meinen eigenen Arm abhacken und ihn essen, bevor ich dieses widerliche Dörrfleisch essen würde.}

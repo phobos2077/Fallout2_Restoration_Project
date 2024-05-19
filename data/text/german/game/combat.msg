@@ -590,7 +590,7 @@
 {5218}{}{. Das kleine Kind schaut auf und beginnt zu heulen}
 {5219}{}{, was den kleinen Menschen erblinden lässt}
 {5220}{}{, und schlägt die junge Nase ein}
-{5221}{}{. Ein Wunde klafft über den Augen, und das Blut fließt in Strömen}
+{5221}{}{. Eine Wunde klafft über den Augen, und das Blut fließt in Strömen}
 {5222}{}{, was ein Auge wie eine zerplatzende Weintraube öffnet. Das Kind schaut verwundert}
 {5223}{}{, was zu Blindheit führt. Das Kind fällt zu Boden}
 {5224}{}{, der Schlag fährt bis in das kleine Gehirn}
