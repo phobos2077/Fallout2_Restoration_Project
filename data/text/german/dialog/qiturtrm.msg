@@ -141,43 +141,33 @@
 {237}{}{(Das hört sich nützlich an.) Aktiviere Bekämpfung von Aufständen.}
 {238}{}{(Vielleicht werde ich das ein anderes Mal versuchen.) Zurück.}
 {239}{}{(Ich möchte gerade nicht mehr mit dem Computer spielen.) Ausloggen.}
-{240}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet.
-.. Ziel angeeignet}
+{240}{}{Präsidenten-Schlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll zur Bekämpfung von Aufständen eingeleitet... Ziel erfasst.}
 {241}{}{(Ich denke, ich werde zurücktreten und schauen, was passiert.)}
-{242}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet.
-..**Fehlfunktion**... Sicherheitslink offline in diesem Level. Bitte Formular FG-I-106-32-0635 einreichen zur
- Reparaturservice-Berechtigung. Guten Tag.}
-{243}{}{(Vielleicht wird er bei den Eingangsleveln funktionieren. Hmm, das muss das Gebiet direkt vor dem Hafen bedeuten. Ich
+{242}{}{Präsidenten-Schlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Bekämpfung von Aufständen eingeleitet... **Fehlfunktion** ... Sicherheitslink offline auf dieser Ebene. Bitte Formular FG-I-106-32-0635 einreichen zur Reparaturservice-Berechtigung. Vielen Dank für die Nutzung eines weiteren erstklassigen Vault-Tec-Produkts. Schönen Tag noch.}
+{243}{}{(Vielleicht wird er bei der Eingangsebene funktionieren. Hmm, das muss das Gebiet direkt vor dem Hafen sein. Ich
  muss es dort versuchen.) Zurück zur Benutzerkennung.}
 {244}{}{(Ich bin gespannt, was ich noch alles versuchen kann?) Zurück.}
-{245}{}{Präsidenten-Sicherheitsschlüssel wird benötigt, um auf diese Funktion zuzugreifen. Schlüsselkarte wurde nicht
- gefunden.}
+{245}{}{Präsidenten-Schlüssel wird benötigt, um auf diese Funktion zuzugreifen. Schlüsselkarte wurde nicht gefunden.}
 {246}{}{(Ich bin gespannt, was ich noch alles versuchen kann?) Zurück.}
-{247}{}{Notfall Verteidigungssystem Stillegung, legt zeitweise aktive Sicherheitssysteme von Level zu Level still. Stillegung
- startet intensive diagnostische Prozeduren bevor der automatische Neustart der Sicherheitssysteme eingeleitet wird.}
-{248}{}{(Das hört sich an, als lohnt es sich, es zu versuchen.) Aktiviere Notfall Verteidigungssystem Stillegung.}
+{247}{}{Notabschaltung der Verteidigungssysteme legt zeitweise aktive Sicherheitssysteme von Ebene zu Ebene still. Beim Abschalten wird ein gründliches Diagnoseverfahren gestartet, bevor ein automatischer Neustart der Sicherheitssysteme eingeleitet wird.}
+{248}{}{(Das hört sich an, als lohnt es sich, es zu versuchen.) Aktiviere Notabschaltung der Verteidigungssysteme.}
 {249}{}{(Hmm, vielleicht werde ich das ein anderes Mal versuchen.) Zurück.}
 {250}{}{(Ich möchte gerade nicht mehr mit dem Computer spielen.) Ausloggen.}
-{251}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfall Verteidigungssystem Stillegung
- eingeleitet... intensive Diagnose ausführen. Alpha....Bravo....Charlie....}
+{251}{}{Präsidenten-Schlüssel erkannt. Guten Tag, Herr Präsident... Notabschaltung der Verteidigungssysteme eingeleitet... Führe gründliche Diagnose durch. Alpha... Bravo... Charlie...}
 {252}{}{(Aus irgendeinem seltsamen Grund glaube ich nicht, dass ich das jetzt gerade tun möchte.) Zurück.}
-{253}{}{(Ich werde mich besser bewegen, während dieses Ding weiterhin die Diagnose läuft.) Ausloggen.}
-{254}{}{Präsidenten-Sicherheitsschlüssel nicht erkannt. Zugang verweigert.}
-{255}{}{(Hmm, mich würde interessieren, ob ich den Scanner durch einhacken in die Zugangsdatei täuschen kann, damit er
- glaubt, ich hätte den Schlüssel. Ich denke, ich werde es versuchen.)}
+{253}{}{(Ich mache mich besser auf den Weg, solange das Diagnoseprogramm noch läuft.) Ausloggen.}
+{254}{}{Präsidenten-Schlüssel nicht erkannt. Zugang verweigert.}
+{255}{}{(Hmm, ich frage mich, ob ich dem Scanner vortäuschen kann, dass ich den Schlüssel habe, indem ich mich in die Zugangsdatei hacke. Ich denke, ich werde es versuchen.)}
 {256}{}{(Na gut, es war einen Versuch wert.) Zurück.}
-{257}{}{Sicherheitsschlüssel Scanner-Fehlfunktion erkannt... Scanner-Neueinstellung...}
-{258}{}{(Das ist meine Chance, wenn ich es jetzt nur dazu bringen kann, zu glauben, es hätte den
- Präsidenten-Sicherheitsschlüssel erkannt...)}
+{257}{}{Sicherheitsschlüssel-Scanner Fehlfunktion erkannt... Scanner reinitialisieren...}
+{258}{}{(Das ist meine Chance. Wenn ich es jetzt nur dazu bringen kann zu glauben, es hätte den Präsidenten-Schlüssel erkannt...)}
 {259}{}{(Verdammt. Gut, nichts gewagt...) Zurück.}
-{260}{}{Scanner neu eingestellt. Neu Scannen...}
-{261}{}{(Hier ist der große Moment.)-Du tippst fieberhaft.}
-{262}{}{Illegale Prozedur entdeckt. Weiterer Zugang zu diesem Terminal ist gesperrt... Verstärkungssalarm gesendet.}
+{260}{}{Scanner wird reinitialisiert. Neu scannen...}
+{261}{}{(Hier ist der große Moment.) Du tippst fieberhaft.}
+{262}{}{Unzulässiger Vorgang entdeckt. Der weitere Zugriff auf dieses Terminal wird verweigert... Wartungsmeldung gesendet.}
 {263}{}{Verdammt. Das war überhaupt nicht das, was ich wollte.}
-{264}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident. (Ja! Jetzt sehen wir mal was ich tun kann...)}
+{264}{}{Präsidenten-Schlüssel erkannt. Guten Tag, Herr Präsident. (Ja! Jetzt sehen wir mal, was ich tun kann...)}
 {265}{}{(Was kann ich noch machen?)}
-{266}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet... **Fehler** Kein Ziel gefunden. Bitte stellen Sie sicher, dass die Sensoren richtig funktionieren. Falls nicht,
- bitte Formular FG-I-106-32-0635 einreichen zur Reparaturservice-Berechtigung. Guten Tag.}
-{267}{}{(Hmm... Vielleicht funktioniert es, sobald tatsächlich jemanden dort ist. Ich werde es später noch einmal versuchen.)
- Zurück zur Benutzerkennung.}
+{266}{}{Präsidenten-Schlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll zur Bekämpfung von Aufständen eingeleitet... **Fehler** Kein Ziel gefunden. Bitte stellen Sie sicher, dass die Sensoren richtig funktionieren. Falls nicht, bitte Formular FG-I-106-32-0635 einreichen zur Reparaturservice-Berechtigung. Vielen Dank für die Nutzung eines weiteren erstklassigen Vault-Tec-Produkts. Schönen Tag noch.}
+{267}{}{(Hmm... Vielleicht funktioniert es, sobald tatsächlich jemanden dort ist. Ich werde es später noch einmal versuchen.) Zurück zur Benutzerkennung.}
 {268}{}{(Ich bin gespannt, was ich noch alles versuchen kann?) Zurück.}
