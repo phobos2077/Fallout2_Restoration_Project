@@ -51,7 +51,7 @@ mkdir -p "$mods_dir"
 
 cd data
 # I don't know how to pack recursively
-find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list" # replace slashes with backslashes
+find . -path ./sound/music -prune -o -type f -print | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list" # replace slashes with backslashes
 $dat2a "$mods_dir/$dat" @"$file_list"
 cd ..
 
