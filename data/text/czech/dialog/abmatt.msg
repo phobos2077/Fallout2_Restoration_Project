@@ -5,14 +5,14 @@
 {201}{}{Ostatky svaté věků dávných jsme zde shromáždili.}
 {202}{}{Sežehnuti Ohnivou záplavou, uvrhnuti jsme v temnotu byli.}
 {203}{}{Pro zachování moudrosti dob minulých, Memorabilia budeme tvořiti.}
-{204}{}{Byť plamen již dávno vychladl, musíme pečovati o ně a chrániti.}
+{204}{}{Byť plamen již dávno vychladl, musíme pečovati o ně a chrániti;}
 {205}{}{Moudra tato zneužita by mohla býti, plamen zkázy znovu vzplane.}
 {206}{}{Nikdo tedy učiti se nebude, z obavy, že další Ohnivá záplava se stane.}
 {207}{}{Přijde však den, kdy se lidstvo povznese nad svou touhou po zkáze.}
 {208}{}{A Memorabilia budou tu čekati na znovuvzkříšení své zase.}
 {209}{}{Dohlížíme tedy na náš úkol posvátný, jinak moudrost všechnu bychom mohli ztratiti.}
 {210}{}{Musíme ji zachovati a dobře chrániti, nikdy však užíti.}
-{211}{}{A nyní jděte, přátelé, ať duch váš je povznesen.}
+{211}{}{A nyní jděte, přátelé, ať duch váš je povznesen;}
 {212}{}{Neb strážci vědění, každý z nás byl obdařen.}
 {213}{}{Nyní se prosím na chvíli zamyslete nad mými slovy.}
 {224}{}{Nyní se prosím na chvíli zamyslete nad mými slovy.}

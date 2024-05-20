@@ -38,6 +38,6 @@
 {137}{}{Máš štěstí, protože zrovna musím jít zkontrolovat pasti.}
 {138}{}{Myslím, že mě volá Máma.}
 {140}{}{Vypadá to, že nemám žádné kůže geckona, ale mám }
-{141}{}{Vypadá to, že nemám žádné kůže zlatého geckona, ale mám  }
+{141}{}{Vypadá to, že nemám žádné kůže zlatého geckona, ale mám }
 {142}{}{Promiň, nemám teď žádné kůže.}
 {200}{}{Vidíš špinavou, vyčerpanou ženu.}

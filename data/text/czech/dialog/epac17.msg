@@ -36,7 +36,7 @@
 {202}{}{Co je ta divně zbarvená tekutina kolem komplexu EPA?}
 {203}{}{Kde jste sehnal všechno to vybavení?}
 {210}{}{V prvních celách jsou vesničané, kteří sem omylem zabloudili. Pochytal jsem je pro pozdější využití. A ti silnější jsou mí osobní strážci... pro případ nouze.}
-{211}{}{...pro pozdější využití?  Co tím myslíte?}
+{211}{}{...pro pozdější využití? Co tím myslíte?}
 {212}{}{Díky. Můžu se zeptat na něco jiného?}
 {213}{}{Skvěle. Díky. Už musím jít.}
 {220}{}{Chemikálie a nádrže s FEV virem, většinou. Všechno bylo uloženo ve velkých barelech a bezpečně uskladněno tady v komplexu EPA. Bohužel se tu stala malá nehoda a došlo k obrovskému úniku chemikálií. To donutilo všechny k odchodu, kromě těch potrhlých hologramů. Něco uniklo i do spodních pater. Teď to vyžívám jako materiál na experimenty. Zatím to přineslo jen samé pozitivní výsledky!}
