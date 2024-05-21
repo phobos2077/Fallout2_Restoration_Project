@@ -128,7 +128,7 @@
 {354}{}{Na dzisiaj wystarczy.}
 {355}{}{Jak na jedną noc wystarczy.}
 {360}{}{Brawo! Potroił pan swoje pieniądze! Dzisiaj jest pana szczęśliwy dzień! Gratuluję!}
-{361}{}{Brawo! Potroił pan swoje pieniądze! Dzisiaj jest pana szczęśliwy dzień! Gratuluję!}
+{361}{}{Wygrana! Doskonale pani idzie! Potroiła pani wypłatę! Szczęście sprzyja nam dzisiaj!}
 {362}{}{Brawo! Bank płaci potrójnie!}
 {363}{}{Masz [C] żetonów. Grasz dalej?}
 {364}{}{Na dzisiaj wystarczy.}

@@ -128,7 +128,7 @@
 {354}{}{Pro dnešek skončit.}
 {355}{}{Pro dnešek skončit.}
 {360}{}{Výhra! Ztrojnásobila jste své peníze! Dnes se na vás lepí štěstí! Gratuluji, madam!}
-{361}{}{Výhra! Ztrojnásobila jste své peníze! Dnes se na vás lepí štěstí! Gratuluji, madam!}
+{361}{}{Vítěz! Ztrojnásobila jste svoje peníze!!! Máte ale dnes štěstí, madam.}
 {362}{}{Výhra! Ztrojnásobil jste své peníze!}
 {363}{}{Máš [C] babek. Budeš hrát dál?}
 {364}{}{Pro dnešek skončit.}

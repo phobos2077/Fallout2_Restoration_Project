@@ -128,7 +128,7 @@
 {354}{}{Smetti di giocare.}
 {355}{}{Smetti di giocare.}
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{361}{}{Avete vinto! Prendete il triplo dei soldi che avevate puntato. La Fortuna ci ha fatto visita, stanotte! Ben fatto, signora!}
 {362}{}{Hai vinto! Prendi il triplo dei soldi che avevi puntato!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Smetti di giocare.}

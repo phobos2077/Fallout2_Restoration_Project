@@ -128,7 +128,7 @@
 {354}{}{Ca c'est une bonne journée.}
 {355}{}{Ca c'est une bonne soirée.}
 {360}{}{Gagné ! Tu as triplé ta mise ! La chance est au rendez-vous ce soir ! Bien joué, m'dame !}
-{361}{}{Gagné ! Tu as triplé ta mise ! La chance est au rendez-vous ce soir ! Bien joué, m'dame !}
+{361}{}{Gagné ! Vous avez triplé votre mise ! La chance est avec vous ce soir ! Bien joué m'dame !}
 {362}{}{Gagné ! Tu as triplé ta mise !}
 {363}{}{Tu as $[C]. Tu continues à jouer ?}
 {364}{}{Ca c'est une bonne journée.}

@@ -128,7 +128,7 @@
 {354}{}{Liga-o por um dia.}
 {355}{}{Isso que é noite.}
 {360}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
-{361}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
+{361}{}{Vencedor! Você triplicou seu dinheiro! A sorte está em casa esta noite! Muito bem, senhora!}
 {362}{}{Vencedor! Você triplicou seu dinheiro!}
 {363}{}{Você tem [C] tampas. Continua jogando?}
 {364}{}{Liga-o por um dia.}

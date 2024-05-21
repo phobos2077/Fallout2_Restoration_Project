@@ -128,7 +128,7 @@
 {354}{}{Mára elég lesz.}
 {355}{}{Ma estére elég lesz ennyi.}
 {360}{}{Hihetetlen! Megtriplázta a nyereményét! A szerencse ma este magának dolgozik! Szép volt, uram!}
-{361}{}{Hihetetlen! Megtriplázta a nyereményét! A szerencse ma este magának dolgozik! Szép volt, uram!}
+{361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {362}{}{Gratulálok! Háromszoros pénz üti a markát!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Mára elég lesz.}

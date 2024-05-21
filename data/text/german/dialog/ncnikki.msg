@@ -128,7 +128,7 @@
 {354}{}{Ist heute wohl dein Tag.}
 {355}{}{Ist heute wohl deinen Nacht.}
 {360}{}{Gewonnen! du hast dein Geld verdreifacht! Du hast wohl ne Glückssträhne! Gut gemacht Sir!}
-{361}{}{Gewonnen! du hast dein Geld verdreifacht! Du hast wohl ne Glückssträhne! Gut gemacht Sir!}
+{361}{}{Gewonnen! du hast dein Geld verdreifacht! Du hast wohl ne Glückssträhne! Gut gemacht Ma'am!}
 {362}{}{Gewonnen! du hast dein Geld verdreifacht!}
 {363}{}{Du hast [C] Chips. Spielst du weiter?}
 {364}{}{Ist heute wohl dein Tag.}
