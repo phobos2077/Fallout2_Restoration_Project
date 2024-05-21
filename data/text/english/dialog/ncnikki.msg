@@ -180,7 +180,7 @@
 
 # 21. WINNER x3 (15)
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {362}{}{Winner! You've tripled your money!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Call it a day.}
