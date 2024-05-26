@@ -25,7 +25,7 @@
 {250}{}{J'aimerai acheter un peu de ton alcool.}
 {251}{}{Je jette juste un oeil. Sois prudent.}
 {252}{}{Pas de problème. $20 la bouteille.}
-{253}{}{[Le tenir]}
+{253}{}{[La garder]}
 {300}{}{Bordel où ai-je mis mon briquet.}
 {301}{}{J'ai besoin d'un briquet.}
 {302}{}{QUE QUELQU'UN M'APPORTE UN FOUTU BRIQUET.}
