@@ -40,7 +40,7 @@
 {288}{}{Ce comique sur la scène n'est pas terrible. Tu veux bien que j'essaie ?}
 {289}{}{Merci. As-tu besoin d'une danseuse pour la nuit ? Je peux accepter un petit contrat.}
 {290}{}{Merci, j'y vais tout de suite.}
-{291}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{291}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {292}{}{Je vérifie juste quelques trucs. Continue ton boulot.}
 {295}{}{Pas de droïdes.}
 {296}{}{On accepte pas les droïdes.}
@@ -63,7 +63,7 @@
 {326}{}{Je veille à ce que tout aille bien au casino. Si tu as besoin de quoi que ce soit, n'hésite pas à me le demander.}
 {327}{}{C'est quel casino ici ?}
 {328}{}{Tu peux me parler un peu du casino ?}
-{329}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{329}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {335}{}{Hé, }
 {336}{}{ ! J'ai entendu dire que c'était vous qui aviez ramené l'Enclave à l'âge de pierre ! [Devient formel.] On m'a demandé de vous donner des jetons, c'est le casino qui offre. Amusez-vous bien, monsieur.}
 {337}{}{ ! J'ai entendu dire que c'était vous qui aviez ramené l'Enclave à l'âge de pierre ! [Devient formel.] On m'a demandé de vous donner des jetons, c'est le casino qui offre. Amusez-vous bien, madame.}
@@ -81,7 +81,7 @@
 {349}{}{Ce comique sur la scène n'est pas terrible. Tu veux bien que j'essaie ?}
 {350}{}{Merci. As-tu besoin d'une danseuse pour la nuit ? Je peux accepter un petit contrat.}
 {351}{}{Merci, j'y vais tout de suite.}
-{352}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{352}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {353}{}{Je vérifie juste quelques trucs. Continue ton boulot.}
 {355}{}{La famille }
 {356}{}{La famille }
@@ -176,7 +176,7 @@
 {1336}{}{Ici c'est le }
 {1337}{}{Qui es-tu ?}
 {1338}{}{Tu peux me parler un peu du casino ?}
-{1339}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{1339}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {1345}{}{Le meilleur foutu casino de la ville... mais je suis un peu partial. Tu veux savoir autre chose ?}
 {1346}{}{Le meilleur foutu casino de la ville, les meilleures tables... Bon, pourquoi tu ne vas pas faire un tour, va le vérifier par toi-même ? D'accord ?}
 {1347}{}{Qui es-tu ?}

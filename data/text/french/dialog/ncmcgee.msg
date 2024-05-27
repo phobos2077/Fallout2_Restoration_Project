@@ -109,7 +109,7 @@
 {405}{}{[Une série de signes défile sur la machine à sous et on entend un <Bzzzzt>.] Merde ! Foutue machine ! Mes jetons devraient sortir d'un moment à l'autre...}
 {407}{}{ partir maintenant ! By-yye.}
 {409}{}{Heu... depuis combien de temps tu fais ça ?}
-{410}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{410}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {415}{}{}
 {416}{}{}
 {417}{}{Presque cinq ans... Cette machine va lâcher d'un jour à l'autre, et ce JOUR Là... Le filon ! Hé hé !}

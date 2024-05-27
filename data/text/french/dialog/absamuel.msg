@@ -10,7 +10,7 @@
 {206}{}{New Reno, hein ? [Il fouille dans sa toge, en sort une petite flasque et en prend une lampée.] J'm'rappelle qu'y disait... <Hic> vouloir ouvrir la voie. Ch'uis content qu'il aille bien. J'ai t'jours... <Hic> aimé c'gars. Si tu l'revois, dis-lui que l'vieux Sammy va bien et botte t'jours des trains.}
 {207}{}{Je le ferai. J'ai d'autres questions.}
 {208}{}{Je le ferai. Prenez soin de vous, Sam.}
-{209}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{209}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {210}{}{En fait, j'allais te dire qu'il te saluait. Je lui transmettrai tes salutations. J'ai quelques autres questions.}
 {211}{}{En fait, j'allais te dire qu'il te saluait. Je lui transmettrai tes salutations. Prends soin de toi, Sam.}
 {300}{}{Que veux... <Hic> tu savoir ?}

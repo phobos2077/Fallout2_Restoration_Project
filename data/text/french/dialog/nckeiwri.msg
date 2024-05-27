@@ -18,7 +18,7 @@
 {259}{}{Je cherche du boulot. C'est Chris qui m'envoie. La famille Wright embauche-t-elle ?}
 {262}{}{Salut, Keith. J'ai croisé ta maman.}
 {263}{}{Tu peux me parler de ton frère Richard ?}
-{264}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{264}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {280}{}{Casse-toi pauv'tache. Si jamais tu me reparles, je te fais des trous partout.}
 {281}{}{Trous, trous, trous, dans mes genoux.}
 {282}{}{Shamma Lamma DING DONG.}

@@ -48,7 +48,7 @@
 {278}{}{Je fais partie du personnel récemment affecté ici.}
 {279}{}{Je cherche Myron. Il est par ici ?}
 {280}{}{Ce sont des résultats sur l'écritoire ? Je peux les voir ?}
-{282}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{282}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {295}{}{Ce service n'est pas ouvert aux... visiteurs. Pars ou j'appelle les gardes.}
 {296}{}{Mais, je voulais te poser des questions...}
 {298}{}{Ce sont des résultats de test sur l'écritoire ? Je peux les voir ? Moi aussi je fais de la recherche, enfin, pas la même.}

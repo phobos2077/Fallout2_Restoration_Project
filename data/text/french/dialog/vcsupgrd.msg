@@ -71,7 +71,7 @@
 {170}{}{Tu peux pas arrêter de chanter une seconde ?!! Ca me rend dingue.}
 {171}{}{Tu as une très belle voix. Tu devrais continuer à travailler le chant.}
 {172}{}{Que fais-tu ici déjà ?}
-{173}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{173}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {174}{}{Me-me-merci ! C'est ge-gentil de dire ça.}
 {175}{}{Que fais-tu ici déjà ?}
 {176}{}{Je pensais que tu devais le savoir. Bonne journée.}

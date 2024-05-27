@@ -99,7 +99,7 @@
 {525}{}{A-nigaud ?}
 {526}{}{Tchika Tchika Tchik Aïe aïe aïe.}
 {529}{}{J'ai quelques questions...}
-{530}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{530}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {540}{}{}
 {541}{}{}
 {542}{}{Hé, hé, hé ! T'es }

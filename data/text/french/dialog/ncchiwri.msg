@@ -27,7 +27,7 @@
 {253}{}{Eh bien, oui. Je recherche un travail. La famille Wright embauche-t-elle ?}
 {254}{}{Tiens, j'ai rencontré ta mère.}
 {255}{}{Peux-tu me parler de Richard ?}
-{256}{}{Rien, merci. Excuse-moi de t'avoir déranger.}
+{256}{}{Rien, merci. Excuse-moi de t'avoir dérangé.}
 {265}{}{Fiche le camp, espèce de débile. J'ai pas de temps à perdre avec toi.}
 {266}{}{[Partir]}
 {275}{}{Je suis Chris. Chris Wright. De la famille Wright. Tu as bien fait de demander.}

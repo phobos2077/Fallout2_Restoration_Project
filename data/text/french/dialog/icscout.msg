@@ -12,7 +12,7 @@
 {404}{}{Mon nom n'a pas d'importance. Je dois te mettre en garde car tu cours un grand danger !}
 {405}{}{Je suis ton némésis. Prépare-toi à rejoindre tes ancêtres !}
 {406}{}{Je suis français. Pourquoi crois-tu que j'ai cet horrible accent ? [Tu le regardes fixement.]}
-{407}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{407}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {410}{}{Tu parles à Ombre-Ambulante. Pourquoi es-tu venu ici ?}
 {411}{}{J'essaie d'arrêter les attaques de pillards contre la Cité de l'Abri, et j'ai des raisons de croire que c'est leur base d'opérations. Que sais-tu à propos de ces pillards ?}
 {412}{}{Je travaille pour le compte de la Cité de l'Abri à la recherche des pillards qui l'attaque.}

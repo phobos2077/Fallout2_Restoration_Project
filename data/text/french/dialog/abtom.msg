@@ -7,7 +7,7 @@
 {203}{}{Pas d'où je viens. Alors, pourquoi tu as besoin d'une pelle ?}
 {204}{}{Très bien, mais la pelle, elle te sert à quoi ?}
 {205}{}{Qu'importe, je suis là aussi.}
-{206}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
+{206}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
 {207}{}{C'vieux truc ? [Il montre la vieille pelle qu'il tient.]) Eh bien, on ne sait jamais quand on va trouver un truc qu'on aurait besoin de déterrer. J'ai toujours dit qu'il fallait être prêt à toute éventualité.}
 {208}{}{Trouver un truc, hein ? Du genre, un truc qu'on trouverait dans une tombe ?}
 {209}{}{C'est une excellente devise. Bon ben, prends soin de toi.}
