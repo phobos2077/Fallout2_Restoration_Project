@@ -91,7 +91,7 @@
 {299}{}{Miser $15 ?}
 {300}{}{Miser $25 ?}
 {301}{}{Miser $50 ?}
-{302}{}{Toi Nikki ?}
+{302}{}{C'est toi Nikki ?}
 {303}{}{Comment va, Nikki ?}
 {304}{}{Houla, trop cher pour moi. Je m'en vais.}
 {305}{}{Pas de pari aujourd'hui, merci.}
