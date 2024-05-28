@@ -50,7 +50,7 @@
 {211}{}{Importance des dégâts bonus causés par ton personnage en Rixe.}
 {212}{}{Correspond à la charge maximale des équipements que ton personnage peut porter. Exprimée en livres.}
 {213}{}{Détermine la rapidité de réaction de ton personnage en situation de combat.}
-{214}{}{En fin de journée, ton personnage guérit d'1 PI pour chaque point de vitesse de guérison. Lorsque tu te reposes, tu guéris toutes les six heures.}
+{214}{}{En fin de journée, ton personnage guérit d'1 PI pour chaque point de vitesse de guérison. Lorsque tu te reposes, tu guéris toutes les trois heures.}
 {215}{}{Les chances de porter un coup critique au cours d'un combat augmentent en fonction de cette valeur.}
 {216}{}{Meilleurs coups critiques}
 {217}{}{Seuil dégâts}

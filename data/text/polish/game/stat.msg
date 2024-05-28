@@ -50,7 +50,7 @@
 {211}{}{Wielkość dodatkowych obrażeń, które zadajesz przeciwnikom w walce wręcz.}
 {212}{}{Maksymalny ciężar ekwipunku, który jesteś w stanie nieść, wyrażony w funtach.}
 {213}{}{Określa, po uwzględnieniu inicjatyw innych postaci, moment tury walki, w którym możesz podjąć działanie.}
-{214}{}{Pod koniec każdego dnia odzyskujesz 1 utracony PW na każdy punkt tempa twojego zdrowienia. Gdy śpisz, proces samoczynnego zdrowienia daje takie same efekty co 6 godzin.}
+{214}{}{Pod koniec każdego dnia odzyskujesz 1 utracony PW na każdy punkt tempa twojego zdrowienia. Gdy śpisz, proces samoczynnego zdrowienia daje takie same efekty co 3 godzin.}
 {215}{}{Szansa na zadanie przez ciebie krytycznego trafienia przeciwnikowi podczas ataku rośnie o tę wartość.}
 {216}{}{Człowiek-demolka}
 {217}{}{Próg uszkodzeń}

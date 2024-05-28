@@ -50,7 +50,7 @@
 {211}{}{The amount of bonus damage your character does in hand-to-hand combat.}
 {212}{}{The maximum amount of equipment your character can carry, in pounds.}
 {213}{}{Determines how soon in a combat turn your character can react.}
-{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate. When you rest, you heal every six hours.}
+{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate. When you rest, you heal every three hours.}
 {215}{}{The chance to cause a critical hit in combat is increased by this amount.}
 {216}{}{Better Criticals}
 {217}{}{Damage Threshold}

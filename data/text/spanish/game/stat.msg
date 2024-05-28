@@ -50,7 +50,7 @@
 {211}{}{La cantidad de daño extra que tu personaje causa en combate melee (desarmado).}
 {212}{}{La cantidad de peso máximo soportado que tu personaje puede llevar consigo, en libras.}
 {213}{}{Determina como de rápido puede reaccionar tu personaje durante un turno de combate.}
-{214}{}{Al final del día, tu personaje curará 1 Punto de Salud por cada punto de Ritmo de curación. Si descansas, te curarás cada 6 horas.}
+{214}{}{Al final del día, tu personaje curará 1 Punto de Salud por cada punto de Ritmo de curación. Si descansas, te curarás cada 3 horas.}
 {215}{}{La posibilidad de causar daño critico en combate se incrementa por esta cantidad.}
 {216}{}{Mejores Críticos}
 {217}{}{Umbral de daño}

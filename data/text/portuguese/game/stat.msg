@@ -50,7 +50,7 @@
 {211}{}{A quantidade de bônus de dano ao seu personagem causada no combate corpo-a-corpo.}
 {212}{}{A quantidade máxima de equipamentos que seu personagem pode transportar, em libras.}
 {213}{}{Determina velocidade de reação durante um turno de combate.}
-{214}{}{No final de cada dia, o seu personagem vai curar 1 PV para cada ponto de Recuperação. Quando você descansa, você cura a cada 6 horas.}
+{214}{}{No final de cada dia, o seu personagem vai curar 1 PV para cada ponto de Recuperação. Quando você descansa, você cura a cada 3 horas.}
 {215}{}{A possibilidade de causar um acerto crítico em combate é aumentada por este valor.}
 {216}{}{Melhores Críticos}
 {217}{}{Tolerância a dor}

@@ -50,7 +50,7 @@
 {211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
 {212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
 {213}{}{Legt fest, wie schnell deine Figur im Kampf reagieren kann.}
-{214}{}{Am Ende eines jeden Tages heilt deine Figur einen Trefferpunkt mit einem Heilungspunkt. Wenn du dich ausruhst, erfolgt die Heilung alle sechs Stunden.}
+{214}{}{Am Ende eines jeden Tages heilt deine Figur einen Trefferpunkt mit einem Heilungspunkt. Wenn du dich ausruhst, erfolgt die Heilung alle drei Stunden.}
 {215}{}{Die Wahrscheinlichkeit, im Kampf einen kritischen Treffer zu landen, wird um diesen Prozentsatz erhöht.}
 {216}{}{Bessere kritische Treffer}
 {217}{}{Verletzungsschwelle}

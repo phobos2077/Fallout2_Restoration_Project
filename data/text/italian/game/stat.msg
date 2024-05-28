@@ -50,7 +50,7 @@
 {211}{}{L'ammontare di danno bonus che il tuo personaggio infligge in un combattimento Corpo-a-Corpo.}
 {212}{}{L'ammontare massimo di equipaggiamento che il tuo personaggio puo' portare, in libbre.}
 {213}{}{Determina quanto in fretta, in un turno di combattimento, il tuo personaggio puo' reagire.}
-{214}{}{Al termine di ogni giorno, il tuo personaggio si rigenera di 1 PV per ogni punto del Tasso di guarigione. Quando ti riposi, questo avviene ogni sei ore.}
+{214}{}{Al termine di ogni giorno, il tuo personaggio si rigenera di 1 PV per ogni punto del Tasso di guarigione. Quando ti riposi, questo avviene ogni tre ore.}
 {215}{}{La possibilita' di infliggere un colpo critico in combattimento e' aumentata da questo valore.}
 {216}{}{Colpi Critici Migliori}
 {217}{}{Soglia del Danno}

@@ -78,7 +78,7 @@
 # Sequence
 {213}{}{Determines how soon in a combat turn your character can react.}
 # Healing Rate
-{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate. When you rest, you heal every six hours.}
+{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate. When you rest, you heal every three hours.}
 # Critical Chance
 {215}{}{The chance to cause a critical hit in combat is increased by this amount.}
 {216}{}{Better Criticals}

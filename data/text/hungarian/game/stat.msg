@@ -50,7 +50,7 @@
 {211}{}{Az a bónusz sebzés, amit a karaktered pusztakezes harcban okoz.}
 {212}{}{A maximum teher, amit a karaktered elbír (fontban mérve).}
 {213}{}{Megadja, hogy harcban mikor következik a karaktered.}
-{214}{}{Minden nap végén annyit gyógyul a karaktered, amennyi a Regenerálódás értéke. Pihenéskor hat óránként gyógyulsz.}
+{214}{}{Minden nap végén annyit gyógyul a karaktered, amennyi a Regenerálódás értéke. Pihenéskor három óránként gyógyulsz.}
 {215}{}{Harc közben a kritikus sebzés esélye ezzel az értékkel növekszik.}
 {216}{}{Jobb kritikus sebzés}
 {217}{}{Sebzésküszöb}
