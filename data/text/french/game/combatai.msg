@@ -3625,7 +3625,7 @@
 {70320}{}{Ne t'en fait pas, ce sera fini *vraiment* rapidement.}
 {70321}{}{Le Chat est sur le point de bondir !}
 {70322}{}{Allons éparpiller leurs têtes de débiles.}
-{70340}{}{Allez dépèche pas de mourrir que je puisse aller faire une sieste.}
+{70340}{}{Allez dépèche toi de mourrir que je puisse aller faire une sieste.}
 {70341}{}{Au moins je te tue avec style.}
 {70342}{}{T'as pas intérêt à saigner sur mes vêtements.}
 {70343}{}{Je ferai mieux de pas me casser un ongle.}
