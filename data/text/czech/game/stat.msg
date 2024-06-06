@@ -50,7 +50,7 @@
 {211}{}{Množství bonusového poškození, které tvá postava způsobí soupeři v boji zblízka. Platí pro dovednosti "Chladné zbraně" a "Boj beze zbraně".}
 {212}{}{Maximální množství předmětů a vybavení, které je tvá postava schopna unést (v librách).}
 {213}{}{Určuje, jak rychle je tvá postava schopna v boji reagovat, což v tahovém boji znamená, kdo bude první na tahu. Souboj vždy začíná postava s nejvyšší hodnotou postřehu.}
-{214}{}{Na konci každého dne se tvá postava uzdraví o 1 HB za každý bod schopnosti uzdravování. Když odpočíváš, doba uzdravování se zkracuje na 3 hodin.}
+{214}{}{Na konci každého dne se tvá postava uzdraví o 1 HB za každý bod schopnosti uzdravování. Když odpočíváš, doba uzdravování se zkracuje na 3 hodiny.}
 {215}{}{Šance způsobit v boji soupeři kritický zásah se navyšuje touto hodnotou.}
 {216}{}{Lepší kritický zásah}
 {217}{}{Práh odolnosti}
