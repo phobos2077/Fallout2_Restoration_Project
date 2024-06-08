@@ -645,12 +645,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:18682
-random_start_point_1=elev:0, tile_num:20310
-random_start_point_2=elev:0, tile_num:18894
-;random_start_point_0=elev:0, tile_num:20480
-;random_start_point_1=elev:0, tile_num:18075
-;random_start_point_2=elev:0, tile_num:18702
+random_start_point_0=elev:0, tile_num:20480
+random_start_point_1=elev:0, tile_num:18075
+random_start_point_2=elev:0, tile_num:18702
 
 [Map 070]
 lookup_name=Cavern Encounter 1
@@ -661,14 +658,10 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:24491
-random_start_point_1=elev:0, tile_num:26117
-random_start_point_2=elev:0, tile_num:24906
-random_start_point_3=elev:0, tile_num:24708
-;random_start_point_0=elev:0, tile_num:24291
-;random_start_point_1=elev:0, tile_num:26697
-;random_start_point_2=elev:0, tile_num:24916
-;random_start_point_3=elev:0, tile_num:26308
+random_start_point_0=elev:0, tile_num:24291
+random_start_point_1=elev:0, tile_num:26697
+random_start_point_2=elev:0, tile_num:24916
+random_start_point_3=elev:0, tile_num:26308
 
 [Map 071]
 lookup_name=Cavern Encounter 2
@@ -679,12 +672,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:22491
-random_start_point_1=elev:0, tile_num:22920
-random_start_point_2=elev:0, tile_num:21900
-;random_start_point_0=elev:0, tile_num:21893
-;random_start_point_1=elev:0, tile_num:24304
-;random_start_point_2=elev:0, tile_num:23115
+random_start_point_0=elev:0, tile_num:21893
+random_start_point_1=elev:0, tile_num:24304
+random_start_point_2=elev:0, tile_num:23115
 
 [Map 072]
 lookup_name=Cavern Encounter 3
@@ -695,12 +685,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:23924
-random_start_point_1=elev:0, tile_num:22898
-random_start_point_2=elev:0, tile_num:22308
-;random_start_point_0=elev:0, tile_num:22698
-;random_start_point_1=elev:0, tile_num:25111
-;random_start_point_2=elev:0, tile_num:24325
+random_start_point_0=elev:0, tile_num:22698
+random_start_point_1=elev:0, tile_num:25111
+random_start_point_2=elev:0, tile_num:24325
 
 [Map 073]
 lookup_name=Cavern Encounter 4
@@ -711,14 +698,10 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:24297
-random_start_point_1=elev:0, tile_num:25123
-random_start_point_2=elev:0, tile_num:24313
-random_start_point_3=elev:0, tile_num:25908
-;random_start_point_0=elev:0, tile_num:24696
-;random_start_point_1=elev:0, tile_num:26909
-;random_start_point_2=elev:0, tile_num:26122
-;random_start_point_3=elev:0, tile_num:26335
+random_start_point_0=elev:0, tile_num:24696
+random_start_point_1=elev:0, tile_num:26909
+random_start_point_2=elev:0, tile_num:26122
+random_start_point_3=elev:0, tile_num:26335
 
 [Map 074]
 lookup_name=Mountain Encounter 1
@@ -729,12 +712,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, pebble1:15, pebble
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:18276
-random_start_point_1=elev:0, tile_num:19293
-random_start_point_2=elev:0, tile_num:19309
-;random_start_point_0=elev:0, tile_num:19881
-;random_start_point_1=elev:0, tile_num:17475
-;random_start_point_2=elev:0, tile_num:18498
+random_start_point_0=elev:0, tile_num:19881
+random_start_point_1=elev:0, tile_num:17475
+random_start_point_2=elev:0, tile_num:18498
 
 [Map 075]
 lookup_name=Mountain Encounter 2
@@ -745,12 +725,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, pebble1:15, pebble
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:18276
-random_start_point_1=elev:0, tile_num:19293
-random_start_point_2=elev:0, tile_num:19309
-;random_start_point_0=elev:0, tile_num:19881
-;random_start_point_1=elev:0, tile_num:17475
-;random_start_point_2=elev:0, tile_num:18498
+random_start_point_0=elev:0, tile_num:19881
+random_start_point_1=elev:0, tile_num:17475
+random_start_point_2=elev:0, tile_num:18498
 
 
 [Map 076]
@@ -809,12 +786,10 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, animal1:15, animal
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:25317
-random_start_point_1=elev:0, tile_num:24692
-random_start_point_2=elev:0, tile_num:24304
-;random_start_point_0=elev:0, tile_num:24492
-;random_start_point_1=elev:0, tile_num:26508
-;random_start_point_2=elev:0, tile_num:25115
+random_start_point_0=elev:0, tile_num:24492
+random_start_point_1=elev:0, tile_num:26508
+random_start_point_2=elev:0, tile_num:25115
+
 
 [Map 081]
 lookup_name=Desert Encounter 4
@@ -882,9 +857,9 @@ saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
 random_start_point_0=elev:0, tile_num:18474
-random_start_point_1=elev:1, tile_num:22091
-random_start_point_2=elev:2, tile_num:21701
-random_start_point_3=elev:3, tile_num:19906
+random_start_point_1=elev:0, tile_num:22091
+random_start_point_2=elev:0, tile_num:21701
+random_start_point_3=elev:0, tile_num:19906
 
 [Map 086]
 lookup_name=Coast Encounter 4
@@ -1180,7 +1155,7 @@ random_start_point_3=elev:0, tile_num:21288
 
 [Map 112]
 lookup_name=Coast Encounter 12
-map_name=07desert
+map_name=coast12
 music=08vats
 ambient_sfx=seawind1:25, seawind:25, gustwind:10, seagull:15, seagull1:15, gustwin1:10
 ;ambient_sfx=hmxxxxbg:100
@@ -1308,12 +1283,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, pebble1:15, pebble
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:18673
-random_start_point_1=elev:0, tile_num:19493
-random_start_point_2=elev:0, tile_num:20109
-;random_start_point_0=elev:0, tile_num:18277
-;random_start_point_1=elev:0, tile_num:18300
-;random_start_point_2=elev:0, tile_num:19288
+random_start_point_0=elev:0, tile_num:18277
+random_start_point_1=elev:0, tile_num:18300
+random_start_point_2=elev:0, tile_num:19288
 
 [Map 122]
 lookup_name=Mountain Encounter 4
@@ -1324,12 +1296,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, pebble1:15, pebble
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:20483
-random_start_point_1=elev:0, tile_num:19495
-random_start_point_2=elev:0, tile_num:20111
-;random_start_point_0=elev:0, tile_num:18298
-;random_start_point_1=elev:0, tile_num:19884
-;random_start_point_2=elev:0, tile_num:18287
+random_start_point_0=elev:0, tile_num:18298
+random_start_point_1=elev:0, tile_num:19884
+random_start_point_2=elev:0, tile_num:18287
 
 [Map 123]
 lookup_name=Mountain Encounter 5
@@ -1340,16 +1309,11 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, pebble1:15, pebble
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:20483
-random_start_point_1=elev:0, tile_num:20095
-random_start_point_2=elev:0, tile_num:20502
-random_start_point_3=elev:0, tile_num:19901
-random_start_point_4=elev:0, tile_num:21694
-;random_start_point_0=elev:0, tile_num:19477
-;random_start_point_1=elev:0, tile_num:21283
-;random_start_point_2=elev:0, tile_num:18686
-;random_start_point_3=elev:0, tile_num:19094
-;random_start_point_4=elev:0, tile_num:19505
+random_start_point_0=elev:0, tile_num:19477
+random_start_point_1=elev:0, tile_num:21283
+random_start_point_2=elev:0, tile_num:18686
+random_start_point_3=elev:0, tile_num:19094
+random_start_point_4=elev:0, tile_num:19505
 
 [Map 124]
 lookup_name=Mountain Encounter 6
@@ -1360,12 +1324,9 @@ ambient_sfx=gntlwin1:25, gntlwind:25, gustwind:10, rattle:15, pebble1:15, pebble
 saved=No
 dead_bodies_age=No
 can_rest_here=No,No,No  ; All 3 elevations
-random_start_point_0=elev:0, tile_num:19480
-random_start_point_1=elev:0, tile_num:20294
-random_start_point_2=elev:0, tile_num:22312
-;random_start_point_0=elev:0, tile_num:19274
-;random_start_point_1=elev:0, tile_num:21282
-;random_start_point_2=elev:0, tile_num:20890
+random_start_point_0=elev:0, tile_num:19274
+random_start_point_1=elev:0, tile_num:21282
+random_start_point_2=elev:0, tile_num:20890
 
 [Map 125]
 lookup_name=City Encounter 2
