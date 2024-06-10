@@ -1216,7 +1216,7 @@ procedure Node5051a begin
       give_xp(EXP_MERK_GET_PAPERS);
 
       //give_exp_points(EXP_MERK_GET_PAPERS);
-      //display_msg(mstr(271) + EXP_MERK_GET_PAPERS + mstr(272));
+      //display_msg(mstr(271) + calc_actual_xp_gain(EXP_MERK_GET_PAPERS) + mstr(272));
    end
    if (merk_seed_status(MSS_DR_HENRY_DEAD)) then
       call Node050;

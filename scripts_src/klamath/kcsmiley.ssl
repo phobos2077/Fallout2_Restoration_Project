@@ -180,7 +180,7 @@ procedure leave_player begin
       floater(300);
       set_global_var(GVAR_SMILEY_STATUS, SMILEY_RETURNED);
       set_local_var(LVAR_Follow_Dude, 0);
-      display_msg(mstr(320) + EXP_KC_SAVE_SMILEY + mstr(330));
+      display_msg(mstr(320) + calc_actual_xp_gain(EXP_KC_SAVE_SMILEY) + mstr(330));
       give_exp_points(EXP_KC_SAVE_SMILEY);
       KC_REP_ADJUST(8)
       inc_general_rep(REP_BONUS_KC_SAVE_SMILEY);
@@ -409,7 +409,7 @@ procedure Node940 begin
 end
 
 //procedure Node950 begin
-//   display_msg(mstr(110) + EXP_STILL_SUCCESS + mstr(111));
+//   display_msg(mstr(110) + calc_actual_xp_gain(EXP_STILL_SUCCESS) + mstr(111));
 //   set_global_var(GVAR_STILL_STATUS, STILL_SUCCESS);
 //   give_exp_points(EXP_STILL_SUCCESS);
    //place springer in inventory + 10 rocks

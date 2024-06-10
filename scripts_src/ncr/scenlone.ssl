@@ -246,7 +246,7 @@ procedure destroy_p_proc begin
    set_mss(MSS_ELRON_DEAD);
    set_global_var(GVAR_NCR_KILL_ELRON_QST, 2);
    //give_exp_points(EXP_MERK_HUB_DEAD);
-   //display_msg(mstr(218) + EXP_MERK_HUB_DEAD + mstr(219));
+   //display_msg(mstr(218) + calc_actual_xp_gain(EXP_MERK_HUB_DEAD) + mstr(219));
 
    //set_merk_status(MERK_STATUS_PLEASED);
 

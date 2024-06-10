@@ -57,7 +57,7 @@ procedure use_obj_on_p_proc begin
          give_xp(EXP_DOCHENRY_MUTA_TEST);
 
          //give_exp_points(EXP_DOCHENRY_MUTA_TEST);
-         //display_msg(mstr(101) + EXP_DOCHENRY_MUTA_TEST + mstr(102));
+         //display_msg(mstr(101) + calc_actual_xp_gain(EXP_DOCHENRY_MUTA_TEST) + mstr(102));
       end
       rm_obj_from_inven(source_obj, self_obj);
       add_obj_to_inven(target_obj, self_obj);

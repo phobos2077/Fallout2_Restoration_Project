@@ -119,7 +119,7 @@ procedure use_obj_on_p_proc begin
                    display_msg(mstr(130));
                 end
                 else begin
-                   display_msg(mstr(110) + EXP_KC_STILL_SUCCESS + mstr(111));
+                   display_msg(mstr(110) + calc_actual_xp_gain(EXP_KC_STILL_SUCCESS) + mstr(111));
                    set_global_var(GVAR_STILL_STATUS, STILL_SUCCESS);
                    give_exp_points(EXP_KC_STILL_SUCCESS);
                    KC_REP_ADJUST(5)

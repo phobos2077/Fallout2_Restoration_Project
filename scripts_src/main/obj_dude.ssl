@@ -305,11 +305,10 @@ procedure map_update_p_proc begin
    if (self_obj) then begin
       if (self_item(PID_GECK) and not global_var(GVAR_GAVE_GECK_EXP)) then begin
          set_global_var(GVAR_GAVE_GECK_EXP, 1);
-         display_msg(mstr(150) + EXP_GOT_GECK + mstr(151));
+         display_msg(mstr(150) + calc_actual_xp_gain(EXP_GOT_GECK) + mstr(151));
          give_exp_points(EXP_GOT_GECK);
       end
    end
-
 end
 
 
