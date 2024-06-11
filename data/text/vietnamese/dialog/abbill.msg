@@ -1,5 +1,5 @@
-{100}{}{You see trader Bill.}
-{101}{}{You see an older looking merchant.}
+{100}{}{B?n g?p thương gia Bill.}
+{101}{}{B?n g?p m?t thương gia có ngo?i h?nh đ?ng tu?i.}
 {200}{}{Hello there, traveler. Name's Bill. What can I get for you?}
 {201}{}{Welcome back. Need something else?}
 {202}{}{Let's barter.}

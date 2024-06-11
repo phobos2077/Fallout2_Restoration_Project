@@ -1,8 +1,8 @@
-1:Chosen?
-2:Chosen?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
-7:Hurry.
-8:Hur-...
+1:C?u tinh?
+2:C?u tinh?
+3:Con có nghe th?y g? không?
+4:Ngôi làng mà [ch?t]
+5:th? [toàn b?] tương lai c?a chúng ta c?ng không c?n.
+6:Chúng ta đang [ki?t qu? c? th?i gian] l?n tinh th?n.
+7:Nhanh lên.
+8:Nha-...

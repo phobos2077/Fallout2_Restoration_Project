@@ -1,1 +1,1 @@
-{100}{}{You have encountered a monastery and a small community built around it.}
+{100}{}{B?n b?t g?p m?t tu vi?n cùng m?t c?ng đ?ng nh? s?ng quanh đó.}
