@@ -12,7 +12,7 @@
 {111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
 {112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}
 {113}{}{You want me to talk Vikki up for you?}
-{114}{}{Nevermind. Bye.}
+{114}{}{Không có g?. Xin chào.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[DONE]}

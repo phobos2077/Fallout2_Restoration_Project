@@ -39,7 +39,7 @@
 {303}{}{Nope. I must be going.}
 {310}{}{Sure, what would you like to know? I hope it's about toast.}
 {311}{}{What is this place?}
-{312}{}{Nevermind. Bye.}
+{312}{}{Không có g?. Xin chào.}
 {350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
 {351}{}{Sure, it's what I do. See you later.}
 {352}{}{Now hold on there. If you won't let me reward you with toast, then at least allow me give you a little tip. You

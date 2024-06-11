@@ -24,4 +24,4 @@
 {123}{}{Vic.}
 {124}{}{Myron.}
 {125}{}{Nobody. I have more needs.}
-{126}{}{Nevermind. Bye.}
+{126}{}{Không có g?. Xin chào.}

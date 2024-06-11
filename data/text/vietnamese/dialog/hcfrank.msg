@@ -56,7 +56,7 @@
 {147}{}{You went and screwed that all up! You gotta die now, pal!}
 {148}{}{Lets' get out of here.}
 {149}{}{Nutting. ByeBye.}
-{150}{}{Nevermind. Bye.}
+{150}{}{Không có g?. Xin chào.}
 {151}{}{This ain't justice. You oughta be ashamed of yourself.}
 {152}{}{Thanks for your help, friend. Let's go talk to Jacob and Aileen.}
 {153}{}{You have successfully performed the jailbreak.}
