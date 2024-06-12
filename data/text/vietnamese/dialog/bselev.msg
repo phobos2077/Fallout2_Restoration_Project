@@ -1,81 +1,82 @@
-{100}{}{You see a wooden door.}
-{101}{}{You see a metal door.}
+{100}{}{B?n th?y m?t cái c?a g?.}
+{101}{}{B?n th?y m?t cái c?a s?t.}
 {102}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a highly explosive trap in the doorframe, which
  you may be able to pry open.}
-{103}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe, which you may be able to
- pry open.}
-{104}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe, which you may be able
- to pry open.}
-{105}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe, which you may be able to pry
- open.}
-{106}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe, which you may be able to
- pry open.}
-{107}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe, which you may be able to pry open.}
-{108}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe, which you may be able to pry open.}
-{109}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe, which you may be able to pry open.}
+{103}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
+thu?c n? nh?y trên khung c?a, mà b?n có th?
+th? c?y m?.}
+{104}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
+và b?y thu?c n? nh?y trên khung c?a, mà b?n có th?
+th? c?y m?.}
+{105}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét và
+b?y thu?c n? nh?y trên khung c?a, mà b?n có th? th? c?y m?.}
+{106}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
+c?y khóa đ? m?) và b?y trên khung c?a, mà b?n có th?
+th? c?y m?.}
+{107}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
+trên khung c?a, mà b?n có th? th? c?y m?.}
+{108}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
+và b?y trên khung c?a, mà b?n có th? th? c?y m?.}
+{109}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
+và b?y trên khung c?a, mà b?n có th? th? c?y m?.}
 {110}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe, which you may be
  able to pry open.}
-{111}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe, which you may be able to pry open.}
-{112}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe, which you may be able to pry
- open.}
-{113}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe, which you may be able to pry open.}
-{114}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{115}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{116}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
-{117}{}{You see a sturdy door with an old, rusty lock, which
- you may be able to pry open.}
+{111}{}{B?n th?y m?t cánh c?a kiên c? có khóa và đo?n dây
+thép b? đ?t trên khung c?a, mà b?n có th? th? c?y m?.}
+{112}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
+và đo?n dây thép b? đ?t trên khung c?a, mà b?n có th? th?
+c?y m?.}
+{113}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
+và đo?n dây thép b? c?t trên khung c?a, mà b?n có th?
+th? c?y m?.}
+{114}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
+c?y khóa đ? m?) mà b?n có th? th? c?y m?.}
+{115}{}{B?n th?y m?t cánh c?a kiên c? có khóa mà b?n có th?
+th? c?y m?.}
+{116}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có
+khóa mà b?n có th? th? c?y m?.}
+{117}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?,
+r? sét mà b?n có th? th? c?y m?.}
 {118}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a highly explosive trap in the doorframe.}
-{119}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe.}
-{120}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{121}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{119}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
+thu?c n? nh?y trên khung c?a.}
+{120}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
+và b?y thu?c n? nh?y trên khung c?a.}
+{121}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
+và b?y thu?c n? nh?y trên khung c?a.}
 {122}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a trap in the doorframe.}
-{123}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe.}
-{124}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe.}
-{125}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe.}
+{123}{}{B?n th?y m?t cánh c?a kiên c? có khóa và b?y
+trên khung c?a.}
+{124}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa
+và b?y trên khung c?a.}
+{125}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét
+và b?y trên khung c?a.}
 {126}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe.}
-{127}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe.}
-{128}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe.}
-{129}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe.}
+{127}{}{B?n th?y m?t cánh c?a kiên c? có khóa và đo?n dây thép
+b? đ?t trên khung c?a.}
+{128}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa và
+đo?n dây thép b? đ?t trên khung c?a.}
+{129}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?, r? sét và
+đo?n dây thép b? c?t trên khung c?a.}
 {130}{}{You see a sturdy door with a lock, which can be picked with
  lockpicks, on it.}
-{131}{}{You see a sturdy door with a lock on it.}
-{132}{}{You see a sturdy door with no apparent locking device.}
-{133}{}{You see a sturdy door with an old, rusty lock.}
+{131}{}{B?n th?y m?t cánh c?a kiên c? có khóa.}
+{132}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có khóa.}
+{133}{}{B?n th?y m?t cánh c?a kiên c? v?i ? khóa c? k?,
+r? sét.}
 {134}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a highly explosive trap in the doorframe.}
-{135}{}{You see a damaged door with a lock on it and a highly
- explosive trap in the doorframe.}
-{136}{}{You see a damaged door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{137}{}{You see a damaged door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{135}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa và b?y
+thu?c n? nh?y trên khung c?a.}
+{136}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa và
+b?y thu?c n? nh?y trên khung c?a.}
+{137}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét và
+b?y thu?c n? nh?y trên khung c?a.}
 {138}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a trap in the doorframe.}
 {139}{}{You see a damaged door with a lock on it and a trap in

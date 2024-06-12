@@ -1,3 +1,3 @@
 {100}{}{B?n nh?n m?t con vu?t t? th?n đáng s?.}
 {101}{}{B?n nh?n th?y m?t con vu?t t? th?n đ?y s?o. Nó th? ph? ph? m?t cách ch?m ch?p.}
-{102}{}{You gain 500 experience points for killing the beast.}
+{102}{}{B?n nh?n đư?c 500 đi?m kinh nghi?m sau khi tiêu ti?t con quái v?t.}
