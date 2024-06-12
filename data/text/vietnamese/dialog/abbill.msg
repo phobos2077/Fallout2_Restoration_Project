@@ -30,26 +30,25 @@ có th? đám này đ? moi đư?c t? xương m?t g? đ?t bi?n đ? t?ch t? lâu m
 bi?t đư?c? Dù sao th? h? c?ng không mu?n vác đ?ng t? đ?y m?i nên đ? bán cho tôi v?i giá đ?ng nát. Tôi c?n ch?ng bi?t
 s? làm g? v?i c?c n? này, nhưng ch?c v?n là món h?i.}
 {219}{}{Chà, tôi ch?c là Marcus có th? dùng đư?c th? này. Giá nhiêu th??}
-{220}{}{That's interesting. Well, Marcus here is tough enough. I don't think we'll be needing that item. Let me ask you
- something else.}
-{221}{}{Well, this bad boy could easily be melted down to make three or four sets of metal armor. Let's say $3000.}
-{222}{}{I've got enough for that.}
-{223}{}{I think I'll pass for right now. Let me ask you something else.}
-{224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
-{225}{}{[Done]}
-{226}{}{Hey, this fits nicely!}
-{300}{}{I might know a thing or two. What would you like to know?}
-{301}{}{How often do you get resupplied?}
-{302}{}{Are the caravans hiring?}
-{303}{}{On second thought, I have to go.}
-{304}{}{I get a new shipment of supplies twice a month. Frankly, I wish they'd come more often, but we're only on a
- minor trade route so I guess this is the best we can get.}
-{305}{}{I'm not quite sure. Usually, the ones that stop by here are pretty well equipped and not really interested in
- hanging around very long. But if you're looking to hook up with one of em, I'd head over to Redding or even down to NCR.
- They've got pretty active caravans and good help is always wanted.}
-{306}{}{Interesting. I was curious about something else.}
-{307}{}{Thanks. Let's barter.}
-{308}{}{Well, thanks for the information. See you around.}
-{400}{}{Found everything you need?}
-{401}{}{Actually, I'd like to take another look at your goods.}
-{402}{}{Yes I did. See you around.}
+{220}{}{H?p d?n đ?y. Mà Marcus đ? c?ng r?i. Tôi e là b?n tôi s? không c?n th? này. Tôi mu?n h?i v? chuy?n khác.}
+{221}{}{?, c?c n? này b? n?i đun ra c?ng ph?i đúc đư?c t?m ba ho?c b?n b? giáp s?t. Ch?t giá 3000$ nhé.}
+{222}{}{Đư?c, tôi mua.}
+{223}{}{Ch?c là đ? sau đi. Tôi mu?n h?i v? chuy?n khác.}
+{224}{}{V?y là ch?t kèo. B? giáp này c?n đ?n hai ngư?i khiêng cơ, nên đ? tôi l?p đ? cho c?u b?n đây.}
+{225}{}{[Đ? xong]}
+{226}{}{?y, v?a zin luôn!}
+{300}{}{Ch?c là tôi bi?t đ?y. C?u mu?n h?i g? nào?}
+{301}{}{Bao lâu th? ông l?i nh?p hàng m?t l?n?}
+{302}{}{Đoàn l? hành có tuy?n ngư?i không?}
+{303}{}{Mà thôi, tôi ph?i đi đây.}
+{304}{}{Tôi nh?p hàng hai l?n m?i tháng. Nói th?t th? tôi ư?c g? b?n h? có th? đ?n thư?ng xuyên hơn, nhưng ch? kh? ho
+c? gáy này th? đành ch?p nh?n v?y thôi.}
+{305}{}{Tôi không ch?c l?m. Thư?ng th? nh?ng ngư?i đ?n đây đ?u đeo đ? kín ngư?i và không mu?n ? l?i quá lâu.
+Nhưng n?u c?u mu?n nh?p đoàn v?i m?t trong s? h? th? tôi ch?c là có đoàn đi Redding ho?c th?m chí là đ?n
+t?n NCR. M?y đoàn này di chuy?n nhi?u và h? luôn c?n thêm ngư?i đ? l?c.}
+{306}{}{Hay đ?y. Tôi đang th?c m?c v? th? khác.}
+{307}{}{Cám ơn. Giao d?ch nào.}
+{308}{}{?, cám ơn v? thông tin. G?p ông sau.}
+{400}{}{Đ? t?m th?y nh?ng th? c?u c?n chưa?}
+{401}{}{À tôi mu?n xem kho hàng thêm l?n n?a.}
+{402}{}{Tôi xong r?i. G?p ông sau.}

@@ -1,3 +1,3 @@
-{100}{}{You see a mean looking deathclaw.}
-{101}{}{You see a huge deathclaw covered with scars. It is breathing slowly and loudly.}
+{100}{}{B?n nh?n m?t con vu?t t? th?n đáng s?.}
+{101}{}{B?n nh?n th?y m?t con vu?t t? th?n đ?y s?o. Nó th? ph? ph? m?t cách ch?m ch?p.}
 {102}{}{You gain 500 experience points for killing the beast.}

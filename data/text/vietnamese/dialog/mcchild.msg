@@ -31,7 +31,7 @@
 {177}{}{I'll bet you're nicer than you look.}
 {178}{}{Let's play tag. You're it.}
 {179}{}{You don't smell that bad.}
-{180}{}{Have you seen my invisible friend?}
+{180}{}{Chú có th?y b?n ma c?a cháu không?}
 {181}{}{I want to travel the world when I'm as old as you.}
 {182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do bathe.}
@@ -40,7 +40,7 @@
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
 {188}{}{I've got a shiny pebble.}
-{189}{}{Have you seen my invisible friend?}
+{189}{}{Chú có th?y b?n ma c?a cháu không?}
 {190}{}{Can I join your tribe?}
 {191}{}{You're nice.}
 {192}{}{You look funny.}

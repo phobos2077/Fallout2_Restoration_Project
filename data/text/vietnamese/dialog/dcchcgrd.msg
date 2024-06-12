@@ -2,7 +2,7 @@
 {150}{}{The guard is guarding the old church.}
 {151}{}{[TALK]}
 {152}{}{How dare you show your face again!}
-{153}{}{[Done]}
+{153}{}{[Đ? xong]}
 {154}{}{Ho! No one enters the Family Wright warehouse at night!}
 {155}{}{Well, Mr. Wright himself sent me on an errand. If you don't know about it, too bad.}
 {156}{}{I'll come back tomorrow.}

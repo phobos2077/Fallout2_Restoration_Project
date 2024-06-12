@@ -1,5 +1,7 @@
-{100}{}{You see one of Klamath's Children.}
-{101}{}{You see one of Klamath's Children.}
+{100}{}{You see a small boy.}
+{101}{}{You see a little girl.}
+{120}{}{You see a small boy. He seems rather playful.}
+{121}{}{You see a little girl. She seems rather playful.}
 {150}{}{Don't eat me!}
 {151}{}{Eeeee! The boogy-monster!}
 {152}{}{Daddy says you're a bad person.}
@@ -7,7 +9,7 @@
 {154}{}{You're scaring me.}
 {155}{}{Stop looking at me.}
 {156}{}{I'm not supposed to talk to tribals.}
-{157}{}{You're just like the Duntons.}
+{157}{}{Wiener dog.}
 {158}{}{My mom said you'll eat me if I'm bad.}
 {159}{}{I'm not afraid of you!}
 {160}{}{Help meee!}
@@ -29,16 +31,16 @@
 {177}{}{I'll bet you're nicer than you look.}
 {178}{}{Let's play tag. You're it.}
 {179}{}{You don't smell that bad.}
-{180}{}{Chú có th?y b?n ma c?a cháu không?}
+{180}{}{Cô có th?y b?n ma c?a cháu không?}
 {181}{}{I want to travel the world when I'm as old as you.}
 {182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do bathe.}
-{184}{}{You're smarter than Torr.}
+{184}{}{I've got a shiny pebble.}
 {185}{}{Is that blade you have really sharp?}
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
 {188}{}{I've got a shiny pebble.}
-{189}{}{Chú có th?y b?n ma c?a cháu không?}
+{189}{}{Cô có th?y b?n ma c?a cháu không?}
 {190}{}{Can I join your tribe?}
 {191}{}{You're nice.}
 {192}{}{You look funny.}
@@ -73,30 +75,4 @@
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
 {223}{}{One, two, three... Weee!}
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
-{1003}{}{Arroyo}
-{1004}{}{Klamath}
-{1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
-{1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
-{1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+{300}{}{Stranger!}

@@ -1,7 +1,7 @@
 {100}{}{You see a computer monk.}
 {101}{}{You see Brother Paul.}
 {102}{}{This monk looks like a computer geek.}
-{200}{}{Hi!}
+{200}{}{Chào!}
 {201}{}{Hello.}
 {202}{}{Now, did I backup those computer files today...}
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
