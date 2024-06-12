@@ -79,23 +79,23 @@ b?y thu?c n? nh?y trên khung c?a.}
 b?y thu?c n? nh?y trên khung c?a.}
 {138}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a trap in the doorframe.}
-{139}{}{You see a damaged door with a lock on it and a trap in
- the doorframe.}
-{140}{}{You see a damaged door with no apparent locking device and
- a trap in the doorframe.}
-{141}{}{You see a damaged door with an old, rusty lock and a trap
- in the doorframe.}
+{139}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa và b?y trên
+khung c?a.}
+{140}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa và
+b?y trên khung c?a.}
+{141}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét và
+b?y trên khung c?a.}
 {142}{}{You see a damaged door with a lock, which can be picked with
  lockpicks, and a cut wire in the doorframe.}
-{143}{}{You see a damaged door with a lock on it and a severed wire
- in the doorframe.}
-{144}{}{You see a damaged door with no apparent locking device and
- a severed wire in the doorframe.}
-{145}{}{You see a damaged door with an old, rusty lock and a cut
- wire in the doorframe.}
+{143}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa và đo?n dây thép
+b? đ?t trên khung c?a.}
+{144}{}{B?n th?y m?t cánh c?a b? hư h?i có v? như không có khóa và
+đo?n dây thép b? đ?t trên khung c?a.}
+{145}{}{B?n th?y m?t cánh c?a b? hư h?i v?i ? khóa c? k?, r? sét và
+đo?n dây thép b? c?t trên khung c?a.}
 {146}{}{You see a damaged door with a lock, which can be picked with
  lockpicks.}
-{147}{}{You see a damaged door with a lock on it.}
+{147}{}{B?n th?y m?t cánh c?a b? hư h?i có khóa.}
 {148}{}{You see a damaged door with no apparent locking device.}
 {149}{}{You see a damaged door with an old, rusty lock.}
 {150}{}{You see an old door with a lock, which can be picked with
