@@ -19,7 +19,7 @@
 {211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
 {300}{}{What do you *hickup* wanna know?}
 {301}{}{Are you the gravekeeper?}
-{302}{}{Cô có th? k? g? cho tôi v? Tu vi?n?}
+{302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {303}{}{Anything I can help you with?}
 {400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
  not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy

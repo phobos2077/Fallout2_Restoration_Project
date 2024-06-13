@@ -7,7 +7,7 @@
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Yes?}
 {301}{}{You guys sure have a lot of computers here.}
-{302}{}{Cô có th? k? g? cho tôi v? Tu vi?n?}
+{302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}

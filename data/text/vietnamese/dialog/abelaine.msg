@@ -1,16 +1,16 @@
 {100}{}{B?n th?y m?t n? tu m?p m?p.}
 {101}{}{B?n th?y Elaine.}
-{102}{}{B?n v?n th?y cô ta.}
+{102}{}{B?n v?n th?y bà ta.}
 {200}{}{Xin chào!}
-{201}{}{Chào, tên cô là g??}
-{202}{}{Cô có th? k? g? cho tôi v? Tu vi?n?}
+{201}{}{Chào, tên bà là g??}
+{202}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {203}{}{Chào.}
-{300}{}{N?u anh mu?n t?m hi?u thêm v? h?i c?a chúng tôi, h?y nói chuy?n v?i Tr? tr?. Anh có th? t?m th?y ông trong ph?ng riêng ? t?ng ba.}
+{300}{}{N?u c?u mu?n t?m hi?u thêm v? h?i c?a chúng tôi, h?y nói chuy?n v?i Tr? tr?. C?u có th? t?m th?y ông trong ph?ng riêng ? t?ng ba.}
 {301}{}{Tôi hi?u r?i. H?i thêm nhé...}
-{400}{}{D? nhiên. Anh mu?n bi?t g? nào?}
+{400}{}{D? nhiên r?i. C?u mu?n bi?t g? nào?}
 {401}{}{What is your name?}
 {402}{}{Nothing really, bye.}
-{403}{}{Cô có th? k? g? cho tôi v? Tu vi?n?}
+{403}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {500}{}{My name is Elaine.}
 {501}{}{Tôi hi?u r?i. H?i thêm nhé...}
 {600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
