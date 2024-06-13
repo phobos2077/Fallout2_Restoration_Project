@@ -13,9 +13,9 @@
 {403}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {500}{}{My name is Elaine.}
 {501}{}{Tôi hi?u r?i. H?i thêm nhé...}
-{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
- basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down
- all those stairs. Would it trouble you too much to bring him this part for me?}
+{600}{}{Này! Trư?c khi đi, có l? c?u có th? giúp tôi m?t vi?c. Tôi c?n ph?i mang b? ph?n máy này cho Max ? ph?ng
+sao ch?p dư?i t?ng h?m. Nhưng c?u th?y đ?y, cái đ?u g?i bên trái c?a tôi d?o này sưng tư?ng lên, làm tôi đau ê ?m
+m?i l?n lên xu?ng c?u thang. N?u không phi?n th? c?u có th? mang th? này cho ông ta h? tôi đư?c không?}
 {601}{}{Sure.}
 {602}{}{Sorry, I don't have time for this. Bye.}
 {603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
