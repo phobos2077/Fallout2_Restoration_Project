@@ -109,7 +109,7 @@
 {516}{}{You do not find any traps on the grave.}
 {520}{}{ finds a trap on the grave.}
 {521}{}{ does not find any traps on the grave.}
-{525}{}{You skillfully disarm the trap.}
-{526}{}{You fail to disarm the trap.}
-{530}{}{ skillfully disarms the trap.}
+{525}{}{B?n khéo léo vô hi?u hóa b?y.}
+{526}{}{B?n không vô hi?u hóa đư?c b?y.}
+{530}{}{ khéo léo vô hi?u hóa b?y.}
 {531}{}{ fail to disarm the trap.}

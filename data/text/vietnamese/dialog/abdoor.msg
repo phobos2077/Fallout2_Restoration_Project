@@ -144,29 +144,29 @@ nh?n }
 {179}{}{ đi?m sát thương.}
 {180}{}{B?n quá y?u đ? có th? phá khóa.}
 {181}{}{ đ? phá khóa kh?i c?a.}
-{182}{}{ b? căng cơ lưng khi c? g?ng gi?t tung khóa và nh?n
- m?t đi?m sát thương.}
-{183}{}{ strains his back while trying to bust the lock and takes }
+{182}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
+ đi?m sát thương.}
+{183}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n }
 {184}{}{ đi?m sát thương.}
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
-{187}{}{ strains her back while trying to bust the lock and takes }
+{185}{}{ quá y?u đ? có th? phá khóa.}
+{186}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
+ đi?m sát thương.}
+{187}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n}
 {188}{}{ đi?m sát thương.}
-{189}{}{You deftly lock the door.}
-{190}{}{You fail to lock the door.}
-{191}{}{ deftly locks the door.}
-{192}{}{ failed to lock the door.}
-{193}{}{That doesn't even put a scratch on the door.}
-{194}{}{You find a trap on the door.}
-{195}{}{You fail to find any traps on the door.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
-{199}{}{ finds a trap on the door.}
-{200}{}{ fails to find any traps on the door.}
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
-{203}{}{The door appears to be locked.}
+{189}{}{B?n khéo léo khóa c?a.}
+{190}{}{B?n không khóa đư?c c?a.}
+{191}{}{ khéo léo khóa c?a.}
+{192}{}{ không khóa đư?c c?a.}
+{193}{}{Hành đ?ng đó c?n ch?ng làm xư?c n?i c?a.}
+{194}{}{B?n t?m th?y b?y trên c?a.}
+{195}{}{B?n không t?m th?y b?y trên c?a.}
+{196}{}{B?n khéo léo vô hi?u hóa b?y.}
+{198}{}{B?n không vô hi?u hóa đư?c b?y.}
+{199}{}{ t?m th?y b?y trên c?a.}
+{200}{}{ không t?m th?y b?y trên c?a.}
+{201}{}{ khéo léo vô hi?u hóa b?y.}
+{202}{}{ không vô hi?u hóa đư?c b?y.}
+{203}{}{C?a trông như b? khóa.}
 {204}{}{You notice a trap in the door jamb.}
 {205}{}{ notices a trap in the door jamb.}
 {206}{}{You are unable to place a trap on this door, because

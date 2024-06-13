@@ -144,14 +144,14 @@ nh?n }
 {179}{}{ đi?m sát thương.}
 {180}{}{B?n quá y?u đ? có th? phá khóa.}
 {181}{}{ busts the lock off the container.}
-{182}{}{ b? căng cơ lưng khi c? g?ng gi?t tung khóa và nh?n
- m?t đi?m sát thương.}
-{183}{}{ strains his back while trying to bust the lock and takes }
+{182}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
+ đi?m sát thương.}
+{183}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n }
 {184}{}{ đi?m sát thương.}
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
-{187}{}{ strains her back while trying to bust the lock and takes }
+{185}{}{ quá y?u đ? có th? phá khóa.}
+{186}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
+ đi?m sát thương.}
+{187}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n}
 {188}{}{ đi?m sát thương.}
 {189}{}{You deftly lock the container.}
 {190}{}{You fail to lock the container.}
@@ -160,12 +160,12 @@ nh?n }
 {193}{}{The explosives don't even put a scratch on the container.}
 {194}{}{You find a trap on the container.}
 {195}{}{You fail to find any traps on the container.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
+{196}{}{B?n khéo léo vô hi?u hóa b?y.}
+{198}{}{B?n không vô hi?u hóa đư?c b?y.}
 {199}{}{ finds a trap on the container.}
 {200}{}{ fails to find any traps on the container.}
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
+{201}{}{ khéo léo vô hi?u hóa b?y.}
+{202}{}{ không vô hi?u hóa đư?c b?y.}
 {203}{}{The container appears to be locked.}
 {204}{}{You notice a trap on the container.}
 {205}{}{ notices a trap on the container jamb.}
