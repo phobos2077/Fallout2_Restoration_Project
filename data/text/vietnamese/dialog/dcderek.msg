@@ -38,7 +38,7 @@
 {270}{}{Oh, hi again.}
 {271}{}{So where's Becky's book?}
 {272}{}{Hey, how about some of that bread?}
-{273}{}{Bye.}
+{273}{}{Chào.}
 {280}{}{Ha! So am I. Have I told you what a great cook I am? Becky wont' hire me for some reason. She says I'm unstable.}
 {281}{}{She's probably right.}
 {282}{}{I'm looking for Becky's book.}
@@ -57,7 +57,7 @@
 {310}{}{What? Are you mocking me! Screw you! I'm not unstable! I can cook! I don't have voices in my head!}
 {311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
 {312}{}{Hey! Sto- do... fuck.}
-{313}{}{Bye.}
+{313}{}{Chào.}
 {314}{}{Nothing.}
 {320}{}{Hey! Get away from me!}
 {321}{}{Don't touch me!}

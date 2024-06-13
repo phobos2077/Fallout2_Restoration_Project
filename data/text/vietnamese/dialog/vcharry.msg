@@ -26,7 +26,7 @@
 {125}{}{Sure. Here's the money.}
 {126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
 {127}{}{Thanks for the business. Take care.}
-{128}{}{Bye.}
+{128}{}{Chào.}
 {129}{}{Connar sent me for the goods.}
 {130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
 {131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}

@@ -60,5 +60,5 @@
 {165}{}{I'm sorry.}
 {166}{}{Oh...}
 {167}{}{It makes me sad to think about it...}
-{168}{}{Bye.}
+{168}{}{Chào.}
 {169}{}{Stacy told you a sweet story about her darling cat Cuddles.}

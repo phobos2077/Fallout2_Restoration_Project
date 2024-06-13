@@ -297,7 +297,7 @@
 {395}{}{I'll think about it. Can I ask you a few questions?}
 {396}{}{No, not my kind of job. Goodbye.}
 {397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters... and any other threat.}
-{398}{}{Bye.}
+{398}{}{Chào.}
 {399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
 {400}{}{Got it. I'll take the job.}
 {401}{}{It's clear. What's with that village, anyway?}

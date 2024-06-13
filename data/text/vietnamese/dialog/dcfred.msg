@@ -45,7 +45,7 @@
 {297}{}{I'm here to collect some money you owe someone.}
 {298}{}{Never mind.}
 {299}{}{Uk!}
-{300}{}{Bye.}
+{300}{}{Chào.}
 {310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}
 {311}{}{Thanks again.}
 {312}{}{Looking very nice.}
@@ -85,7 +85,7 @@
 {393}{}{Not really, but I'll take it.}
 {394}{}{Yum.}
 {400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
-{401}{}{Bye.}
+{401}{}{Chào.}
 {410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Beat it!}
 {412}{}{Ug.}

@@ -28,7 +28,7 @@
 {500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
  use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
 {501}{}{Let me ask you something else.}
-{502}{}{Bye.}
+{502}{}{Chào.}
 {600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
  but I don't think it's just a bunch of rats and radscorpies.}
 {601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
@@ -39,7 +39,7 @@
  go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
  Brother Thomas?}
 {611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
-{612}{}{Bye.}
+{612}{}{Chào.}
 {613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
 {700}{}{What else do you want to know?}
 {800}{}{It's good to see you again.}

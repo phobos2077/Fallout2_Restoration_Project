@@ -36,7 +36,7 @@
 {135}{}{Yes.}
 {136}{}{No.}
 {137}{}{Fine. You don't have any business here. Please leave so we can get our jobs done.}
-{138}{}{Bye.}
+{138}{}{Chào.}
 {139}{}{That's ridiculous. We're not giving you any.}
 {140}{}{Then die.}
 {141}{}{Fine. Bye.}
@@ -49,6 +49,6 @@
 {148}{}{No way.}
 {149}{}{Sure.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
-{151}{}{Bye.}
+{151}{}{Chào.}
 {152}{}{Thanks! Here's your money back.}
 {153}{}{No problem.}

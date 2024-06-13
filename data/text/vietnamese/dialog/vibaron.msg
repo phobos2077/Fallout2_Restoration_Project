@@ -42,14 +42,14 @@
 {305}{}{Actually, never mind. Bye.}
 {310}{}{Now you're speaking my language! Alright, it's a deal. [He greedily snatches the money from you and shakes your hand.]}
 {311}{}{Pleasure doing business with you. Bye.}
-{312}{}{Bye.}
+{312}{}{Chào.}
 {320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{I don't have that much. Bye.}
 {322}{}{Alright, fine. $1,000 it is.}
 {323}{}{No deal. Goodbye.}
 {330}{}{Now you're speaking my language! You've got yourself a deal. [He greedily snatches the money from you and shakes your hand.]}
 {331}{}{Pleasure doing business with you. Bye.}
-{332}{}{Bye.}
+{332}{}{Chào.}
 {340}{}{Are you threatening me? No one threatens me and lives! (to his caravan guards) Kill this stupid fuck!}
 {341}{}{Bring it on!}
 {350}{}{Look, I don't want any trouble. If you want me to swing by and trade with that village, fine, no big deal. Hell, it's hardly even out of my way. No problem.}
@@ -72,7 +72,7 @@
 {390}{}{[The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
 {391}{}{[Shudder.] Once was enough. Bye.}
 {392}{}{Anytime. Bye.}
-{393}{}{Bye.}
+{393}{}{Chào.}
 {400}{}{[He looks Miria up and down, then grins.] I think you've got yourself a deal. [He shakes your hand, then puts his arm around Miria and walks her to someplace more private.]}
 {401}{}{[Tap your foot while you wait.]}
 {402}{}{[Whistle while you wait.]}
@@ -81,6 +81,6 @@
 {410}{}{[An hour later, you see Robert Baron and Miria, now sweaty and disheveled from their sexual romp, walking back towards you. You notice Miria is walking with a slight limp. The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
 {411}{}{Whatever. Bye.}
 {412}{}{Anytime. Bye.}
-{413}{}{Bye.}
+{413}{}{Chào.}
 {500}{}{You convince the merchant to add the village to his trade route.}
 {510}{}{You kill the merchant, thus ensuring that the village won't be able to trade.}

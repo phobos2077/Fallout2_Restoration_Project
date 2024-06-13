@@ -66,7 +66,7 @@
 {141}{}{Done.}
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
-{143}{}{Bye.}
+{143}{}{Chào.}
 {144}{}{Goodbye.}
 {145}{}{I would ask you to help me escape this place. Will you?}
 {146}{}{Yes, me do.}

@@ -27,7 +27,7 @@
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
 {142}{}{I have more questions.}
-{143}{}{Bye.}
+{143}{}{Chào.}
 {144}{}{Like what?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
 {146}{}{Nothing really, Bye.}
@@ -41,7 +41,7 @@
 {160}{}{Sounds great. I'd like a job like that.}
 {161}{}{Actually, that sounds pretty boring.}
 {162}{}{I have more questions.}
-{163}{}{Bye.}
+{163}{}{Chào.}
 {164}{}{Probably a hell of a lot more exciting than what you do with your life, jerkoff.}
 {165}{}{Yeah, whatever. I have more questions.}
 {166}{}{Ha ha ha ha! Right. See ya, loser.}

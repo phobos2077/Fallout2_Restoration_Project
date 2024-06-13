@@ -25,7 +25,7 @@
 {121}{}{Forget it. See you later.}
 {122}{}{Me? I'm }
 {123}{}{You're sorry about Chad? Ha! Made a nice profit, did you? The new boss is }
-{124}{}{Bye.}
+{124}{}{Chào.}
 {125}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He can hook you up.}
 {126}{}{Thanks.}
 {127}{}{All right. See ya, then.}

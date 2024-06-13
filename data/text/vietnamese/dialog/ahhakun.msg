@@ -94,7 +94,7 @@
 {193}{}{Ow?}
 {194}{}{Ooog! Bak!}
 {195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
-{196}{}{Bye.}
+{196}{}{Chào.}
 {197}{}{Still mixing the herbs, huh? See you later.}
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
 {199}{}{See ya.}

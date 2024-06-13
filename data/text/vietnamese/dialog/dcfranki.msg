@@ -78,7 +78,7 @@
 {223}{}{No, I won't. Good bye.}
 {224}{}{Maybe you're right. I'll talk to her. Thanks.}
 {225}{}{Hey, what are friends for?}
-{226}{}{Bye.}
+{226}{}{Chào.}
 {227}{}{Information I do not have.}
 {228}{}{Really? How about why Becky's drinks are so much cheaper than yours?}
 {229}{}{I thought bartenders knew everything.}
@@ -98,7 +98,7 @@
 {244}{}{You were the best I ever had. Really. I mean that.}
 {245}{}{I hate to eat and run, but...}
 {246}{}{Well, see you later.}
-{247}{}{Bye.}
+{247}{}{Chào.}
 {248}{}{Yeah, whatever. Just clean up after yourself this time, will ya?}
 {249}{}{Hey, everyone! Let's hear it for Billy. He's actually getting some!}
 {250}{}{You need a mop?}

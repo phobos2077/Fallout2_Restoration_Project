@@ -32,7 +32,7 @@
 {250}{}{Do you know a man named Vic?}
 {251}{}{I'm looking for a Merchant.}
 {252}{}{You ever heard of Vault 13?}
-{253}{}{Bye.}
+{253}{}{Chào.}
 {254}{}{Work.}
 {255}{}{Food.}
 {256}{}{Kill.}

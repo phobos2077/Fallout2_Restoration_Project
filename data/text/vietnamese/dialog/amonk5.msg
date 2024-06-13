@@ -7,11 +7,11 @@
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Yes?}
 {301}{}{You guys sure have a lot of computers here.}
-{302}{}{What can you tell me about the Abbey?}
+{302}{}{Cô có th? k? g? cho tôi v? Tu vi?n?}
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}
-{306}{}{Bye.}
+{306}{}{Chào.}
 {307}{}{I am in need of some specific information.}
 {308}{}{Như là?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files

@@ -26,7 +26,7 @@
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Bye.}
+{375}{}{Chào.}
 {376}{}{Goodbye.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}

@@ -193,8 +193,8 @@ khóa mà b?n có th? th? c?y m?.}
 {417}{}{B?n th?y m?t cánh c?a kiên c? mà b?n có th? c?y m?.}
 {500}{}{Cánh c?a này quá n?ng đ? có th? c?y m?.}
 {501}{}{Có v? như b?n c?n làm cho máy phát ch?y trư?c đ?.}
-{502}{}{You see: Elevator door.}
-{503}{}{Looks like you need an electric device to open this lock.}
+{502}{}{B?n th?y: C?a thang máy.}
+{503}{}{Có v? như b?n c?n dùng thi?t b? đi?n đ? m? ? khóa này.}
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 {611}{}{ fails spectacularly, and the explosive goes off prematurely.}

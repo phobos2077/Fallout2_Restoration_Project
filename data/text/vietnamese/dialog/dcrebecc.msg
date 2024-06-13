@@ -68,7 +68,7 @@
 {304}{}{Why are your drinks so cheap?}
 {305}{}{Dyer?}
 {306}{}{Can I ask a question?}
-{307}{}{Bye.}
+{307}{}{Chào.}
 {308}{}{Wekee}
 {309}{}{Urka.}
 {320}{}{Oh, that's the family name. The name Dyer has been in the bar business for a
@@ -77,7 +77,7 @@
  all over the world.}
 {322}{}{I'll take a drink.}
 {323}{}{Can I ask another question?}
-{324}{}{Bye.}
+{324}{}{Chào.}
 {330}{}{Well, since you're such a good customer, I'll let you in on a little secret.
  It's simple really - I have a still. A friend from a nearby town taught me how to
  make one. So, would you like another one?}
@@ -101,7 +101,7 @@
 {355}{}{What's the catch?}
 {356}{}{Tell me more.}
 {357}{}{Can I ask you a question?}
-{358}{}{Bye.}
+{358}{}{Chào.}
 {370}{}{Catch? Oh, well, if you knew Fred you'd understand. He's owed me the money
  for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be
  amazed... and grateful. He's somewhere in town, I'm sure.}

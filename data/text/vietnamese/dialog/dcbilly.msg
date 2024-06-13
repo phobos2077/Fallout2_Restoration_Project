@@ -17,7 +17,7 @@
 {165}{}{Alright! Now come with Billy, sweetie.}
 {166}{}{Now go away.}
 {167}{}{Thanks. Bye.}
-{168}{}{Bye.}
+{168}{}{Chào.}
 {169}{}{Aw, shucks.}
 {170}{}{[DONE]}
 {171}{}{I am plumb tuckered out.}
@@ -35,7 +35,7 @@
 {183}{}{Don't bother me. I'm scoping for nice-looking chicks.}
 {184}{}{Good luck. You'll need it.}
 {185}{}{What am I, chopped liver?}
-{186}{}{Bye.}
+{186}{}{Chào.}
 {187}{}{Oooh. OK. Bye.}
 {188}{}{[looks you up and down] No. I like chopped liver.}
 {189}{}{I don't need this from you!}

@@ -38,7 +38,7 @@
 {131}{}{Wow, you really suck up to those two. Why not try thinking for yourself instead of parroting
  what other people tell you?}
 {132}{}{You really like Franc, huh?}
-{133}{}{Bye.}
+{133}{}{Chào.}
 {134}{}{What would you know, you jerk? Get the hell out of here before you get hurt!}
 {135}{}{Back in the olden days, there was a guy who told us all we hadda think fer ourselves. My mom
  and dad said he was related to me. He died in prison, but he was really influential to me. People said

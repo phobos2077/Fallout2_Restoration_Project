@@ -247,7 +247,7 @@
  peep him, get pretty hot.}
 {777}{}{Vic's here but I don't think he knows much about slaves. Other than being held as one in the
  Den, that is. Tell me something else.}
-{778}{}{Bye.}
+{778}{}{Chào.}
 {779}{slk48a}{Slavers got our sis. Thought Vic be having information. Couldn't peep him, got p.o.'d, drank
  like a fish. Spirits of Anger and Chaos pop out and now we have to pay some coin to make it right.}
 {780}{slk48b}{We be trying to know which way to go to find slavers who take sis. Maybe south.}

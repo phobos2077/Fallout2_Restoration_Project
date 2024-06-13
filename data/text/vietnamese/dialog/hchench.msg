@@ -45,7 +45,7 @@
 {220}{}{Yes.}
 {221}{}{No.}
 {222}{}{All right. See ya, then.}
-{223}{}{Bye.}
+{223}{}{Chào.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}

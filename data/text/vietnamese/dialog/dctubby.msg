@@ -6,7 +6,7 @@
 {153}{}{I would prefer that you take your business elsewhere.}
 {154}{}{You are a business man. Let's conduct business.}
 {155}{}{Can I ask you something.}
-{156}{}{Bye.}
+{156}{}{Chào.}
 {157}{}{I am so happy to see you again. What can I do for you today?}
 {158}{}{Let's trade.}
 {159}{}{Can I ask you something?}
@@ -22,7 +22,7 @@
 {167}{}{I need some information.}
 {168}{}{Goodbye.}
 {169}{}{I would prefer that you leave, instead.}
-{170}{}{Bye.}
+{170}{}{Chào.}
 {171}{}{What would you like to know?}
 {172}{}{Who's in charge of this town?}
 {173}{}{Why is everyone selling drugs?}

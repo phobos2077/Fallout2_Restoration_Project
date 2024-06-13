@@ -43,7 +43,7 @@
 {142}{}{You're all heart, big guy.}
 {143}{}{Go shove it up the lips you never kiss with. No thanks to you for making this harder than it had to be.}
 {144}{}{Maybe he just ought to bathe more often. Good day.}
-{145}{}{Bye.}
+{145}{}{Chào.}
 {146}{}{No. I'm afraid not. The needs of the city outweigh the needs of the one.}
 {147}{}{I have other questions, then.}
 {148}{}{That's very utilitarian of you. I'll let him know he's not important. Goodbye.}

@@ -4,17 +4,17 @@
 {102}{}{What can I do for you now?}
 {103}{}{Where are you headed?}
 {104}{}{What's your cargo?}
-{105}{}{Bye.}
+{105}{}{Chào.}
 {106}{}{Ug.}
 {107}{}{I just picked up a shipment from }
 {108}{}{ and now I'm headed for }
 {109}{}{.}
 {110}{}{What's your cargo?}
-{111}{}{Bye.}
+{111}{}{Chào.}
 {112}{}{We're carrying }
 {113}{}{Do you think I might be able to trade with you?}
 {114}{}{Where are you headed?}
-{115}{}{Bye.}
+{115}{}{Chào.}
 {116}{}{Well, I don't see why not, considering you helped us out in a pinch and all. Sure, why not.
  Here's what I got.}
 {117}{}{[Barter]}
@@ -31,7 +31,7 @@
 {124}{}{I've heard good things about a person fitting your description. I guess it would be all right
  to trade some of our cargo to you. Here's what I got.}
 {125}{}{[Barter]}
-{126}{}{Bye.}
+{126}{}{Chào.}
 {127}{}{I've heard of you. You're that bad-ass going around raising a ruckus all over the place. I've
  been meanin' to meet you so I can shake your hand. Thinking of all the rude and crude rumors about you
  just brings a tear to my eye. It would be my honor to trade with you.}
@@ -46,7 +46,7 @@
 {134}{}{State your business.}
 {135}{}{Where are you headed?}
 {136}{}{What's your cargo?}
-{137}{}{Bye.}
+{137}{}{Chào.}
 {138}{}{Ug.}
 {139}{}{That's... nice. You have a nice day now. }
 {150}{}{medicine.}

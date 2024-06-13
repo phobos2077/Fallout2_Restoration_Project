@@ -7,7 +7,7 @@
 {300}{}{Hi, how can I help you?}
 {301}{}{What can you tell me about your order?}
 {302}{}{H?y giao d?ch.}
-{303}{}{Bye.}
+{303}{}{Chào.}
 {400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}
 {401}{}{Who is your leader?}
 {402}{}{What kind of relics?}

@@ -25,7 +25,7 @@
 {130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 {140}{}{I look for GECK.}
 {141}{}{I looking for missing woman. She sister of friend Sulik.}
-{142}{}{Bye.}
+{142}{}{Chào.}
 {150}{}{I ask more.}
 {160}{}{Oh, he right here. Sulik, chief man want talk.}
 {161}{}{Oh, he good. He wait for me.}

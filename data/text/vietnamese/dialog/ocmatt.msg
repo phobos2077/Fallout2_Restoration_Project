@@ -40,7 +40,7 @@
 {133}{}{Yes.}
 {134}{}{No.}
 {135}{}{Arrgh! You're a fool to trust them. If you change your mind come back and get me.}
-{136}{}{Bye.}
+{136}{}{Chào.}
 {137}{}{Have you changed your mind? Will you help me get out of here?}
 {138}{}{Yes.}
 {139}{}{No.}

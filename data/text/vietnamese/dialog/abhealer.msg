@@ -5,7 +5,7 @@
 {301}{}{I'm injured, can you help me?}
 {302}{}{[Drool.]}
 {303}{}{So, what do you do here at the Abbey?}
-{304}{}{Bye.}
+{304}{}{Chào.}
 {400}{}{It is done!}
 {401}{}{Thanks.}
 {402}{}{Stop that!}

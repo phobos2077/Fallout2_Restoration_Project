@@ -43,7 +43,7 @@
 {142}{}{Fine.}
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
 {144}{}{I have more questions.}
-{145}{}{Bye.}
+{145}{}{Chào.}
 {146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
 {147}{}{I will. And I have more questions.}
 {148}{}{I will. Bye.}

@@ -57,7 +57,7 @@
 {156}{}{Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.}
 {157}{}{Maybe I'd better jump on them. I always hated your movies anyway. Let's see you do a death scene.}
 {158}{}{Your movies suck. Bye.}
-{159}{}{Bye.}
+{159}{}{Chào.}
 {160}{}{Her: Neurodynes are the essence of souls destroyed in the Great War, polluting your spiritual essence and guiding you astray. Him: If you want to know more about our teachings, you'll have to join our church.}
 {161}{}{Yes, this sounds fascinating.}
 {162}{}{I'd heard this was science fiction, but I didn't know how much. The Hub must have been quite a crackpot.}

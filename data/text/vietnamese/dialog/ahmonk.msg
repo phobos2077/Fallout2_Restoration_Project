@@ -8,7 +8,7 @@
 {301}{}{What can you tell me about your order?}
 {302}{}{Have you ever heard of a device called a GECK?}
 {303}{}{Do you know where I could find Vault 13?}
-{304}{}{Bye.}
+{304}{}{Chào.}
 {400}{}{What do you want to know?}
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}

@@ -6,7 +6,7 @@
 {105}{}{Old Ghouls' Home?}
 {106}{}{Who are you?}
 {107}{}{Hey, you ever heard of a GECK?}
-{108}{}{Bye.}
+{108}{}{Chào.}
 {109}{}{Another waste-baby, huh? Hey, kid, you want to know a secret?}
 {110}{}{Yeh!}
 {111}{}{Nuh uh.}
@@ -19,7 +19,7 @@
 {117}{}{I had other questions.}
 {118}{}{Bye!}
 {119}{}{Heh. All right, then. I ain't got nothin' for you. Go on, git.}
-{120}{}{Bye.}
+{120}{}{Chào.}
 {121}{}{Kid, y'got to do me a favor, first.}
 {122}{}{Okey!}
 {123}{}{Nuh uh!}

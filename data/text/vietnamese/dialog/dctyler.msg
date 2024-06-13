@@ -41,7 +41,7 @@
  Who the hell would want that shit?}
 {281}{}{Fuck it. Just go in. Does he think it's just going to up and leave? Who the
  hell would want that shit anyhow?}
-{282}{}{Bye.}
+{282}{}{Chào.}
 {290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
 {291}{}{Grrrr.}
 {292}{}{Thanks.}
@@ -86,7 +86,7 @@
 {393}{}{I understand, thanks. Have fun.}
 {394}{}{See ya.}
 {400}{}{You better believe it! We're going to drink until we drop!}
-{401}{}{Bye.}
+{401}{}{Chào.}
 {410}{}{What the fuck do you care. Beat it.}
 {411}{}{Yeah, so-so.}
 {412}{}{You trying to annoy me?}
