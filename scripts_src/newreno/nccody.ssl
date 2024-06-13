@@ -160,6 +160,7 @@ end
 
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
+      off_run_away;
       check_set_obj_visiblility(self_obj, false);
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
