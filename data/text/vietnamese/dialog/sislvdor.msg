@@ -168,15 +168,15 @@ nh?n }
 {201}{}{ khéo léo vô hi?u hóa b?y.}
 {202}{}{ không vô hi?u hóa đư?c b?y.}
 {203}{}{C?a trông như b? khóa.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
-{206}{}{You are unable to place a trap on this door, because
- the door is open.}
-{207}{}{ is unable to place a trap on this door, because the
- door is open.}
-{208}{}{You skillfully set a trap in the door frame.}
-{209}{}{You fail to properly set the trap in the door frame.}
-{210}{}{ skillfully sets a trap in the door frame.}
-{211}{}{ fails to properly set the trap in the door frame.}
+{204}{}{B?n đ? ? th?y có b?y trên khung c?a.}
+{205}{}{ đ? ? th?y có b?y trên khung c?a.}
+{206}{}{B?n không th? đ?t đư?c b?y trên cánh c?a này, v?
+ c?a đang m?.}
+{207}{}{ không th? đ?t đư?c b?y trên cánh c?a này, v? c?a
+ đang m?.}
+{208}{}{B?n khéo léo đ?t b?y trên khung c?a.}
+{209}{}{B?n không đ?t đư?c b?y đúng cách trên khung c?a.}
+{210}{}{ khéo léo đ?t b?y trên khung c?a.}
+{211}{}{ không đ?t đư?c b?y đúng cách trên khung c?a.}
 {212}{}{This door does not unlock here.}
 {213}{}{The door won't budge.}

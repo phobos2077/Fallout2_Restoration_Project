@@ -174,14 +174,14 @@ b? đ?t trên khung c?a.}
  the door is open.}
 {207}{}{ is unable to place a trap on this door because the
  door is open.}
-{208}{}{You skillfully set a trap in the door frame.}
+{208}{}{B?n khéo léo đ?t b?y trên khung c?a.}
 {209}{}{You fail to set the trap properly in the door frame.}
-{210}{}{ skillfully sets a trap in the door frame.}
+{210}{}{ khéo léo đ?t b?y trên khung c?a.}
 {211}{}{ fails to set the trap properly in the door frame.}
-{300}{}{You unlock the door.}
-{301}{}{You lock the door.}
-{302}{}{You are unable to lock this door while it is open.}
-{303}{}{That key does not fit in this lock.}
-{320}{}{There's no way to lock this door.}
-{400}{}{You unlock the door.}
+{300}{}{B?n m? khóa c?a.}
+{301}{}{B?n khóa c?a.}
+{302}{}{B?n không th? khóa trong lúc c?a đang m?.}
+{303}{}{Chi?c ch?a không v?a v?i ? khóa này.}
+{320}{}{Không có cách nào đ? m? cánh c?a này.}
+{400}{}{B?n m? khóa c?a.}
 {500}{}{There is no way to untrap the door.}

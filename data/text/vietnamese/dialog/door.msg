@@ -167,32 +167,32 @@ nh?n }
 {201}{}{ khéo léo vô hi?u hóa b?y.}
 {202}{}{ không vô hi?u hóa đư?c b?y.}
 {203}{}{C?a trông như b? khóa.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
-{206}{}{You are unable to place a trap on this door, because
- the door is open.}
-{207}{}{ is unable to place a trap on this door, because the
- door is open.}
-{208}{}{You skillfully set a trap in the door frame.}
-{209}{}{You fail to properly set the trap in the door frame.}
-{210}{}{ skillfully sets a trap in the door frame.}
-{211}{}{ fails to properly set the trap in the door frame.}
-{300}{}{You unlock the door.}
-{301}{}{You lock the door.}
-{302}{}{You are unable to lock this door while it is open.}
-{303}{}{That key does not fit in this lock.}
-{320}{}{There's no way to lock this door.}
-{330}{}{This door is jammed open.}
-{400}{}{You unlock the door.}
+{204}{}{B?n đ? ? th?y có b?y trên khung c?a.}
+{205}{}{ đ? ? th?y có b?y trên khung c?a.}
+{206}{}{B?n không th? đ?t đư?c b?y trên cánh c?a này, v?
+ c?a đang m?.}
+{207}{}{ không th? đ?t đư?c b?y trên cánh c?a này, v? c?a
+ đang m?.}
+{208}{}{B?n khéo léo đ?t b?y trên khung c?a.}
+{209}{}{B?n không đ?t đư?c b?y đúng cách trên khung c?a.}
+{210}{}{ khéo léo đ?t b?y trên khung c?a.}
+{211}{}{ không đ?t đư?c b?y đúng cách trên khung c?a.}
+{300}{}{B?n m? khóa c?a.}
+{301}{}{B?n khóa c?a.}
+{302}{}{B?n không th? khóa trong lúc c?a đang m?.}
+{303}{}{Chi?c ch?a không v?a v?i ? khóa này.}
+{320}{}{Không có cách nào đ? m? cánh c?a này.}
+{330}{}{Cánh c?a b? k?t khi đang m?.}
+{400}{}{B?n m? khóa c?a.}
 {414}{}{B?n th?y m?t cánh c?a kiên c? có khóa (có th? dùng
 c?y khóa đ? m?) mà b?n có th? th? c?y m?.}
 {415}{}{B?n th?y m?t cánh c?a kiên c? có khóa mà b?n có th?
 th? c?y m?.}
 {416}{}{B?n th?y m?t cánh c?a kiên c? có v? như không có
 khóa mà b?n có th? th? c?y m?.}
-{417}{}{You see a sturdy door which you may be able to pry open.}
-{500}{}{This door is too heavy to pry open.}
-{501}{}{Looks like you need to get the generator working first.}
+{417}{}{B?n th?y m?t cánh c?a kiên c? mà b?n có th? c?y m?.}
+{500}{}{Cánh c?a này quá n?ng đ? có th? c?y m?.}
+{501}{}{Có v? như b?n c?n làm cho máy phát ch?y trư?c đ?.}
 {502}{}{You see: Elevator door.}
 {503}{}{Looks like you need an electric device to open this lock.}
 {601}{}{It is open, dummy.}
