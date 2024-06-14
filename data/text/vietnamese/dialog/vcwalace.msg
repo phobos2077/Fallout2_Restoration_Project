@@ -12,7 +12,7 @@
 {111}{}{Hello, traveler. Welcome to Vault City. Is there anything I can help you with?}
 {112}{}{Frazz-urb-luuw!}
 {113}{}{Shamble off}
-{114}{}{Who are you?}
+{114}{}{Ông là ai?}
 {115}{}{What is this place?}
 {116}{}{I believe your assistant, Skeev, is involved in illegal practices.}
 {117}{}{Nothing today, thanks.}

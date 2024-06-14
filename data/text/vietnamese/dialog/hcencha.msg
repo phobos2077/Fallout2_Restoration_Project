@@ -8,7 +8,7 @@
 {105}{}{Me work 'yere?}
 {106}{}{Yes, I'm looking for the caravan master.}
 {107}{}{I was wondering if I could ask you a few questions about Chad.}
-{108}{}{Who are you?}
+{108}{}{Ông là ai?}
 {109}{}{Sorry about Chad. Who's the new boss?}
 {110}{}{No, thanks.}
 {111}{}{If you're looking for work, you might want to talk to Bill, the guy inside there. In-SIDE. He

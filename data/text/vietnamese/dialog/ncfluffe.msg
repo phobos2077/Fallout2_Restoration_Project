@@ -81,7 +81,7 @@
 {334}{}{::Glares at you::}
 {335}{}{Great. ANOTHER fluffer. She'll probably work for half price from the look of her.}
 {336}{}{Who's she?}
-{337}{}{Who are you?}
+{337}{}{Ông là ai?}
 {345}{}{If I have to take care of one more actor today, I'm going to throw up.}
 {346}{}{It's not easy being a fluffer.}
 {347}{}{I hear the Families are getting tense again.}
@@ -90,7 +90,7 @@
 {350}{}{Great. ANOTHER fluffer. She'll probably work for half price from the look of her.}
 {351}{}{::Glares at you::}
 {352}{}{Who's she?}
-{353}{}{Who are you?}
+{353}{}{Ông là ai?}
 {360}{}{The Enclave? President? Tell me the whole story.}
 {361}{}{Tom French scripted me. He has soft, gentle hands.}
 {362}{}{They were still fighting the WAR?! Really! Good thing you wasted those bastards.}

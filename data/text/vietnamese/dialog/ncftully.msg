@@ -46,7 +46,7 @@
 {254}{}{Nightie-night.}
 {255}{}{Uh, it's actually day time, Father.}
 {256}{}{Uh, it's actually night time, Father.}
-{257}{}{Who are you?}
+{257}{}{Ông là ai?}
 {258}{}{Are you drunk?}
 {259}{}{'Father' Tully, huh? Can you do divorces?}
 {261}{}{Say, I brought some hootch, Father. Can we talk for a moment...?}

@@ -4,7 +4,7 @@
 {103}{}{Let's see how you like this, you antisocial jerk.}
 {104}{}{Whaddya want?}
 {105}{}{Nyug aarg.}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{What is this place?}
 {108}{}{Ever hear of a GECK?}
 {109}{}{Say, Eric asked me to adjust the power ration to his house. He said that he's sweating too much.}

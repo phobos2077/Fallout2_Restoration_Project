@@ -4,7 +4,7 @@
 {103}{}{Can I help you?}
 {104}{}{You again?}
 {105}{}{Uhhhh - work. Work Tandi.}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{I'm here to see President Tandi about a job.}
 {108}{}{Sorry, wrong office.}
 {109}{}{You want job?}

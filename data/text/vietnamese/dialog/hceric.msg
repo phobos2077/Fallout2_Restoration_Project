@@ -11,7 +11,7 @@
 {110}{}{Close the door! Please! Go away and take those damn flies with you!}
 {111}{}{D'okay!}
 {112}{}{Sorry. I'm just a little on edge. All these damn flies and no air conditioning. If I just had a little more power I'd be able to shake 'em... but I don't.}
-{113}{}{Who are you?}
+{113}{}{Ông là ai?}
 {114}{}{How do you get the power?}
 {115}{}{Why are the flies coming here?}
 {116}{}{You could try bathing, you know.}
@@ -34,7 +34,7 @@
 {133}{}{Where do the flies come from?}
 {134}{}{Have you tried bathing?}
 {135}{}{Where's the power generator?}
-{136}{}{Who are you?}
+{136}{}{Ông là ai?}
 {137}{}{It's much nicer in here. Comfy?}
 {138}{}{Nothing. Forget it.}
 {139}{}{I could scrape a little something together for you if you did it. I can't promise much, but then, it's not too huge a favor, either.}

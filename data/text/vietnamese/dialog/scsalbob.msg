@@ -3,7 +3,7 @@
 {102}{}{He's got about three teeth and a face criss-crossed with the little veins of a drunkard. He smells bad too.}
 {103}{}{Howdy, stranger!}
 {104}{}{Gruh?}
-{105}{}{Who are you?}
+{105}{}{Ông là ai?}
 {106}{}{Name's Bob. Saltbeef Bob, yep. How about you?}
 {107}{}{What'd you say your name was again, stranger? I'm Saltbeef Bob.}
 {108}{}{[Player name]}

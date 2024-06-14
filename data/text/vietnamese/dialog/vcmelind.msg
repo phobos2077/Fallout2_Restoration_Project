@@ -5,7 +5,7 @@
 {103}{}{Yes, what else can I help you with?}
 {104}{}{Is this fenced-in area the city?}
 {105}{}{I'm looking for the Vault.}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{No thanks. Goodbye.}
 {108}{}{Thizz Valt Citeee?}
 {109}{}{No, no... don't let the surroundings confuse you. You're

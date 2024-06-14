@@ -8,7 +8,7 @@
 {203}{}{Knock-knock}
 {204}{}{(Stare at her breasts and drool.)}
 {205}{}{Wander off}
-{206}{}{Who are you?}
+{206}{}{Ông là ai?}
 {207}{}{I wanted to ask you some questions, Mrs. Bishop.}
 {208}{}{Sorry, I thought you were someone else. Goodbye.}
 {210}{}{*What?*}

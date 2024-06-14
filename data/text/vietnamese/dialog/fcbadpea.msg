@@ -2,7 +2,7 @@
 {101}{}{You see a Shi townsperson.}
 {102}{}{This person looks different from anyone you've seen before. They don't seem to care much about you.}
 {103}{}{You're not a spy, are you?}
-{104}{}{Who are you?}
+{104}{}{Ông là ai?}
 {105}{}{Fish and seaweed. That's all we get.}
 {106}{}{Ha ha! Look at the funny round-eyes!}
 {107}{}{You look like a Hubologist.}

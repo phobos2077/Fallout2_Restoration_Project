@@ -16,7 +16,7 @@
 {115}{}{San-tah Klass?}
 {116}{}{Shamble off}
 {117}{}{Can I ask you some questions?}
-{118}{}{Who are you?}
+{118}{}{Ông là ai?}
 {119}{}{Just looking around, thanks. Good day.}
 {120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
 {121}{}{I go no I GO NO}

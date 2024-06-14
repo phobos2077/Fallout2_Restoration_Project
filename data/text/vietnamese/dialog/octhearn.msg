@@ -8,7 +8,7 @@
 {106}{}{What you do?}
 {107}{}{How smart you?}
 {108}{}{Me go now.}
-{109}{}{Who are you?}
+{109}{}{Ông là ai?}
 {110}{}{What are you doing here?}
 {111}{}{No offense, but just how smart are you?}
 {112}{}{Well, just passing the time.}

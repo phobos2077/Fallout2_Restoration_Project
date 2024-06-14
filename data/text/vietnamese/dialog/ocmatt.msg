@@ -11,7 +11,7 @@
 {109}{}{Who you?}
 {110}{}{You prisoner?}
 {111}{}{Me go now.}
-{112}{}{Who are you?}
+{112}{}{Ông là ai?}
 {113}{}{Are you a prisoner here?}
 {114}{}{I'll be leaving now.}
 {115}{}{My name is Matt. Does it matter?}

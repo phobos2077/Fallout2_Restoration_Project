@@ -2,22 +2,22 @@
 {101}{}{B?n nh?n th?y m?t lính gác tuy đ? đ?ng tu?i nhưng v?n n?i cơ cu?n cu?n v?i làn da cháy n?ng. H?n là ông ta h?i
 tr? chi?n l?m. Cái nh?n xuyên th?u c?a ông ta c? bám ch?t l?y b?n.}
 {200}{}{Xin chào, ngư?i l? khách. Chào m?ng đ?n v?i Tu vi?n. Ch? c?n đ?ng xía m?i vào m?i th? là cô s? ?n thôi.}
-{201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
- I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
- warped brain of yours.}
-{202}{}{Who are you?}
-{203}{}{Where can I barter for some supplies?}
-{204}{}{Somebody is digging up graves, why don't you do anything about it?}
-{205}{}{I heard something about animals in the basement. Know anything about that?}
-{206}{}{I think it's time I send you to a grave. Let's dance, old man.}
-{207}{}{Nevermind. Goodbye.}
-{300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
- the closest thing resembling the law in these parts, but I'm not. I just look out for this community because I think
- it's worth protecting.}
-{301}{}{And in return the community looks out for me. I get some complimentary booze from the monks, Peterson makes
- sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
-{302}{}{I'm the one keeping you in line, and that's all you need to know. Now get on with your business and leave me
- alone.}
+{201}{}{Ta đang quan sát ngươi đ?y, đ? buôn nô l?. Ch? c?n làm g? đó thôi là ngươi s? bi?n thành bùn t?i ngh?a
+trang c?a b?n ta đ?y. Ta không mu?n ph?i làm chuy?n đó, và h?n là ngươi c?ng v?y. V? th? đ?ng có
+đ? cái ? tư?ng x?u nào m?c m?m trong cái đ?u ngươi.}
+{202}{}{Ông là ai?}
+{203}{}{Tôi có th? trao đ?i hàng hóa ? đâu?}
+{204}{}{Có ngư?i đang đào m? k?a, sao ông không làm g? đó đi ch??}
+{205}{}{Tôi nghe nói có v?n đ? v?i l? đ?ng v?t ? dư?i h?m. Bi?t g? v? chuy?n đó không?}
+{206}{}{Tôi ngh? đ? đ?n lúc cho ông xu?ng m? r?i. Cùng nh?y nào, l?o già.}
+{207}{}{Không có g?. Xin chào.}
+{300}{}{Ch?ng ai c?... Trư?c đây ta có t?ng đi b?o v? xe l? hành. R?t nhi?u ngư?i tư?ng ta là c?nh sát g? đó v? trông ta
+r?t gi?ng v?i đám b?o v? pháp lu?t ? ch? này, nhưng đ?ch ph?i. Ta ch? trông coi khu c?ng đ?ng này v? ta
+th?y ch? này đáng đ? b?o v?.}
+{301}{}{Và đ?i l?i th? c? c?ng đ?ng này giúp đ? ta. Đám th?y tu cho ta bú rư?u không m?t ti?n, Peterson th? lo đ? ăn c?n
+Bill th? đ?m b?o ta luôn có đ?y đ? đ?n dư?c. Không quá t?i cho chân b?o v? sau khi ngh? hưu ch? h??}
+{302}{}{Ta là ngư?i đ?m b?o ngươi tuân th? lu?t l?, đó là t?t c? nh?ng g? ngươi c?n bi?t. Gi? th? ti?p t?c làm g? th?
+làm đi và h?y đ? ta yên.}
 {303}{}{That is a nice arrangement. Let me ask you something else.}
 {304}{}{Whatever, goodbye.}
 {305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}

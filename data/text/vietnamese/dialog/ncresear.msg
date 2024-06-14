@@ -38,7 +38,7 @@
 {253}{}{Heh-heh. You bald. You look like man}
 {254}{}{Delenn?}
 {255}{}{Wander off}
-{256}{}{Who are you?}
+{256}{}{Ông là ai?}
 {257}{}{Sorry, I thought you were some other bald woman with a clipboard. I'll be going now.}
 {265}{}{(The woman looks up and glares at you.) Are you one of the control subjects? As if matters anyway... Guards! Detain this slave!}
 {266}{}{Where slave? Me no see one}

@@ -5,7 +5,7 @@
 {104}{}{What can I do for you?}
 {105}{}{Da aggle oo!}
 {106}{}{Stuff!}
-{107}{}{Who are you?}
+{107}{}{Ông là ai?}
 {108}{}{I'm looking for some equipment.}
 {109}{}{I'm looking for some information.}
 {110}{}{Chào.}
@@ -72,7 +72,7 @@
 {171}{}{Thanks. Bye.}
 {172}{}{You are an enemy of my people. Die!}
 {173}{}{You have performed well for my people in slaying AHS-9. I hope that I can be of assistance to you in some way.}
-{174}{}{Who are you?}
+{174}{}{Ông là ai?}
 {175}{}{I'm looking for some equipment.}
 {176}{}{I'm looking for some information.}
 {177}{}{Chào.}

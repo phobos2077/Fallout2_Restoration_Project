@@ -5,7 +5,7 @@
 {104}{}{Daghi nu?}
 {105}{}{You who?}
 {106}{}{I hear you have someone else's spleen.}
-{107}{}{Who are you?}
+{107}{}{Ông là ai?}
 {108}{}{What do you do here?}
 {109}{}{No, thanks. That's all.}
 {110}{}{I must confess, I do not speak your tongue. Perhaps you ought to speak to Ken Lee, he understands many different languages.}

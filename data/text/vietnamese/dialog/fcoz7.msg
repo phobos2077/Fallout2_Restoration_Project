@@ -8,7 +8,7 @@
 {107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{I'd like to look around.}
 {109}{}{I'm interested in potentially joining your group.}
-{110}{}{Who are you?}
+{110}{}{Ông là ai?}
 {111}{}{I've come to kill you all.}
 {112}{}{Ah, poor child. Would you like to be aligned?}
 {113}{}{'Es!}

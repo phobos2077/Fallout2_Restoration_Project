@@ -3,7 +3,7 @@
 {102}{}{You see a dusty, sleepy-looking man. His clothes look very, VERY old fashioned.}
 {103}{}{::he rubs sleep from his eyes:: Wha'... huh? Where am I? How long have I been asleep?}
 {104}{}{Urr?}
-{105}{}{Who are you?}
+{105}{}{Ông là ai?}
 {106}{}{I have no idea how long you've been asleep, but you're in Broken Hills, near the New California Republic.}
 {107}{}{Oh no! I've slept so long the world has turned stupid! Aieeeeeeee! ::he flees in panic::}
 {108}{}{[DONE]}

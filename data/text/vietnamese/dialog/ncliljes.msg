@@ -92,7 +92,7 @@
 {507}{}{Something you want, chica?}
 {508}{}{Hoo ooh?}
 {511}{}{Wander off}
-{512}{}{Who are you?}
+{512}{}{Ông là ai?}
 {513}{}{Sorry. I thought you were someone else.}
 {522}{}{Eh...? You again? What do you want now?}
 {523}{}{Heeeey... whatzzup, friend? Something on your mind?}

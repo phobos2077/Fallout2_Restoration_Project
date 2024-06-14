@@ -36,7 +36,7 @@
 {163}{}{. I'm just looking around.}
 {170}{}{I am in need of help, child. Can you help me?}
 {171}{}{I am still in need of help, child. Can you help me?}
-{172}{}{Who are you?}
+{172}{}{Ông là ai?}
 {173}{}{What are you doing here?}
 {174}{}{I got a copy of the plans from the Shi.}
 {175}{}{I have the plans for the vertibird.}

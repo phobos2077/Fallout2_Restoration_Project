@@ -6,7 +6,7 @@
 {105}{}{Owie?}
 {106}{}{What's the matter with you?}
 {107}{}{You're in pain? Ha ha ha.}
-{108}{}{Who are you?}
+{108}{}{Ông là ai?}
 {109}{}{Do you have any information for me about my people?}
 {110}{}{Oooh, my guts. I'm in pain. Please leave me alone.}
 {111}{}{Okey-dokey.}

@@ -5,7 +5,7 @@
 {103}{}{What?!}
 {104}{}{Duhhh... gabba gabba hey?}
 {105}{}{I knyou bars?}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{Why are you in jail?}
 {108}{}{Tell me about Broken Hills.}
 {109}{}{Nothing. Forget it.}
@@ -55,7 +55,7 @@
 {144}{}{Haven't met the guy. No opinion on him.}
 {145}{}{Thanks. Bye.}
 {146}{}{What else you want?}
-{147}{}{Who are you?}
+{147}{}{Ông là ai?}
 {148}{}{Why are you in jail?}
 {149}{}{Tell me about Broken Hills.}
 {150}{}{You like Franc?}

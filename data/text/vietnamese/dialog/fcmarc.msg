@@ -5,7 +5,7 @@
 {104}{}{What can I do for ya, mama-jamma?}
 {105}{}{What can I do ya for, mama-jamma?}
 {106}{}{Ooh! Ooh! Aah!}
-{107}{}{Who are you?}
+{107}{}{Ông là ai?}
 {108}{}{What is this place?}
 {109}{}{Who's in charge?}
 {110}{}{Nothing. Bye.}

@@ -22,7 +22,7 @@
 {121}{}{I'm sorry... can I help you?}
 {122}{}{Hep yew.}
 {123}{}{Shamble off}
-{124}{}{Who are you?}
+{124}{}{Ông là ai?}
 {125}{}{Just looking around, thanks.}
 {126}{}{Yet ANOTHER Servant that has strayed from his rounds?! I'll put Barkus on report if he keeps letting them wander about... now, you... Shoo! Shoo!}
 {127}{}{SHOOT yew? Ok-ay.}

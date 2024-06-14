@@ -9,7 +9,7 @@
 {107}{}{You look like guard.}
 {108}{}{Me go now.}
 {109}{}{Just saying hello.}
-{110}{}{Who are you?}
+{110}{}{Ông là ai?}
 {111}{}{What are you doing?}
 {112}{}{You look like you're guarding that trail.}
 {113}{}{I'll be going now.}

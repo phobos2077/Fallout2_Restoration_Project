@@ -22,7 +22,7 @@
 {249}{}{Mattah. Man is Mattah!}
 {250}{}{Hoobajuube}
 {251}{}{Wander off}
-{252}{}{Who are you?}
+{252}{}{Ông là ai?}
 {253}{}{I'm looking for a job. Is Family Wright hiring?}
 {254}{}{Say, I ran into your mom.}
 {255}{}{Can you tell me about Richard?}

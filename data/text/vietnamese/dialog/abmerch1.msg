@@ -57,6 +57,6 @@
 {901}{}{The water pump has been repaired.}
 {910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
 {911}{}{The Abbot said you might need some assistance. What seems to be the trouble?}
-{912}{}{Nevermind. Goodbye.}
+{912}{}{Không có g?. Xin chào.}
 {913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
  going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}

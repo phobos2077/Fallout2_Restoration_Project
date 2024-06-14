@@ -21,7 +21,7 @@
 {245}{}{[Stare back at him with a sneering gaze.]}
 {246}{}{[Stare back at him with affected disinterest.]}
 {247}{}{[Wander off.]}
-{248}{}{Who are you?}
+{248}{}{Ông là ai?}
 {249}{}{Are you Jesus Mordino?}
 {250}{}{Sorry. I've entered the wrong room.}
 {260}{}{You. (Mordino glares at Myron as he enters, black lightning flashing in his eyes.) You have... left your post. Your USE

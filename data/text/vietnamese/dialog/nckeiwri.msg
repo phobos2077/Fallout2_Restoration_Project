@@ -1,7 +1,7 @@
 {100}{}{You see Keith Wright.}
 {150}{}{You see a thin, pale-faced young man with long stringy blonde hair. He's looking at you warily.}
 {151}{}{You see Keith Wright. He's looking at you warily.}
-{200}{}{Who are you?}
+{200}{}{Ông là ai?}
 {201}{}{Whatdya want?}
 {220}{}{Hey, }
 {230}{}{Make another move toward that door, an' you'll be sorry.}

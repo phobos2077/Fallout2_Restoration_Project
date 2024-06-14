@@ -4,7 +4,7 @@
 {103}{}{Howdy there, kiddo, and welcome to the Old Ghouls' Home!}
 {104}{}{Nol Ghul?}
 {105}{}{Old Ghouls' Home?}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{Hey, you ever heard of a GECK?}
 {108}{}{Chào.}
 {109}{}{Another waste-baby, huh? Hey, kid, you want to know a secret?}
@@ -49,7 +49,7 @@
 {147}{}{Like what?}
 {148}{}{This is the Old Ghouls' Home?}
 {149}{}{You ever heard of a GECK?}
-{150}{}{Who are you?}
+{150}{}{Ông là ai?}
 {151}{}{Anything else you can tell me?}
 {152}{}{It's kind of a joke. There ain't any ghouls but old ghouls. We're all sterile, see, but we're incredibly long-lived. We're the first and last generation of ghouls. This is a place for those of us who just wanna rest for a while.}
 {153}{}{I see. I had other questions.}

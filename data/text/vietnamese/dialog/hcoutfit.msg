@@ -9,7 +9,7 @@
 {108}{}{What can you tell me about Chad?}
 {109}{}{Sorry about Chad. He had it coming.}
 {110}{}{Guess your caravan master Chad is in deep shit now.}
-{111}{}{Who are you?}
+{111}{}{Ông là ai?}
 {112}{}{Sorry, kid, but I can't make out a word of what you're saying. Have a lollipop.}
 {113}{}{Oooh!}
 {114}{}{Sure. There's a heap of brahmin crap out back. Shovel that for a day and I'll give you $100.
@@ -51,7 +51,7 @@
 {145}{}{What can you tell me about Chad?}
 {146}{}{Sorry about Chad. He had it coming.}
 {147}{}{Guess your caravan master's in deep shit now.}
-{148}{}{Who are you?}
+{148}{}{Ông là ai?}
 {149}{}{Nice dealin' with ya'. You want anything more from me?}
 {150}{}{Sorry. That doesn't cut it for me. You want anything more from me?}
 {151}{}{No. Bye!}

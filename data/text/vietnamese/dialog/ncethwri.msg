@@ -15,7 +15,7 @@
 {212}{}{Who, who?}
 {213}{}{Hello, hello!}
 {214}{}{You not mom... Mom? Mommmm...?! Mom! Me go look for Mom}
-{215}{}{Who are you?}
+{215}{}{Ông là ai?}
 {216}{}{I noticed you humming to yourself and thought I would stop and speak to you a moment, ma'am. Beautiful weather we're
  having, isn't it?}
 {217}{}{Sorry. I thought you were someone else.}

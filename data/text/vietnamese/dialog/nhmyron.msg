@@ -365,14 +365,14 @@
 {1176}{}{Bye-bye}
 {1177}{}{Your guards are too busy being dead to be watching the door.}
 {1178}{}{I used this badge. Marjorie sent me.}
-{1179}{}{Who are you?}
+{1179}{}{Ông là ai?}
 {1180}{}{You Myron?}
 {1181}{}{Easy there, tiger. Keep those hormones in check. Who are you?}
 {1182}{}{Easy there, tiger. Keep those hormones in check. You Myron?}
 {1183}{}{Sorry. I seem to have entered the wrong room.}
 {1195}{myn202}{So. Who are you? Spill it, or I'll have the guards BEAT it out of you.}
 {1196}{}{Your guards are too dead to do much of anything. Got any other questions, you little shit?}
-{1197}{}{Who are you?}
+{1197}{}{Ông là ai?}
 {1198}{}{You Myron?}
 {1199}{}{I think I'll just go take a walk out of here. Nice meeting you.}
 {1205}{myn203}{Great. One of the mental midgets from upstairs. Look, I ain't got much here, but you can, tuh-tuh-take whatever you want.}

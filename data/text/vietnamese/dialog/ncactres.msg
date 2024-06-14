@@ -59,7 +59,7 @@
 {286}{}{What I really want to do is direct.}
 {287}{}{Thank God they finally installed that padded headboard.}
 {288}{}{I'd prefer it if you didn't talk when you speak to me. Think quietly to yourself, then pretend I'm responding to you.}
-{289}{}{Who are you?}
+{289}{}{Ông là ai?}
 {290}{}{Are you one of the janitors?}
 {295}{}{Aren't you a little short for a storm trooper?}
 {296}{}{Aighhhhhh! What are you trying to do? Give me a heart attack?! Get out of here!}

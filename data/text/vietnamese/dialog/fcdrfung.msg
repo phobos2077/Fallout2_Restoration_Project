@@ -6,7 +6,7 @@
 {105}{}{Yeah - I'm hurt and it looks like you're a doctor.}
 {106}{}{Yes. I need a doctor for my friend.}
 {107}{}{Do you have any stimpaks? I'd like to buy some.}
-{108}{}{Who are you?}
+{108}{}{Ông là ai?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
 {110}{}{What can you tell me about this place?}
 {111}{}{Chào.}
@@ -57,7 +57,7 @@
 {171}{}{You need more?}
 {172}{}{I need healing.}
 {173}{}{I have a friend who needs healing.}
-{174}{}{Who are you?}
+{174}{}{Ông là ai?}
 {175}{}{Tell me about this place.}
 {176}{}{I have a friend who's missing a spleen. Can you help him?}
 {177}{}{No. Thanks, though.}

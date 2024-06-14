@@ -4,7 +4,7 @@
 {103}{}{:::He belches loudly:: Whaddya want?}
 {104}{}{::belch:::}
 {105}{}{You who?}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{Can you tell me about this tanker?}
 {108}{}{What do you do here?}
 {109}{}{I'd like you to hack into a computer for me.}

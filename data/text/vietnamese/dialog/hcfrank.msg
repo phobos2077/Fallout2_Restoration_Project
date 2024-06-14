@@ -5,7 +5,7 @@
 {103}{}{Whadda you want?}
 {104}{}{Aggggg! ::drool::}
 {105}{}{You! Me! Go!}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{Why are you in jail?}
 {108}{}{What can you tell me about this place?}
 {109}{}{What can you tell me about Marcus?}

@@ -32,7 +32,7 @@
 {280}{}{Shoot. What d'you want to know?}
 {281}{}{Fooooooo foo foo fooooo}
 {282}{}{Wander off}
-{283}{}{Who are you?}
+{283}{}{Ông là ai?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
 {286}{}{You know somebody named Pretty Boy Lloyd?}
@@ -75,7 +75,7 @@
 {341}{}{What can I do for you, hon?}
 {342}{}{Fooooooo foo foo fooooo}
 {343}{}{Wander off}
-{344}{}{Who are you?}
+{344}{}{Ông là ai?}
 {345}{}{What casino is this?}
 {346}{}{Can you tell me a little about the casino?}
 {347}{}{You know somebody named Pretty Boy Lloyd?}
@@ -87,14 +87,14 @@
 {353}{}{Just checking on things. Carry on.}
 {355}{}{The }
 {356}{}{The }
-{357}{}{Who are you?}
+{357}{}{Ông là ai?}
 {358}{}{Can you tell me a little about the casino?}
 {359}{}{I see. Thanks for your time.}
 {360}{}{Hey, look who's here! Hey, }
 {361}{}{. Welcome to }
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Wander off}
-{364}{}{Who are you?}
+{364}{}{Ông là ai?}
 {365}{}{What casino is this?}
 {366}{}{Can you tell me a little about the casino?}
 {367}{}{You know somebody named Pretty Boy Lloyd?}
@@ -180,12 +180,12 @@
 {1306}{}{. Take a rest from saving the world and have some fun.}
 {1335}{}{This is the }
 {1336}{}{This is the }
-{1337}{}{Who are you?}
+{1337}{}{Ông là ai?}
 {1338}{}{Can you tell me a little about the casino?}
 {1339}{}{Nothing, thanks. Sorry to bother you.}
 {1345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
 {1346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
-{1347}{}{Who are you?}
+{1347}{}{Ông là ai?}
 {1348}{}{Who owns this casino?}
 {1349}{}{Okay, thanks. Sorry to bother you.}
 {1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}

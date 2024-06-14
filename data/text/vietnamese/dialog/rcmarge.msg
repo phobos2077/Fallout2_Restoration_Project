@@ -27,7 +27,7 @@
  would have kept the peace in town. What do you want?}
 {122}{}{You sure know how to spank a baby with an axe, don't you? Nobody needed to die over a bar-brawl.
  Just what the hell do you want from me, anyway?}
-{123}{}{Who are you?}
+{123}{}{Ông là ai?}
 {124}{}{I wanted to ask you about something.}
 {125}{}{I was just walking past. I think I'll keep walking. Goodbye.}
 {126}{}{Hello there. I'm Marge. Marge LeBarge, and I run this mine.}

@@ -3,7 +3,7 @@
  expression on his face.}
 {200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
  His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
-{201}{}{Who are you?}
+{201}{}{Ông là ai?}
 {210}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you and smirks, revealing some oddly sharp front teeth.]
  Who am *I*? Who are *you*? You look like a heavily armed hobo!}
 {211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]

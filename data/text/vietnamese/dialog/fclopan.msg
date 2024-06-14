@@ -5,7 +5,7 @@
 {104}{}{Daggle aggle aggle!}
 {105}{}{Who you?}
 {106}{}{Who was that you were fighting?}
-{107}{}{Who are you?}
+{107}{}{Ông là ai?}
 {108}{}{I want to learn to fight like you. Teach me.}
 {109}{}{I wish to challenge you.}
 {110}{}{Forget it.}

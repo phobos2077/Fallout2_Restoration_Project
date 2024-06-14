@@ -11,7 +11,7 @@
 {110}{}{I hear that you had some trouble with some of your caravans. Everyone has trouble sometimes -
  just don't make a habit of it.}
 {111}{}{I hear you did some caravan work already. That's good. There's always room for good caravan guards.}
-{112}{}{Who are you?}
+{112}{}{Ông là ai?}
 {113}{}{Are there any caravans ready to go out now?}
 {114}{}{Where do the caravans from Redding usually go?}
 {115}{}{Hear any news around town lately?}

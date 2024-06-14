@@ -5,7 +5,7 @@
 {104}{mcs1b}{What do you want, human?}
 {105}{mcs1c}{Something else you wanted?}
 {106}{}{Uggie.}
-{107}{}{Who are you?}
+{107}{}{Ông là ai?}
 {108}{}{What's the story with this place?}
 {109}{}{Why aren't you mutants attacking me?}
 {110}{}{What's the news?}

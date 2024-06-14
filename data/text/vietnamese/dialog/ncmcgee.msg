@@ -105,7 +105,7 @@
 {391}{}{Who you}
 {392}{}{ wanna play machine}
 {393}{}{Wander off}
-{394}{}{Who are you?}
+{394}{}{Ông là ai?}
 {395}{}{What are you doing?}
 {396}{}{Mind if I give it a pull?}
 {397}{}{Nothing. Sorry to bother you.}

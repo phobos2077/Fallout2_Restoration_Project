@@ -33,7 +33,7 @@
 {132}{}{What do you want?}
 {133}{}{Yah!}
 {134}{}{Shamble off}
-{135}{}{Who are you?}
+{135}{}{Ông là ai?}
 {136}{}{Nothing, sorry to disturb you.}
 {137}{}{Come with me, boy. NOW.}
 {138}{}{Come with me, lady. NOW.}

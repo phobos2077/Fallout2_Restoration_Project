@@ -7,7 +7,7 @@
 {106}{}{How can I help you?}
 {107}{}{What do you want?}
 {108}{}{Da... oooh...}
-{109}{}{Who are you?}
+{109}{}{Ông là ai?}
 {110}{}{What do you do here?}
 {111}{}{I talked to Vikki. She and Juan made fun of you and said you're not a real man.}
 {112}{}{I talked to Vikki. She said you're hot and she wants you sometime.}

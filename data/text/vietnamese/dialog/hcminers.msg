@@ -8,7 +8,7 @@
 {106}{}{Dallo?}
 {107}{}{Dallo!}
 {108}{}{What's there to do around here?}
-{109}{}{Who are you?}
+{109}{}{Ông là ai?}
 {110}{}{Oh, good. An idiot. Touched by the radiation, eh, pal? I can't understand you. I can't help you.}
 {111}{}{I said I can't help you! Go away and pester someone else!}
 {112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
@@ -51,10 +51,10 @@
  only thing keeping this town going. Well, at least I can go senile without any more work...}
 {139}{}{You bastard! Die!}
 {140}{}{Thanks for fixing the mine for us. We really owe you for this. What can I do for you?}
-{141}{}{Who are you?}
+{141}{}{Ông là ai?}
 {142}{}{What's there to do in this town?}
 {143}{}{Nothing.}
 {144}{}{We owe you for saving us from those NCR bastards. Thanks, pal. What can I do for you?}
-{145}{}{Who are you?}
+{145}{}{Ông là ai?}
 {146}{}{What's there to do in this town?}
 {147}{}{Nothing.}

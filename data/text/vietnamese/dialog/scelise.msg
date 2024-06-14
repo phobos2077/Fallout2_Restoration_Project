@@ -5,7 +5,7 @@
 {104}{}{You again?}
 {105}{}{Karl sent me.}
 {106}{}{Doc Jubilee said I should talk to you.}
-{107}{}{Who are you?}
+{107}{}{Ông là ai?}
 {108}{}{Guh?}
 {109}{}{I'm looking for an outfit. One that hates slavery. Calls itself the New California Rangers.}
 {110}{}{Can you fix my car?}

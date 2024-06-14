@@ -27,7 +27,7 @@
 {244}{}{Hunh?}
 {245}{}{Why you soooo small?}
 {246}{}{[Wander off.]}
-{247}{}{Who are you?}
+{247}{}{Ông là ai?}
 {248}{}{Nothing. I was just looking around.}
 {250}{}{(Makes a shooing motion.) Buzz off, asshead. Yer wasting my time.}
 {251}{}{Bzzzzzzz-bzzzzzz}

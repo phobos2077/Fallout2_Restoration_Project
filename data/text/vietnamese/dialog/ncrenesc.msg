@@ -21,7 +21,7 @@
 {239}{}{Okee dokee. Need open bra first. Hold on (Zip.)}
 {240}{}{Whut me WANT? Whut you GOT?}
 {241}{}{[Stare at him for a second, just to make sure he's real, then wander away]}
-{242}{}{Who are you?}
+{242}{}{Ông là ai?}
 {243}{}{Hey, I have a pair of glasses, if you want them.}
 {244}{}{How's the glasses?}
 {245}{}{You know, there are decaf brands that taste just as good as the real thing.}

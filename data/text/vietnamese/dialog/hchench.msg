@@ -21,7 +21,7 @@
 {200}{}{Help you?}
 {201}{}{Yes, I'm looking for the caravan master.}
 {202}{}{I was wondering if I could ask you a few questions about Chad.}
-{203}{}{Who are you?}
+{203}{}{Ông là ai?}
 {204}{}{No, thanks.}
 {205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
 {206}{}{I have some more questions.}

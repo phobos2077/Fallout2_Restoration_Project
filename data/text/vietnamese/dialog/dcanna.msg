@@ -5,7 +5,7 @@
 {152}{}{[TALK]}
 {153}{}{Oh, the pain! It burns so!}
 {154}{}{What's the matter?}
-{155}{}{Who are you?}
+{155}{}{Ông là ai?}
 {156}{}{Begone, foul spirit!}
 {157}{}{I stop and knock at every door, but no one comes, no one hears.}
 {158}{}{I can hear you. What's the matter?}

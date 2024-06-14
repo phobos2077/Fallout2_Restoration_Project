@@ -5,7 +5,7 @@
 {103}{}{Can I help you with something?}
 {104}{}{Urg?}
 {105}{}{Ny work here!}
-{106}{}{Who are you?}
+{106}{}{Ông là ai?}
 {107}{}{What can you tell me about Chad?}
 {108}{}{I got no patience for idiots. Sorry, pal, but you'll have to find someone else to play with.}
 {109}{}{::sniff::}
