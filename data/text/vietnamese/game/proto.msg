@@ -154,7 +154,7 @@
 {660}{}{You can't see there.}
 {661}{}{Too far away.}
 {670}{}{Okay.}
-{671}{}{Sure.}
+{671}{}{Đư?c thôi.}
 {672}{}{As you wish.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}

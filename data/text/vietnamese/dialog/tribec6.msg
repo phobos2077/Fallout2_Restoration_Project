@@ -2,7 +2,7 @@
 {101}{}{Yeah, I was wondering who you're guarding.}
 {102}{}{Me? Oh no, I don't need anything. Bye.}
 {103}{}{Who you guard?}
-{104}{}{Bye!}
+{104}{}{Chào!}
 {110}{}{I be guarding tribe's holy leader. He who walks with spirits. Much honor guarding him. Keep out unwanted, like you. Now leave.}
 {111}{}{[DONE]}
 {120}{}{I say to leave, but you don't listen. I unleash spirits of fury when people don't listen. Suggest you get the feet movin'. Now.}

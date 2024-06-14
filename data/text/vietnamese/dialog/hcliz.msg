@@ -68,7 +68,7 @@
 {162}{}{If you're really interested in killing mutants, maybe you ought to go talk to Jacob the chemist.}
 {163}{}{Jacob, eh? Will do.}
 {164}{}{Thought you might be. Now get along.}
-{165}{}{Sure.}
+{165}{}{Đư?c thôi.}
 {166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
  small arsenal down there. Git going.}
 {167}{}{Thanks.}

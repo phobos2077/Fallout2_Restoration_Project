@@ -47,7 +47,7 @@
 {146}{}{That's the kind of attitude that allows the atrocity of slavery to exist in the first place. I'm sorry, but there is no place for you in our organization.}
 {147}{}{Ok.}
 {148}{}{So, changed your mind? Ready to prove your worth?}
-{149}{}{Sure.}
+{149}{}{Đư?c thôi.}
 {150}{}{What was it you wanted done?}
 {151}{}{Shouldn't you be doing something? Don't come back here until the job's done.}
 {152}{}{I've heard the news already. You freed the slaves. Good work! So, you ready to become a Ranger?}
@@ -74,7 +74,7 @@
 {173}{}{That being the case, I have to ask you to get out of my sight. Now!}
 {174}{}{Ok.}
 {175}{}{A slaver! Get out of here before I remove that tattoo of yours with a bullet!}
-{176}{}{Sure.}
+{176}{}{Đư?c thôi.}
 {177}{}{Try it!}
 {178}{}{We've got agents and sympathizers in some of the towns up north. We're spreading the word and hitting slavers wherever we can.}
 {179}{}{Hello again. Have you changed your mind about joining us?}

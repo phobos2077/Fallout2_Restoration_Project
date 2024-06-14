@@ -1,7 +1,7 @@
 {100}{}{You see a Prospector.}
 {101}{}{Hold it right there, stranger! I'm not used to ambushing strangers, but I need supplies and I
  can't leave my claim. Want to do a quick trade?}
-{102}{}{Sure.}
+{102}{}{Đư?c thôi.}
 {103}{}{I've got nothing to trade. Sorry.}
 {104}{}{Booga.}
 {105}{}{What a stroke of luck. You can't talk can you? Can't talk, can't tell anyone where my claim

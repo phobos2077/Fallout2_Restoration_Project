@@ -158,7 +158,7 @@
 {229}{}{Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take
  blood samples from the brahmin in the courtyard, then... thank you, my friend.}
 {230}{}{No problem.}
-{231}{}{Sure.}
+{231}{}{Đư?c thôi.}
 {232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
 {233}{}{Tell me about it.}

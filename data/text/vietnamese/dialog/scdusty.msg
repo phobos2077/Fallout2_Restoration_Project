@@ -3,7 +3,7 @@
 {102}{}{He's a gruff-looking guy with a crooked nose and pinched up ears like he might have been a boxer years ago.}
 {103}{}{What can I get you?}
 {104}{}{Say, you're the one who got Jack to give up, ain't you? That was good work. So what do you want?}
-{105}{}{Sure.}
+{105}{}{Đư?c thôi.}
 {106}{}{Drink.}
 {107}{}{Who's the big guy over there?}
 {108}{}{What's to do in this town?}
@@ -24,7 +24,7 @@
 {123}{}{Who's the big guy?}
 {124}{}{Thanks.}
 {125}{}{Would you like a drink?}
-{126}{}{Sure.}
+{126}{}{Đư?c thôi.}
 {127}{}{No.}
 {128}{}{Let me buy you a drink! I've been wanting to smack him around for years!}
 {129}{}{I've got some questions.}

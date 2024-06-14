@@ -2,7 +2,7 @@
 {101}{}{You see a Black Jack dealer.}
 {102}{}{Care to play some Black Jack? Minimum bet is $}
 {103}{}{.}
-{104}{}{Sure.}
+{104}{}{Đư?c thôi.}
 {105}{}{No thanks.}
 {106}{}{Wuh blak juk?}
 {107}{}{Sorry, you don't seem to have the minimum bet amount. Come back when

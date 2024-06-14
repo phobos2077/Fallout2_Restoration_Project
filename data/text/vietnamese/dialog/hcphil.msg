@@ -65,7 +65,7 @@
 {181}{}{Nothing. Forget it.}
 {182}{}{Tapped, eh? Too bad. You can stick around here, but don't bug the customers. I got work to do.
  See you.}
-{183}{}{Bye!}
+{183}{}{Chào!}
 {184}{}{Hey! Welcome back. What'll it be?}
 {185}{}{Welcome back, pard. What'll it be?}
 {186}{}{You again? What'll it be?}

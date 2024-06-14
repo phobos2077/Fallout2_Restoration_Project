@@ -224,7 +224,7 @@
 {692}{}{Makes sense. God knows what use some thief could put that cube to if they got their hands on it. Oh, well. Bye!}
 {700}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, pal?}
 {701}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, honey-tits?}
-{702}{}{Sure.}
+{702}{}{Đư?c thôi.}
 {703}{}{Uh, no thanks. I've changed my mind. Some other time.}
 {710}{}{Then get the hell outta here, you little shit! We don't need you! Get lost! You'll never work in porn again!}
 {711}{}{Me no want to anyway! SO THERE!}

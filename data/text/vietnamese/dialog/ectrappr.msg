@@ -23,7 +23,7 @@
 {119}{}{Seems you're short on cash. How bout give'n me 5 minutes with yer man. You know what I mean. I can give you pelts in trade.}
 {120}{}{Seems you're short on cash. Tell you what, I've been in these woods for a LONG time, if you
  catch my drift. I'll make it worth your while.}
-{121}{}{Sure.}
+{121}{}{Đư?c thôi.}
 {122}{}{Not a chance. Bye.}
 {123}{}{[Miria will forgive you... eventually. But on the positive side, the trapper gave you some
  pelts.]}

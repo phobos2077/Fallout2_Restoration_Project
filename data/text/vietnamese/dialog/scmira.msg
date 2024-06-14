@@ -39,7 +39,7 @@
 {138}{}{Get outta here, ya deadbeat!}
 {139}{}{Sure, I got some time. That's what bartenders are supposed to do. Just don't get no ideas.}
 {140}{}{For you, I always got time, baby. What ya want?}
-{141}{}{Sure.}
+{141}{}{Đư?c thôi.}
 {142}{}{Tell me about this town.}
 {143}{}{Ever heard of Vault 13?}
 {144}{}{I'm looking for a thing called a GECK. Know anything about it?}

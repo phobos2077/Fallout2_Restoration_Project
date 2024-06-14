@@ -41,7 +41,7 @@
 {140}{}{Forget it. I'm out of here.}
 {141}{}{So now you've spoken to Juan and Vikki. Are you interested in joining our friends in the search for enlightenment to the Great Wheel?}
 {142}{}{Oh yes. Yes yes yes.}
-{143}{}{Sure.}
+{143}{}{Đư?c thôi.}
 {144}{}{Not right now. Can I get back to you?}
 {145}{}{I don't think it's my bag. Sorry.}
 {146}{}{Hell no. Your crazy cult deserves to be torched down to the ground.}

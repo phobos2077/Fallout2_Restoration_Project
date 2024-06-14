@@ -4,7 +4,7 @@
 {111}{}{Ain't you a cute little thing. My name's Bob, Whiskey Bob -- what's yours?}
 {112}{}{Whicky Gob? Zug, zug?}
 {113}{}{Shiny nose (heh, heh)}
-{114}{}{Me }
+{114}{}{Ng? }
 {115}{}{Goway}
 {120}{}{You ain't the sharpest tool in the shed, are ya? Well, nice talking to you anyhow. So long.}
 {121}{}{Sweetheart, you break my heart every time you open your mouth. Maybe some other time I can

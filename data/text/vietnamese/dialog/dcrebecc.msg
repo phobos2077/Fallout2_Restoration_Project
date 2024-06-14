@@ -33,7 +33,7 @@
 {241}{}{What would you like to know?}
 {242}{}{I'd be happy to.}
 {243}{}{But of course.}
-{244}{}{Sure.}
+{244}{}{Đư?c thôi.}
 {245}{}{I don't mind.}
 {246}{}{I'll help if I can.}
 {247}{}{Of course, don't be silly.}
@@ -126,7 +126,7 @@
 {410}{}{I can't believe they are both dead. I'm sorry. Thank you for finding out for
  me. If you'll excuse me...}
 {411}{}{I can't believe he's dead... after all these years.}
-{412}{}{Sure.}
+{412}{}{Đư?c thôi.}
 {413}{}{...}
 {420}{}{Yeah, I know who that is. That's Vic - the guy Metzger has locked up.}
 {421}{}{Yeah, I know Vic. Metzger's got him locked up. I'm not sure why though.}

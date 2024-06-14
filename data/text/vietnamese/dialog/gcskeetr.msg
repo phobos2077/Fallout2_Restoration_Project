@@ -185,7 +185,7 @@
 {626}{}{Attach that low-light scope on the FN FAL.}
 {627}{}{Too rich for my blood. I'll be back when I have more cash.}
 {630}{}{You want that melee weapon juiced up? I can *supercharge* it for $}
-{631}{}{Sure.}
+{631}{}{Đư?c thôi.}
 {640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
  eye.] Well, this is a mite challengin', but I think I can fix this up real nice
  for ya. Just sit tight for a while. [Skeeter takes the weapon over to his

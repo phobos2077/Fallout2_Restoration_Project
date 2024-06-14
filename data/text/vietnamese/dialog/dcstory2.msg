@@ -32,7 +32,7 @@
 {137}{}{Yeah, Cuddles. She was such a sweet cat. I really don't feel like talking about it... Well, unless you'd like to buy me a drink. That might help.}
 {138}{}{As I said, I would prefer not to talk about it right now. If you'd like to buy me a drink, it might loosen my tongue.}
 {139}{}{Of course I will. I'd love to hear about it.}
-{140}{}{Sure.}
+{140}{}{Đư?c thôi.}
 {141}{}{Sorry, I can't spare $10 right now.}
 {142}{}{Obviously.}
 {143}{}{Do you think you're funny or something? Get a better line.}

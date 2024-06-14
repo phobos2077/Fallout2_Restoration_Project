@@ -99,7 +99,7 @@
 {470}{}{Well, uh... I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}
-{473}{}{Sure.}
+{473}{}{Đư?c thôi.}
 {474}{}{Sorry, can't afford that.}
 {480}{}{Fine, see if I care.}
 {481}{}{Okay.}

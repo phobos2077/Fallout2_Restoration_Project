@@ -78,7 +78,7 @@
 {940}{}{Lockpick no work. I look for key. Yoo wait.}
 {941}{}{Lockpick no work. [You turn to Sulik] We fight bad men now.}
 {950}{}{I "Chosen One". Who yoo?}
-{951}{}{Me }
+{951}{}{Ng? }
 {952}{}{. Who yoo?}
 {960}{}{It safe. We go home.}
 {961}{}{It no safe. More bad men to kill.}

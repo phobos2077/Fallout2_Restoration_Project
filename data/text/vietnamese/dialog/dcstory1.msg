@@ -39,7 +39,7 @@
 {144}{}{Well this might take a bit. Be a gentleman and buy me a drink, wouldn't you please? Not whiskey though, Nuka-Cola please.}
 {145}{}{Well this might take a bit. Be a doll and buy me a drink, wouldn't you please? Not whiskey though, Nuka-Cola please.}
 {146}{}{Shall we get started? I remember it quite well now.}
-{147}{}{Sure.}
+{147}{}{Đư?c thôi.}
 {148}{}{Sorry, I can't spare $5 right now.}
 {149}{}{Thanks. Now let's see... I remember my mom telling me about this huge migration that happened 70... or was it 80 years ago...}
 {150}{}{Please, go on.}

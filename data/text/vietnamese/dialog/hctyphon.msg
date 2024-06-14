@@ -17,7 +17,7 @@
 {115}{}{What kind of treasure?}
 {116}{}{What kind of favor?}
 {117}{}{I had other questions.}
-{118}{}{Bye!}
+{118}{}{Chào!}
 {119}{}{Heh. All right, then. I ain't got nothin' for you. Go on, git.}
 {120}{}{Chào.}
 {121}{}{Kid, y'got to do me a favor, first.}

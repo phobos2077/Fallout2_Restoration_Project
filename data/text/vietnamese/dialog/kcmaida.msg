@@ -16,7 +16,7 @@
  I have so much to learn from women like you.}
 {210}{}{Hello there, my name's Maida Buckner. I help my mother run Buckner house. Can I help you?}
 {211}{}{Ungh?}
-{212}{}{Me }
+{212}{}{Ng? }
 {213}{}{Unker Rouse?}
 {220}{}{Hmm - seems as though your elevator doesn't rise all the way to the top floor. Why don't you
  talk to my brother, Torr? He's a little closer to your speed. Goodbye.}

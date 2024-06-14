@@ -32,7 +32,7 @@
 {280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}
-{282}{}{Sure.}
+{282}{}{Đư?c thôi.}
 {283}{}{I'll see what I can do.}
 {290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
 {291}{}{No problem.}
@@ -53,7 +53,7 @@
 {350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
 {351}{}{Oh, okay. Thanks.}
 {360}{}{You looking for some more quick and easy cash? $50. Easy money.}
-{361}{}{Sure.}
+{361}{}{Đư?c thôi.}
 {362}{}{Make it quick.}
 {370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
 {371}{}{Why do you want me to ask?}

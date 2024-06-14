@@ -47,7 +47,7 @@
 {146}{}{Fine. Bye.}
 {147}{}{It's done. Before you take it, listen. Our town really needs this ore. If you donate it to the town, I'll refund your money. What do you say?}
 {148}{}{No way.}
-{149}{}{Sure.}
+{149}{}{Đư?c thôi.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
 {151}{}{Chào.}
 {152}{}{Thanks! Here's your money back.}

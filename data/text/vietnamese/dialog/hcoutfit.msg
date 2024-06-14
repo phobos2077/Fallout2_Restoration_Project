@@ -24,7 +24,7 @@
 {120}{}{I'll do the caravan to NCR.}
 {121}{}{How about Vault City?}
 {122}{}{I changed my mind. I'd like something else, instead.}
-{123}{}{Bye!}
+{123}{}{Chào!}
 {124}{}{Yeah? What do you wanna buy?}
 {125}{}{You got questions about Chad? Like what?}
 {126}{}{Is he skimming off the top?}

@@ -13,7 +13,7 @@
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{'Es!}
 {114}{}{Nuh!}
-{115}{}{Sure.}
+{115}{}{Đư?c thôi.}
 {116}{}{I think not.}
 {117}{}{Great! All you have to do is find a shovel, dig me up, and plant me over there. When you do, I'll tell you a secret.}
 {118}{}{Okay!}
@@ -26,7 +26,7 @@
 {125}{}{'Es.}
 {126}{}{Nuh!}
 {127}{}{Why, yes! Yes, it is! Very astute, friend, very astute. I can see you didn't germinate yesterday! My fine-stemmed companion, would you be so kind as to do me a favor?}
-{128}{}{Sure.}
+{128}{}{Đư?c thôi.}
 {129}{}{I don't think so.}
 {130}{}{Deee-lightful! I'm very, very pleased. Just find yourself a shovel and come on back. When you're done, maybe I can tell you a secret. My friend, I do hope you continue to flower.}
 {131}{}{Um, right. So long.}
@@ -74,7 +74,7 @@
 {165}{}{Have you had time to reconsider? Would you like to help me?}
 {166}{}{'Es!}
 {167}{}{Nuh!}
-{168}{}{Sure.}
+{168}{}{Đư?c thôi.}
 {169}{}{I think not.}
 {170}{}{Alas, you do not appear to have a shovel. Until you can find one, I can't go. I await your return with bated pistil.}
 {171}{}{Chào.}

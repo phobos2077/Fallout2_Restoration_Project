@@ -47,7 +47,7 @@
 {283}{}{I'm an outtie}
 {290}{}{(Smiles.) All right, it's a done deal. Name's Stuart, most call me Stuart Little, but that's only cause... well, all YOU
  need to know is I'm big in all the important ways. You got a name, asshead?}
-{291}{}{Me }
+{291}{}{Ng? }
 {292}{}{Me... uh... me...}
 {293}{}{Me Big Stu}
 {296}{}{[Wander away in search of adventure.]}
