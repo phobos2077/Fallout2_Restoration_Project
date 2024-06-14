@@ -40,7 +40,7 @@
 {303}{}{Fortress}
 {304}{}{Warehouse}
 {310}{}{Entrance}
-{311}{}{Interior}
+{311}{}{Bên trong}
 {500}{}{You gained 10,000 experience points!}
 {501}{}{Ruins}
 {1000}{}{Desert}
