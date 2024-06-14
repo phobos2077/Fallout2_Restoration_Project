@@ -1,3 +1,3 @@
-{100}{}{You see a grave marker.}
-{101}{}{Here lies the great Per: Author, walkthrough creator, rock hoarder. Alas, he died one rock too short. Last words:
- "Just one more steal check and I'll have all the rocks in th-."}
+{100}{}{B?n th?y m?t bia m?.}
+{101}{}{Per v? đ?i an ngh? nơi đây: Tác gi?, ngư?i vi?t hư?ng d?n, đam mê nh?t đá. Than ôi, ông ch?t khi chưa đá đ?i. L?i
+trăn tr?i: "Ch? m?t lư?t tr?m thành công n?a là tôi s? có t?t c? đá trên th-."}

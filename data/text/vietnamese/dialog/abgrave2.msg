@@ -1,2 +1,2 @@
-{100}{}{You see a grave marker.}
-{101}{}{Here lies the great Per: Author, walkthrough creator, rock hoarder. Alas, he died one rock too short.}
+{100}{}{B?n th?y m?t bia m?.}
+{101}{}{Per v? đ?i an ngh? nơi đây: Tác gi?, ngư?i vi?t hư?ng d?n, ham mê nh?t đá. Than ôi, ông ch?t khi chưa đá đ?i.}

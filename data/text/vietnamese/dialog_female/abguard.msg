@@ -1,7 +1,7 @@
 {100}{}{B?n nh?n th?y m?t Lính gác m?nh m?.}
 {101}{}{B?n nh?n th?y m?t lính gác tuy đ? đ?ng tu?i nhưng v?n n?i cơ cu?n cu?n v?i làn da cháy n?ng. H?n là ông ta h?i
 tr? chi?n l?m. Cái nh?n xuyên th?u c?a ông ta c? bám ch?t l?y b?n.}
-{200}{}{Xin chào, ngư?i l? khách. Chào m?ng đ?n v?i Tu vi?n. Ch? c?n đ?ng xía m?i vào m?i th? là c?u s? ?n thôi.}
+{200}{}{Xin chào, ngư?i l? khách. Chào m?ng đ?n v?i Tu vi?n. Ch? c?n đ?ng xía m?i vào m?i th? là cô s? ?n thôi.}
 {201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
  I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
  warped brain of yours.}

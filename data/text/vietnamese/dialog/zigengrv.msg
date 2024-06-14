@@ -5,17 +5,17 @@
 {150}{}{The grave site has been covered.}
 {151}{}{The grave site has been uncovered.}
 {200}{}{You see a headstone.}
-{201}{}{You see a grave marker.}
+{201}{}{B?n th?y m?t bia m?.}
 {250}{}{There are no markings on this headstone.}
 {251}{}{The name on the headstone has been scratched out.}
 {252}{}{The name on the headstone reads John Doe.}
-{253}{}{The name and date on this headstone have been worn off by the weather.}
-{260}{}{There are no markings on this grave marker.}
+{253}{}{Tên và ngày tháng trên t?m bia đá đ? b? th?i gian bào m?n.}
+{260}{}{Không có d?u tích nào trên bia m? này.}
 {261}{}{The name on the grave marker has been scratched out.}
-{262}{}{The name on the grave marker reads John Doe.}
-{263}{}{The name and date on this headstone have been worn off by the weather.}
+{262}{}{Trên bia m? ghi tên John Doe.}
+{263}{}{Tên và ngày tháng trên t?m bia đá đ? b? th?i gian bào m?n.}
 {275}{}{The headstone reads: }
-{276}{}{The grave marker reads: }
+{276}{}{Trên bia m? vi?t:}
 {300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
 {301}{}{"Chris Jones. Nightwing."}
 {302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
@@ -74,11 +74,11 @@
 {355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
 {356}{}{"Here lies Ann Mann, who lived an old maid but died an old Mann. Dec. 8, 1767"}
 {357}{}{"The children of Israel wanted bread and the Lord sent them manna, old clerk Wallace wanted a wife, and the Devil sent him Anna."}
-{358}{}{"Here lies Johnny Yeast. Pardon me for not rising."}
+{358}{}{"Johnny B?t an ngh? nơi đây. Xin l?i v? đ? không n?."}
 {359}{}{"Here lies the body of Jonathan Blake stepped on the gas instead of the brake."}
 {360}{}{"Here lays Butch, we planted him raw. He was quick on the trigger, but slow on the draw."}
 {361}{}{"Sacred to the memory of my husband John Barnes who died January 3, 1803. His comely young widow, aged 23, has many qualifications of a good wife, and yearns to be comforted."}
-{362}{}{"Sir John Strange, here lies an honest lawyer, and that is Strange."}
+{362}{}{"Ngài John Strange, v? lu?t sư chính tr?c an ngh? nơi đây. Đúng là L? th?t."}
 {363}{}{"I was somebody. Who, is no business of yours."}
 {364}{}{"Here lies Lester Moore, four slugs from a .44, no less, no more."}
 {365}{}{"I told you I was sick!"}
