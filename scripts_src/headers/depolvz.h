@@ -52,16 +52,21 @@ end
 
 #define dude_in_sierra ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))
 
-#define sierra_cur_level_sec_on \
-  ( ( (cur_map_index == MAP_SIERRA_123) \
-      and ( \
-        ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) \
-        or ((self_elevation == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) \
-        or ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) \
-      ) \
-    ) \
-    or ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) \
-  )
+/**
+ * Returns `true` if in Sierra and current level alerts is on, `false` otherwise.
+ * @ret {bool}
+ */
+procedure sierra_cur_level_sec_on begin
+  if cur_map_index == MAP_SIERRA_123 then begin
+    if (self_elevation == LEVEL_ONE and map_var(MVAR_Security_Level_1) == 1)
+      or (self_elevation == LEVEL_TWO and map_var(MVAR_Security_Level_2) == 1)
+      or (self_elevation == LEVEL_THREE and map_var(MVAR_Security_Level_3) == 1)
+    then return true;
+  end else if cur_map_index == MAP_SIERRA_4 then begin
+    if map_var(MVAR_Security_Level_4) == 1 then return true;
+  end
+  return false;
+end
 
 #define sierra_set_cur_level_sec_on \
   if dude_in_sierra then begin \
