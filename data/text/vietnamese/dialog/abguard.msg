@@ -23,16 +23,16 @@ làm đi và h?y đ? ta yên.}
 {305}{}{Ông ngh? ông xơi đư?c tôi á? C? th? đi, l?o già. S? vui l?m đây.}
 {400}{}{C?u có th? t?m Bill chuyên bán hàng ? đây trong t?a nhà đ?i di?n. N?u không th? c?u nên đ?n ch? Kho
 đ? sinh t?n c?a Percy t?i B?i ph? li?u ? Gecko ho?c quán c?a Harry Vui v? ? khu Sân c?a Thành ph? Vault.}
-{401}{}{Good to know. I have another question.}
-{402}{}{Thanks, bye.}
-{500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
- use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
-{501}{}{Let me ask you something else.}
+{401}{}{Nghe hay đ?y. Tôi mu?n h?i chuy?n khác.}
+{402}{}{Cám ơn, chào.}
+{500}{}{N?u có ai đói ho?c tham đ?n m?c đi l?t c? m? th? đ?y là vi?c c?a h?. Ngư?i ch?t r?i c?ng đâu có dùng đư?c
+nh?ng đ? chôn theo. Không ph?i vi?c c?a ta... ta không th?y có v?n đ? g? v?i chuy?n đ?y.}
+{501}{}{Đ? tôi h?i chuy?n khác.}
 {502}{}{Chào.}
-{600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
- but I don't think it's just a bunch of rats and radscorpies.}
-{601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
- and radscorpies. Why don't you find out, tough guy?}
+{600}{}{Đúng v?y, và Th?y Thomas đang m?t tích. Ông ta thông minh th?t đ?y nhưng có ph?n hơi ngơ. Ta không bi?t
+dư?i đó có g?, nhưng ch?c không ch? là l? chu?t v?i b? c?p đâu.}
+{601}{}{Đúng v?y, và Th?y Thomas đang m?t tích. Ta không bi?t dư?i đó có g?, nhưng ch?c không ch? là l? chu?t v?i
+b? c?p đâu. Sao c?u không xu?ng th? xem, c?u giai c?ng c?a?}
 {602}{}{So why don't you go look?}
 {603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
 {610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
