@@ -37,7 +37,7 @@
 {600}{}{Chúng tôi t? n?u rư?u t?i tu vi?n. Đây là m?t trong s? nh?ng đ? ngon nh?t hi?n có t?i Hoang m?c.}
 {601}{}{Tôi th? đư?c không?}
 {602}{}{Nghe h?p d?n đ?y. Tôi ph?i đi đây.}
-{700}{}{T? th?t đ?y. G?n đây tôi m?i b? m?t và ch?ng t?m th?y nó đâu c?. N?u c?u mà t?m th?y m?t cái th?
+{700}{}{T? th?t đ?y. G?n đây tôi m?i b? m?t và ch?ng t?m th?y nó đâu c?. N?u cô mà t?m th?y m?t cái th?
 vui l?ng mang nó đ?n cho tôi nhé.}
 {701}{}{Sure. If I come across one I'll let you know. Bye.}
 {702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
