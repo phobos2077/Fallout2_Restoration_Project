@@ -21,8 +21,9 @@
 {600}{}{Tôi là bác s?. Tôi đ? chăm sóc m?i ngư?i ? Tu vi?n này trong kho?ng, ?, t?m 15 năm r?i, ch?c v?y.}
 {601}{}{V?y ư. Dành t?ng đ?y năm đ? đ?c toàn b? ch? sách y h?c trư?c chi?n tranh trong thư vi?n, ch?c h?n ông là bác s? gi?i l?m.}
 {602}{}{Ông ki?m đâu ra ch? thi?t b? y t? này th??}
-{603}{}{Interesting. I think I will be leaving now.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
+{603}{}{Hay đ?y. Tôi e là tôi ph?i đi đây.}
+{604}{}{[Ông ta cau mày]. Tôi t? cho m?nh là bác s? gi?i, nhưng tôi có h?c đư?c quái g? đâu khi mà tôi c?n ch?ng đư?c phép... mà thôi, b? qua đi. Cha tôi là bác s?, và ông truy?n l?i nh?ng
+ki?n th?c này cho tôi.}
 {605}{}{Ah, I see.}
 {700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
 {701}{}{Interesting, bye.}
