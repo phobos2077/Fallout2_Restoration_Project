@@ -41,8 +41,8 @@
 vui l?ng mang nó đ?n cho tôi nhé.}
 {701}{}{Đư?c. Tôi s? báo n?u tôi t?m đư?c. Chào.}
 {702}{}{Ti?c th?t, tôi thích sưu t?m nên tôi gi? m?i th? tôi ki?m đư?c. Chào.}
-{800}{}{B?t-l?a? Ng? có máy l?a. Nó đ?t ng? nhi?u l?m. (B?n giơ b?t l?a lên).}
+{800}{}{B?t-l?a? Ng? có máy l?a. Nó đ?t ng? nhi?u. (B?n giơ b?t l?a lên).}
 {810}{}{Đúng là th? tôi c?n. C?u đưa nó cho tôi nhé?}
-{811}{}{Otay. I no likee it.}
-{812}{}{I no give you.}
-{820}{}{You no now burn self too. Bye!}
+{811}{}{Ô kê. Ng? khôn thít nó.}
+{812}{}{Ng? không đưa ông.}
+{820}{}{Ông không đ?t m?nh gi?. Chào!}

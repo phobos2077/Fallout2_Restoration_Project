@@ -219,7 +219,7 @@
 {672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 {680}{}{So I have heard. (Nods respectfully.) You have done... well. My faith in you is not misplaced. Here is... your
  payment. Five hundred... chips. }
-{681}{}{Thanks.}
+{681}{}{Cám ơn.}
 {682}{}{That'll do... for now.}
 {683}{}{And... armor and a weapon you may find... useful.}
 {690}{}{(Nods.) Your success... pleases me. I would welcome you into the Family Mordino. (Clasps your shoulders.) Will

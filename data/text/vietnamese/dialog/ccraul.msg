@@ -63,7 +63,7 @@
 {145}{}{Raul's going to kick your ass!}
 {146}{}{Hey, man, it's in the locker over there. Take it and tell the doc
  Raul says hi.}
-{147}{}{Thanks.}
+{147}{}{Cám ơn.}
 {150}{}{Hey, man! Raul don't like it when people mess with his shit. Get out, man.}
 {151}{}{Raul told you not to go through his stuff! Guards!}
 {200}{}{Raul heard you were talking shit about him again.}

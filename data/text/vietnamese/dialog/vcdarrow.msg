@@ -51,5 +51,5 @@
 {145}{}{I don't think so. Goodbye.}
 {146}{}{Hey! Stay away from there!}
 {147}{}{That's it! You're out of here!}
-{148}{}{Thanks.}
+{148}{}{Cám ơn.}
 {149}{}{[continue]}

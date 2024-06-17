@@ -1,19 +1,19 @@
-{100}{}{You see Jack, the Abbey's medic.}
-{101}{}{He has a red cross on his shoulder.}
-{200}{}{If you are injured, talk to me.}
-{300}{}{How can I help you?}
-{301}{}{I'm injured, can you help me?}
-{302}{}{[Drool.]}
-{303}{}{So, what do you do here at the Abbey?}
+{100}{}{B?n th?y Jack, bác s? c?a Tu vi?n.}
+{101}{}{Ông ta đeo bi?u tư?ng ch? th?p đ? trên vai.}
+{200}{}{N?u c?u b? thương th? đ?n g?p tôi.}
+{300}{}{Tôi giúp g? đư?c nh??}
+{301}{}{Tôi b? thương, ông giúp tôi đư?c không?}
+{302}{}{[Ch?y nư?c d?i].}
+{303}{}{V?y ông làm g? ? Tu vi?n v?y?}
 {304}{}{Chào.}
-{400}{}{It is done!}
-{401}{}{Thanks.}
-{402}{}{Stop that!}
-{403}{}{[GO ON]}
-{404}{}{[LEAVE]}
-{405}{}{STOP IT! STOP IT! STOP IT!}
-{406}{}{[GO ON]}
-{407}{}{[STOP]}
+{400}{}{Xong r?i!}
+{401}{}{Cám ơn.}
+{402}{}{D?ng l?i!}
+{403}{}{[TI?P T?C]}
+{404}{}{[B? ĐI]}
+{405}{}{D?NG L?I! D?NG L?I! D?NG L?I!}
+{406}{}{[TI?P T?C]}
+{407}{}{[D?NG]}
 {408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
 {409}{}{What the fu...}
 {500}{}{Hey, don't steal my medical supplies!}

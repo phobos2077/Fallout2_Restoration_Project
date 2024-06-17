@@ -515,7 +515,7 @@ and fifty years.}
  [He looks you over, then nods.] Alright, what the hell. I'll give you some pointers that'll have the fellas eating out of
  your hands. Now, the first thing you gotta do is...}
 {3105}{}{There you go. Now don't be telling other people these trade secrets.}
-{3106}{}{Thanks.}
+{3106}{}{Cám ơn.}
 {4000}{}{Man do I love the post-nuclear future.}
 {4001}{}{Come on. Let's have some violence.}
 {4002}{}{Let's find some more young ladies to, uh, admire.}

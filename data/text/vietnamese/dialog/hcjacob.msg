@@ -86,7 +86,7 @@
  disgrace to humanity.}
 {223}{}{Chào.}
 {224}{}{Well done on the jail work! }
-{225}{}{Thanks.}
+{225}{}{Cám ơn.}
 {226}{}{Did you really have to kill everyone? Now they're all going to be worried. Well, no matter.}
 {227}{}{Sorry.}
 {228}{}{You got them out. I guess that's the important part. Of course, now everyone in town knows
@@ -157,7 +157,7 @@
 {310}{}{I already told you everything you need to know about this place. So, what do you want?}
 {311}{}{I have some other questions.}
 {312}{}{Nothing. Forget it.}
-{313}{}{Thanks.}
+{313}{}{Cám ơn.}
 {314}{}{[CONTINUE]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
-{316}{}{Thanks.}
+{316}{}{Cám ơn.}

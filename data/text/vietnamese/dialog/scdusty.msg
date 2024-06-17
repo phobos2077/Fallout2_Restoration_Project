@@ -15,14 +15,14 @@
 {114}{}{Not much. If you're looking for trouble, go drink someplace else, like the Rawhide. If you're looking for work, there's the Westin place west of town. Heard some things about President Tandi looking for a specialist, too.}
 {115}{}{Specialist?}
 {116}{}{President Tandi?}
-{117}{}{Thanks.}
+{117}{}{Cám ơn.}
 {118}{}{Daughter of President Aradesh, the guy who founded NCR. She's been president for years. Does a good job too.}
 {119}{}{And she's looking for a specialist? What kind?}
 {120}{}{Who's the big guy?}
-{121}{}{Thanks.}
+{121}{}{Cám ơn.}
 {122}{}{Don't know. Gunther, her aide, probably does. He's down at the Hall of Congress.}
 {123}{}{Who's the big guy?}
-{124}{}{Thanks.}
+{124}{}{Cám ơn.}
 {125}{}{Would you like a drink?}
 {126}{}{Đư?c thôi.}
 {127}{}{No.}

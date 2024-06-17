@@ -4,7 +4,7 @@
 {103}{}{Why do you want to hurt us?}
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
-{106}{}{How can I help you?}
+{106}{}{Tôi giúp g? đư?c nh??}
 {107}{}{What do you want?}
 {108}{}{Da... oooh...}
 {109}{}{Ông là ai?}

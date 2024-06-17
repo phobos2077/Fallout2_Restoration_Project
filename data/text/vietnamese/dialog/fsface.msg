@@ -91,7 +91,7 @@
 {190}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax.}
 {191}{}{Okay.}
 {192}{}{The requested procedure has been completed. Please exit the suspension tank.}
-{193}{}{Thanks.}
+{193}{}{Cám ơn.}
 {194}{}{Please state your question.}
 {195}{}{You computer?}
 {196}{}{What you know about Enclave?}

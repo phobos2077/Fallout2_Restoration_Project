@@ -59,7 +59,7 @@
 {310}{}{He's in the back room right through the door over there.}
 {311}{}{You playing with me? He's right back there. Just go through that door.}
 {312}{}{Okay.}
-{313}{}{Thanks.}
+{313}{}{Cám ơn.}
 {320}{}{Damn, you don't know Metzger? What're ya doin' in this town, if not ta see him? He's the head of the Slaver's Guild.}
 {321}{}{How many times do I have to tell ya? He's the slave master. He runs things in this town.}
 {322}{}{Can I ask you something else?}

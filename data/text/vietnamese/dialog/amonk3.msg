@@ -11,4 +11,4 @@
 {206}{}{Copying books is pretty hard work.}
 {207}{}{Hello.}
 {208}{}{There's much to copy down from these books.}
-{500}{}{Stop that!}
+{500}{}{D?ng l?i!}

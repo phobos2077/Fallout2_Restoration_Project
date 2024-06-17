@@ -71,7 +71,7 @@
 {223}{}{If you let me have the key, I'm sure that you'll have fewer rats to worry about after I use it.}
 {224}{}{I don't think I want the key. Goodbye.}
 {230}{}{I guess you got what you wanted. Just be careful now.}
-{231}{}{Thanks.}
+{231}{}{Cám ơn.}
 {232}{}{You drive a hard bargain. I hope it was worth it.}
 {240}{}{Well, I guess you didn't need that key as much as you thought, huh? You sure you got what you
  wanted?}

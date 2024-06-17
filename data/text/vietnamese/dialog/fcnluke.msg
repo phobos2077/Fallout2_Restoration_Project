@@ -30,7 +30,7 @@
 {129}{}{Now wait a minute! Where's the vault?}
 {130}{}{Yes, its location is stored in the vault 15 computer systems, east of here. Good luck,}
 {131}{}{.}
-{132}{}{Thanks.}
+{132}{}{Cám ơn.}
 {133}{}{We are the Brotherhood of Steel. There is nothing more that I will tell you at this time. Good luck,}
 {134}{}{Wait! Me need know even more now!}
 {135}{}{Wait, you can't just leave it at that!}

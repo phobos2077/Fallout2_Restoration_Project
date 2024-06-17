@@ -52,5 +52,5 @@
  in Vault City. I am Sub-Amenities Officer Holden. How may I help you today, Captain?}
 {151}{}{Hey! Stay away from there!}
 {152}{}{That's it! You're out of here!}
-{153}{}{Thanks.}
+{153}{}{Cám ơn.}
 {154}{}{[continue]}

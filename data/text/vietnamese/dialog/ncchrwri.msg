@@ -57,7 +57,7 @@
  south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
 {326}{}{Uh, Family Wright? Who's that?}
 {327}{}{Wright, huh? I ran into your mom.}
-{329}{}{Thanks.}
+{329}{}{Cám ơn.}
 {330}{}{Thanks. Can I ask you some questions?}
 {335}{}{Naw... we don't usually hire muscle that's not family. You can try asking Pa at the house, but he'll most likely
  just say no.}

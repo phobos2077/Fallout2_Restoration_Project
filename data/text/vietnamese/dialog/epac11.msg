@@ -56,7 +56,7 @@
 {311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
 {312}{}{[Continue.]}
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
-{314}{}{Thanks.}
+{314}{}{Cám ơn.}
 {390}{}{You ready to take me with you?}
 {391}{}{Let's go.}
 {392}{}{No, not yet.}

@@ -75,7 +75,7 @@
 {174}{}{I need to ask you something.}
 {175}{}{Just saying hi.}
 {176}{}{Well, let's see... I suppose the best place to look would be Vault City since they're the most modern place I can think of. You might want to give New Reno a try though. They're closer and they do a lot of trading with Vault City.}
-{177}{}{Thanks.}
+{177}{}{Cám ơn.}
 {178}{}{Thanks for fixing the computer. You've saved all our butts.}
 {179}{}{I've got better things to do than shoot the likes of you, but everyone needs a vacation!}
 {180}{}{. Me ask question?}

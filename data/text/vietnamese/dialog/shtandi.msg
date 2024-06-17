@@ -161,7 +161,7 @@
 {260}{}{Me need know one more thing. What if me found Vault 13?}
 {261}{}{I'm afraid you have another problem. If you'll look at this holodisk you'll see that you have a spy in the NCR.}
 {262}{}{Just one more thing. What if I told you that I found Vault 13?}
-{263}{}{Thanks.}
+{263}{}{Cám ơn.}
 {264}{tand35}{Damn, the only person who knew all this was Feargus! I'm not suggesting anything, but maybe Gunther should know about this.}
 {265}{}{Me tell. Me go now.}
 {266}{}{Me need know one more thing. What if me found Vault 13?}
@@ -208,9 +208,9 @@
 {307}{}{Right. I'll be leaving.}
 {308}{tand45}{You earned yourself a bonus. My assistant will square things up.}
 {309}{}{}
-{310}{}{Thanks.}
+{310}{}{Cám ơn.}
 {311}{tand46}{A real horse trader you are. Fine, see Gunther. He'll handle the arrangements.}
-{312}{}{Thanks.}
+{312}{}{Cám ơn.}
 {313}{tand47}{Boys, get this glob of brahmin spit out of my office! Time for you to head on out, stranger.}
 {314}{}{Done}
 {315}{tand14b}{My dad and Seth searched for years trying to find Vault 13. They died looking - always said it was west of here. If somebody were to find Vault 13, that'd do us even better than 15.}

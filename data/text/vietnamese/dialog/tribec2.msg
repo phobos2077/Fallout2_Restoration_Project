@@ -28,7 +28,7 @@
 {181}{}{Yes, it's all done.}
 {182}{}{...}
 {190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
-{191}{}{Thanks.}
+{191}{}{Cám ơn.}
 {200}{}{May your ancestors guide you well.}
 {201}{}{Thanks for your help.}
 {202}{}{Nice to be seeing you again.}

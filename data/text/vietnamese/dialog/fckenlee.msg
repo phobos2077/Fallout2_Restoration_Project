@@ -82,7 +82,7 @@
 {181}{}{Well, I have more questions.}
 {182}{}{Yeah, poor you. Bye.}
 {183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
-{184}{}{Thanks.}
+{184}{}{Cám ơn.}
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
 {187}{}{He's as good as dead.}

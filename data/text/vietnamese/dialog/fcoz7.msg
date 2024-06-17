@@ -108,13 +108,13 @@
 {207}{}{Maybe. Thanks.}
 {208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
 {209}{}{Thanks. More questions?}
-{210}{}{Thanks.}
+{210}{}{Cám ơn.}
 {211}{}{When AHS-9 receives his vision from the Hub, we will leave, and join him in celestial glory!}
 {212}{}{Yeah, praise the Wheel or whatever. I have more questions.}
 {213}{}{Most informative. Thanks.}
 {214}{}{He's usually in his lab, working on ways to perfect our bodies and our spirits.}
 {215}{}{Thanks. I wanted to ask something else.}
-{216}{}{Thanks.}
+{216}{}{Cám ơn.}
 {217}{}{Before you can truly be one of us, we must perform an initial zeta scan - an alignment. Are you prepared for your scan?}
 {218}{}{No! No scan!}
 {219}{}{Sure. Let's do it.}

@@ -45,7 +45,7 @@
 {159}{}{Do you have stimpaks?}
 {160}{}{No thanks.}
 {161}{}{It has been a pleasure doing business with you.}
-{162}{}{Thanks.}
+{162}{}{Cám ơn.}
 {163}{}{Your offer, sadly, is not acceptable.}
 {164}{}{How about this?}
 {165}{}{It's all I want to offer. So long.}
@@ -68,7 +68,7 @@
 {182}{}{Our people landed here on the submarine Shih-huang-ti, when the missiles exploded over the world. With the aid of a cult, we, the Shi, rebuilt San Francisco. That is the short version.}
 {183}{}{How about the long version?}
 {184}{}{Thanks. I have more questions.}
-{185}{}{Thanks.}
+{185}{}{Cám ơn.}
 {186}{}{The long version is this: We are here because our people are the descendants of the crew of a nuclear submarine, called the Shih-huang-ti. When the missiles fell in the Great Deluge, the systems aboard the submarine failed and we drifted in the dark for many days.}
 {187}{}{-more-}
 {188}{}{At last, we drifted ashore. We found ourselves near the ruins of San Francisco. Most of the city was devastated in the war. We had to recreate society based on the few survivors who had crept back to the city.}
@@ -84,7 +84,7 @@
 {198}{}{No.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}
-{201}{}{Thanks.}
+{201}{}{Cám ơn.}
 {202}{}{I can do nothing for him, until you have the $1000. Good day.}
 {203}{}{Good day.}
 {204}{}{I do not treat the enemies of my people. My humble apologies.}

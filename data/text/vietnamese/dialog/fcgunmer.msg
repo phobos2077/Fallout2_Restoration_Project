@@ -38,7 +38,7 @@
 {137}{}{We have two rivals of martial arts in town. They are Lo Pan, a lover of self, and the Dragon, who loves others. It is said that whoever wins will determine the future of martial arts.}
 {138}{}{I see. Anything else in town?}
 {139}{}{I see. I have more questions.}
-{140}{}{Thanks.}
+{140}{}{Cám ơn.}
 {141}{}{There is a gang of vagrants who have moved onto the Poseidon Oil tanker on the wharf. There were monsters living inside it, but the vagrants have sealed them into the lower hull. Though they are outsiders, we are grateful to the drifters for this task.}
 {142}{}{Any other news?}
 {143}{}{I see. I have more questions.}

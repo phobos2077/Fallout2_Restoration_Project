@@ -31,8 +31,8 @@
 {136}{}{No. Reason military. How many way get to base?}
 {137}{}{No. This is a military matter. Now, how many ways do you know of to reach the base?}
 {138}{}{Well... there's the vertibirds, but that's pretty obvious. Then there's the tanker down in San Fran. Other than that I guess you'd have to swim.}
-{139}{}{Thanks.}
-{140}{}{Thanks.}
+{139}{}{Cám ơn.}
+{140}{}{Cám ơn.}
 {141}{}{They would be located in maintenance, next to air traffic control. }
 {142}{}{Okay.}
 {143}{}{Got it.}

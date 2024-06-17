@@ -71,7 +71,7 @@
 {165}{}{Đư?c thôi.}
 {166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
  small arsenal down there. Git going.}
-{167}{}{Thanks.}
+{167}{}{Cám ơn.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
 {169}{}{Yes.}
@@ -86,7 +86,7 @@
 {180}{}{I'm not going to warn you again. Stay away from there!}
 {181}{}{That's it! Get over here!}
 {182}{}{What else are you going to bother me with?}
-{183}{}{Thanks.}
+{183}{}{Cám ơn.}
 {184}{}{[CONTINUE]}
 {185}{}{Hey! Who the hell is out there?}
 {186}{}{I don't know who you are, but I'm comin' for ya'.}

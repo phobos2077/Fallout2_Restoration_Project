@@ -8,4 +8,4 @@
 {203}{}{Hi.}
 {204}{}{Nice weather.}
 {205}{}{I hope you enjoy your stay here.}
-{500}{}{Stop that!}
+{500}{}{D?ng l?i!}

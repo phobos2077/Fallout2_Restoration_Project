@@ -44,7 +44,7 @@
 {282}{}{Chào.}
 {290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
 {291}{}{Grrrr.}
-{292}{}{Thanks.}
+{292}{}{Cám ơn.}
 {300}{}{Beat it, tough guy, before I get angry on Your face.}
 {301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
 {302}{}{Bitch? I'll show you what this bitch can do.}
@@ -121,7 +121,7 @@
 {481}{}{Lara's planning on hitting this place tonight.}
 {482}{}{No, sorry.}
 {490}{}{Oh really? So that bitch has got some balls after all? Well, that's worth a $100.}
-{491}{}{Thanks.}
+{491}{}{Cám ơn.}
 {500}{}{Not so fast, slick. Just to be sure, we'll wait until after they show.
  You could be lying to me for all I know. You just be sure they show, and I'll pay you after.}
 {501}{}{But I'm a lover, not a fighter.}

@@ -184,13 +184,13 @@
 {283}{}{Vault City, prevails, Captain.}
 {284}{}{Here's your Citizenship papers. If you ever need anything, come see me.}
 {285}{}{Vault City prevails, Councilor.}
-{286}{}{Thanks.}
+{286}{}{Cám ơn.}
 {287}{}{Yes, you mentioned that.}
 {288}{}{Well done, Captain.}
 {289}{}{Well done, Citizen.}
 {290}{}{Well done.}
 {291}{}{I had some other questions...}
-{292}{}{Thanks.}
+{292}{}{Cám ơn.}
 {293}{}{I'm sorry... an economic data disk? What do you mean?}
 {294}{}{Here, take a look.}
 {295}{}{It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.}

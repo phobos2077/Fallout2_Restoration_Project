@@ -8,7 +8,7 @@
 {107}{}{ accidentally sets off the trap.}
 {200}{}{Thank you.}
 {201}{}{Good Day.}
-{202}{}{Thanks.}
+{202}{}{Cám ơn.}
 {203}{}{Thanks!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}

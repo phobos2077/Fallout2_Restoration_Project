@@ -27,7 +27,7 @@
 {123}{}{You're sorry about Chad? Ha! Made a nice profit, did you? The new boss is }
 {124}{}{Chào.}
 {125}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He can hook you up.}
-{126}{}{Thanks.}
+{126}{}{Cám ơn.}
 {127}{}{All right. See ya, then.}
 {128}{}{What's he like? Well, he's friendly, but abrasive. He's a good boss, and usually fair to us. He
  doesn't treat us badly or anything, if that's what you mean. Any more questions?}

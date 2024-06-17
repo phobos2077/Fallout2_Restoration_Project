@@ -77,7 +77,7 @@
 {158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it's for.
  Rebecca says that you found some sort of entrance where they were holding Chrissy. Maybe this card will
  open it. Here, take it.}
-{159}{}{Thanks.}
+{159}{}{Cám ơn.}
 {160}{}{What can I help you with?}
 {161}{}{Just the problems with the NCR, but I think the deal you offered will solve that.}
 {162}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you!}

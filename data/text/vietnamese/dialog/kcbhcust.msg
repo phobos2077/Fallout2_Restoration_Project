@@ -55,7 +55,7 @@
 {169}{}{There's bugmen out in the hills.}
 {170}{}{One of our best trappers is missing.}
 {201}{}{Well, that sure wet my whistle.}
-{202}{}{Thanks.}
+{202}{}{Cám ơn.}
 {203}{}{Mmm-mm, good.}
 {204}{}{Nothing like Buckner's Best.}
 {205}{}{Thanks for the brew.}
@@ -72,5 +72,5 @@
 {216}{}{I thought you'd never ask.}
 {217}{}{Thanks, friend.}
 {218}{}{Just like Sulik.}
-{219}{}{Thanks.}
+{219}{}{Cám ơn.}
 {220}{}{Yeah!}

@@ -35,7 +35,7 @@
 {176}{}{Hmmm... I'll be back.}
 {177}{}{That's great! I'll have the radio fixed in no time.}
 {178}{}{Okay, I'll talk to Metzger.}
-{179}{}{Thanks.}
+{179}{}{Cám ơn.}
 {180}{}{Chào.}
 {181}{}{Pardon? I'm sorry but I don't understand.}
 {182}{}{hurm.}
@@ -58,7 +58,7 @@
 {197}{}{Want to join me on my search?}
 {198}{}{Great! Thanks.}
 {203}{}{Vault City is east of here. I'll point it out on that map of yours.}
-{204}{}{Thanks.}
+{204}{}{Cám ơn.}
 {206}{}{It's right here. [pointing to a map]}
 {220}{}{Darn it. That's close, but I need the radio from my shack in Klamath. I know that one has the parts I need.}
 {300}{}{Yeah, I can probably help you, but you've got to get me out of here first.}
@@ -271,7 +271,7 @@
 {4513}{}{I need to get out of the relic business... nothing but trouble.}
 {4514}{}{Why is waiting so tiring...}
 {4600}{}{Uh, thanks, Boss.}
-{4601}{}{Thanks.}
+{4601}{}{Cám ơn.}
 {4602}{}{You sure you know what you're doing?}
 {4603}{}{Can't we just rest instead?}
 {4604}{}{Should we make camp?}

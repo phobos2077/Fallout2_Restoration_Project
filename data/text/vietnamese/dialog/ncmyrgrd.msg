@@ -89,7 +89,7 @@
 {437}{}{We'll see, all right?}
 {445}{}{Sure, sweetheart. Head on in.}
 {446}{}{Yeah, head on in.}
-{447}{}{Thanks.}
+{447}{}{Cám ơn.}
 {455}{}{You? Ha! Chica, unless Myron suddenly went blind, you ain't going in there. I know his tastes, right?
  He ain't interested in any skanky Jet-begging whore.}
 {457}{}{Look, I'm here to see Myron. I have a badge.}

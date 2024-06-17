@@ -52,7 +52,7 @@
 {142}{}{[XONG]}
 {143}{}{Well, nice talking with you. Here's some advice though - ain't nothing
  in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}
-{144}{}{Thanks.}
+{144}{}{Cám ơn.}
 {145}{}{Metal birds? Oh, you must mean vertibirds. Now why would you be
  asking about them here?}
 {146}{}{Vertibirds? That's an interesting subject. Now why would you be

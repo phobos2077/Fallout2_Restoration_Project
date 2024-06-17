@@ -9,7 +9,7 @@
 {301}{}{Yes, here it is.}
 {302}{}{No, I was just testing you.}
 {303}{}{(He takes the part from your hands) Finally! Now we can fix this printing machine. Thanks, take this survival manual for your trouble.}
-{304}{}{Thanks.}
+{304}{}{Cám ơn.}
 {305}{}{Look, I don't have time for this. Do you have the part or not?}
 {306}{}{Yeah, I have it.}
 {307}{}{Whatever, I'm outta here.}

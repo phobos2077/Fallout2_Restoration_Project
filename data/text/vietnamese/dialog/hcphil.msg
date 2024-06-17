@@ -99,7 +99,7 @@
 {218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
  get to keep it.}
 {219}{}{You got anything else?}
-{220}{}{Thanks.}
+{220}{}{Cám ơn.}
 {221}{}{Hell yeah! Find out where those two lunatics Franc and Manson went!}
 {222}{}{I'm on it.}
 {223}{}{Got it. See ya.}

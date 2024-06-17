@@ -47,7 +47,7 @@
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
 {144}{}{Cute.}
 {145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
-{146}{}{Thanks.}
+{146}{}{Cám ơn.}
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
 {148}{}{Okay.}
 {149}{}{Where that?}
@@ -66,7 +66,7 @@
 {161}{}{That's a good idea.}
 {162}{}{So where's the commander's office?}
 {163}{}{Take the elevator in the next room down, follow the hallway to the main junction, and go straight. }
-{164}{}{Thanks.}
+{164}{}{Cám ơn.}
 {165}{}{Hey, soldier. Good to hear from you again. Grub or talk this time?}
 {166}{}{Food.}
 {167}{}{Chitchat.}
@@ -83,9 +83,9 @@
 {176}{}{Where's that?}
 {177}{}{I'll take care of it.}
 {178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}
-{179}{}{Thanks.}
+{179}{}{Cám ơn.}
 {180}{}{Holy shit! I'm just a cook... and a blind one at that. I didn't see any intruders come through here.}
-{181}{}{Thanks.}
+{181}{}{Cám ơn.}
 {182}{}{Damned alarms. Always such a ruckus when they go off.}
 {183}{}{What the hell is that damn thing going on about this time?}
 {184}{}{I wish to hell we'd use silent alarms, damn thing gives me a headache.}

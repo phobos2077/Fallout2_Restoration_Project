@@ -72,7 +72,7 @@ Try it, bucko. You'll have guards down on your ass and you'll never learn how to
 {167}{}{Fine. I'll be back.}
 {168}{}{I've got it right here for you. Take it, take it.}
 {169}{}{Thanks. I have questions.}
-{170}{}{Thanks.}
+{170}{}{Cám ơn.}
 {171}{}{Thanks. NOW you can die.}
 {172}{}{I'm out of chemicals for it. Sorry.}
 {173}{}{Then you can answer me some questions.}

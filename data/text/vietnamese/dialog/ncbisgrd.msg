@@ -130,7 +130,7 @@
 {505}{}{Sure, go on up, }
 {506}{}{. }
 {507}{}{Next time, don't even sweat asking... just head on up.}
-{508}{}{Thanks.}
+{508}{}{Cám ơn.}
 {1228}{}{. Now.}
 {1229}{}{. Ain't your family gonna be missing you?}
 {1230}{}{ family is a bunch of pussies. What you think about that?}
