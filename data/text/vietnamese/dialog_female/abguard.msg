@@ -32,15 +32,15 @@ nh?ng đ? chôn theo. Không ph?i vi?c c?a ta... ta không th?y có v?n đ? g? v
 {600}{}{Đúng v?y, và Th?y Thomas đang m?t tích. Ông ta thông minh th?t đ?y nhưng có ph?n hơi ngơ. Ta không bi?t
 dư?i đó có g?, nhưng ch?c không ch? là l? chu?t v?i b? c?p đâu.}
 {601}{}{Đúng v?y, và Th?y Thomas đang m?t tích. Ta không bi?t dư?i đó có g?, nhưng ch?c không ch? là l? chu?t v?i
-b? c?p đâu. Sao c?u không xu?ng th? xem, c?u giai c?ng c?a?}
-{602}{}{So why don't you go look?}
-{603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
-{610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
- go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
- Brother Thomas?}
-{611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
+b? c?p đâu. Sao cô không xu?ng th? xem, cô nàng c?ng c?a?}
+{602}{}{V?y th? sao ông không xu?ng xem đi?}
+{603}{}{Ông m?i là g? c?ng c?a ? đây mà. Sao ông không lê đít xu?ng đ?y mà xem?}
+{610}{}{Nói ra th? hơi x?u h?, nhưng do trư?c đây đi phư?t v?i m?y đoàn l? hành nhi?u quá mà bây gi? ta th?y h?t
+khi chui xu?ng đ?t. M?y b?c tư?ng c? ép sát l?i khi?n ta đ?ch th? n?i... Ch?c là cô có th? giúp ta t?m hi?u xem
+chuy?n g? đ? x?y ra v?i Th?y Thomas đư?c ch??}
+{611}{}{Đ? tôi xem tôi có th? làm g?. Gi? th? h?y đ? tôi h?i chuy?n khác.}
 {612}{}{Chào.}
-{613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
-{700}{}{What else do you want to know?}
-{800}{}{It's good to see you again.}
-{801}{}{I'm keeping my eye on you.}
+{613}{}{Tôi là ngư?i c?ng c?a, và v? v?y nên tôi s? d?n cho ông m?t tr?n.}
+{700}{}{Cô mu?n bi?t g? n?a nào?}
+{800}{}{R?t vui đư?c g?p l?i cô.}
+{801}{}{Ta đang đ? m?t đ?n cô đ?y.}
