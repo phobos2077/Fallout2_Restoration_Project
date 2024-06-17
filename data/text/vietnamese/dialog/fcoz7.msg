@@ -22,7 +22,7 @@
 {121}{}{Very well. Be quick, though - he's a busy, busy man.}
 {122}{}{Okay.}
 {123}{}{This is not a place that is open for random tours. Good day.}
-{124}{}{[DONE]}
+{124}{}{[XONG]}
 {125}{}{Excellent! Go in, go in. Speak to Juan Cruz and Vikki Goldman - they're celebrities, you know, but they'll talk to YOU.}
 {126}{}{Who are they?}
 {127}{}{Ooh! Celebrities!}
@@ -55,7 +55,7 @@
 {154}{}{Thanks for the concern. See you.}
 {155}{}{I don't think I'd be the one hurt. So long.}
 {156}{}{Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!}
-{157}{}{[DONE]}
+{157}{}{[XONG]}
 {158}{}{So. You have now had time to reconsider your decision. Will you join us?}
 {159}{}{Yes.}
 {160}{}{No.}

@@ -50,7 +50,7 @@
 {183}{}{Can I ask something else?}
 {184}{}{Got it. Bye.}
 {185}{}{You have the plans? Excellent! Now all we need is fuel! The Shi have a bunch. See if you can go route some to us. Good luck, recruit!}
-{186}{}{[DONE]}
+{186}{}{[XONG]}
 {187}{}{Then you must go get them, yes? Now please excuse me, comrade - I must continue readying the ship for our epic journey.}
 {188}{}{I have the plans for the vertibird.}
 {189}{}{Sure thing.}

@@ -9,7 +9,7 @@
 {108}{}{Nothing. I'm leaving now.}
 {109}{}{You don't belong here if you're an imbecile. Run along now, before I call the guards.}
 {110}{}{You really don't understand me, do you? Perhaps you will understand the guards. Guards! Intruder!}
-{111}{}{[DONE]}
+{111}{}{[XONG]}
 {112}{}{I am Jing Tie Gahng. I am in charge of the chemical laboratory of the Steel Palace... and you are interrupting important work. Please leave. NOW - before I call the guards.}
 {113}{}{Go ahead and call them, old man.}
 {114}{}{Fine, fine. I'm leaving.}
@@ -40,9 +40,9 @@
 {139}{}{That will be quite impossible. Our fuel supply has already vanished. Even if I wanted to help the Hubologists, which I do not, I couldn't. Good day.}
 {140}{}{Okay. Bye.}
 {141}{}{Good. Then let me get back to what I'm doing.}
-{142}{}{[DONE]}
+{142}{}{[XONG]}
 {143}{}{You can't do it? Then I can't sell you the fuel. Now go away. I'm busy.}
-{144}{}{[DONE]}
+{144}{}{[XONG]}
 {145}{}{You have hardened power armor? Excellent! How do you want to be paid?}
 {146}{}{Channel fuel to the Hubologists in exchange for this.}
 {147}{}{Channel fuel to the Poseidon Oil tanker.}

@@ -13,9 +13,9 @@
 {111}{}{Nothing.}
 {112}{}{Forget it. Bye.}
 {113}{}{Look, son, I'm sorry that you've got no mind. But you can't be here. Run along now.}
-{114}{}{[DONE]}
+{114}{}{[XONG]}
 {115}{}{You can't be here. It's dangerous. Run along now.}
-{116}{}{[DONE]}
+{116}{}{[XONG]}
 {117}{}{Great. That'll be $1000, no haggling. You might think that's pricey, but it's a steal
  considering what you'll get for the finished product from an interested buyer.}
 {118}{}{It's a deal.}
@@ -32,7 +32,7 @@
 {128}{}{I want some uranium.}
 {129}{}{Nothing.}
 {130}{}{You don't have enough money. Come on back when you do.}
-{131}{}{[DONE]}
+{131}{}{[XONG]}
 {132}{}{All right. Give us a day and we'll have it ready for you.}
 {133}{}{Great. Bye.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional

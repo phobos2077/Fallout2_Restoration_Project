@@ -117,6 +117,6 @@
 {272}{}{Alright, here.}
 {273}{}{Nevermind.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
-{275}{}{I'll come back when I have more money.}
+{275}{}{Tôi s? quay l?i khi nào có ti?n.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
 {281}{}{I've got what I need. Bye.}

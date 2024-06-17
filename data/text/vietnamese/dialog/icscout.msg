@@ -121,7 +121,7 @@
 {932}{}{She drank this drink, it smelled quite strong, and vivid dreams came to her.}
 {933}{}{The bone in here nose told her. This is how she communicates with our ancestors.}
 {940}{}{You are lying. This is not how one talks with the spirits. Now Shadow Who Walks will see how tongue of liar tastes with favorite brock sauce.}
-{941}{}{[DONE]}
+{941}{}{[XONG]}
 {950}{}{Oh, then it is true what you speak. Shadow Who Walks knows the power of the spirits. What should Shadow Who Walks do?}
 {951}{}{Well, I just spoke with them and they told me they don't like you very much. They asked me to kill you.}
 {952}{}{You have to leave here forever and never guide these men again. The spirits are angry at you for leading these men

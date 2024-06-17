@@ -75,7 +75,7 @@
 {165}{}{Save it to use on some unsuspecting sap.}
 {166}{}{Uh oh! You've created some weird toxic fume! You catch a whiff of it and you're out flat. You
  feel like shit.}
-{167}{}{[DONE]}
+{167}{}{[XONG]}
 {168}{}{This stuff looks potent. What are you going to do with it?}
 {169}{}{Drink it.}
 {170}{}{Save it for later.}
@@ -93,7 +93,7 @@
 {179}{}{It's a little chalky, but you manage to choke it down. Oddly, you feel a little better now.}
 {180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
  spitting and gagging. You've been irradiated!}
-{181}{}{[DONE]}
+{181}{}{[XONG]}
 {182}{}{Well... all right. Reminiscing of the things you drank as a child, you tilt the
  bottle back and let it flow. Your stomach knots up as the fluid hits it. You feel like you've just
  been stung by a radscorpion.}

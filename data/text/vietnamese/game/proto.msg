@@ -144,7 +144,7 @@
 {624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[DONE]}
+{650}{}{[XONG]}
 {651}{}{[MORE]}
 {652}{}{More}
 {653}{}{[BACK]}

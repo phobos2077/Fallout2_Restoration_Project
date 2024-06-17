@@ -19,7 +19,7 @@
 {167}{}{Thanks. Bye.}
 {168}{}{Chào.}
 {169}{}{Aw, shucks.}
-{170}{}{[DONE]}
+{170}{}{[XONG]}
 {171}{}{I am plumb tuckered out.}
 {172}{}{I'll come back.}
 {173}{}{OK.}

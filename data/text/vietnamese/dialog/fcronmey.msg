@@ -2,7 +2,7 @@
 {101}{}{You see Captain A. Ron Meyers.}
 {102}{}{You see a punk in tattered clothes wearing a captain's hat.}
 {103}{}{What the hell do you want? I don't speak to anyone unless they're friends or good people. Do something for one of my buddies and then come talk to me.}
-{104}{}{[DONE]}
+{104}{}{[XONG]}
 {105}{}{I heard what you did for my men. Thanks. What can I help you with?}
 {106}{}{You who?}
 {107}{}{I hear you're the one who knows all about this ship.}
@@ -10,7 +10,7 @@
 {109}{}{How do you get this thing to go?}
 {110}{}{Nothing.}
 {111}{}{I'm the Captain. I run the ship. Any more questions, go talk to one of the Shi or Badger or someone. I don't have time for you.}
-{112}{}{[DONE]}
+{112}{}{[XONG]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
 {114}{}{How do you know all this?}
 {115}{}{What's an IFF transponder?}

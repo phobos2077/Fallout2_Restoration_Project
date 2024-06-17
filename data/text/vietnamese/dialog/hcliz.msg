@@ -58,7 +58,7 @@
 {153}{}{Yep.}
 {154}{}{No.}
 {155}{}{Then I guess I'd better start cleaning up the loose ends.}
-{156}{}{[DONE]}
+{156}{}{[XONG]}
 {157}{}{I don't support killin' in this store. Get out.}
 {158}{}{Yeah, whatever. Bitch.}
 {159}{}{Ghouls are useful slaves. They ain't got enough minds of their own to be people, but they ain't
@@ -77,7 +77,7 @@
 {169}{}{Yes.}
 {170}{}{No.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
-{172}{}{[DONE]}
+{172}{}{[XONG]}
 {173}{}{The store is closed. We open at eight.}
 {174}{}{Hey! Get away from there!}
 {175}{}{That's it! You asked for it!}

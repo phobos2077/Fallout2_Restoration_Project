@@ -40,7 +40,7 @@
 {303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
 {310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
 {311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
-{312}{}{[DONE]}
+{312}{}{[XONG]}
 {320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
 {321}{}{[CONTINUE]}
 {322}{}{Keep your reward. I don't have time to wait around.}
@@ -54,7 +54,7 @@
 {352}{}{I'll come back when I have the seeds.}
 {360}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill him, my children! His body shall make a fine host for your newest sibling!}
 {361}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill her, my children! Her body shall make a fine host for your newest sibling!}
-{362}{}{[DONE]}
+{362}{}{[XONG]}
 {370}{}{[The Doctor departs. After about an hour, he returns and hands you a single plant seed.] This plant sample is my gift to the Shi. It will change everything. I am giving you the honor of presenting it to Doctor Wong.}
 {371}{}{What's so special about this plant sample?}
 {372}{}{That's it? I went and got those damn seeds for you and this is what I get for my trouble? Yet another seed? Fuck you and your creepy plant zombies. I think I'll do the world a favor and put an end to this morbid operation of yours.}

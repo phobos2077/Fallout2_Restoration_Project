@@ -37,7 +37,7 @@
 {136}{}{Yes.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
-{139}{}{[DONE]}
+{139}{}{[XONG]}
 {140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
 {141}{}{Make me.}
 {142}{}{Fine.}
@@ -55,7 +55,7 @@
 {154}{}{No. My real name is}
 {155}{}{It's all the name you need, old man.}
 {156}{}{That will be quite impossible. Good day.}
-{157}{}{[DONE]}
+{157}{}{[XONG]}
 {158}{}{Surely you must give me more credit than that. I know how the "biz" works. I have traveled to New Reno before.}
 {159}{}{Okay, my name is}
 {160}{}{That's my real name! Now let me talk to the Emperor!}

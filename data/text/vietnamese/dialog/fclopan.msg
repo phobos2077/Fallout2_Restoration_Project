@@ -15,7 +15,7 @@
 {114}{}{Teach me!}
 {115}{}{Tank yu.}
 {116}{}{You want to learn? Do you have what it takes? Let's see.}
-{117}{}{[DONE]}
+{117}{}{[XONG]}
 {118}{}{Teach you? I don't think so. You look far too self-righteous. Get out of here.}
 {119}{}{What the... ?}
 {120}{}{Oh, look, the idiot. I don't want to talk to you. Go away.}
@@ -25,7 +25,7 @@
 {124}{}{What, you're evil?}
 {125}{}{I see. I have more questions.}
 {126}{}{Evil? Hardly. Just smart. Maybe if you're so concerned about doing the right thing by people, you should see the Dragon. He likes simpering weaklings like you.}
-{127}{}{[DONE]}
+{127}{}{[XONG]}
 {128}{}{Yes, I should. And I do. Unfortunately, the Dragon stands in the way. We're too evenly balanced in our fight against each other. I need just one trained person to help me.}
 {129}{}{I am that person.}
 {130}{}{I see. Well, I have more questions.}
@@ -52,7 +52,7 @@
 {151}{}{That's interesting. Must be rewarding. I have more questions.}
 {152}{}{Thanks. Bye.}
 {153}{}{I may be a scumbag, but never will it be said I don't stand up for my people. I'm going to hurt you before you die.}
-{154}{}{[DONE]}
+{154}{}{[XONG]}
 {155}{}{Then you're a fool and a dog doing the bidding of others. I will laugh when you die.}
 {156}{}{[Attack now, with armor and weapons.]}
 {157}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
@@ -60,9 +60,9 @@
 {159}{}{[Attack now, with armor and weapons.]}
 {160}{}{[Enter the ring, remove armor and weapons, and fight hand to hand.]}
 {161}{}{Baaa, sheep, baaa! Go back to your robed masters. I don't have anything to say to you.}
-{162}{}{[DONE]}
+{162}{}{[XONG]}
 {163}{}{Didn't I tell you to talk to the Dragon about your moral qualms? He'll hold your hand. I won't. Now leave.}
-{164}{}{[DONE]}
+{164}{}{[XONG]}
 {165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
 {166}{}{Yes. I'll do it right now.}
 {167}{}{It's not really my fight.}

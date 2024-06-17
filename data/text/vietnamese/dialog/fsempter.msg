@@ -18,7 +18,7 @@
 {117}{}{::hack into computer::}
 {118}{}{::leave::}
 {119}{}{Intruder alert activated. Shutting down. Have a nice day.}
-{120}{}{[DONE]}
+{120}{}{[XONG]}
 {121}{}{Diagnostic functions?}
 {122}{}{Network scan.}
 {123}{}{Format drive.}
@@ -66,7 +66,7 @@
 {165}{}{Yes.}
 {166}{}{No.}
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
-{168}{}{[DONE]}
+{168}{}{[XONG]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Botany program.}
 {171}{}{Genetic program.}
@@ -96,9 +96,9 @@
 {195}{}{(Once you have waded past the symbology and technical discussion, you discover that the Shi are working on a new kind of polymeric combat armor that is resistant to both flame and penetration. It is still years from completion. You also see mention of new weaponry and construction capabilities. Apparently the Shi have some plans for the future.)}
 {196}{}{Back.}
 {197}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{198}{}{[DONE]}
+{198}{}{[XONG]}
 {199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{200}{}{[DONE]}
+{200}{}{[XONG]}
 {201}{}{Physics database: Exploration - Theory}
 {202}{}{Exploration.}
 {203}{}{Theory.}

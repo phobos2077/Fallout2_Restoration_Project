@@ -1,7 +1,7 @@
 {100}{}{Hibernation Chamber Control Computer. Select an option.}
 {101}{}{Subject history.}
 {102}{}{Retrieve a test subject.}
-{103}{}{[DONE]}
+{103}{}{[XONG]}
 {104}{}{Hibernation Chambers. Three individuals were sealed within these chambers before the war, each for specific classified
  reasons. Subjects remain sealed and unaware of their surroundings. Log entries are available for each subject.}
 {105}{}{Return to Main Menu.}

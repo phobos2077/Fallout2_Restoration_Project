@@ -17,7 +17,7 @@
 {114}{}{Sub-Level Blue does not exist. If someone told you otherwise, they're dirty liars and are most likely communist sympathizers. Please report them to our security department on Sub-Level Red so they may be dealt with accordingly. Thank you for doing your part as a proud American!}
 {115}{}{Return to main menu.}
 {116}{}{Thank you for using the location finder.}
-{117}{}{[DONE]}
+{117}{}{[XONG]}
 {118}{}{You see a computer.}
 {119}{}{You see the EPA Location Finder.}
 {120}{}{You see a computer with detailed information about the levels in the EPA.}

@@ -35,7 +35,7 @@
 {133}{}{Thanks for the mag, kid. Let me get back to you in an hour or so.}
 {134}{}{Okay!}
 {135}{}{I ain't done yet, kid! Sheesh! Can't an old ghoul have his privacy?}
-{136}{}{[DONE]}
+{136}{}{[XONG]}
 {137}{}{What kind o' treasure? Money, kid, lots and lots of money. Enough to satisfy any sane person.}
 {138}{}{What's the catch?}
 {139}{}{I don't need money.}
@@ -72,7 +72,7 @@
 {170}{}{Not yet. I had other questions.}
 {171}{}{Nope.}
 {172}{}{Well, hurry it up! I'm an old, old ghoul, and I tell you, I gotta have relaxation! Now go, go, go!}
-{173}{}{[DONE]}
+{173}{}{[XONG]}
 {174}{}{Kid, that magazine stirred up the ol' juices, and I figure that for the sort of treasure I'm talkin', you can hunt me down a few more things. Go git me a blow-up doll. You can probably find one in New Reno.}
 {175}{}{Okey! Bye!}
 {176}{}{Nuh-uh!}
@@ -82,9 +82,9 @@
 {180}{}{Forget it.}
 {181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
 {182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
-{183}{}{[DONE]}
+{183}{}{[XONG]}
 {184}{}{Can't a guy get a little privacy! Git! Git! G'wan!}
-{185}{}{[DONE]}
+{185}{}{[XONG]}
 {186}{}{I'm all tuckered out now. Go get me some rotgut and we'll talk about the treasure. Phil the bartender should be able to take care o' that for you.}
 {187}{}{Rite! Bye!}
 {188}{}{No!}

@@ -75,7 +75,7 @@
 {161}{}{Sure. Thanks. Bye.}
 {162}{}{Really? That's a fascinating attitude. Too bad we didn't crush your village when we controlled
  the wasteland. Get out of my sight, worm.}
-{200}{}{[DONE]}
+{200}{}{[XONG]}
 {201}{}{Chào.}
 {202}{}{Thanks. Bye.}
 {203}{}{[MORE]}

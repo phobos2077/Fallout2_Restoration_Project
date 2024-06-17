@@ -28,7 +28,7 @@
 {127}{}{Me thank.}
 {128}{}{Thanks.}
 {129}{}{Mr. Westin doesn't just 'chat' with anyone who walks in off the street. If you don't have specific business with him then I suggest you leave until such time as you do. Now please go away.}
-{130}{}{[DONE]}
+{130}{}{[XONG]}
 {131}{}{(sigh) I've heard that Mr. Westin has a soft spot for people like you. Come on in.}
 {132}{}{Me thank you.}
 {133}{}{Yeah, yeah. I am in the middle of something.}

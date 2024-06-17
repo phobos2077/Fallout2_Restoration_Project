@@ -9,7 +9,7 @@
 {171}{}{ABRE}
 {172}{}{[BACK]}
 {180}{}{Thank you. Force fields are now disengaged.}
-{181}{}{[DONE]}
+{181}{}{[XONG]}
 {200}{}{Welcome to the EPA Petting Zoo! Here you'll have the pleasure of interacting with these unique creatures that
  look like hideously deformed humans! That's because these ugly beasts are the result of exciting experiments where our
  brilliant scientists are attempting to splice human and animal DNA!}

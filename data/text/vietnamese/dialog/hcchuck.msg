@@ -6,7 +6,7 @@
 {105}{}{Ông là ai?}
 {106}{}{I have no idea how long you've been asleep, but you're in Broken Hills, near the New California Republic.}
 {107}{}{Oh no! I've slept so long the world has turned stupid! Aieeeeeeee! ::he flees in panic::}
-{108}{}{[DONE]}
+{108}{}{[XONG]}
 {109}{}{I'm Chuck Stodgers, the greatest aero plane pilot in the world! Unfortunately... I crashed. I staggered into this cave to get away from the explosion, and the fumes overwhelmed me.}
 {110}{}{That sounds suspiciously like the premise of a pulp cartoon series.}
 {111}{}{New WHAT? CALIFORNIA? THE WORLD HAS CHANGED THAT MUCH? AIEEEEEEEEEEEEEEEEE! ::he flees in panic::}

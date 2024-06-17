@@ -13,7 +13,7 @@
 {112}{}{I was told to speak to you about a certain matter regarding mutants.}
 {113}{}{Chào.}
 {114}{}{::A look of disgust crosses his face:: Get out of here. I don't have time for you.}
-{115}{}{[DONE]}
+{115}{}{[XONG]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
 {117}{}{You again? Do you want something?}
 {118}{}{'Es!}
@@ -21,7 +21,7 @@
 {120}{}{Fine. Let's see what you want.}
 {121}{}{[MORE]}
 {122}{}{Then leave.}
-{123}{}{[DONE]}
+{123}{}{[XONG]}
 {124}{}{There. We're done. Thank you for the tip. Now please leave.}
 {125}{}{D'okay!}
 {148}{}{Why don't you tell me how you feel about mutants first?}
@@ -112,7 +112,7 @@
 {267}{}{No, I guess I'll do it.}
 {268}{}{I suppose I can understand. You'll be equally understanding, I hope, when I tell you to get the
  hell out of my sight. Traitor.}
-{269}{}{[DONE]}
+{269}{}{[XONG]}
 {270}{}{Are you ready to go on with the plan?}
 {272}{}{Yes. Let's do it.}
 {273}{}{I've changed my mind. I don't want to do this.}

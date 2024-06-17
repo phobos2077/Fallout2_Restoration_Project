@@ -15,7 +15,7 @@
 {114}{}{Teach me!}
 {115}{}{Tank yu.}
 {116}{}{Then we will begin.}
-{117}{}{[DONE]}
+{117}{}{[XONG]}
 {118}{}{::he looks at you closely:: I do not believe you would use the knowledge for good. Good day.}
 {119}{}{Grrr!}
 {120}{}{Please excuse my rudeness. I cannot speak with you right now.}
@@ -25,7 +25,7 @@
 {124}{}{Then you must triumph.}
 {125}{}{I see. I have more questions.}
 {126}{}{You truly believe this? Then perhaps you should deal with Lo Pan. Good day.}
-{127}{}{[DONE]}
+{127}{}{[XONG]}
 {128}{}{That I must. Yet we are still evenly matched, I fear. Even in our followers, we are matched. It will take one person to throw the balance.}
 {129}{}{I am that person.}
 {130}{}{I see. Well, I have more questions.}
@@ -44,7 +44,7 @@
 {143}{}{A test of skills. I don't want to kill you.}
 {144}{}{Neither. Forget it.}
 {145}{}{You are not the right one for this duty. Good day.}
-{146}{}{[DONE]}
+{146}{}{[XONG]}
 {147}{}{You think so? War and fighting seem unavoidable. Better we should fight with rules and codes than giving in to sheer destruction. }
 {148}{}{I win any way I can.}
 {149}{}{If we have to fight, then we should fight to survive. If someone is trying to kill me, I will defend myself by whatever means possible.}
@@ -69,11 +69,11 @@
 {168}{}{That's interesting. Must be rewarding. I have more questions.}
 {169}{}{Thanks. Bye.}
 {170}{}{You have attempted to dishonor my people, so now I must kill you. I apologize if I hurt you as you die.}
-{171}{}{[DONE]}
+{171}{}{[XONG]}
 {172}{}{Do not speak to me, sheep of the Hub. I have no use for your kind.}
-{173}{}{[DONE]}
+{173}{}{[XONG]}
 {174}{}{You have the honor of a pig and the morals of a lungfish. I do not wish to associate with you.}
-{175}{}{[DONE]}
+{175}{}{[XONG]}
 {176}{}{You are truly amazing in your fighting skills. Will you fight Lo Pan?}
 {177}{}{Yes. I'll do it right now.}
 {178}{}{It's not really my fight.}

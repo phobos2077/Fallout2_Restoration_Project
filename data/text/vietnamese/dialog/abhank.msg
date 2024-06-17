@@ -9,36 +9,36 @@
 {205}{}{[U?ng].}
 {206}{}{Tôi đ?i ? r?i, tôi không mu?n l?y rư?u. Chào nhé.}
 {207}{}{(B?n c?m th?y ?m áp và khoan khoái sau khi u?ng h?t rư?u).}
-{208}{}{Gimme another, Hank.}
-{209}{}{I'll go now, bye.}
-{210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
-{211}{}{[DONE]}
-{212}{}{No, Sorry.}
-{213}{}{Hi, again.}
-{214}{}{Hi and bye.}
-{215}{}{This one won't be free. It'll cost you $20.}
-{216}{}{Sure. Here's the money.}
-{217}{}{Nah, I've had enough. Maybe next time.}
-{218}{}{(He pockets the money.) Alright then, here's the drink.}
-{219}{}{I'll come back when I have more money.}
-{220}{}{Any luck finding a lighter?}
-{250}{}{I would like to buy some of the alcohol you make here.}
-{251}{}{Just looking around. Take care.}
-{252}{}{Sure. $20 a bottle.}
-{253}{}{[Hold on to it.]}
-{300}{}{Where did I put my lighter?}
-{301}{}{I need a lighter.}
-{302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
-{303}{}{Uh, hi there.}
-{304}{}{Sorry, I can't chat with you now.}
-{400}{}{Ooh, look at all those pretty stars!}
-{500}{}{Hello. Need something?}
-{501}{}{Hey, thanks again for the lighter. It's better than my old one.}
-{600}{}{We brew our own alcohol here at the monastery. Some of the most powerful stuff you'll taste in the Wastes.}
-{601}{}{Mind if I try some?}
-{602}{}{Sounds interesting. I must be going.}
-{700}{}{That's too bad. I lost mine recently and I can't seem to find it anywhere. If you ever get a hold of one,
- I'd be glad to take it off your hands.}
+{208}{}{Thêm c?c n?a nào, Hank.}
+{209}{}{Tôi ph?i đi đây. Chào.}
+{210}{}{(Đ?t nhiên b?n c?m th?y như b?i, r?i m?t b?n m? d?n. B?n g?c xu?ng sàn...)}
+{211}{}{[XONG]}
+{212}{}{Không, xin l?i.}
+{213}{}{Chào.}
+{214}{}{Chào và t?m bi?t.}
+{215}{}{C?c này m?t phí đ?y, 20$.}
+{216}{}{Đư?c. Ti?n đây.}
+{217}{}{Thôi, tôi u?ng đ? r?i. Có l? đ? sau.}
+{218}{}{(Ông ta b? ti?n vào túi). Đư?c r?i, rư?u đây.}
+{219}{}{Tôi s? quay l?i khi nào có ti?n.}
+{220}{}{Có t?m đư?c cái b?t l?a nào không?}
+{250}{}{Tôi mu?n mua m?t ít rư?u mà ông n?u ? đây.}
+{251}{}{Ch? ngó quanh thôi. B?o tr?ng.}
+{252}{}{Đư?c ch?. 20$ m?t chai.}
+{253}{}{[Gi? l?i].}
+{300}{}{Tôi đ? cái b?t l?a ? đâu r?i?}
+{301}{}{Tôi c?n b?t l?a.}
+{302}{}{AI ĐÓ MANG B?T L?A Đ?N ĐÂY ĐƯ?C KHÔNG!?}
+{303}{}{?, xin chào.}
+{304}{}{Xin l?i, hi?n tôi không nói chuy?n đư?c.}
+{400}{}{?, nh?n nh?ng ngôi sao xinh đ?p k?a!}
+{500}{}{Chào. C?n g? không?}
+{501}{}{Này, cám ơn l?n n?a v? cái b?t l?a. Nó t?t hơn cái trư?c đây c?a tôi nhi?u.}
+{600}{}{Chúng tôi t? n?u rư?u t?i tu vi?n. Đây là m?t trong s? nh?ng đ? ngon nh?t hi?n có t?i Hoang m?c.}
+{601}{}{Tôi th? đư?c không?}
+{602}{}{Nghe h?p d?n đ?y. Tôi ph?i đi đây.}
+{700}{}{T? th?t đ?y. G?n đây tôi m?i b? m?t và ch?ng t?m th?y nó đâu c?. N?u c?u mà t?m th?y m?t cái th?
+vui l?ng mang nó đ?n cho tôi nhé.}
 {701}{}{Sure. If I come across one I'll let you know. Bye.}
 {702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
 {800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}

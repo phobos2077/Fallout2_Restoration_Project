@@ -114,4 +114,4 @@
 {504}{}{Vic better be working hard for ya.}
 {505}{}{Maybe I'll catch you on a run.}
 {506}{}{How's it going?}
-{507}{}{Hi, again.}
+{507}{}{Chào.}
