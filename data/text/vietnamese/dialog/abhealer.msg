@@ -14,13 +14,13 @@
 {405}{}{D?NG L?I! D?NG L?I! D?NG L?I!}
 {406}{}{[TI?P T?C]}
 {407}{}{[D?NG]}
-{408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
-{409}{}{What the fu...}
-{500}{}{Hey, don't steal my medical supplies!}
-{501}{}{You gain 200 experience points for making Jack melt. Are you happy now, you sick fuck?}
-{600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
-{601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}
-{602}{}{Where did you get all your medical equipment?}
+{408}{}{(Đ?t nhiên, Jack b?t đ?u ch?y ra) TÔI ĐANG CH?Y, TÔI ĐANG CH?Y RA, ÔI GI?I...}
+{409}{}{Cái đi...}
+{500}{}{Này, đ?ng có ăn tr?m v?t tư ? t? c?a tôi!}
+{501}{}{B?n nh?n đư?c 200 đi?m kinh nghi?m v? đ? làm Jack tan ch?y. Vui l?m nh?, đ? b?nh ho?n?}
+{600}{}{Tôi là bác s?. Tôi đ? chăm sóc m?i ngư?i ? Tu vi?n này trong kho?ng, ?, t?m 15 năm r?i, ch?c v?y.}
+{601}{}{V?y ư. Dành t?ng đ?y năm đ? đ?c toàn b? ch? sách y h?c trư?c chi?n tranh trong thư vi?n, ch?c h?n ông là bác s? gi?i l?m.}
+{602}{}{Ông ki?m đâu ra ch? thi?t b? y t? này th??}
 {603}{}{Interesting. I think I will be leaving now.}
 {604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
 {605}{}{Ah, I see.}
