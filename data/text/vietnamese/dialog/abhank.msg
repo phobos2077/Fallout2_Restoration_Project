@@ -39,10 +39,10 @@
 {602}{}{Nghe h?p d?n đ?y. Tôi ph?i đi đây.}
 {700}{}{T? th?t đ?y. G?n đây tôi m?i b? m?t và ch?ng t?m th?y nó đâu c?. N?u c?u mà t?m th?y m?t cái th?
 vui l?ng mang nó đ?n cho tôi nhé.}
-{701}{}{Sure. If I come across one I'll let you know. Bye.}
-{702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
-{810}{}{Yeah, that's what I need. Will you give it to me?}
+{701}{}{Đư?c. Tôi s? báo n?u tôi t?m đư?c. Chào.}
+{702}{}{Ti?c th?t, tôi thích sưu t?m nên tôi gi? m?i th? tôi ki?m đư?c. Chào.}
+{800}{}{B?t-l?a? Ng? có máy l?a. Nó đ?t ng? nhi?u l?m. (B?n giơ b?t l?a lên).}
+{810}{}{Đúng là th? tôi c?n. C?u đưa nó cho tôi nhé?}
 {811}{}{Otay. I no likee it.}
 {812}{}{I no give you.}
 {820}{}{You no now burn self too. Bye!}
