@@ -101,8 +101,7 @@
 {191}{}{Entendo. Você se importa se eu fizer outras perguntas?}
 {192}{}{Acho que vou ver se consigo encontrá-lo.}
 {193}{}{! Bom trabalho! Bravo!}
-{194}{}{Ah, eu vou com certeza! Eu gostaria que houvesse mais pessoas como você neste mundo.
-}
+{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
 {195}{}{Eu certamente compartilho do sentimento! Já faz um tempo que não vejo alguém que esteja minimamente interessado. Eu conhecia um comerciante que compartilhava a mesma paixão...
 }
 {196}{}{Sério? Como?}

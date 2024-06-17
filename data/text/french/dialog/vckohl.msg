@@ -92,7 +92,7 @@
 {191}{}{Je vois. Je pourrais te poser encore quelques questions ?}
 {192}{}{Je vais peut-être voir si je peux le trouver.}
 {193}{}{ ! Bien ! Bravo !}
-{194}{}{Oh, je le ferai sans aucun doute ! J'aimerais qu'il y ait plus de personnes comme toi dans ce monde.}
+{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
 {195}{}{Je partage certainement ce sentiment ! Cela fait longtemps que je n'ai pas vu quelqu'un qui s'intéresse un tant soit peu à la question. J'ai connu un commerçant qui partageait cette passion...}
 {196}{}{Vraiment ? Autrefois ?}
 {197}{}{C'est bien de savoir que nous sommes plus nombreux. Ça te dérange si je te demande autre chose ?}

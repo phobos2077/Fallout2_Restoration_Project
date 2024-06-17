@@ -100,7 +100,7 @@
 {191}{}{Ya veo. ¿Te importa si te hago algunas preguntas más?}
 {192}{}{Quizá debería ir a ver si puedo encontrarlo.}
 {193}{}{! Bien hecho! Bravo!}
-{194}{}{Oh, claro que lo haré, desearía que más personas lo hicieran también.}
+{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
 {195}{}{¡Sin duda comparto el sentimiento!, ha pasado un tiempo desde que vi a alguien que estuviera mínimamente interesado. Aunque solía conocer un comerciante con quién compartía esa pasión...}
 {196}{}{¿En serio?, ¿lo hacía?}
 {197}{}{Bueno, es bueno saber que somos más. ¿Te importa si te pregunto otra cosa?}

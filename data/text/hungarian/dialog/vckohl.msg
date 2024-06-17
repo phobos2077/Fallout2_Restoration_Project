@@ -93,7 +93,7 @@
 {191}{}{Értem. Lenne még egy kérdésem.}
 {192}{}{Köszönöm.}
 {193}{}{Nagyszerű! Bravó!}
-{194}{}{Oh, I will for sure! I whish there were more people who did, too.}
+{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
 {195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
 {196}{}{Really? Used to?}
 {197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
