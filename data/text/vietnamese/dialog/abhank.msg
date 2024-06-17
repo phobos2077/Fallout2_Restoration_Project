@@ -2,13 +2,13 @@
 {101}{}{B?n th?y m?t th?y tu dính đ?y d?u m?.}
 {102}{}{Ông ta đang v?t l?n v?i cái b?nh l?c.}
 {200}{}{Này, anh b?n. C?u có b?t l?a ? đ?y không?}
-{201}{}{Yep. [Hand your lighter to him.]}
-{202}{}{This is perfect. Thanks!}
-{203}{}{Out of curiosity, what exactly are you doing here?}
-{204}{}{Sure. Since you brought me a lighter, here's one on the house.}
-{205}{}{[Drink it.]}
-{206}{}{I changed my mind I don't want any alcohol. Bye.}
-{207}{}{(You feel warm and relaxed after you gulp down the wine.)}
+{201}{}{Có. [Đưa b?t l?a cho ông ta].}
+{202}{}{Tuy?t v?i. Cám ơn!}
+{203}{}{Th?c m?c chút, ông đang làm cái quái g? ? đây th??}
+{204}{}{Đư?c. V? c?u đ? mang b?t l?a đ?n cho tôi, c?c này mi?n phí.}
+{205}{}{[U?ng].}
+{206}{}{Tôi đ?i ? r?i, tôi không mu?n l?y rư?u. Chào nhé.}
+{207}{}{(B?n c?m th?y ?m áp và khoan khoái sau khi u?ng h?t rư?u).}
 {208}{}{Gimme another, Hank.}
 {209}{}{I'll go now, bye.}
 {210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
