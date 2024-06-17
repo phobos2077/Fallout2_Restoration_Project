@@ -5,11 +5,11 @@
 {104}{}{"Per Joner an ngh? nơi đây. Ch?t khi chưa đá đ?i."}
 {105}{}{"Đ?c cha Michael an ngh? nơi đây. Ngư?i sáng l?p, Đ?c cha, Chi?n binh."}
 {106}{}{"M?t k? vô th?n. Không nhà nhưng diêm dúa."}
-{107}{}{"Johnny B?t an ngh? nơi đây. Xin l?i v? đ? không n?."}
+{107}{}{"Johnny 12 gi? an ngh? nơi đây. Xin l?i v? đ? không lên đư?c."}
 {108}{}{"Mary Jane. Ngư?i m? và v? kính yêu."}
 {109}{}{"'Chi?u tư?ng!' là l?i cu?i cùng mà Jon già nghe th?y. Trên bàn c? cu?c đ?i, Ông ch? là con t?t."}
 {110}{}{"Ngài John Strange, v? lu?t sư chính tr?c an ngh? nơi đây. Đúng là L? th?t."}
-{111}{}{"Nư?c m?t không th? đưa nàng v? -- v? v?y tôi khóc."}
+{111}{}{"Nư?c m?t không th? đưa nàng tr? l?i -- v? v?y tôi khóc."}
 {112}{}{"M?i ngày muôn n?o, tôi d?n ti?n bư?c."}
 {250}{}{Không có d?u tích nào trên bia m? này.}
 {251}{}{T?m bia m? này đ? v? v?n và không đ?c đư?c v? quá nát.}

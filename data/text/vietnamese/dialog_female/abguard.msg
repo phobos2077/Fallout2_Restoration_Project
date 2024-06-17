@@ -4,25 +4,25 @@ tr? chi?n l?m. Cái nh?n xuyên th?u c?a ông ta c? bám ch?t l?y b?n.}
 {200}{}{Xin chào, ngư?i l? khách. Chào m?ng đ?n v?i Tu vi?n. Ch? c?n đ?ng xía m?i vào m?i th? là cô s? ?n thôi.}
 {201}{}{Ta đang quan sát ngươi đ?y, đ? buôn nô l?. Ch? c?n làm g? đó thôi là ngươi s? bi?n thành bùn t?i ngh?a
 trang c?a b?n ta đ?y. Ta không mu?n ph?i làm chuy?n đó, và h?n là ngươi c?ng v?y. V? th? đ?ng có
-đ? cái ? tư?ng x?u nào m?c m?m trong cái đ?u ngươi.}
+n?y ? g? hay ho trong cái đ?u m?c c?a ngươi.}
 {202}{}{Ông là ai?}
 {203}{}{Tôi có th? trao đ?i hàng hóa ? đâu?}
 {204}{}{Có ngư?i đang đào m? k?a, sao ông không làm g? đó đi ch??}
 {205}{}{Tôi nghe nói có v?n đ? v?i l? đ?ng v?t ? dư?i h?m. Bi?t g? v? chuy?n đó không?}
 {206}{}{Tôi ngh? đ? đ?n lúc cho ông xu?ng m? r?i. Cùng nh?y nào, l?o già.}
 {207}{}{Không có g?. Xin chào.}
-{300}{}{Ch?ng ai c?... Trư?c đây ta có t?ng đi b?o v? xe l? hành. R?t nhi?u ngư?i tư?ng ta là c?nh sát g? đó v? trông ta
-r?t gi?ng v?i đám b?o v? pháp lu?t ? ch? này, nhưng đ?ch ph?i. Ta ch? trông coi khu c?ng đ?ng này v? ta
-th?y ch? này đáng đ? b?o v?.}
+{300}{}{Ch?ng ai c?... Trư?c đây ta có t?ng đi b?o v? đoàn l? hành. R?t nhi?u ngư?i tư?ng ta là c?m trư?ng g? đó v?
+trông ta r?t gi?ng v?i đám b?o v? pháp lu?t ? ch? này, nhưng đ?ch ph?i. Ta ch? trông coi khu c?ng đ?ng này 
+v? ta th?y ch? này đáng đ? b?o v?.}
 {301}{}{Và đ?i l?i th? c? c?ng đ?ng này giúp đ? ta. Đám th?y tu cho ta bú rư?u không m?t ti?n, Peterson th? lo đ? ăn c?n
 Bill th? đ?m b?o ta luôn có đ?y đ? đ?n dư?c. Không quá t?i cho chân b?o v? sau khi ngh? hưu ch? h??}
 {302}{}{Ta là ngư?i đ?m b?o ngươi tuân th? lu?t l?, đó là t?t c? nh?ng g? ngươi c?n bi?t. Gi? th? ti?p t?c làm g? th?
 làm đi và h?y đ? ta yên.}
-{303}{}{That is a nice arrangement. Let me ask you something else.}
-{304}{}{Whatever, goodbye.}
-{305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}
-{400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
- to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
+{303}{}{Công vi?c hay đ?y. Đ? tôi h?i v? chuy?n khác.}
+{304}{}{Sao c?ng đư?c, chào.}
+{305}{}{Ông ngh? ông xơi đư?c tôi á? C? th? đi, l?o già. S? vui l?m đây.}
+{400}{}{C?u có th? t?m Bill chuyên bán hàng ? đây trong t?a nhà đ?i di?n. N?u không th? c?u nên đ?n ch? Kho
+đ? sinh t?n c?a Percy t?i B?i ph? li?u ? Gecko ho?c quán c?a Harry Vui v? ? khu Sân c?a Thành ph? Vault.}
 {401}{}{Good to know. I have another question.}
 {402}{}{Thanks, bye.}
 {500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can

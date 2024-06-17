@@ -74,7 +74,7 @@
 {355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
 {356}{}{"Here lies Ann Mann, who lived an old maid but died an old Mann. Dec. 8, 1767"}
 {357}{}{"The children of Israel wanted bread and the Lord sent them manna, old clerk Wallace wanted a wife, and the Devil sent him Anna."}
-{358}{}{"Johnny B?t an ngh? nơi đây. Xin l?i v? đ? không n?."}
+{358}{}{"Johnny 12 gi? an ngh? nơi đây. Xin l?i v? đ? không lên đư?c."}
 {359}{}{"Here lies the body of Jonathan Blake stepped on the gas instead of the brake."}
 {360}{}{"Here lays Butch, we planted him raw. He was quick on the trigger, but slow on the draw."}
 {361}{}{"Sacred to the memory of my husband John Barnes who died January 3, 1803. His comely young widow, aged 23, has many qualifications of a good wife, and yearns to be comforted."}
