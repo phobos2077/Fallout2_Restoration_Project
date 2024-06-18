@@ -30,11 +30,11 @@ ki?n th?c này cho tôi.}
 {702}{}{Ông xem li?u có th? cho tôi xin m?t ít thu?c đư?c không? Có v? ông dư th?a khá nhi?u.}
 {703}{}{Cô mu?n tôi *đưa* chúng cho cô? Cái g? khi?n cô ngh? r?ng cô đáng đư?c dùng thu?c hơn nh?ng ngư?i ? Tu vi?n?}
 {704}{}{B?i v? tôi hay b? thương... nhi?u l?n.}
-{705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
- I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
- much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
-{706}{}{[He ponders over your words for a moment, then nods.] Alright, I'll give you some of our excess medical supplies.
- It sounds like you're gonna need 'em. Here. [He hands them to you.] Good luck, wanderer.}
+{705}{}{B?i v? tôi đang th?c hi?n nhi?m v? th?n thánh là đi t?m B? t?o Vư?n Đ?a đàng. Ông th?y đ?y, c? làng tôi s?
+di?t vong n?u tôi không t?m đư?c th? này k?p th?i. C?n nh?ng ngư?i c?a ông ? đây có v? như đang s?ng b?nh yên và
+không c?n nhi?u thi?t b? y t? đ?n th? này. Tôi không đ?i h?i đâu, ông cho bao nhiêu th? cho. Ít c?ng là nhi?u.}
+{706}{}{[Ông ta đ?n đo m?t lúc, r?i g?t đ?u]. Đư?c r?i, tôi s? cho c?u m?t vài đ? y t? dư th?a c?a chúng tôi. Có v? như
+c?u s? c?n chúng. Đây. [Ông ta trao đ? cho b?n]. Chúc may m?n, ngư?i l? khách.}
 {707}{}{Thanks, Jack. You're a true savior of the wastes. Bye.}
 {708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
 {709}{}{Fine. GOODBYE.}
