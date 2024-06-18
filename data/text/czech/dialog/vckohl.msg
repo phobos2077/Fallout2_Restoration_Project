@@ -92,7 +92,7 @@
 {191}{}{Aha. Nebude vám vadit, když se ještě na něco zeptám?}
 {192}{}{Asi se po něm půjdu podívat.}
 {193}{}{! Výborně! Bravo!}
-{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
+{194}{}{Oh, zajisté budu! Kéž by na světě bylo více takových kteří by to dělali také.}
 {195}{}{Rozhodně sdílím tento pocit! Už dlouho jsem neviděl někoho, kdo by se o to alespoň trochu zajímal. Kdysi jsem ale znal jednoho obchodníka, který tu vášeň sdílel...}
 {196}{}{Vážně? Jak?}
 {197}{}{Je pěkné větět že je nás více. Nevadilo by ti kdybych se na zeptal na něco jiného?}
