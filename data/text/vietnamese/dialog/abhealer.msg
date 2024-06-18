@@ -24,11 +24,11 @@
 {603}{}{Hay đ?y. Tôi e là tôi ph?i đi đây.}
 {604}{}{[Ông ta cau mày]. Tôi t? cho m?nh là bác s? gi?i, nhưng tôi có h?c đư?c quái g? đâu khi mà tôi c?n ch?ng đư?c phép... mà thôi, b? qua đi. Cha tôi là bác s?, và ông truy?n l?i nh?ng
 ki?n th?c này cho tôi.}
-{605}{}{Ah, I see.}
-{700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
-{701}{}{Interesting, bye.}
-{702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
-{703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
+{605}{}{À, tôi hi?u r?i.}
+{700}{}{M?t s? thu?c ? đây tôi nh?n l?i t? cha m?nh. Ch? c?n l?i h?u h?t có s?n ? Tu vi?n.}
+{701}{}{Hay đ?y, chào.}
+{702}{}{Ông xem li?u có th? cho tôi xin m?t ít thu?c đư?c không? Có v? ông dư th?a khá nhi?u.}
+{703}{}{C?u mu?n tôi *đưa* chúng cho c?u? Cái g? khi?n c?u ngh? r?ng c?u đáng đư?c dùng thu?c hơn nh?ng ngư?i ? Tu vi?n?}
 {704}{}{Because I tend to get hurt... a lot.}
 {705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
  I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
