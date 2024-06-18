@@ -33,10 +33,10 @@ ki?n th?c này cho tôi.}
 {705}{}{B?i v? tôi đang th?c hi?n nhi?m v? th?n thánh là đi t?m B? t?o Vư?n Đ?a đàng. Ông th?y đ?y, c? làng tôi s?
 di?t vong n?u tôi không t?m đư?c th? này k?p th?i. C?n nh?ng ngư?i c?a ông ? đây có v? như đang s?ng b?nh yên và
 không c?n nhi?u thi?t b? y t? đ?n th? này. Tôi không đ?i h?i đâu, ông cho bao nhiêu th? cho. Ít c?ng là nhi?u.}
-{706}{}{[Ông ta đ?n đo m?t lúc, r?i g?t đ?u]. Đư?c r?i, tôi s? cho c?u m?t vài đ? y t? dư th?a c?a chúng tôi. Có v? như
-c?u s? c?n chúng. Đây. [Ông ta trao đ? cho b?n]. Chúc may m?n, ngư?i l? khách.}
-{707}{}{Thanks, Jack. You're a true savior of the wastes. Bye.}
-{708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
+{706}{}{[Ông ta đ?n đo m?t lúc, r?i g?t đ?u]. Đư?c r?i, tôi s? cho cô m?t vài đ? y t? dư th?a c?a chúng tôi. Có v? như
+cô s? c?n chúng. Đây. [Ông ta trao đ? cho b?n]. Chúc may m?n, ngư?i l? khách.}
+{707}{}{Cám ơn, Jack. Ông đúng là v? c?u tinh th?c s? c?a hoang m?c. T?m bi?t.}
+{708}{}{V?y th? có l? c?u nên h?c cách c?n th?n hơn. Xin l?i, tôi s? không đem đ? y t? c?a Tu vi?n đi làm t? thi?n đâu.}
 {709}{}{Fine. GOODBYE.}
 {800}{}{I can't talk right now.}
 {801}{}{Sorry, I'm in the middle of something now. Come see me later.}
