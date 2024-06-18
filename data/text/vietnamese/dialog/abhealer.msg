@@ -29,7 +29,7 @@ ki?n th?c này cho tôi.}
 {701}{}{Hay đ?y, chào.}
 {702}{}{Ông xem li?u có th? cho tôi xin m?t ít thu?c đư?c không? Có v? ông dư th?a khá nhi?u.}
 {703}{}{C?u mu?n tôi *đưa* chúng cho c?u? Cái g? khi?n c?u ngh? r?ng c?u đáng đư?c dùng thu?c hơn nh?ng ngư?i ? Tu vi?n?}
-{704}{}{Because I tend to get hurt... a lot.}
+{704}{}{B?i v? tôi hay b? thương... nhi?u l?n.}
 {705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
  I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
  much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
