@@ -1,15 +1,15 @@
 {100}{}{B?n th?y m?t th?y tu tr? đeo kính.}
 {101}{}{b?n th?y Th?y Jason.}
 {102}{}{Th?y tu này có v? đang ch?m trong suy tư.}
-{200}{}{[Th?y tu tr? nhanh chóng nhét b? bài "Tragic" vào túi khi b?n đ?n g?n]. Anh mu?n g??}
+{200}{}{[Th?y tu tr? nhanh chóng nhét b? bài "Tragic" vào túi khi b?n đ?n g?n]. Cô mu?n g??}
 {201}{}{Không g? c?. Chào.}
 {202}{}{Tôi mu?n bi?t t?i sao c?u l?i gi?u tôi b? bài đó.}
-{210}{}{Tôi không bi?t anh đang nói g?. Tôi không có b? bài nào c?.}
+{210}{}{Tôi không bi?t cô đang nói g?. Tôi không có b? bài nào c?.}
 {211}{}{Đ?ng có ch?i. Tôi v?a th?y c?u nhét vào trong túi. Tôi ch? mu?n bi?t t?i sao thôi.}
 {212}{}{Đư?c r?i, sao c?ng đư?c. G?p l?i sau.}
 {220}{}{Này, đ?ng nói v?i ai nhé, đư?c ch?? Chúng tôi đúng ra không đư?c phép "s? d?ng" các k? v?t trư?c chi?n tranh mà
 ch? tôn th? thôi. Nhưng m?y lá Tragic này ng?u v?i. [Có v? như c?u ta ch?m trong đê mê khi đ?m đu?i nh?n b? bài.
-Sau m?t thoáng, c?u ta nh?n b?n]. ?, xin l?i, tôi là Th?y Jason. Tôi, ?m, ch?c anh không chơi bài Tragic đâu nh??}
+Sau m?t thoáng, c?u ta nh?n b?n]. ?, xin l?i, tôi là Th?y Jason. Tôi, ?m, ch?c cô không chơi bài Tragic đâu nh??}
 {221}{}{CÙNG CHI?N NÀO!!!}
 {222}{}{Tuy?t cú mèo, tôi c?c thích Tragic the Garnering.}
 {223}{}{Tôi có th?, nhưng không h?p.}
@@ -18,7 +18,7 @@ Sau m?t thoáng, c?u ta nh?n b?n]. ?, xin l?i, tôi là Th?y Jason. Tôi, ?m, ch
 {226}{}{Đéo. Trông tôi có gi?ng b? d? không?}
 {230}{}{Này, đm th?ng chóa. Đ? tao yên.}
 {231}{}{Này, đm con đ?y. Đ? tao yên.}
-{232}{}{Anh mày c?ng mu?n l?m, nhưng anh c?n mu?n nh?n mày ng?i xe lăn hơn k?a.}
+{232}{}{Ch? mày c?ng mu?n l?m, nhưng ch? c?n mu?n nh?n mày ng?i xe lăn hơn k?a.}
 {233}{}{Đư?c r?i, th? thôi. Chào.}
 {234}{}{Này, tôi xin l?i. Tôi nói hơi quá. Tôi ch? không thích bài Tragic thôi.}
 {240}{}{U?y b?n tôi ơi, tôi mu?n chơi v?i b?n l?m, nhưng không ?n đâu. Tôi không mu?n nó b? t?ch thu. Đây là đi?u

@@ -63,7 +63,7 @@
 {162}{}{You got it.}
 {163}{}{Forget it.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Nope.}
+{165}{}{Không h?.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}

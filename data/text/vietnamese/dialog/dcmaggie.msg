@@ -47,7 +47,7 @@
 {194}{}{Here's the drink. Anything else?}
 {195}{}{Question?}
 {196}{}{Yeha, how about you and I...}
-{197}{}{Nope.}
+{197}{}{Không h?.}
 {198}{}{Hey, you don't enough cash for this drink. You're poorer than even these sops!}
 {199}{}{Sorry.}
 {200}{}{Hmm, I'll come back.}

@@ -216,7 +216,7 @@
 {315}{}{Don't ask me. I don't know. }
 {316}{}{Yep.}
 {317}{}{Right.}
-{318}{}{Nope.}
+{318}{}{Không h?.}
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}
 {321}{}{Thanks. }

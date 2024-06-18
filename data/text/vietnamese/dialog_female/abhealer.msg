@@ -36,8 +36,8 @@ không c?n nhi?u thi?t b? y t? đ?n th? này. Tôi không đ?i h?i đâu, ông c
 {706}{}{[Ông ta đ?n đo m?t lúc, r?i g?t đ?u]. Đư?c r?i, tôi s? cho cô m?t vài đ? y t? dư th?a c?a chúng tôi. Có v? như
 cô s? c?n chúng. Đây. [Ông ta trao đ? cho b?n]. Chúc may m?n, ngư?i l? khách.}
 {707}{}{Cám ơn, Jack. Ông đúng là v? c?u tinh th?c s? c?a hoang m?c. T?m bi?t.}
-{708}{}{V?y th? có l? c?u nên h?c cách c?n th?n hơn. Xin l?i, tôi s? không đem đ? y t? c?a Tu vi?n đi làm t? thi?n đâu.}
-{709}{}{Fine. GOODBYE.}
-{800}{}{I can't talk right now.}
-{801}{}{Sorry, I'm in the middle of something now. Come see me later.}
-{802}{}{Hello again.}
+{708}{}{V?y th? có l? cô nên h?c cách c?n th?n hơn. Xin l?i, tôi s? không đem đ? y t? c?a Tu vi?n đi làm t? thi?n đâu.}
+{709}{}{Đư?c r?i. T?M BI?T.}
+{800}{}{Gi? tôi không nói chuy?n đư?c.}
+{801}{}{Xin l?i, tôi đang d? tay. Quay l?i sau nhé.}
+{802}{}{Chào g?p l?i.}
