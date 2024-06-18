@@ -93,7 +93,8 @@
 {192}{}{Пожалуй, пойду-ка я поищу его.}
 {193}{}{! Отлично сделано! Браво!}
 {194}{}{Oh, I will for sure! I wish there were more people who did, too.}
-{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
+{194}{}{О, обязательно! Если бы в мире было больше людей, как вы.}
+{195}{}{Подпишусь под каждым словом! Давненько я не встречал заинтересованных в этом людей. Хотя, знавал одного торговца, увлеченного этим вопросом...}
 {196}{}{Really? Used to?}
 {197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
 {198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
