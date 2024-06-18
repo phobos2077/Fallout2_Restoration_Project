@@ -35,42 +35,42 @@ mà tôi ghét ? nơi này. Chúng tôi đang n?m trên m? vàng ch?a c? núi đ
 phép đ?ng đ?n. Ch?ng đúng tí nào c?. Ngu vl.}
 {244}{}{?, nghe ngu th?t.}
 {245}{}{N?u c?u không đ?ng ? v?i l? tư?ng c?a h?i th? sao l?i đi làm th?y tu?}
-{250}{}{You think I *chose* to be a monk? I was born into this shitty lifestyle. I just wish the others would wake up and
- see how stupid it is to not take advantage of all this sweet stuff we've collected. But no, they're perfectly content to
- worship and catalog the relics, but never actually do anything useful with them. Like I said, it's fucking moronic.}
-{251}{}{You got a point, that does sound pretty stupid.}
-{252}{}{About as moronic as me sitting here listening to you bitch about your life. Bye.}
-{253}{}{If you think it's so stupid, then why don't you do something to try and change things?}
-{260}{}{Finally, someone who agrees with me! Look, I have this idea, and maybe you could help me out. You see, the monks
- here have spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally"
- format the database, they'd lose all that work. I think something like that might shock them back to their senses and we
- might finally give up this stupid way of life. So, what do you say?}
-{261}{}{I say that's a terrible idea and that I'm done talking to you.}
-{262}{}{Erase years of someone else's hard work? Sounds fun. I'll do it.}
-{263}{}{Why don't you format it yourself?}
-{264}{}{If you hate it here, why don't you just leave?}
-{270}{}{Actually, I *do* have an idea of how to change things. Maybe you could help me out. You see, the monks here have
- spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally" format the
- database, they'd lose all that work. I think something like that might shock them back to their senses and we might finally
- give up this stupid way of life. So, what do you say?}
-{271}{}{I say that's a terrible idea and that I'm done talking to you.}
-{272}{}{Erase hundreds of years of someone else's hard work? Sounds fun. I'll do it.}
-{273}{}{Why don't you format it yourself?}
-{274}{}{If you hate it here, why don't you just leave?}
-{280}{}{Are you kidding me? They'd crucify me if I did that. You however, you're an experienced adventurer. Hell, I bet
- you could massacre everyone here without breaking a sweat. So will you do it, or are you afraid of a bunch of pacifist monks?}
-{281}{}{I'm not afraid of anyone. I'll do it.}
-{282}{}{Alright. I'll do it.}
-{283}{}{Nah, instead I think I'll test out your massacre theory. Starting with you.}
-{284}{}{I'll pass. That's just not my style. Bye.}
-{285}{}{No, I'm not going to do it. If you hate it here, why don't you just leave?}
-{286}{}{Unless you've changed your mind about helping me, fuck off.}
-{287}{}{Alright. I'll do it.}
-{288}{}{No, I'm not going to do it. If you hate it here, why don't you just leave?}
-{290}{}{You will? Seriously? Oh man, that's awesome. But first, you'll need to get access, 'cause they're pretty protective
- of the database. It shouldn't be too hard though, these monks are pretty trusting. They're gonna be pissed as hell when
- you format it, but they're all a bunch of wimps, so don't worry about it. Just try not to kill anyone -- I don't want things
- to get too out of hand, you know?}
+{250}{}{Anh ngh? là tôi *ch?n* làm th?y tu sao? Tôi sinh ra trong cái đ?ng c?t này. Tôi ch? ư?c là nh?ng ngư?i khác c?ng
+m? m?t và th?y ngu vl khi không t?n d?ng nh?ng th? đ? tuy?t v?i đư?c thu th?p ? đây. Nhưng không, h? hoàn toàn
+hài l?ng v?i vi?c tôn th? và s?p x?p các k? v?t, nhưng ch?ng dùng chúng vào vi?c g? có ích c?. Ngu vcl.}
+{251}{}{C?u nói đúng, nghe ngu th?t.}
+{252}{}{Ngu ch?ng kém g? vi?c tôi ng?i đây nghe con nghi?n tr?nh bày v?y. T?m bi?t.}
+{253}{}{N?u c?u cho r?ng đi?u đó là ngu ng?c th? sao không th? c? g?ng làm g? đó đ? thay đ?i đi?}
+{260}{}{Cu?i cùng c?ng có ngư?i đ?ng ? v?i tôi! Tôi có ? này, và ch?c là anh có th? giúp tôi. Anh xem, đám th?y tu ? đây đ? dành
+*nhi?u năm* đ? chuy?n ki?n th?c trư?c chi?n tranh vào cơ s? d? li?u trong máy tính. N?u ai đó "l? tay" đ?nh d?ng d? li?u
+th? t?t c? s? b? xóa s?ch. Tôi ngh? vi?c này s? khi?n h? s?c đ?n m?c t?nh ra và chúng tôi cu?i cùng c?ng có th? t? b? l?i
+s?ng ngu ng?c này. V?y đó, anh th?y sao?}
+{261}{}{Tôi cho r?ng đ?y là m?t ? tư?ng t? h?i và tôi ch?ng c?n g? đ? nói n?a.}
+{262}{}{Xóa s?ch toàn b? công s?c nhi?u năm c?a ai đó? Nghe hay đ?y. C? đ? tôi.}
+{263}{}{Sao c?u không t? đi mà đ?nh d?ng l?y?}
+{264}{}{N?u c?u ghét nơi này th? sao không r?i đi?}
+{270}{}{Th?c ra th? tôi *có* ? này có th? thay đ?i m?i th?. ch?c là anh có th? giúp tôi. Anh xem, đám th?y tu ? đây đ? dành
+*nhi?u năm* đ? chuy?n ki?n th?c trư?c chi?n tranh vào cơ s? d? li?u trong máy tính. N?u ai đó "l? tay" đ?nh d?ng d? li?u
+th? t?t c? s? b? xóa s?ch. Tôi ngh? vi?c này s? khi?n h? s?c đ?n m?c t?nh ra và chúng tôi cu?i cùng c?ng có th? t? b? l?i
+s?ng ngu ng?c này. V?y đó, anh th?y sao?}
+{271}{}{Tôi cho r?ng đ?y là m?t ? tư?ng t? h?i và tôi ch?ng c?n g? đ? nói n?a.}
+{272}{}{Xóa s?ch toàn b? công s?c nhi?u năm c?a ai đó? Nghe hay đ?y. C? đ? tôi.}
+{273}{}{Sao c?u không t? đi mà đ?nh d?ng l?y?}
+{274}{}{N?u c?u ghét nơi này th? sao không r?i đi?}
+{280}{}{Anh điên à? H? s? đóng đinh tôi n?u tôi đ?ng vào. Nhưng m?t nhà phiêu lưu gi?i giang như anh th? khác. M? ki?p,
+tôi cá là anh ch? c?n l?t tay là có th? tàn sát t?t c? m?i ngư?i ? đây. V?y anh có làm không, hay s? m?t đám th?y tu ch?t nhát?}
+{281}{}{Tôi ch?ng s? ai c?. C? đ? tôi.}
+{282}{}{Đư?c. C? đ? tôi.}
+{283}{}{Không, thay vào đó tôi ngh? là tôi s? th? xem c?u cá có đúng không. B?t đ?u t? c?u.}
+{284}{}{Thôi đi. Chuy?n này không h?p v?i tôi. Chào.}
+{285}{}{Không, tôi s? không làm đâu. N?u c?u ghét nơi này th? sao không r?i đi?}
+{286}{}{Tr? phi mu?n giúp tôi, c?n không th? cút đi.}
+{287}{}{Đư?c. C? đ? tôi.}
+{288}{}{Không, tôi s? không làm đâu. N?u c?u ghét nơi này th? sao không r?i đi?}
+{290}{}{Th?t á? Giàng ơi tuy?t cú mèo. Nhưng đ?u tiên anh s? c?n có quy?n truy c?p v? h? b?o v? cơ s? d? li?u khá k?. Nhưng
+không khó l?m đâu, đám tu s? này tin ngư?i đ?n sái c? c?. Ch?c là h? s? n?i điên lên khi anh đ?nh d?ng d? li?u,
+nhưng không c?n lo đâu v? toàn m?t l? èo u?t ?y mà. Ch? c?n đ?ng gi?t ai là đư?c -- Tôi không mu?n m?i th?
+vư?t kh?i t?m ki?m soát, anh bi?t đ?y?}
 {291}{}{Sure. Anything else?}
 {292}{}{I make no promises. Anything else?}
 {300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me
