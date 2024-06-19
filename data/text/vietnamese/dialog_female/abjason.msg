@@ -71,7 +71,7 @@ tôi cá là cô ch? c?n l?t tay là có th? tàn sát t?t c? m?i ngư?i ? đây
 không khó l?m đâu, đám tu s? này tin ngư?i đ?n sái c? c?. Ch?c là h? s? n?i điên lên khi cô đ?nh d?ng d? li?u,
 nhưng không c?n lo đâu v? toàn m?t l? èo u?t ?y mà. Ch? c?n đ?ng gi?t ai là đư?c -- Tôi không mu?n m?i th?
 vư?t kh?i t?m ki?m soát, cô bi?t đ?y?}
-{291}{}{Sure. Anything else?}
+{291}{}{test2}
 {292}{}{I make no promises. Anything else?}
 {300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me
  you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for
