@@ -71,11 +71,11 @@ tôi cá là anh ch? c?n l?t tay là có th? tàn sát t?t c? m?i ngư?i ? đây
 không khó l?m đâu, đám tu s? này tin ngư?i đ?n sái c? c?. Ch?c là h? s? n?i điên lên khi anh đ?nh d?ng d? li?u,
 nhưng không c?n lo đâu v? toàn m?t l? èo u?t ?y mà. Ch? c?n đ?ng gi?t ai là đư?c -- Tôi không mu?n m?i th?
 vư?t kh?i t?m ki?m soát, anh bi?t đ?y?}
-{291}{}{Sure. Anything else?}
-{292}{}{I make no promises. Anything else?}
-{300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me
- you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for
- doing this. It's for their own good.}
+{291}{}{Đư?c. C?n g? n?a không?}
+{292}{}{Tôi không h?a trư?c đư?c. C?n g? n?a không?}
+{300}{}{Ch? c?n đ?nh d?ng d? li?u r?i té thôi, v? h? s? không mu?n anh ? đây đâu. Đ?ng có quay l?i đ? báo là anh đ? làm
+xong, v? tôi c?ng s? gi? v? n?i xung lên gi?ng h?, n?u không th? h? s? nghi ng?. Cám ơn l?n n?a v? đ? đ?ng ?, đi?u này
+là đ? t?t cho h? thôi.}
 {301}{}{Whatever you say. Bye.}
 {310}{}{Are you crazy? I've never been out in the wastes, but I've got a pretty damn good idea as to what it's like. I'd
  be lucky to make if fifty yards before a radscorpion shoved a foot-long stinger up my ass. Or even worse, I'd get captured
