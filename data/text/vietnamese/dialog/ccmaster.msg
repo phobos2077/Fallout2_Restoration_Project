@@ -97,5 +97,5 @@
 {191}{}{Not if I shoot first!}
 {192}{}{Wait a minute -- you're not one of us! GUARDS!}
 {193}{}{Look soldier, I already gave you your gear, so get on out of here.}
-{194}{}{What do you want?}
+{194}{}{Mu?n g??}
 {195}{}{Droog?}

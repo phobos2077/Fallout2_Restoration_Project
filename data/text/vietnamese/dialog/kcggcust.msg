@@ -43,7 +43,7 @@
 {149}{}{Your momma ain't in here kid; try the Bathhouse.}
 {150}{}{Why don't you go play someplace else?}
 {151}{}{There's a nice canyon for you, just east of here.}
-{152}{}{What do you want?}
+{152}{}{Mu?n g??}
 {153}{}{Better just mind your own business.}
 {154}{}{Your name Torr? (heh, heh, heh)}
 {155}{}{Go drink with Aldo, why dontcha?}

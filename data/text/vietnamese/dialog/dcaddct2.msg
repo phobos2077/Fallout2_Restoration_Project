@@ -1,7 +1,7 @@
 {100}{}{You see a squatter.}
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
-{103}{}{What do you want?}
+{103}{}{Mu?n g??}
 {104}{}{I want you and your friends out of this building. It's come to my attention that Mom intends to turn this place
  into an orphanage to get all those homeless children off the streets. And she can't do that with you squatting here.}
 {105}{}{[He snickers uneasily and glances at his fellow squatters for support.] Mom knows the deal. We're not going anywhere

@@ -2,7 +2,7 @@
 {101}{}{You see Jacob the Chemist.}
 {102}{}{You see a bedraggled man in a stained lab coat. His hands are discolored from chemicals.}
 {103}{}{Hi there. I'm Jacob, the chemist of the Chemist's Drugstore. What can I do for you?}
-{104}{}{What do you want?}
+{104}{}{Mu?n g??}
 {105}{}{Hello again! What can I for you today?}
 {106}{}{Welcome back. What can I do for you?}
 {107}{}{Da yagga! Eep oop op!}

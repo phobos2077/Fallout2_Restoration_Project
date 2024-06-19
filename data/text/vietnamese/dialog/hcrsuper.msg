@@ -2,7 +2,7 @@
 {101}{}{You see the refinery supervisor.}
 {102}{}{You see a ghoul. Its skin looks like it's ready to slough off the creature. It also looks like it's readily accepted by the other townsfolk.}
 {103}{}{You're not supposed to be here! }
-{104}{}{What do you want?}
+{104}{}{Mu?n g??}
 {105}{}{Da yagga! Eep oop op!}
 {106}{}{Dunno.}
 {107}{}{I have some ore to be refined.}

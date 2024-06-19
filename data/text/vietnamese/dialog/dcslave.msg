@@ -104,7 +104,7 @@
 {475}{}{Wait. I look for someone. Where more slaves?}
 {476}{}{Thankee. Go now!}
 {480}{}{What you want?}
-{481}{}{What do you want?}
+{481}{}{Mu?n g??}
 {482}{}{Oh, nothing.}
 {500}{}{Huh?}
 {501}{}{Never mind. You're free to go. Metzger's dead.}

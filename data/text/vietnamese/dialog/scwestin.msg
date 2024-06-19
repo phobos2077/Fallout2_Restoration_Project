@@ -3,7 +3,7 @@
 {102}{}{Silver and turquoise rings, silver belt buckle, pistol at his side, this guy's clearly used to having money and having his own way.}
 {103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
 {104}{}{You again? What do you want?}
-{105}{}{What do you want?}
+{105}{}{Mu?n g??}
 {106}{}{Duh...}
 {107}{}{Me look Vault 13. You help?}
 {108}{}{I'm looking for Vault 13. Can you help me?}

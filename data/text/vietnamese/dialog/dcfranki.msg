@@ -33,7 +33,7 @@
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
 {180}{}{I'll come back.}
-{181}{}{What do you want?}
+{181}{}{Mu?n g??}
 {182}{}{Whiskey.}
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Wahdo a peedee!}

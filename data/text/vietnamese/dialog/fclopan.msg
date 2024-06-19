@@ -1,7 +1,7 @@
 {100}{}{You see an arrogant Shi gangster.}
 {101}{}{You see Lo Pan, a domineering, ruthless man.}
 {102}{}{You see a Shi gangster, dressed in silken clothing. His hands are calloused and hard. He seems dangerous and poisonous.}
-{103}{}{What do you want?}
+{103}{}{Mu?n g??}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Who you?}
 {106}{}{Who was that you were fighting?}

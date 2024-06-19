@@ -135,7 +135,7 @@
 {423}{}{I deserve a raise for the work I do.}
 {424}{}{Gecko sure owes me now.}
 {425}{}{Did you see me out there? Never even faltered.}
-{430}{}{What do you want?}
+{430}{}{Mu?n g??}
 {431}{}{I heard that you take care of parts requisitions and I need one.}
 {432}{}{I just wondered what you do here. }
 {440}{}{You? What do you need one for?}

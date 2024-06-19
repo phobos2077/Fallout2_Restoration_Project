@@ -29,7 +29,7 @@
 {128}{}{I just need a little more credit.}
 {129}{}{My luck's about to change; I can feel it.}
 {130}{}{Where's my lucky gecko-foot when I need it?}
-{131}{}{What do you want?}
+{131}{}{Mu?n g??}
 {132}{}{Back off, bub.}
 {133}{}{Hey, don't jinx me.}
 {134}{}{Are you giving me the evil eye?}

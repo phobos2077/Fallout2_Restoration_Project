@@ -2,7 +2,7 @@
 {101}{}{You see Ken Lee, advisor to the Emperor.}
 {102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
 {103}{}{What would you like, friend?}
-{104}{}{What do you want?}
+{104}{}{Mu?n g??}
 {105}{}{What can I do for you?}
 {106}{}{You?}
 {107}{}{Ông là ai?}

@@ -32,7 +32,7 @@
 {184}{}{Here. Here's $1.}
 {185}{}{Here money.}
 {186}{}{No money.}
-{187}{}{What do you want?}
+{187}{}{Mu?n g??}
 {188}{}{[Tell Karl about what Jo said.]}
 {189}{}{Ghosts, Karl... they're everywhere. Look, there's one now!}
 {190}{}{Gibba gibba.}

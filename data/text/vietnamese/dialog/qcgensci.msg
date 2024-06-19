@@ -47,7 +47,7 @@
 {146}{}{Like we wouldn't see an intruder approaching.}
 {147}{}{Another alarm malfunction. Great.}
 {148}{}{I don't have time for this shit.}
-{149}{}{What do you want?}
+{149}{}{Mu?n g??}
 {150}{}{Can't you see I'm working here?}
 {151}{}{Go away. I'm busy.}
 {152}{}{Don't you have anything better to do?}

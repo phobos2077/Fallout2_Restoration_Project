@@ -56,7 +56,7 @@
 {297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
 {298}{}{That mutant is one big mutha.}
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}
-{305}{}{What do you want?}
+{305}{}{Mu?n g??}
 {306}{}{Help you with somethin'?}
 {307}{}{Damn hot...}
 {308}{}{New Reno gets uglier every day...}

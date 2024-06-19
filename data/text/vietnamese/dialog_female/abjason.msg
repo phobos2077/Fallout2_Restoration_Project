@@ -76,31 +76,31 @@ vư?t kh?i t?m ki?m soát, cô bi?t đ?y?}
 {300}{}{Ch? c?n đ?nh d?ng d? li?u r?i té thôi, v? h? s? không mu?n cô ? đây đâu. Đ?ng có quay l?i đ? báo là anh đ? làm
 xong, v? tôi c?ng s? gi? v? n?i xung lên gi?ng h?, n?u không th? h? s? nghi ng?. Cám ơn l?n n?a v? đ? đ?ng ?, đi?u này
 là đ? t?t cho h? thôi.}
-{301}{}{Whatever you say. Bye.}
-{310}{}{Are you crazy? I've never been out in the wastes, but I've got a pretty damn good idea as to what it's like. I'd
- be lucky to make if fifty yards before a radscorpion shoved a foot-long stinger up my ass. Or even worse, I'd get captured
- and tortured by a gang of maniac raiders *or* I'd be eaten alive by cannibalistic tribals. Whatever. I just know that if
- I left here, I'd be fucked. So no, I'm stuck here.}
-{311}{}{Hey, it's not *that* bad out there... Actually, you're right. You probably wouldn't even make it to Gecko.
- At least, not without help. But what if I said I'd escort you?}
-{312}{}{Sucks to be you. Bye.}
-{313}{}{Keep your hopes up. I'm sure there is a town nearby that would be safe to travel to.}
-{315}{}{Yeah, well if you find one, let me know.}
-{316}{}{Will do. Bye.}
-{320}{}{To Gecko? That's the ghoul town, right? Thanks, but no thanks.}
-{321}{}{Hey, the ghouls there are actually really friendly. Besides, I know one in particular that loves a good game of Tragic.}
-{322}{}{Hey, the ghouls there are actually really friendly.}
-{323}{}{Hey, I hear the ghouls there are actually really friendly.}
-{324}{}{Alright. Suit yourself. Bye.}
-{330}{}{No shit, another Tragic player? Hmm, that kind of changes things... I wonder if he'd have a Black Dahlia to
- trade. Alright. I'll go if you'll escort me.}
-{331}{}{Lets go.}
-{332}{}{Alright, but I need to take care of some things first. I'll let you know when I'm ready to go.}
-{340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
-{341}{}{Alright. Suit yourself. Bye.}
-{350}{}{What do you want?}
-{351}{}{I just wanted to say hi. See ya.}
-{352}{}{I changed my mind. I'll format the computer for you.}
+{301}{}{Sao c?ng đư?c. T?m bi?t.}
+{310}{}{Cô điên à? Tôi chưa th? chân ra hoang m?c l?n nào, nhưng tôi bi?t r? là ngoài đó có g?. May l?m
+th? tôi b? đư?c 50 bư?c trư?c khi b? b? c?p đâm đít. T? hơn n?a th? tôi có th? b? m?t đám cư?p điên r? túm c?
+và tra t?n *ho?c* b? l? to?c ăn th?t ngư?i nhai s?ng. Đ?i lo?i th?. Tôi bi?t là n?u tôi mà r?i kh?i đây th? tôi s? ăn l?n
+ngay. Th? nên không đâu, tôi thà ch?t dí ? đây c?n hơn.}
+{311}{}{Này, ngoài đó *đâu* có t? đ?n th?... Mà ch?c là c?u nói đúng. Ch?c là c?u c?n không m? đ?n n?i Gecko.
+Ít nh?t là n?u t? đi. Nhưng n?u tôi d?n c?u đi th? sao?}
+{312}{}{Kém c?i th?t. T?m bi?t.}
+{313}{}{C? mơ đi ch?. Tôi ch?c là g?n đây có s? có ch? an toàn đ? chuy?n đ?n.}
+{315}{}{?, n?u cô mà t?m th?y th? báo cho tôi nhé.}
+{316}{}{Đư?c thôi. T?m bi?t.}
+{320}{}{Gecko á? Khu c?a đám ghoul đúng không? Cám ơn nhưng tôi đéo d?i.}
+{321}{}{Này, nh?ng ngư?i ghoul th?c ra thân thi?n l?m. Hơn n?a, tôi c?n bi?t m?t g? thích đ?u bài Tragic l?m.}
+{322}{}{Này, nh?ng ngư?i ghoul th?c ra thân thi?n l?m.}
+{323}{}{Này, tôi nghe nói th?c ra h? thân thi?n l?m.}
+{324}{}{Đư?c r?i. Tùy c?u thôi. T?m bi?t.}
+{330}{}{Đm th?t à, m?t tay chơi Tragic khác? H?m, th? này th?... Li?u ông ta có lá Black Dahlia nào đ? đ?i không nh??
+Đư?c r?i. Tôi s? đi n?u cô đưa tôi đi.}
+{331}{}{Lên đư?ng nào.}
+{332}{}{Đư?c r?i, nhưng tôi c?n ph?i thu x?p vài vi?c trư?c. Tôi s? báo khi nào xong xuôi.}
+{340}{}{Th?t à? Nhưng mà đâu có thay đ?i đư?c th?c t? là chúng nó đ?c mùi phân b?. Không đâu.}
+{341}{}{Đư?c r?i. Tùy c?u thôi. T?m bi?t.}
+{350}{}{Mu?n g??}
+{351}{}{Ch? chào h?i thôi. G?p l?i sau.}
+{352}{}{Tôi đ?i ? r?i. Tôi s? đ?nh d?ng cái máy cho c?u.}
 {353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
  someone there that loves a good game of Tragic.}
 {354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}

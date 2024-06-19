@@ -5,7 +5,7 @@
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
 {106}{}{Tôi giúp g? đư?c nh??}
-{107}{}{What do you want?}
+{107}{}{Mu?n g??}
 {108}{}{Da... oooh...}
 {109}{}{Ông là ai?}
 {110}{}{What do you do here?}

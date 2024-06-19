@@ -45,7 +45,7 @@
 {139}{}{No.}
 {140}{}{All right. The Republic it is. Come back on the 11th of the month and you'll be on your way. Want anything else?}
 {141}{}{All right. Vault City it is. Come back on the 21st of the month and you'll be on your way. Want anything else?}
-{142}{}{What do you want?}
+{142}{}{Mu?n g??}
 {143}{}{I'm looking for a job.}
 {144}{}{I need to buy stuff.}
 {145}{}{What can you tell me about Chad?}

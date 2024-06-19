@@ -38,7 +38,7 @@
 {309}{}{Your momma ain't in here kid. Try the Bathhouse.}
 {310}{}{Why don't you go play someplace else?}
 {311}{}{There's a nice canyon for you, just east of here.}
-{312}{}{What do you want?}
+{312}{}{Mu?n g??}
 {313}{}{Better just mind your own business.}
 {314}{}{Your name Torr? (heh, heh, heh)}
 {315}{}{Go drink with Aldo, why dontcha?}

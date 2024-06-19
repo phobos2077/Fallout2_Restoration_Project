@@ -39,14 +39,14 @@
 {127}{}{}
 {128}{}{}
 {129}{}{Help Skynet.}
-{130}{}{What do you want?}
+{130}{}{Mu?n g??}
 {131}{}{Why have you been trying to kill me?}
 {132}{}{Artificial intelligence?}
 {133}{}{Waiting for me?}
 {134}{}{Exit.}
 {135}{}{Exit.}
 {136}{}{Proceed}
-{137}{}{What do you want?}
+{137}{}{Mu?n g??}
 {138}{}{Why have you been trying to kill me?}
 {139}{}{Artificial intelligence?}
 {140}{}{Waiting for me?}
