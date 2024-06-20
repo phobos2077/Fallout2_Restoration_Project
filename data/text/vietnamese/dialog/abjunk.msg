@@ -1,4 +1,4 @@
-{100}{}{You see pre-war gadgets.}
-{101}{}{Displayed on the table, like holy relics, is an impressive array of pre-war gadgets and gizmos.
- Too bad none of it works anymore.}
-{102}{}{There is nothing of use here.}
+{100}{}{B?n th?y các đ? ph? ki?n trư?c chi?n tranh.}
+{101}{}{Hàng lo?t các đ? ph? ki?n và đ? dùng trư?c chi?n tranh đư?c trưng trên bàn ch?ng khác nào
+thánh tích v?y. Th?t ti?c là không cái nào c?n ho?t đ?ng đư?c.}
+{102}{}{Ch?ng có th? g? dùng đư?c ? đây.}

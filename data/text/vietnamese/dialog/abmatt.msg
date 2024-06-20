@@ -1,21 +1,22 @@
-{100}{}{You see a middle aged monk.}
-{101}{}{You see Brother Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
-{201}{}{Here we collect, the holy relics of an age long past.}
-{202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
-{203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
-{204}{}{We must guard and care for it, though the flame has gone cold;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
-{209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
-{210}{}{We must preserve and protect it, but never shall we use.}
-{211}{}{So go now my friends, and let your spirits be lifted;}
-{212}{}{For the guardians of knowledge, we have each, been gifted.}
-{213}{}{Now, please take a moment and reflect on what I have said.}
-{224}{}{Now, please take a moment and reflect on what I have said.}
+{100}{}{B?n th?y m?t th?y tu trung niên.}
+{101}{}{B?n th?y Th?y Matthew.}
+{102}{}{Ông ta đang đ?ng trên b?c gi?ng kinh cho ngư?i dân c?a Tu vi?n.}
+{200}{}{Nh?ng cư dân thi?n lành c?a Tu vi?n. H?y dành th?i gian l?ng nghe, v? ta có nhi?u đi?u mu?n nói.}
+{201}{}{T?i đây, chúng ta thu th?p nh?ng đ? thánh tích t? quá kh? xa xưa.}
+{202}{}{B? tr?n Đ?i h?a thiêu r?i, chúng ta ch?m vào đêm đen.}
+{203}{}{D?ng nên Kho k? v?t, chúng ta b?o t?n trí tu? xưa c?.}
+{204}{}{Chúng ta ph?i canh gác và gi? g?n, dù cho ng?n l?a đ? tàn;}
+{205}{}{L?a v?n có th? bùng lên, n?u trí tu? b? dùng cho m?c đích sai trái.}
+{206}{}{Và không ai có th? h?c h?i đư?c n?a, trong n?i s? tr?n Đ?i h?a.}
+{207}{}{Nhưng m?t ngày, nhân lo?i s? vư?t lên đư?c ham mu?n tàn phá.}
+{208}{}{Và Kho k? v?t s? ? đó, ch? đư?c đưa tr? l?i.}
+{209}{}{V? v?y chúng ta h?y th?c hành ngh?a v? thiêng liêng c?a m?nh,
+k?o t?t c? trí tu? s? ch?m vào s? l?ng quên.}
+{210}{}{Chúng ta ph?i lưu gi? và b?o v?, nhưng không đư?c phép s? d?ng.}
+{211}{}{V?y nên gi? đây, các b?n c?a ta, h?y đ? tâm h?n đư?c nâng đ?;}
+{212}{}{V?i tư cách ngư?i b?o v? ki?n th?c, m?i ngư?i trong chúng ta, đ?u đư?c ban phư?c.}
+{213}{}{Gi? th? h?y dành th?i gian đ? suy ng?m v? nh?ng đi?u ta v?a nói.}
+{224}{}{Gi? th? h?y dành th?i gian đ? suy ng?m v? nh?ng đi?u ta v?a nói.}
 {300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
  spread the word about the importance of preserving the knowledge of the old ones.}
 {301}{}{It's good to meet you Matt. My name is }

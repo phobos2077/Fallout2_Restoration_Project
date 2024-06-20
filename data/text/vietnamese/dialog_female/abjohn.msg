@@ -16,18 +16,18 @@
 {407}{}{Tôi có th? có cách gi?i quy?t b?nh tim c?a ông...}
 {408}{}{Đáng ti?c th?t đ?y. T?m bi?t.}
 {410}{}{Chào.}
-{411}{}{Th?t à? C?u đang nói là c?u th?t s? CÓ thu?c tr? tim?}
+{411}{}{Th?t à? Cô đang nói là cô th?t s? CÓ thu?c tr? tim?}
 {412}{}{Đúng v?y. Tôi s? r?t vui đư?c đưa chúng cho ông.}
 {413}{}{Đúng v?y, tôi có thu?c tr? tim. Ông có th? mua v?i giá 400$.}
 {414}{}{Đùa thôi. Tôi làm g? có thu?c tr? tim.}
 {415}{}{[Ông ta nh?n thu?c t? tay b?n] Cám ơn con! Đây, vui l?ng nh?n th? này thay l?i c?m ơn.}
 {416}{}{R?t vui v? đ? giúp đư?c ông, và cám ơn v? món đ?. T?m bi?t!}
-{417}{}{(Ông ta n?i cơn t?c gi?n, nhưng sau đó b?nh t?nh l?i) Ok, đư?c r?i, ti?n c?a c?u đây. Gi? th? đưa thu?c cho ta!}
+{417}{}{(Ông ta n?i cơn t?c gi?n, nhưng sau đó b?nh t?nh l?i) Ok, đư?c r?i, ti?n c?a cô đây. Gi? th? đưa thu?c cho ta!}
 {418}{}{Tôi quy?t đ?nh gi? l?i thu?c cho m?nh r?i. Cám ơn v? ch? ti?n nhé!}
 {419}{}{R?t vui đư?c giao d?ch v?i ông. T?m bi?t.}
 {420}{}{H?m, xin l?i, ta không bi?t. H?y nói chuy?n v?i Abbot, ông ta có th? bi?t g? đó.}
 {421}{}{Cám ơn, tôi s? làm v?y. Gi? th? tôi mu?n h?i chuy?n khác.}
-{422}{}{N?u ta mà không b?nh th? ta đ? đánh cho c?u ph?t c?t ra r?i. GI? TH? CÚT ĐI!}
+{422}{}{N?u ta mà không b?nh th? ta đ? đánh cho cô ph?t c?t ra r?i. GI? TH? CÚT ĐI!}
 {423}{}{Đư?c, tôi đi.}
 {500}{}{Cám ơn con l?n n?a v? nh?ng viên thu?c tim này. Chúc con may m?n trên cu?c hành tr?nh.}
 {600}{}{Đi ch? khác đi, làm ơn.}
