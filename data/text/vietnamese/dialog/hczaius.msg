@@ -8,7 +8,7 @@
 {107}{}{Yeah, rolled in a little while back.}
 {108}{}{No, genius, I've been living here all along and you never noticed me.}
 {109}{}{Heard you're having a little trouble with the mine.}
-{110}{}{What can you tell me about this place?}
+{110}{}{Ông có th? nói g? v? nơi này?}
 {111}{}{Ummm... riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
  yourself something to drink.}
 {112}{}{Yagga? Ogg? Gronk!}

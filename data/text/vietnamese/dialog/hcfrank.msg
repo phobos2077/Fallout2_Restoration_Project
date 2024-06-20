@@ -7,7 +7,7 @@
 {105}{}{You! Me! Go!}
 {106}{}{Ông là ai?}
 {107}{}{Why are you in jail?}
-{108}{}{What can you tell me about this place?}
+{108}{}{Ông có th? nói g? v? nơi này?}
 {109}{}{What can you tell me about Marcus?}
 {110}{}{I got no idea what you're saying, freak. Get out of my sight.}
 {111}{}{Oooooh...}

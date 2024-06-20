@@ -47,7 +47,7 @@
  our crises. In truth, though, everyone in the city has a voice.}
 {136}{}{That seems unworkable.}
 {137}{}{That sounds like a good way to run things.}
-{138}{}{Go on.}
+{138}{}{Ti?p t?c đi.}
 {139}{}{The guy who helped create the city's still in charge? That would make him very, very old.}
 {140}{}{Cám ơn. T?m bi?t.}
 {141}{}{Aside from the mutants all being DEAD and this town being DOOMED...}

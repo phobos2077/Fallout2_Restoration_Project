@@ -47,7 +47,7 @@
 {152}{}{Strange.}
 {153}{}{Cuddles always used to help me go to sleep at night. I think of her every night when I try to go to sleep.}
 {154}{}{Sounds nice.}
-{155}{}{Go on.}
+{155}{}{Ti?p t?c đi.}
 {156}{}{I had her when I was a kid, but she disappeared. I didn't know then what happened to her, I was too young.}
 {157}{}{Why?}
 {158}{}{Well, food was awfully scarce back then and people had to eat. It's quite sad really...}
