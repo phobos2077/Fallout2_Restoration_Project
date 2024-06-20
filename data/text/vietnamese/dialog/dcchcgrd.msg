@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {150}{}{The guard is guarding the old church.}
 {151}{}{[TALK]}
 {152}{}{How dare you show your face again!}

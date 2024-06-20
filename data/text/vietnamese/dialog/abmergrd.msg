@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
-{101}{}{He seems to be hired muscle for the merchant.}
-{102}{}{Talk to the boss if you need something.}
-{103}{}{Don't cause any trouble, ya hear?}
+{100}{}{B?n th?y m?t lính gác.}
+{101}{}{Anh ta trông như v? s? đư?c thương gia thuê.}
+{102}{}{H?y nói v?i s?p n?u c?n g? đó.}
+{103}{}{Đ?ng có bày tr? đ?y, r? ch??}

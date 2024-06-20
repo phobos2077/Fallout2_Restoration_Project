@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {101}{}{You see a guard for Becky's Casino Bar.}
 {150}{}{He seems to be keeping a close eye on this door.}
 {200}{}{You're not getting off that easy.}

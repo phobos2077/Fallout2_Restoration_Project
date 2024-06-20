@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {150}{}{He's one of Tyler's guards.}
 {151}{}{She's one of Tyler's guards.}
 {200}{}{You still alive?}

@@ -35,7 +35,7 @@
 {416}{}{Hello, my friend.}
 {417}{}{I've killed your beast, and I've got your book.}
 {418}{}{Excellent! Let me have it!}
-{419}{}{Here you go.}
+{419}{}{Đây.}
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}

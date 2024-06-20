@@ -59,7 +59,7 @@
 {147}{}{Chào.}
 {148}{}{You're welcome.}
 {149}{}{I'll see ya.}
-{150}{}{Hello.}
+{150}{}{Chào.}
 {151}{}{Hello again. How's it going?}
 {152}{}{I have no quarrel with you. }
 {153}{}{. I hope everything worked out for you at the Squat.}

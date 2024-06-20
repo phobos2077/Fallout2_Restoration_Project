@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {101}{}{You see one of the guards helping you with this caravan run.}
 {200}{}{You see a caravan driver.}
 {201}{}{You see one of the drivers helping you with this caravan run.}

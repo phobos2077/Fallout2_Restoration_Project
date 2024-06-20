@@ -79,7 +79,7 @@
 {178}{}{Uh, yes... Vault City prevails, Citizen.}
 {179}{}{Cám ơn.}
 {180}{}{Day Pass, please.}
-{181}{}{Here you go.}
+{181}{}{Đây.}
 {182}{}{I don't need a Day Pass. I'm a Citizen.}
 {183}{}{I was just stopping by to see how you were doing.}
 {184}{}{I don't have time for small talk, all right? Now get out of here.}

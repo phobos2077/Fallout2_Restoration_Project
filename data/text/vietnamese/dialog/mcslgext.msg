@@ -1,3 +1,3 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {200}{}{Vegeir says you can't leave just yet.}
 {210}{}{Vegeir said it's alright to let you through.}

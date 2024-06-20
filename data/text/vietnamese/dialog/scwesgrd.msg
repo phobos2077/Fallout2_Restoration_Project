@@ -1,4 +1,4 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {101}{}{You see Grant, the guard}
 {102}{}{You see a guard. His armor and weapons are in excellent condition.}
 {103}{}{This is private property, please move along.}

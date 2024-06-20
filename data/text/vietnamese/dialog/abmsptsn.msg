@@ -1,9 +1,9 @@
-{100}{}{You see Mrs. Peterson.}
-{101}{}{You see a young, pretty woman. She smiles when she sees you.}
-{200}{}{Welcome to the Abbey, friend.}
-{201}{}{Talk to my husband if you need something.}
-{202}{}{Beautiful day, isn't it?}
-{300}{}{Welcome to the Abbey, friend.}
-{301}{}{Talk to my husband if you need something.}
-{302}{}{Lovely evening, isn't it?}
-{400}{}{I have nothing to say to you. Please go away.}
+{100}{}{B?n th?y Bà Peterson.}
+{101}{}{B?n th?y m?t ph? n? tr? xinh đ?p. Cô ta cư?i khi th?y b?n.}
+{200}{}{Chào m?ng đ?n v?i Tu vi?n, ngư?i b?n.}
+{201}{}{H?y nói v?i ch?ng tôi n?u c?n g? đó.}
+{202}{}{Hôm nay đ?p tr?i nh??}
+{300}{}{Chào m?ng đ?n v?i Tu vi?n, ngư?i b?n.}
+{301}{}{H?y nói v?i ch?ng tôi n?u c?n g? đó.}
+{302}{}{Bu?i t?i mát th?t đ?y, nh??}
+{400}{}{Tôi không có g? đ? nói. Vui l?ng đi ch? khác.}

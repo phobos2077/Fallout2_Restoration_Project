@@ -71,7 +71,7 @@
 {199}{}{I have found the vault!}
 {200}{}{I have not been able to find Vault 13.}
 {201}{}{Well, look, it's the Chosen One.}
-{202}{}{Hello.}
+{202}{}{Chào.}
 {203}{}{Shut up.}
 {204}{}{Can I ask you a question?}
 {205}{}{No, I've no time for you.}
@@ -97,7 +97,7 @@
 {305}{}{Yes, I have some right here.}
 {306}{}{Not yet.}
 {307}{}{It's a good piece. Give me your spear.}
-{308}{}{Here you go.}
+{308}{}{Đây.}
 {309}{}{I guess I don't have one.}
 {310}{}{Now, you put the pieces like so...}
 {311}{}{The Chosen One without a spear? Well, you'll have to take one of

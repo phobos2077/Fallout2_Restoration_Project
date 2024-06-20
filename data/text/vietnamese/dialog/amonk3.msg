@@ -9,6 +9,6 @@
 {204}{}{We copy the knowledge for the future generations.}
 {205}{}{These old books are very fragile.}
 {206}{}{Copying books is pretty hard work.}
-{207}{}{Hello.}
+{207}{}{Chào.}
 {208}{}{There's much to copy down from these books.}
 {500}{}{D?ng l?i!}

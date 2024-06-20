@@ -15,13 +15,13 @@
 {204}{}{What are you doing?}
 {300}{}{Sorry, can't talk now.}
 {301}{}{Where was I going again?}
-{302}{}{Hello.}
+{302}{}{Chào.}
 {303}{}{Excuse me.}
 {304}{}{Hi.}
 {305}{}{Becky's place is the best, and not just cuz of the prices.}
 {306}{}{You here for the drinks or the tables?}
 {307}{}{All we need now are some troubadours.}
-{308}{}{Hello.}
+{308}{}{Chào.}
 {309}{}{You a gambler?}
 {310}{}{How's the outside world?}
 {311}{}{Frankie's a scum bag. He's mean to Becky for no reason.}
@@ -93,7 +93,7 @@
 {485}{}{I hope you get to know Mom as well as us.}
 {486}{}{Great company, great food. What else could you ask for?}
 {487}{}{Cheers!}
-{488}{}{Hello.}
+{488}{}{Chào.}
 {500}{}{How could you have hurt poor old Mom?}
 {501}{}{I've known, I mean, knew Mom all my life.}
 {502}{}{What did she ever do to you?}

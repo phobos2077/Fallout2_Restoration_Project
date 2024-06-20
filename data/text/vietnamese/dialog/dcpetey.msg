@@ -53,7 +53,7 @@
 {307}{}{I miss Flick...}
 {310}{}{Hey Tubby, I..uhhh..need some help here.}
 {311}{}{HEY TUBBY!}
-{312}{}{Hello.}
+{312}{}{Chào.}
 {313}{}{HEY!}
 {314}{}{Hey Flick, I..uhhh..need some help here.}
 {315}{}{HEY FLICK!}

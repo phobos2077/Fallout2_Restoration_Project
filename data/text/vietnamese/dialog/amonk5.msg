@@ -2,7 +2,7 @@
 {101}{}{You see Brother Paul.}
 {102}{}{This monk looks like a computer geek.}
 {200}{}{Chào!}
-{201}{}{Hello.}
+{201}{}{Chào.}
 {202}{}{Now, did I backup those computer files today...}
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Yes?}
