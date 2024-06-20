@@ -101,35 +101,35 @@ ngay. Th? nên không đâu, tôi thà ch?t dí ? đây c?n hơn.}
 {350}{}{Mu?n g??}
 {351}{}{Ch? chào h?i thôi. G?p l?i sau.}
 {352}{}{Tôi đ?i ? r?i. Tôi s? đ?nh d?ng cái máy cho c?u.}
-{353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
- someone there that loves a good game of Tragic.}
-{354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
-{360}{}{Are we ready to go yet? I'm dying to know what kind of Tragic cards this guy's got.}
-{361}{}{Alright, let's go.}
-{362}{}{Not yet. I'll let you know.}
-{370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
- Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}
-{371}{}{[MORE]}
-{372}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
- as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
- I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
- [He hands you a Stealth Boy.] See ya.}
-{373}{}{Thanks. Bye.}
-{374}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
-{380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
- as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.
- Here, [He reaches into his pocket, then frowns.] what the hell? I could swear I had it. Uh, sorry, but looks like I misplaced
- your reward, so you'll have to make due with a simple thanks. See ya.}
-{381}{}{Oh, uh, don't worry about it. Just glad I could help. Bye.}
-{382}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
-{400}{}{Can't talk... must build more powerful deck...}
-{500}{}{Leave me alone.}
-{501}{}{Go away.}
-{502}{}{Fuck off.}
-{600}{}{Oh, hey, it's you. Somebody blew up the reactor at Gecko and all the ghouls left. No reason for me to stay there,
- so I left and came back here. Luckily for me the monks here didn't question my absence, so I'm not in any trouble for leaving.
- This sucks though, I thought I was going to have a new life doing what I love. [He sighs deeply]}
-{601}{}{Sorry to hear that. See you around.}
-{602}{}{That's life. One minute you're on top of the world and the next instant you're face down in the mud. Live and learn. Bye.}
-{610}{}{Guess I just gotta get used to this place.}
-{1000}{}{You safely escort Brother Jason to his new home.}
+{353}{}{Này, có th? c?u s? mu?n suy ngh? l?i v? vi?c đi cùng tôi đ?n Gecko, v? tôi bi?t ? đó
+có ngư?i thích đ?u bài Tragic l?m.}
+{354}{}{Này, tôi bi?t m?t g? ? Gecko thích đ?u bài Tragic l?m đ?y. Tôi có th? đưa c?u t?i đó.}
+{360}{}{Đi đư?c chưa? Tôi hóng xem g? đ?y có nh?ng lo?i bài Tragic nào đ?n s?p ch?t đây này.}
+{361}{}{Đư?c r?i, đi thôi.}
+{362}{}{Chưa. Khi nào đi tôi s? báo.}
+{370}{}{[Sau khi đ?n Gecko b?n gi?i thi?u v? th?y tu tr? v?i Wooz. B?n h? nhanh chóng làm thân và b?t đ?u đ? chim bài
+Tragic. B?n chu?n b? r?i đi th? Th?y Jason c? d?t m?nh kh?i bài Tragic m?t kho?ng đ? nói chuy?n v?i b?n].}
+{371}{}{[THÊM]}
+{372}{}{Đcm, Wooz *có* lá Black Dahlia! M?i th? thôi c?ng là đ? cho c? chuy?n đi này r?i. Đám ghoul tho?t nh?n th?
+đúng là như qu?, nhưng b? kính ra th? c?ng không đ?n n?i nào. Mà cám ơn đ? đưa tôi đ?n ch? này. Đây, ?, tôi
+đ? *mư?n* th? này t? Kho k? v?t c?a Tu vi?n, và th?t tuy?t r?ng món đ? công ngh? c? k? này v?n c?n ho?t đ?ng.
+[C?u ta dúi m?t cái Stealth Boy vào tay b?n]. G?p l?i sau nhé.}
+{373}{}{Cám ơn. T?m bi?t.}
+{374}{}{Tôi m?ng là không c?n ph?i nghe c?u l?i nh?i n?a. T?m bi?t.}
+{380}{}{Đcm, Wooz *có* lá Black Dahlia! M?i th? thôi c?ng là đ? cho c? chuy?n đi này r?i. Đám ghoul tho?t nh?n th?
+đúng là như qu?, nhưng b? kính ra th? c?ng không đ?n n?i nào. Mà cám ơn đ? đưa tôi đ?n ch? này. Đây,
+[C?u ta th? tay vào túi, r?i nhăn m?t] cái đm, r? ràng nó ? đây mà. ?, xin l?i, có v? như tôi đ? đ? quên ph?n
+thư?ng ? nhà r?i nên tôi ch? có th? g?i l?i cám ơn thôi. G?p l?i sau nhé.}
+{381}{}{?, ?m, không c?n đâu. Tôi m?ng v? đ? giúp đư?c c?u. T?m bi?t.}
+{382}{}{Tôi m?ng là không c?n ph?i nghe c?u l?i nh?i n?a. T?m bi?t.}
+{400}{}{Không r?nh đ? nói chuy?n... ph?i t?o b? bài m?nh hơn...}
+{500}{}{Đ? tôi yên.}
+{501}{}{Bi?n đi.}
+{502}{}{Đm cút.}
+{600}{}{? b?n tôi à. Có th?ng nào đ?y làm n? tung l? ph?n ?ng ? Gecko và t?t c? đám ghoul đ?u b? đi c? r?i. Tôi ch?ng
+c?n lí do g? đ? ? đó n?a nên tôi c?ng r?i đi và quay tr? l?i đây. Th?t may là các th?y tu khác không h?i g? v? lúc tôi không ?
+đây, nên tôi không g?p r?c r?i g?. T? th?t đ?y, tôi ngh? r?ng tôi đ? đư?c s?ng đ? làm đi?u tôi thích [Th? dài].}
+{601}{}{Th?t ti?c khi bi?t tin này. G?p l?i c?u sau.}
+{602}{}{Cu?c s?ng mà. M?i trư?c đó thôi ta đang trên đ?nh, th? mà ch? m?t thoáng sau đ? t?t xu?ng bùn sâu. C? s?ng và ph?n đ?u thôi. T?m bi?t.}
+{610}{}{Ch?c là tôi ch? c?n cách ch?p nh?n nơi này.}
+{1000}{}{B?n đ? đưa Th?y Jason đ?n nhà m?i an toàn.}

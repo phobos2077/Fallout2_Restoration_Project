@@ -42,7 +42,7 @@
  be here for the people in the town above. They have no medical help at all, and there is a lot I can
  do to aid them.}
 {137}{}{Okay. Need know more.}
-{138}{}{Thanks. Bye.}
+{138}{}{Cám ơn. T?m bi?t.}
 {139}{}{That's very commendable of you.}
 {140}{}{I see. I'll be going now.}
 {141}{}{They're squatters! Let 'em die. Get on with your life.}

@@ -30,13 +30,13 @@
 {129}{}{Nothing. Bye.}
 {130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
 {131}{}{Thanks. I want more information.}
-{132}{}{Thanks. Bye.}
+{132}{}{Cám ơn. T?m bi?t.}
 {133}{}{Look to the north, in Navarro. There is a hidden base near the gas station.}
 {134}{}{Thanks. I want more information.}
-{135}{}{Thanks. Bye.}
+{135}{}{Cám ơn. T?m bi?t.}
 {136}{}{Have you tried looking in the old Vaults? I hear that they are a wealth of information and technology of the ancients.}
 {137}{}{Thanks. I want more information.}
-{138}{}{Thanks. Bye.}
+{138}{}{Cám ơn. T?m bi?t.}
 {139}{}{A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong. He was fascinated by it.}
 {140}{}{Dr. Wong? Where can I find him?}
 {141}{}{How do you lose a spleen?}
@@ -45,7 +45,7 @@
 {144}{}{Dr. Wong is the head scientist in the Steel Palace. Seek him there.}
 {145}{}{How do you lose a spleen, incidentally?}
 {146}{}{Thanks. I want more information.}
-{147}{}{Thanks. Bye.}
+{147}{}{Cám ơn. T?m bi?t.}
 {148}{}{He was drunk. Very, very drunk. He was obsessed with his spleen all night long. And then he bet it.}
 {149}{}{So you took his SPLEEN?}
 {150}{}{I see. Well, I have more questions.}
@@ -63,13 +63,13 @@
 {162}{}{Thanks for your "help". I'm going to get me some real advice.}
 {163}{}{... unless you can get the old tanker on the docks working. It's an old ship, but probably still functional, if some work is put into it. Ask the punks for more information.}
 {164}{}{Thanks. I want more information.}
-{165}{}{Thanks. Bye.}
+{165}{}{Cám ơn. T?m bi?t.}
 {166}{}{Word has it that the Hubologists have come into a large quantity of fuel recently. Bargain with them.}
 {167}{}{Thanks. I want more information.}
-{168}{}{Thanks. Bye.}
+{168}{}{Cám ơn. T?m bi?t.}
 {169}{}{You might try some of the Shi scientists in the Steel Palace. Perhaps they can help you with your fuel needs.}
 {170}{}{Thanks. I want more information.}
-{171}{}{Thanks. Bye.}
+{171}{}{Cám ơn. T?m bi?t.}
 {172}{}{You are an enemy of my people. Die!}
 {173}{}{You have performed well for my people in slaying AHS-9. I hope that I can be of assistance to you in some way.}
 {174}{}{Ông là ai?}

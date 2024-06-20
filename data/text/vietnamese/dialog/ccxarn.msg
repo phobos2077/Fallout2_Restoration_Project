@@ -121,7 +121,7 @@
 {194}{}{You're on your own pal. I'm out of here.}
 {195}{}{I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!}
 {196}{}{Okay.}
-{200}{}{[MORE]}
+{200}{}{[THÊM]}
 {201}{}{Yes. Who are you?}
 {202}{}{Yes. Why?}
 {300}{}{Very well. The Enclave created my people as a slave warrior race.

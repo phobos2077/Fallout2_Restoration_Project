@@ -99,7 +99,7 @@
 {198}{}{Actually, now I'm going to kill you too.}
 {199}{}{Now that the ship is filled with fuel, we await only the word of AHS-9 the Great and Terrible to achieve liftoff.}
 {200}{}{Sure we will. I have some questions.}
-{201}{}{Thanks. Bye.}
+{201}{}{Cám ơn. T?m bi?t.}
 {202}{}{Aside from the precious fuel we need to launch ourselves into the bosom of our starry brethren on the planet Quetzel, I can't think of a place. Perhaps the Shi?}
 {203}{}{Huh. I have more questions.}
 {204}{}{Yeah, maybe.}

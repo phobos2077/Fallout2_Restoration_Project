@@ -22,7 +22,7 @@
 {137}{}{Sounds exciting.}
 {138}{}{Sounds boring.}
 {139}{}{I have more questions.}
-{140}{}{Thanks. Bye.}
+{140}{}{Cám ơn. T?m bi?t.}
 {141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
@@ -35,7 +35,7 @@
 {150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Talk to the Bill. He'll help you out.}
 {157}{}{I have more questions.}
-{158}{}{Thanks. Bye.}
+{158}{}{Cám ơn. T?m bi?t.}
 {159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world... and I feel I
  contribute to the town here. It's a good life.}
 {160}{}{Sounds great. I'd like a job like that.}
@@ -82,7 +82,7 @@
 {221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
 {222}{}{Alright, don't move. I'll go get Marcus.}
 {300}{}{You allow Chad to skip town.}
-{400}{}{Leave me alone.}
+{400}{}{Đ? tôi yên.}
 {2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
  mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
  Now if you excuse me I have to get going.}

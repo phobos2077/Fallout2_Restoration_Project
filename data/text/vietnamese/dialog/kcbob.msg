@@ -33,7 +33,7 @@
 {174}{}{I might be able to help you, as long as it's not too dangerous.}
 {175}{}{Anything unusual going on in town lately?}
 {180}{}{Looks as though you're purse has run dry. You don't have enough money to buy old Bob a drink.}
-{181}{}{[MORE]}
+{181}{}{[THÊM]}
 {190}{}{Well, you see, I have a little side business that I need some help attending to. I have a
  moonshine still outside of town that needs to be fueled up every so often. Since a gecko done bit my
  leg, I can't hobble out to it before it runs out of fuel. If I tell you where it is, would you refuel

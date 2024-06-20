@@ -39,7 +39,7 @@
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are deathclaws.}
 {135}{}{Okay. Need know more.}
-{136}{}{Thanks. Bye.}
+{136}{}{Cám ơn. T?m bi?t.}
 {137}{}{That's very commendable of you.}
 {138}{}{I see.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}

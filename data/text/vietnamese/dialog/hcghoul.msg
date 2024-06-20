@@ -74,14 +74,14 @@
 {170}{}{Why do you try to destroy our town?}
 {171}{}{Don't you realize that if you'd destroyed the mine, you'd have destroyed us all as well?}
 {172}{}{I don't want to talk to you.}
-{173}{}{Go away.}
+{173}{}{Bi?n đi.}
 {174}{}{Good work.}
 {175}{}{Too bad those people died under the city.}
 {176}{}{I wonder how those people dug the tunnels without us noticing.}
 {177}{}{Now we know what Franc and Manson were up to.}
 {178}{}{Those poor, poor people. Their poor families.}
 {180}{}{Don't hurt me.}
-{181}{}{Leave me alone.}
+{181}{}{Đ? tôi yên.}
 {182}{}{No! No! No!}
 {183}{}{I'll be going now.}
 {184}{}{Leave our town!}

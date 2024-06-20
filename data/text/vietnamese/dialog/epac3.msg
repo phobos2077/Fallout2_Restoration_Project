@@ -46,7 +46,7 @@
  know those slot machines you find in casinos? Well, I calculated a method that can jinx the machines out of their cash.
  I have an IQ of 6000, you know. When I'm not making toast, I like to ponder these kinds of things. For helping me out,
  I'll tell you these secret codes. Just use one of the machines like you normally would and...}
-{353}{}{[MORE]}
+{353}{}{[THÊM]}
 {354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
 {355}{}{Thanks. I appreciate this. So long.}
 {400}{}{You successfully repair the toaster.}

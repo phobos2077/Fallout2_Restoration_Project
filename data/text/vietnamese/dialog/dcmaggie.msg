@@ -19,7 +19,7 @@
 {166}{}{Can I ask a question?}
 {167}{}{I want a drink!}
 {168}{}{Hmm, those are some cheap drinks. Let's see one.}
-{169}{}{Thanks. Bye.}
+{169}{}{Cám ơn. T?m bi?t.}
 {170}{}{Vault 13? Nope, never heard of it.}
 {171}{}{Hmm, can I ask something else?}
 {172}{}{Damn, I need to find it. Bye.}
@@ -31,7 +31,7 @@
 {178}{}{Mom runs a little restaurant across town.}
 {179}{}{Mommy! Mommy!}
 {180}{}{One more question.}
-{181}{}{Thanks. Bye.}
+{181}{}{Cám ơn. T?m bi?t.}
 {182}{}{Beat it.}
 {183}{}{Gwah.}
 {184}{}{I'll give you something to beat.}

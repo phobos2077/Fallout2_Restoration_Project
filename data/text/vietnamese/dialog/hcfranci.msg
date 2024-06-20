@@ -70,15 +70,15 @@
 {157}{}{Frankly, I think you mutants are scum and these humans are traitors for working with you.}
 {158}{}{Sometimes I worry about the people here... it's too hard for some of them to get past their
  fear. Word has it there's a shit storm coming down the pike - but that might just be rumor.}
-{159}{}{Thanks. Bye.}
+{159}{}{Cám ơn. T?m bi?t.}
 {160}{}{All right. Well, if you need any more information, you know where to find me.}
 {161}{}{Sure. Thanks. Bye.}
 {162}{}{Really? That's a fascinating attitude. Too bad we didn't crush your village when we controlled
  the wasteland. Get out of my sight, worm.}
 {200}{}{[XONG]}
 {201}{}{Chào.}
-{202}{}{Thanks. Bye.}
-{203}{}{[MORE]}
+{202}{}{Cám ơn. T?m bi?t.}
+{203}{}{[THÊM]}
 {204}{}{Sure. Thanks. Bye.}
 {300}{}{Pal, I don't think you'd know how to use what I've got to offer. Come back when you've got a
  little more experience under your belt.}

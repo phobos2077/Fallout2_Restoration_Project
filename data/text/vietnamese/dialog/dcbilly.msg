@@ -16,7 +16,7 @@
 {164}{}{No.}
 {165}{}{Alright! Now come with Billy, sweetie.}
 {166}{}{Now go away.}
-{167}{}{Thanks. Bye.}
+{167}{}{Cám ơn. T?m bi?t.}
 {168}{}{Chào.}
 {169}{}{Aw, shucks.}
 {170}{}{[XONG]}

@@ -64,7 +64,7 @@
 {162}{}{Damn. Bye.}
 {163}{}{"Total bastard" would be a fine way to describe the old man. Being turned into a ghoul from the radiation didn't do much for his sense of humor or sense of authority, let me tell you. 'Course, it kinda screwed up everyone's brains. I think growing up ghoulie made it a little easier on me.}
 {164}{}{I see. I had other questions.}
-{165}{}{Thanks. Bye.}
+{165}{}{Cám ơn. T?m bi?t.}
 {166}{}{Well? Do you have my Cat's Paw magazine yet?}
 {167}{}{'Es. [Give Cat's Paw to Typhon.]}
 {168}{}{Nuh-uh.}

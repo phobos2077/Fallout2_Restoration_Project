@@ -8,32 +8,32 @@
 {115}{}{No, I've been there already. Thanks anyway.}
 {116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
  Here, let me show you where it is.}
-{117}{}{Thanks. Bye.}
+{117}{}{Cám ơn. T?m bi?t.}
 {118}{}{Vault City -- now that's a city of morons. Grow an extra finger and they treat you like some kind
  of freak. Never been inside, but I know where it is.}
-{119}{}{Thanks. Bye.}
+{119}{}{Cám ơn. T?m bi?t.}
 {120}{}{Redding... I don't know much about it, other than it's an old mining town. It's located up north,
  right smack dab in the middle of some of meanest mountains you've ever seen.}
-{121}{}{Thanks. Bye.}
+{121}{}{Cám ơn. T?m bi?t.}
 {122}{}{I'd stay away from the Den if I were you. It's a magnet for lowlifes of the area. I'll show you
  where it is, but I don't recommend you go there.}
-{123}{}{Thanks. Bye.}
+{123}{}{Cám ơn. T?m bi?t.}
 {124}{}{San Francisco. Um... all I can say is that the people there are... strange. It's located on the
  coast.}
-{125}{}{Thanks. Bye.}
+{125}{}{Cám ơn. T?m bi?t.}
 {126}{}{The New California Republic... now there's a nice place. I'd like to settle down and live there
  some day. Clean, nice people, and very well maintained. It's located right here on your map.}
-{127}{}{Thanks. Bye.}
+{127}{}{Cám ơn. T?m bi?t.}
 {128}{}{Yeah, a while back I came across an abandoned mining camp. Thought I'd rest there a day or two,
  but then wolves started showing up and I thought it best if I left. A shame, too; it looks like the
  miners left in a hurry. They left a lot of stuff behind. I'm not planning to go back, so I guess it's
  all right if I show you where it is.}
-{129}{}{Thanks. Bye.}
+{129}{}{Cám ơn. T?m bi?t.}
 {130}{}{Yeah, a while back I came across an old facility that looked like it'd been abandoned since the Great War.
  Looked pretty important too, so I bet it's chock full of pre-war goods. I would've scavenged the place myself,
  but it's grounds were covered with some real pissed off man-eating plants. I'm not planning on going back, so I guess
  it's all right if I show you where it is.}
-{131}{}{Thanks. Bye.}
+{131}{}{Cám ơn. T?m bi?t.}
 {132}{}{Oh... it doesn't really matter. I just decided to travel one day and well, here I am.}
 {133}{}{Maybe you can help me. I need some directions.}
 {134}{}{What do you do?}

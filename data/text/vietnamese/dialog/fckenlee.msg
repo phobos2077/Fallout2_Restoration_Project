@@ -67,7 +67,7 @@
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}
-{169}{}{Thanks. Bye.}
+{169}{}{Cám ơn. T?m bi?t.}
 {170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
 {171}{}{He's as good as dead.}
 {172}{}{No, I don't think so.}

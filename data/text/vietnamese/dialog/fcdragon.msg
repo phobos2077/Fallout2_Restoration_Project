@@ -67,7 +67,7 @@
 {166}{}{I am the Dragon, protector of the people and sworn enemy of Lo Pan. He and I are the last masters of our fighting style.}
 {167}{}{I'm not too bad at hand-to-hand combat myself. Wanna give me a try?}
 {168}{}{That's interesting. Must be rewarding. I have more questions.}
-{169}{}{Thanks. Bye.}
+{169}{}{Cám ơn. T?m bi?t.}
 {170}{}{You have attempted to dishonor my people, so now I must kill you. I apologize if I hurt you as you die.}
 {171}{}{[XONG]}
 {172}{}{Do not speak to me, sheep of the Hub. I have no use for your kind.}

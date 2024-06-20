@@ -15,7 +15,7 @@
  Project (PVP) with the intent of creating immunity in soldiers by restructuring their DNA. During testing of PVP in 2076,
  abnormal side effects were observed in test subjects. The test animals began to grow dramatically and their brain activity
  increased.}
-{111}{}{[MORE]}
+{111}{}{[THÊM]}
 {112}{}{Seeing the potential there, the Army quickly commandeered the project and renamed it FEV: Forced Evolutionary Virus.
  Not content with mere immunity to disease, FEV would potentially turn soldiers into abnormally strong and intelligent
  "supermen". Once testing on animals reached its logical conclusion, FEV research was moved to its current location at
@@ -39,7 +39,7 @@
  subjects becoming more "stupid and docile." In addition, it was observed that sodium fluoride caused slight damage to
  a specific part of the brain, making it more difficult for the person affected to defend his freedom and causing the
  individual to become more docile towards authority.}
-{137}{}{[MORE]}
+{137}{}{[THÊM]}
 {138}{}{In our most recent experimentation, we have chosen military official, General J. Ripper, as a subject. Initially,
  he was unaware of our intent but now seems to have caught on. He has become obsessed with the phrase "precious bodily
  fluids" and avoids drinking any substance he does not know from where it originated. He has even stopped having sexual

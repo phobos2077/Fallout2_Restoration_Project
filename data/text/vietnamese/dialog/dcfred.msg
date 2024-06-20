@@ -150,7 +150,7 @@
 {590}{}{I don't remember... but Becky sure has helped me and my friends out in the past.}
 {591}{}{Hand over the $200.}
 {592}{}{Just give me the money.}
-{600}{}{Leave me alone.}
+{600}{}{Đ? tôi yên.}
 {601}{}{Whatever.}
 {602}{}{Okay.}
 {610}{}{Uh. Hi again. So, uh, I suppose you want the money. Do you think you could cover me for half?}

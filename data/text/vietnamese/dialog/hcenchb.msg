@@ -11,13 +11,13 @@
 {109}{}{::sniff::}
 {110}{}{I'm Max. I'm one of the caravan guards.}
 {111}{}{What can you tell me about Chad?}
-{112}{}{Thanks. Bye.}
+{112}{}{Cám ơn. T?m bi?t.}
 {113}{}{Honestly? I don't care for the guy. Lately, he's been tossing around a lot of coin. I mean, sure, he's the
  caravan master, so it makes sense for him to take a larger cut--I understand that. But there's no way he should be
  *that* loaded. I think it'd be *real* interesting to take a peek at his records.}
 {114}{}{Marcus told me he suspects Chad of skimming some of the caravan money that supposed to be going to Broken Hills.
  I told him I'd look into it.}
-{115}{}{Thanks. Bye.}
+{115}{}{Cám ơn. T?m bi?t.}
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
 {117}{}{Chào.}
 {118}{}{It's the enemy! Die!}

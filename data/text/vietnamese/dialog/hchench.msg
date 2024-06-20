@@ -25,7 +25,7 @@
 {204}{}{No, thanks.}
 {205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
 {206}{}{I have some more questions.}
-{207}{}{Thanks. Bye.}
+{207}{}{Cám ơn. T?m bi?t.}
 {208}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {209}{}{What's he like?}
 {210}{}{Can he be trusted?}

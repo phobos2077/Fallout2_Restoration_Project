@@ -1,7 +1,7 @@
-{100}{}{You see Brother John.}
-{101}{}{You see one of the Abbey's older Monks.}
-{102}{}{You see an old monk. He looks to be in his early seventies.}
-{300}{}{Hi there, youngster.}
+{100}{}{B?n th?y Th?y John.}
+{101}{}{B?n th?y m?t trong s? các Th?y tu già c?a Tu vi?n.}
+{102}{}{B?n th?y m?t th?y tu già. Có v? như ông ta hơn 70 tu?i.}
+{300}{}{Xin chào, ngư?i tr?.}
 {301}{}{Ông là ai?}
 {302}{}{Have you heard anything about a GECK or Vault 13?}
 {303}{}{Chào.}

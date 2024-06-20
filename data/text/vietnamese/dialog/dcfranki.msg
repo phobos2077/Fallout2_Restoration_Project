@@ -85,7 +85,7 @@
 {230}{}{Then I'm in the wrong place. Bye.}
 {231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
 {232}{}{Wait, that's not what I want!}
-{233}{}{Thanks. Bye.}
+{233}{}{Cám ơn. T?m bi?t.}
 {234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
 {235}{}{Fine! Something else then.}
 {236}{}{Why, you little...}

@@ -20,7 +20,7 @@
 {119}{}{What sort of computer stuff do you do?}
 {120}{}{I'll bet your band sucked.}
 {121}{}{Was the band any good?}
-{122}{}{Thanks. Bye.}
+{122}{}{Cám ơn. T?m bi?t.}
 {123}{}{Uhh... okay.}
 {124}{}{Chào!}
 {125}{}{You oughta talk to Marc or the Captain about that.}
@@ -28,7 +28,7 @@
 {127}{}{Where can I find the Captain?}
 {128}{}{I'm the resident computer genius.}
 {129}{}{What sort of computer stuff do you do?}
-{130}{}{Thanks. Bye.}
+{130}{}{Cám ơn. T?m bi?t.}
 {131}{}{Don't pester me. ::He farts:: I'm working on it, all right?}
 {132}{}{All right, all right. Just let me know when you're done.}
 {133}{}{Well, let's just say I'm an information retrieval specialist.}

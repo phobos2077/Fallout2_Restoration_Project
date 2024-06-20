@@ -31,7 +31,7 @@
 {130}{}{Activate station.}
 {131}{}{Leave.}
 {132}{}{[Your random approach works wonders... you're in the machine!]}
-{133}{}{[MORE]}
+{133}{}{[THÊM]}
 {134}{}{The computer does not respond to any input.}
 {135}{}{You can't seem to find anywhere to put that.}
 {136}{}{Guess the password.}

@@ -75,7 +75,7 @@
 {189}{}{-more-}
 {190}{}{We rebuilt with what we could find, and we have scientists and technology the world must envy. We are rebuilding civilization, but not as that horrid Master creature did.}
 {191}{}{I see. I have more questions.}
-{192}{}{Thanks. Bye.}
+{192}{}{Cám ơn. T?m bi?t.}
 {193}{}{Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.}
 {194}{}{Thanks! I have more questions.}
 {195}{}{Thanks!}

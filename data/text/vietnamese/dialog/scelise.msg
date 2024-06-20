@@ -136,7 +136,7 @@
 {273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
 {274}{}{You're welcome. Now why don't you tell me who you are?}
 {280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
-{281}{}{Thanks. Bye.}
+{281}{}{Cám ơn. T?m bi?t.}
 {282}{}{Thanks. Now why don't you tell me who you are?}
 {290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
 {291}{}{Let's hear it.}

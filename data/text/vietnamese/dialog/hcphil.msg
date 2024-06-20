@@ -75,7 +75,7 @@
 {194}{}{Well, all right then! What'll it be?}
 {198}{}{What's been going on in town? Well...}
 {199}{}{Thanks. I have more questions. }
-{200}{}{Thanks. Bye.}
+{200}{}{Cám ơn. T?m bi?t.}
 {201}{}{What to do, what to do... let's see...}
 {202}{}{- more - }
 {203}{}{Someone busted those lunatics out of jail!}

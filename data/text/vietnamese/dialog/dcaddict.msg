@@ -16,7 +16,7 @@
 {157}{}{Help!}
 {158}{}{Get away!}
 {159}{}{My head hurts enough as it is!}
-{160}{}{Leave me alone.}
+{160}{}{Đ? tôi yên.}
 {200}{}{Wow, you've got a weird dark glow.}
 {201}{}{My, you're a big pup.}
 {202}{}{Don't tell them what we know is not there.}

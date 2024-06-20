@@ -30,7 +30,7 @@
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}
 {133}{}{Your guards are dead men.}
 {134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
-{135}{}{Thanks. Bye.}
+{135}{}{Cám ơn. T?m bi?t.}
 {161}{}{. I'm just looking around.}
 {162}{}{. I'm just looking around.}
 {163}{}{. I'm just looking around.}

@@ -39,7 +39,7 @@
 {138}{}{Tanker vagrants 0% likely to clear creature infestation without outside assistance. Processing desirability of providing assistance.}
 {139}{}{Input: Poseidon Oil tanker unfit for travel. Require more input.}
 {140}{}{Not processing. Require input.}
-{141}{}{[MORE]}
+{141}{}{[THÊM]}
 {142}{}{Back.}
 {143}{}{Biology station: Active}
 {144}{}{Biology station: Inactive}

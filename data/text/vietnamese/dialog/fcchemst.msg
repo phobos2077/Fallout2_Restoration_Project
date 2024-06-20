@@ -49,7 +49,7 @@
 {148}{}{How about some money? I think $}
 {149}{}{I decided I'd rather keep it.}
 {150}{}{Consider it done. I'll make the adjustments shortly. Now, if you'll excuse me, I must get back to work.}
-{151}{}{Thanks. Bye.}
+{151}{}{Cám ơn. T?m bi?t.}
 {152}{}{So much? Ah! Yet, for such a powerful suit of armor to study... very well. Here is your money.}
 {153}{}{Thanks. So long.}
 {154}{}{You want to keep it? Very well. If you should change your mind, let me know.}

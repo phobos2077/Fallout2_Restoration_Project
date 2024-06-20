@@ -1,6 +1,6 @@
 {100}{}{You see a Fisherman.}
 {101}{}{You are just in time to witness the blessings of the Goddess of the Sea.}
-{102}{}{[MORE]}
+{102}{}{[THÊM]}
 {103}{}{}
 {104}{}{Just before a big storm we hurl spears into the sea to show our bravery against the elements.
  If we have proven ourselves worthy, the Goddess rewards us with fruit.}

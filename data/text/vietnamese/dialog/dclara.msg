@@ -13,7 +13,7 @@
 {222}{}{Ack.}
 {230}{}{The name doesn't ring a bell, but then again I don't keep track of who comes in and out of town. Check with Becky. Everyone ends up going through there. She might know.}
 {231}{}{Got any work?}
-{232}{}{Thanks. Bye.}
+{232}{}{Cám ơn. T?m bi?t.}
 {240}{}{If you didn't come to the Den for a specific reason you should probably leave. It's not very safe around here.}
 {241}{}{Oh, okay.}
 {242}{}{Got any work?}
@@ -72,7 +72,7 @@
 {402}{}{Na.}
 {410}{}{Great. I was hoping as much. I hear he's been complaining about them lately. Here's your money.}
 {411}{}{I assume there's something else now?}
-{412}{}{Thanks. Bye.}
+{412}{}{Cám ơn. T?m bi?t.}
 {420}{}{I have one more job for you. I'm not sure how you'll do it, but since you were able to get inside maybe they trust you.}
 {421}{}{I snuck inside.}
 {422}{}{What is it?}
@@ -92,7 +92,7 @@
 {462}{}{This is pointless.}
 {470}{}{Did you find anything?}
 {471}{}{Yes. They're having a party tonight.}
-{472}{}{Not yet. I'll let you know.}
+{472}{}{Chưa. Khi nào đi tôi s? báo.}
 {473}{}{Gra.}
 {474}{}{Na.}
 {480}{}{Excellent! They're sure to leave a skeleton crew. Those should be good

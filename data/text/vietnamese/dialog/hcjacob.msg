@@ -19,7 +19,7 @@
 {118}{}{'Es!}
 {119}{}{Unh uh.}
 {120}{}{Fine. Let's see what you want.}
-{121}{}{[MORE]}
+{121}{}{[THÊM]}
 {122}{}{Then leave.}
 {123}{}{[XONG]}
 {124}{}{There. We're done. Thank you for the tip. Now please leave.}

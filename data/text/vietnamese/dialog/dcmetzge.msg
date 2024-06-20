@@ -79,7 +79,7 @@
 {303}{}{Oh, okay. Bye.}
 {310}{}{What do you know, you didn't even cry. I'm so proud of you... actually, that tat
  looks pretty good on you. Just give a holler when you're ready for your first slave run.}
-{311}{}{Thanks. Bye.}
+{311}{}{Cám ơn. T?m bi?t.}
 {312}{}{I'm ready right now.}
 {313}{}{Me Kill NOW!}
 {314}{}{Okey-Dokey.}

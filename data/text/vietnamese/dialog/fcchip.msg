@@ -78,16 +78,16 @@
 {177}{}{Nothing right now, thanks. Bye.}
 {178}{}{Check with the Captain. He lives in the captain's office upstairs.}
 {179}{}{Thanks. More questions...}
-{180}{}{Thanks. Bye.}
+{180}{}{Cám ơn. T?m bi?t.}
 {181}{}{Word has it they got taken west, across the water. Your best bet in getting there is getting this tub running.}
 {182}{}{Thanks. More questions...}
-{183}{}{Thanks. Bye.}
+{183}{}{Cám ơn. T?m bi?t.}
 {184}{}{Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.}
 {185}{}{Thanks. More questions...}
-{186}{}{Thanks. Bye.}
+{186}{}{Cám ơn. T?m bi?t.}
 {187}{}{Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.}
 {188}{}{Thanks. More questions...}
-{189}{}{Thanks. Bye.}
+{189}{}{Cám ơn. T?m bi?t.}
 {190}{}{Scumbag.}
 {191}{}{You're going to need some painkillers.}
 {192}{}{Dirtball. I'm going to work you over.}

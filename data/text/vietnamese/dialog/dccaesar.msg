@@ -92,7 +92,7 @@
 {236}{}{No way! I want double!}
 {237}{}{You drive a hard bargain. Here is your money!}
 {238}{}{Thanks. I have some more questions.}
-{239}{}{Thanks. Bye.}
+{239}{}{Cám ơn. T?m bi?t.}
 {240}{}{Anything else?}
 {241}{}{Yes, I have a question.}
 {242}{}{Nope. Bye.}

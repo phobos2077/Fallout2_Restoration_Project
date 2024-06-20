@@ -98,7 +98,7 @@
 {197}{}{Hm. Bye.}
 {198}{}{The ESS Quetzel will launch when the stars are right. }
 {199}{}{Right-o. I have more questions.}
-{200}{}{Thanks. Bye.}
+{200}{}{Cám ơn. T?m bi?t.}
 {201}{}{Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?}
 {202}{}{Yes.}
 {203}{}{No.}
