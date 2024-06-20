@@ -7,7 +7,7 @@
 {106}{}{Guards! Alert!}
 {107}{}{Mu?n g??}
 {108}{}{Kurg?}
-{109}{}{What is this place?}
+{109}{}{Đây là nơi nào?}
 {110}{}{The Rangers sent me.}
 {111}{}{I'm looking for the owner.}
 {112}{}{Brother slaver, I've got a few questions.}

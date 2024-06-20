@@ -6,7 +6,7 @@
 {105}{}{What can I do ya for, mama-jamma?}
 {106}{}{Ooh! Ooh! Aah!}
 {107}{}{Ông là ai?}
-{108}{}{What is this place?}
+{108}{}{Đây là nơi nào?}
 {109}{}{Who's in charge?}
 {110}{}{Nothing. Bye.}
 {111}{}{Hmm. Nope, sorry, can't help you with that. Maybe you should try someone else.}

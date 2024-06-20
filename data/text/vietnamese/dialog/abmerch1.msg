@@ -1,8 +1,8 @@
-{100}{}{You see a merchant.}
-{102}{}{You see a merchant who is trying to fix the waterpump.}
-{103}{}{I just can't get this thing working!}
-{104}{}{This seems to be very hard to fix.}
-{105}{}{What a piece of shit this is!}
+{100}{}{B?n th?y m?t thương gia.}
+{102}{}{B?n th?y m?t thương gia đang c? g?ng s?a máy bơm.}
+{103}{}{M? nó m?i đéo ch?y!}
+{104}{}{Th? này có v? r?t khó s?a.}
+{105}{}{Đúng là c?c c?t đ?ng nát!}
 {106}{}{Stubborn little sonnuva bitch are we?}
 {107}{}{Could you lend me a hand?}
 {108}{}{Maybe you'll have better luck with this.}

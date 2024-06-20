@@ -12,7 +12,7 @@
 {111}{}{Um, I need a growth removed. My sixth toe.}
 {112}{}{Actually, my friend here could use some medical attention.}
 {113}{}{Actually, my friends here could use some medical attention.}
-{114}{}{What is this place?}
+{114}{}{Đây là nơi nào?}
 {115}{}{Uh, what is this place again?}
 {116}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {117}{}{Not right now. It looks worse than it is.}
@@ -28,7 +28,7 @@
 {127}{}{?}
 {128}{}{Never mind. How about my friend instead?}
 {129}{}{Never mind. How about my friends instead?}
-{130}{}{What is this place?}
+{130}{}{Đây là nơi nào?}
 {131}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {132}{}{I don't have enough. I'll be back when I have some more cash.}
 {133}{}{No, thanks. Maybe some other time.}
@@ -40,7 +40,7 @@
 {139}{}{Buyhye.}
 {140}{}{Can you cure my friend here?}
 {141}{}{Can you cure my friends here?}
-{142}{}{What is this place?}
+{142}{}{Đây là nơi nào?}
 {143}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {144}{}{I feel much better, thanks.}
 {145}{}{Uh, well now, that might not be the safest thing for you, friend. Seems like you already took a few trips in the ol' Doctor from the way you talk. But if you want to...}
@@ -63,7 +63,7 @@
 {162}{}{That's pretty steep. How about }
 {163}{}{?}
 {164}{}{Never mind. How about me instead?}
-{165}{}{What is this place?}
+{165}{}{Đây là nơi nào?}
 {166}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {167}{}{I don't have enough. I'll be back when I have some more cash.}
 {168}{}{I've changed my mind. Maybe some other time.}
@@ -73,7 +73,7 @@
 {172}{}{I don't know. That's a little steep. How about }
 {173}{}{ bucks?}
 {174}{}{Can you heal just me instead?}
-{175}{}{What is this place?}
+{175}{}{Đây là nơi nào?}
 {176}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {177}{}{I don't have enough. I'll be back when I have some more cash.}
 {178}{}{I've changed my mind. Maybe some other time.}
@@ -107,7 +107,7 @@
 {206}{}{Um, I need a growth removed. My sixth toe.}
 {207}{}{My friend here could use some medical attention.}
 {208}{}{My friends here could use some medical attention.}
-{209}{}{What is this place?}
+{209}{}{Đây là nơi nào?}
 {210}{}{What is this place again?}
 {211}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {212}{}{Nothing more today, actually.}

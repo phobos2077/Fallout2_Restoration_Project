@@ -13,7 +13,7 @@
 {112}{}{Frazz-urb-luuw!}
 {113}{}{Shamble off}
 {114}{}{Ông là ai?}
-{115}{}{What is this place?}
+{115}{}{Đây là nơi nào?}
 {116}{}{I believe your assistant, Skeev, is involved in illegal practices.}
 {117}{}{Nothing today, thanks.}
 {118}{}{Well, I see I'll have to have to have a talk with the guards in the Courtyard. They seem to be letting just about ANY Outsider into Vault City nowadays. }
@@ -147,7 +147,7 @@
 {246}{}{What else did you want to know?}
 {247}{}{Frazz-urb-luuw!}
 {248}{}{Shamble off}
-{249}{}{What is this place?}
+{249}{}{Đây là nơi nào?}
 {250}{}{What kind of shipments do you receive here?}
 {251}{}{Your assistant, Skeev, is involved in illegal practices.}
 {252}{}{Can I get another Day Pass?}

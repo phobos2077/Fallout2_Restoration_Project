@@ -14,7 +14,7 @@
 {113}{}{I'm here to see President Tandi.}
 {114}{}{I'm here to see President Tandi.}
 {115}{}{I'm looking for a job.}
-{116}{}{What is this place?}
+{116}{}{Đây là nơi nào?}
 {117}{}{You can't.}
 {118}{}{Me go away.}
 {119}{}{Sorry, no public bathrooms here. Why don't you move along?}

@@ -104,7 +104,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {193}{}{You again. What do you want?}
 {194}{}{Vant? Vant!}
 {195}{}{Shamble off}
-{196}{}{What is this place?}
+{196}{}{Đây là nơi nào?}
 {197}{}{I'd like to get inside the city.}
 {198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
 {199}{}{I've decided to turn you in for selling fake Citizenship papers.}

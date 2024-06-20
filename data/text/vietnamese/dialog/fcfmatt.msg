@@ -2,7 +2,7 @@
 {101}{}{You see Matthew.}
 {102}{}{You see a man wearing metal armor with a lightning bolt insignia on it.}
 {103}{}{Hello,}
-{104}{}{. What can I do for you?}
+{104}{}{. Ta có th? giúp g? cho b?n?}
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
 {107}{}{You can start by answering some questions.}

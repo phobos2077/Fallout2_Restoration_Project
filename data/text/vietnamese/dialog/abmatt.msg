@@ -45,7 +45,7 @@ d?n t? coi m?nh là ngư?i gi? g?n và b?o v? ngu?n trí tu? này.}
 {700}{}{[Ông ta cư?i khúc khích trư?c câu h?i c?a b?n] Không, không có lí do g? c?. Ta ch? đ?c r?t nhi?u thơ trong su?t
 cu?c đ?i và thích đưa thơ vào l?i thuy?t gi?ng. Vi?c đó t?o ra ?n tư?ng l?n hơn cho ngư?i nghe.}
 {701}{}{C?ng đúng. Đ? tôi h?i câu khác.}
-{800}{}{It is good to see you again }
-{801}{}{. What can I do for you?}
-{802}{}{I have some questions.}
-{803}{}{Nothing. See you around.}
+{800}{}{R?t vui đư?c g?p l?i b?n }
+{801}{}{. Ta có th? giúp g? cho b?n?}
+{802}{}{Tôi có vài câu h?i.}
+{803}{}{Không có g?. G?p l?i ông sau.}

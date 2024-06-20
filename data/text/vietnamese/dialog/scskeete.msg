@@ -23,19 +23,19 @@
 {122}{}{Squa?}
 {123}{}{I am not a man!}
 {124}{}{What do you do?}
-{125}{}{What is this place?}
+{125}{}{Đây là nơi nào?}
 {126}{}{Nothing. Thought you were somebody else. Bye.}
 {127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}
 {128}{}{Brak?}
 {129}{}{How did you know?}
 {130}{}{Great. Thanks. Fine.}
 {131}{}{Doofus will perform, man. Not even a fly is gonna land his shit on your au-to-mo-bile!}
-{132}{}{What is this place?}
+{132}{}{Đây là nơi nào?}
 {133}{}{Good. Shut up.}
 {134}{}{If you ain't got the jack, just get the fuck out of here! I got important things to do.}
 {135}{}{Hey man, Doofus warned you.}
 {136}{}{Fuck you. I am not answering your questions.}
-{137}{}{What is this place?}
+{137}{}{Đây là nơi nào?}
 {138}{}{Goodbye.}
 {139}{}{Bye-bye.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}

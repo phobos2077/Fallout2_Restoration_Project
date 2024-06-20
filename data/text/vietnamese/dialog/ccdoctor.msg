@@ -16,7 +16,7 @@
 {114}{}{Me got go now.}
 {115}{}{Ông là ai?}
 {116}{}{What do you do here?}
-{117}{}{What is this place?}
+{117}{}{Đây là nơi nào?}
 {118}{}{Why is this room soundproofed?}
 {119}{}{Why is there a deathclaw in the other room?}
 {120}{}{What's with the dog statue by the door?}

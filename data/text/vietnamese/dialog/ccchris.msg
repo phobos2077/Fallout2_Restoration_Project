@@ -10,7 +10,7 @@
 {107}{}{You see metal bird fly here?}
 {108}{}{You hear Enclave? They here?}
 {109}{}{Me just look around.}
-{110}{}{What is this place?}
+{110}{}{Đây là nơi nào?}
 {111}{}{I'm looking for Navarro. Is this it?}
 {112}{}{Have you seen any vertibirds fly through here?}
 {113}{}{Ever hear of the Enclave? Are they around here?}

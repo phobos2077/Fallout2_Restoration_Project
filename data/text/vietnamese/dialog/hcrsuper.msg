@@ -7,7 +7,7 @@
 {106}{}{Dunno.}
 {107}{}{I have some ore to be refined.}
 {108}{}{Ông là ai?}
-{109}{}{What is this place?}
+{109}{}{Đây là nơi nào?}
 {110}{}{I want some uranium.}
 {111}{}{Nothing.}
 {112}{}{Forget it. Bye.}
@@ -19,12 +19,12 @@
 {118}{}{It's a deal.}
 {119}{}{$1000? That's ridiculous. Forget it.}
 {120}{}{I'm the supervisor of this refinery. What do you want?}
-{121}{}{What is this place?}
+{121}{}{Đây là nơi nào?}
 {122}{}{I want some ore refined.}
 {123}{}{I want some uranium.}
 {124}{}{Nothing.}
 {125}{}{This is the refinery of Broken Hills. This is where we purify the ore dug from the mine. What do you want?}
-{126}{}{What is this place?}
+{126}{}{Đây là nơi nào?}
 {127}{}{I want some ore refined.}
 {128}{}{I want some uranium.}
 {129}{}{Nothing.}
