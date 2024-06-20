@@ -4,7 +4,7 @@ FileName: "{app}\ddraw.ini"; Section: "Interface"; Key: "WorldMapTerrainInfo"; S
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "DisplayBonusDamage"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "DisplayKarmaChanges"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "DontTurnOffSneakIfYouRun"; String: "1"; Components: qol;
-FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "NPCAutoLevel"; String: "1"; Components: qol;
+FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "PartyMemberNonRandomLevelUp"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "NumbersInDialogue"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "PartyMemberExtraInfo"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "PlayIdleAnimOnReload"; String: "1"; Components: qol;
