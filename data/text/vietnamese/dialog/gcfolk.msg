@@ -16,7 +16,7 @@
 {127}{}{If you didn't help us, Vault City would have destroyed us.}
 {128}{}{You're our hero.}
 {129}{}{Thanks again.}
-{130}{}{Thanks for your help.}
+{130}{}{Cám ơn đ? giúp đ?.}
 {131}{}{You're the best. Thanks.}
 {132}{}{Pretty good, for a smoothskin.}
 {140}{}{Hello there, my smoothskined friend.}
