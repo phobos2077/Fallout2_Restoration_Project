@@ -17,12 +17,12 @@ th? b?o g? là Sammy già v?n c?n s?ng kh?e nhé.}
 {209}{}{Không có g?. Xin l?i đ? làm phi?n.}
 {210}{}{Th?t ra là tôi đang đ?nh nói là ông ta g?i l?i chào. Tôi s? nói v?i ông ta là ông c?ng g?i l?i chào. Mà tôi v?n c?n m?y câu c?n h?i.}
 {211}{}{Th?t ra là tôi đang đ?nh nói là ông ta g?i l?i chào. Tôi s? nói v?i ông ta là ông c?ng g?i l?i chào. B?o tr?ng nhé Sam.}
-{300}{}{C?u *n?c* mu?n bi?t g? nào?}
+{300}{}{Cô *n?c* mu?n bi?t g? nào?}
 {301}{}{Ông là ngư?i gác ngh?a trang à?}
 {302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {303}{}{Tôi có th? giúp g? đư?c ông không?}
 {400}{}{?, *n?c* ta chăm sóc khu ngh?a trang này. Không ai mu?n *n?c* làm vi?c này, v?y nên Sammy già có vi?c làm.
-C?ng không t? như h? ngh?. Có nhi?u... đi?m t?t, c?u bi?t đ?y. [Ông ta toét mi?ng cư?i s?c và nheo nheo
+C?ng không t? như h? ngh?. Có nhi?u... đi?m t?t, cô bi?t đ?y. [Ông ta toét mi?ng cư?i s?c và nheo nheo
 c?p mày r?m].}
 {401}{}{Không, tôi không bi?t và c?ng không mu?n bi?t. T?m bi?t.}
 {402}{}{Không. Tôi không bi?t. Nhưng tôi mu?n h?i ông v? chuy?n khác.}

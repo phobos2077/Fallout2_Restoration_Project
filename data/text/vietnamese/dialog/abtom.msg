@@ -9,7 +9,7 @@
 {203}{}{Not when he's slinking around like a thief and carrying a shovel.}
 {204}{}{Alright fine, but why are you carrying a shovel?}
 {205}{}{Whatever, I'm out of here.}
-{206}{}{Nevermind. Sorry to bother you.}
+{206}{}{Không có g?. Xin l?i đ? làm phi?n.}
 {207}{}{You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
  might find something that needs digging up. Always be prepared I say.}
 {208}{}{Find something, eh? You mean like something in a grave?}
