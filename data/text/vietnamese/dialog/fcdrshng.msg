@@ -75,12 +75,12 @@
 {412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
 {413}{}{And what do I get out of it?}
 {420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{421}{}{I'll see what I can do.}
+{421}{}{Đ? tôi xem tôi có th? làm g?.}
 {422}{}{If you want Wong dead, you'll need to give me something up front.}
 {423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
 {430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
-{431}{}{I'll see what I can do.}
+{431}{}{Đ? tôi xem tôi có th? làm g?.}
 {440}{}{[Looks at you expectantly.]}
 {441}{}{I'm still working on things. I'll get back to you.}
 {442}{}{I delivered the sample to the Shi.}
@@ -113,7 +113,7 @@
 {540}{}{And so now you understand, I hope?}
 {541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
 {550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{551}{}{I'll see what I can do.}
+{551}{}{Đ? tôi xem tôi có th? làm g?.}
 {552}{}{If you want Wong dead, you'll need to give me something up front.}
 {553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {554}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}

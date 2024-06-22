@@ -33,7 +33,7 @@
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}
 {282}{}{Đư?c thôi.}
-{283}{}{I'll see what I can do.}
+{283}{}{Đ? tôi xem tôi có th? làm g?.}
 {290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
 {291}{}{No problem.}
 {292}{}{I'll be right back.}

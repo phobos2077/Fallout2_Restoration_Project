@@ -51,7 +51,7 @@
 {150}{}{Fine. I'll go talk to Fung.}
 {151}{}{Fine. I don't give a crap about you anyway.}
 {152}{}{If you could do something about it... kill him, or talk some sense into him, or something... I'll die without it.}
-{153}{}{I'll see what I can do.}
+{153}{}{Đ? tôi xem tôi có th? làm g?.}
 {154}{}{Sorry, man... I think you're screwed. I can't help.}
 {155}{}{With no spleen, I'm going to die. Thanks for your help anyway.}
 {156}{}{I found it. Go over to Dr. Wong's place.}

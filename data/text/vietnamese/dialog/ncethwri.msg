@@ -3,7 +3,7 @@
 {151}{}{You see Mrs. Wright. She seems to be depressed and is sighing to herself.}
 {175}{}{You see a plump, rosy-cheeked woman. She seems to be in good spirits and is humming to herself.}
 {176}{}{You see Mrs. Wright. She seems to be in good spirits and is humming to herself.}
-{200}{}{*Sigh*}
+{200}{}{*Th? dài*}
 {201}{}{How could he do this to me?}
 {205}{}{Another fine Reno day!}
 {206}{}{::Whistle while you work...::}

@@ -25,7 +25,7 @@
 {168}{}{Where can I get the parts?}
 {169}{}{Maybe I can repair it.}
 {170}{}{Can you use this radio I found?}
-{171}{}{I'll see what I can do.}
+{171}{}{Đ? tôi xem tôi có th? làm g?.}
 {172}{}{Spa pa?}
 {173}{}{I know I can do it, I just need some spare parts. There is an old radio in
  my shack back in Klamath that has exactly what I need. You been to the Dunton's?
@@ -93,7 +93,7 @@
  Only problem is that Metzger's got me locked up here until I fix this radio and
  I don't have the parts I need.}
 {753}{}{Where can I get the parts you need?}
-{754}{}{I'll see what I can do.}
+{754}{}{Đ? tôi xem tôi có th? làm g?.}
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
  he expect me to fix it?}

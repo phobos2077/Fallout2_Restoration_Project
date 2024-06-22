@@ -55,21 +55,21 @@ thích l?m *n?c* cái thói u?ng rư?u c?a ta.}
 {605}{}{Ch?c ch?n *n?c* là có ch?. Có đêm ta th?c đ?n canh hai hay t?m đó, nhưng ch?ng th?y ai xu?t hi?n c?. Sau đó ta
 ng? g?c m?t. Ch?c là hơi quá chén. [Ông ta cư?i khà, lôi b?ch rư?u ra tu m?t ng?m l?n]. Gi? c?u ngh? *n?c* sao?
 Có mu?n giúp không?}
-{606}{}{Alright, I'll see what I can do. Do you know anything else that might help me?}
-{607}{}{Well, now that you mention it, I do *hickup* 'member Mr. Peterson sayin something about hearing some noises comin
- from his field. He might know something about this. He and that pretty little wife a his live right over there.
- [He points to the building south of the graveyard.]}
-{608}{}{I'll see what I can do.}
-{609}{}{I think I'll pass. I must be going.}
-{700}{}{I took care of the grave digging situation. You shouldn't have any more problems out here.}
-{701}{}{Well, that's *hickup* good news. Glad I won't be falling into any more open *hickup* graves. Thanks fer th' help.}
-{702}{}{Glad to help. I got some questions though.}
-{703}{}{Well, take care then.}
-{704}{}{I don't think open graves are the real reason you're falling down Samuel, but you take it easy now.}
-{1000}{}{*Whistle*}
-{1001}{}{*Cough* *Cough*}
-{1002}{}{*Clears throat*}
-{1003}{}{*Cough*}
-{1004}{}{*Sigh*}
-{1005}{}{*Hickup*}
-{2000}{}{It's been a *hickup* long day. Come back in th' morning.}
+{606}{}{Đư?c r?i, đ? tôi xem tôi có th? làm g?. Ông có bi?t đi?u g? khác có ích không?}
+{607}{}{?, nh?c m?i nh?, ta nh? *n?c* là Ông Peterson có nói v? vi?c nghe th?y ti?ng đ?ng g? đó t? khu ru?ng. C?u ta
+có th? bi?t g? đó v? chuy?n này. C?u ta cùng cô v? bé nh? xinh đ?p s?ng ? ngay kia. [Ông ta ch? tay v? phía
+t?a nhà phía Nam c?a ngh?a trang].}
+{608}{}{Đ? tôi xem tôi có th? làm g?.}
+{609}{}{Ch?c là thôi. Tôi ph?i đi đây.}
+{700}{}{Tôi đ? lo xong v? đào tr?m m? r?i. Ch?c là ông không c?n có v?n đ? g? n?a đâu.}
+{701}{}{?, th?t là *n?c* tin đáng đ? tu m?t hơi dài. M?ng là ta s? không c?n ng? vào ngôi m? *n?c* h? nào n?a. Cám ơn đ? giúp.}
+{702}{}{R?t vui khi giúp đư?c ông. Tôi v?n c?n vài câu h?i n?a.}
+{703}{}{Đư?c r?i, b?o tr?ng nhé.}
+{704}{}{Tôi không ngh? m?y ngôi m? h? là lí do chính khi?n ông ng? đâu Samuel, nhưng t? gi? ông có th? thư gi?n r?i.}
+{1000}{}{*Hu?t sáo*}
+{1001}{}{*Ho kh?c kh?c*}
+{1002}{}{*H?ng gi?ng*}
+{1003}{}{*Ho*}
+{1004}{}{*Th? dài*}
+{1005}{}{*N?c*}
+{2000}{}{Đúng là m?t *n?c* ngày dài. Sáng mai quay l?i nhé.}

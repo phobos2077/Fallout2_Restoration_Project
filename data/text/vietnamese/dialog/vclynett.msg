@@ -651,7 +651,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
  Could you end the attacks? I'll pay you.}
 {667}{}{No, I'm too busy at the moment.}
-{668}{}{I'll see what I can do.}
+{668}{}{Đ? tôi xem tôi có th? làm g?.}
 {669}{lyn109}{Very well. If you'll excuse me, I am also very busy. You can find your own way out.}
 {670}{}{I had some other questions I wanted to ask you first...}
 {671}{}{All right, I'm leaving.}

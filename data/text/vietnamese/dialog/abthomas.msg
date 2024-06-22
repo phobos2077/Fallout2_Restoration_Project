@@ -1,2 +1,2 @@
-{100}{}{You see a dead monk.}
-{101}{}{You see the remains of Brother Thomas. It looks as if he died a painful death.}
+{100}{}{B?n th?y m?t th?y tu đ? ch?t.}
+{101}{}{B?n th?y thi th? c?a Th?y Thomas. Có v? như ông ta đ? ch?t trong đau đ?n.}

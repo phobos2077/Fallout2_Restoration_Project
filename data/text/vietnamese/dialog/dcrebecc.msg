@@ -106,7 +106,7 @@
  for quite a long time. I'd written it off as a loss, but if you can get it back, I'd be
  amazed... and grateful. He's somewhere in town, I'm sure.}
 {371}{}{The book was The Lavender Flower. Derek should be over around Mom's on the east side.}
-{372}{}{I'll see what I can do.}
+{372}{}{Đ? tôi xem tôi có th? làm g?.}
 {373}{}{Sure sounds easy.}
 {374}{}{I already found it.}
 {375}{}{I'll have to get back to you.}

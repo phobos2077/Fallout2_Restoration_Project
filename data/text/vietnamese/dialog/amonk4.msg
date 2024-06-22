@@ -1,8 +1,8 @@
 {100}{}{You see a monk.}
 {101}{}{This monk looks like a trader.}
 {200}{}{Welcome traveler.}
-{201}{}{Peace to you.}
-{202}{}{Nice weather.}
+{201}{}{B?nh an nhé.}
+{202}{}{Th?i ti?t đ?p đ?y.}
 {203}{}{Go play somewhere else.}
 {300}{}{Hi, how can I help you?}
 {301}{}{What can you tell me about your order?}

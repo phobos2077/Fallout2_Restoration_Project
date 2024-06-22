@@ -1,11 +1,11 @@
-{100}{}{You see a man.}
-{101}{}{You see a woman.}
-{102}{}{He is a citizen of the Abbey.}
-{103}{}{She is a citizen of the Abbey.}
-{200}{}{Welcome stranger.}
-{201}{}{Peace to you.}
-{202}{}{This place is so nice!}
+{100}{}{B?n th?y m?t ngư?i đàn ông.}
+{101}{}{B?n th?y m?t ph? n?.}
+{102}{}{Ông ta là cư dân c?a Tu vi?n.}
+{103}{}{Bà ta là cư dân c?a Tu vi?n.}
+{200}{}{Chào m?ng ngư?i l?.}
+{201}{}{B?nh an nhé.}
+{202}{}{Nơi này tuy?t th?t đ?y!}
 {203}{}{Chào.}
-{204}{}{Nice weather.}
-{205}{}{You be careful out there in the wastes.}
-{500}{}{TAFFER!}
+{204}{}{Th?i ti?t đ?p đ?y.}
+{205}{}{Nh? c?n th?n ngoài hoang m?c.}
+{500}{}{CÓ TR?M!}

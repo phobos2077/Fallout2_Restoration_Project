@@ -193,7 +193,7 @@
 {473}{}{Uh, thanks for the advice. I had some other, safer, questions...}
 {474}{}{I will. Goodbye.}
 {475}{}{Thanks for your time... and your advice, Mrs. Bishop.}
-{480}{}{*Sigh*}
+{480}{}{*Th? dài*}
 {481}{}{Another BEAUTIFUL Reno day. The devil must be dancing a jig.}
 {482}{}{Judging from the crowd in the casino, looks like more human sewage has washed into Reno...}
 {483}{}{Reno... "the biggest little cesspool in the world." Hmmmph.}

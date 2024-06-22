@@ -1,7 +1,7 @@
 {100}{}{You see the Abbot, the spiritual leader of the Abbey.}
 {101}{}{There's something about this monk that leads you to believe he's rather important.}
 {200}{}{Welcome traveler.}
-{201}{}{Peace to you.}
+{201}{}{B?nh an nhé.}
 {202}{}{We are the guardians of knowledge.}
 {203}{}{I'm sorry, but knowledge of our books is of no use to you.}
 {300}{}{Welcome to the Abbey, traveler. How can I help you?}
