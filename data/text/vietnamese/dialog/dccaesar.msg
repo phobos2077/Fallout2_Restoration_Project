@@ -101,7 +101,7 @@
 {245}{}{Interesting. I'll give you }
 {246}{}{ coins.}
 {247}{}{Sold!}
-{248}{}{No, thanks.}
+{248}{}{Không, cám ơn.}
 {249}{}{I want more money than that!}
 {250}{}{Alright, I'll give you }
 {251}{}{ but no more!}

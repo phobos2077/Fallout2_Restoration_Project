@@ -10,7 +10,7 @@
 {107}{}{I was wondering if I could ask you a few questions about Chad.}
 {108}{}{Ông là ai?}
 {109}{}{Sorry about Chad. Who's the new boss?}
-{110}{}{No, thanks.}
+{110}{}{Không, cám ơn.}
 {111}{}{If you're looking for work, you might want to talk to Bill, the guy inside there. In-SIDE. He
  might understand you. Good luck!}
 {112}{}{Duhhhh...}

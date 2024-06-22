@@ -1,11 +1,11 @@
 {100}{}{B?n th?y Jordan, đang múa ng?n giáo như m?i khi.}
 {101}{}{B?n th?y Jordan, đang múa ng?n giáo như m?i khi.}
 {102}{}{Chúc may m?n! Ngôi làng trông ch? vào c?u.}
-{103}{}{Chosen One, the way you use a spear, you'll be meat for the geckos
- in no time. I can show you a few tricks.}
+{103}{}{C?u tinh, nh?n cách c?u múa giáo th? th? ch? m?y mà c?u làm m?i
+cho gecko. Tôi có th? ch? c?u vài đư?ng.}
 {104}{}{Đư?c thôi.}
-{105}{}{No, thanks.}
-{106}{}{This will take a little while.}
-{107}{}{You're a swift student -- it looks like you've learned all I can
- teach you.}
-{108}{}{Thanks Jordan, that's going to help a lot.}
+{105}{}{Không, cám ơn.}
+{106}{}{S? m?t m?t th?i gian đ?y.}
+{107}{}{C?u h?c nhanh đ?y -- có v? như c?u đ? h?c h?t nh?ng g? tôi
+có th? d?y r?i.}
+{108}{}{Cám ơn Jordan. Anh đ? giúp tôi r?t nhi?u đ?y.}

@@ -208,7 +208,7 @@
 {290}{}{We should spread out a bit.}
 {291}{}{That's it for now.}
 {292}{}{Sure. You look like a nice enough dog.}
-{293}{}{No, thanks.}
+{293}{}{Không, cám ơn.}
 {300}{}{Me sad. Me no can fix.}
 {301}{}{I'm sorry; I can't fix you.}
 {400}{}{You seem to be missing a part.}
