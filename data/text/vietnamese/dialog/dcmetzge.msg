@@ -253,7 +253,7 @@
 {711}{}{What?}
 {712}{}{Oh boy...}
 {720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
-{721}{}{Uh...}
+{721}{}{?...}
 {730}{}{Yes. It's a shame really. This person just doesn't seem to get it, but
  I think they are about to. [You see Metzger making a small hand gesture to his
  men.] Play time.}

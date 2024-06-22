@@ -822,7 +822,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {815}{}{My little dreadlocks are cute.}
 {816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
-{818}{}{Very well.}
+{818}{}{Đư?c r?i.}
 {819}{}{Good day.}
 {820}{}{Good day, Citizen.}
 {821}{}{I'll take that.}

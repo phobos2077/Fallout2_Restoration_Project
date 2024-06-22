@@ -63,7 +63,7 @@
 {162}{}{Okay, here you go.}
 {163}{}{Uh, what I meant was, how do I go about getting Citizenship?}
 {164}{}{My apologies, Citizen. I didn't mean to offend you. You have clearance to enter.}
-{165}{}{Very well.}
+{165}{}{Đư?c r?i.}
 {166}{}{Look, "Citizen," you need a Day Pass to get in here, all right? Don't try to trick me again.}
 {167}{}{(Leave.)}
 {168}{}{Hmmmnn... these look legit. Funny, I don't recall ever seeing you around before.}

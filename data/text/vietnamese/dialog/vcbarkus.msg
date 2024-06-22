@@ -126,7 +126,7 @@
 {217}{}{Infected? Infected with what?}
 {218}{}{Symptoms? What kind of symptoms?}
 {219}{}{Perhaps you've noticed the lowered energy level of your Servants recently? Short attention span? Their inability to hear orders and follow them correctly? Those are only the early stages.}
-{220}{}{Uh...}
+{220}{}{?...}
 {221}{}{'s Syndrome. A lot of Outworlders have it. Its symptoms include, uh, speaking when not being spoken to. And using
  coarse language.}
 {222}{}{Hmmmm. It wouldn't do if Citizens began to report problems with the Servants... very well, I shall release Joshua at

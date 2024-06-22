@@ -53,7 +53,7 @@
 {310}{}{Beat it.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
-{322}{}{Uh...}
+{322}{}{?...}
 {330}{}{Beat it, freak.}
 {331}{}{Sukyu!}
 {332}{}{Arug!}

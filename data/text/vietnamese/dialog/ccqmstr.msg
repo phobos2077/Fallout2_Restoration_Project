@@ -8,7 +8,7 @@
 {105}{}{Why are you out of uniform, soldier?}
 {106}{}{Die!}
 {107}{}{Uh, yeah...}
-{108}{}{Uh...}
+{108}{}{?...}
 {109}{}{Me new here.}
 {110}{}{Me not one you soldiers!}
 {111}{}{Uh, well...}

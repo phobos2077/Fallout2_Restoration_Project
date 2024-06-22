@@ -5,5 +5,5 @@
 {104}{}{Đư?c thôi.}
 {105}{}{Không, cám ơn.}
 {106}{}{S? m?t m?t th?i gian đ?y.}
-{107}{}{V?y là c?u đ? h?c h?t nh?ng bài giáo mà tôi có th? d?y r?i.}
+{107}{}{V?y là cô đ? h?c h?t nh?ng chiêu giáo mà tôi có th? d?y r?i.}
 {108}{}{Cám ơn Jordan. Anh đ? giúp tôi r?t nhi?u đ?y.}

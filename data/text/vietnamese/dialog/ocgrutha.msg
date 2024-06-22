@@ -5,7 +5,7 @@
 {103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this deathclaw pack.
  Why have you come here?}
 {104}{}{Why have you come here?}
-{105}{}{Uh...}
+{105}{}{?...}
 {106}{}{To kick your ass!}
 {107}{}{How is it possible that a deathclaw can talk... and so well?}
 {108}{}{I want to know what happened to the people who once lived here.}

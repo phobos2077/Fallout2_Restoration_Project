@@ -95,7 +95,7 @@
 {401}{}{Yeah. Let's go to your room, princess, and I'll show you what a real man is.}
 {402}{}{Naw, I was just curious to see how much of a slut you really are. Later, baby.}
 {410}{}{Yeah, it's best you know how things stand around here. (Looks you up and down.)}
-{411}{}{Uh...}
+{411}{}{?...}
 {413}{}{[Stand there uncomfortably while she checks you out.]}
 {420}{}{All right then... (Looks you up and down.)}
 {422}{}{Okay, so...}

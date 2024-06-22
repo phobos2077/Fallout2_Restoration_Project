@@ -25,7 +25,7 @@
 {173}{}{Sorry, I don't have anything for you. Bye.}
 {174}{}{Do you know where I can find a GECK?}
 {175}{}{You mentioned something about a garden earlier. Tell me more.}
-{178}{}{Me go.}
+{178}{}{Ng? đi.}
 {179}{}{Hey cheapskate! (hic) Come on, I know you gots money... (hic) Just some spare change then... (hic)
  something, anything! Show some compassion.}
 {180}{}{Here. Here's $25.}

@@ -21,7 +21,7 @@
 {115}{}{ Hey man, Raul don't take no shit from nobody. You see Quincy working on these
  birds? No way, man. Only Raul works on these babies. You know why? Cause
  Quincy don't know DICK, man, that's why!}
-{116}{}{Uh...}
+{116}{}{?...}
 {117}{}{Well...}
 {118}{}{Hey, sorry, man. Raul shouldn't be yelling at you, you know? It's
  not your fault; you're just the messenger. Hey, man, you busy right now?}

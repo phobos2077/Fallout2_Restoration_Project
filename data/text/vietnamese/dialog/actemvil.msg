@@ -1,6 +1,6 @@
 {100}{}{You see Cameron, a fellow tribesman.}
 {101}{}{You see Cameron.}
-{102}{}{You see a young man with bulging muscles and a very confident air about him.}
+{102}{}{B?n th?y m?t c?u trai tr? có cơ b?p cu?n cu?n v?i dáng v? r?t t? tin.}
 {103}{}{Greetings, }
 {104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
  me in unarmed combat. Shall we begin?}

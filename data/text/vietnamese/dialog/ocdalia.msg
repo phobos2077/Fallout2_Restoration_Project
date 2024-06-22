@@ -11,7 +11,7 @@
  you with?}
 {109}{}{Me got questions.}
 {110}{}{Nothing. Me say hi.}
-{111}{}{I have some questions for you.}
+{111}{}{Tôi có vài câu h?i.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
 {113}{}{What do you want to know?}
 {114}{}{You prisoner.}

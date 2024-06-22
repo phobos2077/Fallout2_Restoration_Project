@@ -12,7 +12,7 @@
 {250}{}{That'd be good.}
 {251}{}{Sorry, have to keep on moving.}
 {252}{}{Yah. Me got stuff!}
-{253}{}{Me go.}
+{253}{}{Ng? đi.}
 {260}{}{Good trading with you. Good luck in your travels.}
 {261}{}{Chào.}
 {270}{}{Glad to have you back. Can I interest you in something else?}

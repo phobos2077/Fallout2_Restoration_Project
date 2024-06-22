@@ -16,7 +16,7 @@
 {115}{}{I have business with the commander.}
 {116}{}{All right.}
 {117}{}{What is the nature of your business, sir?}
-{118}{}{Uh...}
+{118}{}{?...}
 {119}{}{Shit. Me screw up...}
 {120}{}{Never mind. Me go.}
 {121}{}{Well...}
