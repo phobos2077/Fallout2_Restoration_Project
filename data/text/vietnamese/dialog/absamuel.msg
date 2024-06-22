@@ -1,6 +1,6 @@
-{100}{}{You see the monastery graveyard keeper.}
-{101}{}{You see Brother Samuel, the graveyard keeper.}
-{102}{}{He looks drunk and a bit drowsy.}
+{100}{}{B?n th?y ngư?i gác ngh?a trang c?a tu vi?n.}
+{101}{}{B?n th?y Th?y Samuel, ngư?i gác ngh?a trang.}
+{102}{}{Ông ta trông có v? say rư?u và hơi bu?n ng?.}
 {200}{}{*hickup* Why, 'ello there, my name's Samuel. What, uh, *hickup* brings you here?}
 {201}{}{*hickup* Hello again.}
 {202}{}{I'm just looking around. Do you tend to this graveyard?}

@@ -47,16 +47,16 @@ thông tin này nhé. B?o tr?ng.}
 {610}{}{Đ? tôi vào th?ng v?n đ? nhé. Anh mu?n giúp k? đ? lang thang quanh nhà anh vào bu?i t?i, ăn tr?m
 lương th?c và c? l?y đ? c?a ngư?i ch?t? Tôi đ? g?p nhi?u k? điên trư?c đây, nhưng anh h?n là s? m?t luôn. Anh v?n
 c?n s?ng đ?n gi? đúng là m?t phép màu đ?y.}
-{611}{}{[Anh ta nheo m?t l?i, nhưng v?n gi? đư?c b?nh t?nh]. ? Tu vi?n này chúng tôi s?ng như v?y. N?u l?ng t?t khiên c?u
-th?y khó ch?u th? tôi khuyên c?u nên bi?n kh?i nhà tôi ngay. Tôi s? không ng?i đây đ? nghe m?t g? t?c nhân x? v? trư?c
+{611}{}{[Anh ta nheo m?t l?i, nhưng v?n gi? đư?c b?nh t?nh]. ? Tu vi?n này chúng tôi s?ng như v?y. N?u l?ng t?t khi?n cô
+th?y khó ch?u th? tôi khuyên cô nên bi?n kh?i nhà tôi ngay. Tôi s? không ng?i đây đ? nghe m?t m? t?c nhân x? v? trư?c
 m?t v? m?nh đâu.}
 {612}{}{R?i, r?i, tôi đi.}
-{613}{}{OK tough guy, now this "wandering tribal" is going to kill you in front of your wife. Then maybe I'll kill her too.
- Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
- Well guess what, my naive friend? Horror has found you, and its name is }
-{700}{}{Get the hell outta here.}
-{710}{}{Good to see you again. Tom's been a big help around here. Thanks again for sorting all that out. Now, what can I do for you?}
-{6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone
- had begun digging up some of the graves. Apparently, whoever's doing this isn't strong enough to dig in one night.
- I'd guess it's an old beggar hoping to dig up some treasure. If you ever find out who's doing this, please tell 'em to
- stop by. There's no need for thievery here in the Abbey and I'd be happy to help this person in any way I can.}
+{613}{}{OK thôi anh giai c?ng, gi? th? "t?c nhân lang thang" này s? gi?t anh giai ngay trư?c m?t v?. Có th? sau đó tôi s?
+gi?t c? cô ta luôn. M? ki?p, ch?c là tôi s? gi?t toàn b? l? ngư?i ? ch? c? l?n này. Các ngư?i ngh? r?ng m?nh có th? tr?n 
+tránh kh?i n?i khi?p s? c?a hoang m?c? Bi?t g? không, anh giai đ?n? Th?n ch?t đ? đ?n, v?i cái tên là }
+{700}{}{Cút kh?i đây ngay.}
+{710}{}{R?t vui đư?c g?p l?i. Tom đ? giúp đ? chúng tôi nhi?u l?m. Cám ơn l?n n?a v? đ? gi?i quy?t m?i th?. Gi? th? tôi có th? giúp g? nh??}
+{6061}{}{Sau đó tôi có h?i Th?y Samuel xem có chuy?n g? x?y ra trong ngh?a trang không. Ông ta nói r?ng có k? nào đó đ?
+l?t tung m?y ngôi m? lên. Có v? như k? đó không có đ? s?c đ? đào trong m?t đêm. Tôi ch?c là m?t ông l?o ăn xin
+nào đ?y mong t?m đư?c c?a thôi. N?u c?u t?m th?y ngư?i làm chuy?n đó th? h?y b?o h? đ?n đây. ? Tu vi?n này
+không ai c?n ph?i đi ăn c?p c?, tôi s? s?n l?ng giúp đ? ngư?i này b?ng m?i cách có th?.}

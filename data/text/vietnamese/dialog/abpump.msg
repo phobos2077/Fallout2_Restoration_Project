@@ -1,16 +1,15 @@
-{100}{}{You see a waterpump.}
-{101}{}{You see a really old waterpump that appears to be broken.}
-{102}{}{The waterpump is working fine now.}
-{103}{}{You are going to need more than just your hands to fix this machine. Perhaps some tools would help with installing
- this part.}
-{104}{}{You repaired the waterpump.}
-{105}{}{You failed to repair the pump.}
-{106}{}{You find out what is wrong with the water pump.}
-{200}{}{You open the machine and look inside. You see a lot of rusty gears and motors. One of the motors
- has a crack in it.}
-{201}{}{Call it a day.}
-{202}{}{Investigate more.}
-{203}{}{Upon closer inspection you see that the crack is not the cause of the trouble, but rather
- the connection for where the wires go. The connectors seem to have burned out over the years of use. It's going to
- take a whole new motor as well as a new set of wires to get this machine working again.}
-{204}{}{Exit.}
+{100}{}{B?n th?y máy bơm nư?c.}
+{101}{}{B?n th?y m?t chi?c máy bơm nư?c c? có v? đ? b? h?ng.}
+{102}{}{Máy bơm nư?c gi? đ? ho?t đ?ng b?nh thư?ng.}
+{103}{}{B?n s? không th? s?a máy ch? v?i đôi bàn tay không. Có th? b?n s? c?n m?t ít d?ng c? đ? l?p b? ph?n này.}
+{104}{}{B?n đ? s?a máy bơm nư?c.}
+{105}{}{B?n không s?a đư?c máy bơm.}
+{106}{}{B?n đ? t?m ra v?n đ? c?a máy bơm nư?c.}
+{200}{}{B?n m? máy ra và xem bên trong. B?n th?y r?t nhi?u bánh răng và đ?ng cơ r? sét. M?t đ?ng cơ trong
+s? này đ? b? n?t.}
+{201}{}{D?ng ? đây thôi.}
+{202}{}{T?m hi?u thêm.}
+{203}{}{Sau khi t?m hi?u k? hơn, b?n th?y r?ng v?t n?t không ph?i là nguyên nhân mà là đ?u n?i
+ch? dây d?n vào. M?y đi?m đ?u n?i đ? cháy r?i sau nhi?u năm s? d?ng. S? c?n nguyên m?t b? đ?ng cơ và dây đi?n
+m?i đ? làm cho cái máy này ho?t đ?ng tr? l?i.}
+{204}{}{Thoát.}
