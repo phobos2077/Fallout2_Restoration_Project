@@ -1,7 +1,7 @@
 {100}{}{You see a male villager.}
 {101}{}{You see a female villager.}
 {150}{}{A kindly member of your village.}
-{151}{}{[TALK]}
+{151}{}{[NÓI CHUY?N]}
 {152}{}{Hello! I hear you are the Chosen One. Now, perhaps, our village can be saved.}
 {153}{}{Can you tell me where I can find more healing powder?}
 {154}{}{What can you tell me of the traders who trade with us?}

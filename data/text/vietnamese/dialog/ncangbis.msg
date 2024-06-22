@@ -26,7 +26,7 @@
 {244}{}{Me board too}
 {245}{}{Noooo me gotta go now}
 {246}{}{No.}
-{247}{}{Yes.}
+{247}{}{Đúng v?y.}
 {248}{}{Uh... why are you looking at me like that?}
 {249}{}{I might be bored. Why, you looking for some excitement, princess?}
 {250}{}{Not really. I've got somewhere I've got to be.}

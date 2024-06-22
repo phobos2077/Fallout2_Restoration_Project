@@ -40,7 +40,7 @@
 {131}{}{Get the hell out of my sight, you jerk! I'd kill you if I had the chance!}
 {132}{}{Chào.}
 {133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
-{134}{}{Yes.}
+{134}{}{Đúng v?y.}
 {135}{}{No.}
 {136}{}{Yeah? Then go talk to Jacob, the chemist. I'll catch you later.}
 {137}{}{Mutie-lover! Get outta here! I don't want to breathe the same air as you!}

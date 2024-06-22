@@ -1,6 +1,6 @@
 {100}{}{You see a prostitute.}
 {150}{}{This is your usual, run of the mill, prostitute.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{Hey, I don't do chicks!}
 {154}{}{Whatever.}
 {155}{}{Sorry.}

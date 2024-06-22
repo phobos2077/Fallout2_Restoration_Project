@@ -74,7 +74,7 @@
 {167}{}{Cám ơn.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
-{169}{}{Yes.}
+{169}{}{Đúng v?y.}
 {170}{}{No.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
 {172}{}{[XONG]}

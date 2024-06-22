@@ -55,7 +55,7 @@
 {154}{}{Me tank you!}
 {155}{}{Cám ơn.}
 {156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
-{157}{}{Yes.}
+{157}{}{Đúng v?y.}
 {158}{}{No.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
 {160}{}{I have some other questions.}

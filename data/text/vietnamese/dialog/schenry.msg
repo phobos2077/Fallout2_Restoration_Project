@@ -42,7 +42,7 @@
 {141}{}{It's no use, I'm not going back. None of you appreciated the work I was doing, so don't pretend to be my friend. Thank you very much!}
 {142}{}{Well then, we've nothing to talk about. Good day.}
 {143}{}{So, how did it go? Is the test done?}
-{144}{}{Yes.}
+{144}{}{Đúng v?y.}
 {145}{}{No.}
 {146}{}{Well, if you don't mind, would you please get on with it? I'm not a young man anymore.}
 {147}{}{And... How did it work?}

@@ -16,10 +16,10 @@
 {115}{}{Whoa - ya just worked Lenny. Impressive! Have a drink on the house.}
 {116}{}{What ya did to Lenny - it was wicked!}
 {117}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
-{118}{}{Yes.}
+{118}{}{Đúng v?y.}
 {119}{}{No.}
 {120}{}{You gonna buy a drink? $10.}
-{121}{}{Yes.}
+{121}{}{Đúng v?y.}
 {122}{}{No.}
 {123}{}{One Rad-A-Waster coming up! $10.}
 {124}{}{Okay.}
@@ -72,10 +72,10 @@
 {171}{}{A few more questions...}
 {172}{}{Well, thanks. I'll remember that.}
 {173}{}{Hmm -- work? Want job? Help Mira?}
-{174}{}{Yes.}
+{174}{}{Đúng v?y.}
 {175}{}{No.}
 {176}{}{Listen -bad man hurt Mira. Bad man name Jack. Hurt bad man. Mira like ya, give ya nice gun. Good?}
-{177}{}{Yes.}
+{177}{}{Đúng v?y.}
 {178}{}{No.}
 {179}{}{Good! Mira have rope over wall. Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun.}
 {180}{}{Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun. Now go away. Me be seen with ya - not good. Help Mira and come back. Understand?}

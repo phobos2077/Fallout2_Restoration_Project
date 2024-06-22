@@ -42,7 +42,7 @@
 {219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
  who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
  more questions?}
-{220}{}{Yes.}
+{220}{}{Đúng v?y.}
 {221}{}{No.}
 {222}{}{All right. See ya, then.}
 {223}{}{Chào.}

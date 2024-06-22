@@ -40,7 +40,7 @@
 {139}{}{Good. Me bye-bye.}
 {140}{}{Just fine. Now, I'm out of here.}
 {141}{}{Here to report the outcome of Vault 15?}
-{142}{}{Yes.}
+{142}{}{Đúng v?y.}
 {143}{}{No.}
 {144}{}{Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?}
 {145}{}{Okay.}

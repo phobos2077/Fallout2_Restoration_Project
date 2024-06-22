@@ -37,12 +37,12 @@
 {130}{}{I realize that they are a potential threat, but I trust them.}
 {131}{}{You do have a point. What should we do?}
 {132}{}{Alone I don't stand a chance, but together we can fight our way out of here. How about it?}
-{133}{}{Yes.}
+{133}{}{Đúng v?y.}
 {134}{}{No.}
 {135}{}{Arrgh! You're a fool to trust them. If you change your mind come back and get me.}
 {136}{}{Chào.}
 {137}{}{Have you changed your mind? Will you help me get out of here?}
-{138}{}{Yes.}
+{138}{}{Đúng v?y.}
 {139}{}{No.}
 {140}{}{You seem to have bought yourself a shit storm!}
 {141}{}{Me not here about escape. Me here because someone break computer. You do?}

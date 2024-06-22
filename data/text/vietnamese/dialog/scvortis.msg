@@ -23,7 +23,7 @@
 {122}{}{I heard there's these guys - New California Rangers. They been giving you any trouble?}
 {123}{}{Mind if I have a look around?}
 {124}{}{Work? Well... there might be something. You ever hear of the New California Rangers?}
-{125}{}{Yes.}
+{125}{}{Đúng v?y.}
 {126}{}{No.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
 {128}{}{Bite me!}
@@ -40,7 +40,7 @@
 {139}{}{Another question...}
 {140}{}{Whatever you say. I'll be going.}
 {141}{}{Yeah, I may have some feelings about the Rangers. You looking for work?}
-{142}{}{Yes.}
+{142}{}{Đúng v?y.}
 {143}{}{No.}
 {144}{}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
 {145}{}{Another question...}
@@ -62,7 +62,7 @@
 {161}{}{Just a few more questions.}
 {162}{}{Alright. I'll be back.}
 {163}{}{You're back again. Did you get that map?}
-{164}{}{Yes.}
+{164}{}{Đúng v?y.}
 {165}{}{No.}
 {166}{}{I'm still waiting for you to finish the first job!}
 {167}{}{Oh yeah, I forgot.}

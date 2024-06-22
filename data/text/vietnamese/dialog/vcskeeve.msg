@@ -22,7 +22,7 @@
 {121}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
 {122}{}{Nothing. Sorry to bother you.}
 {123}{}{The Vault? It's inside the city. Why? You looking to get past the gate?}
-{124}{}{Yes.}
+{124}{}{Đúng v?y.}
 {125}{}{No, just looking around. Thanks.}
 {126}{}{Well, you could go see my boss, Wallace, and TRY to get permission to get inside, but you'd be wasting your time. He never lets anybody in. Of course, there's other ways...}
 {127}{}{What other ways?}
@@ -157,7 +157,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {243}{}{Hmmmm. How much for the Citizenship papers again?}
 {244}{}{If I have to pry it from his dead fingers, I will.}
 {245}{}{How do you become a real Citizen?}
-{246}{}{Nothing, never mind.}
+{246}{}{Không, không có g?.}
 {247}{}{No, thanks. Maybe some other time.}
 {248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
  Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}

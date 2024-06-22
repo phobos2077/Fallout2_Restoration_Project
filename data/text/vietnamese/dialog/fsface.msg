@@ -1,5 +1,5 @@
 {100}{}{Welcome. I am ACE, the medical computer. Are you in need of medical assistance?}
-{101}{}{Yes.}
+{101}{}{Đúng v?y.}
 {102}{}{No.}
 {103}{}{Me got question. You answer?}
 {104}{}{I've got some questions. Can you answer them?}

@@ -2,7 +2,7 @@
 {101}{}{You see Vic.}
 {150}{}{This slave seems to be kept under tight surveillance.}
 {151}{}{This is Vic.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
 {154}{}{My name is }

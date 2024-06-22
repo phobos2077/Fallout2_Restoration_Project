@@ -37,7 +37,7 @@
 {133}{}{Great. Bye.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
  should do it. You want it or not?}
-{135}{}{Yes.}
+{135}{}{Đúng v?y.}
 {136}{}{No.}
 {137}{}{Fine. You don't have any business here. Please leave so we can get our jobs done.}
 {138}{}{Chào.}

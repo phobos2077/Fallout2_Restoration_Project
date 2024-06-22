@@ -14,7 +14,7 @@
  English language. Therefore it is safe to assume that I am a talking dog. Now, do
  you intend to answer the question that I posed to you a moment ago?}
 {110}{}{Sorry, me forget question.}
-{111}{}{Yes.}
+{111}{}{Đúng v?y.}
 {112}{}{No.}
 {113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
 {114}{}{Ready what?}

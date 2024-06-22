@@ -48,7 +48,7 @@
 {140}{}{I was wondering if I could hear your tale once again?}
 {141}{}{Wait a minute, I thought you were someone else.}
 {142}{}{At last, my time has come. Are you going to kill me now?}
-{143}{}{Yes.}
+{143}{}{Đúng v?y.}
 {144}{}{No.}
 {145}{}{When I was eight, my dog Spike got hit by a tractor. When I was nine, my mother lost her arm to a
  rabid brahmin. When I was ten, my sister was torn to bits by a pack of dogs. When I was eleven, my

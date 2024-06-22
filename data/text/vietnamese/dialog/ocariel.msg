@@ -25,7 +25,7 @@
 {124}{}{}
 {125}{}{}
 {126}{}{All right.}
-{127}{}{What do you want to know?}
+{127}{}{Mu?n bi?t g? nào?}
 {128}{}{You prisoner?}
 {129}{}{D'claws treat you ok?}
 {130}{}{Want leave?}

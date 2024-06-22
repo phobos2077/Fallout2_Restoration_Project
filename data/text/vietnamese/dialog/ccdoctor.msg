@@ -6,7 +6,7 @@
 {105}{}{No, me come back later.}
 {106}{}{Very well. I have to live with you grunts so I might as well make
  an effort to get along with you.}
-{107}{}{What do you want to know?}
+{107}{}{Mu?n bi?t g? nào?}
 {108}{}{Who you?}
 {109}{}{What you do?}
 {110}{}{What this place?}

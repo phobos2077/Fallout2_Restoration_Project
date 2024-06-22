@@ -304,7 +304,7 @@
 {402}{}{About that village...}
 {403}{}{You killed all those big ugly rats? Really?}
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
-{405}{}{Yes.}
+{405}{}{Đúng v?y.}
 {406}{}{Not yet.}
 {407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
 {408}{}{They're happy right where they are.}

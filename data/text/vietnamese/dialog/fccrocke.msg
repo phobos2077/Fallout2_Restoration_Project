@@ -25,7 +25,7 @@
 {124}{}{What new tech have you developed?}
 {125}{}{Loud and clear. See ya.}
 {126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
-{127}{}{Yes.}
+{127}{}{Đúng v?y.}
 {128}{}{No.}
 {129}{}{Great. That'll cost you $10,000, straight up, no bartering. I need some new equipment.}
 {130}{}{$10,000? That's outrageous! I don't have that kind of money!}
@@ -48,7 +48,7 @@ You want this armor or not? It's $10,000 flat out.}
 {145}{}{Highway robbery. No way.}
 {146}{}{::he looks into your eyes and decides that you're serious::
 Do you have the armor here?}
-{147}{}{Yes.}
+{147}{}{Đúng v?y.}
 {148}{}{No.}
 {149}{}{::he looks into your eyes and decides that you're bluffing::
 Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}

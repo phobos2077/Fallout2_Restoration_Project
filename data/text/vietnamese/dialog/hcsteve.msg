@@ -36,7 +36,7 @@
 {128}{}{We're a small mining community. We were founded several decades ago by our sheriff, Marcus, and
  a man named Jacob. The two of them chose this site because it was near some uranium deposits. Would
  you like to hear more?}
-{129}{}{Yes.}
+{129}{}{Đúng v?y.}
 {130}{}{No.}
 {131}{}{We're a collective of humans, mutants, and ghouls. We don't have the racial tensions that
  plague Vault City; in our eyes, everyone's equal.}
@@ -71,7 +71,7 @@
 {159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
  communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
  own power. More?}
-{160}{}{Yes.}
+{160}{}{Đúng v?y.}
 {161}{}{No.}
 {162}{}{Everyone's equal. We all came from humans; we all have the same core underneath the exterior.
  To say that someone's evil just because of their appearance indicates only ignorance.}

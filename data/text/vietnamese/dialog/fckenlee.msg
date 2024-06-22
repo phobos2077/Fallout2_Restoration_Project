@@ -31,10 +31,10 @@
 {130}{}{If you wish to see the Emperor then you must give me your own name.}
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
-{133}{}{Yes.}
+{133}{}{Đúng v?y.}
 {134}{}{Forget it.}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
-{136}{}{Yes.}
+{136}{}{Đúng v?y.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
 {139}{}{[XONG]}
@@ -93,7 +93,7 @@
 {192}{}{Then in that case, you can only be an enemy. Good day.}
 {193}{}{Good day.}
 {194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
-{195}{}{Yes.}
+{195}{}{Đúng v?y.}
 {196}{}{Not right now. I have other questions, though.}
 {197}{}{You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
 {198}{}{The Emperor is a COMPUTER?}

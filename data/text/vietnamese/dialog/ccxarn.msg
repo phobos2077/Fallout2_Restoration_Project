@@ -1,5 +1,5 @@
 {100}{}{Greetings, human. I am the warrior Xarn. Are you to be my executioner?}
-{101}{}{Yes.}
+{101}{}{Đúng v?y.}
 {102}{}{No, me here rescue you.}
 {103}{}{Not know. Me want know why you here.}
 {104}{}{Yes I am.}
@@ -85,10 +85,10 @@
 {159}{}{No. I'll be leaving now.}
 {160}{}{All right, let's get it over with.}
 {161}{}{Hello again. Have you changed your mind? Will you help me?}
-{162}{}{Yes.}
+{162}{}{Đúng v?y.}
 {163}{}{No.}
 {164}{}{Hello again. Have you changed your mind? Will you help me?}
-{165}{}{Yes.}
+{165}{}{Đúng v?y.}
 {166}{}{No. Me still think about it.}
 {167}{}{No. Me not help.}
 {168}{}{No, I'm still thinking.}

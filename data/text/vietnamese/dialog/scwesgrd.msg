@@ -35,7 +35,7 @@
 {134}{}{Hey, get away from there!}
 {135}{}{You should ask before you play with things that aren't yours.}
 {136}{}{Hello. Did you need to see Mr. Westin again?}
-{137}{}{Yes.}
+{137}{}{Đúng v?y.}
 {138}{}{No.}
 {139}{}{Me have things from Vault City for Mr. Westin.}
 {140}{}{I have something from Vault City for Mr. Westin.}

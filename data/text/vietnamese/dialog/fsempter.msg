@@ -58,12 +58,12 @@
 {157}{}{Activate Physics Station.}
 {158}{}{Back.}
 {159}{}{Format drive: All data will be lost. Are you sure?}
-{160}{}{Yes.}
+{160}{}{Đúng v?y.}
 {161}{}{No.}
 {162}{}{The functional integrity of this system is 92%. The shielded core of the Emperor Computer is 100%. The integrity of the data is 100%. The forecasting node is suffering minor power lags - projected time to repair 6 days. Forecast 15% operational.}
 {163}{}{Back.}
 {164}{}{Are you sure you wish to format this unit? This is an irreversible process.}
-{165}{}{Yes.}
+{165}{}{Đúng v?y.}
 {166}{}{No.}
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
 {168}{}{[XONG]}

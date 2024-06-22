@@ -8,7 +8,7 @@ n?m trong tay m?t ng?n giáo.}
 {154}{}{Đúng v?y. Nhưng trư?c khi đi, tôi mu?n h?i vài câu.}
 {155}{}{Chưa. Tôi đang đi v?ng quanh xem xét thêm
 m?t lát đ?.}
-{156}{}{?, c?u các th?n phù h? cho c?u.}
+{156}{}{?, c?u các th?n phù h? cho cô.}
 {157}{}{Cám ơn, t?m bi?t.}
 {158}{}{Mu?n bi?t g? nào?}
 {159}{}{Anh có th? nói cho tôi bi?t v? ngư?i trao đ?i hàng hóa

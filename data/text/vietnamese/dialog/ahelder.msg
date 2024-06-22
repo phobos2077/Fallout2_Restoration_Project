@@ -115,7 +115,7 @@
 {214}{eeld5a}{Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
  Do you know what must be done, Chosen One?}
 {215}{}{Effeevee?}
-{216}{}{Yes.}
+{216}{}{Đúng v?y.}
 {217}{}{No.}
 {218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
 {219}{}{What happened?}

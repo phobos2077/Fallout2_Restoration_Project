@@ -2,7 +2,7 @@
 {101}{}{You see a tribeswoman.}
 {150}{}{Before you stands a large warrior of your village, wearing
  pants fashioned from animal hides.}
-{151}{}{[TALK]}
+{151}{}{[NÓI CHUY?N]}
 {152}{}{Hello, Chosen One, can I help you in your quest?}
 {153}{}{I'm just looking around the village one last time before I leave.}
 {154}{}{What can you tell me of the traders who trade with us?}

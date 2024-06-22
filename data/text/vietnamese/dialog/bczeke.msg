@@ -19,7 +19,7 @@
 {114}{}{Nothing. Wavy.}
 {115}{}{I've got some questions for you.}
 {116}{}{Nothing for now, thanks.}
-{117}{}{What do you want to know?}
+{117}{}{Mu?n bi?t g? nào?}
 {118}{}{You work for Darion?}
 {119}{}{What you do about raiders?}
 {120}{}{Where vault door?}

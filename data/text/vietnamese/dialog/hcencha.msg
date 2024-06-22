@@ -15,7 +15,7 @@
  might understand you. Good luck!}
 {112}{}{Duhhhh...}
 {113}{}{That'd be }
-{114}{}{Yes.}
+{114}{}{Đúng v?y.}
 {115}{}{No.}
 {116}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {117}{}{What's he like?}

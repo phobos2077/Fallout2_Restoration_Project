@@ -1,7 +1,7 @@
 {100}{}{You see a patron of the Hole.}
 {150}{}{This fellow sure isn't very attractive.}
 {151}{}{This guy's only got one tooth.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{Your wife sure is pretty!}
 {154}{}{Get away from us.}
 {155}{}{You like her, huh?}

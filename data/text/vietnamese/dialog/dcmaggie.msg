@@ -2,7 +2,7 @@
 {101}{}{You see Becky.}
 {150}{}{This looks like the owner.}
 {151}{}{This is Becky, owner of this place.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{Hello, stranger, and welcome to my saloon. I'm Becky.}
 {154}{}{Hello, I am }
 {155}{}{. What's there to do around here?}

@@ -33,7 +33,7 @@
 {132}{}{Okay.}
 {133}{}{No. Me no kill.}
 {134}{}{Back again, are you? Job done?}
-{135}{}{Yes.}
+{135}{}{Đúng v?y.}
 {136}{}{No.}
 {137}{}{Yeah, he left orders. He's been expecting you.}
 {138}{}{HEY YOU! Get away from there!}

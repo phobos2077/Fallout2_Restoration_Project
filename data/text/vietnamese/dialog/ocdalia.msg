@@ -13,7 +13,7 @@
 {110}{}{Nothing. Me say hi.}
 {111}{}{Tôi có vài câu h?i.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
-{113}{}{What do you want to know?}
+{113}{}{Mu?n bi?t g? nào?}
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}

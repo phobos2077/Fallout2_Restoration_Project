@@ -92,7 +92,7 @@
 {322}{}{You accusing me of cheating?}
 {323}{}{Uh-uh. Me KNOW you cheet}
 {324}{}{Nuh-uh! Nuh-uh! Don' be mad. Me going.}
-{325}{}{Yes.}
+{325}{}{Đúng v?y.}
 {326}{}{Screw this. Keep the money, I'm outta here.}
 {330}{}{Look, I ain't got time for sore losers. You pay your money, you take your chances. If you
  wanna PLAY, fine, but if

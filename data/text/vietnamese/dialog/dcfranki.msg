@@ -2,7 +2,7 @@
 {101}{}{You see Frankie, owner of The Hole.}
 {150}{}{This appears to be the owner of this place.}
 {151}{}{This is Frankie. He owns this joint.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
  a hundred miles! Everyone crawls into The Hole when it's time to let loose.
  Now don't you be causing too much trouble, y'hear?}
@@ -28,7 +28,7 @@
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{No thanks.}
 {175}{}{Anything else?}
-{176}{}{Yes.}
+{176}{}{Đúng v?y.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}

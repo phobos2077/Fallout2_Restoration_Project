@@ -2,7 +2,7 @@
 {101}{}{You see Anna the ghost.}
 {150}{}{This a ghost. That's not something you see every day.}
 {151}{}{She seems quite tormented.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{Oh, the pain! It burns so!}
 {154}{}{What's the matter?}
 {155}{}{Ông là ai?}

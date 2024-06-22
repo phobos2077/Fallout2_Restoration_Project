@@ -32,7 +32,7 @@
 {124}{}{I'm busy right now. Come back later.}
 {125}{}{Hello, recruit. I just got a call from your Sergeant. He says
  I'm to suit you up and send you back to him. That right?}
-{126}{}{Yes.}
+{126}{}{Đúng v?y.}
 {127}{}{This base is on alert and I don't recognize you. Show me your
  papers, soldier.}
 {128}{}{Me not have papers with on me.}

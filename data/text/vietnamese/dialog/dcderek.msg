@@ -32,7 +32,7 @@
 {251}{}{I'm a grandmaster cook!}
 {252}{}{I would never poison a newbie's food.}
 {260}{}{Hey you looking for some freshly baked bread?}
-{261}{}{Yes.}
+{261}{}{Đúng v?y.}
 {262}{}{I'm looking for Becky's book.}
 {263}{}{No, bye.}
 {270}{}{Oh, hi again.}

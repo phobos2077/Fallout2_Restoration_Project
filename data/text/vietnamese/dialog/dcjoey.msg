@@ -1,7 +1,7 @@
 {100}{}{You see a thug.}
 {101}{}{You see Joey.}
 {150}{}{This guy doesn't look too friendly.}
-{151}{}{[TALK]}
+{151}{}{[NÓI CHUY?N]}
 {152}{}{I'm gonna cut you up, fucker!}
 {153}{}{Yeah? Come on and try.}
 {154}{}{Hey, wait just one minute!}

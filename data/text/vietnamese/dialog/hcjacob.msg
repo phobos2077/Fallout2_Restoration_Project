@@ -38,7 +38,7 @@
 {158}{}{No, I'm not really interested.}
 {159}{}{In that case, it's just great being here. This town has everything you could want... mutant
  sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
-{160}{}{Yes.}
+{160}{}{Đúng v?y.}
 {161}{}{No.}
 {162}{}{Great. Bye.}
 {163}{}{Chào.}
@@ -108,7 +108,7 @@
 {263}{}{Will do.}
 {264}{}{I can't do it.}
 {265}{}{Why not? Are you scared or something? Are you positive you won't do it?}
-{266}{}{Yes.}
+{266}{}{Đúng v?y.}
 {267}{}{No, I guess I'll do it.}
 {268}{}{I suppose I can understand. You'll be equally understanding, I hope, when I tell you to get the
  hell out of my sight. Traitor.}
@@ -136,7 +136,7 @@
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
 {291}{}{Anything else?}
-{292}{}{Yes.}
+{292}{}{Đúng v?y.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}
 {295}{}{If you're not gonna help us, we ain't gonna help you.}

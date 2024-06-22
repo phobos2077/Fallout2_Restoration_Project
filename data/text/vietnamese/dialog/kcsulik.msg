@@ -446,7 +446,7 @@
 {3006}{}{To the rising sun.}
 {3007}{}{To the Northeast.}
 {3008}{}{We don't know anything about that.}
-{3009}{}{Yes.}
+{3009}{}{Đúng v?y.}
 {3010}{}{No.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
@@ -488,7 +488,7 @@
  your home so soon.}
 {3057}{slk89}{Good to see home, but not while sis is still gone. Be wanting to stay in your
  company, OK?}
-{3058}{}{Yes.}
+{3058}{}{Đúng v?y.}
 {3059}{}{No, I think it's time you looked for her yourself.}
 {3060}{slk90}{Maybe so. We and I miss you, though. Good spirits be with you, fren.}
 {3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}

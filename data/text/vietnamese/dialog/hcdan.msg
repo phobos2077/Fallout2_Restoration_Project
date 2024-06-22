@@ -10,7 +10,7 @@
 {109}{}{Not in my house, please. There's a street outside where you can sleep and do whatever else it is you "special" people do.}
 {110}{}{Thppt!}
 {111}{}{Great, great. Pleased to meet you. [He looks distracted.] Hey, look... you're an adventuring type, right?}
-{112}{}{Yes.}
+{112}{}{Đúng v?y.}
 {113}{}{Do you not recognize the Chosen One?}
 {114}{}{No.}
 {115}{}{What business is it of yours?}

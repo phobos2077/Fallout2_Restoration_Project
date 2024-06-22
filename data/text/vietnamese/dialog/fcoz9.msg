@@ -100,7 +100,7 @@
 {199}{}{Right-o. I have more questions.}
 {200}{}{Cám ơn. T?m bi?t.}
 {201}{}{Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?}
-{202}{}{Yes.}
+{202}{}{Đúng v?y.}
 {203}{}{No.}
 {204}{}{No, I just want you to die.}
 {205}{}{This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.}

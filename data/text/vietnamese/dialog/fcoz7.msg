@@ -46,7 +46,7 @@
 {145}{}{I don't think it's my bag. Sorry.}
 {146}{}{Hell no. Your crazy cult deserves to be torched down to the ground.}
 {147}{}{::he smiles:: You won't regret this. You may have the run of the compound. Oh... you're a person who knows how to use a weapon. Would you care to use yours in the service of the Great Wheel?}
-{148}{}{Yes.}
+{148}{}{Đúng v?y.}
 {149}{}{Maybe later.}
 {150}{}{Do not wait too long before returning with a reply. Your neurodynes will be filled with more and more pollution until we can begin the cleansing process.}
 {151}{}{I changed my mind. I'll join.}
@@ -57,7 +57,7 @@
 {156}{}{Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!}
 {157}{}{[XONG]}
 {158}{}{So. You have now had time to reconsider your decision. Will you join us?}
-{159}{}{Yes.}
+{159}{}{Đúng v?y.}
 {160}{}{No.}
 {161}{}{I still need more time.}
 {162}{}{You do not have more time. Make your choice, meat.}

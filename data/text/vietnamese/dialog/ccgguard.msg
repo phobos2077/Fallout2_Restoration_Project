@@ -21,18 +21,18 @@
 {120}{}{I'm sorry, I lost my pass and I don't know anything about a password.}
 {121}{}{Screw you and everyone who looks like you!}
 {122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
-{123}{}{Yes.}
+{123}{}{Đúng v?y.}
 {124}{gate6a}{I see. May I have your password?}
 {125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
 {126}{}{Sheepshead.}
-{127}{}{Yes.}
+{127}{}{Đúng v?y.}
 {128}{gate7a}{One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it's the first door on the right.}
 {129}{gate7b}{(mumbles) Damn jarheads are getting dumber by the hour.}
 {130}{}{Ok.}
 {131}{gate8a}{Halt! -- Oh. I see you've returned and you're alone this time. All right, recruit, what's the password?}
 {132}{gate8b}{Halt! -- You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {133}{}{Sheepshead.}
-{134}{}{Yes.}
+{134}{}{Đúng v?y.}
 {135}{gate9}{Halt! -- Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
 {136}{}{Uh... me not know. Me come back.}
 {137}{}{Screw this. Me walk in over you dead body.}

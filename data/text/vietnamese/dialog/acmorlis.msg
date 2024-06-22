@@ -1,55 +1,55 @@
-{100}{}{You see Morlis, one of your aunts -- the one who never liked you.}
-{101}{}{Why do you bother me, nephew? Can't you see I'm busy?}
-{102}{}{Umm, okay. Sorry.}
-{103}{}{What is it? You know I have a lot to do!}
-{104}{}{Ummm, Mynoc said...}
-{105}{}{Mynoc said what? Out with it, child!}
-{106}{}{That, umm, you might have some flint.}
-{107}{}{I do. You want some, is that it?}
-{108}{}{Well, yeah.}
-{109}{}{Well... I want three doses of healing powder. Bad times are coming
- and I'm going to be ready. Bring them to me and you can have the flint. Now
- get to it!}
-{110}{}{Yes, ma'am!}
-{111}{}{Now don't waste my time. Do you have the powders?}
-{112}{}{Yes, here they are.}
-{113}{}{Umm, I guess not.}
-{114}{}{Here is the flint. Now off with you! I don't have time to gossip.}
-{115}{}{Thank you, Aunt Morlis.}
-{116}{}{Again you waste my time, worthless nephew! How did you ever become
- the Chosen One?}
-{117}{}{Yes, Aunt Morlis.}
-{118}{}{Uh, Aunt Morlis, I have three right here.}
-{150}{}{Aunt Morlis, I'm on a perilous quest for the salvation of our village.
- My chances of success will be greatly enhanced if I keep the healing powders
- for myself and you give me the flint. Don't you agree?}
-{151}{}{What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!}
-{152}{}{If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take
- the flint and get out of my sight.}
-{153}{}{Yes, Aunt Morlis.}
-{154}{}{Well... Oh, very well. Here is the flint. I wish you a safe journey, child. }
-{155}{}{No, I don't. Now stop wasting my time and get out of here!}
-{156}{}{Yes, Aunt Morlis.}
-{200}{}{So you've returned. Did you find the holy Thirteen?}
-{201}{}{No, Aunt Morlis, I...}
-{202}{}{Then get yourself out of here and find it! People are depending on you!}
-{203}{}{Yes, Aunt Morlis.}
-{204}{}{Well, here you are again. Have you once again failed to complete your quest?}
-{205}{}{Yes, Aunt Morlis, but...}
-{206}{}{Then get yourself out of here and don't come back until you do! Why waste time coming back here, when you could be using that time to continue your search!?}
-{207}{}{Yes, Aunt Morlis.}
-{208}{}{The fact that you are standing here must mean that you have completed your quest. You wouldn't waste precious time returning here empty-handed, would you?}
-{209}{}{Yes, Aunt Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.}
-{210}{}{So, child. Once again you stand before me. Are you empty-handed yet again?}
-{211}{}{Yes, Aunt Morlis.}
-{212}{}{Listen, }
-{213}{}{. People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
-{214}{}{Yes, Aunt Morlis.}
-{215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
-{216}{}{Yes, Aunt Morlis.}
-{300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
-{301}{}{Why do you bother me, niece? Can't you see I'm busy?}
-{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
-{303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
-{304}{}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
-{305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{100}{}{B?n th?y Morlis, m?t ngư?i d? c?a b?n -- ngư?i ch?ng bao gi? ưu b?n.}
+{101}{}{Sao mày l?i đi làm phi?n tao h? cháu? Mày không th?y tao đang b?n à?}
+{102}{}{?m, okay. Xin l?i.}
+{103}{}{G? đ?y? Mày bi?t là tao b?n l?m mà!}
+{104}{}{?m, Mynoc nói là...}
+{105}{}{Mynoc nói g?? Nói nhanh lên nào, nhóc con!}
+{106}{}{Là, ?m, d? có đá mài.}
+{107}{}{Tao có đây. Mu?n m?t ít ch? g??}
+{108}{}{?, vâng.}
+{109}{}{R?i... Tao mu?n ba b?c b?t ch?a thương. Th?i đi?m khó khăn s?p t?i
+và tao c?n ph?i chu?n b?. H?y mang chúng đ?n đây và mày s? có đá mài.
+Gi? th? đi ki?m đi!}
+{110}{}{Vâng, thưa d?!}
+{111}{}{Đ?ng có làm m?t th?i gian c?a tao. Mày có b?t chưa?}
+{112}{}{Vâng, ? đây ?.}
+{113}{}{?m, ch?c là chưa ?.}
+{114}{}{Đá mài đây. Gi? th? bi?n đi! Tao không có th? gi? b?c phét đâu.}
+{115}{}{Cám ơn, D? Morlis.}
+{116}{}{L?i làm phi?n tao à, đ? cháu vô d?ng! Làm sao mà mày l?i tr? thành
+C?u tinh đư?c nh??}
+{117}{}{Vâng, D? Morlis.}
+{118}{}{?, D? Morlis, cháu có ba b?c ? đây.}
+{150}{}{D? Morlis, cháu đang th?c hi?n nhi?m v? đ?y hi?m nguy đ? c?u ngôi làng.
+Cháu s? có cơ h?i thành công cao hơn n?u gi? l?i b?t ch?a thương và d? đưa
+đá mài cho cháu. D? th?y có đúng không?}
+{151}{}{Mày đang ngh? g? th? h? nhóc? Đ?y không ph?i là cách mà C?u tinh làm. Gi? th? bi?n đi cho khu?t m?t tao!}
+{152}{}{N?u c?c đá mài quan tr?ng đ?n m?c mày s?n sàng làm nh?c cái tên C?u tinh th? đây. C?m l?y và bi?n đi
+cho khu?t m?t tao.}
+{153}{}{Vâng, D? Morlis.}
+{154}{}{?... ?, đư?c thôi. Đá mày đây. Ta chúc con hành tr?nh b?nh an.}
+{155}{}{Không h?. Gi? th? đ?ng có lèo nhèo m?t th?i gian và bi?n kh?i đây đi!}
+{156}{}{Vâng, D? Morlis.}
+{200}{}{V?y là mày đ? quay tr? l?i. Mày t?m đư?c s? 13 th?n thánh chưa?}
+{201}{}{Chưa, D? Morlis, cháu...}
+{202}{}{Th? th? cút kh?i đây và đi t?m đi! M?i ngư?i đang trông đ?i ? mày đ?y!}
+{203}{}{Vâng, D? Morlis.}
+{204}{}{Ài, mày l?i vác m?t v? đây à. Có ph?i mày l?i không th?c hi?n đư?c nhi?m v? thêm l?n n?a không?}
+{205}{}{Vâng, D? Morlis, nhưng...}
+{206}{}{V?y th? cút kh?i đây và đ?ng có v? ch?ng nào làm xong! Sao l?i m?t th?i gian quay v? khi mà có th? ti?p t?c đi t?m ch?!?}
+{207}{}{Vâng, D? Morlis.}
+{208}{}{Mày đang đ?ng ? đây ch?ng t? là mày đ? làm xong nhi?m v? r?i. Mày s? không phí ph?m th?i gian qu? báu đ? tr? v? tay không ch? h??}
+{209}{}{Vâng, D? Morlis. ? cháu là, không, D? Morlis, ?, cháu ph?i đi đây, D? Morlis.}
+{210}{}{V?y là, nhóc l?i m?t l?n n?a đ?ng trư?c m?t ta. L?i v? tay tr?ng à?}
+{211}{}{Vâng, D? Morlis.}
+{212}{}{Nghe này, }
+{213}{}{. Ngư?i th? ch?t d?n, b? c?ng ch?t d?n, cây tr?ng th? héo úa. M?i ngư?i ho?c là ch?t v? đói, ho?c b?nh, ho?c c? hai. Th?i gian s?p h?t r?i. N?u mày không s?m t?m th?y GECK th? chúng ta ch?t h?t. Mày có hi?u không?}
+{214}{}{Vâng, D? Morlis.}
+{215}{}{V?y th? cút kh?i đây và đi t?m GECK đi! M?i ngư?i đang trông ch? vào mày đ?y!}
+{216}{}{Vâng, D? Morlis.}
+{300}{}{Chà, có v? như tao đ? đá ch? khác r?i. ? ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m.}
+{301}{}{Sao mày l?i đi làm phi?n tao h? cháu? Mày không th?y tao đang b?n à?}
+{302}{}{Chà, t?m m?i không th?y đá. Ch?c ch?n là mày l?y tr?m lúc tao không canh ch?ng r?i. L?n trư?c c?ng th?. Gi? th? cút đi! Tao không có th?i gian đ? tán nh?m đâu.}
+{303}{}{Chà... ?, ta xin l?i nhưng ta không t?m th?y đá mài. Ta chúc con hành tr?nh b?nh an, nhóc ?.}
+{304}{}{Tao đ? đưa đá mài cho mày r?i, đ? ngu. Gi? th? đ?ng có làm m?t th?i gian c?a tao và bi?n đi!}
+{305}{}{Tao đ? đưa đá mài cho mày r?i, đ? ngu. ?, ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m đâu.}

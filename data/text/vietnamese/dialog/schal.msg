@@ -3,7 +3,7 @@
 {102}{}{He's chewing a wad of something you hope he don't spit this way, because it stinks to high heaven.}
 {103}{}{You here for the drive?}
 {104}{}{}
-{105}{}{Yes.}
+{105}{}{Đúng v?y.}
 {106}{}{No.}
 {107}{}{Keep your eyes peeled.}
 {108}{}{Stay together men!}

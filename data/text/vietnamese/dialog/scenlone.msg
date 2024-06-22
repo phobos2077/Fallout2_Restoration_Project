@@ -7,7 +7,7 @@
 {106}{}{Well, I am the Chosen One.}
 {107}{}{Uh, I really don't know what you're talking about.}
 {108}{}{So you're the itch Merk wants scratched!}
-{109}{}{Yes.}
+{109}{}{Đúng v?y.}
 {110}{}{No.}
 {111}{}{I just want to be alone.}
 {112}{}{Hello? Anybody there?}
@@ -49,7 +49,7 @@
 {148}{}{Nonsense. There is no organizing force determining our fates. In fact there's no 'higher power' behind anything. The universe is just chance. I am the Chosen One because others have declared it. That's all.}
 {149}{}{Aligned Hub Seeker. You are obviously not Enlightened.}
 {150}{}{A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?}
-{151}{}{Yes.}
+{151}{}{Đúng v?y.}
 {152}{}{No.}
 {153}{}{I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.}
 {154}{}{By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!}

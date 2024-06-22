@@ -2,7 +2,7 @@
 {101}{}{You see Tubby.}
 {150}{}{This is the store owner.}
 {151}{}{This is Tubby, the shop store owner.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{I would prefer that you take your business elsewhere.}
 {154}{}{You are a business man. Let's conduct business.}
 {155}{}{Can I ask you something.}

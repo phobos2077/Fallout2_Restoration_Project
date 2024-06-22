@@ -26,11 +26,11 @@
 {125}{}{Thanks. I have more questions.}
 {126}{}{Cám ơn. T?m bi?t.}
 {127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
-{128}{}{Yes.}
+{128}{}{Đúng v?y.}
 {129}{}{No, but I wanted to ask you something else.}
 {130}{}{No, that's all.}
 {131}{}{We're a band of musicians, tekheads, geeks, and artists. We thought we'd come back to someplace famous for artistic and personal freedom. I came here to spawn. Wanna hear more still?}
-{132}{}{Yes.}
+{132}{}{Đúng v?y.}
 {133}{}{No, but I wanted to ask you something else.}
 {134}{}{No, that's all.}
 {135}{}{Well, when we got here, we figured we'd camp out here until we either figured out how to get this tanker moving again or until we thought of something else.}
