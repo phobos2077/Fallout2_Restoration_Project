@@ -1,6 +1,6 @@
 {100}{}{B?n th?y m?t chàng trai tr? kh?e.}
 {101}{}{B?n th?y Ông Peterson.}
-{200}{}{Xin chào anh b?n. Tôi nh? là chưa th?y c?u ? đây bao gi?. L?n đ?u đ?n v?i Tu vi?n à?}
+{200}{}{Xin chào cô b?n. Tôi nh? là chưa th?y cô ? đây bao gi?. L?n đ?u đ?n v?i Tu vi?n à?}
 {201}{}{R?t vui đư?c g?p l?i. Tôi có th? giúp g? nh??}
 {202}{}{?. Ông có th? gi?i thi?u v? nơi này đư?c không?}
 {203}{}{Tôi đang trên hành tr?nh đi t?m GECK th?n thánh. Ông có bi?t g? v? th? này không?}
@@ -18,7 +18,7 @@ nói chuy?n v?i Bill, ông ta m? quán t?p hóa ? phía Tây Nam khu này.}
 {303}{}{Nghe h?p d?n th?t đ?y, nhưng tôi th?c s? ph?i đi đây.}
 {304}{}{Hay đ?y. Tôi đang th?c m?c v? th? khác.}
 {305}{}{Không có g?, tôi ph?i đi đây.}
-{400}{}{C?u c?n mu?n bi?t g? n?a?}
+{400}{}{Cô c?n mu?n bi?t g? n?a?}
 {401}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {402}{}{Ông có bi?t g? v? B? t?o Vư?n đ?a đàng không?}
 {500}{}{Tôi chưa t?ng nghe đ?n th? này. Nhưng n?u đ?y là đ? t? th?i trư?c chi?n tranh th? tôi ch?c là s? có g? đó trong
@@ -26,7 +26,7 @@ máy tính c?a tu vi?n đ?y. Đáng ti?c cho c?u là các th?y tu ? gi?u ki?n th
 đ?n m?t cu?c chi?n tranh ho?c g? đó n?u m?i ngư?i bi?t nhi?u quá. Nhưng c? th? h?i quanh đây xem.}
 {501}{}{Cám ơn, tôi s? th?. Tôi v?n c?n m?y câu h?i n?a.}
 {502}{}{Cám ơn v? l?i khuyên. Tôi s? đi vào th? gi? đây.}
-{600}{}{Th?y Samuel c? c?u đ?n đây? L?o b?m rư?u đ?y l?i mu?n g? n?a đây?}
+{600}{}{Th?y Samuel c? cô đ?n đây? L?o b?m rư?u đ?y l?i mu?n g? n?a đây?}
 {601}{}{Tending to the graves as usual I suppose. So about what you heard...}
 {602}{}{[John sits down in his chair and pours himself a shot of whiskey.] It all began a couple days ago. My wife and
  I were preparing for bed when we heard some rustling out in the field. I grabbed my lantern and rushed outside to see if

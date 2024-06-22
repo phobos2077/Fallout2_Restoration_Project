@@ -41,7 +41,7 @@
 {181}{}{What did you want to know about?}
 {182}{}{Do you ever go to the north side?}
 {183}{}{Tell me about trapping geckos.}
-{184}{}{Do you know anything about a Garden of Eden Creation Kit?}
+{184}{}{Ông có bi?t g? v? B? t?o Vư?n đ?a đàng không?}
 {185}{}{You sure have a lot of cars here.}
 {186}{}{Rats? Tell me more about rats.}
 {187}{}{Thanks for the info. I don't think I need to know about anything else. Goodbye.}
