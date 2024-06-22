@@ -18,8 +18,8 @@
 {117}{}{Th? l?i cho tôi, nhưng tôi không tr? l?i đư?c. H?y th?c hi?n th? thách do Trư?ng l?o đ?t ra và ch?ng t? ch? x?ng đáng d?n đ?u b? t?c.}
 {118}{}{Đư?c r?i.}
 {119}{}{C?n có hai ngư?i m?i có th? bê đư?c cây c?t này. M?t m?nh ch? ch?c ch?n không đư?c đâu. Tôi s? không giúp ch? cho đ?n khi ch? vư?t qua th? thách c?a Trư?ng l?o.}
-{120}{}{Uh-huh. I get the picture.}
-{121}{}{Greetings, Chosen One! It is good to see you. How may I serve you?}
-{122}{}{Me say hi. That all.}
-{123}{}{Just thought I'd say hello. I'll be leaving on my quest soon.}
-{124}{}{May the spirits of our ancestors protect you, Chosen One. I wish you well on your journey.}
+{120}{}{? h?. Tôi hi?u r?i.}
+{121}{}{Xin chào, C?u tinh! R?t vui đư?c g?p ch?. Tôi giúp g? đư?c đây?}
+{122}{}{Ng? chào. Th? thôi.}
+{123}{}{Chào h?i thôi. Tôi s?p lên đư?ng làm nhi?m v? r?i.}
+{124}{}{C?u cho linh h?n tiên t? phù h? ch?, C?u tinh. Tôi chúc ch? hành tr?nh t?t đ?p.}
