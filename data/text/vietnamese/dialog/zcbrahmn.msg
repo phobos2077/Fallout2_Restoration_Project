@@ -1,9 +1,9 @@
-{100}{}{You see a regular domesticated brahmin.}
+{100}{}{B?n th?y m?t con b? brahmin nuôi b?nh thư?ng.}
 {101}{}{The reason for brahmin having two heads is due to
  early exposure of radation to what used to be called a
  cow.}
-{102}{}{You don't notice anything unusual about the brahmin.}
-{103}{}{Brahmin aren't much for conversations.}
+{102}{}{B?n không th?y con b? brahmin có g? b?t thư?ng.}
+{103}{}{B? brahmin không gi?i nói chuy?n l?m.}
 {104}{}{Have you nothing better to do than sit around talking
  to a two headed cow?}
 {105}{}{It's a brahmin. It has two heads.}

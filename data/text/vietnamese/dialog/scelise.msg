@@ -117,7 +117,7 @@
 {230}{}{I still need more time.}
 {231}{}{I am ready to go. Let's do it.}
 {232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
-{233}{}{[END]}
+{233}{}{[K?T THÚC]}
 {234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
 {235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
 {236}{}{You aid the Rangers in their continual struggle against slavery.}

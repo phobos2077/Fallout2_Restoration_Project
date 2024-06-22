@@ -24,7 +24,7 @@
 {120}{}{Uh huh.}
 {121}{}{Eh eh.}
 {122}{}{Well then, we got no business. You just keep moving, then.}
-{123}{}{[END]}
+{123}{}{[K?T THÚC]}
 {124}{}{Leave my farm!}
 {125}{}{Nobody is going to take my home from me.}
 {126}{}{Filthy bandits.}

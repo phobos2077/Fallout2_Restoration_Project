@@ -36,7 +36,7 @@
 {133}{}{[Give the man $1000]}
 {134}{}{Me go.}
 {135}{}{OHYEAH! Thiswillpickyourightup!}
-{136}{}{[END]}
+{136}{}{[K?T THÚC]}
 {150}{}{Hey, you're kinda cute; whats your name?}
 {151}{}{A'lil higher. Ohh, yeah.}
 {152}{}{You ready ... get jiggy with it?}

@@ -153,5 +153,5 @@
 {800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
  Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch
  and her cronies. Time to lock and load guys!}
-{801}{}{[END]}
+{801}{}{[K?T THÚC]}
 {1255}{}{!}

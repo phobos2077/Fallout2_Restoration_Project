@@ -15,12 +15,12 @@
  you?}
 {162}{}{Yes, let's trade.}
 {163}{}{I need some information.}
-{164}{}{Goodbye.}
+{164}{}{T?m bi?t.}
 {165}{}{Hello, madam. I am called Tubby by my friends, and I welcome you
  to my store. How may I help you?}
 {166}{}{I want to buy some things.}
 {167}{}{I need some information.}
-{168}{}{Goodbye.}
+{168}{}{T?m bi?t.}
 {169}{}{I would prefer that you leave, instead.}
 {170}{}{Chào.}
 {171}{}{What would you like to know?}

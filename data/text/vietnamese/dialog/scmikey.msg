@@ -6,7 +6,7 @@
 {105}{}{Gimme meat.}
 {106}{}{I'll take one.}
 {107}{}{What can you tell me about this town?}
-{108}{}{Goodbye.}
+{108}{}{T?m bi?t.}
 {109}{}{Enjoy, stranger!}
 {110}{}{There's mustard and onions over there.}
 {111}{}{Hey, buddy.}

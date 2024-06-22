@@ -13,7 +13,7 @@
 {112}{}{I'm looking for the Vault.}
 {113}{}{Can you tell me about Vault City?}
 {114}{}{What do you do around here?}
-{115}{}{Goodbye.}
+{115}{}{T?m bi?t.}
 {116}{}{Vic?}
 {117}{}{He sold a water flask to you? One with "13" on it?}
 {118}{}{Nevermind. I have to be going.}
@@ -52,7 +52,7 @@
 {150}{}{I'm looking for the Vault.}
 {151}{}{Can you tell me about Vault City?}
 {152}{}{What do you do around here?}
-{153}{}{Goodbye.}
+{153}{}{T?m bi?t.}
 {154}{}{Well... there's that Vault inside the main part of the city. You checked it out yet? Could be the one you're looking for.}
 {155}{}{Well... there's a Vault inside the main part of the city. That what you're looking for?}
 {156}{}{Perhaps. I had some other questions...}

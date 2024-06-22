@@ -1,8 +1,8 @@
-{100}{}{You see a regular domesticated brahmin.}
-{101}{}{The brahmin's extra head is probably the result of a regular
- cow being exposed too soon to radiation.}
-{102}{}{You don't notice anything unusual about the brahmin.}
-{103}{}{Brahmin aren't much for conversations.}
-{104}{}{Don't you have anything better to do than sit around
- talking to a two-headed cow?}
-{105}{}{Brahmin are a mutated breed of cows.}
+{100}{}{B?n th?y m?t con b? brahmin nuôi b?nh thư?ng.}
+{101}{}{Cái đ?u ph? c?a b? brahmin h?n là k?t qu? c?a b? thư?ng b?
+phơi nhi?m phóng x? quá s?m.}
+{102}{}{B?n không th?y con b? brahmin có g? b?t thư?ng.}
+{103}{}{B? brahmin không gi?i nói chuy?n l?m.}
+{104}{}{B?n không có vi?c g? t?t hơn đ? làm ngoài vi?c ng?i
+nói chuy?n v?i con b? hai đ?u à?}
+{105}{}{Brahmin là m?t chi b? đ?t bi?n.}

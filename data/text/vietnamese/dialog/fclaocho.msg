@@ -105,7 +105,7 @@
 {271}{}{Submarine?}
 {280}{}{We have nothing further to discuss, then.}
 {281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
-{282}{}{Goodbye.}
+{282}{}{T?m bi?t.}
 {285}{}{You drive a hard bargain. Fine, $1500.}
 {286}{}{Here you go. But your information better be worth it.}
 {287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.

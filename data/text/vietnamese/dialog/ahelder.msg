@@ -38,7 +38,7 @@
 {133}{}{Before I go, I have some questions.}
 {134}{}{Goodbye. I will not fail the tribe.}
 {135}{aeld8}{Very well. See me when you decide - but do not wait too long.}
-{136}{}{Goodbye.}
+{136}{}{T?m bi?t.}
 {137}{aeld9}{I cannot help much. So much has been lost from the Long Ago. What wisdom do you seek?}
 {138}{aeld9b}{What do you need?}
 {139}{}{Tell me more about the GECK.}
@@ -48,7 +48,7 @@
 {143}{aeld10}{It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
  will make our lands green and our village prosperous. It will save us. More, I do not know.}
 {144}{}{There's more I want to know.}
-{145}{}{Goodbye.}
+{145}{}{T?m bi?t.}
 {146}{aeld11}{Klamath is to the east.}
 {147}{}{There are other things I would learn.}
 {148}{}{I am ready. Goodbye.}
@@ -121,7 +121,7 @@
 {219}{}{What happened?}
 {220}{}{I understand.}
 {221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
-{222}{}{Goodbye.}
+{222}{}{T?m bi?t.}
 {223}{eeld8}{I am still the Elder. Remember your place! Apologize or I will not help you anymore.}
 {224}{}{Sorry, you're not an old bitch. What's going on?}
 {225}{}{Like you could help me in there? Fuck off and die.}

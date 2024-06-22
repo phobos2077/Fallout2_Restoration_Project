@@ -20,14 +20,14 @@
 {301}{}{Og.}
 {302}{}{Ooga.}
 {303}{}{Urg.}
-{350}{}{[END]}
+{350}{}{[K?T THÚC]}
 {351}{}{[BYE]}
 {352}{}{[THÊM]}
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
 {375}{}{Chào.}
-{376}{}{Goodbye.}
+{376}{}{T?m bi?t.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed

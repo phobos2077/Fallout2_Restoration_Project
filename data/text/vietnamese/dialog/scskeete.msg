@@ -36,7 +36,7 @@
 {135}{}{Hey man, Doofus warned you.}
 {136}{}{Fuck you. I am not answering your questions.}
 {137}{}{Đây là nơi nào?}
-{138}{}{Goodbye.}
+{138}{}{T?m bi?t.}
 {139}{}{Bye-bye.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
 {141}{}{Yes?}

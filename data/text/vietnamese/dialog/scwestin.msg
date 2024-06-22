@@ -36,7 +36,7 @@
 {135}{}{Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.}
 {136}{}{Anything else I can do for you?}
 {137}{}{Thanks. Maybe you can help me out. I'm trying to find Vault 13.}
-{138}{}{Goodbye.}
+{138}{}{T?m bi?t.}
 {139}{}{Dumont recommended you? Well, that's good enough for me. Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.}
 {140}{}{Sounds like easy work. I'll do it.}
 {141}{}{I've decided against it.}

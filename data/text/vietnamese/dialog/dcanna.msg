@@ -27,7 +27,7 @@
 {174}{}{OK.}
 {175}{}{No.}
 {176}{}{My locket, my locket! I'm coming, Daddy! I'm coming!}
-{177}{}{Goodbye.}
+{177}{}{T?m bi?t.}
 {178}{}{Wait! Don't go!}
 {179}{}{Go into the light.}
 {200}{}{Where could it be?}

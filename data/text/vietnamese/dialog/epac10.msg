@@ -589,5 +589,5 @@ and fifty years.}
 {4260}{}{Why the hell are we even wasting our time here? Seriously?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[END]}
+{5001}{}{[K?T THÚC]}
 {5002}{}{Holy shit!}

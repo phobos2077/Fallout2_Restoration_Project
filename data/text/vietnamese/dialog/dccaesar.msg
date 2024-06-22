@@ -114,7 +114,7 @@
 {258}{}{Nothing. Never mind.}
 {259}{}{He is not for sale, yet.}
 {260}{}{Why not?}
-{261}{}{Oh, okay.}
+{261}{}{?, okay.}
 {262}{}{He will cost $2000.}
 {263}{}{Here is your money.}
 {264}{}{That's a lot. Maybe later.}

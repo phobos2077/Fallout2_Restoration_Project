@@ -57,7 +57,7 @@
 {156}{}{Let's see. Contract says $500. Here you are.}
 {157}{}{In fact, she just buzzed me to change your amount - seems you earned a bonus. Here it is, $900 and NCR's thanks. Now, there is work to be done, so goodbye.}
 {158}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}
-{159}{}{Goodbye.}
+{159}{}{T?m bi?t.}
 {160}{}{Feargus? I don't believe it!}
 {161}{}{Take a look at this disk.}
 {162}{}{Whatever. I'm out of here.}

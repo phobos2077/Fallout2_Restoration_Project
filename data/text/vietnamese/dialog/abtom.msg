@@ -20,40 +20,40 @@ c?ng ngh? ra. Đ? đ?n lúc tr? l?i tôi r?i, Tom. T?i sao ông l?i đào nh?ng 
 {212}{}{[Ông ta đ?t x?ng xu?ng và th? dài]. Đư?c r?i, tôi s? nói. Thân th? tôi không c?n đư?c như xưa n?a. Tôi không
 có vi?c làm và ch?ng bi?t ki?m ăn b?ng cách nào. Tôi bi?t đào tr?m m? không ph?i là đi?u t?t, nhưng đây là cách đ? tôi
 ki?m m?t chút ti?n. Tôi ch? c? s?ng thôi... tôi không đ?nh phá ho?i g? c?.}
-{213}{}{I don't think that digging graves is a good thing for a man in your condition. Tell you what. You just mosey on
- out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?}
-{214}{}{[The old man looks like he's about to protest, then stops.] Alright, you win. You've seen the last of poor old Tom.
- [He picks up his shovel and shuffles away.]}
-{215}{}{On second thought, maybe it would be better for the world if I kill you.}
-{216}{}{Goodbye Tom.}
-{217}{}{I heard you've also been stealing crops from the farmer here.}
-{218}{}{[The old man fidgets uncomfortably.] I couldn't help it! I was just so hungry and the food looked so good. Please,
- I don't mean any trouble. Look, I'll just go away and you won't see me here again. I promise!}
-{219}{}{Alright, get going then. Before I change my mind.}
-{220}{}{Wait, no need for any of that. The Petersons own the farm here and they're extremely nice people. Mr. Peterson
- even offered to talk with whoever was taking his crops and come to a reasonable agreement. Go talk with him.
- I'm sure he can help you out somehow.}
-{221}{}{(The old man's eyes light up.) That doesn't sound like a bad idea at all. Hey, thanks. Maybe this world ain't as
- cruel as I thought it was.}
-{222}{}{You take care then, Tom. I'll check with you later and see how things are going.}
-{223}{}{I sure hope that Peterson fella is as friendly as you say he is.}
-{300}{}{You see Tom. He's wearing new worker's clothing and whistling cheerfully.}
-{301}{}{Hey there! Wow, you were right. That Mr. Peterson is one kindly fella. He forgave me for what I did and even
- offered me a job helping out in the field. He says once I pay off the food I've taken, then I'll start making a
- weekly salary. Thanks again for your trouble.}
-{302}{}{You're welcome, Tom. You take care of yourself now.}
-{303}{}{Alright I wi- Oh, wait a second. I want to give you something for helping an old fella like me out. I found this
- lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.}
-{304}{}{Thanks, Tom. I'm sure this'll come in handy. See you around.}
-{305}{}{(The old man nods and goes back to what he was doing.)}
-{306}{}{[END]}
-{307}{}{Hello again. Thanks for everything!}
+{213}{}{Tôi không ngh? r?ng đi đào tr?m m? là vi?c mà ngư?i như ông nên làm. Bi?t g? không? C? ti?p t?c ra kh?i đây
+và chúng ta s? coi như chưa t?ng g?p nhau. Tôi không mu?n th?y ông c?n lu?n qu?n ? đây n?a, đư?c ch??}
+{214}{}{[Ông l?o trông có v? như mu?n ph?n đ?i, r?i d?ng l?i]. Đươc r?i, c?u là nh?t. C?u đ? đ?y Tom già nua xu?ng t?n
+đáy r?i. [Ông ta nh?t x?ng lên r?i lê bư?c đi].}
+{215}{}{Mà ngh? l?i th? ch?c th? gi?i s? t?t đ?p hơn n?u tôi gi?t ông.}
+{216}{}{V?nh bi?t Tom.}
+{217}{}{Tôi nghe nói ông c?n ăn tr?m cây tr?ng c?a nông dân ? quanh đây.}
+{218}{}{[Ông l?o run r?y]. Tôi bi?t làm th? nào đư?c! Tôi đói m? c? m?t c?n m?y cái cây th? trông ngon quá. Làm ơn đi,
+tôi không đ?nh gây h?i g?. Nghe này, tôi s? bi?n kh?i đây và c?u s? không c?n nh?n th?y tôi n?a. Tôi h?a đ?y!}
+{219}{}{Đư?c r?i, h?y đi đi. Trư?c khi tôi đ?i ?.}
+{220}{}{Ch? đ?, không c?n ph?i v?y. Nhà Peterson, ch? c?a khu ru?ng này là nh?ng ngư?i r?t t?t b?ng. Ông Peterson
+th?m chí c?n s?n sàng nói chuy?n v?i ngư?i đ? ăn tr?m cây tr?ng đ? đưa ra th?a thu?n h?p t?nh n?a. H?y đ?n
+nói chuy?n v?i anh ta. Tôi ch?c là anh ta có th? giúp ông b?ng cách nào đó.}
+{221}{}{[Ông l?o sáng m?t lên]. Đi?u đó nghe không t? chút nào. Này, cám ơn nhé. Có l? th? gi?i này không t? h?i như
+tôi đ? t?ng ngh?.}
+{222}{}{B?o tr?ng nhé, Tom. Tôi s? quay l?i sau đ? xem m?i chuy?n th? nào.}
+{223}{}{Tôi r?t hi v?ng là thanh niên Peterson này thân thi?n như l?i c?u nói.}
+{300}{}{B?n th?y Tom. Ông ta m?c đ? lao đ?ng m?i và đang vui v? hu?t sáo.}
+{301}{}{Ô k?a! ?, c?u đ? đúng. Ông Peterson đúng là m?t thanh niên t?t b?ng. C?u ta đ? tha th? cho tôi và th?m chí
+c?n nh?n tôi vào cày ru?ng n?a. C?u ta nói sau khi tôi tr? h?t s? lương th?c mà tôi đ? l?y, tôi s? b?t đ?u đư?c
+nh?n lương tu?n. Cám ơn đ? giúp đ?.}
+{302}{}{Không có g?, Tom. Gi? th? ông h?y b?o tr?ng nhé.}
+{303}{}{Đư?c r?i tôi ư?c- ?, ch? m?t chút. Tôi mu?n t?ng c?u th? g? đó v? đ? giúp đ? ông già này. Tôi t?m th?y cái
+b?t l?a này trong m? m?t cô gái mà tôi đ? đào lên m?y tu?n trư?c. Hi v?ng là nó s? có ích cho c?u.}
+{304}{}{Cám ơn, Tom. Tôi ch?c là th? này s? có ích. G?p l?i ông sau.}
+{305}{}{(Ông l?o g?t đ?u và ti?p t?c công vi?c).}
+{306}{}{[K?T THÚC]}
+{307}{}{Xin chào. Cám ơn v? m?i th?!}
 {308}{}{*Hu?t sáo*}
-{400}{}{You youngins never learn. You ain't the boss of me. I think I'll just kill you instead.}
-{450}{}{Listen, I've dug up my share of graves too. I'm a bit of a kleptomaniac. What's your reason?}
-{451}{}{I'm not unfamiliar to grave digging, Tom. Every man has his own enjoyment. Now you be on your way.}
-{1000}{}{You figure out who is digging up the graves and set Tom towards a new life.}
-{1001}{}{You figure out who is digging up the graves.}
-{1002}{}{I'm going. No need to rush an old man.}
-{1003}{}{You see Tom. He's got a smile on his face and he's wearing new worker's clothing.}
-{1004}{}{He seems to be in much better condition and he smiles when you approach.}
+{400}{}{L? thanh niên không bi?t đi?u. Mày đâu ph?i b? tao. Tao s? gi?t mày.}
+{450}{}{Nghe này, tôi c?ng đi đào m? r?i. Tôi hơi m?c ch?ng cu?ng ăn tr?m. Lí do c?a ông là g??}
+{451}{}{Tom, tôi không l? l?m v?i vi?c đào m?. Ai c?ng c?n thú vui cho riêng m?nh. Gi? th? ông c? đi đi.}
+{1000}{}{B?n t?m ra ngư?i đ? đào m? và giúp Tom có m?t cu?c s?ng m?i.}
+{1001}{}{B?n t?m ra ngư?i đ? đào m?.}
+{1002}{}{Tôi đi đây. Đâu c?n ph?i gi?c ngư?i già c? ch?.}
+{1003}{}{B?n th?y Tom. Ông l?o tươi cư?i trong b? qu?n áo lao đ?ng m?i.}
+{1004}{}{Ông ta trông có v? t?t hơn nhi?u và m?m cư?i khi b?n l?i g?n.}

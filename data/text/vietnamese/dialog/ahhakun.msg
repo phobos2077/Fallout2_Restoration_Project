@@ -49,7 +49,7 @@
 {148}{hak008}{The burden you carry now will grow ever heavier.}
 {149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
 {150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
-{151}{}{Goodbye.}
+{151}{}{T?m bi?t.}
 {152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
 {153}{}{Sounds good. I'll be back when I'm done.}
 {154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}

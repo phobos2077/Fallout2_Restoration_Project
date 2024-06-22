@@ -56,7 +56,7 @@ Oh well.
 {151}{}{Good luck. See ya!}
 {152}{}{There. Teach these bastards to use and reject me. Goodbye.}
 {153}{}{Well, I was really just kidding. She didn't actually say that.}
-{154}{}{Goodbye.}
+{154}{}{T?m bi?t.}
 {155}{}{She didn't say that. Oh good.}
 {156}{}{So, I've done all this harm for nothing. I'm going to kill you now.}
 {157}{}{Try it.}

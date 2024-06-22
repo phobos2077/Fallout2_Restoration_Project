@@ -38,7 +38,7 @@
 {281}{}{Sounds good. Let's go.}
 {282}{}{Whatever you say.}
 {290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
-{291}{}{[END]}
+{291}{}{[K?T THÚC]}
 {300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
 {301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA.
  Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in.
@@ -109,7 +109,7 @@
 {830}{}{Least I didn't end up like YOU, Marcus!}
 {2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
  These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
-{2901}{}{[END]}
+{2901}{}{[K?T THÚC]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[END]}
+{5001}{}{[K?T THÚC]}
 {5002}{}{Holy shit!}

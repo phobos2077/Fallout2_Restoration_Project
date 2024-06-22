@@ -34,7 +34,7 @@
 {171}{}{Thank you. I must be going. Goodbye.}
 {172}{}{I hope you do.}
 {173}{}{Your overconfidence makes all of us suffer! Goodbye!}
-{174}{}{Goodbye.}
+{174}{}{T?m bi?t.}
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
  it is too late!}
