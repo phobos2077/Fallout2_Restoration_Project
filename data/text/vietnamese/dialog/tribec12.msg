@@ -14,7 +14,7 @@
 {120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
 {122}{}{Oh, he's alright. I told him to wait while I get some things done.}
-{123}{}{I am sorry, but he is dead.}
+{123}{}{Tôi r?t ti?c nhưng nó ch?t r?i.}
 {124}{}{[Sulik and the tribe's chief exchange greetings.] It brings me great pleasure to see Sulik again. The bonespirits told me he had fallen into trouble. But what of his sister, Kurisu?}
 {125}{}{It is good to hear that Sulik is well. We were worried he got into trouble. So, his sister is still missing?
  She too is a member of our tribe.}

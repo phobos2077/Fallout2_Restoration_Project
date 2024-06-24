@@ -6,26 +6,26 @@
 {105}{}{V?y th? em s? t? đi đ?n đ?t hoang!}
 {106}{}{Ch? đ?... c?u c?n giúp g? th??}
 {107}{}{C? đi đi.}
-{108}{}{Smoke ran off into the hunting grounds and hasn't come back and now Morlis
- won't let me go find him. She says it's too dangerous and he's just a dog, but I was
- going to go anyway. But now you're here and you could do it and I wouldn't get in
- trouble.}
-{109}{}{Sure. But where are the hunting grounds?}
-{110}{}{Sure. I'll find him right now.}
-{111}{}{Forget it, I don't have time for this.}
-{112}{}{What'd you do, get hit in the head with a rock? They're on the far side of
- Hakunin's tent, north of the village.}
-{113}{}{I'll be back with him soon.}
-{114}{}{Have you found Smoke yet?}
-{115}{}{No, not yet. Where did you say the hunting grounds were?}
+{108}{}{Smoke đ? ch?y vào khu săn và v?n chưa quay v?. Gi? th? Morlis không đ? em đi t?m.
+M? b?o ch? đó quá nguy hi?m và nó ch? là chó thôi, nhưng em đ?nh có th? nào em 
+c?ng ph?i đi. Nhưng gi? có ch? r?i. Ch? có th? đi giúp và em s? không g?p
+r?c r?i n?a.}
+{109}{}{H?n r?i. Nhưng khu săn ? ch? nào?}
+{110}{}{Đư?c r?i. Đ? tôi đi t?m nó gi? đây.}
+{111}{}{Quên đi, tôi đâu có r?nh.}
+{112}{}{Ch? làm sao th?, b? ăn đá ch?i vào đ?u à? Khu săn n?m cách xa l?u c?a
+Hakunin, phía B?c c?a làng.}
+{113}{}{Tôi s? s?m đưa nó quay v?.}
+{114}{}{Ch? đ? t?m th?y Smoke chưa?}
+{115}{}{V?n chưa. C?u nói khu săn ? đâu th? nh??}
 {116}{}{Chưa.}
-{117}{}{Have you found Smoke yet?}
-{118}{}{No, not yet. I'll be back soon, though.}
-{119}{}{I am sorry, but he is dead.}
-{120}{}{You're just saying that 'cause you don't wanna look! I don't care what
- Morlis says, I'm going to find him.}
-{121}{}{Nagor, what if something happens to you? Morlis would be alone and that would
- make her real sad. You don't want to make her sad, do you?}
+{117}{}{Ch? đ? t?m th?y Smoke chưa?}
+{118}{}{Chưa. Tôi s? s?m quay l?i thôi.}
+{119}{}{Tôi r?t ti?c nhưng nó ch?t r?i.}
+{120}{}{Anh ch? nói v?y v? anh không mu?n đi t?m th? có! Em đéo s? d? Morlis nói g?,
+em ph?i đi t?m nó đây.}
+{121}{}{Nagor, n?u có chuy?n g? v?i c?u th? sao? D? Morlis s? ch? c?n l?i m?t m?nh và s?
+bu?n l?m đ?y. C?u không mu?n làm d? bu?n ch?, đúng không?}
 {122}{}{C? đi đi.}
 {123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
 {124}{}{Smoke will be okay. Goodbye.}
