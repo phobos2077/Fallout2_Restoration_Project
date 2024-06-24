@@ -116,7 +116,7 @@
 {403}{}{Piston}
 {404}{}{Hurricane}
 {405}{}{Big Bad Muthuh}
-{406}{}{Chosen One}
+{406}{}{C?u tinh}
 {407}{}{Raging Bull}
 {408}{}{LaMotta}
 {409}{}{Sledge}

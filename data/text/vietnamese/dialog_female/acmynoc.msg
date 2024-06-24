@@ -173,7 +173,7 @@ quay l?i đây.}
 {625}{}{Trư?ng l?o không đ?ng ? v?i vi?c đó. K?-không-đư?c-g?i-tên đ? b? bu?c ph?i r?i kh?i b? t?c và tên c?a h?n ta v?nh vi?n không đư?c chúng ta nh?c đ?n n?a. Khi b? tr?c xu?t ra ngoài đ?t hoang, h?n ta th? s? tr? thù. M?i thù v?i b? t?c và nh?t là v?i cô.}
 {626}{}{Tôi ư? Tôi đ? làm g??}
 {627}{}{Cám ơn v? câu chuy?n, nhưng gi? t?t nh?t là tôi nên lên đư?ng thôi.}
-{628}{}{C?u là C?u tinh, danh hi?u mà h?n cho r?ng thu?c v? h?n. Tính cao ng?o khi?n h?n mu?n c?u ph?i ch?t.}
+{628}{}{Cô là C?u tinh, danh hi?u mà h?n cho r?ng thu?c v? h?n. Tính cao ng?o khi?n h?n mu?n cô ph?i ch?t.}
 {629}{}{Tôi không th?y có g? đáng lo c?. Gi? này ch?c h?n h?n ta ngh?o ngoài hoang m?c r?i.}
 {630}{}{Tôi s? c?n th?n. Hi v?ng là gi? này h?n ta ngh?o ngoài hoang m?c r?i.}
 {631}{}{Nghe này và nh? l?y. K?-không-đư?c-g?i-tên ? ngoài đó. Không th? thuy?t ph?c hay trao đ?i v?i h?n ta đư?c. H?n không bi?t thương h?i, h?i h?n hay s? ai. Và h?n ch?c ch?n s? không d?ng l?i cho đ?n khi cô ch?t.}
@@ -185,29 +185,29 @@ Ngôi làng đ? đ? kh?n kh? r?i, không c?n làm các Th?n t?c gi?n thêm đâu
 {642}{}{Xin l?i nhé Mynoc. Nhưng li?u anh có th? k? l?i v? Ka... ? tôi là, "K?-đó" l?n n?a không? Tôi r?t thích câu chuy?n đó.}
 {643}{}{Anh bi?t đ?y, tôi quên m?t là m?y ngư?i mê tín như anh ng?c đ?n m?c nào. G?p l?i anh sau.}
 {650}{}{Tôi đ? đ?i di?n v?i h?n ta r?i nên tôi ch?c là m?nh có th? x? l? g? đó n?u g?p l?i l?n n?a.}
-{651}{}{Actually, he's already dead. I left his corpse out there to rot in the wastes.}
-{660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
-{661}{}{Indeed. I'll see you around, Mynoc.}
-{662}{}{Whatever. He seemed like an asshole to me. I'll see you around, Mynoc.}
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{651}{}{Th?c ra th? h?n ta ch?t r?i. Tôi đ? đ? xác c?a h?n ta th?i r?a ngoài hoang m?c.}
+{660}{}{[Mynoc tr?m gi?ng g?t đ?u]. H?n ta có th? đ? l?c l?i, nhưng dù sao v?n t?ng là m?t chi?n binh m?nh m? đáng kính. Tôi hi v?ng linh h?n t?i l?i c?a h?n có th? t?m th?y s? binh an ? th? gi?i bên kia.}
+{661}{}{Đúng v?y. G?p l?i anh sau, Mynoc.}
+{662}{}{Sao c?ng đư?c. V?i tôi h?n ta ch? là m?t k? cao ng?o thôi. G?p l?i anh sau, Mynoc.}
+{1000}{}{Trư?ng l?o}
+{1001}{}{Ngư?i m? làng}
+{1002}{}{C? t? t? Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{C?u tinh}
+{1007}{}{Th?y cúng}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{B?t ch?a thương}
+{1010}{}{C?u}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's a trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1100}{}{Trư?ng l?o là m? cô đ?ng th?i là trư?ng làng.}
+{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
+{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
+{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
+{1104}{}{Đó là m?t khu buôn bán cách nơi này vài ngày v? phía Đông.}
+{1105}{}{Vault là thiên đư?ng.}
+{1106}{}{C?u là C?u tinh.}
 {1107}{}{He heals us with his herbs and magic. He is in the
  northern part of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the

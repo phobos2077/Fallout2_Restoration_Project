@@ -73,25 +73,25 @@
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
 {223}{}{One, two, three... Weee!}
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{1000}{}{Trư?ng l?o}
+{1001}{}{Ngư?i m? làng}
+{1002}{}{C? t? t? Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{C?u tinh}
+{1007}{}{Th?y cúng}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{B?t ch?a thương}
+{1010}{}{C?u}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
+{1100}{}{Trư?ng l?o là m? cô đ?ng th?i là trư?ng làng.}
+{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
+{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
+{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
 {1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1105}{}{Vault là thiên đư?ng.}
+{1106}{}{C?u là C?u tinh.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part

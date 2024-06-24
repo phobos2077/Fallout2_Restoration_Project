@@ -62,7 +62,7 @@
 {1009}{}{B?t ch?a thương}
 {1010}{}{C?u}
 {1011}{}{Mynoc}
-{1100}{}{Trư?ng l?o là m? c?u đ?ng th?i là trư?ng làng.}
+{1100}{}{Trư?ng l?o là m? cô đ?ng th?i là trư?ng làng.}
 {1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
 {1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
 {1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}

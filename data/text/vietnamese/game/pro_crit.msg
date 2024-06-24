@@ -20,7 +20,7 @@
 {1101}{}{A typical large rat.}
 {1200}{}{Mantis}
 {1201}{}{A mutated Mantis.}
-{1300}{}{Elder}
+{1300}{}{Trư?ng l?o}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Spore Plant}
@@ -502,7 +502,7 @@
 {48301}{}{The President's Bodyguard.}
 {48400}{}{Nessa}
 {48401}{}{The ghost of dead Nessa.}
-{48500}{}{Shaman}
+{48500}{}{Th?y cúng}
 {48501}{}{Tribal shaman.}
 {48600}{}{Warrior 	}
 {48601}{}{Tribe warrior.}
