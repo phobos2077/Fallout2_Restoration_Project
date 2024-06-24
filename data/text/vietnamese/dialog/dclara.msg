@@ -66,7 +66,7 @@
 {390}{}{So did you find out what's in there?}
 {391}{}{Raw chemical compounds in large crates.}
 {392}{}{Big containers holding chemicals of some kind.}
-{393}{}{Not yet.}
+{393}{}{Chưa.}
 {400}{}{So did you talk to him yet? What did he say?}
 {401}{}{He said yes. If you win, you can have their job, like before.}
 {402}{}{Na.}
@@ -110,7 +110,7 @@
 {511}{}{Well, have you changed your mind?}
 {512}{}{Let's go. I'm ready.}
 {513}{}{Okay, I'll be right back.}
-{514}{}{No.}
+{514}{}{Không.}
 {515}{}{Uk}
 {520}{}{Because of you we blew our chance.}
 {521}{}{Coward!}

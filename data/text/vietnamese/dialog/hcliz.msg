@@ -56,7 +56,7 @@
 {152}{}{Oh, well, if you got it from a reliable source, then yeah. Are you going to put an end to the
  mutants' domination?}
 {153}{}{Yep.}
-{154}{}{No.}
+{154}{}{Không.}
 {155}{}{Then I guess I'd better start cleaning up the loose ends.}
 {156}{}{[XONG]}
 {157}{}{I don't support killin' in this store. Get out.}
@@ -75,7 +75,7 @@
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
 {169}{}{Đúng v?y.}
-{170}{}{No.}
+{170}{}{Không.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
 {172}{}{[XONG]}
 {173}{}{The store is closed. We open at eight.}

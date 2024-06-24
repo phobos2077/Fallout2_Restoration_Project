@@ -10,19 +10,19 @@
 {109}{}{Nothing, I'm leaving.}
 {110}{}{Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?}
 {111}{}{Đúng v?y.}
-{112}{}{No.}
+{112}{}{Không.}
 {113}{}{Fine. If this shit don't kill you, nothing will.}
 {114}{}{}
 {115}{}{Ok.}
 {116}{}{That it for you?}
 {117}{}{Đúng v?y.}
-{118}{}{No.}
+{118}{}{Không.}
 {119}{}{Later then.}
 {120}{}{}
 {121}{}{Ok.}
 {122}{}{Welcome back. Need more booze?}
 {123}{}{Đúng v?y.}
-{124}{}{No.}
+{124}{}{Không.}
 {125}{}{I'm closed. Go away.}
 {126}{}{}
 {127}{}{Ok.}

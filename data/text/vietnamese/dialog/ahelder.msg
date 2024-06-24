@@ -116,7 +116,7 @@
  Do you know what must be done, Chosen One?}
 {215}{}{Effeevee?}
 {216}{}{Đúng v?y.}
-{217}{}{No.}
+{217}{}{Không.}
 {218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
 {219}{}{What happened?}
 {220}{}{I understand.}

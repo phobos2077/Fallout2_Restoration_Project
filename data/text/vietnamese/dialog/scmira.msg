@@ -17,10 +17,10 @@
 {116}{}{What ya did to Lenny - it was wicked!}
 {117}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
 {118}{}{Đúng v?y.}
-{119}{}{No.}
+{119}{}{Không.}
 {120}{}{You gonna buy a drink? $10.}
 {121}{}{Đúng v?y.}
-{122}{}{No.}
+{122}{}{Không.}
 {123}{}{One Rad-A-Waster coming up! $10.}
 {124}{}{Okay.}
 {125}{}{Ten bucks? Too much for me.}
@@ -73,10 +73,10 @@
 {172}{}{Well, thanks. I'll remember that.}
 {173}{}{Hmm -- work? Want job? Help Mira?}
 {174}{}{Đúng v?y.}
-{175}{}{No.}
+{175}{}{Không.}
 {176}{}{Listen -bad man hurt Mira. Bad man name Jack. Hurt bad man. Mira like ya, give ya nice gun. Good?}
 {177}{}{Đúng v?y.}
-{178}{}{No.}
+{178}{}{Không.}
 {179}{}{Good! Mira have rope over wall. Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun.}
 {180}{}{Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun. Now go away. Me be seen with ya - not good. Help Mira and come back. Understand?}
 {181}{}{Mira hear Jack got hurt. Good work, Dumbo. Here gun, ya take. Thanks.}

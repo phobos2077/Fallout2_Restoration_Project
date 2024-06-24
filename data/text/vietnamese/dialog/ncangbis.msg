@@ -25,7 +25,7 @@
 {243}{}{Used to travel with someone named Iam kept shooting me in back with burst fire}
 {244}{}{Me board too}
 {245}{}{Noooo me gotta go now}
-{246}{}{No.}
+{246}{}{Không.}
 {247}{}{Đúng v?y.}
 {248}{}{Uh... why are you looking at me like that?}
 {249}{}{I might be bored. Why, you looking for some excitement, princess?}

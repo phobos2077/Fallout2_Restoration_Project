@@ -34,7 +34,7 @@
 {133}{}{No. Me no kill.}
 {134}{}{Back again, are you? Job done?}
 {135}{}{Đúng v?y.}
-{136}{}{No.}
+{136}{}{Không.}
 {137}{}{Yeah, he left orders. He's been expecting you.}
 {138}{}{HEY YOU! Get away from there!}
 {139}{}{Okay.}

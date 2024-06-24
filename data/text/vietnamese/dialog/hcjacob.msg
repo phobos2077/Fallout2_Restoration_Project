@@ -39,7 +39,7 @@
 {159}{}{In that case, it's just great being here. This town has everything you could want... mutant
  sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
 {160}{}{Đúng v?y.}
-{161}{}{No.}
+{161}{}{Không.}
 {162}{}{Great. Bye.}
 {163}{}{Chào.}
 {164}{}{He's been ruling here ever since the Master was destroyed. He puts down anyone who disagrees
@@ -57,7 +57,7 @@
 {172}{}{Fool me? I see. Well, I have to go. Nice talking to you.}
 {173}{}{Actually, we are. Some friends of mine and I are planning to strike a blow that will rid this
  town of mutants, but we need to get some friends out of jail. Are you with us?}
-{174}{}{No.}
+{174}{}{Không.}
 {175}{}{No. And I'm turning you in. You're crazy.}
 {176}{}{Sure! }
 {177}{}{Are you sure? This is a chance to keep humanity free, you know, from those vicious mutant

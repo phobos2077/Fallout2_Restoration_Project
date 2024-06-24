@@ -15,7 +15,7 @@
  you intend to answer the question that I posed to you a moment ago?}
 {110}{}{Sorry, me forget question.}
 {111}{}{Đúng v?y.}
-{112}{}{No.}
+{112}{}{Không.}
 {113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
 {114}{}{Ready what?}
 {115}{}{Yes. Me ready.}
@@ -50,7 +50,7 @@
 {138}{}{Hello again. The life functions of my master have terminated. Are
  you my new master?}
 {139}{}{Okay.}
-{140}{}{No.}
+{140}{}{Không.}
 {141}{}{All right.}
 {142}{}{No thanks.}
 {143}{}{You are not my master. I cannot speak to you. Good bye.}

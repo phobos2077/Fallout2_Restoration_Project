@@ -20,7 +20,7 @@
 {119}{}{Fine. Be that way.}
 {120}{}{I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.}
 {121}{}{What do you mean?}
-{122}{}{Shut up.}
+{122}{}{Câm m?m đi.}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
 {124}{}{Uh-huh.}
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
@@ -56,7 +56,7 @@
 {155}{}{Cám ơn.}
 {156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
 {157}{}{Đúng v?y.}
-{158}{}{No.}
+{158}{}{Không.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
 {160}{}{I have some other questions.}
 {161}{}{Yes, sir.}

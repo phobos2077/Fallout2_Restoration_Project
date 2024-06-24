@@ -22,7 +22,7 @@
 {171}{}{Kind lady, please help [cough] a poor, starving man who is [cough] too sick to work.}
 {172}{}{You poor thing, here's $5.}
 {173}{}{I make a point of not giving money to panhandlers.}
-{174}{}{No.}
+{174}{}{Không.}
 {175}{}{Sorry, I don't have any money on me.}
 {200}{}{Hey, man; give me some money?}
 {201}{}{Spare some change, kind sir?}

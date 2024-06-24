@@ -38,7 +38,7 @@
 {181}{}{A quest?}
 {190}{}{I just handle the rooms here. If you want to buy or trade something, talk to my daughter, Maida.}
 {191}{}{Oh, I see. Tell me something else then.}
-{192}{}{Thanks. Goodbye.}
+{192}{}{Cám ơn. T?m bi?t.}
 {200}{}{We're pretty full right now. Sorry.}
 {201}{}{Well, let's see here. We should have a room available. That will be $25.}
 {202}{}{I'll take it. Here's the $25. Thanks.}

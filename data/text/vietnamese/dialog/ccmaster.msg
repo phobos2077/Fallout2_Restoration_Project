@@ -14,7 +14,7 @@
 {111}{}{Are you sure you're not the guy?}
 {112}{}{Huh?}
 {113}{}{Đúng v?y.}
-{114}{}{No.}
+{114}{}{Không.}
 {115}{}{Who are you? What are you doing here?}
 {116}{}{What?}
 {117}{}{Uh... I'm new here?}
@@ -50,7 +50,7 @@
 {146}{}{42.}
 {147}{}{That with an S or a C?}
 {148}{}{Đúng v?y.}
-{149}{}{No.}
+{149}{}{Không.}
 {150}{}{I don't know.}
 {151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
 {152}{}{[Player name]}

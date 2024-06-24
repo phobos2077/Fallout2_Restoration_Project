@@ -81,7 +81,7 @@
 {195}{}{Thanks!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
 {197}{}{Đúng v?y.}
-{198}{}{No.}
+{198}{}{Không.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}
 {201}{}{Cám ơn.}

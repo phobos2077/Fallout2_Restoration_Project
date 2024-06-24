@@ -86,7 +86,7 @@
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
 {187}{}{He's as good as dead.}
-{188}{}{No.}
+{188}{}{Không.}
 {189}{}{Excellent. I hope to hear of your success soon.}
 {190}{}{You will. I have more questions.}
 {191}{}{You will. Bye.}

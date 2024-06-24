@@ -43,7 +43,7 @@
 {142}{}{Well then, we've nothing to talk about. Good day.}
 {143}{}{So, how did it go? Is the test done?}
 {144}{}{Đúng v?y.}
-{145}{}{No.}
+{145}{}{Không.}
 {146}{}{Well, if you don't mind, would you please get on with it? I'm not a young man anymore.}
 {147}{}{And... How did it work?}
 {148}{}{It killed him! You said it would cure mutants!}

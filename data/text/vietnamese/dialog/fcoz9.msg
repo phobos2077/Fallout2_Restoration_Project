@@ -86,7 +86,7 @@
 {185}{}{Sure thing, boss. See ya.}
 {186}{}{I'd rather not.}
 {187}{}{I was not aware I had made it a request, child. Kill him!}
-{188}{}{No.}
+{188}{}{Không.}
 {189}{}{Oh, all right. I'll do it.}
 {190}{}{You disobey the commands of AHS-9, the Great and Terrible? Then you shall die.}
 {191}{}{Bring it on.}
@@ -101,7 +101,7 @@
 {200}{}{Cám ơn. T?m bi?t.}
 {201}{}{Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?}
 {202}{}{Đúng v?y.}
-{203}{}{No.}
+{203}{}{Không.}
 {204}{}{No, I just want you to die.}
 {205}{}{This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.}
 {206}{}{No, I don't think so.}

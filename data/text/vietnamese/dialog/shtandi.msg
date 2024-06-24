@@ -180,7 +180,7 @@
 {279}{}{Uh, ok.}
 {280}{}{Fine, what can I do for you?}
 {281}{tand39}{You're back. So, you interested in a job or not?}
-{282}{}{No.}
+{282}{}{Không.}
 {283}{}{Ok.}
 {284}{tand40}{Back, are you stranger? So's the job done? Do we have access to the vault?}
 {285}{}{Me working on it. Bye.}

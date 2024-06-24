@@ -447,7 +447,7 @@
 {3007}{}{To the Northeast.}
 {3008}{}{We don't know anything about that.}
 {3009}{}{Đúng v?y.}
-{3010}{}{No.}
+{3010}{}{Không.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
 {3013}{}{Thank-you.}

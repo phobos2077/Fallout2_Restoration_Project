@@ -11,17 +11,17 @@
 {110}{}{Never mind.}
 {111}{}{I have no information to sell. I deal only in weapons. Do you want to see my wares?}
 {112}{}{Đúng v?y.}
-{113}{}{No.}
+{113}{}{Không.}
 {114}{}{I think you'll be pleased with my selection. Take your time and examine things.}
 {115}{}{Ok.}
 {116}{}{Will there be anything else?}
 {117}{}{Đúng v?y.}
-{118}{}{No.}
+{118}{}{Không.}
 {119}{}{Then I bid you a pleasant day.}
 {120}{}{Ok.}
 {121}{}{Hello again. Back for more?}
 {122}{}{Đúng v?y.}
-{123}{}{No.}
+{123}{}{Không.}
 {124}{}{I'm sorry but I'm closed. I open at around 8. Come back then if you want something.}
 {125}{}{Ok.}
 {126}{}{I'll not sell to you. Get out of my shop!}

@@ -21,7 +21,7 @@
 {117}{}{Cám ơn. T?m bi?t.}
 {118}{}{Just one of the miners. Do you want someone important?}
 {119}{}{Đúng v?y.}
-{120}{}{No.}
+{120}{}{Không.}
 {121}{}{Chào.}
 {122}{}{The movers and shakers of the town are Marcus, who's kind of the mayor and sheriff, Zaius, who's
  the mine foreman, and Chad, who runs the caravan. Phil the bartender's the leader of the ghouls, I guess...

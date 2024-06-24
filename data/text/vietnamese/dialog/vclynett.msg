@@ -830,7 +830,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {823}{}{I don't know anything about that.}
 {824}{}{I don't know.}
 {825}{}{Đúng v?y.}
-{826}{}{No.}
+{826}{}{Không.}
 {827}{}{Certainly.}
 {828}{}{Of course.}
 {829}{}{Correct.}

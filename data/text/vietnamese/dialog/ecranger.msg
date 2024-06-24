@@ -18,7 +18,7 @@
 {117}{}{I'm not dying for this!}
 {118}{}{I see you got a tattoo there -- the mark of the slavers. You wouldn't be a slaver now, would you?}
 {119}{}{Đúng v?y.}
-{120}{}{No.}
+{120}{}{Không.}
 {121}{}{Too bad - for you. We're NCR Rangers. Ever heard of us? We kill slavers.}
 {122}{}{You are such a lying sack of shit. Take 'em!}
 {123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}

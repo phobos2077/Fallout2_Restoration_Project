@@ -161,7 +161,7 @@
 {591}{}{Business at home?}
 {600}{}{Well, not much, but I hear thingz OUSSIDE th' confessional about oul' Bishop. Crafty devil. Got iron ballz, he
  does... must clink when he walkz. I figger he'z behind thosse raidz on Vault City... you heard 'bout those?}
-{601}{}{No.}
+{601}{}{Không.}
 {602}{}{Đúng v?y.}
 {603}{}{Father, keep it down. That kind of talk could get you killed in this town...}
 {604}{}{Look, maybe I'll come back when you're sober.}

@@ -51,70 +51,70 @@ có th? t? lo thân đư?c.}
 {182}{}{Tôi chu?n b? đi đây. T?m bi?t, anh b?n.}
 {183}{}{Tôi không nói chuy?n v?i anh n?a đâu, đ? l?n khó b?o!}
 {184}{}{Tôi mu?n h?i thêm câu n?a.}
-{185}{}{Nhanh th?t đ?y! C?u đ? t?m th?y H?m 13 th?n thánh chưa?}
+{185}{}{Nhanh th?t đ?y! Cô đ? t?m th?y Vault 13 th?n thánh chưa?}
 {186}{}{Đúng v?y.}
 {187}{}{Chưa.}
-{188}{}{Th?y r?i? Tuy?t quá! C?u có mang GECK v?
+{188}{}{Th?y r?i? Tuy?t quá! Cô có mang GECK v?
 không?}
-{189}{}{No.}
-{190}{}{No. I haven't spoken to the people of the vault yet.}
-{191}{}{I don't believe that's any business of yours, my friend.}
-{192}{}{No? Chosen One, three old ones have died since you left. You must
- not waste any more time.}
-{193}{}{I'll find it, don't worry.}
-{194}{}{I'm getting sick of your constant nagging.}
-{195}{}{Well, why are you talking to me? Talk to them, and get the GECK.}
-{196}{}{I will -- all in good time, my friend.}
-{197}{}{I'm getting sick of your constant nagging.}
-{198}{}{What news of the GECK, Chosen One?}
-{199}{}{I have found the vault!}
-{200}{}{I have not been able to find Vault 13.}
-{201}{}{Well, look, it's the Chosen One.}
+{189}{}{Không.}
+{190}{}{Chưa. Tôi v?n chưa nói chuy?n v?i đám ngư?i trong h?m.}
+{191}{}{Tôi th?y r?ng đ?y không ph?i là vi?c c?a anh, b?n tôi ?.}
+{192}{}{Chưa ư? C?u tinh, ba ngư?i già đ? ch?t k? t? lúc cô r?i đi. Cô không
+đư?c l?ng phí thêm th?i gian n?a.}
+{193}{}{Tôi s? t?m th?y, đ?ng lo.}
+{194}{}{Tôi th?y m?t m?i v?i m?y l?i càu nhàu c?a anh l?m r?i.}
+{195}{}{?, th? th? sao cô l?i đi nói chuy?n v?i tôi? Đ?n nói chuy?n v?i h? và l?y GECK đi.}
+{196}{}{Tôi s? làm mà -- th?t chó s? có m?m tôm, b?n tôi ơi.}
+{197}{}{Tôi th?y m?t m?i v?i m?y l?i càu nhàu c?a anh l?m r?i.}
+{198}{}{Có tin g? v? GECK chưa, C?u tinh?}
+{199}{}{Tôi đ? t?m th?y căn h?m!}
+{200}{}{Tôi chưa t?m th?y Vault 13.}
+{201}{}{?, nh?n này, C?u tinh v? r?i.}
 {202}{}{Chào.}
-{203}{}{Shut up.}
-{204}{}{Can I ask you a question?}
-{205}{}{No, I've no time for you.}
-{206}{}{Whatever. Good bye.}
-{207}{}{Oh well. See you around.}
-{208}{}{Go die.}
-{209}{}{Greetings, dull one! See bridge? You cross, you be careful.
- Bridge dangerous. You not want to fall. Okay?}
-{210}{}{Umm... Hunh?}
-{211}{}{Wretch! You have failed the village!}
-{212}{}{You betray us. For that you'll die!}
-{213}{}{You are a traitor to your own people.}
-{214}{}{Why do you do this?}
-{215}{}{The Elder was wrong. You are evil.}
-{300}{}{My father taught me how to make stronger blades than most. Get me a piece
- of flint and I'll fix your spear, too. You'll need it in the wilderness.}
-{301}{}{Where would I get some of this flint?}
-{302}{}{They say your Aunt Morlis has been hoarding a piece. She's so
- ill-tempered I don't think anyone's asked her. Of course, the witch will want
- something in return.}
-{303}{}{Thanks. Goodbye.}
-{304}{}{Did you talk your aunt out of her flint?}
-{305}{}{Yes, I have some right here.}
-{306}{}{Not yet.}
-{307}{}{It's a good piece. Give me your spear.}
+{203}{}{Câm m?m đi.}
+{204}{}{Tôi h?i m?t câu đư?c không?}
+{205}{}{Không, tôi không có r?nh.}
+{206}{}{Sao c?ng đư?c. T?m bi?t.}
+{207}{}{? đư?c r?i. G?p l?i sau.}
+{208}{}{Đi ch?t đi.}
+{209}{}{Chào cô ng?c! Th?y c?u ch?? Qua c?u, c?n th?n đ?y.
+C?u đáng s? l?m. Mày không mu?n ng? ch?. Okay?}
+{210}{}{?... H??}
+{211}{}{Kh?n n?n! Mày đ? khi?n c? làng th?t v?ng!}
+{212}{}{Mày đ? ph?n b?i chúng ta. Gi? th? ch?t đi!}
+{213}{}{Mày đ? ph?n b?i chính nh?ng ngư?i đ?ng t?c.}
+{214}{}{T?i sao mày l?i làm th??}
+{215}{}{Trư?ng l?o đ? nh?m. Mày đúng là ác qu?.}
+{300}{}{Cha tôi d?y tôi cách t?o ra lư?i dao s?c hơn. Ki?m cho tôi m?t c?c đá mài và
+tôi s? s?a giáo cho cô. Nó s? có ích cho cô ngoài hoang đ?a đ?y.}
+{301}{}{Tôi có th? ki?m đá mài ? đâu đư?c?}
+{302}{}{Có ngư?i b?o D? Morlis đang gi? m?t c?c. M? ta khó tính như ma
+nên tôi ch?c ch?ng ai bu?n h?i đâu. D? nhiên là m? già ?y s? mu?n đ?i
+l?y th? g? đó.}
+{303}{}{Cám ơn. T?m bi?t.}
+{304}{}{Cô đ? nói chuy?n v?i bà d? v? c?c đá mài chưa?}
+{305}{}{R?i, tôi có đá ? đây.}
+{306}{}{Chưa.}
+{307}{}{C?c này t?t đ?y. Đưa giáo cho tôi.}
 {308}{}{Đây.}
-{309}{}{I guess I don't have one.}
-{310}{}{Now, you put the pieces like so...}
-{311}{}{The Chosen One without a spear? Well, you'll have to take one of
- mine. Now, let's get to work...}
-{312}{}{Here is your new spear.}
-{313}{}{Thank you, my friend -- this will help a lot.}
-{314}{}{Yes, but I was wondering about your spear. It looks a little
- different.}
-{400}{}{Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?}
-{401}{}{Me not find yet.}
-{402}{}{No, I haven't found it yet.}
-{403}{}{I'm not in the mood for your questions. Goodbye.}
-{404}{}{Things are not going well, Chosen One. The drought is getting worse and our crops are
- sure to fail. We are trying to salvage what we can to build up our food reserves.}
-{405}{}{Why no trade with other villages?}
-{406}{}{Me doing best me can. Me find GECK. Me return.}
-{407}{}{Why can't we trade with other villages for the food we need? }
-{408}{}{I'm doing my best. When I find the GECK I'll return with it.}
+{309}{}{Ch?c là tôi không có r?i.}
+{310}{}{Gi? th? đ?t viên đá vào đây...}
+{311}{}{C?u tinh mà không có giáo á? Đây, cô l?y m?t cái c?a tôi mà dùng.
+Gi? th? b?t đ?u vào vi?c nào...}
+{312}{}{Giáo m?i c?a cô đây.}
+{313}{}{Cám ơn b?n tôi -- Th? này r?t có ích đ?y.}
+{314}{}{?, nhưng tôi th?y giáo c?a anh là l?. Trông nó có v? hơi
+khác.}
+{400}{}{Chào m?ng v? đ?n nhà, C?u tinh! Cô t?m th?y căn h?m chưa? Cô có mang GECK v? không?}
+{401}{}{Ng? không th?y chưa.}
+{402}{}{Chưa, tôi chưa t?m th?y.}
+{403}{}{Tôi không r?nh đ? tr? l?i câu h?i c?a anh. Chào.}
+{404}{}{M?i th? không ?n r?i, C?u tinh à. Cơn h?n hán càng ngày càng t?, cây tr?ng c?a chúng ta
+s?p héo h?t r?i. Chúng ta đang c? hái h?t nh?ng g? c?n sót l?i đ? tích tr? lương th?c.}
+{405}{}{Sao không trao đ?i v?i làng khác?}
+{406}{}{Ng? làm t?t nh?t ng? làm. Ng? t?m GECK. Ng? v?.}
+{407}{}{T?i sao chúng ta không trao đ?i v?i các ngôi làng khác đ? l?y lương th?c c?n thi?t?}
+{408}{}{Tôi đang c? h?t s?c đây. Tôi s? tr? l?i khi nào t?m th?y GECK.}
 {409}{}{We are a simple people and have little to offer in trade. The few towns that we have
  contacted while you were away have shown no interest in helping us.}
 {410}{}{Me see.}

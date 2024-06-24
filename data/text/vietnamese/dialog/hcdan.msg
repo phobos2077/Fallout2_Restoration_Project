@@ -12,7 +12,7 @@
 {111}{}{Great, great. Pleased to meet you. [He looks distracted.] Hey, look... you're an adventuring type, right?}
 {112}{}{Đúng v?y.}
 {113}{}{Do you not recognize the Chosen One?}
-{114}{}{No.}
+{114}{}{Không.}
 {115}{}{What business is it of yours?}
 {116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
 {117}{}{What's in it for me?}

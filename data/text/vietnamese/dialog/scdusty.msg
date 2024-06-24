@@ -25,7 +25,7 @@
 {124}{}{Cám ơn.}
 {125}{}{Would you like a drink?}
 {126}{}{Đư?c thôi.}
-{127}{}{No.}
+{127}{}{Không.}
 {128}{}{Let me buy you a drink! I've been wanting to smack him around for years!}
 {129}{}{I've got some questions.}
 {130}{}{Good! Bye.}

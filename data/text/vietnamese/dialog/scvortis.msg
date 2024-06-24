@@ -24,7 +24,7 @@
 {123}{}{Mind if I have a look around?}
 {124}{}{Work? Well... there might be something. You ever hear of the New California Rangers?}
 {125}{}{Đúng v?y.}
-{126}{}{No.}
+{126}{}{Không.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
 {128}{}{Bite me!}
 {129}{}{Vault 13! Get outta here. Damn place is a myth. Vault 13, my ass.}
@@ -41,7 +41,7 @@
 {140}{}{Whatever you say. I'll be going.}
 {141}{}{Yeah, I may have some feelings about the Rangers. You looking for work?}
 {142}{}{Đúng v?y.}
-{143}{}{No.}
+{143}{}{Không.}
 {144}{}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
 {145}{}{Another question...}
 {146}{}{You're too touchy for me. I'm leaving.}
@@ -63,7 +63,7 @@
 {162}{}{Alright. I'll be back.}
 {163}{}{You're back again. Did you get that map?}
 {164}{}{Đúng v?y.}
-{165}{}{No.}
+{165}{}{Không.}
 {166}{}{I'm still waiting for you to finish the first job!}
 {167}{}{Oh yeah, I forgot.}
 {168}{}{Not since you did your job. Thanks.}

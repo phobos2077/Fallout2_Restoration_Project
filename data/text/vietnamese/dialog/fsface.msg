@@ -1,6 +1,6 @@
 {100}{}{Welcome. I am ACE, the medical computer. Are you in need of medical assistance?}
 {101}{}{Đúng v?y.}
-{102}{}{No.}
+{102}{}{Không.}
 {103}{}{Me got question. You answer?}
 {104}{}{I've got some questions. Can you answer them?}
 {105}{}{Please state your medical need.}
@@ -29,17 +29,17 @@
 {128}{}{Forget it.}
 {129}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. The poison will first be analyzed and then an antidote will be synthesized. Tissue damage will then be repaired. This process will require 30 minutes.}
 {130}{}{Ok.}
-{131}{}{No.}
+{131}{}{Không.}
 {132}{}{Đư?c thôi.}
 {133}{}{Never mind.}
 {134}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Anti-radiation compounds will be administered and then tissue damage will be repaired. This process will require 60 minutes.}
 {135}{}{Ok.}
-{136}{}{No.}
+{136}{}{Không.}
 {137}{}{Fine.}
 {138}{}{I changed my mind.}
 {139}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.}
 {140}{}{Ok.}
-{141}{}{No.}
+{141}{}{Không.}
 {142}{}{Let's do it.}
 {143}{}{Maybe later.}
 {144}{}{This function is not available at this time. My library is incomplete. I require a memory module detailing the appropriate medical procedures. Do you have such a module?}

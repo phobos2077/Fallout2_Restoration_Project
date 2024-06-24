@@ -4,7 +4,7 @@
 {103}{}{You here for the drive?}
 {104}{}{}
 {105}{}{Đúng v?y.}
-{106}{}{No.}
+{106}{}{Không.}
 {107}{}{Keep your eyes peeled.}
 {108}{}{Stay together men!}
 {109}{}{Keep it up boys.}

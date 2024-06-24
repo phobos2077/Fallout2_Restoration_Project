@@ -43,7 +43,7 @@
  who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
  more questions?}
 {220}{}{Đúng v?y.}
-{221}{}{No.}
+{221}{}{Không.}
 {222}{}{All right. See ya, then.}
 {223}{}{Chào.}
 {300}{}{Hatch}

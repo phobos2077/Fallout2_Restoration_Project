@@ -45,7 +45,7 @@
 {143}{}{What kind of treasure is it?}
 {144}{}{Yeah, tell me.}
 {145}{}{I had other questions for you first.}
-{146}{}{No.}
+{146}{}{Không.}
 {147}{}{Like what?}
 {148}{}{This is the Old Ghouls' Home?}
 {149}{}{You ever heard of a GECK?}
@@ -102,7 +102,7 @@
 {200}{}{That's a bit vague, but thanks. See ya.}
 {201}{}{You find that treasure yet, kid?}
 {202}{}{Nuh uh.}
-{203}{}{Not yet.}
+{203}{}{Chưa.}
 {204}{}{Nope. I had some questions.}
 {205}{}{Nope. Bye.}
 {206}{}{Well, keep lookin'. You're bound to get it eventually.}

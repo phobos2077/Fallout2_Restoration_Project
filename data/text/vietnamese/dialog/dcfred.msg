@@ -133,12 +133,12 @@
 {540}{}{Just $50. Please! It's all part of the master plan!}
 {541}{}{All right.}
 {542}{}{But that'll only leave me with $50 to pay your $200 loan.}
-{543}{}{No.}
+{543}{}{Không.}
 {550}{}{Wha- uh... Damn! You won't regret this! I'm good for it!}
 {551}{}{No problem.}
 {560}{}{Uh, yeah. I see your math skills- I mean, please! It's not much to you I'm sure, but it's a hell of a lot for me.}
 {561}{}{Okay.}
-{562}{}{No.}
+{562}{}{Không.}
 {570}{}{Yeah, sure she did. Everyone knows she hates that name. You're not fooling me!}
 {571}{}{I don't owe her anything.}
 {572}{}{She said you were forgetful.}

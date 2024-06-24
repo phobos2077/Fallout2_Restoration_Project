@@ -42,7 +42,7 @@
 {136}{}{Chào.}
 {137}{}{All right. Gecko it is. Come back on the 1st of the month and you'll be on your way. Want anything else?}
 {138}{}{Đúng v?y.}
-{139}{}{No.}
+{139}{}{Không.}
 {140}{}{All right. The Republic it is. Come back on the 11th of the month and you'll be on your way. Want anything else?}
 {141}{}{All right. Vault City it is. Come back on the 21st of the month and you'll be on your way. Want anything else?}
 {142}{}{Mu?n g??}

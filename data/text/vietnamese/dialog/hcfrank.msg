@@ -41,7 +41,7 @@
 {132}{}{Chào.}
 {133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
 {134}{}{Đúng v?y.}
-{135}{}{No.}
+{135}{}{Không.}
 {136}{}{Yeah? Then go talk to Jacob, the chemist. I'll catch you later.}
 {137}{}{Mutie-lover! Get outta here! I don't want to breathe the same air as you!}
 {138}{}{You again? What do you want?}

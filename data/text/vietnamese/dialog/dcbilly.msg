@@ -13,7 +13,7 @@
 {161}{}{Sure, but it'll cost you $200.}
 {162}{}{No way! Get away from us!}
 {163}{}{OK.}
-{164}{}{No.}
+{164}{}{Không.}
 {165}{}{Alright! Now come with Billy, sweetie.}
 {166}{}{Now go away.}
 {167}{}{Cám ơn. T?m bi?t.}

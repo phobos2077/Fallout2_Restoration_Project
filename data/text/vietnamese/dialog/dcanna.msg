@@ -25,7 +25,7 @@
 {172}{}{OK. Here you go.}
 {173}{}{Here. May you rest in peace.}
 {174}{}{OK.}
-{175}{}{No.}
+{175}{}{Không.}
 {176}{}{My locket, my locket! I'm coming, Daddy! I'm coming!}
 {177}{}{T?m bi?t.}
 {178}{}{Wait! Don't go!}

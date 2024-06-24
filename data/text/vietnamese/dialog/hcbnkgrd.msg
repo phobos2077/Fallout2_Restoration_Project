@@ -30,10 +30,10 @@
 {129}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the key.}
 {130}{}{That's all I wanted. Great. Thanks. Bye.}
 {131}{}{Yeah, but maybe we should be. Right now, they are. And they're staying there until someone can show me a better reason to let them out. Now... get out.}
-{132}{}{No.}
+{132}{}{Không.}
 {133}{}{All right.}
 {134}{}{So they're going to stay in jail for now. We gotta protect society. Now... get out.}
-{135}{}{No.}
+{135}{}{Không.}
 {136}{}{All right.}
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}

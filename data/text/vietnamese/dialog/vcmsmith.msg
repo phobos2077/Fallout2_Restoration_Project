@@ -15,7 +15,7 @@
 {112}{}{Why aren't you in the city?}
 {113}{}{What do you do here?}
 {114}{}{Can I ask you something else?}
-{115}{}{Thanks. Goodbye.}
+{115}{}{Cám ơn. T?m bi?t.}
 {116}{}{My family and I work a farm here in the Courtyard. We get by. Don't know
  for how long, though.}
 {117}{}{What's the problem?}
@@ -44,7 +44,7 @@
  protection from Vault City.}
 {136}{}{What kind of protection?}
 {137}{}{Can I ask you something else?}
-{138}{}{Thanks. Goodbye.}
+{138}{}{Cám ơn. T?m bi?t.}
 {139}{}{They keep us safe from the outside, but it costs me and the wife quite
  a bit. And without a plow... well, making ends meet is difficult.}
 {140}{}{Can I help with the plow?}

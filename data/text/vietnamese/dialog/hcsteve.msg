@@ -37,7 +37,7 @@
  a man named Jacob. The two of them chose this site because it was near some uranium deposits. Would
  you like to hear more?}
 {129}{}{Đúng v?y.}
-{130}{}{No.}
+{130}{}{Không.}
 {131}{}{We're a collective of humans, mutants, and ghouls. We don't have the racial tensions that
  plague Vault City; in our eyes, everyone's equal.}
 {132}{}{You live next to mutants? Don't you know they're evil?}
@@ -72,7 +72,7 @@
  communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
  own power. More?}
 {160}{}{Đúng v?y.}
-{161}{}{No.}
+{161}{}{Không.}
 {162}{}{Everyone's equal. We all came from humans; we all have the same core underneath the exterior.
  To say that someone's evil just because of their appearance indicates only ignorance.}
 {163}{}{You calling me ignorant?}

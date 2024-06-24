@@ -106,7 +106,7 @@
 {355}{}{Why, yes, yes, he is. (Squints at you again.) I'm sorry, do you know my husband?}
 {356}{}{Yes, I know him. The Wright family controls the distribution of alcohol in New Reno.}
 {357}{}{Not personally, but I know the Wrights control the distribution of alcohol in New Reno.}
-{358}{}{No.}
+{358}{}{Không.}
 {359}{}{Not really. Look, I have to be going.}
 {360}{}{Oh. (Blinks.) So what is it I can do for you?}
 {361}{}{So what are these questions you have?}

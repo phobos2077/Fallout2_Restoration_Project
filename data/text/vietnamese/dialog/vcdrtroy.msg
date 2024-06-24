@@ -50,7 +50,7 @@
 {144}{}{No, I'm not.}
 {145}{}{A pleasure to meet you, }
 {146}{}{. If you are ever in need of my services, you can find me here.}
-{147}{}{Thanks. Goodbye.}
+{147}{}{Cám ơn. T?m bi?t.}
 {148}{}{You're not a Vault City native, though, am I right? I'm certain I would remember someone like
  you. Where are you from?}
 {149}{}{Hold on a moment... you're an Outsider, correct? Where are you from?}

@@ -86,7 +86,7 @@
 {160}{}{All right, let's get it over with.}
 {161}{}{Hello again. Have you changed your mind? Will you help me?}
 {162}{}{Đúng v?y.}
-{163}{}{No.}
+{163}{}{Không.}
 {164}{}{Hello again. Have you changed your mind? Will you help me?}
 {165}{}{Đúng v?y.}
 {166}{}{No. Me still think about it.}

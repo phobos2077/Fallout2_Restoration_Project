@@ -16,7 +16,7 @@
 {112}{}{Duhhhh...}
 {113}{}{That'd be }
 {114}{}{Đúng v?y.}
-{115}{}{No.}
+{115}{}{Không.}
 {116}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {117}{}{What's he like?}
 {118}{}{Can he be trusted?}

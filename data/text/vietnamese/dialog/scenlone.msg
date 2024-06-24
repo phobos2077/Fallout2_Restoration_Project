@@ -8,7 +8,7 @@
 {107}{}{Uh, I really don't know what you're talking about.}
 {108}{}{So you're the itch Merk wants scratched!}
 {109}{}{Đúng v?y.}
-{110}{}{No.}
+{110}{}{Không.}
 {111}{}{I just want to be alone.}
 {112}{}{Hello? Anybody there?}
 {113}{}{Guh.}
@@ -50,7 +50,7 @@
 {149}{}{Aligned Hub Seeker. You are obviously not Enlightened.}
 {150}{}{A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?}
 {151}{}{Đúng v?y.}
-{152}{}{No.}
+{152}{}{Không.}
 {153}{}{I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.}
 {154}{}{By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!}
 {155}{}{Neurodynes are the psychic centers of the body. They become polluted by the spiritual remnants of the people who died in the War. Their psi-energies imprint into our neurodynes at birth and hold us in an oppressive state. Alignment erases these imprints.}

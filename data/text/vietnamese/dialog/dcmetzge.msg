@@ -120,7 +120,7 @@
 {369}{}{Fine.}
 {370}{}{Okay.}
 {371}{}{Not worth it.}
-{372}{}{No.}
+{372}{}{Không.}
 {380}{}{All right, boys, put him in the pens.}
 {381}{}{All right, boys, put her in the pens.}
 {382}{}{Right, boss.}
