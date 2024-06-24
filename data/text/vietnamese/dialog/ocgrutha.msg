@@ -22,7 +22,7 @@
  out of trouble, and you will always be welcome here.}
 {116}{}{Forgive me. I do not mean to be rude, but I do not see that this is relevant to our conversation.
  I can speak your tongue, I can read your written word. What more needs be said?}
-{117}{}{I see.}
+{117}{}{Hi?u r?i.}
 {118}{}{I don't mean to pry, but surely you can understand my interest in this matter.}
 {119}{}{Yeah, well, how about letting me decide what is or is not relevant?}
 {120}{}{Yes, I certainly can. Very well. If we part as friends, human, you should speak with Goris. He

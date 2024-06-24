@@ -27,7 +27,7 @@
  will prove to be useless and your hand must be raised instead. This challenge prepares you to face
  another human, look him in the eyes, and know that you may have to kill him.}
 {124}{}{Okay.}
-{125}{}{I see.}
+{125}{}{Hi?u r?i.}
 {126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
 {127}{}{Me understand.}
 {128}{}{All right.}
@@ -82,7 +82,7 @@
 {170}{}{Hmm... I see your point. However, we must still do battle. I will
  simply take care not to hurt you too much.}
 {171}{}{Thanks! I'll see you back in the village.}
-{172}{}{I see.}
+{172}{}{Hi?u r?i.}
 {200}{}{I don't seem to remember our last battle, Chosen One. I will always wonder how you managed
  to get past me.}
 {201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors

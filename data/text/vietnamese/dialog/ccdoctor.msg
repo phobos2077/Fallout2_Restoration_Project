@@ -48,7 +48,7 @@
  subjects. Sometimes they get a little vocal. The base commander found
  this to be disturbing so he had the soundproofing installed.}
 {136}{}{Oh...}
-{137}{}{I see.}
+{137}{}{Hi?u r?i.}
 {138}{}{Big, brown, and ugly? It's an experiment that I've recently
  completed. It's scheduled for termination.}
 {139}{}{What termination mean?}
@@ -115,7 +115,7 @@
  distasteful thing I do.}
 {180}{}{Oh...}
 {181}{}{He be fixed?}
-{182}{}{I see.}
+{182}{}{Hi?u r?i.}
 {183}{}{Can he be fixed?}
 {184}{}{Oh yes. I removed his motivator circuit and gave it to
  Raul up in maintenance. It could always be put back in... Maybe

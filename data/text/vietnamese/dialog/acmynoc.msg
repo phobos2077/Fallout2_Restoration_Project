@@ -103,7 +103,7 @@ l?y th? g? đó.}
 Gi? th? b?t đ?u vào vi?c nào...}
 {312}{}{Giáo m?i c?a c?u đây.}
 {313}{}{Cám ơn b?n tôi -- Th? này r?t có ích đ?y.}
-{314}{}{?, nhưng tôi th?y giáo c?a anh là l?. Trông nó có v? hơi
+{314}{}{?, nhưng tôi mu?n h?i v? cây giáo c?a anh. Trông nó có v? hơi
 khác.}
 {400}{}{Chào m?ng v? đ?n nhà, C?u tinh! C?u t?m th?y căn h?m chưa? C?u có mang GECK v? không?}
 {401}{}{Ng? không th?y chưa.}
@@ -115,19 +115,19 @@ s?p héo h?t r?i. Chúng ta đang c? hái h?t nh?ng g? c?n sót l?i đ? tích tr
 {406}{}{Ng? làm t?t nh?t ng? làm. Ng? t?m GECK. Ng? v?.}
 {407}{}{T?i sao chúng ta không trao đ?i v?i các ngôi làng khác đ? l?y lương th?c c?n thi?t?}
 {408}{}{Tôi đang c? h?t s?c đây. Tôi s? tr? l?i khi nào t?m th?y GECK.}
-{409}{}{We are a simple people and have little to offer in trade. The few towns that we have
- contacted while you were away have shown no interest in helping us.}
-{410}{}{Me see.}
-{411}{}{I see.}
-{412}{}{You are our only hope, Chosen One. Please do not fail us!}
-{413}{}{It is good to see you, Chosen One. How fares your quest?}
-{414}{}{Me still look.}
-{415}{}{I'm still looking.}
-{416}{}{I don't want to talk about it.}
-{417}{}{You must hurry. Things are getting worse here at home. Soon there will be little food and
- the Elder speaks of rationing what we have. I fear for the future of Arroyo.}
-{418}{}{Chosen One! Please tell me that you have completed your quest. Our village is dying, and so
- are our people. }
+{409}{}{Chúng ta s?ng đơn gi?n nên g?n như không có g? đ? trao đ?i. M?y th? tr?n mà chúng ta
+đ? liên l?c trong lúc c?u đi v?ng không mu?n giúp đ? chúng ta.}
+{410}{}{Ng? th?y.}
+{411}{}{Hi?u r?i.}
+{412}{}{C?u là hi v?ng duy nh?t c?a chúng ta, C?u tinh ?. Đ?ng khi?n chúng ta th?t v?ng!}
+{413}{}{R?t vui đư?c g?p l?i c?u, C?u tinh. Nhi?m v? c?a c?u đ?n đâu r?i?}
+{414}{}{Ng? v?n t?m.}
+{415}{}{Tôi v?n đang t?m.}
+{416}{}{Tôi không mu?n nói v?i anh.}
+{417}{}{C?u ph?i nhanh lên. M?i th? ? làng đang ngày càng x?u đi. Lương th?c s?p c?n r?i,
+Trư?ng l?o nói chúng ta ph?i dè s?n. Tôi th?y lo cho tương lai c?a Arroyo.}
+{418}{}{C?u tinh! Làm ơn nói v?i tôi là c?u đ? hoàn thành nhi?m v? đi. Ngôi làng đang ch?t d?n, m?i
+ngư?i c?ng th?.}
 {419}{}{No, me still look.}
 {420}{}{No, I'm still looking.}
 {421}{}{How are things?}

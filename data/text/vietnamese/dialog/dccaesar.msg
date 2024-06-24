@@ -122,7 +122,7 @@
 {266}{}{Here is your money.}
 {267}{}{Don't have that much yet. Bye.}
 {268}{}{Our radio is broken and he's in charge of fixing it.}
-{269}{}{I see.}
+{269}{}{Hi?u r?i.}
 {270}{}{You haven't got the money!}
 {271}{}{Too bad for me. Can I ask you a question?}
 {272}{}{Sorry, I'll come back.}

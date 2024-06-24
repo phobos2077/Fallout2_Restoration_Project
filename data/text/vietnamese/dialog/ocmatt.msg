@@ -25,7 +25,7 @@
 {122}{}{Okay.}
 {123}{}{Me outta here.}
 {124}{}{T?i sao?}
-{125}{}{I see.}
+{125}{}{Hi?u r?i.}
 {126}{}{I'll be going now.}
 {127}{}{Because, unlike the rest of the sheep who live here, I recognize them as a threat to humanity.
  They know that if I get out of here I will see to it that they are wiped off the face of the earth!
