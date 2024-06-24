@@ -19,7 +19,7 @@
 {118}{}{Are you- are you the Chosen One?}
 {119}{}{You should talk to the Elder.}
 {120}{}{The Elder said you would save us!}
-{121}{}{C?u đ? nói chuy?n v?i Trư?ng l?o chưa?}
+{121}{}{Cô đ? nói chuy?n v?i Trư?ng l?o chưa?}
 {122}{}{The Elder's in the first cell. You should talk to her.}
 {123}{}{Talk to the Elder.}
 {124}{}{Free us!}

@@ -128,31 +128,31 @@ s?p héo h?t r?i. Chúng ta đang c? hái h?t nh?ng g? c?n sót l?i đ? tích tr
 Trư?ng l?o nói chúng ta ph?i dè s?n. Tôi th?y lo cho tương lai c?a Arroyo.}
 {418}{}{C?u tinh! Làm ơn nói v?i tôi là c?u đ? hoàn thành nhi?m v? đi. Ngôi làng đang ch?t d?n, m?i
 ngư?i c?ng th?.}
-{419}{}{No, me still look.}
-{420}{}{No, I'm still looking.}
-{421}{}{How are things?}
-{422}{}{I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
- our people are in your hands. Please find the holy Thirteen and return to us with the GECK!}
-{423}{}{Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night
- allow no one any sleep. We are becoming a desperate people.}
-{424}{}{Me continue look.}
-{425}{}{I'll do what I can.}
-{426}{}{Once again you return to us, Chosen One. Not empty-handed, I hope?}
-{427}{}{Me sorry, no find GECK yet.}
-{428}{}{I'm sorry, I still haven't found the GECK.}
-{429}{}{I've had enough of this.}
-{430}{}{People are dying here while you stroll about the lands. Perhaps you should be searching
- elsewhere instead of returning here.}
-{500}{}{Have you talked to the Elder yet?}
-{600}{}{Any final advice for me before I head out into the unknown?}
-{601}{}{Certainly. Beware the weapons of the Outsiders. The gecko's bite is nothing compared to the destructive power of their boom-sticks.}
-{602}{}{Got it. Anything else?}
-{603}{}{Do not give your trust freely. Honor means very little out in the wastes. Stay alert and always question the motives of others.}
-{604}{}{Sure thing. Is that all?}
-{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
- But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
-{606}{}{I'll never forget my roots. Thanks for the advice, Mynoc.}
-{607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
+{419}{}{Không, ng? v?n t?m.}
+{420}{}{Không, tôi v?n đang t?m.}
+{421}{}{M?i chuy?n th? nào r?i?}
+{422}{}{Tôi r?t ti?c, C?u tinh, nhưng tôi b?t đ?u th?y m?t ni?m in vào c?u. Cu?c s?ng c?a c? b? t?c
+n?m trong tay c?u. Làm ơn đi t?m s? 13 th?n thánh và mang GECK v? cho chúng ta!}
+{423}{}{Cây tr?ng héo úa, đàn b? ch?t d?n, m?i ngư?i đ?u đói. Ti?ng tr? con khóc đêm làm không ai
+ng? đư?c. Chúng ta đang đi đ?n đư?ng cùng r?i.}
+{424}{}{Ng? ti?p t?c t?m.}
+{425}{}{Tôi s? làm nh?ng g? có th?.}
+{426}{}{C?u tinh, c?u l?i m?t l?n n?a quay v?. Tôi hi v?ng không ph?i tay tr?ng ch??}
+{427}{}{Ng? xin l?i, không th?y GECK chưa.}
+{428}{}{Tôi xin l?i, tôi v?n chưa t?m th?y GECK.}
+{429}{}{Đ? l?m r?i.}
+{430}{}{M?i ngư?i đang ch?t c?n c?u th? c? d?o quanh làng. Có l? c?u nên đi t?m ch? khác thay v?
+quay l?i đây.}
+{500}{}{C?u đ? nói chuy?n v?i Trư?ng l?o chưa?}
+{600}{}{Có l?i khuyên cu?i nào cho tôi trư?c khi tôi ti?n vào đ?t hoang không?}
+{601}{}{Ch?c ch?n r?i. H?y nh? c?n th?n trư?c v? khí c?a đám Ngư?i ngo?i t?c. Cú c?n c?a gecko không th? so đư?c v?i s?c h?y di?t t? m?y cây g?y l?a c?a chúng đâu.}
+{602}{}{Hi?u r?i. C?n g? n?a không?}
+{603}{}{Đ?ng có g?p ai c?ng tin. Danh d? ch?ng có ngh?a lí g? ngoài hoang m?c. Luôn c?nh giác và xem xét ? c?a ngư?i khác.}
+{604}{}{Ch?c r?i. H?t chưa nh??}
+{605}{}{Đ?ng quên g?c gác c?a m?nh. Th? gi?i bên ngoài làng đ?y nh?ng th? đ? chơi sáng bóng và phú qu? mà n?u so sánh th? cu?c s?ng ? Arroyo trông có v?
+đơn gi?n. Nhưng h?y nh? r?ng l?i s?ng c?a Ngư?i ngo?i t?c t?o ra nh?ng k? x?u xa tham lam và đ?c ác. C?n th?n đ?ng tr? thành K?-không-đư?c-g?i-tên.}
+{606}{}{Tôi s? không bao gi? quên g?c gác c?a m?nh. Cám ơn v? l?i khuyên, Mynoc.}
+{607}{}{K?-không-đư?c-g?i-tên? ?... ai th??}
 {608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
 {609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
 {610}{}{Oh, that's who I thought you meant. But, uh, why don't you go ahead and tell me what his deal is again. I really love that story.}

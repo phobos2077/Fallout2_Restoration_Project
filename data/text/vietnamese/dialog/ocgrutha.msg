@@ -115,7 +115,7 @@
 {175}{}{Done.}
 {176}{}{I shall return, you have my word.}
 {177}{}{Hello}
-{178}{}{No, I'm still looking.}
+{178}{}{Không, tôi v?n đang t?m.}
 {179}{}{Yes, and here it is!}
 {180}{}{}
 {181}{}{You have restored my faith in humans. I thank you for all that you have done for the pack. Is
