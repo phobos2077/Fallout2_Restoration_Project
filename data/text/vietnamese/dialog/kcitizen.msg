@@ -71,5 +71,5 @@
  of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make you
  sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
+{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
 {1111}{}{He guards the bridge leading into our village.}

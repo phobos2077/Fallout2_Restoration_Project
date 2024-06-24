@@ -207,12 +207,12 @@ Ngôi làng đ? đ? kh?n kh? r?i, không c?n làm các Th?n t?c gi?n thêm đâu
 {1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
 {1104}{}{Đó là m?t khu buôn bán cách nơi này vài ngày v? phía Đông.}
 {1105}{}{Vault là thiên đư?ng.}
-{1106}{}{C?u là C?u tinh.}
-{1107}{}{He heals us with his herbs and magic. He is in the
- northern part of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the
- north part of our village.}
-{1109}{}{It is a magic powder which will heal you, but will
- make you sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{That would be me.}
+{1106}{}{Cô là C?u tinh.}
+{1107}{}{Ông ta tr? thương b?ng th?o dư?c và phép thu?t. Ông ta
+? khu phía B?c c?a ngôi làng.}
+{1108}{}{Ông ta tr? thương b?ng th?o dư?c và phép thu?t. Ông ta
+? khu phía B?c c?a ngôi làng.}
+{1109}{}{Đây là m?t túi b?t phép có th? tr? thương cho cô,
+nhưng cô s? th?y bu?n ng? khi dùng.}
+{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
+{1111}{}{Đó là tôi.}

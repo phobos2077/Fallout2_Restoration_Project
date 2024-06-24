@@ -1,6 +1,6 @@
 {100}{}{B?n th?y c?u em h? Nagor. B?n không th?y con chó Smoke c?a c?u ta đâu c?.}
 {101}{}{B?n bi?t Nagor t? h?i c?n bé tí, và luôn giúp đ? c?u ta khi nào có th?.}
-{102}{}{Anh h?, r?t vui đư?c g?p anh! Em c?n anh giúp.}
+{102}{}{Ch? h?, r?t vui đư?c g?p ch?! Em c?n ch? giúp.}
 {103}{}{Th? l?i nhưng tôi không có th?i gian.}
 {104}{}{C?u c?n giúp g??}
 {105}{}{V?y th? em s? t? đi đ?n đ?t hoang!}
@@ -63,4 +63,4 @@
  the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
  talk any more...}
 {300}{}{You see Nagor.}
-{302}{}{Anh h?, r?t vui đư?c g?p anh! Em c?n anh giúp.}
+{302}{}{Ch? h?, r?t vui đư?c g?p ch?! Em c?n ch? giúp.}

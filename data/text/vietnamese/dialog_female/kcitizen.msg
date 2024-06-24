@@ -64,12 +64,12 @@
 {1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
 {1104}{}{That's trading outpost a few days east of here.}
 {1105}{}{Vault là thiên đư?ng.}
-{1106}{}{C?u là C?u tinh.}
+{1106}{}{Cô là C?u tinh.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make you
  sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
+{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
 {1111}{}{He guards the bridge leading into our village.}
