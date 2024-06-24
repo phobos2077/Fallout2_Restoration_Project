@@ -22,30 +22,30 @@ Hakunin, phía B?c c?a làng.}
 {117}{}{Ch? đ? t?m th?y Smoke chưa?}
 {118}{}{Chưa. Tôi s? s?m quay l?i thôi.}
 {119}{}{Tôi r?t ti?c nhưng nó ch?t r?i.}
-{120}{}{Anh ch? nói v?y v? anh không mu?n đi t?m th? có! Em đéo s? d? Morlis nói g?,
+{120}{}{Ch? ch? nói v?y v? ch? không mu?n đi t?m th? có! Em đéo s? Morlis nói g?,
 em ph?i đi t?m nó đây.}
 {121}{}{Nagor, n?u có chuy?n g? v?i c?u th? sao? D? Morlis s? ch? c?n l?i m?t m?nh và s?
 bu?n l?m đ?y. C?u không mu?n làm d? bu?n ch?, đúng không?}
 {122}{}{C? đi đi.}
-{123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
-{124}{}{Smoke will be okay. Goodbye.}
-{125}{}{You found Smoke! Thanks! Smoke, you're a bad dog!}
-{126}{}{You're welcome. Goodbye.}
-{127}{}{Thanks again. I hope you have a really fun trip!}
-{128}{}{I miss Smoke. Why couldn't you save him? You're the Chosen One.}
-{129}{}{I'm busy, dumb one. Go play someplace else.}
-{130}{}{I go.}
-{131}{}{I'm going after Smoke.}
-{200}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{201}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{202}{}{Me still look, Nagor.}
-{203}{}{I'm still looking, cousin.}
-{204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{205}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
+{123}{}{Th?... không, em không mu?n làm vây. Đư?c r?i, em s? không đi, nhưng như v?y không công b?ng!}
+{124}{}{Smoke s? ?n thôi. T?m bi?t.}
+{125}{}{Ch? t?m th?y Smoke r?i! Cám ơn! Smoke, đ? chó hư!}
+{126}{}{Không có g?. T?m bi?t.}
+{127}{}{Cám ơn l?n n?a. Hi v?ng ch? có m?t chuy?n đi th?t vui!}
+{128}{}{Em nh? Smoke quá. Sao ch? l?i không c?u nó ch?? Ch? là C?u tinh cơ mà.}
+{129}{}{Tôi b?n, đ? đ?n. Đi ch? khác chơi đi.}
+{130}{}{Tôi đi.}
+{131}{}{Tôi s? đi t?m Smoke.}
+{200}{}{Xin chào ch? h?... ?, ? em là C?u tinh. Em hi v?ng là ch? đ? t?m th?y GECK. Em nghe
+m?i ngư?i nói nhi?u v? th?i k? khó khăn s?p đ?n r?i.}
+{201}{}{Xin chào ch? h?... ?, ? em là C?u tinh. Em hi v?ng là ch? đ? t?m th?y GECK. Em nghe
+m?i ngư?i nói nhi?u v? th?i k? khó khăn s?p đ?n r?i.}
+{202}{}{Ng? v?n t?m, Nagor.}
+{203}{}{Tôi v?n đang đi t?m, em h? ?.}
+{204}{}{Chào m?ng tr? v?, anh h?. M?i th? ? nhà đang hơi lo?n. Anh đ? t?m th?y s? 13 th?n thành và
+GECK chưa?}
+{205}{}{Chào m?ng tr? v?, anh h?. M?i th? ? nhà đang hơi lo?n. Anh đ? t?m th?y s? 13 th?n thành và
+GECK chưa?}
 {206}{}{Me not find. Sorry.}
 {207}{}{I'm sorry, Nagor. I'm still looking.}
 {208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
