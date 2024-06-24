@@ -153,38 +153,38 @@ quay l?i đây.}
 đơn gi?n. Nhưng h?y nh? r?ng l?i s?ng c?a Ngư?i ngo?i t?c t?o ra nh?ng k? x?u xa tham lam và đ?c ác. C?n th?n đ?ng tr? thành K?-không-đư?c-g?i-tên.}
 {606}{}{Tôi s? không bao gi? quên g?c gác c?a m?nh. Cám ơn v? l?i khuyên, Mynoc.}
 {607}{}{K?-không-đư?c-g?i-tên? ?... ai th??}
-{608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
-{609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
-{610}{}{Oh, that's who I thought you meant. But, uh, why don't you go ahead and tell me what his deal is again. I really love that story.}
-{611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
-{612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}
-{613}{}{What a jerk.}
+{608}{}{C?u say men hào quang c?a C?u tinh đ?n m?c quên m?t r?i à... [Mynoc li?c nhanh xung quanh đ? ch?c là không có ai, r?i rư?n ngư?i v? phía b?n và h? gi?ng th? th?m]... Kaga?}
+{609}{}{?! Đúng r?i, g? đó. Tôi s? đ?m b?o m?nh không tr? thành như v?y. Cám ơn.}
+{610}{}{?, ? anh là g? đó. ? nhưng mà, sao anh không ti?p t?c k? l?i cho tôi chuy?n c?a h?n ta đi. Tôi thích câu chuy?n đó l?m.}
+{611}{}{[Mynoc l?m b?m g? đó trong m?m và l?c đ?u trư?c khi b?t đ?u câu chuy?n]. C?u bi?t đây, h?n ta t?ng là chi?n binh m?nh nh?t c?a b? t?c. H?n đ? d?n đ?u nhi?u đoàn ti?n vào th? gi?i bên ngoài, và đó là nơi mà cái x?u b?t đ?u th?m d?n vào đ?u h?n.}
+{612}{}{H?n ta tr? nên say mê v?i cách s?ng c?a Ngư?i ngo?i t?c, nơi mà s?c m?nh có th? khi?n b?t k? ai c?ng đư?c phú qu? và kinh s?. H?n ta b?t đ?u t? coi m?nh là cao qu? hơn nh?ng ngư?i đ?ng t?c v?n hài l?ng v?i cu?c s?ng b?nh d?.}
+{613}{}{Đúng là t?m l?m.}
 {614}{}{Ti?p t?c đi.}
-{615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
+{615}{}{Khi c? b? t?c rơi vào th?i k? khó khăn, h?n t? cho m?nh là ngư?i c?u cánh và ti?n vào Ngôi đ?n th? thách đ? ch?ng t? h?n là C?u tinh.}
 {616}{}{Ti?p t?c đi.}
-{617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
-{618}{}{He made his way through the Temple, quickly reaching the final test: a hand-to-hand battle with a fellow warrior.}
+{617}{}{Thôi, tôi không mu?n nghe thêm chuy?n này n?a. Chào nhé.}
+{618}{}{H?n đ? ti?n vào Đ?n, nhanh chóng đ?n v?i th? thách cu?i cùng: chi?n đ?u b?ng tay không v?i m?t chi?n binh đ?ng t?c.}
 {619}{}{Ti?p t?c đi.}
-{620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
-{621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
-{622}{}{Sorry. Please continue.}
-{623}{}{Actually, I think I'm ready to go. See you around.}
-{624}{}{During the final trial, He-Who-Must-Not-Be-Named unsheathed a hidden blade and used it to kill his opponent. When the Elder confronted him about his dishonorable use of a hidden weapon, he argued that it was not cheating, but rather proved him to be a cunning warrior.}
-{625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
-{626}{}{Me? What'd I do?}
-{627}{}{Thanks for the story, but I'd best be on my way now.}
-{628}{}{You are the Chosen One, a title he feels is rightfully his. His pride will not allow you to live.}
-{629}{}{I'm not going to worry about it. He's probably dead out in the wastes by now, anyway.}
-{630}{}{I'll be on my guard. Hopefully he's dead out in the wastes by now.}
-{631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
-{632}{}{You know, I think you might be overdoing it with the melodrama, just a tad. Anyway, thanks for the advice. I'll see you around, Mynoc.}
-{633}{}{I'll keep that in mind. Take care, Mynoc.}
-{640}{}{Could you tell me anything about this Kaga guy?}
-{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named.
- Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
-{642}{}{Sorry about that, Mynoc. But would you mind telling me what Ka... I mean, "He-Who's" deal is again? I really love that story.}
-{643}{}{You know, I'd forgotten how stupidly superstitious you people could be. I'll see you around.}
-{650}{}{I've faced him before, so I'm sure I can handle him if our paths cross again.}
+{620}{}{Ch? đ?, h?n ta đ? cho n? tung cánh c?a và nh?ng th? khác? Chúng ta ph?i xây l?i m?i th? m?i l?n có ngư?i ti?n vào đ?n? Mà nói v?y, ai là ngư?i đ?u tiên xây đ?n th??}
+{621}{}{Tôi không có th?i gian đ? tr? l?i t?t c? các câu h?i ngu ng?c. Có mu?n tôi k?t thúc câu chuy?n không?}
+{622}{}{Xin l?i. Ti?p đi.}
+{623}{}{Th?c ra tôi ngh? là m?nh s?n sàng đ? đi r?i. G?p l?i sau.}
+{624}{}{Trong th? thách cu?i cùng, K?-không-đư?c-g?i-tên đ? dùng m?t con dao gi?u kín đ? gi?t đ?i th?. Khi Trư?ng l?o h?i v? vi?c gi?u và s? d?ng v? khí m?t cách hèn h?, h?n ta c?i r?ng đ?y không ph?i là gian l?n, mà ch?ng t? r?ng h?n ta là m?t chi?n binh khôn ngoan.}
+{625}{}{Trư?ng l?o không đ?ng ? v?i vi?c đó. K?-không-đư?c-g?i-tên đ? b? bu?c ph?i r?i kh?i b? t?c và tên c?a h?n ta v?nh vi?n không đư?c chúng ta nh?c đ?n n?a. Khi b? tr?c xu?t ra ngoài đ?t hoang, h?n ta th? s? tr? thù. M?i thù v?i b? t?c và nh?t là v?i c?u.}
+{626}{}{Tôi ư? Tôi đ? làm g??}
+{627}{}{Cám ơn v? câu chuy?n, nhưng gi? t?t nh?t là tôi nên lên đư?ng thôi.}
+{628}{}{C?u là C?u tinh, danh hi?u mà h?n cho r?ng thu?c v? h?n. Tính cao ng?o khi?n h?n mu?n c?u ph?i ch?t.}
+{629}{}{Tôi không th?y có g? đáng lo c?. Gi? này ch?c h?n h?n ta ngh?o ngoài hoang m?c r?i.}
+{630}{}{Tôi s? c?n th?n. Hi v?ng là gi? này h?n ta ngh?o ngoài hoang m?c r?i.}
+{631}{}{Nghe này và nh? l?y. K?-không-đư?c-g?i-tên ? ngoài đó. Không th? thuy?t ph?c hay trao đ?i v?i h?n ta đư?c. H?n không bi?t thương h?i, h?i h?n hay s? ai. Và h?n ch?c ch?n s? không d?ng l?i cho đ?n khi c?u ch?t.}
+{632}{}{Anh bi?t đ?y, tôi ngh? là anh có th? vi?t k?ch hơi quá r?i, m?t chút thôi. Dù sao th? c?ng cám ơn v? l?i khuyên. G?p l?i anh sau, Mynoc.}
+{633}{}{Tôi s? đ? tâm đ?n đi?u đó. B?o tr?ng, Mynoc.}
+{640}{}{Anh có th? k? thêm g? cho tôi v? g? Kaga này không?}
+{641}{}{[Anh ta tr?n m?t và b?n ch?n nh?n quanh như th? s?p b? sét đánh]. C?u ngh?ch cát ngoài hoang m?c đ?n m? c? ngư?i r?i à!? C?u ph?i hi?u là không đư?c g?i tên c?a k? b? tr?c xu?t ch?! Ph?i g?i h?n ta là K?-không-đư?c-g?i-tên.
+Ngôi làng đ? đ? kh?n kh? r?i, không c?n làm các Th?n t?c gi?n thêm đâu. [Anh ta run r?y ngư?c m?t nh?n lên tr?i].}
+{642}{}{Xin l?i nhé Mynoc. Nhưng li?u anh có th? k? l?i v? Ka... ? tôi là, "K?-đó" l?n n?a không? Tôi r?t thích câu chuy?n đó.}
+{643}{}{Anh bi?t đ?y, tôi quên m?t là m?y ngư?i mê tín như anh ng?c đ?n m?c nào. G?p l?i anh sau.}
+{650}{}{Tôi đ? đ?i di?n v?i h?n ta r?i nên tôi ch?c là m?nh có th? x? l? g? đó n?u g?p l?i l?n n?a.}
 {651}{}{Actually, he's already dead. I left his corpse out there to rot in the wastes.}
 {660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
 {661}{}{Indeed. I'll see you around, Mynoc.}
