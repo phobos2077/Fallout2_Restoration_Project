@@ -18,7 +18,7 @@
 {113}{}{I'll be back with him soon.}
 {114}{}{Have you found Smoke yet?}
 {115}{}{No, not yet. Where did you say the hunting grounds were?}
-{116}{}{No, not yet.}
+{116}{}{Chưa.}
 {117}{}{Have you found Smoke yet?}
 {118}{}{No, not yet. I'll be back soon, though.}
 {119}{}{I am sorry, but he is dead.}

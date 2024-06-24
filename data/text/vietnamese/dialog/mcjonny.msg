@@ -15,7 +15,7 @@
 {166}{}{Your mother and father have sent me to find you.}
 {168}{}{Have you talked to Vegeir about me going home?}
 {169}{}{Yes. He says he wants your parents to come down and get you.}
-{170}{}{No, not yet.}
+{170}{}{Chưa.}
 {171}{}{My dad said Laddie went with you to look for me. Where is he? I miss him.}
 {172}{}{I'm sorry Jonny. Laddie died while we were searching for you.}
 {173}{}{Rose said she would look after your dog.}

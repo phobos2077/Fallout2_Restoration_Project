@@ -46,16 +46,16 @@ như tôi v?a nói.}
 {179}{}{Cám ơn, t?m bi?t.}
 {180}{}{Sao c?u v?n c?n ? đây? C?u ph?i đi t?m GECK. C?u ? đây
 ch?ng có ích g? đâu.}
-{181}{}{This bridge is all you need to worry about,
- friend. I can take care of myself.}
-{182}{}{I was just heading out. Goodbye, my friend.}
-{183}{}{I will speak to you no longer, insubordinate pig!}
-{184}{}{I would like to ask you another question.}
-{185}{}{That was quick! Have you found the holy Vault 13?}
+{181}{}{Anh ch? c?n lo gác c?u thôi, anh b?n ?. Tôi
+có th? t? lo thân đư?c.}
+{182}{}{Tôi chu?n b? đi đây. T?m bi?t, anh b?n.}
+{183}{}{Tôi không nói chuy?n v?i anh n?a đâu, đ? l?n khó b?o!}
+{184}{}{Tôi mu?n h?i thêm câu n?a.}
+{185}{}{Nhanh th?t đ?y! C?u đ? t?m th?y H?m 13 th?n thánh chưa?}
 {186}{}{Đúng v?y.}
-{187}{}{No, not yet.}
-{188}{}{You have? Wonderful! Did you bring back the
- GECK?}
+{187}{}{Chưa.}
+{188}{}{Th?y r?i? Tuy?t quá! C?u có mang GECK v?
+không?}
 {189}{}{No.}
 {190}{}{No. I haven't spoken to the people of the vault yet.}
 {191}{}{I don't believe that's any business of yours, my friend.}
