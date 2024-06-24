@@ -4,7 +4,7 @@
 {103}{}{Stop it!}
 {104}{}{How could you?}
 {105}{}{Get away from me!}
-{106}{}{Why?}
+{106}{}{T?i sao?}
 {107}{}{Please stop!}
 {108}{}{You murderer!}
 {109}{}{Poor Mom! You'll pay for that!}
@@ -49,7 +49,7 @@
 {154}{}{Sounds nice.}
 {155}{}{Ti?p t?c đi.}
 {156}{}{I had her when I was a kid, but she disappeared. I didn't know then what happened to her, I was too young.}
-{157}{}{Why?}
+{157}{}{T?i sao?}
 {158}{}{Well, food was awfully scarce back then and people had to eat. It's quite sad really...}
 {159}{}{What?}
 {160}{}{People would hunt them because they were such easy prey. None of them are around anymore because of it.}

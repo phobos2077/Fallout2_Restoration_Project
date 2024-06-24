@@ -47,9 +47,9 @@ cho khu?t m?t tao.}
 {214}{}{Vâng, D? Morlis.}
 {215}{}{V?y th? cút kh?i đây và đi t?m GECK đi! M?i ngư?i đang trông ch? vào mày đ?y!}
 {216}{}{Vâng, D? Morlis.}
-{300}{}{Chà, có v? như tao đ? đá ch? khác r?i. ? ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m.}
+{300}{}{Chà, có v? như tao đ? đá mài ch? khác r?i. ? ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m.}
 {301}{}{Sao mày l?i đi làm phi?n tao h? cháu? Mày không th?y tao đang b?n à?}
-{302}{}{Chà, t?m m?i không th?y đá. Ch?c ch?n là mày l?y tr?m lúc tao không canh ch?ng r?i. L?n trư?c c?ng th?. Gi? th? cút đi! Tao không có th?i gian đ? tán nh?m đâu.}
+{302}{}{Chà, t?m m?i không th?y đá mài. Ch?c ch?n là mày l?y tr?m lúc tao không canh ch?ng r?i. L?n trư?c c?ng th?. Gi? th? cút đi! Tao không có th?i gian đ? tán nh?m đâu.}
 {303}{}{Chà... ?, ta xin l?i nhưng ta không t?m th?y đá mài. Ta chúc con hành tr?nh b?nh an, nhóc ?.}
 {304}{}{Tao đ? đưa đá mài cho mày r?i, đ? ngu. Gi? th? đ?ng có làm m?t th?i gian c?a tao và bi?n đi!}
 {305}{}{Tao đ? đưa đá mài cho mày r?i, đ? ngu. ?, ít nh?t th? tao c?ng có b?t r?i. Gi? th? bi?n đi! Tao không có th?i gian đ? tán nh?m đâu.}

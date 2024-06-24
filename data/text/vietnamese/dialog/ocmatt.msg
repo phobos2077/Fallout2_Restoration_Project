@@ -21,10 +21,10 @@
 {119}{}{Not really.}
 {120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the deathclaws.
  They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
-{121}{}{Why?}
+{121}{}{T?i sao?}
 {122}{}{Okay.}
 {123}{}{Me outta here.}
-{124}{}{Why?}
+{124}{}{T?i sao?}
 {125}{}{I see.}
 {126}{}{I'll be going now.}
 {127}{}{Because, unlike the rest of the sheep who live here, I recognize them as a threat to humanity.
@@ -49,7 +49,7 @@
 {142}{}{I'm not here to talk about escape plans. Someone sabotaged the mainframe computer interface. Know anything about that?}
 {143}{}{You seem to have bought yourself a shit storm!}
 {144}{}{Yeah. I destroyed the voice module and then I disabled all keyboard input.}
-{145}{}{Why?}
+{145}{}{T?i sao?}
 {146}{}{With the mainframe offline the vault will eventually shut down. Without food or water the deathclaws will be forced to begin raiding human lands for their needs. Eventually they will be discovered and their threat to humanity can be dealt with.}
 {147}{}{Others here. They need food, water. You no care about them?}
 {148}{}{What about the others who live here. Aren't you concerned with their fate?}

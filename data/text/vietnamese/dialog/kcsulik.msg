@@ -38,7 +38,7 @@
 {143}{}{Ok... Can I ask you something else?}
 {150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.}
-{151}{}{Why?}
+{151}{}{T?i sao?}
 {152}{}{Who's Grampy Bone?}
 {153}{}{Can I ask you something else?}
 {160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}

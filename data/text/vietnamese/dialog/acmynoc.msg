@@ -13,39 +13,39 @@ m?t lát đ?.}
 {158}{}{Mu?n bi?t g? nào?}
 {159}{}{Anh có th? nói cho tôi bi?t v? ngư?i trao đ?i hàng hóa
 v?i làng chúng ta không?}
-{160}{}{Anh có th? nói g? v? th? mà tôi có đư?c t? m?t
-h?m không?}
+{160}{}{Anh có bi?t g? v? th? này mà tôi l?y đư?c t? h?m
+không?}
 {161}{}{Không, không có g?.}
 {162}{}{Đư?c r?i, nhưng đ?ng có m?t nhi?u th?i gian quá. Không có
 GECK, chúng ta tiêu tùng đ?y.}
 {163}{}{Tôi bi?t, đ?ng lo -- M?i chuy?n đ?u trong t?m ki?m soát.}
-{164}{}{Why?}
-{165}{}{I must be going. Goodbye.}
-{166}{}{The traders? They come from Klamath about every two months. There
- won't be another here for a month or more, but Klamath's only a few days
- east of here.}
-{167}{}{Thank you. Goodbye.}
-{168}{}{What can you tell me about this object I have from
- the sacred vault?}
-{169}{}{Looks like a metal water gourd. Maybe the
- vault sent it to us as an omen.}
-{170}{}{Can you tell me who brought this item to our village?}
-{171}{}{Thank you. I must be going. Goodbye.}
-{172}{}{I hope you do.}
-{173}{}{Your overconfidence makes all of us suffer! Goodbye!}
+{164}{}{T?i sao?}
+{165}{}{Tôi ph?i đi đây. T?m bi?t.}
+{166}{}{Đám thương gia ?y h?? H? đ?n t? Klamath kho?ng 2 tháng m?t l?n. L?n
+ti?p theo c?n hơn m?t tháng n?a cơ, nhưng đi đ?n Klamath th? ch? m?t vài
+ngày v? phía Đông.}
+{167}{}{Cám ơn. T?m bi?t.}
+{168}{}{Anh có bi?t g? v? th? này mà tôi l?y đư?c t? h?m
+th?n không?}
+{169}{}{Trông gi?ng m?t b?u đ?ng nư?c b?ng kim lo?i. Có th?
+h?m g?i nó đ?n đây như m?t đi?m báo.}
+{170}{}{Anh có th? cho tôi bi?t ai đ? mang th? này đ?n làng chúng ta không?}
+{171}{}{Cám ơn. Tôi ph?i đi đây. T?m bi?t.}
+{172}{}{Hi v?ng là v?y.}
+{173}{}{C?u mà t? tin quá s? khi?n t?t c? chúng ta ph?i tr? giá đ?y! T?m bi?t!}
 {174}{}{T?m bi?t.}
-{175}{}{Why? Look around you -- our village dies. The gardens wither and
- every day children and old ones collapse. You must bring Eden to us before
- it is too late!}
-{176}{}{And I will take care of it. Goodbye.}
-{177}{}{I am the Chosen One -- I "must" do only as I
- please. Goodbye.}
-{178}{}{I don't remember his name, just that he was old and loud -- too
- loud for proper manners -- but he knew many things. He was from Klamath, east
- like I said.}
+{175}{}{T?i sao à? Nh?n quanh xem -- Ngôi làng đang ch?t. Vư?n tư?c héo úa,
+ngày nào c?ng có tr? con và ngư?i già n?m xu?ng. C?u ph?i mang Đ?a đàng v?
+trư?c khi quá mu?n!}
+{176}{}{R?i tôi s? lo chuy?n đó. T?m bi?t.}
+{177}{}{Tôi là C?u tinh -- Tôi "ph?i" làm theo ? tôi.
+T?m bi?t.}
+{178}{}{Tôi không nh? tên, nhưng l?o ta già v?i to m?m l?m -- nói to ch?
+gi? ? g? c? -- nhưng l?o ta bi?t nhi?u l?m. L?o đ?n t? Klamath, v? phía Đông
+như tôi v?a nói.}
 {179}{}{Cám ơn, t?m bi?t.}
-{180}{}{Are you still here? You must go find the GECK. Staying here
- doesn't help us.}
+{180}{}{Sao c?u v?n c?n ? đây? C?u ph?i đi t?m GECK. C?u ? đây
+ch?ng có ích g? đâu.}
 {181}{}{This bridge is all you need to worry about,
  friend. I can take care of myself.}
 {182}{}{I was just heading out. Goodbye, my friend.}

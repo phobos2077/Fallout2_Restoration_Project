@@ -12,15 +12,15 @@
 {158}{}{Goodbye, my friend.}
 {159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
  medicines.}
-{160}{}{Thank you. Goodbye.}
+{160}{}{Cám ơn. T?m bi?t.}
 {161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
  Talk to him at the Great Bridge.}
-{162}{}{Thank you. Goodbye.}
+{162}{}{Cám ơn. T?m bi?t.}
 {163}{}{Could tell me where the Great Bridge is located?}
 {164}{}{One more question, if I may.}
 {165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
  you've been there many times.}
-{166}{}{Thank you. Goodbye.}
+{166}{}{Cám ơn. T?m bi?t.}
 {167}{}{One more question, if I may.}
 {168}{}{Of course, what is it?}
 {169}{}{Could you tell me where I can find some healing herbs?}
@@ -38,7 +38,7 @@
 {180}{}{They are nothing to us! They scavenge the dying corpse
  of the wastes to live.}
 {181}{}{Could you tell me where I can find some healing herbs?}
-{182}{}{Thank you. Goodbye.}
+{182}{}{Cám ơn. T?m bi?t.}
 {183}{}{One more question, if I may.}
 {300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
 {301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}

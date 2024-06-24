@@ -213,7 +213,7 @@
 {312}{}{Yeah? Has it got a Northern California world map installed?}
 {313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
 {314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
-{315}{}{Why?}
+{315}{}{T?i sao?}
 {316}{}{No problem. I've already scouted out the area.}
 {317}{}{All right. I'll come back when I've scouted the area.}
 {318}{}{On second thought, count me out. Goodbye.}

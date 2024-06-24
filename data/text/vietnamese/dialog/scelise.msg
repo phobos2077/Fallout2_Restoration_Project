@@ -121,7 +121,7 @@
 {234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
 {235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
 {236}{}{You aid the Rangers in their continual struggle against slavery.}
-{240}{}{Thank you. Goodbye.}
+{240}{}{Cám ơn. T?m bi?t.}
 {250}{}{Actually, one more thing. You look like someone to be trusted. Someone who doesn't take a liking to Slavers.}
 {251}{}{Well, I did just wipe out an entire camp of them. What do you have in mind?}
 {252}{}{I think I've done enough for humanity today. See you around.}
