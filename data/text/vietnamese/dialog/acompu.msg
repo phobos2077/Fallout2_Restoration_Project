@@ -1,10 +1,10 @@
-{100}{}{You see a small computer terminal.}
-{101}{}{You see the Abbey's computer terminal.}
-{102}{}{You see a small computer terminal. It appears to be functional.}
-{103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
-{104}{}{Read GECK info.}
-{105}{}{Read Vault info.}
-{106}{}{ERROR! access card not found. Please, insert access card into encryption slot.}
+{100}{}{B?n th?y m?t b?ng máy tính nh?.}
+{101}{}{B?n th?y b?ng máy tính c?a Tu vi?n.}
+{102}{}{B?n th?y m?t b?ng máy tính nh?. Có v? như nó v?n ch?y.}
+{103}{}{B?n truy c?p vào máy tính và quét t?t c? t?p có s?n. B?n t?m th?y vài t?p có ch?a t? khóa "GECK" và "Vault".}
+{104}{}{Đ?c thông tin v? GECK.}
+{105}{}{Đ?c thông tin v? Vault.}
+{106}{}{L?I! không t?m th?y th? truy c?p. Vui l?ng nhét th? truy c?p vào khe m? hóa.}
 {107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
 {108}{}{Input command.}
 {109}{}{Scan files for any information about GECK or VAULT 13.}

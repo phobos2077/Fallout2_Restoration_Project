@@ -42,25 +42,25 @@ m?i ngư?i nói nhi?u v? th?i k? khó khăn s?p đ?n r?i.}
 m?i ngư?i nói nhi?u v? th?i k? khó khăn s?p đ?n r?i.}
 {202}{}{Ng? v?n t?m, Nagor.}
 {203}{}{Tôi v?n đang đi t?m, em h? ?.}
-{204}{}{Chào m?ng tr? v?, anh h?. M?i th? ? nhà đang hơi lo?n. Anh đ? t?m th?y s? 13 th?n thành và
+{204}{}{Chào m?ng tr? v?, ch? h?. M?i th? ? nhà đang hơi lo?n. Ch? đ? t?m th?y s? 13 th?n thánh và
 GECK chưa?}
-{205}{}{Chào m?ng tr? v?, anh h?. M?i th? ? nhà đang hơi lo?n. Anh đ? t?m th?y s? 13 th?n thành và
+{205}{}{Chào m?ng tr? v?, ch? h?. M?i th? ? nhà đang hơi lo?n. Ch? đ? t?m th?y s? 13 th?n thánh và
 GECK chưa?}
-{206}{}{Me not find. Sorry.}
-{207}{}{I'm sorry, Nagor. I'm still looking.}
-{208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{209}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{210}{}{Hi, cousin.}
-{211}{}{Hi, cousin.}
-{212}{}{You not sound like usual self.}
-{213}{}{You don't sound like your usual self.}
-{214}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are
- sick, the brahmin are dying and... I... my dog Smoke died - Morlis cooked him. I miss him so much. Sorry, but I can't
- really talk any more...}
-{215}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick,
- the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
- talk any more...}
-{300}{}{You see Nagor.}
+{206}{}{Ng? không t?m. Xin l?i.}
+{207}{}{Tôi xin l?i, Nagor. Tôi v?n đang t?m.}
+{208}{}{Xin chào, ch? h?. Em ch?c là ch? c?ng th?y là m?i th? đ?u đang s?p đ? r?i. Làm ơn đi t?m
+GECK đi. Chúng ta nguy c?p l?m r?i!}
+{209}{}{Xin chào, ch? h?. Em ch?c là ch? c?ng th?y là m?i th? đ?u đang s?p đ? r?i. Làm ơn đi t?m
+GECK đi. Chúng ta nguy c?p l?m r?i!}
+{210}{}{Chào, em h?.}
+{211}{}{Chào, em h?.}
+{212}{}{C?u nghe không như m?i khi.}
+{213}{}{C?u nghe có v? không gi?ng như m?i khi.}
+{214}{}{Em xin l?i, ch? h?. M?i th? đang ngày càng t? hơn sau khi ch? đi. M?i ngư?i thi nhau b? b?nh,
+đàn b? th? ch?t và... em... con chó Smoke c?a em đ? ch?t - Morlis đ? n?u nó lên. Em nh? nó quá. Xin l?i,
+nhưng em không th? nói chuy?n thêm n?a...}
+{215}{}{Em xin l?i, ch? h?. M?i th? đang ngày càng t? hơn sau khi ch? đi. M?i ngư?i thi nhau b? b?nh,
+đàn b? th? ch?t và... em... con chó Smoke c?a em đ? ch?t. Em nh? nó quá. Xin l?i, nhưng em
+không th? nói chuy?n thêm n?a...}
+{300}{}{B?n th?y Nagor.}
 {302}{}{Ch? h?, r?t vui đư?c g?p ch?! Em c?n ch? giúp.}
