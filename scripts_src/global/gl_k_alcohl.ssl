@@ -16,11 +16,11 @@ variable msg;
 #define TIME_ONE_WEEK 36288000
 #define INTERFACE_TAG_ADDICT 4
 
-#define msg_file "k_alcohl.msg"
-#define msg_became_addicted 1
-#define msg_cravings 2
-#define msg_shakes 3
-#define msg_relieved 4
+#define MSG_FILE "k_alcohl.msg"
+#define MSG_became_addicted 1
+#define MSG_cravings 2
+#define MSG_shakes 3
+#define MSG_relieved 4
 
 /**
  * True is `x` is an alcohol bottle, False otherwise.
@@ -53,7 +53,7 @@ procedure try_addiction begin
     // player has 10% chance of becoming addicted to alcohol
     if (random(1, 100) > 10) then return;
 
-    display_mymsg(msg_became_addicted);
+    display_mymsg(MSG_became_addicted);
     set_critter_stat(dude_obj, STAT_pe, -2);
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
@@ -69,7 +69,7 @@ procedure start begin
         set_global_script_type(3);
         do_once = 0;
         count = 0;
-        msg = add_extra_msg_file(msg_file);
+        msg = add_extra_msg_file(MSG_FILE);
         register_hook_proc(HOOK_USEOBJON, try_addiction);
         ndebug("initialized");
         return;
@@ -91,9 +91,9 @@ procedure start begin
         if in_world_map then force_encounter(0);
         timer_shakes = game_time;
         if (count > 0) then
-            display_mymsg(msg_cravings);
+            display_mymsg(MSG_cravings);
         else
-            display_mymsg(msg_shakes);
+            display_mymsg(MSG_shakes);
 
         count = count + 1;
     end
@@ -102,7 +102,7 @@ procedure start begin
     if ((game_time - timer_relief) >= TIME_ONE_WEEK) then begin
         set_global_var(GVAR_ALCOHOL_ADDICT, 0);
         set_critter_stat(dude_obj, STAT_pe, 2);
-        display_mymsg(msg_relieved);
+        display_mymsg(MSG_relieved);
         if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
     end
 
