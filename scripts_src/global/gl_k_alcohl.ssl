@@ -40,11 +40,11 @@ variable msg;
 #define display_mymsg(x) display_msg(message_str_game(msg, x))
 
 /**
- * Makes PC an addict.
+ * Makes target an addict if all checks pass.
+ * @arg {ObjPtr} who - target critter
+ * @arg {ObjPtr} item - item being used
  */
-procedure try_addiction begin
-    variable who = get_sfall_arg_at(0);
-    variable item = get_sfall_arg_at(2);
+procedure try_addiction(variable who, variable item) begin
     variable chance;
 
     // target is not dude
@@ -69,6 +69,13 @@ procedure try_addiction begin
     alcohol_addict = 1;
 end
 
+// Use from main game window (hands)
+procedure use_obj_on_obj_handler begin
+    variable who = get_sfall_arg_at(0);
+    variable item = get_sfall_arg_at(2);
+    call try_addiction(who, item);
+end
+
 procedure start begin
     // loading
     if is_loading_game then return;
@@ -79,7 +86,7 @@ procedure start begin
         do_once = 0;
         count = 0;
         msg = add_extra_msg_file(MSG_FILE);
-        register_hook_proc(HOOK_USEOBJON, try_addiction);
+        register_hook_proc(HOOK_USEOBJON, use_obj_on_obj_handler);
         ndebug("initialized");
         return;
     end
