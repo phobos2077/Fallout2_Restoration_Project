@@ -70,7 +70,6 @@ variable count;
 //added by killap
 variable stats_check;
 variable did_stats_check;
-variable alcohol_addict := 0;
 //end added
 
 procedure combat_p_proc begin
@@ -365,25 +364,6 @@ end
 
 procedure use_obj_on_p_proc begin
    variable temp;
-
-   //added by killap - expansion
-   //- player has 10% chance of becoming addicted to alcohol
-   if ( (obj_pid(obj_being_used_with) == PID_BEER) or (obj_pid(obj_being_used_with) == PID_BOOZE) or
-   (obj_pid(obj_being_used_with) == PID_GAMMA_GULP_BEER) or (obj_pid(obj_being_used_with) == PID_ABBEY_BOOZE) or
-   (obj_pid(obj_being_used_with) == PID_ROENTGEN_RUM) ) then begin
-      if (random(1,100) <= 10) then begin
-         if (alcohol_addict == 0) then begin
-            display_msg(mstr(500));
-            set_critter_stat(dude_obj, STAT_pe, -2);
-            //code from Timeslip to force the addiction tag to appear
-            if not(is_iface_tag_active(4)) then
-               show_iface_tag(4);
-            set_global_var(GVAR_ALCOHOL_ADDICT,1);
-            alcohol_addict := 1;
-         end
-      end
-   end
-   //end added
 
    if (source_obj == dude_obj) then begin
       // this is related to filling the player's stomach when they eat

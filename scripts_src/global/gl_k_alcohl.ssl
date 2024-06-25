@@ -9,20 +9,69 @@ variable do_once;
 variable count;
 variable game_timer;
 variable game_timer2;
+variable alcohol_addict = 0;
+variable msg;
 
 #define TIME_TWO_DAYS 10368000
 #define TIME_ONE_WEEK 36288000
 #define INTERFACE_TAG_ADDICT 4
 
+#define msg_file "k_alcohl.msg"
+#define msg_became_addicted 1
+#define msg_cravings 2
+#define msg_shakes 3
+#define msg_relieved 4
+
+/**
+ * True is `x` is an alcohol bottle, False otherwise.
+ * @arg {ObjPtr} x
+ */
+#define is_alcohol(x) \
+    (  (obj_pid(x) == PID_BEER) \
+    or (obj_pid(x) == PID_BOOZE) \
+    or (obj_pid(x) == PID_GAMMA_GULP_BEER) \
+    or (obj_pid(x) == PID_ABBEY_BOOZE) \
+    or (obj_pid(x) == PID_ROENTGEN_RUM) )
+
+/**
+ * Displays message `x` from **game** message file `msg`
+ * @arg {int} x - message number
+ */
+#define display_mymsg(x) display_msg(message_str_game(msg, x))
+
+/**
+ * Makes PC an addict.
+ */
+procedure try_addiction begin
+    variable who = get_sfall_arg_at(0);
+    variable item = get_sfall_arg_at(2);
+
+    // player has 10% chance of becoming addicted to alcohol
+    if is_alcohol(item) then begin
+        if (random(1,100) <= 10) then begin
+            if (alcohol_addict == 0) then begin
+                display_mymsg(msg_became_addicted);
+                set_critter_stat(dude_obj, STAT_pe, -2);
+                if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
+                set_global_var(GVAR_ALCOHOL_ADDICT,1);
+                alcohol_addict = 1;
+            end
+        end
+    end
+end
+
 procedure start begin
     // loading
     if is_loading_game then return;
     // init script once
-	if game_loaded then begin
-	  	set_global_script_repeat(60);
-		set_global_script_type(3);
-		do_once = 0;
-		count = 0;
+    if game_loaded then begin
+        set_global_script_repeat(60);
+        set_global_script_type(3);
+        do_once = 0;
+        count = 0;
+        msg = add_extra_msg_file(msg_file);
+        register_hook_proc(HOOK_USEOBJON, try_addiction);
+        ndebug("initialized");
         return;
     end
     // no addiction, skip run
@@ -42,16 +91,18 @@ procedure start begin
         if in_world_map then force_encounter(0);
         game_timer = game_time;
         if (count > 0) then
-            display_msg(message_str(SCRIPT_OBJ_DUDE, 800));
+            display_mymsg(msg_cravings);
         else
-            display_msg(message_str(SCRIPT_OBJ_DUDE, 801));
+            display_mymsg(msg_shakes);
+
         count = count + 1;
     end
+
     // relief
     if ((game_time - game_timer2) >= TIME_ONE_WEEK) then begin
-        set_global_var(GVAR_ALCOHOL_ADDICT,0);
+        set_global_var(GVAR_ALCOHOL_ADDICT, 0);
         set_critter_stat(dude_obj, STAT_pe, 2);
-        display_msg(message_str(SCRIPT_OBJ_DUDE,802));
+        display_mymsg(msg_relieved);
         if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
     end
 
