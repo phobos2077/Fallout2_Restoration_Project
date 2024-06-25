@@ -45,6 +45,7 @@ variable msg;
 procedure try_addiction begin
     variable who = get_sfall_arg_at(0);
     variable item = get_sfall_arg_at(2);
+    variable chance;
 
     // target is not dude
     if (who != dude_obj) then return;
@@ -52,8 +53,14 @@ procedure try_addiction begin
     if not is_alcohol(item) then return;
     // already addicted
     if (alcohol_addict == 1) then return;
+
     // player has 10% chance of becoming addicted to alcohol
-    if (random(1, 100) > 10) then return;
+    chance = random(1, 100);
+    // Drug reliant: double chance
+    if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_addict) then chance = chance * 2;
+    // Drug resistant: half chance
+    if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_resistant) then chance = chance * 0.5;
+    if (chance > 10) then return;
 
     display_mymsg(MSG_became_addicted);
     set_critter_stat(dude_obj, STAT_pe, -2);
