@@ -46,6 +46,8 @@ procedure try_addiction begin
     variable who = get_sfall_arg_at(0);
     variable item = get_sfall_arg_at(2);
 
+    // target is not dude
+    if (who != dude_obj) then return;
     // not alcohol
     if not is_alcohol(item) then return;
     // already addicted
