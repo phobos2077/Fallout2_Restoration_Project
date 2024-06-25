@@ -9,7 +9,6 @@ variable do_once;
 variable count;
 variable timer_shakes;
 variable timer_relief;
-variable alcohol_addict = 0;
 variable msg;
 
 #define TIME_TWO_DAYS 10368000
@@ -52,7 +51,7 @@ procedure try_addiction(variable who, variable item) begin
     // not alcohol
     if not is_alcohol(item) then return;
     // already addicted
-    if (alcohol_addict == 1) then return;
+    if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then return;
 
     // player has 10% chance of becoming addicted to alcohol
     chance = random(1, 100);
@@ -67,7 +66,6 @@ procedure try_addiction(variable who, variable item) begin
     set_critter_stat(dude_obj, STAT_ch, -1);
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
-    alcohol_addict = 1;
 end
 
 // Use from main game window (hands)
