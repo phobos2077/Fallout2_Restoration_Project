@@ -63,7 +63,8 @@ procedure try_addiction(variable who, variable item) begin
     if (chance > 10) then return;
 
     display_mymsg(MSG_became_addicted);
-    set_critter_stat(dude_obj, STAT_pe, -2);
+    set_critter_stat(dude_obj, STAT_ag, -1);
+    set_critter_stat(dude_obj, STAT_ch, -1);
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
     alcohol_addict = 1;
@@ -125,7 +126,8 @@ procedure start begin
     // relief
     if ((game_time - timer_relief) >= TIME_ONE_WEEK) then begin
         set_global_var(GVAR_ALCOHOL_ADDICT, 0);
-        set_critter_stat(dude_obj, STAT_pe, 2);
+        set_critter_stat(dude_obj, STAT_ag, 1);
+        set_critter_stat(dude_obj, STAT_ch, 1);
         display_mymsg(MSG_relieved);
         if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
     end
