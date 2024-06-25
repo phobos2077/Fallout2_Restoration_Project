@@ -10,41 +10,49 @@ variable count;
 variable game_timer;
 variable game_timer2;
 
+#define TIME_TWO_DAYS 10368000
+#define TIME_ONE_WEEK 36288000
+#define INTERFACE_TAG_ADDICT 4
+
 procedure start begin
-   if (is_loading_game) then return;
-	if (game_loaded) then begin
+    // loading
+    if is_loading_game then return;
+    // init script once
+	if game_loaded then begin
 	  	set_global_script_repeat(60);
 		set_global_script_type(3);
-		do_once := 0;
-		count := 0;
-		//display_msg("var: " + do_once);
-	end else begin
-      if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then begin
-	     if (do_once != 1) then begin
-	         do_once := 1;
-            game_timer := game_time;
-            game_timer2 := game_time;
-            //display_msg("var: " + do_once);
-            //display_msg("var: " + game_timer);
-            //display_msg("var: " + game_timer2);
-        end
-        if (((game_time - game_timer) >= ((2*(24*(60*(60*(10)))))))) then begin
-            if (in_world_map) then
-               force_encounter(0);
-            game_timer := game_time;
-            if (count > 0) then
-               display_msg(message_str(SCRIPT_OBJ_DUDE,800));
-            else
-               display_msg(message_str(SCRIPT_OBJ_DUDE,801));
-            count := count + 1;
-        end
-        if (((game_time - game_timer2) >= ((7*(24*(60*(60*(10)))))))) then begin
-            set_global_var(GVAR_ALCOHOL_ADDICT,0);
-            set_critter_stat(dude_obj, STAT_pe, 2);
-            display_msg(message_str(SCRIPT_OBJ_DUDE,802));
-            if not(dude_trait(TRAIT_drug_addict)) then
-               hide_iface_tag(4);
-        end
-      end
-   end
+		do_once = 0;
+		count = 0;
+        return;
+    end
+    // no addiction, skip run
+    if (global_var(GVAR_ALCOHOL_ADDICT) != 1) then return;
+
+    // Below: has addiction
+
+    // init timers
+    if (do_once != 1) then begin
+        do_once = 1;
+        game_timer = game_time;
+        game_timer2 = game_time;
+    end
+
+    // shakes
+    if ((game_time - game_timer) >= TIME_TWO_DAYS) then begin
+        if in_world_map then force_encounter(0);
+        game_timer = game_time;
+        if (count > 0) then
+            display_msg(message_str(SCRIPT_OBJ_DUDE, 800));
+        else
+            display_msg(message_str(SCRIPT_OBJ_DUDE, 801));
+        count = count + 1;
+    end
+    // relief
+    if ((game_time - game_timer2) >= TIME_ONE_WEEK) then begin
+        set_global_var(GVAR_ALCOHOL_ADDICT,0);
+        set_critter_stat(dude_obj, STAT_pe, 2);
+        display_msg(message_str(SCRIPT_OBJ_DUDE,802));
+        if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
+    end
+
 end
