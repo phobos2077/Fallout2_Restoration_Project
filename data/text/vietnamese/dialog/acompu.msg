@@ -53,53 +53,53 @@ T?m ki?m, Thêm, Di chuy?n, Xóa và Đ?nh d?ng.}
 {144}{}{Đang đ?nh d?ng cơ s? d? li?u sao lưu... THÀNH CÔNG... Đang đ?nh d?ng t?p h? th?ng hi?n t?i... ĐANG CH?... C?nh báo: Đ? x?y ra l?i
 nghi?m tr?ng. Vui l?ng ch?...}
 {145}{}{Ch?.}
-{146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
-{147}{}{[Walk Away.]}
-{148}{}{Error: No keyboard found. Please press any key to reboot.}
-{150}{}{Uploading Environmental Protection Agency Botany information disk... Upload complete. Have a nice day.}
-{200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
-{201}{}{Select ROCK.}
-{202}{}{Select PAPER.}
-{203}{}{Select SCISSORS.}
-{204}{}{Return to main menu.}
-{205}{}{Terminal makes selection.....Calculating.....Terminal wins!}
-{206}{}{Terminal makes selection.....Calculating.....User wins!}
-{207}{}{Terminal makes selection.....Calculating.....Draw!}
-{300}{}{(The computer screen shows various color patterns.)}
-{301}{}{Ohhh! Pretty colors.}
-{302}{}{Shamble off.}
+{146}{}{... L?i h? th?ng: Quá tr?nh đ? hoàn t?t thành công... (Ti?ng rít b?t đ?u phát ra t? bên trong máy tính và các máy g?n đó).}
+{147}{}{[B? đi].}
+{148}{}{L?i: Không t?m th?y bàn phím. Vui l?ng nh?n phím b?t k? đ? kh?i đ?ng l?i.}
+{150}{}{Đang t?i lên đ?a thông tin Th?c v?t c?a Cơ quan B?o v? Môi trư?ng... T?i lên hoàn t?t. Chúc m?t ngày t?t lành.}
+{200}{}{Búa, Kéo, Bao V.0.3. Đưa ra l?a ch?n.}
+{201}{}{Ch?n BÚA.}
+{202}{}{Ch?n BAO.}
+{203}{}{Ch?n KÉO.}
+{204}{}{Quay v? màn h?nh chính.}
+{205}{}{Máy th?c hi?n ch?n... Đang tính k?t qu?... Máy th?ng!}
+{206}{}{Máy th?c hi?n ch?n... Đang tính k?t qu?... Ngư?i dùng th?ng!}
+{207}{}{Máy th?c hi?n ch?n... Đang tính k?t qu?... H?a!}
+{300}{}{(Màn h?nh máy tính hi?n nhi?u d?i màu).}
+{301}{}{? ? ?! Màu đ?p.}
+{302}{}{T?t ngu?n.}
 {400}{}{Đ?c thêm.}
-{401}{}{Return to menu.}
-{402}{}{Search by topic.}
-{403}{}{Please enter a topic to search for.}
-{404}{}{Science.}
-{405}{}{Repair.}
-{406}{}{Medicine.}
-{407}{}{Weapon Usage.}
-{408}{}{Persuasive Arguments.}
-{410}{}{After a few hours of reading you learn more about the art of science.}
-{411}{}{After a few hours of reading you learn more about the art of repairing machines.}
-{412}{}{After a few hours of reading you learn more about the art of medicine.}
-{413}{}{After a few hours of reading you learn more about the art of defending oneself with a weapon.}
-{414}{}{After a few hours of reading you learn more about the art of persuasion.}
-{420}{}{After a few hours of reading you learn nothing new about the art of science.}
-{421}{}{After a few hours of reading you learn nothing new about the art of repairing machines.}
-{422}{}{After a few hours of reading you learn nothing new about the art of medicine.}
-{423}{}{After a few hours of reading you learn nothing new about the art of firing a gun.}
-{424}{}{After a few hours of reading you learn nothing new about the art of persuasion.}
+{401}{}{Quay v? màn h?nh.}
+{402}{}{T?m ki?m theo ch? đ?.}
+{403}{}{Vui l?ng nh?p m?t ch? đ? đ? t?m ki?m.}
+{404}{}{Khoa h?c.}
+{405}{}{S?a ch?a.}
+{406}{}{Y dư?c.}
+{407}{}{S? d?ng v? khí.}
+{408}{}{L?p lu?n thuy?t ph?c.}
+{410}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? b? môn khoa h?c.}
+{411}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? cách s?a ch?a máy móc.}
+{412}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm nhi?u đi?u v? môn y dư?c.}
+{413}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? cách t? ph?ng v? có v? khí.}
+{414}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? cách thuy?t ph?c.}
+{420}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? m?i v? b? môn khoa h?c.}
+{421}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? v? cách s?a ch?a máy móc.}
+{422}{}{Sau vài gi? ng?i đ?c, b?n không h?c đư?c g? m?i v? môn y dư?c.}
+{423}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? v?i v? cách b?n súng.}
+{424}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? m?i v? cách thuy?t ph?c.}
 {430}{}{Tr? l?i.}
-{500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
- it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
- the harsh environments of a world devastated by nuclear war.}
-{501}{}{Upon further reading, you discover the GECK isn't quite the miracle device the ad made it out to be. The "Base Replicator"
- is actually nothing more than a fertilizer system containing food seeds, soil supplements, and chemicals specifically engineered to
- turn arid wasteland into fertile soil. Its claim that it can "build basic items" actually alludes to new codes it provides for the
- Vault's machines, allowing them to create new items from the dispensers. The GECK also contains schematics for basic force fields
- and the construction of "sand-crete" walls and buildings.}
+{500}{}{Trong lúc đ?c thêm thông tin, b?n bi?t đư?c r?ng GECK là do Future-Tec, m?t công ty nhánh c?a Vault-Tec, phát tri?n
+và là trang b? tiêu chu?n cho toàn b? các h?m c?a Vault-Tec. Thi?t b? này s? đư?c s? d?ng sau khi r?i kh?i Vault đ? giúp
+thi?t l?i cu?c s?ng trong môi trư?ng kh?c nghi?t c?a m?t th? gi?i b? chi?n tranh h?t nhân tàn phá.}
+{501}{}{Sau khi đ?c k? hơn, b?n khám phá ra r?ng GECK không h?n là thi?t b? th?n k? như qu?ng cáo nói. B? "Tái t?o cơ b?n" trên
+th?c t? ch? là m?t h? th?ng dư?ng cây có ch?a h?t gi?ng lương th?c, ch?t b? sung cho đ?t và các hóa ch?t đư?c thi?t k? đ?c bi?t đ?
+bi?n đ?t hoang m?c khô c?n thành đ?t tr?ng. Tuyên b? v? vi?c thi?t b? có th? "s?n xu?t các v?t d?ng cơ b?n" th?c ra là nói v? các
+m? m?i mà thi?t b? cung c?p cho các máy móc trong Vault, cho phép t?o ra các v?t d?ng m?i trong máy phân ph?i. GECK c?ng ch?a
+b?n thi?t k? v? các l?p trư?ng l?c cơ b?n c?ng như cách xây d?ng tư?ng và công tr?nh b?ng "bê tông cát".}
 {502}{}{[THÊM]}
-{503}{}{It seems the GECK itself is meant to be disassembled over the course of its use. You read an example of how its cold fusion
- power source is intended be used for main city power production. The GECK even contains instructions on disassembling sections of the
- Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
- it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
+{503}{}{Có v? như b?n thân b? GECK s? đư?c tháo r?i ra trong quá tr?nh s? d?ng. B?n đ?c m?t ví d? v? cách s? d?ng b? ngu?n h?p h?ch l?nh
+làm ngu?n đi?n s?n xu?t chính cho thành ph?. GECK th?m chí c?n ch?a c? hư?ng d?n v? cách tháo r?i các ph?n c?a Vault đ? xây nhà
+và các c?u trúc ph?ng th? cho c?ng đ?ng m?i. Sau khi đ?c xong, b?n nh?n đ?nh r?ng cho dù đây không ph?i là thi?t b? th?n k? như
+Trư?ng L?o đ? ngh?, th? đi t?m GECK v?n là l?a ch?n t?t nh?t đ? c?u b? t?c.}
 {1000}{}{You upload the EPA Botany Holodisk.}
 {2000}{}{You format the Abbey's book databases.}
