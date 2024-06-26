@@ -5,7 +5,7 @@
 {104}{}{Đ?c thông tin v? GECK.}
 {105}{}{Đ?c thông tin v? Vault.}
 {106}{}{L?I! không t?m th?y th? truy c?p. Vui l?ng nhét th? truy c?p vào khe m? hóa.}
-{107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
+{107}{}{(B?n nhét th? truy c?p vào khe) BÍP! th? truy c?p h?p l?. ĐANG T?I Winblows 2075... XONG.}
 {108}{}{Input command.}
 {109}{}{Scan files for any information about GECK or VAULT 13.}
 {110}{}{Access other files.}
