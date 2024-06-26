@@ -20,9 +20,9 @@
 {119}{}{(You come across a vast array of complex chemical formulae and lab notes. You're not quite sure what all of this means.)}
 {120}{}{Direct fuel to Poseidon tanker.}
 {121}{}{Direct fuel to Hubologists.}
-{122}{}{Back.}
+{122}{}{Tr? l?i.}
 {123}{}{(Once you have waded past the symbology and technical discussion, you discover that the Shi are working on a new kind of polymeric combat armor that is resistant to both flame and penetration. It is still years from completion. You also see mention of new weaponry and construction capabilities. Apparently the Shi have some plans for the future.)}
-{124}{}{Back.}
+{124}{}{Tr? l?i.}
 {125}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
 {126}{}{[XONG]}
 {127}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}

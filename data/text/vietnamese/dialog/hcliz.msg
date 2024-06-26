@@ -87,7 +87,7 @@
 {181}{}{That's it! Get over here!}
 {182}{}{What else are you going to bother me with?}
 {183}{}{Cám ơn.}
-{184}{}{[CONTINUE]}
+{184}{}{[TI?P T?C]}
 {185}{}{Hey! Who the hell is out there?}
 {186}{}{I don't know who you are, but I'm comin' for ya'.}
 {200}{}{Do you have anything special you could set me up with that isn't on the shelves?}

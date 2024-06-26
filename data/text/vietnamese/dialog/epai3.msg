@@ -3,7 +3,7 @@
 {102}{}{Welcome to EPA's Top Secret Research and Development Terminal. Error initializing quick access procedure. Please
  search for something specific.}
 {103}{}{Search for anything of importance.}
-{104}{}{Logoff.}
+{104}{}{Đăng xu?t.}
 {105}{}{After 30 minutes of sifting through all the files you find four of which appear useful. Please make a choice below.}
 {106}{}{Access FEV history log.}
 {107}{}{Access file on Epilepsy cure.}
@@ -21,7 +21,7 @@
  "supermen". Once testing on animals reached its logical conclusion, FEV research was moved to its current location at
  the Mariposa Military Base. There, we have learned that the testing will proceed to the next level, as they begin top
  secret testing on military prisoners. We eagerly anticipate the results of these exciting experiments.}
-{113}{}{Back.}
+{113}{}{Tr? l?i.}
 {120}{}{One of our researches, Dr. Hodkin, has made a wonderful discovery in his recent research on the way the human brain
  processes verbal responses. Apparently, by repeating a series of letters with the proper inflections, a listener can be
  cured of a number of neurological diseases, such as autism or epilepsy. Included in this log is the exact string of letters
@@ -44,7 +44,7 @@
  he was unaware of our intent but now seems to have caught on. He has become obsessed with the phrase "precious bodily
  fluids" and avoids drinking any substance he does not know from where it originated. He has even stopped having sexual
  intercourse as he fears that women seek "the life essence."}
-{139}{}{Back.}
+{139}{}{Tr? l?i.}
 {150}{}{Gender Modification.}
 {151}{}{Virus-laden Fruit Flies.}
 {160}{}{Dr. Glen Wood has achieved a new breakthrough in his research into gender modification that he claims will

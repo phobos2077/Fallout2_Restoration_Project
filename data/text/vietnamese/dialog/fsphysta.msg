@@ -18,11 +18,11 @@
 {117}{}{-done-}
 {118}{}{"With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years." -Dr. Wong}
 {119}{}{::copy plans::}
-{120}{}{Back.}
+{120}{}{Tr? l?i.}
 {121}{}{"We are still preparing a working model of an aerial vehicle. None of the designs we have created have proven to be safe or aerodynamic. Perhaps if we had access to the plans of the ancients..."-Dr. Wong}
-{122}{}{Back.}
+{122}{}{Tr? l?i.}
 {123}{}{(After wading through the introduction and the mathematics, you discover that the Shi are learning to develop nuclear power again, rebuilding the space travel theories of the ancients - and they mock the Hubologists while doing so - and harnessing the energy of the sun, wind, and sea. At least, that's what the notes read like.)}
-{124}{}{Back.}
+{124}{}{Tr? l?i.}
 {125}{}{Station deactivated.}
 {126}{}{Activate station.}
 {127}{}{-leave-}

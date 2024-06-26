@@ -6,19 +6,19 @@
 {112}{}{Function?}
 {113}{}{Action:}
 {114}{}{Initialize:}
-{115}{}{Logoff.}
+{115}{}{Đăng xu?t.}
 {120}{}{Station #3 Reactor Maintenance & Repair Robot Control Terminal.}
 {121}{}{Function?}
 {122}{}{A robot, huh? Let me see what I can find out about that.}
-{123}{}{Logoff.}
+{123}{}{Đăng xu?t.}
 {130}{}{This terminal is designed to coordinate and command a Reactor Maintenance and Repair Robot.}
 {131}{}{RMRRCT?}
 {132}{}{A robot, huh? Let me see what I can find out about that.}
-{133}{}{Logoff.}
+{133}{}{Đăng xu?t.}
 {140}{}{This terminal is used to input command data for the robotic maintenance and repair unit assigned to Poseidon Oil--Reactor #5. This terminal also allows access to PoseidoNet.}
 {141}{}{A Robot? Let me see what I can find out about that.}
 {142}{}{Some kind of network, huh? I wonder if I can access that.}
-{143}{}{Logoff.}
+{143}{}{Đăng xu?t.}
 {150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Now Starting Win21, Please Wait... Pear OS Command Not recognized. Now initiating DOD HDD Erase.}
 {151}{}{Hmmm. Ook?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
@@ -28,7 +28,7 @@
 {163}{}{35C76863}
 {164}{}{A1546761}
 {165}{}{5B576005}
-{166}{}{Logoff.}
+{166}{}{Đăng xu?t.}
 {170}{}{Initial Functional Access Code accepted. Enter Secondary Functional Access Code.}
 {171}{}{Reset.}
 {172}{}{Function?}
@@ -36,7 +36,7 @@
 {174}{}{35C76863}
 {175}{}{A1546761}
 {176}{}{5B576005}
-{177}{}{Logoff.}
+{177}{}{Đăng xu?t.}
 {180}{}{Secondary Functional Access Code accepted. Enter Tertiary Functional Access Code.}
 {181}{}{Reset.}
 {182}{}{Function?}
@@ -44,7 +44,7 @@
 {184}{}{35C76863}
 {185}{}{A1546761}
 {186}{}{5B576005}
-{187}{}{Logoff.}
+{187}{}{Đăng xu?t.}
 {190}{}{Tertiary Functional Access Code Accepted. RM&RR Unit warming up... Unit ready for service. Service Procedure?:}
 {191}{}{RM&RR unit ready for service. Service Procedure?:}
 {192}{}{Initiate General Maintenance Sequence.}
@@ -54,25 +54,25 @@
 {196}{}{Remain at Ready Status and Logoff.}
 {200}{}{This Service Procedure is no longer in memory. Load current service procedure?}
 {201}{}{Load current service procedure.}
-{202}{}{Back.}
-{203}{}{Logoff.}
+{202}{}{Tr? l?i.}
+{203}{}{Đăng xu?t.}
 {210}{}{Searching... Service Procedure update not available locally.}
-{211}{}{Back.}
+{211}{}{Tr? l?i.}
 {212}{}{Download.}
-{213}{}{Logoff.}
+{213}{}{Đăng xu?t.}
 {220}{}{Uplink with central PosiedoNet initiated. Enter Primary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
 {224}{}{A46123}
-{225}{}{Logoff.}
+{225}{}{Đăng xu?t.}
 {230}{}{Coolant Maintenance Sequence Initiated. Preparing to move to Main Coolant Valve.}
 {231}{}{This was a lot easier than I thought it would be.}
-{232}{}{Logoff.}
+{232}{}{Đăng xu?t.}
 {240}{}{Repair Service Initiated. Searching... Hydroelectric Magnetosphere Regulator required. Preparing to move to Main Coolant Valve for part replacement. Place part in transfer tray beneath terminal.}
 {241}{}{Oh, I guess it means this thing.}
 {242}{}{I guess I don't have the part that it needs.}
-{243}{}{Logoff.}
+{243}{}{Đăng xu?t.}
 {250}{}{This Terminal Is Closed For Security Reasons. Please inform PoseidoNet Supervisor.}
 {251}{}{Hmm, looks as though I won't be getting anything out of this.}
 {252}{}{Hmm, I wonder if this has a local reset. There's one. Let me try it.}
@@ -84,31 +84,31 @@
 {305}{}{I better be more careful.}
 {306}{}{I better not make a mistake this time.}
 {307}{}{That doesn't sound good.}
-{308}{}{Logoff.}
+{308}{}{Đăng xu?t.}
 {310}{}{Enter Secondary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}
 {312}{}{008Z21}
 {313}{}{9X7299}
 {314}{}{A46123}
-{315}{}{Logoff.}
+{315}{}{Đăng xu?t.}
 {320}{}{Enter Tertiary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
 {321}{}{70Y644}
 {322}{}{008Z21}
 {323}{}{9X7299}
 {324}{}{A46123}
-{325}{}{Logoff.}
+{325}{}{Đăng xu?t.}
 {330}{}{Security Access Code Sequence Accepted. Welcome to PoseidoNet: }
 {331}{}{Download Maintenance Robot Routines.}
 {332}{}{List other stations.}
-{333}{}{Logoff.}
+{333}{}{Đăng xu?t.}
 {340}{}{Searching... Maintenance Robot Routines not found.}
 {341}{}{Hmm, I guess they're not here.}
 {342}{}{Station list.}
-{343}{}{Logoff.}
+{343}{}{Đăng xu?t.}
 {350}{}{Searching Comlinks... Searching... Iron Mountain... Offline, NORAD... Offline, SAC... Offline. Searching PoseidoNet... --More?--}
 {351}{}{Download Maintenance Robot Routines.}
 {352}{}{More.}
-{353}{}{Logoff.}
+{353}{}{Đăng xu?t.}
 {360}{}{Active PoseidoNet Stations: Atomic Powerplant #5, Navarro Refinery, Control Station ENCLAVE, ENCLAVE Vault-Research Control... AccessDenied}
 {361}{}{Lights are on, but nobody's home. }
 {362}{}{Everything's shut down except for the ENCLAVE Vault-Research Control. I wonder what that is?}
@@ -125,10 +125,10 @@
 {379}{}{Damn, I must have been cut off.}
 {380}{}{Hydroelectric Magnetosphere Regulator required before Repair sequence can commence.}
 {381}{}{Initiate Coolant Maintenance}
-{382}{}{Logoff.}
+{382}{}{Đăng xu?t.}
 {390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}
 {391}{}{Đúng v?y.}
-{392}{}{Logoff.}
+{392}{}{Đăng xu?t.}
 {400}{}{Logic Circuits damaged. In emergency, RM&RR unit may be directed manually.}
 {401}{}{Well, that explains that. I guess I'll give it a try.}
 {402}{}{Hmm, that doesn't sound too promising. I'm going to Logoff.}
@@ -144,19 +144,19 @@
 {440}{}{Manual Direction: The RM&RR unit must be directed, manually, to its target destination. The unit will follow the movement commands that you give it but if its way is blocked or the unit takes excess damage it will automatically return to its bay.}
 {441}{}{Where do I need to move the robot? Let me look up the procedures.}
 {442}{}{I guess I'm ready to get started.}
-{443}{}{Logoff.}
+{443}{}{Đăng xu?t.}
 {450}{}{Information request on procedure:}
 {451}{}{I want to know where I need to go to replace the Hydroelectric Magnetosphere Regulator.}
 {452}{}{I need to know where the Main Coolant Shutoff Valve is.}
-{453}{}{Logoff.}
+{453}{}{Đăng xu?t.}
 {460}{}{The Hydroelectric Magnetosphere Regulator is located against the East wall of the Reactor Core. It is located just to the right of the Main Coolant Shutoff Valve.}
 {461}{}{Where's the Main Coolant Shutoff Valve?}
 {462}{}{I guess I'm ready to get started.}
-{463}{}{Logoff.}
+{463}{}{Đăng xu?t.}
 {470}{}{The Main Coolant Shutoff Valve is located near the East wall of the Reactor Core. The valve is controlled by a large red wheel.}
 {471}{}{That shouldn't be too hard to find --as long as the red paint hasn't peeled off.}
 {472}{}{I guess I'm ready to get started.}
-{473}{}{Logoff.}
+{473}{}{Đăng xu?t.}
 {480}{}{Emergency Manual RM&RR Unit Control: In order to move the unit it must be given commands to Turn Left, Turn Right, Move Forward, and then the last command given in any sequence is the Perform Procedure command.}
 {482}{}{If this has been attempted before, show the previous set of movement commands here. Commands?: MoveVar1}
 {484}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 5% of unit tolerance. Commands?: MoveVar1, MoveVar2}
@@ -190,8 +190,8 @@
 {543}{}{Damage report.}
 {544}{}{Delete all commands.}
 {545}{}{Execute program.}
-{546}{}{Back.}
-{547}{}{Logoff.}
+{546}{}{Tr? l?i.}
+{547}{}{Đăng xu?t.}
 {550}{}{Back to Main Menu.}
 {600}{}{Select a command:}
 {601}{}{Calibrate Uranium-Rod Driver.}
