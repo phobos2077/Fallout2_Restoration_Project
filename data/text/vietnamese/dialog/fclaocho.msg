@@ -113,7 +113,7 @@
 {288}{}{Submarine?}
 {290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
  I enjoyed the company of a charming woman like yourself.}
-{291}{}{[CONTINUE]}
+{291}{}{[TI?P T?C]}
 {300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
 {301}{}{hhh... What happened?}
 {310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.

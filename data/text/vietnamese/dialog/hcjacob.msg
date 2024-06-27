@@ -158,6 +158,6 @@
 {311}{}{I have some other questions.}
 {312}{}{Nothing. Forget it.}
 {313}{}{Cám ơn.}
-{314}{}{[CONTINUE]}
+{314}{}{[TI?P T?C]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
 {316}{}{Cám ơn.}

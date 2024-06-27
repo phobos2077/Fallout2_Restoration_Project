@@ -131,7 +131,7 @@
 {445}{}{[You count up the evening's chips. Not a bad haul.]}
 {446}{}{The leather was a nice touch. }
 {447}{}{That ball gag you had with you didn't hurt, either. }
-{448}{}{[CONTINUE]}
+{448}{}{[TI?P T?C]}
 {455}{}{Yeah, he stinks worse than brahmin shit. Still, you...? Aw, why the hell not. A little improv ain't gonna hurt, but
  it's a rough crowd... better hope you're good.}
 {456}{}{Oh, I'm good... just watch me go.}

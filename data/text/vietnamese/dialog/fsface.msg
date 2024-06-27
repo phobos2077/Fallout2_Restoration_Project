@@ -120,7 +120,7 @@
 {219}{}{Ok.}
 {220}{}{That's interesting.}
 {221}{}{The Brotherhood of Steel is a paramilitary organization dedicated to the salvation of mankind through the proper use of technology. All other information is classified.}
-{222}{}{Back.}
+{222}{}{Tr? l?i.}
 {223}{}{What happened to Matt?}
 {224}{}{Loading sequence...}
 {225}{}{Replay it now.}

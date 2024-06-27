@@ -48,9 +48,9 @@ GECK chưa?}
 GECK chưa?}
 {206}{}{Ng? không t?m. Xin l?i.}
 {207}{}{Tôi xin l?i, Nagor. Tôi v?n đang t?m.}
-{208}{}{Xin chào, anh h?. Em ch?c là anh c?ng th?y là m?i th? đ?u đang s?p đ? r?i. Làm ơn đi t?m
+{208}{}{Xin chào, anh h?. Em ch?c anh c?ng th?y là m?i th? nát như tương r?i. Làm ơn đi t?m
 GECK đi. Chúng ta nguy c?p l?m r?i!}
-{209}{}{Xin chào, anh h?. Em ch?c là anh c?ng th?y là m?i th? đ?u đang s?p đ? r?i. Làm ơn đi t?m
+{209}{}{Xin chào, anh h?. Em ch?c anh c?ng th?y là m?i th? nát như tương r?i. Làm ơn đi t?m
 GECK đi. Chúng ta nguy c?p l?m r?i!}
 {210}{}{Chào, em h?.}
 {211}{}{Chào, em h?.}
