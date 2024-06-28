@@ -12,6 +12,7 @@ variable timer_relief;
 variable msg;
 
 #define TIME_TWO_DAYS 10368000
+#define TIME_THREE_DAYS 15552000
 #define TIME_ONE_WEEK 36288000
 #define INTERFACE_TAG_ADDICT 4
 
@@ -20,6 +21,8 @@ variable msg;
 #define MSG_cravings 2
 #define MSG_shakes 3
 #define MSG_relieved 4
+
+#define SGVAR_last_drink_date "k_alco_d"
 
 /**
  * True is `x` is an alcohol bottle, False otherwise.
@@ -43,8 +46,10 @@ variable msg;
  * @arg {ObjPtr} who - target critter
  * @arg {ObjPtr} item - item being used
  */
-procedure try_addiction(variable who, variable item) begin
-    variable chance;
+procedure drink(variable who, variable item) begin
+    variable roll, chance;
+    variable last_drink_date = get_sfall_global_int(SGVAR_last_drink_date);
+    set_sfall_global(SGVAR_last_drink_date, game_time);
 
     // target is not dude
     if (who != dude_obj) then return;
@@ -53,13 +58,19 @@ procedure try_addiction(variable who, variable item) begin
     // already addicted
     if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then return;
 
-    // player has 10% chance of becoming addicted to alcohol
-    chance = random(1, 100);
+    // regular drinking increases chances
+    if (last_drink_date - game_time >= TIME_ONE_WEEK)
+        then chance = 1;
+    else if (last_drink_date - game_time >= TIME_THREE_DAYS)
+        then chance = 5;
+    else chance = 10;
+    roll = random(1, 100);
+
     // Drug reliant: double chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_addict) then chance = chance * 2;
     // Drug resistant: half chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_resistant) then chance = chance * 0.5;
-    if (chance > 10) then return;
+    if (roll > chance) then return;
 
     display_mymsg(MSG_became_addicted);
     set_critter_stat(dude_obj, STAT_ag, -1);
@@ -72,14 +83,14 @@ end
 procedure use_obj_on_obj_handler begin
     variable who = get_sfall_arg_at(0);
     variable item = get_sfall_arg_at(2);
-    call try_addiction(who, item);
+    call drink(who, item);
 end
 
 // Use from inventory
 procedure use_obj_handler begin
     variable who = get_sfall_arg_at(0);
     variable item = get_sfall_arg_at(1);
-    call try_addiction(who, item);
+    call drink(who, item);
 end
 
 procedure start begin
