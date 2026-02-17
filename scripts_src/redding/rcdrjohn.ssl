@@ -36,7 +36,10 @@
 #include "../headers/modreact.h"
 
 
-#define dr_heal(who)            critter_heal(who,(get_max_hits(who) - get_cur_hits(who)))
+
+#define dr_heal(who) \
+      critter_heal(who,(get_max_hits(who) - get_cur_hits(who))); \
+      critter_uninjure(who, (DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT))
 
 /* Standard Script Procedures */
 procedure start;
@@ -371,7 +374,7 @@ end
 
 procedure Node002a begin
    If_Party_Has_Injured then begin
-       if (How_Many_Party_Members_Armed == 1) then
+       if (How_Many_Party_Members_Are_Injured == 1) then
            call Node003;
        else
            call Node004;

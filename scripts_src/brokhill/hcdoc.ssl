@@ -512,15 +512,15 @@ procedure Node003a begin
       Heal_Cost := 300;
       call Node016;
    end
-   else if( health >= ( dude_max_hits * 9 ) / 10 ) then begin
+   else if( health >= ( get_max_hits(member) * 9 ) / 10 ) then begin
       Heal_Cost := 50;
       call Node012;
    end
-   else if( health >= ( dude_max_hits * 6 ) / 10 ) then begin
+   else if( health >= ( get_max_hits(member) * 6 ) / 10 ) then begin
       Heal_Cost := 100;
       call Node013;
    end
-   else if( health >= ( dude_max_hits * 3 ) / 10 ) then begin
+   else if( health >= ( get_max_hits(member) * 3 ) / 10 ) then begin
       Heal_Cost := 150;
       call Node014;
    end
