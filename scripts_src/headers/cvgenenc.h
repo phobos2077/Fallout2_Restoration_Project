@@ -2,6 +2,8 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
+#include "../sfall/lib.arrays.h"
+
 #ifndef CVGENENC_H
 #define CVGENENC_H
 /*
@@ -241,6 +243,77 @@ procedure placeCritter(variable pid, variable sid, variable baseTile) begin
     end
     else begin
         ndebug("Pid < 1. Pid == "+pid+".");
+    end
+end
+
+procedure PlaceCritterGroup(variable tile) begin
+    variable count;
+
+    count := total_encounter_mobs;
+    while (count > 0) do begin
+        call Choose_Pid;
+        call placeCritter(choose_enc_pid, choose_enc_sid, tile);
+        count -= 1;
+    end
+end
+
+procedure DistributeCritters(variable areaList, variable numActiveAreas) begin
+    variable i, idx, tile;
+
+    ndebug("total_encounter_mobs = " + total_encounter_mobs + ", areas = " + len_array(areaList) + ", numActive = "+numActiveAreas);
+
+    for (i := 0; i < numActiveAreas and len_array(areaList) > 0; i++) begin
+        idx := random(0, len_array(areaList) - 1);
+        tile := areaList[idx];
+        call array_cut(areaList, idx, 1);
+        call PlaceCritterGroup(tile);
+    end
+end
+
+
+procedure LoadGenericChests(variable elev, variable tile1, variable tile2, variable tile3) begin
+    variable obj;
+    
+    ndebug("Making Chests.");
+
+    obj := create_object(PID_CHEST, tile1, elev);
+    if (obj) then begin
+        if (Random(1, 2) == 1) then
+            add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, tile1, elev), Random(1, 5));
+        if (Random(1, 4) == 1) then
+            if (dude_level > 7) then
+                add_obj_to_inven(obj, create_object(PID_POWER_FIST, tile1, elev));
+            else
+                add_obj_to_inven(obj, create_object(PID_CATTLE_PROD, tile1, elev));
+        item_caps_adjust(obj, 20 * Random(1, dude_luck));
+    end
+
+    obj := create_object(PID_CHEST, tile2, elev);
+    if (obj) then begin
+        if (Random(1, 2) == 1) then
+            add_mult_objs_to_inven(obj, create_object(PID_STIMPAK, tile2, elev), Random(1, 5));
+        if (Random(1, 4) == 1) then
+            if (dude_level > 5) then
+                add_obj_to_inven(obj, create_object(PID_SUPER_SLEDGE, tile2, elev));
+            else
+                add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, tile2, elev));
+        item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
+    end
+
+    obj := create_object(PID_CHEST, tile3, elev);
+    if (obj) then begin
+        if (Random(1, 2) == 1) then
+            if (dude_level < 7) then
+                add_mult_objs_to_inven(obj, create_object(PID_FRAG_GRENADE, tile3, elev), Random(1, 5));
+            else
+                add_mult_objs_to_inven(obj, create_object(PID_PLASMA_GRENADE, tile3, elev), Random(1, 5));
+
+        if (Random(1, 4) == 1) then
+            if (dude_level > 10) then
+                add_obj_to_inven(obj, create_object(PID_PLASMA_RIFLE, tile3, elev));
+            else
+                add_obj_to_inven(obj, create_object(PID_HUNTING_RIFLE, tile3, elev));
+        item_caps_adjust(obj, 20 * Random(dude_luck, dude_luck * dude_luck));
     end
 end
 
