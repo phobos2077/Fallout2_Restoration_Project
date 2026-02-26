@@ -182,5 +182,5 @@ end
 procedure LoadChests begin
    variable obj;
 
-   call LoadGenericChests(1, CHEST_1, CHEST_2, CHEST_3);
+   call LoadGenericChests(2, CHEST_1, CHEST_2, CHEST_3);
 end
